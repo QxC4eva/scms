@@ -1,1677 +1,1678 @@
 
-Absorb:
-   introduction: rb
+moves:
+  Absorb:
+    introduction: rb
 
-Acid:
-   introduction: rb
+  Acid:
+    introduction: rb
 
-Acid Armor:
-   introduction: rb
+  Acid Armor:
+    introduction: rb
 
-Acid Spray:
-   introduction: bw
+  Acid Spray:
+    introduction: bw
 
-Acrobatics:
-   introduction: bw
+  Acrobatics:
+    introduction: bw
 
-Acupressure:
-   introduction: dp
+  Acupressure:
+    introduction: dp
 
-Aerial Ace:
-   introduction: rs
+  Aerial Ace:
+    introduction: rs
 
-Aeroblast:
-   introduction: gs
+  Aeroblast:
+    introduction: gs
 
-After You:
-   introduction: bw
+  After You:
+    introduction: bw
 
-Agility:
-   introduction: rb
+  Agility:
+    introduction: rb
 
-Air Cutter:
-   introduction: rs
+  Air Cutter:
+    introduction: rs
 
-Air Slash:
-   introduction: dp
+  Air Slash:
+    introduction: dp
 
-Ally Switch:
-   introduction: bw
+  Ally Switch:
+    introduction: bw
 
-Amnesia:
-   introduction: rb
+  Amnesia:
+    introduction: rb
 
-AncientPower:
-   introduction: gs
+  AncientPower:
+    introduction: gs
 
-Aqua Jet:
-   introduction: dp
+  Aqua Jet:
+    introduction: dp
 
-Aqua Ring:
-   introduction: dp
+  Aqua Ring:
+    introduction: dp
 
-Aqua Tail:
-   introduction: dp
+  Aqua Tail:
+    introduction: dp
 
-Arm Thrust:
-   introduction: rs
+  Arm Thrust:
+    introduction: rs
 
-Aromatherapy:
-   introduction: rs
+  Aromatherapy:
+    introduction: rs
 
-Assist:
-   introduction: rs
+  Assist:
+    introduction: rs
 
-Assurance:
-   introduction: dp
+  Assurance:
+    introduction: dp
 
-Astonish:
-   introduction: rs
+  Astonish:
+    introduction: rs
 
-Attack Order:
-   introduction: dp
+  Attack Order:
+    introduction: dp
 
-Attract:
-   introduction: gs
+  Attract:
+    introduction: gs
 
-Aura Sphere:
-   introduction: dp
+  Aura Sphere:
+    introduction: dp
 
-Aurora Beam:
-   introduction: rb
+  Aurora Beam:
+    introduction: rb
 
-Autotomize:
-   introduction: bw
+  Autotomize:
+    introduction: bw
 
-Avalanche:
-   introduction: dp
+  Avalanche:
+    introduction: dp
 
-Barrage:
-   introduction: rb
+  Barrage:
+    introduction: rb
 
-Barrier:
-   introduction: rb
+  Barrier:
+    introduction: rb
 
-Baton Pass:
-   introduction: gs
+  Baton Pass:
+    introduction: gs
 
-Beat Up:
-   introduction: gs
+  Beat Up:
+    introduction: gs
 
-Belly Drum:
-   introduction: gs
+  Belly Drum:
+    introduction: gs
 
-Bestow:
-   introduction: bw
+  Bestow:
+    introduction: bw
 
-Bide:
-   introduction: rb
+  Bide:
+    introduction: rb
 
-Bind:
-   introduction: rb
+  Bind:
+    introduction: rb
 
-Bite:
-   introduction: rb
+  Bite:
+    introduction: rb
 
-Blast Burn:
-   introduction: rs
+  Blast Burn:
+    introduction: rs
 
-Blaze Kick:
-   introduction: rs
+  Blaze Kick:
+    introduction: rs
 
-Blizzard:
-   introduction: rb
+  Blizzard:
+    introduction: rb
 
-Block:
-   introduction: rs
+  Block:
+    introduction: rs
 
-Blue Flare:
-   introduction: bw
+  Blue Flare:
+    introduction: bw
 
-Body Slam:
-   introduction: rb
+  Body Slam:
+    introduction: rb
 
-Bolt Strike:
-   introduction: bw
+  Bolt Strike:
+    introduction: bw
 
-Bone Club:
-   introduction: rb
+  Bone Club:
+    introduction: rb
 
-Bone Rush:
-   introduction: gs
+  Bone Rush:
+    introduction: gs
 
-Bonemerang:
-   introduction: rb
+  Bonemerang:
+    introduction: rb
 
-Bounce:
-   introduction: rs
+  Bounce:
+    introduction: rs
 
-Brave Bird:
-   introduction: dp
+  Brave Bird:
+    introduction: dp
 
-Brick Break:
-   introduction: rs
+  Brick Break:
+    introduction: rs
 
-Brine:
-   introduction: dp
+  Brine:
+    introduction: dp
 
-Bubble:
-   introduction: rb
+  Bubble:
+    introduction: rb
 
-BubbleBeam:
-   introduction: rb
+  BubbleBeam:
+    introduction: rb
 
-Bug Bite:
-   introduction: dp
+  Bug Bite:
+    introduction: dp
 
-Bug Buzz:
-   introduction: dp
+  Bug Buzz:
+    introduction: dp
 
-Bulk Up:
-   introduction: rs
+  Bulk Up:
+    introduction: rs
 
-Bulldoze:
-   introduction: bw
+  Bulldoze:
+    introduction: bw
 
-Bullet Punch:
-   introduction: dp
+  Bullet Punch:
+    introduction: dp
 
-Bullet Seed:
-   introduction: rs
+  Bullet Seed:
+    introduction: rs
 
-Calm Mind:
-   introduction: rs
+  Calm Mind:
+    introduction: rs
 
-Camouflage:
-   introduction: rs
+  Camouflage:
+    introduction: rs
 
-Captivate:
-   introduction: dp
+  Captivate:
+    introduction: dp
 
-Charge:
-   introduction: rs
+  Charge:
+    introduction: rs
 
-Charge Beam:
-   introduction: dp
+  Charge Beam:
+    introduction: dp
 
-Charm:
-   introduction: gs
+  Charm:
+    introduction: gs
 
-Chatter:
-   introduction: dp
+  Chatter:
+    introduction: dp
 
-Chip Away:
-   introduction: bw
+  Chip Away:
+    introduction: bw
 
-Circle Throw:
-   introduction: bw
+  Circle Throw:
+    introduction: bw
 
-Clamp:
-   introduction: rb
+  Clamp:
+    introduction: rb
 
-Clear Smog:
-   introduction: bw
+  Clear Smog:
+    introduction: bw
 
-Close Combat:
-   introduction: dp
+  Close Combat:
+    introduction: dp
 
-Coil:
-   introduction: bw
+  Coil:
+    introduction: bw
 
-Comet Punch:
-   introduction: rb
+  Comet Punch:
+    introduction: rb
 
-Confuse Ray:
-   introduction: rb
+  Confuse Ray:
+    introduction: rb
 
-Confusion:
-   introduction: rb
+  Confusion:
+    introduction: rb
 
-Constrict:
-   introduction: rb
+  Constrict:
+    introduction: rb
 
-Conversion:
-   introduction: rb
+  Conversion:
+    introduction: rb
 
-Conversion 2:
-   introduction: gs
+  Conversion 2:
+    introduction: gs
 
-Copycat:
-   introduction: dp
+  Copycat:
+    introduction: dp
 
-Cosmic Power:
-   introduction: rs
+  Cosmic Power:
+    introduction: rs
 
-Cotton Guard:
-   introduction: bw
+  Cotton Guard:
+    introduction: bw
 
-Cotton Spore:
-   introduction: gs
+  Cotton Spore:
+    introduction: gs
 
-Counter:
-   introduction: rb
+  Counter:
+    introduction: rb
 
-Covet:
-   introduction: rs
+  Covet:
+    introduction: rs
 
-Crabhammer:
-   introduction: rb
+  Crabhammer:
+    introduction: rb
 
-Cross Chop:
-   introduction: gs
+  Cross Chop:
+    introduction: gs
 
-Cross Poison:
-   introduction: dp
+  Cross Poison:
+    introduction: dp
 
-Crunch:
-   introduction: gs
+  Crunch:
+    introduction: gs
 
-Crush Claw:
-   introduction: rs
+  Crush Claw:
+    introduction: rs
 
-Crush Grip:
-   introduction: dp
+  Crush Grip:
+    introduction: dp
 
-Curse:
-   introduction: gs
+  Curse:
+    introduction: gs
 
-Cut:
-   introduction: rb
+  Cut:
+    introduction: rb
 
-Dark Pulse:
-   introduction: dp
+  Dark Pulse:
+    introduction: dp
 
-Dark Void:
-   introduction: dp
+  Dark Void:
+    introduction: dp
 
-Defend Order:
-   introduction: dp
+  Defend Order:
+    introduction: dp
 
-Defense Curl:
-   introduction: rb
+  Defense Curl:
+    introduction: rb
 
-Defog:
-   introduction: dp
+  Defog:
+    introduction: dp
 
-Destiny Bond:
-   introduction: gs
+  Destiny Bond:
+    introduction: gs
 
-Detect:
-   introduction: gs
+  Detect:
+    introduction: gs
 
-Dig:
-   introduction: rb
+  Dig:
+    introduction: rb
 
-Disable:
-   introduction: rb
+  Disable:
+    introduction: rb
 
-Discharge:
-   introduction: dp
+  Discharge:
+    introduction: dp
 
-Dive:
-   introduction: rs
+  Dive:
+    introduction: rs
 
-Dizzy Punch:
-   introduction: rb
+  Dizzy Punch:
+    introduction: rb
 
-Doom Desire:
-   introduction: rs
+  Doom Desire:
+    introduction: rs
 
-Double Hit:
-   introduction: dp
+  Double Hit:
+    introduction: dp
 
-Double Kick:
-   introduction: rb
+  Double Kick:
+    introduction: rb
 
-Double Team:
-   introduction: rb
+  Double Team:
+    introduction: rb
 
-Double-Edge:
-   introduction: rb
+  Double-Edge:
+    introduction: rb
 
-DoubleSlap:
-   introduction: rb
+  DoubleSlap:
+    introduction: rb
 
-Draco Meteor:
-   introduction: dp
+  Draco Meteor:
+    introduction: dp
 
-Dragon Claw:
-   introduction: rs
+  Dragon Claw:
+    introduction: rs
 
-Dragon Dance:
-   introduction: rs
+  Dragon Dance:
+    introduction: rs
 
-Dragon Pulse:
-   introduction: dp
+  Dragon Pulse:
+    introduction: dp
 
-Dragon Rage:
-   introduction: rb
+  Dragon Rage:
+    introduction: rb
 
-Dragon Rush:
-   introduction: dp
+  Dragon Rush:
+    introduction: dp
 
-Dragon Tail:
-   introduction: bw
+  Dragon Tail:
+    introduction: bw
 
-DragonBreath:
-   introduction: gs
+  DragonBreath:
+    introduction: gs
 
-Drain Punch:
-   introduction: dp
+  Drain Punch:
+    introduction: dp
 
-Dream Eater:
-   introduction: rb
+  Dream Eater:
+    introduction: rb
 
-Drill Peck:
-   introduction: rb
+  Drill Peck:
+    introduction: rb
 
-Drill Run:
-   introduction: bw
+  Drill Run:
+    introduction: bw
 
-Dual Chop:
-   introduction: bw
+  Dual Chop:
+    introduction: bw
 
-DynamicPunch:
-   introduction: gs
+  DynamicPunch:
+    introduction: gs
 
-Earth Power:
-   introduction: dp
+  Earth Power:
+    introduction: dp
 
-Earthquake:
-   introduction: rb
+  Earthquake:
+    introduction: rb
 
-Echoed Voice:
-   introduction: bw
+  Echoed Voice:
+    introduction: bw
 
-Egg Bomb:
-   introduction: rb
+  Egg Bomb:
+    introduction: rb
 
-Electro Ball:
-   introduction: bw
+  Electro Ball:
+    introduction: bw
 
-Electroweb:
-   introduction: bw
+  Electroweb:
+    introduction: bw
 
-Embargo:
-   introduction: dp
+  Embargo:
+    introduction: dp
 
-Ember:
-   introduction: rb
+  Ember:
+    introduction: rb
 
-Encore:
-   introduction: gs
+  Encore:
+    introduction: gs
 
-Endeavor:
-   introduction: rs
+  Endeavor:
+    introduction: rs
 
-Endure:
-   introduction: gs
+  Endure:
+    introduction: gs
 
-Energy Ball:
-   introduction: dp
+  Energy Ball:
+    introduction: dp
 
-Entrainment:
-   introduction: bw
+  Entrainment:
+    introduction: bw
 
-Eruption:
-   introduction: rs
+  Eruption:
+    introduction: rs
 
-Explosion:
-   introduction: rb
+  Explosion:
+    introduction: rb
 
-Extrasensory:
-   introduction: rs
+  Extrasensory:
+    introduction: rs
 
-ExtremeSpeed:
-   introduction: gs
+  ExtremeSpeed:
+    introduction: gs
 
-Facade:
-   introduction: rs
+  Facade:
+    introduction: rs
 
-Faint Attack:
-   introduction: gs
+  Faint Attack:
+    introduction: gs
 
-Fake Out:
-   introduction: rs
+  Fake Out:
+    introduction: rs
 
-Fake Tears:
-   introduction: rs
+  Fake Tears:
+    introduction: rs
 
-False Swipe:
-   introduction: gs
+  False Swipe:
+    introduction: gs
 
-FeatherDance:
-   introduction: rs
+  FeatherDance:
+    introduction: rs
 
-Feint:
-   introduction: dp
+  Feint:
+    introduction: dp
 
-Fiery Dance:
-   introduction: bw
+  Fiery Dance:
+    introduction: bw
 
-Final Gambit:
-   introduction: bw
+  Final Gambit:
+    introduction: bw
 
-Fire Blast:
-   introduction: rb
+  Fire Blast:
+    introduction: rb
 
-Fire Fang:
-   introduction: dp
+  Fire Fang:
+    introduction: dp
 
-Fire Pledge:
-   introduction: bw
+  Fire Pledge:
+    introduction: bw
 
-Fire Punch:
-   introduction: rb
+  Fire Punch:
+    introduction: rb
 
-Fire Spin:
-   introduction: rb
+  Fire Spin:
+    introduction: rb
 
-Fissure:
-   introduction: rb
+  Fissure:
+    introduction: rb
 
-Flail:
-   introduction: gs
+  Flail:
+    introduction: gs
 
-Flame Burst:
-   introduction: bw
+  Flame Burst:
+    introduction: bw
 
-Flame Charge:
-   introduction: bw
+  Flame Charge:
+    introduction: bw
 
-Flame Wheel:
-   introduction: gs
+  Flame Wheel:
+    introduction: gs
 
-Flamethrower:
-   introduction: rb
+  Flamethrower:
+    introduction: rb
 
-Flare Blitz:
-   introduction: dp
+  Flare Blitz:
+    introduction: dp
 
-Flash:
-   introduction: rb
+  Flash:
+    introduction: rb
 
-Flash Cannon:
-   introduction: dp
+  Flash Cannon:
+    introduction: dp
 
-Flatter:
-   introduction: rs
+  Flatter:
+    introduction: rs
 
-Fling:
-   introduction: dp
+  Fling:
+    introduction: dp
 
-Fly:
-   introduction: rb
+  Fly:
+    introduction: rb
 
-Focus Blast:
-   introduction: dp
+  Focus Blast:
+    introduction: dp
 
-Focus Energy:
-   introduction: rb
+  Focus Energy:
+    introduction: rb
 
-Focus Punch:
-   introduction: rs
+  Focus Punch:
+    introduction: rs
 
-Follow Me:
-   introduction: rs
+  Follow Me:
+    introduction: rs
 
-Force Palm:
-   introduction: dp
+  Force Palm:
+    introduction: dp
 
-Foresight:
-   introduction: gs
+  Foresight:
+    introduction: gs
 
-Foul Play:
-   introduction: bw
+  Foul Play:
+    introduction: bw
 
-Freeze Shock:
-   introduction: bw
+  Freeze Shock:
+    introduction: bw
 
-Frenzy Plant:
-   introduction: rs
+  Frenzy Plant:
+    introduction: rs
 
-Frost Breath:
-   introduction: bw
+  Frost Breath:
+    introduction: bw
 
-Frustration:
-   introduction: gs
+  Frustration:
+    introduction: gs
 
-Fury Attack:
-   introduction: rb
+  Fury Attack:
+    introduction: rb
 
-Fury Cutter:
-   introduction: gs
+  Fury Cutter:
+    introduction: gs
 
-Fury Swipes:
-   introduction: rb
+  Fury Swipes:
+    introduction: rb
 
-Fusion Bolt:
-   introduction: bw
+  Fusion Bolt:
+    introduction: bw
 
-Fusion Flare:
-   introduction: bw
+  Fusion Flare:
+    introduction: bw
 
-Future Sight:
-   introduction: gs
+  Future Sight:
+    introduction: gs
 
-Gastro Acid:
-   introduction: dp
+  Gastro Acid:
+    introduction: dp
 
-Gear Grind:
-   introduction: bw
+  Gear Grind:
+    introduction: bw
 
-Giga Drain:
-   introduction: gs
+  Giga Drain:
+    introduction: gs
 
-Giga Impact:
-   introduction: dp
+  Giga Impact:
+    introduction: dp
 
-Glaciate:
-   introduction: bw
+  Glaciate:
+    introduction: bw
 
-Glare:
-   introduction: rb
+  Glare:
+    introduction: rb
 
-Grass Knot:
-   introduction: dp
+  Grass Knot:
+    introduction: dp
 
-Grass Pledge:
-   introduction: bw
+  Grass Pledge:
+    introduction: bw
 
-GrassWhistle:
-   introduction: rs
+  GrassWhistle:
+    introduction: rs
 
-Gravity:
-   introduction: dp
+  Gravity:
+    introduction: dp
 
-Growl:
-   introduction: rb
+  Growl:
+    introduction: rb
 
-Growth:
-   introduction: rb
+  Growth:
+    introduction: rb
 
-Grudge:
-   introduction: rs
+  Grudge:
+    introduction: rs
 
-Guard Split:
-   introduction: bw
+  Guard Split:
+    introduction: bw
 
-Guard Swap:
-   introduction: dp
+  Guard Swap:
+    introduction: dp
 
-Guillotine:
-   introduction: rb
+  Guillotine:
+    introduction: rb
 
-Gunk Shot:
-   introduction: dp
+  Gunk Shot:
+    introduction: dp
 
-Gust:
-   introduction: rb
+  Gust:
+    introduction: rb
 
-Gyro Ball:
-   introduction: dp
+  Gyro Ball:
+    introduction: dp
 
-Hail:
-   introduction: rs
+  Hail:
+    introduction: rs
 
-Hammer Arm:
-   introduction: dp
+  Hammer Arm:
+    introduction: dp
 
-Harden:
-   introduction: rb
+  Harden:
+    introduction: rb
 
-Haze:
-   introduction: rb
+  Haze:
+    introduction: rb
 
-Head Charge:
-   introduction: bw
+  Head Charge:
+    introduction: bw
 
-Head Smash:
-   introduction: dp
+  Head Smash:
+    introduction: dp
 
-Headbutt:
-   introduction: rb
+  Headbutt:
+    introduction: rb
 
-Heal Bell:
-   introduction: gs
+  Heal Bell:
+    introduction: gs
 
-Heal Block:
-   introduction: dp
+  Heal Block:
+    introduction: dp
 
-Heal Order:
-   introduction: dp
+  Heal Order:
+    introduction: dp
 
-Heal Pulse:
-   introduction: bw
+  Heal Pulse:
+    introduction: bw
 
-Healing Wish:
-   introduction: dp
+  Healing Wish:
+    introduction: dp
 
-Heart Stamp:
-   introduction: bw
+  Heart Stamp:
+    introduction: bw
 
-Heart Swap:
-   introduction: dp
+  Heart Swap:
+    introduction: dp
 
-Heat Crash:
-   introduction: bw
+  Heat Crash:
+    introduction: bw
 
-Heat Wave:
-   introduction: rs
+  Heat Wave:
+    introduction: rs
 
-Heavy Slam:
-   introduction: bw
+  Heavy Slam:
+    introduction: bw
 
-Helping Hand:
-   introduction: rs
+  Helping Hand:
+    introduction: rs
 
-Hex:
-   introduction: bw
+  Hex:
+    introduction: bw
 
-Hi Jump Kick:
-   introduction: rb
+  Hi Jump Kick:
+    introduction: rb
 
-Hidden Power:
-   introduction: gs
+  Hidden Power:
+    introduction: gs
 
-Hone Claws:
-   introduction: bw
+  Hone Claws:
+    introduction: bw
 
-Horn Attack:
-   introduction: rb
+  Horn Attack:
+    introduction: rb
 
-Horn Drill:
-   introduction: rb
+  Horn Drill:
+    introduction: rb
 
-Horn Leech:
-   introduction: bw
+  Horn Leech:
+    introduction: bw
 
-Howl:
-   introduction: rs
+  Howl:
+    introduction: rs
 
-Hurricane:
-   introduction: bw
+  Hurricane:
+    introduction: bw
 
-Hydro Cannon:
-   introduction: rs
+  Hydro Cannon:
+    introduction: rs
 
-Hydro Pump:
-   introduction: rb
+  Hydro Pump:
+    introduction: rb
 
-Hyper Beam:
-   introduction: rb
+  Hyper Beam:
+    introduction: rb
 
-Hyper Fang:
-   introduction: rb
+  Hyper Fang:
+    introduction: rb
 
-Hyper Voice:
-   introduction: rs
+  Hyper Voice:
+    introduction: rs
 
-Hypnosis:
-   introduction: rb
+  Hypnosis:
+    introduction: rb
 
-Ice Ball:
-   introduction: rs
+  Ice Ball:
+    introduction: rs
 
-Ice Beam:
-   introduction: rb
+  Ice Beam:
+    introduction: rb
 
-Ice Burn:
-   introduction: bw
+  Ice Burn:
+    introduction: bw
 
-Ice Fang:
-   introduction: dp
+  Ice Fang:
+    introduction: dp
 
-Ice Punch:
-   introduction: rb
+  Ice Punch:
+    introduction: rb
 
-Ice Shard:
-   introduction: dp
+  Ice Shard:
+    introduction: dp
 
-Icicle Crash:
-   introduction: bw
+  Icicle Crash:
+    introduction: bw
 
-Icicle Spear:
-   introduction: rs
+  Icicle Spear:
+    introduction: rs
 
-Icy Wind:
-   introduction: gs
+  Icy Wind:
+    introduction: gs
 
-Imprison:
-   introduction: rs
+  Imprison:
+    introduction: rs
 
-Incinerate:
-   introduction: bw
+  Incinerate:
+    introduction: bw
 
-Inferno:
-   introduction: bw
+  Inferno:
+    introduction: bw
 
-Ingrain:
-   introduction: rs
+  Ingrain:
+    introduction: rs
 
-Iron Defense:
-   introduction: rs
+  Iron Defense:
+    introduction: rs
 
-Iron Head:
-   introduction: dp
+  Iron Head:
+    introduction: dp
 
-Iron Tail:
-   introduction: gs
+  Iron Tail:
+    introduction: gs
 
-Judgment:
-   introduction: dp
+  Judgment:
+    introduction: dp
 
-Jump Kick:
-   introduction: rb
+  Jump Kick:
+    introduction: rb
 
-Karate Chop:
-   introduction: rb
+  Karate Chop:
+    introduction: rb
 
-Kinesis:
-   introduction: rb
+  Kinesis:
+    introduction: rb
 
-Knock Off:
-   introduction: rs
+  Knock Off:
+    introduction: rs
 
-Last Resort:
-   introduction: dp
+  Last Resort:
+    introduction: dp
 
-Lava Plume:
-   introduction: dp
+  Lava Plume:
+    introduction: dp
 
-Leaf Blade:
-   introduction: rs
+  Leaf Blade:
+    introduction: rs
 
-Leaf Storm:
-   introduction: dp
+  Leaf Storm:
+    introduction: dp
 
-Leaf Tornado:
-   introduction: bw
+  Leaf Tornado:
+    introduction: bw
 
-Leech Life:
-   introduction: rb
+  Leech Life:
+    introduction: rb
 
-Leech Seed:
-   introduction: rb
+  Leech Seed:
+    introduction: rb
 
-Leer:
-   introduction: rb
+  Leer:
+    introduction: rb
 
-Lick:
-   introduction: rb
+  Lick:
+    introduction: rb
 
-Light Screen:
-   introduction: rb
+  Light Screen:
+    introduction: rb
 
-Lock-On:
-   introduction: gs
+  Lock-On:
+    introduction: gs
 
-Lovely Kiss:
-   introduction: rb
+  Lovely Kiss:
+    introduction: rb
 
-Low Kick:
-   introduction: rb
+  Low Kick:
+    introduction: rb
 
-Low Sweep:
-   introduction: bw
+  Low Sweep:
+    introduction: bw
 
-Lucky Chant:
-   introduction: dp
+  Lucky Chant:
+    introduction: dp
 
-Lunar Dance:
-   introduction: dp
+  Lunar Dance:
+    introduction: dp
 
-Luster Purge:
-   introduction: rs
+  Luster Purge:
+    introduction: rs
 
-Mach Punch:
-   introduction: gs
+  Mach Punch:
+    introduction: gs
 
-Magic Coat:
-   introduction: rs
+  Magic Coat:
+    introduction: rs
 
-Magic Room:
-   introduction: bw
+  Magic Room:
+    introduction: bw
 
-Magical Leaf:
-   introduction: rs
+  Magical Leaf:
+    introduction: rs
 
-Magma Storm:
-   introduction: dp
+  Magma Storm:
+    introduction: dp
 
-Magnet Bomb:
-   introduction: dp
+  Magnet Bomb:
+    introduction: dp
 
-Magnet Rise:
-   introduction: dp
+  Magnet Rise:
+    introduction: dp
 
-Magnitude:
-   introduction: gs
+  Magnitude:
+    introduction: gs
 
-Me First:
-   introduction: dp
+  Me First:
+    introduction: dp
 
-Mean Look:
-   introduction: gs
+  Mean Look:
+    introduction: gs
 
-Meditate:
-   introduction: rb
+  Meditate:
+    introduction: rb
 
-Mega Drain:
-   introduction: rb
+  Mega Drain:
+    introduction: rb
 
-Mega Kick:
-   introduction: rb
+  Mega Kick:
+    introduction: rb
 
-Mega Punch:
-   introduction: rb
+  Mega Punch:
+    introduction: rb
 
-Megahorn:
-   introduction: gs
+  Megahorn:
+    introduction: gs
 
-Memento:
-   introduction: rs
+  Memento:
+    introduction: rs
 
-Metal Burst:
-   introduction: dp
+  Metal Burst:
+    introduction: dp
 
-Metal Claw:
-   introduction: gs
+  Metal Claw:
+    introduction: gs
 
-Metal Sound:
-   introduction: rs
+  Metal Sound:
+    introduction: rs
 
-Meteor Mash:
-   introduction: rs
+  Meteor Mash:
+    introduction: rs
 
-Metronome:
-   introduction: rb
+  Metronome:
+    introduction: rb
 
-Milk Drink:
-   introduction: gs
+  Milk Drink:
+    introduction: gs
 
-Mimic:
-   introduction: rb
+  Mimic:
+    introduction: rb
 
-Mind Reader:
-   introduction: gs
+  Mind Reader:
+    introduction: gs
 
-Minimize:
-   introduction: rb
+  Minimize:
+    introduction: rb
 
-Miracle Eye:
-   introduction: dp
+  Miracle Eye:
+    introduction: dp
 
-Mirror Coat:
-   introduction: gs
+  Mirror Coat:
+    introduction: gs
 
-Mirror Move:
-   introduction: rb
+  Mirror Move:
+    introduction: rb
 
-Mirror Shot:
-   introduction: dp
+  Mirror Shot:
+    introduction: dp
 
-Mist:
-   introduction: rb
+  Mist:
+    introduction: rb
 
-Mist Ball:
-   introduction: rs
+  Mist Ball:
+    introduction: rs
 
-Moonlight:
-   introduction: gs
+  Moonlight:
+    introduction: gs
 
-Morning Sun:
-   introduction: gs
+  Morning Sun:
+    introduction: gs
 
-Mud Bomb:
-   introduction: dp
+  Mud Bomb:
+    introduction: dp
 
-Mud Shot:
-   introduction: rs
+  Mud Shot:
+    introduction: rs
 
-Mud Sport:
-   introduction: rs
+  Mud Sport:
+    introduction: rs
 
-Mud-Slap:
-   introduction: gs
+  Mud-Slap:
+    introduction: gs
 
-Muddy Water:
-   introduction: rs
+  Muddy Water:
+    introduction: rs
 
-Nasty Plot:
-   introduction: dp
+  Nasty Plot:
+    introduction: dp
 
-Natural Gift:
-   introduction: dp
+  Natural Gift:
+    introduction: dp
 
-Nature Power:
-   introduction: rs
+  Nature Power:
+    introduction: rs
 
-Needle Arm:
-   introduction: rs
+  Needle Arm:
+    introduction: rs
 
-Night Daze:
-   introduction: bw
+  Night Daze:
+    introduction: bw
 
-Night Shade:
-   introduction: rb
+  Night Shade:
+    introduction: rb
 
-Night Slash:
-   introduction: dp
+  Night Slash:
+    introduction: dp
 
-Nightmare:
-   introduction: gs
+  Nightmare:
+    introduction: gs
 
-Octazooka:
-   introduction: gs
+  Octazooka:
+    introduction: gs
 
-Odor Sleuth:
-   introduction: rs
+  Odor Sleuth:
+    introduction: rs
 
-Ominous Wind:
-   introduction: dp
+  Ominous Wind:
+    introduction: dp
 
-Outrage:
-   introduction: gs
+  Outrage:
+    introduction: gs
 
-Overheat:
-   introduction: rs
+  Overheat:
+    introduction: rs
 
-Pain Split:
-   introduction: gs
+  Pain Split:
+    introduction: gs
 
-Pay Day:
-   introduction: rb
+  Pay Day:
+    introduction: rb
 
-Payback:
-   introduction: dp
+  Payback:
+    introduction: dp
 
-Peck:
-   introduction: rb
+  Peck:
+    introduction: rb
 
-Perish Song:
-   introduction: gs
+  Perish Song:
+    introduction: gs
 
-Petal Dance:
-   introduction: rb
+  Petal Dance:
+    introduction: rb
 
-Pin Missile:
-   introduction: rb
+  Pin Missile:
+    introduction: rb
 
-Pluck:
-   introduction: dp
+  Pluck:
+    introduction: dp
 
-Poison Fang:
-   introduction: rs
+  Poison Fang:
+    introduction: rs
 
-Poison Gas:
-   introduction: rb
+  Poison Gas:
+    introduction: rb
 
-Poison Jab:
-   introduction: dp
+  Poison Jab:
+    introduction: dp
 
-Poison Sting:
-   introduction: rb
+  Poison Sting:
+    introduction: rb
 
-Poison Tail:
-   introduction: rs
+  Poison Tail:
+    introduction: rs
 
-PoisonPowder:
-   introduction: rb
+  PoisonPowder:
+    introduction: rb
 
-Pound:
-   introduction: rb
+  Pound:
+    introduction: rb
 
-Powder Snow:
-   introduction: gs
+  Powder Snow:
+    introduction: gs
 
-Power Gem:
-   introduction: dp
+  Power Gem:
+    introduction: dp
 
-Power Split:
-   introduction: bw
+  Power Split:
+    introduction: bw
 
-Power Swap:
-   introduction: dp
+  Power Swap:
+    introduction: dp
 
-Power Trick:
-   introduction: dp
+  Power Trick:
+    introduction: dp
 
-Power Whip:
-   introduction: dp
+  Power Whip:
+    introduction: dp
 
-Present:
-   introduction: gs
+  Present:
+    introduction: gs
 
-Protect:
-   introduction: gs
+  Protect:
+    introduction: gs
 
-Psybeam:
-   introduction: rb
+  Psybeam:
+    introduction: rb
 
-Psych Up:
-   introduction: gs
+  Psych Up:
+    introduction: gs
 
-Psychic:
-   introduction: rb
+  Psychic:
+    introduction: rb
 
-Psycho Boost:
-   introduction: rs
+  Psycho Boost:
+    introduction: rs
 
-Psycho Cut:
-   introduction: dp
+  Psycho Cut:
+    introduction: dp
 
-Psycho Shift:
-   introduction: dp
+  Psycho Shift:
+    introduction: dp
 
-Psyshock:
-   introduction: bw
+  Psyshock:
+    introduction: bw
 
-Psystrike:
-   introduction: bw
+  Psystrike:
+    introduction: bw
 
-Psywave:
-   introduction: rb
+  Psywave:
+    introduction: rb
 
-Punishment:
-   introduction: dp
+  Punishment:
+    introduction: dp
 
-Pursuit:
-   introduction: gs
+  Pursuit:
+    introduction: gs
 
-Quash:
-   introduction: bw
+  Quash:
+    introduction: bw
 
-Quick Attack:
-   introduction: rb
+  Quick Attack:
+    introduction: rb
 
-Quick Guard:
-   introduction: bw
+  Quick Guard:
+    introduction: bw
 
-Quiver Dance:
-   introduction: bw
+  Quiver Dance:
+    introduction: bw
 
-Rage:
-   introduction: rb
+  Rage:
+    introduction: rb
 
-Rage Powder:
-   introduction: bw
+  Rage Powder:
+    introduction: bw
 
-Rain Dance:
-   introduction: gs
+  Rain Dance:
+    introduction: gs
 
-Rapid Spin:
-   introduction: gs
+  Rapid Spin:
+    introduction: gs
 
-Razor Leaf:
-   introduction: rb
+  Razor Leaf:
+    introduction: rb
 
-Razor Shell:
-   introduction: bw
+  Razor Shell:
+    introduction: bw
 
-Razor Wind:
-   introduction: rb
+  Razor Wind:
+    introduction: rb
 
-Recover:
-   introduction: rb
+  Recover:
+    introduction: rb
 
-Recycle:
-   introduction: rs
+  Recycle:
+    introduction: rs
 
-Reflect:
-   introduction: rb
+  Reflect:
+    introduction: rb
 
-Reflect Type:
-   introduction: bw
+  Reflect Type:
+    introduction: bw
 
-Refresh:
-   introduction: rs
+  Refresh:
+    introduction: rs
 
-Relic Song:
-   introduction: bw
+  Relic Song:
+    introduction: bw
 
-Rest:
-   introduction: rb
+  Rest:
+    introduction: rb
 
-Retaliate:
-   introduction: bw
+  Retaliate:
+    introduction: bw
 
-Return:
-   introduction: gs
+  Return:
+    introduction: gs
 
-Revenge:
-   introduction: rs
+  Revenge:
+    introduction: rs
 
-Reversal:
-   introduction: gs
+  Reversal:
+    introduction: gs
 
-Roar:
-   introduction: rb
+  Roar:
+    introduction: rb
 
-Roar of Time:
-   introduction: dp
+  Roar of Time:
+    introduction: dp
 
-Rock Blast:
-   introduction: rs
+  Rock Blast:
+    introduction: rs
 
-Rock Climb:
-   introduction: dp
+  Rock Climb:
+    introduction: dp
 
-Rock Polish:
-   introduction: dp
+  Rock Polish:
+    introduction: dp
 
-Rock Slide:
-   introduction: rb
+  Rock Slide:
+    introduction: rb
 
-Rock Smash:
-   introduction: gs
+  Rock Smash:
+    introduction: gs
 
-Rock Throw:
-   introduction: rb
+  Rock Throw:
+    introduction: rb
 
-Rock Tomb:
-   introduction: rs
+  Rock Tomb:
+    introduction: rs
 
-Rock Wrecker:
-   introduction: dp
+  Rock Wrecker:
+    introduction: dp
 
-Role Play:
-   introduction: rs
+  Role Play:
+    introduction: rs
 
-Rolling Kick:
-   introduction: rb
+  Rolling Kick:
+    introduction: rb
 
-Rollout:
-   introduction: gs
+  Rollout:
+    introduction: gs
 
-Roost:
-   introduction: dp
+  Roost:
+    introduction: dp
 
-Round:
-   introduction: bw
+  Round:
+    introduction: bw
 
-Sacred Fire:
-   introduction: gs
+  Sacred Fire:
+    introduction: gs
 
-Sacred Sword:
-   introduction: bw
+  Sacred Sword:
+    introduction: bw
 
-Safeguard:
-   introduction: gs
+  Safeguard:
+    introduction: gs
 
-Sand Tomb:
-   introduction: rs
+  Sand Tomb:
+    introduction: rs
 
-Sand-Attack:
-   introduction: rb
+  Sand-Attack:
+    introduction: rb
 
-Sandstorm:
-   introduction: gs
+  Sandstorm:
+    introduction: gs
 
-Scald:
-   introduction: bw
+  Scald:
+    introduction: bw
 
-Scary Face:
-   introduction: gs
+  Scary Face:
+    introduction: gs
 
-Scratch:
-   introduction: rb
+  Scratch:
+    introduction: rb
 
-Screech:
-   introduction: rb
+  Screech:
+    introduction: rb
 
-Searing Shot:
-   introduction: bw
+  Searing Shot:
+    introduction: bw
 
-Secret Power:
-   introduction: rs
+  Secret Power:
+    introduction: rs
 
-Secret Sword:
-   introduction: bw
+  Secret Sword:
+    introduction: bw
 
-Seed Bomb:
-   introduction: dp
+  Seed Bomb:
+    introduction: dp
 
-Seed Flare:
-   introduction: dp
+  Seed Flare:
+    introduction: dp
 
-Seismic Toss:
-   introduction: rb
+  Seismic Toss:
+    introduction: rb
 
-Selfdestruct:
-   introduction: rb
+  Selfdestruct:
+    introduction: rb
 
-Shadow Ball:
-   introduction: gs
+  Shadow Ball:
+    introduction: gs
 
-Shadow Claw:
-   introduction: dp
+  Shadow Claw:
+    introduction: dp
 
-Shadow Force:
-   introduction: dp
+  Shadow Force:
+    introduction: dp
 
-Shadow Punch:
-   introduction: rs
+  Shadow Punch:
+    introduction: rs
 
-Shadow Sneak:
-   introduction: dp
+  Shadow Sneak:
+    introduction: dp
 
-Sharpen:
-   introduction: rb
+  Sharpen:
+    introduction: rb
 
-Sheer Cold:
-   introduction: rs
+  Sheer Cold:
+    introduction: rs
 
-Shell Smash:
-   introduction: bw
+  Shell Smash:
+    introduction: bw
 
-Shift Gear:
-   introduction: bw
+  Shift Gear:
+    introduction: bw
 
-Shock Wave:
-   introduction: rs
+  Shock Wave:
+    introduction: rs
 
-Signal Beam:
-   introduction: rs
+  Signal Beam:
+    introduction: rs
 
-Silver Wind:
-   introduction: rs
+  Silver Wind:
+    introduction: rs
 
-Simple Beam:
-   introduction: bw
+  Simple Beam:
+    introduction: bw
 
-Sing:
-   introduction: rb
+  Sing:
+    introduction: rb
 
-Sketch:
-   introduction: gs
+  Sketch:
+    introduction: gs
 
-Skill Swap:
-   introduction: rs
+  Skill Swap:
+    introduction: rs
 
-Skull Bash:
-   introduction: rb
+  Skull Bash:
+    introduction: rb
 
-Sky Attack:
-   introduction: rb
+  Sky Attack:
+    introduction: rb
 
-Sky Drop:
-   introduction: bw
+  Sky Drop:
+    introduction: bw
 
-Sky Uppercut:
-   introduction: rs
+  Sky Uppercut:
+    introduction: rs
 
-Slack Off:
-   introduction: rs
+  Slack Off:
+    introduction: rs
 
-Slam:
-   introduction: rb
+  Slam:
+    introduction: rb
 
-Slash:
-   introduction: rb
+  Slash:
+    introduction: rb
 
-Sleep Powder:
-   introduction: rb
+  Sleep Powder:
+    introduction: rb
 
-Sleep Talk:
-   introduction: gs
+  Sleep Talk:
+    introduction: gs
 
-Sludge:
-   introduction: rb
+  Sludge:
+    introduction: rb
 
-Sludge Bomb:
-   introduction: gs
+  Sludge Bomb:
+    introduction: gs
 
-Sludge Wave:
-   introduction: bw
+  Sludge Wave:
+    introduction: bw
 
-Smack Down:
-   introduction: bw
+  Smack Down:
+    introduction: bw
 
-SmellingSalt:
-   introduction: rs
+  SmellingSalt:
+    introduction: rs
 
-Smog:
-   introduction: rb
+  Smog:
+    introduction: rb
 
-SmokeScreen:
-   introduction: rb
+  SmokeScreen:
+    introduction: rb
 
-Snarl:
-   introduction: bw
+  Snarl:
+    introduction: bw
 
-Snatch:
-   introduction: rs
+  Snatch:
+    introduction: rs
 
-Snore:
-   introduction: gs
+  Snore:
+    introduction: gs
 
-Soak:
-   introduction: bw
+  Soak:
+    introduction: bw
 
-Softboiled:
-   introduction: rb
+  Softboiled:
+    introduction: rb
 
-SolarBeam:
-   introduction: rb
+  SolarBeam:
+    introduction: rb
 
-SonicBoom:
-   introduction: rb
+  SonicBoom:
+    introduction: rb
 
-Spacial Rend:
-   introduction: dp
+  Spacial Rend:
+    introduction: dp
 
-Spark:
-   introduction: gs
+  Spark:
+    introduction: gs
 
-Spider Web:
-   introduction: gs
+  Spider Web:
+    introduction: gs
 
-Spike Cannon:
-   introduction: rb
+  Spike Cannon:
+    introduction: rb
 
-Spikes:
-   introduction: gs
+  Spikes:
+    introduction: gs
 
-Spit Up:
-   introduction: rs
+  Spit Up:
+    introduction: rs
 
-Spite:
-   introduction: gs
+  Spite:
+    introduction: gs
 
-Splash:
-   introduction: rb
+  Splash:
+    introduction: rb
 
-Spore:
-   introduction: rb
+  Spore:
+    introduction: rb
 
-Stealth Rock:
-   introduction: dp
+  Stealth Rock:
+    introduction: dp
 
-Steamroller:
-   introduction: bw
+  Steamroller:
+    introduction: bw
 
-Steel Wing:
-   introduction: gs
+  Steel Wing:
+    introduction: gs
 
-Stockpile:
-   introduction: rs
+  Stockpile:
+    introduction: rs
 
-Stomp:
-   introduction: rb
+  Stomp:
+    introduction: rb
 
-Stone Edge:
-   introduction: dp
+  Stone Edge:
+    introduction: dp
 
-Stored Power:
-   introduction: bw
+  Stored Power:
+    introduction: bw
 
-Storm Throw:
-   introduction: bw
+  Storm Throw:
+    introduction: bw
 
-Strength:
-   introduction: rb
+  Strength:
+    introduction: rb
 
-String Shot:
-   introduction: rb
+  String Shot:
+    introduction: rb
 
-Struggle:
-   introduction: rb
+  Struggle:
+    introduction: rb
 
-Struggle Bug:
-   introduction: bw
+  Struggle Bug:
+    introduction: bw
 
-Stun Spore:
-   introduction: rb
+  Stun Spore:
+    introduction: rb
 
-Submission:
-   introduction: rb
+  Submission:
+    introduction: rb
 
-Substitute:
-   introduction: rb
+  Substitute:
+    introduction: rb
 
-Sucker Punch:
-   introduction: dp
+  Sucker Punch:
+    introduction: dp
 
-Sunny Day:
-   introduction: gs
+  Sunny Day:
+    introduction: gs
 
-Super Fang:
-   introduction: rb
+  Super Fang:
+    introduction: rb
 
-Superpower:
-   introduction: rs
+  Superpower:
+    introduction: rs
 
-Supersonic:
-   introduction: rb
+  Supersonic:
+    introduction: rb
 
-Surf:
-   introduction: rb
+  Surf:
+    introduction: rb
 
-Swagger:
-   introduction: gs
+  Swagger:
+    introduction: gs
 
-Swallow:
-   introduction: rs
+  Swallow:
+    introduction: rs
 
-Sweet Kiss:
-   introduction: gs
+  Sweet Kiss:
+    introduction: gs
 
-Sweet Scent:
-   introduction: gs
+  Sweet Scent:
+    introduction: gs
 
-Swift:
-   introduction: rb
+  Swift:
+    introduction: rb
 
-Switcheroo:
-   introduction: dp
+  Switcheroo:
+    introduction: dp
 
-Swords Dance:
-   introduction: rb
+  Swords Dance:
+    introduction: rb
 
-Synchronoise:
-   introduction: bw
+  Synchronoise:
+    introduction: bw
 
-Synthesis:
-   introduction: gs
+  Synthesis:
+    introduction: gs
 
-Tackle:
-   introduction: rb
+  Tackle:
+    introduction: rb
 
-Tail Glow:
-   introduction: rs
+  Tail Glow:
+    introduction: rs
 
-Tail Slap:
-   introduction: bw
+  Tail Slap:
+    introduction: bw
 
-Tail Whip:
-   introduction: rb
+  Tail Whip:
+    introduction: rb
 
-Tailwind:
-   introduction: dp
+  Tailwind:
+    introduction: dp
 
-Take Down:
-   introduction: rb
+  Take Down:
+    introduction: rb
 
-Taunt:
-   introduction: rs
+  Taunt:
+    introduction: rs
 
-Techno Blast:
-   introduction: bw
+  Techno Blast:
+    introduction: bw
 
-Teeter Dance:
-   introduction: rs
+  Teeter Dance:
+    introduction: rs
 
-Telekinesis:
-   introduction: bw
+  Telekinesis:
+    introduction: bw
 
-Teleport:
-   introduction: rb
+  Teleport:
+    introduction: rb
 
-Thief:
-   introduction: gs
+  Thief:
+    introduction: gs
 
-Thrash:
-   introduction: rb
+  Thrash:
+    introduction: rb
 
-Thunder:
-   introduction: rb
+  Thunder:
+    introduction: rb
 
-Thunder Fang:
-   introduction: dp
+  Thunder Fang:
+    introduction: dp
 
-Thunder Wave:
-   introduction: rb
+  Thunder Wave:
+    introduction: rb
 
-ThunderPunch:
-   introduction: rb
+  ThunderPunch:
+    introduction: rb
 
-ThunderShock:
-   introduction: rb
+  ThunderShock:
+    introduction: rb
 
-Thunderbolt:
-   introduction: rb
+  Thunderbolt:
+    introduction: rb
 
-Tickle:
-   introduction: rs
+  Tickle:
+    introduction: rs
 
-Torment:
-   introduction: rs
+  Torment:
+    introduction: rs
 
-Toxic:
-   introduction: rb
+  Toxic:
+    introduction: rb
 
-Toxic Spikes:
-   introduction: dp
+  Toxic Spikes:
+    introduction: dp
 
-Transform:
-   introduction: rb
+  Transform:
+    introduction: rb
 
-Tri Attack:
-   introduction: rb
+  Tri Attack:
+    introduction: rb
 
-Trick:
-   introduction: rs
+  Trick:
+    introduction: rs
 
-Trick Room:
-   introduction: dp
+  Trick Room:
+    introduction: dp
 
-Triple Kick:
-   introduction: gs
+  Triple Kick:
+    introduction: gs
 
-Trump Card:
-   introduction: dp
+  Trump Card:
+    introduction: dp
 
-Twineedle:
-   introduction: rb
+  Twineedle:
+    introduction: rb
 
-Twister:
-   introduction: gs
+  Twister:
+    introduction: gs
 
-U-turn:
-   introduction: dp
+  U-turn:
+    introduction: dp
 
-Uproar:
-   introduction: rs
+  Uproar:
+    introduction: rs
 
-V-create:
-   introduction: bw
+  V-create:
+    introduction: bw
 
-Vacuum Wave:
-   introduction: dp
+  Vacuum Wave:
+    introduction: dp
 
-Venoshock:
-   introduction: bw
+  Venoshock:
+    introduction: bw
 
-ViceGrip:
-   introduction: rb
+  ViceGrip:
+    introduction: rb
 
-Vine Whip:
-   introduction: rb
+  Vine Whip:
+    introduction: rb
 
-Vital Throw:
-   introduction: gs
+  Vital Throw:
+    introduction: gs
 
-Volt Switch:
-   introduction: bw
+  Volt Switch:
+    introduction: bw
 
-Volt Tackle:
-   introduction: rs
+  Volt Tackle:
+    introduction: rs
 
-Wake-Up Slap:
-   introduction: dp
+  Wake-Up Slap:
+    introduction: dp
 
-Water Gun:
-   introduction: rb
+  Water Gun:
+    introduction: rb
 
-Water Pledge:
-   introduction: bw
+  Water Pledge:
+    introduction: bw
 
-Water Pulse:
-   introduction: rs
+  Water Pulse:
+    introduction: rs
 
-Water Sport:
-   introduction: rs
+  Water Sport:
+    introduction: rs
 
-Water Spout:
-   introduction: rs
+  Water Spout:
+    introduction: rs
 
-Waterfall:
-   introduction: rb
+  Waterfall:
+    introduction: rb
 
-Weather Ball:
-   introduction: rs
+  Weather Ball:
+    introduction: rs
 
-Whirlpool:
-   introduction: gs
+  Whirlpool:
+    introduction: gs
 
-Whirlwind:
-   introduction: rb
+  Whirlwind:
+    introduction: rb
 
-Wide Guard:
-   introduction: bw
+  Wide Guard:
+    introduction: bw
 
-Wild Charge:
-   introduction: bw
+  Wild Charge:
+    introduction: bw
 
-Will-O-Wisp:
-   introduction: rs
+  Will-O-Wisp:
+    introduction: rs
 
-Wing Attack:
-   introduction: rb
+  Wing Attack:
+    introduction: rb
 
-Wish:
-   introduction: rs
+  Wish:
+    introduction: rs
 
-Withdraw:
-   introduction: rb
+  Withdraw:
+    introduction: rb
 
-Wonder Room:
-   introduction: bw
+  Wonder Room:
+    introduction: bw
 
-Wood Hammer:
-   introduction: dp
+  Wood Hammer:
+    introduction: dp
 
-Work Up:
-   introduction: bw
+  Work Up:
+    introduction: bw
 
-Worry Seed:
-   introduction: dp
+  Worry Seed:
+    introduction: dp
 
-Wrap:
-   introduction: rb
+  Wrap:
+    introduction: rb
 
-Wring Out:
-   introduction: dp
+  Wring Out:
+    introduction: dp
 
-X-Scissor:
-   introduction: dp
+  X-Scissor:
+    introduction: dp
 
-Yawn:
-   introduction: rs
+  Yawn:
+    introduction: rs
 
-Zap Cannon:
-   introduction: gs
+  Zap Cannon:
+    introduction: gs
 
-Zen Headbutt:
-   introduction: dp
+  Zen Headbutt:
+    introduction: dp

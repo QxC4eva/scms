@@ -35,7 +35,7 @@ pokemon:
     - [85, 120, 70, 50, 50, 100]
     weight: [24.9]
     height: [1.2]
-families:
+evolutions:
 - {from: Starly, to: Staravia}
 - {from: Staravia, to: Staraptor}
 learnsets:

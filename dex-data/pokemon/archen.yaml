@@ -23,7 +23,7 @@ pokemon:
     - [75, 140, 65, 112, 65, 110]
     weight: [32]
     height: [1.4]
-families:
+evolutions:
 - {from: Archen, to: Archeops}
 learnsets:
   bw:

@@ -14,7 +14,7 @@ pokemon:
     - gs: [65, 125, 100, 55, 70, 85]
     weight: [55]
     height: [1.5]
-families: []
+evolutions: []
 learnsets:
   rb:
     Pinsir: [Bide, Bind, Body Slam, Cut, Double-Edge, Double Team, Focus Energy, Guillotine,

@@ -23,7 +23,7 @@ pokemon:
     - [85, 60, 65, 135, 105, 100]
     weight: [46]
     height: [1.6]
-families:
+evolutions:
 - {from: Larvesta, to: Volcarona}
 learnsets:
   bw:

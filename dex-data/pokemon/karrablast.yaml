@@ -23,7 +23,7 @@ pokemon:
     - [70, 135, 105, 60, 105, 20]
     weight: [33]
     height: [1]
-families:
+evolutions:
 - {from: Karrablast, to: Escavalier}
 learnsets:
   bw:

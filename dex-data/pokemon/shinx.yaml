@@ -35,7 +35,7 @@ pokemon:
     - [80, 120, 79, 95, 79, 70]
     weight: [42]
     height: [1.4]
-families:
+evolutions:
 - {from: Shinx, to: Luxio}
 - {from: Luxio, to: Luxray}
 learnsets:

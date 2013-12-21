@@ -39,7 +39,7 @@ pokemon:
     - [70, 80, 70, 80, 70, 110]
     weight: [26.6]
     height: [1.3]
-families:
+evolutions:
 - {from: Snorunt, to: Glalie}
 - {from: Snorunt, to: Froslass}
 learnsets:

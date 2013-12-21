@@ -44,7 +44,7 @@ pokemon:
     - gs: [90, 130, 80, 65, 85, 55]
     weight: [130]
     height: [1.6]
-families:
+evolutions:
 - {from: Machop, to: Machoke}
 - {from: Machoke, to: Machamp}
 learnsets:

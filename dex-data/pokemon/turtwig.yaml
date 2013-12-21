@@ -35,7 +35,7 @@ pokemon:
     - [95, 109, 105, 75, 85, 56]
     weight: [310]
     height: [2.2]
-families:
+evolutions:
 - {from: Turtwig, to: Grotle}
 - {from: Grotle, to: Torterra}
 learnsets:

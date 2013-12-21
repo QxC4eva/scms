@@ -24,7 +24,7 @@ pokemon:
     - [70, 100, 115, 30, 65, 30]
     weight: [38]
     height: [1.2]
-families:
+evolutions:
 - {from: Bonsly, to: Sudowoodo}
 learnsets:
   gs:

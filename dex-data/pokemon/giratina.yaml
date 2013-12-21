@@ -23,7 +23,7 @@ pokemon:
     - [150, 120, 100, 120, 100, 90]
     weight: [650]
     height: [6.9]
-families:
+evolutions:
 - {from: Giratina, to: Giratina-O}
 - {from: Giratina, to: Giratina-O}
 - {from: Giratina-O, to: Giratina}

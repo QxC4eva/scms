@@ -35,7 +35,7 @@ pokemon:
     - [60, 55, 90, 145, 90, 80]
     weight: [34.3]
     height: [1]
-families:
+evolutions:
 - {from: Litwick, to: Lampent}
 - {from: Lampent, to: Chandelure}
 learnsets:

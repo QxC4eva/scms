@@ -23,7 +23,7 @@ pokemon:
     - [79, 85, 60, 55, 60, 71]
     weight: [31.5]
     height: [1]
-families:
+evolutions:
 - {from: Bidoof, to: Bibarel}
 learnsets:
   dp:

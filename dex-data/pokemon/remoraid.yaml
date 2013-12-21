@@ -27,7 +27,7 @@ pokemon:
     - [75, 105, 75, 105, 75, 45]
     weight: [28.5]
     height: [0.9]
-families:
+evolutions:
 - {from: Remoraid, to: Octillery}
 learnsets:
   gs:

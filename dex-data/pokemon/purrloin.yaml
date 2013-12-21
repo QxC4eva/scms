@@ -23,7 +23,7 @@ pokemon:
     - [64, 88, 50, 88, 50, 106]
     weight: [37.5]
     height: [1.1]
-families:
+evolutions:
 - {from: Purrloin, to: Liepard}
 learnsets:
   bw:

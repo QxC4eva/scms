@@ -23,7 +23,7 @@ pokemon:
     - [70, 60, 70, 87, 78, 85]
     weight: [9.3]
     height: [0.5]
-families:
+evolutions:
 - {from: Cherubi, to: Cherrim}
 learnsets:
   dp:

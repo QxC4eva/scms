@@ -38,7 +38,7 @@ pokemon:
     - [75, 95, 67, 125, 95, 83]
     weight: [68]
     height: [1.6]
-families:
+evolutions:
 - {from: Magby, to: Magmar}
 - {from: Magmar, to: Magmortar}
 learnsets:

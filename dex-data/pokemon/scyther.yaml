@@ -28,7 +28,7 @@ pokemon:
     - [70, 130, 100, 55, 80, 65]
     weight: [118]
     height: [1.8]
-families:
+evolutions:
 - {from: Scyther, to: Scizor}
 learnsets:
   rb:

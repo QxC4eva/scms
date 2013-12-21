@@ -35,7 +35,7 @@ pokemon:
     - [75, 103, 80, 70, 70, 92]
     weight: [20.5]
     height: [1.2]
-families:
+evolutions:
 - {from: Sewaddle, to: Swadloon}
 - {from: Swadloon, to: Leavanny}
 learnsets:

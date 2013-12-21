@@ -26,7 +26,7 @@ pokemon:
     - [90, 120, 75, 60, 60, 45]
     weight: [48.7]
     height: [1.4]
-families:
+evolutions:
 - {from: Snubbull, to: Granbull}
 learnsets:
   gs:

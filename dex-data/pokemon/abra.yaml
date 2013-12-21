@@ -41,7 +41,7 @@ pokemon:
     - gs: [55, 50, 45, 135, 85, 120]
     weight: [48]
     height: [1.5]
-families:
+evolutions:
 - {from: Abra, to: Kadabra}
 - {from: Kadabra, to: Alakazam}
 learnsets:

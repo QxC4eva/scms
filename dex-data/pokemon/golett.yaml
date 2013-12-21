@@ -23,7 +23,7 @@ pokemon:
     - [89, 124, 80, 55, 80, 55]
     weight: [330]
     height: [2.8]
-families:
+evolutions:
 - {from: Golett, to: Golurk}
 learnsets:
   bw:

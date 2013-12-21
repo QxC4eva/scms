@@ -23,7 +23,7 @@ pokemon:
     - [79, 100, 80, 110, 90, 121]
     weight: [63]
     height: [1.4]
-families:
+evolutions:
 - {from: Tornadus, to: Tornadus-T}
 - {from: Tornadus, to: Tornadus-T}
 - {from: Tornadus-T, to: Tornadus}

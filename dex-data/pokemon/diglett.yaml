@@ -13,7 +13,7 @@ pokemon:
     - gs: [35, 80, 50, 50, 70, 120]
     weight: [33.3]
     height: [0.7]
-families:
+evolutions:
 - {from: Diglett, to: Dugtrio}
 learnsets:
   rb:

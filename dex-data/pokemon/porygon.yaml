@@ -40,7 +40,7 @@ pokemon:
     - [85, 80, 70, 135, 75, 90]
     weight: [34]
     height: [0.9]
-families:
+evolutions:
 - {from: Porygon, to: Porygon2}
 - {from: Porygon2, to: Porygon-Z}
 learnsets:

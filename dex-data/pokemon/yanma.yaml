@@ -24,7 +24,7 @@ pokemon:
     - [86, 76, 86, 116, 56, 95]
     weight: [51.5]
     height: [1.9]
-families:
+evolutions:
 - {from: Yanma, to: Yanmega}
 learnsets:
   gs:

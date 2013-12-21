@@ -41,7 +41,7 @@ pokemon:
     - gs: [79, 83, 100, 85, 105, 78]
     weight: [85.5]
     height: [1.6]
-families:
+evolutions:
 - {from: Squirtle, to: Wartortle}
 - {from: Wartortle, to: Blastoise}
 learnsets:

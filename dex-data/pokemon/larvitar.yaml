@@ -37,7 +37,7 @@ pokemon:
     - [100, 134, 110, 95, 100, 61]
     weight: [202]
     height: [2]
-families:
+evolutions:
 - {from: Larvitar, to: Pupitar}
 - {from: Pupitar, to: Tyranitar}
 learnsets:

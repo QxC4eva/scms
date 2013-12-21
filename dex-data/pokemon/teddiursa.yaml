@@ -27,7 +27,7 @@ pokemon:
     - [90, 130, 75, 75, 75, 55]
     weight: [125.8]
     height: [1.8]
-families:
+evolutions:
 - {from: Teddiursa, to: Ursaring}
 learnsets:
   gs:

@@ -41,7 +41,7 @@ pokemon:
     - gs: [60, 62, 63, 80, 80, 60]
     weight: [13]
     height: [1]
-families:
+evolutions:
 - {from: Bulbasaur, to: Ivysaur}
 - {from: Ivysaur, to: Venusaur}
 learnsets:

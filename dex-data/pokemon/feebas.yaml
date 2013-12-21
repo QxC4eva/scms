@@ -25,7 +25,7 @@ pokemon:
     - [95, 60, 79, 100, 125, 81]
     weight: [162]
     height: [6.2]
-families:
+evolutions:
 - {from: Feebas, to: Milotic}
 learnsets:
   rs:

@@ -38,7 +38,7 @@ pokemon:
     - [104, 91, 63, 91, 63, 68]
     weight: [84]
     height: [1.5]
-families:
+evolutions:
 - {from: Whismur, to: Loudred}
 - {from: Loudred, to: Exploud}
 learnsets:

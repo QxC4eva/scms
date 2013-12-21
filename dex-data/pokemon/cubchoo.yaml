@@ -23,7 +23,7 @@ pokemon:
     - [95, 110, 80, 70, 80, 50]
     weight: [260]
     height: [2.6]
-families:
+evolutions:
 - {from: Cubchoo, to: Beartic}
 learnsets:
   bw:

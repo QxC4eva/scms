@@ -41,7 +41,7 @@ pokemon:
     - gs: [91, 134, 95, 100, 100, 80]
     weight: [210]
     height: [2.2]
-families:
+evolutions:
 - {from: Dratini, to: Dragonair}
 - {from: Dragonair, to: Dragonite}
 learnsets:

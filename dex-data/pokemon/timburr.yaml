@@ -35,7 +35,7 @@ pokemon:
     - [105, 140, 95, 55, 65, 45]
     weight: [87]
     height: [1.4]
-families:
+evolutions:
 - {from: Timburr, to: Gurdurr}
 - {from: Gurdurr, to: Conkeldurr}
 learnsets:

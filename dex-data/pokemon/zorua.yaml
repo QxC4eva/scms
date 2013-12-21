@@ -23,7 +23,7 @@ pokemon:
     - [60, 105, 60, 120, 60, 105]
     weight: [81.1]
     height: [1.6]
-families:
+evolutions:
 - {from: Zorua, to: Zoroark}
 learnsets:
   bw:

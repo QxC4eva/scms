@@ -27,7 +27,7 @@ pokemon:
     - gs: [95, 95, 85, 125, 65, 55]
     weight: [120]
     height: [2]
-families:
+evolutions:
 - {from: Exeggcute, to: Exeggutor}
 learnsets:
   rb:

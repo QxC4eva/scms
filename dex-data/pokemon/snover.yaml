@@ -23,7 +23,7 @@ pokemon:
     - [90, 92, 75, 92, 85, 60]
     weight: [135.5]
     height: [2.2]
-families:
+evolutions:
 - {from: Snover, to: Abomasnow}
 learnsets:
   dp:

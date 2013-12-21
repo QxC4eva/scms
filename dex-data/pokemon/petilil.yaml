@@ -23,7 +23,7 @@ pokemon:
     - [70, 60, 75, 110, 75, 90]
     weight: [16.3]
     height: [1.1]
-families:
+evolutions:
 - {from: Petilil, to: Lilligant}
 learnsets:
   bw:

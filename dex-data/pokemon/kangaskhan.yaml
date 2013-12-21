@@ -14,7 +14,7 @@ pokemon:
     - gs: [105, 95, 80, 40, 80, 90]
     weight: [80]
     height: [2.2]
-families: []
+evolutions: []
 learnsets:
   rb:
     Kangaskhan: [Bide, Bite, Blizzard, Body Slam, Bubblebeam, Comet Punch, Counter,

@@ -24,7 +24,7 @@ pokemon:
     - [60, 55, 145, 75, 150, 40]
     weight: [340]
     height: [1.4]
-families:
+evolutions:
 - {from: Nosepass, to: Probopass}
 learnsets:
   rs:

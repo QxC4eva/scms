@@ -25,7 +25,7 @@ pokemon:
     - [100, 50, 50, 76, 96, 70]
     weight: [40.8]
     height: [1.6]
-families:
+evolutions:
 - {from: Hoothoot, to: Noctowl}
 learnsets:
   gs:

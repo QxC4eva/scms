@@ -25,7 +25,7 @@ pokemon:
     - [60, 50, 100, 85, 70, 65]
     weight: [28]
     height: [1.2]
-families:
+evolutions:
 - {from: Wingull, to: Pelipper}
 learnsets:
   rs:

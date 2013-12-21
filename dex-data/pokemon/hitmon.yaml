@@ -57,7 +57,7 @@ pokemon:
     - [50, 95, 95, 35, 110, 70]
     weight: [48]
     height: [1.4]
-families:
+evolutions:
 - {from: Tyrogue, to: Hitmonlee}
 - {from: Tyrogue, to: Hitmonchan}
 - {from: Tyrogue, to: Hitmontop}

@@ -27,7 +27,7 @@ pokemon:
     - gs: [60, 115, 105, 65, 70, 80]
     weight: [40.5]
     height: [1.3]
-families:
+evolutions:
 - {from: Kabuto, to: Kabutops}
 learnsets:
   rb:

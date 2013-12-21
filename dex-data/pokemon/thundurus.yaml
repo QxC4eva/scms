@@ -23,7 +23,7 @@ pokemon:
     - [79, 105, 70, 145, 80, 101]
     weight: [61]
     height: [3]
-families:
+evolutions:
 - {from: Thundurus, to: Thundurus-T}
 - {from: Thundurus, to: Thundurus-T}
 - {from: Thundurus-T, to: Thundurus}

@@ -25,7 +25,7 @@ pokemon:
     - [86, 81, 97, 81, 107, 43]
     weight: [60.4]
     height: [1.5]
-families:
+evolutions:
 - {from: Lileep, to: Cradily}
 learnsets:
   rs:

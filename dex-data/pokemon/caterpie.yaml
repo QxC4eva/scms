@@ -40,7 +40,7 @@ pokemon:
     - gs: [60, 45, 50, 80, 80, 70]
     weight: [32]
     height: [1.1]
-families:
+evolutions:
 - {from: Caterpie, to: Metapod}
 - {from: Metapod, to: Butterfree}
 learnsets:

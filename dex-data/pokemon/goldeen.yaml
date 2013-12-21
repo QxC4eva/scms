@@ -27,7 +27,7 @@ pokemon:
     - gs: [80, 92, 65, 65, 80, 68]
     weight: [39]
     height: [1.3]
-families:
+evolutions:
 - {from: Goldeen, to: Seaking}
 learnsets:
   rb:

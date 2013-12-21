@@ -76,7 +76,7 @@ pokemon:
     - [50, 65, 107, 105, 107, 86]
     weight: [0.3]
     height: [0.3]
-families:
+evolutions:
 - {from: Rotom, to: Rotom-Fan}
 - {from: Rotom-Fan, to: Rotom-Frost}
 - {from: Rotom-Frost, to: Rotom-Heat}

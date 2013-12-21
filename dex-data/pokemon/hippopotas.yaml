@@ -23,7 +23,7 @@ pokemon:
     - [108, 112, 118, 68, 72, 47]
     weight: [300]
     height: [2]
-families:
+evolutions:
 - {from: Hippopotas, to: Hippowdon}
 learnsets:
   dp:

@@ -27,7 +27,7 @@ pokemon:
     - gs: [65, 90, 120, 85, 70, 60]
     weight: [9.5]
     height: [1.2]
-families:
+evolutions:
 - {from: Koffing, to: Weezing}
 learnsets:
   rb:

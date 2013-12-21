@@ -23,7 +23,7 @@ pokemon:
     - [70, 110, 70, 115, 70, 90]
     weight: [54]
     height: [1.2]
-families:
+evolutions:
 - {from: Riolu, to: Lucario}
 learnsets:
   dp:

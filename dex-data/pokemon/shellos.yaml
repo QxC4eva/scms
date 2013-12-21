@@ -23,7 +23,7 @@ pokemon:
     - [111, 83, 68, 92, 82, 39]
     weight: [29.9]
     height: [0.9]
-families:
+evolutions:
 - {from: Shellos, to: Gastrodon}
 learnsets:
   dp:

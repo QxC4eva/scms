@@ -25,7 +25,7 @@ pokemon:
     - [144, 120, 60, 40, 60, 50]
     weight: [253.8]
     height: [2.3]
-families:
+evolutions:
 - {from: Makuhita, to: Hariyama}
 learnsets:
   rs:

@@ -13,7 +13,7 @@ pokemon:
     - gs: [90, 100, 90, 125, 85, 90]
     weight: [60]
     height: [2]
-families: []
+evolutions: []
 learnsets:
   rb:
     Moltres: [Agility, Bide, Double-Edge, Double Team, Fire Blast, Fire Spin, Fly,

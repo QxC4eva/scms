@@ -23,7 +23,7 @@ pokemon:
     - [65, 125, 100, 60, 70, 70]
     weight: [70]
     height: [1.6]
-families:
+evolutions:
 - {from: Pawniard, to: Bisharp}
 learnsets:
   bw:

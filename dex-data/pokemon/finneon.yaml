@@ -23,7 +23,7 @@ pokemon:
     - [69, 69, 76, 69, 86, 91]
     weight: [24]
     height: [1.2]
-families:
+evolutions:
 - {from: Finneon, to: Lumineon}
 learnsets:
   dp:

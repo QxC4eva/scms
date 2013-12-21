@@ -35,7 +35,7 @@ pokemon:
     - [84, 86, 88, 111, 101, 60]
     weight: [84.5]
     height: [1.7]
-families:
+evolutions:
 - {from: Piplup, to: Prinplup}
 - {from: Prinplup, to: Empoleon}
 learnsets:

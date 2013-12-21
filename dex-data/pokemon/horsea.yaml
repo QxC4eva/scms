@@ -43,7 +43,7 @@ pokemon:
     - [75, 95, 95, 95, 95, 85]
     weight: [152]
     height: [1.8]
-families:
+evolutions:
 - {from: Horsea, to: Seadra}
 - {from: Seadra, to: Kingdra}
 learnsets:

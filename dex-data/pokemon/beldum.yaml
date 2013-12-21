@@ -38,7 +38,7 @@ pokemon:
     - [80, 135, 130, 95, 90, 70]
     weight: [550]
     height: [1.6]
-families:
+evolutions:
 - {from: Beldum, to: Metang}
 - {from: Metang, to: Metagross}
 learnsets:

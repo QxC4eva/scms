@@ -24,7 +24,7 @@ pokemon:
     - [75, 100, 66, 60, 66, 115]
     weight: [20.3]
     height: [1.2]
-families:
+evolutions:
 - {from: Aipom, to: Ambipom}
 learnsets:
   gs:

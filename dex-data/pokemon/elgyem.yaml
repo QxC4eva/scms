@@ -23,7 +23,7 @@ pokemon:
     - [75, 75, 75, 125, 95, 40]
     weight: [34.5]
     height: [1]
-families:
+evolutions:
 - {from: Elgyem, to: Beheeyem}
 learnsets:
   bw:

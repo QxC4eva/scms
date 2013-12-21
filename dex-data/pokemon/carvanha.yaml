@@ -25,7 +25,7 @@ pokemon:
     - [70, 120, 40, 95, 40, 95]
     weight: [88.8]
     height: [1.8]
-families:
+evolutions:
 - {from: Carvanha, to: Sharpedo}
 learnsets:
   rs:

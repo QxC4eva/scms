@@ -23,7 +23,7 @@ pokemon:
     - [75, 95, 60, 65, 60, 115]
     weight: [7.5]
     height: [0.5]
-families:
+evolutions:
 - {from: Minccino, to: Cinccino}
 learnsets:
   bw:

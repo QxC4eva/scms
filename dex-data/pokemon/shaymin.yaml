@@ -23,7 +23,7 @@ pokemon:
     - [100, 103, 75, 120, 75, 127]
     weight: [5.2]
     height: [0.4]
-families:
+evolutions:
 - {from: Shaymin, to: Shaymin-S}
 learnsets:
   dp:

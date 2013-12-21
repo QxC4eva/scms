@@ -35,7 +35,7 @@ pokemon:
     - [108, 130, 95, 80, 85, 102]
     weight: [95]
     height: [1.9]
-families:
+evolutions:
 - {from: Gible, to: Gabite}
 - {from: Gabite, to: Garchomp}
 learnsets:

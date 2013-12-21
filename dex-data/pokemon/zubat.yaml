@@ -40,7 +40,7 @@ pokemon:
     - [85, 90, 80, 70, 80, 130]
     weight: [75]
     height: [1.8]
-families:
+evolutions:
 - {from: Zubat, to: Golbat}
 - {from: Golbat, to: Crobat}
 learnsets:

@@ -35,7 +35,7 @@ pokemon:
     - [75, 75, 95, 75, 95, 113]
     weight: [63]
     height: [3.3]
-families:
+evolutions:
 - {from: Snivy, to: Servine}
 - {from: Servine, to: Serperior}
 learnsets:

@@ -35,7 +35,7 @@ pokemon:
     - [125, 120, 90, 170, 100, 95]
     weight: [325]
     height: [3.6]
-families:
+evolutions:
 - {from: Kyurem, to: Kyurem-B}
 - {from: Kyurem, to: Kyurem-W}
 learnsets:

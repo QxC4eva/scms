@@ -40,7 +40,7 @@ pokemon:
     - [95, 75, 80, 100, 110, 30]
     weight: [79.5]
     height: [2]
-families:
+evolutions:
 - {from: Slowpoke, to: Slowbro}
 - {from: Slowpoke, to: Slowking}
 learnsets:

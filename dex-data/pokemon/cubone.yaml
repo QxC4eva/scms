@@ -27,7 +27,7 @@ pokemon:
     - gs: [60, 80, 110, 50, 80, 45]
     weight: [45]
     height: [1]
-families:
+evolutions:
 - {from: Cubone, to: Marowak}
 learnsets:
   rb:

@@ -23,7 +23,7 @@ pokemon:
     - [77, 85, 51, 55, 51, 65]
     weight: [25.5]
     height: [1]
-families:
+evolutions:
 - {from: Kricketot, to: Kricketune}
 learnsets:
   dp:

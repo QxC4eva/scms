@@ -38,7 +38,7 @@ pokemon:
     - [78, 84, 78, 109, 85, 100]
     weight: [79.5]
     height: [1.7]
-families:
+evolutions:
 - {from: Cyndaquil, to: Quilava}
 - {from: Quilava, to: Typhlosion}
 learnsets:

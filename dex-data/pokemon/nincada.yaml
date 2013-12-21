@@ -38,7 +38,7 @@ pokemon:
     - [1, 90, 45, 30, 30, 40]
     weight: [1.2]
     height: [0.8]
-families:
+evolutions:
 - {from: Nincada, to: Ninjask}
 - {from: Nincada, to: Shedinja}
 learnsets:

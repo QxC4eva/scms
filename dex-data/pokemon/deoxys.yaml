@@ -51,7 +51,7 @@ pokemon:
     - [50, 95, 90, 95, 90, 180]
     weight: [60.8]
     height: [1.7]
-families:
+evolutions:
 - {from: Deoxys, to: Deoxys-A}
 - {from: Deoxys-A, to: Deoxys-D}
 - {from: Deoxys-D, to: Deoxys-S}

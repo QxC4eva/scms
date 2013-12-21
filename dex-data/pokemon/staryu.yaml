@@ -27,7 +27,7 @@ pokemon:
     - gs: [60, 75, 85, 100, 85, 115]
     weight: [80]
     height: [1.1]
-families:
+evolutions:
 - {from: Staryu, to: Starmie}
 learnsets:
   rb:

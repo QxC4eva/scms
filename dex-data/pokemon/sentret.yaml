@@ -25,7 +25,7 @@ pokemon:
     - [85, 76, 64, 45, 55, 90]
     weight: [32.5]
     height: [1.8]
-families:
+evolutions:
 - {from: Sentret, to: Furret}
 learnsets:
   gs:

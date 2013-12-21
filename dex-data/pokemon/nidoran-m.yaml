@@ -44,7 +44,7 @@ pokemon:
     - gs: [81, 92, 77, 85, 75, 85]
     weight: [62]
     height: [1.4]
-families:
+evolutions:
 - {from: Nidoran-M, to: Nidorino}
 - {from: Nidorino, to: Nidoking}
 learnsets:

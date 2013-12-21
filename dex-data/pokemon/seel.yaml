@@ -29,7 +29,7 @@ pokemon:
     - gs: [90, 70, 80, 70, 95, 70]
     weight: [120]
     height: [1.7]
-families:
+evolutions:
 - {from: Seel, to: Dewgong}
 learnsets:
   rb:

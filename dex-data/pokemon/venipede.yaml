@@ -35,7 +35,7 @@ pokemon:
     - [60, 90, 89, 55, 69, 112]
     weight: [200.5]
     height: [2.5]
-families:
+evolutions:
 - {from: Venipede, to: Whirlipede}
 - {from: Whirlipede, to: Scolipede}
 learnsets:

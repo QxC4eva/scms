@@ -35,7 +35,7 @@ pokemon:
     - [110, 65, 75, 125, 85, 30]
     weight: [20.1]
     height: [1]
-families:
+evolutions:
 - {from: Solosis, to: Duosion}
 - {from: Duosion, to: Reuniclus}
 learnsets:

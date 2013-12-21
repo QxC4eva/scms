@@ -24,7 +24,7 @@ pokemon:
     - [70, 120, 65, 45, 85, 125]
     weight: [34]
     height: [1.1]
-families:
+evolutions:
 - {from: Sneasel, to: Weavile}
 learnsets:
   gs:

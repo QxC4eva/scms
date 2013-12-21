@@ -38,7 +38,7 @@ pokemon:
     - [100, 50, 80, 50, 80, 50]
     weight: [28.5]
     height: [0.8]
-families:
+evolutions:
 - {from: Azurill, to: Marill}
 - {from: Marill, to: Azumarill}
 learnsets:

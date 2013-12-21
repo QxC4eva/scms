@@ -12,7 +12,7 @@ pokemon:
     - [80, 50, 100, 100, 200, 50]
     weight: [175]
     height: [1.8]
-families: []
+evolutions: []
 learnsets:
   rs:
     Regice: [Amnesia, Ancientpower, Blizzard, Body Slam, Brick Break, Counter, Curse,

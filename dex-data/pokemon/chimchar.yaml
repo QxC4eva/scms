@@ -35,7 +35,7 @@ pokemon:
     - [76, 104, 71, 104, 71, 108]
     weight: [55]
     height: [1.2]
-families:
+evolutions:
 - {from: Chimchar, to: Monferno}
 - {from: Monferno, to: Infernape}
 learnsets:

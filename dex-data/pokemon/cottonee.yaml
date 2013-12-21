@@ -23,7 +23,7 @@ pokemon:
     - [60, 67, 85, 77, 75, 116]
     weight: [6.6]
     height: [0.7]
-families:
+evolutions:
 - {from: Cottonee, to: Whimsicott}
 learnsets:
   bw:

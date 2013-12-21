@@ -23,7 +23,7 @@ pokemon:
     - [75, 98, 63, 98, 63, 101]
     weight: [29]
     height: [1]
-families:
+evolutions:
 - {from: Panpour, to: Simipour}
 learnsets:
   bw:

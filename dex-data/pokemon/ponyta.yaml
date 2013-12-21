@@ -27,7 +27,7 @@ pokemon:
     - gs: [65, 100, 70, 80, 80, 105]
     weight: [95]
     height: [1.7]
-families:
+evolutions:
 - {from: Ponyta, to: Rapidash}
 learnsets:
   rb:

@@ -41,7 +41,7 @@ pokemon:
     - gs: [80, 110, 130, 55, 65, 45]
     weight: [300]
     height: [1.4]
-families:
+evolutions:
 - {from: Geodude, to: Graveler}
 - {from: Graveler, to: Golem}
 learnsets:

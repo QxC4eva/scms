@@ -13,7 +13,7 @@ pokemon:
     - gs: [90, 85, 100, 95, 125, 85]
     weight: [55.4]
     height: [1.7]
-families: []
+evolutions: []
 learnsets:
   rb:
     Articuno: [Agility, Bide, Blizzard, Bubblebeam, Double-Edge, Double Team, Fly,

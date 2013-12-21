@@ -23,7 +23,7 @@ pokemon:
     - [80, 70, 40, 100, 60, 145]
     weight: [25.3]
     height: [0.8]
-families:
+evolutions:
 - {from: Shelmet, to: Accelgor}
 learnsets:
   bw:

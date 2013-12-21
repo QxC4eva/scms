@@ -23,7 +23,7 @@ pokemon:
     - [74, 108, 133, 83, 65, 32]
     weight: [81]
     height: [1.2]
-families:
+evolutions:
 - {from: Tirtouga, to: Carracosta}
 learnsets:
   bw:

@@ -41,7 +41,7 @@ pokemon:
     - [75, 55, 70, 55, 85, 110]
     weight: [3]
     height: [0.8]
-families:
+evolutions:
 - {from: Hoppip, to: Skiploom}
 - {from: Skiploom, to: Jumpluff}
 learnsets:

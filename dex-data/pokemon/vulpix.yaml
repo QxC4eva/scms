@@ -27,7 +27,7 @@ pokemon:
     - gs: [73, 76, 75, 81, 100, 100]
     weight: [19.9]
     height: [1.1]
-families:
+evolutions:
 - {from: Vulpix, to: Ninetales}
 learnsets:
   rb:

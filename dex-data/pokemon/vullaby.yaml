@@ -23,7 +23,7 @@ pokemon:
     - [110, 65, 105, 55, 95, 80]
     weight: [39.5]
     height: [1.2]
-families:
+evolutions:
 - {from: Vullaby, to: Mandibuzz}
 learnsets:
   bw:

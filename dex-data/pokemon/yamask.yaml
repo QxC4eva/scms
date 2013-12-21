@@ -23,7 +23,7 @@ pokemon:
     - [58, 50, 145, 95, 105, 30]
     weight: [76.5]
     height: [1.7]
-families:
+evolutions:
 - {from: Yamask, to: Cofagrigus}
 learnsets:
   bw:

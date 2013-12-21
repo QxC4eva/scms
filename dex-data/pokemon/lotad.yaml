@@ -38,7 +38,7 @@ pokemon:
     - [80, 70, 70, 90, 100, 70]
     weight: [55]
     height: [1.5]
-families:
+evolutions:
 - {from: Lotad, to: Lombre}
 - {from: Lombre, to: Ludicolo}
 learnsets:

@@ -23,7 +23,7 @@ pokemon:
     - [74, 94, 131, 54, 116, 20]
     weight: [110]
     height: [1]
-families:
+evolutions:
 - {from: Ferroseed, to: Ferrothorn}
 learnsets:
   bw:

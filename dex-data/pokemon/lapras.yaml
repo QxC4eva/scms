@@ -13,7 +13,7 @@ pokemon:
     - gs: [130, 85, 80, 85, 95, 60]
     weight: [220]
     height: [2.5]
-families: []
+evolutions: []
 learnsets:
   rb:
     Lapras: [Bide, Blizzard, Body Slam, Bubblebeam, Confuse Ray, Double-Edge, Double

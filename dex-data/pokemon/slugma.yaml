@@ -25,7 +25,7 @@ pokemon:
     - [50, 50, 120, 80, 80, 30]
     weight: [55]
     height: [0.8]
-families:
+evolutions:
 - {from: Slugma, to: Magcargo}
 learnsets:
   gs:

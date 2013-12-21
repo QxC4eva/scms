@@ -27,7 +27,7 @@ pokemon:
     - [70, 100, 70, 105, 75, 40]
     weight: [220]
     height: [1.9]
-families:
+evolutions:
 - {from: Numel, to: Camerupt}
 learnsets:
   rs:

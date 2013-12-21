@@ -38,7 +38,7 @@ pokemon:
     - [80, 82, 100, 83, 100, 80]
     weight: [100.5]
     height: [1.8]
-families:
+evolutions:
 - {from: Chikorita, to: Bayleef}
 - {from: Bayleef, to: Meganium}
 learnsets:

@@ -23,7 +23,7 @@ pokemon:
     - [114, 85, 70, 85, 80, 30]
     weight: [10.5]
     height: [0.6]
-families:
+evolutions:
 - {from: Foongus, to: Amoonguss}
 learnsets:
   bw:

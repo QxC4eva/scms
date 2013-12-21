@@ -23,7 +23,7 @@ pokemon:
     - [70, 77, 60, 97, 60, 108]
     weight: [14.3]
     height: [0.8]
-families:
+evolutions:
 - {from: Joltik, to: Galvantula}
 learnsets:
   bw:

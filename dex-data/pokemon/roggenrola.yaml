@@ -35,7 +35,7 @@ pokemon:
     - [85, 135, 130, 60, 70, 25]
     weight: [260]
     height: [1.7]
-families:
+evolutions:
 - {from: Roggenrola, to: Boldore}
 - {from: Boldore, to: Gigalith}
 learnsets:

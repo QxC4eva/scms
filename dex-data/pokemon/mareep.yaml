@@ -38,7 +38,7 @@ pokemon:
     - [90, 75, 75, 115, 90, 55]
     weight: [61.5]
     height: [1.4]
-families:
+evolutions:
 - {from: Mareep, to: Flaaffy}
 - {from: Flaaffy, to: Ampharos}
 learnsets:

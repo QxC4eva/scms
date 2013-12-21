@@ -29,7 +29,7 @@ pokemon:
     - gs: [85, 73, 70, 73, 115, 67]
     weight: [75.6]
     height: [1.6]
-families:
+evolutions:
 - {from: Drowzee, to: Hypno}
 learnsets:
   rb:

@@ -29,7 +29,7 @@ pokemon:
     - gs: [65, 70, 60, 65, 65, 115]
     weight: [32]
     height: [1]
-families:
+evolutions:
 - {from: Meowth, to: Persian}
 learnsets:
   rb:

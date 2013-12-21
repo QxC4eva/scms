@@ -23,7 +23,7 @@ pokemon:
     - [85, 105, 55, 85, 50, 115]
     weight: [33.5]
     height: [1.1]
-families:
+evolutions:
 - {from: Buizel, to: Floatzel}
 learnsets:
   dp:

@@ -13,7 +13,7 @@ pokemon:
     - gs: [48, 48, 48, 48, 48, 48]
     weight: [4]
     height: [0.3]
-families: []
+evolutions: []
 learnsets:
   rb:
     Ditto: [Transform]

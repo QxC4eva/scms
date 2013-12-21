@@ -41,7 +41,7 @@ pokemon:
     - gs: [80, 105, 65, 100, 60, 70]
     weight: [15.5]
     height: [1.7]
-families:
+evolutions:
 - {from: Bellsprout, to: Weepinbell}
 - {from: Weepinbell, to: Victreebel}
 learnsets:

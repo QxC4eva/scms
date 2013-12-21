@@ -35,7 +35,7 @@ pokemon:
     - [76, 147, 90, 60, 70, 97]
     weight: [105.5]
     height: [1.8]
-families:
+evolutions:
 - {from: Axew, to: Fraxure}
 - {from: Fraxure, to: Haxorus}
 learnsets:

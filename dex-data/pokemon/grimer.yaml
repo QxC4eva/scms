@@ -27,7 +27,7 @@ pokemon:
     - gs: [105, 105, 75, 65, 100, 50]
     weight: [30]
     height: [1.2]
-families:
+evolutions:
 - {from: Grimer, to: Muk}
 learnsets:
   rb:

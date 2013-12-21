@@ -27,7 +27,7 @@ pokemon:
     - gs: [80, 82, 78, 95, 80, 85]
     weight: [76.6]
     height: [1.7]
-families:
+evolutions:
 - {from: Psyduck, to: Golduck}
 learnsets:
   rb:

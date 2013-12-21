@@ -11,7 +11,7 @@ pokemon:
     - [80, 105, 105, 105, 105, 80]
     weight: [0.3]
     height: [0.3]
-families: []
+evolutions: []
 learnsets:
   dp:
     Mesprit: [Blizzard, Calm Mind, Charge Beam, Charm, Confusion, Copycat, Double

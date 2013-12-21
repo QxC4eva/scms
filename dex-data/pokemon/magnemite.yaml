@@ -39,7 +39,7 @@ pokemon:
     - [70, 70, 115, 130, 90, 60]
     weight: [180]
     height: [1.2]
-families:
+evolutions:
 - {from: Magnemite, to: Magneton}
 - {from: Magneton, to: Magnezone}
 learnsets:

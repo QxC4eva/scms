@@ -39,7 +39,7 @@ pokemon:
     - [110, 130, 80, 70, 60, 80]
     weight: [291]
     height: [2.5]
-families:
+evolutions:
 - {from: Swinub, to: Piloswine}
 - {from: Piloswine, to: Mamoswine}
 learnsets:

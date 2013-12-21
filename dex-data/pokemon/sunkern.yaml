@@ -27,7 +27,7 @@ pokemon:
     - [75, 75, 55, 105, 85, 30]
     weight: [8.5]
     height: [0.8]
-families:
+evolutions:
 - {from: Sunkern, to: Sunflora}
 learnsets:
   gs:

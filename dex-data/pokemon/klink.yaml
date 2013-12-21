@@ -35,7 +35,7 @@ pokemon:
     - [60, 100, 115, 70, 85, 90]
     weight: [81]
     height: [0.6]
-families:
+evolutions:
 - {from: Klink, to: Klang}
 - {from: Klang, to: Klinklang}
 learnsets:

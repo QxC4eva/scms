@@ -23,7 +23,7 @@ pokemon:
     - [65, 76, 84, 54, 96, 105]
     weight: [33.3]
     height: [1.2]
-families:
+evolutions:
 - {from: Buneary, to: Lopunny}
 learnsets:
   dp:

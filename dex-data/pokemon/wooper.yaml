@@ -25,7 +25,7 @@ pokemon:
     - [95, 85, 85, 65, 65, 35]
     weight: [75]
     height: [1.4]
-families:
+evolutions:
 - {from: Wooper, to: Quagsire}
 learnsets:
   gs:

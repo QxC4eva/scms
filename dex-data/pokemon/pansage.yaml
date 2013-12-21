@@ -23,7 +23,7 @@ pokemon:
     - [75, 98, 63, 98, 63, 101]
     weight: [30.5]
     height: [1.1]
-families:
+evolutions:
 - {from: Pansage, to: Simisage}
 learnsets:
   bw:

@@ -23,7 +23,7 @@ pokemon:
     - [70, 80, 102, 80, 102, 40]
     weight: [38.5]
     height: [1.2]
-families:
+evolutions:
 - {from: Combee, to: Vespiquen}
 learnsets:
   dp:

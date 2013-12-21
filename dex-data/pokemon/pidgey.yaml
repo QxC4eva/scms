@@ -44,7 +44,7 @@ pokemon:
     - gs: [83, 80, 75, 70, 70, 91]
     weight: [39.5]
     height: [1.5]
-families:
+evolutions:
 - {from: Pidgey, to: Pidgeotto}
 - {from: Pidgeotto, to: Pidgeot}
 learnsets:

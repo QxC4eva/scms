@@ -50,7 +50,7 @@ pokemon:
     - [68, 125, 65, 65, 115, 80]
     weight: [52]
     height: [1.6]
-families:
+evolutions:
 - {from: Ralts, to: Kirlia}
 - {from: Kirlia, to: Gardevoir}
 - {from: Kirlia, to: Gallade}

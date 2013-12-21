@@ -25,7 +25,7 @@ pokemon:
     - gs: [160, 110, 65, 65, 110, 30]
     weight: [460]
     height: [2.1]
-families:
+evolutions:
 - {from: Munchlax, to: Snorlax}
 learnsets:
   rb:

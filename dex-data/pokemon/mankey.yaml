@@ -29,7 +29,7 @@ pokemon:
     - gs: [65, 105, 60, 60, 70, 95]
     weight: [32]
     height: [1]
-families:
+evolutions:
 - {from: Mankey, to: Primeape}
 learnsets:
   rb:

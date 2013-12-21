@@ -23,7 +23,7 @@ pokemon:
     - [65, 125, 60, 95, 60, 105]
     weight: [35.5]
     height: [1.4]
-families:
+evolutions:
 - {from: Mienfoo, to: Mienshao}
 learnsets:
   bw:

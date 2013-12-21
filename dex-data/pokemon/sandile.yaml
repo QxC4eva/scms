@@ -35,7 +35,7 @@ pokemon:
     - [95, 117, 70, 65, 70, 92]
     weight: [96.3]
     height: [1.5]
-families:
+evolutions:
 - {from: Sandile, to: Krokorok}
 - {from: Krokorok, to: Krookodile}
 learnsets:

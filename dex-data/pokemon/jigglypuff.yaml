@@ -40,7 +40,7 @@ pokemon:
     - gs: [140, 70, 45, 75, 50, 45]
     weight: [12]
     height: [1]
-families:
+evolutions:
 - {from: Igglybuff, to: Jigglypuff}
 - {from: Jigglypuff, to: Wigglytuff}
 learnsets:

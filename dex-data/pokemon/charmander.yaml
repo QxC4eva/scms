@@ -41,7 +41,7 @@ pokemon:
     - gs: [78, 84, 78, 109, 85, 100]
     weight: [90.5]
     height: [1.7]
-families:
+evolutions:
 - {from: Charmander, to: Charmeleon}
 - {from: Charmeleon, to: Charizard}
 learnsets:

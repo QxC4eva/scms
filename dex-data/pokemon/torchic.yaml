@@ -38,7 +38,7 @@ pokemon:
     - [80, 120, 70, 110, 70, 80]
     weight: [52]
     height: [1.9]
-families:
+evolutions:
 - {from: Torchic, to: Combusken}
 - {from: Combusken, to: Blaziken}
 learnsets:

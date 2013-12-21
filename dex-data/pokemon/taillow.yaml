@@ -25,7 +25,7 @@ pokemon:
     - [60, 85, 60, 50, 50, 125]
     weight: [19.8]
     height: [0.7]
-families:
+evolutions:
 - {from: Taillow, to: Swellow}
 learnsets:
   rs:

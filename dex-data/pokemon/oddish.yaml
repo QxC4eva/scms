@@ -54,7 +54,7 @@ pokemon:
     - [75, 80, 85, 90, 100, 50]
     weight: [5.8]
     height: [0.4]
-families:
+evolutions:
 - {from: Oddish, to: Gloom}
 - {from: Gloom, to: Vileplume}
 - {from: Gloom, to: Bellossom}

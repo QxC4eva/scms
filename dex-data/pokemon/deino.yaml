@@ -35,7 +35,7 @@ pokemon:
     - [92, 105, 90, 125, 90, 98]
     weight: [160]
     height: [1.8]
-families:
+evolutions:
 - {from: Deino, to: Zweilous}
 - {from: Zweilous, to: Hydreigon}
 learnsets:

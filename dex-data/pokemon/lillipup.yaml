@@ -35,7 +35,7 @@ pokemon:
     - [85, 100, 90, 45, 90, 80]
     weight: [61]
     height: [1.2]
-families:
+evolutions:
 - {from: Lillipup, to: Herdier}
 - {from: Herdier, to: Stoutland}
 learnsets:

@@ -29,7 +29,7 @@ pokemon:
     - gs: [50, 95, 180, 85, 45, 70]
     weight: [132.5]
     height: [1.5]
-families:
+evolutions:
 - {from: Shellder, to: Cloyster}
 learnsets:
   rb:

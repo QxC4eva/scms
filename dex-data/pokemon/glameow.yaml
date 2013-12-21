@@ -23,7 +23,7 @@ pokemon:
     - [71, 82, 64, 64, 59, 112]
     weight: [43.8]
     height: [1]
-families:
+evolutions:
 - {from: Glameow, to: Purugly}
 learnsets:
   dp:

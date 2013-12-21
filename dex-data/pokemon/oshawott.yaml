@@ -35,7 +35,7 @@ pokemon:
     - [95, 100, 85, 108, 70, 70]
     weight: [94.6]
     height: [1.5]
-families:
+evolutions:
 - {from: Oshawott, to: Dewott}
 - {from: Dewott, to: Samurott}
 learnsets:

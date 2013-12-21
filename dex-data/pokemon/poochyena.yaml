@@ -27,7 +27,7 @@ pokemon:
     - [70, 90, 70, 60, 60, 70]
     weight: [37]
     height: [1]
-families:
+evolutions:
 - {from: Poochyena, to: Mightyena}
 learnsets:
   rs:

@@ -27,7 +27,7 @@ pokemon:
     - gs: [70, 60, 125, 115, 70, 55]
     weight: [35]
     height: [1]
-families:
+evolutions:
 - {from: Omanyte, to: Omastar}
 learnsets:
   rb:

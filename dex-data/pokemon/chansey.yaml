@@ -38,7 +38,7 @@ pokemon:
     - [255, 10, 10, 75, 135, 55]
     weight: [46.8]
     height: [1.5]
-families:
+evolutions:
 - {from: Happiny, to: Chansey}
 - {from: Chansey, to: Blissey}
 learnsets:

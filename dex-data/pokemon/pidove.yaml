@@ -35,7 +35,7 @@ pokemon:
     - [80, 105, 80, 65, 55, 93]
     weight: [29]
     height: [1.2]
-families:
+evolutions:
 - {from: Pidove, to: Tranquill}
 - {from: Tranquill, to: Unfezant}
 learnsets:

@@ -62,7 +62,7 @@ pokemon:
     - [60, 50, 70, 50, 90, 65]
     weight: [31.6]
     height: [1.2]
-families:
+evolutions:
 - {from: Wurmple, to: Silcoon}
 - {from: Wurmple, to: Beautifly}
 - {from: Wurmple, to: Cascoon}

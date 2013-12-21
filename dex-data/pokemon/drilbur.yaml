@@ -23,7 +23,7 @@ pokemon:
     - [110, 135, 60, 50, 65, 88]
     weight: [40.4]
     height: [0.7]
-families:
+evolutions:
 - {from: Drilbur, to: Excadrill}
 learnsets:
   bw:

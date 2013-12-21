@@ -27,7 +27,7 @@ pokemon:
     - [110, 78, 73, 76, 71, 60]
     weight: [23.6]
     height: [0.9]
-families:
+evolutions:
 - {from: Barboach, to: Whiscash}
 learnsets:
   rs:

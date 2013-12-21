@@ -41,7 +41,7 @@ pokemon:
     - gs: [60, 65, 60, 130, 75, 110]
     weight: [40.5]
     height: [1.5]
-families:
+evolutions:
 - {from: Gastly, to: Haunter}
 - {from: Haunter, to: Gengar}
 learnsets:

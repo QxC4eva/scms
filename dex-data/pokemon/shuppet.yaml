@@ -27,7 +27,7 @@ pokemon:
     - [64, 115, 65, 83, 63, 65]
     weight: [12.5]
     height: [1.1]
-families:
+evolutions:
 - {from: Shuppet, to: Banette}
 learnsets:
   rs:

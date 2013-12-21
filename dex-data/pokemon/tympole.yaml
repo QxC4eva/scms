@@ -35,7 +35,7 @@ pokemon:
     - [105, 85, 75, 85, 75, 74]
     weight: [62]
     height: [1.5]
-families:
+evolutions:
 - {from: Tympole, to: Palpitoad}
 - {from: Palpitoad, to: Seismitoad}
 learnsets:

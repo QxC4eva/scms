@@ -24,7 +24,7 @@ pokemon:
     - [60, 60, 60, 105, 105, 105]
     weight: [4.4]
     height: [0.9]
-families:
+evolutions:
 - {from: Misdreavus, to: Mismagius}
 learnsets:
   gs:

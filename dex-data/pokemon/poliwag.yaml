@@ -54,7 +54,7 @@ pokemon:
     - [90, 75, 75, 90, 100, 70]
     weight: [33.9]
     height: [1.1]
-families:
+evolutions:
 - {from: Poliwag, to: Poliwhirl}
 - {from: Poliwhirl, to: Poliwrath}
 - {from: Poliwhirl, to: Politoed}

@@ -24,7 +24,7 @@ pokemon:
     - [65, 50, 70, 95, 80, 65]
     weight: [1]
     height: [0.6]
-families:
+evolutions:
 - {from: Chingling, to: Chimecho}
 learnsets:
   rs:

@@ -38,7 +38,7 @@ pokemon:
     - [85, 105, 100, 79, 83, 78]
     weight: [88.8]
     height: [2.3]
-families:
+evolutions:
 - {from: Totodile, to: Croconaw}
 - {from: Croconaw, to: Feraligatr}
 learnsets:

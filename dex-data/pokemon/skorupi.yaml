@@ -23,7 +23,7 @@ pokemon:
     - [70, 90, 110, 60, 75, 95]
     weight: [61.5]
     height: [1.3]
-families:
+evolutions:
 - {from: Skorupi, to: Drapion}
 learnsets:
   dp:

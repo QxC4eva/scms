@@ -24,7 +24,7 @@ pokemon:
     - [65, 40, 70, 80, 140, 70]
     weight: [220]
     height: [2.1]
-families:
+evolutions:
 - {from: Mantyke, to: Mantine}
 learnsets:
   gs:

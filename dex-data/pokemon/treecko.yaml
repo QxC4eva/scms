@@ -38,7 +38,7 @@ pokemon:
     - [70, 85, 65, 105, 85, 120]
     weight: [52.2]
     height: [1.7]
-families:
+evolutions:
 - {from: Treecko, to: Grovyle}
 - {from: Grovyle, to: Sceptile}
 learnsets:

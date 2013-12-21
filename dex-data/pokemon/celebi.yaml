@@ -12,7 +12,7 @@ pokemon:
     - [100, 100, 100, 100, 100, 100]
     weight: [5]
     height: [0.6]
-families: []
+evolutions: []
 learnsets:
   gs:
     Celebi: [Ancientpower, Baton Pass, Confusion, Curse, Defense Curl, Detect, Double

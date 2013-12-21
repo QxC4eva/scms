@@ -11,7 +11,7 @@ pokemon:
     - [75, 125, 70, 125, 70, 115]
     weight: [0.3]
     height: [0.3]
-families: []
+evolutions: []
 learnsets:
   dp:
     Azelf: [Calm Mind, Charge Beam, Confusion, Detect, Double Team, Dream Eater, Endure,

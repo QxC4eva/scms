@@ -40,7 +40,7 @@ pokemon:
     - gs: [60, 90, 55, 90, 80, 100]
     weight: [30]
     height: [0.8]
-families:
+evolutions:
 - {from: Pichu, to: Pikachu}
 - {from: Pikachu, to: Raichu}
 learnsets:

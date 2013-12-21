@@ -35,7 +35,7 @@ pokemon:
     - [110, 123, 65, 100, 65, 65]
     weight: [150]
     height: [1.6]
-families:
+evolutions:
 - {from: Tepig, to: Pignite}
 - {from: Pignite, to: Emboar}
 learnsets:

@@ -27,7 +27,7 @@ pokemon:
     - gs: [95, 125, 79, 60, 100, 81]
     weight: [235]
     height: [6.5]
-families:
+evolutions:
 - {from: Magikarp, to: Gyarados}
 learnsets:
   rb:

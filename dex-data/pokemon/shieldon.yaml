@@ -23,7 +23,7 @@ pokemon:
     - [60, 52, 168, 47, 138, 30]
     weight: [149.5]
     height: [1.3]
-families:
+evolutions:
 - {from: Shieldon, to: Bastiodon}
 learnsets:
   dp:

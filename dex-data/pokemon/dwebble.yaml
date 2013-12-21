@@ -23,7 +23,7 @@ pokemon:
     - [70, 95, 125, 65, 75, 45]
     weight: [200]
     height: [1.4]
-families:
+evolutions:
 - {from: Dwebble, to: Crustle}
 learnsets:
   bw:

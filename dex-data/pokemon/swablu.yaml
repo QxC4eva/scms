@@ -25,7 +25,7 @@ pokemon:
     - [75, 70, 90, 70, 105, 80]
     weight: [20.6]
     height: [1.1]
-families:
+evolutions:
 - {from: Swablu, to: Altaria}
 learnsets:
   rs:

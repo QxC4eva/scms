@@ -14,7 +14,7 @@ pokemon:
     - gs: [75, 100, 95, 40, 70, 110]
     weight: [88.4]
     height: [1.4]
-families: []
+evolutions: []
 learnsets:
   rb:
     Tauros: [Bide, Blizzard, Body Slam, Double-Edge, Double Team, Earthquake, Fire

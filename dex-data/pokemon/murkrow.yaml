@@ -25,7 +25,7 @@ pokemon:
     - [100, 125, 52, 105, 52, 71]
     weight: [27.3]
     height: [0.9]
-families:
+evolutions:
 - {from: Murkrow, to: Honchkrow}
 learnsets:
   gs:

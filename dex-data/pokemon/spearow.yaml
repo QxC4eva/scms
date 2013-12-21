@@ -27,7 +27,7 @@ pokemon:
     - gs: [65, 90, 65, 61, 61, 100]
     weight: [38]
     height: [1.2]
-families:
+evolutions:
 - {from: Spearow, to: Fearow}
 learnsets:
   rb:

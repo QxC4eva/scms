@@ -23,7 +23,7 @@ pokemon:
     - [83, 106, 65, 86, 65, 85]
     weight: [44.4]
     height: [1.3]
-families:
+evolutions:
 - {from: Croagunk, to: Toxicroak}
 learnsets:
   dp:

@@ -27,7 +27,7 @@ pokemon:
     - gs: [60, 85, 69, 65, 79, 80]
     weight: [65]
     height: [3.5]
-families:
+evolutions:
 - {from: Ekans, to: Arbok}
 learnsets:
   rb:

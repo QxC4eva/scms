@@ -23,7 +23,7 @@ pokemon:
     - [103, 93, 67, 71, 61, 84]
     weight: [38]
     height: [1]
-families:
+evolutions:
 - {from: Stunky, to: Skuntank}
 learnsets:
   dp:

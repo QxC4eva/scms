@@ -23,7 +23,7 @@ pokemon:
     - [100, 123, 75, 57, 75, 80]
     weight: [41]
     height: [1.5]
-families:
+evolutions:
 - {from: Rufflet, to: Braviary}
 learnsets:
   bw:

@@ -27,7 +27,7 @@ pokemon:
     - gs: [75, 100, 110, 45, 55, 65]
     weight: [29.5]
     height: [1]
-families:
+evolutions:
 - {from: Sandshrew, to: Sandslash}
 learnsets:
   rb:

@@ -35,7 +35,7 @@ pokemon:
     - [85, 115, 80, 105, 80, 50]
     weight: [80.5]
     height: [2.1]
-families:
+evolutions:
 - {from: Tynamo, to: Eelektrik}
 - {from: Eelektrik, to: Eelektross}
 learnsets:

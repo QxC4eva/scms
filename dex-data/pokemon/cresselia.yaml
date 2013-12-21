@@ -1,0 +1,34 @@
+pokemon:
+  Cresselia:
+    introduction: dp
+    types:
+    - [Psychic]
+    egggroups:
+    - []
+    abilities:
+    - [Levitate]
+    stats:
+    - [120, 70, 120, 75, 130, 85]
+    weight: [85.6]
+    height: [1.5]
+families: []
+learnsets:
+  dp:
+    Cresselia: [Attract, Aurora Beam, Calm Mind, Captivate, Charge Beam, Confusion,
+      Double Team, Dream Eater, Endure, Energy Ball, Facade, Flash, Frustration, Fury
+        Cutter, Future Sight, Giga Impact, Grass Knot, Gravity, Helping Hand, Hidden
+        Power, Hyper Beam, Ice Beam, Icy Wind, Light Screen, Lunar Dance, Magic Coat,
+      Mist, Moonlight, Mud-Slap, Natural Gift, Protect, Psych Up, Psychic, Psycho
+        Cut, Psycho Shift, Rain Dance, Recycle, Reflect, Rest, Return, Safeguard,
+      Secret Power, Shadow Ball, Signal Beam, Skill Swap, Slash, Sleep Talk, Snore,
+      Solarbeam, Substitute, Sunny Day, Swagger, Swift, Thunder Wave, Toxic, Trick,
+      Trick Room, Zen Headbutt]
+  bw:
+    Cresselia: [Attract, Aurora Beam, Calm Mind, Charge Beam, Confusion, Double Team,
+      Dream Eater, Energy Ball, Facade, Flash, Frustration, Future Sight, Giga Impact,
+      Grass Knot, Gravity, Helping Hand, Hidden Power, Hyper Beam, Ice Beam, Icy Wind,
+      Light Screen, Lunar Dance, Magic Coat, Magic Room, Mist, Moonlight, Protect,
+      Psych Up, Psychic, Psycho Cut, Psycho Shift, Psyshock, Rain Dance, Recycle,
+      Reflect, Rest, Return, Round, Safeguard, Shadow Ball, Signal Beam, Skill Swap,
+      Slash, Sleep Talk, Snore, Solarbeam, Substitute, Sunny Day, Swagger, Telekinesis,
+      Thunder Wave, Toxic, Trick, Trick Room, Zen Headbutt]

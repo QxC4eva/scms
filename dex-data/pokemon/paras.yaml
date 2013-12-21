@@ -1,0 +1,77 @@
+pokemon:
+  Paras:
+    introduction: rb
+    types:
+    - [Bug, Grass]
+    egggroups:
+    - [Bug, Plant]
+    abilities:
+    - [Effect Spore]
+    - dp: [Dry Skin, Effect Spore]
+    - bw: [Damp, Dry Skin, Effect Spore]
+    stats:
+    - [35, 70, 55, 55, 55, 25]
+    - gs: [35, 70, 55, 45, 55, 25]
+    weight: [5.4]
+    height: [0.3]
+  Parasect:
+    introduction: rb
+    types:
+    - [Bug, Grass]
+    egggroups:
+    - [Bug, Plant]
+    abilities:
+    - [Effect Spore]
+    - dp: [Dry Skin, Effect Spore]
+    - bw: [Damp, Dry Skin, Effect Spore]
+    stats:
+    - [60, 95, 80, 80, 80, 30]
+    - gs: [60, 95, 80, 60, 80, 30]
+    weight: [29.5]
+    height: [1]
+families:
+- {from: Paras, to: Parasect}
+learnsets:
+  rb:
+    Paras: [Bide, Body Slam, Cut, Dig, Double-Edge, Double Team, Growth, Leech Life,
+      Mega Drain, Mimic, Rage, Reflect, Rest, Scratch, Skull Bash, Slash, Solarbeam,
+      Spore, Stun Spore, Substitute, Swords Dance, Take Down, Toxic, Synthesis]
+    Parasect: [Hyper Beam]
+  gs:
+    Paras: [Attract, Counter, Curse, Cut, Dig, Double Team, Endure, False Swipe, Flail,
+      Flash, Frustration, Fury Cutter, Giga Drain, Growth, Hidden Power, Leech Life,
+      Light Screen, Poisonpowder, Protect, Psybeam, Pursuit, Rest, Return, Rock Smash,
+      Scratch, Screech, Slash, Sleep Talk, Sludge Bomb, Snore, Solarbeam, Spore, Stun
+        Spore, Sunny Day, Swagger, Sweet Scent, Thief, Toxic, Synthesis]
+    Parasect: [Hyper Beam]
+  rs:
+    Paras: [Aerial Ace, Aromatherapy, Attract, Body Slam, Bullet Seed, Counter, Cut,
+      Dig, Double-Edge, Double Team, Endure, Facade, False Swipe, Flail, Flash, Frustration,
+      Fury Cutter, Giga Drain, Growth, Hidden Power, Leech Life, Light Screen, Mimic,
+      Poisonpowder, Protect, Psybeam, Pursuit, Rest, Return, Rock Smash, Scratch,
+      Screech, Secret Power, Slash, Sleep Talk, Sludge Bomb, Snore, Solarbeam, Spore,
+      Stun Spore, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance, Thief,
+      Toxic, Refresh, Body Slam, Double-Edge, Mimic, Refresh]
+    Parasect: [Hyper Beam, Body Slam, Double-Edge, Mimic]
+  dp:
+    Paras: [Aerial Ace, Agility, Aromatherapy, Attract, Brick Break, Bug Bite, Bullet
+        Seed, Captivate, Counter, Cross Poison, Cut, Dig, Double Team, Endure, Energy
+        Ball, Facade, False Swipe, Flail, Flash, Frustration, Fury Cutter, Giga Drain,
+      Grass Knot, Growth, Hidden Power, Knock Off, Leech Life, Light Screen, Metal
+        Claw, Natural Gift, Poisonpowder, Protect, Psybeam, Pursuit, Rest, Return,
+      Rock Smash, Scratch, Screech, Secret Power, Seed Bomb, Slash, Sleep Talk, Sludge
+        Bomb, Snore, Solarbeam, Spore, String Shot, Stun Spore, Substitute, Sunny
+        Day, Swagger, Sweet Scent, Swords Dance, Synthesis, Thief, Toxic, Worry Seed,
+      X-scissor, Refresh, Body Slam, Double-Edge, Mimic, Refresh]
+    Parasect: [Giga Impact, Hyper Beam, Body Slam, Double-Edge, Mimic]
+  bw:
+    Paras: [Aerial Ace, After You, Agility, Aromatherapy, Attract, Brick Break, Bug
+        Bite, Counter, Cross Poison, Cut, Dig, Double Team, Endure, Energy Ball, Facade,
+      False Swipe, Flail, Flash, Frustration, Fury Cutter, Giga Drain, Grass Knot,
+      Growth, Hidden Power, Hone Claws, Knock Off, Leech Life, Leech Seed, Light Screen,
+      Metal Claw, Natural Gift, Poisonpowder, Protect, Psybeam, Pursuit, Rage Powder,
+      Rest, Return, Rock Smash, Round, Scratch, Screech, Seed Bomb, Slash, Sleep Talk,
+      Sludge Bomb, Snore, Solarbeam, Spore, Struggle Bug, Stun Spore, Substitute,
+      Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis, Thief, Toxic, Venoshock,
+      Worry Seed, X-scissor, Refresh, Body Slam, Double-Edge, Mimic, Refresh]
+    Parasect: [Giga Impact, Hyper Beam, Body Slam, Double-Edge, Mimic]

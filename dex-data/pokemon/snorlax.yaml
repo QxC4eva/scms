@@ -1,0 +1,84 @@
+pokemon:
+  Munchlax:
+    introduction: dp
+    types:
+    - [Normal]
+    egggroups:
+    - []
+    abilities:
+    - [Gluttony, Pickup, Thick Fat]
+    stats:
+    - [135, 85, 40, 40, 85, 5]
+    weight: [105]
+    height: [0.6]
+  Snorlax:
+    introduction: rb
+    types:
+    - [Normal]
+    egggroups:
+    - [Monster]
+    abilities:
+    - [Immunity, Thick Fat]
+    - bw: [Gluttony, Immunity, Thick Fat]
+    stats:
+    - [160, 110, 65, 65, 65, 30]
+    - gs: [160, 110, 65, 65, 110, 30]
+    weight: [460]
+    height: [2.1]
+families:
+- {from: Munchlax, to: Snorlax}
+learnsets:
+  rb:
+    Snorlax: [Amnesia, Bide, Blizzard, Body Slam, Bubblebeam, Counter, Double-Edge,
+      Double Team, Earthquake, Fire Blast, Fissure, Harden, Headbutt, Hyper Beam,
+      Ice Beam, Mega Kick, Mega Punch, Metronome, Mimic, Pay Day, Psychic, Psywave,
+      Rage, Reflect, Rest, Rock Slide, Seismic Toss, Selfdestruct, Skull Bash, Solarbeam,
+      Strength, Submission, Substitute, Surf, Take Down, Thunder, Thunderbolt, Toxic,
+      Water Gun]
+  gs:
+    Snorlax: [Amnesia, Attract, Belly Drum, Blizzard, Body Slam, Charm, Curse, Defense
+        Curl, Double Team, Dynamicpunch, Earthquake, Endure, Fire Blast, Fire Punch,
+      Flamethrower, Frustration, Headbutt, Hidden Power, Hyper Beam, Ice Beam, Ice
+        Punch, Icy Wind, Lick, Mud-Slap, Protect, Psych Up, Psychic, Rain Dance, Rest,
+      Return, Rock Smash, Rollout, Sandstorm, Shadow Ball, Sleep Talk, Snore, Solarbeam,
+      Strength, Sunny Day, Surf, Swagger, Tackle, Thunder, Thunderbolt, Thunderpunch,
+      Toxic, Zap Cannon]
+  rs:
+    Snorlax: [Amnesia, Attract, Belly Drum, Blizzard, Block, Body Slam, Brick Break,
+      Charm, Counter, Covet, Curse, Defense Curl, Double-Edge, Double Team, Dynamicpunch,
+      Earthquake, Endure, Facade, Fire Blast, Fire Punch, Fissure, Flamethrower, Focus
+        Punch, Frustration, Headbutt, Hidden Power, Hyper Beam, Ice Beam, Ice Punch,
+      Icy Wind, Lick, Mega Kick, Mega Punch, Metronome, Mimic, Mud-Slap, Protect,
+      Psych Up, Psychic, Rain Dance, Rest, Return, Rock Slide, Rock Tomb, Rollout,
+      Sandstorm, Secret Power, Seismic Toss, Selfdestruct, Shadow Ball, Shock Wave,
+      Sleep Talk, Snore, Solarbeam, Strength, Substitute, Sunny Day, Surf, Swagger,
+      Tackle, Thunder, Thunderbolt, Thunderpunch, Toxic, Water Pulse, Yawn, Icy Wind,
+      Icy Wind, Mimic, Refresh, Seismic Toss]
+  dp:
+    Munchlax: [Amnesia, Attract, Blizzard, Body Slam, Brick Break, Captivate, Charm,
+      Counter, Curse, Defense Curl, Double-Edge, Double Team, Earthquake, Endure,
+      Facade, Fire Blast, Fire Punch, Flamethrower, Fling, Focus Punch, Frustration,
+      Gunk Shot, Headbutt, Hidden Power, Ice Beam, Ice Punch, Icy Wind, Last Resort,
+      Lick, Metronome, Mud-Slap, Natural Gift, Odor Sleuth, Protect, Psychic, Pursuit,
+      Rain Dance, Recycle, Rest, Return, Rock Climb, Rock Slide, Rock Smash, Rock
+        Tomb, Rollout, Sandstorm, Screech, Secret Power, Seed Bomb, Shadow Ball, Shock
+        Wave, Sleep Talk, Snore, Solarbeam, Stockpile, Strength, Substitute, Sunny
+        Day, Superpower, Surf, Swagger, Swallow, Tackle, Thunder, Thunderbolt, Thunderpunch,
+      Toxic, Uproar, Water Pulse, Whirlpool, Whirlwind, Zen Headbutt]
+    Snorlax: [Belly Drum, Block, Crunch, Fissure, Focus Blast, Giga Impact, Hyper
+        Beam, Iron Head, Outrage, Yawn, Icy Wind, Icy Wind, Mimic, Refresh, Seismic
+        Toss]
+  bw:
+    Munchlax: [After You, Amnesia, Attract, Blizzard, Body Slam, Brick Break, Bulldoze,
+      Charm, Chip Away, Counter, Covet, Curse, Defense Curl, Double-Edge, Double Team,
+      Earthquake, Facade, Fire Blast, Fire Punch, Flamethrower, Fling, Frustration,
+      Gunk Shot, Hidden Power, Hyper Voice, Ice Beam, Ice Punch, Icy Wind, Incinerate,
+      Last Resort, Lick, Metronome, Natural Gift, Odor Sleuth, Protect, Psychic, Pursuit,
+      Rain Dance, Recycle, Rest, Retaliate, Return, Rock Slide, Rock Smash, Rock Tomb,
+      Rollout, Round, Sandstorm, Screech, Seed Bomb, Selfdestruct, Shadow Ball, Sleep
+        Talk, Snatch, Snore, Solarbeam, Stockpile, Strength, Substitute, Sunny Day,
+      Superpower, Surf, Swagger, Swallow, Tackle, Thunder, Thunderbolt, Thunderpunch,
+      Toxic, Uproar, Whirlwind, Work Up, Zen Headbutt]
+    Snorlax: [Belly Drum, Block, Crunch, Fissure, Focus Blast, Giga Impact, Heavy
+        Slam, Hyper Beam, Iron Head, Outrage, Smack Down, Wild Charge, Yawn, Icy Wind,
+      Mimic, Refresh, Seismic Toss]

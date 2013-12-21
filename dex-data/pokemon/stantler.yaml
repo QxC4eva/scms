@@ -1,0 +1,54 @@
+pokemon:
+  Stantler:
+    introduction: gs
+    types:
+    - [Normal]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Intimidate]
+    - dp: [Frisk, Intimidate]
+    - bw: [Frisk, Intimidate, Sap Sipper]
+    stats:
+    - [73, 95, 62, 85, 65, 85]
+    weight: [71.2]
+    height: [1.4]
+families: []
+learnsets:
+  gs:
+    Stantler: [Attract, Bite, Confuse Ray, Curse, Detect, Disable, Double Team, Dream
+        Eater, Earthquake, Endure, Flash, Frustration, Headbutt, Hidden Power, Hypnosis,
+      Leer, Light Screen, Mud-Slap, Nightmare, Protect, Psych Up, Psychic, Rain Dance,
+      Reflect, Rest, Return, Roar, Sand-Attack, Sleep Talk, Snore, Spite, Stomp, Sunny
+        Day, Swagger, Swift, Tackle, Take Down, Thief, Toxic]
+  rs:
+    Stantler: [Astonish, Attract, Bite, Body Slam, Calm Mind, Confuse Ray, Disable,
+      Double-Edge, Double Team, Dream Eater, Earthquake, Endure, Extrasensory, Facade,
+      Flash, Frustration, Hidden Power, Hypnosis, Iron Tail, Leer, Light Screen, Mimic,
+      Mud-Slap, Nightmare, Protect, Psych Up, Psychic, Rain Dance, Reflect, Rest,
+      Return, Roar, Role Play, Sand-Attack, Secret Power, Shadow Ball, Shock Wave,
+      Skill Swap, Sleep Talk, Snore, Solarbeam, Spite, Stomp, Substitute, Sunny Day,
+      Swagger, Swift, Tackle, Take Down, Thief, Thunder, Thunder Wave, Thunderbolt,
+      Toxic, Body Slam, Double-Edge, Mimic, Nightmare]
+  dp:
+    Stantler: [Astonish, Attract, Bite, Bounce, Calm Mind, Captivate, Charge Beam,
+      Confuse Ray, Disable, Double Kick, Double Team, Dream Eater, Earthquake, Endure,
+      Energy Ball, Extrasensory, Facade, Flash, Frustration, Giga Impact, Gravity,
+      Headbutt, Hidden Power, Hypnosis, Imprison, Iron Tail, Last Resort, Leer, Light
+        Screen, Me First, Megahorn, Mud-Slap, Natural Gift, Protect, Psych Up, Psychic,
+      Rain Dance, Reflect, Rest, Return, Roar, Role Play, Sand-Attack, Secret Power,
+      Shadow Ball, Shock Wave, Signal Beam, Skill Swap, Sleep Talk, Snore, Solarbeam,
+      Spite, Stomp, Substitute, Sucker Punch, Sunny Day, Swagger, Swift, Tackle, Take
+        Down, Thief, Thrash, Thunder, Thunder Wave, Thunderbolt, Toxic, Trick Room,
+      Uproar, Zen Headbutt, Body Slam, Double-Edge, Mimic, Nightmare]
+  bw:
+    Stantler: [Astonish, Attract, Bite, Bounce, Bulldoze, Calm Mind, Captivate, Charge
+        Beam, Confuse Ray, Disable, Double Kick, Double Team, Dream Eater, Earthquake,
+      Energy Ball, Extrasensory, Facade, Flash, Frustration, Giga Impact, Gravity,
+      Hidden Power, Hypnosis, Imprison, Iron Tail, Jump Kick, Last Resort, Leer, Light
+        Screen, Magic Room, Me First, Megahorn, Mud Sport, Protect, Psych Up, Psychic,
+      Psyshock, Rage, Rain Dance, Reflect, Rest, Retaliate, Return, Roar, Role Play,
+      Round, Sand-Attack, Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snore,
+      Solarbeam, Spite, Stomp, Substitute, Sunny Day, Swagger, Tackle, Take Down,
+      Thief, Thrash, Thunder, Thunder Wave, Thunderbolt, Toxic, Trick Room, Uproar,
+      Wild Charge, Work Up, Zen Headbutt, Body Slam, Double-Edge, Mimic, Nightmare]

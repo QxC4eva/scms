@@ -1,0 +1,61 @@
+pokemon:
+  Lileep:
+    introduction: rs
+    types:
+    - [Grass, Rock]
+    egggroups:
+    - [Water 3]
+    abilities:
+    - [Suction Cups]
+    - bw: [Storm Drain, Suction Cups]
+    stats:
+    - [66, 41, 77, 61, 87, 23]
+    weight: [23.8]
+    height: [1]
+  Cradily:
+    introduction: rs
+    types:
+    - [Grass, Rock]
+    egggroups:
+    - [Water 3]
+    abilities:
+    - [Suction Cups]
+    - bw: [Storm Drain, Suction Cups]
+    stats:
+    - [86, 81, 97, 81, 107, 43]
+    weight: [60.4]
+    height: [1.5]
+families:
+- {from: Lileep, to: Cradily}
+learnsets:
+  rs:
+    Lileep: [Acid, Amnesia, Ancientpower, Astonish, Attract, Barrier, Body Slam, Bullet
+        Seed, Confuse Ray, Constrict, Double-Edge, Double Team, Endure, Facade, Frustration,
+      Giga Drain, Hidden Power, Ingrain, Mimic, Mirror Coat, Mud-Slap, Protect, Psych
+        Up, Recover, Rest, Return, Rock Slide, Sandstorm, Secret Power, Sleep Talk,
+      Sludge Bomb, Snore, Solarbeam, Spit Up, Stockpile, Substitute, Sunny Day, Swagger,
+      Swallow, Toxic, Body Slam, Double-Edge, Mimic]
+    Cradily: [Earthquake, Hyper Beam, Rock Smash, Rock Tomb, Strength]
+  dp:
+    Lileep: [Acid, Amnesia, Ancientpower, Astonish, Attract, Barrier, Bullet Seed,
+      Captivate, Confuse Ray, Constrict, Curse, Double Team, Earth Power, Endure,
+      Energy Ball, Facade, Flash, Frustration, Gastro Acid, Giga Drain, Grass Knot,
+      Hidden Power, Ingrain, Mirror Coat, Mud-Slap, Natural Gift, Pain Split, Protect,
+      Recover, Rest, Return, Rock Polish, Rock Slide, Rock Tomb, Sandstorm, Secret
+        Power, Seed Bomb, Sleep Talk, Sludge Bomb, Snore, Solarbeam, Spit Up, Stealth
+        Rock, Stockpile, String Shot, Substitute, Sunny Day, Swagger, Swallow, Swords
+        Dance, Synthesis, Tickle, Toxic, Worry Seed, Wring Out, Body Slam, Double-Edge,
+      Mimic]
+    Cradily: [Block, Earthquake, Giga Impact, Headbutt, Hyper Beam, Rock Smash, Stone
+        Edge, Strength]
+  bw:
+    Lileep: [Acid, Amnesia, Ancientpower, Astonish, Attract, Barrier, Bind, Confuse
+        Ray, Constrict, Curse, Double Team, Earth Power, Endure, Energy Ball, Facade,
+      Flash, Frustration, Gastro Acid, Giga Drain, Grass Knot, Hidden Power, Ingrain,
+      Mega Drain, Mirror Coat, Pain Split, Protect, Recover, Rest, Return, Rock Polish,
+      Rock Slide, Rock Tomb, Round, Sandstorm, Seed Bomb, Sleep Talk, Sludge Bomb,
+      Smack Down, Snore, Solarbeam, Spit Up, Stealth Rock, Stockpile, Substitute,
+      Sunny Day, Swagger, Swallow, Swords Dance, Synthesis, Tickle, Toxic, Worry Seed,
+      Wring Out, Body Slam, Double-Edge, Mimic]
+    Cradily: [Block, Bulldoze, Earthquake, Giga Impact, Hyper Beam, Rock Smash, Sludge
+        Wave, Stone Edge, Strength]

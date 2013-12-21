@@ -1,0 +1,24 @@
+pokemon:
+  Virizion:
+    introduction: bw
+    types:
+    - [Fighting, Grass]
+    egggroups:
+    - []
+    abilities:
+    - [Justified]
+    stats:
+    - [91, 90, 72, 90, 129, 108]
+    weight: [200]
+    height: [2]
+families: []
+learnsets:
+  bw:
+    Virizion: [Aerial Ace, Block, Bounce, Calm Mind, Close Combat, Cut, Double Kick,
+      Double Team, Energy Ball, Facade, False Swipe, Flash, Focus Blast, Frustration,
+      Giga Drain, Giga Impact, Grass Knot, Helping Hand, Hidden Power, Hyper Beam,
+      Leaf Blade, Leer, Light Screen, Magical Leaf, Protect, Psych Up, Quick Attack,
+      Quick Guard, Reflect, Rest, Retaliate, Return, Roar, Rock Smash, Round, Sacred
+        Sword, Safeguard, Seed Bomb, Sleep Talk, Snore, Solarbeam, Stone Edge, Strength,
+      Substitute, Sunny Day, Superpower, Swagger, Swords Dance, Synthesis, Take Down,
+      Taunt, Toxic, Work Up, Worry Seed, X-scissor, Zen Headbutt]

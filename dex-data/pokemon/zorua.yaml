@@ -1,0 +1,39 @@
+pokemon:
+  Zorua:
+    introduction: bw
+    types:
+    - [Dark]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Illusion]
+    stats:
+    - [40, 65, 40, 80, 40, 65]
+    weight: [12.5]
+    height: [0.7]
+  Zoroark:
+    introduction: bw
+    types:
+    - [Dark]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Illusion]
+    stats:
+    - [60, 105, 60, 120, 60, 105]
+    weight: [81.1]
+    height: [1.6]
+families:
+- {from: Zorua, to: Zoroark}
+learnsets:
+  bw:
+    Zorua: [Aerial Ace, Agility, Attract, Bounce, Calm Mind, Captivate, Counter, Covet,
+      Cut, Dark Pulse, Detect, Dig, Double Team, Embargo, Extrasensory, Facade, Faint
+        Attack, Fake Tears, Fling, Foul Play, Frustration, Fury Swipes, Grass Knot,
+      Hidden Power, Hone Claws, Hyper Voice, Imprison, Incinerate, Knock Off, Leer,
+      Memento, Nasty Plot, Night Daze, Payback, Protect, Psych Up, Punishment, Pursuit,
+      Rain Dance, Rest, Retaliate, Return, Roar, Round, Scary Face, Scratch, Shadow
+        Ball, Sleep Talk, Snarl, Snatch, Snore, Spite, Substitute, Sucker Punch, Sunny
+        Day, Swagger, Swords Dance, Taunt, Thief, Torment, Toxic, Trick, U-turn, Uproar]
+    Zoroark: [Flamethrower, Focus Blast, Giga Impact, Hyper Beam, Low Kick, Low Sweep,
+      Night Slash, Rock Smash, Shadow Claw]

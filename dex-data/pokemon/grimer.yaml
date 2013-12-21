@@ -1,0 +1,79 @@
+pokemon:
+  Grimer:
+    introduction: rb
+    types:
+    - [Poison]
+    egggroups:
+    - [Indeterminate]
+    abilities:
+    - [Stench, Sticky Hold]
+    - bw: [Poison Touch, Stench, Sticky Hold]
+    stats:
+    - [80, 80, 50, 40, 40, 25]
+    - gs: [80, 80, 50, 40, 50, 25]
+    weight: [30]
+    height: [0.9]
+  Muk:
+    introduction: rb
+    types:
+    - [Poison]
+    egggroups:
+    - [Indeterminate]
+    abilities:
+    - [Stench, Sticky Hold]
+    - bw: [Poison Touch, Stench, Sticky Hold]
+    stats:
+    - [105, 105, 75, 65, 65, 50]
+    - gs: [105, 105, 75, 65, 100, 50]
+    weight: [30]
+    height: [1.2]
+families:
+- {from: Grimer, to: Muk}
+learnsets:
+  rb:
+    Grimer: [Acid Armor, Bide, Body Slam, Disable, Double Team, Explosion, Fire Blast,
+      Harden, Mega Drain, Mimic, Minimize, Poison Gas, Pound, Rage, Rest, Screech,
+      Selfdestruct, Sludge, Substitute, Thunder, Thunderbolt, Toxic]
+    Muk: [Hyper Beam]
+  gs:
+    Grimer: [Acid Armor, Attract, Curse, Disable, Double Team, Dynamicpunch, Endure,
+      Fire Blast, Fire Punch, Flamethrower, Frustration, Giga Drain, Harden, Haze,
+      Hidden Power, Ice Punch, Lick, Mean Look, Minimize, Mud-Slap, Poison Gas, Pound,
+      Protect, Rest, Return, Screech, Sleep Talk, Sludge, Sludge Bomb, Snore, Sunny
+        Day, Swagger, Thief, Thunder, Thunderbolt, Thunderpunch, Toxic, Zap Cannon]
+    Muk: [Hyper Beam]
+  rs:
+    Grimer: [Acid Armor, Attract, Body Slam, Curse, Dig, Disable, Double Team, Dynamicpunch,
+      Endure, Explosion, Facade, Fire Blast, Fire Punch, Flamethrower, Frustration,
+      Giga Drain, Harden, Haze, Hidden Power, Ice Punch, Imprison, Lick, Mean Look,
+      Memento, Mimic, Minimize, Mud-Slap, Poison Gas, Pound, Protect, Rain Dance,
+      Rest, Return, Rock Tomb, Screech, Secret Power, Selfdestruct, Shadow Punch,
+      Shock Wave, Sleep Talk, Sludge, Sludge Bomb, Snore, Substitute, Sunny Day, Swagger,
+      Taunt, Thief, Thunder, Thunderbolt, Thunderpunch, Torment, Toxic, Body Slam,
+      Helping Hand, Mimic, Selfdestruct]
+    Muk: [Brick Break, Focus Punch, Hyper Beam, Rock Smash, Strength, Body Slam, Mimic,
+      Selfdestruct]
+  dp:
+    Grimer: [Acid Armor, Attract, Captivate, Curse, Dig, Disable, Double Team, Endure,
+      Explosion, Facade, Fire Blast, Fire Punch, Flamethrower, Fling, Frustration,
+      Giga Drain, Gunk Shot, Harden, Haze, Hidden Power, Ice Punch, Imprison, Lick,
+      Mean Look, Memento, Minimize, Mud Bomb, Mud-Slap, Natural Gift, Pain Split,
+      Payback, Poison Gas, Poison Jab, Pound, Protect, Rain Dance, Rest, Return, Rock
+        Slide, Rock Tomb, Screech, Secret Power, Shadow Ball, Shadow Punch, Shadow
+        Sneak, Shock Wave, Sleep Talk, Sludge, Sludge Bomb, Snore, Spit Up, Stockpile,
+      Strength, Substitute, Sunny Day, Swagger, Swallow, Taunt, Thief, Thunder, Thunderbolt,
+      Thunderpunch, Torment, Toxic, Body Slam, Helping Hand, Mimic, Selfdestruct]
+    Muk: [Block, Brick Break, Dark Pulse, Focus Blast, Focus Punch, Giga Impact, Hyper
+        Beam, Rock Smash, Body Slam, Mimic, Selfdestruct]
+  bw:
+    Grimer: [Acid Armor, Acid Spray, Attract, Curse, Dig, Disable, Double Team, Explosion,
+      Facade, Fire Blast, Fire Punch, Flamethrower, Fling, Frustration, Giga Drain,
+      Gunk Shot, Harden, Haze, Hidden Power, Ice Punch, Imprison, Incinerate, Lick,
+      Mean Look, Memento, Minimize, Mud Bomb, Mud-Slap, Pain Split, Payback, Poison
+        Gas, Poison Jab, Pound, Protect, Rain Dance, Rest, Return, Rock Slide, Rock
+        Tomb, Round, Scary Face, Screech, Shadow Ball, Shadow Punch, Shadow Sneak,
+      Sleep Talk, Sludge, Sludge Bomb, Sludge Wave, Snore, Spit Up, Stockpile, Strength,
+      Substitute, Sunny Day, Swagger, Swallow, Taunt, Thief, Thunder, Thunderbolt,
+      Thunderpunch, Torment, Toxic, Venoshock, Body Slam, Helping Hand, Mimic, Selfdestruct]
+    Muk: [Block, Brick Break, Dark Pulse, Focus Blast, Giga Impact, Hyper Beam, Rock
+        Smash, Body Slam, Mimic, Selfdestruct]

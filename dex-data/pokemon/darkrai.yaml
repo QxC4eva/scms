@@ -1,0 +1,38 @@
+pokemon:
+  Darkrai:
+    introduction: dp
+    types:
+    - [Dark]
+    egggroups:
+    - []
+    abilities:
+    - [Bad Dreams]
+    stats:
+    - [70, 90, 90, 135, 90, 125]
+    weight: [50.5]
+    height: [1.5]
+families: []
+learnsets:
+  dp:
+    Darkrai: [Aerial Ace, Blizzard, Brick Break, Calm Mind, Charge Beam, Cut, Dark
+        Pulse, Dark Void, Disable, Double Team, Drain Punch, Dream Eater, Embargo,
+      Endure, Facade, Faint Attack, Flash, Fling, Focus Blast, Focus Punch, Frustration,
+      Giga Impact, Haze, Headbutt, Hidden Power, Hyper Beam, Hypnosis, Ice Beam, Icy
+        Wind, Knock Off, Last Resort, Mud-Slap, Nasty Plot, Natural Gift, Night Shade,
+      Nightmare, Ominous Wind, Payback, Poison Jab, Protect, Psych Up, Psychic, Pursuit,
+      Quick Attack, Rain Dance, Rest, Return, Rock Climb, Rock Slide, Rock Smash,
+      Rock Tomb, Secret Power, Shadow Ball, Shadow Claw, Shock Wave, Sleep Talk, Sludge
+        Bomb, Snatch, Snore, Spite, Strength, Substitute, Sucker Punch, Sunny Day,
+      Swagger, Swift, Swords Dance, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt,
+      Torment, Toxic, Trick, Will-O-Wisp, X-scissor]
+  bw:
+    Darkrai: [Aerial Ace, Blizzard, Brick Break, Calm Mind, Charge Beam, Cut, Dark
+        Pulse, Dark Void, Disable, Double Team, Drain Punch, Dream Eater, Embargo,
+      Facade, Faint Attack, Flash, Fling, Focus Blast, Foul Play, Frustration, Giga
+        Impact, Haze, Hidden Power, Hyper Beam, Hypnosis, Ice Beam, Icy Wind, Incinerate,
+      Knock Off, Last Resort, Nasty Plot, Nightmare, Ominous Wind, Payback, Poison
+        Jab, Protect, Psych Up, Psychic, Quick Attack, Rain Dance, Rest, Retaliate,
+      Return, Rock Slide, Rock Smash, Rock Tomb, Round, Shadow Ball, Shadow Claw,
+      Sleep Talk, Sludge Bomb, Snarl, Snatch, Snore, Spite, Strength, Substitute,
+      Sunny Day, Swagger, Swords Dance, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt,
+      Torment, Toxic, Trick, Will-O-Wisp, Wonder Room, X-scissor]

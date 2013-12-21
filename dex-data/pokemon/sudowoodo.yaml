@@ -1,0 +1,65 @@
+pokemon:
+  Bonsly:
+    introduction: dp
+    types:
+    - [Rock]
+    egggroups:
+    - []
+    abilities:
+    - [Rattled, Rock Head, Sturdy]
+    stats:
+    - [50, 80, 95, 10, 45, 10]
+    weight: [15]
+    height: [0.5]
+  Sudowoodo:
+    introduction: gs
+    types:
+    - [Rock]
+    egggroups:
+    - [Mineral]
+    abilities:
+    - [Rock Head, Sturdy]
+    - bw: [Rattled, Rock Head, Sturdy]
+    stats:
+    - [70, 100, 115, 30, 65, 30]
+    weight: [38]
+    height: [1.2]
+families:
+- {from: Bonsly, to: Sudowoodo}
+learnsets:
+  gs:
+    Sudowoodo: [Attract, Curse, Defense Curl, Dig, Double Team, Dynamicpunch, Earthquake,
+      Endure, Faint Attack, Fire Punch, Flail, Frustration, Headbutt, Hidden Power,
+      Ice Punch, Low Kick, Mimic, Mud-Slap, Protect, Psych Up, Rest, Return, Rock
+        Slide, Rock Smash, Rock Throw, Rollout, Sandstorm, Selfdestruct, Slam, Sleep
+        Talk, Snore, Strength, Sunny Day, Swagger, Thief, Thunderpunch, Toxic]
+  rs:
+    Sudowoodo: [Attract, Block, Body Slam, Brick Break, Calm Mind, Counter, Defense
+        Curl, Dig, Double-Edge, Double Team, Dynamicpunch, Earthquake, Endure, Explosion,
+      Facade, Faint Attack, Fire Punch, Flail, Focus Punch, Frustration, Hidden Power,
+      Ice Punch, Low Kick, Mega Kick, Mega Punch, Mimic, Mud-Slap, Protect, Psych
+        Up, Rest, Return, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout,
+      Sandstorm, Secret Power, Seismic Toss, Selfdestruct, Slam, Sleep Talk, Snore,
+      Strength, Substitute, Sunny Day, Swagger, Taunt, Thief, Thunderpunch, Toxic]
+  dp:
+    Bonsly: [Attract, Block, Brick Break, Calm Mind, Captivate, Copycat, Defense Curl,
+      Dig, Double-Edge, Double Team, Earth Power, Endure, Explosion, Facade, Faint
+        Attack, Fake Tears, Flail, Frustration, Harden, Headbutt, Helping Hand, Hidden
+        Power, Low Kick, Mimic, Natural Gift, Protect, Psych Up, Rest, Return, Rock
+        Polish, Rock Slide, Rock Throw, Rock Tomb, Role Play, Rollout, Sand Tomb,
+      Sandstorm, Secret Power, Selfdestruct, Slam, Sleep Talk, Snore, Stealth Rock,
+      Substitute, Sucker Punch, Sunny Day, Swagger, Thief, Toxic, Uproar]
+    Sudowoodo: [Earthquake, Fire Punch, Fling, Focus Punch, Hammer Arm, Ice Punch,
+      Mud-Slap, Rock Smash, Stone Edge, Strength, Taunt, Thunderpunch, Torment, Wood
+        Hammer]
+  bw:
+    Bonsly: [After You, Attract, Block, Brick Break, Calm Mind, Copycat, Covet, Curse,
+      Defense Curl, Dig, Double-Edge, Double Team, Earth Power, Endure, Explosion,
+      Facade, Faint Attack, Fake Tears, Flail, Foul Play, Frustration, Harden, Headbutt,
+      Helping Hand, Hidden Power, Low Kick, Mimic, Protect, Psych Up, Rest, Return,
+      Rock Polish, Rock Slide, Rock Throw, Rock Tomb, Role Play, Rollout, Round, Sand
+        Tomb, Sandstorm, Selfdestruct, Slam, Sleep Talk, Smack Down, Snore, Stealth
+        Rock, Substitute, Sucker Punch, Sunny Day, Swagger, Thief, Toxic, Uproar]
+    Sudowoodo: [Bulldoze, Counter, Earthquake, Fire Punch, Fling, Hammer Arm, Ice
+        Punch, Rock Smash, Stone Edge, Strength, Taunt, Thunderpunch, Torment, Wood
+        Hammer]

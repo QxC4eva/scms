@@ -1,0 +1,60 @@
+pokemon:
+  Poochyena:
+    introduction: rs
+    types:
+    - [Dark]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Run Away]
+    - dp: [Quick Feet, Run Away]
+    - bw: [Quick Feet, Rattled, Run Away]
+    stats:
+    - [35, 55, 35, 30, 30, 35]
+    weight: [13.6]
+    height: [0.5]
+  Mightyena:
+    introduction: rs
+    types:
+    - [Dark]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Intimidate]
+    - dp: [Intimidate, Quick Feet]
+    - bw: [Intimidate, Moxie, Quick Feet]
+    stats:
+    - [70, 90, 70, 60, 60, 70]
+    weight: [37]
+    height: [1]
+families:
+- {from: Poochyena, to: Mightyena}
+learnsets:
+  rs:
+    Poochyena: [Astonish, Attract, Bite, Body Slam, Counter, Covet, Crunch, Dig, Double-Edge,
+      Double Team, Endure, Facade, Frustration, Hidden Power, Howl, Iron Tail, Leer,
+      Mimic, Mud-Slap, Odor Sleuth, Poison Fang, Protect, Psych Up, Rain Dance, Rest,
+      Return, Roar, Rock Smash, Sand-Attack, Scary Face, Secret Power, Shadow Ball,
+      Sleep Talk, Snatch, Snore, Substitute, Sunny Day, Swagger, Tackle, Take Down,
+      Taunt, Thief, Torment, Toxic, Yawn, Body Slam, Double-Edge, Heal Bell, Mimic]
+    Mightyena: [Hyper Beam, Strength, Body Slam, Double-Edge, Mimic]
+  dp:
+    Poochyena: [Assurance, Astonish, Attract, Bite, Captivate, Covet, Crunch, Dark
+        Pulse, Dig, Double Team, Embargo, Endure, Facade, Fire Fang, Frustration,
+      Headbutt, Hidden Power, Howl, Ice Fang, Iron Tail, Leer, Me First, Mud-Slap,
+      Natural Gift, Odor Sleuth, Payback, Poison Fang, Protect, Rain Dance, Rest,
+      Return, Roar, Rock Smash, Sand-Attack, Scary Face, Secret Power, Shadow Ball,
+      Sleep Talk, Snatch, Snore, Spite, Substitute, Sucker Punch, Sunny Day, Super
+        Fang, Swagger, Tackle, Take Down, Taunt, Thief, Thunder Fang, Torment, Toxic,
+      Uproar, Yawn, Body Slam, Double-Edge, Heal Bell, Mimic]
+    Mightyena: [Giga Impact, Hyper Beam, Strength, Body Slam, Double-Edge, Mimic]
+  bw:
+    Poochyena: [Assurance, Astonish, Attract, Bite, Covet, Crunch, Dark Pulse, Dig,
+      Double Team, Embargo, Facade, Fire Fang, Foul Play, Frustration, Hidden Power,
+      Howl, Hyper Voice, Ice Fang, Incinerate, Iron Tail, Leer, Me First, Odor Sleuth,
+      Payback, Poison Fang, Protect, Rain Dance, Rest, Retaliate, Return, Roar, Rock
+        Smash, Round, Sand-Attack, Scary Face, Shadow Ball, Sleep Talk, Snarl, Snatch,
+      Snore, Spite, Substitute, Sucker Punch, Sunny Day, Super Fang, Swagger, Tackle,
+      Take Down, Taunt, Thief, Thunder Fang, Torment, Toxic, Uproar, Yawn, Body Slam,
+      Double-Edge, Heal Bell, Mimic]
+    Mightyena: [Giga Impact, Hyper Beam, Strength, Body Slam, Double-Edge, Mimic]

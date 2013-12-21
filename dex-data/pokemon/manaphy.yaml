@@ -1,0 +1,34 @@
+pokemon:
+  Manaphy:
+    introduction: dp
+    types:
+    - [Water]
+    egggroups:
+    - [Fairy, Water 1]
+    abilities:
+    - [Hydration]
+    stats:
+    - [100, 100, 100, 100, 100, 100]
+    weight: [1.4]
+    height: [0.3]
+families: []
+learnsets:
+  dp:
+    Manaphy: [Acid Armor, Ancientpower, Aqua Ring, Blizzard, Bounce, Brine, Bubble,
+      Bubblebeam, Calm Mind, Charm, Dive, Double Team, Endure, Energy Ball, Facade,
+      Flash, Fling, Frustration, Giga Impact, Grass Knot, Hail, Heal Bell, Heart Swap,
+      Helping Hand, Hidden Power, Hyper Beam, Ice Beam, Icy Wind, Knock Off, Last
+        Resort, Light Screen, Mud-Slap, Natural Gift, Protect, Psych Up, Psychic,
+      Rain Dance, Reflect, Rest, Return, Safeguard, Secret Power, Shadow Ball, Signal
+        Beam, Skill Swap, Sleep Talk, Snore, Substitute, Supersonic, Surf, Swagger,
+      Swift, Tail Glow, Toxic, U-turn, Uproar, Water Pulse, Water Sport, Waterfall,
+      Whirlpool]
+  bw:
+    Manaphy: [Acid Armor, Aqua Ring, Blizzard, Bounce, Bubble, Bubblebeam, Calm Mind,
+      Charm, Covet, Dive, Double Team, Energy Ball, Facade, Flash, Fling, Frustration,
+      Giga Impact, Grass Knot, Hail, Heal Bell, Heart Swap, Helping Hand, Hidden Power,
+      Hyper Beam, Ice Beam, Icy Wind, Knock Off, Last Resort, Light Screen, Protect,
+      Psych Up, Psychic, Rain Dance, Reflect, Rest, Return, Round, Safeguard, Scald,
+      Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snore, Substitute, Supersonic,
+      Surf, Swagger, Tail Glow, Toxic, U-turn, Uproar, Water Pulse, Water Sport, Waterfall,
+      Whirlpool]

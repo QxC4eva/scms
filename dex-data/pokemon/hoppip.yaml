@@ -1,0 +1,85 @@
+pokemon:
+  Hoppip:
+    introduction: gs
+    types:
+    - [Flying, Grass]
+    egggroups:
+    - [Fairy, Plant]
+    abilities:
+    - [Chlorophyll]
+    - dp: [Chlorophyll, Leaf Guard]
+    - bw: [Chlorophyll, Infiltrator, Leaf Guard]
+    stats:
+    - [35, 35, 40, 35, 55, 50]
+    weight: [0.5]
+    height: [0.4]
+  Skiploom:
+    introduction: gs
+    types:
+    - [Flying, Grass]
+    egggroups:
+    - [Fairy, Plant]
+    abilities:
+    - [Chlorophyll]
+    - dp: [Chlorophyll, Leaf Guard]
+    - bw: [Chlorophyll, Infiltrator, Leaf Guard]
+    stats:
+    - [55, 45, 50, 45, 65, 80]
+    weight: [1]
+    height: [0.6]
+  Jumpluff:
+    introduction: gs
+    types:
+    - [Flying, Grass]
+    egggroups:
+    - [Fairy, Plant]
+    abilities:
+    - [Chlorophyll]
+    - dp: [Chlorophyll, Leaf Guard]
+    - bw: [Chlorophyll, Infiltrator, Leaf Guard]
+    stats:
+    - [75, 55, 70, 55, 85, 110]
+    weight: [3]
+    height: [0.8]
+families:
+- {from: Hoppip, to: Skiploom}
+- {from: Skiploom, to: Jumpluff}
+learnsets:
+  gs:
+    Hoppip: [Amnesia, Attract, Confusion, Cotton Spore, Curse, Defense Curl, Double-Edge,
+      Double Team, Encore, Endure, Flash, Frustration, Giga Drain, Growl, Headbutt,
+      Hidden Power, Leech Seed, Mega Drain, Pay Day, Poisonpowder, Protect, Reflect,
+      Rest, Return, Sleep Powder, Sleep Talk, Snore, Solarbeam, Splash, Stun Spore,
+      Sunny Day, Swagger, Sweet Scent, Synthesis, Tackle, Tail Whip, Toxic]
+    Skiploom: []
+    Jumpluff: [Hyper Beam]
+  rs:
+    Hoppip: [Aerial Ace, Amnesia, Attract, Bullet Seed, Confusion, Cotton Spore, Defense
+        Curl, Double-Edge, Double Team, Encore, Endure, Facade, Flash, Frustration,
+      Giga Drain, Helping Hand, Hidden Power, Leech Seed, Mega Drain, Mimic, Poisonpowder,
+      Protect, Psych Up, Reflect, Rest, Return, Secret Power, Sleep Powder, Sleep
+        Talk, Snore, Solarbeam, Splash, Stun Spore, Substitute, Sunny Day, Swagger,
+      Swords Dance, Synthesis, Tackle, Tail Whip, Toxic, Mimic]
+    Skiploom: [Mimic]
+    Jumpluff: [Hyper Beam, Mimic]
+  dp:
+    Hoppip: [Aerial Ace, Amnesia, Aromatherapy, Attract, Bounce, Bullet Seed, Captivate,
+      Confusion, Cotton Spore, Double-Edge, Double Team, Encore, Endure, Energy Ball,
+      Facade, Flash, Frustration, Giga Drain, Grass Knot, Headbutt, Helping Hand,
+      Hidden Power, Leech Seed, Mega Drain, Memento, Natural Gift, Poisonpowder, Protect,
+      Psych Up, Reflect, Rest, Return, Secret Power, Seed Bomb, Silver Wind, Sleep
+        Powder, Sleep Talk, Snore, Solarbeam, Splash, Stun Spore, Substitute, Sunny
+        Day, Swagger, Swords Dance, Synthesis, Tackle, Tail Whip, Toxic, U-turn, Worry
+        Seed, Mimic]
+    Skiploom: [Mimic]
+    Jumpluff: [Giga Impact, Hyper Beam, Mimic]
+  bw:
+    Hoppip: [Acrobatics, Aerial Ace, Amnesia, Aromatherapy, Attract, Bounce, Bullet
+        Seed, Confusion, Cotton Guard, Cotton Spore, Double-Edge, Double Team, Encore,
+      Endure, Energy Ball, Facade, Flash, Frustration, Giga Drain, Grass Knot, Helping
+        Hand, Hidden Power, Leech Seed, Mega Drain, Memento, Poisonpowder, Protect,
+      Psych Up, Rage Powder, Reflect, Rest, Return, Round, Seed Bomb, Sleep Powder,
+      Sleep Talk, Snore, Solarbeam, Splash, Stun Spore, Substitute, Sunny Day, Swagger,
+      Swords Dance, Synthesis, Tackle, Tail Whip, Toxic, U-turn, Worry Seed, Mimic]
+    Skiploom: [Mimic]
+    Jumpluff: [Giga Impact, Hyper Beam, Mimic]

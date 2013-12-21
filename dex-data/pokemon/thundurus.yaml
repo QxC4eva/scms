@@ -1,0 +1,40 @@
+pokemon:
+  Thundurus:
+    introduction: bw
+    types:
+    - [Electric, Flying]
+    egggroups:
+    - []
+    abilities:
+    - [Defiant, Prankster]
+    stats:
+    - [79, 115, 70, 125, 80, 111]
+    weight: [61]
+    height: [1.5]
+  Thundurus-Therian:
+    introduction: bw
+    types:
+    - [Electric, Flying]
+    egggroups:
+    - []
+    abilities:
+    - [Volt Absorb]
+    stats:
+    - [79, 105, 70, 145, 80, 101]
+    weight: [61]
+    height: [3]
+families:
+- {from: Thundurus, to: Thundurus-T}
+- {from: Thundurus, to: Thundurus-T}
+- {from: Thundurus-T, to: Thundurus}
+learnsets:
+  bw:
+    Thundurus: [Agility, Astonish, Attract, Bite, Brick Break, Bulk Up, Charge, Charge
+        Beam, Crunch, Dark Pulse, Discharge, Double Team, Embargo, Facade, Flash Cannon,
+      Fling, Fly, Focus Blast, Foul Play, Frustration, Giga Impact, Grass Knot, Hammer
+        Arm, Heal Block, Hidden Power, Hyper Beam, Incinerate, Iron Tail, Knock Off,
+      Nasty Plot, Payback, Protect, Psychic, Rain Dance, Rest, Return, Revenge, Rock
+        Smash, Role Play, Round, Shock Wave, Sky Drop, Sleep Talk, Sludge Bomb, Sludge
+        Wave, Smack Down, Snore, Strength, Substitute, Superpower, Swagger, Taunt,
+      Thief, Thrash, Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Thundershock,
+      Torment, Toxic, U-turn, Uproar, Volt Switch, Wild Charge]

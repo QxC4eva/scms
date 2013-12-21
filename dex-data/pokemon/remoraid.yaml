@@ -1,0 +1,71 @@
+pokemon:
+  Remoraid:
+    introduction: gs
+    types:
+    - [Water]
+    egggroups:
+    - [Water 1, Water 2]
+    abilities:
+    - [Hustle]
+    - dp: [Hustle, Sniper]
+    - bw: [Hustle, Moody, Sniper]
+    stats:
+    - [35, 65, 35, 65, 35, 65]
+    weight: [12]
+    height: [0.6]
+  Octillery:
+    introduction: gs
+    types:
+    - [Water]
+    egggroups:
+    - [Water 1, Water 2]
+    abilities:
+    - [Suction Cups]
+    - dp: [Sniper, Suction Cups]
+    - bw: [Moody, Sniper, Suction Cups]
+    stats:
+    - [75, 105, 75, 105, 75, 45]
+    weight: [28.5]
+    height: [0.9]
+families:
+- {from: Remoraid, to: Octillery}
+learnsets:
+  gs:
+    Remoraid: [Attract, Aurora Beam, Bubblebeam, Curse, Defense Curl, Double Team,
+      Endure, Flamethrower, Focus Energy, Frustration, Haze, Hidden Power, Hyper Beam,
+      Ice Beam, Lock-On, Mud-Slap, Octazooka, Protect, Psybeam, Rain Dance, Rest,
+      Return, Screech, Sleep Talk, Snore, Supersonic, Surf, Swagger, Swift, Thief,
+      Toxic, Water Gun, Whirlpool]
+    Octillery: [Constrict]
+  rs:
+    Remoraid: [Attract, Aurora Beam, Blizzard, Bubblebeam, Defense Curl, Dive, Double-Edge,
+      Double Team, Endure, Facade, Fire Blast, Flamethrower, Focus Energy, Frustration,
+      Haze, Hidden Power, Hyper Beam, Ice Beam, Lock-On, Mimic, Mud-Slap, Octazooka,
+      Protect, Psybeam, Psychic, Rain Dance, Rest, Return, Rock Blast, Screech, Secret
+        Power, Sleep Talk, Snore, Substitute, Sunny Day, Supersonic, Surf, Swagger,
+      Swift, Thief, Thunder Wave, Toxic, Water Gun, Water Pulse, Waterfall, Double-Edge,
+      Mimic]
+    Octillery: [Bullet Seed, Constrict, Seismic Toss, Sludge Bomb, Double-Edge, Mimic,
+      Seismic Toss]
+  dp:
+    Remoraid: [Attract, Aurora Beam, Blizzard, Bounce, Brine, Bubblebeam, Bullet Seed,
+      Captivate, Charge Beam, Dive, Double Team, Endure, Facade, Fire Blast, Flail,
+      Flamethrower, Focus Energy, Frustration, Gunk Shot, Haze, Hidden Power, Hyper
+        Beam, Ice Beam, Icy Wind, Lock-On, Mud-Slap, Natural Gift, Octazooka, Protect,
+      Psybeam, Psychic, Rain Dance, Rest, Return, Rock Blast, Screech, Secret Power,
+      Seed Bomb, Signal Beam, Sleep Talk, Snore, String Shot, Substitute, Sunny Day,
+      Supersonic, Surf, Swagger, Swift, Thief, Thunder Wave, Toxic, Water Gun, Water
+        Pulse, Water Spout, Waterfall, Whirlpool, Double-Edge, Mimic]
+    Octillery: [Constrict, Energy Ball, Flash Cannon, Giga Impact, Payback, Sludge
+        Bomb, Wring Out, Double-Edge, Mimic, Seismic Toss]
+  bw:
+    Remoraid: [Acid Spray, Attract, Aurora Beam, Blizzard, Bounce, Bubblebeam, Bullet
+        Seed, Charge Beam, Dive, Double Team, Facade, Fire Blast, Flail, Flamethrower,
+      Focus Energy, Frustration, Gunk Shot, Haze, Hidden Power, Hydro Pump, Hyper
+        Beam, Ice Beam, Icy Wind, Incinerate, Lock-On, Mud Shot, Octazooka, Protect,
+      Psybeam, Psychic, Rain Dance, Rest, Return, Rock Blast, Round, Scald, Screech,
+      Seed Bomb, Signal Beam, Sleep Talk, Smack Down, Snore, Soak, Substitute, Sunny
+        Day, Supersonic, Surf, Swagger, Swift, Thief, Thunder Wave, Toxic, Water Gun,
+      Water Pulse, Water Spout, Waterfall, Double-Edge, Mimic]
+    Octillery: [Bind, Constrict, Energy Ball, Flash Cannon, Giga Impact, Payback,
+      Sludge Bomb, Sludge Wave, Wring Out, Double-Edge, Mimic, Seismic Toss]

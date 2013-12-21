@@ -1,0 +1,110 @@
+pokemon:
+  Ralts:
+    introduction: rs
+    types:
+    - [Psychic]
+    egggroups:
+    - [Indeterminate]
+    abilities:
+    - [Synchronize, Trace]
+    - bw: [Synchronize, Telepathy, Trace]
+    stats:
+    - [28, 25, 25, 45, 35, 40]
+    weight: [6.6]
+    height: [0.4]
+  Kirlia:
+    introduction: rs
+    types:
+    - [Psychic]
+    egggroups:
+    - [Indeterminate]
+    abilities:
+    - [Synchronize, Trace]
+    - bw: [Synchronize, Telepathy, Trace]
+    stats:
+    - [38, 35, 35, 65, 55, 50]
+    weight: [20.2]
+    height: [0.8]
+  Gardevoir:
+    introduction: rs
+    types:
+    - [Psychic]
+    egggroups:
+    - [Indeterminate]
+    abilities:
+    - [Synchronize, Trace]
+    - bw: [Synchronize, Telepathy, Trace]
+    stats:
+    - [68, 65, 65, 125, 115, 80]
+    weight: [48.4]
+    height: [1.6]
+  Gallade:
+    introduction: dp
+    types:
+    - [Fighting, Psychic]
+    egggroups:
+    - [Indeterminate]
+    abilities:
+    - [Justified, Steadfast]
+    stats:
+    - [68, 125, 65, 65, 115, 80]
+    weight: [52]
+    height: [1.6]
+families:
+- {from: Ralts, to: Kirlia}
+- {from: Kirlia, to: Gardevoir}
+- {from: Kirlia, to: Gallade}
+learnsets:
+  rs:
+    Ralts: [Attract, Body Slam, Calm Mind, Confusion, Defense Curl, Destiny Bond,
+      Disable, Double-Edge, Double Team, Dream Eater, Endure, Facade, Fire Punch,
+      Flash, Frustration, Future Sight, Growl, Hidden Power, Hypnosis, Ice Punch,
+      Icy Wind, Imprison, Light Screen, Mean Look, Memento, Mimic, Mud-Slap, Nightmare,
+      Protect, Psych Up, Psychic, Rain Dance, Reflect, Rest, Return, Safeguard, Secret
+        Power, Shadow Ball, Shock Wave, Skill Swap, Sleep Talk, Snatch, Snore, Substitute,
+      Sunny Day, Swagger, Taunt, Teleport, Thief, Thunder Wave, Thunderbolt, Thunderpunch,
+      Torment, Toxic, Will-O-Wisp, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare,
+      Shock Wave, Sing]
+    Kirlia: [Magical Leaf, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare]
+    Gardevoir: [Hyper Beam, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare]
+  dp:
+    Ralts: [Attract, Calm Mind, Captivate, Charge Beam, Charm, Confuse Ray, Confusion,
+      Destiny Bond, Disable, Double Team, Dream Eater, Encore, Endure, Facade, Fire
+        Punch, Flash, Fling, Frustration, Future Sight, Grass Knot, Growl, Grudge,
+      Headbutt, Helping Hand, Hidden Power, Hypnosis, Ice Punch, Icy Wind, Imprison,
+      Light Screen, Lucky Chant, Magic Coat, Magical Leaf, Mean Look, Memento, Mud-Slap,
+      Natural Gift, Pain Split, Protect, Psych Up, Psychic, Rain Dance, Recycle, Reflect,
+      Rest, Return, Safeguard, Secret Power, Shadow Ball, Shadow Sneak, Shock Wave,
+      Signal Beam, Skill Swap, Sleep Talk, Snatch, Snore, Substitute, Sunny Day, Swagger,
+      Swift, Taunt, Teleport, Thief, Thunder Wave, Thunderbolt, Thunderpunch, Torment,
+      Toxic, Trick, Trick Room, Will-O-Wisp, Zen Headbutt, Body Slam, Double-Edge,
+      Icy Wind, Mimic, Nightmare, Shock Wave, Sing]
+    Kirlia: [Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare]
+    Gallade: [Aerial Ace, Brick Break, Bulk Up, Close Combat, Cut, Drain Punch, Earthquake,
+      False Swipe, Feint, Focus Blast, Focus Punch, Fury Cutter, Giga Impact, Hyper
+        Beam, Knock Off, Leaf Blade, Leer, Low Kick, Night Slash, Poison Jab, Psycho
+        Cut, Rock Slide, Rock Smash, Rock Tomb, Slash, Stone Edge, Strength, Swords
+        Dance, Vacuum Wave, X-scissor]
+    Gardevoir: [Energy Ball, Heal Bell, Healing Wish, Wish, Body Slam, Double-Edge,
+      Icy Wind, Mimic, Nightmare]
+  bw:
+    Ralts: [Ally Switch, Attract, Calm Mind, Charge Beam, Charm, Confuse Ray, Confusion,
+      Destiny Bond, Disable, Double Team, Dream Eater, Echoed Voice, Encore, Facade,
+      Fire Punch, Flash, Fling, Frustration, Future Sight, Grass Knot, Growl, Grudge,
+      Heal Pulse, Helping Hand, Hidden Power, Hyper Voice, Hypnosis, Ice Punch, Icy
+        Wind, Imprison, Light Screen, Lucky Chant, Magic Coat, Magic Room, Magical
+        Leaf, Mean Look, Memento, Pain Split, Protect, Psych Up, Psychic, Psyshock,
+      Rain Dance, Recycle, Reflect, Rest, Return, Round, Safeguard, Shadow Ball, Shadow
+        Sneak, Signal Beam, Skill Swap, Sleep Talk, Snatch, Snore, Stored Power, Substitute,
+      Sunny Day, Swagger, Synchronoise, Taunt, Telekinesis, Teleport, Thief, Thunder
+        Wave, Thunderbolt, Thunderpunch, Torment, Toxic, Trick, Trick Room, Will-O-Wisp,
+      Wonder Room, Zen Headbutt, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare,
+      Shock Wave, Sing]
+    Kirlia: [Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare]
+    Gallade: [Aerial Ace, Brick Break, Bulk Up, Bulldoze, Close Combat, Cut, Drain
+        Punch, Dual Chop, Earthquake, False Swipe, Feint, Focus Blast, Fury Cutter,
+      Giga Impact, Hyper Beam, Knock Off, Leaf Blade, Leer, Low Kick, Low Sweep, Night
+        Slash, Poison Jab, Psycho Cut, Retaliate, Rock Slide, Rock Smash, Rock Tomb,
+      Slash, Stone Edge, Strength, Swords Dance, Work Up, X-scissor]
+    Gardevoir: [Captivate, Energy Ball, Heal Bell, Healing Wish, Wish, Body Slam,
+      Double-Edge, Icy Wind, Mimic, Nightmare]

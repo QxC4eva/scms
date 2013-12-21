@@ -1,0 +1,131 @@
+pokemon:
+  Rotom:
+    introduction: dp
+    types:
+    - [Electric, Ghost]
+    egggroups:
+    - [Indeterminate]
+    abilities:
+    - [Levitate]
+    stats:
+    - [50, 50, 77, 95, 77, 91]
+    weight: [0.3]
+    height: [0.3]
+  Rotom-Fan:
+    introduction: dp
+    types:
+    - [Electric, Ghost]
+    - bw: [Electric, Flying]
+    egggroups:
+    - [Indeterminate]
+    abilities:
+    - [Levitate]
+    stats:
+    - [50, 65, 107, 105, 107, 86]
+    weight: [0.3]
+    height: [0.3]
+  Rotom-Frost:
+    introduction: dp
+    types:
+    - [Electric, Ghost]
+    - bw: [Electric, Ice]
+    egggroups:
+    - [Indeterminate]
+    abilities:
+    - [Levitate]
+    stats:
+    - [50, 65, 107, 105, 107, 86]
+    weight: [0.3]
+    height: [0.3]
+  Rotom-Heat:
+    introduction: dp
+    types:
+    - [Electric, Ghost]
+    - bw: [Electric, Fire]
+    egggroups:
+    - [Indeterminate]
+    abilities:
+    - [Levitate]
+    stats:
+    - [50, 65, 107, 105, 107, 86]
+    weight: [0.3]
+    height: [0.3]
+  Rotom-Mow:
+    introduction: dp
+    types:
+    - [Electric, Ghost]
+    - bw: [Electric, Grass]
+    egggroups:
+    - [Indeterminate]
+    abilities:
+    - [Levitate]
+    stats:
+    - [50, 65, 107, 105, 107, 86]
+    weight: [0.3]
+    height: [0.3]
+  Rotom-Wash:
+    introduction: dp
+    types:
+    - [Electric, Ghost]
+    - bw: [Electric, Water]
+    egggroups:
+    - [Indeterminate]
+    abilities:
+    - [Levitate]
+    stats:
+    - [50, 65, 107, 105, 107, 86]
+    weight: [0.3]
+    height: [0.3]
+families:
+- {from: Rotom, to: Rotom-Fan}
+- {from: Rotom-Fan, to: Rotom-Frost}
+- {from: Rotom-Frost, to: Rotom-Heat}
+- {from: Rotom-Heat, to: Rotom-Mow}
+- {from: Rotom-Mow, to: Rotom-Wash}
+- {from: Rotom, to: Rotom-Fan}
+- {from: Rotom, to: Rotom-Frost}
+- {from: Rotom, to: Rotom-Heat}
+- {from: Rotom, to: Rotom-Mow}
+- {from: Rotom, to: Rotom-Wash}
+- {from: Rotom-Fan, to: Rotom}
+- {from: Rotom-Fan, to: Rotom-Frost}
+- {from: Rotom-Fan, to: Rotom-Heat}
+- {from: Rotom-Fan, to: Rotom-Mow}
+- {from: Rotom-Fan, to: Rotom-Wash}
+- {from: Rotom-Frost, to: Rotom}
+- {from: Rotom-Frost, to: Rotom-Fan}
+- {from: Rotom-Frost, to: Rotom-Heat}
+- {from: Rotom-Frost, to: Rotom-Mow}
+- {from: Rotom-Frost, to: Rotom-Wash}
+- {from: Rotom-Heat, to: Rotom}
+- {from: Rotom-Heat, to: Rotom-Fan}
+- {from: Rotom-Heat, to: Rotom-Frost}
+- {from: Rotom-Heat, to: Rotom-Mow}
+- {from: Rotom-Heat, to: Rotom-Wash}
+- {from: Rotom-Mow, to: Rotom}
+- {from: Rotom-Mow, to: Rotom-Fan}
+- {from: Rotom-Mow, to: Rotom-Frost}
+- {from: Rotom-Mow, to: Rotom-Heat}
+- {from: Rotom-Mow, to: Rotom-Wash}
+- {from: Rotom-Wash, to: Rotom}
+- {from: Rotom-Wash, to: Rotom-Fan}
+- {from: Rotom-Wash, to: Rotom-Frost}
+- {from: Rotom-Wash, to: Rotom-Heat}
+- {from: Rotom-Wash, to: Rotom-Mow}
+learnsets:
+  dp:
+    Rotom: [Astonish, Charge, Charge Beam, Confuse Ray, Dark Pulse, Discharge, Double
+        Team, Dream Eater, Endure, Facade, Flash, Frustration, Hidden Power, Light
+        Screen, Mud-Slap, Natural Gift, Ominous Wind, Pain Split, Protect, Psych Up,
+      Rain Dance, Reflect, Rest, Return, Secret Power, Shadow Ball, Shock Wave, Signal
+        Beam, Sleep Talk, Snatch, Snore, Spite, Substitute, Sucker Punch, Sunny Day,
+      Swagger, Swift, Thief, Thunder, Thunder Wave, Thunderbolt, Thundershock, Toxic,
+      Trick, Uproar, Will-O-Wisp]
+  bw:
+    Rotom: [Astonish, Charge, Charge Beam, Confuse Ray, Dark Pulse, Discharge, Double
+        Team, Dream Eater, Electro Ball, Electroweb, Facade, Flash, Frustration, Hex,
+      Hidden Power, Light Screen, Ominous Wind, Pain Split, Protect, Psych Up, Rain
+        Dance, Reflect, Rest, Return, Round, Shadow Ball, Shock Wave, Signal Beam,
+      Sleep Talk, Snatch, Snore, Spite, Substitute, Sunny Day, Swagger, Telekinesis,
+      Thief, Thunder, Thunder Wave, Thunderbolt, Thundershock, Toxic, Trick, Uproar,
+      Volt Switch, Will-O-Wisp]

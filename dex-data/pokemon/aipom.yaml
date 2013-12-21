@@ -1,0 +1,73 @@
+pokemon:
+  Aipom:
+    introduction: gs
+    types:
+    - [Normal]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Pickup, Run Away]
+    - bw: [Pickup, Run Away, Skill Link]
+    stats:
+    - [55, 70, 55, 40, 55, 85]
+    weight: [11.5]
+    height: [0.8]
+  Ambipom:
+    introduction: dp
+    types:
+    - [Normal]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Pickup, Skill Link, Technician]
+    stats:
+    - [75, 100, 66, 60, 66, 115]
+    weight: [20.3]
+    height: [1.2]
+families:
+- {from: Aipom, to: Ambipom}
+learnsets:
+  gs:
+    Aipom: [Agility, Attract, Baton Pass, Beat Up, Counter, Curse, Cut, Defense Curl,
+      Detect, Double Team, Doubleslap, Dream Eater, Dynamicpunch, Endure, Fire Punch,
+      Frustration, Fury Cutter, Fury Swipes, Headbutt, Hidden Power, Ice Punch, Iron
+        Tail, Mud-Slap, Nightmare, Protect, Pursuit, Rest, Return, Rock Smash, Sand-Attack,
+      Scratch, Screech, Shadow Ball, Slam, Sleep Talk, Snore, Spite, Strength, Sunny
+        Day, Swagger, Swift, Tail Whip, Thief, Thunder, Thunderbolt, Thunderpunch,
+      Toxic, Zap Cannon]
+  rs:
+    Aipom: [Aerial Ace, Agility, Astonish, Attract, Baton Pass, Beat Up, Body Slam,
+      Brick Break, Counter, Cut, Defense Curl, Dig, Double-Edge, Double Team, Doubleslap,
+      Dream Eater, Dynamicpunch, Endure, Facade, Fire Punch, Focus Punch, Frustration,
+      Fury Cutter, Fury Swipes, Hidden Power, Ice Punch, Iron Tail, Mega Kick, Mega
+        Punch, Metronome, Mimic, Mud-Slap, Nightmare, Protect, Pursuit, Rain Dance,
+      Rest, Return, Rock Smash, Sand-Attack, Scratch, Screech, Secret Power, Seismic
+        Toss, Shadow Ball, Shock Wave, Slam, Sleep Talk, Snatch, Snore, Solarbeam,
+      Spite, Strength, Substitute, Sunny Day, Swagger, Swift, Tail Whip, Taunt, Thief,
+      Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Tickle, Toxic, Water Pulse]
+  dp:
+    Aipom: [Aerial Ace, Agility, Astonish, Attract, Baton Pass, Beat Up, Bounce, Brick
+        Break, Captivate, Counter, Covet, Cut, Dig, Double Hit, Double Team, Doubleslap,
+      Dream Eater, Endure, Facade, Fake Out, Fire Punch, Fling, Focus Punch, Frustration,
+      Fury Cutter, Fury Swipes, Grass Knot, Gunk Shot, Headbutt, Hidden Power, Ice
+        Punch, Iron Tail, Knock Off, Last Resort, Low Kick, Mud-Slap, Nasty Plot,
+      Natural Gift, Payback, Protect, Pursuit, Rain Dance, Rest, Return, Rock Smash,
+      Role Play, Sand-Attack, Scratch, Screech, Secret Power, Seed Bomb, Shadow Ball,
+      Shadow Claw, Shock Wave, Slam, Sleep Talk, Snatch, Snore, Solarbeam, Spite,
+      Strength, Substitute, Sunny Day, Swagger, Swift, Tail Whip, Taunt, Thief, Thunder,
+      Thunder Wave, Thunderbolt, Thunderpunch, Tickle, Toxic, U-turn, Uproar, Water
+        Pulse]
+    Ambipom: [Giga Impact, Hyper Beam]
+  bw:
+    Aipom: [Acrobatics, Aerial Ace, Agility, Astonish, Attract, Baton Pass, Beat Up,
+      Body Slam, Bounce, Brick Break, Counter, Covet, Cut, Dig, Double-Edge, Double
+        Hit, Double Team, Doubleslap, Dream Eater, Facade, Fake Out, Fire Punch, Fling,
+      Foul Play, Frustration, Fury Swipes, Grass Knot, Gunk Shot, Hidden Power, Hone
+        Claws, Ice Punch, Iron Tail, Knock Off, Last Resort, Low Kick, Low Sweep,
+      Mimic, Nasty Plot, Nightmare, Payback, Protect, Pursuit, Rain Dance, Rest, Retaliate,
+      Return, Revenge, Rock Smash, Role Play, Round, Sand-Attack, Scratch, Screech,
+      Seed Bomb, Seismic Toss, Shadow Ball, Shadow Claw, Shock Wave, Slam, Sleep Talk,
+      Snatch, Snore, Solarbeam, Spite, Strength, Substitute, Sunny Day, Swagger, Swift,
+      Switcheroo, Tail Whip, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Thunderpunch,
+      Tickle, Toxic, U-turn, Uproar, Work Up]
+    Ambipom: [Giga Impact, Hyper Beam]

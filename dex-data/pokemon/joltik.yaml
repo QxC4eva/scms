@@ -1,0 +1,38 @@
+pokemon:
+  Joltik:
+    introduction: bw
+    types:
+    - [Bug, Electric]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Compoundeyes, Swarm, Unnerve]
+    stats:
+    - [50, 47, 50, 57, 50, 65]
+    weight: [0.6]
+    height: [0.1]
+  Galvantula:
+    introduction: bw
+    types:
+    - [Bug, Electric]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Compoundeyes, Swarm, Unnerve]
+    stats:
+    - [70, 77, 60, 97, 60, 108]
+    weight: [14.3]
+    height: [0.8]
+families:
+- {from: Joltik, to: Galvantula}
+learnsets:
+  bw:
+    Joltik: [Agility, Attract, Bounce, Bug Bite, Bug Buzz, Charge Beam, Cross Poison,
+      Cut, Disable, Discharge, Double Team, Electro Ball, Electroweb, Energy Ball,
+      Facade, Faint Attack, Flash, Frustration, Fury Cutter, Gastro Acid, Giga Drain,
+      Hidden Power, Leech Life, Light Screen, Magnet Rise, Pin Missile, Poison Jab,
+      Poison Sting, Protect, Pursuit, Rain Dance, Rest, Return, Rock Climb, Round,
+      Screech, Signal Beam, Slash, Sleep Talk, Snore, Spider Web, String Shot, Struggle
+        Bug, Substitute, Sucker Punch, Swagger, Thief, Thunder Wave, Thunderbolt,
+      Toxic, Volt Switch, Wild Charge, X-scissor]
+    Galvantula: [Giga Impact, Hyper Beam, Thunder]

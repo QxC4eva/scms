@@ -1,0 +1,38 @@
+pokemon:
+  Trubbish:
+    introduction: bw
+    types:
+    - [Poison]
+    egggroups:
+    - [Mineral]
+    abilities:
+    - [Aftermath, Stench, Sticky Hold]
+    stats:
+    - [50, 50, 62, 40, 62, 65]
+    weight: [31]
+    height: [0.6]
+  Garbodor:
+    introduction: bw
+    types:
+    - [Poison]
+    egggroups:
+    - [Mineral]
+    abilities:
+    - [Aftermath, Stench, Weak Armor]
+    stats:
+    - [80, 95, 82, 60, 82, 75]
+    weight: [107.3]
+    height: [1.9]
+families:
+- {from: Trubbish, to: Garbodor}
+learnsets:
+  bw:
+    Trubbish: [Acid Spray, Amnesia, Attract, Clear Smog, Curse, Dark Pulse, Double
+        Team, Doubleslap, Drain Punch, Explosion, Facade, Frustration, Giga Drain,
+      Gunk Shot, Haze, Hidden Power, Mud Sport, Pain Split, Payback, Poison Gas, Pound,
+      Protect, Rain Dance, Recycle, Rest, Return, Rock Blast, Rollout, Round, Sand-Attack,
+      Seed Bomb, Selfdestruct, Sleep Talk, Sludge, Sludge Bomb, Sludge Wave, Snore,
+      Spikes, Spite, Stockpile, Substitute, Sunny Day, Swagger, Swallow, Take Down,
+      Thief, Toxic, Toxic Spikes, Venoshock]
+    Garbodor: [Body Slam, Fling, Focus Blast, Giga Impact, Hyper Beam, Psychic, Rock
+        Polish, Smack Down, Solarbeam, Thunderbolt]

@@ -1,0 +1,92 @@
+pokemon:
+  Zubat:
+    introduction: rb
+    types:
+    - [Flying, Poison]
+    egggroups:
+    - [Flying]
+    abilities:
+    - [Inner Focus]
+    - bw: [Infiltrator, Inner Focus]
+    stats:
+    - [40, 45, 35, 40, 40, 55]
+    - gs: [40, 45, 35, 30, 40, 55]
+    weight: [7.5]
+    height: [0.8]
+  Golbat:
+    introduction: rb
+    types:
+    - [Flying, Poison]
+    egggroups:
+    - [Flying]
+    abilities:
+    - [Inner Focus]
+    - bw: [Infiltrator, Inner Focus]
+    stats:
+    - [75, 80, 70, 75, 75, 90]
+    - gs: [75, 80, 70, 65, 75, 90]
+    weight: [55]
+    height: [1.6]
+  Crobat:
+    introduction: gs
+    types:
+    - [Flying, Poison]
+    egggroups:
+    - [Flying]
+    abilities:
+    - [Inner Focus]
+    - bw: [Infiltrator, Inner Focus]
+    stats:
+    - [85, 90, 80, 70, 80, 130]
+    weight: [75]
+    height: [1.8]
+families:
+- {from: Zubat, to: Golbat}
+- {from: Golbat, to: Crobat}
+learnsets:
+  rb:
+    Zubat: [Bide, Bite, Confuse Ray, Double-Edge, Double Team, Haze, Leech Life, Mega
+        Drain, Mimic, Rage, Razor Wind, Rest, Substitute, Supersonic, Swift, Take
+        Down, Toxic, Whirlwind, Wing Attack, Flail]
+    Golbat: [Hyper Beam, Screech]
+  gs:
+    Zubat: [Attract, Bite, Confuse Ray, Curse, Detect, Double Team, Endure, Faint
+        Attack, Frustration, Giga Drain, Gust, Haze, Hidden Power, Leech Life, Mean
+        Look, Protect, Pursuit, Quick Attack, Rest, Return, Sleep Talk, Snore, Steel
+        Wing, Sunny Day, Supersonic, Swagger, Swift, Thief, Toxic, Whirlwind, Wing
+        Attack, Flail]
+    Golbat: [Hyper Beam, Screech]
+    Crobat: [Fly]
+  rs:
+    Zubat: [Aerial Ace, Air Cutter, Astonish, Attract, Bite, Confuse Ray, Curse, Double-Edge,
+      Double Team, Endure, Facade, Faint Attack, Frustration, Giga Drain, Gust, Haze,
+      Hidden Power, Leech Life, Mean Look, Mimic, Poison Fang, Protect, Pursuit, Quick
+        Attack, Rain Dance, Rest, Return, Secret Power, Shadow Ball, Sleep Talk, Sludge
+        Bomb, Snatch, Snore, Steel Wing, Substitute, Sunny Day, Supersonic, Swagger,
+      Swift, Taunt, Thief, Torment, Toxic, Whirlwind, Wing Attack, Double-Edge, Mimic,
+      Mimic]
+    Golbat: [Hyper Beam, Screech, Double-Edge, Mimic]
+    Crobat: [Fly]
+  dp:
+    Zubat: [Aerial Ace, Air Cutter, Air Slash, Astonish, Attract, Bite, Brave Bird,
+      Captivate, Confuse Ray, Curse, Defog, Double Team, Endure, Facade, Faint Attack,
+      Fly, Frustration, Giga Drain, Gust, Haze, Heat Wave, Hidden Power, Hypnosis,
+      Leech Life, Mean Look, Nasty Plot, Natural Gift, Ominous Wind, Payback, Pluck,
+      Poison Fang, Protect, Pursuit, Quick Attack, Rain Dance, Rest, Return, Roost,
+      Secret Power, Shadow Ball, Sleep Talk, Sludge Bomb, Snatch, Snore, Steel Wing,
+      Substitute, Sunny Day, Super Fang, Supersonic, Swagger, Swift, Tailwind, Taunt,
+      Thief, Torment, Toxic, Twister, U-turn, Uproar, Whirlwind, Wing Attack, Zen
+        Headbutt, Double-Edge, Mimic, Mimic]
+    Golbat: [Giga Impact, Hyper Beam, Screech, Double-Edge, Mimic]
+    Crobat: [Cross Poison, Dark Pulse, Sky Attack, X-scissor]
+  bw:
+    Zubat: [Acrobatics, Aerial Ace, Air Cutter, Air Slash, Astonish, Attract, Bite,
+      Brave Bird, Confuse Ray, Curse, Defog, Double Team, Facade, Faint Attack, Fly,
+      Frustration, Giga Drain, Gust, Haze, Heat Wave, Hidden Power, Hypnosis, Leech
+        Life, Mean Look, Nasty Plot, Payback, Pluck, Poison Fang, Protect, Pursuit,
+      Quick Attack, Rain Dance, Rest, Return, Roost, Round, Shadow Ball, Sleep Talk,
+      Sludge Bomb, Snatch, Snore, Steel Wing, Substitute, Sunny Day, Super Fang, Supersonic,
+      Swagger, Swift, Tailwind, Taunt, Thief, Torment, Toxic, U-turn, Uproar, Venoshock,
+      Whirlwind, Wing Attack, Zen Headbutt, Double-Edge, Mimic, Mimic]
+    Golbat: [Giga Impact, Hyper Beam, Screech, Double-Edge, Mimic]
+    Crobat: [Cross Poison, Dark Pulse, Sky Attack, X-scissor]

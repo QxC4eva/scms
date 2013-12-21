@@ -1,0 +1,65 @@
+pokemon:
+  Ledyba:
+    introduction: gs
+    types:
+    - [Bug, Flying]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Early Bird, Swarm]
+    - bw: [Early Bird, Rattled, Swarm]
+    stats:
+    - [40, 20, 30, 40, 80, 55]
+    weight: [10.8]
+    height: [1]
+  Ledian:
+    introduction: gs
+    types:
+    - [Bug, Flying]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Early Bird, Swarm]
+    - bw: [Early Bird, Iron Fist, Swarm]
+    stats:
+    - [55, 35, 50, 55, 110, 85]
+    weight: [35.6]
+    height: [1.4]
+families:
+- {from: Ledyba, to: Ledian}
+learnsets:
+  gs:
+    Ledyba: [Agility, Attract, Baton Pass, Bide, Comet Punch, Curse, Dig, Double-Edge,
+      Double Team, Dynamicpunch, Endure, Flash, Frustration, Giga Drain, Headbutt,
+      Hidden Power, Ice Punch, Light Screen, Protect, Psybeam, Reflect, Rest, Return,
+      Rollout, Safeguard, Sleep Talk, Snore, Solarbeam, Sunny Day, Supersonic, Swagger,
+      Sweet Scent, Swift, Tackle, Thief, Thunderpunch, Toxic]
+    Ledian: [Hyper Beam]
+  rs:
+    Ledyba: [Aerial Ace, Agility, Attract, Baton Pass, Bide, Brick Break, Comet Punch,
+      Dig, Double-Edge, Double Team, Dynamicpunch, Endure, Facade, Flash, Focus Punch,
+      Frustration, Giga Drain, Hidden Power, Ice Punch, Light Screen, Mega Punch,
+      Mimic, Protect, Psybeam, Reflect, Rest, Return, Rollout, Safeguard, Secret Power,
+      Silver Wind, Sleep Talk, Snore, Solarbeam, Substitute, Sunny Day, Supersonic,
+      Swagger, Swift, Swords Dance, Tackle, Thief, Thunderpunch, Toxic, Refresh]
+    Ledian: [Hyper Beam]
+  dp:
+    Ledyba: [Aerial Ace, Agility, Air Cutter, Attract, Baton Pass, Bide, Brick Break,
+      Bug Bite, Bug Buzz, Captivate, Comet Punch, Dig, Double-Edge, Double Team, Drain
+        Punch, Encore, Endure, Facade, Flash, Fling, Focus Punch, Frustration, Giga
+        Drain, Headbutt, Hidden Power, Ice Punch, Knock Off, Light Screen, Mach Punch,
+      Natural Gift, Ominous Wind, Protect, Psybeam, Reflect, Rest, Return, Rollout,
+      Roost, Safeguard, Screech, Secret Power, Silver Wind, Sleep Talk, Snore, Solarbeam,
+      String Shot, Substitute, Sunny Day, Supersonic, Swagger, Swift, Swords Dance,
+      Tackle, Tailwind, Thief, Thunderpunch, Toxic, U-turn, Uproar, Refresh]
+    Ledian: [Focus Blast, Giga Impact, Hyper Beam, Rock Smash, Strength]
+  bw:
+    Ledyba: [Acrobatics, Aerial Ace, Agility, Attract, Baton Pass, Bide, Brick Break,
+      Bug Bite, Bug Buzz, Comet Punch, Dig, Dizzy Punch, Double-Edge, Double Team,
+      Drain Punch, Encore, Facade, Flash, Fling, Focus Punch, Frustration, Giga Drain,
+      Hidden Power, Ice Punch, Knock Off, Light Screen, Mach Punch, Protect, Psybeam,
+      Reflect, Rest, Return, Roost, Round, Safeguard, Screech, Silver Wind, Sleep
+        Talk, Snore, Solarbeam, Struggle Bug, Substitute, Sunny Day, Supersonic, Swagger,
+      Swift, Swords Dance, Tackle, Tailwind, Thief, Thunderpunch, Toxic, U-turn, Uproar,
+      Refresh]
+    Ledian: [Focus Blast, Giga Impact, Hyper Beam, Rock Smash, Strength]

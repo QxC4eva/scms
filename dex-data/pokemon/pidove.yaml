@@ -1,0 +1,49 @@
+pokemon:
+  Pidove:
+    introduction: dp
+    types:
+    - [Flying, Normal]
+    egggroups:
+    - [Flying]
+    abilities:
+    - [Big Pecks, Rivalry, Super Luck]
+    stats:
+    - [50, 55, 50, 36, 30, 43]
+    weight: [2.1]
+    height: [0.3]
+  Tranquill:
+    introduction: dp
+    types:
+    - [Flying, Normal]
+    egggroups:
+    - [Flying]
+    abilities:
+    - [Big Pecks, Rivalry, Super Luck]
+    stats:
+    - [62, 77, 62, 50, 42, 65]
+    weight: [15]
+    height: [0.6]
+  Unfezant:
+    introduction: dp
+    types:
+    - [Flying, Normal]
+    egggroups:
+    - [Flying]
+    abilities:
+    - [Big Pecks, Rivalry, Super Luck]
+    stats:
+    - [80, 105, 80, 65, 55, 93]
+    weight: [29]
+    height: [1.2]
+families:
+- {from: Pidove, to: Tranquill}
+- {from: Tranquill, to: Unfezant}
+learnsets:
+  bw:
+    Pidove: [Aerial Ace, Air Cutter, Air Slash, Attract, Bestow, Detect, Double Team,
+      Echoed Voice, Facade, Featherdance, Fly, Frustration, Growl, Gust, Heat Wave,
+      Hidden Power, Hypnosis, Leer, Lucky Chant, Morning Sun, Pluck, Protect, Quick
+        Attack, Rain Dance, Razor Wind, Rest, Return, Roost, Round, Sky Attack, Sleep
+        Talk, Snore, Steel Wing, Substitute, Sunny Day, Swagger, Tailwind, Taunt,
+      Toxic, U-turn, Uproar, Wish, Work Up]
+    Unfezant: [Giga Impact, Hyper Beam, Psych Up]

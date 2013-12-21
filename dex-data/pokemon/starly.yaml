@@ -1,0 +1,60 @@
+pokemon:
+  Starly:
+    introduction: dp
+    types:
+    - [Flying, Normal]
+    egggroups:
+    - [Flying]
+    abilities:
+    - [Keen Eye]
+    stats:
+    - [40, 55, 30, 30, 30, 60]
+    weight: [2]
+    height: [0.3]
+  Staravia:
+    introduction: dp
+    types:
+    - [Flying, Normal]
+    egggroups:
+    - [Flying]
+    abilities:
+    - [Intimidate, Reckless]
+    stats:
+    - [55, 75, 50, 40, 40, 80]
+    weight: [15.5]
+    height: [0.6]
+  Staraptor:
+    introduction: dp
+    types:
+    - [Flying, Normal]
+    egggroups:
+    - [Flying]
+    abilities:
+    - [Intimidate, Reckless]
+    stats:
+    - [85, 120, 70, 50, 50, 100]
+    weight: [24.9]
+    height: [1.2]
+families:
+- {from: Starly, to: Staravia}
+- {from: Staravia, to: Staraptor}
+learnsets:
+  dp:
+    Starly: [Aerial Ace, Agility, Air Cutter, Astonish, Attract, Brave Bird, Captivate,
+      Defog, Double-Edge, Double Team, Endeavor, Endure, Facade, Featherdance, Fly,
+      Foresight, Frustration, Fury Attack, Growl, Heat Wave, Hidden Power, Mud-Slap,
+      Natural Gift, Ominous Wind, Pluck, Protect, Pursuit, Quick Attack, Rain Dance,
+      Rest, Return, Roost, Sand-Attack, Secret Power, Sleep Talk, Snore, Steel Wing,
+      Substitute, Sunny Day, Swagger, Swift, Tackle, Tailwind, Take Down, Thief, Toxic,
+      Twister, U-turn, Whirlwind, Wing Attack]
+    Staraptor: [Close Combat, Giga Impact, Hyper Beam, Sky Attack]
+  bw:
+    Starly: [Aerial Ace, Agility, Astonish, Attract, Brave Bird, Detect, Double-Edge,
+      Double Team, Echoed Voice, Endeavor, Facade, Featherdance, Final Gambit, Fly,
+      Foresight, Frustration, Fury Attack, Growl, Heat Wave, Hidden Power, Pluck,
+      Protect, Pursuit, Quick Attack, Rain Dance, Rest, Return, Revenge, Roost, Round,
+      Sand-Attack, Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day, Swagger,
+      Tackle, Tailwind, Take Down, Thief, Toxic, U-turn, Uproar, Whirlwind, Wing Attack,
+      Work Up]
+    Staravia: [Retaliate]
+    Staraptor: [Close Combat, Giga Impact, Hyper Beam, Sky Attack]

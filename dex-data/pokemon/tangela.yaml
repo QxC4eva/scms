@@ -1,0 +1,75 @@
+pokemon:
+  Tangela:
+    introduction: rb
+    types:
+    - [Grass]
+    egggroups:
+    - [Plant]
+    abilities:
+    - [Chlorophyll]
+    - dp: [Chlorophyll, Leaf Guard]
+    - bw: [Chlorophyll, Leaf Guard, Regenerator]
+    stats:
+    - [65, 55, 115, 100, 100, 60]
+    - gs: [65, 55, 115, 100, 40, 60]
+    weight: [35]
+    height: [1]
+  Tangrowth:
+    introduction: dp
+    types:
+    - [Grass]
+    egggroups:
+    - [Plant]
+    abilities:
+    - [Chlorophyll, Leaf Guard, Regenerator]
+    stats:
+    - [100, 100, 125, 110, 50, 50]
+    weight: [128.6]
+    height: [2]
+families:
+- {from: Tangela, to: Tangrowth}
+learnsets:
+  rb:
+    Tangela: [Absorb, Bide, Bind, Body Slam, Constrict, Cut, Double-Edge, Double Team,
+      Growth, Hyper Beam, Mega Drain, Mimic, Poisonpowder, Rage, Rest, Skull Bash,
+      Slam, Sleep Powder, Solarbeam, Stun Spore, Substitute, Swords Dance, Take Down,
+      Toxic, Vine Whip]
+  gs:
+    Tangela: [Absorb, Amnesia, Attract, Bind, Confusion, Constrict, Curse, Cut, Double
+        Team, Endure, Flail, Flash, Frustration, Giga Drain, Growth, Headbutt, Hidden
+        Power, Hyper Beam, Mega Drain, Poisonpowder, Protect, Psych Up, Reflect, Rest,
+      Return, Slam, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solarbeam, Stun
+        Spore, Sunny Day, Swagger, Sweet Scent, Thief, Toxic, Vine Whip]
+  rs:
+    Tangela: [Absorb, Amnesia, Attract, Bind, Body Slam, Bullet Seed, Confusion, Constrict,
+      Cut, Double-Edge, Double Team, Endure, Facade, Flail, Flash, Frustration, Giga
+        Drain, Growth, Hidden Power, Hyper Beam, Ingrain, Leech Seed, Mega Drain,
+      Mimic, Nature Power, Poisonpowder, Protect, Psych Up, Reflect, Rest, Return,
+      Rock Smash, Secret Power, Slam, Sleep Powder, Sleep Talk, Sludge Bomb, Snore,
+      Solarbeam, Stun Spore, Substitute, Sunny Day, Swagger, Swords Dance, Thief,
+      Tickle, Toxic, Vine Whip, Body Slam, Double-Edge, Mimic, Morning Sun]
+  dp:
+    Tangela: [Absorb, Amnesia, Ancientpower, Attract, Bind, Bullet Seed, Captivate,
+      Confusion, Constrict, Cut, Double Team, Endeavor, Endure, Energy Ball, Facade,
+      Flail, Flash, Frustration, Giga Drain, Giga Impact, Grass Knot, Growth, Headbutt,
+      Hidden Power, Hyper Beam, Ingrain, Knock Off, Leaf Storm, Leech Seed, Mega Drain,
+      Natural Gift, Nature Power, Pain Split, Poisonpowder, Power Swap, Power Whip,
+      Protect, Psych Up, Reflect, Rest, Return, Rock Smash, Secret Power, Seed Bomb,
+      Shock Wave, Slam, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solarbeam, Stun
+        Spore, Substitute, Sunny Day, Swagger, Swords Dance, Synthesis, Thief, Tickle,
+      Toxic, Vine Whip, Worry Seed, Wring Out, Body Slam, Double-Edge, Mimic, Morning
+        Sun]
+    Tangrowth: [Aerial Ace, Block, Brick Break, Earthquake, Fling, Focus Blast, Mud-Slap,
+      Payback, Poison Jab, Rock Slide, Rock Tomb, Strength]
+  bw:
+    Tangela: [Absorb, Amnesia, Ancientpower, Attract, Bind, Confusion, Constrict,
+      Cut, Double Team, Endeavor, Energy Ball, Facade, Flail, Flash, Frustration,
+      Giga Drain, Giga Impact, Grass Knot, Growth, Hidden Power, Hyper Beam, Ingrain,
+      Knock Off, Leaf Storm, Leech Seed, Mega Drain, Natural Gift, Nature Power, Pain
+        Split, Poisonpowder, Power Swap, Power Whip, Protect, Psych Up, Rage Powder,
+      Reflect, Rest, Return, Rock Smash, Round, Seed Bomb, Slam, Sleep Powder, Sleep
+        Talk, Sludge Bomb, Snore, Solarbeam, Stun Spore, Substitute, Sunny Day, Swagger,
+      Swords Dance, Synthesis, Thief, Tickle, Toxic, Vine Whip, Worry Seed, Wring
+        Out, Body Slam, Double-Edge, Mimic, Morning Sun]
+    Tangrowth: [Aerial Ace, Block, Brick Break, Bulldoze, Earthquake, Fling, Focus
+        Blast, Payback, Poison Jab, Rock Slide, Rock Tomb, Strength]

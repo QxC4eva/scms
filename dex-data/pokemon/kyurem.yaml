@@ -1,0 +1,51 @@
+pokemon:
+  Kyurem:
+    introduction: bw
+    types:
+    - [Dragon, Ice]
+    egggroups:
+    - []
+    abilities:
+    - [Pressure]
+    stats:
+    - [125, 130, 90, 130, 90, 95]
+    weight: [325]
+    height: [3]
+  Kyurem-Black:
+    introduction: bw
+    types:
+    - [Dragon, Ice]
+    egggroups:
+    - []
+    abilities:
+    - [Teravolt]
+    stats:
+    - [125, 170, 100, 120, 90, 95]
+    weight: [325]
+    height: [3.3]
+  Kyurem-White:
+    introduction: bw
+    types:
+    - [Dragon, Ice]
+    egggroups:
+    - []
+    abilities:
+    - [Turboblaze]
+    stats:
+    - [125, 120, 90, 170, 100, 95]
+    weight: [325]
+    height: [3.6]
+families:
+- {from: Kyurem, to: Kyurem-B}
+- {from: Kyurem, to: Kyurem-W}
+learnsets:
+  bw:
+    Kyurem: [Ancientpower, Blizzard, Cut, Double Team, Draco Meteor, Dragon Claw,
+      Dragon Pulse, Dragon Rage, Dragon Tail, Dragonbreath, Earth Power, Echoed Voice,
+      Endeavor, Facade, Flash Cannon, Fling, Fly, Focus Blast, Frustration, Giga Impact,
+      Glaciate, Hail, Hidden Power, Hone Claws, Hyper Beam, Hyper Voice, Ice Beam,
+      Icy Wind, Imprison, Iron Head, Light Screen, Outrage, Payback, Protect, Psychic,
+      Rain Dance, Reflect, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Roost,
+      Round, Safeguard, Scary Face, Shadow Ball, Shadow Claw, Signal Beam, Slash,
+      Sleep Talk, Snore, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Toxic,
+      Zen Headbutt]

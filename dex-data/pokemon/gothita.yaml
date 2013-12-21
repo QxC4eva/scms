@@ -1,0 +1,53 @@
+pokemon:
+  Gothita:
+    introduction: bw
+    types:
+    - [Psychic]
+    egggroups:
+    - [Humanshape]
+    abilities:
+    - [Frisk, Shadow Tag]
+    stats:
+    - [45, 30, 50, 55, 65, 45]
+    weight: [5.8]
+    height: [0.4]
+  Gothitelle:
+    introduction: bw
+    types:
+    - [Psychic]
+    egggroups:
+    - [Humanshape]
+    abilities:
+    - [Frisk, Shadow Tag]
+    stats:
+    - [70, 55, 95, 95, 110, 65]
+    weight: [44]
+    height: [1.5]
+  Gothorita:
+    introduction: bw
+    types:
+    - [Psychic]
+    egggroups:
+    - [Humanshape]
+    abilities:
+    - [Frisk, Shadow Tag]
+    stats:
+    - [60, 45, 70, 75, 85, 55]
+    weight: [18]
+    height: [0.7]
+families:
+- {from: Gothita, to: Gothorita}
+- {from: Gothorita, to: Gothitelle}
+learnsets:
+  bw:
+    Gothita: [Attract, Calm Mind, Captivate, Charge Beam, Charm, Confusion, Covet,
+      Dark Pulse, Double Team, Doubleslap, Dream Eater, Embargo, Energy Ball, Facade,
+      Faint Attack, Fake Tears, Flash, Flatter, Fling, Foul Play, Frustration, Future
+        Sight, Grass Knot, Gravity, Heal Bell, Heal Block, Helping Hand, Hidden Power,
+      Light Screen, Magic Coat, Magic Room, Mean Look, Miracle Eye, Mirror Coat, Payback,
+      Pound, Protect, Psybeam, Psych Up, Psychic, Psyshock, Rain Dance, Recycle, Reflect,
+      Rest, Return, Rock Slide, Rock Tomb, Role Play, Round, Safeguard, Shadow Ball,
+      Signal Beam, Skill Swap, Sleep Talk, Snatch, Snore, Substitute, Swagger, Taunt,
+      Telekinesis, Thief, Thunder Wave, Thunderbolt, Tickle, Torment, Toxic, Trick,
+      Trick Room, Uproar, Zen Headbutt]
+    Gothitelle: [Brick Break, Giga Impact, Hyper Beam, Low Sweep]

@@ -1,0 +1,86 @@
+pokemon:
+  Swinub:
+    introduction: gs
+    types:
+    - [Ground, Ice]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Oblivious]
+    - dp: [Oblivious, Snow Cloak]
+    - bw: [Oblivious, Snow Cloak, Thick Fat]
+    stats:
+    - [50, 50, 40, 30, 30, 50]
+    weight: [6.5]
+    height: [0.4]
+  Piloswine:
+    introduction: gs
+    types:
+    - [Ground, Ice]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Oblivious]
+    - dp: [Oblivious, Snow Cloak]
+    - bw: [Oblivious, Snow Cloak, Thick Fat]
+    stats:
+    - [100, 100, 80, 60, 60, 50]
+    weight: [55.8]
+    height: [1.1]
+  Mamoswine:
+    introduction: dp
+    types:
+    - [Ground, Ice]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Oblivious, Snow Cloak, Thick Fat]
+    stats:
+    - [110, 130, 80, 70, 60, 80]
+    weight: [291]
+    height: [2.5]
+families:
+- {from: Swinub, to: Piloswine}
+- {from: Piloswine, to: Mamoswine}
+learnsets:
+  gs:
+    Swinub: [Amnesia, Ancientpower, Attract, Bite, Blizzard, Body Slam, Curse, Defense
+        Curl, Detect, Double Team, Earthquake, Endure, Frustration, Headbutt, Hidden
+        Power, Ice Beam, Icy Wind, Mist, Mud-Slap, Powder Snow, Protect, Rain Dance,
+      Rest, Return, Roar, Rock Slide, Rock Smash, Sleep Talk, Snore, Strength, Swagger,
+      Tackle, Take Down, Toxic]
+    Piloswine: [Fury Attack, Horn Attack, Hyper Beam]
+  rs:
+    Swinub: [Amnesia, Ancientpower, Attract, Bite, Blizzard, Body Slam, Defense Curl,
+      Dig, Double-Edge, Double Team, Earthquake, Endure, Facade, Frustration, Hail,
+      Hidden Power, Ice Beam, Icicle Spear, Icy Wind, Light Screen, Mimic, Mist, Mud
+        Shot, Mud-Slap, Odor Sleuth, Powder Snow, Protect, Rain Dance, Reflect, Rest,
+      Return, Roar, Rock Slide, Rock Smash, Rock Tomb, Sandstorm, Secret Power, Sleep
+        Talk, Snore, Strength, Substitute, Swagger, Tackle, Take Down, Toxic, Charm,
+      Mimic]
+    Piloswine: [Fury Attack, Horn Attack, Hyper Beam, Mimic]
+  dp:
+    Swinub: [Amnesia, Ancientpower, Attract, Bite, Blizzard, Body Slam, Captivate,
+      Curse, Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endeavor, Endure,
+      Facade, Fissure, Frustration, Hail, Headbutt, Hidden Power, Ice Beam, Ice Shard,
+      Icicle Spear, Icy Wind, Light Screen, Mist, Mud Bomb, Mud Shot, Mud-Slap, Mud
+        Sport, Natural Gift, Odor Sleuth, Powder Snow, Protect, Rain Dance, Reflect,
+      Rest, Return, Roar, Rock Slide, Rock Smash, Rock Tomb, Sandstorm, Secret Power,
+      Sleep Talk, Snore, Stealth Rock, Strength, Substitute, Superpower, Swagger,
+      Tackle, Take Down, Toxic, Charm, Mimic]
+    Piloswine: [Avalanche, Fury Attack, Giga Impact, Hyper Beam, Ice Fang, Peck, Stone
+        Edge, Mimic]
+    Mamoswine: [Block, Double Hit, Fury Cutter, Iron Head, Knock Off, Rock Climb,
+      Scary Face]
+  bw:
+    Swinub: [Amnesia, Ancientpower, Attract, Avalanche, Bite, Blizzard, Body Slam,
+      Bulldoze, Curse, Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endeavor,
+      Endure, Facade, Fissure, Flail, Frustration, Hail, Hidden Power, Ice Beam, Ice
+        Shard, Icicle Crash, Icicle Spear, Icy Wind, Light Screen, Mist, Mud Bomb,
+      Mud Shot, Mud-Slap, Mud Sport, Odor Sleuth, Powder Snow, Protect, Rain Dance,
+      Reflect, Rest, Return, Roar, Rock Slide, Rock Smash, Rock Tomb, Round, Sandstorm,
+      Sleep Talk, Snore, Stealth Rock, Strength, Substitute, Superpower, Swagger,
+      Tackle, Take Down, Toxic, Charm, Mimic]
+    Piloswine: [Fury Attack, Giga Impact, Hyper Beam, Ice Fang, Peck, Stone Edge,
+      Thrash, Mimic]
+    Mamoswine: [Block, Double Hit, Iron Head, Knock Off, Scary Face]

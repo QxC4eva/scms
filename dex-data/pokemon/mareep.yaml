@@ -1,0 +1,83 @@
+pokemon:
+  Mareep:
+    introduction: gs
+    types:
+    - [Electric]
+    egggroups:
+    - [Ground, Monster]
+    abilities:
+    - [Static]
+    - bw: [Plus, Static]
+    stats:
+    - [55, 40, 40, 65, 45, 35]
+    weight: [7.8]
+    height: [0.6]
+  Flaaffy:
+    introduction: gs
+    types:
+    - [Electric]
+    egggroups:
+    - [Ground, Monster]
+    abilities:
+    - [Static]
+    - bw: [Plus, Static]
+    stats:
+    - [70, 55, 55, 80, 60, 45]
+    weight: [13.3]
+    height: [0.8]
+  Ampharos:
+    introduction: gs
+    types:
+    - [Electric]
+    egggroups:
+    - [Ground, Monster]
+    abilities:
+    - [Static]
+    - bw: [Plus, Static]
+    stats:
+    - [90, 75, 75, 115, 90, 55]
+    weight: [61.5]
+    height: [1.4]
+families:
+- {from: Mareep, to: Flaaffy}
+- {from: Flaaffy, to: Ampharos}
+learnsets:
+  gs:
+    Mareep: [Attract, Body Slam, Cotton Spore, Curse, Defense Curl, Double Team, Endure,
+      Flash, Frustration, Growl, Headbutt, Hidden Power, Iron Tail, Light Screen,
+      Protect, Rain Dance, Reflect, Rest, Return, Safeguard, Screech, Sleep Talk,
+      Snore, Swagger, Swift, Tackle, Take Down, Thunder, Thunder Wave, Thunderbolt,
+      Thundershock, Toxic, Zap Cannon]
+    Flaaffy: [Dynamicpunch, Fire Punch, Rock Smash, Strength, Thunderpunch]
+    Ampharos: [Hyper Beam]
+  rs:
+    Mareep: [Attract, Body Slam, Charge, Cotton Spore, Defense Curl, Double-Edge,
+      Double Team, Endure, Facade, Flash, Frustration, Growl, Hidden Power, Iron Tail,
+      Light Screen, Mimic, Odor Sleuth, Protect, Rain Dance, Reflect, Rest, Return,
+      Safeguard, Screech, Secret Power, Shock Wave, Sleep Talk, Snore, Substitute,
+      Swagger, Swift, Tackle, Take Down, Thunder, Thunder Wave, Thunderbolt, Thundershock,
+      Toxic, Heal Bell]
+    Flaaffy: [Brick Break, Counter, Dynamicpunch, Fire Punch, Focus Punch, Mega Kick,
+      Mega Punch, Rock Smash, Seismic Toss, Strength, Thunderpunch]
+    Ampharos: [Hyper Beam]
+  dp:
+    Mareep: [Attract, Body Slam, Captivate, Charge, Charge Beam, Cotton Spore, Discharge,
+      Double Team, Endure, Facade, Flash, Flatter, Frustration, Growl, Headbutt, Heal
+        Bell, Hidden Power, Iron Tail, Light Screen, Magnet Rise, Natural Gift, Odor
+        Sleuth, Power Gem, Protect, Rain Dance, Reflect, Rest, Return, Safeguard,
+      Sand-Attack, Screech, Secret Power, Shock Wave, Signal Beam, Sleep Talk, Snore,
+      Substitute, Swagger, Swift, Tackle, Take Down, Thunder, Thunder Wave, Thunderbolt,
+      Thundershock, Toxic, Heal Bell]
+    Flaaffy: [Brick Break, Fire Punch, Fling, Focus Punch, Rock Smash, Strength, Thunderpunch]
+    Ampharos: [Focus Blast, Giga Impact, Hyper Beam, Outrage, Rock Climb]
+  bw:
+    Mareep: [After You, Agility, Attract, Body Slam, Charge, Charge Beam, Confuse
+        Ray, Cotton Guard, Cotton Spore, Discharge, Double Team, Echoed Voice, Electro
+        Ball, Facade, Flash, Flatter, Frustration, Growl, Heal Bell, Hidden Power,
+      Iron Tail, Light Screen, Magnet Rise, Odor Sleuth, Power Gem, Protect, Rain
+        Dance, Rest, Return, Round, Safeguard, Sand-Attack, Screech, Signal Beam,
+      Sleep Talk, Snore, Substitute, Swagger, Tackle, Take Down, Thunder, Thunder
+        Wave, Thunderbolt, Thundershock, Toxic, Wild Charge, Heal Bell]
+    Flaaffy: [Brick Break, Fire Punch, Fling, Rock Smash, Strength, Thunderpunch,
+      Volt Switch]
+    Ampharos: [Bulldoze, Focus Blast, Giga Impact, Hyper Beam, Outrage]

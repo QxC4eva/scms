@@ -1,0 +1,23 @@
+pokemon:
+  Cryogonal:
+    introduction: bw
+    types:
+    - [Ice]
+    egggroups:
+    - [Mineral]
+    abilities:
+    - [Levitate]
+    stats:
+    - [70, 50, 30, 95, 135, 105]
+    weight: [148]
+    height: [1.1]
+families: []
+learnsets:
+  bw:
+    Cryogonal: [Acid Armor, Acrobatics, Attract, Aurora Beam, Bind, Blizzard, Confuse
+        Ray, Double Team, Explosion, Facade, Flash Cannon, Frost Breath, Frustration,
+      Hail, Haze, Hidden Power, Hyper Beam, Ice Beam, Ice Shard, Icy Wind, Iron Defense,
+      Knock Off, Light Screen, Magic Coat, Mist, Night Slash, Poison Jab, Protect,
+      Rain Dance, Rapid Spin, Recover, Reflect, Rest, Return, Round, Sharpen, Sheer
+        Cold, Signal Beam, Slash, Sleep Talk, Snore, Solarbeam, Substitute, Swagger,
+      Toxic]

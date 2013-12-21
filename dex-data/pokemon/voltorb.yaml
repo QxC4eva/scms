@@ -1,0 +1,66 @@
+pokemon:
+  Voltorb:
+    introduction: rb
+    types:
+    - [Electric]
+    egggroups:
+    - [Mineral]
+    abilities:
+    - [Soundproof, Static]
+    - bw: [Aftermath, Soundproof, Static]
+    stats:
+    - [40, 30, 50, 55, 55, 100]
+    - gs: [40, 30, 50, 55, 55, 100]
+    weight: [10.4]
+    height: [0.5]
+  Electrode:
+    introduction: rb
+    types:
+    - [Electric]
+    egggroups:
+    - [Mineral]
+    abilities:
+    - [Soundproof, Static]
+    - bw: [Aftermath, Soundproof, Static]
+    stats:
+    - [60, 50, 70, 80, 80, 140]
+    - gs: [60, 50, 70, 80, 80, 140]
+    weight: [66.6]
+    height: [1.2]
+families:
+- {from: Voltorb, to: Electrode}
+learnsets:
+  rb:
+    Voltorb: [Bide, Double Team, Explosion, Flash, Light Screen, Mimic, Rage, Reflect,
+      Rest, Screech, Selfdestruct, Sonicboom, Substitute, Swift, Tackle, Take Down,
+      Teleport, Thunder, Thunder Wave, Thunderbolt, Toxic]
+    Electrode: [Hyper Beam, Skull Bash]
+  gs:
+    Voltorb: [Curse, Double Team, Endure, Explosion, Flash, Frustration, Headbutt,
+      Hidden Power, Light Screen, Mirror Coat, Protect, Rain Dance, Rest, Return,
+      Rollout, Screech, Selfdestruct, Sleep Talk, Snore, Sonicboom, Swagger, Swift,
+      Tackle, Thunder, Thunderbolt, Toxic, Zap Cannon]
+    Electrode: [Hyper Beam]
+  rs:
+    Voltorb: [Charge, Double Team, Endure, Explosion, Facade, Flash, Frustration,
+      Hidden Power, Light Screen, Mimic, Mirror Coat, Protect, Rain Dance, Rest, Return,
+      Rollout, Screech, Secret Power, Selfdestruct, Shock Wave, Sleep Talk, Snore,
+      Sonicboom, Spark, Substitute, Swagger, Swift, Tackle, Taunt, Thief, Thunder,
+      Thunder Wave, Thunderbolt, Torment, Toxic, Mimic, Refresh]
+    Electrode: [Hyper Beam, Mimic]
+  dp:
+    Voltorb: [Charge, Charge Beam, Double Team, Endure, Explosion, Facade, Flash,
+      Frustration, Gyro Ball, Headbutt, Hidden Power, Light Screen, Magic Coat, Magnet
+        Rise, Mirror Coat, Natural Gift, Protect, Rain Dance, Rest, Return, Rollout,
+      Screech, Secret Power, Selfdestruct, Shock Wave, Signal Beam, Sleep Talk, Snore,
+      Sonicboom, Spark, Substitute, Sucker Punch, Swagger, Swift, Tackle, Taunt, Thief,
+      Thunder, Thunder Wave, Thunderbolt, Torment, Toxic, Mimic, Refresh]
+    Electrode: [Giga Impact, Hyper Beam, Mimic]
+  bw:
+    Voltorb: [Charge, Charge Beam, Double Team, Electro Ball, Explosion, Facade, Flash,
+      Foul Play, Frustration, Gyro Ball, Hidden Power, Light Screen, Magic Coat, Magnet
+        Rise, Mirror Coat, Protect, Rain Dance, Rest, Return, Rollout, Round, Screech,
+      Selfdestruct, Signal Beam, Sleep Talk, Snore, Sonicboom, Spark, Substitute,
+      Swagger, Swift, Tackle, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Torment,
+      Toxic, Volt Switch, Wild Charge, Mimic, Refresh]
+    Electrode: [Giga Impact, Hyper Beam, Mimic]

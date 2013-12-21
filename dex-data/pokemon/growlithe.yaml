@@ -1,0 +1,74 @@
+pokemon:
+  Growlithe:
+    introduction: rb
+    types:
+    - [Fire]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Flash Fire, Intimidate]
+    - bw: [Flash Fire, Intimidate, Justified]
+    stats:
+    - [55, 70, 45, 50, 50, 60]
+    - gs: [55, 70, 45, 70, 50, 60]
+    weight: [19]
+    height: [0.7]
+  Arcanine:
+    introduction: rb
+    types:
+    - [Fire]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Flash Fire, Intimidate]
+    - bw: [Flash Fire, Intimidate, Justified]
+    stats:
+    - [90, 110, 80, 80, 80, 95]
+    - gs: [90, 110, 80, 100, 80, 95]
+    weight: [155]
+    height: [1.9]
+families:
+- {from: Growlithe, to: Arcanine}
+learnsets:
+  rb:
+    Growlithe: [Agility, Bide, Bite, Body Slam, Dig, Double-Edge, Double Team, Dragon
+        Rage, Ember, Fire Blast, Flamethrower, Leer, Mimic, Rage, Reflect, Rest, Roar,
+      Skull Bash, Substitute, Swift, Take Down, Toxic]
+    Arcanine: [Hyper Beam, Teleport]
+  gs:
+    Growlithe: [Agility, Attract, Bite, Body Slam, Crunch, Curse, Dig, Double Team,
+      Dragonbreath, Ember, Endure, Fire Blast, Fire Spin, Flame Wheel, Flamethrower,
+      Frustration, Headbutt, Hidden Power, Iron Tail, Leer, Protect, Rest, Return,
+      Roar, Rock Smash, Safeguard, Sleep Talk, Snore, Sunny Day, Swagger, Swift, Take
+        Down, Thrash, Toxic]
+    Arcanine: [Extremespeed, Hyper Beam]
+  rs:
+    Growlithe: [Aerial Ace, Agility, Attract, Bite, Body Slam, Crunch, Dig, Double-Edge,
+      Double Team, Ember, Endure, Facade, Fire Blast, Fire Spin, Flame Wheel, Flamethrower,
+      Frustration, Heat Wave, Helping Hand, Hidden Power, Howl, Iron Tail, Leer, Mimic,
+      Odor Sleuth, Overheat, Protect, Rest, Return, Roar, Rock Smash, Safeguard, Secret
+        Power, Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger, Swift,
+      Take Down, Thief, Thrash, Toxic, Charm, Mimic]
+    Arcanine: [Extremespeed, Hyper Beam]
+  dp:
+    Growlithe: [Aerial Ace, Agility, Attract, Bite, Body Slam, Captivate, Crunch,
+      Dig, Double-Edge, Double Team, Ember, Endure, Facade, Fire Blast, Fire Fang,
+      Fire Spin, Flame Wheel, Flamethrower, Flare Blitz, Frustration, Headbutt, Heat
+        Wave, Helping Hand, Hidden Power, Howl, Iron Tail, Leer, Morning Sun, Mud-Slap,
+      Natural Gift, Odor Sleuth, Overheat, Protect, Rest, Return, Reversal, Roar,
+      Rock Smash, Safeguard, Secret Power, Sleep Talk, Snore, Strength, Substitute,
+      Sunny Day, Swagger, Swift, Take Down, Thief, Thrash, Toxic, Will-O-Wisp, Charm,
+      Mimic]
+    Arcanine: [Dragon Pulse, Extremespeed, Giga Impact, Hyper Beam, Iron Head, Rock
+        Climb, Solarbeam, Thunder Fang]
+  bw:
+    Growlithe: [Aerial Ace, Agility, Attract, Bite, Body Slam, Close Combat, Covet,
+      Crunch, Dig, Double-Edge, Double Kick, Double Team, Ember, Facade, Fire Blast,
+      Fire Fang, Fire Spin, Flame Burst, Flame Charge, Flame Wheel, Flamethrower,
+      Flare Blitz, Frustration, Heat Wave, Helping Hand, Hidden Power, Howl, Incinerate,
+      Iron Tail, Leer, Morning Sun, Odor Sleuth, Outrage, Overheat, Protect, Rest,
+      Retaliate, Return, Reversal, Roar, Rock Smash, Round, Safeguard, Sleep Talk,
+      Snarl, Snore, Strength, Substitute, Sunny Day, Swagger, Take Down, Thief, Thrash,
+      Toxic, Wild Charge, Will-O-Wisp, Charm, Mimic]
+    Arcanine: [Bulldoze, Dragon Pulse, Extremespeed, Giga Impact, Hyper Beam, Iron
+        Head, Solarbeam, Thunder Fang]

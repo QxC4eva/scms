@@ -1,0 +1,85 @@
+pokemon:
+  Drowzee:
+    introduction: rb
+    types:
+    - [Psychic]
+    egggroups:
+    - [Humanshape]
+    abilities:
+    - [Insomnia]
+    - dp: [Forewarn, Insomnia]
+    - bw: [Forewarn, Inner Focus, Insomnia]
+    stats:
+    - [60, 48, 45, 90, 90, 42]
+    - gs: [60, 48, 45, 43, 90, 42]
+    weight: [32.4]
+    height: [1]
+  Hypno:
+    introduction: rb
+    types:
+    - [Psychic]
+    egggroups:
+    - [Humanshape]
+    abilities:
+    - [Insomnia]
+    - dp: [Forewarn, Insomnia]
+    - bw: [Forewarn, Inner Focus, Insomnia]
+    stats:
+    - [85, 73, 70, 115, 115, 67]
+    - gs: [85, 73, 70, 73, 115, 67]
+    weight: [75.6]
+    height: [1.6]
+families:
+- {from: Drowzee, to: Hypno}
+learnsets:
+  rb:
+    Drowzee: [Bide, Body Slam, Confusion, Counter, Disable, Double-Edge, Double Team,
+      Dream Eater, Flash, Headbutt, Hypnosis, Meditate, Mega Kick, Mega Punch, Metronome,
+      Mimic, Poison Gas, Pound, Psychic, Psywave, Rage, Reflect, Rest, Seismic Toss,
+      Skull Bash, Submission, Substitute, Take Down, Teleport, Thunder Wave, Toxic,
+      Tri Attack]
+    Hypno: [Hyper Beam]
+  gs:
+    Drowzee: [Attract, Barrier, Confusion, Curse, Disable, Double Team, Dream Eater,
+      Dynamicpunch, Endure, Fire Punch, Flash, Frustration, Future Sight, Headbutt,
+      Hidden Power, Hypnosis, Ice Punch, Light Screen, Meditate, Nightmare, Poison
+        Gas, Pound, Protect, Psych Up, Psychic, Rain Dance, Rest, Return, Shadow Ball,
+      Sleep Talk, Snore, Sunny Day, Swagger, Thunderpunch, Toxic, Zap Cannon]
+    Hypno: [Hyper Beam]
+  rs:
+    Drowzee: [Assist, Attract, Barrier, Body Slam, Brick Break, Calm Mind, Confusion,
+      Counter, Disable, Double-Edge, Double Team, Dream Eater, Dynamicpunch, Endure,
+      Facade, Fire Punch, Flash, Focus Punch, Frustration, Future Sight, Headbutt,
+      Hidden Power, Hypnosis, Ice Punch, Light Screen, Meditate, Mega Kick, Mega Punch,
+      Metronome, Mimic, Nightmare, Poison Gas, Pound, Protect, Psych Up, Psychic,
+      Rain Dance, Reflect, Rest, Return, Role Play, Safeguard, Secret Power, Seismic
+        Toss, Shadow Ball, Skill Swap, Sleep Talk, Snatch, Snore, Substitute, Sunny
+        Day, Swagger, Taunt, Thief, Thunder Wave, Thunderpunch, Torment, Toxic, Baton
+        Pass, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    Hypno: [Hyper Beam]
+  dp:
+    Drowzee: [Assist, Attract, Barrier, Body Slam, Brick Break, Calm Mind, Captivate,
+      Confusion, Disable, Double-Edge, Double Team, Drain Punch, Dream Eater, Endure,
+      Facade, Fire Punch, Flash, Flatter, Fling, Focus Punch, Frustration, Future
+        Sight, Grass Knot, Guard Swap, Headbutt, Hidden Power, Hypnosis, Ice Punch,
+      Light Screen, Low Kick, Magic Coat, Meditate, Mimic, Nasty Plot, Natural Gift,
+      Nightmare, Poison Gas, Pound, Protect, Psybeam, Psych Up, Psychic, Psycho Cut,
+      Rain Dance, Recycle, Reflect, Rest, Return, Role Play, Safeguard, Secret Power,
+      Seismic Toss, Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snatch, Substitute,
+      Sunny Day, Swagger, Taunt, Thief, Thunder Wave, Thunderpunch, Torment, Toxic,
+      Trick, Trick Room, Zen Headbutt, Baton Pass, Body Slam, Double-Edge, Mimic,
+      Seismic Toss]
+    Hypno: [Focus Blast, Giga Impact, Hyper Beam, Nightmare, Switcheroo]
+  bw:
+    Drowzee: [Assist, Attract, Barrier, Body Slam, Brick Break, Calm Mind, Confusion,
+      Disable, Double-Edge, Double Team, Drain Punch, Dream Eater, Facade, Fire Punch,
+      Flash, Flatter, Fling, Foul Play, Frustration, Future Sight, Grass Knot, Guard
+        Swap, Headbutt, Hidden Power, Hypnosis, Ice Punch, Light Screen, Low Kick,
+      Low Sweep, Magic Coat, Magic Room, Meditate, Mimic, Nasty Plot, Nightmare, Poison
+        Gas, Pound, Protect, Psybeam, Psych Up, Psychic, Psycho Cut, Psyshock, Rain
+        Dance, Recycle, Reflect, Rest, Return, Role Play, Round, Safeguard, Secret
+        Power, Seismic Toss, Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snatch,
+      Substitute, Sunny Day, Swagger, Synchronoise, Taunt, Telekinesis, Thief, Thunder
+        Wave, Thunderpunch, Torment, Toxic, Trick, Trick Room, Zen Headbutt, Baton
+        Pass, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    Hypno: [Focus Blast, Giga Impact, Hyper Beam, Nightmare, Switcheroo]

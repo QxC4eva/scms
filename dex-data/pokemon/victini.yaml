@@ -1,0 +1,28 @@
+pokemon:
+  Victini:
+    introduction: bw
+    types:
+    - [Fire, Psychic]
+    egggroups:
+    - []
+    abilities:
+    - [Victory Star]
+    stats:
+    - [100, 100, 100, 100, 100, 100]
+    weight: [4]
+    height: [0.4]
+families: []
+learnsets:
+  bw:
+    Victini: [Blue Flare, Bolt Strike, Bounce, Brick Break, Charge Beam, Confusion,
+      Double-Edge, Double Team, Embargo, Endure, Energy Ball, Facade, Final Gambit,
+      Fire Blast, Fire Punch, Flame Burst, Flame Charge, Flamethrower, Flare Blitz,
+      Flash, Fling, Focus Blast, Focus Energy, Frustration, Fusion Flare, Fusion Bolt,
+      Giga Impact, Glaciate, Grass Knot, Headbutt, Heat Wave, Helping Hand, Hidden
+        Power, Hyper Beam, Incinerate, Inferno, Last Resort, Light Screen, Magic Coat,
+      Overheat, Protect, Psych Up, Psychic, Psyshock, Quick Attack, Rest, Return,
+      Reversal, Rock Smash, Role Play, Round, Safeguard, Searing Shot, Shadow Ball,
+      Signal Beam, Skill Swap, Sleep Talk, Snore, Solarbeam, Stored Power, Substitute,
+      Sunny Day, Swagger, Taunt, Telekinesis, Thunder, Thunder Wave, Thunderbolt,
+      Thunderpunch, Toxic, Trick, Trick Room, U-turn, Uproar, V-create, Wild Charge,
+      Will-O-Wisp, Work Up, Zen Headbutt]

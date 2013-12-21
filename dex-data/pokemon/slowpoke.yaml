@@ -1,0 +1,110 @@
+pokemon:
+  Slowpoke:
+    introduction: rb
+    types:
+    - [Psychic, Water]
+    egggroups:
+    - [Monster, Water 1]
+    abilities:
+    - [Oblivious, Own Tempo]
+    - bw: [Oblivious, Own Tempo, Regenerator]
+    stats:
+    - [90, 65, 65, 40, 40, 15]
+    - gs: [90, 65, 65, 40, 40, 15]
+    weight: [36]
+    height: [1.2]
+  Slowbro:
+    introduction: rb
+    types:
+    - [Psychic, Water]
+    egggroups:
+    - [Monster, Water 1]
+    abilities:
+    - [Oblivious, Own Tempo]
+    - bw: [Oblivious, Own Tempo, Regenerator]
+    stats:
+    - [95, 75, 110, 80, 80, 30]
+    - gs: [95, 75, 110, 100, 80, 30]
+    weight: [78.5]
+    height: [1.6]
+  Slowking:
+    introduction: gs
+    types:
+    - [Psychic, Water]
+    egggroups:
+    - [Monster, Water 1]
+    abilities:
+    - [Oblivious, Own Tempo]
+    - bw: [Oblivious, Own Tempo, Regenerator]
+    stats:
+    - [95, 75, 80, 100, 110, 30]
+    weight: [79.5]
+    height: [2]
+families:
+- {from: Slowpoke, to: Slowbro}
+- {from: Slowpoke, to: Slowking}
+learnsets:
+  rb:
+    Slowpoke: [Amnesia, Bide, Blizzard, Body Slam, Bubblebeam, Confusion, Dig, Disable,
+      Double-Edge, Double Team, Earthquake, Fire Blast, Fissure, Flash, Growl, Headbutt,
+      Ice Beam, Mimic, Pay Day, Psychic, Psywave, Rage, Reflect, Rest, Skull Bash,
+      Strength, Substitute, Surf, Swift, Take Down, Teleport, Thunder Wave, Toxic,
+      Tri Attack, Water Gun]
+    Slowbro: [Counter, Hyper Beam, Mega Kick, Mega Punch, Seismic Toss, Submission,
+      Withdraw]
+  gs:
+    Slowpoke: [Amnesia, Attract, Belly Drum, Blizzard, Confusion, Curse, Dig, Disable,
+      Double Team, Dream Eater, Earthquake, Endure, Fire Blast, Flamethrower, Flash,
+      Frustration, Future Sight, Growl, Headbutt, Hidden Power, Ice Beam, Icy Wind,
+      Iron Tail, Mud-Slap, Nightmare, Protect, Psych Up, Psychic, Rain Dance, Rest,
+      Return, Safeguard, Shadow Ball, Sleep Talk, Snore, Stomp, Strength, Sunny Day,
+      Surf, Swagger, Swift, Tackle, Toxic, Water Gun, Zap Cannon]
+    Slowbro: [Dynamicpunch, Fury Cutter, Hyper Beam, Ice Punch, Rock Smash, Withdraw]
+    Slowking: [Whirlpool]
+  rs:
+    Slowpoke: [Amnesia, Attract, Belly Drum, Blizzard, Body Slam, Calm Mind, Confusion,
+      Curse, Dig, Disable, Dive, Double-Edge, Double Team, Dream Eater, Earthquake,
+      Endure, Facade, Fire Blast, Flamethrower, Flash, Frustration, Future Sight,
+      Growl, Hail, Headbutt, Hidden Power, Ice Beam, Icy Wind, Iron Tail, Mimic, Mud-Slap,
+      Mud Sport, Nightmare, Protect, Psych Up, Psychic, Rain Dance, Rest, Return,
+      Safeguard, Secret Power, Shadow Ball, Skill Swap, Sleep Talk, Snore, Stomp,
+      Strength, Substitute, Sunny Day, Surf, Swagger, Swift, Tackle, Thunder Wave,
+      Toxic, Water Gun, Water Pulse, Yawn, Body Slam, Double-Edge, Icy Wind, Mimic,
+      Nightmare]
+    Slowbro: [Brick Break, Counter, Dynamicpunch, Focus Punch, Fury Cutter, Hyper
+        Beam, Ice Punch, Mega Kick, Mega Punch, Rock Smash, Seismic Toss, Withdraw,
+      Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss]
+    Slowking: [Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss]
+  dp:
+    Slowpoke: [Amnesia, Aqua Tail, Attract, Belly Drum, Blizzard, Block, Brine, Calm
+        Mind, Captivate, Confusion, Curse, Dig, Disable, Dive, Double Team, Dream
+        Eater, Earthquake, Endure, Facade, Fire Blast, Flamethrower, Flash, Frustration,
+      Future Sight, Grass Knot, Growl, Hail, Headbutt, Hidden Power, Ice Beam, Icy
+        Wind, Iron Tail, Light Screen, Magic Coat, Me First, Mud-Slap, Mud Sport,
+      Natural Gift, Protect, Psych Up, Psychic, Rain Dance, Recycle, Rest, Return,
+      Safeguard, Secret Power, Shadow Ball, Signal Beam, Skill Swap, Slack Off, Sleep
+        Talk, Snore, Stomp, Strength, Substitute, Sunny Day, Surf, Swagger, Swift,
+      Tackle, Thunder Wave, Toxic, Trick, Trick Room, Water Gun, Water Pulse, Whirlpool,
+      Yawn, Zen Headbutt, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare]
+    Slowbro: [Avalanche, Brick Break, Drain Punch, Fling, Focus Blast, Focus Punch,
+      Fury Cutter, Giga Impact, Hyper Beam, Ice Punch, Iron Defense, Rock Smash, Withdraw,
+      Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss]
+    Slowking: [Nasty Plot, Power Gem, Trump Card, Body Slam, Body Slam, Double-Edge,
+      Icy Wind, Mimic, Nightmare, Seismic Toss]
+  bw:
+    Slowpoke: [After You, Amnesia, Aqua Tail, Attract, Belly Drum, Blizzard, Block,
+      Bulldoze, Calm Mind, Confusion, Curse, Dig, Disable, Dive, Double Team, Dream
+        Eater, Earthquake, Echoed Voice, Facade, Fire Blast, Flamethrower, Flash,
+      Frustration, Future Sight, Grass Knot, Growl, Hail, Headbutt, Heal Pulse, Hidden
+        Power, Ice Beam, Icy Wind, Incinerate, Iron Tail, Light Screen, Magic Coat,
+      Me First, Mud Sport, Protect, Psych Up, Psychic, Psyshock, Rain Dance, Recycle,
+      Rest, Return, Round, Safeguard, Scald, Shadow Ball, Signal Beam, Skill Swap,
+      Slack Off, Sleep Talk, Snore, Stomp, Strength, Substitute, Sunny Day, Surf,
+      Swagger, Tackle, Telekinesis, Thunder Wave, Toxic, Trick, Trick Room, Water
+        Gun, Water Pulse, Wonder Room, Yawn, Zen Headbutt, Body Slam, Double-Edge,
+      Icy Wind, Mimic, Nightmare]
+    Slowbro: [Aerial Ace, Brick Break, Drain Punch, Fling, Focus Blast, Foul Play,
+      Giga Impact, Hyper Beam, Ice Punch, Iron Defense, Rock Smash, Withdraw, Body
+        Slam, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss]
+    Slowking: [Dragon Tail, Nasty Plot, Power Gem, Quash, Trump Card, Body Slam, Double-Edge,
+      Icy Wind, Mimic, Nightmare, Seismic Toss]

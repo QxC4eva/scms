@@ -1,0 +1,82 @@
+pokemon:
+  Spheal:
+    introduction: rs
+    types:
+    - [Ice, Water]
+    egggroups:
+    - [Ground, Water 1]
+    abilities:
+    - [Thick Fat]
+    - dp: [Ice Body, Thick Fat]
+    - bw: [Ice Body, Oblivious, Thick Fat]
+    stats:
+    - [70, 40, 50, 55, 50, 25]
+    weight: [39.5]
+    height: [0.8]
+  Sealeo:
+    introduction: rs
+    types:
+    - [Ice, Water]
+    egggroups:
+    - [Ground, Water 1]
+    abilities:
+    - [Thick Fat]
+    - dp: [Ice Body, Thick Fat]
+    - bw: [Ice Body, Oblivious, Thick Fat]
+    stats:
+    - [90, 60, 70, 75, 70, 45]
+    weight: [87.6]
+    height: [1.1]
+  Walrein:
+    introduction: rs
+    types:
+    - [Ice, Water]
+    egggroups:
+    - [Ground, Water 1]
+    abilities:
+    - [Thick Fat]
+    - dp: [Ice Body, Thick Fat]
+    - bw: [Ice Body, Oblivious, Thick Fat]
+    stats:
+    - [110, 80, 90, 95, 90, 65]
+    weight: [150.6]
+    height: [1.4]
+families:
+- {from: Spheal, to: Sealeo}
+- {from: Sealeo, to: Walrein}
+learnsets:
+  rs:
+    Spheal: [Attract, Aurora Beam, Blizzard, Body Slam, Curse, Defense Curl, Dive,
+      Double-Edge, Double Team, Earthquake, Encore, Endure, Facade, Fissure, Frustration,
+      Growl, Hail, Hidden Power, Ice Ball, Ice Beam, Icy Wind, Iron Tail, Mimic, Mud-Slap,
+      Powder Snow, Protect, Rain Dance, Rest, Return, Rock Slide, Rock Smash, Rock
+        Tomb, Rollout, Secret Power, Sheer Cold, Sleep Talk, Snore, Spit Up, Stockpile,
+      Strength, Substitute, Surf, Swagger, Swallow, Toxic, Water Gun, Water Pulse,
+      Water Sport, Waterfall, Yawn, Charm, Double-Edge, Icy Wind, Mimic, Mud-Slap]
+    Sealeo: [Roar, Double-Edge, Icy Wind, Mimic]
+    Walrein: [Hyper Beam, Double-Edge, Icy Wind, Mimic]
+  dp:
+    Spheal: [Aqua Ring, Aqua Tail, Attract, Aurora Beam, Blizzard, Body Slam, Brine,
+      Captivate, Curse, Defense Curl, Dive, Double Team, Earthquake, Encore, Endure,
+      Facade, Fissure, Frustration, Growl, Hail, Headbutt, Hidden Power, Ice Ball,
+      Ice Beam, Icy Wind, Iron Tail, Mud-Slap, Natural Gift, Powder Snow, Protect,
+      Rain Dance, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout, Secret
+        Power, Sheer Cold, Signal Beam, Sleep Talk, Snore, Spit Up, Stockpile, Strength,
+      Substitute, Super Fang, Surf, Swagger, Swallow, Toxic, Water Gun, Water Pulse,
+      Water Sport, Waterfall, Whirlpool, Yawn, Charm, Double-Edge, Icy Wind, Mimic,
+      Mud-Slap]
+    Sealeo: [Roar, Double-Edge, Icy Wind, Mimic]
+    Walrein: [Avalanche, Block, Crunch, Fury Cutter, Giga Impact, Hyper Beam, Ice
+        Fang, Iron Head, Double-Edge, Icy Wind, Mimic]
+  bw:
+    Spheal: [Aqua Ring, Aqua Tail, Attract, Aurora Beam, Blizzard, Body Slam, Bulldoze,
+      Curse, Defense Curl, Dive, Double Team, Earthquake, Echoed Voice, Encore, Facade,
+      Fissure, Frost Breath, Frustration, Growl, Hail, Hidden Power, Ice Ball, Ice
+        Beam, Icy Wind, Iron Tail, Powder Snow, Protect, Rain Dance, Rest, Return,
+      Rock Slide, Rock Smash, Rock Tomb, Rollout, Round, Sheer Cold, Signal Beam,
+      Sleep Talk, Snore, Spit Up, Stockpile, Strength, Substitute, Super Fang, Surf,
+      Swagger, Swallow, Toxic, Water Gun, Water Pulse, Water Sport, Waterfall, Yawn,
+      Charm, Double-Edge, Icy Wind, Mimic, Mud-Slap]
+    Sealeo: [Roar, Double-Edge, Icy Wind, Mimic]
+    Walrein: [Block, Crunch, Giga Impact, Hyper Beam, Ice Fang, Iron Head, Double-Edge,
+      Icy Wind, Mimic]

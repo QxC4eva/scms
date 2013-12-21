@@ -1,0 +1,44 @@
+pokemon:
+  Volbeat:
+    introduction: rs
+    types:
+    - [Bug]
+    egggroups:
+    - [Bug, Humanshape]
+    abilities:
+    - [Illuminate, Swarm]
+    - bw: [Illuminate, Prankster, Swarm]
+    stats:
+    - [65, 73, 55, 47, 75, 85]
+    weight: [17.7]
+    height: [0.7]
+families: []
+learnsets:
+  rs:
+    Volbeat: [Aerial Ace, Attract, Baton Pass, Body Slam, Brick Break, Confuse Ray,
+      Counter, Double-Edge, Double Team, Dynamicpunch, Endure, Facade, Flash, Focus
+        Punch, Frustration, Giga Drain, Helping Hand, Hidden Power, Ice Punch, Light
+        Screen, Mega Kick, Mega Punch, Metronome, Mimic, Moonlight, Mud-Slap, Protect,
+      Psych Up, Quick Attack, Rain Dance, Rest, Return, Secret Power, Seismic Toss,
+      Shadow Ball, Shock Wave, Signal Beam, Silver Wind, Sleep Talk, Snore, Solarbeam,
+      Substitute, Sunny Day, Swagger, Swift, Tackle, Tail Glow, Thief, Thunder, Thunder
+        Wave, Thunderbolt, Thunderpunch, Toxic, Trick, Water Pulse, Body Slam, Mimic]
+  dp:
+    Volbeat: [Aerial Ace, Air Cutter, Attract, Baton Pass, Brick Break, Bug Bite,
+      Bug Buzz, Captivate, Charge Beam, Confuse Ray, Double-Edge, Double Team, Encore,
+      Endure, Facade, Flash, Fling, Focus Punch, Frustration, Giga Drain, Helping
+        Hand, Hidden Power, Ice Punch, Light Screen, Moonlight, Mud-Slap, Natural
+        Gift, Ominous Wind, Protect, Psych Up, Quick Attack, Rain Dance, Rest, Return,
+      Roost, Secret Power, Shadow Ball, Shock Wave, Signal Beam, Silver Wind, Sleep
+        Talk, Snore, Solarbeam, String Shot, Substitute, Sunny Day, Swagger, Swift,
+      Tackle, Tail Glow, Tailwind, Thief, Thunder, Thunder Wave, Thunderbolt, Thunderpunch,
+      Toxic, Trick, U-turn, Water Pulse, Zen Headbutt, Body Slam, Mimic]
+  bw:
+    Volbeat: [Acrobatics, Aerial Ace, Attract, Baton Pass, Brick Break, Bug Bite,
+      Bug Buzz, Charge Beam, Confuse Ray, Dizzy Punch, Double-Edge, Double Team, Encore,
+      Facade, Flash, Fling, Frustration, Giga Drain, Helping Hand, Hidden Power, Ice
+        Punch, Light Screen, Moonlight, Protect, Psych Up, Quick Attack, Rain Dance,
+      Rest, Return, Roost, Round, Seismic Toss, Shadow Ball, Signal Beam, Silver Wind,
+      Sleep Talk, Snore, Solarbeam, Struggle Bug, Substitute, Sunny Day, Swagger,
+      Tackle, Tail Glow, Tailwind, Thief, Thunder, Thunder Wave, Thunderbolt, Thunderpunch,
+      Toxic, Trick, U-turn, Zen Headbutt, Body Slam, Mimic]

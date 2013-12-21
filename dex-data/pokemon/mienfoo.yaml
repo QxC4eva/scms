@@ -1,0 +1,39 @@
+pokemon:
+  Mienfoo:
+    introduction: bw
+    types:
+    - [Fighting]
+    egggroups:
+    - [Ground, Humanshape]
+    abilities:
+    - [Inner Focus, Reckless, Regenerator]
+    stats:
+    - [45, 85, 50, 55, 50, 65]
+    weight: [20]
+    height: [0.9]
+  Mienshao:
+    introduction: bw
+    types:
+    - [Fighting]
+    egggroups:
+    - [Ground, Humanshape]
+    abilities:
+    - [Inner Focus, Reckless, Regenerator]
+    stats:
+    - [65, 125, 60, 95, 60, 105]
+    weight: [35.5]
+    height: [1.4]
+families:
+- {from: Mienfoo, to: Mienshao}
+learnsets:
+  bw:
+    Mienfoo: [Acrobatics, Aerial Ace, Attract, Aura Sphere, Baton Pass, Bounce, Brick
+        Break, Bulk Up, Calm Mind, Detect, Dig, Double Team, Doubleslap, Drain Punch,
+      Dual Chop, Endure, Facade, Fake Out, Feint, Fling, Focus Blast, Force Palm,
+      Frustration, Grass Knot, Helping Hand, Hi Jump Kick, Hidden Power, Jump Kick,
+      Knock Off, Low Kick, Low Sweep, Me First, Meditate, Payback, Poison Jab, Pound,
+      Protect, Psych Up, Quick Guard, Rain Dance, Reflect, Rest, Retaliate, Return,
+      Reversal, Rock Slide, Rock Smash, Rock Tomb, Role Play, Round, Sleep Talk, Smellingsalt,
+      Snore, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Swift, Swords Dance,
+      Taunt, Toxic, U-turn, Vital Throw, Work Up]
+    Mienshao: [Giga Impact, Hyper Beam, Wide Guard]

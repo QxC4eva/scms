@@ -1,0 +1,48 @@
+pokemon:
+  Raikou:
+    introduction: gs
+    types:
+    - [Electric]
+    egggroups:
+    - []
+    abilities:
+    - [Pressure]
+    - bw: [Pressure, Volt Absorb]
+    stats:
+    - [90, 85, 75, 115, 100, 115]
+    weight: [178]
+    height: [1.9]
+families: []
+learnsets:
+  gs:
+    Raikou: [Bite, Crunch, Curse, Cut, Detect, Dig, Double Team, Endure, Flash, Frustration,
+      Headbutt, Hidden Power, Hyper Beam, Iron Tail, Leer, Mud-Slap, Protect, Psych
+        Up, Quick Attack, Rain Dance, Reflect, Rest, Return, Roar, Rock Smash, Sandstorm,
+      Sleep Talk, Snore, Spark, Strength, Sunny Day, Swagger, Swift, Thunder, Thunderbolt,
+      Thundershock, Toxic, Zap Cannon]
+  rs:
+    Raikou: [Bite, Body Slam, Calm Mind, Crunch, Cut, Dig, Double-Edge, Double Team,
+      Endure, Facade, Flash, Frustration, Hidden Power, Hyper Beam, Iron Tail, Leer,
+      Mimic, Mud-Slap, Protect, Psych Up, Quick Attack, Rain Dance, Reflect, Rest,
+      Return, Roar, Rock Smash, Sandstorm, Secret Power, Shock Wave, Sleep Talk, Snore,
+      Spark, Strength, Substitute, Sunny Day, Swagger, Swift, Thunder, Thunder Wave,
+      Thunderbolt, Thundershock, Toxic, Body Slam, Double-Edge, Mimic]
+  dp:
+    Raikou: [Bite, Calm Mind, Charge Beam, Crunch, Cut, Dig, Discharge, Double Team,
+      Endure, Extrasensory, Facade, Flash, Frustration, Giga Impact, Headbutt, Hidden
+        Power, Hyper Beam, Iron Head, Iron Tail, Leer, Light Screen, Magnet Rise,
+      Mud-Slap, Natural Gift, Protect, Psych Up, Quick Attack, Rain Dance, Reflect,
+      Rest, Return, Roar, Rock Climb, Rock Smash, Sandstorm, Secret Power, Shadow
+        Ball, Shock Wave, Signal Beam, Sleep Talk, Snore, Spark, Strength, Substitute,
+      Sunny Day, Swagger, Swift, Thunder, Thunder Fang, Thunder Wave, Thunderbolt,
+      Thundershock, Toxic, Zap Cannon, Aura Sphere, Extremespeed, Weather Ball, Body
+        Slam, Double-Edge, Mimic]
+  bw:
+    Raikou: [Bite, Bulldoze, Calm Mind, Charge Beam, Crunch, Cut, Dig, Discharge,
+      Double Team, Extrasensory, Facade, Flash, Frustration, Giga Impact, Hidden Power,
+      Hyper Beam, Iron Head, Iron Tail, Leer, Light Screen, Magnet Rise, Protect,
+      Psych Up, Quash, Quick Attack, Rain Dance, Reflect, Rest, Return, Roar, Rock
+        Smash, Round, Sandstorm, Shadow Ball, Signal Beam, Sleep Talk, Snarl, Snore,
+      Spark, Strength, Substitute, Sunny Day, Swagger, Thunder, Thunder Fang, Thunder
+        Wave, Thunderbolt, Thundershock, Toxic, Volt Switch, Wild Charge, Zap Cannon,
+      Aura Sphere, Extremespeed, Weather Ball, Body Slam, Double-Edge, Mimic]

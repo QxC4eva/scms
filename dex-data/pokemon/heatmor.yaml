@@ -1,0 +1,25 @@
+pokemon:
+  Heatmor:
+    introduction: bw
+    types:
+    - [Fire]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Flash Fire, Gluttony, White Smoke]
+    stats:
+    - [85, 97, 66, 105, 66, 65]
+    weight: [58]
+    height: [1.4]
+families: []
+learnsets:
+  bw:
+    Heatmor: [Aerial Ace, Amnesia, Attract, Bind, Body Slam, Bug Bite, Curse, Cut,
+      Dig, Double Team, Facade, Faint Attack, Fire Blast, Fire Punch, Fire Spin, Flame
+        Burst, Flamethrower, Fling, Focus Blast, Frustration, Fury Swipes, Gastro
+        Acid, Giga Drain, Giga Impact, Heat Wave, Hidden Power, Hone Claws, Incinerate,
+      Inferno, Knock Off, Lick, Low Kick, Night Slash, Odor Sleuth, Protect, Pursuit,
+      Rain Dance, Recycle, Rest, Return, Rock Smash, Rock Tomb, Round, Shadow Claw,
+      Slash, Sleep Talk, Snatch, Snore, Solarbeam, Spit Up, Stockpile, Substitute,
+      Sucker Punch, Sunny Day, Superpower, Swagger, Swallow, Taunt, Thief, Thunderpunch,
+      Tickle, Toxic, Will-O-Wisp, Wrap]

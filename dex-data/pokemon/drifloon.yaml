@@ -1,0 +1,51 @@
+pokemon:
+  Drifloon:
+    introduction: dp
+    types:
+    - [Flying, Ghost]
+    egggroups:
+    - [Indeterminate]
+    abilities:
+    - [Aftermath, Flare Boost, Unburden]
+    stats:
+    - [90, 50, 34, 60, 44, 70]
+    weight: [1.2]
+    height: [0.4]
+  Drifblim:
+    introduction: dp
+    types:
+    - [Flying, Ghost]
+    egggroups:
+    - [Indeterminate]
+    abilities:
+    - [Aftermath, Flare Boost, Unburden]
+    stats:
+    - [150, 80, 44, 90, 54, 80]
+    weight: [15]
+    height: [1.2]
+families:
+- {from: Drifloon, to: Drifblim}
+learnsets:
+  dp:
+    Drifloon: [Air Cutter, Astonish, Attract, Baton Pass, Body Slam, Calm Mind, Captivate,
+      Charge Beam, Constrict, Cut, Defog, Destiny Bond, Disable, Double Team, Dream
+        Eater, Embargo, Endure, Explosion, Facade, Flash, Focus Energy, Frustration,
+      Gust, Gyro Ball, Haze, Hidden Power, Hypnosis, Icy Wind, Knock Off, Magic Coat,
+      Memento, Minimize, Mud-Slap, Natural Gift, Ominous Wind, Pain Split, Payback,
+      Protect, Psych Up, Psychic, Rain Dance, Recycle, Rest, Return, Rollout, Secret
+        Power, Shadow Ball, Shock Wave, Silver Wind, Skill Swap, Sleep Talk, Snore,
+      Spit Up, Spite, Stockpile, Substitute, Sucker Punch, Sunny Day, Swagger, Swallow,
+      Swift, Tailwind, Thief, Thunder, Thunder Wave, Thunderbolt, Toxic, Trick, Weather
+        Ball, Will-O-Wisp]
+    Drifblim: [Fly, Giga Impact, Hyper Beam]
+  bw:
+    Drifloon: [Acrobatics, Amnesia, Astonish, Attract, Baton Pass, Bind, Body Slam,
+      Calm Mind, Charge Beam, Clear Smog, Constrict, Cut, Defog, Destiny Bond, Disable,
+      Double Team, Dream Eater, Embargo, Explosion, Facade, Flash, Focus Energy, Frustration,
+      Gust, Gyro Ball, Haze, Hex, Hidden Power, Hypnosis, Icy Wind, Knock Off, Magic
+        Coat, Memento, Minimize, Ominous Wind, Pain Split, Payback, Protect, Psych
+        Up, Psychic, Rain Dance, Recycle, Rest, Return, Round, Shadow Ball, Skill
+        Swap, Sleep Talk, Snore, Spit Up, Spite, Stockpile, Substitute, Sunny Day,
+      Swagger, Swallow, Tailwind, Telekinesis, Thief, Thunder, Thunder Wave, Thunderbolt,
+      Toxic, Trick, Weather Ball, Will-O-Wisp]
+    Drifblim: [Fly, Giga Impact, Hyper Beam]

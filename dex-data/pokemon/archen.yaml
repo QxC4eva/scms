@@ -1,0 +1,40 @@
+pokemon:
+  Archen:
+    introduction: bw
+    types:
+    - [Flying, Rock]
+    egggroups:
+    - [Flying, Water 3]
+    abilities:
+    - [Defeatist]
+    stats:
+    - [55, 112, 45, 74, 45, 70]
+    weight: [9.5]
+    height: [0.5]
+  Archeops:
+    introduction: bw
+    types:
+    - [Flying, Rock]
+    egggroups:
+    - [Flying, Water 3]
+    abilities:
+    - [Defeatist]
+    stats:
+    - [75, 140, 65, 112, 65, 110]
+    weight: [32]
+    height: [1.4]
+families:
+- {from: Archen, to: Archeops}
+learnsets:
+  bw:
+    Archen: [Acrobatics, Aerial Ace, Agility, Ancientpower, Aqua Tail, Attract, Bite,
+      Bounce, Bulldoze, Crunch, Cut, Defog, Dig, Double Team, Dragon Claw, Dragon
+        Pulse, Dragonbreath, Earth Power, Earthquake, Endeavor, Facade, Frustration,
+      Head Smash, Heat Wave, Hidden Power, Hone Claws, Iron Defense, Iron Tail, Knock
+        Off, Leer, Pluck, Protect, Quick Attack, Quick Guard, Rest, Return, Roar,
+      Rock Polish, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Roost, Round, Sandstorm,
+      Scary Face, Shadow Claw, Sleep Talk, Smack Down, Snore, Stealth Rock, Steel
+        Wing, Stone Edge, Substitute, Swagger, Tailwind, Taunt, Thrash, Torment, Toxic,
+      U-turn, Uproar, Wing Attack]
+    Archeops: [Dragon Tail, Fly, Focus Blast, Giga Impact, Hyper Beam, Outrage, Sky
+        Attack]

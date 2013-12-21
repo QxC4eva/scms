@@ -1,0 +1,80 @@
+pokemon:
+  Nincada:
+    introduction: rs
+    types:
+    - [Bug, Ground]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Compoundeyes]
+    - bw: [Compoundeyes, Run Away]
+    stats:
+    - [31, 45, 90, 30, 30, 40]
+    weight: [5.5]
+    height: [0.5]
+  Ninjask:
+    introduction: rs
+    types:
+    - [Bug, Flying]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Speed Boost]
+    - bw: [Infiltrator, Speed Boost]
+    stats:
+    - [61, 90, 45, 50, 50, 160]
+    weight: [12]
+    height: [0.8]
+  Shedinja:
+    introduction: rs
+    types:
+    - [Bug, Ghost]
+    egggroups:
+    - [Mineral]
+    abilities:
+    - [Wonder Guard]
+    - bw: [Wonder Guard]
+    stats:
+    - [1, 90, 45, 30, 30, 40]
+    weight: [1.2]
+    height: [0.8]
+families:
+- {from: Nincada, to: Ninjask}
+- {from: Nincada, to: Shedinja}
+learnsets:
+  rs:
+    Nincada: [Aerial Ace, Cut, Dig, Double-Edge, Double Team, Endure, Facade, Faint
+        Attack, False Swipe, Flash, Frustration, Fury Cutter, Fury Swipes, Giga Drain,
+      Gust, Harden, Hidden Power, Leech Life, Metal Claw, Mimic, Mind Reader, Mud-Slap,
+      Protect, Rest, Return, Sand-Attack, Sandstorm, Scratch, Secret Power, Shadow
+        Ball, Silver Wind, Sleep Talk, Snore, Solarbeam, Substitute, Sunny Day, Swagger,
+      Toxic, Double-Edge, Mimic]
+    Ninjask: [Agility, Attract, Baton Pass, Hyper Beam, Screech, Slash, Swift, Swords
+        Dance, Thief, Double-Edge, Mimic]
+    Shedinja: [Confuse Ray, Dream Eater, Grudge, Nightmare, Spite, Double-Edge, Dream
+        Eater, Mimic, Nightmare]
+  dp:
+    Nincada: [Aerial Ace, Bug Bite, Bug Buzz, Cut, Dig, Double Team, Endure, Facade,
+      Faint Attack, False Swipe, Flash, Frustration, Fury Cutter, Fury Swipes, Giga
+        Drain, Gust, Harden, Hidden Power, Leech Life, Metal Claw, Mind Reader, Mud-Slap,
+      Natural Gift, Night Slash, Protect, Rest, Return, Sand-Attack, Sandstorm, Scratch,
+      Secret Power, Shadow Ball, Silver Wind, Sleep Talk, Snore, Solarbeam, Spite,
+      String Shot, Substitute, Sunny Day, Swagger, Toxic, X-scissor, Double-Edge,
+      Mimic]
+    Ninjask: [Agility, Air Cutter, Attract, Baton Pass, Captivate, Defog, Giga Impact,
+      Hyper Beam, Ominous Wind, Roost, Screech, Slash, Swift, Swords Dance, Thief,
+      U-turn, Uproar, Double-Edge, Mimic]
+    Shedinja: [Confuse Ray, Dream Eater, Grudge, Heal Block, Shadow Claw, Shadow Sneak,
+      Sucker Punch, Trick, Will-O-Wisp, Double-Edge, Dream Eater, Mimic, Nightmare]
+  bw:
+    Nincada: [Aerial Ace, Bug Bite, Bug Buzz, Cut, Dig, Double Team, Endure, Facade,
+      Faint Attack, False Swipe, Final Gambit, Flash, Frustration, Fury Swipes, Giga
+        Drain, Gust, Harden, Hidden Power, Hone Claws, Leech Life, Metal Claw, Mind
+        Reader, Mud-Slap, Night Slash, Protect, Rest, Return, Round, Sand-Attack,
+      Sandstorm, Scratch, Shadow Ball, Silver Wind, Sleep Talk, Snore, Solarbeam,
+      Spite, Struggle Bug, Substitute, Sunny Day, Swagger, Toxic, X-scissor, Double-Edge,
+      Mimic]
+    Ninjask: [Agility, Attract, Baton Pass, Fury Cutter, Giga Impact, Hyper Beam,
+      Roost, Screech, Slash, Swords Dance, Thief, U-turn, Uproar, Double-Edge, Mimic]
+    Shedinja: [Confuse Ray, Dream Eater, Grudge, Heal Block, Shadow Claw, Shadow Sneak,
+      Telekinesis, Trick, Will-O-Wisp, Double-Edge, Dream Eater, Mimic, Nightmare]

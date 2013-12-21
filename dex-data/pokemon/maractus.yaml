@@ -1,0 +1,24 @@
+pokemon:
+  Maractus:
+    introduction: bw
+    types:
+    - [Grass]
+    egggroups:
+    - [Plant]
+    abilities:
+    - [Chlorophyll, Storm Drain, Water Absorb]
+    stats:
+    - [75, 86, 67, 106, 67, 60]
+    weight: [28]
+    height: [1]
+families: []
+learnsets:
+  bw:
+    Maractus: [Absorb, Acupressure, Aerial Ace, After You, Attract, Bounce, Bullet
+        Seed, Cotton Guard, Cotton Spore, Double Team, Drain Punch, Endeavor, Energy
+        Ball, Facade, Frustration, Giga Drain, Grass Knot, Grasswhistle, Growth, Helping
+        Hand, Hidden Power, Hyper Voice, Ingrain, Knock Off, Leech Seed, Mega Drain,
+      Needle Arm, Peck, Petal Dance, Pin Missile, Poison Jab, Protect, Rest, Return,
+      Round, Safeguard, Seed Bomb, Sleep Talk, Snore, Solarbeam, Spikes, Substitute,
+      Sucker Punch, Sunny Day, Swagger, Sweet Scent, Synthesis, Toxic, Uproar, Wood
+        Hammer, Worry Seed]

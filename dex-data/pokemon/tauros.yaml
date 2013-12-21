@@ -1,0 +1,57 @@
+pokemon:
+  Tauros:
+    introduction: rb
+    types:
+    - [Normal]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Intimidate]
+    - dp: [Anger Point, Intimidate]
+    - bw: [Anger Point, Intimidate, Sheer Force]
+    stats:
+    - [75, 100, 95, 70, 70, 110]
+    - gs: [75, 100, 95, 40, 70, 110]
+    weight: [88.4]
+    height: [1.4]
+families: []
+learnsets:
+  rb:
+    Tauros: [Bide, Blizzard, Body Slam, Double-Edge, Double Team, Earthquake, Fire
+        Blast, Fissure, Horn Drill, Hyper Beam, Ice Beam, Leer, Mimic, Rage, Rest,
+      Skull Bash, Stomp, Strength, Substitute, Tackle, Tail Whip, Take Down, Thunder,
+      Thunderbolt, Toxic]
+  gs:
+    Tauros: [Attract, Blizzard, Curse, Double Team, Earthquake, Endure, Fire Blast,
+      Flamethrower, Frustration, Headbutt, Hidden Power, Horn Attack, Hyper Beam,
+      Ice Beam, Icy Wind, Iron Tail, Protect, Pursuit, Rage, Rest, Return, Rock Smash,
+      Scary Face, Sleep Talk, Snore, Strength, Sunny Day, Surf, Swagger, Tackle, Tail
+        Whip, Take Down, Thrash, Thunder, Thunderbolt, Toxic, Zap Cannon]
+  rs:
+    Tauros: [Attract, Blizzard, Body Slam, Double-Edge, Double Team, Earthquake, Endure,
+      Facade, Fire Blast, Flamethrower, Frustration, Hidden Power, Horn Attack, Hyper
+        Beam, Ice Beam, Icy Wind, Iron Tail, Mimic, Protect, Pursuit, Rage, Rain Dance,
+      Rest, Return, Rock Smash, Rock Tomb, Sandstorm, Scary Face, Secret Power, Shock
+        Wave, Sleep Talk, Snore, Solarbeam, Strength, Substitute, Sunny Day, Surf,
+      Swagger, Tackle, Tail Whip, Take Down, Thrash, Thunder, Thunderbolt, Toxic,
+      Water Pulse, Body Slam, Body Slam, Double-Edge, Icy Wind, Mimic, Refresh]
+  dp:
+    Tauros: [Attract, Blizzard, Captivate, Double Team, Earthquake, Endeavor, Endure,
+      Facade, Fire Blast, Flamethrower, Frustration, Giga Impact, Headbutt, Helping
+        Hand, Hidden Power, Horn Attack, Hyper Beam, Ice Beam, Icy Wind, Iron Head,
+      Iron Tail, Natural Gift, Outrage, Payback, Protect, Pursuit, Rage, Rain Dance,
+      Rest, Return, Rock Climb, Rock Slide, Rock Smash, Rock Tomb, Role Play, Sandstorm,
+      Scary Face, Secret Power, Shock Wave, Sleep Talk, Snore, Solarbeam, Spite, Stone
+        Edge, Strength, Substitute, Sunny Day, Surf, Swagger, Tackle, Tail Whip, Take
+        Down, Thrash, Thunder, Thunderbolt, Toxic, Uproar, Water Pulse, Whirlpool,
+      Zen Headbutt, Body Slam, Body Slam, Double-Edge, Icy Wind, Mimic, Refresh]
+  bw:
+    Tauros: [Attract, Blizzard, Bulldoze, Double Team, Earthquake, Endeavor, Facade,
+      Fire Blast, Flamethrower, Frustration, Giga Impact, Helping Hand, Hidden Power,
+      Horn Attack, Hyper Beam, Ice Beam, Icy Wind, Incinerate, Iron Head, Iron Tail,
+      Outrage, Payback, Protect, Pursuit, Rage, Rain Dance, Rest, Retaliate, Return,
+      Rock Slide, Rock Smash, Rock Tomb, Role Play, Round, Sandstorm, Scary Face,
+      Sleep Talk, Snore, Solarbeam, Spite, Stone Edge, Strength, Substitute, Sunny
+        Day, Surf, Swagger, Tackle, Tail Whip, Take Down, Thrash, Thunder, Thunderbolt,
+      Toxic, Uproar, Wild Charge, Work Up, Zen Headbutt, Body Slam, Body Slam, Double-Edge,
+      Icy Wind, Mimic, Refresh]

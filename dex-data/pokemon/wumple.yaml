@@ -1,0 +1,99 @@
+pokemon:
+  Wurmple:
+    introduction: rs
+    types:
+    - [Bug]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Shield Dust]
+    - bw: [Run Away, Shield Dust]
+    stats:
+    - [45, 45, 35, 20, 30, 20]
+    weight: [3.6]
+    height: [0.3]
+  Silcoon:
+    introduction: rs
+    types:
+    - [Bug]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Shed Skin]
+    stats:
+    - [50, 35, 55, 25, 25, 15]
+    weight: [10]
+    height: [0.6]
+  Beautifly:
+    introduction: rs
+    types:
+    - [Bug, Flying]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Swarm]
+    - bw: [Rivalry, Swarm]
+    stats:
+    - [60, 70, 50, 90, 50, 65]
+    weight: [28.4]
+    height: [1]
+  Cascoon:
+    introduction: rs
+    types:
+    - [Bug]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Shed Skin]
+    stats:
+    - [50, 35, 55, 25, 25, 15]
+    weight: [11.5]
+    height: [0.7]
+  Dustox:
+    introduction: rs
+    types:
+    - [Bug, Poison]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Shield Dust]
+    - bw: [Compoundeyes, Shield Dust]
+    stats:
+    - [60, 50, 70, 50, 90, 65]
+    weight: [31.6]
+    height: [1.2]
+families:
+- {from: Wurmple, to: Silcoon}
+- {from: Wurmple, to: Beautifly}
+- {from: Wurmple, to: Cascoon}
+- {from: Wurmple, to: Dustox}
+learnsets:
+  rs:
+    Wurmple: [Poison Sting, String Shot, Tackle]
+    Cascoon: [Harden]
+    Beautifly: [Absorb, Aerial Ace, Attract, Double-Edge, Double Team, Endure, Facade,
+      Flash, Frustration, Giga Drain, Gust, Hidden Power, Hyper Beam, Mega Drain,
+      Mimic, Morning Sun, Protect, Psychic, Rest, Return, Safeguard, Secret Power,
+      Shadow Ball, Silver Wind, Sleep Talk, Snore, Solarbeam, Stun Spore, Substitute,
+      Sunny Day, Swagger, Swift, Thief, Toxic, Whirlwind]
+    Dustox: [Confusion, Light Screen, Moonlight, Psybeam, Sludge Bomb]
+  dp:
+    Wurmple: [Bug Bite, Poison Sting, Snore, String Shot, Tackle]
+    Cascoon: [Harden, Iron Defense]
+    Beautifly: [Absorb, Aerial Ace, Air Cutter, Attract, Bug Buzz, Captivate, Defog,
+      Double Team, Endure, Energy Ball, Facade, Flash, Frustration, Giga Drain, Giga
+        Impact, Gust, Hidden Power, Hyper Beam, Mega Drain, Morning Sun, Natural Gift,
+      Ominous Wind, Protect, Psychic, Rest, Return, Roost, Safeguard, Secret Power,
+      Shadow Ball, Signal Beam, Silver Wind, Sleep Talk, Solarbeam, Stun Spore, Substitute,
+      Sunny Day, Swagger, Swift, Tailwind, Thief, Toxic, Twister, U-turn, Whirlwind]
+    Dustox: [Confusion, Light Screen, Moonlight, Psybeam, Sludge Bomb]
+  bw:
+    Wurmple: [Bug Bite, Electroweb, Poison Sting, Snore, String Shot, Tackle]
+    Cascoon: [Harden, Iron Defense]
+    Beautifly: [Absorb, Acrobatics, Aerial Ace, Attract, Bug Buzz, Double Team, Energy
+        Ball, Facade, Flash, Frustration, Giga Drain, Giga Impact, Gust, Hidden Power,
+      Hyper Beam, Mega Drain, Morning Sun, Protect, Psychic, Quiver Dance, Rest, Return,
+      Roost, Round, Safeguard, Shadow Ball, Signal Beam, Silver Wind, Sleep Talk,
+      Solarbeam, Struggle Bug, Stun Spore, Substitute, Sunny Day, Swagger, Tailwind,
+      Thief, Toxic, U-turn, Venoshock, Whirlwind]
+    Dustox: [Confusion, Light Screen, Moonlight, Psybeam, Sludge Bomb]

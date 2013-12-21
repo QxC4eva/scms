@@ -1,0 +1,107 @@
+pokemon:
+  Igglybuff:
+    introduction: gs
+    types:
+    - [Normal]
+    egggroups:
+    - []
+    abilities:
+    - [Cute Charm]
+    - bw: [Cute Charm, Friend Guard]
+    stats:
+    - [90, 30, 15, 40, 20, 15]
+    weight: [1]
+    height: [0.3]
+  Jigglypuff:
+    introduction: rb
+    types:
+    - [Normal]
+    egggroups:
+    - [Fairy]
+    abilities:
+    - [Cute Charm]
+    - bw: [Cute Charm, Friend Guard]
+    stats:
+    - [115, 45, 20, 25, 25, 20]
+    - gs: [115, 45, 20, 45, 25, 20]
+    weight: [5.5]
+    height: [0.5]
+  Wigglytuff:
+    introduction: rb
+    types:
+    - [Normal]
+    egggroups:
+    - [Fairy]
+    abilities:
+    - [Cute Charm]
+    - bw: [Cute Charm, Frisk]
+    stats:
+    - [140, 70, 45, 50, 50, 45]
+    - gs: [140, 70, 45, 75, 50, 45]
+    weight: [12]
+    height: [1]
+families:
+- {from: Igglybuff, to: Jigglypuff}
+- {from: Jigglypuff, to: Wigglytuff}
+learnsets:
+  rb:
+    Jigglypuff: [Bide, Blizzard, Body Slam, Bubblebeam, Counter, Defense Curl, Disable,
+      Double-Edge, Double Team, Doubleslap, Fire Blast, Flash, Ice Beam, Mega Kick,
+      Mega Punch, Mimic, Pound, Psychic, Psywave, Rage, Reflect, Rest, Seismic Toss,
+      Sing, Skull Bash, Solarbeam, Strength, Submission, Substitute, Take Down, Teleport,
+      Thunder, Thunder Wave, Thunderbolt, Toxic, Tri Attack, Water Gun]
+    Wigglytuff: [Hyper Beam]
+  gs:
+    Igglybuff: [Attract, Charm, Curse, Defense Curl, Detect, Double Team, Dream Eater,
+      Endure, Faint Attack, Fire Blast, Flamethrower, Flash, Frustration, Headbutt,
+      Hidden Power, Icy Wind, Mud-Slap, Nightmare, Perish Song, Pound, Present, Protect,
+      Psych Up, Psychic, Rain Dance, Rest, Return, Rollout, Shadow Ball, Sing, Sleep
+        Talk, Snore, Solarbeam, Sunny Day, Swagger, Sweet Kiss, Toxic, Zap Cannon]
+    Jigglypuff: [Blizzard, Body Slam, Disable, Double-Edge, Doubleslap, Dynamicpunch,
+      Fire Punch, Ice Beam, Ice Punch, Strength, Thunder, Thunderbolt, Thunderpunch]
+    Wigglytuff: [Hyper Beam]
+  rs:
+    Igglybuff: [Attract, Body Slam, Charm, Counter, Defense Curl, Dig, Double-Edge,
+      Double Team, Dream Eater, Endure, Facade, Faint Attack, Fake Tears, Fire Blast,
+      Flamethrower, Flash, Frustration, Hidden Power, Icy Wind, Light Screen, Mega
+        Kick, Mega Punch, Mimic, Mud-Slap, Nightmare, Perish Song, Pound, Present,
+      Protect, Psych Up, Psychic, Rain Dance, Reflect, Rest, Return, Rollout, Safeguard,
+      Secret Power, Seismic Toss, Shadow Ball, Shock Wave, Sing, Sleep Talk, Snore,
+      Solarbeam, Substitute, Sunny Day, Swagger, Sweet Kiss, Thunder Wave, Toxic,
+      Water Pulse, Wish]
+    Jigglypuff: [Blizzard, Brick Break, Disable, Doubleslap, Dynamicpunch, Fire Punch,
+      Focus Punch, Hyper Voice, Ice Beam, Ice Punch, Snatch, Strength, Thunder, Thunderbolt,
+      Thunderpunch, Icy Wind, Nightmare, Seismic Toss]
+    Wigglytuff: [Hyper Beam, Icy Wind, Nightmare, Seismic Toss]
+  dp:
+    Igglybuff: [Attract, Bounce, Captivate, Charm, Copycat, Covet, Defense Curl, Dig,
+      Double Team, Dream Eater, Endeavor, Endure, Facade, Faint Attack, Fake Tears,
+      Fire Blast, Flamethrower, Flash, Fling, Frustration, Grass Knot, Gravity, Headbutt,
+      Heal Bell, Helping Hand, Hidden Power, Icy Wind, Last Resort, Light Screen,
+      Magic Coat, Mud-Slap, Natural Gift, Pain Split, Perish Song, Pound, Present,
+      Protect, Psych Up, Psychic, Rain Dance, Recycle, Reflect, Rest, Return, Role
+        Play, Rollout, Safeguard, Secret Power, Shadow Ball, Shock Wave, Sing, Sleep
+        Talk, Snore, Solarbeam, Substitute, Sunny Day, Swagger, Sweet Kiss, Thunder
+        Wave, Toxic, Uproar, Water Pulse, Wish]
+    Jigglypuff: [Blizzard, Body Slam, Brick Break, Charge Beam, Disable, Double-Edge,
+      Doubleslap, Drain Punch, Fire Punch, Focus Punch, Gyro Ball, Hyper Voice, Ice
+        Beam, Ice Punch, Knock Off, Mimic, Snatch, Stealth Rock, Strength, Thunder,
+      Thunderbolt, Thunderpunch, Wake-Up Slap, Icy Wind, Nightmare, Seismic Toss]
+    Wigglytuff: [Focus Blast, Giga Impact, Hyper Beam, Icy Wind, Nightmare, Seismic
+        Toss]
+  bw:
+    Igglybuff: [Attract, Bounce, Captivate, Charm, Copycat, Covet, Defense Curl, Dig,
+      Double Team, Dream Eater, Echoed Voice, Endeavor, Facade, Faint Attack, Fake
+        Tears, Fire Blast, Flamethrower, Flash, Fling, Frustration, Grass Knot, Gravity,
+      Heal Bell, Helping Hand, Hidden Power, Hyper Voice, Icy Wind, Incinerate, Last
+        Resort, Light Screen, Magic Coat, Pain Split, Perish Song, Pound, Present,
+      Protect, Psych Up, Psychic, Punishment, Rain Dance, Recycle, Reflect, Rest,
+      Return, Role Play, Round, Safeguard, Shadow Ball, Sing, Sleep Talk, Snore, Solarbeam,
+      Substitute, Sunny Day, Swagger, Sweet Kiss, Thunder Wave, Toxic, Uproar, Wild
+        Charge, Wish, Work Up]
+    Jigglypuff: [Blizzard, Body Slam, Brick Break, Charge Beam, Disable, Double-Edge,
+      Doubleslap, Drain Punch, Fire Punch, Gyro Ball, Ice Beam, Ice Punch, Knock Off,
+      Mimic, Retaliate, Rollout, Snatch, Stealth Rock, Strength, Thunder, Thunderbolt,
+      Thunderpunch, Wake-Up Slap, Icy Wind, Nightmare, Seismic Toss]
+    Wigglytuff: [Focus Blast, Giga Impact, Hyper Beam, Magic Room, Icy Wind, Nightmare,
+      Seismic Toss]

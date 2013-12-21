@@ -1,0 +1,56 @@
+pokemon:
+  Corsola:
+    introduction: gs
+    types:
+    - [Rock, Water]
+    egggroups:
+    - [Water 1, Water 3]
+    abilities:
+    - [Hustle, Natural Cure]
+    - bw: [Hustle, Natural Cure, Regenerator]
+    stats:
+    - [55, 55, 85, 65, 85, 35]
+    weight: [5]
+    height: [0.6]
+families: []
+learnsets:
+  gs:
+    Corsola: [Amnesia, Ancientpower, Attract, Bubble, Bubblebeam, Curse, Defense Curl,
+      Double Team, Earthquake, Endure, Frustration, Harden, Headbutt, Hidden Power,
+      Ice Beam, Mirror Coat, Mist, Mud-Slap, Protect, Psychic, Rain Dance, Recover,
+      Rest, Return, Rock Slide, Rock Smash, Rollout, Safeguard, Sandstorm, Screech,
+      Sleep Talk, Snore, Spike Cannon, Strength, Sunny Day, Surf, Swagger, Tackle,
+      Toxic, Whirlpool]
+  rs:
+    Corsola: [Amnesia, Ancientpower, Attract, Barrier, Blizzard, Body Slam, Bubble,
+      Bubblebeam, Calm Mind, Confuse Ray, Defense Curl, Dig, Double-Edge, Double Team,
+      Earthquake, Endure, Explosion, Facade, Frustration, Hail, Harden, Hidden Power,
+      Ice Beam, Icicle Spear, Ingrain, Light Screen, Mimic, Mirror Coat, Mist, Mud-Slap,
+      Protect, Psychic, Rain Dance, Recover, Reflect, Refresh, Rest, Return, Rock
+        Blast, Rock Slide, Rock Smash, Rock Tomb, Rollout, Safeguard, Sandstorm, Screech,
+      Secret Power, Selfdestruct, Shadow Ball, Sleep Talk, Snore, Spike Cannon, Strength,
+      Substitute, Sunny Day, Surf, Swagger, Tackle, Toxic, Water Pulse]
+  dp:
+    Corsola: [Amnesia, Ancientpower, Aqua Ring, Attract, Barrier, Blizzard, Body Slam,
+      Brine, Bubble, Bubblebeam, Calm Mind, Captivate, Confuse Ray, Curse, Dig, Double-Edge,
+      Double Team, Earth Power, Earthquake, Endeavor, Endure, Explosion, Facade, Frustration,
+      Hail, Harden, Headbutt, Hidden Power, Ice Beam, Icicle Spear, Icy Wind, Ingrain,
+      Light Screen, Lucky Chant, Magic Coat, Mimic, Mirror Coat, Mist, Mud-Slap, Natural
+        Gift, Nature Power, Power Gem, Protect, Psychic, Rain Dance, Recover, Reflect,
+      Refresh, Rest, Return, Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock
+        Tomb, Rollout, Safeguard, Sandstorm, Screech, Secret Power, Selfdestruct,
+      Shadow Ball, Sleep Talk, Snore, Spike Cannon, Stealth Rock, Stone Edge, Strength,
+      Substitute, Sucker Punch, Sunny Day, Surf, Swagger, Tackle, Toxic, Water Pulse,
+      Whirlpool]
+  bw:
+    Corsola: [Amnesia, Ancientpower, Aqua Ring, Attract, Barrier, Bide, Blizzard,
+      Body Slam, Bubble, Bubblebeam, Bulldoze, Calm Mind, Confuse Ray, Curse, Dig,
+      Double-Edge, Double Team, Earth Power, Earthquake, Endeavor, Endure, Explosion,
+      Facade, Flail, Frustration, Hail, Harden, Head Smash, Hidden Power, Ice Beam,
+      Icicle Spear, Icy Wind, Ingrain, Iron Defense, Light Screen, Lucky Chant, Magic
+        Coat, Mimic, Mirror Coat, Mist, Nature Power, Power Gem, Protect, Psychic,
+      Rain Dance, Recover, Reflect, Refresh, Rest, Return, Rock Blast, Rock Polish,
+      Rock Slide, Rock Smash, Rock Tomb, Round, Safeguard, Sandstorm, Scald, Screech,
+      Selfdestruct, Shadow Ball, Sleep Talk, Snore, Spike Cannon, Stealth Rock, Stone
+        Edge, Strength, Substitute, Sunny Day, Surf, Swagger, Tackle, Toxic, Water
+        Pulse]

@@ -1,0 +1,59 @@
+pokemon:
+  Electrike:
+    introduction: rs
+    types:
+    - [Electric]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Lightningrod, Static]
+    - bw: [Lightningrod, Minus, Static]
+    stats:
+    - [40, 45, 40, 65, 40, 65]
+    weight: [15.2]
+    height: [0.6]
+  Manectric:
+    introduction: rs
+    types:
+    - [Electric]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Lightningrod, Static]
+    - bw: [Lightningrod, Minus, Static]
+    stats:
+    - [70, 75, 60, 105, 60, 105]
+    weight: [40.2]
+    height: [1.5]
+families:
+- {from: Electrike, to: Manectric}
+learnsets:
+  rs:
+    Electrike: [Attract, Bite, Body Slam, Charge, Crunch, Curse, Double-Edge, Double
+        Team, Endure, Facade, Flash, Frustration, Headbutt, Hidden Power, Howl, Iron
+        Tail, Leer, Mimic, Mud-Slap, Odor Sleuth, Protect, Quick Attack, Rain Dance,
+      Rest, Return, Roar, Secret Power, Shock Wave, Sleep Talk, Snore, Spark, Strength,
+      Substitute, Swagger, Swift, Tackle, Thief, Thunder, Thunder Wave, Thunderbolt,
+      Toxic, Uproar, Body Slam, Double-Edge, Mimic]
+    Manectric: [Hyper Beam, Body Slam, Double-Edge, Mimic, Refresh]
+  dp:
+    Electrike: [Attract, Bite, Captivate, Charge, Charge Beam, Crunch, Curse, Discharge,
+      Double Team, Endure, Facade, Fire Fang, Flamethrower, Flash, Frustration, Headbutt,
+      Hidden Power, Howl, Ice Fang, Iron Tail, Leer, Light Screen, Magnet Rise, Mud-Slap,
+      Natural Gift, Odor Sleuth, Protect, Quick Attack, Rain Dance, Rest, Return,
+      Roar, Secret Power, Shock Wave, Signal Beam, Sleep Talk, Snore, Spark, Strength,
+      Substitute, Swagger, Swift, Switcheroo, Tackle, Thief, Thunder, Thunder Fang,
+      Thunder Wave, Thunderbolt, Toxic, Uproar, Body Slam, Double-Edge, Mimic]
+    Manectric: [Giga Impact, Hyper Beam, Overheat, Body Slam, Double-Edge, Mimic,
+      Refresh]
+  bw:
+    Electrike: [Attract, Bite, Charge, Charge Beam, Crunch, Curse, Discharge, Double
+        Team, Electro Ball, Facade, Fire Fang, Flame Burst, Flamethrower, Flash, Frustration,
+      Headbutt, Hidden Power, Howl, Ice Fang, Iron Tail, Leer, Light Screen, Magnet
+        Rise, Odor Sleuth, Protect, Quick Attack, Rain Dance, Rest, Return, Roar,
+      Round, Shock Wave, Signal Beam, Sleep Talk, Snarl, Snore, Spark, Strength, Substitute,
+      Swagger, Swift, Switcheroo, Tackle, Thief, Thunder, Thunder Fang, Thunder Wave,
+      Thunderbolt, Toxic, Uproar, Volt Switch, Wild Charge, Body Slam, Double-Edge,
+      Mimic]
+    Manectric: [Giga Impact, Hyper Beam, Overheat, Body Slam, Double-Edge, Mimic,
+      Refresh]

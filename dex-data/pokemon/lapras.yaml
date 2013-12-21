@@ -1,0 +1,60 @@
+pokemon:
+  Lapras:
+    introduction: rb
+    types:
+    - [Ice, Water]
+    egggroups:
+    - [Monster, Water 1]
+    abilities:
+    - [Shell Armor, Water Absorb]
+    - bw: [Hydration, Shell Armor, Water Absorb]
+    stats:
+    - [130, 85, 80, 95, 95, 60]
+    - gs: [130, 85, 80, 85, 95, 60]
+    weight: [220]
+    height: [2.5]
+families: []
+learnsets:
+  rb:
+    Lapras: [Bide, Blizzard, Body Slam, Bubblebeam, Confuse Ray, Double-Edge, Double
+        Team, Dragon Rage, Growl, Horn Drill, Hydro Pump, Hyper Beam, Ice Beam, Mimic,
+      Mist, Psychic, Psywave, Rage, Reflect, Rest, Sing, Skull Bash, Solarbeam, Strength,
+      Substitute, Surf, Take Down, Thunder, Thunderbolt, Toxic, Water Gun]
+  gs:
+    Lapras: [Attract, Aurora Beam, Blizzard, Body Slam, Confuse Ray, Curse, Double
+        Team, Dragonbreath, Dream Eater, Endure, Foresight, Frustration, Growl, Headbutt,
+      Hidden Power, Hydro Pump, Hyper Beam, Ice Beam, Icy Wind, Iron Tail, Mist, Nightmare,
+      Perish Song, Protect, Psychic, Rain Dance, Rest, Return, Rock Smash, Safeguard,
+      Sing, Sleep Talk, Snore, Strength, Surf, Swagger, Thunder, Thunderbolt, Toxic,
+      Water Gun, Whirlpool, Zap Cannon]
+  rs:
+    Lapras: [Attract, Blizzard, Body Slam, Confuse Ray, Curse, Dive, Double-Edge,
+      Double Team, Dragon Dance, Dream Eater, Endure, Facade, Foresight, Frustration,
+      Growl, Hail, Hidden Power, Horn Drill, Hydro Pump, Hyper Beam, Ice Beam, Icy
+        Wind, Iron Tail, Mimic, Mist, Nightmare, Perish Song, Protect, Psychic, Rain
+        Dance, Refresh, Rest, Return, Roar, Rock Smash, Safeguard, Secret Power, Sheer
+        Cold, Shock Wave, Sing, Sleep Talk, Snore, Strength, Substitute, Surf, Swagger,
+      Thunder, Thunderbolt, Tickle, Toxic, Water Gun, Water Pulse, Waterfall, Double-Edge,
+      Heal Bell, Icy Wind, Mimic, Nightmare]
+  dp:
+    Lapras: [Ancientpower, Aqua Tail, Attract, Avalanche, Blizzard, Block, Body Slam,
+      Brine, Captivate, Confuse Ray, Curse, Dive, Double Team, Dragon Dance, Dragon
+        Pulse, Dream Eater, Endure, Facade, Fissure, Foresight, Frustration, Giga
+        Impact, Growl, Hail, Headbutt, Heal Bell, Hidden Power, Horn Drill, Hydro
+        Pump, Hyper Beam, Ice Beam, Ice Shard, Icy Wind, Iron Head, Iron Tail, Mist,
+      Natural Gift, Outrage, Perish Song, Protect, Psychic, Rain Dance, Refresh, Rest,
+      Return, Roar, Rock Smash, Safeguard, Secret Power, Sheer Cold, Shock Wave, Signal
+        Beam, Sing, Sleep Talk, Snore, Strength, Substitute, Surf, Swagger, Thunder,
+      Thunderbolt, Tickle, Toxic, Water Gun, Water Pulse, Waterfall, Whirlpool, Zen
+        Headbutt, Double-Edge, Heal Bell, Icy Wind, Mimic, Nightmare]
+  bw:
+    Lapras: [Ancientpower, Aqua Tail, Attract, Avalanche, Blizzard, Block, Body Slam,
+      Brine, Bulldoze, Confuse Ray, Curse, Dive, Double Team, Dragon Dance, Dragon
+        Pulse, Dream Eater, Drill Run, Echoed Voice, Facade, Fissure, Foresight, Frost
+        Breath, Frustration, Future Sight, Giga Impact, Growl, Hail, Heal Bell, Hidden
+        Power, Horn Drill, Hydro Pump, Hyper Beam, Hyper Voice, Ice Beam, Ice Shard,
+      Icy Wind, Iron Head, Iron Tail, Mist, Outrage, Perish Song, Protect, Psychic,
+      Rain Dance, Refresh, Rest, Return, Roar, Rock Smash, Round, Safeguard, Sheer
+        Cold, Signal Beam, Sing, Sleep Talk, Snore, Strength, Substitute, Surf, Swagger,
+      Thunder, Thunderbolt, Tickle, Toxic, Water Gun, Water Pulse, Waterfall, Whirlpool,
+      Zen Headbutt, Double-Edge, Heal Bell, Icy Wind, Mimic, Nightmare]

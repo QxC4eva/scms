@@ -1,0 +1,91 @@
+pokemon:
+  Porygon:
+    introduction: rb
+    types:
+    - [Normal]
+    egggroups:
+    - [Mineral]
+    abilities:
+    - [Trace]
+    - bw: [Analytic, Download, Trace]
+    stats:
+    - [65, 60, 70, 75, 75, 40]
+    - gs: [65, 60, 70, 85, 75, 40]
+    weight: [36.5]
+    height: [0.8]
+  Porygon2:
+    introduction: gs
+    types:
+    - [Normal]
+    egggroups:
+    - [Mineral]
+    abilities:
+    - [Trace]
+    - dp: [Download, Trace]
+    - bw: [Analytic, Download, Trace]
+    stats:
+    - [85, 80, 90, 105, 95, 60]
+    weight: [32.5]
+    height: [0.6]
+  Porygon-Z:
+    introduction: dp
+    types:
+    - [Normal]
+    egggroups:
+    - [Mineral]
+    abilities:
+    - [Download, Trace]
+    - bw: [Adaptability, Analytic, Download]
+    stats:
+    - [85, 80, 70, 135, 75, 90]
+    weight: [34]
+    height: [0.9]
+families:
+- {from: Porygon, to: Porygon2}
+- {from: Porygon2, to: Porygon-Z}
+learnsets:
+  rb:
+    Porygon: [Agility, Bide, Blizzard, Conversion, Double-Edge, Double Team, Flash,
+      Hyper Beam, Ice Beam, Mimic, Psybeam, Psychic, Psywave, Rage, Recover, Reflect,
+      Rest, Sharpen, Skull Bash, Substitute, Swift, Tackle, Take Down, Teleport, Thunder,
+      Thunder Wave, Thunderbolt, Toxic, Tri Attack]
+  gs:
+    Porygon: [Agility, Blizzard, Conversion, Conversion 2, Curse, Double Team, Dream
+        Eater, Endure, Flash, Frustration, Hidden Power, Hyper Beam, Ice Beam, Icy
+        Wind, Iron Tail, Lock-On, Nightmare, Protect, Psybeam, Psych Up, Psychic,
+      Rain Dance, Recover, Rest, Return, Sharpen, Sleep Talk, Snore, Sunny Day, Swagger,
+      Swift, Tackle, Thief, Thunder, Thunderbolt, Toxic, Tri Attack, Zap Cannon]
+    Porygon2: [Defense Curl]
+  rs:
+    Porygon: [Aerial Ace, Agility, Blizzard, Conversion, Conversion 2, Double-Edge,
+      Double Team, Dream Eater, Endure, Facade, Flash, Frustration, Hidden Power,
+      Hyper Beam, Ice Beam, Icy Wind, Iron Tail, Lock-On, Mimic, Nightmare, Protect,
+      Psybeam, Psych Up, Psychic, Rain Dance, Recover, Recycle, Rest, Return, Secret
+        Power, Shadow Ball, Sharpen, Shock Wave, Sleep Talk, Snore, Solarbeam, Substitute,
+      Sunny Day, Swagger, Swift, Tackle, Thief, Thunder, Thunder Wave, Thunderbolt,
+      Toxic, Tri Attack, Zap Cannon, Double-Edge, Icy Wind, Mimic, Nightmare]
+    Porygon2: [Defense Curl, Double-Edge, Icy Wind, Mimic, Nightmare]
+  dp:
+    Porygon: [Aerial Ace, Agility, Blizzard, Charge Beam, Conversion, Conversion 2,
+      Discharge, Double Team, Dream Eater, Endure, Facade, Flash, Frustration, Giga
+        Impact, Gravity, Hidden Power, Hyper Beam, Ice Beam, Icy Wind, Iron Tail,
+      Last Resort, Lock-On, Magic Coat, Magnet Rise, Natural Gift, Pain Split, Protect,
+      Psybeam, Psych Up, Psychic, Rain Dance, Recover, Recycle, Rest, Return, Secret
+        Power, Shadow Ball, Sharpen, Shock Wave, Signal Beam, Sleep Talk, Snore, Solarbeam,
+      Substitute, Sunny Day, Swagger, Swift, Tackle, Thief, Thunder, Thunder Wave,
+      Thunderbolt, Toxic, Tri Attack, Trick, Trick Room, Zap Cannon, Zen Headbutt,
+      Double-Edge, Icy Wind, Mimic, Nightmare]
+    Porygon2: [Defense Curl, Double-Edge, Icy Wind, Mimic, Nightmare]
+    Porygon-Z: [Dark Pulse, Embargo, Nasty Plot, Uproar]
+  bw:
+    Porygon: [Aerial Ace, Agility, Blizzard, Charge Beam, Conversion, Conversion 2,
+      Discharge, Double Team, Dream Eater, Electroweb, Facade, Flash, Foul Play, Frustration,
+      Giga Impact, Gravity, Hidden Power, Hyper Beam, Ice Beam, Icy Wind, Iron Tail,
+      Last Resort, Lock-On, Magic Coat, Magnet Rise, Pain Split, Protect, Psybeam,
+      Psych Up, Psychic, Psyshock, Rain Dance, Recover, Recycle, Rest, Return, Round,
+      Shadow Ball, Sharpen, Signal Beam, Sleep Talk, Snore, Solarbeam, Substitute,
+      Sunny Day, Swagger, Tackle, Thief, Thunder, Thunder Wave, Thunderbolt, Toxic,
+      Tri Attack, Trick, Trick Room, Wonder Room, Zap Cannon, Zen Headbutt, Double-Edge,
+      Icy Wind, Mimic, Nightmare]
+    Porygon2: [Defense Curl, Double-Edge, Icy Wind, Mimic, Nightmare]
+    Porygon-Z: [Dark Pulse, Embargo, Nasty Plot, Uproar]

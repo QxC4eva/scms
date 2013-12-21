@@ -1,0 +1,63 @@
+pokemon:
+  Chinchou:
+    introduction: gs
+    types:
+    - [Electric, Water]
+    egggroups:
+    - [Water 2]
+    abilities:
+    - [Illuminate, Volt Absorb]
+    - bw: [Illuminate, Volt Absorb, Water Absorb]
+    stats:
+    - [75, 38, 38, 56, 56, 67]
+    weight: [12]
+    height: [0.5]
+  Lanturn:
+    introduction: gs
+    types:
+    - [Electric, Water]
+    egggroups:
+    - [Water 2]
+    abilities:
+    - [Illuminate, Volt Absorb]
+    - bw: [Illuminate, Volt Absorb, Water Absorb]
+    stats:
+    - [125, 58, 58, 76, 76, 67]
+    weight: [22.5]
+    height: [1.2]
+families:
+- {from: Chinchou, to: Lanturn}
+learnsets:
+  gs:
+    Chinchou: [Attract, Bubble, Confuse Ray, Curse, Double Team, Endure, Flail, Flash,
+      Frustration, Hidden Power, Hydro Pump, Ice Beam, Protect, Rain Dance, Rest,
+      Return, Screech, Sleep Talk, Snore, Spark, Supersonic, Surf, Swagger, Take Down,
+      Thunder, Thunder Wave, Thunderbolt, Toxic, Water Gun, Waterfall, Whirlpool,
+      Zap Cannon]
+    Lanturn: [Hyper Beam]
+  rs:
+    Chinchou: [Amnesia, Attract, Blizzard, Bubble, Charge, Confuse Ray, Dive, Double-Edge,
+      Double Team, Endure, Facade, Flail, Flash, Frustration, Hail, Hidden Power,
+      Hydro Pump, Ice Beam, Mimic, Protect, Rain Dance, Rest, Return, Screech, Secret
+        Power, Shock Wave, Sleep Talk, Snore, Spark, Substitute, Supersonic, Surf,
+      Swagger, Take Down, Thunder, Thunder Wave, Thunderbolt, Toxic, Water Gun, Water
+        Pulse, Waterfall]
+    Lanturn: [Hyper Beam]
+  dp:
+    Chinchou: [Agility, Amnesia, Aqua Ring, Attract, Blizzard, Bounce, Brine, Bubble,
+      Bubblebeam, Captivate, Charge, Charge Beam, Confuse Ray, Discharge, Dive, Double
+        Team, Endure, Facade, Flail, Flash, Frustration, Hail, Heal Bell, Hidden Power,
+      Hydro Pump, Ice Beam, Icy Wind, Mist, Natural Gift, Protect, Psybeam, Rain Dance,
+      Rest, Return, Screech, Secret Power, Shock Wave, Signal Beam, Sleep Talk, Snore,
+      Spark, Substitute, Sucker Punch, Supersonic, Surf, Swagger, Take Down, Thunder,
+      Thunder Wave, Thunderbolt, Toxic, Water Gun, Water Pulse, Waterfall, Whirlpool]
+    Lanturn: [Aqua Tail, Giga Impact, Hyper Beam, Spit Up, Stockpile, Swallow]
+  bw:
+    Chinchou: [Agility, Amnesia, Aqua Ring, Attract, Blizzard, Bounce, Brine, Bubble,
+      Bubblebeam, Charge, Charge Beam, Confuse Ray, Discharge, Dive, Double Team,
+      Electro Ball, Facade, Flail, Flash, Frustration, Hail, Heal Bell, Hidden Power,
+      Hydro Pump, Ice Beam, Icy Wind, Mist, Protect, Psybeam, Rain Dance, Rest, Return,
+      Round, Scald, Screech, Shock Wave, Signal Beam, Sleep Talk, Snore, Spark, Substitute,
+      Supersonic, Surf, Swagger, Take Down, Thunder, Thunder Wave, Thunderbolt, Toxic,
+      Volt Switch, Water Gun, Water Pulse, Waterfall, Whirlpool, Wild Charge]
+    Lanturn: [Aqua Tail, Giga Impact, Hyper Beam, Spit Up, Stockpile, Swallow]

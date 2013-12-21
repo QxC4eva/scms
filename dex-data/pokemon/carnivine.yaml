@@ -1,0 +1,34 @@
+pokemon:
+  Carnivine:
+    introduction: dp
+    types:
+    - [Grass]
+    egggroups:
+    - [Plant]
+    abilities:
+    - [Levitate]
+    stats:
+    - [74, 100, 72, 90, 72, 46]
+    weight: [27]
+    height: [1.4]
+families: []
+learnsets:
+  dp:
+    Carnivine: [Attract, Bind, Bite, Bug Bite, Bullet Seed, Captivate, Crunch, Cut,
+      Double Team, Endure, Energy Ball, Facade, Faint Attack, Flash, Fling, Frustration,
+      Fury Cutter, Gastro Acid, Giga Drain, Giga Impact, Grass Knot, Growth, Hidden
+        Power, Hyper Beam, Ingrain, Knock Off, Leech Seed, Magical Leaf, Mud-Slap,
+      Natural Gift, Payback, Power Whip, Protect, Razor Leaf, Rest, Return, Secret
+        Power, Seed Bomb, Slam, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solarbeam,
+      Spit Up, Stockpile, Stun Spore, Substitute, Sunny Day, Swagger, Swallow, Sweet
+        Scent, Swords Dance, Synthesis, Thief, Toxic, Vine Whip, Worry Seed, Wring
+        Out]
+  bw:
+    Carnivine: [Attract, Bind, Bite, Bug Bite, Crunch, Cut, Double Team, Energy Ball,
+      Facade, Faint Attack, Flash, Fling, Frustration, Gastro Acid, Giga Drain, Giga
+        Impact, Grass Knot, Grasswhistle, Growth, Hidden Power, Hyper Beam, Ingrain,
+      Knock Off, Leaf Tornado, Leech Seed, Magical Leaf, Payback, Power Whip, Protect,
+      Rage Powder, Razor Leaf, Rest, Return, Round, Seed Bomb, Slam, Sleep Powder,
+      Sleep Talk, Sludge Bomb, Snore, Solarbeam, Spit Up, Stockpile, Stun Spore, Substitute,
+      Sunny Day, Swagger, Swallow, Sweet Scent, Swords Dance, Synthesis, Thief, Toxic,
+      Vine Whip, Worry Seed, Wring Out]

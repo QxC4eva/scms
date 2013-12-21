@@ -1,0 +1,54 @@
+pokemon:
+  Sandile:
+    introduction: bw
+    types:
+    - [Dark, Ground]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Anger Point, Intimidate, Moxie]
+    stats:
+    - [50, 72, 35, 35, 35, 65]
+    weight: [15.2]
+    height: [0.7]
+  Krokorok:
+    introduction: bw
+    types:
+    - [Dark, Ground]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Anger Point, Intimidate, Moxie]
+    stats:
+    - [60, 82, 45, 45, 45, 74]
+    weight: [33.4]
+    height: [1]
+  Krookodile:
+    introduction: bw
+    types:
+    - [Dark, Ground]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Anger Point, Intimidate, Moxie]
+    stats:
+    - [95, 117, 70, 65, 70, 92]
+    weight: [96.3]
+    height: [1.5]
+families:
+- {from: Sandile, to: Krokorok}
+- {from: Krokorok, to: Krookodile}
+learnsets:
+  bw:
+    Sandile: [Aqua Tail, Assurance, Attract, Beat Up, Bite, Bulldoze, Counter, Crunch,
+      Cut, Dark Pulse, Dig, Double-Edge, Double Team, Earth Power, Earthquake, Embargo,
+      Facade, Fire Fang, Focus Energy, Foul Play, Frustration, Hidden Power, Hone
+        Claws, Incinerate, Iron Tail, Leer, Mean Look, Mud-Slap, Payback, Protect,
+      Pursuit, Rage, Rest, Retaliate, Return, Roar, Rock Climb, Rock Slide, Rock Tomb,
+      Round, Sand-Attack, Sand Tomb, Sandstorm, Scary Face, Sleep Talk, Sludge Bomb,
+      Snarl, Snatch, Snore, Spite, Stealth Rock, Stone Edge, Substitute, Swagger,
+      Taunt, Thief, Thrash, Thunder Fang, Torment, Toxic, Uproar]
+    Krokorok: [Brick Break, Fling, Grass Knot, Knock Off, Low Kick, Low Sweep, Rock
+        Smash, Shadow Claw, Strength]
+    Krookodile: [Aerial Ace, Block, Bulk Up, Dragon Claw, Dragon Pulse, Dragon Tail,
+      Focus Blast, Giga Impact, Hyper Beam, Outrage, Smack Down, Superpower]

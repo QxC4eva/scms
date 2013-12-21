@@ -1,0 +1,52 @@
+pokemon:
+  Tynamo:
+    introduction: bw
+    types:
+    - [Electric]
+    egggroups:
+    - [Indeterminate]
+    abilities:
+    - [Levitate]
+    stats:
+    - [35, 55, 40, 45, 40, 60]
+    weight: [0.3]
+    height: [0.2]
+  Eelektrik:
+    introduction: bw
+    types:
+    - [Electric]
+    egggroups:
+    - [Indeterminate]
+    abilities:
+    - [Levitate]
+    stats:
+    - [65, 85, 70, 75, 70, 40]
+    weight: [22]
+    height: [1.2]
+  Eelektross:
+    introduction: bw
+    types:
+    - [Electric]
+    egggroups:
+    - [Indeterminate]
+    abilities:
+    - [Levitate]
+    stats:
+    - [85, 115, 80, 105, 80, 50]
+    weight: [80.5]
+    height: [2.1]
+families:
+- {from: Tynamo, to: Eelektrik}
+- {from: Eelektrik, to: Eelektross}
+learnsets:
+  bw:
+    Tynamo: [Charge Beam, Magnet Rise, Spark, Tackle, Thunder Wave]
+    Eelektrik: [Acid, Acid Spray, Acrobatics, Aqua Tail, Attract, Bind, Bounce, Coil,
+      Crunch, Discharge, Double Team, Facade, Flash, Flash Cannon, Frustration, Gastro
+        Acid, Giga Drain, Headbutt, Hidden Power, Iron Tail, Knock Off, Light Screen,
+      Protect, Rain Dance, Rest, Return, Round, Signal Beam, Sleep Talk, Snore, Substitute,
+      Super Fang, Swagger, Thrash, Thunder, Thunderbolt, Toxic, U-turn, Volt Switch,
+      Wild Charge, Zap Cannon]
+    Eelektross: [Brick Break, Crush Claw, Cut, Dragon Claw, Dragon Tail, Drain Punch,
+      Fire Punch, Flamethrower, Giga Impact, Grass Knot, Hone Claws, Hyper Beam, Roar,
+      Rock Slide, Rock Smash, Rock Tomb, Strength, Superpower, Thunderpunch]

@@ -1,0 +1,52 @@
+pokemon:
+  Latias:
+    introduction: rs
+    types:
+    - [Dragon, Psychic]
+    egggroups:
+    - []
+    abilities:
+    - [Levitate]
+    - bw: [Levitate]
+    stats:
+    - [80, 80, 90, 110, 130, 110]
+    weight: [40]
+    height: [1.4]
+families: []
+learnsets:
+  rs:
+    Latias: [Aerial Ace, Attract, Body Slam, Calm Mind, Charm, Cut, Dive, Double-Edge,
+      Double Team, Dragon Claw, Dragonbreath, Dream Eater, Earthquake, Endure, Facade,
+      Flash, Fly, Frustration, Fury Cutter, Helping Hand, Hidden Power, Hyper Beam,
+      Ice Beam, Icy Wind, Light Screen, Mimic, Mist Ball, Mud-Slap, Protect, Psych
+        Up, Psychic, Psywave, Rain Dance, Recover, Reflect, Refresh, Rest, Return,
+      Roar, Safeguard, Sandstorm, Secret Power, Shadow Ball, Shock Wave, Sleep Talk,
+      Snore, Solarbeam, Steel Wing, Substitute, Sunny Day, Surf, Swagger, Swift, Thunder,
+      Thunder Wave, Thunderbolt, Toxic, Water Pulse, Water Sport, Waterfall, Wish,
+      Body Slam, Double-Edge, Icy Wind, Mimic]
+  dp:
+    Latias: [Aerial Ace, Attract, Calm Mind, Captivate, Charge Beam, Charm, Cut, Defog,
+      Dive, Double Team, Draco Meteor, Dragon Claw, Dragon Pulse, Dragonbreath, Dream
+        Eater, Earthquake, Endure, Energy Ball, Facade, Flash, Fly, Frustration, Fury
+        Cutter, Giga Impact, Grass Knot, Healing Wish, Helping Hand, Hidden Power,
+      Hyper Beam, Ice Beam, Icy Wind, Last Resort, Light Screen, Magic Coat, Mist
+        Ball, Mud-Slap, Natural Gift, Outrage, Protect, Psych Up, Psychic, Psycho
+        Shift, Psywave, Rain Dance, Recover, Reflect, Refresh, Rest, Return, Roar,
+      Role Play, Roost, Safeguard, Sandstorm, Secret Power, Shadow Ball, Shadow Claw,
+      Shock Wave, Sleep Talk, Snore, Solarbeam, Steel Wing, Substitute, Sucker Punch,
+      Sunny Day, Surf, Swagger, Swift, Tailwind, Thunder, Thunder Wave, Thunderbolt,
+      Toxic, Trick, Twister, Water Pulse, Water Sport, Waterfall, Whirlpool, Wish,
+      Zen Headbutt, Body Slam, Double-Edge, Icy Wind, Mimic]
+  bw:
+    Latias: [Aerial Ace, Attract, Bulldoze, Calm Mind, Charge Beam, Charm, Covet,
+      Cut, Dive, Double Team, Draco Meteor, Dragon Claw, Dragon Pulse, Dragonbreath,
+      Dream Eater, Earthquake, Energy Ball, Facade, Flash, Fly, Frustration, Giga
+        Impact, Grass Knot, Guard Split, Heal Pulse, Healing Wish, Helping Hand, Hidden
+        Power, Hone Claws, Hyper Beam, Ice Beam, Icy Wind, Last Resort, Light Screen,
+      Magic Coat, Magic Room, Mist Ball, Outrage, Protect, Psych Up, Psychic, Psycho
+        Shift, Psyshock, Psywave, Rain Dance, Recover, Reflect, Reflect Type, Refresh,
+      Rest, Retaliate, Return, Roar, Role Play, Roost, Round, Safeguard, Sandstorm,
+      Shadow Ball, Shadow Claw, Sleep Talk, Snore, Solarbeam, Substitute, Sunny Day,
+      Surf, Swagger, Tailwind, Telekinesis, Thunder, Thunder Wave, Thunderbolt, Toxic,
+      Trick, Water Sport, Waterfall, Wish, Zen Headbutt, Body Slam, Double-Edge, Icy
+        Wind, Mimic]

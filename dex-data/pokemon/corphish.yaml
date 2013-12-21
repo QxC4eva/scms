@@ -1,0 +1,62 @@
+pokemon:
+  Corphish:
+    introduction: rs
+    types:
+    - [Water]
+    egggroups:
+    - [Water 1, Water 3]
+    abilities:
+    - [Hyper Cutter, Shell Armor]
+    - bw: [Adaptability, Hyper Cutter, Shell Armor]
+    stats:
+    - [43, 80, 65, 50, 35, 35]
+    weight: [11.5]
+    height: [0.6]
+  Crawdaunt:
+    introduction: rs
+    types:
+    - [Dark, Water]
+    egggroups:
+    - [Water 1, Water 3]
+    abilities:
+    - [Hyper Cutter, Shell Armor]
+    - bw: [Adaptability, Hyper Cutter, Shell Armor]
+    stats:
+    - [63, 120, 85, 90, 55, 55]
+    weight: [32.8]
+    height: [1.1]
+families:
+- {from: Corphish, to: Crawdaunt}
+learnsets:
+  rs:
+    Corphish: [Aerial Ace, Ancientpower, Attract, Blizzard, Body Slam, Brick Break,
+      Bubble, Bubblebeam, Counter, Crabhammer, Crunch, Cut, Dig, Double-Edge, Double
+        Team, Endeavor, Endure, Facade, Frustration, Fury Cutter, Guillotine, Hail,
+      Harden, Hidden Power, Ice Beam, Icy Wind, Knock Off, Leer, Mimic, Mud-Slap,
+      Mud Sport, Protect, Rain Dance, Rest, Return, Rock Smash, Rock Tomb, Secret
+        Power, Sleep Talk, Sludge Bomb, Snore, Strength, Substitute, Surf, Swagger,
+      Swords Dance, Taunt, Toxic, Vicegrip, Water Pulse, Waterfall]
+    Crawdaunt: [Dive, Hyper Beam, Swift]
+  dp:
+    Corphish: [Aerial Ace, Ancientpower, Attract, Blizzard, Body Slam, Brick Break,
+      Bubble, Bubblebeam, Captivate, Crabhammer, Crunch, Cut, Dig, Double Team, Dragon
+        Dance, Endeavor, Endure, Facade, False Swipe, Fling, Frustration, Fury Cutter,
+      Guillotine, Hail, Harden, Hidden Power, Ice Beam, Icy Wind, Iron Defense, Knock
+        Off, Leer, Metal Claw, Mimic, Mud-Slap, Mud Sport, Natural Gift, Night Slash,
+      Payback, Protect, Rain Dance, Rest, Return, Rock Slide, Rock Smash, Rock Tomb,
+      Secret Power, Sleep Talk, Sludge Bomb, Snore, Spite, Strength, Substitute, Superpower,
+      Surf, Swagger, Swords Dance, Taunt, Toxic, Vicegrip, Water Pulse, Waterfall,
+      Whirlpool, X-scissor]
+    Crawdaunt: [Avalanche, Dark Pulse, Dive, Giga Impact, Hyper Beam, Swift]
+  bw:
+    Corphish: [Aerial Ace, Ancientpower, Attract, Blizzard, Body Slam, Brick Break,
+      Bubble, Bubblebeam, Chip Away, Crabhammer, Crunch, Cut, Dig, Double-Edge, Double
+        Team, Dragon Dance, Endeavor, Facade, False Swipe, Fling, Frustration, Fury
+        Cutter, Guillotine, Hail, Harden, Hidden Power, Hone Claws, Ice Beam, Icy
+        Wind, Iron Defense, Knock Off, Leer, Metal Claw, Mimic, Mud Sport, Night Slash,
+      Payback, Protect, Rain Dance, Rest, Return, Rock Slide, Rock Smash, Rock Tomb,
+      Round, Scald, Sleep Talk, Sludge Bomb, Snore, Spite, Strength, Substitute, Superpower,
+      Surf, Swagger, Swords Dance, Taunt, Toxic, Trump Card, Vicegrip, Waterfall,
+      X-scissor]
+    Crawdaunt: [Dark Pulse, Dive, Giga Impact, Hyper Beam, Retaliate, Sludge Wave,
+      Snarl, Swift]

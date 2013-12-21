@@ -1,0 +1,81 @@
+pokemon:
+  Bagon:
+    introduction: rs
+    types:
+    - [Dragon]
+    egggroups:
+    - [Dragon]
+    abilities:
+    - [Rock Head]
+    - bw: [Rock Head, Sheer Force]
+    stats:
+    - [45, 75, 60, 40, 30, 50]
+    weight: [42.1]
+    height: [0.6]
+  Shelgon:
+    introduction: rs
+    types:
+    - [Dragon]
+    egggroups:
+    - [Dragon]
+    abilities:
+    - [Rock Head]
+    - bw: [Overcoat, Rock Head]
+    stats:
+    - [65, 95, 100, 60, 50, 50]
+    weight: [110.5]
+    height: [1.1]
+  Salamence:
+    introduction: rs
+    types:
+    - [Dragon, Flying]
+    egggroups:
+    - [Dragon]
+    abilities:
+    - [Intimidate]
+    - bw: [Intimidate, Moxie]
+    stats:
+    - [95, 135, 80, 110, 80, 100]
+    weight: [102.6]
+    height: [1.5]
+families:
+- {from: Bagon, to: Shelgon}
+- {from: Shelgon, to: Salamence}
+learnsets:
+  rs:
+    Bagon: [Aerial Ace, Attract, Bite, Body Slam, Brick Break, Crunch, Cut, Double-Edge,
+      Double Team, Dragon Claw, Dragon Dance, Dragon Rage, Dragonbreath, Ember, Endure,
+      Facade, Fire Blast, Flamethrower, Focus Energy, Frustration, Fury Cutter, Headbutt,
+      Hidden Power, Hydro Pump, Leer, Mimic, Mud-Slap, Protect, Rage, Rain Dance,
+      Rest, Return, Roar, Rock Slide, Rock Smash, Rock Tomb, Scary Face, Secret Power,
+      Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger, Thrash, Toxic,
+      Twister]
+    Shelgon: [Defense Curl, Rollout, Body Slam, Mimic]
+    Salamence: [Earthquake, Fly, Hyper Beam, Iron Tail, Steel Wing, Swift, Body Slam,
+      Mimic, Refresh]
+  dp:
+    Bagon: [Aerial Ace, Attract, Bite, Brick Break, Captivate, Crunch, Cut, Double-Edge,
+      Double Team, Draco Meteor, Dragon Claw, Dragon Dance, Dragon Pulse, Dragon Rage,
+      Dragon Rush, Dragonbreath, Ember, Endure, Facade, Fire Blast, Fire Fang, Flamethrower,
+      Focus Energy, Frustration, Fury Cutter, Headbutt, Hidden Power, Hydro Pump,
+      Leer, Mud-Slap, Natural Gift, Outrage, Protect, Rage, Rain Dance, Rest, Return,
+      Roar, Rock Slide, Rock Smash, Rock Tomb, Scary Face, Secret Power, Shadow Claw,
+      Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger, Thrash, Toxic,
+      Twister, Zen Headbutt]
+    Shelgon: [Iron Defense, Rollout, Body Slam, Mimic]
+    Salamence: [Air Cutter, Aqua Tail, Defog, Earthquake, Fly, Giga Impact, Heat Wave,
+      Hyper Beam, Iron Tail, Ominous Wind, Roost, Steel Wing, Stone Edge, Swift, Tailwind,
+      Thunder Fang, Body Slam, Mimic, Refresh]
+  bw:
+    Bagon: [Aerial Ace, Attract, Bite, Body Slam, Brick Break, Crunch, Cut, Defense
+        Curl, Double-Edge, Double Team, Draco Meteor, Dragon Claw, Dragon Dance, Dragon
+        Pulse, Dragon Rage, Dragon Rush, Dragonbreath, Ember, Endure, Facade, Fire
+        Blast, Fire Fang, Flamethrower, Focus Energy, Frustration, Headbutt, Hidden
+        Power, Hone Claws, Hydro Pump, Hyper Voice, Incinerate, Leer, Mimic, Outrage,
+      Protect, Rage, Rain Dance, Rest, Return, Roar, Rock Slide, Rock Smash, Rock
+        Tomb, Round, Scary Face, Shadow Claw, Sleep Talk, Snore, Strength, Substitute,
+      Sunny Day, Swagger, Thrash, Toxic, Twister, Zen Headbutt]
+    Shelgon: [Iron Defense, Body Slam, Mimic]
+    Salamence: [Aqua Tail, Bulldoze, Dragon Tail, Earthquake, Fly, Giga Impact, Heat
+        Wave, Hyper Beam, Iron Tail, Refresh, Roost, Stone Edge, Tailwind, Thunder
+        Fang, Body Slam, Mimic, Refresh]

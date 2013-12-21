@@ -1,0 +1,24 @@
+pokemon:
+  Unown:
+    introduction: gs
+    types:
+    - [Psychic]
+    egggroups:
+    - []
+    abilities:
+    - [Levitate]
+    - bw: [Levitate]
+    stats:
+    - [48, 72, 48, 72, 48, 48]
+    weight: [5]
+    height: [0.5]
+families: []
+learnsets:
+  gs:
+    Unown: [Hidden Power]
+  rs:
+    Unown: [Hidden Power]
+  dp:
+    Unown: [Hidden Power]
+  bw:
+    Unown: [Hidden Power]

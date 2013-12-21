@@ -1,0 +1,38 @@
+pokemon:
+  Petilil:
+    introduction: bw
+    types:
+    - [Grass]
+    egggroups:
+    - [Plant]
+    abilities:
+    - [Chlorophyll, Leaf Guard, Own Tempo]
+    stats:
+    - [45, 35, 50, 70, 50, 30]
+    weight: [6.6]
+    height: [0.5]
+  Lilligant:
+    introduction: bw
+    types:
+    - [Grass]
+    egggroups:
+    - [Plant]
+    abilities:
+    - [Chlorophyll, Leaf Guard, Own Tempo]
+    stats:
+    - [70, 60, 75, 110, 75, 90]
+    weight: [16.3]
+    height: [1.1]
+families:
+- {from: Petilil, to: Lilligant}
+learnsets:
+  bw:
+    Petilil: [Absorb, After You, Aromatherapy, Attract, Bide, Charm, Covet, Cut, Double
+        Team, Dream Eater, Endure, Energy Ball, Entrainment, Facade, Flash, Frustration,
+      Giga Drain, Grass Knot, Grasswhistle, Growth, Heal Bell, Healing Wish, Helping
+        Hand, Hidden Power, Ingrain, Leaf Storm, Leech Seed, Magical Leaf, Mega Drain,
+      Natural Gift, Protect, Rest, Return, Round, Safeguard, Seed Bomb, Sleep Powder,
+      Sleep Talk, Snore, Solarbeam, Stun Spore, Substitute, Sunny Day, Swagger, Sweet
+        Scent, Synthesis, Toxic, Worry Seed]
+    Lilligant: [Giga Impact, Hyper Beam, Light Screen, Petal Dance, Quiver Dance,
+      Role Play, Swords Dance, Teeter Dance]

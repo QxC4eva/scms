@@ -1,0 +1,49 @@
+pokemon:
+  Lunatone:
+    introduction: rs
+    types:
+    - [Psychic, Rock]
+    egggroups:
+    - [Mineral]
+    abilities:
+    - [Levitate]
+    - bw: [Levitate]
+    stats:
+    - [70, 55, 65, 95, 85, 70]
+    weight: [168]
+    height: [1]
+families: []
+learnsets:
+  rs:
+    Lunatone: [Body Slam, Calm Mind, Confusion, Cosmic Power, Defense Curl, Double-Edge,
+      Double Team, Dream Eater, Earthquake, Endure, Explosion, Facade, Flash, Frustration,
+      Future Sight, Harden, Hidden Power, Hyper Beam, Hypnosis, Ice Beam, Light Screen,
+      Mimic, Protect, Psych Up, Psychic, Psywave, Rain Dance, Reflect, Rest, Return,
+      Rock Slide, Rock Throw, Rock Tomb, Rollout, Safeguard, Sandstorm, Secret Power,
+      Selfdestruct, Shadow Ball, Skill Swap, Sleep Talk, Snore, Substitute, Swagger,
+      Swift, Tackle, Toxic, Baton Pass, Body Slam, Double-Edge, Mimic, Selfdestruct,
+      Substitute, Swagger]
+  dp:
+    Lunatone: [Ancientpower, Blizzard, Calm Mind, Charge Beam, Confusion, Cosmic Power,
+      Double Team, Dream Eater, Earth Power, Earthquake, Embargo, Endure, Explosion,
+      Facade, Flash, Frustration, Future Sight, Giga Impact, Grass Knot, Gravity,
+      Gyro Ball, Harden, Heal Block, Helping Hand, Hidden Power, Hyper Beam, Hypnosis,
+      Ice Beam, Iron Head, Light Screen, Magic Coat, Natural Gift, Pain Split, Protect,
+      Psych Up, Psychic, Psywave, Rain Dance, Recycle, Reflect, Rest, Return, Rock
+        Polish, Rock Slide, Rock Throw, Rock Tomb, Rollout, Safeguard, Sandstorm,
+      Secret Power, Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snore, Stealth
+        Rock, Stone Edge, Substitute, Swagger, Swift, Tackle, Toxic, Trick Room, Zen
+        Headbutt, Baton Pass, Body Slam, Double-Edge, Mimic, Selfdestruct, Substitute,
+      Swagger]
+  bw:
+    Lunatone: [Acrobatics, Blizzard, Bulldoze, Calm Mind, Charge Beam, Confusion,
+      Cosmic Power, Double Team, Dream Eater, Earth Power, Earthquake, Embargo, Explosion,
+      Facade, Flash, Frustration, Future Sight, Giga Impact, Grass Knot, Gravity,
+      Gyro Ball, Harden, Heal Block, Helping Hand, Hidden Power, Hyper Beam, Hypnosis,
+      Ice Beam, Icy Wind, Iron Head, Light Screen, Magic Coat, Magic Room, Pain Split,
+      Protect, Psych Up, Psychic, Psyshock, Psywave, Rain Dance, Recycle, Reflect,
+      Rest, Return, Rock Polish, Rock Slide, Rock Throw, Rock Tomb, Round, Safeguard,
+      Sandstorm, Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Smack Down, Snore,
+      Stealth Rock, Stone Edge, Substitute, Swagger, Tackle, Telekinesis, Toxic, Trick
+        Room, Zen Headbutt, Baton Pass, Body Slam, Double-Edge, Mimic, Selfdestruct,
+      Substitute, Swagger]

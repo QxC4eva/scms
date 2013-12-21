@@ -1,0 +1,38 @@
+pokemon:
+  Frillish:
+    introduction: bw
+    types:
+    - [Ghost, Water]
+    egggroups:
+    - [Indeterminate]
+    abilities:
+    - [Cursed Body, Damp, Water Absorb]
+    stats:
+    - [55, 40, 50, 65, 85, 40]
+    weight: [33]
+    height: [1.2]
+  Jellicent:
+    introduction: bw
+    types:
+    - [Ghost, Water]
+    egggroups:
+    - [Indeterminate]
+    abilities:
+    - [Cursed Body, Damp, Water Absorb]
+    stats:
+    - [100, 60, 70, 85, 105, 60]
+    weight: [135]
+    height: [2.2]
+families:
+- {from: Frillish, to: Jellicent}
+learnsets:
+  bw:
+    Frillish: [Absorb, Acid Armor, Attract, Bind, Blizzard, Brine, Bubble, Bubblebeam,
+      Confuse Ray, Constrict, Dark Pulse, Dive, Double Team, Dream Eater, Energy Ball,
+      Facade, Flash, Frustration, Giga Drain, Hail, Hex, Hidden Power, Hydro Pump,
+      Ice Beam, Icy Wind, Magic Coat, Mist, Night Shade, Ominous Wind, Pain Split,
+      Protect, Psych Up, Psychic, Rain Dance, Recover, Rest, Return, Round, Safeguard,
+      Scald, Shadow Ball, Sleep Talk, Sludge Bomb, Sludge Wave, Snore, Spite, Substitute,
+      Surf, Swagger, Taunt, Toxic, Trick, Trick Room, Water Pulse, Water Sport, Water
+        Spout, Waterfall, Will-O-Wisp, Wring Out]
+    Jellicent: [Giga Impact, Hyper Beam]

@@ -1,0 +1,66 @@
+pokemon:
+  Gible:
+    introduction: dp
+    types:
+    - [Dragon, Ground]
+    egggroups:
+    - [Dragon, Monster]
+    abilities:
+    - [Rough Skin, Sand Veil]
+    stats:
+    - [58, 70, 45, 40, 45, 42]
+    weight: [20.5]
+    height: [0.7]
+  Gabite:
+    introduction: dp
+    types:
+    - [Dragon, Ground]
+    egggroups:
+    - [Dragon, Monster]
+    abilities:
+    - [Rough Skin, Sand Veil]
+    stats:
+    - [68, 90, 65, 50, 55, 82]
+    weight: [56]
+    height: [1.4]
+  Garchomp:
+    introduction: dp
+    types:
+    - [Dragon, Ground]
+    egggroups:
+    - [Dragon, Monster]
+    abilities:
+    - [Rough Skin, Sand Veil]
+    stats:
+    - [108, 130, 95, 80, 85, 102]
+    weight: [95]
+    height: [1.9]
+families:
+- {from: Gible, to: Gabite}
+- {from: Gabite, to: Garchomp}
+learnsets:
+  dp:
+    Gible: [Aerial Ace, Attract, Body Slam, Captivate, Cut, Dig, Double-Edge, Double
+        Team, Draco Meteor, Dragon Claw, Dragon Pulse, Dragon Rage, Dragon Rush, Dragonbreath,
+      Earth Power, Earthquake, Endure, Facade, Fire Blast, Flamethrower, Frustration,
+      Fury Cutter, Headbutt, Hidden Power, Iron Head, Metal Claw, Mud Shot, Mud-Slap,
+      Natural Gift, Outrage, Protect, Rain Dance, Rest, Return, Roar, Rock Climb,
+      Rock Slide, Rock Smash, Rock Tomb, Sand-Attack, Sand Tomb, Sandstorm, Scary
+        Face, Secret Power, Shadow Claw, Slash, Sleep Talk, Snore, Stealth Rock, Stone
+        Edge, Strength, Substitute, Sunny Day, Swagger, Swift, Tackle, Take Down,
+      Thrash, Toxic, Twister]
+    Gabite: [Iron Tail]
+    Garchomp: [Aqua Tail, Brick Break, Crunch, False Swipe, Fire Fang, Fling, Giga
+        Impact, Hyper Beam, Poison Jab, Surf, Swords Dance, Whirlpool]
+  bw:
+    Gible: [Aerial Ace, Attract, Body Slam, Bulldoze, Cut, Dig, Double-Edge, Double
+        Team, Draco Meteor, Dragon Claw, Dragon Pulse, Dragon Rage, Dragon Rush, Dragonbreath,
+      Earth Power, Earthquake, Facade, Fire Blast, Flamethrower, Frustration, Hidden
+        Power, Hone Claws, Incinerate, Iron Head, Iron Tail, Metal Claw, Mud Shot,
+      Outrage, Protect, Rain Dance, Rest, Return, Roar, Rock Climb, Rock Slide, Rock
+        Smash, Rock Tomb, Round, Sand-Attack, Sand Tomb, Sandstorm, Scary Face, Shadow
+        Claw, Slash, Sleep Talk, Snore, Stealth Rock, Stone Edge, Strength, Substitute,
+      Sunny Day, Swagger, Tackle, Take Down, Thrash, Toxic, Twister]
+    Gabite: [Dual Chop]
+    Garchomp: [Aqua Tail, Brick Break, Crunch, Dragon Tail, False Swipe, Fire Fang,
+      Fling, Giga Impact, Hyper Beam, Poison Jab, Surf, Swords Dance]

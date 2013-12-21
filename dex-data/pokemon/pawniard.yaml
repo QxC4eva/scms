@@ -1,0 +1,40 @@
+pokemon:
+  Pawniard:
+    introduction: bw
+    types:
+    - [Dark, Steel]
+    egggroups:
+    - [Humanshape]
+    abilities:
+    - [Defiant, Inner Focus, Pressure]
+    stats:
+    - [45, 85, 70, 40, 40, 60]
+    weight: [10.2]
+    height: [0.5]
+  Bisharp:
+    introduction: bw
+    types:
+    - [Dark, Steel]
+    egggroups:
+    - [Humanshape]
+    abilities:
+    - [Defiant, Inner Focus, Pressure]
+    stats:
+    - [65, 125, 100, 60, 70, 70]
+    weight: [70]
+    height: [1.6]
+families:
+- {from: Pawniard, to: Bisharp}
+learnsets:
+  bw:
+    Pawniard: [Aerial Ace, Assurance, Attract, Brick Break, Cut, Dark Pulse, Dig,
+      Double Team, Dual Chop, Embargo, Facade, Faint Attack, False Swipe, Fling, Foul
+        Play, Frustration, Fury Cutter, Grass Knot, Guillotine, Headbutt, Hidden Power,
+      Hone Claws, Iron Defense, Iron Head, Knock Off, Leer, Low Kick, Low Sweep, Magnet
+        Rise, Mean Look, Metal Claw, Metal Sound, Night Slash, Payback, Poison Jab,
+      Protect, Psycho Cut, Pursuit, Rain Dance, Rest, Retaliate, Return, Revenge,
+      Rock Polish, Rock Smash, Rock Tomb, Role Play, Round, Sandstorm, Scary Face,
+      Scratch, Shadow Claw, Slash, Sleep Talk, Snarl, Snatch, Snore, Spite, Stealth
+        Rock, Substitute, Sucker Punch, Swagger, Swords Dance, Taunt, Thief, Thunder
+        Wave, Torment, Toxic, X-scissor]
+    Bisharp: [Focus Blast, Giga Impact, Hyper Beam, Metal Burst, Stone Edge]

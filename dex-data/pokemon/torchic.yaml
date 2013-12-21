@@ -1,0 +1,87 @@
+pokemon:
+  Torchic:
+    introduction: rs
+    types:
+    - [Fire]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Blaze]
+    - bw: [Blaze, Speed Boost]
+    stats:
+    - [45, 60, 40, 70, 50, 45]
+    weight: [2.5]
+    height: [0.4]
+  Combusken:
+    introduction: rs
+    types:
+    - [Fighting, Fire]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Blaze]
+    - bw: [Blaze, Speed Boost]
+    stats:
+    - [60, 85, 60, 85, 60, 55]
+    weight: [19.5]
+    height: [0.9]
+  Blaziken:
+    introduction: rs
+    types:
+    - [Fighting, Fire]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Blaze]
+    - bw: [Blaze, Speed Boost]
+    stats:
+    - [80, 120, 70, 110, 70, 80]
+    weight: [52]
+    height: [1.9]
+families:
+- {from: Torchic, to: Combusken}
+- {from: Combusken, to: Blaziken}
+learnsets:
+  rs:
+    Torchic: [Aerial Ace, Attract, Body Slam, Counter, Cut, Dig, Double-Edge, Double
+        Team, Ember, Endure, Facade, Fire Blast, Fire Spin, Flamethrower, Focus Energy,
+      Frustration, Growl, Hidden Power, Mega Kick, Mega Punch, Mimic, Mirror Move,
+      Mud-Slap, Overheat, Peck, Protect, Quick Attack, Rest, Return, Reversal, Rock
+        Slide, Rock Smash, Rock Tomb, Sand-Attack, Scratch, Secret Power, Seismic
+        Toss, Slash, Sleep Talk, Smellingsalt, Snore, Strength, Substitute, Sunny
+        Day, Swagger, Swift, Swords Dance, Toxic, Body Slam, Double-Edge, Mimic, Seismic
+        Toss]
+    Combusken: [Brick Break, Bulk Up, Double Kick, Dynamicpunch, Fire Punch, Focus
+        Punch, Fury Cutter, Sky Uppercut, Thunderpunch]
+    Blaziken: [Blaze Kick, Earthquake, Hyper Beam, Roar]
+  dp:
+    Torchic: [Aerial Ace, Agility, Attract, Baton Pass, Bounce, Captivate, Counter,
+      Crush Claw, Cut, Dig, Double Team, Ember, Endure, Facade, Featherdance, Feint,
+      Fire Blast, Fire Spin, Flamethrower, Focus Energy, Frustration, Growl, Headbutt,
+      Heat Wave, Helping Hand, Hidden Power, Last Resort, Mirror Move, Mud-Slap, Natural
+        Gift, Night Slash, Overheat, Peck, Protect, Quick Attack, Rest, Return, Reversal,
+      Rock Slide, Rock Smash, Rock Tomb, Sand-Attack, Scratch, Secret Power, Shadow
+        Claw, Slash, Sleep Talk, Smellingsalt, Snore, Strength, Substitute, Sunny
+        Day, Swagger, Swift, Swords Dance, Toxic, Will-O-Wisp, Body Slam, Double-Edge,
+      Mimic, Seismic Toss]
+    Combusken: [Brick Break, Bulk Up, Double Kick, Fire Punch, Flare Blitz, Fling,
+      Focus Blast, Focus Punch, Fury Cutter, Low Kick, Poison Jab, Sky Uppercut, Thunderpunch,
+      Vacuum Wave]
+    Blaziken: [Blast Burn, Blaze Kick, Brave Bird, Earthquake, Giga Impact, Hyper
+        Beam, Knock Off, Roar, Rock Climb, Role Play, Solarbeam, Stone Edge, Superpower]
+  bw:
+    Torchic: [Aerial Ace, Agility, Attract, Baton Pass, Bounce, Counter, Crush Claw,
+      Curse, Cut, Dig, Double Team, Echoed Voice, Ember, Endure, Facade, Featherdance,
+      Feint, Fire Blast, Fire Pledge, Fire Spin, Flame Burst, Flame Charge, Flamethrower,
+      Focus Energy, Frustration, Growl, Heat Wave, Helping Hand, Hidden Power, Hone
+        Claws, Incinerate, Last Resort, Low Kick, Mirror Move, Night Slash, Overheat,
+      Peck, Protect, Quick Attack, Rest, Return, Reversal, Rock Slide, Rock Smash,
+      Rock Tomb, Round, Sand-Attack, Scratch, Shadow Claw, Slash, Sleep Talk, Smellingsalt,
+      Snore, Strength, Substitute, Sunny Day, Swagger, Swords Dance, Toxic, Will-O-Wisp,
+      Body Slam, Double-Edge, Mimic, Seismic Toss]
+    Combusken: [Brick Break, Bulk Up, Double Kick, Dual Chop, Fire Punch, Flare Blitz,
+      Fling, Focus Blast, Low Sweep, Poison Jab, Sky Uppercut, Thunderpunch, Work
+        Up]
+    Blaziken: [Acrobatics, Blast Burn, Blaze Kick, Brave Bird, Bulldoze, Earthquake,
+      Giga Impact, Hi Jump Kick, Hyper Beam, Knock Off, Roar, Role Play, Solarbeam,
+      Stone Edge, Superpower]

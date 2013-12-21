@@ -1,0 +1,73 @@
+pokemon:
+  Sentret:
+    introduction: gs
+    types:
+    - [Normal]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Keen Eye, Run Away]
+    - bw: [Frisk, Keen Eye, Run Away]
+    stats:
+    - [35, 46, 34, 35, 45, 20]
+    weight: [6]
+    height: [0.8]
+  Furret:
+    introduction: gs
+    types:
+    - [Normal]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Keen Eye, Run Away]
+    - bw: [Frisk, Keen Eye, Run Away]
+    stats:
+    - [85, 76, 64, 45, 55, 90]
+    weight: [32.5]
+    height: [1.8]
+families:
+- {from: Sentret, to: Furret}
+learnsets:
+  gs:
+    Sentret: [Amnesia, Attract, Curse, Cut, Defense Curl, Detect, Dig, Double-Edge,
+      Double Team, Dynamicpunch, Endure, Fire Punch, Focus Energy, Frustration, Fury
+        Cutter, Fury Swipes, Headbutt, Hidden Power, Ice Punch, Iron Tail, Mud-Slap,
+      Protect, Pursuit, Quick Attack, Rest, Return, Reversal, Rollout, Shadow Ball,
+      Slam, Slash, Sleep Talk, Snore, Sunny Day, Surf, Swagger, Swift, Tackle, Thief,
+      Thunderpunch, Toxic]
+    Furret: [Hyper Beam, Scratch, Strength]
+  rs:
+    Sentret: [Amnesia, Assist, Attract, Body Slam, Brick Break, Cut, Defense Curl,
+      Dig, Double-Edge, Double Team, Dynamicpunch, Endure, Facade, Fire Punch, Flamethrower,
+      Focus Energy, Focus Punch, Follow Me, Frustration, Fury Cutter, Fury Swipes,
+      Helping Hand, Hidden Power, Ice Beam, Ice Punch, Iron Tail, Mimic, Mud-Slap,
+      Protect, Pursuit, Quick Attack, Rain Dance, Rest, Return, Reversal, Rollout,
+      Scratch, Secret Power, Shadow Ball, Shock Wave, Slam, Slash, Sleep Talk, Snore,
+      Solarbeam, Substitute, Sunny Day, Surf, Swagger, Swift, Thief, Thunderbolt,
+      Thunderpunch, Toxic, Trick, Water Pulse]
+    Furret: [Blizzard, Hyper Beam, Rock Smash, Strength, Thunder]
+  dp:
+    Sentret: [Amnesia, Aqua Tail, Assist, Attract, Baton Pass, Brick Break, Captivate,
+      Charge Beam, Charm, Covet, Cut, Defense Curl, Dig, Double-Edge, Double Team,
+      Endure, Facade, Fire Punch, Flamethrower, Fling, Focus Energy, Focus Punch,
+      Follow Me, Foresight, Frustration, Fury Cutter, Fury Swipes, Grass Knot, Headbutt,
+      Helping Hand, Hidden Power, Hyper Voice, Ice Beam, Ice Punch, Iron Tail, Knock
+        Off, Last Resort, Me First, Mud-Slap, Natural Gift, Protect, Pursuit, Quick
+        Attack, Rain Dance, Rest, Return, Reversal, Rollout, Scratch, Secret Power,
+      Shadow Ball, Shadow Claw, Shock Wave, Slam, Slash, Sleep Talk, Snore, Solarbeam,
+      Substitute, Sucker Punch, Sunny Day, Super Fang, Surf, Swagger, Swift, Thief,
+      Thunderbolt, Thunderpunch, Toxic, Trick, U-turn, Uproar, Water Pulse, Whirlpool]
+    Furret: [Blizzard, Focus Blast, Giga Impact, Hyper Beam, Rock Smash, Strength,
+      Thunder]
+  bw:
+    Sentret: [Amnesia, Aqua Tail, Assist, Attract, Baton Pass, Brick Break, Charge
+        Beam, Charm, Covet, Cut, Defense Curl, Dig, Double-Edge, Double Team, Echoed
+        Voice, Facade, Fire Punch, Flamethrower, Fling, Focus Energy, Follow Me, Foresight,
+      Frustration, Fury Swipes, Grass Knot, Helping Hand, Hidden Power, Hone Claws,
+      Hyper Voice, Ice Beam, Ice Punch, Iron Tail, Knock Off, Last Resort, Me First,
+      Natural Gift, Protect, Pursuit, Quick Attack, Rain Dance, Rest, Retaliate, Return,
+      Reversal, Round, Scratch, Shadow Ball, Shadow Claw, Slam, Slash, Sleep Talk,
+      Snore, Solarbeam, Substitute, Sucker Punch, Sunny Day, Super Fang, Surf, Swagger,
+      Thief, Thunderbolt, Thunderpunch, Toxic, Trick, U-turn, Uproar, Work Up]
+    Furret: [Blizzard, Focus Blast, Giga Impact, Hyper Beam, Rock Smash, Strength,
+      Thunder]

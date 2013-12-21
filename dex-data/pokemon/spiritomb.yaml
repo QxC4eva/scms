@@ -1,0 +1,33 @@
+pokemon:
+  Spiritomb:
+    introduction: dp
+    types:
+    - [Dark, Ghost]
+    egggroups:
+    - [Indeterminate]
+    abilities:
+    - [Infiltrator, Pressure]
+    stats:
+    - [50, 92, 108, 92, 108, 35]
+    weight: [108]
+    height: [1]
+families: []
+learnsets:
+  dp:
+    Spiritomb: [Attract, Calm Mind, Captivate, Confuse Ray, Curse, Dark Pulse, Destiny
+        Bond, Double Team, Dream Eater, Embargo, Endure, Facade, Faint Attack, Flash,
+      Frustration, Giga Impact, Grudge, Hidden Power, Hyper Beam, Hypnosis, Icy Wind,
+      Imprison, Memento, Nasty Plot, Natural Gift, Ominous Wind, Pain Split, Protect,
+      Psych Up, Psychic, Pursuit, Rain Dance, Rest, Return, Rock Tomb, Secret Power,
+      Shadow Ball, Shadow Sneak, Shock Wave, Silver Wind, Sleep Talk, Smokescreen,
+      Snatch, Snore, Spite, Substitute, Sucker Punch, Sunny Day, Swagger, Taunt, Thief,
+      Torment, Toxic, Trick, Uproar, Water Pulse, Will-O-Wisp]
+  bw:
+    Spiritomb: [Attract, Calm Mind, Captivate, Confuse Ray, Curse, Dark Pulse, Destiny
+        Bond, Double Team, Dream Eater, Embargo, Facade, Faint Attack, Flash, Foul
+        Play, Frustration, Giga Impact, Grudge, Hidden Power, Hyper Beam, Hypnosis,
+      Icy Wind, Imprison, Memento, Nasty Plot, Nightmare, Ominous Wind, Pain Split,
+      Protect, Psych Up, Psychic, Pursuit, Quash, Rain Dance, Rest, Retaliate, Return,
+      Rock Tomb, Round, Shadow Ball, Shadow Sneak, Sleep Talk, Smokescreen, Snarl,
+      Snatch, Snore, Spite, Substitute, Sucker Punch, Sunny Day, Swagger, Taunt, Telekinesis,
+      Thief, Torment, Toxic, Trick, Uproar, Will-O-Wisp, Wonder Room]

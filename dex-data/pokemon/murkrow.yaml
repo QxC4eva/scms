@@ -1,0 +1,68 @@
+pokemon:
+  Murkrow:
+    introduction: gs
+    types:
+    - [Dark, Flying]
+    egggroups:
+    - [Flying]
+    abilities:
+    - [Insomnia]
+    - dp: [Insomnia, Super Luck]
+    - bw: [Insomnia, Prankster, Super Luck]
+    stats:
+    - [60, 85, 42, 85, 42, 91]
+    weight: [2.1]
+    height: [0.5]
+  Honchkrow:
+    introduction: dp
+    types:
+    - [Dark, Flying]
+    egggroups:
+    - [Flying]
+    abilities:
+    - [Insomnia, Moxie, Super Luck]
+    stats:
+    - [100, 125, 52, 105, 52, 71]
+    weight: [27.3]
+    height: [0.9]
+families:
+- {from: Murkrow, to: Honchkrow}
+learnsets:
+  gs:
+    Murkrow: [Attract, Curse, Detect, Double Team, Dream Eater, Drill Peck, Endure,
+      Faint Attack, Fly, Frustration, Haze, Hidden Power, Icy Wind, Mean Look, Mirror
+        Move, Mud-Slap, Night Shade, Nightmare, Peck, Protect, Psych Up, Pursuit,
+      Quick Attack, Rest, Return, Shadow Ball, Sky Attack, Sleep Talk, Snore, Steel
+        Wing, Sunny Day, Swagger, Swift, Thief, Toxic, Whirlwind, Wing Attack]
+  rs:
+    Murkrow: [Aerial Ace, Astonish, Attract, Calm Mind, Confuse Ray, Double-Edge,
+      Double Team, Dream Eater, Drill Peck, Endure, Facade, Faint Attack, Featherdance,
+      Fly, Frustration, Haze, Hidden Power, Icy Wind, Mean Look, Mimic, Mirror Move,
+      Mud-Slap, Night Shade, Nightmare, Peck, Perish Song, Protect, Psych Up, Pursuit,
+      Rain Dance, Rest, Return, Secret Power, Shadow Ball, Sky Attack, Sleep Talk,
+      Snatch, Snore, Steel Wing, Substitute, Sunny Day, Swagger, Swift, Taunt, Thief,
+      Thunder Wave, Torment, Toxic, Whirlwind, Wing Attack, Double-Edge, Icy Wind,
+      Mimic, Nightmare]
+  dp:
+    Murkrow: [Aerial Ace, Air Cutter, Assurance, Astonish, Attract, Brave Bird, Calm
+        Mind, Captivate, Confuse Ray, Dark Pulse, Defog, Double Team, Dream Eater,
+      Drill Peck, Embargo, Endure, Facade, Faint Attack, Featherdance, Fly, Frustration,
+      Haze, Heat Wave, Hidden Power, Icy Wind, Mean Look, Mirror Move, Mud-Slap, Natural
+        Gift, Night Shade, Ominous Wind, Payback, Peck, Perish Song, Pluck, Protect,
+      Psych Up, Psychic, Psycho Shift, Pursuit, Rain Dance, Rest, Return, Roost, Screech,
+      Secret Power, Shadow Ball, Sky Attack, Sleep Talk, Snatch, Spite, Steel Wing,
+      Substitute, Sucker Punch, Sunny Day, Swagger, Swift, Tailwind, Taunt, Thief,
+      Thunder Wave, Torment, Toxic, Twister, Uproar, Whirlwind, Wing Attack, Double-Edge,
+      Icy Wind, Mimic, Nightmare]
+    Honchkrow: [Giga Impact, Hyper Beam, Nasty Plot, Night Slash, Superpower]
+  bw:
+    Murkrow: [Aerial Ace, Assurance, Astonish, Attract, Brave Bird, Calm Mind, Confuse
+        Ray, Dark Pulse, Double Team, Dream Eater, Drill Peck, Embargo, Facade, Faint
+        Attack, Featherdance, Fly, Foul Play, Frustration, Haze, Heat Wave, Hidden
+        Power, Icy Wind, Mean Look, Mirror Move, Night Shade, Payback, Peck, Perish
+        Song, Pluck, Protect, Psych Up, Psychic, Psycho Shift, Pursuit, Quash, Rain
+        Dance, Rest, Retaliate, Return, Roost, Round, Screech, Shadow Ball, Sky Attack,
+      Sleep Talk, Snarl, Snatch, Spite, Substitute, Sucker Punch, Sunny Day, Swagger,
+      Tailwind, Taunt, Thief, Thunder Wave, Torment, Toxic, Uproar, Whirlwind, Wing
+        Attack, Double-Edge, Icy Wind, Mimic, Nightmare]
+    Honchkrow: [Giga Impact, Hyper Beam, Incinerate, Nasty Plot, Night Slash, Superpower]

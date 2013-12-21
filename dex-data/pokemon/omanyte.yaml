@@ -1,0 +1,78 @@
+pokemon:
+  Omanyte:
+    introduction: rb
+    types:
+    - [Rock, Water]
+    egggroups:
+    - [Water 1, Water 3]
+    abilities:
+    - [Shell Armor, Swift Swim]
+    - bw: [Shell Armor, Swift Swim, Weak Armor]
+    stats:
+    - [35, 40, 100, 90, 90, 35]
+    - gs: [35, 40, 100, 90, 55, 35]
+    weight: [7.5]
+    height: [0.4]
+  Omastar:
+    introduction: rb
+    types:
+    - [Rock, Water]
+    egggroups:
+    - [Water 1, Water 3]
+    abilities:
+    - [Shell Armor, Swift Swim]
+    - bw: [Shell Armor, Swift Swim, Weak Armor]
+    stats:
+    - [70, 60, 125, 115, 115, 55]
+    - gs: [70, 60, 125, 115, 70, 55]
+    weight: [35]
+    height: [1]
+families:
+- {from: Omanyte, to: Omastar}
+learnsets:
+  rb:
+    Omanyte: [Bide, Blizzard, Body Slam, Bubblebeam, Double-Edge, Double Team, Horn
+        Attack, Hydro Pump, Ice Beam, Leer, Mimic, Rage, Reflect, Rest, Spike Cannon,
+      Substitute, Surf, Take Down, Toxic, Water Gun, Withdraw]
+    Omastar: [Horn Drill, Hyper Beam, Seismic Toss, Skull Bash, Submission]
+  gs:
+    Omanyte: [Ancientpower, Attract, Aurora Beam, Bite, Blizzard, Bubblebeam, Constrict,
+      Curse, Double Team, Endure, Frustration, Haze, Headbutt, Hidden Power, Hydro
+        Pump, Ice Beam, Icy Wind, Leer, Protect, Rain Dance, Rest, Return, Rock Smash,
+      Rollout, Sandstorm, Slam, Sleep Talk, Snore, Supersonic, Surf, Swagger, Thief,
+      Toxic, Water Gun, Whirlpool, Withdraw]
+    Omastar: [Hyper Beam, Spike Cannon]
+  rs:
+    Omanyte: [Ancientpower, Attract, Aurora Beam, Bite, Blizzard, Body Slam, Bubblebeam,
+      Constrict, Dive, Double-Edge, Double Team, Endure, Facade, Frustration, Hail,
+      Haze, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Leer, Mimic, Mud Shot, Protect,
+      Rain Dance, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sandstorm,
+      Secret Power, Slam, Sleep Talk, Snore, Spikes, Substitute, Supersonic, Surf,
+      Swagger, Thief, Tickle, Toxic, Water Gun, Water Pulse, Waterfall, Withdraw,
+      Body Slam, Double-Edge, Icy Wind, Mimic]
+    Omastar: [Hyper Beam, Seismic Toss, Spike Cannon, Body Slam, Double-Edge, Icy
+        Wind, Mimic, Seismic Toss]
+  dp:
+    Omanyte: [Ancientpower, Attract, Aurora Beam, Bite, Blizzard, Brine, Bubblebeam,
+      Captivate, Constrict, Dive, Double Team, Earth Power, Endure, Facade, Frustration,
+      Gyro Ball, Hail, Haze, Headbutt, Hidden Power, Hydro Pump, Ice Beam, Icy Wind,
+      Iron Defense, Knock Off, Leer, Mud Shot, Muddy Water, Natural Gift, Protect,
+      Rain Dance, Rest, Return, Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock
+        Tomb, Rollout, Sandstorm, Secret Power, Slam, Sleep Talk, Snore, Spikes, Stealth
+        Rock, Substitute, Supersonic, Surf, Swagger, Thief, Tickle, Toxic, Toxic Spikes,
+      Water Gun, Water Pulse, Waterfall, Whirlpool, Withdraw, Wring Out, Body Slam,
+      Double-Edge, Icy Wind, Mimic]
+    Omastar: [Giga Impact, Hyper Beam, Rock Climb, Spike Cannon, Stone Edge, Body
+        Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+  bw:
+    Omanyte: [Ancientpower, Attract, Aurora Beam, Bide, Bind, Bite, Blizzard, Brine,
+      Bubblebeam, Constrict, Dive, Double Team, Earth Power, Facade, Frustration,
+      Gyro Ball, Hail, Haze, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Iron Defense,
+      Knock Off, Leer, Mud Shot, Muddy Water, Protect, Rain Dance, Rest, Return, Rock
+        Blast, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Rollout, Round, Sandstorm,
+      Scald, Shell Smash, Slam, Sleep Talk, Smack Down, Snore, Spikes, Stealth Rock,
+      Substitute, Supersonic, Surf, Swagger, Thief, Tickle, Toxic, Toxic Spikes, Water
+        Gun, Water Pulse, Waterfall, Whirlpool, Withdraw, Wring Out, Body Slam, Double-Edge,
+      Icy Wind, Mimic]
+    Omastar: [Giga Impact, Hyper Beam, Spike Cannon, Stone Edge, Body Slam, Double-Edge,
+      Icy Wind, Mimic, Seismic Toss]

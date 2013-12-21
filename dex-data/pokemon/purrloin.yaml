@@ -1,0 +1,39 @@
+pokemon:
+  Purrloin:
+    introduction: dp
+    types:
+    - [Dark]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Limber, Prankster, Unburden]
+    stats:
+    - [41, 50, 37, 50, 37, 66]
+    weight: [10.1]
+    height: [0.4]
+  Liepard:
+    introduction: dp
+    types:
+    - [Dark]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Limber, Prankster, Unburden]
+    stats:
+    - [64, 88, 50, 88, 50, 106]
+    weight: [37.5]
+    height: [1.1]
+families:
+- {from: Purrloin, to: Liepard}
+learnsets:
+  bw:
+    Purrloin: [Aerial Ace, Assist, Assurance, Attract, Captivate, Charm, Covet, Cut,
+      Dark Pulse, Double Team, Dream Eater, Echoed Voice, Embargo, Encore, Facade,
+      Faint Attack, Fake Out, Fake Tears, Foul Play, Frustration, Fury Swipes, Grass
+        Knot, Growl, Gunk Shot, Hidden Power, Hone Claws, Hyper Voice, Iron Tail,
+      Knock Off, Nasty Plot, Night Slash, Pay Day, Payback, Protect, Psych Up, Pursuit,
+      Rain Dance, Rest, Return, Role Play, Round, Sand-Attack, Scratch, Seed Bomb,
+      Shadow Ball, Shadow Claw, Slash, Sleep Talk, Snarl, Snatch, Snore, Spite, Substitute,
+      Sucker Punch, Sunny Day, Swagger, Taunt, Thief, Thunder Wave, Torment, Toxic,
+      Trick, U-turn, Yawn]
+    Liepard: [Giga Impact, Hyper Beam, Rock Smash]

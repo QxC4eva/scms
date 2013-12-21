@@ -1,0 +1,24 @@
+pokemon:
+  Keldeo:
+    introduction: bw
+    types:
+    - [Fighting, Water]
+    egggroups:
+    - []
+    abilities:
+    - [Justified]
+    stats:
+    - [91, 72, 90, 129, 90, 108]
+    weight: [48.5]
+    height: [1.4]
+families: []
+learnsets:
+  bw:
+    Keldeo: [Aerial Ace, Aqua Jet, Aqua Tail, Bounce, Bubblebeam, Calm Mind, Close
+        Combat, Covet, Cut, Double Kick, Double Team, Endeavor, Facade, False Swipe,
+      Focus Blast, Frustration, Giga Impact, Hail, Helping Hand, Hidden Power, Hydro
+        Pump, Hyper Beam, Icy Wind, Last Resort, Leer, Poison Jab, Protect, Psych
+        Up, Quick Guard, Rain Dance, Reflect, Rest, Retaliate, Return, Roar, Rock
+        Smash, Round, Sacred Sword, Safeguard, Scald, Secret Sword, Sleep Talk, Snore,
+      Stone Edge, Strength, Substitute, Superpower, Surf, Swagger, Swords Dance, Take
+        Down, Taunt, Toxic, Work Up, X-scissor]

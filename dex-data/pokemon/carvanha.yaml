@@ -1,0 +1,62 @@
+pokemon:
+  Carvanha:
+    introduction: rs
+    types:
+    - [Dark, Water]
+    egggroups:
+    - [Water 2]
+    abilities:
+    - [Rough Skin]
+    - bw: [Rough Skin, Speed Boost]
+    stats:
+    - [45, 90, 20, 65, 20, 65]
+    weight: [20.8]
+    height: [0.8]
+  Sharpedo:
+    introduction: rs
+    types:
+    - [Dark, Water]
+    egggroups:
+    - [Water 2]
+    abilities:
+    - [Rough Skin]
+    - bw: [Rough Skin, Speed Boost]
+    stats:
+    - [70, 120, 40, 95, 40, 95]
+    weight: [88.8]
+    height: [1.8]
+families:
+- {from: Carvanha, to: Sharpedo}
+learnsets:
+  rs:
+    Carvanha: [Agility, Attract, Bite, Blizzard, Crunch, Dive, Double-Edge, Double
+        Team, Endure, Facade, Focus Energy, Frustration, Fury Cutter, Hail, Hidden
+        Power, Hydro Pump, Ice Beam, Icy Wind, Leer, Mimic, Mud-Slap, Protect, Rage,
+      Rain Dance, Refresh, Rest, Return, Scary Face, Screech, Secret Power, Sleep
+        Talk, Snore, Substitute, Surf, Swagger, Swift, Take Down, Taunt, Thief, Thrash,
+      Torment, Toxic, Water Pulse, Waterfall]
+    Sharpedo: [Earthquake, Hyper Beam, Roar, Rock Smash, Rock Tomb, Skull Bash, Slash,
+      Strength, Icy Wind, Mimic]
+  dp:
+    Carvanha: [Agility, Ancientpower, Aqua Jet, Assurance, Attract, Bite, Blizzard,
+      Bounce, Brine, Captivate, Crunch, Dark Pulse, Dive, Double-Edge, Double Team,
+      Endure, Facade, Focus Energy, Frustration, Fury Cutter, Hail, Hidden Power,
+      Hydro Pump, Ice Beam, Ice Fang, Icy Wind, Leer, Mud-Slap, Natural Gift, Payback,
+      Protect, Rage, Rain Dance, Refresh, Rest, Return, Scary Face, Screech, Secret
+        Power, Sleep Talk, Snore, Spite, Substitute, Super Fang, Surf, Swagger, Swift,
+      Take Down, Taunt, Thief, Thrash, Torment, Toxic, Uproar, Water Pulse, Waterfall,
+      Whirlpool, Zen Headbutt]
+    Sharpedo: [Avalanche, Earthquake, Feint, Giga Impact, Hyper Beam, Night Slash,
+      Poison Jab, Roar, Rock Smash, Rock Tomb, Skull Bash, Slash, Strength, Icy Wind,
+      Mimic]
+  bw:
+    Carvanha: [Agility, Ancientpower, Aqua Jet, Assurance, Attract, Bite, Blizzard,
+      Bounce, Brine, Crunch, Dark Pulse, Dive, Double-Edge, Double Team, Facade, Focus
+        Energy, Frustration, Hail, Hidden Power, Hydro Pump, Ice Beam, Ice Fang, Icy
+        Wind, Leer, Payback, Protect, Rage, Rain Dance, Refresh, Rest, Retaliate,
+      Return, Round, Scald, Scary Face, Screech, Sleep Talk, Snarl, Snore, Spite,
+      Substitute, Super Fang, Surf, Swagger, Swift, Take Down, Taunt, Thief, Thrash,
+      Torment, Toxic, Uproar, Water Pulse, Waterfall, Zen Headbutt]
+    Sharpedo: [Bulldoze, Earthquake, Feint, Giga Impact, Hyper Beam, Night Slash,
+      Poison Jab, Roar, Rock Smash, Rock Tomb, Skull Bash, Slash, Strength, Icy Wind,
+      Mimic]

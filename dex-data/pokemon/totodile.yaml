@@ -1,0 +1,90 @@
+pokemon:
+  Totodile:
+    introduction: gs
+    types:
+    - [Water]
+    egggroups:
+    - [Monster, Water 1]
+    abilities:
+    - [Torrent]
+    - bw: [Sheer Force, Torrent]
+    stats:
+    - [50, 65, 64, 44, 48, 43]
+    weight: [9.5]
+    height: [0.6]
+  Croconaw:
+    introduction: gs
+    types:
+    - [Water]
+    egggroups:
+    - [Monster, Water 1]
+    abilities:
+    - [Torrent]
+    - bw: [Sheer Force, Torrent]
+    stats:
+    - [65, 80, 80, 59, 63, 58]
+    weight: [25]
+    height: [1.1]
+  Feraligatr:
+    introduction: gs
+    types:
+    - [Water]
+    egggroups:
+    - [Monster, Water 1]
+    abilities:
+    - [Torrent]
+    - bw: [Sheer Force, Torrent]
+    stats:
+    - [85, 105, 100, 79, 83, 78]
+    weight: [88.8]
+    height: [2.3]
+families:
+- {from: Totodile, to: Croconaw}
+- {from: Croconaw, to: Feraligatr}
+learnsets:
+  gs:
+    Totodile: [Ancientpower, Attract, Bite, Blizzard, Crunch, Curse, Cut, Detect,
+      Dig, Double Team, Dynamicpunch, Endure, Frustration, Headbutt, Hidden Power,
+      Hydro Pump, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Leer, Mud-Slap, Protect,
+      Rage, Rain Dance, Razor Wind, Rest, Return, Rock Slide, Scary Face, Scratch,
+      Screech, Slash, Sleep Talk, Snore, Surf, Swagger, Thrash, Toxic, Water Gun,
+      Whirlpool]
+    Croconaw: [Fury Cutter, Roar, Rock Smash, Strength]
+    Feraligatr: [Earthquake, Hyper Beam]
+  rs:
+    Totodile: [Aerial Ace, Ancientpower, Attract, Bite, Blizzard, Body Slam, Brick
+        Break, Counter, Crunch, Cut, Dig, Dive, Double-Edge, Double Team, Dragon Claw,
+      Dynamicpunch, Endure, Facade, Focus Punch, Frustration, Hail, Hidden Power,
+      Hydro Pump, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Leer, Mega Kick, Mega
+        Punch, Mimic, Mud-Slap, Mud Sport, Protect, Rage, Rain Dance, Rest, Return,
+      Rock Slide, Scary Face, Scratch, Screech, Secret Power, Seismic Toss, Slash,
+      Sleep Talk, Snore, Substitute, Surf, Swagger, Swords Dance, Thrash, Toxic, Water
+        Gun, Water Pulse, Water Sport, Waterfall]
+    Croconaw: [Fury Cutter, Roar, Rock Smash, Strength]
+    Feraligatr: [Earthquake, Hyper Beam]
+  dp:
+    Totodile: [Aerial Ace, Ancientpower, Aqua Jet, Aqua Tail, Attract, Bite, Blizzard,
+      Brick Break, Captivate, Crunch, Cut, Dig, Dive, Double Team, Dragon Claw, Dragon
+        Dance, Endure, Facade, Flail, Fling, Focus Punch, Frustration, Hail, Headbutt,
+      Hidden Power, Hydro Pump, Ice Beam, Ice Fang, Ice Punch, Icy Wind, Iron Tail,
+      Leer, Low Kick, Metal Claw, Mud-Slap, Mud Sport, Natural Gift, Protect, Rage,
+      Rain Dance, Rest, Return, Rock Slide, Rock Tomb, Scary Face, Scratch, Screech,
+      Secret Power, Shadow Claw, Slash, Sleep Talk, Snore, Spite, Substitute, Superpower,
+      Surf, Swagger, Swords Dance, Thrash, Toxic, Uproar, Water Gun, Water Pulse,
+      Water Sport, Waterfall, Whirlpool]
+    Croconaw: [Fury Cutter, Roar, Rock Smash, Strength]
+    Feraligatr: [Agility, Avalanche, Dragon Pulse, Earthquake, Focus Blast, Giga Impact,
+      Hydro Cannon, Hyper Beam, Outrage, Rock Climb]
+  bw:
+    Totodile: [Aerial Ace, Ancientpower, Aqua Jet, Aqua Tail, Attract, Bite, Blizzard,
+      Block, Brick Break, Chip Away, Crunch, Cut, Dig, Dive, Double Team, Dragon Claw,
+      Dragon Dance, Facade, Fake Tears, Flail, Fling, Frustration, Hail, Hidden Power,
+      Hone Claws, Hydro Pump, Ice Beam, Ice Fang, Ice Punch, Icy Wind, Iron Tail,
+      Leer, Low Kick, Metal Claw, Mud Sport, Protect, Rage, Rain Dance, Rest, Return,
+      Rock Slide, Rock Tomb, Round, Scald, Scary Face, Scratch, Screech, Shadow Claw,
+      Slash, Sleep Talk, Snore, Spite, Substitute, Superpower, Surf, Swagger, Swords
+        Dance, Thrash, Toxic, Uproar, Water Gun, Water Pledge, Water Pulse, Water
+        Sport, Waterfall]
+    Croconaw: [Roar, Rock Smash, Strength]
+    Feraligatr: [Agility, Bulldoze, Dragon Pulse, Dragon Tail, Earthquake, Focus Blast,
+      Giga Impact, Hydro Cannon, Hyper Beam, Outrage]

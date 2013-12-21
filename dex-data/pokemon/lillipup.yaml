@@ -1,0 +1,51 @@
+pokemon:
+  Lillipup:
+    introduction: dp
+    types:
+    - [Normal]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Pickup, Run Away, Vital Spirit]
+    stats:
+    - [45, 60, 45, 25, 45, 55]
+    weight: [4.1]
+    height: [0.4]
+  Herdier:
+    introduction: dp
+    types:
+    - [Normal]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Intimidate, Sand Rush, Scrappy]
+    stats:
+    - [65, 80, 65, 35, 65, 60]
+    weight: [14.7]
+    height: [0.9]
+  Stoutland:
+    introduction: dp
+    types:
+    - [Normal]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Intimidate, Sand Rush, Scrappy]
+    stats:
+    - [85, 100, 90, 45, 90, 80]
+    weight: [61]
+    height: [1.2]
+families:
+- {from: Lillipup, to: Herdier}
+- {from: Herdier, to: Stoutland}
+learnsets:
+  bw:
+    Lillipup: [Aerial Ace, Attract, Bite, Charm, Covet, Crunch, Dig, Double Team,
+      Endure, Facade, Fire Fang, Frustration, Giga Impact, Helping Hand, Hidden Power,
+      Howl, Hyper Voice, Ice Fang, Last Resort, Leer, Lick, Mud-Slap, Odor Sleuth,
+      Protect, Pursuit, Rain Dance, Rest, Retaliate, Return, Reversal, Roar, Rock
+        Smash, Rock Tomb, Round, Sand-Attack, Shadow Ball, Sleep Talk, Snarl, Snore,
+      Substitute, Sunny Day, Swagger, Tackle, Take Down, Thunder Fang, Thunder Wave,
+      Thunderbolt, Toxic, Uproar, Wild Charge, Work Up, Yawn]
+    Herdier: [Payback, Strength, Surf]
+    Stoutland: [Hyper Beam, Iron Head, Superpower, Thunder]

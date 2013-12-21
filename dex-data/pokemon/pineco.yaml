@@ -1,0 +1,68 @@
+pokemon:
+  Pineco:
+    introduction: gs
+    types:
+    - [Bug]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Sturdy]
+    - bw: [Overcoat, Sturdy]
+    stats:
+    - [50, 65, 90, 35, 35, 15]
+    weight: [7.2]
+    height: [0.6]
+  Forretress:
+    introduction: gs
+    types:
+    - [Bug, Steel]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Sturdy]
+    - bw: [Overcoat, Sturdy]
+    stats:
+    - [75, 90, 140, 60, 60, 40]
+    weight: [125.8]
+    height: [1.2]
+families:
+- {from: Pineco, to: Forretress}
+learnsets:
+  gs:
+    Pineco: [Attract, Bide, Curse, Defense Curl, Double-Edge, Double Team, Endure,
+      Explosion, Flail, Frustration, Giga Drain, Headbutt, Hidden Power, Pin Missile,
+      Protect, Rapid Spin, Reflect, Rest, Return, Rock Smash, Rollout, Selfdestruct,
+      Sleep Talk, Snore, Solarbeam, Spikes, Strength, Sunny Day, Swagger, Sweet Scent,
+      Swift, Tackle, Take Down, Toxic]
+    Forretress: [Hyper Beam, Sandstorm]
+  rs:
+    Pineco: [Attract, Bide, Body Slam, Counter, Defense Curl, Dig, Double-Edge, Double
+        Team, Earthquake, Endure, Explosion, Facade, Flail, Frustration, Giga Drain,
+      Hidden Power, Light Screen, Mimic, Pin Missile, Protect, Rapid Spin, Reflect,
+      Rest, Return, Rock Slide, Rock Smash, Rollout, Sand Tomb, Sandstorm, Secret
+        Power, Selfdestruct, Sleep Talk, Snore, Solarbeam, Spikes, Strength, Substitute,
+      Sunny Day, Swagger, Swift, Tackle, Take Down, Toxic, Body Slam, Mimic, Refresh]
+    Forretress: [Hyper Beam, Zap Cannon, Body Slam, Mimic]
+  dp:
+    Pineco: [Attract, Bide, Bug Bite, Captivate, Counter, Dig, Double-Edge, Double
+        Team, Earthquake, Endure, Explosion, Facade, Flail, Frustration, Giga Drain,
+      Gravity, Gyro Ball, Headbutt, Hidden Power, Iron Defense, Light Screen, Natural
+        Gift, Pain Split, Payback, Pin Missile, Power Trick, Protect, Rapid Spin,
+      Reflect, Rest, Return, Revenge, Rock Slide, Rock Smash, Rock Tomb, Rollout,
+      Sand Tomb, Sandstorm, Secret Power, Selfdestruct, Sleep Talk, Snore, Solarbeam,
+      Spikes, Stealth Rock, Strength, String Shot, Substitute, Sunny Day, Swagger,
+      Swift, Tackle, Take Down, Toxic, Toxic Spikes, Body Slam, Mimic, Refresh]
+    Forretress: [Block, Flash Cannon, Giga Impact, Hyper Beam, Magnet Rise, Mirror
+        Shot, Rock Polish, Signal Beam, Zap Cannon, Body Slam, Mimic]
+  bw:
+    Pineco: [Attract, Bide, Bug Bite, Bulldoze, Counter, Dig, Double-Edge, Double
+        Team, Drill Run, Earthquake, Endure, Explosion, Facade, Flail, Frustration,
+      Giga Drain, Gravity, Gyro Ball, Hidden Power, Iron Defense, Light Screen, Natural
+        Gift, Pain Split, Payback, Pin Missile, Power Trick, Protect, Rapid Spin,
+      Reflect, Rest, Return, Revenge, Rock Slide, Rock Smash, Rock Tomb, Round, Sand
+        Tomb, Sandstorm, Selfdestruct, Sleep Talk, Snore, Solarbeam, Spikes, Stealth
+        Rock, Strength, Struggle Bug, Substitute, Sunny Day, Swagger, Swift, Tackle,
+      Take Down, Toxic, Toxic Spikes, Venoshock, Body Slam, Mimic, Refresh]
+    Forretress: [Autotomize, Block, Flash Cannon, Giga Impact, Heavy Slam, Hyper Beam,
+      Magnet Rise, Mirror Shot, Rock Polish, Signal Beam, Volt Switch, Zap Cannon,
+      Body Slam, Mimic]

@@ -1,0 +1,101 @@
+pokemon:
+  Charmander:
+    introduction: rb
+    types:
+    - [Fire]
+    egggroups:
+    - [Dragon, Monster]
+    abilities:
+    - [Blaze]
+    - bw: [Blaze, Solar Power]
+    stats:
+    - [39, 52, 43, 50, 50, 65]
+    - gs: [39, 52, 43, 60, 50, 65]
+    weight: [8.5]
+    height: [0.6]
+  Charmeleon:
+    introduction: rb
+    types:
+    - [Fire]
+    egggroups:
+    - [Dragon, Monster]
+    abilities:
+    - [Blaze]
+    - bw: [Blaze, Solar Power]
+    stats:
+    - [58, 64, 58, 65, 65, 80]
+    - gs: [58, 64, 58, 80, 65, 80]
+    weight: [19]
+    height: [1.1]
+  Charizard:
+    introduction: rb
+    types:
+    - [Fire, Flying]
+    egggroups:
+    - [Dragon, Monster]
+    abilities:
+    - [Blaze]
+    - bw: [Blaze, Solar Power]
+    stats:
+    - [78, 84, 78, 85, 85, 100]
+    - gs: [78, 84, 78, 109, 85, 100]
+    weight: [90.5]
+    height: [1.7]
+families:
+- {from: Charmander, to: Charmeleon}
+- {from: Charmeleon, to: Charizard}
+learnsets:
+  rb:
+    Charmander: [Bide, Body Slam, Counter, Cut, Dig, Double-Edge, Double Team, Dragon
+        Rage, Ember, Fire Blast, Fire Spin, Flamethrower, Growl, Leer, Mega Kick,
+      Mega Punch, Mimic, Rage, Reflect, Rest, Scratch, Seismic Toss, Skull Bash, Slash,
+      Strength, Submission, Substitute, Swift, Swords Dance, Take Down, Toxic, Crunch]
+    Charizard: [Earthquake, Fissure, Fly, Hyper Beam]
+  gs:
+    Charmander: [Ancientpower, Attract, Beat Up, Belly Drum, Bite, Curse, Cut, Defense
+        Curl, Dig, Double Team, Dragon Rage, Dragonbreath, Dynamicpunch, Ember, Endure,
+      Fire Blast, Fire Punch, Fire Spin, Flamethrower, Frustration, Fury Cutter, Growl,
+      Headbutt, Hidden Power, Iron Tail, Mud-Slap, Outrage, Protect, Rage, Rest, Return,
+      Rock Slide, Rock Smash, Scary Face, Scratch, Slash, Sleep Talk, Smokescreen,
+      Snore, Strength, Sunny Day, Swagger, Swift, Toxic, Crunch]
+    Charizard: [Earthquake, Fly, Hyper Beam, Roar, Sandstorm, Steel Wing, Wing Attack]
+  rs:
+    Charmander: [Aerial Ace, Ancientpower, Attract, Beat Up, Belly Drum, Bite, Body
+        Slam, Brick Break, Counter, Cut, Defense Curl, Dig, Double-Edge, Double Team,
+      Dragon Claw, Dragon Dance, Dragon Rage, Dynamicpunch, Ember, Endure, Facade,
+      Fire Blast, Fire Punch, Fire Spin, Flamethrower, Focus Punch, Frustration, Fury
+        Cutter, Growl, Hidden Power, Iron Tail, Mega Kick, Mega Punch, Metal Claw,
+      Mimic, Mud-Slap, Outrage, Overheat, Protect, Rage, Rest, Return, Rock Slide,
+      Rock Smash, Scary Face, Scratch, Secret Power, Seismic Toss, Slash, Sleep Talk,
+      Smokescreen, Snore, Strength, Substitute, Sunny Day, Swagger, Swift, Swords
+        Dance, Toxic]
+    Charizard: [Blast Burn, Earthquake, Fly, Heat Wave, Hyper Beam, Roar, Steel Wing,
+      Wing Attack]
+  dp:
+    Charmander: [Aerial Ace, Ancientpower, Attract, Beat Up, Belly Drum, Bite, Body
+        Slam, Brick Break, Captivate, Counter, Crunch, Cut, Dig, Double-Edge, Double
+        Team, Dragon Claw, Dragon Dance, Dragon Rage, Dragon Rush, Ember, Endure,
+      Facade, Fire Blast, Fire Fang, Fire Punch, Fire Spin, Flamethrower, Flare Blitz,
+      Fling, Focus Punch, Frustration, Fury Cutter, Growl, Headbutt, Heat Wave, Hidden
+        Power, Iron Tail, Metal Claw, Mimic, Mud-Slap, Natural Gift, Outrage, Overheat,
+      Protect, Rage, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Scary Face,
+      Scratch, Secret Power, Seismic Toss, Shadow Claw, Slash, Sleep Talk, Smokescreen,
+      Snore, Strength, Substitute, Sunny Day, Swagger, Swift, Swords Dance, Thunderpunch,
+      Toxic, Will-O-Wisp]
+    Charizard: [Air Cutter, Air Slash, Blast Burn, Defog, Dragon Pulse, Earthquake,
+      Fly, Focus Blast, Giga Impact, Hyper Beam, Ominous Wind, Roar, Roost, Solarbeam,
+      Steel Wing, Tailwind, Twister, Wing Attack]
+  bw:
+    Charmander: [Aerial Ace, Ancientpower, Attract, Beat Up, Belly Drum, Bite, Body
+        Slam, Brick Break, Counter, Crunch, Cut, Dig, Double-Edge, Double Team, Dragon
+        Claw, Dragon Dance, Dragon Pulse, Dragon Rage, Dragon Rush, Echoed Voice,
+      Ember, Facade, Fire Blast, Fire Fang, Fire Pledge, Fire Punch, Fire Spin, Flame
+        Burst, Flame Charge, Flamethrower, Flare Blitz, Fling, Focus Punch, Frustration,
+      Growl, Heat Wave, Hidden Power, Hone Claws, Incinerate, Inferno, Iron Tail,
+      Metal Claw, Mimic, Outrage, Overheat, Protect, Rage, Rest, Return, Rock Slide,
+      Rock Smash, Rock Tomb, Round, Scary Face, Scratch, Seismic Toss, Shadow Claw,
+      Slash, Sleep Talk, Smokescreen, Snore, Strength, Substitute, Sunny Day, Swagger,
+      Swords Dance, Thunderpunch, Toxic, Will-O-Wisp, Acrobatics, Block, False Swipe]
+    Charizard: [Air Slash, Blast Burn, Bulldoze, Dragon Tail, Earthquake, Fly, Focus
+        Blast, Giga Impact, Hyper Beam, Roar, Roost, Sky Drop, Solarbeam, Tailwind,
+      Wing Attack]

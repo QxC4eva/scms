@@ -1,0 +1,25 @@
+pokemon:
+  Smeargle:
+    introduction: gs
+    types:
+    - [Normal]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Own Tempo]
+    - dp: [Own Tempo, Technician]
+    - bw: [Moody, Own Tempo, Technician]
+    stats:
+    - [55, 20, 35, 20, 45, 75]
+    weight: [58]
+    height: [1.2]
+families: []
+learnsets:
+  gs:
+    Smeargle: [Sketch]
+  rs:
+    Smeargle: [Sketch]
+  dp:
+    Smeargle: [Sketch]
+  bw:
+    Smeargle: [Sketch]

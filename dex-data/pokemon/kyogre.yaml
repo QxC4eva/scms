@@ -1,0 +1,43 @@
+pokemon:
+  Kyogre:
+    introduction: rs
+    types:
+    - [Water]
+    egggroups:
+    - []
+    abilities:
+    - [Drizzle]
+    - bw: [Drizzle]
+    stats:
+    - [100, 100, 90, 150, 140, 90]
+    weight: [352]
+    height: [4.5]
+families: []
+learnsets:
+  rs:
+    Kyogre: [Ancientpower, Blizzard, Body Slam, Brick Break, Calm Mind, Defense Curl,
+      Dive, Double-Edge, Double Team, Earthquake, Endure, Facade, Frustration, Hail,
+      Hidden Power, Hydro Pump, Hyper Beam, Ice Beam, Icy Wind, Mimic, Mud-Slap, Protect,
+      Psych Up, Rain Dance, Rest, Return, Roar, Rock Slide, Rock Smash, Rock Tomb,
+      Safeguard, Scary Face, Secret Power, Sheer Cold, Shock Wave, Sleep Talk, Snore,
+      Strength, Substitute, Surf, Swagger, Swift, Thunder, Thunder Wave, Thunderbolt,
+      Toxic, Water Pulse, Water Spout, Waterfall, Icy Wind, Mimic]
+  dp:
+    Kyogre: [Ancientpower, Aqua Ring, Aqua Tail, Avalanche, Blizzard, Block, Body
+        Slam, Brick Break, Brine, Calm Mind, Dive, Double-Edge, Double Team, Earthquake,
+      Endure, Facade, Frustration, Giga Impact, Hail, Headbutt, Hidden Power, Hydro
+        Pump, Hyper Beam, Ice Beam, Icy Wind, Iron Head, Mud-Slap, Muddy Water, Natural
+        Gift, Protect, Psych Up, Rain Dance, Rest, Return, Roar, Rock Slide, Rock
+        Smash, Rock Tomb, Safeguard, Scary Face, Secret Power, Sheer Cold, Shock Wave,
+      Signal Beam, Sleep Talk, Snore, Strength, Substitute, Surf, Swagger, Swift,
+      Thunder, Thunder Wave, Thunderbolt, Toxic, Uproar, Water Pulse, Water Spout,
+      Waterfall, Whirlpool, Icy Wind, Mimic]
+  bw:
+    Kyogre: [Ancientpower, Aqua Ring, Aqua Tail, Blizzard, Block, Body Slam, Brick
+        Break, Bulldoze, Calm Mind, Dive, Double-Edge, Double Team, Earthquake, Facade,
+      Frustration, Giga Impact, Hail, Hidden Power, Hydro Pump, Hyper Beam, Ice Beam,
+      Icy Wind, Iron Head, Muddy Water, Protect, Psych Up, Rain Dance, Rest, Return,
+      Roar, Rock Slide, Rock Smash, Rock Tomb, Round, Safeguard, Scald, Scary Face,
+      Sheer Cold, Signal Beam, Sleep Talk, Snore, Strength, Substitute, Surf, Swagger,
+      Thunder, Thunder Wave, Thunderbolt, Toxic, Uproar, Water Pulse, Water Spout,
+      Waterfall, Icy Wind, Mimic]

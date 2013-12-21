@@ -1,0 +1,38 @@
+pokemon:
+  Vullaby:
+    introduction: bw
+    types:
+    - [Dark, Flying]
+    egggroups:
+    - [Flying]
+    abilities:
+    - [Big Pecks, Overcoat, Weak Armor]
+    stats:
+    - [70, 55, 75, 45, 65, 60]
+    weight: [9]
+    height: [0.5]
+  Mandibuzz:
+    introduction: bw
+    types:
+    - [Dark, Flying]
+    egggroups:
+    - [Flying]
+    abilities:
+    - [Big Pecks, Overcoat, Weak Armor]
+    stats:
+    - [110, 65, 105, 55, 95, 80]
+    weight: [39.5]
+    height: [1.2]
+families:
+- {from: Vullaby, to: Mandibuzz}
+learnsets:
+  bw:
+    Vullaby: [Aerial Ace, Air Slash, Attract, Block, Brave Bird, Cut, Dark Pulse,
+      Defog, Double Team, Embargo, Facade, Faint Attack, Fake Tears, Flatter, Fly,
+      Foul Play, Frustration, Fury Attack, Gust, Heat Wave, Hidden Power, Incinerate,
+      Iron Defense, Knock Off, Leer, Mean Look, Mirror Move, Nasty Plot, Payback,
+      Pluck, Protect, Psych Up, Punishment, Rain Dance, Rest, Retaliate, Return, Rock
+        Smash, Rock Tomb, Roost, Round, Scary Face, Shadow Ball, Sleep Talk, Snarl,
+      Snatch, Snore, Steel Wing, Substitute, Sunny Day, Swagger, Tailwind, Taunt,
+      Thief, Torment, Toxic, U-turn, Whirlwind]
+    Mandibuzz: [Bone Rush, Giga Impact, Hyper Beam, Sky Attack]

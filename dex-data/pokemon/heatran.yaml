@@ -1,0 +1,34 @@
+pokemon:
+  Heatran:
+    introduction: dp
+    types:
+    - [Fire, Steel]
+    egggroups:
+    - []
+    abilities:
+    - [Flame Body, Flash Fire]
+    stats:
+    - [91, 90, 106, 130, 106, 77]
+    weight: [430]
+    height: [1.7]
+families: []
+learnsets:
+  dp:
+    Heatran: [Ancientpower, Attract, Bug Bite, Captivate, Crunch, Dark Pulse, Dig,
+      Double Team, Dragon Pulse, Earth Power, Earthquake, Endure, Explosion, Facade,
+      Fire Blast, Fire Fang, Fire Spin, Flamethrower, Flash Cannon, Frustration, Giga
+        Impact, Headbutt, Heat Wave, Hidden Power, Hyper Beam, Iron Defense, Iron
+        Head, Lava Plume, Leer, Magma Storm, Metal Sound, Mud-Slap, Natural Gift,
+      Overheat, Payback, Protect, Rest, Return, Roar, Rock Climb, Rock Slide, Rock
+        Smash, Rock Tomb, Scary Face, Secret Power, Sleep Talk, Snore, Solarbeam,
+      Stealth Rock, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Taunt, Torment,
+      Toxic, Uproar, Will-O-Wisp, Eruption]
+  bw:
+    Heatran: [Ancientpower, Attract, Bug Bite, Bulldoze, Crunch, Dark Pulse, Dig,
+      Double Team, Dragon Pulse, Earth Power, Earthquake, Explosion, Facade, Fire
+        Blast, Fire Fang, Fire Spin, Flame Charge, Flamethrower, Flash Cannon, Frustration,
+      Giga Impact, Heat Wave, Hidden Power, Hyper Beam, Incinerate, Iron Defense,
+      Iron Head, Lava Plume, Leer, Magma Storm, Metal Sound, Overheat, Payback, Protect,
+      Rest, Return, Roar, Rock Slide, Rock Smash, Rock Tomb, Round, Scary Face, Sleep
+        Talk, Snore, Solarbeam, Stealth Rock, Stone Edge, Strength, Substitute, Sunny
+        Day, Swagger, Taunt, Torment, Toxic, Uproar, Will-O-Wisp, Eruption]

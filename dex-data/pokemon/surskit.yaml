@@ -1,0 +1,63 @@
+pokemon:
+  Surskit:
+    introduction: rs
+    types:
+    - [Bug, Water]
+    egggroups:
+    - [Bug, Water 1]
+    abilities:
+    - [Swift Swim]
+    - bw: [Rain Dish, Swift Swim]
+    stats:
+    - [40, 30, 32, 50, 52, 65]
+    weight: [1.7]
+    height: [0.5]
+  Masquerain:
+    introduction: rs
+    types:
+    - [Bug, Flying]
+    egggroups:
+    - [Bug, Water 1]
+    abilities:
+    - [Intimidate]
+    - bw: [Intimidate, Unnerve]
+    stats:
+    - [70, 60, 62, 80, 82, 60]
+    weight: [3.6]
+    height: [0.8]
+families:
+- {from: Surskit, to: Masquerain}
+learnsets:
+  rs:
+    Surskit: [Agility, Attract, Blizzard, Bubble, Bubblebeam, Double-Edge, Double
+        Team, Endure, Facade, Flash, Foresight, Frustration, Giga Drain, Haze, Hidden
+        Power, Hydro Pump, Ice Beam, Icy Wind, Mimic, Mind Reader, Mist, Mud Shot,
+      Protect, Psybeam, Psych Up, Quick Attack, Rain Dance, Rest, Return, Secret Power,
+      Shadow Ball, Sleep Talk, Snore, Solarbeam, Substitute, Sunny Day, Swagger, Sweet
+        Scent, Swift, Thief, Toxic, Water Pulse, Water Sport, Double-Edge, Icy Wind,
+      Mimic]
+    Masquerain: [Aerial Ace, Gust, Hyper Beam, Nightmare, Scary Face, Silver Wind,
+      Stun Spore, Whirlwind, Double-Edge, Icy Wind, Mimic, Nightmare]
+  dp:
+    Surskit: [Agility, Attract, Baton Pass, Blizzard, Bubble, Bubblebeam, Bug Bite,
+      Captivate, Double Team, Endure, Facade, Flash, Foresight, Frustration, Giga
+        Drain, Haze, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Mind Reader, Mist,
+      Mud Shot, Mud-Slap, Natural Gift, Protect, Psybeam, Psych Up, Quick Attack,
+      Rain Dance, Rest, Return, Secret Power, Shadow Ball, Signal Beam, Sleep Talk,
+      Snore, Solarbeam, String Shot, Substitute, Sunny Day, Swagger, Sweet Scent,
+      Swift, Thief, Toxic, Water Pulse, Water Sport, Double-Edge, Icy Wind, Mimic]
+    Masquerain: [Aerial Ace, Air Cutter, Air Slash, Bug Buzz, Defog, Energy Ball,
+      Giga Impact, Gust, Hyper Beam, Ominous Wind, Roost, Scary Face, Silver Wind,
+      Stun Spore, Tailwind, Twister, U-turn, Whirlwind, Double-Edge, Icy Wind, Mimic,
+      Nightmare]
+  bw:
+    Surskit: [Agility, Aqua Jet, Attract, Baton Pass, Blizzard, Bubble, Bubblebeam,
+      Bug Bite, Double Team, Endure, Facade, Flash, Foresight, Frustration, Giga Drain,
+      Haze, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Mind Reader, Mist, Mud Shot,
+      Protect, Psybeam, Psych Up, Quick Attack, Rain Dance, Rest, Return, Round, Scald,
+      Shadow Ball, Signal Beam, Sleep Talk, Snore, Solarbeam, Struggle Bug, Substitute,
+      Sunny Day, Swagger, Sweet Scent, Thief, Toxic, Water Sport, Double-Edge, Icy
+        Wind, Mimic]
+    Masquerain: [Aerial Ace, Air Slash, Bug Buzz, Energy Ball, Giga Impact, Gust,
+      Hyper Beam, Ominous Wind, Quiver Dance, Roost, Scary Face, Silver Wind, Stun
+        Spore, Tailwind, U-turn, Whirlwind, Double-Edge, Icy Wind, Mimic, Nightmare]

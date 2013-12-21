@@ -1,0 +1,39 @@
+pokemon:
+  Landorus:
+    introduction: bw
+    types:
+    - [Flying, Ground]
+    egggroups:
+    - []
+    abilities:
+    - [Sand Force, Sheer Force]
+    stats:
+    - [89, 125, 90, 115, 80, 101]
+    weight: [68]
+    height: [1.5]
+  Landorus-Therian:
+    introduction: bw
+    types:
+    - [Flying, Ground]
+    egggroups:
+    - []
+    abilities:
+    - [Intimidate]
+    stats:
+    - [89, 145, 90, 105, 80, 91]
+    weight: [68]
+    height: [1.3]
+families:
+- {from: Landorus, to: Landorus-T}
+- {from: Landorus, to: Landorus-T}
+- {from: Landorus-T, to: Landorus}
+learnsets:
+  bw:
+    Landorus: [Attract, Block, Brick Break, Bulk Up, Bulldoze, Calm Mind, Dig, Double
+        Team, Earth Power, Earthquake, Explosion, Extrasensory, Facade, Fissure, Fling,
+      Fly, Focus Blast, Frustration, Giga Impact, Grass Knot, Gravity, Hammer Arm,
+      Hidden Power, Hyper Beam, Imprison, Iron Tail, Knock Off, Mud Shot, Outrage,
+      Payback, Protect, Psychic, Punishment, Rest, Return, Rock Polish, Rock Slide,
+      Rock Smash, Rock Throw, Rock Tomb, Role Play, Round, Sandstorm, Sleep Talk,
+      Sludge Bomb, Sludge Wave, Smack Down, Snore, Stealth Rock, Stone Edge, Strength,
+      Substitute, Superpower, Swagger, Swords Dance, Toxic, U-turn]

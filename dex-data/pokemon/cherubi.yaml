@@ -1,0 +1,46 @@
+pokemon:
+  Cherubi:
+    introduction: dp
+    types:
+    - [Grass]
+    egggroups:
+    - [Fairy, Plant]
+    abilities:
+    - [Chlorophyll]
+    stats:
+    - [45, 35, 45, 62, 53, 35]
+    weight: [3.3]
+    height: [0.4]
+  Cherrim:
+    introduction: dp
+    types:
+    - [Grass]
+    egggroups:
+    - [Fairy, Plant]
+    abilities:
+    - [Flower Gift]
+    stats:
+    - [70, 60, 70, 87, 78, 85]
+    weight: [9.3]
+    height: [0.5]
+families:
+- {from: Cherubi, to: Cherrim}
+learnsets:
+  dp:
+    Cherubi: [Aromatherapy, Attract, Bullet Seed, Captivate, Double Team, Endure,
+      Energy Ball, Facade, Flash, Frustration, Giga Drain, Grass Knot, Grasswhistle,
+      Growth, Helping Hand, Hidden Power, Leech Seed, Lucky Chant, Magical Leaf, Natural
+        Gift, Nature Power, Protect, Razor Leaf, Rest, Return, Rollout, Safeguard,
+      Secret Power, Seed Bomb, Sleep Talk, Snore, Solarbeam, Substitute, Sunny Day,
+      Swagger, Sweet Scent, Swords Dance, Synthesis, Tackle, Take Down, Tickle, Toxic,
+      Weather Ball, Worry Seed]
+    Cherrim: [Giga Impact, Hyper Beam, Petal Dance]
+  bw:
+    Cherubi: [Aromatherapy, Attract, Defense Curl, Double Team, Energy Ball, Facade,
+      Flash, Frustration, Giga Drain, Grass Knot, Grasswhistle, Growth, Heal Pulse,
+      Healing Wish, Helping Hand, Hidden Power, Leech Seed, Lucky Chant, Magical Leaf,
+      Morning Sun, Natural Gift, Nature Power, Protect, Razor Leaf, Rest, Return,
+      Rollout, Round, Safeguard, Seed Bomb, Sleep Talk, Snore, Solarbeam, Substitute,
+      Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis, Tackle, Take Down,
+      Tickle, Toxic, Weather Ball, Worry Seed]
+    Cherrim: [Giga Impact, Hyper Beam, Petal Dance]

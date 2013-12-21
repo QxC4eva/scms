@@ -1,0 +1,24 @@
+pokemon:
+  Sawk:
+    introduction: bw
+    types:
+    - [Fighting]
+    egggroups:
+    - [Humanshape]
+    abilities:
+    - [Inner Focus, Mold Breaker, Sturdy]
+    stats:
+    - [75, 125, 75, 30, 75, 85]
+    weight: [51]
+    height: [1.4]
+families: []
+learnsets:
+  bw:
+    Sawk: [Attract, Bide, Block, Brick Break, Bulk Up, Bulldoze, Close Combat, Counter,
+      Dig, Double Kick, Double Team, Dual Chop, Earthquake, Endure, Facade, Fire Punch,
+      Fling, Focus Blast, Focus Energy, Frustration, Giga Impact, Grass Knot, Helping
+        Hand, Hidden Power, Ice Punch, Karate Chop, Knock Off, Leer, Low Kick, Low
+        Sweep, Pain Split, Payback, Poison Jab, Protect, Quick Guard, Rain Dance,
+      Rest, Retaliate, Return, Reversal, Rock Slide, Rock Smash, Rock Tomb, Round,
+      Sleep Talk, Snore, Stone Edge, Strength, Substitute, Sunny Day, Superpower,
+      Swagger, Taunt, Thunderpunch, Toxic, Work Up]

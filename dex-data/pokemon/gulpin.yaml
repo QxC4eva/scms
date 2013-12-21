@@ -1,0 +1,64 @@
+pokemon:
+  Gulpin:
+    introduction: rs
+    types:
+    - [Poison]
+    egggroups:
+    - [Indeterminate]
+    abilities:
+    - [Liquid Ooze, Sticky Hold]
+    - bw: [Gluttony, Liquid Ooze, Sticky Hold]
+    stats:
+    - [70, 43, 53, 43, 53, 40]
+    weight: [10.3]
+    height: [0.4]
+  Swalot:
+    introduction: rs
+    types:
+    - [Poison]
+    egggroups:
+    - [Indeterminate]
+    abilities:
+    - [Liquid Ooze, Sticky Hold]
+    - bw: [Gluttony, Liquid Ooze, Sticky Hold]
+    stats:
+    - [100, 73, 83, 73, 83, 55]
+    weight: [80]
+    height: [1.7]
+families:
+- {from: Gulpin, to: Swalot}
+learnsets:
+  rs:
+    Gulpin: [Acid Armor, Amnesia, Attract, Body Slam, Bullet Seed, Counter, Defense
+        Curl, Double-Edge, Double Team, Dream Eater, Dynamicpunch, Encore, Endure,
+      Explosion, Facade, Fire Punch, Frustration, Giga Drain, Hidden Power, Ice Beam,
+      Ice Punch, Mimic, Mud-Slap, Nightmare, Pain Split, Poison Gas, Pound, Protect,
+      Rain Dance, Rest, Return, Rock Smash, Rollout, Secret Power, Selfdestruct, Shadow
+        Ball, Shock Wave, Sleep Talk, Sludge, Sludge Bomb, Smog, Snatch, Snore, Solarbeam,
+      Spit Up, Stockpile, Strength, Substitute, Sunny Day, Swagger, Swallow, Thunderpunch,
+      Toxic, Water Pulse, Yawn, Body Slam, Double-Edge, Mimic, Nightmare, Selfdestruct,
+      Shock Wave, Sing]
+    Swalot: [Hyper Beam, Double-Edge, Mimic, Nightmare, Selfdestruct]
+  dp:
+    Gulpin: [Acid Armor, Amnesia, Attract, Bullet Seed, Captivate, Curse, Destiny
+        Bond, Double Team, Dream Eater, Encore, Endure, Explosion, Facade, Fire Punch,
+      Frustration, Gastro Acid, Giga Drain, Gunk Shot, Headbutt, Hidden Power, Ice
+        Beam, Ice Punch, Mud-Slap, Natural Gift, Pain Split, Poison Gas, Pound, Protect,
+      Rain Dance, Rest, Return, Rock Smash, Rollout, Secret Power, Seed Bomb, Shadow
+        Ball, Shock Wave, Sleep Talk, Sludge, Sludge Bomb, Smog, Snatch, Snore, Solarbeam,
+      Spit Up, Stockpile, Strength, Substitute, Sunny Day, Swagger, Swallow, Thunderpunch,
+      Toxic, Water Pulse, Wring Out, Yawn, Body Slam, Double-Edge, Mimic, Nightmare,
+      Selfdestruct, Shock Wave, Sing]
+    Swalot: [Block, Body Slam, Earthquake, Giga Impact, Hyper Beam, Double-Edge, Mimic,
+      Nightmare, Selfdestruct]
+  bw:
+    Gulpin: [Acid Armor, Acid Spray, Amnesia, Attract, Curse, Destiny Bond, Double
+        Team, Dream Eater, Encore, Explosion, Facade, Fire Punch, Frustration, Gastro
+        Acid, Giga Drain, Gunk Shot, Hidden Power, Ice Beam, Ice Punch, Mud-Slap,
+      Pain Split, Poison Gas, Pound, Protect, Rain Dance, Rest, Return, Rock Smash,
+      Round, Seed Bomb, Shadow Ball, Sleep Talk, Sludge, Sludge Bomb, Sludge Wave,
+      Smog, Snatch, Snore, Solarbeam, Spit Up, Stockpile, Strength, Substitute, Sunny
+        Day, Swagger, Swallow, Thunderpunch, Toxic, Venoshock, Wring Out, Yawn, Body
+        Slam, Double-Edge, Mimic, Nightmare, Selfdestruct, Shock Wave, Sing]
+    Swalot: [Block, Body Slam, Bulldoze, Earthquake, Giga Impact, Hyper Beam, Double-Edge,
+      Mimic, Nightmare, Selfdestruct]

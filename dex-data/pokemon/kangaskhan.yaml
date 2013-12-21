@@ -1,0 +1,72 @@
+pokemon:
+  Kangaskhan:
+    introduction: rb
+    types:
+    - [Normal]
+    egggroups:
+    - [Monster]
+    abilities:
+    - [Early Bird]
+    - dp: [Early Bird, Scrappy]
+    - bw: [Early Bird, Inner Focus, Scrappy]
+    stats:
+    - [105, 95, 80, 40, 40, 90]
+    - gs: [105, 95, 80, 40, 80, 90]
+    weight: [80]
+    height: [2.2]
+families: []
+learnsets:
+  rb:
+    Kangaskhan: [Bide, Bite, Blizzard, Body Slam, Bubblebeam, Comet Punch, Counter,
+      Dizzy Punch, Double-Edge, Double Team, Earthquake, Fire Blast, Fissure, Hyper
+        Beam, Ice Beam, Leer, Mega Kick, Mega Punch, Mimic, Rage, Rest, Rock Slide,
+      Seismic Toss, Skull Bash, Strength, Submission, Substitute, Surf, Tail Whip,
+      Take Down, Thunder, Thunderbolt, Toxic, Water Gun]
+  gs:
+    Kangaskhan: [Attract, Bite, Blizzard, Comet Punch, Curse, Disable, Dizzy Punch,
+      Double Team, Dynamicpunch, Earthquake, Endure, Fire Blast, Fire Punch, Flamethrower,
+      Focus Energy, Foresight, Frustration, Fury Cutter, Headbutt, Hidden Power, Hyper
+        Beam, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Leer, Mega Punch, Mud-Slap,
+      Protect, Rage, Rain Dance, Rest, Return, Reversal, Roar, Rock Smash, Safeguard,
+      Sandstorm, Shadow Ball, Sleep Talk, Snore, Stomp, Strength, Sunny Day, Surf,
+      Swagger, Tail Whip, Thunder, Thunderbolt, Thunderpunch, Toxic, Zap Cannon]
+  rs:
+    Kangaskhan: [Aerial Ace, Attract, Bite, Blizzard, Body Slam, Brick Break, Comet
+        Punch, Counter, Crush Claw, Cut, Dig, Disable, Dizzy Punch, Double-Edge, Double
+        Team, Dynamicpunch, Earthquake, Endure, Facade, Fake Out, Fire Blast, Fire
+        Punch, Flamethrower, Focus Energy, Focus Punch, Foresight, Frustration, Fury
+        Cutter, Hail, Hidden Power, Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Iron
+        Tail, Leer, Mega Kick, Mega Punch, Mimic, Mud-Slap, Protect, Rage, Rain Dance,
+      Rest, Return, Reversal, Roar, Rock Slide, Rock Smash, Rock Tomb, Safeguard,
+      Sandstorm, Secret Power, Seismic Toss, Shadow Ball, Shock Wave, Sleep Talk,
+      Snore, Solarbeam, Stomp, Strength, Substitute, Sunny Day, Surf, Swagger, Tail
+        Whip, Thief, Thunder, Thunderbolt, Thunderpunch, Toxic, Water Pulse, Body
+        Slam, Icy Wind, Mimic, Seismic Toss, Sing]
+  dp:
+    Kangaskhan: [Aerial Ace, Aqua Tail, Attract, Avalanche, Bite, Blizzard, Brick
+        Break, Captivate, Comet Punch, Counter, Crunch, Crush Claw, Cut, Dig, Disable,
+      Dizzy Punch, Double-Edge, Double Hit, Double Team, Drain Punch, Earthquake,
+      Endeavor, Endure, Facade, Fake Out, Fire Blast, Fire Punch, Flamethrower, Fling,
+      Focus Blast, Focus Energy, Focus Punch, Foresight, Frustration, Fury Cutter,
+      Giga Impact, Hail, Hammer Arm, Headbutt, Helping Hand, Hidden Power, Hyper Beam,
+      Ice Beam, Ice Punch, Icy Wind, Iron Tail, Leer, Low Kick, Mega Punch, Mud-Slap,
+      Natural Gift, Outrage, Protect, Rage, Rain Dance, Rest, Return, Reversal, Roar,
+      Rock Climb, Rock Slide, Rock Smash, Rock Tomb, Safeguard, Sandstorm, Secret
+        Power, Shadow Ball, Shadow Claw, Shock Wave, Sleep Talk, Snore, Solarbeam,
+      Spite, Stomp, Strength, Substitute, Sucker Punch, Sunny Day, Surf, Swagger,
+      Tail Whip, Thief, Thunder, Thunderbolt, Thunderpunch, Toxic, Uproar, Water Pulse,
+      Whirlpool, Body Slam, Icy Wind, Mimic, Seismic Toss, Sing]
+  bw:
+    Kangaskhan: [Aerial Ace, Aqua Tail, Attract, Bite, Blizzard, Brick Break, Bulldoze,
+      Chip Away, Circle Throw, Comet Punch, Counter, Covet, Crunch, Crush Claw, Cut,
+      Dig, Disable, Dizzy Punch, Double-Edge, Double Hit, Double Team, Drain Punch,
+      Earthquake, Endeavor, Endure, Facade, Fake Out, Fire Blast, Fire Punch, Flamethrower,
+      Fling, Focus Blast, Focus Energy, Focus Punch, Foresight, Frustration, Giga
+        Impact, Hail, Hammer Arm, Helping Hand, Hidden Power, Hyper Beam, Ice Beam,
+      Ice Punch, Icy Wind, Incinerate, Iron Tail, Leer, Low Kick, Mega Punch, Outrage,
+      Protect, Rage, Rain Dance, Rest, Retaliate, Return, Reversal, Roar, Rock Slide,
+      Rock Smash, Rock Tomb, Round, Safeguard, Sandstorm, Shadow Ball, Shadow Claw,
+      Sleep Talk, Snore, Solarbeam, Spite, Stomp, Strength, Substitute, Sucker Punch,
+      Sunny Day, Surf, Swagger, Tail Whip, Thief, Thunder, Thunderbolt, Thunderpunch,
+      Toxic, Trump Card, Uproar, Work Up, Body Slam, Icy Wind, Mimic, Seismic Toss,
+      Sing]

@@ -1,0 +1,57 @@
+pokemon:
+  Pinsir:
+    introduction: rb
+    types:
+    - [Bug]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Hyper Cutter]
+    - dp: [Hyper Cutter, Mold Breaker]
+    - bw: [Hyper Cutter, Mold Breaker, Moxie]
+    stats:
+    - [65, 125, 100, 55, 55, 85]
+    - gs: [65, 125, 100, 55, 70, 85]
+    weight: [55]
+    height: [1.5]
+families: []
+learnsets:
+  rb:
+    Pinsir: [Bide, Bind, Body Slam, Cut, Double-Edge, Double Team, Focus Energy, Guillotine,
+      Harden, Hyper Beam, Mimic, Rage, Rest, Seismic Toss, Slash, Strength, Submission,
+      Substitute, Swords Dance, Take Down, Toxic, Vicegrip]
+  gs:
+    Pinsir: [Attract, Bind, Curse, Cut, Double Team, Endure, Flail, Focus Energy,
+      Frustration, Fury Attack, Fury Cutter, Guillotine, Harden, Headbutt, Hidden
+        Power, Hyper Beam, Protect, Rest, Return, Rock Smash, Seismic Toss, Sleep
+        Talk, Snore, Strength, Submission, Sunny Day, Swagger, Swords Dance, Thief,
+      Toxic, Vicegrip]
+  rs:
+    Pinsir: [Attract, Bind, Body Slam, Brick Break, Bulk Up, Cut, Dig, Double-Edge,
+      Double Team, Earthquake, Endure, Facade, Faint Attack, False Swipe, Flail, Focus
+        Energy, Focus Punch, Frustration, Fury Attack, Fury Cutter, Guillotine, Harden,
+      Hidden Power, Hyper Beam, Mimic, Protect, Rain Dance, Rest, Return, Revenge,
+      Rock Slide, Rock Smash, Rock Tomb, Secret Power, Seismic Toss, Sleep Talk, Snore,
+      Strength, Submission, Substitute, Sunny Day, Swagger, Swords Dance, Thief, Toxic,
+      Vicegrip, Body Slam, Double-Edge, Helping Hand, Mimic]
+  dp:
+    Pinsir: [Attract, Bind, Brick Break, Bulk Up, Captivate, Close Combat, Cut, Dig,
+      Double Team, Earthquake, Endure, Facade, Faint Attack, False Swipe, Feint, Flail,
+      Fling, Focus Blast, Focus Energy, Focus Punch, Frustration, Fury Attack, Fury
+        Cutter, Giga Impact, Guillotine, Harden, Headbutt, Hidden Power, Hyper Beam,
+      Iron Defense, Knock Off, Natural Gift, Protect, Quick Attack, Rain Dance, Rest,
+      Return, Revenge, Rock Climb, Rock Slide, Rock Smash, Rock Tomb, Secret Power,
+      Seismic Toss, Sleep Talk, Snore, Stealth Rock, Stone Edge, Strength, String
+        Shot, Submission, Substitute, Sunny Day, Superpower, Swagger, Swords Dance,
+      Thief, Thrash, Toxic, Vicegrip, Vital Throw, X-scissor, Body Slam, Double-Edge,
+      Helping Hand, Mimic]
+  bw:
+    Pinsir: [Attract, Bind, Brick Break, Bug Bite, Bulk Up, Bulldoze, Close Combat,
+      Cut, Dig, Double Team, Earthquake, Facade, Faint Attack, False Swipe, Feint,
+      Flail, Fling, Focus Blast, Focus Energy, Frustration, Fury Attack, Giga Impact,
+      Guillotine, Harden, Hidden Power, Hyper Beam, Iron Defense, Knock Off, Me First,
+      Protect, Quick Attack, Rain Dance, Rest, Return, Revenge, Rock Slide, Rock Smash,
+      Rock Tomb, Round, Seismic Toss, Sleep Talk, Smack Down, Snore, Stealth Rock,
+      Stone Edge, Storm Throw, Strength, Struggle Bug, Submission, Substitute, Sunny
+        Day, Superpower, Swagger, Swords Dance, Thief, Thrash, Toxic, Vicegrip, Vital
+        Throw, X-scissor, Body Slam, Double-Edge, Helping Hand, Mimic]

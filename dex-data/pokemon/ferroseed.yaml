@@ -1,0 +1,38 @@
+pokemon:
+  Ferroseed:
+    introduction: bw
+    types:
+    - [Grass, Steel]
+    egggroups:
+    - [Mineral, Plant]
+    abilities:
+    - [Iron Barbs]
+    stats:
+    - [44, 50, 91, 24, 86, 10]
+    weight: [18.8]
+    height: [0.6]
+  Ferrothorn:
+    introduction: bw
+    types:
+    - [Grass, Steel]
+    egggroups:
+    - [Mineral, Plant]
+    abilities:
+    - [Iron Barbs]
+    stats:
+    - [74, 94, 131, 54, 116, 20]
+    weight: [110]
+    height: [1]
+families:
+- {from: Ferroseed, to: Ferrothorn}
+learnsets:
+  bw:
+    Ferroseed: [Bullet Seed, Curse, Double Team, Endeavor, Energy Ball, Explosion,
+      Facade, Flash, Flash Cannon, Frustration, Giga Drain, Gravity, Gyro Ball, Harden,
+      Hidden Power, Hone Claws, Ingrain, Iron Defense, Iron Head, Leech Seed, Magnet
+        Rise, Metal Claw, Mirror Shot, Payback, Pin Missile, Poison Jab, Protect,
+      Rest, Return, Rock Climb, Rock Polish, Rock Smash, Rollout, Round, Seed Bomb,
+      Selfdestruct, Sleep Talk, Snore, Solarbeam, Spikes, Stealth Rock, Substitute,
+      Sunny Day, Swagger, Tackle, Thunder Wave, Thunderbolt, Toxic, Worry Seed]
+    Ferrothorn: [Aerial Ace, Bulldoze, Cut, Giga Impact, Grass Knot, Hyper Beam, Knock
+        Off, Power Whip, Sandstorm, Shadow Claw, Strength, Swords Dance, Thunder]

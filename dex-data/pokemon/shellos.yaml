@@ -1,0 +1,48 @@
+pokemon:
+  Shellos:
+    introduction: dp
+    types:
+    - [Water]
+    egggroups:
+    - [Indeterminate, Water 1]
+    abilities:
+    - [Sand Force, Sticky Hold, Storm Drain]
+    stats:
+    - [76, 48, 48, 57, 62, 34]
+    weight: [6.3]
+    height: [0.3]
+  Gastrodon:
+    introduction: dp
+    types:
+    - [Ground, Water]
+    egggroups:
+    - [Indeterminate, Water 1]
+    abilities:
+    - [Sand Force, Sticky Hold, Storm Drain]
+    stats:
+    - [111, 83, 68, 92, 82, 39]
+    weight: [29.9]
+    height: [0.9]
+families:
+- {from: Shellos, to: Gastrodon}
+learnsets:
+  dp:
+    Shellos: [Amnesia, Ancientpower, Attract, Blizzard, Body Slam, Brine, Captivate,
+      Counter, Curse, Dive, Double Team, Earth Power, Endure, Facade, Fissure, Frustration,
+      Hail, Harden, Headbutt, Hidden Power, Ice Beam, Icy Wind, Memento, Mirror Coat,
+      Mud Bomb, Mud-Slap, Mud Sport, Muddy Water, Natural Gift, Pain Split, Protect,
+      Rain Dance, Recover, Rest, Return, Secret Power, Sleep Talk, Sludge, Snore,
+      Spit Up, Stockpile, String Shot, Substitute, Surf, Swagger, Swallow, Toxic,
+      Trump Card, Water Pulse, Whirlpool, Yawn]
+    Gastrodon: [Block, Dig, Earthquake, Flash, Giga Impact, Hyper Beam, Rock Slide,
+      Rock Smash, Rock Tomb, Sandstorm, Sludge Bomb, Stone Edge, Strength, Waterfall]
+  bw:
+    Shellos: [Amnesia, Attract, Blizzard, Body Slam, Brine, Clear Smog, Counter, Curse,
+      Dive, Double Team, Earth Power, Facade, Fissure, Frustration, Hail, Harden,
+      Hidden Power, Ice Beam, Icy Wind, Memento, Mirror Coat, Mist, Mud Bomb, Mud-Slap,
+      Mud Sport, Muddy Water, Pain Split, Protect, Rain Dance, Recover, Rest, Return,
+      Round, Scald, Sleep Talk, Sludge, Snore, Spit Up, Stockpile, Substitute, Surf,
+      Swagger, Swallow, Toxic, Trump Card, Water Pulse, Yawn]
+    Gastrodon: [Block, Bulldoze, Dig, Earthquake, Flash, Giga Impact, Hyper Beam,
+      Rock Slide, Rock Smash, Rock Tomb, Sandstorm, Sludge Bomb, Sludge Wave, Stone
+        Edge, Strength, Waterfall]

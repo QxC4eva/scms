@@ -1,0 +1,73 @@
+pokemon:
+  Seel:
+    introduction: rb
+    types:
+    - [Water]
+    egggroups:
+    - [Ground, Water 1]
+    abilities:
+    - [Thick Fat]
+    - dp: [Hydration, Thick Fat]
+    - bw: [Hydration, Ice Body, Thick Fat]
+    stats:
+    - [65, 45, 55, 70, 70, 45]
+    - gs: [65, 45, 55, 45, 70, 45]
+    weight: [90]
+    height: [1.1]
+  Dewgong:
+    introduction: rb
+    types:
+    - [Ice, Water]
+    egggroups:
+    - [Ground, Water 1]
+    abilities:
+    - [Thick Fat]
+    - dp: [Hydration, Thick Fat]
+    - bw: [Hydration, Ice Body, Thick Fat]
+    stats:
+    - [90, 70, 80, 95, 95, 70]
+    - gs: [90, 70, 80, 70, 95, 70]
+    weight: [120]
+    height: [1.7]
+families:
+- {from: Seel, to: Dewgong}
+learnsets:
+  rb:
+    Seel: [Aurora Beam, Bide, Blizzard, Body Slam, Bubblebeam, Double-Edge, Double
+        Team, Growl, Headbutt, Horn Drill, Ice Beam, Mimic, Pay Day, Rage, Rest, Skull
+        Bash, Strength, Substitute, Surf, Take Down, Toxic, Water Gun, Flail]
+    Dewgong: [Hyper Beam]
+  gs:
+    Seel: [Attract, Aurora Beam, Blizzard, Curse, Disable, Double Team, Encore, Endure,
+      Frustration, Growl, Headbutt, Hidden Power, Ice Beam, Icy Wind, Lick, Peck,
+      Perish Song, Protect, Rain Dance, Rest, Return, Safeguard, Slam, Sleep Talk,
+      Snore, Surf, Swagger, Take Down, Toxic, Waterfall, Whirlpool, Flail]
+    Dewgong: [Hyper Beam]
+  rs:
+    Seel: [Attract, Aurora Beam, Blizzard, Body Slam, Disable, Dive, Double-Edge,
+      Double Team, Encore, Endure, Facade, Fake Out, Frustration, Growl, Hail, Headbutt,
+      Hidden Power, Horn Drill, Ice Beam, Icicle Spear, Icy Wind, Lick, Mimic, Perish
+        Song, Protect, Rain Dance, Rest, Return, Safeguard, Secret Power, Slam, Sleep
+        Talk, Snore, Substitute, Surf, Swagger, Take Down, Thief, Toxic, Water Pulse,
+      Waterfall, Helping Hand, Body Slam, Double-Edge, Helping Hand, Mimic]
+    Dewgong: [Hyper Beam, Sheer Cold, Signal Beam]
+  dp:
+    Seel: [Aqua Jet, Aqua Ring, Aqua Tail, Attract, Aurora Beam, Blizzard, Brine,
+      Captivate, Disable, Dive, Double Team, Encore, Endure, Facade, Fake Out, Fling,
+      Frustration, Growl, Hail, Headbutt, Hidden Power, Horn Drill, Ice Beam, Ice
+        Shard, Icicle Spear, Icy Wind, Lick, Natural Gift, Perish Song, Protect, Rain
+        Dance, Rest, Return, Safeguard, Secret Power, Signal Beam, Slam, Sleep Talk,
+      Snore, Spit Up, Stockpile, Substitute, Surf, Swagger, Swallow, Take Down, Thief,
+      Toxic, Water Pulse, Water Sport, Waterfall, Whirlpool, Helping Hand, Body Slam,
+      Double-Edge, Helping Hand, Mimic]
+    Dewgong: [Avalanche, Giga Impact, Hyper Beam, Sheer Cold]
+  bw:
+    Seel: [Aqua Jet, Aqua Ring, Aqua Tail, Attract, Aurora Beam, Blizzard, Brine,
+      Disable, Dive, Double Team, Drill Run, Echoed Voice, Encore, Facade, Fake Out,
+      Fling, Frustration, Growl, Hail, Headbutt, Hidden Power, Horn Drill, Ice Beam,
+      Ice Shard, Icicle Spear, Icy Wind, Iron Tail, Lick, Perish Song, Protect, Rain
+        Dance, Rest, Return, Round, Safeguard, Signal Beam, Slam, Sleep Talk, Snore,
+      Spit Up, Stockpile, Substitute, Surf, Swagger, Swallow, Take Down, Thief, Toxic,
+      Water Pulse, Water Sport, Waterfall, Helping Hand, Body Slam, Double-Edge, Helping
+        Hand, Mimic]
+    Dewgong: [Frost Breath, Giga Impact, Hyper Beam, Sheer Cold]

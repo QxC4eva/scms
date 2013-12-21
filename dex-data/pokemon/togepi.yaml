@@ -1,0 +1,92 @@
+pokemon:
+  Togepi:
+    introduction: gs
+    types:
+    - [Normal]
+    egggroups:
+    - []
+    abilities:
+    - [Hustle, Serene Grace]
+    - bw: [Hustle, Serene Grace, Super Luck]
+    stats:
+    - [35, 20, 65, 40, 65, 20]
+    weight: [1.5]
+    height: [0.3]
+  Togetic:
+    introduction: gs
+    types:
+    - [Flying, Normal]
+    egggroups:
+    - [Fairy, Flying]
+    abilities:
+    - [Hustle, Serene Grace]
+    - bw: [Hustle, Serene Grace, Super Luck]
+    stats:
+    - [55, 40, 85, 80, 105, 40]
+    weight: [3.2]
+    height: [0.6]
+  Togekiss:
+    introduction: dp
+    types:
+    - [Flying, Normal]
+    egggroups:
+    - [Fairy, Flying]
+    abilities:
+    - [Hustle, Serene Grace, Super Luck]
+    stats:
+    - [85, 50, 95, 120, 115, 80]
+    weight: [38]
+    height: [1.5]
+families:
+- {from: Togepi, to: Togetic}
+- {from: Togetic, to: Togekiss}
+learnsets:
+  gs:
+    Togepi: [Attract, Charm, Curse, Defense Curl, Detect, Double-Edge, Double Team,
+      Dream Eater, Encore, Endure, Fire Blast, Flamethrower, Flash, Foresight, Frustration,
+      Future Sight, Growl, Headbutt, Hidden Power, Metronome, Mirror Move, Mud-Slap,
+      Peck, Present, Protect, Psych Up, Psychic, Rain Dance, Rest, Return, Rock Smash,
+      Rollout, Safeguard, Shadow Ball, Sleep Talk, Snore, Solarbeam, Sunny Day, Swagger,
+      Sweet Kiss, Swift, Toxic, Zap Cannon]
+    Togetic: [Fly, Hyper Beam, Steel Wing]
+  rs:
+    Togepi: [Ancientpower, Attract, Baton Pass, Body Slam, Charm, Counter, Defense
+        Curl, Double-Edge, Double Team, Dream Eater, Encore, Endure, Facade, Fire
+        Blast, Flamethrower, Flash, Follow Me, Foresight, Frustration, Future Sight,
+      Growl, Hidden Power, Light Screen, Mega Kick, Mega Punch, Metronome, Mimic,
+      Mirror Move, Mud-Slap, Peck, Present, Protect, Psych Up, Psychic, Rain Dance,
+      Reflect, Rest, Return, Rock Smash, Rollout, Safeguard, Secret Power, Seismic
+        Toss, Shadow Ball, Shock Wave, Sleep Talk, Snore, Softboiled, Solarbeam, Substitute,
+      Sunny Day, Swagger, Sweet Kiss, Swift, Thunder Wave, Toxic, Water Pulse, Wish,
+      Yawn, Helping Hand, Tri Attack]
+    Togetic: [Aerial Ace, Brick Break, Fly, Focus Punch, Hyper Beam, Magical Leaf,
+      Sky Attack, Steel Wing]
+  dp:
+    Togepi: [Ancientpower, Attract, Baton Pass, Captivate, Charm, Double-Edge, Double
+        Team, Dream Eater, Encore, Endeavor, Endure, Extrasensory, Facade, Fire Blast,
+      Flamethrower, Flash, Fling, Follow Me, Foresight, Frustration, Future Sight,
+      Grass Knot, Growl, Headbutt, Heal Bell, Hidden Power, Last Resort, Light Screen,
+      Lucky Chant, Magic Coat, Metronome, Mirror Move, Mud-Slap, Nasty Plot, Natural
+        Gift, Peck, Present, Protect, Psych Up, Psychic, Psycho Shift, Rain Dance,
+      Reflect, Rest, Return, Rock Smash, Rollout, Safeguard, Secret Power, Shadow
+        Ball, Shock Wave, Signal Beam, Sleep Talk, Snore, Solarbeam, Substitute, Sunny
+        Day, Swagger, Sweet Kiss, Swift, Thunder Wave, Toxic, Trick, Uproar, Water
+        Pulse, Wish, Yawn, Zen Headbutt, Helping Hand, Tri Attack]
+    Togetic: [Aerial Ace, Air Cutter, Brick Break, Defog, Drain Punch, Fly, Focus
+        Punch, Giga Impact, Heat Wave, Hyper Beam, Magical Leaf, Ominous Wind, Roost,
+      Silver Wind, Steel Wing, Tailwind, Twister]
+    Togekiss: [Air Slash, Aura Sphere, Extremespeed, Pluck, Sky Attack]
+  bw:
+    Togepi: [After You, Ancientpower, Attract, Baton Pass, Bestow, Charm, Covet, Double-Edge,
+      Double Team, Dream Eater, Echoed Voice, Encore, Endeavor, Extrasensory, Facade,
+      Fire Blast, Flamethrower, Flash, Fling, Follow Me, Foresight, Frustration, Future
+        Sight, Grass Knot, Growl, Heal Bell, Hidden Power, Hyper Voice, Incinerate,
+      Last Resort, Light Screen, Lucky Chant, Magic Coat, Metronome, Mirror Move,
+      Morning Sun, Nasty Plot, Peck, Present, Protect, Psych Up, Psychic, Psycho Shift,
+      Psyshock, Rain Dance, Reflect, Rest, Return, Rock Smash, Round, Safeguard, Secret
+        Power, Shadow Ball, Signal Beam, Sleep Talk, Snore, Solarbeam, Stored Power,
+      Substitute, Sunny Day, Swagger, Sweet Kiss, Telekinesis, Thunder Wave, Toxic,
+      Trick, Uproar, Wish, Work Up, Yawn, Zen Headbutt, Helping Hand, Tri Attack]
+    Togetic: [Aerial Ace, Brick Break, Drain Punch, Fly, Giga Impact, Heat Wave, Hyper
+        Beam, Magical Leaf, Retaliate, Roost, Tailwind]
+    Togekiss: [Air Slash, Aura Sphere, Extremespeed, Pluck, Sky Attack]

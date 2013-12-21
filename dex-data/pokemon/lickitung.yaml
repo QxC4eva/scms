@@ -1,0 +1,85 @@
+pokemon:
+  Lickitung:
+    introduction: rb
+    types:
+    - [Normal]
+    egggroups:
+    - [Monster]
+    abilities:
+    - [Oblivious, Own Tempo]
+    - bw: [Cloud Nine, Oblivious, Own Tempo]
+    stats:
+    - [90, 55, 75, 60, 60, 30]
+    - gs: [90, 55, 75, 60, 75, 30]
+    weight: [65.5]
+    height: [1.2]
+  Lickilicky:
+    introduction: dp
+    types:
+    - [Normal]
+    egggroups:
+    - [Monster]
+    abilities:
+    - [Cloud Nine, Oblivious, Own Tempo]
+    stats:
+    - [110, 85, 95, 80, 95, 50]
+    weight: [140]
+    height: [1.7]
+families:
+- {from: Lickitung, to: Lickilicky}
+learnsets:
+  rb:
+    Lickitung: [Bide, Blizzard, Body Slam, Bubblebeam, Counter, Cut, Defense Curl,
+      Disable, Double-Edge, Double Team, Earthquake, Fire Blast, Fissure, Hyper Beam,
+      Ice Beam, Mega Kick, Mega Punch, Mimic, Rage, Rest, Screech, Seismic Toss, Skull
+        Bash, Slam, Stomp, Strength, Submission, Substitute, Supersonic, Surf, Swords
+        Dance, Take Down, Thunder, Thunderbolt, Toxic, Water Gun, Wrap]
+  gs:
+    Lickitung: [Attract, Belly Drum, Blizzard, Body Slam, Curse, Cut, Defense Curl,
+      Disable, Double Team, Dream Eater, Dynamicpunch, Earthquake, Endure, Fire Blast,
+      Fire Punch, Flamethrower, Frustration, Headbutt, Hidden Power, Hyper Beam, Ice
+        Beam, Ice Punch, Icy Wind, Iron Tail, Lick, Magnitude, Mud-Slap, Nightmare,
+      Protect, Psych Up, Rain Dance, Rest, Return, Rock Smash, Rollout, Sandstorm,
+      Screech, Shadow Ball, Slam, Sleep Talk, Snore, Stomp, Strength, Sunny Day, Supersonic,
+      Surf, Swagger, Thief, Thunder, Thunderbolt, Thunderpunch, Toxic, Wrap]
+  rs:
+    Lickitung: [Attract, Belly Drum, Blizzard, Body Slam, Brick Break, Counter, Curse,
+      Cut, Defense Curl, Dig, Disable, Double-Edge, Double Team, Dream Eater, Dynamicpunch,
+      Earthquake, Endure, Facade, Fire Blast, Fire Punch, Flamethrower, Focus Punch,
+      Frustration, Hidden Power, Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Iron Tail,
+      Knock Off, Lick, Magnitude, Mega Kick, Mega Punch, Mimic, Mud-Slap, Nightmare,
+      Protect, Psych Up, Rain Dance, Refresh, Rest, Return, Rock Slide, Rock Smash,
+      Rock Tomb, Rollout, Sandstorm, Screech, Secret Power, Seismic Toss, Shadow Ball,
+      Shock Wave, Slam, Sleep Talk, Smellingsalt, Snore, Solarbeam, Stomp, Strength,
+      Substitute, Sunny Day, Supersonic, Surf, Swagger, Swords Dance, Thief, Thunder,
+      Thunderbolt, Thunderpunch, Toxic, Water Pulse, Wrap, Double-Edge, Double-Edge,
+      Helping Hand, Icy Wind, Mimic, Nightmare, Seismic Toss]
+  dp:
+    Lickitung: [Amnesia, Aqua Tail, Attract, Belly Drum, Blizzard, Body Slam, Brick
+        Break, Captivate, Curse, Cut, Defense Curl, Dig, Disable, Double Team, Dream
+        Eater, Earthquake, Endure, Facade, Fire Blast, Fire Punch, Flamethrower, Fling,
+      Focus Punch, Frustration, Giga Impact, Hammer Arm, Headbutt, Hidden Power, Hyper
+        Beam, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Knock Off, Lick, Magnitude,
+      Me First, Mud-Slap, Muddy Water, Natural Gift, Power Whip, Protect, Psych Up,
+      Rain Dance, Refresh, Rest, Return, Rock Climb, Rock Slide, Rock Smash, Rock
+        Tomb, Rollout, Sandstorm, Screech, Secret Power, Shadow Ball, Shock Wave,
+      Slam, Sleep Talk, Smellingsalt, Snore, Solarbeam, Stomp, Strength, Substitute,
+      Sunny Day, Supersonic, Surf, Swagger, Swords Dance, Thief, Thunder, Thunderbolt,
+      Thunderpunch, Toxic, Water Pulse, Whirlpool, Wrap, Wring Out, Zen Headbutt,
+      Double-Edge, Double-Edge, Helping Hand, Icy Wind, Mimic, Nightmare, Seismic
+        Toss]
+    Lickilicky: [Block, Explosion, Focus Blast, Gyro Ball]
+  bw:
+    Lickitung: [Amnesia, Aqua Tail, Attract, Belly Drum, Bind, Blizzard, Body Slam,
+      Brick Break, Bulldoze, Chip Away, Curse, Cut, Defense Curl, Dig, Disable, Double
+        Team, Dragon Tail, Dream Eater, Earthquake, Facade, Fire Blast, Fire Punch,
+      Flamethrower, Fling, Frustration, Giga Impact, Hammer Arm, Hidden Power, Hyper
+        Beam, Ice Beam, Ice Punch, Icy Wind, Incinerate, Iron Tail, Knock Off, Lick,
+      Magnitude, Me First, Muddy Water, Power Whip, Protect, Psych Up, Rain Dance,
+      Refresh, Rest, Retaliate, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout,
+      Round, Sandstorm, Screech, Shadow Ball, Slam, Sleep Talk, Smellingsalt, Snore,
+      Solarbeam, Stomp, Strength, Substitute, Sunny Day, Supersonic, Surf, Swagger,
+      Swords Dance, Thief, Thunder, Thunderbolt, Thunderpunch, Toxic, Work Up, Wrap,
+      Wring Out, Zen Headbutt, Double-Edge, Double-Edge, Helping Hand, Icy Wind, Mimic,
+      Nightmare, Seismic Toss]
+    Lickilicky: [Block, Explosion, Focus Blast, Gyro Ball]

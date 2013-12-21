@@ -1,0 +1,40 @@
+pokemon:
+  Golett:
+    introduction: bw
+    types:
+    - [Ghost, Ground]
+    egggroups:
+    - [Mineral]
+    abilities:
+    - [Iron Fist, Klutz, No Guard]
+    stats:
+    - [59, 74, 50, 35, 50, 35]
+    weight: [92]
+    height: [1]
+  Golurk:
+    introduction: bw
+    types:
+    - [Ghost, Ground]
+    egggroups:
+    - [Mineral]
+    abilities:
+    - [Iron Fist, Klutz, No Guard]
+    stats:
+    - [89, 124, 80, 55, 80, 55]
+    weight: [330]
+    height: [2.8]
+families:
+- {from: Golett, to: Golurk}
+learnsets:
+  bw:
+    Golett: [Astonish, Block, Brick Break, Bulldoze, Curse, Defense Curl, Double Team,
+      Drain Punch, Dynamicpunch, Earth Power, Earthquake, Facade, Fire Punch, Flash,
+      Fling, Focus Blast, Focus Punch, Frustration, Grass Knot, Gravity, Gyro Ball,
+      Hammer Arm, Hidden Power, Ice Beam, Ice Punch, Icy Wind, Iron Defense, Low Kick,
+      Low Sweep, Magic Coat, Magnitude, Mega Punch, Mud-Slap, Night Shade, Pound,
+      Protect, Psychic, Rain Dance, Rest, Return, Rock Polish, Rock Slide, Rock Smash,
+      Rock Tomb, Rollout, Round, Safeguard, Shadow Ball, Shadow Punch, Signal Beam,
+      Sleep Talk, Snore, Stealth Rock, Strength, Substitute, Superpower, Swagger,
+      Telekinesis, Thief, Thunderpunch, Toxic]
+    Golurk: [Charge Beam, Flash Cannon, Fly, Giga Impact, Heavy Slam, Hyper Beam,
+      Solarbeam, Stone Edge, Thunderbolt, Zen Headbutt]

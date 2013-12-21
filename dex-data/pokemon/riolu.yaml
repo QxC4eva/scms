@@ -1,0 +1,57 @@
+pokemon:
+  Riolu:
+    introduction: dp
+    types:
+    - [Fighting]
+    egggroups:
+    - []
+    abilities:
+    - [Inner Focus, Prankster, Steadfast]
+    stats:
+    - [40, 70, 40, 35, 40, 60]
+    weight: [20.2]
+    height: [0.7]
+  Lucario:
+    introduction: dp
+    types:
+    - [Fighting, Steel]
+    egggroups:
+    - [Ground, Humanshape]
+    abilities:
+    - [Inner Focus, Justified, Steadfast]
+    stats:
+    - [70, 110, 70, 115, 70, 90]
+    weight: [54]
+    height: [1.2]
+families:
+- {from: Riolu, to: Lucario}
+learnsets:
+  dp:
+    Riolu: [Agility, Attract, Bite, Blaze Kick, Brick Break, Bulk Up, Bullet Punch,
+      Captivate, Copycat, Counter, Cross Chop, Crunch, Detect, Dig, Double Team, Drain
+        Punch, Earthquake, Endure, Facade, Feint, Fling, Focus Blast, Focus Punch,
+      Follow Me, Force Palm, Foresight, Frustration, Fury Cutter, Headbutt, Helping
+        Hand, Hi Jump Kick, Hidden Power, Ice Punch, Iron Defense, Iron Tail, Low
+        Kick, Magnet Rise, Mind Reader, Mud-Slap, Natural Gift, Payback, Poison Jab,
+      Protect, Quick Attack, Rain Dance, Rest, Return, Reversal, Roar, Rock Slide,
+      Rock Smash, Rock Tomb, Role Play, Screech, Secret Power, Shadow Claw, Sky Uppercut,
+      Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger, Swift, Swords Dance,
+      Thunderpunch, Toxic, Vacuum Wave, Zen Headbutt]
+    Lucario: [Aura Sphere, Bone Rush, Calm Mind, Close Combat, Dark Pulse, Dragon
+        Pulse, Extremespeed, Flash Cannon, Giga Impact, Hyper Beam, Me First, Metal
+        Claw, Metal Sound, Psychic, Rock Climb, Shadow Ball, Stone Edge, Water Pulse]
+  bw:
+    Riolu: [Agility, Attract, Bite, Blaze Kick, Brick Break, Bulk Up, Bulldoze, Bullet
+        Punch, Circle Throw, Copycat, Counter, Cross Chop, Crunch, Detect, Dig, Double
+        Team, Drain Punch, Dual Chop, Earthquake, Endure, Facade, Feint, Final Gambit,
+      Fling, Focus Blast, Follow Me, Force Palm, Foresight, Frustration, Helping Hand,
+      Hi Jump Kick, Hidden Power, Ice Punch, Iron Defense, Iron Tail, Low Kick, Low
+        Sweep, Magnet Rise, Mind Reader, Nasty Plot, Payback, Poison Jab, Protect,
+      Quick Attack, Rain Dance, Rest, Retaliate, Return, Reversal, Roar, Rock Slide,
+      Rock Smash, Rock Tomb, Role Play, Round, Screech, Shadow Claw, Sky Uppercut,
+      Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger, Swords Dance, Thunderpunch,
+      Toxic, Vacuum Wave, Work Up, Zen Headbutt]
+    Lucario: [Aura Sphere, Bone Rush, Calm Mind, Close Combat, Dark Pulse, Dragon
+        Pulse, Extremespeed, Flash Cannon, Giga Impact, Heal Pulse, Hone Claws, Hyper
+        Beam, Me First, Metal Claw, Metal Sound, Psychic, Quick Guard, Shadow Ball,
+      Stone Edge]

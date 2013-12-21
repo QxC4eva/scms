@@ -1,0 +1,25 @@
+pokemon:
+  Reshiram:
+    introduction: bw
+    types:
+    - [Dragon, Fire]
+    egggroups:
+    - []
+    abilities:
+    - [Turboblaze]
+    stats:
+    - [100, 120, 100, 150, 120, 90]
+    weight: [330]
+    height: [3.2]
+families: []
+learnsets:
+  bw:
+    Reshiram: [Ancientpower, Blue Flare, Crunch, Cut, Double Team, Draco Meteor, Dragon
+        Claw, Dragon Pulse, Dragon Rage, Dragon Tail, Dragonbreath, Earth Power, Echoed
+        Voice, Extrasensory, Facade, Fire Blast, Fire Fang, Flame Charge, Flamethrower,
+      Fling, Fly, Focus Blast, Frustration, Fusion Flare, Giga Impact, Heat Wave,
+      Hidden Power, Hone Claws, Hyper Beam, Hyper Voice, Imprison, Incinerate, Light
+        Screen, Mist, Outrage, Overheat, Payback, Protect, Psychic, Reflect, Rest,
+      Return, Rock Slide, Rock Smash, Rock Tomb, Roost, Round, Safeguard, Shadow Ball,
+      Shadow Claw, Slash, Sleep Talk, Snore, Solarbeam, Stone Edge, Strength, Substitute,
+      Sunny Day, Swagger, Tailwind, Toxic, Will-O-Wisp, Zen Headbutt]

@@ -1,0 +1,41 @@
+pokemon:
+  Scraggy:
+    introduction: bw
+    types:
+    - [Dark, Fighting]
+    egggroups:
+    - [Dragon, Ground]
+    abilities:
+    - [Intimidate, Moxie, Shed Skin]
+    stats:
+    - [50, 75, 70, 35, 70, 48]
+    weight: [11.8]
+    height: [0.6]
+  Scrafty:
+    introduction: bw
+    types:
+    - [Dark, Fighting]
+    egggroups:
+    - [Dragon, Ground]
+    abilities:
+    - [Intimidate, Moxie, Shed Skin]
+    stats:
+    - [65, 90, 115, 45, 115, 58]
+    weight: [30]
+    height: [1.1]
+families:
+- {from: Scraggy, to: Scrafty}
+learnsets:
+  bw:
+    Scraggy: [Amnesia, Attract, Brick Break, Bulk Up, Chip Away, Counter, Crunch,
+      Dark Pulse, Detect, Dig, Double Team, Dragon Claw, Dragon Dance, Dragon Pulse,
+      Dragon Tail, Drain Punch, Dual Chop, Facade, Faint Attack, Fake Out, Fire Punch,
+      Fling, Focus Blast, Focus Punch, Foul Play, Frustration, Grass Knot, Head Smash,
+      Headbutt, Hi Jump Kick, Hidden Power, Ice Punch, Incinerate, Iron Defense, Iron
+        Head, Iron Tail, Knock Off, Leer, Low Kick, Low Sweep, Payback, Poison Jab,
+      Protect, Rain Dance, Rest, Retaliate, Return, Roar, Rock Climb, Rock Slide,
+      Rock Smash, Rock Tomb, Round, Sand-Attack, Scary Face, Sleep Talk, Sludge Bomb,
+      Smack Down, Snarl, Snatch, Snore, Spite, Stone Edge, Strength, Substitute, Sunny
+        Day, Super Fang, Swagger, Taunt, Thunderpunch, Torment, Toxic, Work Up, Zen
+        Headbutt]
+    Scrafty: [Giga Impact, Hyper Beam, Outrage, Thief]

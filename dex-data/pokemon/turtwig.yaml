@@ -1,0 +1,66 @@
+pokemon:
+  Turtwig:
+    introduction: dp
+    types:
+    - [Grass]
+    egggroups:
+    - [Monster, Plant]
+    abilities:
+    - [Overgrow, Shell Armor]
+    stats:
+    - [55, 68, 64, 45, 55, 31]
+    weight: [10.2]
+    height: [0.4]
+  Grotle:
+    introduction: dp
+    types:
+    - [Grass]
+    egggroups:
+    - [Monster, Plant]
+    abilities:
+    - [Overgrow, Shell Armor]
+    stats:
+    - [75, 89, 85, 55, 65, 36]
+    weight: [97]
+    height: [1.1]
+  Torterra:
+    introduction: dp
+    types:
+    - [Grass, Ground]
+    egggroups:
+    - [Monster, Plant]
+    abilities:
+    - [Overgrow, Shell Armor]
+    stats:
+    - [95, 109, 105, 75, 85, 56]
+    weight: [310]
+    height: [2.2]
+families:
+- {from: Turtwig, to: Grotle}
+- {from: Grotle, to: Torterra}
+learnsets:
+  dp:
+    Turtwig: [Absorb, Amnesia, Attract, Bite, Body Slam, Bullet Seed, Captivate, Crunch,
+      Curse, Cut, Double-Edge, Double Team, Earth Power, Endure, Energy Ball, Facade,
+      Flash, Frustration, Giga Drain, Grass Knot, Growth, Headbutt, Hidden Power,
+      Iron Tail, Leaf Storm, Leech Seed, Light Screen, Mega Drain, Mud-Slap, Natural
+        Gift, Protect, Razor Leaf, Reflect, Rest, Return, Rock Climb, Rock Smash,
+      Safeguard, Sand Tomb, Secret Power, Seed Bomb, Sleep Talk, Snore, Solarbeam,
+      Spit Up, Stealth Rock, Stockpile, Strength, Substitute, Sunny Day, Superpower,
+      Swagger, Swallow, Swords Dance, Synthesis, Tackle, Thrash, Tickle, Toxic, Withdraw,
+      Worry Seed]
+    Torterra: [Block, Earthquake, Frenzy Plant, Giga Impact, Hyper Beam, Iron Head,
+      Outrage, Roar, Rock Polish, Rock Slide, Rock Tomb, Sandstorm, Stone Edge, Wood
+        Hammer]
+  bw:
+    Turtwig: [Absorb, Amnesia, Attract, Bite, Body Slam, Crunch, Curse, Cut, Double-Edge,
+      Double Team, Earth Power, Energy Ball, Facade, Flash, Frustration, Giga Drain,
+      Grass Knot, Grass Pledge, Growth, Hidden Power, Iron Tail, Leaf Storm, Leech
+        Seed, Light Screen, Mega Drain, Protect, Razor Leaf, Reflect, Rest, Return,
+      Rock Smash, Round, Safeguard, Sand Tomb, Seed Bomb, Sleep Talk, Snore, Solarbeam,
+      Spit Up, Stealth Rock, Stockpile, Strength, Substitute, Sunny Day, Superpower,
+      Swagger, Swallow, Swords Dance, Synthesis, Tackle, Thrash, Tickle, Toxic, Wide
+        Guard, Withdraw, Worry Seed]
+    Torterra: [Block, Bulldoze, Earthquake, Frenzy Plant, Giga Impact, Hyper Beam,
+      Iron Head, Outrage, Roar, Rock Polish, Rock Slide, Rock Tomb, Sandstorm, Stone
+        Edge, Wood Hammer]

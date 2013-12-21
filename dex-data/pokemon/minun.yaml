@@ -1,0 +1,42 @@
+pokemon:
+  Minun:
+    introduction: rs
+    types:
+    - [Electric]
+    egggroups:
+    - [Fairy]
+    abilities:
+    - [Minus]
+    - bw: [Minus]
+    stats:
+    - [60, 40, 50, 75, 85, 95]
+    weight: [4.2]
+    height: [0.4]
+families: []
+learnsets:
+  rs:
+    Minun: [Agility, Attract, Baton Pass, Body Slam, Charge, Charm, Counter, Defense
+        Curl, Double-Edge, Double Team, Dynamicpunch, Encore, Endure, Facade, Flash,
+      Frustration, Growl, Helping Hand, Hidden Power, Iron Tail, Light Screen, Mega
+        Kick, Mega Punch, Metronome, Mimic, Mud-Slap, Protect, Quick Attack, Rain
+        Dance, Rest, Return, Rollout, Secret Power, Seismic Toss, Shock Wave, Sleep
+        Talk, Snore, Spark, Substitute, Swagger, Swift, Thunder, Thunder Wave, Thunderbolt,
+      Thunderpunch, Toxic, Wish, Body Slam, Double-Edge, Mimic, Seismic Toss]
+  dp:
+    Minun: [Agility, Attract, Baton Pass, Captivate, Charge, Charge Beam, Charm, Copycat,
+      Discharge, Double Team, Encore, Endure, Facade, Fake Tears, Flash, Fling, Frustration,
+      Grass Knot, Growl, Headbutt, Helping Hand, Hidden Power, Iron Tail, Last Resort,
+      Light Screen, Magnet Rise, Mud-Slap, Nasty Plot, Natural Gift, Protect, Quick
+        Attack, Rain Dance, Rest, Return, Rollout, Secret Power, Shock Wave, Signal
+        Beam, Sing, Sleep Talk, Snore, Spark, Substitute, Swagger, Sweet Kiss, Swift,
+      Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Toxic, Trump Card, Uproar,
+      Wish, Body Slam, Double-Edge, Mimic, Seismic Toss]
+  bw:
+    Minun: [Agility, Attract, Baton Pass, Charge, Charge Beam, Charm, Copycat, Discharge,
+      Double Team, Echoed Voice, Electro Ball, Encore, Entrainment, Facade, Fake Tears,
+      Flash, Fling, Frustration, Grass Knot, Growl, Helping Hand, Hidden Power, Iron
+        Tail, Last Resort, Light Screen, Lucky Chant, Magnet Rise, Nasty Plot, Protect,
+      Quick Attack, Rain Dance, Rest, Return, Round, Signal Beam, Sing, Sleep Talk,
+      Snore, Spark, Substitute, Swagger, Sweet Kiss, Swift, Thunder, Thunder Wave,
+      Thunderbolt, Thunderpunch, Toxic, Trump Card, Uproar, Volt Switch, Wild Charge,
+      Wish, Body Slam, Double-Edge, Mimic, Seismic Toss]

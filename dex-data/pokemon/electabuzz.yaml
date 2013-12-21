@@ -1,0 +1,94 @@
+pokemon:
+  Elekid:
+    introduction: gs
+    types:
+    - [Electric]
+    egggroups:
+    - []
+    abilities:
+    - [Static]
+    - bw: [Static, Vital Spirit]
+    stats:
+    - [45, 63, 37, 65, 55, 95]
+    weight: [23.5]
+    height: [0.6]
+  Electabuzz:
+    introduction: rb
+    types:
+    - [Electric]
+    egggroups:
+    - [Humanshape]
+    abilities:
+    - [Static]
+    - bw: [Static, Vital Spirit]
+    stats:
+    - [65, 83, 57, 85, 85, 105]
+    - gs: [65, 83, 57, 95, 85, 105]
+    weight: [30]
+    height: [1.1]
+  Electivire:
+    introduction: dp
+    types:
+    - [Electric]
+    egggroups:
+    - [Humanshape]
+    abilities:
+    - [Motor Drive, Vital Spirit]
+    stats:
+    - [75, 123, 67, 95, 85, 95]
+    weight: [138.6]
+    height: [1.8]
+families:
+- {from: Elekid, to: Electabuzz}
+- {from: Electabuzz, to: Electivire}
+learnsets:
+  rb:
+    Electabuzz: [Bide, Body Slam, Counter, Double-Edge, Double Team, Flash, Hyper
+        Beam, Leer, Light Screen, Mega Kick, Mega Punch, Metronome, Mimic, Psychic,
+      Psywave, Quick Attack, Rage, Reflect, Rest, Screech, Seismic Toss, Skull Bash,
+      Strength, Submission, Substitute, Swift, Take Down, Teleport, Thunder, Thunder
+        Wave, Thunderbolt, Thunderpunch, Thundershock, Toxic]
+  gs:
+    Elekid: [Attract, Barrier, Cross Chop, Curse, Detect, Double Team, Dynamicpunch,
+      Endure, Fire Punch, Flash, Frustration, Headbutt, Hidden Power, Ice Punch, Karate
+        Chop, Leer, Light Screen, Meditate, Mud-Slap, Protect, Psychic, Quick Attack,
+      Rain Dance, Rest, Return, Rolling Kick, Screech, Sleep Talk, Snore, Swagger,
+      Swift, Thief, Thunder, Thunderbolt, Thunderpunch, Toxic, Zap Cannon]
+    Electabuzz: [Hyper Beam, Iron Tail, Rock Smash, Strength]
+  rs:
+    Elekid: [Attract, Barrier, Body Slam, Brick Break, Counter, Cross Chop, Double-Edge,
+      Double Team, Dynamicpunch, Endure, Facade, Fire Punch, Flash, Focus Punch, Frustration,
+      Hidden Power, Ice Punch, Karate Chop, Leer, Light Screen, Meditate, Mega Kick,
+      Mega Punch, Mimic, Mud-Slap, Protect, Psychic, Quick Attack, Rain Dance, Rest,
+      Return, Rock Smash, Rolling Kick, Screech, Secret Power, Seismic Toss, Shock
+        Wave, Sleep Talk, Snore, Substitute, Swagger, Swift, Thief, Thunder, Thunder
+        Wave, Thunderbolt, Thunderpunch, Toxic, Body Slam, Double-Edge, Mimic, Seismic
+        Toss]
+    Electabuzz: [Hyper Beam, Iron Tail, Strength, Body Slam, Double-Edge, Follow Me,
+      Mimic, Seismic Toss]
+  dp:
+    Elekid: [Attract, Barrier, Brick Break, Captivate, Charge Beam, Cross Chop, Discharge,
+      Double Team, Dynamicpunch, Endure, Facade, Feint, Fire Punch, Flash, Fling,
+      Focus Punch, Frustration, Headbutt, Helping Hand, Hidden Power, Ice Punch, Karate
+        Chop, Leer, Light Screen, Low Kick, Magnet Rise, Meditate, Mud-Slap, Natural
+        Gift, Protect, Psychic, Quick Attack, Rain Dance, Rest, Return, Rock Smash,
+      Rolling Kick, Screech, Secret Power, Shock Wave, Signal Beam, Sleep Talk, Snore,
+      Substitute, Swagger, Swift, Thief, Thunder, Thunder Wave, Thunderbolt, Thunderpunch,
+      Thundershock, Toxic, Uproar, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    Electabuzz: [Focus Blast, Giga Impact, Hyper Beam, Iron Tail, Rock Climb, Strength,
+      Body Slam, Double-Edge, Follow Me, Mimic, Seismic Toss]
+    Electivire: [Dig, Earthquake, Flamethrower, Rock Slide, Rock Tomb, Taunt, Torment]
+  bw:
+    Elekid: [Attract, Barrier, Brick Break, Charge Beam, Covet, Cross Chop, Discharge,
+      Double Team, Dual Chop, Dynamicpunch, Electro Ball, Electroweb, Facade, Feint,
+      Fire Punch, Flash, Fling, Focus Punch, Frustration, Hammer Arm, Helping Hand,
+      Hidden Power, Ice Punch, Karate Chop, Leer, Light Screen, Low Kick, Magnet Rise,
+      Meditate, Protect, Psychic, Quick Attack, Rain Dance, Rest, Return, Rock Smash,
+      Rolling Kick, Round, Screech, Shock Wave, Signal Beam, Sleep Talk, Snore, Substitute,
+      Swagger, Swift, Thief, Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Thundershock,
+      Toxic, Uproar, Volt Switch, Wild Charge, Body Slam, Double-Edge, Mimic, Seismic
+        Toss]
+    Electabuzz: [Focus Blast, Giga Impact, Hyper Beam, Iron Tail, Low Sweep, Strength,
+      Body Slam, Double-Edge, Follow Me, Mimic, Seismic Toss]
+    Electivire: [Bulldoze, Dig, Earthquake, Flamethrower, Rock Slide, Rock Tomb, Taunt,
+      Torment]

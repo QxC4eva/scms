@@ -1,0 +1,39 @@
+pokemon:
+  Pansear:
+    introduction: dp
+    types:
+    - [Fire]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Blaze, Gluttony]
+    stats:
+    - [50, 53, 48, 53, 48, 64]
+    weight: [11]
+    height: [0.6]
+  Simisear:
+    introduction: dp
+    types:
+    - [Fire]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Blaze, Gluttony]
+    stats:
+    - [75, 98, 63, 98, 63, 101]
+    weight: [28]
+    height: [1]
+families:
+- {from: Pansear, to: Simisear}
+learnsets:
+  bw:
+    Pansear: [Acrobatics, Amnesia, Astonish, Attract, Bite, Covet, Crunch, Cut, Dig,
+      Double Team, Endeavor, Facade, Fire Blast, Fire Punch, Fire Spin, Flame Burst,
+      Flame Charge, Flamethrower, Fling, Frustration, Fury Swipes, Grass Knot, Gunk
+        Shot, Heat Wave, Helping Hand, Hidden Power, Hone Claws, Incinerate, Iron
+        Tail, Knock Off, Leer, Lick, Low Kick, Low Sweep, Nasty Plot, Natural Gift,
+      Overheat, Payback, Protect, Recycle, Rest, Return, Rock Smash, Rock Tomb, Role
+        Play, Round, Scratch, Shadow Claw, Sleep Talk, Snore, Solarbeam, Substitute,
+      Sunny Day, Swagger, Taunt, Thief, Tickle, Torment, Toxic, Uproar, Will-O-Wisp,
+      Work Up, Yawn]
+    Simisear: [Brick Break, Focus Blast, Giga Impact, Hyper Beam, Rock Slide, Superpower]

@@ -1,0 +1,39 @@
+pokemon:
+  Luvdisc:
+    introduction: rs
+    types:
+    - [Water]
+    egggroups:
+    - [Water 2]
+    abilities:
+    - [Swift Swim]
+    - bw: [Hydration, Swift Swim]
+    stats:
+    - [43, 30, 55, 40, 65, 97]
+    weight: [8.7]
+    height: [0.6]
+families: []
+learnsets:
+  rs:
+    Luvdisc: [Agility, Attract, Blizzard, Charm, Dive, Double-Edge, Double Team, Endure,
+      Facade, Flail, Frustration, Hail, Hidden Power, Ice Beam, Icy Wind, Mimic, Mud
+        Sport, Protect, Psych Up, Rain Dance, Rest, Return, Safeguard, Secret Power,
+      Sleep Talk, Snore, Splash, Substitute, Supersonic, Surf, Swagger, Sweet Kiss,
+      Swift, Tackle, Take Down, Toxic, Water Gun, Water Pulse, Water Sport, Waterfall,
+      Double-Edge, Icy Wind, Mimic]
+  dp:
+    Luvdisc: [Agility, Aqua Jet, Aqua Ring, Attract, Blizzard, Bounce, Brine, Captivate,
+      Charm, Dive, Double Team, Endure, Facade, Flail, Frustration, Hail, Hidden Power,
+      Ice Beam, Icy Wind, Lucky Chant, Mud Sport, Natural Gift, Protect, Psych Up,
+      Rain Dance, Rest, Return, Safeguard, Secret Power, Sleep Talk, Snore, Splash,
+      Substitute, Supersonic, Surf, Swagger, Sweet Kiss, Swift, Tackle, Take Down,
+      Toxic, Water Gun, Water Pulse, Water Sport, Waterfall, Whirlpool, Double-Edge,
+      Icy Wind, Mimic]
+  bw:
+    Luvdisc: [Agility, Aqua Jet, Aqua Ring, Attract, Blizzard, Bounce, Brine, Captivate,
+      Charm, Dive, Double Team, Facade, Flail, Frustration, Hail, Heal Pulse, Hidden
+        Power, Hydro Pump, Ice Beam, Icy Wind, Lucky Chant, Mud Sport, Protect, Psych
+        Up, Rain Dance, Rest, Return, Round, Safeguard, Scald, Sleep Talk, Snore,
+      Splash, Substitute, Supersonic, Surf, Swagger, Sweet Kiss, Tackle, Take Down,
+      Toxic, Water Gun, Water Pulse, Water Sport, Waterfall, Double-Edge, Icy Wind,
+      Mimic]

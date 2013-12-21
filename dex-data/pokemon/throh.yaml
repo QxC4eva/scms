@@ -1,0 +1,24 @@
+pokemon:
+  Throh:
+    introduction: bw
+    types:
+    - [Fighting]
+    egggroups:
+    - [Humanshape]
+    abilities:
+    - [Guts, Inner Focus, Mold Breaker]
+    stats:
+    - [120, 100, 85, 30, 85, 45]
+    weight: [55.5]
+    height: [1.3]
+families: []
+learnsets:
+  bw:
+    Throh: [Attract, Bide, Bind, Block, Body Slam, Brick Break, Bulk Up, Bulldoze,
+      Circle Throw, Dig, Double Team, Earthquake, Endure, Facade, Fire Punch, Fling,
+      Focus Blast, Focus Energy, Frustration, Giga Impact, Grass Knot, Helping Hand,
+      Hidden Power, Ice Punch, Knock Off, Leer, Low Kick, Low Sweep, Pain Split, Payback,
+      Poison Jab, Protect, Rain Dance, Rest, Retaliate, Return, Revenge, Reversal,
+      Rock Slide, Rock Smash, Rock Tomb, Round, Seismic Toss, Sleep Talk, Snore, Stone
+        Edge, Storm Throw, Strength, Substitute, Sunny Day, Superpower, Swagger, Taunt,
+      Thunderpunch, Toxic, Vital Throw, Wide Guard, Work Up]

@@ -1,0 +1,39 @@
+pokemon:
+  Minccino:
+    introduction: bw
+    types:
+    - [Normal]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Cute Charm, Skill Link, Technician]
+    stats:
+    - [55, 50, 40, 40, 40, 75]
+    weight: [5.8]
+    height: [0.4]
+  Cinccino:
+    introduction: bw
+    types:
+    - [Normal]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Cute Charm, Skill Link, Technician]
+    stats:
+    - [75, 95, 60, 65, 60, 115]
+    weight: [7.5]
+    height: [0.5]
+families:
+- {from: Minccino, to: Cinccino}
+learnsets:
+  bw:
+    Minccino: [After You, Aqua Tail, Attract, Calm Mind, Captivate, Charm, Covet,
+      Dig, Double Team, Doubleslap, Echoed Voice, Encore, Endure, Facade, Fake Tears,
+      Flail, Fling, Frustration, Grass Knot, Growl, Gunk Shot, Helping Hand, Hidden
+        Power, Hyper Voice, Iron Tail, Knock Off, Last Resort, Mud-Slap, Pound, Protect,
+      Rain Dance, Rest, Retaliate, Return, Round, Safeguard, Seed Bomb, Sing, Slam,
+      Sleep Talk, Snore, Substitute, Sunny Day, Swagger, Swift, Tail Slap, Tail Whip,
+      Thief, Thunder Wave, Thunderbolt, Tickle, Toxic, U-turn, Uproar, Wake-Up Slap,
+      Work Up]
+    Cinccino: [Bullet Seed, Focus Blast, Giga Impact, Hyper Beam, Light Screen, Rock
+        Blast, Thunder]

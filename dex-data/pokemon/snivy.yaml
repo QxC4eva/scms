@@ -1,0 +1,53 @@
+pokemon:
+  Snivy:
+    introduction: dp
+    types:
+    - [Grass]
+    egggroups:
+    - [Ground, Plant]
+    abilities:
+    - [Contrary, Overgrow]
+    stats:
+    - [45, 45, 55, 45, 55, 63]
+    weight: [8.1]
+    height: [0.6]
+  Servine:
+    introduction: dp
+    types:
+    - [Grass]
+    egggroups:
+    - [Ground, Plant]
+    abilities:
+    - [Contrary, Overgrow]
+    stats:
+    - [60, 60, 75, 60, 75, 83]
+    weight: [16]
+    height: [0.8]
+  Serperior:
+    introduction: dp
+    types:
+    - [Grass]
+    egggroups:
+    - [Ground, Plant]
+    abilities:
+    - [Contrary, Overgrow]
+    stats:
+    - [75, 75, 95, 75, 95, 113]
+    weight: [63]
+    height: [3.3]
+families:
+- {from: Snivy, to: Servine}
+- {from: Servine, to: Serperior}
+learnsets:
+  bw:
+    Snivy: [Aerial Ace, Aqua Tail, Attract, Bind, Calm Mind, Captivate, Coil, Cut,
+      Double Team, Energy Ball, Facade, Flash, Frustration, Gastro Acid, Giga Drain,
+      Glare, Grass Knot, Grass Pledge, Growth, Hidden Power, Iron Tail, Knock Off,
+      Leaf Blade, Leaf Storm, Leaf Tornado, Leech Seed, Leer, Light Screen, Magical
+        Leaf, Mean Look, Mega Drain, Mirror Coat, Natural Gift, Protect, Pursuit,
+      Reflect, Rest, Return, Round, Safeguard, Seed Bomb, Slam, Sleep Talk, Snatch,
+      Snore, Solarbeam, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance,
+      Synthesis, Tackle, Taunt, Torment, Toxic, Twister, Vine Whip, Worry Seed, Wrap,
+      Wring Out]
+    Serperior: [Dragon Pulse, Dragon Tail, Frenzy Plant, Giga Impact, Hyper Beam,
+      Outrage, Rock Smash, Strength]

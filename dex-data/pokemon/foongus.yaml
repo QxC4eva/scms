@@ -1,0 +1,37 @@
+pokemon:
+  Foongus:
+    introduction: bw
+    types:
+    - [Grass, Poison]
+    egggroups:
+    - [Plant]
+    abilities:
+    - [Effect Spore, Regenerator]
+    stats:
+    - [69, 55, 45, 55, 55, 15]
+    weight: [1]
+    height: [0.2]
+  Amoonguss:
+    introduction: bw
+    types:
+    - [Grass, Poison]
+    egggroups:
+    - [Plant]
+    abilities:
+    - [Effect Spore, Regenerator]
+    stats:
+    - [114, 85, 70, 85, 80, 30]
+    weight: [10.5]
+    height: [0.6]
+families:
+- {from: Foongus, to: Amoonguss}
+learnsets:
+  bw:
+    Foongus: [Absorb, After You, Astonish, Attract, Bide, Body Slam, Clear Smog, Defense
+        Curl, Double Team, Endure, Energy Ball, Facade, Faint Attack, Flash, Foul
+        Play, Frustration, Gastro Acid, Giga Drain, Grass Knot, Growth, Hidden Power,
+      Ingrain, Mega Drain, Payback, Poisonpowder, Protect, Rage Powder, Rain Dance,
+      Rest, Return, Rollout, Round, Seed Bomb, Sleep Talk, Sludge Bomb, Snore, Solarbeam,
+      Spore, Stun Spore, Substitute, Sunny Day, Swagger, Sweet Scent, Synthesis, Toxic,
+      Venoshock, Worry Seed]
+    Amoonguss: [Giga Impact, Hyper Beam]

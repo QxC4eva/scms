@@ -1,0 +1,38 @@
+pokemon:
+  Drilbur:
+    introduction: bw
+    types:
+    - [Ground]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Mold Breaker, Sand Force, Sand Rush]
+    stats:
+    - [60, 85, 40, 30, 45, 68]
+    weight: [8.5]
+    height: [0.3]
+  Excadrill:
+    introduction: bw
+    types:
+    - [Ground, Steel]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Mold Breaker, Sand Force, Sand Rush]
+    stats:
+    - [110, 135, 60, 50, 65, 88]
+    weight: [40.4]
+    height: [0.7]
+families:
+- {from: Drilbur, to: Excadrill}
+learnsets:
+  bw:
+    Drilbur: [Aerial Ace, Attract, Brick Break, Bulldoze, Crush Claw, Cut, Dig, Double
+        Team, Drill Run, Earth Power, Earthquake, Facade, Fissure, Fling, Frustration,
+      Fury Swipes, Hidden Power, Hone Claws, Iron Defense, Metal Claw, Metal Sound,
+      Mud-Slap, Mud Sport, Poison Jab, Protect, Rapid Spin, Rest, Return, Rock Climb,
+      Rock Slide, Rock Smash, Rock Tomb, Round, Sandstorm, Scratch, Shadow Claw, Skull
+        Bash, Slash, Sleep Talk, Sludge Bomb, Snore, Stealth Rock, Strength, Submission,
+      Substitute, Swagger, Swords Dance, Toxic, X-scissor]
+    Excadrill: [Focus Blast, Giga Impact, Horn Drill, Hyper Beam, Iron Head, Magnet
+        Rise]

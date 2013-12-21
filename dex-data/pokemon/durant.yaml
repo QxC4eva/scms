@@ -1,0 +1,24 @@
+pokemon:
+  Durant:
+    introduction: bw
+    types:
+    - [Bug, Steel]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Hustle, Swarm, Truant]
+    stats:
+    - [58, 109, 112, 48, 48, 109]
+    weight: [33]
+    height: [0.3]
+families: []
+learnsets:
+  bw:
+    Durant: [Aerial Ace, Agility, Attract, Baton Pass, Bite, Bug Bite, Crunch, Cut,
+      Dig, Double Team, Endeavor, Endure, Energy Ball, Entrainment, Facade, Faint
+        Attack, Flash Cannon, Frustration, Fury Cutter, Giga Impact, Guillotine, Hidden
+        Power, Hone Claws, Iron Defense, Iron Head, Metal Claw, Metal Sound, Protect,
+      Rest, Retaliate, Return, Rock Climb, Rock Polish, Rock Slide, Rock Smash, Rock
+        Tomb, Round, Sand-Attack, Sandstorm, Screech, Shadow Claw, Sleep Talk, Snore,
+      Stone Edge, Strength, Struggle Bug, Substitute, Superpower, Swagger, Thunder
+        Fang, Thunder Wave, Toxic, Vicegrip, X-scissor]

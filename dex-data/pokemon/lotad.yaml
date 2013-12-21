@@ -1,0 +1,84 @@
+pokemon:
+  Lotad:
+    introduction: rs
+    types:
+    - [Grass, Water]
+    egggroups:
+    - [Plant, Water 1]
+    abilities:
+    - [Rain Dish, Swift Swim]
+    - bw: [Own Tempo, Rain Dish, Swift Swim]
+    stats:
+    - [40, 30, 30, 40, 50, 30]
+    weight: [2.6]
+    height: [0.5]
+  Lombre:
+    introduction: rs
+    types:
+    - [Grass, Water]
+    egggroups:
+    - [Plant, Water 1]
+    abilities:
+    - [Rain Dish, Swift Swim]
+    - bw: [Own Tempo, Rain Dish, Swift Swim]
+    stats:
+    - [60, 50, 50, 60, 70, 50]
+    weight: [32.5]
+    height: [1.2]
+  Ludicolo:
+    introduction: rs
+    types:
+    - [Grass, Water]
+    egggroups:
+    - [Plant, Water 1]
+    abilities:
+    - [Rain Dish, Swift Swim]
+    - bw: [Own Tempo, Rain Dish, Swift Swim]
+    stats:
+    - [80, 70, 70, 90, 100, 70]
+    weight: [55]
+    height: [1.5]
+families:
+- {from: Lotad, to: Lombre}
+- {from: Lombre, to: Ludicolo}
+learnsets:
+  rs:
+    Lotad: [Absorb, Astonish, Attract, Blizzard, Body Slam, Bullet Seed, Double-Edge,
+      Double Team, Endure, Facade, Flail, Flash, Frustration, Giga Drain, Growl, Hail,
+      Hidden Power, Ice Beam, Icy Wind, Leech Seed, Mega Drain, Mimic, Mist, Nature
+        Power, Protect, Rain Dance, Razor Leaf, Rest, Return, Secret Power, Sleep
+        Talk, Snore, Solarbeam, Substitute, Sunny Day, Surf, Swagger, Sweet Scent,
+      Swords Dance, Synthesis, Thief, Toxic, Water Gun, Water Pulse, Body Slam, Double-Edge,
+      Icy Wind, Mimic]
+    Lombre: [Brick Break, Dive, Dynamicpunch, Fake Out, Fire Punch, Fury Swipes, Hydro
+        Pump, Ice Punch, Mud-Slap, Rock Smash, Strength, Thunderpunch, Uproar, Water
+        Sport, Waterfall, Body Slam, Double-Edge, Icy Wind, Mimic]
+    Ludicolo: [Counter, Focus Punch, Hyper Beam, Mega Kick, Mega Punch, Metronome,
+      Seismic Toss, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+  dp:
+    Lotad: [Absorb, Astonish, Attract, Blizzard, Bubblebeam, Bullet Seed, Captivate,
+      Counter, Double Team, Endure, Energy Ball, Facade, Flail, Flash, Frustration,
+      Giga Drain, Grass Knot, Growl, Hail, Headbutt, Hidden Power, Ice Beam, Icy Wind,
+      Leech Seed, Mega Drain, Mist, Natural Gift, Nature Power, Protect, Rain Dance,
+      Razor Leaf, Rest, Return, Secret Power, Seed Bomb, Sleep Talk, Snore, Solarbeam,
+      Substitute, Sunny Day, Surf, Swagger, Sweet Scent, Swords Dance, Synthesis,
+      Thief, Tickle, Toxic, Uproar, Water Gun, Water Pulse, Whirlpool, Zen Headbutt,
+      Body Slam, Double-Edge, Icy Wind, Mimic]
+    Lombre: [Brick Break, Dive, Drain Punch, Fake Out, Fire Punch, Fling, Fury Swipes,
+      Hydro Pump, Ice Punch, Mud-Slap, Rock Smash, Strength, Thunderpunch, Water Sport,
+      Waterfall, Body Slam, Double-Edge, Icy Wind, Mimic]
+    Ludicolo: [Focus Blast, Focus Punch, Giga Impact, Hyper Beam, Rock Climb, Body
+        Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+  bw:
+    Lotad: [Absorb, Astonish, Attract, Blizzard, Bubblebeam, Counter, Double Team,
+      Echoed Voice, Energy Ball, Facade, Flail, Flash, Frustration, Giga Drain, Grass
+        Knot, Growl, Hail, Hidden Power, Ice Beam, Icy Wind, Leech Seed, Mega Drain,
+      Mist, Natural Gift, Nature Power, Protect, Rain Dance, Razor Leaf, Rest, Return,
+      Round, Scald, Seed Bomb, Sleep Talk, Snore, Solarbeam, Substitute, Sunny Day,
+      Surf, Swagger, Sweet Scent, Swords Dance, Synthesis, Teeter Dance, Thief, Tickle,
+      Toxic, Uproar, Water Gun, Zen Headbutt, Body Slam, Double-Edge, Icy Wind, Mimic]
+    Lombre: [Brick Break, Dive, Drain Punch, Fake Out, Fire Punch, Fling, Fury Swipes,
+      Hone Claws, Hydro Pump, Hyper Voice, Ice Punch, Rock Smash, Strength, Thunderpunch,
+      Water Sport, Waterfall, Body Slam, Double-Edge, Icy Wind, Mimic]
+    Ludicolo: [Focus Blast, Giga Impact, Hyper Beam, Body Slam, Double-Edge, Icy Wind,
+      Mimic, Seismic Toss]

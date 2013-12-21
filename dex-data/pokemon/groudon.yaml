@@ -1,0 +1,50 @@
+pokemon:
+  Groudon:
+    introduction: rs
+    types:
+    - [Ground]
+    egggroups:
+    - []
+    abilities:
+    - [Drought]
+    - bw: [Drought]
+    stats:
+    - [100, 150, 140, 100, 90, 90]
+    weight: [950]
+    height: [3.5]
+families: []
+learnsets:
+  rs:
+    Groudon: [Aerial Ace, Ancientpower, Body Slam, Brick Break, Bulk Up, Counter,
+      Cut, Defense Curl, Dig, Double-Edge, Double Team, Dragon Claw, Dynamicpunch,
+      Earthquake, Endure, Eruption, Facade, Fire Blast, Fire Punch, Fissure, Flamethrower,
+      Frustration, Fury Cutter, Hidden Power, Hyper Beam, Iron Tail, Mega Kick, Mega
+        Punch, Mimic, Mud Shot, Mud-Slap, Overheat, Protect, Psych Up, Rest, Return,
+      Roar, Rock Slide, Rock Smash, Rock Tomb, Rollout, Safeguard, Sandstorm, Scary
+        Face, Secret Power, Seismic Toss, Shock Wave, Slash, Sleep Talk, Snore, Solarbeam,
+      Strength, Substitute, Sunny Day, Swagger, Swift, Swords Dance, Thunder, Thunder
+        Wave, Thunderbolt, Thunderpunch, Toxic, Body Slam, Double-Edge, Mimic, Seismic
+        Toss]
+  dp:
+    Groudon: [Aerial Ace, Ancientpower, Block, Brick Break, Bulk Up, Cut, Dig, Double
+        Team, Dragon Claw, Dragon Pulse, Earth Power, Earthquake, Endure, Eruption,
+      Facade, Fire Blast, Fire Punch, Fissure, Flamethrower, Fling, Focus Blast, Frustration,
+      Fury Cutter, Giga Impact, Hammer Arm, Headbutt, Hidden Power, Hyper Beam, Iron
+        Head, Iron Tail, Lava Plume, Mud Shot, Mud-Slap, Natural Gift, Overheat, Protect,
+      Psych Up, Rest, Return, Roar, Rock Climb, Rock Polish, Rock Slide, Rock Smash,
+      Rock Tomb, Rollout, Safeguard, Sandstorm, Scary Face, Secret Power, Shadow Claw,
+      Shock Wave, Slash, Sleep Talk, Snore, Solarbeam, Stealth Rock, Stone Edge, Strength,
+      Substitute, Sunny Day, Swagger, Swift, Swords Dance, Thunder, Thunder Wave,
+      Thunderbolt, Thunderpunch, Toxic, Uproar, Body Slam, Double-Edge, Mimic, Seismic
+        Toss]
+  bw:
+    Groudon: [Aerial Ace, Ancientpower, Block, Brick Break, Bulk Up, Bulldoze, Cut,
+      Dig, Double Team, Dragon Claw, Dragon Pulse, Dragon Tail, Earth Power, Earthquake,
+      Eruption, Facade, Fire Blast, Fire Punch, Fissure, Flamethrower, Fling, Focus
+        Blast, Frustration, Giga Impact, Hammer Arm, Hidden Power, Hone Claws, Hyper
+        Beam, Incinerate, Iron Head, Iron Tail, Lava Plume, Mud Shot, Overheat, Protect,
+      Psych Up, Rest, Return, Roar, Rock Polish, Rock Slide, Rock Smash, Rock Tomb,
+      Round, Safeguard, Sandstorm, Scary Face, Shadow Claw, Sleep Talk, Smack Down,
+      Snore, Solarbeam, Stealth Rock, Stone Edge, Strength, Substitute, Sunny Day,
+      Swagger, Swords Dance, Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Toxic,
+      Uproar, Body Slam, Double-Edge, Mimic, Seismic Toss]

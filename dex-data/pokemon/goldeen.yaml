@@ -1,0 +1,71 @@
+pokemon:
+  Goldeen:
+    introduction: rb
+    types:
+    - [Water]
+    egggroups:
+    - [Water 2]
+    abilities:
+    - [Swift Swim, Water Veil]
+    - bw: [Lightningrod, Swift Swim, Water Veil]
+    stats:
+    - [45, 67, 60, 50, 50, 63]
+    - gs: [45, 67, 60, 35, 50, 63]
+    weight: [15]
+    height: [0.6]
+  Seaking:
+    introduction: rb
+    types:
+    - [Water]
+    egggroups:
+    - [Water 2]
+    abilities:
+    - [Swift Swim, Water Veil]
+    - bw: [Lightningrod, Swift Swim, Water Veil]
+    stats:
+    - [80, 92, 65, 80, 80, 68]
+    - gs: [80, 92, 65, 65, 80, 68]
+    weight: [39]
+    height: [1.3]
+families:
+- {from: Goldeen, to: Seaking}
+learnsets:
+  rb:
+    Goldeen: [Agility, Bide, Blizzard, Bubblebeam, Double-Edge, Double Team, Fury
+        Attack, Horn Attack, Horn Drill, Ice Beam, Mimic, Peck, Rage, Rest, Skull
+        Bash, Substitute, Supersonic, Surf, Swift, Tail Whip, Take Down, Toxic, Water
+        Gun, Waterfall]
+    Seaking: [Hyper Beam]
+  gs:
+    Goldeen: [Agility, Attract, Blizzard, Curse, Double Team, Endure, Flail, Frustration,
+      Fury Attack, Haze, Hidden Power, Horn Attack, Horn Drill, Hydro Pump, Ice Beam,
+      Icy Wind, Peck, Protect, Psybeam, Rain Dance, Rest, Return, Sleep Talk, Snore,
+      Supersonic, Surf, Swagger, Swift, Tail Whip, Toxic, Waterfall]
+    Seaking: [Hyper Beam]
+  rs:
+    Goldeen: [Agility, Attract, Blizzard, Dive, Double-Edge, Double Team, Endure,
+      Facade, Flail, Frustration, Fury Attack, Hail, Haze, Hidden Power, Horn Attack,
+      Horn Drill, Hydro Pump, Ice Beam, Icy Wind, Megahorn, Mimic, Mud Sport, Peck,
+      Protect, Psybeam, Rain Dance, Rest, Return, Secret Power, Sleep Talk, Snore,
+      Substitute, Supersonic, Surf, Swagger, Swift, Tail Whip, Toxic, Water Pulse,
+      Water Sport, Waterfall, Double-Edge, Icy Wind, Mimic]
+    Seaking: [Hyper Beam, Double-Edge, Icy Wind, Mimic]
+  dp:
+    Goldeen: [Agility, Aqua Ring, Aqua Tail, Attract, Blizzard, Body Slam, Bounce,
+      Captivate, Dive, Double Team, Endure, Facade, Flail, Frustration, Fury Attack,
+      Fury Cutter, Hail, Haze, Hidden Power, Horn Attack, Horn Drill, Hydro Pump,
+      Ice Beam, Icy Wind, Knock Off, Megahorn, Mud-Slap, Mud Sport, Natural Gift,
+      Peck, Poison Jab, Protect, Psybeam, Rain Dance, Rest, Return, Secret Power,
+      Sleep Talk, Snore, Substitute, Supersonic, Surf, Swagger, Swift, Tail Whip,
+      Toxic, Water Pulse, Water Sport, Waterfall, Whirlpool, Double-Edge, Icy Wind,
+      Mimic]
+    Seaking: [Giga Impact, Hyper Beam, Double-Edge, Icy Wind, Mimic]
+  bw:
+    Goldeen: [Agility, Aqua Ring, Aqua Tail, Attract, Blizzard, Body Slam, Bounce,
+      Dive, Double Team, Drill Run, Facade, Flail, Frustration, Fury Attack, Hail,
+      Haze, Hidden Power, Horn Attack, Horn Drill, Hydro Pump, Ice Beam, Icy Wind,
+      Knock Off, Megahorn, Mud Shot, Mud-Slap, Mud Sport, Peck, Poison Jab, Protect,
+      Psybeam, Rain Dance, Rest, Return, Round, Scald, Signal Beam, Skull Bash, Sleep
+        Talk, Snore, Soak, Substitute, Supersonic, Surf, Swagger, Tail Whip, Toxic,
+      Water Pulse, Water Sport, Waterfall, Double-Edge, Icy Wind, Mimic]
+    Seaking: [Giga Impact, Hyper Beam, Double-Edge, Icy Wind, Mimic]

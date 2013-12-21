@@ -1,0 +1,53 @@
+pokemon:
+  Sewaddle:
+    introduction: bw
+    types:
+    - [Bug, Grass]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Chlorophyll, Overcoat, Swarm]
+    stats:
+    - [45, 53, 70, 40, 60, 42]
+    weight: [2.5]
+    height: [0.3]
+  Swadloon:
+    introduction: bw
+    types:
+    - [Bug, Grass]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Chlorophyll, Leaf Guard, Overcoat]
+    stats:
+    - [55, 63, 90, 50, 80, 42]
+    weight: [7.3]
+    height: [0.5]
+  Leavanny:
+    introduction: bw
+    types:
+    - [Bug, Grass]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Chlorophyll, Overcoat, Swarm]
+    stats:
+    - [75, 103, 80, 70, 70, 92]
+    weight: [20.5]
+    height: [1.2]
+families:
+- {from: Sewaddle, to: Swadloon}
+- {from: Swadloon, to: Leavanny}
+learnsets:
+  bw:
+    Sewaddle: [Agility, Air Slash, Attract, Baton Pass, Bug Bite, Bug Buzz, Calm Mind,
+      Camouflage, Cut, Double Team, Dream Eater, Electroweb, Endure, Energy Ball,
+      Facade, Flail, Flash, Frustration, Giga Drain, Grass Knot, Hidden Power, Iron
+        Defense, Light Screen, Magic Coat, Me First, Mind Reader, Payback, Protect,
+      Razor Leaf, Razor Wind, Rest, Return, Round, Safeguard, Screech, Seed Bomb,
+      Signal Beam, Silver Wind, Sleep Talk, Snore, Solarbeam, String Shot, Struggle
+        Bug, Substitute, Sunny Day, Swagger, Synthesis, Tackle, Toxic, Worry Seed]
+    Swadloon: [Grasswhistle]
+    Leavanny: [Aerial Ace, Entrainment, False Swipe, Giga Impact, Heal Bell, Helping
+        Hand, Hone Claws, Hyper Beam, Knock Off, Leaf Blade, Leaf Storm, Poison Jab,
+      Reflect, Retaliate, Shadow Claw, Slash, Swords Dance, X-scissor]

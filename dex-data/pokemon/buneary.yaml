@@ -1,0 +1,54 @@
+pokemon:
+  Buneary:
+    introduction: dp
+    types:
+    - [Normal]
+    egggroups:
+    - [Ground, Humanshape]
+    abilities:
+    - [Klutz, Limber, Run Away]
+    stats:
+    - [55, 66, 44, 44, 56, 85]
+    weight: [5.5]
+    height: [0.4]
+  Lopunny:
+    introduction: dp
+    types:
+    - [Normal]
+    egggroups:
+    - [Ground, Humanshape]
+    abilities:
+    - [Cute Charm, Klutz, Limber]
+    stats:
+    - [65, 76, 84, 54, 96, 105]
+    weight: [33.3]
+    height: [1.2]
+families:
+- {from: Buneary, to: Lopunny}
+learnsets:
+  dp:
+    Buneary: [Agility, Attract, Baton Pass, Bounce, Captivate, Charge Beam, Charm,
+      Cut, Defense Curl, Dig, Dizzy Punch, Double Hit, Double Team, Drain Punch, Encore,
+      Endeavor, Endure, Facade, Fake Out, Fake Tears, Fire Punch, Flail, Fling, Focus
+        Punch, Foresight, Frustration, Grass Knot, Headbutt, Heal Bell, Healing Wish,
+      Helping Hand, Hidden Power, Ice Beam, Ice Punch, Iron Tail, Jump Kick, Last
+        Resort, Low Kick, Magic Coat, Mud-Slap, Natural Gift, Pound, Protect, Quick
+        Attack, Rain Dance, Rest, Return, Rock Smash, Secret Power, Shadow Ball, Shock
+        Wave, Sky Uppercut, Sleep Talk, Snore, Solarbeam, Splash, Substitute, Sunny
+        Day, Swagger, Sweet Kiss, Swift, Switcheroo, Thunder Wave, Thunderbolt, Thunderpunch,
+      Toxic, Uproar, Water Pulse]
+    Lopunny: [Blizzard, Focus Blast, Fury Cutter, Giga Impact, Hyper Beam, Mirror
+        Coat, Strength, Thunder]
+  bw:
+    Buneary: [After You, Agility, Attract, Baton Pass, Bounce, Charge Beam, Charm,
+      Circle Throw, Copycat, Covet, Cut, Defense Curl, Dig, Dizzy Punch, Double Hit,
+      Double Team, Drain Punch, Encore, Endeavor, Endure, Entrainment, Facade, Fake
+        Out, Fake Tears, Fire Punch, Flail, Fling, Focus Punch, Foresight, Frustration,
+      Grass Knot, Heal Bell, Healing Wish, Helping Hand, Hidden Power, Hyper Voice,
+      Ice Beam, Ice Punch, Iron Tail, Jump Kick, Last Resort, Low Kick, Magic Coat,
+      Pound, Protect, Quick Attack, Rain Dance, Rest, Retaliate, Return, Rock Smash,
+      Round, Shadow Ball, Sky Uppercut, Sleep Talk, Snore, Solarbeam, Splash, Substitute,
+      Sunny Day, Swagger, Sweet Kiss, Switcheroo, Thunder Wave, Thunderbolt, Thunderpunch,
+      Toxic, Uproar, Work Up]
+    Lopunny: [Blizzard, Focus Blast, Giga Impact, Hyper Beam, Low Sweep, Mirror Coat,
+      Strength, Thunder]

@@ -1,0 +1,99 @@
+pokemon:
+  Geodude:
+    introduction: rb
+    types:
+    - [Ground, Rock]
+    egggroups:
+    - [Mineral]
+    abilities:
+    - [Rock Head, Sturdy]
+    - bw: [Rock Head, Sand Veil, Sturdy]
+    stats:
+    - [40, 80, 100, 30, 30, 20]
+    - gs: [40, 80, 100, 30, 30, 20]
+    weight: [20]
+    height: [0.4]
+  Graveler:
+    introduction: rb
+    types:
+    - [Ground, Rock]
+    egggroups:
+    - [Mineral]
+    abilities:
+    - [Rock Head, Sturdy]
+    - bw: [Rock Head, Sand Veil, Sturdy]
+    stats:
+    - [55, 95, 115, 45, 45, 35]
+    - gs: [55, 95, 115, 45, 45, 35]
+    weight: [105]
+    height: [1]
+  Golem:
+    introduction: rb
+    types:
+    - [Ground, Rock]
+    egggroups:
+    - [Mineral]
+    abilities:
+    - [Rock Head, Sturdy]
+    - bw: [Rock Head, Sand Veil, Sturdy]
+    stats:
+    - [80, 110, 130, 55, 55, 45]
+    - gs: [80, 110, 130, 55, 65, 45]
+    weight: [300]
+    height: [1.4]
+families:
+- {from: Geodude, to: Graveler}
+- {from: Graveler, to: Golem}
+learnsets:
+  rb:
+    Geodude: [Bide, Body Slam, Counter, Defense Curl, Dig, Double-Edge, Double Team,
+      Earthquake, Explosion, Fire Blast, Fissure, Harden, Mega Punch, Metronome, Mimic,
+      Rage, Rest, Rock Slide, Rock Throw, Seismic Toss, Selfdestruct, Strength, Submission,
+      Substitute, Tackle, Take Down, Toxic, Rapid Spin]
+    Graveler: []
+    Golem: [Hyper Beam, Mega Kick]
+  gs:
+    Geodude: [Attract, Curse, Defense Curl, Dig, Double Team, Dynamicpunch, Earthquake,
+      Endure, Explosion, Fire Blast, Fire Punch, Flamethrower, Frustration, Harden,
+      Headbutt, Hidden Power, Magnitude, Mega Punch, Mud-Slap, Protect, Rest, Return,
+      Rock Slide, Rock Smash, Rock Throw, Rollout, Sandstorm, Selfdestruct, Sleep
+        Talk, Snore, Strength, Sunny Day, Swagger, Tackle, Toxic, Rapid Spin]
+    Graveler: []
+    Golem: [Fury Cutter, Hyper Beam, Roar]
+  rs:
+    Geodude: [Attract, Block, Body Slam, Brick Break, Counter, Defense Curl, Dig,
+      Double-Edge, Double Team, Dynamicpunch, Earthquake, Endure, Explosion, Facade,
+      Fire Blast, Fire Punch, Flamethrower, Focus Punch, Frustration, Hidden Power,
+      Magnitude, Mega Punch, Metronome, Mimic, Mud-Slap, Mud Sport, Protect, Rest,
+      Return, Rock Blast, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout,
+      Sandstorm, Secret Power, Seismic Toss, Selfdestruct, Sleep Talk, Snore, Strength,
+      Substitute, Sunny Day, Swagger, Tackle, Toxic, Body Slam, Double-Edge, Mimic,
+      Seismic Toss, Selfdestruct]
+    Graveler: [Body Slam, Mimic, Seismic Toss]
+    Golem: [Fury Cutter, Hyper Beam, Mega Kick, Roar, Body Slam, Mimic, Seismic Toss]
+  dp:
+    Geodude: [Ancientpower, Attract, Block, Brick Break, Captivate, Curse, Defense
+        Curl, Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endure, Explosion,
+      Facade, Fire Blast, Fire Punch, Flail, Flamethrower, Fling, Focus Punch, Frustration,
+      Gyro Ball, Hammer Arm, Headbutt, Hidden Power, Magnitude, Mega Punch, Mud-Slap,
+      Mud Sport, Natural Gift, Protect, Rest, Return, Rock Blast, Rock Climb, Rock
+        Polish, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Sandstorm,
+      Secret Power, Selfdestruct, Sleep Talk, Snore, Stealth Rock, Stone Edge, Strength,
+      Substitute, Sucker Punch, Sunny Day, Superpower, Swagger, Tackle, Thunderpunch,
+      Toxic, Body Slam, Double-Edge, Mimic, Seismic Toss, Selfdestruct]
+    Graveler: [Body Slam, Mimic, Seismic Toss]
+    Golem: [Focus Blast, Fury Cutter, Giga Impact, Hyper Beam, Iron Head, Roar, Body
+        Slam, Mimic, Seismic Toss]
+  bw:
+    Geodude: [Attract, Autotomize, Block, Brick Break, Bulldoze, Curse, Defense Curl,
+      Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endure, Explosion, Facade,
+      Fire Blast, Fire Punch, Flail, Flamethrower, Fling, Focus Punch, Frustration,
+      Gyro Ball, Hammer Arm, Hidden Power, Incinerate, Iron Defense, Magnitude, Mega
+        Punch, Mud Sport, Protect, Rest, Return, Rock Blast, Rock Climb, Rock Polish,
+      Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Round, Sandstorm, Selfdestruct,
+      Sleep Talk, Smack Down, Snore, Stealth Rock, Stone Edge, Strength, Substitute,
+      Sunny Day, Superpower, Swagger, Tackle, Thunderpunch, Toxic, Body Slam, Double-Edge,
+      Mimic, Seismic Toss, Selfdestruct]
+    Graveler: [Body Slam, Mimic, Seismic Toss]
+    Golem: [Focus Blast, Giga Impact, Heavy Slam, Hyper Beam, Iron Head, Roar, Steamroller,
+      Body Slam, Mimic, Seismic Toss]

@@ -1,0 +1,44 @@
+pokemon:
+  Shaymin:
+    introduction: dp
+    types:
+    - [Grass]
+    egggroups:
+    - []
+    abilities:
+    - [Natural Cure]
+    stats:
+    - [100, 100, 100, 100, 100, 100]
+    weight: [2.1]
+    height: [0.2]
+  Shaymin-Sky:
+    introduction: dp
+    types:
+    - [Flying, Grass]
+    egggroups:
+    - []
+    abilities:
+    - [Serene Grace]
+    stats:
+    - [100, 103, 75, 120, 75, 127]
+    weight: [5.2]
+    height: [0.4]
+families:
+- {from: Shaymin, to: Shaymin-S}
+learnsets:
+  dp:
+    Shaymin: [Aromatherapy, Bullet Seed, Defense Curl, Double Team, Earth Power, Endeavor,
+      Endure, Energy Ball, Facade, Flash, Frustration, Giga Drain, Giga Impact, Grass
+        Knot, Grasswhistle, Growth, Headbutt, Healing Wish, Hidden Power, Hyper Beam,
+      Last Resort, Leech Seed, Lucky Chant, Magical Leaf, Mud-Slap, Natural Gift,
+      Protect, Psych Up, Psychic, Rest, Return, Safeguard, Secret Power, Seed Bomb,
+      Seed Flare, Sleep Talk, Snore, Solarbeam, Substitute, Sunny Day, Swagger, Sweet
+        Kiss, Sweet Scent, Swift, Swords Dance, Synthesis, Toxic, Worry Seed, Zen
+        Headbutt]
+  bw:
+    Shaymin: [Aromatherapy, Covet, Double Team, Earth Power, Endeavor, Energy Ball,
+      Facade, Flash, Frustration, Giga Drain, Giga Impact, Grass Knot, Growth, Healing
+        Wish, Hidden Power, Hyper Beam, Last Resort, Leech Seed, Magical Leaf, Natural
+        Gift, Protect, Psych Up, Psychic, Rest, Return, Round, Safeguard, Seed Bomb,
+      Seed Flare, Sleep Talk, Snore, Solarbeam, Substitute, Sunny Day, Swagger, Sweet
+        Kiss, Sweet Scent, Swords Dance, Synthesis, Toxic, Worry Seed, Zen Headbutt]

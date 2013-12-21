@@ -1,0 +1,67 @@
+pokemon:
+  Slugma:
+    introduction: gs
+    types:
+    - [Fire]
+    egggroups:
+    - [Indeterminate]
+    abilities:
+    - [Flame Body, Magma Armor]
+    - bw: [Flame Body, Magma Armor, Weak Armor]
+    stats:
+    - [40, 40, 40, 70, 40, 20]
+    weight: [35]
+    height: [0.7]
+  Magcargo:
+    introduction: gs
+    types:
+    - [Fire, Rock]
+    egggroups:
+    - [Indeterminate]
+    abilities:
+    - [Flame Body, Magma Armor]
+    - bw: [Flame Body, Magma Armor, Weak Armor]
+    stats:
+    - [50, 50, 120, 80, 80, 30]
+    weight: [55]
+    height: [0.8]
+families:
+- {from: Slugma, to: Magcargo}
+learnsets:
+  gs:
+    Slugma: [Acid Armor, Amnesia, Attract, Body Slam, Curse, Defense Curl, Double
+        Team, Ember, Endure, Fire Blast, Flamethrower, Frustration, Harden, Hidden
+        Power, Mud-Slap, Protect, Rest, Return, Rock Slide, Rock Smash, Rock Throw,
+      Rollout, Sleep Talk, Smog, Snore, Sunny Day, Swagger, Toxic]
+    Magcargo: [Earthquake, Hyper Beam, Strength]
+  rs:
+    Slugma: [Acid Armor, Amnesia, Attract, Body Slam, Defense Curl, Double-Edge, Double
+        Team, Ember, Endure, Facade, Fire Blast, Flamethrower, Frustration, Harden,
+      Heat Wave, Hidden Power, Light Screen, Mimic, Mud-Slap, Overheat, Protect, Reflect,
+      Rest, Return, Rock Slide, Rock Smash, Rock Throw, Rollout, Secret Power, Selfdestruct,
+      Sleep Talk, Smog, Snore, Substitute, Sunny Day, Swagger, Toxic, Yawn, Double-Edge,
+      Mimic, Selfdestruct]
+    Magcargo: [Earthquake, Hyper Beam, Rock Tomb, Sandstorm, Strength, Double-Edge,
+      Mimic, Refresh, Selfdestruct]
+  dp:
+    Slugma: [Acid Armor, Amnesia, Ancientpower, Attract, Body Slam, Captivate, Curse,
+      Double Team, Earth Power, Ember, Endure, Facade, Fire Blast, Flamethrower, Frustration,
+      Harden, Heat Wave, Hidden Power, Iron Defense, Lava Plume, Light Screen, Memento,
+      Mud-Slap, Natural Gift, Overheat, Pain Split, Protect, Recover, Reflect, Rest,
+      Return, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Secret Power,
+      Sleep Talk, Smog, Smokescreen, Snore, Spit Up, Stockpile, Substitute, Sunny
+        Day, Swagger, Swallow, Toxic, Will-O-Wisp, Yawn, Double-Edge, Mimic, Selfdestruct]
+    Magcargo: [Earthquake, Explosion, Giga Impact, Gyro Ball, Hyper Beam, Rock Polish,
+      Sandstorm, Solarbeam, Stealth Rock, Stone Edge, Strength, Double-Edge, Mimic,
+      Refresh, Selfdestruct]
+  bw:
+    Slugma: [Acid Armor, After You, Amnesia, Ancientpower, Attract, Body Slam, Curse,
+      Double Team, Earth Power, Ember, Facade, Fire Blast, Flame Burst, Flame Charge,
+      Flamethrower, Frustration, Harden, Heat Wave, Hidden Power, Incinerate, Inferno,
+      Iron Defense, Lava Plume, Light Screen, Memento, Overheat, Pain Split, Protect,
+      Recover, Reflect, Rest, Return, Rock Slide, Rock Smash, Rock Throw, Rock Tomb,
+      Rollout, Round, Sleep Talk, Smog, Smokescreen, Snore, Spit Up, Stockpile, Substitute,
+      Sunny Day, Swagger, Swallow, Toxic, Will-O-Wisp, Yawn, Double-Edge, Mimic, Selfdestruct]
+    Magcargo: [Bulldoze, Earthquake, Explosion, Giga Impact, Gyro Ball, Hyper Beam,
+      Rock Polish, Sandstorm, Shell Smash, Smack Down, Solarbeam, Stealth Rock, Stone
+        Edge, Strength, Double-Edge, Mimic, Refresh, Selfdestruct]

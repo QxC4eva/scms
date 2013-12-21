@@ -1,0 +1,38 @@
+pokemon:
+  Tirtouga:
+    introduction: bw
+    types:
+    - [Rock, Water]
+    egggroups:
+    - [Water 1, Water 3]
+    abilities:
+    - [Solid Rock, Sturdy, Swift Swim]
+    stats:
+    - [54, 78, 103, 53, 45, 22]
+    weight: [16.5]
+    height: [0.7]
+  Carracosta:
+    introduction: bw
+    types:
+    - [Rock, Water]
+    egggroups:
+    - [Water 1, Water 3]
+    abilities:
+    - [Solid Rock, Sturdy, Swift Swim]
+    stats:
+    - [74, 108, 133, 83, 65, 32]
+    weight: [81]
+    height: [1.2]
+families:
+- {from: Tirtouga, to: Carracosta}
+learnsets:
+  bw:
+    Tirtouga: [Ancientpower, Aqua Jet, Aqua Tail, Attract, Bide, Bite, Blizzard, Block,
+      Body Slam, Brine, Bulldoze, Crunch, Curse, Dig, Dive, Double Team, Earth Power,
+      Earthquake, Facade, Flail, Frustration, Hidden Power, Hydro Pump, Ice Beam,
+      Icy Wind, Iron Defense, Iron Tail, Knock Off, Protect, Rain Dance, Rest, Return,
+      Rock Polish, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Round,
+      Sandstorm, Scald, Shell Smash, Slam, Sleep Talk, Smack Down, Snore, Stealth
+        Rock, Stone Edge, Strength, Substitute, Surf, Swagger, Toxic, Water Gun, Water
+        Pulse, Waterfall, Whirlpool, Wide Guard, Withdraw]
+    Carracosta: [Focus Blast, Giga Impact, Hyper Beam, Iron Head, Low Kick, Superpower]

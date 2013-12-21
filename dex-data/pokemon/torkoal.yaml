@@ -1,0 +1,43 @@
+pokemon:
+  Torkoal:
+    introduction: rs
+    types:
+    - [Fire]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [White Smoke]
+    - bw: [Shell Armor, White Smoke]
+    stats:
+    - [70, 85, 140, 85, 70, 20]
+    weight: [80.4]
+    height: [0.5]
+families: []
+learnsets:
+  rs:
+    Torkoal: [Amnesia, Attract, Body Slam, Curse, Double-Edge, Double Team, Ember,
+      Endure, Eruption, Explosion, Facade, Fire Blast, Fire Spin, Flail, Flamethrower,
+      Frustration, Heat Wave, Hidden Power, Iron Defense, Iron Tail, Mimic, Mud-Slap,
+      Overheat, Protect, Rest, Return, Rock Slide, Rock Smash, Secret Power, Selfdestruct,
+      Sleep Talk, Sludge Bomb, Smog, Smokescreen, Snore, Strength, Substitute, Sunny
+        Day, Swagger, Toxic, Yawn, Double-Edge, Mimic, Selfdestruct]
+  dp:
+    Torkoal: [Amnesia, Attract, Body Slam, Captivate, Curse, Double Team, Earth Power,
+      Earthquake, Ember, Endure, Eruption, Explosion, Facade, Fire Blast, Fire Spin,
+      Fissure, Flail, Flamethrower, Frustration, Giga Impact, Gyro Ball, Headbutt,
+      Heat Wave, Hidden Power, Hyper Beam, Iron Defense, Iron Tail, Lava Plume, Mud-Slap,
+      Natural Gift, Overheat, Protect, Rapid Spin, Rest, Return, Rock Slide, Rock
+        Smash, Rock Tomb, Rollout, Secret Power, Skull Bash, Sleep Talk, Sludge Bomb,
+      Smog, Smokescreen, Snore, Solarbeam, Stealth Rock, Stone Edge, Strength, Substitute,
+      Sunny Day, Swagger, Toxic, Will-O-Wisp, Withdraw, Yawn, Double-Edge, Mimic,
+      Selfdestruct]
+  bw:
+    Torkoal: [After You, Amnesia, Attract, Body Slam, Bulldoze, Clear Smog, Curse,
+      Double Team, Earth Power, Earthquake, Ember, Endure, Eruption, Explosion, Facade,
+      Fire Blast, Fire Spin, Fissure, Flail, Flame Burst, Flame Charge, Flamethrower,
+      Frustration, Giga Impact, Gyro Ball, Heat Wave, Hidden Power, Hyper Beam, Incinerate,
+      Inferno, Iron Defense, Iron Tail, Lava Plume, Overheat, Protect, Rapid Spin,
+      Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Round, Shell Smash, Skull Bash,
+      Sleep Talk, Sludge Bomb, Smog, Smokescreen, Snore, Solarbeam, Stealth Rock,
+      Stone Edge, Strength, Substitute, Sunny Day, Swagger, Toxic, Will-O-Wisp, Withdraw,
+      Yawn, Double-Edge, Mimic, Selfdestruct]

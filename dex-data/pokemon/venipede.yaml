@@ -1,0 +1,51 @@
+pokemon:
+  Venipede:
+    introduction: bw
+    types:
+    - [Bug, Poison]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Poison Point, Quick Feet, Swarm]
+    stats:
+    - [30, 45, 59, 30, 39, 57]
+    weight: [5.3]
+    height: [0.4]
+  Whirlipede:
+    introduction: bw
+    types:
+    - [Bug, Poison]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Poison Point, Quick Feet, Swarm]
+    stats:
+    - [40, 55, 99, 40, 79, 47]
+    weight: [58.5]
+    height: [1.2]
+  Scolipede:
+    introduction: bw
+    types:
+    - [Bug, Poison]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Poison Point, Quick Feet, Swarm]
+    stats:
+    - [60, 90, 89, 55, 69, 112]
+    weight: [200.5]
+    height: [2.5]
+families:
+- {from: Venipede, to: Whirlipede}
+- {from: Whirlipede, to: Scolipede}
+learnsets:
+  bw:
+    Venipede: [Agility, Attract, Bug Bite, Defense Curl, Double-Edge, Double Team,
+      Endeavor, Facade, Frustration, Gyro Ball, Hidden Power, Iron Defense, Payback,
+      Pin Missile, Poison Jab, Poison Sting, Poison Tail, Protect, Pursuit, Rest,
+      Return, Rock Climb, Rock Smash, Rollout, Round, Screech, Sleep Talk, Sludge
+        Bomb, Snore, Solarbeam, Spikes, Steamroller, Struggle Bug, Substitute, Sunny
+        Day, Swagger, Take Down, Toxic, Toxic Spikes, Twineedle, Venoshock]
+    Scolipede: [Aqua Tail, Baton Pass, Bulldoze, Cut, Dig, Earthquake, Giga Impact,
+      Hyper Beam, Iron Tail, Megahorn, Rock Slide, Rock Tomb, Snatch, Strength, Superpower,
+      Swords Dance, X-scissor]

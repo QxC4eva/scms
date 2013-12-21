@@ -1,0 +1,38 @@
+pokemon:
+  Cottonee:
+    introduction: bw
+    types:
+    - [Grass]
+    egggroups:
+    - [Fairy, Plant]
+    abilities:
+    - [Chlorophyll, Infiltrator, Prankster]
+    stats:
+    - [40, 27, 60, 37, 50, 66]
+    weight: [0.6]
+    height: [0.3]
+  Whimsicott:
+    introduction: bw
+    types:
+    - [Grass]
+    egggroups:
+    - [Fairy, Plant]
+    abilities:
+    - [Chlorophyll, Infiltrator, Prankster]
+    stats:
+    - [60, 67, 85, 77, 75, 116]
+    weight: [6.6]
+    height: [0.7]
+families:
+- {from: Cottonee, to: Whimsicott}
+learnsets:
+  bw:
+    Cottonee: [Absorb, Attract, Beat Up, Charm, Cotton Guard, Cotton Spore, Covet,
+      Double Team, Dream Eater, Encore, Endeavor, Energy Ball, Facade, Fake Tears,
+      Flash, Frustration, Giga Drain, Grass Knot, Grasswhistle, Growth, Helping Hand,
+      Hidden Power, Knock Off, Leech Seed, Mega Drain, Memento, Natural Gift, Poisonpowder,
+      Protect, Razor Leaf, Rest, Return, Round, Safeguard, Seed Bomb, Sleep Talk,
+      Snore, Solarbeam, Stun Spore, Substitute, Sunny Day, Swagger, Switcheroo, Tailwind,
+      Taunt, Tickle, Toxic, Worry Seed]
+    Whimsicott: [Fling, Giga Impact, Gust, Hurricane, Hyper Beam, Light Screen, Psychic,
+      Shadow Ball, Thief, Trick Room, U-turn]

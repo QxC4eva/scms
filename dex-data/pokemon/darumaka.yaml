@@ -1,0 +1,39 @@
+pokemon:
+  Darumaka:
+    introduction: bw
+    types:
+    - [Fire]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Hustle, Inner Focus]
+    stats:
+    - [70, 90, 45, 15, 45, 50]
+    weight: [37.5]
+    height: [0.6]
+  Darmanitan:
+    introduction: bw
+    types:
+    - [Fire]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Sheer Force, Zen Mode]
+    stats:
+    - [105, 140, 55, 30, 55, 95]
+    weight: [92.9]
+    height: [1.3]
+families:
+- {from: Darumaka, to: Darmanitan}
+learnsets:
+  bw:
+    Darumaka: [Attract, Belly Drum, Brick Break, Dig, Double Team, Encore, Endeavor,
+      Endure, Facade, Fire Blast, Fire Fang, Fire Punch, Flame Charge, Flame Wheel,
+      Flamethrower, Flare Blitz, Fling, Focus Energy, Focus Punch, Frustration, Grass
+        Knot, Gyro Ball, Hammer Arm, Headbutt, Heat Wave, Hidden Power, Incinerate,
+      Overheat, Protect, Rage, Rest, Return, Roar, Rock Slide, Rock Smash, Rock Tomb,
+      Rollout, Round, Sleep Talk, Snore, Solarbeam, Strength, Substitute, Sunny Day,
+      Superpower, Swagger, Tackle, Take Down, Taunt, Thief, Thrash, Toxic, U-turn,
+      Uproar, Will-O-Wisp, Work Up, Yawn, Zen Headbutt]
+    Darmanitan: [Bulk Up, Bulldoze, Earthquake, Focus Blast, Giga Impact, Hyper Beam,
+      Payback, Psychic, Smack Down, Stone Edge, Torment]

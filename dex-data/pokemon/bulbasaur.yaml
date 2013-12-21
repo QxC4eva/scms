@@ -1,0 +1,95 @@
+pokemon:
+  Bulbasaur:
+    introduction: rb
+    types:
+    - [Grass, Poison]
+    egggroups:
+    - [Monster, Plant]
+    abilities:
+    - [Overgrow]
+    - bw: [Chlorophyll, Overgrow]
+    stats:
+    - [45, 49, 49, 65, 65, 45]
+    - gs: [45, 49, 49, 65, 65, 45]
+    weight: [6.9]
+    height: [0.7]
+  Venusaur:
+    introduction: rb
+    types:
+    - [Grass, Poison]
+    egggroups:
+    - [Monster, Plant]
+    abilities:
+    - [Overgrow]
+    - bw: [Chlorophyll, Overgrow]
+    stats:
+    - [80, 82, 83, 100, 100, 80]
+    - gs: [80, 82, 83, 100, 100, 80]
+    weight: [100]
+    height: [2]
+  Ivysaur:
+    introduction: rb
+    types:
+    - [Grass, Poison]
+    egggroups:
+    - [Monster, Plant]
+    abilities:
+    - [Overgrow]
+    - bw: [Chlorophyll, Overgrow]
+    stats:
+    - [60, 62, 63, 80, 80, 60]
+    - gs: [60, 62, 63, 80, 80, 60]
+    weight: [13]
+    height: [1]
+families:
+- {from: Bulbasaur, to: Ivysaur}
+- {from: Ivysaur, to: Venusaur}
+learnsets:
+  rb:
+    Bulbasaur: [Bide, Body Slam, Cut, Double-Edge, Double Team, Growl, Growth, Leech
+        Seed, Mega Drain, Mimic, Poisonpowder, Rage, Razor Leaf, Reflect, Rest, Sleep
+        Powder, Solarbeam, Substitute, Swords Dance, Tackle, Take Down, Toxic, Vine
+        Whip, Ancientpower, Rock Throw]
+    Venusaur: [Hyper Beam]
+  gs:
+    Bulbasaur: [Attract, Charm, Curse, Cut, Defense Curl, Double Team, Endure, Flash,
+      Frustration, Fury Cutter, Giga Drain, Growl, Growth, Headbutt, Hidden Power,
+      Leech Seed, Light Screen, Mud-Slap, Petal Dance, Poisonpowder, Protect, Razor
+        Leaf, Razor Wind, Rest, Return, Safeguard, Skull Bash, Sleep Powder, Sleep
+        Talk, Snore, Solarbeam, Sunny Day, Swagger, Sweet Scent, Synthesis, Tackle,
+      Toxic, Vine Whip, Ancientpower, Rock Throw]
+    Venusaur: [Hyper Beam, Roar]
+  rs:
+    Bulbasaur: [Attract, Body Slam, Bullet Seed, Charm, Curse, Cut, Defense Curl,
+      Double-Edge, Double Team, Endure, Facade, Flash, Frustration, Fury Cutter, Giga
+        Drain, Grasswhistle, Growl, Growth, Hidden Power, Leech Seed, Light Screen,
+      Magical Leaf, Mimic, Mud-Slap, Petal Dance, Poisonpowder, Protect, Razor Leaf,
+      Rest, Return, Rock Smash, Safeguard, Secret Power, Skull Bash, Sleep Powder,
+      Sleep Talk, Sludge Bomb, Snore, Solarbeam, Strength, Substitute, Sunny Day,
+      Swagger, Sweet Scent, Swords Dance, Synthesis, Tackle, Toxic, Vine Whip]
+    Venusaur: [Body Slam, Earthquake, Frenzy Plant, Hyper Beam, Mimic, Roar, Body
+        Slam, Mimic]
+  dp:
+    Bulbasaur: [Amnesia, Attract, Bullet Seed, Captivate, Charm, Curse, Cut, Double-Edge,
+      Double Team, Endure, Energy Ball, Facade, Flash, Frustration, Fury Cutter, Giga
+        Drain, Grass Knot, Grasswhistle, Growl, Growth, Headbutt, Hidden Power, Ingrain,
+      Knock Off, Leaf Storm, Leech Seed, Light Screen, Magical Leaf, Mud-Slap, Natural
+        Gift, Nature Power, Petal Dance, Poisonpowder, Power Whip, Protect, Razor
+        Leaf, Rest, Return, Rock Smash, Safeguard, Secret Power, Seed Bomb, Skull
+        Bash, Sleep Powder, Sleep Talk, Sludge, Sludge Bomb, Snore, Solarbeam, Strength,
+      String Shot, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis,
+      Tackle, Take Down, Toxic, Vine Whip, Worry Seed]
+    Venusaur: [Block, Earthquake, Frenzy Plant, Giga Impact, Hyper Beam, Outrage,
+      Roar, Rock Climb, Body Slam, Mimic]
+  bw:
+    Bulbasaur: [Amnesia, Attract, Bind, Charm, Curse, Cut, Double-Edge, Double Team,
+      Echoed Voice, Endure, Energy Ball, Facade, Flash, Frustration, Giga Drain, Grass
+        Knot, Grass Pledge, Grasswhistle, Growl, Growth, Hidden Power, Ingrain, Knock
+        Off, Leaf Storm, Leech Seed, Light Screen, Magical Leaf, Nature Power, Petal
+        Dance, Poisonpowder, Power Whip, Protect, Razor Leaf, Rest, Return, Rock Smash,
+      Round, Safeguard, Seed Bomb, Skull Bash, Sleep Powder, Sleep Talk, Sludge, Sludge
+        Bomb, Snore, Solarbeam, Strength, Substitute, Sunny Day, Swagger, Sweet Scent,
+      Swords Dance, Synthesis, Tackle, Take Down, Toxic, Venoshock, Vine Whip, Worry
+        Seed, Block, Weather Ball, False Swipe]
+    Venusaur: [Bulldoze, Earthquake, Frenzy Plant, Giga Impact, Hyper Beam, Outrage,
+      Roar, Body Slam, Mimic]

@@ -1,0 +1,24 @@
+pokemon:
+  Terrakion:
+    introduction: bw
+    types:
+    - [Fighting, Rock]
+    egggroups:
+    - []
+    abilities:
+    - [Justified]
+    stats:
+    - [91, 129, 90, 72, 90, 108]
+    weight: [260]
+    height: [1.9]
+families: []
+learnsets:
+  bw:
+    Terrakion: [Aerial Ace, Block, Bulldoze, Calm Mind, Close Combat, Cut, Double
+        Kick, Double Team, Earth Power, Earthquake, Facade, False Swipe, Focus Blast,
+      Frustration, Giga Impact, Helping Hand, Hidden Power, Hyper Beam, Iron Head,
+      Leer, Poison Jab, Protect, Psych Up, Quick Attack, Quick Guard, Reflect, Rest,
+      Retaliate, Return, Roar, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Round,
+      Sacred Sword, Safeguard, Sandstorm, Sleep Talk, Smack Down, Snore, Stealth Rock,
+      Stone Edge, Strength, Substitute, Superpower, Swagger, Swords Dance, Take Down,
+      Taunt, Toxic, Work Up, X-scissor, Zen Headbutt]

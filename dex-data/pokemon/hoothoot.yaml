@@ -1,0 +1,66 @@
+pokemon:
+  Hoothoot:
+    introduction: gs
+    types:
+    - [Flying, Normal]
+    egggroups:
+    - [Flying]
+    abilities:
+    - [Insomnia, Keen Eye]
+    - bw: [Insomnia, Keen Eye, Tinted Lens]
+    stats:
+    - [60, 30, 30, 36, 56, 50]
+    weight: [21.2]
+    height: [0.7]
+  Noctowl:
+    introduction: gs
+    types:
+    - [Flying, Normal]
+    egggroups:
+    - [Flying]
+    abilities:
+    - [Insomnia, Keen Eye]
+    - bw: [Insomnia, Keen Eye, Tinted Lens]
+    stats:
+    - [100, 50, 50, 76, 96, 70]
+    weight: [40.8]
+    height: [1.6]
+families:
+- {from: Hoothoot, to: Noctowl}
+learnsets:
+  gs:
+    Hoothoot: [Attract, Confusion, Curse, Detect, Double Team, Dream Eater, Endure,
+      Faint Attack, Flash, Fly, Foresight, Frustration, Growl, Hidden Power, Hypnosis,
+      Mirror Move, Mud-Slap, Nightmare, Peck, Protect, Reflect, Rest, Return, Sky
+        Attack, Sleep Talk, Snore, Steel Wing, Sunny Day, Supersonic, Swagger, Swift,
+      Tackle, Take Down, Thief, Toxic, Whirlwind, Wing Attack]
+    Noctowl: [Hyper Beam]
+  rs:
+    Hoothoot: [Aerial Ace, Attract, Confusion, Double-Edge, Double Team, Dream Eater,
+      Endure, Facade, Faint Attack, Featherdance, Flash, Fly, Foresight, Frustration,
+      Growl, Hidden Power, Hypnosis, Mimic, Mirror Move, Mud-Slap, Nightmare, Peck,
+      Protect, Psychic, Rain Dance, Reflect, Rest, Return, Secret Power, Shadow Ball,
+      Sky Attack, Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day, Supersonic,
+      Swagger, Swift, Tackle, Take Down, Thief, Toxic, Whirlwind, Wing Attack]
+    Noctowl: [Hyper Beam]
+  dp:
+    Hoothoot: [Aerial Ace, Agility, Air Cutter, Air Slash, Attract, Captivate, Confusion,
+      Defog, Double Team, Dream Eater, Endure, Extrasensory, Facade, Faint Attack,
+      Featherdance, Fly, Foresight, Frustration, Growl, Heat Wave, Hidden Power, Hypnosis,
+      Magic Coat, Mirror Move, Mud-Slap, Natural Gift, Night Shade, Ominous Wind,
+      Peck, Pluck, Protect, Psych Up, Psychic, Psycho Shift, Rain Dance, Recycle,
+      Reflect, Rest, Return, Roost, Secret Power, Shadow Ball, Silver Wind, Sky Attack,
+      Sleep Talk, Steel Wing, Substitute, Sunny Day, Supersonic, Swagger, Swift, Tackle,
+      Tailwind, Take Down, Thief, Toxic, Twister, Uproar, Whirlwind, Wing Attack,
+      Zen Headbutt]
+    Noctowl: [Giga Impact, Hyper Beam]
+  bw:
+    Hoothoot: [Aerial Ace, Agility, Air Slash, Attract, Confusion, Defog, Double Team,
+      Dream Eater, Echoed Voice, Extrasensory, Facade, Faint Attack, Featherdance,
+      Fly, Foresight, Frustration, Growl, Heat Wave, Hidden Power, Hyper Voice, Hypnosis,
+      Magic Coat, Mirror Move, Night Shade, Peck, Pluck, Protect, Psych Up, Psychic,
+      Psycho Shift, Rain Dance, Recycle, Reflect, Rest, Return, Roost, Round, Shadow
+        Ball, Sky Attack, Sleep Talk, Substitute, Sunny Day, Supersonic, Swagger,
+      Synchronoise, Tackle, Tailwind, Take Down, Thief, Toxic, Uproar, Whirlwind,
+      Wing Attack, Work Up, Zen Headbutt]
+    Noctowl: [Giga Impact, Hyper Beam]

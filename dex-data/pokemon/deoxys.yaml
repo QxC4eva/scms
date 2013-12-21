@@ -1,0 +1,107 @@
+pokemon:
+  Deoxys:
+    introduction: rs
+    types:
+    - [Psychic]
+    egggroups:
+    - []
+    abilities:
+    - [Pressure]
+    - bw: [Pressure]
+    stats:
+    - [50, 150, 50, 150, 50, 150]
+    weight: [60.8]
+    height: [1.7]
+  Deoxys-Attack:
+    introduction: rs
+    types:
+    - [Psychic]
+    egggroups:
+    - []
+    abilities:
+    - [Pressure]
+    - bw: [Pressure]
+    stats:
+    - [50, 180, 20, 180, 20, 150]
+    weight: [60.8]
+    height: [1.7]
+  Deoxys-Defense:
+    introduction: rs
+    types:
+    - [Psychic]
+    egggroups:
+    - []
+    abilities:
+    - [Pressure]
+    - bw: [Pressure]
+    stats:
+    - [50, 70, 160, 70, 160, 90]
+    weight: [60.8]
+    height: [1.7]
+  Deoxys-Speed:
+    introduction: rs
+    types:
+    - [Psychic]
+    egggroups:
+    - []
+    abilities:
+    - [Pressure]
+    - bw: [Pressure]
+    stats:
+    - [50, 95, 90, 95, 90, 180]
+    weight: [60.8]
+    height: [1.7]
+families:
+- {from: Deoxys, to: Deoxys-A}
+- {from: Deoxys-A, to: Deoxys-D}
+- {from: Deoxys-D, to: Deoxys-S}
+- {from: Deoxys, to: Deoxys-A}
+- {from: Deoxys, to: Deoxys-D}
+- {from: Deoxys, to: Deoxys-S}
+- {from: Deoxys-A, to: Deoxys}
+- {from: Deoxys-A, to: Deoxys-D}
+- {from: Deoxys-A, to: Deoxys-S}
+- {from: Deoxys-D, to: Deoxys}
+- {from: Deoxys-D, to: Deoxys-A}
+- {from: Deoxys-D, to: Deoxys-S}
+- {from: Deoxys-S, to: Deoxys}
+- {from: Deoxys-S, to: Deoxys-A}
+- {from: Deoxys-S, to: Deoxys-D}
+learnsets:
+  rs:
+    Deoxys: [Aerial Ace, Body Slam, Brick Break, Calm Mind, Cosmic Power, Cut, Double-Edge,
+      Double Team, Dream Eater, Facade, Flash, Focus Punch, Frustration, Hidden Power,
+      Hyper Beam, Ice Beam, Icy Wind, Knock Off, Leer, Light Screen, Mimic, Night
+        Shade, Nightmare, Protect, Psychic, Psycho Boost, Pursuit, Rain Dance, Recover,
+      Reflect, Rest, Return, Rock Smash, Rock Tomb, Safeguard, Secret Power, Seismic
+        Toss, Shadow Ball, Shock Wave, Skill Swap, Snatch, Solarbeam, Strength, Substitute,
+      Sunny Day, Swagger, Taunt, Teleport, Thunder, Thunder Wave, Thunderbolt, Torment,
+      Toxic, Water Pulse, Wrap]
+  dp:
+    Deoxys: [Aerial Ace, Avalanche, Brick Break, Calm Mind, Charge Beam, Cosmic Power,
+      Cut, Double Team, Drain Punch, Dream Eater, Endure, Energy Ball, Facade, Fire
+        Punch, Flash, Flash Cannon, Fling, Focus Blast, Focus Punch, Frustration,
+      Giga Impact, Grass Knot, Gravity, Headbutt, Hidden Power, Hyper Beam, Ice Beam,
+      Ice Punch, Icy Wind, Knock Off, Leer, Light Screen, Low Kick, Magic Coat, Mud-Slap,
+      Natural Gift, Night Shade, Poison Jab, Protect, Psych Up, Psychic, Psycho Boost,
+      Psycho Shift, Pursuit, Rain Dance, Recover, Recycle, Reflect, Rest, Return,
+      Rock Slide, Rock Smash, Rock Tomb, Role Play, Safeguard, Secret Power, Shadow
+        Ball, Shock Wave, Signal Beam, Skill Swap, Sleep Talk, Snatch, Snore, Solarbeam,
+      Stealth Rock, Strength, Substitute, Sunny Day, Swagger, Swift, Taunt, Teleport,
+      Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Torment, Toxic, Trick, Trick
+        Room, Water Pulse, Wrap, Zen Headbutt, Detect, Extremespeed, Counter, Mirror
+        Coat, Meteor Mash, Superpower]
+  bw:
+    Deoxys: [Aerial Ace, Ally Switch, Bind, Brick Break, Calm Mind, Charge Beam, Cosmic
+        Power, Cut, Dark Pulse, Double Team, Drain Punch, Dream Eater, Energy Ball,
+      Facade, Fire Punch, Flash, Flash Cannon, Fling, Focus Blast, Frustration, Giga
+        Impact, Grass Knot, Gravity, Hidden Power, Hyper Beam, Ice Beam, Ice Punch,
+      Icy Wind, Knock Off, Leer, Light Screen, Low Kick, Low Sweep, Magic Coat, Nasty
+        Plot, Night Shade, Poison Jab, Protect, Psych Up, Psychic, Psycho Boost, Psycho
+        Shift, Psyshock, Pursuit, Rain Dance, Recover, Recycle, Reflect, Rest, Return,
+      Rock Slide, Rock Smash, Rock Tomb, Role Play, Round, Safeguard, Shadow Ball,
+      Signal Beam, Skill Swap, Sleep Talk, Snatch, Snore, Solarbeam, Stealth Rock,
+      Strength, Substitute, Sunny Day, Swagger, Taunt, Telekinesis, Teleport, Thunder,
+      Thunder Wave, Thunderbolt, Thunderpunch, Torment, Toxic, Trick, Trick Room,
+      Wonder Room, Wrap, Zen Headbutt, Detect, Extremespeed, Counter, Mirror Coat,
+      Meteor Mash, Superpower]

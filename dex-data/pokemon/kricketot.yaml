@@ -1,0 +1,44 @@
+pokemon:
+  Kricketot:
+    introduction: dp
+    types:
+    - [Bug]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Run Away, Shed Skin]
+    stats:
+    - [37, 25, 41, 25, 41, 25]
+    weight: [2.2]
+    height: [0.3]
+  Kricketune:
+    introduction: dp
+    types:
+    - [Bug]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Swarm, Technician]
+    stats:
+    - [77, 85, 51, 55, 51, 65]
+    weight: [25.5]
+    height: [1]
+families:
+- {from: Kricketot, to: Kricketune}
+learnsets:
+  dp:
+    Kricketot: [Bide, Bug Bite, Endeavor, Growl, Mud-Slap, Snore, String Shot, Uproar]
+    Kricketune: [Aerial Ace, Attract, Brick Break, Bug Buzz, Captivate, Cut, Double
+        Team, Endure, Facade, False Swipe, Flash, Focus Energy, Frustration, Fury
+        Cutter, Giga Impact, Hidden Power, Hyper Beam, Knock Off, Leech Life, Natural
+        Gift, Night Slash, Perish Song, Protect, Rain Dance, Rest, Return, Rock Smash,
+      Screech, Secret Power, Silver Wind, Sing, Slash, Sleep Talk, Strength, Substitute,
+      Sunny Day, Swagger, Swords Dance, Taunt, Toxic, X-scissor]
+  bw:
+    Kricketot: [Bide, Bug Bite, Endeavor, Growl, Snore, Struggle Bug, Uproar]
+    Kricketune: [Aerial Ace, Attract, Brick Break, Bug Buzz, Cut, Double Team, Echoed
+        Voice, Facade, False Swipe, Flash, Focus Energy, Frustration, Fury Cutter,
+      Giga Impact, Heal Bell, Hidden Power, Hone Claws, Hyper Beam, Hyper Voice, Knock
+        Off, Leech Life, Night Slash, Perish Song, Protect, Rain Dance, Rest, Return,
+      Rock Smash, Round, Screech, Sing, Slash, Sleep Talk, Strength, Substitute, Sunny
+        Day, Swagger, Swords Dance, Taunt, Toxic, X-scissor]

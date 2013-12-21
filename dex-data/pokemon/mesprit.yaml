@@ -1,0 +1,37 @@
+pokemon:
+  Mesprit:
+    introduction: dp
+    types:
+    - [Psychic]
+    egggroups:
+    - []
+    abilities:
+    - [Levitate]
+    stats:
+    - [80, 105, 105, 105, 105, 80]
+    weight: [0.3]
+    height: [0.3]
+families: []
+learnsets:
+  dp:
+    Mesprit: [Blizzard, Calm Mind, Charge Beam, Charm, Confusion, Copycat, Double
+        Team, Dream Eater, Endure, Energy Ball, Extrasensory, Facade, Fire Punch,
+      Flash, Fling, Frustration, Future Sight, Giga Impact, Grass Knot, Headbutt,
+      Healing Wish, Helping Hand, Hidden Power, Hyper Beam, Ice Beam, Ice Punch, Imprison,
+      Iron Tail, Knock Off, Light Screen, Lucky Chant, Magic Coat, Mud-Slap, Natural
+        Gift, Protect, Psych Up, Psychic, Rain Dance, Recycle, Reflect, Rest, Return,
+      Role Play, Safeguard, Sandstorm, Secret Power, Shadow Ball, Shock Wave, Signal
+        Beam, Skill Swap, Sleep Talk, Snore, Stealth Rock, Substitute, Sunny Day,
+      Swagger, Swift, Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Toxic, Trick,
+      Trick Room, U-turn, Water Pulse, Zen Headbutt]
+  bw:
+    Mesprit: [Acrobatics, Blizzard, Calm Mind, Charge Beam, Charm, Confusion, Copycat,
+      Double Team, Dream Eater, Energy Ball, Extrasensory, Facade, Fire Punch, Flash,
+      Fling, Frustration, Future Sight, Giga Impact, Grass Knot, Healing Wish, Helping
+        Hand, Hidden Power, Hyper Beam, Ice Beam, Ice Punch, Imprison, Iron Tail,
+      Knock Off, Light Screen, Lucky Chant, Magic Coat, Magic Room, Natural Gift,
+      Protect, Psych Up, Psychic, Psyshock, Rain Dance, Recycle, Reflect, Rest, Return,
+      Role Play, Round, Safeguard, Sandstorm, Shadow Ball, Signal Beam, Skill Swap,
+      Sleep Talk, Snore, Stealth Rock, Substitute, Sunny Day, Swagger, Swift, Telekinesis,
+      Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Toxic, Trick, Trick Room,
+      U-turn, Wonder Room, Zen Headbutt]

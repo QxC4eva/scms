@@ -1,0 +1,77 @@
+pokemon:
+  Clamperl:
+    introduction: rs
+    types:
+    - [Water]
+    egggroups:
+    - [Water 1]
+    abilities:
+    - [Shell Armor]
+    - bw: [Rattled, Shell Armor]
+    stats:
+    - [35, 64, 85, 74, 55, 32]
+    weight: [52.5]
+    height: [0.4]
+  Huntail:
+    introduction: rs
+    types:
+    - [Water]
+    egggroups:
+    - [Water 1]
+    abilities:
+    - [Swift Swim]
+    - bw: [Swift Swim, Water Veil]
+    stats:
+    - [55, 104, 105, 94, 75, 52]
+    weight: [27]
+    height: [1.7]
+  Gorebyss:
+    introduction: rs
+    types:
+    - [Water]
+    egggroups:
+    - [Water 1]
+    abilities:
+    - [Swift Swim]
+    - bw: [Hydration, Swift Swim]
+    stats:
+    - [55, 84, 105, 114, 75, 52]
+    weight: [22.6]
+    height: [1.8]
+families:
+- {from: Clamperl, to: Huntail}
+- {from: Clamperl, to: Gorebyss}
+learnsets:
+  rs:
+    Clamperl: [Attract, Barrier, Blizzard, Body Slam, Clamp, Confuse Ray, Dive, Double-Edge,
+      Double Team, Endure, Facade, Frustration, Hail, Hidden Power, Ice Beam, Icy
+        Wind, Iron Defense, Mimic, Mud Sport, Protect, Rain Dance, Refresh, Rest,
+      Return, Secret Power, Sleep Talk, Snore, Substitute, Supersonic, Surf, Swagger,
+      Toxic, Water Gun, Water Pulse, Waterfall, Whirlpool]
+    Gorebyss: [Agility, Amnesia, Baton Pass, Confusion, Hydro Pump, Hyper Beam, Mud-Slap,
+      Psychic, Safeguard, Shadow Ball, Swift, Double-Edge, Icy Wind, Mimic]
+    Huntail: [Bite, Crunch, Rock Tomb, Scary Face, Screech, Snatch, Double-Edge, Icy
+        Wind, Mimic]
+  dp:
+    Clamperl: [Aqua Ring, Attract, Barrier, Blizzard, Body Slam, Brine, Captivate,
+      Clamp, Confuse Ray, Dive, Double Team, Endure, Facade, Frustration, Hail, Hidden
+        Power, Ice Beam, Icy Wind, Iron Defense, Mud Sport, Muddy Water, Natural Gift,
+      Protect, Rain Dance, Refresh, Rest, Return, Secret Power, Sleep Talk, Snore,
+      Substitute, Supersonic, Surf, Swagger, Toxic, Water Gun, Water Pulse, Waterfall,
+      Whirlpool]
+    Gorebyss: [Agility, Amnesia, Aqua Tail, Baton Pass, Bounce, Confusion, Giga Impact,
+      Hydro Pump, Hyper Beam, Mud-Slap, Psych Up, Psychic, Safeguard, Shadow Ball,
+      Signal Beam, Swift, Double-Edge, Icy Wind, Mimic]
+    Huntail: [Bite, Crunch, Ice Fang, Rock Tomb, Scary Face, Screech, Snatch, Sucker
+        Punch, Super Fang, Double-Edge, Icy Wind, Mimic]
+  bw:
+    Clamperl: [Aqua Ring, Attract, Barrier, Blizzard, Body Slam, Brine, Clamp, Confuse
+        Ray, Dive, Double Team, Endure, Facade, Frustration, Hail, Hidden Power, Ice
+        Beam, Icy Wind, Iron Defense, Mud Sport, Muddy Water, Protect, Rain Dance,
+      Refresh, Rest, Return, Round, Scald, Shell Smash, Sleep Talk, Snore, Substitute,
+      Supersonic, Surf, Swagger, Toxic, Water Gun, Water Pulse, Waterfall, Whirlpool]
+    Gorebyss: [Agility, Amnesia, Aqua Tail, Baton Pass, Bind, Bounce, Captivate, Confusion,
+      Giga Impact, Hydro Pump, Hyper Beam, Psych Up, Psychic, Safeguard, Shadow Ball,
+      Signal Beam, Double-Edge, Icy Wind, Mimic]
+    Huntail: [Bite, Crunch, Ice Fang, Rock Tomb, Scary Face, Screech, Snatch, Super
+        Fang, Double-Edge, Icy Wind, Mimic]

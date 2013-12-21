@@ -1,0 +1,102 @@
+pokemon:
+  Squirtle:
+    introduction: rb
+    types:
+    - [Water]
+    egggroups:
+    - [Monster, Water 1]
+    abilities:
+    - [Torrent]
+    - bw: [Rain Dish, Torrent]
+    stats:
+    - [44, 48, 65, 50, 50, 43]
+    - gs: [44, 48, 65, 50, 64, 43]
+    weight: [9]
+    height: [0.5]
+  Wartortle:
+    introduction: rb
+    types:
+    - [Water]
+    egggroups:
+    - [Monster, Water 1]
+    abilities:
+    - [Torrent]
+    - bw: [Rain Dish, Torrent]
+    stats:
+    - [59, 63, 80, 65, 65, 58]
+    - gs: [59, 63, 80, 65, 80, 58]
+    weight: [22.5]
+    height: [1]
+  Blastoise:
+    introduction: rb
+    types:
+    - [Water]
+    egggroups:
+    - [Monster, Water 1]
+    abilities:
+    - [Torrent]
+    - bw: [Rain Dish, Torrent]
+    stats:
+    - [79, 83, 100, 85, 85, 78]
+    - gs: [79, 83, 100, 85, 105, 78]
+    weight: [85.5]
+    height: [1.6]
+families:
+- {from: Squirtle, to: Wartortle}
+- {from: Wartortle, to: Blastoise}
+learnsets:
+  rb:
+    Squirtle: [Bide, Bite, Blizzard, Body Slam, Bubble, Bubblebeam, Counter, Dig,
+      Double-Edge, Double Team, Hydro Pump, Ice Beam, Mega Kick, Mega Punch, Mimic,
+      Rage, Reflect, Rest, Seismic Toss, Skull Bash, Strength, Submission, Substitute,
+      Surf, Tackle, Tail Whip, Take Down, Toxic, Water Gun, Withdraw, Zap Cannon]
+    Wartortle: []
+    Blastoise: [Earthquake, Fissure, Hyper Beam]
+  gs:
+    Squirtle: [Attract, Bite, Blizzard, Bubble, Confusion, Curse, Defense Curl, Dig,
+      Double Team, Dynamicpunch, Endure, Flail, Foresight, Frustration, Haze, Headbutt,
+      Hidden Power, Hydro Pump, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Mirror Coat,
+      Mist, Mud-Slap, Protect, Rain Dance, Rapid Spin, Rest, Return, Rock Smash, Rollout,
+      Skull Bash, Sleep Talk, Snore, Strength, Surf, Swagger, Tackle, Tail Whip, Toxic,
+      Water Gun, Waterfall, Whirlpool, Withdraw, Zap Cannon]
+    Wartortle: []
+    Blastoise: [Earthquake, Hyper Beam, Roar]
+  rs:
+    Squirtle: [Attract, Bite, Blizzard, Body Slam, Brick Break, Bubble, Counter, Defense
+        Curl, Dig, Dive, Double-Edge, Double Team, Dynamicpunch, Endure, Facade, Flail,
+      Focus Punch, Foresight, Frustration, Hail, Haze, Hidden Power, Hydro Pump, Ice
+        Beam, Ice Punch, Icy Wind, Iron Tail, Mega Kick, Mega Punch, Mimic, Mirror
+        Coat, Mist, Mud-Slap, Mud Sport, Protect, Rain Dance, Rapid Spin, Refresh,
+      Rest, Return, Rock Smash, Rollout, Secret Power, Seismic Toss, Skull Bash, Sleep
+        Talk, Snore, Strength, Substitute, Surf, Swagger, Tackle, Tail Whip, Toxic,
+      Water Gun, Water Pulse, Waterfall, Withdraw, Yawn, Body Slam, Double-Edge, Mimic,
+      Seismic Toss]
+    Wartortle: [Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+    Blastoise: [Earthquake, Hydro Cannon, Hyper Beam, Roar]
+  dp:
+    Squirtle: [Aqua Jet, Aqua Ring, Aqua Tail, Attract, Bite, Blizzard, Brick Break,
+      Brine, Bubble, Captivate, Dig, Dive, Double Team, Endure, Facade, Fake Out,
+      Flail, Fling, Focus Punch, Foresight, Frustration, Gyro Ball, Hail, Haze, Headbutt,
+      Hidden Power, Hydro Pump, Ice Beam, Ice Punch, Icy Wind, Iron Defense, Iron
+        Tail, Mirror Coat, Mist, Mud-Slap, Mud Sport, Muddy Water, Natural Gift, Protect,
+      Rain Dance, Rapid Spin, Refresh, Rest, Return, Rock Smash, Rock Tomb, Rollout,
+      Secret Power, Skull Bash, Sleep Talk, Snore, Strength, Substitute, Surf, Swagger,
+      Tackle, Tail Whip, Toxic, Water Gun, Water Pulse, Water Spout, Waterfall, Whirlpool,
+      Withdraw, Yawn, Zen Headbutt, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    Wartortle: [Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+    Blastoise: [Avalanche, Earthquake, Flash Cannon, Focus Blast, Giga Impact, Hydro
+        Cannon, Hyper Beam, Outrage, Roar, Rock Climb, Rock Slide, Signal Beam]
+  bw:
+    Squirtle: [Aqua Jet, Aqua Ring, Aqua Tail, Attract, Bite, Blizzard, Brick Break,
+      Brine, Bubble, Dig, Dive, Double Team, Facade, Fake Out, Flail, Fling, Foresight,
+      Frustration, Gyro Ball, Hail, Haze, Hidden Power, Hydro Pump, Ice Beam, Ice
+        Punch, Icy Wind, Iron Defense, Iron Tail, Mirror Coat, Mist, Mud Sport, Muddy
+        Water, Protect, Rain Dance, Rapid Spin, Refresh, Rest, Return, Rock Smash,
+      Rock Tomb, Round, Scald, Skull Bash, Sleep Talk, Snore, Strength, Substitute,
+      Surf, Swagger, Tackle, Tail Whip, Toxic, Water Gun, Water Pledge, Water Pulse,
+      Water Spout, Waterfall, Withdraw, Yawn, Zen Headbutt, Block, False Swipe, Follow
+        Me, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    Wartortle: [Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+    Blastoise: [Bulldoze, Dragon Tail, Earthquake, Flash Cannon, Focus Blast, Giga
+        Impact, Hydro Cannon, Hyper Beam, Outrage, Roar, Rock Slide, Signal Beam,
+      Smack Down]

@@ -9,6 +9,8 @@ pokemon:
     - [Flame Body, Swarm]
     stats:
     - [55, 85, 55, 50, 55, 60]
+    tags:
+    - []
     weight: [28.8]
     height: [1.1]
   Volcarona:
@@ -21,6 +23,8 @@ pokemon:
     - [Flame Body, Swarm]
     stats:
     - [85, 60, 65, 135, 105, 100]
+    tags:
+    - []
     weight: [46]
     height: [1.6]
 evolutions:

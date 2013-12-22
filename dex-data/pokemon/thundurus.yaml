@@ -9,6 +9,8 @@ pokemon:
     - [Defiant, Prankster]
     stats:
     - [79, 115, 70, 125, 80, 111]
+    tags:
+    - []
     weight: [61]
     height: [1.5]
   Thundurus-Therian:
@@ -21,6 +23,8 @@ pokemon:
     - [Volt Absorb]
     stats:
     - [79, 105, 70, 145, 80, 101]
+    tags:
+    - []
     weight: [61]
     height: [3]
 evolutions:

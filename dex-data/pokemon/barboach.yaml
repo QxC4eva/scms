@@ -11,6 +11,8 @@ pokemon:
     - bw: [Anticipation, Hydration, Oblivious]
     stats:
     - [50, 48, 43, 46, 41, 60]
+    tags:
+    - []
     weight: [1.9]
     height: [0.4]
   Whiscash:
@@ -25,6 +27,8 @@ pokemon:
     - bw: [Anticipation, Hydration, Oblivious]
     stats:
     - [110, 78, 73, 76, 71, 60]
+    tags:
+    - []
     weight: [23.6]
     height: [0.9]
 evolutions:

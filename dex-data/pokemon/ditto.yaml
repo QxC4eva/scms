@@ -11,6 +11,8 @@ pokemon:
     stats:
     - [48, 48, 48, 48, 48, 48]
     - gs: [48, 48, 48, 48, 48, 48]
+    tags:
+    - []
     weight: [4]
     height: [0.3]
 evolutions: []

@@ -11,6 +11,8 @@ pokemon:
     stats:
     - [40, 35, 30, 20, 20, 50]
     - gs: [40, 35, 30, 20, 20, 50]
+    tags:
+    - []
     weight: [3.2]
     height: [0.3]
   Kakuna:
@@ -24,6 +26,8 @@ pokemon:
     stats:
     - [45, 25, 50, 25, 25, 35]
     - gs: [45, 25, 50, 25, 25, 35]
+    tags:
+    - []
     weight: [10]
     height: [0.6]
   Beedrill:
@@ -38,6 +42,8 @@ pokemon:
     stats:
     - [65, 80, 40, 45, 45, 75]
     - gs: [65, 80, 40, 45, 80, 75]
+    tags:
+    - []
     weight: [29.5]
     height: [1]
 evolutions:

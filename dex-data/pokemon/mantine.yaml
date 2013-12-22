@@ -9,6 +9,8 @@ pokemon:
     - [Swift Swim, Water Absorb, Water Veil]
     stats:
     - [45, 20, 50, 60, 120, 50]
+    tags:
+    - []
     weight: [65]
     height: [1]
   Mantine:
@@ -22,6 +24,8 @@ pokemon:
     - bw: [Swift Swim, Water Absorb, Water Veil]
     stats:
     - [65, 40, 70, 80, 140, 70]
+    tags:
+    - []
     weight: [220]
     height: [2.1]
 evolutions:

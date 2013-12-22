@@ -9,6 +9,8 @@ pokemon:
     - [Rough Skin, Sand Veil]
     stats:
     - [58, 70, 45, 40, 45, 42]
+    tags:
+    - []
     weight: [20.5]
     height: [0.7]
   Gabite:
@@ -21,6 +23,8 @@ pokemon:
     - [Rough Skin, Sand Veil]
     stats:
     - [68, 90, 65, 50, 55, 82]
+    tags:
+    - []
     weight: [56]
     height: [1.4]
   Garchomp:
@@ -33,6 +37,8 @@ pokemon:
     - [Rough Skin, Sand Veil]
     stats:
     - [108, 130, 95, 80, 85, 102]
+    tags:
+    - []
     weight: [95]
     height: [1.9]
 evolutions:

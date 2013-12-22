@@ -11,6 +11,8 @@ pokemon:
     stats:
     - [80, 85, 95, 30, 30, 25]
     - gs: [80, 85, 95, 30, 30, 25]
+    tags:
+    - []
     weight: [115]
     height: [1]
   Rhydon:
@@ -25,6 +27,8 @@ pokemon:
     stats:
     - [105, 130, 120, 45, 45, 40]
     - gs: [105, 130, 120, 45, 45, 40]
+    tags:
+    - []
     weight: [120]
     height: [1.9]
   Rhyperior:
@@ -37,6 +41,8 @@ pokemon:
     - [Lightningrod, Reckless, Solid Rock]
     stats:
     - [115, 140, 130, 55, 55, 40]
+    tags:
+    - []
     weight: [282.8]
     height: [2.4]
 evolutions:

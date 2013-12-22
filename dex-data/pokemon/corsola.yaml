@@ -10,6 +10,8 @@ pokemon:
     - bw: [Hustle, Natural Cure, Regenerator]
     stats:
     - [55, 55, 85, 65, 85, 35]
+    tags:
+    - []
     weight: [5]
     height: [0.6]
 evolutions: []

@@ -11,6 +11,8 @@ pokemon:
     stats:
     - [50, 50, 95, 40, 40, 35]
     - gs: [50, 50, 95, 40, 50, 35]
+    tags:
+    - []
     weight: [6.5]
     height: [0.4]
   Marowak:
@@ -25,6 +27,8 @@ pokemon:
     stats:
     - [60, 80, 110, 50, 50, 45]
     - gs: [60, 80, 110, 50, 80, 45]
+    tags:
+    - []
     weight: [45]
     height: [1]
 evolutions:

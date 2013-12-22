@@ -10,6 +10,8 @@ pokemon:
     - bw: [Illuminate, Volt Absorb, Water Absorb]
     stats:
     - [75, 38, 38, 56, 56, 67]
+    tags:
+    - []
     weight: [12]
     height: [0.5]
   Lanturn:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Illuminate, Volt Absorb, Water Absorb]
     stats:
     - [125, 58, 58, 76, 76, 67]
+    tags:
+    - []
     weight: [22.5]
     height: [1.2]
 evolutions:

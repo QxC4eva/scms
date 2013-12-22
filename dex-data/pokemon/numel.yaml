@@ -11,6 +11,8 @@ pokemon:
     - bw: [Oblivious, Own Tempo, Simple]
     stats:
     - [60, 60, 40, 65, 45, 35]
+    tags:
+    - []
     weight: [24]
     height: [0.7]
   Camerupt:
@@ -25,6 +27,8 @@ pokemon:
     - bw: [Anger Point, Magma Armor, Solid Rock]
     stats:
     - [70, 100, 70, 105, 75, 40]
+    tags:
+    - []
     weight: [220]
     height: [1.9]
 evolutions:

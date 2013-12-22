@@ -9,6 +9,8 @@ pokemon:
     - [Iron Fist, Klutz, No Guard]
     stats:
     - [59, 74, 50, 35, 50, 35]
+    tags:
+    - []
     weight: [92]
     height: [1]
   Golurk:
@@ -21,6 +23,8 @@ pokemon:
     - [Iron Fist, Klutz, No Guard]
     stats:
     - [89, 124, 80, 55, 80, 55]
+    tags:
+    - []
     weight: [330]
     height: [2.8]
 evolutions:

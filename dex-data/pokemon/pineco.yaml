@@ -10,6 +10,8 @@ pokemon:
     - bw: [Overcoat, Sturdy]
     stats:
     - [50, 65, 90, 35, 35, 15]
+    tags:
+    - []
     weight: [7.2]
     height: [0.6]
   Forretress:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Overcoat, Sturdy]
     stats:
     - [75, 90, 140, 60, 60, 40]
+    tags:
+    - []
     weight: [125.8]
     height: [1.2]
 evolutions:

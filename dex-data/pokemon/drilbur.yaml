@@ -9,6 +9,8 @@ pokemon:
     - [Mold Breaker, Sand Force, Sand Rush]
     stats:
     - [60, 85, 40, 30, 45, 68]
+    tags:
+    - []
     weight: [8.5]
     height: [0.3]
   Excadrill:
@@ -21,6 +23,8 @@ pokemon:
     - [Mold Breaker, Sand Force, Sand Rush]
     stats:
     - [110, 135, 60, 50, 65, 88]
+    tags:
+    - []
     weight: [40.4]
     height: [0.7]
 evolutions:

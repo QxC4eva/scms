@@ -11,6 +11,8 @@ pokemon:
     - bw: [Insomnia, Prankster, Super Luck]
     stats:
     - [60, 85, 42, 85, 42, 91]
+    tags:
+    - []
     weight: [2.1]
     height: [0.5]
   Honchkrow:
@@ -23,6 +25,8 @@ pokemon:
     - [Insomnia, Moxie, Super Luck]
     stats:
     - [100, 125, 52, 105, 52, 71]
+    tags:
+    - []
     weight: [27.3]
     height: [0.9]
 evolutions:

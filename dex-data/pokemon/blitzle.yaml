@@ -9,6 +9,8 @@ pokemon:
     - [Lightningrod, Motor Drive, Sap Sipper]
     stats:
     - [45, 60, 32, 50, 32, 76]
+    tags:
+    - []
     weight: [29.8]
     height: [0.8]
   Zebstrika:
@@ -21,6 +23,8 @@ pokemon:
     - [Lightningrod, Motor Drive, Sap Sipper]
     stats:
     - [75, 100, 63, 80, 63, 116]
+    tags:
+    - []
     weight: [79.5]
     height: [1.6]
 evolutions:

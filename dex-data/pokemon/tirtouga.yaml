@@ -9,6 +9,8 @@ pokemon:
     - [Solid Rock, Sturdy, Swift Swim]
     stats:
     - [54, 78, 103, 53, 45, 22]
+    tags:
+    - []
     weight: [16.5]
     height: [0.7]
   Carracosta:
@@ -21,6 +23,8 @@ pokemon:
     - [Solid Rock, Sturdy, Swift Swim]
     stats:
     - [74, 108, 133, 83, 65, 32]
+    tags:
+    - []
     weight: [81]
     height: [1.2]
 evolutions:

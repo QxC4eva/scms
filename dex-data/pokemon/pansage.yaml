@@ -9,6 +9,8 @@ pokemon:
     - [Gluttony, Overgrow]
     stats:
     - [50, 53, 48, 53, 48, 64]
+    tags:
+    - []
     weight: [10.5]
     height: [0.6]
   Simisage:
@@ -21,6 +23,8 @@ pokemon:
     - [Gluttony, Overgrow]
     stats:
     - [75, 98, 63, 98, 63, 101]
+    tags:
+    - []
     weight: [30.5]
     height: [1.1]
 evolutions:

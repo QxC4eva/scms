@@ -10,6 +10,8 @@ pokemon:
     - bw: [Intimidate, Poison Point, Swift Swim]
     stats:
     - [65, 95, 75, 55, 55, 85]
+    tags:
+    - []
     weight: [3.9]
     height: [0.5]
 evolutions: []

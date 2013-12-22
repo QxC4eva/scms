@@ -10,6 +10,8 @@ pokemon:
     - bw: [Rattled, Shell Armor]
     stats:
     - [35, 64, 85, 74, 55, 32]
+    tags:
+    - []
     weight: [52.5]
     height: [0.4]
   Huntail:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Swift Swim, Water Veil]
     stats:
     - [55, 104, 105, 94, 75, 52]
+    tags:
+    - []
     weight: [27]
     height: [1.7]
   Gorebyss:
@@ -36,6 +40,8 @@ pokemon:
     - bw: [Hydration, Swift Swim]
     stats:
     - [55, 84, 105, 114, 75, 52]
+    tags:
+    - []
     weight: [22.6]
     height: [1.8]
 evolutions:

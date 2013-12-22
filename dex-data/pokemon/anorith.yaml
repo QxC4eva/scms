@@ -10,6 +10,8 @@ pokemon:
     - bw: [Battle Armor, Swift Swim]
     stats:
     - [45, 95, 50, 40, 50, 75]
+    tags:
+    - []
     weight: [12.5]
     height: [0.7]
   Armaldo:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Battle Armor, Swift Swim]
     stats:
     - [75, 125, 100, 70, 80, 45]
+    tags:
+    - []
     weight: [68.2]
     height: [1.5]
 evolutions:

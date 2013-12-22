@@ -9,6 +9,8 @@ pokemon:
     - [Gluttony, Pickup, Thick Fat]
     stats:
     - [135, 85, 40, 40, 85, 5]
+    tags:
+    - []
     weight: [105]
     height: [0.6]
   Snorlax:
@@ -23,6 +25,8 @@ pokemon:
     stats:
     - [160, 110, 65, 65, 65, 30]
     - gs: [160, 110, 65, 65, 110, 30]
+    tags:
+    - []
     weight: [460]
     height: [2.1]
 evolutions:

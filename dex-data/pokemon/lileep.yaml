@@ -10,6 +10,8 @@ pokemon:
     - bw: [Storm Drain, Suction Cups]
     stats:
     - [66, 41, 77, 61, 87, 23]
+    tags:
+    - []
     weight: [23.8]
     height: [1]
   Cradily:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Storm Drain, Suction Cups]
     stats:
     - [86, 81, 97, 81, 107, 43]
+    tags:
+    - []
     weight: [60.4]
     height: [1.5]
 evolutions:

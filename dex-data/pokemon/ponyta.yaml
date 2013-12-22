@@ -11,6 +11,8 @@ pokemon:
     stats:
     - [50, 85, 55, 65, 65, 90]
     - gs: [50, 85, 55, 65, 65, 90]
+    tags:
+    - []
     weight: [30]
     height: [1]
   Rapidash:
@@ -25,6 +27,8 @@ pokemon:
     stats:
     - [65, 100, 70, 80, 80, 105]
     - gs: [65, 100, 70, 80, 80, 105]
+    tags:
+    - []
     weight: [95]
     height: [1.7]
 evolutions:

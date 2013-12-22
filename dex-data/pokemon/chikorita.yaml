@@ -10,6 +10,8 @@ pokemon:
     - bw: [Leaf Guard, Overgrow]
     stats:
     - [45, 49, 65, 49, 65, 45]
+    tags:
+    - []
     weight: [6.4]
     height: [0.9]
   Bayleef:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Leaf Guard, Overgrow]
     stats:
     - [60, 62, 80, 63, 80, 60]
+    tags:
+    - []
     weight: [15.8]
     height: [1.2]
   Meganium:
@@ -36,6 +40,8 @@ pokemon:
     - bw: [Leaf Guard, Overgrow]
     stats:
     - [80, 82, 100, 83, 100, 80]
+    tags:
+    - []
     weight: [100.5]
     height: [1.8]
 evolutions:

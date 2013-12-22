@@ -10,6 +10,8 @@ pokemon:
     - bw: [Clear Body, Light Metal]
     stats:
     - [40, 55, 80, 35, 60, 30]
+    tags:
+    - []
     weight: [95.2]
     height: [0.6]
   Metang:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Clear Body, Light Metal]
     stats:
     - [60, 75, 100, 55, 80, 50]
+    tags:
+    - []
     weight: [202.5]
     height: [1.2]
   Metagross:
@@ -36,6 +40,8 @@ pokemon:
     - bw: [Clear Body, Light Metal]
     stats:
     - [80, 135, 130, 95, 90, 70]
+    tags:
+    - []
     weight: [550]
     height: [1.6]
 evolutions:

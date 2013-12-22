@@ -10,6 +10,8 @@ pokemon:
     - bw: [Compoundeyes, Run Away]
     stats:
     - [31, 45, 90, 30, 30, 40]
+    tags:
+    - []
     weight: [5.5]
     height: [0.5]
   Ninjask:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Infiltrator, Speed Boost]
     stats:
     - [61, 90, 45, 50, 50, 160]
+    tags:
+    - []
     weight: [12]
     height: [0.8]
   Shedinja:
@@ -36,6 +40,8 @@ pokemon:
     - bw: [Wonder Guard]
     stats:
     - [1, 90, 45, 30, 30, 40]
+    tags:
+    - []
     weight: [1.2]
     height: [0.8]
 evolutions:

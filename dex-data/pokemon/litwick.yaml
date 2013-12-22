@@ -9,6 +9,8 @@ pokemon:
     - [Flame Body, Flash Fire, Shadow Tag]
     stats:
     - [50, 30, 55, 65, 55, 20]
+    tags:
+    - []
     weight: [3.1]
     height: [0.3]
   Lampent:
@@ -21,6 +23,8 @@ pokemon:
     - [Flame Body, Flash Fire, Shadow Tag]
     stats:
     - [60, 40, 60, 95, 60, 55]
+    tags:
+    - []
     weight: [13]
     height: [0.6]
   Chandelure:
@@ -33,6 +37,8 @@ pokemon:
     - [Flame Body, Flash Fire, Shadow Tag]
     stats:
     - [60, 55, 90, 145, 90, 80]
+    tags:
+    - []
     weight: [34.3]
     height: [1]
 evolutions:

@@ -10,6 +10,8 @@ pokemon:
     - bw: [Run Away, Shield Dust]
     stats:
     - [45, 45, 35, 20, 30, 20]
+    tags:
+    - []
     weight: [3.6]
     height: [0.3]
   Silcoon:
@@ -22,6 +24,8 @@ pokemon:
     - [Shed Skin]
     stats:
     - [50, 35, 55, 25, 25, 15]
+    tags:
+    - []
     weight: [10]
     height: [0.6]
   Beautifly:
@@ -35,6 +39,8 @@ pokemon:
     - bw: [Rivalry, Swarm]
     stats:
     - [60, 70, 50, 90, 50, 65]
+    tags:
+    - []
     weight: [28.4]
     height: [1]
   Cascoon:
@@ -47,6 +53,8 @@ pokemon:
     - [Shed Skin]
     stats:
     - [50, 35, 55, 25, 25, 15]
+    tags:
+    - []
     weight: [11.5]
     height: [0.7]
   Dustox:
@@ -60,6 +68,8 @@ pokemon:
     - bw: [Compoundeyes, Shield Dust]
     stats:
     - [60, 50, 70, 50, 90, 65]
+    tags:
+    - []
     weight: [31.6]
     height: [1.2]
 evolutions:

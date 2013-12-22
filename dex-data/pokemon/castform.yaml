@@ -10,6 +10,8 @@ pokemon:
     - bw: [Forecast]
     stats:
     - [70, 70, 70, 70, 70, 70]
+    tags:
+    - []
     weight: [0.8]
     height: [0.3]
 evolutions: []

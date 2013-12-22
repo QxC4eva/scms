@@ -9,6 +9,8 @@ pokemon:
     - [Chlorophyll, Overcoat, Swarm]
     stats:
     - [45, 53, 70, 40, 60, 42]
+    tags:
+    - []
     weight: [2.5]
     height: [0.3]
   Swadloon:
@@ -21,6 +23,8 @@ pokemon:
     - [Chlorophyll, Leaf Guard, Overcoat]
     stats:
     - [55, 63, 90, 50, 80, 42]
+    tags:
+    - []
     weight: [7.3]
     height: [0.5]
   Leavanny:
@@ -33,6 +37,8 @@ pokemon:
     - [Chlorophyll, Overcoat, Swarm]
     stats:
     - [75, 103, 80, 70, 70, 92]
+    tags:
+    - []
     weight: [20.5]
     height: [1.2]
 evolutions:

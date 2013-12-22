@@ -9,6 +9,8 @@ pokemon:
     - [Inner Focus, Reckless, Regenerator]
     stats:
     - [45, 85, 50, 55, 50, 65]
+    tags:
+    - []
     weight: [20]
     height: [0.9]
   Mienshao:
@@ -21,6 +23,8 @@ pokemon:
     - [Inner Focus, Reckless, Regenerator]
     stats:
     - [65, 125, 60, 95, 60, 105]
+    tags:
+    - []
     weight: [35.5]
     height: [1.4]
 evolutions:

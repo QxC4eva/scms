@@ -11,6 +11,8 @@ pokemon:
     stats:
     - [30, 56, 35, 25, 25, 72]
     - gs: [30, 56, 35, 25, 35, 72]
+    tags:
+    - []
     weight: [3.5]
     height: [0.3]
   Raticate:
@@ -25,6 +27,8 @@ pokemon:
     stats:
     - [55, 81, 60, 50, 50, 97]
     - gs: [55, 81, 60, 50, 70, 97]
+    tags:
+    - []
     weight: [18.5]
     height: [0.7]
 evolutions:

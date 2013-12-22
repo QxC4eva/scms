@@ -9,6 +9,8 @@ pokemon:
     - [Cute Charm, Skill Link, Technician]
     stats:
     - [55, 50, 40, 40, 40, 75]
+    tags:
+    - []
     weight: [5.8]
     height: [0.4]
   Cinccino:
@@ -21,6 +23,8 @@ pokemon:
     - [Cute Charm, Skill Link, Technician]
     stats:
     - [75, 95, 60, 65, 60, 115]
+    tags:
+    - []
     weight: [7.5]
     height: [0.5]
 evolutions:

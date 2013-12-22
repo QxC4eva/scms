@@ -10,6 +10,8 @@ pokemon:
     - bw: [Lightningrod, Minus, Static]
     stats:
     - [40, 45, 40, 65, 40, 65]
+    tags:
+    - []
     weight: [15.2]
     height: [0.6]
   Manectric:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Lightningrod, Minus, Static]
     stats:
     - [70, 75, 60, 105, 60, 105]
+    tags:
+    - []
     weight: [40.2]
     height: [1.5]
 evolutions:

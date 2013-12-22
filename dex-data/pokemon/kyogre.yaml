@@ -10,6 +10,8 @@ pokemon:
     - bw: [Drizzle]
     stats:
     - [100, 100, 90, 150, 140, 90]
+    tags:
+    - []
     weight: [352]
     height: [4.5]
 evolutions: []

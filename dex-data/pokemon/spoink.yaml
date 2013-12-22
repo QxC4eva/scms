@@ -10,6 +10,8 @@ pokemon:
     - bw: [Gluttony, Own Tempo, Thick Fat]
     stats:
     - [60, 25, 35, 70, 80, 60]
+    tags:
+    - []
     weight: [30.6]
     height: [0.7]
   Grumpig:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Gluttony, Own Tempo, Thick Fat]
     stats:
     - [80, 45, 65, 90, 110, 80]
+    tags:
+    - []
     weight: [71.5]
     height: [0.9]
 evolutions:

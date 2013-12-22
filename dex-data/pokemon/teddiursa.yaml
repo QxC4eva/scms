@@ -11,6 +11,8 @@ pokemon:
     - bw: [Honey Gather, Pickup, Quick Feet]
     stats:
     - [60, 80, 50, 50, 50, 40]
+    tags:
+    - []
     weight: [8.8]
     height: [0.6]
   Ursaring:
@@ -25,6 +27,8 @@ pokemon:
     - bw: [Guts, Quick Feet, Unnerve]
     stats:
     - [90, 130, 75, 75, 75, 55]
+    tags:
+    - []
     weight: [125.8]
     height: [1.8]
 evolutions:

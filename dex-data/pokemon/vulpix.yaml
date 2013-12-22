@@ -11,6 +11,8 @@ pokemon:
     stats:
     - [38, 41, 40, 65, 65, 65]
     - gs: [38, 41, 40, 50, 65, 65]
+    tags:
+    - []
     weight: [9.9]
     height: [0.6]
   Ninetales:
@@ -25,6 +27,8 @@ pokemon:
     stats:
     - [73, 76, 75, 100, 100, 100]
     - gs: [73, 76, 75, 81, 100, 100]
+    tags:
+    - []
     weight: [19.9]
     height: [1.1]
 evolutions:

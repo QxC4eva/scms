@@ -10,6 +10,8 @@ pokemon:
     - bw: [Damp, Unaware, Water Absorb]
     stats:
     - [55, 45, 45, 25, 25, 15]
+    tags:
+    - []
     weight: [8.5]
     height: [0.4]
   Quagsire:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Damp, Unaware, Water Absorb]
     stats:
     - [95, 85, 85, 65, 65, 35]
+    tags:
+    - []
     weight: [75]
     height: [1.4]
 evolutions:

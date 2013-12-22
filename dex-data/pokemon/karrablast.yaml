@@ -9,6 +9,8 @@ pokemon:
     - [No Guard, Shed Skin, Swarm]
     stats:
     - [50, 75, 45, 40, 45, 60]
+    tags:
+    - []
     weight: [5.9]
     height: [0.5]
   Escavalier:
@@ -21,6 +23,8 @@ pokemon:
     - [Overcoat, Shell Armor, Swarm]
     stats:
     - [70, 135, 105, 60, 105, 20]
+    tags:
+    - []
     weight: [33]
     height: [1]
 evolutions:

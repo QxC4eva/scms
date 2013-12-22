@@ -9,6 +9,8 @@ pokemon:
     - [Contrary, Overgrow]
     stats:
     - [45, 45, 55, 45, 55, 63]
+    tags:
+    - []
     weight: [8.1]
     height: [0.6]
   Servine:
@@ -21,6 +23,8 @@ pokemon:
     - [Contrary, Overgrow]
     stats:
     - [60, 60, 75, 60, 75, 83]
+    tags:
+    - []
     weight: [16]
     height: [0.8]
   Serperior:
@@ -33,6 +37,8 @@ pokemon:
     - [Contrary, Overgrow]
     stats:
     - [75, 75, 95, 75, 95, 113]
+    tags:
+    - []
     weight: [63]
     height: [3.3]
 evolutions:

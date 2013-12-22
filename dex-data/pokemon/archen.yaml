@@ -9,6 +9,8 @@ pokemon:
     - [Defeatist]
     stats:
     - [55, 112, 45, 74, 45, 70]
+    tags:
+    - []
     weight: [9.5]
     height: [0.5]
   Archeops:
@@ -21,6 +23,8 @@ pokemon:
     - [Defeatist]
     stats:
     - [75, 140, 65, 112, 65, 110]
+    tags:
+    - []
     weight: [32]
     height: [1.4]
 evolutions:

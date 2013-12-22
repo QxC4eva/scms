@@ -10,6 +10,8 @@ pokemon:
     - bw: [Gluttony, Liquid Ooze, Sticky Hold]
     stats:
     - [70, 43, 53, 43, 53, 40]
+    tags:
+    - []
     weight: [10.3]
     height: [0.4]
   Swalot:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Gluttony, Liquid Ooze, Sticky Hold]
     stats:
     - [100, 73, 83, 73, 83, 55]
+    tags:
+    - []
     weight: [80]
     height: [1.7]
 evolutions:

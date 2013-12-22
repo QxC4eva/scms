@@ -11,6 +11,8 @@ pokemon:
     stats:
     - [45, 30, 35, 20, 20, 45]
     - gs: [45, 30, 35, 20, 20, 45]
+    tags:
+    - []
     weight: [2.9]
     height: [0.3]
   Metapod:
@@ -24,6 +26,8 @@ pokemon:
     stats:
     - [50, 20, 55, 25, 25, 30]
     - gs: [50, 20, 55, 25, 25, 30]
+    tags:
+    - []
     weight: [9.9]
     height: [0.7]
   Butterfree:
@@ -38,6 +42,8 @@ pokemon:
     stats:
     - [60, 45, 50, 80, 80, 70]
     - gs: [60, 45, 50, 80, 80, 70]
+    tags:
+    - []
     weight: [32]
     height: [1.1]
 evolutions:

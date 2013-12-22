@@ -9,6 +9,8 @@ pokemon:
     - [Defiant, Inner Focus, Pressure]
     stats:
     - [45, 85, 70, 40, 40, 60]
+    tags:
+    - []
     weight: [10.2]
     height: [0.5]
   Bisharp:
@@ -21,6 +23,8 @@ pokemon:
     - [Defiant, Inner Focus, Pressure]
     stats:
     - [65, 125, 100, 60, 70, 70]
+    tags:
+    - []
     weight: [70]
     height: [1.6]
 evolutions:

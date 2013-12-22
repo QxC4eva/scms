@@ -10,6 +10,8 @@ pokemon:
     - bw: [Keen Eye, Rain Dish]
     stats:
     - [40, 30, 30, 55, 30, 85]
+    tags:
+    - []
     weight: [9.5]
     height: [0.6]
   Pelipper:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Keen Eye, Rain Dish]
     stats:
     - [60, 50, 100, 85, 70, 65]
+    tags:
+    - []
     weight: [28]
     height: [1.2]
 evolutions:

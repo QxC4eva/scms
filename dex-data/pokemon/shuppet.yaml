@@ -11,6 +11,8 @@ pokemon:
     - bw: [Cursed Body, Frisk, Insomnia]
     stats:
     - [44, 75, 35, 63, 33, 45]
+    tags:
+    - []
     weight: [2.3]
     height: [0.6]
   Banette:
@@ -25,6 +27,8 @@ pokemon:
     - bw: [Cursed Body, Frisk, Insomnia]
     stats:
     - [64, 115, 65, 83, 63, 65]
+    tags:
+    - []
     weight: [12.5]
     height: [1.1]
 evolutions:

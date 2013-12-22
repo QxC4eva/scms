@@ -9,6 +9,8 @@ pokemon:
     - [Intimidate, Moxie, Shed Skin]
     stats:
     - [50, 75, 70, 35, 70, 48]
+    tags:
+    - []
     weight: [11.8]
     height: [0.6]
   Scrafty:
@@ -21,6 +23,8 @@ pokemon:
     - [Intimidate, Moxie, Shed Skin]
     stats:
     - [65, 90, 115, 45, 115, 58]
+    tags:
+    - []
     weight: [30]
     height: [1.1]
 evolutions:

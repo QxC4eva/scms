@@ -10,6 +10,8 @@ pokemon:
     - bw: [Magnet Pull, Sand Force, Sturdy]
     stats:
     - [30, 45, 135, 45, 90, 30]
+    tags:
+    - []
     weight: [97]
     height: [1]
   Probopass:
@@ -22,6 +24,8 @@ pokemon:
     - [Magnet Pull, Sand Force, Sturdy]
     stats:
     - [60, 55, 145, 75, 150, 40]
+    tags:
+    - []
     weight: [340]
     height: [1.4]
 evolutions:

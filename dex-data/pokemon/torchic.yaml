@@ -10,6 +10,8 @@ pokemon:
     - bw: [Blaze, Speed Boost]
     stats:
     - [45, 60, 40, 70, 50, 45]
+    tags:
+    - []
     weight: [2.5]
     height: [0.4]
   Combusken:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Blaze, Speed Boost]
     stats:
     - [60, 85, 60, 85, 60, 55]
+    tags:
+    - []
     weight: [19.5]
     height: [0.9]
   Blaziken:
@@ -36,6 +40,8 @@ pokemon:
     - bw: [Blaze, Speed Boost]
     stats:
     - [80, 120, 70, 110, 70, 80]
+    tags:
+    - []
     weight: [52]
     height: [1.9]
 evolutions:

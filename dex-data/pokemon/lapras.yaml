@@ -11,6 +11,8 @@ pokemon:
     stats:
     - [130, 85, 80, 95, 95, 60]
     - gs: [130, 85, 80, 85, 95, 60]
+    tags:
+    - []
     weight: [220]
     height: [2.5]
 evolutions: []

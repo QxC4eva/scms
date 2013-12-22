@@ -10,6 +10,8 @@ pokemon:
     - bw: [Pickup, Sand Veil]
     stats:
     - [90, 60, 60, 40, 40, 40]
+    tags:
+    - []
     weight: [33.5]
     height: [0.5]
   Donphan:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Sand Veil, Sturdy]
     stats:
     - [90, 120, 120, 60, 60, 50]
+    tags:
+    - []
     weight: [120]
     height: [1.1]
 evolutions:

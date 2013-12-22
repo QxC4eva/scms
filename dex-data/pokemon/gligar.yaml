@@ -10,6 +10,8 @@ pokemon:
     - bw: [Hyper Cutter, Immunity, Sand Veil]
     stats:
     - [65, 75, 105, 35, 65, 85]
+    tags:
+    - []
     weight: [64.8]
     height: [1.1]
   Gliscor:
@@ -22,6 +24,8 @@ pokemon:
     - [Hyper Cutter, Poison Heal, Sand Veil]
     stats:
     - [75, 95, 125, 45, 75, 95]
+    tags:
+    - []
     weight: [42.5]
     height: [2]
 evolutions:

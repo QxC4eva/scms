@@ -9,6 +9,8 @@ pokemon:
     - [Pressure, Telepathy]
     stats:
     - [150, 100, 120, 100, 120, 90]
+    tags:
+    - []
     weight: [750]
     height: [4.5]
   Giratina-Origin:
@@ -21,6 +23,8 @@ pokemon:
     - [Levitate]
     stats:
     - [150, 120, 100, 120, 100, 90]
+    tags:
+    - []
     weight: [650]
     height: [6.9]
 evolutions:

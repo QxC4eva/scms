@@ -10,6 +10,8 @@ pokemon:
     - bw: [Guts, Scrappy]
     stats:
     - [40, 55, 30, 30, 30, 85]
+    tags:
+    - []
     weight: [2.3]
     height: [0.3]
   Swellow:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Guts, Scrappy]
     stats:
     - [60, 85, 60, 50, 50, 125]
+    tags:
+    - []
     weight: [19.8]
     height: [0.7]
 evolutions:

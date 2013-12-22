@@ -9,6 +9,8 @@ pokemon:
     - [Inner Focus, Prankster, Steadfast]
     stats:
     - [40, 70, 40, 35, 40, 60]
+    tags:
+    - []
     weight: [20.2]
     height: [0.7]
   Lucario:
@@ -21,6 +23,8 @@ pokemon:
     - [Inner Focus, Justified, Steadfast]
     stats:
     - [70, 110, 70, 115, 70, 90]
+    tags:
+    - []
     weight: [54]
     height: [1.2]
 evolutions:

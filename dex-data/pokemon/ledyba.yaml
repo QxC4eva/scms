@@ -10,6 +10,8 @@ pokemon:
     - bw: [Early Bird, Rattled, Swarm]
     stats:
     - [40, 20, 30, 40, 80, 55]
+    tags:
+    - []
     weight: [10.8]
     height: [1]
   Ledian:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Early Bird, Iron Fist, Swarm]
     stats:
     - [55, 35, 50, 55, 110, 85]
+    tags:
+    - []
     weight: [35.6]
     height: [1.4]
 evolutions:

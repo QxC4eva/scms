@@ -11,6 +11,8 @@ pokemon:
     - bw: [Keen Eye, Prankster, Stall]
     stats:
     - [50, 75, 75, 65, 65, 50]
+    tags:
+    - []
     weight: [11]
     height: [0.5]
 evolutions: []

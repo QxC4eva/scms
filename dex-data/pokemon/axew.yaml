@@ -9,6 +9,8 @@ pokemon:
     - [Mold Breaker, Rivalry, Unnerve]
     stats:
     - [46, 87, 60, 30, 40, 57]
+    tags:
+    - []
     weight: [18]
     height: [0.6]
   Fraxure:
@@ -21,6 +23,8 @@ pokemon:
     - [Mold Breaker, Rivalry, Unnerve]
     stats:
     - [66, 117, 70, 40, 50, 67]
+    tags:
+    - []
     weight: [36]
     height: [1]
   Haxorus:
@@ -33,6 +37,8 @@ pokemon:
     - [Mold Breaker, Rivalry, Unnerve]
     stats:
     - [76, 147, 90, 60, 70, 97]
+    tags:
+    - []
     weight: [105.5]
     height: [1.8]
 evolutions:

@@ -9,6 +9,8 @@ pokemon:
     - [Guts, Intimidate, Rivalry]
     stats:
     - [45, 65, 34, 40, 34, 45]
+    tags:
+    - []
     weight: [9.5]
     height: [0.5]
   Luxio:
@@ -21,6 +23,8 @@ pokemon:
     - [Guts, Intimidate, Rivalry]
     stats:
     - [60, 85, 49, 60, 49, 60]
+    tags:
+    - []
     weight: [30.5]
     height: [0.9]
   Luxray:
@@ -33,6 +37,8 @@ pokemon:
     - [Guts, Intimidate, Rivalry]
     stats:
     - [80, 120, 79, 95, 79, 70]
+    tags:
+    - []
     weight: [42]
     height: [1.4]
 evolutions:

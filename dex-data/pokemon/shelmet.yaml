@@ -9,6 +9,8 @@ pokemon:
     - [Hydration, Overcoat, Shell Armor]
     stats:
     - [50, 40, 85, 40, 65, 25]
+    tags:
+    - []
     weight: [7.7]
     height: [0.4]
   Accelgor:
@@ -21,6 +23,8 @@ pokemon:
     - [Hydration, Sticky Hold, Unburden]
     stats:
     - [80, 70, 40, 100, 60, 145]
+    tags:
+    - []
     weight: [25.3]
     height: [0.8]
 evolutions:

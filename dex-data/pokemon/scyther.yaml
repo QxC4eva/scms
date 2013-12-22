@@ -12,6 +12,8 @@ pokemon:
     stats:
     - [70, 110, 80, 55, 55, 105]
     - gs: [70, 110, 80, 55, 80, 105]
+    tags:
+    - []
     weight: [56]
     height: [1.5]
   Scizor:
@@ -26,6 +28,8 @@ pokemon:
     - bw: [Light Metal, Swarm, Technician]
     stats:
     - [70, 130, 100, 55, 80, 65]
+    tags:
+    - []
     weight: [118]
     height: [1.8]
 evolutions:

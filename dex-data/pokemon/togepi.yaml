@@ -10,6 +10,8 @@ pokemon:
     - bw: [Hustle, Serene Grace, Super Luck]
     stats:
     - [35, 20, 65, 40, 65, 20]
+    tags:
+    - []
     weight: [1.5]
     height: [0.3]
   Togetic:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Hustle, Serene Grace, Super Luck]
     stats:
     - [55, 40, 85, 80, 105, 40]
+    tags:
+    - []
     weight: [3.2]
     height: [0.6]
   Togekiss:
@@ -35,6 +39,8 @@ pokemon:
     - [Hustle, Serene Grace, Super Luck]
     stats:
     - [85, 50, 95, 120, 115, 80]
+    tags:
+    - []
     weight: [38]
     height: [1.5]
 evolutions:

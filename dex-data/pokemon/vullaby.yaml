@@ -9,6 +9,8 @@ pokemon:
     - [Big Pecks, Overcoat, Weak Armor]
     stats:
     - [70, 55, 75, 45, 65, 60]
+    tags:
+    - []
     weight: [9]
     height: [0.5]
   Mandibuzz:
@@ -21,6 +23,8 @@ pokemon:
     - [Big Pecks, Overcoat, Weak Armor]
     stats:
     - [110, 65, 105, 55, 95, 80]
+    tags:
+    - []
     weight: [39.5]
     height: [1.2]
 evolutions:

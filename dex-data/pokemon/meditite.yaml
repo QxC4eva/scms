@@ -10,6 +10,8 @@ pokemon:
     - bw: [Pure Power, Telepathy]
     stats:
     - [30, 40, 55, 40, 55, 60]
+    tags:
+    - []
     weight: [11.2]
     height: [0.6]
   Medicham:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Pure Power, Telepathy]
     stats:
     - [60, 60, 75, 60, 75, 80]
+    tags:
+    - []
     weight: [31.5]
     height: [1.3]
 evolutions:

@@ -11,6 +11,8 @@ pokemon:
     - bw: [Hustle, Moody, Sniper]
     stats:
     - [35, 65, 35, 65, 35, 65]
+    tags:
+    - []
     weight: [12]
     height: [0.6]
   Octillery:
@@ -25,6 +27,8 @@ pokemon:
     - bw: [Moody, Sniper, Suction Cups]
     stats:
     - [75, 105, 75, 105, 75, 45]
+    tags:
+    - []
     weight: [28.5]
     height: [0.9]
 evolutions:

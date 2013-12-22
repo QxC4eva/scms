@@ -11,6 +11,8 @@ pokemon:
     - bw: [Chlorophyll, Early Bird, Solar Power]
     stats:
     - [30, 30, 30, 30, 30, 30]
+    tags:
+    - []
     weight: [1.8]
     height: [0.3]
   Sunflora:
@@ -25,6 +27,8 @@ pokemon:
     - bw: [Chlorophyll, Early Bird, Solar Power]
     stats:
     - [75, 75, 55, 105, 85, 30]
+    tags:
+    - []
     weight: [8.5]
     height: [0.8]
 evolutions:

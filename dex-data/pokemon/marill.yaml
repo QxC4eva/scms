@@ -10,6 +10,8 @@ pokemon:
     - bw: [Huge Power, Sap Sipper, Thick Fat]
     stats:
     - [50, 20, 40, 20, 40, 20]
+    tags:
+    - []
     weight: [2]
     height: [0.2]
   Marill:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Huge Power, Sap Sipper, Thick Fat]
     stats:
     - [70, 20, 50, 20, 50, 40]
+    tags:
+    - []
     weight: [8.5]
     height: [0.4]
   Azumarill:
@@ -36,6 +40,8 @@ pokemon:
     - bw: [Huge Power, Sap Sipper, Thick Fat]
     stats:
     - [100, 50, 80, 50, 80, 50]
+    tags:
+    - []
     weight: [28.5]
     height: [0.8]
 evolutions:

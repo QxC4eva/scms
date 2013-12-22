@@ -9,6 +9,8 @@ pokemon:
     - [Chlorophyll, Infiltrator, Prankster]
     stats:
     - [40, 27, 60, 37, 50, 66]
+    tags:
+    - []
     weight: [0.6]
     height: [0.3]
   Whimsicott:
@@ -21,6 +23,8 @@ pokemon:
     - [Chlorophyll, Infiltrator, Prankster]
     stats:
     - [60, 67, 85, 77, 75, 116]
+    tags:
+    - []
     weight: [6.6]
     height: [0.7]
 evolutions:

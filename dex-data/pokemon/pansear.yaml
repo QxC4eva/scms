@@ -9,6 +9,8 @@ pokemon:
     - [Blaze, Gluttony]
     stats:
     - [50, 53, 48, 53, 48, 64]
+    tags:
+    - []
     weight: [11]
     height: [0.6]
   Simisear:
@@ -21,6 +23,8 @@ pokemon:
     - [Blaze, Gluttony]
     stats:
     - [75, 98, 63, 98, 63, 101]
+    tags:
+    - []
     weight: [28]
     height: [1]
 evolutions:

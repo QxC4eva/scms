@@ -9,6 +9,8 @@ pokemon:
     - [Frisk, Shadow Tag]
     stats:
     - [45, 30, 50, 55, 65, 45]
+    tags:
+    - []
     weight: [5.8]
     height: [0.4]
   Gothitelle:
@@ -21,6 +23,8 @@ pokemon:
     - [Frisk, Shadow Tag]
     stats:
     - [70, 55, 95, 95, 110, 65]
+    tags:
+    - []
     weight: [44]
     height: [1.5]
   Gothorita:
@@ -33,6 +37,8 @@ pokemon:
     - [Frisk, Shadow Tag]
     stats:
     - [60, 45, 70, 75, 85, 55]
+    tags:
+    - []
     weight: [18]
     height: [0.7]
 evolutions:

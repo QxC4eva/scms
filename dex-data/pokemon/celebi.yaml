@@ -10,6 +10,8 @@ pokemon:
     - bw: [Natural Cure]
     stats:
     - [100, 100, 100, 100, 100, 100]
+    tags:
+    - []
     weight: [5]
     height: [0.6]
 evolutions: []

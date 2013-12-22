@@ -9,6 +9,8 @@ pokemon:
     - [Analytic, Keen Eye, Run Away]
     stats:
     - [45, 55, 39, 35, 39, 42]
+    tags:
+    - []
     weight: [11.6]
     height: [0.5]
   Watchog:
@@ -21,6 +23,8 @@ pokemon:
     - [Analytic, Illuminate, Keen Eye]
     stats:
     - [60, 85, 69, 60, 69, 77]
+    tags:
+    - []
     weight: [27]
     height: [1.1]
 evolutions:

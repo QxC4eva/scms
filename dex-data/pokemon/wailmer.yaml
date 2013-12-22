@@ -10,6 +10,8 @@ pokemon:
     - bw: [Oblivious, Pressure, Water Veil]
     stats:
     - [130, 70, 35, 70, 35, 60]
+    tags:
+    - []
     weight: [130]
     height: [2]
   Wailord:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Oblivious, Pressure, Water Veil]
     stats:
     - [170, 90, 45, 90, 45, 60]
+    tags:
+    - []
     weight: [398]
     height: [14.5]
 evolutions:

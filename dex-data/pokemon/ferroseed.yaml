@@ -9,6 +9,8 @@ pokemon:
     - [Iron Barbs]
     stats:
     - [44, 50, 91, 24, 86, 10]
+    tags:
+    - []
     weight: [18.8]
     height: [0.6]
   Ferrothorn:
@@ -21,6 +23,8 @@ pokemon:
     - [Iron Barbs]
     stats:
     - [74, 94, 131, 54, 116, 20]
+    tags:
+    - []
     weight: [110]
     height: [1]
 evolutions:

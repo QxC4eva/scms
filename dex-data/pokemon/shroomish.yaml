@@ -11,6 +11,8 @@ pokemon:
     - bw: [Effect Spore, Poison Heal, Quick Feet]
     stats:
     - [60, 40, 60, 40, 60, 35]
+    tags:
+    - []
     weight: [4.5]
     height: [0.4]
   Breloom:
@@ -25,6 +27,8 @@ pokemon:
     - bw: [Effect Spore, Poison Heal, Technician]
     stats:
     - [60, 130, 80, 60, 60, 70]
+    tags:
+    - []
     weight: [39.2]
     height: [1.2]
 evolutions:

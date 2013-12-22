@@ -10,6 +10,8 @@ pokemon:
     - bw: [Arena Trap, Hyper Cutter, Sheer Force]
     stats:
     - [45, 100, 45, 45, 45, 10]
+    tags:
+    - []
     weight: [15]
     height: [0.7]
   Vibrava:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Levitate]
     stats:
     - [50, 70, 50, 50, 50, 70]
+    tags:
+    - []
     weight: [15.3]
     height: [1.1]
   Flygon:
@@ -36,6 +40,8 @@ pokemon:
     - bw: [Levitate]
     stats:
     - [80, 100, 80, 80, 80, 100]
+    tags:
+    - []
     weight: [82]
     height: [2]
 evolutions:

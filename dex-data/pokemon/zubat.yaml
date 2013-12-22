@@ -11,6 +11,8 @@ pokemon:
     stats:
     - [40, 45, 35, 40, 40, 55]
     - gs: [40, 45, 35, 30, 40, 55]
+    tags:
+    - []
     weight: [7.5]
     height: [0.8]
   Golbat:
@@ -25,6 +27,8 @@ pokemon:
     stats:
     - [75, 80, 70, 75, 75, 90]
     - gs: [75, 80, 70, 65, 75, 90]
+    tags:
+    - []
     weight: [55]
     height: [1.6]
   Crobat:
@@ -38,6 +42,8 @@ pokemon:
     - bw: [Infiltrator, Inner Focus]
     stats:
     - [85, 90, 80, 70, 80, 130]
+    tags:
+    - []
     weight: [75]
     height: [1.8]
 evolutions:

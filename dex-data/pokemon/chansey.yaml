@@ -9,6 +9,8 @@ pokemon:
     - [Friend Guard, Natural Cure, Serene Grace]
     stats:
     - [100, 5, 5, 15, 65, 30]
+    tags:
+    - []
     weight: [24.4]
     height: [0.6]
   Chansey:
@@ -23,6 +25,8 @@ pokemon:
     stats:
     - [250, 5, 5, 105, 105, 50]
     - gs: [250, 5, 5, 35, 105, 50]
+    tags:
+    - []
     weight: [34.6]
     height: [1.1]
   Blissey:
@@ -36,6 +40,8 @@ pokemon:
     - bw: [Healer, Natural Cure, Serene Grace]
     stats:
     - [255, 10, 10, 75, 135, 55]
+    tags:
+    - []
     weight: [46.8]
     height: [1.5]
 evolutions:

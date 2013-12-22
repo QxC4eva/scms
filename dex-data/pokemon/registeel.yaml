@@ -10,6 +10,8 @@ pokemon:
     - bw: [Clear Body, Light Metal]
     stats:
     - [80, 75, 150, 75, 150, 50]
+    tags:
+    - []
     weight: [205]
     height: [1.9]
 evolutions: []

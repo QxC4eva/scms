@@ -10,6 +10,8 @@ pokemon:
     - bw: [Blaze, Flash Fire]
     stats:
     - [39, 52, 43, 60, 50, 65]
+    tags:
+    - []
     weight: [7.9]
     height: [0.5]
   Quilava:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Blaze, Flash Fire]
     stats:
     - [58, 64, 58, 80, 65, 80]
+    tags:
+    - []
     weight: [19]
     height: [0.9]
   Typhlosion:
@@ -36,6 +40,8 @@ pokemon:
     - bw: [Blaze, Flash Fire]
     stats:
     - [78, 84, 78, 109, 85, 100]
+    tags:
+    - []
     weight: [79.5]
     height: [1.7]
 evolutions:

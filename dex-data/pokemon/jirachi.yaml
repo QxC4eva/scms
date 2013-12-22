@@ -10,6 +10,8 @@ pokemon:
     - bw: [Serene Grace]
     stats:
     - [100, 100, 100, 100, 100, 100]
+    tags:
+    - []
     weight: [1.1]
     height: [0.3]
 evolutions: []

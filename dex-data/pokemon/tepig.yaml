@@ -9,6 +9,8 @@ pokemon:
     - [Blaze, Thick Fat]
     stats:
     - [65, 63, 45, 45, 45, 45]
+    tags:
+    - []
     weight: [9.9]
     height: [0.5]
   Pignite:
@@ -21,6 +23,8 @@ pokemon:
     - [Blaze, Thick Fat]
     stats:
     - [90, 93, 55, 70, 55, 55]
+    tags:
+    - []
     weight: [55.5]
     height: [1]
   Emboar:
@@ -33,6 +37,8 @@ pokemon:
     - [Blaze, Reckless]
     stats:
     - [110, 123, 65, 100, 65, 65]
+    tags:
+    - []
     weight: [150]
     height: [1.6]
 evolutions:

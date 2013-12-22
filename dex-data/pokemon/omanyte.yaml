@@ -11,6 +11,8 @@ pokemon:
     stats:
     - [35, 40, 100, 90, 90, 35]
     - gs: [35, 40, 100, 90, 55, 35]
+    tags:
+    - []
     weight: [7.5]
     height: [0.4]
   Omastar:
@@ -25,6 +27,8 @@ pokemon:
     stats:
     - [70, 60, 125, 115, 115, 55]
     - gs: [70, 60, 125, 115, 70, 55]
+    tags:
+    - []
     weight: [35]
     height: [1]
 evolutions:

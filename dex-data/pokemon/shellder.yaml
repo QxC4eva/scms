@@ -12,6 +12,8 @@ pokemon:
     stats:
     - [30, 65, 100, 45, 45, 40]
     - gs: [30, 65, 100, 45, 25, 40]
+    tags:
+    - []
     weight: [4]
     height: [0.3]
   Cloyster:
@@ -27,6 +29,8 @@ pokemon:
     stats:
     - [50, 95, 180, 85, 85, 70]
     - gs: [50, 95, 180, 85, 45, 70]
+    tags:
+    - []
     weight: [132.5]
     height: [1.5]
 evolutions:

@@ -10,6 +10,8 @@ pokemon:
     - bw: [Cute Charm, Friend Guard]
     stats:
     - [90, 30, 15, 40, 20, 15]
+    tags:
+    - []
     weight: [1]
     height: [0.3]
   Jigglypuff:
@@ -24,6 +26,8 @@ pokemon:
     stats:
     - [115, 45, 20, 25, 25, 20]
     - gs: [115, 45, 20, 45, 25, 20]
+    tags:
+    - []
     weight: [5.5]
     height: [0.5]
   Wigglytuff:
@@ -38,6 +42,8 @@ pokemon:
     stats:
     - [140, 70, 45, 50, 50, 45]
     - gs: [140, 70, 45, 75, 50, 45]
+    tags:
+    - []
     weight: [12]
     height: [1]
 evolutions:

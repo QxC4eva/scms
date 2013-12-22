@@ -10,6 +10,8 @@ pokemon:
     - bw: [Rain Dish, Swift Swim]
     stats:
     - [40, 30, 32, 50, 52, 65]
+    tags:
+    - []
     weight: [1.7]
     height: [0.5]
   Masquerain:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Intimidate, Unnerve]
     stats:
     - [70, 60, 62, 80, 82, 60]
+    tags:
+    - []
     weight: [3.6]
     height: [0.8]
 evolutions:

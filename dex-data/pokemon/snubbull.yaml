@@ -10,6 +10,8 @@ pokemon:
     - bw: [Intimidate, Rattled, Run Away]
     stats:
     - [60, 80, 50, 40, 40, 30]
+    tags:
+    - []
     weight: [7.8]
     height: [0.6]
   Granbull:
@@ -24,6 +26,8 @@ pokemon:
     - bw: [Intimidate, Quick Feet, Rattled]
     stats:
     - [90, 120, 75, 60, 60, 45]
+    tags:
+    - []
     weight: [48.7]
     height: [1.4]
 evolutions:

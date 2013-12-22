@@ -12,6 +12,8 @@ pokemon:
     stats:
     - [55, 55, 50, 65, 65, 55]
     - gs: [55, 55, 50, 45, 65, 55]
+    tags:
+    - []
     weight: [6.5]
     height: [0.3]
   Flareon:
@@ -26,6 +28,8 @@ pokemon:
     stats:
     - [65, 130, 60, 110, 110, 65]
     - gs: [65, 130, 60, 95, 110, 65]
+    tags:
+    - []
     weight: [25]
     height: [0.9]
   Jolteon:
@@ -40,6 +44,8 @@ pokemon:
     stats:
     - [65, 65, 60, 110, 110, 130]
     - gs: [65, 65, 60, 110, 95, 130]
+    tags:
+    - []
     weight: [24.5]
     height: [0.8]
   Vaporeon:
@@ -54,6 +60,8 @@ pokemon:
     stats:
     - [130, 65, 60, 110, 110, 65]
     - gs: [130, 65, 60, 110, 95, 65]
+    tags:
+    - []
     weight: [29]
     height: [1]
   Espeon:
@@ -67,6 +75,8 @@ pokemon:
     - bw: [Magic Bounce, Synchronize]
     stats:
     - [65, 65, 60, 130, 95, 110]
+    tags:
+    - []
     weight: [26.5]
     height: [0.9]
   Umbreon:
@@ -80,6 +90,8 @@ pokemon:
     - bw: [Inner Focus, Synchronize]
     stats:
     - [95, 65, 110, 60, 130, 65]
+    tags:
+    - []
     weight: [27]
     height: [1]
   Leafeon:
@@ -92,6 +104,8 @@ pokemon:
     - [Chlorophyll, Leaf Guard]
     stats:
     - [65, 110, 130, 60, 65, 95]
+    tags:
+    - []
     weight: [25.5]
     height: [1]
   Glaceon:
@@ -105,6 +119,8 @@ pokemon:
     - bw: [Ice Body, Snow Cloak]
     stats:
     - [65, 60, 110, 130, 95, 65]
+    tags:
+    - []
     weight: [25.9]
     height: [0.8]
 evolutions: []

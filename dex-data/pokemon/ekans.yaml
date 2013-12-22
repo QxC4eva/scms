@@ -11,6 +11,8 @@ pokemon:
     stats:
     - [35, 60, 44, 40, 40, 55]
     - gs: [35, 60, 44, 40, 54, 55]
+    tags:
+    - []
     weight: [6.9]
     height: [2]
   Arbok:
@@ -25,6 +27,8 @@ pokemon:
     stats:
     - [60, 85, 69, 65, 65, 80]
     - gs: [60, 85, 69, 65, 79, 80]
+    tags:
+    - []
     weight: [65]
     height: [3.5]
 evolutions:

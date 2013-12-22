@@ -9,6 +9,8 @@ pokemon:
     - [Magic Guard, Overcoat, Regenerator]
     stats:
     - [45, 30, 40, 105, 50, 20]
+    tags:
+    - []
     weight: [1]
     height: [0.3]
   Duosion:
@@ -21,6 +23,8 @@ pokemon:
     - [Magic Guard, Overcoat, Regenerator]
     stats:
     - [65, 40, 50, 125, 60, 30]
+    tags:
+    - []
     weight: [8]
     height: [0.6]
   Reuniclus:
@@ -33,6 +37,8 @@ pokemon:
     - [Magic Guard, Overcoat, Regenerator]
     stats:
     - [110, 65, 75, 125, 85, 30]
+    tags:
+    - []
     weight: [20.1]
     height: [1]
 evolutions:

@@ -9,6 +9,8 @@ pokemon:
     - [Hydration, Swift Swim, Water Absorb]
     stats:
     - [50, 50, 40, 50, 40, 64]
+    tags:
+    - []
     weight: [4.5]
     height: [0.5]
   Palpitoad:
@@ -21,6 +23,8 @@ pokemon:
     - [Hydration, Swift Swim, Water Absorb]
     stats:
     - [75, 65, 55, 65, 55, 69]
+    tags:
+    - []
     weight: [17]
     height: [0.8]
   Seismitoad:
@@ -33,6 +37,8 @@ pokemon:
     - [Poison Touch, Swift Swim, Water Absorb]
     stats:
     - [105, 85, 75, 85, 75, 74]
+    tags:
+    - []
     weight: [62]
     height: [1.5]
 evolutions:

@@ -9,6 +9,8 @@ pokemon:
     - [Sand Force, Sticky Hold, Storm Drain]
     stats:
     - [76, 48, 48, 57, 62, 34]
+    tags:
+    - []
     weight: [6.3]
     height: [0.3]
   Gastrodon:
@@ -21,6 +23,8 @@ pokemon:
     - [Sand Force, Sticky Hold, Storm Drain]
     stats:
     - [111, 83, 68, 92, 82, 39]
+    tags:
+    - []
     weight: [29.9]
     height: [0.9]
 evolutions:

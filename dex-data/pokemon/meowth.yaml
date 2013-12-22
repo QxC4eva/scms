@@ -12,6 +12,8 @@ pokemon:
     stats:
     - [40, 45, 35, 40, 40, 90]
     - gs: [40, 45, 35, 40, 40, 90]
+    tags:
+    - []
     weight: [4.2]
     height: [0.4]
   Persian:
@@ -27,6 +29,8 @@ pokemon:
     stats:
     - [65, 70, 60, 65, 65, 115]
     - gs: [65, 70, 60, 65, 65, 115]
+    tags:
+    - []
     weight: [32]
     height: [1]
 evolutions:

@@ -9,6 +9,8 @@ pokemon:
     - [Hustle, Keen Eye, Sheer Force]
     stats:
     - [70, 83, 50, 37, 50, 60]
+    tags:
+    - []
     weight: [10.5]
     height: [0.5]
   Braviary:
@@ -21,6 +23,8 @@ pokemon:
     - [Defiant, Keen Eye, Sheer Force]
     stats:
     - [100, 123, 75, 57, 75, 80]
+    tags:
+    - []
     weight: [41]
     height: [1.5]
 evolutions:

@@ -9,6 +9,8 @@ pokemon:
     - [Levitate]
     stats:
     - [50, 50, 77, 95, 77, 91]
+    tags:
+    - []
     weight: [0.3]
     height: [0.3]
   Rotom-Fan:
@@ -22,6 +24,8 @@ pokemon:
     - [Levitate]
     stats:
     - [50, 65, 107, 105, 107, 86]
+    tags:
+    - []
     weight: [0.3]
     height: [0.3]
   Rotom-Frost:
@@ -35,6 +39,8 @@ pokemon:
     - [Levitate]
     stats:
     - [50, 65, 107, 105, 107, 86]
+    tags:
+    - []
     weight: [0.3]
     height: [0.3]
   Rotom-Heat:
@@ -48,6 +54,8 @@ pokemon:
     - [Levitate]
     stats:
     - [50, 65, 107, 105, 107, 86]
+    tags:
+    - []
     weight: [0.3]
     height: [0.3]
   Rotom-Mow:
@@ -61,6 +69,8 @@ pokemon:
     - [Levitate]
     stats:
     - [50, 65, 107, 105, 107, 86]
+    tags:
+    - []
     weight: [0.3]
     height: [0.3]
   Rotom-Wash:
@@ -74,6 +84,8 @@ pokemon:
     - [Levitate]
     stats:
     - [50, 65, 107, 105, 107, 86]
+    tags:
+    - []
     weight: [0.3]
     height: [0.3]
 evolutions:

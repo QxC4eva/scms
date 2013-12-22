@@ -10,6 +10,8 @@ pokemon:
     - bw: [Levitate]
     stats:
     - [60, 60, 60, 85, 85, 85]
+    tags:
+    - []
     weight: [1]
     height: [0.7]
   Mismagius:
@@ -22,6 +24,8 @@ pokemon:
     - [Levitate]
     stats:
     - [60, 60, 60, 105, 105, 105]
+    tags:
+    - []
     weight: [4.4]
     height: [0.9]
 evolutions:

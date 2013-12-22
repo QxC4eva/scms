@@ -10,6 +10,8 @@ pokemon:
     - bw: [Guts, Sheer Force, Thick Fat]
     stats:
     - [72, 60, 30, 20, 30, 25]
+    tags:
+    - []
     weight: [86.4]
     height: [1]
   Hariyama:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Guts, Sheer Force, Thick Fat]
     stats:
     - [144, 120, 60, 40, 60, 50]
+    tags:
+    - []
     weight: [253.8]
     height: [2.3]
 evolutions:

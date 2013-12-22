@@ -10,6 +10,8 @@ pokemon:
     - bw: [Pickup, Run Away, Skill Link]
     stats:
     - [55, 70, 55, 40, 55, 85]
+    tags:
+    - []
     weight: [11.5]
     height: [0.8]
   Ambipom:
@@ -22,6 +24,8 @@ pokemon:
     - [Pickup, Skill Link, Technician]
     stats:
     - [75, 100, 66, 60, 66, 115]
+    tags:
+    - []
     weight: [20.3]
     height: [1.2]
 evolutions:

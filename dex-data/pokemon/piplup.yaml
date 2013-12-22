@@ -9,6 +9,8 @@ pokemon:
     - [Defiant, Torrent]
     stats:
     - [53, 51, 53, 61, 56, 40]
+    tags:
+    - []
     weight: [5.2]
     height: [0.4]
   Prinplup:
@@ -21,6 +23,8 @@ pokemon:
     - [Defiant, Torrent]
     stats:
     - [64, 66, 68, 81, 76, 50]
+    tags:
+    - []
     weight: [23]
     height: [0.8]
   Empoleon:
@@ -33,6 +37,8 @@ pokemon:
     - [Defiant, Torrent]
     stats:
     - [84, 86, 88, 111, 101, 60]
+    tags:
+    - []
     weight: [84.5]
     height: [1.7]
 evolutions:

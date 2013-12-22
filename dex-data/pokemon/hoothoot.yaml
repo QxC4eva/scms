@@ -10,6 +10,8 @@ pokemon:
     - bw: [Insomnia, Keen Eye, Tinted Lens]
     stats:
     - [60, 30, 30, 36, 56, 50]
+    tags:
+    - []
     weight: [21.2]
     height: [0.7]
   Noctowl:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Insomnia, Keen Eye, Tinted Lens]
     stats:
     - [100, 50, 50, 76, 96, 70]
+    tags:
+    - []
     weight: [40.8]
     height: [1.6]
 evolutions:

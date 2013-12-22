@@ -9,6 +9,8 @@ pokemon:
     - [Illusion]
     stats:
     - [40, 65, 40, 80, 40, 65]
+    tags:
+    - []
     weight: [12.5]
     height: [0.7]
   Zoroark:
@@ -21,6 +23,8 @@ pokemon:
     - [Illusion]
     stats:
     - [60, 105, 60, 120, 60, 105]
+    tags:
+    - []
     weight: [81.1]
     height: [1.6]
 evolutions:

@@ -9,6 +9,8 @@ pokemon:
     - [Anger Point, Intimidate, Moxie]
     stats:
     - [50, 72, 35, 35, 35, 65]
+    tags:
+    - []
     weight: [15.2]
     height: [0.7]
   Krokorok:
@@ -21,6 +23,8 @@ pokemon:
     - [Anger Point, Intimidate, Moxie]
     stats:
     - [60, 82, 45, 45, 45, 74]
+    tags:
+    - []
     weight: [33.4]
     height: [1]
   Krookodile:
@@ -33,6 +37,8 @@ pokemon:
     - [Anger Point, Intimidate, Moxie]
     stats:
     - [95, 117, 70, 65, 70, 92]
+    tags:
+    - []
     weight: [96.3]
     height: [1.5]
 evolutions:

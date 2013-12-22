@@ -9,6 +9,8 @@ pokemon:
     - [Limber, Prankster, Unburden]
     stats:
     - [41, 50, 37, 50, 37, 66]
+    tags:
+    - []
     weight: [10.1]
     height: [0.4]
   Liepard:
@@ -21,6 +23,8 @@ pokemon:
     - [Limber, Prankster, Unburden]
     stats:
     - [64, 88, 50, 88, 50, 106]
+    tags:
+    - []
     weight: [37.5]
     height: [1.1]
 evolutions:

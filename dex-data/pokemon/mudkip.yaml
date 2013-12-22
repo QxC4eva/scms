@@ -10,6 +10,8 @@ pokemon:
     - bw: [Damp, Torrent]
     stats:
     - [50, 70, 50, 50, 50, 40]
+    tags:
+    - []
     weight: [7.6]
     height: [0.4]
   Marshtomp:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Damp, Torrent]
     stats:
     - [70, 85, 70, 60, 70, 50]
+    tags:
+    - []
     weight: [28]
     height: [0.7]
   Swampert:
@@ -36,6 +40,8 @@ pokemon:
     - bw: [Damp, Torrent]
     stats:
     - [100, 110, 90, 85, 90, 60]
+    tags:
+    - []
     weight: [81.9]
     height: [1.5]
 evolutions:

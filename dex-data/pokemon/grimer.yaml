@@ -11,6 +11,8 @@ pokemon:
     stats:
     - [80, 80, 50, 40, 40, 25]
     - gs: [80, 80, 50, 40, 50, 25]
+    tags:
+    - []
     weight: [30]
     height: [0.9]
   Muk:
@@ -25,6 +27,8 @@ pokemon:
     stats:
     - [105, 105, 75, 65, 65, 50]
     - gs: [105, 105, 75, 65, 100, 50]
+    tags:
+    - []
     weight: [30]
     height: [1.2]
 evolutions:

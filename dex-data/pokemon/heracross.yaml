@@ -10,6 +10,8 @@ pokemon:
     - bw: [Guts, Moxie, Swarm]
     stats:
     - [80, 125, 75, 40, 95, 85]
+    tags:
+    - []
     weight: [54]
     height: [1.5]
 evolutions: []

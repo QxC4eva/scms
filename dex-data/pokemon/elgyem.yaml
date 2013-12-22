@@ -9,6 +9,8 @@ pokemon:
     - [Analytic, Synchronize, Telepathy]
     stats:
     - [55, 55, 55, 85, 55, 30]
+    tags:
+    - []
     weight: [9]
     height: [0.5]
   Beheeyem:
@@ -21,6 +23,8 @@ pokemon:
     - [Analytic, Synchronize, Telepathy]
     stats:
     - [75, 75, 75, 125, 95, 40]
+    tags:
+    - []
     weight: [34.5]
     height: [1]
 evolutions:

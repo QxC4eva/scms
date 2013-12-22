@@ -9,6 +9,8 @@ pokemon:
     - [Hydration]
     stats:
     - [100, 100, 100, 100, 100, 100]
+    tags:
+    - []
     weight: [1.4]
     height: [0.3]
 evolutions: []

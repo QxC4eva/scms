@@ -11,6 +11,8 @@ pokemon:
     stats:
     - [50, 75, 85, 30, 30, 40]
     - gs: [50, 75, 85, 20, 30, 40]
+    tags:
+    - []
     weight: [12]
     height: [0.6]
   Sandslash:
@@ -25,6 +27,8 @@ pokemon:
     stats:
     - [75, 100, 110, 55, 55, 65]
     - gs: [75, 100, 110, 45, 55, 65]
+    tags:
+    - []
     weight: [29.5]
     height: [1]
 evolutions:

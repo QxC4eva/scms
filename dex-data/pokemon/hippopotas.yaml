@@ -9,6 +9,8 @@ pokemon:
     - [Sand Force, Sand Stream]
     stats:
     - [68, 72, 78, 38, 42, 32]
+    tags:
+    - []
     weight: [49.5]
     height: [0.8]
   Hippowdon:
@@ -21,6 +23,8 @@ pokemon:
     - [Sand Force, Sand Stream]
     stats:
     - [108, 112, 118, 68, 72, 47]
+    tags:
+    - []
     weight: [300]
     height: [2]
 evolutions:

@@ -10,6 +10,8 @@ pokemon:
     - bw: [Static, Vital Spirit]
     stats:
     - [45, 63, 37, 65, 55, 95]
+    tags:
+    - []
     weight: [23.5]
     height: [0.6]
   Electabuzz:
@@ -24,6 +26,8 @@ pokemon:
     stats:
     - [65, 83, 57, 85, 85, 105]
     - gs: [65, 83, 57, 95, 85, 105]
+    tags:
+    - []
     weight: [30]
     height: [1.1]
   Electivire:
@@ -36,6 +40,8 @@ pokemon:
     - [Motor Drive, Vital Spirit]
     stats:
     - [75, 123, 67, 95, 85, 95]
+    tags:
+    - []
     weight: [138.6]
     height: [1.8]
 evolutions:

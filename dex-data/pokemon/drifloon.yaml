@@ -9,6 +9,8 @@ pokemon:
     - [Aftermath, Flare Boost, Unburden]
     stats:
     - [90, 50, 34, 60, 44, 70]
+    tags:
+    - []
     weight: [1.2]
     height: [0.4]
   Drifblim:
@@ -21,6 +23,8 @@ pokemon:
     - [Aftermath, Flare Boost, Unburden]
     stats:
     - [150, 80, 44, 90, 54, 80]
+    tags:
+    - []
     weight: [15]
     height: [1.2]
 evolutions:

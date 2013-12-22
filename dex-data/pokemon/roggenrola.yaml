@@ -9,6 +9,8 @@ pokemon:
     - [Sand Force, Sturdy]
     stats:
     - [55, 75, 85, 25, 25, 15]
+    tags:
+    - []
     weight: [18]
     height: [0.4]
   Boldore:
@@ -21,6 +23,8 @@ pokemon:
     - [Sand Force, Sturdy]
     stats:
     - [70, 105, 105, 50, 40, 20]
+    tags:
+    - []
     weight: [102]
     height: [0.9]
   Gigalith:
@@ -33,6 +37,8 @@ pokemon:
     - [Sand Force, Sturdy]
     stats:
     - [85, 135, 130, 60, 70, 25]
+    tags:
+    - []
     weight: [260]
     height: [1.7]
 evolutions:

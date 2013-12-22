@@ -11,6 +11,8 @@ pokemon:
     - bw: [Guts, Steadfast, Vital Spirit]
     stats:
     - [35, 35, 35, 35, 35, 35]
+    tags:
+    - []
     weight: [21]
     height: [0.7]
   Hitmonchan:
@@ -26,6 +28,8 @@ pokemon:
     stats:
     - [50, 105, 79, 35, 35, 76]
     - gs: [50, 105, 79, 35, 110, 76]
+    tags:
+    - []
     weight: [50.2]
     height: [1.4]
   Hitmonlee:
@@ -41,6 +45,8 @@ pokemon:
     stats:
     - [50, 120, 53, 35, 35, 87]
     - gs: [50, 120, 53, 35, 110, 87]
+    tags:
+    - []
     weight: [49.8]
     height: [1.5]
   Hitmontop:
@@ -55,6 +61,8 @@ pokemon:
     - bw: [Intimidate, Steadfast, Technician]
     stats:
     - [50, 95, 95, 35, 110, 70]
+    tags:
+    - []
     weight: [48]
     height: [1.4]
 evolutions:

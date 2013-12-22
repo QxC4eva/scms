@@ -9,6 +9,8 @@ pokemon:
     - [Shell Armor, Sturdy, Weak Armor]
     stats:
     - [50, 65, 85, 35, 35, 55]
+    tags:
+    - []
     weight: [14.5]
     height: [0.3]
   Crustle:
@@ -21,6 +23,8 @@ pokemon:
     - [Shell Armor, Sturdy, Weak Armor]
     stats:
     - [70, 95, 125, 65, 75, 45]
+    tags:
+    - []
     weight: [200]
     height: [1.4]
 evolutions:

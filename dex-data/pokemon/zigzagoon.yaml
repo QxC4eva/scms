@@ -10,6 +10,8 @@ pokemon:
     - bw: [Gluttony, Pickup, Quick Feet]
     stats:
     - [38, 30, 41, 30, 41, 60]
+    tags:
+    - []
     weight: [17.5]
     height: [0.4]
   Linoone:
@@ -24,6 +26,8 @@ pokemon:
     - bw: [Gluttony, Pickup, Quick Feet]
     stats:
     - [78, 70, 61, 50, 61, 100]
+    tags:
+    - []
     weight: [32.5]
     height: [0.5]
 evolutions:

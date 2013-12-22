@@ -9,6 +9,8 @@ pokemon:
     - [Effect Spore, Regenerator]
     stats:
     - [69, 55, 45, 55, 55, 15]
+    tags:
+    - []
     weight: [1]
     height: [0.2]
   Amoonguss:
@@ -21,6 +23,8 @@ pokemon:
     - [Effect Spore, Regenerator]
     stats:
     - [114, 85, 70, 85, 80, 30]
+    tags:
+    - []
     weight: [10.5]
     height: [0.6]
 evolutions:

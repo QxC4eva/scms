@@ -9,6 +9,8 @@ pokemon:
     - [Levitate]
     stats:
     - [35, 55, 40, 45, 40, 60]
+    tags:
+    - []
     weight: [0.3]
     height: [0.2]
   Eelektrik:
@@ -21,6 +23,8 @@ pokemon:
     - [Levitate]
     stats:
     - [65, 85, 70, 75, 70, 40]
+    tags:
+    - []
     weight: [22]
     height: [1.2]
   Eelektross:
@@ -33,6 +37,8 @@ pokemon:
     - [Levitate]
     stats:
     - [85, 115, 80, 105, 80, 50]
+    tags:
+    - []
     weight: [80.5]
     height: [2.1]
 evolutions:

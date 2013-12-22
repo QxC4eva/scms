@@ -9,6 +9,8 @@ pokemon:
     - [Rattled, Rock Head, Sturdy]
     stats:
     - [50, 80, 95, 10, 45, 10]
+    tags:
+    - []
     weight: [15]
     height: [0.5]
   Sudowoodo:
@@ -22,6 +24,8 @@ pokemon:
     - bw: [Rattled, Rock Head, Sturdy]
     stats:
     - [70, 100, 115, 30, 65, 30]
+    tags:
+    - []
     weight: [38]
     height: [1.2]
 evolutions:

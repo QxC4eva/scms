@@ -9,6 +9,8 @@ pokemon:
     - [Compoundeyes, Swarm, Unnerve]
     stats:
     - [50, 47, 50, 57, 50, 65]
+    tags:
+    - []
     weight: [0.6]
     height: [0.1]
   Galvantula:
@@ -21,6 +23,8 @@ pokemon:
     - [Compoundeyes, Swarm, Unnerve]
     stats:
     - [70, 77, 60, 97, 60, 108]
+    tags:
+    - []
     weight: [14.3]
     height: [0.8]
 evolutions:

@@ -9,6 +9,8 @@ pokemon:
     - [Defiant, Prankster]
     stats:
     - [79, 115, 70, 125, 80, 111]
+    tags:
+    - []
     weight: [63]
     height: [1.5]
   Tornadus-Therian:
@@ -21,6 +23,8 @@ pokemon:
     - [Regenerator]
     stats:
     - [79, 100, 80, 110, 90, 121]
+    tags:
+    - []
     weight: [63]
     height: [1.4]
 evolutions:

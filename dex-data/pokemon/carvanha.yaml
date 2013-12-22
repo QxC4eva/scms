@@ -10,6 +10,8 @@ pokemon:
     - bw: [Rough Skin, Speed Boost]
     stats:
     - [45, 90, 20, 65, 20, 65]
+    tags:
+    - []
     weight: [20.8]
     height: [0.8]
   Sharpedo:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Rough Skin, Speed Boost]
     stats:
     - [70, 120, 40, 95, 40, 95]
+    tags:
+    - []
     weight: [88.8]
     height: [1.8]
 evolutions:

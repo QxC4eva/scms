@@ -11,6 +11,8 @@ pokemon:
     - bw: [Ice Body, Inner Focus, Moody]
     stats:
     - [50, 50, 50, 50, 50, 50]
+    tags:
+    - []
     weight: [16.8]
     height: [0.7]
   Glalie:
@@ -25,6 +27,8 @@ pokemon:
     - bw: [Ice Body, Inner Focus, Moody]
     stats:
     - [80, 80, 80, 80, 80, 80]
+    tags:
+    - []
     weight: [256.5]
     height: [1.5]
   Froslass:
@@ -37,6 +41,8 @@ pokemon:
     - [Cursed Body, Snow Cloak]
     stats:
     - [70, 80, 70, 80, 70, 110]
+    tags:
+    - []
     weight: [26.6]
     height: [1.3]
 evolutions:

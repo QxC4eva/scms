@@ -9,6 +9,8 @@ pokemon:
     - [Keen Eye, Limber, Own Tempo]
     stats:
     - [49, 55, 42, 42, 37, 85]
+    tags:
+    - []
     weight: [3.9]
     height: [0.5]
   Purugly:
@@ -21,6 +23,8 @@ pokemon:
     - [Defiant, Own Tempo, Thick Fat]
     stats:
     - [71, 82, 64, 64, 59, 112]
+    tags:
+    - []
     weight: [43.8]
     height: [1]
 evolutions:

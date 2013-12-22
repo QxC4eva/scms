@@ -9,6 +9,8 @@ pokemon:
     - [Aftermath, Keen Eye, Stench]
     stats:
     - [63, 63, 47, 41, 41, 74]
+    tags:
+    - []
     weight: [19.2]
     height: [0.4]
   Skuntank:
@@ -21,6 +23,8 @@ pokemon:
     - [Aftermath, Keen Eye, Stench]
     stats:
     - [103, 93, 67, 71, 61, 84]
+    tags:
+    - []
     weight: [38]
     height: [1]
 evolutions:

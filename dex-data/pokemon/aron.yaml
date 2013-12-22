@@ -10,6 +10,8 @@ pokemon:
     - bw: [Heavy Metal, Rock Head, Sturdy]
     stats:
     - [50, 70, 100, 40, 40, 30]
+    tags:
+    - []
     weight: [60]
     height: [0.4]
   Lairon:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Heavy Metal, Rock Head, Sturdy]
     stats:
     - [60, 90, 140, 50, 50, 40]
+    tags:
+    - []
     weight: [120]
     height: [0.9]
   Aggron:
@@ -36,6 +40,8 @@ pokemon:
     - bw: [Heavy Metal, Rock Head, Sturdy]
     stats:
     - [70, 110, 180, 60, 60, 50]
+    tags:
+    - []
     weight: [360]
     height: [2.1]
 evolutions:

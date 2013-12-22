@@ -11,6 +11,8 @@ pokemon:
     stats:
     - [45, 49, 49, 65, 65, 45]
     - gs: [45, 49, 49, 65, 65, 45]
+    tags:
+    - []
     weight: [6.9]
     height: [0.7]
   Venusaur:
@@ -25,6 +27,8 @@ pokemon:
     stats:
     - [80, 82, 83, 100, 100, 80]
     - gs: [80, 82, 83, 100, 100, 80]
+    tags:
+    - []
     weight: [100]
     height: [2]
   Ivysaur:
@@ -39,6 +43,8 @@ pokemon:
     stats:
     - [60, 62, 63, 80, 80, 60]
     - gs: [60, 62, 63, 80, 80, 60]
+    tags:
+    - []
     weight: [13]
     height: [1]
 evolutions:

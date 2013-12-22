@@ -11,6 +11,8 @@ pokemon:
     stats:
     - [45, 50, 55, 75, 75, 30]
     - gs: [45, 50, 55, 75, 65, 30]
+    tags:
+    - []
     weight: [5.4]
     height: [0.5]
   Gloom:
@@ -25,6 +27,8 @@ pokemon:
     stats:
     - [60, 65, 70, 85, 85, 40]
     - gs: [60, 65, 70, 85, 75, 40]
+    tags:
+    - []
     weight: [8.6]
     height: [0.8]
   Vileplume:
@@ -39,6 +43,8 @@ pokemon:
     stats:
     - [75, 80, 85, 100, 100, 50]
     - gs: [75, 80, 85, 100, 90, 50]
+    tags:
+    - []
     weight: [18.6]
     height: [1.2]
   Bellossom:
@@ -52,6 +58,8 @@ pokemon:
     - bw: [Chlorophyll, Healer]
     stats:
     - [75, 80, 85, 90, 100, 50]
+    tags:
+    - []
     weight: [5.8]
     height: [0.4]
 evolutions:

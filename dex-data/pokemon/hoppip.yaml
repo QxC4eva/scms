@@ -11,6 +11,8 @@ pokemon:
     - bw: [Chlorophyll, Infiltrator, Leaf Guard]
     stats:
     - [35, 35, 40, 35, 55, 50]
+    tags:
+    - []
     weight: [0.5]
     height: [0.4]
   Skiploom:
@@ -25,6 +27,8 @@ pokemon:
     - bw: [Chlorophyll, Infiltrator, Leaf Guard]
     stats:
     - [55, 45, 50, 45, 65, 80]
+    tags:
+    - []
     weight: [1]
     height: [0.6]
   Jumpluff:
@@ -39,6 +43,8 @@ pokemon:
     - bw: [Chlorophyll, Infiltrator, Leaf Guard]
     stats:
     - [75, 55, 70, 55, 85, 110]
+    tags:
+    - []
     weight: [3]
     height: [0.8]
 evolutions:

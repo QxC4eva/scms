@@ -9,6 +9,8 @@ pokemon:
     - [Pressure]
     stats:
     - [125, 130, 90, 130, 90, 95]
+    tags:
+    - []
     weight: [325]
     height: [3]
   Kyurem-Black:
@@ -21,6 +23,8 @@ pokemon:
     - [Teravolt]
     stats:
     - [125, 170, 100, 120, 90, 95]
+    tags:
+    - []
     weight: [325]
     height: [3.3]
   Kyurem-White:
@@ -33,6 +37,8 @@ pokemon:
     - [Turboblaze]
     stats:
     - [125, 120, 90, 170, 100, 95]
+    tags:
+    - []
     weight: [325]
     height: [3.6]
 evolutions:

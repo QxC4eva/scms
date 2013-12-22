@@ -12,6 +12,8 @@ pokemon:
     stats:
     - [30, 40, 70, 70, 70, 60]
     - gs: [30, 40, 70, 70, 25, 60]
+    tags:
+    - []
     weight: [8]
     height: [0.4]
   Seadra:
@@ -27,6 +29,8 @@ pokemon:
     stats:
     - [55, 65, 95, 95, 95, 85]
     - gs: [55, 65, 95, 95, 45, 85]
+    tags:
+    - []
     weight: [25]
     height: [1.2]
   Kingdra:
@@ -41,6 +45,8 @@ pokemon:
     - bw: [Damp, Sniper, Swift Swim]
     stats:
     - [75, 95, 95, 95, 95, 85]
+    tags:
+    - []
     weight: [152]
     height: [1.8]
 evolutions:

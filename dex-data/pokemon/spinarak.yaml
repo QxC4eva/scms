@@ -10,6 +10,8 @@ pokemon:
     - bw: [Insomnia, Sniper, Swarm]
     stats:
     - [40, 60, 40, 40, 40, 30]
+    tags:
+    - []
     weight: [8.5]
     height: [0.5]
   Ariados:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Insomnia, Sniper, Swarm]
     stats:
     - [70, 90, 70, 60, 60, 40]
+    tags:
+    - []
     weight: [33.5]
     height: [1.1]
 evolutions:

@@ -10,6 +10,8 @@ pokemon:
     - bw: [Flame Body, Magma Armor, Weak Armor]
     stats:
     - [40, 40, 40, 70, 40, 20]
+    tags:
+    - []
     weight: [35]
     height: [0.7]
   Magcargo:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Flame Body, Magma Armor, Weak Armor]
     stats:
     - [50, 50, 120, 80, 80, 30]
+    tags:
+    - []
     weight: [55]
     height: [0.8]
 evolutions:

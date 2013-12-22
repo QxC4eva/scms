@@ -9,6 +9,8 @@ pokemon:
     - [Pickup, Run Away, Vital Spirit]
     stats:
     - [45, 60, 45, 25, 45, 55]
+    tags:
+    - []
     weight: [4.1]
     height: [0.4]
   Herdier:
@@ -21,6 +23,8 @@ pokemon:
     - [Intimidate, Sand Rush, Scrappy]
     stats:
     - [65, 80, 65, 35, 65, 60]
+    tags:
+    - []
     weight: [14.7]
     height: [0.9]
   Stoutland:
@@ -33,6 +37,8 @@ pokemon:
     - [Intimidate, Sand Rush, Scrappy]
     stats:
     - [85, 100, 90, 45, 90, 80]
+    tags:
+    - []
     weight: [61]
     height: [1.2]
 evolutions:

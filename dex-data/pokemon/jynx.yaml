@@ -11,6 +11,8 @@ pokemon:
     - bw: [Forewarn, Hydration, Oblivious]
     stats:
     - [45, 30, 15, 85, 65, 65]
+    tags:
+    - []
     weight: [6]
     height: [0.4]
   Jynx:
@@ -26,6 +28,8 @@ pokemon:
     stats:
     - [65, 50, 35, 95, 95, 95]
     - gs: [65, 50, 35, 115, 95, 95]
+    tags:
+    - []
     weight: [40.6]
     height: [1.4]
 evolutions:

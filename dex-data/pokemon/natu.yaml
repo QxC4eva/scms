@@ -10,6 +10,8 @@ pokemon:
     - bw: [Early Bird, Magic Bounce, Synchronize]
     stats:
     - [40, 50, 45, 70, 45, 70]
+    tags:
+    - []
     weight: [2]
     height: [0.2]
   Xatu:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Early Bird, Magic Bounce, Synchronize]
     stats:
     - [65, 75, 70, 95, 70, 95]
+    tags:
+    - []
     weight: [15]
     height: [1.5]
 evolutions:

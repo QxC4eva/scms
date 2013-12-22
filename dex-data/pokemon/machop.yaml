@@ -12,6 +12,8 @@ pokemon:
     stats:
     - [70, 80, 50, 35, 35, 35]
     - gs: [70, 80, 50, 35, 35, 35]
+    tags:
+    - []
     weight: [19.5]
     height: [0.8]
   Machoke:
@@ -27,6 +29,8 @@ pokemon:
     stats:
     - [80, 100, 70, 50, 50, 45]
     - gs: [80, 100, 70, 50, 60, 45]
+    tags:
+    - []
     weight: [70.5]
     height: [1.5]
   Machamp:
@@ -42,6 +46,8 @@ pokemon:
     stats:
     - [90, 130, 80, 65, 65, 55]
     - gs: [90, 130, 80, 65, 85, 55]
+    tags:
+    - []
     weight: [130]
     height: [1.6]
 evolutions:

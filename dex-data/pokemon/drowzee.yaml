@@ -12,6 +12,8 @@ pokemon:
     stats:
     - [60, 48, 45, 90, 90, 42]
     - gs: [60, 48, 45, 43, 90, 42]
+    tags:
+    - []
     weight: [32.4]
     height: [1]
   Hypno:
@@ -27,6 +29,8 @@ pokemon:
     stats:
     - [85, 73, 70, 115, 115, 67]
     - gs: [85, 73, 70, 73, 115, 67]
+    tags:
+    - []
     weight: [75.6]
     height: [1.6]
 evolutions:

@@ -10,6 +10,8 @@ pokemon:
     - bw: [Early Bird, Flash Fire, Unnerve]
     stats:
     - [45, 60, 30, 80, 50, 65]
+    tags:
+    - []
     weight: [10.8]
     height: [0.6]
   Houndoom:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Early Bird, Flash Fire, Unnerve]
     stats:
     - [75, 90, 50, 110, 80, 95]
+    tags:
+    - []
     weight: [35]
     height: [1.4]
 evolutions:

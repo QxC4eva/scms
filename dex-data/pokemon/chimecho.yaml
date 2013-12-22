@@ -9,6 +9,8 @@ pokemon:
     - [Levitate]
     stats:
     - [45, 30, 50, 65, 50, 45]
+    tags:
+    - []
     weight: [0.6]
     height: [0.2]
   Chimecho:
@@ -22,6 +24,8 @@ pokemon:
     - bw: [Levitate]
     stats:
     - [65, 50, 70, 95, 80, 65]
+    tags:
+    - []
     weight: [1]
     height: [0.6]
 evolutions:

@@ -10,6 +10,8 @@ pokemon:
     - bw: [Compoundeyes, Frisk, Speed Boost]
     stats:
     - [65, 65, 45, 75, 45, 95]
+    tags:
+    - []
     weight: [38]
     height: [1.2]
   Yanmega:
@@ -22,6 +24,8 @@ pokemon:
     - [Frisk, Speed Boost, Tinted Lens]
     stats:
     - [86, 76, 86, 116, 56, 95]
+    tags:
+    - []
     weight: [51.5]
     height: [1.9]
 evolutions:

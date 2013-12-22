@@ -9,6 +9,8 @@ pokemon:
     - [Forewarn, Synchronize, Telepathy]
     stats:
     - [76, 25, 45, 67, 55, 24]
+    tags:
+    - []
     weight: [23.3]
     height: [0.6]
   Musharna:
@@ -21,6 +23,8 @@ pokemon:
     - [Forewarn, Synchronize, Telepathy]
     stats:
     - [116, 55, 85, 107, 95, 29]
+    tags:
+    - []
     weight: [60.5]
     height: [1.1]
 evolutions:

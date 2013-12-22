@@ -9,6 +9,8 @@ pokemon:
     - [Sand Force, Sheer Force]
     stats:
     - [89, 125, 90, 115, 80, 101]
+    tags:
+    - []
     weight: [68]
     height: [1.5]
   Landorus-Therian:
@@ -21,6 +23,8 @@ pokemon:
     - [Intimidate]
     stats:
     - [89, 145, 90, 105, 80, 91]
+    tags:
+    - []
     weight: [68]
     height: [1.3]
 evolutions:

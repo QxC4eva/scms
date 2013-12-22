@@ -9,6 +9,8 @@ pokemon:
     - [Shell Armor, Torrent]
     stats:
     - [55, 55, 45, 63, 45, 45]
+    tags:
+    - []
     weight: [5.9]
     height: [0.5]
   Dewott:
@@ -21,6 +23,8 @@ pokemon:
     - [Shell Armor, Torrent]
     stats:
     - [75, 75, 60, 83, 60, 60]
+    tags:
+    - []
     weight: [24.5]
     height: [0.8]
   Samurott:
@@ -33,6 +37,8 @@ pokemon:
     - [Shell Armor, Torrent]
     stats:
     - [95, 100, 85, 108, 70, 70]
+    tags:
+    - []
     weight: [94.6]
     height: [1.5]
 evolutions:

@@ -9,6 +9,8 @@ pokemon:
     - [Overgrow, Shell Armor]
     stats:
     - [55, 68, 64, 45, 55, 31]
+    tags:
+    - []
     weight: [10.2]
     height: [0.4]
   Grotle:
@@ -21,6 +23,8 @@ pokemon:
     - [Overgrow, Shell Armor]
     stats:
     - [75, 89, 85, 55, 65, 36]
+    tags:
+    - []
     weight: [97]
     height: [1.1]
   Torterra:
@@ -33,6 +37,8 @@ pokemon:
     - [Overgrow, Shell Armor]
     stats:
     - [95, 109, 105, 75, 85, 56]
+    tags:
+    - []
     weight: [310]
     height: [2.2]
 evolutions:

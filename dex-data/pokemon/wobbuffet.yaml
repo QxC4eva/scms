@@ -10,6 +10,8 @@ pokemon:
     - bw: [Shadow Tag, Telepathy]
     stats:
     - [95, 23, 48, 23, 48, 23]
+    tags:
+    - []
     weight: [14]
     height: [0.6]
   Wobbuffet:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Shadow Tag, Telepathy]
     stats:
     - [190, 33, 58, 33, 58, 33]
+    tags:
+    - []
     weight: [28.5]
     height: [1.3]
 evolutions:

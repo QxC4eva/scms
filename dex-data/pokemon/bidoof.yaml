@@ -9,6 +9,8 @@ pokemon:
     - [Moody, Simple, Unaware]
     stats:
     - [59, 45, 40, 35, 40, 31]
+    tags:
+    - []
     weight: [20]
     height: [0.5]
   Bibarel:
@@ -21,6 +23,8 @@ pokemon:
     - [Moody, Simple, Unaware]
     stats:
     - [79, 85, 60, 55, 60, 71]
+    tags:
+    - []
     weight: [31.5]
     height: [1]
 evolutions:

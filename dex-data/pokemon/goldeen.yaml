@@ -11,6 +11,8 @@ pokemon:
     stats:
     - [45, 67, 60, 50, 50, 63]
     - gs: [45, 67, 60, 35, 50, 63]
+    tags:
+    - []
     weight: [15]
     height: [0.6]
   Seaking:
@@ -25,6 +27,8 @@ pokemon:
     stats:
     - [80, 92, 65, 80, 80, 68]
     - gs: [80, 92, 65, 65, 80, 68]
+    tags:
+    - []
     weight: [39]
     height: [1.3]
 evolutions:

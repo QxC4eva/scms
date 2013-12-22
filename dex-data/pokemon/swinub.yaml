@@ -11,6 +11,8 @@ pokemon:
     - bw: [Oblivious, Snow Cloak, Thick Fat]
     stats:
     - [50, 50, 40, 30, 30, 50]
+    tags:
+    - []
     weight: [6.5]
     height: [0.4]
   Piloswine:
@@ -25,6 +27,8 @@ pokemon:
     - bw: [Oblivious, Snow Cloak, Thick Fat]
     stats:
     - [100, 100, 80, 60, 60, 50]
+    tags:
+    - []
     weight: [55.8]
     height: [1.1]
   Mamoswine:
@@ -37,6 +41,8 @@ pokemon:
     - [Oblivious, Snow Cloak, Thick Fat]
     stats:
     - [110, 130, 80, 70, 60, 80]
+    tags:
+    - []
     weight: [291]
     height: [2.5]
 evolutions:

@@ -9,6 +9,8 @@ pokemon:
     - [Honey Gather, Hustle]
     stats:
     - [30, 30, 42, 30, 42, 70]
+    tags:
+    - []
     weight: [5.5]
     height: [0.3]
   Vespiquen:
@@ -21,6 +23,8 @@ pokemon:
     - [Pressure, Unnerve]
     stats:
     - [70, 80, 102, 80, 102, 40]
+    tags:
+    - []
     weight: [38.5]
     height: [1.2]
 evolutions:

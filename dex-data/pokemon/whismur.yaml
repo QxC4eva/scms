@@ -10,6 +10,8 @@ pokemon:
     - bw: [Rattled, Soundproof]
     stats:
     - [64, 51, 23, 51, 23, 28]
+    tags:
+    - []
     weight: [16.3]
     height: [0.6]
   Loudred:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Scrappy, Soundproof]
     stats:
     - [84, 71, 43, 71, 43, 48]
+    tags:
+    - []
     weight: [40.5]
     height: [1]
   Exploud:
@@ -36,6 +40,8 @@ pokemon:
     - bw: [Scrappy, Soundproof]
     stats:
     - [104, 91, 63, 91, 63, 68]
+    tags:
+    - []
     weight: [84]
     height: [1.5]
 evolutions:

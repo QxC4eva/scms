@@ -10,6 +10,8 @@ pokemon:
     - bw: [Sheer Force, Torrent]
     stats:
     - [50, 65, 64, 44, 48, 43]
+    tags:
+    - []
     weight: [9.5]
     height: [0.6]
   Croconaw:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Sheer Force, Torrent]
     stats:
     - [65, 80, 80, 59, 63, 58]
+    tags:
+    - []
     weight: [25]
     height: [1.1]
   Feraligatr:
@@ -36,6 +40,8 @@ pokemon:
     - bw: [Sheer Force, Torrent]
     stats:
     - [85, 105, 100, 79, 83, 78]
+    tags:
+    - []
     weight: [88.8]
     height: [2.3]
 evolutions:

@@ -9,6 +9,8 @@ pokemon:
     - [Mold Breaker, Sheer Force]
     stats:
     - [67, 125, 40, 30, 30, 58]
+    tags:
+    - []
     weight: [31.5]
     height: [0.9]
   Rampardos:
@@ -21,6 +23,8 @@ pokemon:
     - [Mold Breaker, Sheer Force]
     stats:
     - [97, 165, 60, 65, 50, 58]
+    tags:
+    - []
     weight: [102.5]
     height: [1.6]
 evolutions:

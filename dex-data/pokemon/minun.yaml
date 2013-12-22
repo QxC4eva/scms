@@ -10,6 +10,8 @@ pokemon:
     - bw: [Minus]
     stats:
     - [60, 40, 50, 75, 85, 95]
+    tags:
+    - []
     weight: [4.2]
     height: [0.4]
 evolutions: []

@@ -10,6 +10,8 @@ pokemon:
     - bw: [Cloud Nine, Natural Cure]
     stats:
     - [45, 40, 60, 40, 75, 50]
+    tags:
+    - []
     weight: [1.2]
     height: [0.4]
   Altaria:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Cloud Nine, Natural Cure]
     stats:
     - [75, 70, 90, 70, 105, 80]
+    tags:
+    - []
     weight: [20.6]
     height: [1.1]
 evolutions:

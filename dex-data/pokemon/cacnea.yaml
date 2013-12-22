@@ -10,6 +10,8 @@ pokemon:
     - bw: [Sand Veil, Water Absorb]
     stats:
     - [50, 85, 40, 85, 40, 35]
+    tags:
+    - []
     weight: [51.3]
     height: [0.4]
   Cacturne:
@@ -23,6 +25,8 @@ pokemon:
     - bw: [Sand Veil, Water Absorb]
     stats:
     - [70, 115, 60, 115, 60, 55]
+    tags:
+    - []
     weight: [77.4]
     height: [1.3]
 evolutions:

@@ -10,6 +10,8 @@ pokemon:
     - bw: [Levitate]
     stats:
     - [80, 90, 80, 130, 110, 110]
+    tags:
+    - []
     weight: [60]
     height: [2]
 evolutions: []

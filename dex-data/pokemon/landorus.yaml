@@ -29,8 +29,6 @@ pokemon:
     height: [1.3]
 evolutions:
 - {from: Landorus, to: Landorus-T}
-- {from: Landorus, to: Landorus-T}
-- {from: Landorus-T, to: Landorus}
 learnsets:
   bw:
     Landorus: [Attract, Block, Brick Break, Bulk Up, Bulldoze, Calm Mind, Dig, Double

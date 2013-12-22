@@ -29,8 +29,6 @@ pokemon:
     height: [1.4]
 evolutions:
 - {from: Tornadus, to: Tornadus-T}
-- {from: Tornadus, to: Tornadus-T}
-- {from: Tornadus-T, to: Tornadus}
 learnsets:
   bw:
     Tornadus: [Acrobatics, Aerial Ace, Agility, Air Cutter, Air Slash, Astonish, Attract,

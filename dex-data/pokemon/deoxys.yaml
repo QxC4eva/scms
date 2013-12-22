@@ -61,20 +61,8 @@ pokemon:
     height: [1.7]
 evolutions:
 - {from: Deoxys, to: Deoxys-A}
-- {from: Deoxys-A, to: Deoxys-D}
-- {from: Deoxys-D, to: Deoxys-S}
-- {from: Deoxys, to: Deoxys-A}
 - {from: Deoxys, to: Deoxys-D}
 - {from: Deoxys, to: Deoxys-S}
-- {from: Deoxys-A, to: Deoxys}
-- {from: Deoxys-A, to: Deoxys-D}
-- {from: Deoxys-A, to: Deoxys-S}
-- {from: Deoxys-D, to: Deoxys}
-- {from: Deoxys-D, to: Deoxys-A}
-- {from: Deoxys-D, to: Deoxys-S}
-- {from: Deoxys-S, to: Deoxys}
-- {from: Deoxys-S, to: Deoxys-A}
-- {from: Deoxys-S, to: Deoxys-D}
 learnsets:
   rs:
     Deoxys: [Aerial Ace, Body Slam, Brick Break, Calm Mind, Cosmic Power, Cut, Double-Edge,

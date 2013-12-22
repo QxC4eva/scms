@@ -29,8 +29,6 @@ pokemon:
     height: [6.9]
 evolutions:
 - {from: Giratina, to: Giratina-O}
-- {from: Giratina, to: Giratina-O}
-- {from: Giratina-O, to: Giratina}
 learnsets:
   dp:
     Giratina: [Aerial Ace, Air Cutter, Ancientpower, Aqua Tail, Aura Sphere, Calm

@@ -29,8 +29,6 @@ pokemon:
     height: [3]
 evolutions:
 - {from: Thundurus, to: Thundurus-T}
-- {from: Thundurus, to: Thundurus-T}
-- {from: Thundurus-T, to: Thundurus}
 learnsets:
   bw:
     Thundurus: [Agility, Astonish, Attract, Bite, Brick Break, Bulk Up, Charge, Charge

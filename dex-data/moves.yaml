@@ -910,7 +910,7 @@ moves:
       - User cannot move next turn, unless opponent or Substitute was KOed.
       - gs: User cannot move next turn.
       
-  Hyper Fang
+  Hyper Fang:
     introduction: rb
     description:
       - 10% chance to flinch the target.

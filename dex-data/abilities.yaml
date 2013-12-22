@@ -2,9 +2,13 @@
 abilities:
   Adaptability:
     introduction: dp
+    description:
+      - The Pokemon's STAB modifier becomes 2x.
 
   Aftermath:
     introduction: dp
+    description:
+      - Deals 25% damage when KOed by contact damage.
 
   Air Lock:
     introduction: rs
@@ -16,9 +20,13 @@ abilities:
 
   Anger Point:
     introduction: dp
+    description:
+      - Raises Atk to +6 if struck by a critical hit.
 
   Anticipation:
     introduction: dp
+    description:
+      - Alerts the PokÃ©mon of certain dangerous moves.
 
   Arena Trap:
     introduction: rs
@@ -27,6 +35,8 @@ abilities:
 
   Bad Dreams:
     introduction: dp
+    description:
+      - Deals 12.5% damage to sleeping opponents per turn.
 
   Battle Armor:
     introduction: rs
@@ -90,6 +100,8 @@ abilities:
 
   Download:
     introduction: dp
+    description:
+      - User gets a stat boost depending on its opponent's stats.
 
   Drizzle:
     introduction: rs
@@ -103,6 +115,8 @@ abilities:
 
   Dry Skin:
     introduction: dp
+    description:
+      - User absorbs Water-type attacks and has a weakness to Fire-type moves. Heals in rain and is damaged by sun.
 
   Early Bird:
     introduction: rs
@@ -116,6 +130,8 @@ abilities:
 
   Filter:
     introduction: dp
+    description:
+      - Reduces damage from super effective hits by 1/4.
 
   Flame Body:
     introduction: rs
@@ -132,6 +148,8 @@ abilities:
 
   Flower Gift:
     introduction: dp
+    description:
+      - Raises stats of this PokÃ©mon and its partner in sun.
 
   Forecast:
     introduction: rs
@@ -140,15 +158,21 @@ abilities:
 
   Forewarn:
     introduction: dp
+    description:
+      - Tells which of the opponent's moves has the highest Base Power.
 
   Friend Guard:
     introduction: bw
 
   Frisk:
     introduction: dp
+    description:
+      - Reveals the foe's item.
 
   Gluttony:
     introduction: dp
+    description:
+      - Consumes pinch Berries at 50% HP or less.
 
   Guts:
     introduction: rs
@@ -163,12 +187,16 @@ abilities:
 
   Heatproof:
     introduction: dp
+    description:
+      - Reduces Fire damage 50%.
 
   Heavy Metal:
     introduction: bw
 
   Honey Gather:
     introduction: dp
+    description:
+      - Adds a chance of finding Honey after each in-game battle.
 
   Huge Power:
     introduction: rs
@@ -182,6 +210,8 @@ abilities:
 
   Hydration:
     introduction: dp
+    description:
+      - Heals status effects in rain.
 
   Hyper Cutter:
     introduction: rs
@@ -190,6 +220,8 @@ abilities:
 
   Ice Body:
     introduction: dp
+    description:
+      - Heals 1/16 max HP in hail.
 
   Illuminate:
     introduction: rs
@@ -230,6 +262,8 @@ abilities:
 
   Iron Fist:
     introduction: dp
+    description:
+      - Increases the power of punching moves by 20%.
 
   Justified:
     introduction: bw
@@ -241,9 +275,13 @@ abilities:
 
   Klutz:
     introduction: dp
+    description:
+      - This PokÃ©mon both is unaffected by and will not utilize held items.
 
   Leaf Guard:
     introduction: dp
+    description:
+      - Prevents status effects in sun.
 
   Levitate:
     introduction: rs
@@ -273,6 +311,8 @@ abilities:
 
   Magic Guard:
     introduction: dp
+    description:
+      - Prevents indirect damage.
 
   Magma Armor:
     introduction: rs
@@ -296,12 +336,16 @@ abilities:
 
   Mold Breaker:
     introduction: dp
+    description:
+      - Abilities that hinder attacks are nullified.
 
   Moody:
     introduction: bw
 
   Motor Drive:
     introduction: dp
+    description:
+      - When hit with an Electric-type move, Speed is boosted 1 stage.
 
   Moxie:
     introduction: bw
@@ -311,6 +355,8 @@ abilities:
 
   Multitype:
     introduction: dp
+    description:
+      - Type changes depending on the held plate. Prevents item loss.
 
   Mummy:
     introduction: bw
@@ -322,14 +368,19 @@ abilities:
 
   No Guard:
     introduction: dp
+    description:
+      - All attacks used by and used on this PokÃ©mon will never miss.
 
   Normalize:
     introduction: dp
+    description:
+      - All moves used by this PokÃ©mon are Normal-type.
 
   Oblivious:
     introduction: rs
     description:
       - Grants immunity to infatuation.
+      - dp: Grants immunity to infatuation and Captivate.
 
   Overcoat:
     introduction: bw
@@ -359,6 +410,8 @@ abilities:
 
   Poison Heal:
     introduction: dp
+    description:
+      - Heals 1/8 HP per turn when poisoned.
 
   Poison Point:
     introduction: rs
@@ -383,6 +436,8 @@ abilities:
 
   Quick Feet:
     introduction: dp
+    description:
+      - Increases Speed by 50% when afflicted with a status condition.
 
   Rain Dish:
     introduction: rs
@@ -394,12 +449,16 @@ abilities:
 
   Reckless:
     introduction: dp
+    description:
+      - Increases the power of recoil moves by 20%.
 
   Regenerator:
     introduction: bw
 
   Rivalry:
     introduction: dp
+    description:
+      - Move power depends on gender of the opponent.
 
   Rock Head:
     introduction: rs
@@ -437,6 +496,8 @@ abilities:
 
   Scrappy:
     introduction: dp
+    description:
+      - Can hit Ghost-types with Fighting- and Normal-type moves.
 
   Serene Grace:
     introduction: rs
@@ -468,27 +529,43 @@ abilities:
 
   Simple:
     introduction: dp
+    description:
+      - Doubles the effect of status boosts and drops.
 
   Skill Link:
     introduction: dp
+    description:
+      - Multi-hit moves will always hit the maximum number of times.
 
   Slow Start:
     introduction: dp
+    description:
+      - Attack and Speed are halved for 5 turns.
 
   Sniper:
     introduction: dp
+    description:
+      - Critical hits do 3x damage instead of 2x.
 
   Snow Cloak:
     introduction: dp
+    description:
+      - Evasion increases 20% in hail.
 
   Snow Warning:
     introduction: dp
+    description:
+      - Summons permanent hail.
 
   Solar Power:
     introduction: dp
+    description:
+      - Loses HP in sun. Special Attack increases 50%.
 
   Solid Rock:
     introduction: dp
+    description:
+      - Reduces damage from super effective hits by 1/4.
 
   Soundproof:
     introduction: rs
@@ -502,6 +579,8 @@ abilities:
 
   Stall:
     introduction: dp
+    description:
+      - This PokÃ©mon moves last.
 
   Static:
     introduction: rs
@@ -510,6 +589,8 @@ abilities:
 
   Steadfast:
     introduction: dp
+    description:
+      - Speed is boosted one stage when flinched.
 
   Stench:
     introduction: rs
@@ -523,6 +604,8 @@ abilities:
 
   Storm Drain:
     introduction: dp
+    description:
+      - All Water-type attacks hit this PokÃ©mon.
 
   Sturdy:
     introduction: rs
@@ -536,6 +619,8 @@ abilities:
 
   Super Luck:
     introduction: dp
+    description:
+      - Critical hit rate increases one stage.
 
   Swarm:
     introduction: rs
@@ -554,9 +639,13 @@ abilities:
 
   Tangled Feet:
     introduction: dp
+    description:
+      - Evasion increases when confused.
 
   Technician:
     introduction: dp
+    description:
+      - Moves with 60 Base Power or less do 50% more damage.
 
   Telepathy:
     introduction: bw
@@ -571,6 +660,8 @@ abilities:
 
   Tinted Lens:
     introduction: dp
+    description:
+      - Doubles damage on resisted hits.
 
   Torrent:
     introduction: rs
@@ -595,9 +686,13 @@ abilities:
 
   Unaware:
     introduction: dp
+    description:
+      - Ignores stat boosts and debuffs on other PokÃ©mon.
 
   Unburden:
     introduction: dp
+    description:
+      - Speed increases when an item is used or lost.
 
   Unnerve:
     introduction: bw

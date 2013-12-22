@@ -1,0 +1,21 @@
+
+gens:
+  rb:
+    name: Red/Blue
+  gs:
+    name: Gold/Silver
+  rs:
+    name: Ruby/Sapphire
+  dp:
+    name: Diamond/Pearl
+  bw:
+    name: Black/White
+  xy:
+    name: X/Y
+
+gen_ordering:
+  - {from: rb, to: gs}
+  - {from: gs, to: rs}
+  - {from: rs, to: dp}
+  - {from: dp, to: bw}
+  - {from: bw, to: xy}

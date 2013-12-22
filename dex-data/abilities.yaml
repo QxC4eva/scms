@@ -8,6 +8,8 @@ abilities:
 
   Air Lock:
     introduction: rs
+    description:
+      - Blocks the effects of weather.
 
   Analytic:
     introduction: bw
@@ -20,33 +22,49 @@ abilities:
 
   Arena Trap:
     introduction: rs
+    description:
+      - Prevents switching and increases wild encounter rate.
 
   Bad Dreams:
     introduction: dp
 
   Battle Armor:
     introduction: rs
+    description:
+      - Prevents critical hits.
 
   Big Pecks:
     introduction: bw
 
   Blaze:
     introduction: rs
+    description:
+      - Boosts power of Fire-type moves 50% when at 1/3 HP or less.
 
   Chlorophyll:
     introduction: rs
+    description:
+      - Speed doubles in sun.
 
   Clear Body:
     introduction: rs
+    description:
+      - Stops the enemy from lowering this PokÃ©mon's stats.
 
   Cloud Nine:
     introduction: rs
+    description:
+      - Blocks the effects of weather.
 
   Color Change:
     introduction: rs
+    description:
+      - Changes user's type to type of last attack that hit this PokÃ©mon.
 
   Compoundeyes:
     introduction: rs
+    description:
+      - Raises accuracy by 30% and increases the probability of wild PokÃ©mon holding items.
 
   Contrary:
     introduction: bw
@@ -56,9 +74,13 @@ abilities:
 
   Cute Charm:
     introduction: rs
+    description:
+      - Can infatuate PokÃ©mon of opposite gender when struck and increases their wild encounter rate.
 
   Damp:
     introduction: rs
+    description:
+      - Prevents the use of Selfdestruct or Explosion.
 
   Defeatist:
     introduction: bw
@@ -71,36 +93,50 @@ abilities:
 
   Drizzle:
     introduction: rs
+    description:
+      - Summons permanent rain.
 
   Drought:
     introduction: rs
+    description:
+      - Summons permanent sun.
 
   Dry Skin:
     introduction: dp
 
   Early Bird:
     introduction: rs
+    description:
+      - Reduces sleep time by 50%.
 
   Effect Spore:
     introduction: rs
+    description:
+      - Induces paralysis, poison, or sleep on contact.
 
   Filter:
     introduction: dp
 
   Flame Body:
     introduction: rs
+    description:
+      - Enemies' contact moves have a 30% chance to burn them. Halves the amount of steps required to hatch Eggs.
 
   Flare Boost:
     introduction: bw
 
   Flash Fire:
     introduction: rs
+    description:
+      - Grants immunity to Fire and increases Fire's power 50% when hit by a Fire move.
 
   Flower Gift:
     introduction: dp
 
   Forecast:
     introduction: rs
+    description:
+      - Changes type according to weather.
 
   Forewarn:
     introduction: dp
@@ -116,6 +152,8 @@ abilities:
 
   Guts:
     introduction: rs
+    description:
+      - Attack is increased 50% when hit with a status move.
 
   Harvest:
     introduction: bw
@@ -134,27 +172,37 @@ abilities:
 
   Huge Power:
     introduction: rs
+    description:
+      - Doubles Attack.
 
   Hustle:
     introduction: rs
+    description:
+      - Physical moves do 50% more damage at the cost of 20% accuracy. Increases wild encounter rate with higher level PokÃ©mon.
 
   Hydration:
     introduction: dp
 
   Hyper Cutter:
     introduction: rs
+    description:
+      - Prevents the enemy from lowering this PokÃ©mon's Attack. Increases Cut's area of effect.
 
   Ice Body:
     introduction: dp
 
   Illuminate:
     introduction: rs
+    description:
+      - Increases wild encounter rate (no effect in battles).
 
   Illusion:
     introduction: bw
 
   Immunity:
     introduction: rs
+    description:
+      - This PokÃ©mon cannot be poisoned.
 
   Imposter:
     introduction: bw
@@ -164,12 +212,18 @@ abilities:
 
   Inner Focus:
     introduction: rs
+    description:
+      - Prevents flinching.
 
   Insomnia:
     introduction: rs
+    description:
+      - Prevents sleep.
 
   Intimidate:
     introduction: rs
+    description:
+      - Lowers the foe's Attack 1 stage. Decreases wild encounter rate.
 
   Iron Barbs:
     introduction: bw
@@ -182,6 +236,8 @@ abilities:
 
   Keen Eye:
     introduction: rs
+    description:
+      - PokÃ©mon's accuracy cannot be lowered. Decreases wild encounter rate.
 
   Klutz:
     introduction: dp
@@ -191,18 +247,26 @@ abilities:
 
   Levitate:
     introduction: rs
+    description:
+      - This PokÃ©mon is immune to Ground-type moves.
 
   Light Metal:
     introduction: bw
 
   Lightningrod:
     introduction: rs
+    description:
+      - All Electric-type attacks hit this PokÃ©mon.
 
   Limber:
     introduction: rs
+    description:
+      - Blocks paralysis.
 
   Liquid Ooze:
     introduction: rs
+    description:
+      - Leeching moves cause the enemy to lose HP instead.
 
   Magic Bounce:
     introduction: bw
@@ -212,15 +276,23 @@ abilities:
 
   Magma Armor:
     introduction: rs
+    description:
+      - Cannot be frozen. Halves the amount of steps required to hatch Eggs.
 
   Magnet Pull:
     introduction: rs
+    description:
+      - Prevents Steel-type PokÃ©mon from switching. Increases the chance of encountering a Steel-type PokÃ©mon in the wild.
 
   Marvel Scale:
     introduction: rs
+    description:
+      - Boosts Defense 50% when hit with a status move.
 
   Minus:
     introduction: rs
+    description:
+      - If allied with a PokÃ©mon with Plus, its Special Attack increases 50%.
 
   Mold Breaker:
     introduction: dp
@@ -245,6 +317,8 @@ abilities:
 
   Natural Cure:
     introduction: rs
+    description:
+      - Cures status on switching out.
 
   No Guard:
     introduction: dp
@@ -254,30 +328,42 @@ abilities:
 
   Oblivious:
     introduction: rs
+    description:
+      - Grants immunity to infatuation.
 
   Overcoat:
     introduction: bw
 
   Overgrow:
     introduction: rs
+    description:
+      - Raises the power of Grass-type moves 50% when at 1/3 HP or less.
 
   Own Tempo:
     introduction: rs
+    description:
+      - Cannot be confused.
 
   Pickpocket:
     introduction: bw
 
   Pickup:
     introduction: rs
+    description:
+      - Adds a chance of finding an item after each battle (no effect in battles).
 
   Plus:
     introduction: rs
+    description:
+      - If allied with a PokÃ©mon with Minus, its Special Attack increases 50%.
 
   Poison Heal:
     introduction: dp
 
   Poison Point:
     introduction: rs
+    description:
+      - Enemies' contact moves have a 30% chance of poisoning them.
 
   Poison Touch:
     introduction: bw
@@ -287,15 +373,21 @@ abilities:
 
   Pressure:
     introduction: rs
+    description:
+      - Enemy attacks lose 1 extra PP. Increases wild encounter rate.
 
   Pure Power:
     introduction: rs
+    description:
+      - Doubles Attack.
 
   Quick Feet:
     introduction: dp
 
   Rain Dish:
     introduction: rs
+    description:
+      - Heals 1/16 max HP in rain.
 
   Rattled:
     introduction: bw
@@ -311,12 +403,18 @@ abilities:
 
   Rock Head:
     introduction: rs
+    description:
+      - Recoil moves have no recoil.
 
   Rough Skin:
     introduction: rs
+    description:
+      - Deals 12.5% damage when the opponent makes contact.
 
   Run Away:
     introduction: rs
+    description:
+      - Increases the chance of successfully escaping battle with a wild PokÃ©mon.
 
   Sand Force:
     introduction: bw
@@ -326,9 +424,13 @@ abilities:
 
   Sand Stream:
     introduction: rs
+    description:
+      - Summons permanent sandstorm.
 
   Sand Veil:
     introduction: rs
+    description:
+      - Evasion increases by 20% in a sandstorm.
 
   Sap Sipper:
     introduction: bw
@@ -338,21 +440,31 @@ abilities:
 
   Serene Grace:
     introduction: rs
+    description:
+      - This PokÃ©mon's secondary effect chances are doubled.
 
   Shadow Tag:
     introduction: rs
+    description:
+      - Prevents switching.
 
   Shed Skin:
     introduction: rs
+    description:
+      - 30% chance to heal status.
 
   Sheer Force:
     introduction: bw
 
   Shell Armor:
     introduction: rs
+    description:
+      - Prevents critical hits.
 
   Shield Dust:
     introduction: rs
+    description:
+      - Secondary effects won't occur.
 
   Simple:
     introduction: dp
@@ -380,45 +492,65 @@ abilities:
 
   Soundproof:
     introduction: rs
+    description:
+      - Unaffected by sound moves.
 
   Speed Boost:
     introduction: rs
+    description:
+      - Speed raises at end of turn.
 
   Stall:
     introduction: dp
 
   Static:
     introduction: rs
+    description:
+      - Enemies' contact moves can paralyze them.
 
   Steadfast:
     introduction: dp
 
   Stench:
     introduction: rs
+    description:
+      - Decreases wild encounter rate (no effect in battles).
 
   Sticky Hold:
     introduction: rs
+    description:
+      - This PokÃ©mon's item cannot be removed. Increases the chance of encountering PokÃ©mon while fishing.
 
   Storm Drain:
     introduction: dp
 
   Sturdy:
     introduction: rs
+    description:
+      - OHKO moves will fail.
 
   Suction Cups:
     introduction: rs
+    description:
+      - Cannot be forced to switch. Increases chance of encountering PokÃ©mon while fishing.
 
   Super Luck:
     introduction: dp
 
   Swarm:
     introduction: rs
+    description:
+      - Boosts power of Bug-type moves 50% when at 1/3 HP or less.
 
   Swift Swim:
     introduction: rs
+    description:
+      - Speed doubles in rain.
 
   Synchronize:
     introduction: rs
+    description:
+      - When statused, the enemy is also statused. Can pass nature to wild PokÃ©mon.
 
   Tangled Feet:
     introduction: dp
@@ -434,21 +566,29 @@ abilities:
 
   Thick Fat:
     introduction: rs
+    description:
+      - Halves Ice- and Fire-type damage.
 
   Tinted Lens:
     introduction: dp
 
   Torrent:
     introduction: rs
+    description:
+      - Boosts power of Water-type moves 50% when at 1/3 HP or less.
 
   Toxic Boost:
     introduction: bw
 
   Trace:
     introduction: rs
+    description:
+      - Copies foe's ability.
 
   Truant:
     introduction: rs
+    description:
+      - This PokÃ©mon does nothing every other turn.
 
   Turboblaze:
     introduction: bw
@@ -467,24 +607,36 @@ abilities:
 
   Vital Spirit:
     introduction: rs
+    description:
+      - Prevents sleep. Increases wild encounters with higher level PokÃ©mon.
 
   Volt Absorb:
     introduction: rs
+    description:
+      - Heals 25% HP when hit by an Electric-type attack.
 
   Water Absorb:
     introduction: rs
+    description:
+      - Heals 25% HP when hit by a Water-type attack.
 
   Water Veil:
     introduction: rs
+    description:
+      - Prevents burn.
 
   Weak Armor:
     introduction: bw
 
   White Smoke:
     introduction: rs
+    description:
+      - Prevents the enemy from lowering this PokÃ©mon's stats and decreases wild encounter rate.
 
   Wonder Guard:
     introduction: rs
+    description:
+      - Only super effective attacks harm this PokÃ©mon.
 
   Wonder Skin:
     introduction: bw

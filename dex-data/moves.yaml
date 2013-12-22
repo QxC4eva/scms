@@ -17,15 +17,23 @@ moves:
       
   Acid Spray:
     introduction: bw
-
+    description:
+      - Lowers target's Special Defense by 2 stages.
+    
   Acrobatics:
     introduction: bw
+    description:
+      - Doubles in power if user has no held item.
 
   Acupressure:
     introduction: dp
+    description:
+      - Boosts a random stat 2 stages.
 
   Aerial Ace:
     introduction: rs
+    description:
+      - Ignores accuracy modifiers.
 
   Aeroblast:
     introduction: gs
@@ -34,6 +42,8 @@ moves:
 
   After You:
     introduction: bw
+    description:
+      - The target will attack immediately after the user in the same turn.
 
   Agility:
     introduction: rb
@@ -43,14 +53,20 @@ moves:
       
   Air Cutter:
     introduction: rs
+    description:
+      - High critical hit rate.
 
   Air Slash:
     introduction: dp
+    description:
+      - 30% chance to flinch opponent.
     description:
       - High critical hit rate.
       
   Ally Switch:
     introduction: bw
+    description:
+      - Switches position with another Pokemon on user's side of the field.
 
   Amnesia:
     introduction: rb
@@ -65,30 +81,48 @@ moves:
 
   Aqua Jet:
     introduction: dp
+    description:
+      - The user always attacks first.
 
   Aqua Ring:
     introduction: dp
+    description:
+      - User recovers 1/16th max HP each turn.
 
   Aqua Tail:
     introduction: dp
+    description:
+      - No additional effect.
 
   Arm Thrust:
     introduction: rs
+    description:
+      - Hits 2-5 times in one turn.
 
   Aromatherapy:
     introduction: rs
+    description:
+      - Cures status on the user's team.
 
   Assist:
     introduction: rs
+    description:
+      - Uses a random move from the user's team.
 
   Assurance:
     introduction: dp
+    description:
+      - Base Power doubles if the foe takes damage in the same turn, before the attack hits.
 
   Astonish:
     introduction: rs
+    description:
+      - 30% chance to flinch.
 
   Attack Order:
     introduction: dp
+    description:
+      - Has a high critical hit rate.
 
   Attract:
     introduction: gs
@@ -97,6 +131,8 @@ moves:
 
   Aura Sphere:
     introduction: dp
+    description:
+      - Ignores accuracy modifiers.
 
   Aurora Beam:
     introduction: rb
@@ -105,9 +141,13 @@ moves:
       
   Autotomize:
     introduction: bw
+    description:
+      - Boosts user's Speed by 2 stages. Reduces user's weight.
 
   Avalanche:
     introduction: dp
+    description:
+      - Doubles in power if damaged by the target.
 
   Barrage:
     introduction: rb
@@ -136,6 +176,8 @@ moves:
 
   Bestow:
     introduction: bw
+    description:
+      - User passes its held item to the target.
 
   Bide:
     introduction: rb
@@ -154,9 +196,13 @@ moves:
       
   Blast Burn:
     introduction: rs
+    description:
+      - User cannot move next turn.
 
   Blaze Kick:
     introduction: rs
+    description:
+      - High critical hit rate. 10% chance to burn the target.
 
   Blizzard:
     introduction: rb
@@ -165,9 +211,13 @@ moves:
       
   Block:
     introduction: rs
+    description:
+      - The target cannot switch out.
 
   Blue Flare:
     introduction: bw
+    description:
+      - 20% chance to burn the target.
 
   Body Slam:
     introduction: rb
@@ -176,6 +226,8 @@ moves:
 
   Bolt Strike:
     introduction: bw
+    description:
+      - 20% chance to paralyze the target.
 
   Bone Club:
     introduction: rb
@@ -194,15 +246,23 @@ moves:
       
   Bounce:
     introduction: rs
+    description:
+      - User is made invulnerable for one turn, then hits the next turn. 30% chance to paralyze.
 
   Brave Bird:
     introduction: dp
+    description:
+      - Has 1/3 recoil damage.
 
   Brick Break:
     introduction: rs
+    description:
+      - Destroys Light Screen and Reflect, then hits.
 
   Brine:
     introduction: dp
+    description:
+      - Base Power doubles if foe's HP is 50% or less.
 
   Bubble:
     introduction: rb
@@ -216,36 +276,58 @@ moves:
       
   Bug Bite:
     introduction: dp
+    description:
+      - Uses foe's Berry.
 
   Bug Buzz:
     introduction: dp
+    description:
+      - 10% chance to lower SpD 1 stage.
 
   Bulk Up:
     introduction: rs
+    description:
+      - Boosts Atk and Def 1 stage.
 
   Bulldoze:
     introduction: bw
+    description:
+      - Lowers target's Speed by 1 stage.
 
   Bullet Punch:
     introduction: dp
+    description:
+      - The user always attacks first.
 
   Bullet Seed:
     introduction: rs
+    description:
+      - Hits 2-5 times in one turn.
 
   Calm Mind:
     introduction: rs
+    description:
+      - Boosts SpA and SpD 1 stage.
 
   Camouflage:
     introduction: rs
+    description:
+      - Changes user's type to Normal in link battles.
 
   Captivate:
     introduction: dp
+    description:
+      - Lowers an opposite gender foe's SpA 2 stages.
 
   Charge:
     introduction: rs
+    description:
+      - Doubles power of an Electric-type move used next turn.
 
   Charge Beam:
     introduction: dp
+    description:
+      - 70% chance to boost SpA 1 stage.
 
   Charm:
     introduction: gs
@@ -254,12 +336,18 @@ moves:
 
   Chatter:
     introduction: dp
+    description:
+      - Confuses the target.
 
   Chip Away:
     introduction: bw
+    description:
+      - Ignores the target's stat changes.
 
   Circle Throw:
     introduction: bw
+    description:
+      - Forces the target to switch to a random Pokemon.
 
   Clamp:
     introduction: rb
@@ -269,13 +357,19 @@ moves:
   Clear Smog:
     introduction: bw
     description:
+      - Eliminates all stat changes.
+    description:
       - 39.8% chance to poison.
       
   Close Combat:
     introduction: dp
+    description:
+      - Lowers user's Def and SpD 1 stage.
 
   Coil:
     introduction: bw
+    description:
+      - Boosts user's Attack, Defense, and accuracy by 1 stage.
 
   Comet Punch:
     introduction: rb
@@ -310,12 +404,18 @@ moves:
 
   Copycat:
     introduction: dp
+    description:
+      - Uses the last move used in the battle.
 
   Cosmic Power:
     introduction: rs
+    description:
+      - Boosts Def and SpD 1 stage.
 
   Cotton Guard:
     introduction: bw
+    description:
+      - Boosts user's Defense by 3 stages.
 
   Cotton Spore:
     introduction: gs
@@ -330,6 +430,8 @@ moves:
       
   Covet:
     introduction: rs
+    description:
+      - Steals target's item.
 
   Crabhammer:
     introduction: rb
@@ -343,6 +445,8 @@ moves:
 
   Cross Poison:
     introduction: dp
+    description:
+      - Has a high critical hit rate. 10% chance to poison foe.
 
   Crunch:
     introduction: gs
@@ -351,9 +455,13 @@ moves:
 
   Crush Claw:
     introduction: rs
+    description:
+      - 50% chance to lower Def 1 stage.
 
   Crush Grip:
     introduction: dp
+    description:
+      - Base power depends on the foe's remaining HP.
 
   Curse:
     introduction: gs
@@ -367,12 +475,18 @@ moves:
 
   Dark Pulse:
     introduction: dp
+    description:
+      - 20% chance to flinch.
 
   Dark Void:
     introduction: dp
+    description:
+      - Induces sleep.
 
   Defend Order:
     introduction: dp
+    description:
+      - Boosts Def and SpD 1 stage.
 
   Defense Curl:
     introduction: rb
@@ -381,6 +495,8 @@ moves:
       
   Defog:
     introduction: dp
+    description:
+      - Lowers target's evasion 1 stage. Removes various field effects.
 
   Destiny Bond:
     introduction: gs
@@ -405,9 +521,13 @@ moves:
       
   Discharge:
     introduction: dp
+    description:
+      - 30% chance to paralyze.
 
   Dive:
     introduction: rs
+    description:
+      - User is made invulnerable for one turn, then hits the next turn.
 
   Dizzy Punch:
     introduction: rb
@@ -417,9 +537,13 @@ moves:
       
   Doom Desire:
     introduction: rs
+    description:
+      - Deals damage at the end of the turn after three turns.
 
   Double Hit:
     introduction: dp
+    description:
+      - Hits 2 times in one turn.
 
   Double Kick:
     introduction: rb
@@ -444,15 +568,23 @@ moves:
       
   Draco Meteor:
     introduction: dp
+    description:
+      - Lowers user's SpA 2 stages.
 
   Dragon Claw:
     introduction: rs
+    description:
+      - No additional effect.
 
   Dragon Dance:
     introduction: rs
+    description:
+      - Boosts Atk and Spe 1 stage.
 
   Dragon Pulse:
     introduction: dp
+    description:
+      - No additional effect.
 
   Dragon Rage:
     introduction: rb
@@ -461,9 +593,13 @@ moves:
       
   Dragon Rush:
     introduction: dp
+    description:
+      - 20% chance to flinch.
 
   Dragon Tail:
     introduction: bw
+    description:
+      - Forces the target to switch to a random Pokemon.
 
   DragonBreath:
     introduction: gs
@@ -472,6 +608,8 @@ moves:
 
   Drain Punch:
     introduction: dp
+    description:
+      - Leeches 50% damage.
 
   Dream Eater:
     introduction: rb
@@ -485,9 +623,13 @@ moves:
 
   Drill Run:
     introduction: bw
+    description:
+      - Has a high critical hit rate.
 
   Dual Chop:
     introduction: bw
+    description:
+      - Hits 2 times in one turn.
 
   DynamicPunch:
     introduction: gs
@@ -496,6 +638,8 @@ moves:
 
   Earth Power:
     introduction: dp
+    description:
+      - 10% chance to lower SpD 1 stage.
 
   Earthquake:
     introduction: rb
@@ -505,6 +649,8 @@ moves:
       
   Echoed Voice:
     introduction: bw
+    description:
+      - Power increases when used consecutively.
 
   Egg Bomb:
     introduction: rb
@@ -513,12 +659,18 @@ moves:
       
   Electro Ball:
     introduction: bw
+    description:
+      - Inflicts more damage the faster the user is compared to the target.
 
   Electroweb:
     introduction: bw
+    description:
+      - Lowers target's Speed by 1 stage.
 
   Embargo:
     introduction: dp
+    description:
+      - Item use is prevented for five turns.
 
   Ember:
     introduction: rb
@@ -532,6 +684,8 @@ moves:
 
   Endeavor:
     introduction: rs
+    description:
+      - Lowers the target's HP to the user's HP.
 
   Endure:
     introduction: gs
@@ -540,12 +694,18 @@ moves:
 
   Energy Ball:
     introduction: dp
+    description:
+      - 10% chance to lower SpD 1 stage.
 
   Entrainment:
     introduction: bw
+    description:
+      - Changes the target's ability to that of the user.
 
   Eruption:
     introduction: rs
+    description:
+      - Does less damage as the user's HP decreases.
 
   Explosion:
     introduction: rb
@@ -555,6 +715,8 @@ moves:
       
   Extrasensory:
     introduction: rs
+    description:
+      - 10% chance to flinch.
 
   ExtremeSpeed:
     introduction: gs
@@ -563,6 +725,8 @@ moves:
 
   Facade:
     introduction: rs
+    description:
+      - Has 140 Base Power when burned, paralyzed, or poisoned.
 
   Faint Attack:
     introduction: gs
@@ -571,9 +735,13 @@ moves:
 
   Fake Out:
     introduction: rs
+    description:
+      - The user always moves first, and flinches the foe. Can only be used on the first turn out.
 
   Fake Tears:
     introduction: rs
+    description:
+      - Lowers SpD 2 stages.
 
   False Swipe:
     introduction: gs
@@ -582,15 +750,23 @@ moves:
 
   FeatherDance:
     introduction: rs
+    description:
+      - Lowers Atk 2 stages.
 
   Feint:
     introduction: dp
+    description:
+      - Only works if the foe uses Detect or Protect; nullifies effects of those moves.
 
   Fiery Dance:
     introduction: bw
+    description:
+      - 50% chance to boost user's Special Attack by 1 stage.
 
   Final Gambit:
     introduction: bw
+    description:
+      - Faints the user. Target takes damage equal to the user's HP at the time of use.
 
   Fire Blast:
     introduction: rb
@@ -600,9 +776,13 @@ moves:
       
   Fire Fang:
     introduction: dp
+    description:
+      - 10% chance to flinch. 10% chance to burn.
 
   Fire Pledge:
     introduction: bw
+    description:
+      - Use with Grass Pledge and Water Pledge for additional effect.
 
   Fire Punch:
     introduction: rb
@@ -626,9 +806,13 @@ moves:
 
   Flame Burst:
     introduction: bw
+    description:
+      - Damages Pokemon next to the target as well.
 
   Flame Charge:
     introduction: bw
+    description:
+      - Boosts user's Speed by 1 stage.
 
   Flame Wheel:
     introduction: gs
@@ -642,6 +826,8 @@ moves:
       
   Flare Blitz:
     introduction: dp
+    description:
+      - Has 1/3 recoil. 10% chance to burn.
 
   Flash:
     introduction: rb
@@ -650,12 +836,18 @@ moves:
       
   Flash Cannon:
     introduction: dp
+    description:
+      - 10% chance to lower SpD 1 stage.
 
   Flatter:
     introduction: rs
+    description:
+      - Confuses the foe. Boosts the foe's SpA 1 stage.
 
   Fling:
     introduction: dp
+    description:
+      - Throws the user's hold item at the foe. Power and effect depend on the item.
 
   Fly:
     introduction: rb
@@ -664,6 +856,8 @@ moves:
       
   Focus Blast:
     introduction: dp
+    description:
+      - 10% chance to lower SpD 1 stage.
 
   Focus Energy:
     introduction: rb
@@ -673,12 +867,18 @@ moves:
       
   Focus Punch:
     introduction: rs
+    description:
+      - Fails if the user takes damage before it hits.
 
   Follow Me:
     introduction: rs
+    description:
+      - All moves target the user.
 
   Force Palm:
     introduction: dp
+    description:
+      - 30% chance to paralyze.
 
   Foresight:
     introduction: gs
@@ -687,15 +887,23 @@ moves:
 
   Foul Play:
     introduction: bw
+    description:
+      - Uses the target's Attack stat in damage calculation.
 
   Freeze Shock:
     introduction: bw
+    description:
+      - Hits the turn after being used. 30% chance to paralyze opponent.
 
   Frenzy Plant:
     introduction: rs
+    description:
+      - User cannot move next turn.
 
   Frost Breath:
     introduction: bw
+    description:
+      - Always results in a critical hit.
 
   Frustration:
     introduction: gs
@@ -719,9 +927,13 @@ moves:
       
   Fusion Bolt:
     introduction: bw
+    description:
+      - Power doubles if used after Fusion Flare.
 
   Fusion Flare:
     introduction: bw
+    description:
+      - Power doubles if used after Fusion Bolt.
 
   Future Sight:
     introduction: gs
@@ -730,9 +942,13 @@ moves:
 
   Gastro Acid:
     introduction: dp
+    description:
+      - Nullifies the foe's ability.
 
   Gear Grind:
     introduction: bw
+    description:
+      - Hits 2 times in one turn.
 
   Giga Drain:
     introduction: gs
@@ -741,9 +957,13 @@ moves:
 
   Giga Impact:
     introduction: dp
+    description:
+      - User cannot move next turn.
 
   Glaciate:
     introduction: bw
+    description:
+      - Lowers target's Speed by 1 stage.
 
   Glare:
     introduction: rb
@@ -752,15 +972,23 @@ moves:
       
   Grass Knot:
     introduction: dp
+    description:
+      - Deals damage based on the foe's weight.
 
   Grass Pledge:
     introduction: bw
+    description:
+      - Use with Grass Pledge and Water Pledge for additional effect.
 
   GrassWhistle:
     introduction: rs
+    description:
+      - Puts the foe to sleep.
 
   Gravity:
     introduction: dp
+    description:
+      - For 5 turns, prevents flying or jumping; also disables Ground immunities.
 
   Growl:
     introduction: rb
@@ -774,12 +1002,18 @@ moves:
       
   Grudge:
     introduction: rs
+    description:
+      - If the user faints, the foe's attack loses all of its PP.
 
   Guard Split:
     introduction: bw
+    description:
+      - Averages Defense and Special Defense stats of the user with the target.
 
   Guard Swap:
     introduction: dp
+    description:
+      - Swaps Def and SpD boosts and drops.
 
   Guillotine:
     introduction: rb
@@ -788,6 +1022,8 @@ moves:
       
   Gunk Shot:
     introduction: dp
+    description:
+      - 30% chance to poison.
 
   Gust:
     introduction: rb
@@ -797,12 +1033,18 @@ moves:
       
   Gyro Ball:
     introduction: dp
+    description:
+      - Does damage based on the foe's Speed and the user's Speed.
 
   Hail:
     introduction: rs
+    description:
+      - Summons hail for 5 turns.
 
   Hammer Arm:
     introduction: dp
+    description:
+      - Lowers user's Spe 1 stage.
 
   Harden:
     introduction: rb
@@ -816,9 +1058,13 @@ moves:
       
   Head Charge:
     introduction: bw
+    description:
+      - Has 25% recoil.
 
   Head Smash:
     introduction: dp
+    description:
+      - Has 1/2 recoil.
 
   Headbutt:
     introduction: rb
@@ -832,36 +1078,58 @@ moves:
 
   Heal Block:
     introduction: dp
+    description:
+      - Prevents the foes from using healing moves for 5 turns.
 
   Heal Order:
     introduction: dp
+    description:
+      - Heals 50% max HP.
 
   Heal Pulse:
     introduction: bw
+    description:
+      - Heals the target by 50% its max HP.
 
   Healing Wish:
     introduction: dp
+    description:
+      - KOs the user and heals the next PokÃ©mon in.
 
   Heart Stamp:
     introduction: bw
+    description:
+      - 30% chance to flinch the target.
 
   Heart Swap:
     introduction: dp
+    description:
+      - Swaps stat boosts and drops.
 
   Heat Crash:
     introduction: bw
+    description:
+      - Deals damage based on both the user's and the target's weight.
 
   Heat Wave:
     introduction: rs
+    description:
+      - 10% chance to burn.
 
   Heavy Slam:
     introduction: bw
+    description:
+      - Deals damage based on both the user's and the target's weight.
 
   Helping Hand:
     introduction: rs
+    description:
+      - Increases power of ally's moves 50%.
 
   Hex:
     introduction: bw
+    description:
+      - Base Power doubles if target has a status ailment.
 
   Hi Jump Kick:
     introduction: rb
@@ -876,6 +1144,8 @@ moves:
 
   Hone Claws:
     introduction: bw
+    description:
+      - Boosts Attack and accuracy one stage.
 
   Horn Attack:
     introduction: rb
@@ -889,15 +1159,23 @@ moves:
       
   Horn Leech:
     introduction: bw
+    description:
+      - Leeches 50% of the damage dealt.
 
   Howl:
     introduction: rs
+    description:
+      - Boosts Atk 1 stage.
 
   Hurricane:
     introduction: bw
+    description:
+      - 30% chance to confuse the target.
 
   Hydro Cannon:
     introduction: rs
+    description:
+      - User cannot move next turn.
 
   Hydro Pump:
     introduction: rb
@@ -917,6 +1195,8 @@ moves:
       
   Hyper Voice:
     introduction: rs
+    description:
+      - No additional effect.
 
   Hypnosis:
     introduction: rb
@@ -925,6 +1205,8 @@ moves:
       
   Ice Ball:
     introduction: rs
+    description:
+      - Doubles in power with each hit. Repeats for 5 turns.
 
   Ice Beam:
     introduction: rb
@@ -933,9 +1215,13 @@ moves:
       
   Ice Burn:
     introduction: bw
+    description:
+      - Hits the turn after being used. 30% chance to burn the target.
 
   Ice Fang:
     introduction: dp
+    description:
+      - 10% chance to flinch. 10% chance to freeze.
 
   Ice Punch:
     introduction: rb
@@ -944,12 +1230,18 @@ moves:
       
   Ice Shard:
     introduction: dp
+    description:
+      - The user always attacks first.
 
   Icicle Crash:
     introduction: bw
+    description:
+      - 30% chance to flinch the target.
 
   Icicle Spear:
     introduction: rs
+    description:
+      - Hits 2-5 times in one turn.
 
   Icy Wind:
     introduction: gs
@@ -958,21 +1250,33 @@ moves:
 
   Imprison:
     introduction: rs
+    description:
+      - No foe can use any of the user's moves.
 
   Incinerate:
     introduction: bw
+    description:
+      - Removes the target's Berry.
 
   Inferno:
     introduction: bw
+    description:
+      - Burns the target.
 
   Ingrain:
     introduction: rs
+    description:
+      - Heals the user 1/16 its max HP each turn. Prevents the user from switching.
 
   Iron Defense:
     introduction: rs
+    description:
+      - Boosts Def 2 stages.
 
   Iron Head:
     introduction: dp
+    description:
+      - 30% chance to flinch.
 
   Iron Tail:
     introduction: gs
@@ -981,6 +1285,8 @@ moves:
 
   Judgment:
     introduction: dp
+    description:
+      - Type is dependent on the user's held plate item.
 
   Jump Kick:
     introduction: rb
@@ -1000,21 +1306,33 @@ moves:
       
   Knock Off:
     introduction: rs
+    description:
+      - Removes the target's item.
 
   Last Resort:
     introduction: dp
+    description:
+      - Can only be used if all other moves have been used once.
 
   Lava Plume:
     introduction: dp
+    description:
+      - 30% chance to burn.
 
   Leaf Blade:
     introduction: rs
+    description:
+      - High critical hit rate.
 
   Leaf Storm:
     introduction: dp
+    description:
+      - Lowers user's SpA 2 stages.
 
   Leaf Tornado:
     introduction: bw
+    description:
+      - 50% chance to lower target's accuracy by 1 stage.
 
   Leech Life:
     introduction: rb
@@ -1061,15 +1379,23 @@ moves:
       
   Low Sweep:
     introduction: bw
+    description:
+      - Lowers target's Speed by 1 stage.
 
   Lucky Chant:
     introduction: dp
+    description:
+      - Blocks critical hits for 5 turns.
 
   Lunar Dance:
     introduction: dp
+    description:
+      - KOs the user, then heals the next PokÃ©mon in.
 
   Luster Purge:
     introduction: rs
+    description:
+      - 50% chance to lower SpD 1 stage.
 
   Mach Punch:
     introduction: gs
@@ -1078,21 +1404,33 @@ moves:
 
   Magic Coat:
     introduction: rs
+    description:
+      - Bounces back certain non-damaging moves.
 
   Magic Room:
     introduction: bw
+    description:
+      - Held items have no effect for 5 turns.
 
   Magical Leaf:
     introduction: rs
+    description:
+      - Ignores accuracy modifiers.
 
   Magma Storm:
     introduction: dp
+    description:
+      - Traps and damages over multiple turns.
 
   Magnet Bomb:
     introduction: dp
+    description:
+      - Ignores accuracy modifiers.
 
   Magnet Rise:
     introduction: dp
+    description:
+      - User becomes immune to Ground moves for 5 turns.
 
   Magnitude:
     introduction: gs
@@ -1101,6 +1439,8 @@ moves:
 
   Me First:
     introduction: dp
+    description:
+      - Uses the foe's attack at 1.5x power. Must be faster to work.
 
   Mean Look:
     introduction: gs
@@ -1134,9 +1474,13 @@ moves:
 
   Memento:
     introduction: rs
+    description:
+      - User faints. Lowers foe's Atk and SpA 2 stages.
 
   Metal Burst:
     introduction: dp
+    description:
+      - Counters foe's attack with 1.5x damage, but must go last.
 
   Metal Claw:
     introduction: gs
@@ -1145,9 +1489,13 @@ moves:
 
   Metal Sound:
     introduction: rs
+    description:
+      - Lower's SpD 2 stages.
 
   Meteor Mash:
     introduction: rs
+    description:
+      - 20% chance to raise Atk 1 stage.
 
   Metronome:
     introduction: rb
@@ -1177,6 +1525,8 @@ moves:
       
   Miracle Eye:
     introduction: dp
+    description:
+      - Nullifies evasion. Allows Psychic-type moves to hit Darks.
 
   Mirror Coat:
     introduction: gs
@@ -1191,6 +1541,8 @@ moves:
       
   Mirror Shot:
     introduction: dp
+    description:
+      - 30% chance to lower accuracy 1 stage.
 
   Mist:
     introduction: rb
@@ -1199,6 +1551,8 @@ moves:
       
   Mist Ball:
     introduction: rs
+    description:
+      - 50% chance to lower SpA 1 stage.
 
   Moonlight:
     introduction: gs
@@ -1212,12 +1566,18 @@ moves:
 
   Mud Bomb:
     introduction: dp
+    description:
+      - 30% chance to lower accuracy 1 stage.
 
   Mud Shot:
     introduction: rs
+    description:
+      - Lowers Spe 1 stage.
 
   Mud Sport:
     introduction: rs
+    description:
+      - Electric-type attacks do 50% damage.
 
   Mud-Slap:
     introduction: gs
@@ -1226,21 +1586,33 @@ moves:
 
   Muddy Water:
     introduction: rs
+    description:
+      - 30% chance to lower accuracy 1 stage.
 
   Nasty Plot:
     introduction: dp
+    description:
+      - Boosts SpA 2 stages.
 
   Natural Gift:
     introduction: dp
+    description:
+      - Power and type depends on the user's held Berry.
 
   Nature Power:
     introduction: rs
+    description:
+      - Attack changes based on terrain.
 
   Needle Arm:
     introduction: rs
+    description:
+      - 30% chance to flinch.
 
   Night Daze:
     introduction: bw
+    description:
+      - 40% chance to lower target's accuracy by 1 stage.
 
   Night Shade:
     introduction: rb
@@ -1249,6 +1621,8 @@ moves:
       
   Night Slash:
     introduction: dp
+    description:
+      - Has a high critical hit rate.
 
   Nightmare:
     introduction: gs
@@ -1262,9 +1636,13 @@ moves:
 
   Odor Sleuth:
     introduction: rs
+    description:
+      - Blocks evasion modifiers. Allows Fighting- and Normal-type moves to hit Ghosts.
 
   Ominous Wind:
     introduction: dp
+    description:
+      - 10% chance to boost all stats 1 stage.
 
   Outrage:
     introduction: gs
@@ -1273,6 +1651,8 @@ moves:
 
   Overheat:
     introduction: rs
+    description:
+      - Lowers SpA 2 stages.
 
   Pain Split:
     introduction: gs
@@ -1286,6 +1666,8 @@ moves:
       
   Payback:
     introduction: dp
+    description:
+      - Base Power doubles if the foe has taken its turn.
 
   Peck:
     introduction: rb
@@ -1309,9 +1691,13 @@ moves:
       
   Pluck:
     introduction: dp
+    description:
+      - Uses foe's Berry.
 
   Poison Fang:
     introduction: rs
+    description:
+      - 30% chance to inflict bad poison.
 
   Poison Gas:
     introduction: rb
@@ -1320,6 +1706,8 @@ moves:
       
   Poison Jab:
     introduction: dp
+    description:
+      - 30% chance to poison.
 
   Poison Sting:
     introduction: rb
@@ -1329,6 +1717,8 @@ moves:
       
   Poison Tail:
     introduction: rs
+    description:
+      - Has a high critical hit rate. 10% chance to poison.
 
   PoisonPowder:
     introduction: rb
@@ -1347,18 +1737,28 @@ moves:
 
   Power Gem:
     introduction: dp
+    description:
+      - No additional effect.
 
   Power Split:
     introduction: bw
+    description:
+      - Averages Attack and Special Attack with the target.
 
   Power Swap:
     introduction: dp
+    description:
+      - Swaps Atk and SpA boosts and drops with the foe.
 
   Power Trick:
     introduction: dp
+    description:
+      - Swaps user's Atk and Def stats.
 
   Power Whip:
     introduction: dp
+    description:
+      - No additional effect.
 
   Present:
     introduction: gs
@@ -1388,18 +1788,28 @@ moves:
       
   Psycho Boost:
     introduction: rs
+    description:
+      - Lowers user's SpA 2 stages.
 
   Psycho Cut:
     introduction: dp
+    description:
+      - Has a high critical hit rate.
 
   Psycho Shift:
     introduction: dp
+    description:
+      - Shifts the user's status effect to the foe.
 
   Psyshock:
     introduction: bw
+    description:
+      - Damage is based on the target's Defense stat.
 
   Psystrike:
     introduction: bw
+    description:
+      - Damage is based on the target's Defense stat.
 
   Psywave:
     introduction: rb
@@ -1408,6 +1818,8 @@ moves:
       
   Punishment:
     introduction: dp
+    description:
+      - Does more damage to foes with stat boosts.
 
   Pursuit:
     introduction: gs
@@ -1416,6 +1828,8 @@ moves:
 
   Quash:
     introduction: bw
+    description:
+      - Forces the target to move last.
 
   Quick Attack:
     introduction: rb
@@ -1424,9 +1838,13 @@ moves:
       
   Quick Guard:
     introduction: bw
+    description:
+      - Protects user and allies from priority attacks.
 
   Quiver Dance:
     introduction: bw
+    description:
+      - Boosts the user's Special Attack, Special Defense, and Speed by 1 stage.
 
   Rage:
     introduction: rb
@@ -1436,6 +1854,8 @@ moves:
 
   Rage Powder:
     introduction: bw
+    description:
+      - All moves target the user.
 
   Rain Dance:
     introduction: gs
@@ -1454,6 +1874,8 @@ moves:
       
   Razor Shell:
     introduction: bw
+    description:
+      - 50% chance to lower target's Defense by 1 stage.
 
   Razor Wind:
     introduction: rb
@@ -1468,6 +1890,8 @@ moves:
       
   Recycle:
     introduction: rs
+    description:
+      - Restores a used up item.
 
   Reflect:
     introduction: rb
@@ -1477,12 +1901,18 @@ moves:
       
   Reflect Type:
     introduction: bw
+    description:
+      - User becomes the same type as the target.
 
   Refresh:
     introduction: rs
+    description:
+      - Removes status.
 
   Relic Song:
     introduction: bw
+    description:
+      - 10% chance to put target to sleep. If used by Meloetta, causes it to change from Aria Forme to Pirouette Forme.
 
   Rest:
     introduction: rb
@@ -1491,6 +1921,8 @@ moves:
       
   Retaliate:
     introduction: bw
+    description:
+      - Power doubles if the user's teammate fainted the previous turn.
 
   Return:
     introduction: gs
@@ -1499,6 +1931,8 @@ moves:
 
   Revenge:
     introduction: rs
+    description:
+      - Doubles in power if damaged.
 
   Reversal:
     introduction: gs
@@ -1513,15 +1947,23 @@ moves:
       
   Roar of Time:
     introduction: dp
+    description:
+      - User cannot move next turn.
 
   Rock Blast:
     introduction: rs
+    description:
+      - Hits 2-5 times in one turn.
 
   Rock Climb:
     introduction: dp
+    description:
+      - 20% chance to confuse.
 
   Rock Polish:
     introduction: dp
+    description:
+      - Boosts Spe 2 stages.
 
   Rock Slide:
     introduction: rb
@@ -1541,12 +1983,18 @@ moves:
       
   Rock Tomb:
     introduction: rs
+    description:
+      - Lowers Spe 1 stage.
 
   Rock Wrecker:
     introduction: dp
+    description:
+      - User cannot move next turn.
 
   Role Play:
     introduction: rs
+    description:
+      - Copies the foe's ability and overwrites the user's ability.
 
   Rolling Kick:
     introduction: rb
@@ -1560,9 +2008,13 @@ moves:
 
   Roost:
     introduction: dp
+    description:
+      - Heals 50% HP. Temporarily removes the user's Flying-type.
 
   Round:
     introduction: bw
+    description:
+      - Power doubles if a teammate uses Round in the same turn.
 
   Sacred Fire:
     introduction: gs
@@ -1571,6 +2023,8 @@ moves:
 
   Sacred Sword:
     introduction: bw
+    description:
+      - Ignores the target's stat changes.
 
   Safeguard:
     introduction: gs
@@ -1579,6 +2033,8 @@ moves:
 
   Sand Tomb:
     introduction: rs
+    description:
+      - Traps and damages over multiple turns.
 
   Sand-Attack:
     introduction: rb
@@ -1592,6 +2048,8 @@ moves:
 
   Scald:
     introduction: bw
+    description:
+      - 30% chance to burn the target. Thaws the user.
 
   Scary Face:
     introduction: gs
@@ -1610,18 +2068,28 @@ moves:
       
   Searing Shot:
     introduction: bw
+    description:
+      - 30% chance to burn the target.
 
   Secret Power:
     introduction: rs
+    description:
+      - Effects vary with terrain.
 
   Secret Sword:
     introduction: bw
+    description:
+      - Damage is based on the target's Defense stat.
 
   Seed Bomb:
     introduction: dp
+    description:
+      - No additional effect.
 
   Seed Flare:
     introduction: dp
+    description:
+      - 40% chance to lower SpD 2 stages.
 
   Seismic Toss:
     introduction: rb
@@ -1640,15 +2108,23 @@ moves:
 
   Shadow Claw:
     introduction: dp
+    description:
+      - Has a high critical hit rate.
 
   Shadow Force:
     introduction: dp
+    description:
+      - User becomes invulnerable, then attacks the next turn. Nullifies Detect and Protect.
 
   Shadow Punch:
     introduction: rs
+    description:
+      - Ignores accuracy modifiers.
 
   Shadow Sneak:
     introduction: dp
+    description:
+      - The user always attacks first.
 
   Sharpen:
     introduction: rb
@@ -1657,24 +2133,38 @@ moves:
       
   Sheer Cold:
     introduction: rs
+    description:
+      - Will OHKO the target.
 
   Shell Smash:
     introduction: bw
+    description:
+      - Boosts user's Attack, Special Attack, and Speed by 2 stages and lowers user's Defense and Special Defense by 1 stage.
 
   Shift Gear:
     introduction: bw
+    description:
+      - Boosts Speed by 2 stages and Attack by 1 stage.
 
   Shock Wave:
     introduction: rs
+    description:
+      - Ignores accuracy modifiers.
 
   Signal Beam:
     introduction: rs
+    description:
+      - 10% chance to confuse.
 
   Silver Wind:
     introduction: rs
+    description:
+      - 10% chance to boost all stats 1 stage.
 
   Simple Beam:
     introduction: bw
+    description:
+      - Changes the target's ability to Simple.
 
   Sing:
     introduction: rb
@@ -1688,6 +2178,8 @@ moves:
 
   Skill Swap:
     introduction: rs
+    description:
+      - The user and the target trade abilities.
 
   Skull Bash:
     introduction: rb
@@ -1702,12 +2194,18 @@ moves:
       
   Sky Drop:
     introduction: bw
+    description:
+      - Hits the turn after being used. The target cannot move while in the air.
 
   Sky Uppercut:
     introduction: rs
+    description:
+      - Hits a Bouncing or Flying target.
 
   Slack Off:
     introduction: rs
+    description:
+      - Heals 50% max HP.
 
   Slam:
     introduction: rb
@@ -1742,12 +2240,18 @@ moves:
 
   Sludge Wave:
     introduction: bw
+    description:
+      - 10% chance to poison the target.
 
   Smack Down:
     introduction: bw
+    description:
+      - Can hit if target is using Fly, Bounce, or Sky Drop. Ends target's airborne moves and its benefits from Flying type or Levitate.
 
   SmellingSalt:
     introduction: rs
+    description:
+      - Has 120 power on a paralyzed target, but cures it of paralysis.
 
   Smog:
     introduction: rb
@@ -1761,9 +2265,13 @@ moves:
       
   Snarl:
     introduction: bw
+    description:
+      - Lowers target's Special Attack by 1 stage.
 
   Snatch:
     introduction: rs
+    description:
+      - If certain moves are used, the user of Snatch uses the moves instead.
 
   Snore:
     introduction: gs
@@ -1772,6 +2280,8 @@ moves:
 
   Soak:
     introduction: bw
+    description:
+      - Changes the target's type to Water.
 
   Softboiled:
     introduction: rb
@@ -1791,6 +2301,8 @@ moves:
       
   Spacial Rend:
     introduction: dp
+    description:
+      - Has a high critical hit rate.
 
   Spark:
     introduction: gs
@@ -1814,6 +2326,8 @@ moves:
 
   Spit Up:
     introduction: rs
+    description:
+      - Varies in power depending on the number of uses of Stockpile.
 
   Spite:
     introduction: gs
@@ -1832,9 +2346,13 @@ moves:
 
   Stealth Rock:
     introduction: dp
+    description:
+      - Damages foe's switch-ins.
 
   Steamroller:
     introduction: bw
+    description:
+      - Has a 30% chance to flinch the target.
 
   Steel Wing:
     introduction: gs
@@ -1843,6 +2361,8 @@ moves:
 
   Stockpile:
     introduction: rs
+    description:
+      - Sets the user up to use Spit Up and Swallow.
 
   Stomp:
     introduction: rb
@@ -1851,12 +2371,18 @@ moves:
       
   Stone Edge:
     introduction: dp
+    description:
+      - Has a high critical hit rate.
 
   Stored Power:
     introduction: bw
+    description:
+      - Varies in power depending on number of boosts accumulated by user.
 
   Storm Throw:
     introduction: bw
+    description:
+      - Always results in a critical hit.
 
   Strength:
     introduction: rb
@@ -1875,6 +2401,8 @@ moves:
       
   Struggle Bug:
     introduction: bw
+    description:
+      - Lowers target's Special Attack by 1 stage.
 
   Stun Spore:
     introduction: rb
@@ -1893,6 +2421,8 @@ moves:
 
   Sucker Punch:
     introduction: dp
+    description:
+      - The user always moves first. Will only work if the foe attacked.
 
   Sunny Day:
     introduction: gs
@@ -1906,6 +2436,8 @@ moves:
       
   Superpower:
     introduction: rs
+    description:
+      - Lowers the user's Atk and Def 1 stage.
 
   Supersonic:
     introduction: rb
@@ -1924,6 +2456,8 @@ moves:
 
   Swallow:
     introduction: rs
+    description:
+      - Healing varies based on the number of uses of Stockpile.
 
   Sweet Kiss:
     introduction: gs
@@ -1942,6 +2476,8 @@ moves:
       
   Switcheroo:
     introduction: dp
+    description:
+      - Switches items with the target.
 
   Swords Dance:
     introduction: rb
@@ -1950,6 +2486,8 @@ moves:
       
   Synchronoise:
     introduction: bw
+    description:
+      - Only damages targets of the same type as the user.
 
   Synthesis:
     introduction: gs
@@ -1963,9 +2501,13 @@ moves:
       
   Tail Glow:
     introduction: rs
+    description:
+      - Boosts SpA 2 stages.
 
   Tail Slap:
     introduction: bw
+    description:
+      - Hits 2-5 times in one turn.
 
   Tail Whip:
     introduction: rb
@@ -1974,6 +2516,8 @@ moves:
       
   Tailwind:
     introduction: dp
+    description:
+      - Doubles Spe for 3 turns.
 
   Take Down:
     introduction: rb
@@ -1982,15 +2526,23 @@ moves:
       
   Taunt:
     introduction: rs
+    description:
+      - Forces the foe to use damaging moves for 2 turns.
 
   Techno Blast:
     introduction: bw
+    description:
+      - Type will change depending on the type of Drive.
 
   Teeter Dance:
     introduction: rs
+    description:
+      - Confuses all other active PokÃ©mon.
 
   Telekinesis:
     introduction: bw
+    description:
+      - Lasts 3 turns and makes all moves hit the target.  Makes target immune to Ground-type moves.
 
   Teleport:
     introduction: rb
@@ -2016,6 +2568,8 @@ moves:
       
   Thunder Fang:
     introduction: dp
+    description:
+      - 10% chance to flinch. 10% chance to paralyze.
 
   Thunder Wave:
     introduction: rb
@@ -2039,9 +2593,13 @@ moves:
       
   Tickle:
     introduction: rs
+    description:
+      - Lowers Atk and Def 1 stage.
 
   Torment:
     introduction: rs
+    description:
+      - Prevents the target from using the same move twice in a row.
 
   Toxic:
     introduction: rb
@@ -2050,6 +2608,8 @@ moves:
       
   Toxic Spikes:
     introduction: dp
+    description:
+      - Poisons opponents as they switch switch in.
 
   Transform:
     introduction: rb
@@ -2064,9 +2624,13 @@ moves:
       
   Trick:
     introduction: rs
+    description:
+      - Switches items with the foe.
 
   Trick Room:
     introduction: dp
+    description:
+      - Slower PokÃ©mon move first for 5 turns.
 
   Triple Kick:
     introduction: gs
@@ -2075,6 +2639,8 @@ moves:
 
   Trump Card:
     introduction: dp
+    description:
+      - Power increases as PP decreases.
 
   Twineedle:
     introduction: rb
@@ -2088,18 +2654,28 @@ moves:
 
   U-turn:
     introduction: dp
+    description:
+      - Attacks, then switches.
 
   Uproar:
     introduction: rs
+    description:
+      - Repeats for 2-5 turns. No PokÃ©mon can sleep during these turns.
 
   V-create:
     introduction: bw
+    description:
+      - Lowers user's Defense, Special Defense, and Speed by 1 stage.
 
   Vacuum Wave:
     introduction: dp
+    description:
+      - The user always attacks first.
 
   Venoshock:
     introduction: bw
+    description:
+      - Hits poisoned targets with double Base Power.
 
   ViceGrip:
     introduction: rb
@@ -2118,12 +2694,18 @@ moves:
 
   Volt Switch:
     introduction: bw
+    description:
+      - Forces user to switch.
 
   Volt Tackle:
     introduction: rs
+    description:
+      - Has 1/3 recoil.
 
   Wake-Up Slap:
     introduction: dp
+    description:
+      - Double Base Power if used on a sleeping foe.
 
   Water Gun:
     introduction: rb
@@ -2132,15 +2714,23 @@ moves:
       
   Water Pledge:
     introduction: bw
+    description:
+      - Use with Fire Pledge and Grass Pledge for additional effect.
 
   Water Pulse:
     introduction: rs
+    description:
+      - 20% chance to confuse.
 
   Water Sport:
     introduction: rs
+    description:
+      - Fire-type attacks do 50% damage.
 
   Water Spout:
     introduction: rs
+    description:
+      - Does less damage as the user's HP decreases.
 
   Waterfall:
     introduction: rb
@@ -2149,6 +2739,8 @@ moves:
       
   Weather Ball:
     introduction: rs
+    description:
+      - Doubles in power and changes type if there is weather.
 
   Whirlpool:
     introduction: gs
@@ -2163,12 +2755,18 @@ moves:
       
   Wide Guard:
     introduction: bw
+    description:
+      - Protects user and allies from multi-target attacks.
 
   Wild Charge:
     introduction: bw
+    description:
+      - Has 1/4 recoil.
 
   Will-O-Wisp:
     introduction: rs
+    description:
+      - Burns the foe.
 
   Wing Attack:
     introduction: rb
@@ -2177,6 +2775,8 @@ moves:
       
   Wish:
     introduction: rs
+    description:
+       Heals 50% max HP after 2 turns.
 
   Withdraw:
     introduction: rb
@@ -2185,15 +2785,23 @@ moves:
       
   Wonder Room:
     introduction: bw
+    description:
+      - Swaps Defense and Special Defense of all Pokemon.
 
   Wood Hammer:
     introduction: dp
+    description:
+      - Has 1/3 recoil.
 
   Work Up:
     introduction: bw
+    description:
+      - Boosts user's Attack and Special Attack by 1 stage.
 
   Worry Seed:
     introduction: dp
+    description:
+      - Changes the foe's ability to Insomnia.
 
   Wrap:
     introduction: rb
@@ -2202,12 +2810,18 @@ moves:
       
   Wring Out:
     introduction: dp
+    description:
+      - Base power depends on the foe's remaining HP.
 
   X-Scissor:
     introduction: dp
+    description:
+      - No additional effect.
 
   Yawn:
     introduction: rs
+    description:
+       Puts the target to sleep after 2 turns.
 
   Zap Cannon:
     introduction: gs
@@ -2216,3 +2830,5 @@ moves:
 
   Zen Headbutt:
     introduction: dp
+    description:
+      - 20% chance to flinch.

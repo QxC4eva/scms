@@ -17,6 +17,8 @@ abilities:
 
   Analytic:
     introduction: bw
+    description:
+      - Raises the power of all moves by 30% if the wielder moves last.
 
   Anger Point:
     introduction: dp
@@ -45,6 +47,8 @@ abilities:
 
   Big Pecks:
     introduction: bw
+    description:
+      - The wielder's Defense cannot be lowered.
 
   Blaze:
     introduction: rs
@@ -78,9 +82,13 @@ abilities:
 
   Contrary:
     introduction: bw
+    description:
+      - The wielder's stat changes are reversed.
 
   Cursed Body:
     introduction: bw
+    description:
+      - The wielder has a 30% chance to disable any move that hits it.
 
   Cute Charm:
     introduction: rs
@@ -94,9 +102,13 @@ abilities:
 
   Defeatist:
     introduction: bw
+    description:
+      - Halves the wielder's Attack and Special Attack if its HP drops below 50%.
 
   Defiant:
     introduction: bw
+    description:
+      - Boosts Attack by two stages for every stat drop.
 
   Download:
     introduction: dp
@@ -140,6 +152,8 @@ abilities:
 
   Flare Boost:
     introduction: bw
+    description:
+      - Special Attack is increased by 50% when burned.
 
   Flash Fire:
     introduction: rs
@@ -163,6 +177,8 @@ abilities:
 
   Friend Guard:
     introduction: bw
+    description:
+      - Reduces damage done to a teammate by 25%.
 
   Frisk:
     introduction: dp
@@ -181,9 +197,13 @@ abilities:
 
   Harvest:
     introduction: bw
+    description:
+      - After each turn, the wielder may receive the Berry it used at a 50% chance (100% if in sun).
 
   Healer:
     introduction: bw
+    description:
+      - 30% chance to heal an adjacent teammate of a status condition every turn.
 
   Heatproof:
     introduction: dp
@@ -192,6 +212,8 @@ abilities:
 
   Heavy Metal:
     introduction: bw
+    description:
+      - The wielder's weight is doubled.
 
   Honey Gather:
     introduction: dp
@@ -230,6 +252,8 @@ abilities:
 
   Illusion:
     introduction: bw
+    description:
+      - The wielder appears as the last Pokemon in the party to the opponent.
 
   Immunity:
     introduction: rs
@@ -238,9 +262,13 @@ abilities:
 
   Imposter:
     introduction: bw
+    description:
+      - The wielder transforms into the opponent when it switches in.
 
   Infiltrator:
     introduction: bw
+    description:
+      - The wielder bypasses the foe's Light Screen, Reflect, Mist, and Safeguard.
 
   Inner Focus:
     introduction: rs
@@ -259,6 +287,8 @@ abilities:
 
   Iron Barbs:
     introduction: bw
+    description:
+      - Deals 1/8% damage when the opponent makes contact.
 
   Iron Fist:
     introduction: dp
@@ -267,6 +297,8 @@ abilities:
 
   Justified:
     introduction: bw
+    description:
+      - Raises Attack one stage when hit by a Dark-type move.
 
   Keen Eye:
     introduction: rs
@@ -290,6 +322,8 @@ abilities:
 
   Light Metal:
     introduction: bw
+    description:
+      - The wielder's weight is halved.
 
   Lightningrod:
     introduction: rs
@@ -308,6 +342,8 @@ abilities:
 
   Magic Bounce:
     introduction: bw
+    description:
+      - Bounces back certain non-damaging moves.
 
   Magic Guard:
     introduction: dp
@@ -341,6 +377,8 @@ abilities:
 
   Moody:
     introduction: bw
+    description:
+      - A random stat is lowered by 1 stage and another is boosted by 2 stages every turn.
 
   Motor Drive:
     introduction: dp
@@ -349,9 +387,13 @@ abilities:
 
   Moxie:
     introduction: bw
+    description:
+      - Boosts Attack by one stage if the wielder knocks out another Pokemon.
 
   Multiscale:
     introduction: bw
+    description:
+      - Reduces damage by 50% if the wielder is at full health.
 
   Multitype:
     introduction: dp
@@ -360,6 +402,8 @@ abilities:
 
   Mummy:
     introduction: bw
+    description:
+      - The opponent's ability becomes Mummy when it hits the wielder with a contact move.
 
   Natural Cure:
     introduction: rs
@@ -384,6 +428,8 @@ abilities:
 
   Overcoat:
     introduction: bw
+    description:
+      - Grants immunity to damage from weather effects.
 
   Overgrow:
     introduction: rs
@@ -397,6 +443,8 @@ abilities:
 
   Pickpocket:
     introduction: bw
+    description:
+      - The wielder immediately steals an item from an attacker using a contact move.
 
   Pickup:
     introduction: rs
@@ -420,9 +468,13 @@ abilities:
 
   Poison Touch:
     introduction: bw
+    description:
+      - The wielder has a 30% chance to poison the opponent when it uses a contact move.
 
   Prankster:
     introduction: bw
+    description:
+      - Moves that do not deal direct damage have their priority increased by one level.
 
   Pressure:
     introduction: rs
@@ -446,6 +498,8 @@ abilities:
 
   Rattled:
     introduction: bw
+    description:
+      - Raises Speed one stage when hit by a Bug-, Dark-, or Ghost-type move.
 
   Reckless:
     introduction: dp
@@ -454,6 +508,8 @@ abilities:
 
   Regenerator:
     introduction: bw
+    description:
+      - Wielder heals 1/3 of its maximum HP on switching out.
 
   Rivalry:
     introduction: dp
@@ -477,9 +533,13 @@ abilities:
 
   Sand Force:
     introduction: bw
+    description:
+      - Increases power of Ground-, Rock-, and Steel-type attacks by 30% in a sandstorm.
 
   Sand Rush:
     introduction: bw
+    description:
+      - Speed doubles in sandstorm.
 
   Sand Stream:
     introduction: rs
@@ -493,6 +553,8 @@ abilities:
 
   Sap Sipper:
     introduction: bw
+    description:
+      - Grants immunity to Grass-type moves and boosts Attack by 1 stage when hit by a Grass-type move.
 
   Scrappy:
     introduction: dp
@@ -516,6 +578,8 @@ abilities:
 
   Sheer Force:
     introduction: bw
+    description:
+      - Increases power of moves with secondary effects by 30%, but removes the effects.
 
   Shell Armor:
     introduction: rs
@@ -649,9 +713,13 @@ abilities:
 
   Telepathy:
     introduction: bw
+    description:
+      - Does not take damage from allies' attacks.
 
   Teravolt:
     introduction: bw
+    description:
+      - Abilities that hinder attacks are nullified.
 
   Thick Fat:
     introduction: rs
@@ -670,6 +738,8 @@ abilities:
 
   Toxic Boost:
     introduction: bw
+    description:
+      - Attack is increased by 50% when poisoned.
 
   Trace:
     introduction: rs
@@ -683,6 +753,8 @@ abilities:
 
   Turboblaze:
     introduction: bw
+    description:
+      - Abilities that hinder attacks are nullified.
 
   Unaware:
     introduction: dp
@@ -696,9 +768,13 @@ abilities:
 
   Unnerve:
     introduction: bw
+    description:
+      - Prevents the foe from consuming its held Berry item.
 
   Victory Star:
     introduction: bw
+    description:
+      - Increases the accuracy of the wielder and allies on its side of the field by 10%.
 
   Vital Spirit:
     introduction: rs
@@ -722,6 +798,8 @@ abilities:
 
   Weak Armor:
     introduction: bw
+    description:
+      - Boosts Speed by 1 stage and lowers Defense by 1 stage when hit by a physical move.
 
   White Smoke:
     introduction: rs
@@ -735,6 +813,10 @@ abilities:
 
   Wonder Skin:
     introduction: bw
+    description:
+      - Reduces the accuracy of a status move to 50%.
 
   Zen Mode:
     introduction: bw
+    description:
+      - The wielder changes forme when below 50% of its max HP.

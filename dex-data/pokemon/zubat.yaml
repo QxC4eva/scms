@@ -13,6 +13,7 @@ pokemon:
     - gs: [40, 45, 35, 30, 40, 55]
     tags:
     - [nfe]
+    - rs: [Dodrio]
     weight: [7.5]
     height: [0.8]
   Golbat:
@@ -45,6 +46,7 @@ pokemon:
     - [85, 90, 80, 70, 80, 130]
     tags:
     - [uu]
+    - rs: [bl]
     weight: [75]
     height: [1.8]
 evolutions:

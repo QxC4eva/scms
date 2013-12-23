@@ -82,8 +82,6 @@ moves:
     introduction: dp
     types:
     - Flying
-    types:
-    - Normal
     description:
       - 30% chance to flinch opponent.
     description:
@@ -314,8 +312,6 @@ moves:
     introduction: rb
     types:
     - Normal
-    types:
-    - Normal
     description:
       - 30% chance to paralyze.
 
@@ -505,8 +501,6 @@ moves:
     introduction: bw
     types:
     - Poison
-    types:
-    - Poison
     description:
       - Eliminates all stat changes.
     description:
@@ -592,8 +586,6 @@ moves:
 
   Cotton Spore:
     introduction: gs
-    types:
-    - Grass
     types:
     - Grass
     description:
@@ -871,8 +863,6 @@ moves:
       
   Drill Peck:
     introduction: rb
-    types:
-    - Flying
     types:
     - Flying
     description:
@@ -1538,8 +1528,6 @@ moves:
     introduction: dp
     types:
     - Psychic
-    types:
-    - Normal
     description:
       - KOs the user and heals the next PokÃ©mon in.
 
@@ -1594,8 +1582,6 @@ moves:
 
   Hi Jump Kick:
     introduction: rb
-    types:
-    - Fighting
     types:
     - Fighting
     description:
@@ -1815,6 +1801,8 @@ moves:
 
   Jump Kick:
     introduction: rb
+    types:
+    - Fighting
     description:
       - User takes 1 HP recoil if attack misses.
       - gs: If it misses, user loses HP equal to 1/2 the damage that would have been dealt.
@@ -2344,6 +2332,8 @@ moves:
 
   Peck:
     introduction: rb
+    types:
+    - Flying
     description:
       - No additional effect.
 
@@ -2455,8 +2445,6 @@ moves:
 
   Power Trick:
     introduction: dp
-    types:
-    - Psychic
     types:
     - Psychic
     description:
@@ -2591,6 +2579,8 @@ moves:
 
   Rage:
     introduction: rb
+    types:
+    - Normal
     description:
       - Boosts Attack 1 stage if hit, but can only use Rage after that.
       - gs: Boosts Atk 1 stage if hit.
@@ -3092,11 +3082,15 @@ moves:
 
   Slam:
     introduction: rb
+    types:
+    - Normal
     description:
       - No additional effect.
 
   Slash:
     introduction: rb
+    types:
+    - Normal
     description:
       - Has a high critical hit rate.
 
@@ -3152,6 +3146,8 @@ moves:
 
   Smog:
     introduction: rb
+    types:
+    - Poison
     description:
       - 40% chance to poison.
 
@@ -3270,6 +3266,8 @@ moves:
       
   Spore:
     introduction: rb
+    types:
+    - Grass
     description:
       - Puts the target to sleep.
 
@@ -3663,6 +3661,8 @@ moves:
       
   Trick:
     introduction: rs
+    types:
+    - Psychic
     description:
       - Switches items with the foe.
 
@@ -3872,6 +3872,8 @@ moves:
       
   Wish:
     introduction: rs
+    types:
+    - Normal
     description:
        Heals 50% max HP after 2 turns.
 

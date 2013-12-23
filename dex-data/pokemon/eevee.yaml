@@ -14,6 +14,7 @@ pokemon:
     - gs: [55, 55, 50, 45, 65, 55]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [6.5]
     height: [0.3]
   Flareon:
@@ -30,6 +31,7 @@ pokemon:
     - gs: [65, 130, 60, 95, 110, 65]
     tags:
     - [uu]
+    - dp: [nu]
     weight: [25]
     height: [0.9]
   Jolteon:
@@ -63,6 +65,7 @@ pokemon:
     - gs: [130, 65, 60, 110, 95, 65]
     tags:
     - [uu]
+    - dp: [ou]
     - rs: [bl]
     - gs: [ou]
     weight: [29]
@@ -80,6 +83,7 @@ pokemon:
     - [65, 65, 60, 130, 95, 110]
     tags:
     - [bl]
+    - dp: [nu]
     weight: [26.5]
     height: [0.9]
   Umbreon:
@@ -95,6 +99,7 @@ pokemon:
     - [95, 65, 110, 60, 130, 65]
     tags:
     - [ou]
+    - dp: [ou]
     - rs: [bl]
     weight: [27]
     height: [1]

@@ -13,6 +13,7 @@ pokemon:
     - gs: [80, 85, 95, 30, 30, 25]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [115]
     height: [1]
   Rhydon:
@@ -29,6 +30,7 @@ pokemon:
     - gs: [105, 130, 120, 45, 45, 40]
     tags:
     - [ou]
+    - dp: [nfe]
     - rs: [bl]
     weight: [120]
     height: [1.9]

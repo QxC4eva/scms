@@ -13,6 +13,7 @@ pokemon:
     - [35, 35, 40, 35, 55, 50]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [0.5]
     height: [0.4]
   Skiploom:
@@ -45,6 +46,7 @@ pokemon:
     - [75, 55, 70, 55, 85, 110]
     tags:
     - [uu]
+    - dp: [nu]
     - rs: [bl]
     weight: [3]
     height: [0.8]

@@ -12,6 +12,7 @@ pokemon:
     - [90, 60, 60, 40, 40, 40]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [33.5]
     height: [0.5]
   Donphan:
@@ -27,6 +28,7 @@ pokemon:
     - [90, 120, 120, 60, 60, 50]
     tags:
     - [bl]
+    - dp: [uu]
     weight: [120]
     height: [1.1]
 evolutions:

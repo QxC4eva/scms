@@ -13,6 +13,7 @@ pokemon:
     - gs: [35, 45, 160, 30, 45, 70]
     tags:
     - []
+    - dp: [lc]
     - gs: [nfe]
     weight: [210]
     height: [8.8]
@@ -29,6 +30,7 @@ pokemon:
     - [75, 85, 200, 55, 65, 30]
     tags:
     - [ou]
+    - dp: [uu]
     - rs: [bl]
     weight: [400]
     height: [9.2]

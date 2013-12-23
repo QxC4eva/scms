@@ -13,8 +13,10 @@ pokemon:
     - gs: [50, 75, 85, 20, 30, 40]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [12]
     height: [0.6]
+    - dp: [nu]
   Sandslash:
     introduction: rb
     types:

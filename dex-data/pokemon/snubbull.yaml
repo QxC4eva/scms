@@ -12,6 +12,7 @@ pokemon:
     - [60, 80, 50, 40, 40, 30]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [7.8]
     height: [0.6]
   Granbull:
@@ -28,6 +29,7 @@ pokemon:
     - [90, 120, 75, 60, 60, 45]
     tags:
     - [uu]
+    - dp: [nu]
     weight: [48.7]
     height: [1.4]
 evolutions:

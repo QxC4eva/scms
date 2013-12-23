@@ -12,6 +12,7 @@ pokemon:
     - [20, 40, 15, 35, 35, 60]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [2]
     height: [0.3]
   Pikachu:
@@ -28,8 +29,10 @@ pokemon:
     - gs: [35, 55, 30, 50, 40, 90]
     tags:
     - [nfe]
+    - dp: [nu]
     - rs: [nfe]
     - gs: [uu]
+    - dp: [nu]
     weight: [6]
     height: [0.4]
   Raichu:

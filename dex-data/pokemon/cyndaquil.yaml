@@ -12,6 +12,7 @@ pokemon:
     - [39, 52, 43, 60, 50, 65]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [7.9]
     height: [0.5]
   Quilava:
@@ -42,6 +43,7 @@ pokemon:
     - [78, 84, 78, 109, 85, 100]
     tags:
     - [bl]
+    - dp: [nu]
     weight: [79.5]
     height: [1.7]
 evolutions:

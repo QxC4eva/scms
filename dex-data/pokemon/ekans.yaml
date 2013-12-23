@@ -13,8 +13,10 @@ pokemon:
     - gs: [35, 60, 44, 40, 54, 55]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [6.9]
     height: [2]
+    - dp: [nu]
   Arbok:
     introduction: rb
     types:

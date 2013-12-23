@@ -13,6 +13,7 @@ pokemon:
     - [60, 60, 40, 65, 45, 35]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [24]
     height: [0.7]
   Camerupt:
@@ -29,6 +30,7 @@ pokemon:
     - [70, 100, 70, 105, 75, 40]
     tags:
     - [uu]
+    - dp: [nu]
     weight: [220]
     height: [1.9]
 evolutions:

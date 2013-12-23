@@ -12,6 +12,7 @@ pokemon:
     - [55, 45, 45, 25, 25, 15]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [8.5]
     height: [0.4]
   Quagsire:
@@ -27,6 +28,7 @@ pokemon:
     - [95, 85, 85, 65, 65, 35]
     tags:
     - [uu]
+    - dp: [nu]
     weight: [75]
     height: [1.4]
 evolutions:

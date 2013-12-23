@@ -12,6 +12,7 @@ pokemon:
     - [45, 63, 37, 65, 55, 95]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [23.5]
     height: [0.6]
   Electabuzz:
@@ -28,6 +29,7 @@ pokemon:
     - gs: [65, 83, 57, 95, 85, 105]
     tags:
     - [uu]
+    - dp: [nu]
     weight: [30]
     height: [1.1]
   Electivire:

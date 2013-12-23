@@ -12,6 +12,7 @@ pokemon:
     - [28, 25, 25, 45, 35, 40]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [6.6]
     height: [0.4]
   Kirlia:
@@ -42,6 +43,7 @@ pokemon:
     - [68, 65, 65, 125, 115, 80]
     tags:
     - [bl]
+    - dp: [nu]
     weight: [48.4]
     height: [1.6]
   Gallade:

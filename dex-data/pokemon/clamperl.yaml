@@ -12,6 +12,7 @@ pokemon:
     - [35, 64, 85, 74, 55, 32]
     tags:
     - [nfe]
+    - dp: [nu]
     weight: [52.5]
     height: [0.4]
   Huntail:
@@ -42,6 +43,7 @@ pokemon:
     - [55, 84, 105, 114, 75, 52]
     tags:
     - [uu]
+    - dp: [nu]
     weight: [22.6]
     height: [1.8]
 evolutions:

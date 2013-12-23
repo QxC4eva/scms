@@ -12,6 +12,7 @@ pokemon:
     - [50, 85, 40, 85, 40, 35]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [51.3]
     height: [0.4]
   Cacturne:
@@ -27,6 +28,7 @@ pokemon:
     - [70, 115, 60, 115, 60, 55]
     tags:
     - [uu]
+    - dp: [nu]
     weight: [77.4]
     height: [1.3]
 evolutions:

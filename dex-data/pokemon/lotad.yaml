@@ -12,6 +12,7 @@ pokemon:
     - [40, 30, 30, 40, 50, 30]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [2.6]
     height: [0.5]
   Lombre:
@@ -42,6 +43,7 @@ pokemon:
     - [80, 70, 70, 90, 100, 70]
     tags:
     - [bl]
+    - dp: [uu]
     weight: [55]
     height: [1.5]
 evolutions:

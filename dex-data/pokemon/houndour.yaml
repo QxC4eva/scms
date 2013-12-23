@@ -12,6 +12,7 @@ pokemon:
     - [45, 60, 30, 80, 50, 65]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [10.8]
     height: [0.6]
   Houndoom:
@@ -27,6 +28,7 @@ pokemon:
     - [75, 90, 50, 110, 80, 95]
     tags:
     - [bl]
+    - dp: [uu]
     weight: [35]
     height: [1.4]
 evolutions:

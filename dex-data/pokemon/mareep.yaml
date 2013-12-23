@@ -12,6 +12,7 @@ pokemon:
     - [55, 40, 40, 65, 45, 35]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [7.8]
     height: [0.6]
   Flaaffy:
@@ -42,6 +43,7 @@ pokemon:
     - [90, 75, 75, 115, 90, 55]
     tags:
     - [bl]
+    - dp: [nu]
     - rs: [uu]
     weight: [61.5]
     height: [1.4]

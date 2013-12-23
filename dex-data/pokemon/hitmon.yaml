@@ -13,6 +13,7 @@ pokemon:
     - [35, 35, 35, 35, 35, 35]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [21]
     height: [0.7]
   Hitmonchan:
@@ -30,6 +31,7 @@ pokemon:
     - gs: [50, 105, 79, 35, 110, 76]
     tags:
     - [uu]
+    - dp: [nu]
     weight: [50.2]
     height: [1.4]
   Hitmonlee:

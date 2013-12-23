@@ -12,6 +12,7 @@ pokemon:
     - [72, 60, 30, 20, 30, 25]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [86.4]
     height: [1]
   Hariyama:
@@ -27,6 +28,7 @@ pokemon:
     - [144, 120, 60, 40, 60, 50]
     tags:
     - [bl]
+    - dp: [uu]
     weight: [253.8]
     height: [2.3]
 evolutions:

@@ -12,6 +12,7 @@ pokemon:
     - [40, 45, 35, 65, 55, 70]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [5]
     height: [0.5]
   Grovyle:
@@ -42,6 +43,7 @@ pokemon:
     - [70, 85, 65, 105, 85, 120]
     tags:
     - [bl]
+    - dp: [uu]
     weight: [52.2]
     height: [1.7]
 evolutions:

@@ -12,6 +12,7 @@ pokemon:
     - [45, 90, 20, 65, 20, 65]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [20.8]
     height: [0.8]
   Sharpedo:
@@ -27,6 +28,7 @@ pokemon:
     - [70, 120, 40, 95, 40, 95]
     tags:
     - [uu]
+    - dp: [nu]
     weight: [88.8]
     height: [1.8]
 evolutions:

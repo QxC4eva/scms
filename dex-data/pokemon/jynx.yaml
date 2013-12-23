@@ -13,6 +13,7 @@ pokemon:
     - [45, 30, 15, 85, 65, 65]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [6]
     height: [0.4]
   Jynx:
@@ -30,6 +31,7 @@ pokemon:
     - gs: [65, 50, 35, 115, 95, 95]
     tags:
     - [ou]
+    - dp: [nu]
     - gs: [bl]
     weight: [40.6]
     height: [1.4]

@@ -12,6 +12,7 @@ pokemon:
     - [38, 30, 41, 30, 41, 60]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [17.5]
     height: [0.4]
   Linoone:
@@ -28,6 +29,7 @@ pokemon:
     - [78, 70, 61, 50, 61, 100]
     tags:
     - [uu]
+    - dp: [nu]
     weight: [32.5]
     height: [0.5]
 evolutions:

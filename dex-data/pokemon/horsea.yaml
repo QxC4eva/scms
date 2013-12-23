@@ -14,6 +14,7 @@ pokemon:
     - gs: [30, 40, 70, 70, 25, 60]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [8]
     height: [0.4]
   Seadra:
@@ -48,6 +49,7 @@ pokemon:
     - [75, 95, 95, 95, 95, 85]
     tags:
     - [bl]
+    - dp: [ou]
     weight: [152]
     height: [1.8]
 evolutions:

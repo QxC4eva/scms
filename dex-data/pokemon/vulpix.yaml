@@ -13,6 +13,7 @@ pokemon:
     - gs: [38, 41, 40, 50, 65, 65]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [9.9]
     height: [0.6]
   Ninetales:
@@ -29,6 +30,7 @@ pokemon:
     - gs: [73, 76, 75, 81, 100, 100]
     tags:
     - [uu]
+    - dp: [nu]
     weight: [19.9]
     height: [1.1]
 evolutions:

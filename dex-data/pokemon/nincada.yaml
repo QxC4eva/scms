@@ -12,6 +12,7 @@ pokemon:
     - [31, 45, 90, 30, 30, 40]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [5.5]
     height: [0.5]
   Ninjask:
@@ -27,6 +28,7 @@ pokemon:
     - [61, 90, 45, 50, 50, 160]
     tags:
     - [bl]
+    - dp: [ou]
     weight: [12]
     height: [0.8]
   Shedinja:
@@ -42,6 +44,7 @@ pokemon:
     - [1, 90, 45, 30, 30, 40]
     tags:
     - [uu]
+    - dp: [nu]
     weight: [1.2]
     height: [0.8]
 evolutions:

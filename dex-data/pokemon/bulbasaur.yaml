@@ -13,8 +13,10 @@ pokemon:
     - gs: [45, 49, 49, 65, 65, 45]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [6.9]
     height: [0.7]
+    - dp: [uu]
   Venusaur:
     introduction: rb
     types:

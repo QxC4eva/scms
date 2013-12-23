@@ -13,6 +13,7 @@ pokemon:
     - gs: [25, 20, 15, 105, 55, 90]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [19.5]
     height: [0.9]
   Kadabra:
@@ -29,6 +30,7 @@ pokemon:
     - gs: [40, 35, 30, 120, 70, 105]
     tags:
     - [nfe]
+    - dp: [nfe]
     - rs: [bl]
     weight: [56.5]
     height: [1.3]
@@ -46,6 +48,7 @@ pokemon:
     - gs: [55, 50, 45, 135, 85, 120]
     tags:
     - [ou]
+    - dp: [uu]
     - gs: [bl]
     weight: [48]
     height: [1.5]

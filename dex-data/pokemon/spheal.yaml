@@ -13,6 +13,7 @@ pokemon:
     - [70, 40, 50, 55, 50, 25]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [39.5]
     height: [0.8]
   Sealeo:
@@ -45,6 +46,7 @@ pokemon:
     - [110, 80, 90, 95, 90, 65]
     tags:
     - [uu]
+    - dp: [nu]
     weight: [150.6]
     height: [1.4]
 evolutions:

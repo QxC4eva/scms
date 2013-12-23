@@ -13,6 +13,7 @@ pokemon:
     - gs: [55, 70, 45, 70, 50, 60]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [19]
     height: [0.7]
   Arcanine:
@@ -29,6 +30,7 @@ pokemon:
     - gs: [90, 110, 80, 100, 80, 95]
     tags:
     - [uu]
+    - dp: [uu]
     - rs: [bl]
     weight: [155]
     height: [1.9]

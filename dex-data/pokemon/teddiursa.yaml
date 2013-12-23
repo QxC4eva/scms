@@ -13,6 +13,7 @@ pokemon:
     - [60, 80, 50, 50, 50, 40]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [8.8]
     height: [0.6]
   Ursaring:
@@ -29,6 +30,7 @@ pokemon:
     - [90, 130, 75, 75, 75, 55]
     tags:
     - [bl]
+    - dp: [uu]
     weight: [125.8]
     height: [1.8]
 evolutions:

@@ -13,6 +13,7 @@ pokemon:
     - gs: [80, 80, 50, 40, 50, 25]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [30]
     height: [0.9]
   Muk:
@@ -29,6 +30,7 @@ pokemon:
     - gs: [105, 105, 75, 65, 100, 50]
     tags:
     - []
+    - dp: [nu]
     - rs: [uu]
     - gs: [bl]
     weight: [30]

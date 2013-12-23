@@ -13,6 +13,7 @@ pokemon:
     - gs: [40, 30, 50, 55, 55, 100]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [10.4]
     height: [0.5]
   Electrode:
@@ -29,6 +30,7 @@ pokemon:
     - gs: [60, 50, 70, 80, 80, 140]
     tags:
     - [uu]
+    - dp: [nu]
     weight: [66.6]
     height: [1.2]
 evolutions:

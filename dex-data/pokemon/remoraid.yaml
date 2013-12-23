@@ -13,6 +13,7 @@ pokemon:
     - [35, 65, 35, 65, 35, 65]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [12]
     height: [0.6]
   Octillery:
@@ -29,6 +30,7 @@ pokemon:
     - [75, 105, 75, 105, 75, 45]
     tags:
     - [uu]
+    - dp: [nu]
     weight: [28.5]
     height: [0.9]
 evolutions:

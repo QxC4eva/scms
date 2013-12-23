@@ -13,6 +13,7 @@ pokemon:
     - gs: [50, 50, 95, 40, 50, 35]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [6.5]
     height: [0.4]
   Marowak:
@@ -29,6 +30,7 @@ pokemon:
     - gs: [60, 80, 110, 50, 80, 45]
     tags:
     - [uu]
+    - dp: [nu]
     - rs: [bl]
     - gs: [ou]
     weight: [45]

@@ -13,8 +13,10 @@ pokemon:
     - gs: [39, 52, 43, 60, 50, 65]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [8.5]
     height: [0.6]
+    - dp: [nu]
   Charmeleon:
     introduction: rb
     types:

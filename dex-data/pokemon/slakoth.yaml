@@ -11,6 +11,7 @@ pokemon:
     - [60, 60, 60, 35, 35, 30]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [24]
     height: [0.8]
   Vigoroth:
@@ -26,6 +27,7 @@ pokemon:
     - [80, 80, 80, 55, 55, 90]
     tags:
     - [nfe]
+    - dp: [nu]
     weight: [46.5]
     height: [1.4]
   Slaking:
@@ -40,6 +42,7 @@ pokemon:
     - [150, 160, 100, 95, 65, 100]
     tags:
     - [bl]
+    - dp: [nu]
     weight: [130.5]
     height: [2]
 evolutions:

@@ -12,6 +12,7 @@ pokemon:
     - [45, 60, 40, 70, 50, 45]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [2.5]
     height: [0.4]
   Combusken:
@@ -42,6 +43,7 @@ pokemon:
     - [80, 120, 70, 110, 70, 80]
     tags:
     - [bl]
+    - dp: [uu]
     weight: [52]
     height: [1.9]
 evolutions:

@@ -12,6 +12,7 @@ pokemon:
     - [60, 25, 35, 70, 80, 60]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [30.6]
     height: [0.7]
   Grumpig:
@@ -27,6 +28,7 @@ pokemon:
     - [80, 45, 65, 90, 110, 80]
     tags:
     - [uu]
+    - dp: [nu]
     weight: [71.5]
     height: [0.9]
 evolutions:

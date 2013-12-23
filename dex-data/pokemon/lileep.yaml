@@ -12,6 +12,7 @@ pokemon:
     - [66, 41, 77, 61, 87, 23]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [23.8]
     height: [1]
   Cradily:
@@ -27,6 +28,7 @@ pokemon:
     - [86, 81, 97, 81, 107, 43]
     tags:
     - [uu]
+    - dp: [nu]
     weight: [60.4]
     height: [1.5]
 evolutions:

@@ -12,6 +12,7 @@ pokemon:
     - [45, 49, 65, 49, 65, 45]
     tags:
     - [nfe]
+    - dp: [lc]
     weight: [6.4]
     height: [0.9]
   Bayleef:
@@ -42,6 +43,7 @@ pokemon:
     - [80, 82, 100, 83, 100, 80]
     tags:
     - [bl]
+    - dp: [nu]
     - rs: [uu]
     weight: [100.5]
     height: [1.8]

@@ -76,7 +76,7 @@ pokemon:
     stats:
     - [65, 65, 60, 130, 95, 110]
     tags:
-    - []
+    - [bl]
     weight: [26.5]
     height: [0.9]
   Umbreon:
@@ -91,7 +91,7 @@ pokemon:
     stats:
     - [95, 65, 110, 60, 130, 65]
     tags:
-    - []
+    - [ou]
     weight: [27]
     height: [1]
   Leafeon:

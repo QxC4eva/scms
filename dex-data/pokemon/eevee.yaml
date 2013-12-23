@@ -46,6 +46,7 @@ pokemon:
     - gs: [65, 65, 60, 110, 95, 130]
     tags:
     - [uu]
+    - gs: [ou]
     weight: [24.5]
     height: [0.8]
   Vaporeon:
@@ -62,6 +63,7 @@ pokemon:
     - gs: [130, 65, 60, 110, 95, 65]
     tags:
     - [uu]
+    - gs: [ou]
     weight: [29]
     height: [1]
   Espeon:

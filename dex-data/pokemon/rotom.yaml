@@ -11,6 +11,7 @@ pokemon:
     - [50, 50, 77, 95, 77, 91]
     tags:
     - [uu]
+    - bw: [ru]
     weight: [0.3]
     height: [0.3]
   Rotom-Fan:
@@ -26,6 +27,7 @@ pokemon:
     - [50, 65, 107, 105, 107, 86]
     tags:
     - [ou]
+    - bw: [Fan]
     weight: [0.3]
     height: [0.3]
   Rotom-Frost:
@@ -41,6 +43,7 @@ pokemon:
     - [50, 65, 107, 105, 107, 86]
     tags:
     - [ou]
+    - bw: [Frost]
     weight: [0.3]
     height: [0.3]
   Rotom-Heat:
@@ -56,6 +59,7 @@ pokemon:
     - [50, 65, 107, 105, 107, 86]
     tags:
     - [ou]
+    - bw: [Heat]
     weight: [0.3]
     height: [0.3]
   Rotom-Mow:
@@ -71,6 +75,7 @@ pokemon:
     - [50, 65, 107, 105, 107, 86]
     tags:
     - [ou]
+    - bw: [Mow]
     weight: [0.3]
     height: [0.3]
   Rotom-Wash:

@@ -28,6 +28,7 @@ pokemon:
     - [60, 90, 140, 50, 50, 40]
     tags:
     - [nfe]
+    - bw: [nu]
     weight: [120]
     height: [0.9]
   Aggron:
@@ -43,6 +44,7 @@ pokemon:
     - [70, 110, 180, 60, 60, 50]
     tags:
     - [uu]
+    - bw: [ru]
     weight: [360]
     height: [2.1]
 evolutions:

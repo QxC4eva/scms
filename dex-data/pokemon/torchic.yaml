@@ -28,6 +28,7 @@ pokemon:
     - [60, 85, 60, 85, 60, 55]
     tags:
     - [nfe]
+    - bw: [nu]
     weight: [19.5]
     height: [0.9]
   Blaziken:
@@ -43,6 +44,7 @@ pokemon:
     - [80, 120, 70, 110, 70, 80]
     tags:
     - [bl]
+    - bw: [uber]
     - dp: [uu]
     weight: [52]
     height: [1.9]

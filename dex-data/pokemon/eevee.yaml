@@ -83,6 +83,7 @@ pokemon:
     - [65, 65, 60, 130, 95, 110]
     tags:
     - [bl]
+    - bw: [ou]
     - dp: [nu]
     weight: [26.5]
     height: [0.9]
@@ -99,6 +100,7 @@ pokemon:
     - [95, 65, 110, 60, 130, 65]
     tags:
     - [ou]
+    - bw: [uu]
     - dp: [ou]
     - rs: [bl]
     weight: [27]
@@ -115,6 +117,7 @@ pokemon:
     - [65, 110, 130, 60, 65, 95]
     tags:
     - [uu]
+    - bw: [nu]
     weight: [25.5]
     height: [1]
   Glaceon:

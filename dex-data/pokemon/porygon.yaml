@@ -31,6 +31,7 @@ pokemon:
     - [85, 80, 90, 105, 95, 60]
     tags:
     - [ou]
+    - bw: [uu]
     - dp: [nu]
     weight: [32.5]
     height: [0.6]
@@ -47,6 +48,7 @@ pokemon:
     - [85, 80, 70, 135, 75, 90]
     tags:
     - [bl]
+    - bw: [Z]
     weight: [34]
     height: [0.9]
 evolutions:

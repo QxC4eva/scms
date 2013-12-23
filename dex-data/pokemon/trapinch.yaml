@@ -12,6 +12,7 @@ pokemon:
     - [45, 100, 45, 45, 45, 10]
     tags:
     - [nu]
+    - bw: [lc]
     weight: [15]
     height: [0.7]
   Vibrava:
@@ -42,6 +43,7 @@ pokemon:
     - [80, 100, 80, 80, 80, 100]
     tags:
     - [ou]
+    - bw: [uu]
     weight: [82]
     height: [2]
 evolutions:

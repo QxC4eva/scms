@@ -11,6 +11,7 @@ pokemon:
     - [60, 62, 50, 62, 60, 40]
     tags:
     - [nu]
+    - bw: [lc]
     weight: [50.5]
     height: [1]
   Abomasnow:
@@ -25,6 +26,7 @@ pokemon:
     - [90, 92, 75, 92, 85, 60]
     tags:
     - [bl]
+    - bw: [uu]
     weight: [135.5]
     height: [2.2]
 evolutions:

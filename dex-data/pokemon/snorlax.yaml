@@ -11,6 +11,7 @@ pokemon:
     - [135, 85, 40, 40, 85, 5]
     tags:
     - [lc]
+    - bw: [nu]
     weight: [105]
     height: [0.6]
   Snorlax:
@@ -27,6 +28,7 @@ pokemon:
     - gs: [160, 110, 65, 65, 110, 30]
     tags:
     - [ou]
+    - bw: [uu]
     weight: [460]
     height: [2.1]
 evolutions:

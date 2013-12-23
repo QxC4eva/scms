@@ -12,6 +12,7 @@ pokemon:
     - [95, 23, 48, 23, 48, 23]
     tags:
     - [uber]
+    - bw: [lc]
     weight: [14]
     height: [0.6]
   Wobbuffet:
@@ -27,6 +28,7 @@ pokemon:
     - [190, 33, 58, 33, 58, 33]
     tags:
     - [uu]
+    - bw: [bl]
     - rs: [uber]
     weight: [28.5]
     height: [1.3]

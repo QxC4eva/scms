@@ -11,7 +11,7 @@ pokemon:
     stats:
     - [20, 15, 20, 10, 55, 80]
     tags:
-    - []
+    - [nfe]
     weight: [7.4]
     height: [0.6]
   Milotic:
@@ -26,7 +26,7 @@ pokemon:
     stats:
     - [95, 60, 79, 100, 125, 81]
     tags:
-    - []
+    - [ou]
     weight: [162]
     height: [6.2]
 evolutions:

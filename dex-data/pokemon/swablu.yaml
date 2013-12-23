@@ -11,7 +11,7 @@ pokemon:
     stats:
     - [45, 40, 60, 40, 75, 50]
     tags:
-    - []
+    - [nfe]
     weight: [1.2]
     height: [0.4]
   Altaria:
@@ -26,7 +26,7 @@ pokemon:
     stats:
     - [75, 70, 90, 70, 105, 80]
     tags:
-    - []
+    - [uu]
     weight: [20.6]
     height: [1.1]
 evolutions:

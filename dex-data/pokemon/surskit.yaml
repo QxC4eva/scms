@@ -11,7 +11,7 @@ pokemon:
     stats:
     - [40, 30, 32, 50, 52, 65]
     tags:
-    - []
+    - [nfe]
     weight: [1.7]
     height: [0.5]
   Masquerain:
@@ -26,7 +26,7 @@ pokemon:
     stats:
     - [70, 60, 62, 80, 82, 60]
     tags:
-    - []
+    - [nu]
     weight: [3.6]
     height: [0.8]
 evolutions:

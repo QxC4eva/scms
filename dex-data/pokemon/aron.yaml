@@ -11,7 +11,7 @@ pokemon:
     stats:
     - [50, 70, 100, 40, 40, 30]
     tags:
-    - []
+    - [nfe]
     weight: [60]
     height: [0.4]
   Lairon:
@@ -26,7 +26,7 @@ pokemon:
     stats:
     - [60, 90, 140, 50, 50, 40]
     tags:
-    - []
+    - [nfe]
     weight: [120]
     height: [0.9]
   Aggron:
@@ -41,7 +41,7 @@ pokemon:
     stats:
     - [70, 110, 180, 60, 60, 50]
     tags:
-    - []
+    - [uu]
     weight: [360]
     height: [2.1]
 evolutions:

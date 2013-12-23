@@ -11,7 +11,7 @@ pokemon:
     stats:
     - [40, 45, 35, 65, 55, 70]
     tags:
-    - []
+    - [nfe]
     weight: [5]
     height: [0.5]
   Grovyle:
@@ -26,7 +26,7 @@ pokemon:
     stats:
     - [50, 65, 45, 85, 65, 95]
     tags:
-    - []
+    - [nfe]
     weight: [21.6]
     height: [0.9]
   Sceptile:
@@ -41,7 +41,7 @@ pokemon:
     stats:
     - [70, 85, 65, 105, 85, 120]
     tags:
-    - []
+    - [bl]
     weight: [52.2]
     height: [1.7]
 evolutions:

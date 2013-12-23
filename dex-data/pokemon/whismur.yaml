@@ -11,7 +11,7 @@ pokemon:
     stats:
     - [64, 51, 23, 51, 23, 28]
     tags:
-    - []
+    - [nfe]
     weight: [16.3]
     height: [0.6]
   Loudred:
@@ -26,7 +26,7 @@ pokemon:
     stats:
     - [84, 71, 43, 71, 43, 48]
     tags:
-    - []
+    - [nfe]
     weight: [40.5]
     height: [1]
   Exploud:
@@ -41,7 +41,7 @@ pokemon:
     stats:
     - [104, 91, 63, 91, 63, 68]
     tags:
-    - []
+    - [uu]
     weight: [84]
     height: [1.5]
 evolutions:

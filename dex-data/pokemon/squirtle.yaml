@@ -12,7 +12,7 @@ pokemon:
     - [44, 48, 65, 50, 50, 43]
     - gs: [44, 48, 65, 50, 64, 43]
     tags:
-    - []
+    - [nfe]
     weight: [9]
     height: [0.5]
   Wartortle:
@@ -28,7 +28,7 @@ pokemon:
     - [59, 63, 80, 65, 65, 58]
     - gs: [59, 63, 80, 65, 80, 58]
     tags:
-    - []
+    - [nfe]
     weight: [22.5]
     height: [1]
   Blastoise:
@@ -44,7 +44,7 @@ pokemon:
     - [79, 83, 100, 85, 85, 78]
     - gs: [79, 83, 100, 85, 105, 78]
     tags:
-    - []
+    - [uu]
     weight: [85.5]
     height: [1.6]
 evolutions:

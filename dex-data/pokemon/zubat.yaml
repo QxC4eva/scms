@@ -12,7 +12,7 @@ pokemon:
     - [40, 45, 35, 40, 40, 55]
     - gs: [40, 45, 35, 30, 40, 55]
     tags:
-    - []
+    - [nfe]
     weight: [7.5]
     height: [0.8]
   Golbat:
@@ -28,7 +28,7 @@ pokemon:
     - [75, 80, 70, 75, 75, 90]
     - gs: [75, 80, 70, 65, 75, 90]
     tags:
-    - []
+    - [uu]
     weight: [55]
     height: [1.6]
   Crobat:

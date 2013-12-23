@@ -12,7 +12,7 @@ pokemon:
     - [41, 64, 45, 50, 50, 50]
     - gs: [41, 64, 45, 50, 50, 50]
     tags:
-    - []
+    - [nfe]
     weight: [3.3]
     height: [1.8]
   Dragonair:
@@ -28,7 +28,7 @@ pokemon:
     - [61, 84, 65, 70, 70, 70]
     - gs: [61, 84, 65, 70, 70, 70]
     tags:
-    - []
+    - [nfe]
     weight: [16.5]
     height: [4]
   Dragonite:
@@ -44,7 +44,7 @@ pokemon:
     - [91, 134, 95, 100, 100, 80]
     - gs: [91, 134, 95, 100, 100, 80]
     tags:
-    - []
+    - [ou]
     weight: [210]
     height: [2.2]
 evolutions:

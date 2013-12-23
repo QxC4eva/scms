@@ -12,7 +12,7 @@ pokemon:
     - [30, 45, 55, 70, 70, 85]
     - gs: [30, 45, 55, 70, 55, 85]
     tags:
-    - []
+    - [nfe]
     weight: [34.5]
     height: [0.8]
   Starmie:
@@ -28,7 +28,7 @@ pokemon:
     - [60, 75, 85, 100, 100, 115]
     - gs: [60, 75, 85, 100, 85, 115]
     tags:
-    - []
+    - [ou]
     weight: [80]
     height: [1.1]
 evolutions:

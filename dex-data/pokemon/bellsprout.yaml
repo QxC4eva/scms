@@ -12,7 +12,7 @@ pokemon:
     - [50, 75, 35, 70, 70, 40]
     - gs: [50, 75, 35, 70, 30, 40]
     tags:
-    - []
+    - [nfe]
     weight: [4]
     height: [0.7]
   Weepinbell:
@@ -28,7 +28,7 @@ pokemon:
     - [65, 90, 50, 85, 85, 55]
     - gs: [65, 90, 50, 85, 45, 55]
     tags:
-    - []
+    - [nfe]
     weight: [6.4]
     height: [1]
   Victreebel:
@@ -44,7 +44,7 @@ pokemon:
     - [80, 105, 65, 100, 100, 70]
     - gs: [80, 105, 65, 100, 60, 70]
     tags:
-    - []
+    - [uu]
     weight: [15.5]
     height: [1.7]
 evolutions:

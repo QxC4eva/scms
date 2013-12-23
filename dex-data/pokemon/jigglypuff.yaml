@@ -27,7 +27,7 @@ pokemon:
     - [115, 45, 20, 25, 25, 20]
     - gs: [115, 45, 20, 45, 25, 20]
     tags:
-    - []
+    - [nfe]
     weight: [5.5]
     height: [0.5]
   Wigglytuff:
@@ -43,7 +43,7 @@ pokemon:
     - [140, 70, 45, 50, 50, 45]
     - gs: [140, 70, 45, 75, 50, 45]
     tags:
-    - []
+    - [uu]
     weight: [12]
     height: [1]
 evolutions:

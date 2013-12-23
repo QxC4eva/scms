@@ -12,7 +12,7 @@ pokemon:
     - [90, 65, 65, 40, 40, 15]
     - gs: [90, 65, 65, 40, 40, 15]
     tags:
-    - []
+    - [nfe]
     weight: [36]
     height: [1.2]
   Slowbro:
@@ -28,7 +28,7 @@ pokemon:
     - [95, 75, 110, 80, 80, 30]
     - gs: [95, 75, 110, 100, 80, 30]
     tags:
-    - []
+    - [ou]
     weight: [78.5]
     height: [1.6]
   Slowking:

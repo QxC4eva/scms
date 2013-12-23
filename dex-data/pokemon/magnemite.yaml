@@ -12,7 +12,7 @@ pokemon:
     - [25, 35, 70, 95, 95, 45]
     - gs: [25, 35, 70, 95, 55, 45]
     tags:
-    - []
+    - [nfe]
     weight: [6]
     height: [0.3]
   Magneton:
@@ -28,7 +28,7 @@ pokemon:
     - [50, 60, 95, 120, 120, 70]
     - gs: [50, 60, 95, 120, 70, 70]
     tags:
-    - []
+    - [uu]
     weight: [60]
     height: [1]
   Magnezone:

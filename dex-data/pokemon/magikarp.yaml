@@ -12,7 +12,7 @@ pokemon:
     - [20, 10, 55, 20, 20, 80]
     - gs: [20, 10, 55, 15, 20, 80]
     tags:
-    - []
+    - [nfe]
     weight: [10]
     height: [0.9]
   Gyarados:
@@ -28,7 +28,7 @@ pokemon:
     - [95, 125, 79, 100, 100, 81]
     - gs: [95, 125, 79, 60, 100, 81]
     tags:
-    - []
+    - [uu]
     weight: [235]
     height: [6.5]
 evolutions:

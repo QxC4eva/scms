@@ -12,7 +12,7 @@ pokemon:
     - [40, 65, 95, 60, 60, 35]
     - gs: [40, 65, 95, 60, 45, 35]
     tags:
-    - []
+    - [nfe]
     weight: [1]
     height: [0.6]
   Weezing:
@@ -28,7 +28,7 @@ pokemon:
     - [65, 90, 120, 85, 85, 60]
     - gs: [65, 90, 120, 85, 70, 60]
     tags:
-    - []
+    - [uu]
     weight: [9.5]
     height: [1.2]
 evolutions:

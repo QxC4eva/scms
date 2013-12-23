@@ -12,7 +12,7 @@ pokemon:
     - [50, 52, 48, 50, 50, 55]
     - gs: [50, 52, 48, 65, 50, 55]
     tags:
-    - []
+    - [nfe]
     weight: [19.6]
     height: [0.8]
   Golduck:
@@ -28,7 +28,7 @@ pokemon:
     - [80, 82, 78, 80, 80, 85]
     - gs: [80, 82, 78, 95, 80, 85]
     tags:
-    - []
+    - [uu]
     weight: [76.6]
     height: [1.7]
 evolutions:

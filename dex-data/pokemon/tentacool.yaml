@@ -12,7 +12,7 @@ pokemon:
     - [40, 40, 35, 100, 100, 70]
     - gs: [40, 40, 35, 50, 100, 70]
     tags:
-    - []
+    - [nfe]
     weight: [45.5]
     height: [0.9]
   Tentacruel:
@@ -28,7 +28,7 @@ pokemon:
     - [80, 70, 65, 120, 120, 100]
     - gs: [80, 70, 65, 80, 120, 100]
     tags:
-    - []
+    - [uu]
     weight: [55]
     height: [1.6]
 evolutions:

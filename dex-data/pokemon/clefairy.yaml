@@ -29,7 +29,7 @@ pokemon:
     - [70, 45, 48, 60, 60, 35]
     - gs: [70, 45, 48, 60, 65, 35]
     tags:
-    - []
+    - [nfe]
     weight: [7.5]
     height: [0.6]
   Clefable:
@@ -46,7 +46,7 @@ pokemon:
     - [95, 70, 73, 85, 85, 60]
     - gs: [95, 70, 73, 85, 90, 60]
     tags:
-    - []
+    - [uu]
     weight: [40]
     height: [1.3]
 evolutions:

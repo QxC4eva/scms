@@ -12,7 +12,7 @@ pokemon:
     - [40, 50, 40, 40, 40, 90]
     - gs: [40, 50, 40, 40, 40, 90]
     tags:
-    - []
+    - [nfe]
     weight: [12.4]
     height: [0.6]
   Poliwhirl:
@@ -28,7 +28,7 @@ pokemon:
     - [65, 65, 65, 50, 50, 90]
     - gs: [65, 65, 65, 50, 50, 90]
     tags:
-    - []
+    - [nfe]
     weight: [20]
     height: [1]
   Poliwrath:

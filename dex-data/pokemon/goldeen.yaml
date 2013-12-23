@@ -12,7 +12,7 @@ pokemon:
     - [45, 67, 60, 50, 50, 63]
     - gs: [45, 67, 60, 35, 50, 63]
     tags:
-    - []
+    - [nfe]
     weight: [15]
     height: [0.6]
   Seaking:
@@ -28,7 +28,7 @@ pokemon:
     - [80, 92, 65, 80, 80, 68]
     - gs: [80, 92, 65, 65, 80, 68]
     tags:
-    - []
+    - [uu]
     weight: [39]
     height: [1.3]
 evolutions:

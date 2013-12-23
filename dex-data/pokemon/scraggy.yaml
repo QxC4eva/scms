@@ -10,7 +10,7 @@ pokemon:
     stats:
     - [50, 75, 70, 35, 70, 48]
     tags:
-    - []
+    - [lc]
     weight: [11.8]
     height: [0.6]
   Scrafty:
@@ -24,7 +24,7 @@ pokemon:
     stats:
     - [65, 90, 115, 45, 115, 58]
     tags:
-    - []
+    - [uu]
     weight: [30]
     height: [1.1]
 evolutions:

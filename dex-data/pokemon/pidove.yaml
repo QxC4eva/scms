@@ -10,7 +10,7 @@ pokemon:
     stats:
     - [50, 55, 50, 36, 30, 43]
     tags:
-    - []
+    - [lc]
     weight: [2.1]
     height: [0.3]
   Tranquill:
@@ -24,7 +24,7 @@ pokemon:
     stats:
     - [62, 77, 62, 50, 42, 65]
     tags:
-    - []
+    - [nfe]
     weight: [15]
     height: [0.6]
   Unfezant:
@@ -38,7 +38,7 @@ pokemon:
     stats:
     - [80, 105, 80, 65, 55, 93]
     tags:
-    - []
+    - [nu]
     weight: [29]
     height: [1.2]
 evolutions:

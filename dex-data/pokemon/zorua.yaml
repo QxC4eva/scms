@@ -10,7 +10,7 @@ pokemon:
     stats:
     - [40, 65, 40, 80, 40, 65]
     tags:
-    - []
+    - [lc]
     weight: [12.5]
     height: [0.7]
   Zoroark:
@@ -24,7 +24,7 @@ pokemon:
     stats:
     - [60, 105, 60, 120, 60, 105]
     tags:
-    - []
+    - [uu]
     weight: [81.1]
     height: [1.6]
 evolutions:

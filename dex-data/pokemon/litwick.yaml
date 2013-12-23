@@ -10,7 +10,7 @@ pokemon:
     stats:
     - [50, 30, 55, 65, 55, 20]
     tags:
-    - []
+    - [lc]
     weight: [3.1]
     height: [0.3]
   Lampent:
@@ -24,7 +24,7 @@ pokemon:
     stats:
     - [60, 40, 60, 95, 60, 55]
     tags:
-    - []
+    - [nu]
     weight: [13]
     height: [0.6]
   Chandelure:
@@ -38,7 +38,7 @@ pokemon:
     stats:
     - [60, 55, 90, 145, 90, 80]
     tags:
-    - []
+    - [uu]
     weight: [34.3]
     height: [1]
 evolutions:

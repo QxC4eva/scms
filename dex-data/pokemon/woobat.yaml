@@ -10,7 +10,7 @@ pokemon:
     stats:
     - [55, 45, 43, 55, 43, 72]
     tags:
-    - []
+    - [lc]
     weight: [2.1]
     height: [0.4]
   Swoobat:
@@ -24,7 +24,7 @@ pokemon:
     stats:
     - [67, 57, 55, 77, 55, 114]
     tags:
-    - []
+    - [nu]
     weight: [10.5]
     height: [0.9]
 evolutions:

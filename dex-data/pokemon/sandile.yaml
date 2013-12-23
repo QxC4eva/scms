@@ -10,7 +10,7 @@ pokemon:
     stats:
     - [50, 72, 35, 35, 35, 65]
     tags:
-    - []
+    - [lc]
     weight: [15.2]
     height: [0.7]
   Krokorok:
@@ -24,7 +24,7 @@ pokemon:
     stats:
     - [60, 82, 45, 45, 45, 74]
     tags:
-    - []
+    - [nfe]
     weight: [33.4]
     height: [1]
   Krookodile:
@@ -38,7 +38,7 @@ pokemon:
     stats:
     - [95, 117, 70, 65, 70, 92]
     tags:
-    - []
+    - [uu]
     weight: [96.3]
     height: [1.5]
 evolutions:

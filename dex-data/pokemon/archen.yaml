@@ -10,7 +10,7 @@ pokemon:
     stats:
     - [55, 112, 45, 74, 45, 70]
     tags:
-    - []
+    - [lc]
     weight: [9.5]
     height: [0.5]
   Archeops:
@@ -24,7 +24,7 @@ pokemon:
     stats:
     - [75, 140, 65, 112, 65, 110]
     tags:
-    - []
+    - [ru]
     weight: [32]
     height: [1.4]
 evolutions:

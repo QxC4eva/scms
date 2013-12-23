@@ -10,7 +10,7 @@ pokemon:
     stats:
     - [65, 63, 45, 45, 45, 45]
     tags:
-    - []
+    - [lc]
     weight: [9.9]
     height: [0.5]
   Pignite:
@@ -24,7 +24,7 @@ pokemon:
     stats:
     - [90, 93, 55, 70, 55, 55]
     tags:
-    - []
+    - [nfe]
     weight: [55.5]
     height: [1]
   Emboar:
@@ -38,7 +38,7 @@ pokemon:
     stats:
     - [110, 123, 65, 100, 65, 65]
     tags:
-    - []
+    - [ru]
     weight: [150]
     height: [1.6]
 evolutions:

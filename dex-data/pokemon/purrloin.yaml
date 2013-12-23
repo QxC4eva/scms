@@ -10,7 +10,7 @@ pokemon:
     stats:
     - [41, 50, 37, 50, 37, 66]
     tags:
-    - []
+    - [lc]
     weight: [10.1]
     height: [0.4]
   Liepard:
@@ -24,7 +24,7 @@ pokemon:
     stats:
     - [64, 88, 50, 88, 50, 106]
     tags:
-    - []
+    - [nu]
     weight: [37.5]
     height: [1.1]
 evolutions:

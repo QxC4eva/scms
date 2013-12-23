@@ -10,7 +10,7 @@ pokemon:
     stats:
     - [70, 90, 45, 15, 45, 50]
     tags:
-    - []
+    - [lc]
     weight: [37.5]
     height: [0.6]
   Darmanitan:
@@ -24,7 +24,7 @@ pokemon:
     stats:
     - [105, 140, 55, 30, 55, 95]
     tags:
-    - []
+    - [uu]
     weight: [92.9]
     height: [1.3]
 evolutions:

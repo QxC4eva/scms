@@ -10,7 +10,7 @@ pokemon:
     stats:
     - [55, 70, 40, 60, 40, 40]
     tags:
-    - []
+    - [lc]
     weight: [8.5]
     height: [0.5]
   Beartic:
@@ -24,7 +24,7 @@ pokemon:
     stats:
     - [95, 110, 80, 70, 80, 50]
     tags:
-    - []
+    - [nu]
     weight: [260]
     height: [2.6]
 evolutions:

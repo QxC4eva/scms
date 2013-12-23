@@ -10,7 +10,7 @@ pokemon:
     stats:
     - [45, 45, 55, 45, 55, 63]
     tags:
-    - []
+    - [lc]
     weight: [8.1]
     height: [0.6]
   Servine:
@@ -24,7 +24,7 @@ pokemon:
     stats:
     - [60, 60, 75, 60, 75, 83]
     tags:
-    - []
+    - [nfe]
     weight: [16]
     height: [0.8]
   Serperior:
@@ -38,7 +38,7 @@ pokemon:
     stats:
     - [75, 75, 95, 75, 95, 113]
     tags:
-    - []
+    - [nu]
     weight: [63]
     height: [3.3]
 evolutions:

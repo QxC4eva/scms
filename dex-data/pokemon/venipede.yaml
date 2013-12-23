@@ -10,7 +10,7 @@ pokemon:
     stats:
     - [30, 45, 59, 30, 39, 57]
     tags:
-    - []
+    - [lc]
     weight: [5.3]
     height: [0.4]
   Whirlipede:
@@ -24,7 +24,7 @@ pokemon:
     stats:
     - [40, 55, 99, 40, 79, 47]
     tags:
-    - []
+    - [nfe]
     weight: [58.5]
     height: [1.2]
   Scolipede:
@@ -38,7 +38,7 @@ pokemon:
     stats:
     - [60, 90, 89, 55, 69, 112]
     tags:
-    - []
+    - [nu]
     weight: [200.5]
     height: [2.5]
 evolutions:

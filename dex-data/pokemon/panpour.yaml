@@ -10,7 +10,7 @@ pokemon:
     stats:
     - [50, 53, 48, 53, 48, 64]
     tags:
-    - []
+    - [lc]
     weight: [13.5]
     height: [0.6]
   Simipour:
@@ -24,7 +24,7 @@ pokemon:
     stats:
     - [75, 98, 63, 98, 63, 101]
     tags:
-    - []
+    - [nu]
     weight: [29]
     height: [1]
 evolutions:

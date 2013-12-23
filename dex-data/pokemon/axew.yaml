@@ -10,7 +10,7 @@ pokemon:
     stats:
     - [46, 87, 60, 30, 40, 57]
     tags:
-    - []
+    - [lc]
     weight: [18]
     height: [0.6]
   Fraxure:
@@ -24,7 +24,7 @@ pokemon:
     stats:
     - [66, 117, 70, 40, 50, 67]
     tags:
-    - []
+    - [nu]
     weight: [36]
     height: [1]
   Haxorus:
@@ -38,7 +38,7 @@ pokemon:
     stats:
     - [76, 147, 90, 60, 70, 97]
     tags:
-    - []
+    - [ou]
     weight: [105.5]
     height: [1.8]
 evolutions:

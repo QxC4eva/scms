@@ -10,7 +10,7 @@ pokemon:
     stats:
     - [40, 55, 70, 45, 60, 30]
     tags:
-    - []
+    - [lc]
     weight: [21]
     height: [0.3]
   Klang:
@@ -24,7 +24,7 @@ pokemon:
     stats:
     - [60, 80, 95, 70, 85, 50]
     tags:
-    - []
+    - [nu]
     weight: [51]
     height: [0.6]
   Klinklang:
@@ -38,7 +38,7 @@ pokemon:
     stats:
     - [60, 100, 115, 70, 85, 90]
     tags:
-    - []
+    - [ru]
     weight: [81]
     height: [0.6]
 evolutions:

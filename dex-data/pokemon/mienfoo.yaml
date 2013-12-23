@@ -10,7 +10,7 @@ pokemon:
     stats:
     - [45, 85, 50, 55, 50, 65]
     tags:
-    - []
+    - [lc]
     weight: [20]
     height: [0.9]
   Mienshao:
@@ -24,7 +24,7 @@ pokemon:
     stats:
     - [65, 125, 60, 95, 60, 105]
     tags:
-    - []
+    - [uu]
     weight: [35.5]
     height: [1.4]
 evolutions:

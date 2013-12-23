@@ -135,7 +135,14 @@ pokemon:
     - [nu]
     weight: [25.9]
     height: [0.8]
-evolutions: []
+evolutions:
+- {from: Eevee, to: Flareon}
+- {from: Eevee, to: Jolteon}
+- {from: Eevee, to: Vaporeon}
+- {from: Eevee, to: Glaceon}
+- {from: Eevee, to: Leafeon}
+- {from: Eevee, to: Umbreon}
+- {from: Eevee, to: Espeon}
 learnsets:
   rb:
     Eevee: [Bide, Bite, Body Slam, Double-Edge, Double Team, Focus Energy, Growl,

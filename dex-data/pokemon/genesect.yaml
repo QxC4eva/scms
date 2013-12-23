@@ -1,5 +1,14 @@
-pokemon: {}
-evolutions: []
+pokemon:
+  Genesect:
+    introduction: bw
+    types: [[Bug, Steel]]
+    egggroups: [[]]
+    abilities: [[Download]]
+    stats: [[71, 120, 95, 120, 95, 99]]
+    tags:
+    - uber
+    weight: [82.5]
+    height: [1.5]
 learnsets:
   bw:
     Genesect: [Aerial Ace, Blizzard, Bug Bite, Bug Buzz, Charge Beam, Dark Pulse,

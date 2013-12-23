@@ -1,5 +1,19 @@
-pokemon: {}
-evolutions: []
+pokemon:
+  Farfetch'd:
+    introduction: rb
+    types: [[Flying, Ground]]
+    egggroups: [[Flying, Ground]]
+    abilities:
+    - [Inner Focus, Keen Eye]
+    - bw: [Defiant, Inner Focus, Keen Eye]
+    stats:
+    - [52, 65, 55, 58, 58, 60]
+    - gs: [52, 65, 55, 58, 62, 60]
+    tags:
+    - [uu]
+    - rs: [nu]
+    weight: [15]
+    height: [0.8]
 learnsets:
   rb:
     Farfetchd: [Agility, Bide, Body Slam, Cut, Double-Edge, Double Team, Fly, Fury

@@ -1,5 +1,18 @@
-pokemon: {}
-evolutions: []
+pokemon:
+  Delibird:
+    introduction: gs
+    types: [[Flying, Ice]]
+    egggroups: [[Ground, Water-1]]
+    abilities:
+    - [Hustle, Vital Spirit]
+    - bw: [Hustle, Insomnia, Vital Spirit]
+    stats:
+    - [45, 55, 45, 65, 45, 75]
+    tags:
+    - [uu]
+    - rs: [nu]
+    weight: [16]
+    height: [0.9]
 learnsets:
   gs:
     Delibird: [Attract, Aurora Beam, Blizzard, Curse, Detect, Double Team, Endure,

@@ -1,5 +1,18 @@
-pokemon: {}
-evolutions: []
+pokemon:
+  Entei:
+    introduction: gs
+    types: [[Fire]]
+    egggroups: [[]]
+    abilities:
+    - [Pressure]
+    - bw: [Flash Fire, Pressure]
+    stats: [[115, 115, 85, 90, 75, 100]]
+    tags:
+    - [bl]
+    - rs: [bl]
+    - dp: [nu]
+    weight: [198]
+    height: [2.1]
 learnsets:
   gs:
     Entei: [Bite, Curse, Cut, Detect, Dig, Double Team, Ember, Endure, Fire Blast,

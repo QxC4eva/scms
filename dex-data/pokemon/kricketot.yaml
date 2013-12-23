@@ -10,7 +10,7 @@ pokemon:
     stats:
     - [37, 25, 41, 25, 41, 25]
     tags:
-    - []
+    - [lc]
     weight: [2.2]
     height: [0.3]
   Kricketune:
@@ -24,7 +24,7 @@ pokemon:
     stats:
     - [77, 85, 51, 55, 51, 65]
     tags:
-    - []
+    - [nu]
     weight: [25.5]
     height: [1]
 evolutions:

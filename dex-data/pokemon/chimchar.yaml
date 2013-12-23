@@ -10,7 +10,7 @@ pokemon:
     stats:
     - [44, 58, 44, 58, 44, 61]
     tags:
-    - []
+    - [lc]
     weight: [6.2]
     height: [0.5]
   Monferno:
@@ -24,7 +24,7 @@ pokemon:
     stats:
     - [64, 78, 52, 78, 52, 81]
     tags:
-    - []
+    - [nu]
     weight: [22]
     height: [0.9]
   Infernape:
@@ -38,7 +38,7 @@ pokemon:
     stats:
     - [76, 104, 71, 104, 71, 108]
     tags:
-    - []
+    - [ou]
     weight: [55]
     height: [1.2]
 evolutions:

@@ -10,7 +10,7 @@ pokemon:
     stats:
     - [90, 50, 34, 60, 44, 70]
     tags:
-    - []
+    - [lc]
     weight: [1.2]
     height: [0.4]
   Drifblim:
@@ -24,7 +24,7 @@ pokemon:
     stats:
     - [150, 80, 44, 90, 54, 80]
     tags:
-    - []
+    - [nu]
     weight: [15]
     height: [1.2]
 evolutions:

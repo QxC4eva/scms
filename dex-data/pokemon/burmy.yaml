@@ -10,7 +10,7 @@ pokemon:
     stats:
     - [40, 29, 45, 29, 45, 36]
     tags:
-    - []
+    - [lc]
     weight: [3.4]
     height: [0.2]
   Wormadam:
@@ -24,7 +24,7 @@ pokemon:
     stats:
     - [60, 59, 85, 79, 105, 36]
     tags:
-    - []
+    - [nu]
     weight: [6.5]
     height: [0.5]
   Wormadam-Sandy:
@@ -38,7 +38,7 @@ pokemon:
     stats:
     - [60, 79, 105, 59, 85, 36]
     tags:
-    - []
+    - [nu]
     weight: [6.5]
     height: [0.5]
   Wormadam-Trash:
@@ -52,7 +52,7 @@ pokemon:
     stats:
     - [60, 69, 95, 69, 95, 36]
     tags:
-    - []
+    - [nu]
     weight: [6.5]
     height: [0.5]
   Mothim:
@@ -66,7 +66,7 @@ pokemon:
     stats:
     - [70, 94, 50, 94, 50, 66]
     tags:
-    - []
+    - [nu]
     weight: [23.3]
     height: [0.9]
 evolutions:

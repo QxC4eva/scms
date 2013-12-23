@@ -10,7 +10,7 @@ pokemon:
     stats:
     - [55, 65, 35, 60, 30, 85]
     tags:
-    - []
+    - [lc]
     weight: [29.5]
     height: [0.7]
   Floatzel:
@@ -24,7 +24,7 @@ pokemon:
     stats:
     - [85, 105, 55, 85, 50, 115]
     tags:
-    - []
+    - [nu]
     weight: [33.5]
     height: [1.1]
 evolutions:

@@ -10,7 +10,7 @@ pokemon:
     stats:
     - [55, 68, 64, 45, 55, 31]
     tags:
-    - []
+    - [lc]
     weight: [10.2]
     height: [0.4]
   Grotle:
@@ -24,7 +24,7 @@ pokemon:
     stats:
     - [75, 89, 85, 55, 65, 36]
     tags:
-    - []
+    - [nfe]
     weight: [97]
     height: [1.1]
   Torterra:
@@ -38,7 +38,7 @@ pokemon:
     stats:
     - [95, 109, 105, 75, 85, 56]
     tags:
-    - []
+    - [uu]
     weight: [310]
     height: [2.2]
 evolutions:

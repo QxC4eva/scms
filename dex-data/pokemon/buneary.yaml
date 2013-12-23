@@ -10,7 +10,7 @@ pokemon:
     stats:
     - [55, 66, 44, 44, 56, 85]
     tags:
-    - []
+    - [lc]
     weight: [5.5]
     height: [0.4]
   Lopunny:
@@ -24,7 +24,7 @@ pokemon:
     stats:
     - [65, 76, 84, 54, 96, 105]
     tags:
-    - []
+    - [nu]
     weight: [33.3]
     height: [1.2]
 evolutions:

@@ -1,4 +1,6 @@
 
+# Official generations
+
 gens:
   rb:
     name: Red/Blue
@@ -12,6 +14,9 @@ gens:
     name: Black/White
   xy:
     name: X/Y
+    
+  cap4:
+    name: CAP 4
 
 gen_ordering:
   - {from: rb, to: gs}
@@ -19,3 +24,5 @@ gen_ordering:
   - {from: rs, to: dp}
   - {from: dp, to: bw}
   - {from: bw, to: xy}
+
+  - {from: dp, to: cap4}

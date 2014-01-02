@@ -4,18 +4,11 @@
 		[Head]
 		<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
 		<script type="text/javascript" src="http://dl.dropboxusercontent.com/u/18231634/Smogon/Smog/Other/Awards/handlebars-v1.2.0.js"></script>
-		<script type="text/javascript" src="http://dl.dropboxusercontent.com/u/18231634/Smogon/Smog/Other/Awards/smogawards.js"></script>
+		<script type="text/javascript" src="http://dl.dropboxusercontent.com/u/18231634/Smogon/Smog/Other/Awards/smogon-messager.js"></script>
 		<script type="text/javascript">
 			$(function(){
-				var template = document.getElementById('nomination-template');
-				var container = document.getElementById('nomination-form');
-				var submitButton = document.getElementById('submit-button');
-				Awards.init({
-					template: template,
-					container:container,
-					submitTo:'The Smog',
-					trigger:submitButton,
-					categories: [{ 
+				//edit stuff here
+				categories = [{ 
 						name:'Battling',
 						entries:[
 							'Best Ubers Battler',
@@ -123,8 +116,34 @@
 							'User Most Likely to Land a Helicopter',
 							'User Most Likely to Sell Smogon Out to Nintendo'
 						]}
-					]
+					];
+				//do not edit below here
+
+				//apply template
+				var template = Handlebars.compile($('#nomination-template').html());
+				$('#nomination-form').html(template(categories));
+
+				//ready messager
+				var message = new Message({to:'The Smog', title:'[No Reply] 2013 Smog Awards - R1', allowInvite:false, noReply:true});
+				message.init(function(){
+					//attach submit handler
+					$('#submit').click(function(){
+						var nominations = [];
+
+						$('#nomination-form input').each(function(){
+							var $this = $(this);
+							if($this.val().length > 0){
+								nominations.push({'for':$this.attr('data-for'), 'name':$this.val());
+							}
+						});
+
+						message.message = JSON.stringify(nominations);
+						message.send();
+					});
 				});
+
+				
+
 
 
 				$('#js-warning').hide();
@@ -134,7 +153,7 @@
 		[Page]
 		<div id="js-warning">This page requires JavaScript.</div>
 		<form id="nomination-form"></form>
-		<button id="submit-button">Submit</button>
+		<button id="submit"></button>
 		<script id="nomination-template" type="text/x-handlebars-template">
 			{{#each this}}
 			<fieldset class="section">

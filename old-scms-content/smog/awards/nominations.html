@@ -2,7 +2,17 @@
 		Awards Nomination Form
 
 		[Head]
-		<link href="http://dl.dropboxusercontent.com/u/18231634/Smogon/Smog/Other/Awards/nominations.css" rel="stylesheet" type="text/css"/>
+		<style type="text/css">
+			#nomination-form { max-width:512px; }
+			#nomination-form * { box-sizing:border-box; }
+			#nomination-form fieldset { padding:4px; }
+			#nomination-form legend { padding:4px; font-size:16px; }
+			#nomination-form label { display:block; padding-left:4px; font-size:11px; }
+			#nomination-form input { display:block; padding:4px 8px; width:100%; border-radius:3px; border:1px solid #CCC; }
+			#nomination-form div { padding:2px 8px; }
+			button { padding: 4px 8px; border-radius: 4px; border: 1px solid #848; background-color: #C8C; font-weight: bold; cursor: pointer; color: #fff; }
+			button:hover { background-color: #B7B; }
+		</style>
 		<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
 		<script type="text/javascript" src="http://dl.dropboxusercontent.com/u/18231634/Smogon/Smog/Other/Awards/handlebars-v1.2.0.js"></script>
 		<script type="text/javascript" src="http://dl.dropboxusercontent.com/u/18231634/Smogon/Smog/Other/Awards/smogon-messager.js"></script>
@@ -51,9 +61,9 @@
 							'Best Avatar',
 							'Best Signature',
 							'Best Custom Title',
-							'Member of the Year',
 							'Best Name Change',
-							'Worst Name Change'
+							'Worst Name Change',
+							'Member of the Year'
 						]},{
 						name:'Community',
 						entries:[

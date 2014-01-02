@@ -2,6 +2,7 @@
 		Awards Nomination Form
 
 		[Head]
+		<link href="http://dl.dropboxusercontent.com/u/18231634/Smogon/Smog/Other/Awards/nominations.css" rel="stylesheet" type="text/css"/>
 		<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
 		<script type="text/javascript" src="http://dl.dropboxusercontent.com/u/18231634/Smogon/Smog/Other/Awards/handlebars-v1.2.0.js"></script>
 		<script type="text/javascript" src="http://dl.dropboxusercontent.com/u/18231634/Smogon/Smog/Other/Awards/smogon-messager.js"></script>
@@ -124,7 +125,7 @@
 				$('#nomination-form').html(template(categories));
 
 				//ready messager
-				var message = new Message({to:'The Smog', title:'[No Reply] 2013 Smog Awards - R1', allowInvite:false, noReply:true});
+				var message = new Message({ to:'The Smog', title:'[No Reply] 2013 Smog Awards - R1', allowInvite:false, noReply:true });
 				message.init(function(){
 					//attach submit handler
 					$('#submit').click(function(){
@@ -141,10 +142,10 @@
 						message.send();
 					});
 				});
-
-				
-
-
+				message.onSent = function(){
+					alert('sent');
+					location = '/forums/';
+				};
 
 				$('#js-warning').hide();
 			});
@@ -153,7 +154,7 @@
 		[Page]
 		<div id="js-warning">This page requires JavaScript.</div>
 		<form id="nomination-form"></form>
-		<button id="submit"></button>
+		<button id="submit">Submit!</button>
 		<script id="nomination-template" type="text/x-handlebars-template">
 			{{#each this}}
 			<fieldset class="section">

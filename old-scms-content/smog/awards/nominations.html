@@ -1,0 +1,147 @@
+		[Title]
+		<title>Awards Nomination Form</title>
+
+		[Head]
+		<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+		<script type="text/javascript" src="handlebars-v1.2.0.js"></script>
+		<script type="text/javascript" src="smogawards.js"></script>
+		<script type="text/javascript">
+			$(function(){
+				var template = document.getElementById('nomination-template');
+				var container = document.getElementById('nomination-form');
+				Awards.init({
+					template: template,
+					container:container,
+					submitTo:'The Smog',
+					categories: [{ 
+						name:'Battling',
+						entries:[
+							'Best Ubers Battler',
+							'Best OU Battler',
+							'Best UU Battler',
+							'Best RU Battler',
+							'Best NU Battler',
+							'Best VGC Battler',
+							'Best Smogon Doubles Battler',
+							'Best LC Battler',
+							'Best OM Battler',
+							'Best Tournament Player',
+							'Best Ladder Player',
+							'Best Team Builder',
+							'Best Old-School Player',
+							'Most Influential Player',
+							'Most Gimicky Player',
+							'Biggest Upset',
+							'Luckiest Player',
+							'Most Intimidating Player',
+							'Best New Player',
+							'Best Overall Player',
+							'Most Impressive Victory',
+							'Best Tournament',
+							'Best OM'
+						]},{
+						name:'Users',
+						entries:[
+							'Nicest User',
+							'Meanest User',
+							'Wittiest User',
+							'Cutest User',
+							'Most Improved User',
+							'Most Overlooked User',
+							'Most Persuasive User',
+							'Most Influential User',
+							'Most Promising New User',
+							'Most Awesome Veteran',
+							'Best Avatar',
+							'Best Signature',
+							'Best Custom Title',
+							'Member of the Year',
+							'Best Name Change',
+							'Worst Name Change'
+						]},{
+						name:'Community',
+						entries:[
+							'Best Forum Staff Member',
+							'Best Leader',
+							'Best Showdown! Staff',
+							'Best Discussion Sparker',
+							'Best Competitive Pokemon Poster',
+							'Best #pokemon IRC Presence',
+							'Best OI Poster',
+							'Best CAP Poster',
+							'Best A Forum Poster',
+							'Best Cong Poster',
+							'Best Firebot Poster',
+							'Best Mentor',
+							'Best Tutor',
+							'Best Circus Poster',
+							'Best Team Rater',
+							'Most Helpful Poster',
+							'Best RMT Thread',
+							'Best Thread',
+							'Best Post',
+							'Best Poster'
+						]},{
+						name:'Contributions',
+						entries:[
+							'Best Analysis Writer',
+							'Best Set Poster',
+							'Best Editor',
+							'Best Contribution',
+							'Best Quality Control Member',
+							'Best Contributor',
+							'Best Forum Project',
+							'Best Programmer',
+							'Best Researcher',
+							'Most Promising Artist',
+							'Most Improved Artist',
+							'Best Piece of Art',
+							'Best Artist',
+							'Best Contribution',
+							'Best Spriter',
+							'Best Sprite',
+							'Best Video'
+						]},{
+						name:'The Smog',
+						entries:[
+							'Best New Writer',
+							'Most Improved Writer',
+							'Best Smog Article',
+							'Best Battling Strategy Article',
+							'Best Metagame Article',
+							'Best Entertainment Article',
+							'Best "Other Features" Article',
+							'Best Article Layout',
+							'Best Art for an Article'
+						]},{
+						name:'Just For Fun',
+						entries:[
+							'Best Smogon Thread Not Posted on Smogon\'s Forums',
+							'Best Under-the-Influence User',
+							'User Most Likely to Land a Helicopter',
+							'User Most Likely to Sell Smogon Out to Nintendo'
+						]}
+					]
+				});
+
+
+				$('#js-warning').hide();
+			});
+		</script>
+
+		[Page]
+		<div id="js-warning">This page requires JavaScript.</div>
+		<form id="nomination-form"></form>
+		<script id="nomination-template" type="text/x-handlebars-template">
+			{{#each this}}
+			<fieldset class="section">
+				<legend>{{name}}</legend>
+				{{#each entries}}
+				<div>
+					<label>{{this}}</label>
+					<input type="text" data-for="{{this}}"/>
+				</div>
+				{{/each}}
+			</fieldset>
+			{{/each}}
+		</script>

@@ -9,10 +9,12 @@
 			$(function(){
 				var template = document.getElementById('nomination-template');
 				var container = document.getElementById('nomination-form');
+				var submitButton document.getElementById('submit-button');
 				Awards.init({
 					template: template,
 					container:container,
 					submitTo:'The Smog',
+					trigger:submitButton,
 					categories: [{ 
 						name:'Battling',
 						entries:[
@@ -132,6 +134,7 @@
 		[Page]
 		<div id="js-warning">This page requires JavaScript.</div>
 		<form id="nomination-form"></form>
+		<button id="submit-button">Submit</button>
 		<script id="nomination-template" type="text/x-handlebars-template">
 			{{#each this}}
 			<fieldset class="section">

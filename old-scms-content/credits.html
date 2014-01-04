@@ -4,14 +4,12 @@ Credits
 <script src="/media/jquery.js" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
-/* This stopped working with the forum update. Do not remove it, it will be updated when possible.
 //usernames that do not link correctly belong here
 var exceptions = {
-    'ODonut':'5304',
-    'Toast++':'30562'
+    'ODonut':'5304'
 };
 
-$(function(){var dts=$('#content_wrapper dt');var name='';for(var i=0;i<dts.length;i++){name=dts[i].innerHTML;if(!exceptions[name])dts[i].innerHTML=('<a href="/forums/member.php?username='+encodeURI(name)+'">'+name+'</a>');else dts[i].innerHTML=('<a href="/forums/member.php?u='+exceptions[name]+'">'+name+'</a>')}});*/
+$(function(){var dts=$('#content_wrapper dt');var name='';for(var i=0;i<dts.length;i++){name=dts[i].innerHTML;if(!exceptions[name])dts[i].innerHTML=('<a href="/forums/members/'+encodeURI(name)+'">'+name+'</a>');else dts[i].innerHTML=('<a href="/forums/member.php?u='+exceptions[name]+'">'+name+'</a>')}});
 //]]>
 </script>
 

@@ -17,6 +17,7 @@
 		<script type="text/javascript" src="http://dl.dropboxusercontent.com/u/18231634/Smogon/Smog/Other/Awards/handlebars-v1.2.0.js"></script>
 		<script type="text/javascript" src="http://dl.dropboxusercontent.com/u/18231634/Smogon/Smog/Other/Awards/smogon-messager.js"></script>
 		<script type="text/javascript">
+			if(new Date() < new Date(2014,0,19)){
 			$(function(){
 				//edit stuff here
 				categories = [{ 
@@ -135,7 +136,7 @@
 				$('#nomination-form').html(template(categories));
 
 				//ready messager
-				var message = new Message({ to:'The Smog', title:'[No Reply] 2013 Smog Awards - R1', allowInvite:false, noReply:true });
+				var message = new Message({ to:'The Smog', title:'[No Reply] 2013 Smog Awards - R1', allowInvite:'0', noReply:'1' });
 				message.init(function(){
 					//attach submit handler
 					$('#submit').click(function(){
@@ -153,16 +154,18 @@
 					});
 				});
 				message.onSent = function(){
-					alert('sent');
+					alert('Nominations Submitted!');
 					location = '/forums/';
 				};
 
 				$('#js-warning').hide();
 			});
+			}
 		</script>
 
 		[Page]
 		<div id="js-warning">This page requires JavaScript.</div>
+		<p>This is the nomination form for the 2013 Smog Awards! Please do not submit more than once as only the first submission will be counted. <strong>You should only nominate 1 user per category.</strong></p>
 		<form id="nomination-form"></form>
 		<button id="submit">Submit!</button>
 		<script id="nomination-template" type="text/x-handlebars-template">

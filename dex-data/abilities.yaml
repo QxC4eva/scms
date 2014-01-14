@@ -820,3 +820,125 @@ abilities:
     introduction: bw
     description:
       - The wielder changes forme when below 50% of its max HP.
+
+  # Gen 6 abilities, sort at some point
+  
+  Aerilate:
+    introduction: xy
+    description:
+    - Turns all of this Pokemon's Normal-typed attacks into Flying-type and deal 1.3x damage. Does not affect Hidden Power.
+
+  Aroma Veil:
+    introduction: xy
+    description:
+    - Protects allies from attacks that limit their move choices.
+
+  Aura Break:
+    introduction: xy
+    description:
+    - Reverses the effect of Dark Aura and Fairy Aura.
+
+  Bulletproof:
+    introduction: xy
+    description:
+    - This Pokemon is protected from some Ball and Bomb moves.
+
+  Cheek Pouch:
+    introduction: xy
+    description:
+    - Increases HP when this Pokemon consumes a berry.
+
+  Competitive:
+    introduction: xy
+    description:
+    - Raises the user's Special Attack stat by two stages when a stat is lowered, including the Special Attack stat. This does not include self-induced stat drops like those from Close Combat.
+
+  Dark Aura:
+    introduction: xy
+    description:
+    - Increases the power of all Dark-type moves in battle to 1.3x.
+
+  Fairy Aura:
+    introduction: xy
+    description:
+    - Increases the power of all Fairy-type moves in battle to 1.3x.
+
+  Flower Veil:
+    introduction: xy
+    description:
+    - Prevents lowering of ally Grass-type Pokemon's stats.
+
+  Fur Coat:
+    introduction: xy
+    description:
+    - Halves the damage done to this Pokemon by physical attacks.
+
+  Gale Wings:
+    introduction: xy
+    description:
+    - This Pokemon's Flying-type moves have their priority increased by 1.
+
+  Gooey:
+    introduction: xy
+    description:
+    - Contact with this Pokemon lowers the attacker's Speed stat by 1.
+
+  Grass Pelt:
+    introduction: xy
+    description:
+    - This Pokemon's Defense is boosted in Grassy Terrain
+
+  Magician:
+    introduction: xy
+    description:
+    - If this Pokemon is not holding an item, it steals the held item of a target it hits with a move.
+
+  Mega Launcher:
+    introduction: xy
+    description:
+    - Boosts the power of Aura and Pulse moves, such as Aura Sphere and Dark Pulse, by 50%.
+
+  Parental Bond:
+    introduction: xy
+    description:
+    - Allows the Pokemon to hit twice with the same move in one turn. Second hit has 0.5x base power. Does not affect Status, multihit, or spread moves (in doubles).
+
+  Pixilate:
+    introduction: xy
+    description:
+    - Turns all of this Pokemon's Normal-typed attacks into Fairy-type and deal 1.3x damage. Does not affect Hidden Power.
+
+  Protean:
+    introduction: xy
+    description:
+    - Right before this Pokemon uses a move, it changes its type to match that move. Hidden Power is interpreted as its Hidden Power type, rather than Normal.
+
+  Refrigerate:
+    introduction: xy
+    description:
+    - Turns all of this Pokemon's Normal-typed attacks into Ice-typed and deal 1.3x damage. Does not affect Hidden Power.
+
+  Stance Change:
+    introduction: xy
+    description:
+    - Only affects Aegislash. If this Pokemon uses a Physical or Special move, it changes to Blade forme. If this Pokemon uses King's Shield, it changes to Shield forme.
+
+  Strong Jaw:
+    introduction: xy
+    description:
+    - This Pokemon receives a 50% power boost for jaw attacks such as Bite and Crunch.
+
+  Sweet Veil:
+    introduction: xy
+    description:
+    - Prevents allies from being put to Sleep.
+
+  Symbiosis:
+    introduction: xy
+    description:
+    - This Pokemon immediately passes its item to an ally after their item is consumed.
+
+  Tough Claws:
+    introduction: xy
+    description:
+    - This Pokemon's contact attacks do 1.33x damage.

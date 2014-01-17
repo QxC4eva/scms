@@ -1,4 +1,412 @@
 pokemon:
+  Venusaur-Mega:
+    introduction: xy
+    types:
+    - [Grass,Poison]
+    egggroups:
+    - [Monster,Grass]
+    abilities:
+    - [Thick Fat]
+    stats:
+    - [80, 100, 123, 122, 120, 80]
+    tags:
+    - []
+    weight:
+    - 155.5
+    height:
+    - 2.4
+
+  Blastoise-Mega:
+    introduction: xy
+    types:
+    - [Water]
+    egggroups:
+    - [Monster,Water 1]
+    abilities:
+    - [Mega Launcher]
+    stats:
+    - [79, 103, 120, 135, 115, 78]
+    tags:
+    - []
+    weight:
+    - 101.1
+    height:
+    - 1.6
+
+  Alakazam-Mega:
+    introduction: xy
+    types:
+    - [Psychic]
+    egggroups:
+    - [Human-Like]
+    abilities:
+    - [Trace]
+    stats:
+    - [55, 50, 65, 175, 95, 150]
+    tags:
+    - []
+    weight:
+    - 48
+    height:
+    - 1.2
+
+  Gengar-Mega:
+    introduction: xy
+    types:
+    - [Ghost,Poison]
+    egggroups:
+    - [Amorphous]
+    abilities:
+    - [Shadow Tag]
+    stats:
+    - [60, 65, 80, 170, 95, 130]
+    tags:
+    - []
+    weight:
+    - 40.5
+    height:
+    - 1.4
+
+  Kangaskhan-Mega:
+    introduction: xy
+    types:
+    - [Normal]
+    egggroups:
+    - [Monster]
+    abilities:
+    - [Parental Bond]
+    stats:
+    - [105, 125, 100, 60, 100, 100]
+    tags:
+    - []
+    weight:
+    - 100
+    height:
+    - 2.2
+
+  Pinsir-Mega:
+    introduction: xy
+    types:
+    - [Bug,Flying]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Aerilate]
+    stats:
+    - [65, 155, 120, 65, 90, 105]
+    tags:
+    - []
+    weight:
+    - 59
+    height:
+    - 1.7
+
+  Gyarados-Mega:
+    introduction: xy
+    types:
+    - [Water,Dark]
+    egggroups:
+    - [Water 2,Dragon]
+    abilities:
+    - [Mold Breaker]
+    stats:
+    - [95, 155, 109, 70, 130, 81]
+    tags:
+    - []
+    weight:
+    - 305
+    height:
+    - 6.5
+
+  Aerodactyl-Mega:
+    introduction: xy
+    types:
+    - [Rock,Flying]
+    egggroups:
+    - [Flying]
+    abilities:
+    - [Tough Claws]
+    stats:
+    - [80, 135, 85, 70, 95, 150]
+    tags:
+    - []
+    weight:
+    - 79
+    height:
+    - 2.1
+
+  Ampharos-Mega:
+    introduction: xy
+    types:
+    - [Electric,Dragon]
+    egggroups:
+    - [Monster,Field]
+    abilities:
+    - [Mold Breaker]
+    stats:
+    - [90, 95, 105, 165, 110, 45]
+    tags:
+    - []
+    weight:
+    - 61.5
+    height:
+    - 1.4
+
+  Scizor-Mega:
+    introduction: xy
+    types:
+    - [Bug,Steel]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Technician]
+    stats:
+    - [70, 150, 140, 65, 100, 75]
+    tags:
+    - []
+    weight:
+    - 125
+    height:
+    - 2
+
+  Heracross-Mega:
+    introduction: xy
+    types:
+    - [Bug,Fighting]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Skill Link]
+    stats:
+    - [80, 185, 115, 40, 105, 75]
+    tags:
+    - []
+    weight:
+    - 62.5
+    height:
+    - 1.7
+
+  Houndoom-Mega:
+    introduction: xy
+    types:
+    - [Dark,Fire]
+    egggroups:
+    - [Field]
+    abilities:
+    - [Solar Power]
+    stats:
+    - [75, 90, 90, 140, 90, 115]
+    tags:
+    - []
+    weight:
+    - 49.5
+    height:
+    - 1.9
+
+  Tyranitar-Mega:
+    introduction: xy
+    types:
+    - [Rock,Dark]
+    egggroups:
+    - [Monster]
+    abilities:
+    - [Sand Stream]
+    stats:
+    - [100, 164, 150, 95, 120, 71]
+    tags:
+    - []
+    weight:
+    - 255
+    height:
+    - 2.5
+
+  Blaziken-Mega:
+    introduction: xy
+    types:
+    - [Fire,Fighting]
+    egggroups:
+    - [Field]
+    abilities:
+    - [Speed Boost]
+    stats:
+    - [80, 160, 80, 130, 80, 100]
+    tags:
+    - []
+    weight:
+    - 52
+    height:
+    - 1.9
+
+  Gardevoir-Mega:
+    introduction: xy
+    types:
+    - [Psychic,Fairy]
+    egggroups:
+    - [Amorphous]
+    abilities:
+    - [Pixilate]
+    stats:
+    - [68, 85, 65, 165, 135, 100]
+    tags:
+    - []
+    weight:
+    - 48.4
+    height:
+    - 1.6
+
+  Mawile-Mega:
+    introduction: xy
+    types:
+    - [Steel,Fairy]
+    egggroups:
+    - [Field,Fairy]
+    abilities:
+    - [Huge Power]
+    stats:
+    - [50, 105, 125, 55, 95, 50]
+    tags:
+    - []
+    weight:
+    - 23.5
+    height:
+    - 1
+
+  Aggron-Mega:
+    introduction: xy
+    types:
+    - [Steel]
+    egggroups:
+    - [Monster]
+    abilities:
+    - [Filter]
+    stats:
+    - [70, 140, 230, 60, 80, 50]
+    tags:
+    - []
+    weight:
+    - 395
+    height:
+    - 2.2
+
+  Medicham-Mega:
+    introduction: xy
+    types:
+    - [Fighting,Psychic]
+    egggroups:
+    - [Human-Like]
+    abilities:
+    - [Pure Power]
+    stats:
+    - [60, 100, 85, 80, 85, 100]
+    tags:
+    - []
+    weight:
+    - 31.5
+    height:
+    - 1.3
+
+  Manectric-Mega:
+    introduction: xy
+    types:
+    - [Electric]
+    egggroups:
+    - [Field]
+    abilities:
+    - [Intimidate]
+    stats:
+    - [70, 75, 80, 135, 80, 135]
+    tags:
+    - []
+    weight:
+    - 44
+    height:
+    - 1.8
+
+  Banette-Mega:
+    introduction: xy
+    types:
+    - [Ghost]
+    egggroups:
+    - [Amorphous]
+    abilities:
+    - [Prankster]
+    stats:
+    - [64, 165, 75, 93, 83, 75]
+    tags:
+    - []
+    weight:
+    - 13
+    height:
+    - 1.2
+
+  Absol-Mega:
+    introduction: xy
+    types:
+    - [Dark]
+    egggroups:
+    - [Field]
+    abilities:
+    - [Magic Bounce]
+    stats:
+    - [65, 150, 60, 115, 60, 115]
+    tags:
+    - []
+    weight:
+    - 49
+    height:
+    - 1.2
+
+  Garchomp-Mega:
+    introduction: xy
+    types:
+    - [Dragon,Ground]
+    egggroups:
+    - [Monster,Dragon]
+    abilities:
+    - [Sand Force]
+    stats:
+    - [108, 170, 115, 120, 95, 92]
+    tags:
+    - []
+    weight:
+    - 95
+    height:
+    - 1.9
+
+  Lucario-Mega:
+    introduction: xy
+    types:
+    - [Fighting,Steel]
+    egggroups:
+    - [Field,Human-Like]
+    abilities:
+    - [Adaptability]
+    stats:
+    - [70, 145, 88, 140, 70, 112]
+    tags:
+    - []
+    weight:
+    - 57.5
+    height:
+    - 1.3
+
+  Abomasnow-Mega:
+    introduction: xy
+    types:
+    - [Grass,Ice]
+    egggroups:
+    - [Monster,Grass]
+    abilities:
+    - [Snow Warning]
+    stats:
+    - [90, 132, 105, 132, 105, 30]
+    tags:
+    - []
+    weight:
+    - 185
+    height:
+    - 2.7
+
   Chespin:
     introduction: xy
     types:
@@ -1308,3 +1716,74 @@ pokemon:
     height:
     - 5
 
+evolutions:
+  - {from: Venusaur, to: Venusaur-Mega}
+  - {from: Blastoise, to: Blastoise-Mega}
+  - {from: Alakazam, to: Alakazam-Mega}
+  - {from: Gengar, to: Gengar-Mega}
+  - {from: Kangaskhan, to: Kangaskhan-Mega}
+  - {from: Pinsir, to: Pinsir-Mega}
+  - {from: Gyarados, to: Gyarados-Mega}
+  - {from: Eevee, to: Sylveon}
+  - {from: Aerodactyl, to: Aerodactyl-Mega}
+  - {from: Ampharos, to: Ampharos-Mega}
+  - {from: Scizor, to: Scizor-Mega}
+  - {from: Heracross, to: Heracross-Mega}
+  - {from: Houndoom, to: Houndoom-Mega}
+  - {from: Tyranitar, to: Tyranitar-Mega}
+  - {from: Blaziken, to: Blaziken-Mega}
+  - {from: Gardevoir, to: Gardevoir-Mega}
+  - {from: Mawile, to: Mawile-Mega}
+  - {from: Aggron, to: Aggron-Mega}
+  - {from: Medicham, to: Medicham-Mega}
+  - {from: Manectric, to: Manectric-Mega}
+  - {from: Banette, to: Banette-Mega}
+  - {from: Absol, to: Absol-Mega}
+  - {from: Garchomp, to: Garchomp-Mega}
+  - {from: Lucario, to: Lucario-Mega}
+  - {from: Abomasnow, to: Abomasnow-Mega}
+  - {from: Chespin, to: Quilladin}
+  - {from: Quilladin, to: Chesnaught}
+  - {from: Fennekin, to: Braixen}
+  - {from: Braixen, to: Delphox}
+  - {from: Froakie, to: Frogadier}
+  - {from: Frogadier, to: Greninja}
+  - {from: Bunnelby, to: Diggersby}
+  - {from: Fletchling, to: Fletchinder}
+  - {from: Fletchinder, to: Talonflame}
+  - {from: Scatterbug, to: Spewpa}
+  - {from: Spewpa, to: Vivillon}
+  - {from: Litleo, to: Pyroar}
+  - {from: Flabebe, to: Floette}
+  - {from: Floette, to: Florges}
+  - {from: Skiddo, to: Gogoat}
+  - {from: Pancham, to: Pangoro}
+  - {from: Espurr, to: Meowstic}
+  - {from: Meowstic, to: Meowstic-F}
+  - {from: Honedge, to: Doublade}
+  - {from: Doublade, to: Aegislash}
+  - {from: Aegislash, to: Aegislash-Blade}
+  - {from: Spritzee, to: Aromatisse}
+  - {from: Swirlix, to: Slurpuff}
+  - {from: Inkay, to: Malamar}
+  - {from: Binacle, to: Barbaracle}
+  - {from: Skrelp, to: Dragalge}
+  - {from: Clauncher, to: Clawitzer}
+  - {from: Helioptile, to: Heliolisk}
+  - {from: Tyrunt, to: Tyrantrum}
+  - {from: Amaura, to: Aurorus}
+  - {from: Goomy, to: Sliggoo}
+  - {from: Sliggoo, to: Goodra}
+  - {from: Phantump, to: Trevenant}
+  - {from: Pumpkaboo, to: Gourgeist}
+  - {from: Pumpkaboo, to: Pumpkaboo-Small}
+  - {from: Pumpkaboo, to: Pumpkaboo-Large}
+  - {from: Pumpkaboo, to: Pumpkaboo-Super}
+  - {from: Pumpkaboo-Small, to: Gourgeist-Small}
+  - {from: Pumpkaboo-Large, to: Gourgeist-Large}
+  - {from: Pumpkaboo-Super, to: Gourgeist-Super}
+  - {from: Gourgeist, to: Gourgeist-Small}
+  - {from: Gourgeist, to: Gourgeist-Large}
+  - {from: Gourgeist, to: Gourgeist-Super}
+  - {from: Bergmite, to: Avalugg}
+  - {from: Noibat, to: Noivern}

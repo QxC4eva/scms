@@ -1,0 +1,1310 @@
+pokemon:
+  Chespin:
+    introduction: xy
+    types:
+    - [Grass]
+    egggroups:
+    - [Field]
+    abilities:
+    - [Overgrow,Bulletproof]
+    stats:
+    - [56, 61, 65, 48, 45, 38]
+    tags:
+    - []
+    weight:
+    - 9
+    height:
+    - 0.4
+
+  Quilladin:
+    introduction: xy
+    types:
+    - [Grass]
+    egggroups:
+    - [Field]
+    abilities:
+    - [Overgrow,Bulletproof]
+    stats:
+    - [61, 78, 95, 56, 58, 57]
+    tags:
+    - []
+    weight:
+    - 29
+    height:
+    - 0.7
+
+  Chesnaught:
+    introduction: xy
+    types:
+    - [Grass,Fighting]
+    egggroups:
+    - [Field]
+    abilities:
+    - [Overgrow,Bulletproof]
+    stats:
+    - [88, 107, 122, 74, 75, 64]
+    tags:
+    - []
+    weight:
+    - 90
+    height:
+    - 1.6
+
+  Fennekin:
+    introduction: xy
+    types:
+    - [Fire]
+    egggroups:
+    - [Field]
+    abilities:
+    - [Blaze,Magician]
+    stats:
+    - [40, 45, 40, 62, 60, 60]
+    tags:
+    - []
+    weight:
+    - 9.4
+    height:
+    - 0.4
+
+  Braixen:
+    introduction: xy
+    types:
+    - [Fire]
+    egggroups:
+    - [Field]
+    abilities:
+    - [Blaze,Magician]
+    stats:
+    - [59, 59, 58, 90, 70, 73]
+    tags:
+    - []
+    weight:
+    - 14.5
+    height:
+    - 1
+
+  Delphox:
+    introduction: xy
+    types:
+    - [Fire,Psychic]
+    egggroups:
+    - [Field]
+    abilities:
+    - [Blaze,Magician]
+    stats:
+    - [75, 69, 72, 114, 100, 104]
+    tags:
+    - []
+    weight:
+    - 39
+    height:
+    - 1.5
+
+  Froakie:
+    introduction: xy
+    types:
+    - [Water]
+    egggroups:
+    - [Water 1]
+    abilities:
+    - [Torrent,Protean]
+    stats:
+    - [41, 56, 41, 62, 44, 71]
+    tags:
+    - []
+    weight:
+    - 7
+    height:
+    - 0.3
+
+  Frogadier:
+    introduction: xy
+    types:
+    - [Water]
+    egggroups:
+    - [Water 1]
+    abilities:
+    - [Torrent,Protean]
+    stats:
+    - [54, 63, 52, 83, 56, 97]
+    tags:
+    - []
+    weight:
+    - 10.9
+    height:
+    - 0.6
+
+  Greninja:
+    introduction: xy
+    types:
+    - [Water,Dark]
+    egggroups:
+    - [Water 1]
+    abilities:
+    - [Torrent,Protean]
+    stats:
+    - [72, 95, 67, 103, 71, 122]
+    tags:
+    - []
+    weight:
+    - 40
+    height:
+    - 1.5
+
+  Bunnelby:
+    introduction: xy
+    types:
+    - [Normal]
+    egggroups:
+    - [Field]
+    abilities:
+    - [Pickup,Cheek Pouch,Huge Power]
+    stats:
+    - [38, 36, 38, 32, 36, 57]
+    tags:
+    - []
+    weight:
+    - 5
+    height:
+    - 0.4
+
+  Diggersby:
+    introduction: xy
+    types:
+    - [Normal,Ground]
+    egggroups:
+    - [Field]
+    abilities:
+    - [Pickup,Cheek Pouch,Huge Power]
+    stats:
+    - [85, 56, 77, 50, 77, 78]
+    tags:
+    - []
+    weight:
+    - 0
+    height:
+    - 0
+
+  Fletchling:
+    introduction: xy
+    types:
+    - [Normal,Flying]
+    egggroups:
+    - [Flying]
+    abilities:
+    - [Big Pecks,Gale Wings]
+    stats:
+    - [45, 50, 43, 40, 38, 62]
+    tags:
+    - []
+    weight:
+    - 1.7
+    height:
+    - 0.3
+
+  Fletchinder:
+    introduction: xy
+    types:
+    - [Fire,Flying]
+    egggroups:
+    - [Flying]
+    abilities:
+    - [Flame Body,Gale Wings]
+    stats:
+    - [62, 73, 55, 56, 52, 84]
+    tags:
+    - []
+    weight:
+    - 0
+    height:
+    - 0
+
+  Talonflame:
+    introduction: xy
+    types:
+    - [Fire,Flying]
+    egggroups:
+    - [Flying]
+    abilities:
+    - [Flame Body,Gale Wings]
+    stats:
+    - [78, 81, 71, 74, 69, 126]
+    tags:
+    - []
+    weight:
+    - 24.5
+    height:
+    - 1.2
+
+  Scatterbug:
+    introduction: xy
+    types:
+    - [Bug]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Shield Dust,Compound Eyes,Friend Guard]
+    stats:
+    - [38, 35, 40, 27, 25, 35]
+    tags:
+    - []
+    weight:
+    - 2.5
+    height:
+    - 0.3
+
+  Spewpa:
+    introduction: xy
+    types:
+    - [Bug]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Shed Skin,Friend Guard]
+    stats:
+    - [45, 22, 60, 27, 30, 29]
+    tags:
+    - []
+    weight:
+    - 8.4
+    height:
+    - 0.3
+
+  Vivillon:
+    introduction: xy
+    types:
+    - [Bug,Flying]
+    egggroups:
+    - [Bug]
+    abilities:
+    - [Shield Dust,Compound Eyes,Friend Guard]
+    stats:
+    - [80, 52, 50, 90, 50, 89]
+    tags:
+    - []
+    weight:
+    - 17
+    height:
+    - 1.2
+
+  Litleo:
+    introduction: xy
+    types:
+    - [Fire,Normal]
+    egggroups:
+    - [Field]
+    abilities:
+    - [Rivalry,Unnerve,Moxie]
+    stats:
+    - [62, 50, 58, 73, 54, 72]
+    tags:
+    - []
+    weight:
+    - 13.5
+    height:
+    - 0.6
+
+  Pyroar:
+    introduction: xy
+    types:
+    - [Fire,Normal]
+    egggroups:
+    - [Field]
+    abilities:
+    - [Rivalry,Unnerve,Moxie]
+    stats:
+    - [86, 68, 72, 109, 66, 106]
+    tags:
+    - []
+    weight:
+    - 81.5
+    height:
+    - 1.5
+
+  Flabebe:
+    introduction: xy
+    types:
+    - [Fairy]
+    egggroups:
+    - [Fairy]
+    abilities:
+    - [Flower Veil,Symbiosis]
+    stats:
+    - [44, 38, 39, 61, 79, 42]
+    tags:
+    - []
+    weight:
+    - 0.1
+    height:
+    - 0.1
+
+  Floette:
+    introduction: xy
+    types:
+    - [Fairy]
+    egggroups:
+    - [Fairy]
+    abilities:
+    - [Flower Veil,Symbiosis]
+    stats:
+    - [54, 45, 47, 75, 98, 52]
+    tags:
+    - []
+    weight:
+    - 0.9
+    height:
+    - 0.2
+
+  Florges:
+    introduction: xy
+    types:
+    - [Fairy]
+    egggroups:
+    - [Fairy]
+    abilities:
+    - [Flower Veil,Symbiosis]
+    stats:
+    - [78, 65, 68, 112, 154, 75]
+    tags:
+    - []
+    weight:
+    - 10
+    height:
+    - 1.1
+
+  Skiddo:
+    introduction: xy
+    types:
+    - [Grass]
+    egggroups:
+    - [Field]
+    abilities:
+    - [Sap Sipper,Grass Pelt]
+    stats:
+    - [66, 65, 48, 62, 57, 52]
+    tags:
+    - []
+    weight:
+    - 31
+    height:
+    - 0.9
+
+  Gogoat:
+    introduction: xy
+    types:
+    - [Grass]
+    egggroups:
+    - [Field]
+    abilities:
+    - [Sap Sipper,Grass Pelt]
+    stats:
+    - [123, 100, 62, 97, 81, 68]
+    tags:
+    - []
+    weight:
+    - 91
+    height:
+    - 1.7
+
+  Pancham:
+    introduction: xy
+    types:
+    - [Fighting]
+    egggroups:
+    - [Field,Human-Like]
+    abilities:
+    - [Iron Fist,Mold Breaker,Scrappy]
+    stats:
+    - [67, 82, 62, 46, 48, 43]
+    tags:
+    - []
+    weight:
+    - 8
+    height:
+    - 0.6
+
+  Pangoro:
+    introduction: xy
+    types:
+    - [Fighting,Dark]
+    egggroups:
+    - [Field,Human-Like]
+    abilities:
+    - [Iron Fist,Mold Breaker,Scrappy]
+    stats:
+    - [95, 124, 78, 69, 71, 58]
+    tags:
+    - []
+    weight:
+    - 136
+    height:
+    - 2.1
+
+  Furfrou:
+    introduction: xy
+    types:
+    - [Normal]
+    egggroups:
+    - [Field]
+    abilities:
+    - [Fur Coat]
+    stats:
+    - [75, 80, 60, 65, 90, 102]
+    tags:
+    - []
+    weight:
+    - 28
+    height:
+    - 1.2
+
+  Espurr:
+    introduction: xy
+    types:
+    - [Psychic]
+    egggroups:
+    - [Field]
+    abilities:
+    - [Keen Eye,Infiltrator,Own Tempo]
+    stats:
+    - [62, 48, 54, 63, 60, 68]
+    tags:
+    - []
+    weight:
+    - 3.5
+    height:
+    - 0.3
+
+  Meowstic:
+    introduction: xy
+    types:
+    - [Psychic]
+    egggroups:
+    - [Field]
+    abilities:
+    - [Keen Eye,Infiltrator,Prankster]
+    stats:
+    - [74, 48, 76, 83, 81, 104]
+    tags:
+    - []
+    weight:
+    - 8.5
+    height:
+    - 0.6
+
+  Meowstic-F:
+    introduction: xy
+    types:
+    - [Psychic]
+    egggroups:
+    - [Field]
+    abilities:
+    - [Keen Eye,Infiltrator,Competitive]
+    stats:
+    - [74, 48, 76, 83, 81, 104]
+    tags:
+    - []
+    weight:
+    - 8.5
+    height:
+    - 0.6
+
+  Honedge:
+    introduction: xy
+    types:
+    - [Steel,Ghost]
+    egggroups:
+    - [Mineral]
+    abilities:
+    - [No Guard]
+    stats:
+    - [45, 80, 100, 35, 37, 28]
+    tags:
+    - []
+    weight:
+    - 2
+    height:
+    - 0.8
+
+  Doublade:
+    introduction: xy
+    types:
+    - [Steel,Ghost]
+    egggroups:
+    - [Mineral]
+    abilities:
+    - [No Guard]
+    stats:
+    - [59, 110, 150, 45, 49, 35]
+    tags:
+    - []
+    weight:
+    - 4.5
+    height:
+    - 0.8
+
+  Aegislash:
+    introduction: xy
+    types:
+    - [Steel,Ghost]
+    egggroups:
+    - [Mineral]
+    abilities:
+    - [Stance Change]
+    stats:
+    - [60, 50, 150, 50, 150, 60]
+    tags:
+    - []
+    weight:
+    - 52
+    height:
+    - 1.7
+
+  Aegislash-Blade:
+    introduction: xy
+    types:
+    - [Steel,Ghost]
+    egggroups:
+    - [Mineral]
+    abilities:
+    - [Stance Change]
+    stats:
+    - [60, 150, 50, 150, 50, 60]
+    tags:
+    - []
+    weight:
+    - 0
+    height:
+    - 0
+
+  Spritzee:
+    introduction: xy
+    types:
+    - [Fairy]
+    egggroups:
+    - [Fairy]
+    abilities:
+    - [Healer,Aroma Veil]
+    stats:
+    - [78, 52, 60, 63, 65, 23]
+    tags:
+    - []
+    weight:
+    - 0.5
+    height:
+    - 0.2
+
+  Aromatisse:
+    introduction: xy
+    types:
+    - [Fairy]
+    egggroups:
+    - [Fairy]
+    abilities:
+    - [Healer,Aroma Veil]
+    stats:
+    - [101, 72, 72, 99, 89, 29]
+    tags:
+    - []
+    weight:
+    - 15.5
+    height:
+    - 0.8
+
+  Swirlix:
+    introduction: xy
+    types:
+    - [Fairy]
+    egggroups:
+    - [Fairy]
+    abilities:
+    - [Sweet Veil,Unburden]
+    stats:
+    - [62, 48, 66, 59, 57, 49]
+    tags:
+    - []
+    weight:
+    - 3.5
+    height:
+    - 0.4
+
+  Slurpuff:
+    introduction: xy
+    types:
+    - [Fairy]
+    egggroups:
+    - [Fairy]
+    abilities:
+    - [Sweet Veil,Unburden]
+    stats:
+    - [82, 80, 86, 85, 75, 72]
+    tags:
+    - []
+    weight:
+    - 5
+    height:
+    - 0.8
+
+  Inkay:
+    introduction: xy
+    types:
+    - [Dark,Psychic]
+    egggroups:
+    - [Water 1,Water 2]
+    abilities:
+    - [Contrary,Suction Cups,Infiltrator]
+    stats:
+    - [53, 54, 53, 37, 46, 45]
+    tags:
+    - []
+    weight:
+    - 3.5
+    height:
+    - 0.4
+
+  Malamar:
+    introduction: xy
+    types:
+    - [Dark,Psychic]
+    egggroups:
+    - [Water 1,Water 2]
+    abilities:
+    - [Contrary,Suction Cups,Infiltrator]
+    stats:
+    - [86, 92, 88, 68, 75, 73]
+    tags:
+    - []
+    weight:
+    - 47
+    height:
+    - 1.5
+
+  Binacle:
+    introduction: xy
+    types:
+    - [Rock,Water]
+    egggroups:
+    - [Water 3]
+    abilities:
+    - [Tough Claws,Sniper,Pickpocket]
+    stats:
+    - [42, 52, 67, 39, 56, 50]
+    tags:
+    - []
+    weight:
+    - 31
+    height:
+    - 0.5
+
+  Barbaracle:
+    introduction: xy
+    types:
+    - [Rock,Water]
+    egggroups:
+    - [Water 3]
+    abilities:
+    - [Tough Claws,Sniper,Pickpocket]
+    stats:
+    - [72, 105, 115, 54, 86, 68]
+    tags:
+    - []
+    weight:
+    - 96
+    height:
+    - 1.3
+
+  Skrelp:
+    introduction: xy
+    types:
+    - [Poison,Water]
+    egggroups:
+    - [Water 1,Dragon]
+    abilities:
+    - [Poison Point,Poison Touch,Adaptability]
+    stats:
+    - [50, 60, 60, 60, 60, 30]
+    tags:
+    - []
+    weight:
+    - 7.3
+    height:
+    - 0.5
+
+  Dragalge:
+    introduction: xy
+    types:
+    - [Poison,Dragon]
+    egggroups:
+    - [Water 1,Dragon]
+    abilities:
+    - [Poison Point,Poison Touch,Adaptability]
+    stats:
+    - [65, 75, 90, 97, 123, 44]
+    tags:
+    - []
+    weight:
+    - 81.5
+    height:
+    - 1.8
+
+  Clauncher:
+    introduction: xy
+    types:
+    - [Water]
+    egggroups:
+    - [Water 1,Water 3]
+    abilities:
+    - [Mega Launcher]
+    stats:
+    - [50, 53, 62, 58, 63, 44]
+    tags:
+    - []
+    weight:
+    - 8.3
+    height:
+    - 0.5
+
+  Clawitzer:
+    introduction: xy
+    types:
+    - [Water]
+    egggroups:
+    - [Water 1,Water 3]
+    abilities:
+    - [Mega Launcher]
+    stats:
+    - [71, 73, 88, 120, 89, 63]
+    tags:
+    - []
+    weight:
+    - 35.3
+    height:
+    - 1.3
+
+  Helioptile:
+    introduction: xy
+    types:
+    - [Electric,Normal]
+    egggroups:
+    - [Monster,Dragon]
+    abilities:
+    - [Dry Skin,Sand Veil,Solar Power]
+    stats:
+    - [44, 38, 33, 61, 43, 70]
+    tags:
+    - []
+    weight:
+    - 6
+    height:
+    - 0.5
+
+  Heliolisk:
+    introduction: xy
+    types:
+    - [Electric,Normal]
+    egggroups:
+    - [Monster,Dragon]
+    abilities:
+    - [Dry Skin,Sand Veil,Solar Power]
+    stats:
+    - [62, 55, 52, 109, 94, 109]
+    tags:
+    - []
+    weight:
+    - 21
+    height:
+    - 1
+
+  Tyrunt:
+    introduction: xy
+    types:
+    - [Rock,Dragon]
+    egggroups:
+    - [Monster,Dragon]
+    abilities:
+    - [Strong Jaw,Rock Head]
+    stats:
+    - [58, 89, 77, 45, 45, 48]
+    tags:
+    - []
+    weight:
+    - 26
+    height:
+    - 0.8
+
+  Tyrantrum:
+    introduction: xy
+    types:
+    - [Rock,Dragon]
+    egggroups:
+    - [Monster,Dragon]
+    abilities:
+    - [Strong Jaw,Rock Head]
+    stats:
+    - [82, 121, 119, 69, 59, 71]
+    tags:
+    - []
+    weight:
+    - 270
+    height:
+    - 2.5
+
+  Amaura:
+    introduction: xy
+    types:
+    - [Rock,Ice]
+    egggroups:
+    - [Monster]
+    abilities:
+    - [Refrigerate,Snow Warning]
+    stats:
+    - [77, 59, 50, 67, 63, 46]
+    tags:
+    - []
+    weight:
+    - 25.2
+    height:
+    - 1.3
+
+  Aurorus:
+    introduction: xy
+    types:
+    - [Rock,Ice]
+    egggroups:
+    - [Monster]
+    abilities:
+    - [Refrigerate,Snow Warning]
+    stats:
+    - [123, 77, 72, 99, 92, 58]
+    tags:
+    - []
+    weight:
+    - 225
+    height:
+    - 2.7
+
+  Sylveon:
+    introduction: xy
+    types:
+    - [Fairy]
+    egggroups:
+    - [Field]
+    abilities:
+    - [Cute Charm,Pixilate]
+    stats:
+    - [95, 65, 65, 110, 130, 60]
+    tags:
+    - []
+    weight:
+    - 23.5
+    height:
+    - 1
+
+  Hawlucha:
+    introduction: xy
+    types:
+    - [Fighting,Flying]
+    egggroups:
+    - [Human-Like]
+    abilities:
+    - [Limber,Unburden,Mold Breaker]
+    stats:
+    - [78, 92, 77, 74, 63, 118]
+    tags:
+    - []
+    weight:
+    - 21.5
+    height:
+    - 0.8
+
+  Dedenne:
+    introduction: xy
+    types:
+    - [Electric,Fairy]
+    egggroups:
+    - [Field,Fairy]
+    abilities:
+    - [Cheek Pouch,Pickup,Plus]
+    stats:
+    - [67, 58, 57, 81, 67, 101]
+    tags:
+    - []
+    weight:
+    - 2.2
+    height:
+    - 0.2
+
+  Carbink:
+    introduction: xy
+    types:
+    - [Rock,Fairy]
+    egggroups:
+    - [Fairy,Mineral]
+    abilities:
+    - [Clear Body,Sturdy]
+    stats:
+    - [50, 50, 150, 50, 150, 50]
+    tags:
+    - []
+    weight:
+    - 5.7
+    height:
+    - 0.3
+
+  Goomy:
+    introduction: xy
+    types:
+    - [Dragon]
+    egggroups:
+    - [Dragon]
+    abilities:
+    - [Sap Sipper,Hydration,Gooey]
+    stats:
+    - [45, 50, 35, 55, 75, 40]
+    tags:
+    - []
+    weight:
+    - 2.8
+    height:
+    - 0.3
+
+  Sliggoo:
+    introduction: xy
+    types:
+    - [Dragon]
+    egggroups:
+    - [Dragon]
+    abilities:
+    - [Sap Sipper,Hydration,Gooey]
+    stats:
+    - [68, 75, 53, 83, 113, 60]
+    tags:
+    - []
+    weight:
+    - 17.5
+    height:
+    - 0.8
+
+  Goodra:
+    introduction: xy
+    types:
+    - [Dragon]
+    egggroups:
+    - [Dragon]
+    abilities:
+    - [Sap Sipper,Hydration,Gooey]
+    stats:
+    - [90, 100, 70, 110, 150, 80]
+    tags:
+    - []
+    weight:
+    - 150.5
+    height:
+    - 2
+
+  Klefki:
+    introduction: xy
+    types:
+    - [Steel,Fairy]
+    egggroups:
+    - [Mineral]
+    abilities:
+    - [Prankster,Magician]
+    stats:
+    - [57, 80, 91, 80, 87, 75]
+    tags:
+    - []
+    weight:
+    - 3
+    height:
+    - 0.2
+
+  Phantump:
+    introduction: xy
+    types:
+    - [Ghost,Grass]
+    egggroups:
+    - [Grass,Amorphous]
+    abilities:
+    - [Natural Cure,Frisk,Harvest]
+    stats:
+    - [43, 70, 48, 50, 60, 38]
+    tags:
+    - []
+    weight:
+    - 7
+    height:
+    - 0.4
+
+  Trevenant:
+    introduction: xy
+    types:
+    - [Ghost,Grass]
+    egggroups:
+    - [Grass,Amorphous]
+    abilities:
+    - [Natural Cure,Frisk,Harvest]
+    stats:
+    - [85, 110, 76, 65, 82, 56]
+    tags:
+    - []
+    weight:
+    - 71
+    height:
+    - 1.5
+
+  Pumpkaboo:
+    introduction: xy
+    types:
+    - [Ghost,Grass]
+    egggroups:
+    - [Amorphous]
+    abilities:
+    - [Pickup,Frisk,Insomnia]
+    stats:
+    - [49, 66, 70, 44, 55, 51]
+    tags:
+    - []
+    weight:
+    - 0
+    height:
+    - 0
+
+  Pumpkaboo-Small:
+    introduction: xy
+    types:
+    - [Ghost,Grass]
+    egggroups:
+    - [Amorphous]
+    abilities:
+    - [Pickup,Frisk,Insomnia]
+    stats:
+    - [44, 66, 70, 44, 55, 56]
+    tags:
+    - []
+    weight:
+    - 0
+    height:
+    - 0
+
+  Pumpkaboo-Large:
+    introduction: xy
+    types:
+    - [Ghost,Grass]
+    egggroups:
+    - [Amorphous]
+    abilities:
+    - [Pickup,Frisk,Insomnia]
+    stats:
+    - [54, 66, 70, 44, 55, 46]
+    tags:
+    - []
+    weight:
+    - 0
+    height:
+    - 0
+
+  Pumpkaboo-Super:
+    introduction: xy
+    types:
+    - [Ghost,Grass]
+    egggroups:
+    - [Amorphous]
+    abilities:
+    - [Pickup,Frisk,Insomnia]
+    stats:
+    - [59, 66, 70, 44, 55, 41]
+    tags:
+    - []
+    weight:
+    - 0
+    height:
+    - 0
+
+  Gourgeist:
+    introduction: xy
+    types:
+    - [Ghost,Grass]
+    egggroups:
+    - [Amorphous]
+    abilities:
+    - [Pickup,Frisk,Insomnia]
+    stats:
+    - [65, 90, 122, 58, 75, 84]
+    tags:
+    - []
+    weight:
+    - 0
+    height:
+    - 0
+
+  Gourgeist-Small:
+    introduction: xy
+    types:
+    - [Ghost,Grass]
+    egggroups:
+    - [Amorphous]
+    abilities:
+    - [Pickup,Frisk,Insomnia]
+    stats:
+    - [55, 85, 122, 58, 75, 99]
+    tags:
+    - []
+    weight:
+    - 0
+    height:
+    - 0
+
+  Gourgeist-Large:
+    introduction: xy
+    types:
+    - [Ghost,Grass]
+    egggroups:
+    - [Amorphous]
+    abilities:
+    - [Pickup,Frisk,Insomnia]
+    stats:
+    - [75, 95, 122, 58, 75, 69]
+    tags:
+    - []
+    weight:
+    - 0
+    height:
+    - 0
+
+  Gourgeist-Super:
+    introduction: xy
+    types:
+    - [Ghost,Grass]
+    egggroups:
+    - [Amorphous]
+    abilities:
+    - [Pickup,Frisk,Insomnia]
+    stats:
+    - [85, 100, 122, 58, 75, 54]
+    tags:
+    - []
+    weight:
+    - 0
+    height:
+    - 0
+
+  Bergmite:
+    introduction: xy
+    types:
+    - [Ice]
+    egggroups:
+    - [Monster]
+    abilities:
+    - [Own Tempo,Ice Body,Sturdy]
+    stats:
+    - [56, 69, 86, 32, 36, 28]
+    tags:
+    - []
+    weight:
+    - 99.5
+    height:
+    - 1
+
+  Avalugg:
+    introduction: xy
+    types:
+    - [Ice]
+    egggroups:
+    - [Monster]
+    abilities:
+    - [Own Tempo,Ice Body,Sturdy]
+    stats:
+    - [95, 117, 184, 44, 46, 28]
+    tags:
+    - []
+    weight:
+    - 505
+    height:
+    - 2
+
+  Noibat:
+    introduction: xy
+    types:
+    - [Flying,Dragon]
+    egggroups:
+    - [Flying]
+    abilities:
+    - [Frisk,Infiltrator,Telepathy]
+    stats:
+    - [40, 30, 35, 45, 40, 55]
+    tags:
+    - []
+    weight:
+    - 8
+    height:
+    - 0.5
+
+  Noivern:
+    introduction: xy
+    types:
+    - [Flying,Dragon]
+    egggroups:
+    - [Flying]
+    abilities:
+    - [Frisk,Infiltrator,Telepathy]
+    stats:
+    - [85, 70, 80, 97, 80, 123]
+    tags:
+    - []
+    weight:
+    - 85
+    height:
+    - 1.5
+
+  Xerneas:
+    introduction: xy
+    types:
+    - [Fairy]
+    egggroups:
+    - [Undiscovered]
+    abilities:
+    - [Fairy Aura]
+    stats:
+    - [126, 131, 95, 131, 98, 99]
+    tags:
+    - []
+    weight:
+    - 215
+    height:
+    - 3
+
+  Yveltal:
+    introduction: xy
+    types:
+    - [Dark,Flying]
+    egggroups:
+    - [Undiscovered]
+    abilities:
+    - [Dark Aura]
+    stats:
+    - [126, 131, 95, 131, 98, 99]
+    tags:
+    - []
+    weight:
+    - 203
+    height:
+    - 5.8
+
+  Zygarde:
+    introduction: xy
+    types:
+    - [Dragon,Ground]
+    egggroups:
+    - [Undiscovered]
+    abilities:
+    - [Aura Break]
+    stats:
+    - [108, 100, 121, 81, 95, 95]
+    tags:
+    - []
+    weight:
+    - 305
+    height:
+    - 5
+

@@ -34,7 +34,9 @@ moves:
       - Boosts Def 2 stages.
     accuracy: [0]
     power: [0]
-    pp: [40]
+    pp:
+    - 40
+    - xy: 20
     priority: [0]
     target: [user]
     
@@ -130,8 +132,11 @@ moves:
     description:
       - High critical hit rate.
     accuracy: [95]
-    power: [55]
-    pp: [25]
+    power:
+    - 55
+    - xy: 60
+    pp:
+    - 25
     priority: [0]
     target: [enemies]
     
@@ -265,7 +270,9 @@ moves:
     description:
       - Base Power doubles if the foe takes damage in the same turn, before the attack hits.
     accuracy: [100]
-    power: [50]
+    power:
+    - 50
+    - xy: 60
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -313,7 +320,9 @@ moves:
     description:
       - Ignores accuracy modifiers.
     accuracy: [0]
-    power: [90]
+    power:
+    - 90
+    - xy: 80
     pp: [20]
     priority: [0]
     target: [enemy]
@@ -376,7 +385,9 @@ moves:
       - Boosts Def 2 stages.
     accuracy: [0]
     power: [0]
-    pp: [30]
+    pp:
+    - 30
+    - xy: 20
     priority: [0]
     target: [user]
     
@@ -506,7 +517,9 @@ moves:
     accuracy:
     - 90
     - {gs: 70}
-    power: [120]
+    power:
+    - 120
+    - xy: 110
     pp: [5]
     priority: [0]
     target: [enemies]
@@ -650,7 +663,9 @@ moves:
     description:
       - 10% chance to lower Spe 1 stage.
     accuracy: [100]
-    power: [20]
+    power:
+    - 20
+    - xy: 40
     pp: [30]
     priority: [0]
     target: [enemies]
@@ -805,6 +820,7 @@ moves:
     introduction: gs
     types:
     - Normal
+    - xy: Fairy
     description:
       - Lowers foe's Atk 2 stages.
     accuracy: [100]
@@ -820,7 +836,9 @@ moves:
     description:
       - Confuses the target.
     accuracy: [100]
-    power: [60]
+    power:
+    - 60
+    - xy: 65
     pp: [20]
     priority: [0]
     target: [enemy]
@@ -1052,7 +1070,9 @@ moves:
     power:
     - 40
     - {bw: 60}
-    pp: [40]
+    pp:
+    - 40
+    - xy: 25
     priority: [0]
     target: [enemy]
     
@@ -1065,7 +1085,9 @@ moves:
     accuracy:
     - 85
     - {bw: 90}
-    power: [90]
+    power:
+    - 90
+    - xy: 100
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -1399,7 +1421,9 @@ moves:
     description:
       - Lowers user's SpA 2 stages.
     accuracy: [90]
-    power: [140]
+    power:
+    - 140
+    - xy: 130
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -1435,7 +1459,9 @@ moves:
     description:
       - No additional effect.
     accuracy: [100]
-    power: [90]
+    power:
+    - 90
+    - xy: 85
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -1711,7 +1737,9 @@ moves:
     description:
       - 10% chance to lower SpD 1 stage.
     accuracy: [100]
-    power: [80]
+    power:
+    - 80
+    - xy: 90
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -1763,7 +1791,9 @@ moves:
       - 10% chance to flinch.
     accuracy: [100]
     power: [80]
-    pp: [30]
+    pp:
+    - 30
+    - xy: 20
     priority: [0]
     target: [enemy]
     
@@ -1901,7 +1931,9 @@ moves:
       - 30% chance to burn.
       - gs: 10% chance to burn.
     accuracy: [85]
-    power: [120]
+    power:
+    - 120
+    - xy: 110
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -1925,7 +1957,9 @@ moves:
     description:
       - Use with Grass Pledge and Water Pledge for additional effect.
     accuracy: [100]
-    power: [50]
+    power:
+    - 50
+    - xy: 80
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -2029,7 +2063,9 @@ moves:
     description:
       - 10% chance to burn.
     accuracy: [100]
-    power: [95]
+    power:
+    - 95
+    - xy: 90
     pp: [15]
     priority: [0]
     target: [enemy]
@@ -2235,7 +2271,9 @@ moves:
     description:
       - Always results in a critical hit.
     accuracy: [90]
-    power: [40]
+    power:
+    - 40
+    - xy: 60
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -2275,7 +2313,8 @@ moves:
     accuracy: [95]
     power:
     - 10
-    - {bw: 20}
+    - bw: 20
+    - xy: 40
     pp: [20]
     priority: [0]
     target: [enemy]
@@ -2324,13 +2363,14 @@ moves:
       - Deals damage at the end of the turn after three turns.
     accuracy:
     - 90
-    - {bw: 100}
+    - bw: 100
     power:
     - 80
-    - {bw: 100}
+    - bw: 100
+    - xy: 120
     pp:
     - 15
-    - {bw: 10}
+    - bw: 10
     priority: [0]
     target: [enemy]
     
@@ -2406,7 +2446,8 @@ moves:
       - Paralyzes the target.
     accuracy:
     - 75
-    - {bw: 90}
+    - bw: 90
+    - xy: 100
     power: [0]
     pp: [30]
     priority: [0]
@@ -2433,7 +2474,9 @@ moves:
     description:
       - Use with Grass Pledge and Water Pledge for additional effect.
     accuracy: [100]
-    power: [50]
+    power:
+    - 50
+    - xy: 80
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -2542,8 +2585,11 @@ moves:
     - Poison
     description:
       - 30% chance to poison.
-    accuracy: [70]
-    power: [120]
+    accuracy:
+    - 70
+    - xy: 80
+    power:
+    - 120
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -2762,7 +2808,9 @@ moves:
     description:
       - 10% chance to burn.
     accuracy: [90]
-    power: [100]
+    power:
+    - 100
+    - xy: 95
     pp: [10]
     priority: [0]
     target: [enemies]
@@ -2800,7 +2848,9 @@ moves:
     description:
       - Base Power doubles if target has a status ailment.
     accuracy: [100]
-    power: [50]
+    power:
+    - 50
+    - xy: 65
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -2828,7 +2878,8 @@ moves:
     types:
     - Normal
     description:
-      - Has 30-70 power and can be any type but Normal, based on the user's DVs.
+    - Has 30-70 power and can be any type but Normal, based on the user's IVs.
+    - xy: Has 30-60 power and can be any type but Normal, based on the user's IVs.
     accuracy: [100]
     power:
     - 0
@@ -2906,7 +2957,9 @@ moves:
     description:
       - 30% chance to confuse the target.
     accuracy: [70]
-    power: [120]
+    power:
+    - 120
+    - xy: 110
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -2930,7 +2983,9 @@ moves:
     description:
       - No additional effect.
     accuracy: [80]
-    power: [120]
+    power:
+    - 120
+    - xy: 110
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -3003,7 +3058,9 @@ moves:
     description:
       - 10% chance to freeze the target.
     accuracy: [100]
-    power: [95]
+    power:
+    - 95
+    - xy: 90
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -3113,7 +3170,9 @@ moves:
     description:
       - Removes the target's Berry.
     accuracy: [100]
-    power: [30]
+    power:
+    - 30
+    - xy: 60
     pp: [15]
     priority: [0]
     target: [enemies]
@@ -3237,9 +3296,12 @@ moves:
     types:
     - Dark
     description:
-      - Removes the target's item.
+    - Removes the target's item.
+    - xy: Power is boosted 1.5x if user is holding a removable item. Removes the target's item.
     accuracy: [100]
-    power: [20]
+    power:
+    - 20
+    - xy: 65
     pp: [20]
     priority: [0]
     target: [enemy]
@@ -3291,7 +3353,9 @@ moves:
     description:
       - Lowers user's SpA 2 stages.
     accuracy: [90]
-    power: [140]
+    power:
+    - 140
+    - xy: 130
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -3352,7 +3416,9 @@ moves:
     description:
       - 30% chance to paralyze the target.
     accuracy: [100]
-    power: [20]
+    power:
+    - 20
+    - xy: 30
     pp: [30]
     priority: [0]
     target: [enemy]
@@ -3419,7 +3485,9 @@ moves:
     description:
       - Lowers target's Speed by 1 stage.
     accuracy: [100]
-    power: [60]
+    power:
+    - 60
+    - xy: 65
     pp: [20]
     priority: [0]
     target: [enemy]
@@ -3519,7 +3587,9 @@ moves:
     accuracy:
     - 70
     - {bw: 75}
-    power: [120]
+    power:
+    - 120
+    - xy: 100
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -3708,8 +3778,12 @@ moves:
     - Steel
     description:
       - 20% chance to raise Atk 1 stage.
-    accuracy: [85]
-    power: [100]
+    accuracy:
+    - 85
+    - xy: 90
+    power:
+    - 100
+    - xy: 90
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -3774,7 +3848,9 @@ moves:
       - Boosts evasion 1 stage.
     accuracy: [0]
     power: [0]
-    pp: [20]
+    pp:
+    - 20
+    - xy: 10
     priority: [0]
     target: [user]
     
@@ -3860,6 +3936,7 @@ moves:
     introduction: gs
     types:
     - Normal
+    - xy: Fairy
     description:
       - Heals variably depending on the weather.
     accuracy: [0]
@@ -3935,7 +4012,9 @@ moves:
     description:
       - 30% chance to lower accuracy 1 stage.
     accuracy: [85]
-    power: [95]
+    power:
+    - 95
+    - xy: 90
     pp: [10]
     priority: [0]
     target: [enemies]
@@ -4097,7 +4176,9 @@ moves:
     description:
       - Lowers SpA 2 stages.
     accuracy: [90]
-    power: [140]
+    power:
+    - 140
+    - xy: 130
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -4185,8 +4266,12 @@ moves:
     - Bug
     description:
       - Hits 2-5 times in one turn.
-    accuracy: [85]
-    power: [14]
+    accuracy:
+    - 85
+    - xy: 95
+    power:
+    - 14
+    - xy: 25
     pp: [20]
     priority: [0]
     target: [enemy]
@@ -4223,7 +4308,8 @@ moves:
       - Poisons the target.
     accuracy:
     - 55
-    - {bw: 90}
+    - bw: 90
+    - xy: 80
     power: [0]
     pp: [40]
     priority: [0]
@@ -4309,7 +4395,9 @@ moves:
     description:
       - No additional effect.
     accuracy: [100]
-    power: [70]
+    power:
+    - 70
+    - xy: 80
     pp: [20]
     priority: [0]
     target: [enemy]
@@ -4458,7 +4546,9 @@ moves:
     - Psychic
     description:
       - Shifts the user's status effect to the foe.
-    accuracy: [90]
+    accuracy:
+    - 90
+    - xy: 100
     power: [0]
     pp: [10]
     priority: [0]
@@ -4812,14 +4902,15 @@ moves:
     description:
       - Has no effect.
       - gs: Forces a switch to a random Pokemon.
+    # Serebii suggests this is never miss now?
     accuracy: [100]
     power: [0]
     pp: [20]
     priority:
     - 0
-    - {gs: -1}
-    - {rs: -5}
-    - {dp: -6}
+    - gs: -1
+    - rs: -5
+    - dp: -6
     target: [enemy]
     
   Roar of Time:
@@ -4917,8 +5008,12 @@ moves:
     - Rock
     description:
       - Lowers Spe 1 stage.
-    accuracy: [80]
-    power: [50]
+    accuracy:
+    - 80
+    - xy: 95
+    power:
+    - 50
+    - xy: 60
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -5015,7 +5110,9 @@ moves:
       - Ignores the target's stat changes.
     accuracy: [100]
     power: [90]
-    pp: [20]
+    pp:
+    - 20
+    - xy: 15
     priority: [0]
     target: [enemy]
     
@@ -5409,7 +5506,9 @@ moves:
       - Charges up turn one; attacks turn two.
       - gs: Charges up turn one; attacks turn two. Boosts Def 1 stage.
     accuracy: [100]
-    power: [100]
+    power:
+    - 100
+    - xy: 130
     pp: [15]
     priority: [0]
     target: [enemy]
@@ -5566,7 +5665,9 @@ moves:
     description:
       - Has 120 power on a paralyzed target, but cures it of paralysis.
     accuracy: [100]
-    power: [60]
+    power:
+    - 60
+    - xy: 70
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -5578,7 +5679,9 @@ moves:
     description:
       - 40% chance to poison.
     accuracy: [70]
-    power: [20]
+    power:
+    - 20
+    - xy: 30
     pp: [20]
     priority: [0]
     target: [enemy]
@@ -5628,7 +5731,9 @@ moves:
     description:
       - Can only be used while sleeping. 30% chance to flinch.
     accuracy: [100]
-    power: [40]
+    power:
+    - 40
+    - xy: 50
     pp: [15]
     priority: [0]
     target: [enemy]
@@ -5887,7 +5992,9 @@ moves:
     description:
       - Always results in a critical hit.
     accuracy: [100]
-    power: [40]
+    power:
+    - 40
+    - xy: 60
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -5937,7 +6044,9 @@ moves:
     description:
       - Lowers target's Special Attack by 1 stage.
     accuracy: [100]
-    power: [30]
+    power:
+    - 30
+    - xy: 50
     pp: [20]
     priority: [0]
     target: [enemies]
@@ -6047,7 +6156,9 @@ moves:
     description:
       - No additional effect.
     accuracy: [100]
-    power: [95]
+    power:
+    - 95
+    - xy: 90
     pp: [15]
     priority: [0]
     target: [others]
@@ -6080,6 +6191,7 @@ moves:
     introduction: gs
     types:
     - Normal
+    - xy: Fairy
     description:
       - Confuses the target.
     accuracy: [75]
@@ -6132,7 +6244,9 @@ moves:
       - Boosts Attack 2 stages.
     accuracy: [0]
     power: [0]
-    pp: [30]
+    pp:
+    - 30
+    - xy: 20
     priority: [0]
     target: [user]
     
@@ -6143,7 +6257,9 @@ moves:
     description:
       - Only damages targets of the same type as the user.
     accuracy: [100]
-    power: [70]
+    power:
+    - 70
+    - xy: 120
     pp: [15]
     priority: [0]
     target: [others]
@@ -6255,7 +6371,9 @@ moves:
     description:
       - Type will change depending on the type of Drive.
     accuracy: [100]
-    power: [85]
+    power:
+    - 85
+    - xy: 120
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -6303,8 +6421,12 @@ moves:
     description:
       - Steals target's item.
     accuracy: [100]
-    power: [40]
-    pp: [10]
+    power:
+    - 40
+    - xy: 60
+    pp:
+    - 10
+    - xy: 25
     priority: [0]
     target: [enemy]
     
@@ -6333,7 +6455,9 @@ moves:
       - 10% chance to paralyze.
       - gs: 30% chance to paralyze.
     accuracy: [70]
-    power: [120]
+    power:
+    - 120
+    - xy: 110
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -6393,7 +6517,9 @@ moves:
     description:
       - 10% chance to paralyze.
     accuracy: [100]
-    power: [95]
+    power:
+    - 95
+    - xy: 90
     pp: [15]
     priority: [0]
     target: [enemy]
@@ -6628,7 +6754,9 @@ moves:
     description:
       - No additional effect.
     accuracy: [100]
-    power: [35]
+    power:
+    - 35
+    - xy: 45
     pp:
     - 10
     - {dp: 15}
@@ -6678,7 +6806,9 @@ moves:
     description:
       - Double Base Power if used on a sleeping foe.
     accuracy: [100]
-    power: [60]
+    power:
+    - 60
+    - xy: 70
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -6702,7 +6832,9 @@ moves:
     description:
       - Use with Fire Pledge and Grass Pledge for additional effect.
     accuracy: [100]
-    power: [50]
+    power:
+    - 50
+    - xy: 80
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -6790,6 +6922,7 @@ moves:
     description:
       - Has no effect.
       - gs: Forces the target to switch to a random Pokemon.
+    # This is never miss?
     accuracy: [100]
     power: [0]
     pp: [20]
@@ -6830,7 +6963,9 @@ moves:
     - Fire
     description:
       - Burns the foe.
-    accuracy: [75]
+    accuracy:
+    - 75
+    - xy: 85
     power: [0]
     pp: [15]
     priority: [0]

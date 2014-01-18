@@ -28,7 +28,7 @@ abilities:
   Anticipation:
     introduction: dp
     description:
-      - Alerts the PokÃ©mon of certain dangerous moves.
+      - Alerts the Pokemon of certain dangerous moves.
 
   Arena Trap:
     introduction: rs
@@ -63,7 +63,7 @@ abilities:
   Clear Body:
     introduction: rs
     description:
-      - Stops the enemy from lowering this PokÃ©mon's stats.
+      - Stops the enemy from lowering this Pokemon's stats.
 
   Cloud Nine:
     introduction: rs
@@ -73,12 +73,12 @@ abilities:
   Color Change:
     introduction: rs
     description:
-      - Changes user's type to type of last attack that hit this PokÃ©mon.
+      - Changes user's type to type of last attack that hit this Pokemon.
 
   Compoundeyes:
     introduction: rs
     description:
-      - Raises accuracy by 30% and increases the probability of wild PokÃ©mon holding items.
+      - Raises accuracy by 30% and increases the probability of wild Pokemon holding items.
 
   Contrary:
     introduction: bw
@@ -93,7 +93,7 @@ abilities:
   Cute Charm:
     introduction: rs
     description:
-      - Can infatuate PokÃ©mon of opposite gender when struck and increases their wild encounter rate.
+      - Can infatuate Pokemon of opposite gender when struck and increases their wild encounter rate.
 
   Damp:
     introduction: rs
@@ -165,7 +165,7 @@ abilities:
   Flower Gift:
     introduction: dp
     description:
-      - Raises stats of this PokÃ©mon and its partner in sun.
+      - Raises stats of this Pokemon and its partner in sun.
 
   Forecast:
     introduction: rs
@@ -230,7 +230,7 @@ abilities:
   Hustle:
     introduction: rs
     description:
-      - Physical moves do 50% more damage at the cost of 20% accuracy. Increases wild encounter rate with higher level PokÃ©mon.
+      - Physical moves do 50% more damage at the cost of 20% accuracy. Increases wild encounter rate with higher level Pokemon.
 
   Hydration:
     introduction: dp
@@ -240,7 +240,7 @@ abilities:
   Hyper Cutter:
     introduction: rs
     description:
-      - Prevents the enemy from lowering this PokÃ©mon's Attack. Increases Cut's area of effect.
+      - Prevents the enemy from lowering this Pokemon's Attack. Increases Cut's area of effect.
 
   Ice Body:
     introduction: dp
@@ -260,7 +260,7 @@ abilities:
   Immunity:
     introduction: rs
     description:
-      - This PokÃ©mon cannot be poisoned.
+      - This Pokemon cannot be poisoned.
 
   Imposter:
     introduction: bw
@@ -306,13 +306,13 @@ abilities:
   Keen Eye:
     introduction: rs
     description:
-      - PokÃ©mon's accuracy cannot be lowered. Decreases wild encounter rate.
-      - xy: PokÃ©mon's accuracy cannot be lowered. Decreases wild encounter rate.
+      - Pokemon's accuracy cannot be lowered. Decreases wild encounter rate.
+      - xy: Pokemon's accuracy cannot be lowered. Decreases wild encounter rate.
 
   Klutz:
     introduction: dp
     description:
-      - This PokÃ©mon both is unaffected by and will not utilize held items.
+      - This Pokemon both is unaffected by and will not utilize held items.
 
   Leaf Guard:
     introduction: dp
@@ -322,7 +322,7 @@ abilities:
   Levitate:
     introduction: rs
     description:
-      - This PokÃ©mon is immune to Ground-type moves.
+      - This Pokemon is immune to Ground-type moves.
 
   Light Metal:
     introduction: bw
@@ -332,7 +332,7 @@ abilities:
   Lightningrod:
     introduction: rs
     description:
-      - All Electric-type attacks hit this PokÃ©mon.
+      - All Electric-type attacks hit this Pokemon.
 
   Limber:
     introduction: rs
@@ -362,7 +362,7 @@ abilities:
   Magnet Pull:
     introduction: rs
     description:
-      - Prevents Steel-type PokÃ©mon from switching. Increases the chance of encountering a Steel-type PokÃ©mon in the wild.
+      - Prevents Steel-type Pokemon from switching. Increases the chance of encountering a Steel-type Pokemon in the wild.
 
   Marvel Scale:
     introduction: rs
@@ -372,7 +372,7 @@ abilities:
   Minus:
     introduction: rs
     description:
-      - If allied with a PokÃ©mon with Plus, its Special Attack increases 50%.
+      - If allied with a Pokemon with Plus, its Special Attack increases 50%.
 
   Mold Breaker:
     introduction: dp
@@ -417,12 +417,12 @@ abilities:
   No Guard:
     introduction: dp
     description:
-      - All attacks used by and used on this PokÃ©mon will never miss.
+      - All attacks used by and used on this Pokemon will never miss.
 
   Normalize:
     introduction: dp
     description:
-      - All moves used by this PokÃ©mon are Normal-type.
+      - All moves used by this Pokemon are Normal-type.
 
   Oblivious:
     introduction: rs
@@ -460,7 +460,7 @@ abilities:
   Plus:
     introduction: rs
     description:
-      - If allied with a PokÃ©mon with Minus, its Special Attack increases 50%.
+      - If allied with a Pokemon with Minus, its Special Attack increases 50%.
 
   Poison Heal:
     introduction: dp
@@ -535,7 +535,7 @@ abilities:
   Run Away:
     introduction: rs
     description:
-      - Increases the chance of successfully escaping battle with a wild PokÃ©mon.
+      - Increases the chance of successfully escaping battle with a wild Pokemon.
 
   Sand Force:
     introduction: bw
@@ -571,7 +571,7 @@ abilities:
   Serene Grace:
     introduction: rs
     description:
-      - This PokÃ©mon's secondary effect chances are doubled.
+      - This Pokemon's secondary effect chances are doubled.
 
   Shadow Tag:
     introduction: rs
@@ -652,7 +652,7 @@ abilities:
   Stall:
     introduction: dp
     description:
-      - This PokÃ©mon moves last.
+      - This Pokemon moves last.
 
   Static:
     introduction: rs
@@ -672,12 +672,12 @@ abilities:
   Sticky Hold:
     introduction: rs
     description:
-      - This PokÃ©mon's item cannot be removed. Increases the chance of encountering PokÃ©mon while fishing.
+      - This Pokemon's item cannot be removed. Increases the chance of encountering Pokemon while fishing.
 
   Storm Drain:
     introduction: dp
     description:
-      - All Water-type attacks hit this PokÃ©mon.
+      - All Water-type attacks hit this Pokemon.
 
   Sturdy:
     introduction: rs
@@ -687,7 +687,7 @@ abilities:
   Suction Cups:
     introduction: rs
     description:
-      - Cannot be forced to switch. Increases chance of encountering PokÃ©mon while fishing.
+      - Cannot be forced to switch. Increases chance of encountering Pokemon while fishing.
 
   Super Luck:
     introduction: dp
@@ -707,7 +707,7 @@ abilities:
   Synchronize:
     introduction: rs
     description:
-      - When statused, the enemy is also statused. Can pass nature to wild PokÃ©mon.
+      - When statused, the enemy is also statused. Can pass nature to wild Pokemon.
 
   Tangled Feet:
     introduction: dp
@@ -757,7 +757,7 @@ abilities:
   Truant:
     introduction: rs
     description:
-      - This PokÃ©mon does nothing every other turn.
+      - This Pokemon does nothing every other turn.
 
   Turboblaze:
     introduction: bw
@@ -767,7 +767,7 @@ abilities:
   Unaware:
     introduction: dp
     description:
-      - Ignores stat boosts and debuffs on other PokÃ©mon.
+      - Ignores stat boosts and debuffs on other Pokemon.
 
   Unburden:
     introduction: dp
@@ -787,7 +787,7 @@ abilities:
   Vital Spirit:
     introduction: rs
     description:
-      - Prevents sleep. Increases wild encounters with higher level PokÃ©mon.
+      - Prevents sleep. Increases wild encounters with higher level Pokemon.
 
   Volt Absorb:
     introduction: rs
@@ -812,12 +812,12 @@ abilities:
   White Smoke:
     introduction: rs
     description:
-      - Prevents the enemy from lowering this PokÃ©mon's stats and decreases wild encounter rate.
+      - Prevents the enemy from lowering this Pokemon's stats and decreases wild encounter rate.
 
   Wonder Guard:
     introduction: rs
     description:
-      - Only super effective attacks harm this PokÃ©mon.
+      - Only super effective attacks harm this Pokemon.
 
   Wonder Skin:
     introduction: bw

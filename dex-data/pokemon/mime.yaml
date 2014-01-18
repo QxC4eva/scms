@@ -3,6 +3,7 @@ pokemon:
     introduction: dp
     types:
     - [Psychic]
+    - xy: [Psychic, Fairy]
     egggroups:
     - []
     abilities:
@@ -17,6 +18,7 @@ pokemon:
     introduction: rb
     types:
     - [Psychic]
+    - xy: [Psychic, Fairy]
     egggroups:
     - [Humanshape]
     abilities:

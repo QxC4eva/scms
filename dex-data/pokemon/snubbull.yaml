@@ -3,6 +3,7 @@ pokemon:
     introduction: gs
     types:
     - [Normal]
+    - xy: [Fairy]
     egggroups:
     - [Fairy, Ground]
     abilities:
@@ -19,6 +20,7 @@ pokemon:
     introduction: gs
     types:
     - [Normal]
+    - xy: [Fairy]
     egggroups:
     - [Fairy, Ground]
     abilities:

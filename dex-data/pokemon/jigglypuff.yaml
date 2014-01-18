@@ -3,6 +3,7 @@ pokemon:
     introduction: gs
     types:
     - [Normal]
+    - xy: [Fairy]
     egggroups:
     - []
     abilities:
@@ -19,6 +20,7 @@ pokemon:
     introduction: rb
     types:
     - [Normal]
+    - xy: [Fairy]
     egggroups:
     - [Fairy]
     abilities:
@@ -35,6 +37,7 @@ pokemon:
     introduction: rb
     types:
     - [Normal]
+    - xy: [Fairy]
     egggroups:
     - [Fairy]
     abilities:

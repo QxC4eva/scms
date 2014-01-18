@@ -3,6 +3,7 @@ pokemon:
     introduction: bw
     types:
     - [Grass]
+    - xy: [Grass, Fairy]
     egggroups:
     - [Fairy, Plant]
     abilities:
@@ -17,6 +18,7 @@ pokemon:
     introduction: bw
     types:
     - [Grass]
+    - xy: [Grass, Fairy]
     egggroups:
     - [Fairy, Plant]
     abilities:

@@ -3,6 +3,7 @@ pokemon:
     introduction: gs
     types:
     - [Normal]
+    - xy: [Fairy]
     egggroups:
     - []
     abilities:
@@ -19,6 +20,7 @@ pokemon:
     introduction: gs
     types:
     - [Flying, Normal]
+    - xy: [Fairy, Flying]
     egggroups:
     - [Fairy, Flying]
     abilities:
@@ -35,6 +37,7 @@ pokemon:
     introduction: dp
     types:
     - [Flying, Normal]
+    - xy: [Flying, Fairy]
     egggroups:
     - [Fairy, Flying]
     abilities:

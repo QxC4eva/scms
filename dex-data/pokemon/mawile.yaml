@@ -3,6 +3,7 @@ pokemon:
     introduction: rs
     types:
     - [Steel]
+    - xy: [Steel, Fairy]
     egggroups:
     - [Fairy, Ground]
     abilities:

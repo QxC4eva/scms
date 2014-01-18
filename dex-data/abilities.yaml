@@ -119,11 +119,13 @@ abilities:
     introduction: rs
     description:
       - Summons permanent rain.
+      - xy: Summons rain.
 
   Drought:
     introduction: rs
     description:
       - Summons permanent sun.
+      - xy: Summons sun.
 
   Dry Skin:
     introduction: dp
@@ -269,6 +271,7 @@ abilities:
     introduction: bw
     description:
       - The wielder bypasses the foe's Light Screen, Reflect, Mist, and Safeguard.
+      - xy: The wielder bypasses the foe's Light Screen, Reflect, Mist, Safeguard, and Substitute.
 
   Inner Focus:
     introduction: rs
@@ -304,6 +307,7 @@ abilities:
     introduction: rs
     description:
       - PokÃ©mon's accuracy cannot be lowered. Decreases wild encounter rate.
+      - xy: PokÃ©mon's accuracy cannot be lowered. Decreases wild encounter rate.
 
   Klutz:
     introduction: dp
@@ -425,11 +429,13 @@ abilities:
     description:
       - Grants immunity to infatuation.
       - dp: Grants immunity to infatuation and Captivate.
+      - xy: Grants immunity to infatuation, Captivate, and taunt.
 
   Overcoat:
     introduction: bw
     description:
       - Grants immunity to damage from weather effects.
+      - xy: Grants immunity to damage from weather effects and powder moves.
 
   Overgrow:
     introduction: rs
@@ -545,6 +551,7 @@ abilities:
     introduction: rs
     description:
       - Summons permanent sandstorm.
+      - xy: Summons sandstorm.
 
   Sand Veil:
     introduction: rs
@@ -620,6 +627,7 @@ abilities:
     introduction: dp
     description:
       - Summons permanent hail.
+      - xy: Summons hail.
 
   Solar Power:
     introduction: dp

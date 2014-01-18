@@ -37,6 +37,7 @@ pokemon:
     - [Sand Force, Sturdy]
     stats:
     - [85, 135, 130, 60, 70, 25]
+    - xy: [85, 135, 130, 60, 80, 25]
     tags:
     - [nu]
     weight: [260]

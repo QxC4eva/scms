@@ -37,6 +37,7 @@ pokemon:
     - [Intimidate, Sand Rush, Scrappy]
     stats:
     - [85, 100, 90, 45, 90, 80]
+    - xy: [85, 110, 90, 45, 90, 80]
     tags:
     - [nu]
     weight: [61]

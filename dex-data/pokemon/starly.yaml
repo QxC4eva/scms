@@ -37,6 +37,7 @@ pokemon:
     - [Intimidate, Reckless]
     stats:
     - [85, 120, 70, 50, 50, 100]
+    - xy: [85, 120, 70, 50, 60, 100]
     tags:
     - [bl]
     weight: [24.9]

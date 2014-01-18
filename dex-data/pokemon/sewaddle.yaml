@@ -37,6 +37,7 @@ pokemon:
     - [Chlorophyll, Overcoat, Swarm]
     stats:
     - [75, 103, 80, 70, 70, 92]
+    - xy: [75, 103, 80, 70, 80, 92]
     tags:
     - [nu]
     weight: [20.5]

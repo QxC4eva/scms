@@ -8,6 +8,7 @@ pokemon:
     abilities:
     - [Plus]
     - bw: [Plus]
+    - xy: [Plus, Lightningrod]
     stats:
     - [60, 50, 40, 85, 75, 95]
     tags:

@@ -7,6 +7,7 @@ pokemon:
     - [Bug]
     abilities:
     - [Poison Point, Quick Feet, Swarm]
+    - xy: [Poison Point, Speed Boost, Swarm]
     stats:
     - [30, 45, 59, 30, 39, 57]
     tags:
@@ -21,6 +22,7 @@ pokemon:
     - [Bug]
     abilities:
     - [Poison Point, Quick Feet, Swarm]
+    - xy: [Poison Point, Speed Boost, Swarm]
     stats:
     - [40, 55, 99, 40, 79, 47]
     tags:

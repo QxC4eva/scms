@@ -8,6 +8,7 @@ pokemon:
     abilities:
     - [Pressure]
     - bw: [Lightningrod, Pressure]
+    - xy: [Static, Pressure]
     stats:
     - [90, 90, 85, 125, 125, 100]
     - gs: [90, 90, 85, 125, 90, 100]

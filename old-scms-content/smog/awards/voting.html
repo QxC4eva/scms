@@ -2,9 +2,792 @@
 Smog Awards Voting
 
 [Head]
-<script type="text/javascript">
-	window.onload = function(){document.write('<!DOCTYPE html><html><head><title>Smog Awards Voting</title></head><body><h1>This</h1><p>is a test</p></body></html>');}
-</script>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="http://dl.dropboxusercontent.com/u/18231634/Smogon/scripts/smogon-messager.js"></script>
+<style type="text/css">
+	/* will get to this soon */
+</style>
 
 [Page]
-This is a test.
+<form id="voting-form" action="#">
+	<label>Best OU Battler</label>
+	<select>
+	    <option value="" selected></option>
+		<option>gr8astard</option>
+		<option>bkc</option>
+		<option>mcmeghan</option>
+		<option>ojama</option>
+		<option>ctc</option>
+		<option>bloo</option>
+	</select>
+
+	<label>Best Ubers Battler</label>
+	<select>
+	    <option value="" selected></option>
+		<option>sweep</option>
+		<option>dice</option>
+		<option>blim</option>
+		<option>donkey</option>
+		<option>problems</option>
+		<option>furai</option>
+	</select>
+
+	<label>Best Smog Article</label>
+	<select>
+	    <option value="" selected></option>
+		<option>the ou council</option>
+		<option>why choose doubles for gen 6?</option>
+		<option>how to not be a dipshit on ps!</option>
+	</select>
+
+	<label>Cutest User</label>
+	<select>
+	    <option value="" selected></option>
+		<option>sandshrewz</option>
+		<option>treecko</option>
+		<option>tab</option>
+		<option>skylight</option>
+		<option>rodan</option>
+		<option>oglemi</option>
+	</select>
+
+	<label>Best Smogon Doubles Battler</label>
+	<select>
+	    <option value="" selected></option>
+		<option>mizuhime</option>
+		<option>pwnemon</option>
+		<option>laga</option>
+		<option>pocket</option>
+		<option>audiosurfer</option>
+	</select>
+
+	<label>Best LC Battler</label>
+	<select>
+	    <option value="" selected></option>
+		<option>blarajan</option>
+		<option>goddess briyella</option>
+		<option>apt-get</option>
+		<option>ray jay</option>
+		<option>elevator music</option>
+	</select>
+
+	<label>Best Showdown! Staff</label>
+	<select>
+	    <option value="" selected></option>
+		<option>hugendugen</option>
+		<option>frizy</option>
+		<option>mikel</option>
+		<option>joim</option>
+		<option>zarel</option>
+	</select>
+
+	<label>Best Team Rater</label>
+	<select>
+	    <option value="" selected></option>
+		<option>shootingstarmie</option>
+		<option>harsha</option>
+		<option>tcr</option>
+	</select>
+
+	<label>Best Programmer</label>
+	<select>
+	    <option value="" selected></option>
+		<option>joim</option>
+		<option>zarel</option>
+		<option>chaos</option>
+		<option>toast++</option>
+		<option>cathy</option>
+	</select>
+
+	<label>Best Researcher</label>
+	<select>
+	    <option value="" selected></option>
+		<option>violetpumpkin</option>
+		<option>stellar</option>
+		<option>v4victini</option>
+		<option>omegadonut</option>
+	</select>
+
+	<label>Best UU Battler</label>
+	<select>
+	    <option value="" selected></option>
+		<option>kokoloko</option>
+		<option>bad ass</option>
+		<option>destinyunknown</option>
+		<option>whitequeen</option>
+		<option>psychotic</option>
+		<option>nas</option>
+	</select>
+
+	<label>Best RU Battler</label>
+	<select>
+	    <option value="" selected></option>
+		<option>molk</option>
+		<option>august</option>
+		<option>silentverse</option>
+		<option>hot n cold</option>
+		<option>bloo</option>
+	</select>
+
+	<label>Best NU Battler</label>
+	<select>
+	    <option value="" selected></option>
+		<option>flcl</option>
+		<option>zebraiken</option>
+		<option>treecko</option>
+		<option>raseri</option>
+	</select>
+
+	<label>Best VGC Battler</label>
+	<select>
+	    <option value="" selected></option>
+		<option>biosci</option>
+		<option>kingofkongs</option>
+		<option>cybertron</option>
+		<option>tab</option>
+	</select>
+
+	<label>Best OM Battler</label>
+	<select>
+	    <option value="" selected></option>
+		<option>arcticblast</option>
+		<option>adrian marin</option>
+		<option>verbatim</option>
+		<option>oiawesomedg</option>
+	</select>
+
+
+	<label>Best Tournament Player</label>
+	<select>
+	    <option value="" selected></option>
+		<option>bkc</option>
+		<option>gr8astard</option>
+		<option>mcmeghan</option>
+		<option>ojama</option>
+		<option>bloo</option>
+	</select>
+
+	<label>Best Ladder Player</label>
+	<select>
+	    <option value="" selected></option>
+		<option>c05ta</option>
+		<option>molk</option>
+		<option>gr8astard</option>
+		<option>sweep</option>
+	</select>
+
+	<label>Best Team Builder</label>
+	<select>
+	    <option value="" selected></option>
+		<option>ojama</option>
+		<option>molk</option>
+		<option>gr8astard</option>
+		<option>dice</option>
+		<option>ctc</option>
+	</select>
+
+	<label>Luckiest Player</label>
+	<select>
+	    <option value="" selected></option>
+		<option>shakeitup</option>
+		<option>soulgazer</option>
+		<option>king</option>
+	</select>
+
+	<label>Most Intimidating Player</label>
+	<select>
+	    <option value="" selected></option>
+		<option>bloo</option>
+		<option>mcmeghan</option>
+		<option>ojama</option>
+		<option>heist</option>
+	</select>
+
+	<label>Best New Player</label>
+	<select>
+	    <option value="" selected></option>
+		<option>aerialace tm40</option>
+		<option>soulgazer</option>
+		<option>gr8astard</option>
+	</select>
+
+
+
+	<label>Best Overall Player</label>
+	<select>
+	    <option value="" selected></option>
+		<option>bloo</option>
+		<option>mcmeghan</option>
+		<option>bkc</option>
+		<option>ojama</option>
+		<option>heist</option>
+		<option>gr8astard</option>
+	</select>
+
+	<label>Best OM</label>
+	<select>
+	    <option value="" selected></option>
+		<option>balanced hackmons</option>
+		<option>tier shift</option>
+		<option>stabmons</option>
+		<option>averagemons</option>
+	</select>
+
+	<label>Meanest User</label>
+	<select>
+	    <option value="" selected></option>
+		<option>aldaron</option>
+		<option>blarajan</option>
+		<option>haunter</option>
+		<option>captkirby</option>
+	</select>
+
+	<label>Wittiest User</label>
+	<select>
+	    <option value="" selected></option>
+		<option>woodchuck</option>
+		<option>rodan</option>
+		<option>cookie</option>
+		<option>fatecrashers</option>
+	</select>
+
+	<label>Most Improved User</label>
+	<select>
+	    <option value="" selected></option>
+		<option>pwnemon</option>
+		<option>kingler12345</option>
+		<option>laurel</option>
+	</select>
+
+	<label>Best Custom Title</label>
+	<select>
+	    <option value="" selected></option>
+		<option>treecko</option>
+		<option>birkal</option>
+		<option>tab</option>
+		<option>oglemi</option>
+		<option>flcl</option>
+	</select>
+
+	<label>Best Name Change</label>
+	<select>
+	    <option value="" selected></option>
+		<option>shakeitup -> -tsunami-</option>
+		<option>poppy -> gookie</option>
+		<option>magcargo 2 -> i am koko's bitch</option>
+		<option>crashingboombang > crashinboombang</option>
+		<option>bland -> firemage</option>
+	</select>
+
+	<label>Worst Name Change</label>
+	<select>
+	    <option value="" selected></option>
+		<option>firemage -> bland</option>
+		<option>shakeitup -> -tsunami-</option>
+		<option>somalia -> susanoo91</option>
+		<option>the exeggutor -> mizuhime</option>
+		<option>hyperbeem -> ezio</option>
+		<option>crashingboombang -> crashinboombang</option>
+	</select>
+
+	<label>Best Forum Staff Member</label>
+	<select>
+	    <option value="" selected></option>
+		<option>bloo</option>
+		<option>haunter</option>
+		<option>birkal</option>
+		<option>treecko</option>
+		<option>oglemi</option>
+	</select>
+
+	<label>Best Leader</label>
+	<select>
+	    <option value="" selected></option>
+		<option>oglemi</option>
+		<option>birkal</option>
+		<option>aldaron</option>
+		<option>bloo</option>
+	</select>
+
+	<label>Best Discussion Sparker</label>
+	<select>
+	    <option value="" selected></option>
+		<option>molk</option>
+		<option>theorymon</option>
+		<option>rodan</option>
+		<option>oglemi</option>
+	</select>
+
+	<label>Best Competitive Pokemon Poster</label>
+	<select>
+	    <option value="" selected></option>
+		<option>molk</option>
+		<option>treecko</option>
+		<option>mcmeghan</option>
+		<option>flcl</option>
+		<option>alexwolf</option>
+	</select>
+
+	<label>Best #pokemon IRC Presence</label>
+	<select>
+	    <option value="" selected></option>
+		<option>yilx</option>
+		<option>treecko</option>
+		<option>dtc</option>
+		<option>rodan</option>
+		<option>molk</option>
+		<option>alkinesthetase</option>
+	</select>
+
+	<label>Best OI Poster</label>
+	<select>
+	    <option value="" selected></option>
+		<option>stellar</option>
+		<option>layell</option>
+		<option>hulavuta</option>
+		<option>dhr-107</option>
+	</select>
+
+	<label>Best CAP Poster</label>
+	<select>
+	    <option value="" selected></option>
+		<option>dougjustdoug</option>
+		<option>jas61292</option>
+		<option>detroitlolcat</option>
+		<option>birkal</option>
+	</select>
+
+	<label>Best Firebot Poster</label>
+	<select>
+	    <option value="" selected></option>
+		<option>rodan</option>
+		<option>the_iron_kenyan</option>
+		<option>cookie</option>
+	</select>
+
+	<label>Best Mentor</label>
+	<select>
+	    <option value="" selected></option>
+		<option>cherub agent</option>
+		<option>birkal</option>
+		<option>treecko</option>
+		<option>jukain</option>
+	</select>
+
+	<label>Best Tutor</label>
+	<select>
+	    <option value="" selected></option>
+		<option>limitless</option>
+		<option>ojama</option>
+	</select>
+
+	<label>Best Under-the-Influence User</label>
+	<select>
+	    <option value="" selected></option>
+		<option>jellicent</option>
+		<option>v</option>
+		<option>treecko</option>
+		<option>jabbathegriffin</option>
+	</select>
+
+	<label>Most Promising Artist</label>
+	<select>
+	    <option value="" selected></option>
+		<option>chameleonskyes</option>
+		<option>magistrum</option>
+		<option>kadew</option>
+		<option>blue frog</option>
+		<option>andrew3391</option>
+	</select>
+
+	<label>Most Improved Artist</label>
+	<select>
+	    <option value="" selected></option>
+		<option>quanyails</option>
+		<option>blue frog</option>
+		<option>andrew3391</option>
+	</select>
+
+	<label>Best Artist</label>
+	<select>
+	    <option value="" selected></option>
+		<option>yilx</option>
+		<option>bummer</option>
+		<option>rittercat</option>
+		<option>kadew</option>
+		<option>fatecrashers</option>
+		<option>chameleonskyes</option>
+	</select>
+
+	<label>Best Spriter</label>
+	<select>
+	    <option value="" selected></option>
+		<option>layell</option>
+		<option>legitimate username</option>
+		<option>princessofmusic</option>
+	</select>
+
+	<label>Best New Writer</label>
+	<select>
+	    <option value="" selected></option>
+		<option>goddess briyella</option>
+		<option>edacosis</option>
+		<option>mack the knife</option>
+	</select>
+
+	<label>Best Old-School Player</label>
+	<select>
+	    <option value="" selected></option>
+		<option>jorgen</option>
+		<option>m dragon</option>
+		<option>bkc</option>
+		<option>heist</option>
+		<option>dracomalfoy</option>
+	</select>
+
+	<label>Most Influential Player</label>
+	<select>
+	    <option value="" selected></option>
+		<option>bloo</option>
+		<option>ojama</option>
+		<option>mcmeghan</option>
+		<option>bkc</option>
+	</select>
+
+	<label>Most Gimicky Player</label>
+	<select>
+	    <option value="" selected></option>
+		<option>lady bug</option>
+		<option>molk</option>
+		<option>shakeitup</option>
+		<option>aerialace tm40</option>
+		<option>ctc</option>
+	</select>
+
+	<label>Biggest Upset</label>
+	<select>
+	    <option value="" selected></option>
+		<option>gr8astard winning ost 9</option>
+		<option>wolfpack winning spl</option>
+		<option>pdc winning lc open</option>
+		<option>kokoloko over heist</option>
+		<option>blarajan defeating ctc in world cup finals</option>
+		<option>bkc winning a smogon tour</option>
+	</select>
+
+	<label>Best Tournament</label>
+	<select>
+	    <option value="" selected></option>
+		<option>spl</option>
+		<option>world cup of pokemon</option>
+		<option>smogon grand slam</option>
+	</select>
+
+	<label>Most Overlooked User</label>
+	<select>
+	    <option value="" selected></option>
+		<option>toast++</option>
+		<option>tobes</option>
+		<option>steeledges</option>
+		<option>nails</option>
+		<option>molk</option>
+	</select>
+
+	<label>Most Influential User</label>
+	<select>
+	    <option value="" selected></option>
+		<option>aldaron</option>
+		<option>bloo</option>
+		<option>zarel</option>
+		<option>oglemi</option>
+		<option>chaos</option>
+	</select>
+
+	<label>Most Promising New User</label>
+	<select>
+	    <option value="" selected></option>
+		<option>aerialace tm40</option>
+		<option>treecko</option>
+		<option>soulgazer</option>
+		<option>chaos</option>
+		<option>lasagne21</option>
+		<option>goddess briyella</option>
+	</select>
+
+	<label>Most Persuasive User</label>
+	<select>
+	    <option value="" selected></option>
+		<option>aldaron</option>
+		<option>dougjustdoug</option>
+		<option>mcmeghan</option>
+		<option>hugendugen</option>
+		<option>deck knight</option>
+		<option>blarajan</option>
+	</select>
+
+	<label>Most Awesome Veteran</label>
+	<select>
+	    <option value="" selected></option>
+		<option>bloo</option>
+		<option>chaos</option>
+		<option>veteran in love</option>
+		<option>darkie</option>
+		<option>oglemi</option>
+		<option>mre</option>
+	</select>
+
+	<label>Member of the Year</label>
+	<select>
+	    <option value="" selected></option>
+		<option>oglemi</option>
+		<option>joim</option>
+		<option>chaos</option>
+		<option>stellar</option>
+		<option>treecko</option>
+	</select>
+
+	<label>Best Editor</label>
+	<select>
+	    <option value="" selected></option>
+		<option>gatodelfuego</option>
+		<option>oglemi</option>
+		<option>setsuna</option>
+		<option>melvni</option>
+		<option>flora</option>
+		<option>bugmaniacbob</option>
+	</select>
+
+	<label>Most Improved Writer</label>
+	<select>
+	    <option value="" selected></option>
+		<option>skylight</option>
+		<option>mack the knife</option>
+	</select>
+
+	<label>Best Entertainment Article</label>
+	<div class="radio-block"><input type="radio" name="Best Entertainment Article"/><a href="/smog/issue30/rodanningit">RODANNING it, how to survive on smogon whilst badgeless</a></div>
+	<div class="radio-block"><input type="radio" name="Best Entertainment Article"/><a href="/smog/issue26/oddish">The Oddish</a></div>
+	<div class="radio-block"><input type="radio" name="Best Entertainment Article"/><a href="/smog/issue31/pokerap">Pok&eacute;rap Battles: Dragons vs Fairies</a></div>
+	<div class="radio-block"><input type="radio" name="Best Entertainment Article"/><a href="/smog/issue28/leaks">Insider X&amp;Y Leaks, Straight from the Playground</a></div>
+	<div class="radio-block"><input type="radio" name="Best Entertainment Article"/><a href="/smog/issue29/gym_guide">"Do You Even Lift" series</a></div>
+	<div class="radio-block"><input type="radio" name="Best Entertainment Article"/><a href="/smog/issue26/battling_1337">Battling 1337: How to Battle Correctly</a></div>
+
+	<label>Best Art for an Article</label>
+	<div class="radio-block"><input type="radio" name="Best Art for an Article"/><a href="">the ou council</a></div>
+	<div class="radio-block"><input type="radio" name="Best Art for an Article"/><a href="">weather analysis: hail</a></div>
+	<div class="radio-block"><input type="radio" name="Best Art for an Article"/><a href="">underused 201: battling</a></div>
+
+	<label>Best Circus Poster</label>
+	<select>
+	    <option value="" selected></option>
+		<option>billymills</option>
+		<option>zorbees</option>
+		<option>rodan</option>
+		<option>mekkah</option>
+	</select>
+
+	<label>Best Avatar</label>
+	<select>
+	    <option value="" selected></option>
+		<option>toast++</option>
+		<option>rodan + tik</option>
+		<option>molk</option>
+		<option>fatecrashers</option>
+	</select>
+
+	<label>Best Quality Control Member</label>
+	<select>
+	    <option value="" selected></option>
+		<option>alexwolf</option>
+		<option>fuzznip</option>
+		<option>ebeast</option>
+	</select>
+
+	<label>User Most Likely to Sell Smogon Out to Nintendo</label>
+	<select>
+	    <option value="" selected></option>
+		<option>chaos</option>
+		<option>theorymon</option>
+		<option>lady salamence</option>
+		<option>firestorm</option>
+	</select>
+
+	<label>Best Cong Poster</label>
+	<select>
+	    <option value="" selected></option>
+		<option>acklow</option>
+		<option>rodan</option>
+		<option>mattj</option>
+		<option>deck knight</option>
+		<option>billymills</option>
+	</select>
+
+	<label>Best Thread</label>
+	<div class="radio-block"><input type="radio" name="Best Thread" value="/forums/threads/3491168/"/><a href="/forums/threads/3491168/">Quote Database Thread (cookie is a cumstain)</a></div>
+	<div class="radio-block"><input type="radio" name="Best Thread" value="/forums/threads/3477212/"/><a href="/forums/threads/3477212/">smogon user headstones</a></div>
+	<div class="radio-block"><input type="radio" name="Best Thread" value="/forums/threads/3485499/"/><a href="/forums/threads/3485499/">HELP A BROTHA OUT!!!</a></div>
+
+	<label>Best Smogon Thread Not Posted on Smogon's Forums</label>
+	<div class="radio-block"><input type="radio" name="Best Smogon Thread Not Posted on Smogin's Forums" value="https://archive.foolz.us/vp/thread/16134177/"/><a href="https://archive.foolz.us/vp/thread/16134177/">/vp/ Tread #16134177</a></div>
+	<div class="radio-block"><input type="radio" name="Best Smogon Thread Not Posted on Smogin's Forums" value="http://nuggetbridge.com/forums/topic/2977-"/><a href="http://nuggetbridge.com/forums/topic/2977-">Public Apology to the Players of VGC / Nugget Bridge</a></div>
+
+	<label>User Most Likely to Land a Helicopter</label>
+	<select>
+	    <option value="" selected></option>
+		<option>rodan</option>
+		<option>gatodelfuego</option>
+		<option>chaos</option>
+		<option>yilx</option>
+		<option>stellar</option>
+		<option>hugendugen</option>
+	</select>
+
+	<label>Most Impressive Victory</label>
+	<select>
+	    <option value="" selected></option>
+		<option>bkc in st16</option>
+		<option>east winning wcop</option>
+		<option>bad ass winning grand slam</option>
+		<option>wifi wolfpack winning spl</option>
+		<option>rey winning frontier</option>
+	</select>
+
+	<label>Best Signature</label>
+	<select>
+	    <option value="" selected></option>
+		<option>tennisace</option>
+		<option>whistle</option>
+		<option>osiris</option>
+		<option>joim</option>
+	</select>
+
+	<label>Best RMT Thread</label>
+	<div class="radio-block"><input type="radio" name="Best RMT Thread" value="/forums/threads/3488669/"/><a href="/forums/threads/3488669/">a cat is fine too</a></div>
+	<div class="radio-block"><input type="radio" name="Best RMT Thread" value="/forums/threads/3481595/"/><a href="/forums/threads/3481595/">#YOLOSWAG</a></div>
+	<div class="radio-block"><input type="radio" name="Best RMT Thread" value="/forums/threads/3495227/"/><a href="/forums/threads/3495227/">Moving Forward in Reverse</a></div>
+	<div class="radio-block"><input type="radio" name="Best RMT Thread" value="/forums/threads/3487828/"/><a href="/forums/threads/3487828/">GGolbat! - Smogon Tour 15 Victory Team</a></div>
+
+	<label>Best A Forum Poster</label>
+	<select>
+	    <option value="" selected></option>
+		<option>rodan</option>
+		<option>cookie</option>
+		<option>shade</option>
+		<option>fatecrashers</option>
+	</select>
+
+	<label>Most Helpful Poster</label>
+	<select>
+	    <option value="" selected></option>
+		<option>birkal</option>
+		<option>treecko</option>
+		<option>toast++</option>
+		<option>skylight</option>
+		<option>cherub agent</option>
+	</select>
+
+	<label>Best Analysis Writer</label>
+	<select>
+	    <option value="" selected></option>
+		<option>alexwolf</option>
+		<option>treecko</option>
+		<option>dragonuser</option>
+	</select>
+
+	<label>Best Set Poster</label>
+	<select>
+	    <option value="" selected></option>
+		<option>alexwolf</option>
+		<option>nails</option>
+	</select>
+
+	<label>Best Contributor</label>
+	<select>
+	    <option value="" selected></option>
+		<option>treecko</option>
+		<option>oglemi</option>
+		<option>alexwolf</option>
+		<option>toast++</option>
+		<option>gatodelfuego</option>
+		<option>antar</option>
+	</select>
+
+	<label>Best Forum Project</label>
+	<select>
+	    <option value="" selected></option>
+		<option>ru viability rankings</option>
+		<option>xy sprite project</option>
+		<option>mentorship program</option>
+		<option>gen 6 research</option>
+	</select>
+
+
+	<label>Best Piece of Art</label>
+	<div class="radio-img"><input type="radio" name="Best Piece of Art" value="/media/upload/smog/issue31/oucouncil.png"/><img src="/media/upload/smog/issue31/oucouncil.png" alt=""/></div>
+	<div class="radio-img"><input type="radio" name="Best Piece of Art" value="/media/zracknel-beta.svg.v.78if94anmri1ivgcghqchw"/><img src="/media/zracknel-beta.svg.v.78if94anmri1ivgcghqchw" alt=""/></div>
+	<div class="radio-img"><input type="radio" name="Best Piece of Art" value="/media/upload/smog/issue29/nubirds_braviary.png"/><img src="/media/upload/smog/issue29/nubirds_braviary.png" alt=""/></div>
+	<div class="radio-img"><input type="radio" name="Best Piece of Art" value="/media/upload/smog/issue27/vgcrain_rotomw.png"/><img src="/media/upload/smog/issue27/vgcrain_rotomw.png" alt=""/></div>
+	<div class="radio-img"><input type="radio" name="Best Piece of Art" value="http://puu.sh/5r16j.jpg"/><img src="http://puu.sh/5r16j.jpg" alt=""/></div>
+
+	<label>Best Contribution</label>
+	<select>
+	    <option value="" selected></option>
+		<option>xy sprite project</option>
+		<option>honko's calculator</option>
+		<option>instacheck</option>
+	</select>
+
+	<label>Best Sprite</label>
+	<select>
+	    <option value="" selected></option>
+		<option>talonflame</option>
+		<option>mega mawile</option>
+		<option>pangoro</option>
+	</select>
+
+	<label>Best Battling Strategy Article</label>
+	<div class="radio-block"><input type="radio" name="Best Battling Strategy Article" value="frameworks in teambuilding"/><a href="/smog/issue28/teambuilding">Frameworks in Teambuilding</a></div>
+	<div class="radio-block"><input type="radio" name="Best Battling Strategy Article" value="a beginner's guide to trick room"/><a href="/smog/issue30/trickroom">A Beginner's Guide to Trick Room</a></div>
+
+	<label>Best "Other Features" Article</label>
+	<div class="radio-block"><input type="radio" name="Best 'Other Features' Articles" value="showdown lowdown: public rooms on ps!"/><a href="/smog/issue31/showdown">Showdown Lowdown: Public Rooms on PS!</a></div>
+	<div class="radio-block"><input type="radio" name="Best 'Other Features' Articles" value="how to not piss off the ps staff"/><a href="/smog/issue25/ps_staff">How to Not Piss Off the PS Staff</a></div>
+	<div class="radio-block"><input type="radio" name="Best 'Other Features' Articles" value="cutemons that dont suck"/><a href="/smog/issue29/cutemons">Cutemons that Don't Suck</a></div>
+</form>
+<button id="submit-button">Submit</button>
+
+<script type="text/javascript">
+	var message = new Message({ to:'The Smog', title:'The Smog Awards Round 2 - Voting', removeOnSend:true });
+	$(function(){
+		message.prepare(function(res){
+			if(!res.success){
+				alert(res.info);
+			}
+		});
+
+		//add missing names - because lazy.
+		$('select').each(function(){
+			$(this).attr('name', $(this).prev().text());
+		});
+
+		//encode and send message on submit
+		$('#submit-button').submit(function(){
+			$(this).attr('disabled', '');
+
+			var votes = {};
+			$(':input', this).each(function(){
+				var $ths = $(this);
+				votes[$ths.attr('name')] = $this.val();
+			});
+
+			message.message = JSON.stringify(votes);
+			message.send(function(res){
+				if(!res.success){
+					alert(res.info);
+				}
+			});
+
+			return false;
+		})
+	})
+</script>

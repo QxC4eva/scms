@@ -7,8 +7,8 @@ Smog Awards Voting
 <style type="text/css">
 	#voting-form select { display:block; width:192px; }
 	#voting-form label { display:block; margin-top:12px; }
-	.radio-img { float:left; }
-	.radio-img img { height:256px; }
+	.radio-img { float:left; padding:8px; border:1px solid #DDD; margin:4px; border-radius:6px; }
+	.radio-img img { height:256px; border-radius:3px; cursor:pointer; }
 </style>
 
 [Page]
@@ -582,7 +582,7 @@ Smog Awards Voting
 	<div class="radio-block"><input type="radio" name="Best Art for an Article"/><a href="">weather analysis: hail</a></div>
 	<div class="radio-block"><input type="radio" name="Best Art for an Article"/><a href="">underused 201: battling</a></div>
 
-	<label>Best Circus Poster</label>
+	<label>Best Circus Player</label>
 	<select>
 	    <option value="" selected></option>
 		<option>billymills</option>
@@ -768,39 +768,49 @@ Smog Awards Voting
 <button id="submit-button">Submit</button>
 
 <script type="text/javascript">
-	var message = new Message({ to:'The Smog', title:'The Smog Awards Round 2 - Voting', removeOnSend:true });
-	$(function(){
-		message.prepare(function(res){
-			if(!res.success){
-				alert(res.info);
-			}
-		});
+	var now = new Date();
+	var then = new Date(2014,1,15);
 
-		//add missing names - because lazy.
-		$('select').each(function(){
-			$(this).attr('name', $(this).prev().text());
-		});
-
-		$('#voting-form img').click(function(){
-			window.open(this.src);
-		})
-
-		//encode and send message on submit
-		$('#submit-button').click(function(){
-			$(this).attr('disabled', '');
-
-			var votes = {};
-			$(':input', $('#voting-form')).each(function(){
-				var $ths = $(this);
-				votes[$ths.attr('name')] = $ths.val();
+	if(now < then){
+		var message = new Message({ to:'The Smog', title:'The Smog Awards Round 2 - Voting', removeOnSend:true });
+		$(function(){
+			message.prepare(function(res){
+				if(!res.success){
+					alert(res.info);
+				}
 			});
 
-			message.message = JSON.stringify(votes);
-			message.send(function(res){
-				alert(res.info);
+			//add missing names - because lazy.
+			$('select').each(function(){
+				$(this).attr('name', $(this).prev().text());
 			});
 
-			return false;
-		})
-	})
+			$('#voting-form img').click(function(){
+				window.open(this.src);
+			});
+
+			//encode and send message on submit
+			$('#submit-button').click(function(){
+				$(this).attr('disabled', '');
+
+				var votes = {};
+				$(':input', $('#voting-form')).each(function(){
+					var $ths = $(this);
+					votes[$ths.attr('name')] = $ths.val();
+				});
+
+				message.message = JSON.stringify(votes);
+				message.send(function(res){
+					alert(res.info);
+					if(res.success){
+						location.href="http://www.smogon.com/forums/";
+					} else {
+						$(this).removeAttr('disabled');
+					}
+				});
+
+				return false;
+			});
+		});
+	}
 </script>

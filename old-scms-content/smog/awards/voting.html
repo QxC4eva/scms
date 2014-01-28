@@ -797,7 +797,13 @@ Smog Awards Voting
 				$(this).attr('disabled', '');
 
 				var votes = {};
+				//get most values
 				$(':input', $('#voting-form')).each(function(){
+					var $ths = $(this);
+					votes[$ths.attr('name')] = $ths.val();
+				});
+				//fix the remaining ones
+				$('input:checked', $('#voting-form')).each(function(){
 					var $ths = $(this);
 					votes[$ths.attr('name')] = $ths.val();
 				});

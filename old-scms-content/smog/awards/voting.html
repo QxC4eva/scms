@@ -12,6 +12,9 @@ Smog Awards Voting
 </style>
 
 [Page]
+<p>
+	Welcome to the voting round for The Smog Awards 2013. You may vote only once. Any further votes will not be counted. Please make sure JavaScript is enabled.
+</p>
 <form id="voting-form" action="#">
 	<label>Best OU Battler</label>
 	<select>
@@ -812,5 +815,7 @@ Smog Awards Voting
 				return false;
 			});
 		});
+	} else {
+		document.getElementById('voting-form').innerHTML = '';
 	}
 </script>

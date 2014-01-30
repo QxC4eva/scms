@@ -19,10 +19,9 @@ gens:
     name: CAP 4
 
 gen_ordering:
-  - {from: rb, to: gs}
-  - {from: gs, to: rs}
-  - {from: rs, to: dp}
-  - {from: dp, to: bw}
-  - {from: bw, to: xy}
-
-  - {from: dp, to: cap4}
+  rb: [gs]
+  gs: [rs]
+  rs: [dp]
+  dp: [bw, cap4]
+  bw: [xy]
+  

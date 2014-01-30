@@ -8,7 +8,7 @@ pokemon:
     abilities:
     - [Sturdy]
     - dp: [Gluttony, Sturdy]
-    - bw: [Contrary, Gluttony, Sturdy]
+      bw: [Contrary, Gluttony, Sturdy]
     stats:
     - [20, 10, 230, 10, 230, 5]
     tags:

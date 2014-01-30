@@ -8,7 +8,7 @@ pokemon:
     abilities:
     - [Guts]
     - dp: [Guts, No Guard]
-    - bw: [Guts, No Guard, Steadfast]
+      bw: [Guts, No Guard, Steadfast]
     stats:
     - [70, 80, 50, 35, 35, 35]
     - gs: [70, 80, 50, 35, 35, 35]
@@ -26,7 +26,7 @@ pokemon:
     abilities:
     - [Guts]
     - dp: [Guts, No Guard]
-    - bw: [Guts, No Guard, Steadfast]
+      bw: [Guts, No Guard, Steadfast]
     stats:
     - [80, 100, 70, 50, 50, 45]
     - gs: [80, 100, 70, 50, 60, 45]
@@ -44,16 +44,16 @@ pokemon:
     abilities:
     - [Guts]
     - dp: [Guts, No Guard]
-    - bw: [Guts, No Guard, Steadfast]
+      bw: [Guts, No Guard, Steadfast]
     stats:
     - [90, 130, 80, 65, 65, 55]
     - gs: [90, 130, 80, 65, 85, 55]
     tags:
     - [uu]
     - bw: [uu]
-    - dp: [ou]
-    - rs: [bl]
-    - gs: [ou]
+      dp: [ou]
+      rs: [bl]
+      gs: [ou]
     weight: [130]
     height: [1.6]
 evolutions:

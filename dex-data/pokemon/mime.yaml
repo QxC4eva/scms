@@ -24,7 +24,7 @@ pokemon:
     abilities:
     - [Soundproof]
     - dp: [Filter, Soundproof]
-    - bw: [Filter, Soundproof, Technician]
+      bw: [Filter, Soundproof, Technician]
     stats:
     - [40, 45, 65, 100, 100, 90]
     - gs: [40, 45, 65, 100, 120, 90]

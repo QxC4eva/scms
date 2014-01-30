@@ -8,7 +8,7 @@ pokemon:
     abilities:
     - [Minus]
     - bw: [Minus]
-    - xy: [Minus, Volt Absorb]
+      xy: [Minus, Volt Absorb]
     stats:
     - [60, 40, 50, 75, 85, 95]
     tags:

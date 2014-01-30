@@ -8,7 +8,7 @@ pokemon:
     abilities:
     - [Chlorophyll]
     - dp: [Chlorophyll, Solar Power]
-    - bw: [Chlorophyll, Harvest, Solar Power]
+      bw: [Chlorophyll, Harvest, Solar Power]
     stats:
     - [99, 68, 83, 72, 87, 51]
     tags:

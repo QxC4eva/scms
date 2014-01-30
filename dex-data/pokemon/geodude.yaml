@@ -44,12 +44,12 @@ pokemon:
     stats:
     - [80, 110, 130, 55, 55, 45]
     - gs: [80, 110, 130, 55, 65, 45]
-    - xy: [80, 120, 130, 55, 65, 45]
+      xy: [80, 120, 130, 55, 65, 45]
     tags:
     - [ou]
     - dp: [nu]
-    - rs: [uu]
-    - gs: [bl]
+      rs: [uu]
+      gs: [bl]
     weight: [300]
     height: [1.4]
 evolutions:

@@ -8,7 +8,7 @@ pokemon:
     abilities:
     - [Shell Armor]
     - dp: [Shell Armor, Skill Link]
-    - bw: [Overcoat, Shell Armor, Skill Link]
+      bw: [Overcoat, Shell Armor, Skill Link]
     stats:
     - [30, 65, 100, 45, 45, 40]
     - gs: [30, 65, 100, 45, 25, 40]
@@ -26,14 +26,14 @@ pokemon:
     abilities:
     - [Shell Armor]
     - dp: [Shell Armor, Skill Link]
-    - bw: [Overcoat, Shell Armor, Skill Link]
+      bw: [Overcoat, Shell Armor, Skill Link]
     stats:
     - [50, 95, 180, 85, 85, 70]
     - gs: [50, 95, 180, 85, 45, 70]
     tags:
     - [ou]
     - bw: [ou]
-    - dp: [uu]
+      dp: [uu]
     weight: [132.5]
     height: [1.5]
 evolutions:

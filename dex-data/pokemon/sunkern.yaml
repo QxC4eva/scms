@@ -8,7 +8,7 @@ pokemon:
     abilities:
     - [Chlorophyll]
     - dp: [Chlorophyll, Solar Power]
-    - bw: [Chlorophyll, Early Bird, Solar Power]
+      bw: [Chlorophyll, Early Bird, Solar Power]
     stats:
     - [30, 30, 30, 30, 30, 30]
     tags:
@@ -25,7 +25,7 @@ pokemon:
     abilities:
     - [Chlorophyll]
     - dp: [Chlorophyll, Solar Power]
-    - bw: [Chlorophyll, Early Bird, Solar Power]
+      bw: [Chlorophyll, Early Bird, Solar Power]
     stats:
     - [75, 75, 55, 105, 85, 30]
     tags:

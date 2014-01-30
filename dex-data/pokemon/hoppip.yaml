@@ -8,7 +8,7 @@ pokemon:
     abilities:
     - [Chlorophyll]
     - dp: [Chlorophyll, Leaf Guard]
-    - bw: [Chlorophyll, Infiltrator, Leaf Guard]
+      bw: [Chlorophyll, Infiltrator, Leaf Guard]
     stats:
     - [35, 35, 40, 35, 55, 50]
     tags:
@@ -25,7 +25,7 @@ pokemon:
     abilities:
     - [Chlorophyll]
     - dp: [Chlorophyll, Leaf Guard]
-    - bw: [Chlorophyll, Infiltrator, Leaf Guard]
+      bw: [Chlorophyll, Infiltrator, Leaf Guard]
     stats:
     - [55, 45, 50, 45, 65, 80]
     tags:
@@ -41,14 +41,14 @@ pokemon:
     abilities:
     - [Chlorophyll]
     - dp: [Chlorophyll, Leaf Guard]
-    - bw: [Chlorophyll, Infiltrator, Leaf Guard]
+      bw: [Chlorophyll, Infiltrator, Leaf Guard]
     stats:
     - [75, 55, 70, 55, 85, 110]
     - xy: [75, 55, 70, 55, 95, 110]
     tags:
     - [uu]
     - dp: [nu]
-    - rs: [bl]
+      rs: [bl]
     weight: [3]
     height: [0.8]
 evolutions:

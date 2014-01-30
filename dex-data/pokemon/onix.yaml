@@ -14,7 +14,7 @@ pokemon:
     tags:
     - []
     - dp: [lc]
-    - gs: [nfe]
+      gs: [nfe]
     weight: [210]
     height: [8.8]
   Steelix:
@@ -31,8 +31,8 @@ pokemon:
     tags:
     - [ou]
     - bw: [ru]
-    - dp: [uu]
-    - rs: [bl]
+      dp: [uu]
+      rs: [bl]
     weight: [400]
     height: [9.2]
 evolutions:

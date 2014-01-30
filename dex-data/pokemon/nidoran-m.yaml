@@ -8,7 +8,7 @@ pokemon:
     abilities:
     - [Poison Point]
     - dp: [Poison Point, Rivalry]
-    - bw: [Hustle, Poison Point, Rivalry]
+      bw: [Hustle, Poison Point, Rivalry]
     stats:
     - [46, 57, 40, 40, 40, 50]
     - gs: [46, 57, 40, 40, 40, 50]
@@ -25,7 +25,7 @@ pokemon:
     abilities:
     - [Poison Point]
     - dp: [Poison Point, Rivalry]
-    - bw: [Hustle, Poison Point, Rivalry]
+      bw: [Hustle, Poison Point, Rivalry]
     stats:
     - [61, 72, 57, 55, 55, 65]
     - gs: [61, 72, 57, 55, 55, 65]
@@ -42,15 +42,15 @@ pokemon:
     abilities:
     - [Poison Point]
     - dp: [Poison Point, Rivalry]
-    - bw: [Poison Point, Rivalry, Sheer Force]
+      bw: [Poison Point, Rivalry, Sheer Force]
     stats:
     - [81, 92, 77, 75, 75, 85]
     - gs: [81, 92, 77, 85, 75, 85]
-    - xy: [81, 102, 77, 85, 75, 85]
+      xy: [81, 102, 77, 85, 75, 85]
     tags:
     - []
     - rs: [uu]
-    - gs: [ou]
+      gs: [ou]
     weight: [62]
     height: [1.4]
 evolutions:

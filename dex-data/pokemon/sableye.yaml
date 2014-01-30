@@ -8,13 +8,13 @@ pokemon:
     abilities:
     - [Keen Eye]
     - dp: [Keen Eye, Stall]
-    - bw: [Keen Eye, Prankster, Stall]
+      bw: [Keen Eye, Prankster, Stall]
     stats:
     - [50, 75, 75, 65, 65, 50]
     tags:
     - [uu]
     - bw: [uu]
-    - dp: [nu]
+      dp: [nu]
     weight: [11]
     height: [0.5]
 evolutions: []

@@ -8,7 +8,7 @@ pokemon:
     abilities:
     - [Run Away]
     - dp: [Adaptability, Run Away]
-    - bw: [Adaptability, Anticipation, Run Away]
+      bw: [Adaptability, Anticipation, Run Away]
     stats:
     - [55, 55, 50, 65, 65, 55]
     - gs: [55, 55, 50, 45, 65, 55]
@@ -66,8 +66,8 @@ pokemon:
     tags:
     - [uu]
     - dp: [ou]
-    - rs: [bl]
-    - gs: [ou]
+      rs: [bl]
+      gs: [ou]
     weight: [29]
     height: [1]
   Espeon:
@@ -84,7 +84,7 @@ pokemon:
     tags:
     - [bl]
     - bw: [ou]
-    - dp: [nu]
+      dp: [nu]
     weight: [26.5]
     height: [0.9]
   Umbreon:
@@ -101,8 +101,8 @@ pokemon:
     tags:
     - [ou]
     - bw: [uu]
-    - dp: [ou]
-    - rs: [bl]
+      dp: [ou]
+      rs: [bl]
     weight: [27]
     height: [1]
   Leafeon:

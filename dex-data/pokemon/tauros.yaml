@@ -8,14 +8,14 @@ pokemon:
     abilities:
     - [Intimidate]
     - dp: [Anger Point, Intimidate]
-    - bw: [Anger Point, Intimidate, Sheer Force]
+      bw: [Anger Point, Intimidate, Sheer Force]
     stats:
     - [75, 100, 95, 70, 70, 110]
     - gs: [75, 100, 95, 40, 70, 110]
     tags:
     - [ou]
     - dp: [nu]
-    - gs: [bl]
+      gs: [bl]
     weight: [88.4]
     height: [1.4]
 evolutions: []

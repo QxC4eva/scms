@@ -8,7 +8,7 @@ pokemon:
     abilities:
     - [Pressure]
     - dp: [Pressure, Super Luck]
-    - bw: [Justified, Pressure, Super Luck]
+      bw: [Justified, Pressure, Super Luck]
     stats:
     - [65, 130, 60, 75, 60, 75]
     tags:

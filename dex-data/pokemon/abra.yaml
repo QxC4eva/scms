@@ -31,8 +31,8 @@ pokemon:
     tags:
     - [nfe]
     - bw: [nu]
-    - dp: [nfe]
-    - rs: [bl]
+      dp: [nfe]
+      rs: [bl]
     weight: [56.5]
     height: [1.3]
   Alakazam:
@@ -47,12 +47,12 @@ pokemon:
     stats:
     - [55, 50, 45, 135, 135, 120]
     - gs: [55, 50, 45, 135, 85, 120]
-    - xy: [55, 50, 45, 135, 95, 120]
+      xy: [55, 50, 45, 135, 95, 120]
     tags:
     - [ou]
     - bw: [ou]
-    - dp: [uu]
-    - gs: [bl]
+      dp: [uu]
+      gs: [bl]
     weight: [48]
     height: [1.5]
 evolutions:

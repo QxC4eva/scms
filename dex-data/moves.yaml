@@ -10,7 +10,7 @@ moves:
     power: [20]
     pp:
     - 20
-    - {dp: 25}
+    - dp: 25
     priority: [0]
     target: [enemy]
     
@@ -412,7 +412,7 @@ moves:
     accuracy: [100]
     power:
     - 10
-    - {bw: 1}
+    - bw: 1
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -450,11 +450,11 @@ moves:
     accuracy: [0]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [10]
     priority:
     - 0
-    - {dp: 1}
+    - dp: 1
     target: [user]
     
   Bind:
@@ -465,7 +465,7 @@ moves:
       - Prevents the opponent from attacking for 2-5 turns.
     accuracy:
     - 75
-    - {bw: 85}
+    - bw: 85
     power: [15]
     pp: [20]
     priority: [0]
@@ -516,7 +516,7 @@ moves:
       - 10% chance to freeze.
     accuracy:
     - 90
-    - {gs: 70}
+    - gs: 70
     power:
     - 120
     - xy: 110
@@ -751,7 +751,7 @@ moves:
     accuracy: [100]
     power:
     - 10
-    - {bw: 25}
+    - bw: 25
     pp: [30]
     priority: [0]
     target: [enemy]
@@ -875,7 +875,7 @@ moves:
       - Prevents the opponent from attacking for 2-5 turns.
     accuracy:
     - 75
-    - {bw: 85}
+    - bw: 85
     power: [35]
     pp: [10]
     priority: [0]
@@ -1036,7 +1036,7 @@ moves:
       - Lowers foe's Spe 2 stages.
     accuracy:
     - 85
-    - {bw: 100}
+    - bw: 100
     power: [0]
     pp: [40]
     priority: [0]
@@ -1052,12 +1052,12 @@ moves:
     accuracy: [100]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [20]
     priority:
     - -1
-    - {rs: -4}
-    - {dp: -5}
+    - rs: -4
+      dp: -5
     target: [lastenemy]
     
   Covet:
@@ -1069,7 +1069,7 @@ moves:
     accuracy: [100]
     power:
     - 40
-    - {bw: 60}
+    - bw: 60
     pp:
     - 40
     - xy: 25
@@ -1084,7 +1084,7 @@ moves:
       - High critical hit rate.
     accuracy:
     - 85
-    - {bw: 90}
+    - bw: 90
     power:
     - 90
     - xy: 100
@@ -1149,7 +1149,7 @@ moves:
     accuracy: [100]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -1261,8 +1261,8 @@ moves:
     pp: [5]
     priority:
     - 2
-    - {dp: 3}
-    - {bw: 4}
+    - dp: 3
+      bw: 4
     target: [user]
     
   Dig:
@@ -1274,8 +1274,8 @@ moves:
     accuracy: [100]
     power:
     - 100
-    - {gs: 60}
-    - {dp: 80}
+    - gs: 60
+      dp: 80
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -1289,8 +1289,8 @@ moves:
       - gs: Prevents the last move used from being used again for 2-5 turns.
     accuracy:
     - 55
-    - {dp: 80}
-    - {bw: 100}
+    - dp: 80
+      bw: 100
     power: [0]
     pp: [20]
     priority: [0]
@@ -1317,7 +1317,7 @@ moves:
     accuracy: [100]
     power:
     - 60
-    - {dp: 80}
+    - dp: 80
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -1343,10 +1343,10 @@ moves:
       - Deals damage at the end of the turn after three turns.
     accuracy:
     - 85
-    - {bw: 100}
+    - bw: 100
     power:
     - 120
-    - {bw: 140}
+    - bw: 140
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -1397,7 +1397,7 @@ moves:
     accuracy: [100]
     power:
     - 100
-    - {gs: 120}
+    - gs: 120
     pp: [15]
     priority: [0]
     target: [enemy]
@@ -1475,7 +1475,7 @@ moves:
     accuracy: [100]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -1525,10 +1525,10 @@ moves:
     accuracy: [100]
     power:
     - 60
-    - {bw: 75}
+    - bw: 75
     pp:
     - 5
-    - {bw: 10}
+    - bw: 10
     priority: [0]
     target: [enemy]
     
@@ -1710,7 +1710,7 @@ moves:
     accuracy: [100]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -1726,8 +1726,8 @@ moves:
     pp: [10]
     priority:
     - 2
-    - {dp: 3}
-    - {bw: 4}
+    - dp: 3
+      bw: 4
     target: [user]
     
   Energy Ball:
@@ -1778,7 +1778,7 @@ moves:
     accuracy: [100]
     power:
     - 170
-    - {gs: 250}
+    - gs: 250
     pp: [5]
     priority: [0]
     target: [others]
@@ -1808,7 +1808,7 @@ moves:
     pp: [5]
     priority:
     - 1
-    - {bw: 2}
+    - bw: 2
     target: [enemy]
     
   Facade:
@@ -1846,7 +1846,7 @@ moves:
     pp: [10]
     priority:
     - 1
-    - {bw: 3}
+    - bw: 3
     target: [enemy]
     
   Fake Tears:
@@ -1894,7 +1894,7 @@ moves:
     accuracy: [100]
     power:
     - 50
-    - {bw: 30}
+    - bw: 30
     pp: [10]
     priority: [2]
     target: [enemy]
@@ -1984,10 +1984,10 @@ moves:
       - Prevents the opponent from attacking for 2-5 turns.
     accuracy:
     - 70
-    - {bw: 85}
+    - bw: 85
     power:
     - 15
-    - {bw: 35}
+    - bw: 35
     pp: [15]
     priority: [0]
     target: [enemy]
@@ -2001,7 +2001,7 @@ moves:
     accuracy: [30]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -2015,7 +2015,7 @@ moves:
     accuracy: [100]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [15]
     priority: [0]
     target: [enemy]
@@ -2090,7 +2090,7 @@ moves:
       - Lowers foe's accuracy 1 stage.
     accuracy:
     - 70
-    - {dp: 100}
+    - dp: 100
     power: [0]
     pp: [20]
     priority: [0]
@@ -2129,7 +2129,7 @@ moves:
     accuracy: [100]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -2143,7 +2143,7 @@ moves:
     accuracy: [95]
     power:
     - 70
-    - {dp: 90}
+    - dp: 90
     pp: [15]
     priority: [0]
     target: [enemy]
@@ -2184,7 +2184,7 @@ moves:
     pp: [20]
     priority:
     - -2
-    - {dp: -3}
+    - dp: -3
     target: [enemy]
     
   Follow Me:
@@ -2198,7 +2198,7 @@ moves:
     pp: [20]
     priority:
     - 2
-    - {dp: 3}
+    - dp: 3
     target: [user]
     
   Force Palm:
@@ -2223,8 +2223,8 @@ moves:
     power: [0]
     pp:
     - 40
-    - {dp: 5}
-    - {bw: 40}
+    - dp: 5
+      bw: 40
     priority: [0]
     target: [enemy]
     
@@ -2287,7 +2287,7 @@ moves:
     accuracy: [100]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [20]
     priority: [0]
     target: [enemy]
@@ -2314,7 +2314,7 @@ moves:
     power:
     - 10
     - bw: 20
-    - xy: 40
+      xy: 40
     pp: [20]
     priority: [0]
     target: [enemy]
@@ -2367,7 +2367,7 @@ moves:
     power:
     - 80
     - bw: 100
-    - xy: 120
+      xy: 120
     pp:
     - 15
     - bw: 10
@@ -2407,10 +2407,10 @@ moves:
     accuracy: [100]
     power:
     - 60
-    - {bw: 75}
+    - bw: 75
     pp:
     - 5
-    - {dp: 10}
+    - dp: 10
     priority: [0]
     target: [enemy]
     
@@ -2447,7 +2447,7 @@ moves:
     accuracy:
     - 75
     - bw: 90
-    - xy: 100
+      xy: 100
     power: [0]
     pp: [30]
     priority: [0]
@@ -2462,7 +2462,7 @@ moves:
     accuracy: [100]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [20]
     priority: [0]
     target: [enemy]
@@ -2574,7 +2574,7 @@ moves:
     accuracy: [30]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -2616,7 +2616,7 @@ moves:
     accuracy: [100]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -2838,7 +2838,7 @@ moves:
     pp: [20]
     priority:
     - 4
-    - {dp: 5}
+    - dp: 5
     target: [ally]
     
   Hex:
@@ -2865,11 +2865,11 @@ moves:
     accuracy: [90]
     power:
     - 85
-    - {dp: 100}
-    - {bw: 130}
+    - dp: 100
+      bw: 130
     pp:
     - 20
-    - {bw: 10}
+    - bw: 10
     priority: [0]
     target: [enemy]
     
@@ -2883,7 +2883,7 @@ moves:
     accuracy: [100]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [15]
     priority: [0]
     target: [enemy]
@@ -2921,7 +2921,7 @@ moves:
     accuracy: [30]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -3134,7 +3134,7 @@ moves:
     accuracy: [100]
     power:
     - 10
-    - {bw: 25}
+    - bw: 25
     pp: [30]
     priority: [0]
     target: [enemy]
@@ -3259,11 +3259,11 @@ moves:
     accuracy: [95]
     power:
     - 70
-    - {dp: 85}
-    - {bw: 100}
+    - dp: 85
+      bw: 100
     pp:
     - 25
-    - {bw: 10}
+    - bw: 10
     priority: [0]
     target: [enemy]
     
@@ -3315,7 +3315,7 @@ moves:
     accuracy: [100]
     power:
     - 130
-    - {bw: 140}
+    - bw: 140
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -3341,7 +3341,7 @@ moves:
     accuracy: [100]
     power:
     - 70
-    - {dp: 90}
+    - dp: 90
     pp: [15]
     priority: [0]
     target: [enemy]
@@ -3469,11 +3469,11 @@ moves:
       - gs: Deals damage based on the foe's weight.
     accuracy:
     - 90
-    - {gs: 100}
+    - gs: 100
     power:
     - 50
-    - {gs: 0}
-    - {bw: 1}
+    - gs: 0
+      bw: 1
     pp: [20]
     priority: [0]
     target: [enemy]
@@ -3551,7 +3551,7 @@ moves:
     pp: [15]
     priority:
     - 3
-    - {dp: 4}
+    - dp: 4
     target: [user]
     
   Magic Room:
@@ -3586,7 +3586,7 @@ moves:
       - Traps and damages over multiple turns.
     accuracy:
     - 70
-    - {bw: 75}
+    - bw: 75
     power:
     - 120
     - xy: 100
@@ -3627,7 +3627,7 @@ moves:
     accuracy: [100]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [30]
     priority: [0]
     target: [others]
@@ -3641,7 +3641,7 @@ moves:
     accuracy: [0]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [20]
     priority: [0]
     target: [unique2]
@@ -3680,7 +3680,7 @@ moves:
     power: [40]
     pp:
     - 10
-    - {dp: 15}
+    - dp: 15
     priority: [0]
     target: [enemy]
     
@@ -3728,7 +3728,7 @@ moves:
       - User faints. Lowers foe's Atk and SpA 2 stages.
     accuracy:
     - 0
-    - {dp: 100}
+    - dp: 100
     power: [0]
     pp: [10]
     priority: [0]
@@ -3743,7 +3743,7 @@ moves:
     accuracy: [100]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [10]
     priority: [0]
     target: [lastenemy]
@@ -3835,8 +3835,8 @@ moves:
     power: [0]
     pp:
     - 5
-    - {dp: 40}
-    - {bw: 5}
+    - dp: 40
+      bw: 5
     priority: [0]
     target: [enemy]
     
@@ -3875,12 +3875,12 @@ moves:
     accuracy: [100]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [20]
     priority:
     - -1
-    - {rs: -4}
-    - {dp: -5}
+    - rs: -4
+      dp: -5
     target: [lastenemy]
     
   Mirror Move:
@@ -4040,7 +4040,7 @@ moves:
     accuracy: [100]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [15]
     priority: [0]
     target: [enemy]
@@ -4090,7 +4090,7 @@ moves:
     accuracy: [100]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [15]
     priority: [0]
     target: [enemy]
@@ -4164,7 +4164,7 @@ moves:
     accuracy: [100]
     power:
     - 90
-    - {dp: 120}
+    - dp: 120
     pp: [15]
     priority: [0]
     target: [randenemy]
@@ -4252,11 +4252,11 @@ moves:
     accuracy: [100]
     power:
     - 70
-    - {dp: 90}
-    - {bw: 120}
+    - dp: 90
+      bw: 120
     pp:
     - 20
-    - {bw: 10}
+    - bw: 10
     priority: [0]
     target: [randenemy]
     
@@ -4309,7 +4309,7 @@ moves:
     accuracy:
     - 55
     - bw: 90
-    - xy: 80
+      xy: 80
     power: [0]
     pp: [40]
     priority: [0]
@@ -4459,7 +4459,7 @@ moves:
     accuracy: [90]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [15]
     priority: [0]
     target: [enemy]
@@ -4475,8 +4475,8 @@ moves:
     pp: [10]
     priority:
     - 2
-    - {dp: 3}
-    - {bw: 4}
+    - dp: 3
+      bw: 4
     target: [user]
     
   Psybeam:
@@ -4587,7 +4587,7 @@ moves:
     accuracy: [80]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [15]
     priority: [0]
     target: [enemy]
@@ -4601,7 +4601,7 @@ moves:
     accuracy: [100]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -4748,7 +4748,7 @@ moves:
       - gs: Charges up the first turn; attacks on the second turn. Has a high critical hit rate.
     accuracy:
     - 75
-    - {gs: 100}
+    - gs: 100
     power: [80]
     pp: [10]
     priority: [0]
@@ -4764,7 +4764,7 @@ moves:
     power: [0]
     pp:
     - 20
-    - {dp: 10}
+    - dp: 10
     priority: [0]
     target: [user]
     
@@ -4862,7 +4862,7 @@ moves:
     accuracy: [100]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [20]
     priority: [0]
     target: [enemy]
@@ -4878,7 +4878,7 @@ moves:
     pp: [10]
     priority:
     - -3
-    - {dp: -4}
+    - dp: -4
     target: [enemy]
     
   Reversal:
@@ -4890,7 +4890,7 @@ moves:
     accuracy: [100]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [15]
     priority: [0]
     target: [enemy]
@@ -4909,8 +4909,8 @@ moves:
     priority:
     - 0
     - gs: -1
-    - rs: -5
-    - dp: -6
+      rs: -5
+      dp: -6
     target: [enemy]
     
   Roar of Time:
@@ -4933,7 +4933,7 @@ moves:
       - Hits 2-5 times in one turn.
     accuracy:
     - 80
-    - {bw: 90}
+    - bw: 90
     power: [25]
     pp: [10]
     priority: [0]
@@ -4985,7 +4985,7 @@ moves:
     accuracy: [100]
     power:
     - 20
-    - {dp: 40}
+    - dp: 40
     pp: [15]
     priority: [0]
     target: [enemy]
@@ -5136,10 +5136,10 @@ moves:
       - Traps and damages over multiple turns.
     accuracy:
     - 70
-    - {bw: 85}
+    - bw: 85
     power:
     - 15
-    - {bw: 35}
+    - bw: 35
     pp: [15]
     priority: [0]
     target: [enemy]
@@ -5285,7 +5285,7 @@ moves:
     accuracy: [100]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [20]
     priority: [0]
     target: [enemy]
@@ -5299,7 +5299,7 @@ moves:
     accuracy: [100]
     power:
     - 130
-    - {gs: 200}
+    - gs: 200
     pp: [5]
     priority: [0]
     target: [others]
@@ -5385,7 +5385,7 @@ moves:
     accuracy: [30]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -5721,7 +5721,7 @@ moves:
     pp: [10]
     priority:
     - 3
-    - {dp: 4}
+    - dp: 4
     target: [user]
     
   Snore:
@@ -5784,7 +5784,7 @@ moves:
     accuracy: [90]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [20]
     priority: [0]
     target: [enemy]
@@ -5858,7 +5858,7 @@ moves:
     accuracy: [100]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -5945,7 +5945,7 @@ moves:
     power: [0]
     pp:
     - 10
-    - {dp: 20}
+    - dp: 20
     priority: [0]
     target: [user]
     
@@ -6033,7 +6033,7 @@ moves:
     power: [50]
     pp:
     - 10
-    - {dp: 1}
+    - dp: 1
     priority: [0]
     target: [enemy]
     
@@ -6120,7 +6120,7 @@ moves:
     accuracy: [90]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -6284,10 +6284,10 @@ moves:
       - No additional effect.
     accuracy:
     - 95
-    - {bw: 100}
+    - bw: 100
     power:
     - 35
-    - {bw: 50}
+    - bw: 50
     pp: [35]
     priority: [0]
     target: [enemy]
@@ -6440,10 +6440,10 @@ moves:
     accuracy: [100]
     power:
     - 90
-    - {bw: 120}
+    - bw: 120
     pp:
     - 20
-    - {bw: 10}
+    - bw: 10
     priority: [0]
     target: [randenemy]
     
@@ -6556,7 +6556,7 @@ moves:
       - Inflicts intensifying poison on the target.
     accuracy:
     - 85
-    - {bw: 90}
+    - bw: 90
     power: [0]
     pp: [10]
     priority: [0]
@@ -6644,7 +6644,7 @@ moves:
     accuracy: [0]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -6694,7 +6694,7 @@ moves:
     accuracy: [100]
     power:
     - 50
-    - {bw: 90}
+    - bw: 90
     pp: [10]
     priority: [0]
     target: [randenemy]
@@ -6759,7 +6759,7 @@ moves:
     - xy: 45
     pp:
     - 10
-    - {dp: 15}
+    - dp: 15
     priority: [0]
     target: [enemy]
     
@@ -6907,10 +6907,10 @@ moves:
       - Traps and damages over multiple turns.
     accuracy:
     - 70
-    - {bw: 85}
+    - bw: 85
     power:
     - 15
-    - {bw: 35}
+    - bw: 35
     pp: [15]
     priority: [0]
     target: [enemy]
@@ -6928,9 +6928,9 @@ moves:
     pp: [20]
     priority:
     - 0
-    - {gs: -1}
-    - {rs: -5}
-    - {dp: -6}
+    - gs: -1
+      rs: -5
+      dp: -6
     target: [enemy]
     
   Wide Guard:
@@ -6980,7 +6980,7 @@ moves:
     accuracy: [100]
     power:
     - 35
-    - {gs: 60}
+    - gs: 60
     pp: [35]
     priority: [0]
     target: [enemy]
@@ -7065,7 +7065,7 @@ moves:
       - Prevents the opponent from attacking for 2-5 turns.
     accuracy:
     - 85
-    - {bw: 90}
+    - bw: 90
     power: [15]
     pp: [20]
     priority: [0]
@@ -7080,7 +7080,7 @@ moves:
     accuracy: [100]
     power:
     - 0
-    - {bw: 1}
+    - bw: 1
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -7118,7 +7118,7 @@ moves:
     accuracy: [50]
     power:
     - 100
-    - {dp: 120}
+    - dp: 120
     pp: [5]
     priority: [0]
     target: [enemy]

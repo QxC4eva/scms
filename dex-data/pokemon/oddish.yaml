@@ -5,6 +5,8 @@ pokemon:
     - bw: [Chlorophyll, Healer]
     egggroups:
     - [Plant]
+    evolutions:
+    - []
     height: [0.4]
     introduction: gs
     moves:
@@ -113,6 +115,8 @@ pokemon:
     - bw: [Chlorophyll, Effect Spore]
     egggroups:
     - [Plant]
+    evolutions:
+    - []
     height: [1.2]
     introduction: rb
     moves:

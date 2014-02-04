@@ -5,6 +5,8 @@ pokemon:
     - xy: [Poison Point, Speed Boost, Swarm]
     egggroups:
     - [Bug]
+    evolutions:
+    - []
     height: [2.5]
     introduction: bw
     moves:

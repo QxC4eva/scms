@@ -46,6 +46,8 @@ pokemon:
     - bw: [Hydration, Swift Swim]
     egggroups:
     - [Water 1]
+    evolutions:
+    - []
     height: [1.8]
     introduction: rs
     moves:
@@ -74,6 +76,8 @@ pokemon:
     - bw: [Swift Swim, Water Veil]
     egggroups:
     - [Water 1]
+    evolutions:
+    - []
     height: [1.7]
     introduction: rs
     moves:

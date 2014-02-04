@@ -5,6 +5,8 @@ pokemon:
     - bw: [Rivalry, Swarm]
     egggroups:
     - [Bug]
+    evolutions:
+    - []
     height: [1]
     introduction: rs
     moves:
@@ -47,6 +49,8 @@ pokemon:
     - [Shed Skin]
     egggroups:
     - [Bug]
+    evolutions:
+    - []
     height: [0.7]
     introduction: rs
     moves:
@@ -67,6 +71,8 @@ pokemon:
     - bw: [Compound Eyes, Shield Dust]
     egggroups:
     - [Bug]
+    evolutions:
+    - []
     height: [1.2]
     introduction: rs
     moves:
@@ -93,6 +99,8 @@ pokemon:
     - [Shed Skin]
     egggroups:
     - [Bug]
+    evolutions:
+    - []
     height: [0.6]
     introduction: rs
     moves:

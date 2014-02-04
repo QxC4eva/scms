@@ -50,6 +50,8 @@ pokemon:
     - bw: [Infiltrator, Speed Boost]
     egggroups:
     - [Bug]
+    evolutions:
+    - []
     height: [0.8]
     introduction: rs
     moves:
@@ -78,6 +80,8 @@ pokemon:
     - bw: [Wonder Guard]
     egggroups:
     - [Mineral]
+    evolutions:
+    - []
     height: [0.8]
     introduction: rs
     moves:

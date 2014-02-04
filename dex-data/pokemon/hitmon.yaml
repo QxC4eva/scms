@@ -6,6 +6,8 @@ pokemon:
     - bw: [Inner Focus, Iron Fist, Keen Eye]
     egggroups:
     - [Humanshape]
+    evolutions:
+    - []
     height: [1.4]
     introduction: rb
     moves:
@@ -47,6 +49,8 @@ pokemon:
     - bw: [Limber, Reckless, Unburden]
     egggroups:
     - [Humanshape]
+    evolutions:
+    - []
     height: [1.5]
     introduction: rb
     moves:
@@ -81,6 +85,8 @@ pokemon:
     - bw: [Intimidate, Steadfast, Technician]
     egggroups:
     - [Humanshape]
+    evolutions:
+    - []
     height: [1.4]
     introduction: gs
     moves:

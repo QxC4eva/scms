@@ -104,6 +104,8 @@ pokemon:
     - bw: [Lightningrod, Static]
     egggroups:
     - [Fairy, Ground]
+    evolutions:
+    - []
     height: [0.8]
     introduction: rb
     moves:

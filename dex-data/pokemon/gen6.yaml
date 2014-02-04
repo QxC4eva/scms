@@ -1,32 +1,5 @@
 pokemon:
-  Abomasnow-Mega:
-    abilities:
-    - [Snow Warning]
-    egggroups:
-    - [Monster, Grass]
-    height: [2.7]
-    introduction: xy
-    stats:
-    - [90, 132, 105, 132, 105, 30]
-    tags:
-    - []
-    types:
-    - [Grass, Ice]
-    weight: [185]
-  Absol-Mega:
-    abilities:
-    - [Magic Bounce]
-    egggroups:
-    - [Field]
-    height: [1.2]
-    introduction: xy
-    stats:
-    - [65, 150, 60, 115, 60, 115]
-    tags:
-    - []
-    types:
-    - [Dark]
-    weight: [49]
+
   Aegislash:
     abilities:
     - [Stance Change]
@@ -59,48 +32,7 @@ pokemon:
     types:
     - [Steel, Ghost]
     weight: [0]
-  Aerodactyl-Mega:
-    abilities:
-    - [Tough Claws]
-    egggroups:
-    - [Flying]
-    height: [2.1]
-    introduction: xy
-    stats:
-    - [80, 135, 85, 70, 95, 150]
-    tags:
-    - []
-    types:
-    - [Rock, Flying]
-    weight: [79]
-  Aggron-Mega:
-    abilities:
-    - [Filter]
-    egggroups:
-    - [Monster]
-    height: [2.2]
-    introduction: xy
-    stats:
-    - [70, 140, 230, 60, 80, 50]
-    tags:
-    - []
-    types:
-    - [Steel]
-    weight: [395]
-  Alakazam-Mega:
-    abilities:
-    - [Trace]
-    egggroups:
-    - [Human-Like]
-    height: [1.2]
-    introduction: xy
-    stats:
-    - [55, 50, 65, 175, 95, 150]
-    tags:
-    - []
-    types:
-    - [Psychic]
-    weight: [48]
+
   Amaura:
     abilities:
     - [Refrigerate, Snow Warning]
@@ -126,20 +58,7 @@ pokemon:
     types:
     - [Rock, Ice]
     weight: [25.2]
-  Ampharos-Mega:
-    abilities:
-    - [Mold Breaker]
-    egggroups:
-    - [Monster, Field]
-    height: [1.4]
-    introduction: xy
-    stats:
-    - [90, 95, 105, 165, 110, 45]
-    tags:
-    - []
-    types:
-    - [Electric, Dragon]
-    weight: [61.5]
+  
   Aromatisse:
     abilities:
     - [Healer, Aroma Veil]
@@ -189,20 +108,7 @@ pokemon:
     types:
     - [Ice]
     weight: [505]
-  Banette-Mega:
-    abilities:
-    - [Prankster]
-    egggroups:
-    - [Amorphous]
-    height: [1.2]
-    introduction: xy
-    stats:
-    - [64, 165, 75, 93, 83, 75]
-    tags:
-    - []
-    types:
-    - [Ghost]
-    weight: [13]
+  
   Barbaracle:
     abilities:
     - [Tough Claws, Sniper, Pickpocket]
@@ -268,34 +174,7 @@ pokemon:
     types:
     - [Rock, Water]
     weight: [31]
-  Blastoise-Mega:
-    abilities:
-    - [Mega Launcher]
-    egggroups:
-    - [Monster, Water 1]
-    height: [1.6]
-    introduction: xy
-    stats:
-    - [79, 103, 120, 135, 115, 78]
-    tags:
-    - []
-    types:
-    - [Water]
-    weight: [101.1]
-  Blaziken-Mega:
-    abilities:
-    - [Speed Boost]
-    egggroups:
-    - [Field]
-    height: [1.9]
-    introduction: xy
-    stats:
-    - [80, 160, 80, 130, 80, 100]
-    tags:
-    - []
-    types:
-    - [Fire, Fighting]
-    weight: [52]
+  
   Braixen:
     abilities:
     - [Blaze, Magician]
@@ -732,48 +611,7 @@ pokemon:
     types:
     - [Normal]
     weight: [28]
-  Garchomp-Mega:
-    abilities:
-    - [Sand Force]
-    egggroups:
-    - [Monster, Dragon]
-    height: [1.9]
-    introduction: xy
-    stats:
-    - [108, 170, 115, 120, 95, 92]
-    tags:
-    - []
-    types:
-    - [Dragon, Ground]
-    weight: [95]
-  Gardevoir-Mega:
-    abilities:
-    - [Pixilate]
-    egggroups:
-    - [Amorphous]
-    height: [1.6]
-    introduction: xy
-    stats:
-    - [68, 85, 65, 165, 135, 100]
-    tags:
-    - []
-    types:
-    - [Psychic, Fairy]
-    weight: [48.4]
-  Gengar-Mega:
-    abilities:
-    - [Shadow Tag]
-    egggroups:
-    - [Amorphous]
-    height: [1.4]
-    introduction: xy
-    stats:
-    - [60, 65, 80, 170, 95, 130]
-    tags:
-    - []
-    types:
-    - [Ghost, Poison]
-    weight: [40.5]
+  
   Gogoat:
     abilities:
     - [Sap Sipper, Grass Pelt]
@@ -906,20 +744,7 @@ pokemon:
     types:
     - [Water, Dark]
     weight: [40]
-  Gyarados-Mega:
-    abilities:
-    - [Mold Breaker]
-    egggroups:
-    - [Water 2, Dragon]
-    height: [6.5]
-    introduction: xy
-    stats:
-    - [95, 155, 109, 70, 130, 81]
-    tags:
-    - []
-    types:
-    - [Water, Dark]
-    weight: [305]
+  
   Hawlucha:
     abilities:
     - [Limber, Unburden, Mold Breaker]
@@ -984,20 +809,7 @@ pokemon:
     types:
     - [Electric, Normal]
     weight: [6]
-  Heracross-Mega:
-    abilities:
-    - [Skill Link]
-    egggroups:
-    - [Bug]
-    height: [1.7]
-    introduction: xy
-    stats:
-    - [80, 185, 115, 40, 105, 75]
-    tags:
-    - []
-    types:
-    - [Bug, Fighting]
-    weight: [62.5]
+  
   Honedge:
     abilities:
     - [No Guard]
@@ -1020,20 +832,7 @@ pokemon:
     types:
     - [Steel, Ghost]
     weight: [2]
-  Houndoom-Mega:
-    abilities:
-    - [Solar Power]
-    egggroups:
-    - [Field]
-    height: [1.9]
-    introduction: xy
-    stats:
-    - [75, 90, 90, 140, 90, 115]
-    tags:
-    - []
-    types:
-    - [Dark, Fire]
-    weight: [49.5]
+  
   Inkay:
     abilities:
     - [Contrary, Suction Cups, Infiltrator]
@@ -1058,20 +857,7 @@ pokemon:
     types:
     - [Dark, Psychic]
     weight: [3.5]
-  Kangaskhan-Mega:
-    abilities:
-    - [Parental Bond]
-    egggroups:
-    - [Monster]
-    height: [2.2]
-    introduction: xy
-    stats:
-    - [105, 125, 100, 60, 100, 100]
-    tags:
-    - []
-    types:
-    - [Normal]
-    weight: [100]
+  
   Klefki:
     abilities:
     - [Prankster, Magician]
@@ -1117,20 +903,7 @@ pokemon:
     types:
     - [Fire, Normal]
     weight: [13.5]
-  Lucario-Mega:
-    abilities:
-    - [Adaptability]
-    egggroups:
-    - [Field, Human-Like]
-    height: [1.3]
-    introduction: xy
-    stats:
-    - [70, 145, 88, 140, 70, 112]
-    tags:
-    - []
-    types:
-    - [Fighting, Steel]
-    weight: [57.5]
+  
   Malamar:
     abilities:
     - [Contrary, Suction Cups, Infiltrator]
@@ -1147,48 +920,7 @@ pokemon:
     types:
     - [Dark, Psychic]
     weight: [47]
-  Manectric-Mega:
-    abilities:
-    - [Intimidate]
-    egggroups:
-    - [Field]
-    height: [1.8]
-    introduction: xy
-    stats:
-    - [70, 75, 80, 135, 80, 135]
-    tags:
-    - []
-    types:
-    - [Electric]
-    weight: [44]
-  Mawile-Mega:
-    abilities:
-    - [Huge Power]
-    egggroups:
-    - [Field, Fairy]
-    height: [1]
-    introduction: xy
-    stats:
-    - [50, 105, 125, 55, 95, 50]
-    tags:
-    - []
-    types:
-    - [Steel, Fairy]
-    weight: [23.5]
-  Medicham-Mega:
-    abilities:
-    - [Pure Power]
-    egggroups:
-    - [Human-Like]
-    height: [1.3]
-    introduction: xy
-    stats:
-    - [60, 100, 85, 80, 85, 100]
-    tags:
-    - []
-    types:
-    - [Fighting, Psychic]
-    weight: [31.5]
+  
   Meowstic:
     abilities:
     - [Keen Eye, Infiltrator, Prankster]
@@ -1329,20 +1061,7 @@ pokemon:
     types:
     - [Ghost, Grass]
     weight: [7]
-  Pinsir-Mega:
-    abilities:
-    - [Aerilate]
-    egggroups:
-    - [Bug]
-    height: [1.7]
-    introduction: xy
-    stats:
-    - [65, 155, 120, 65, 90, 105]
-    tags:
-    - []
-    types:
-    - [Bug, Flying]
-    weight: [59]
+  
   Pumpkaboo:
     abilities:
     - [Pickup, Frisk, Insomnia]
@@ -1463,20 +1182,7 @@ pokemon:
     types:
     - [Bug]
     weight: [2.5]
-  Scizor-Mega:
-    abilities:
-    - [Technician]
-    egggroups:
-    - [Bug]
-    height: [2]
-    introduction: xy
-    stats:
-    - [70, 150, 140, 65, 100, 75]
-    tags:
-    - []
-    types:
-    - [Bug, Steel]
-    weight: [125]
+  
   Skiddo:
     abilities:
     - [Sap Sipper, Grass Pelt]
@@ -1618,24 +1324,7 @@ pokemon:
     types:
     - [Fairy]
     weight: [3.5]
-  Sylveon:
-    abilities:
-    - [Cute Charm, Pixilate]
-    egggroups:
-    - [Field]
-    height: [1]
-    introduction: xy
-    moves:
-    - xy: [Disarming Voice, Fairy Wind, Draining Kiss, Skill Swap, Misty Terrain,
-        Light Screen, Moonblast, Psych Up, Psyshock, Calm Mind, Hyper Beam, Safeguard,
-        Reflect, Giga Impact, Flash, Dazzling Gleam, Cut]
-    stats:
-    - [95, 65, 65, 110, 130, 60]
-    tags:
-    - []
-    types:
-    - [Fairy]
-    weight: [23.5]
+   
   Talonflame:
     abilities:
     - [Flame Body, Gale Wings]
@@ -1670,20 +1359,7 @@ pokemon:
     types:
     - [Ghost, Grass]
     weight: [71]
-  Tyranitar-Mega:
-    abilities:
-    - [Sand Stream]
-    egggroups:
-    - [Monster]
-    height: [2.5]
-    introduction: xy
-    stats:
-    - [100, 164, 150, 95, 120, 71]
-    tags:
-    - []
-    types:
-    - [Rock, Dark]
-    weight: [255]
+  
   Tyrantrum:
     abilities:
     - [Strong Jaw, Rock Head]
@@ -1723,20 +1399,7 @@ pokemon:
     types:
     - [Rock, Dragon]
     weight: [26]
-  Venusaur-Mega:
-    abilities:
-    - [Thick Fat]
-    egggroups:
-    - [Monster, Grass]
-    height: [2.4]
-    introduction: xy
-    stats:
-    - [80, 100, 123, 122, 120, 80]
-    tags:
-    - []
-    types:
-    - [Grass, Poison]
-    weight: [155.5]
+  
   Vivillon:
     abilities:
     - [Shield Dust, Compound Eyes, Friend Guard]

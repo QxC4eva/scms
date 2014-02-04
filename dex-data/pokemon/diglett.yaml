@@ -1,4 +1,21 @@
+
 pokemon:
+  Diglett:
+    introduction: rb
+    types:
+    - [Ground]
+    egggroups:
+    - [Ground]
+    abilities:
+    - [Arena Trap, Sand Veil]
+    - bw: [Arena Trap, Sand Force, Sand Veil]
+    stats:
+    - [10, 55, 25, 45, 45, 95]  
+    - gs: [10, 55, 25, 35, 45, 95]
+    tags:
+    - [nfe]
+    weight: [0.8]
+    height: [0.2]
   Dugtrio:
     introduction: rb
     types:

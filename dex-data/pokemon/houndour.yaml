@@ -29,6 +29,8 @@ pokemon:
     - [Field]
     height: [1.9]
     introduction: xy
+    moves:
+    - []
     stats:
     - [75, 90, 90, 140, 90, 115]
     tags:

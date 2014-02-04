@@ -32,6 +32,8 @@ pokemon:
     - [Monster, Field]
     height: [1.4]
     introduction: xy
+    moves:
+    - []
     stats:
     - [90, 95, 105, 165, 110, 45]
     tags:

@@ -33,6 +33,8 @@ pokemon:
     - [Bug]
     height: [2]
     introduction: xy
+    moves:
+    - []
     stats:
     - [70, 150, 140, 65, 100, 75]
     tags:

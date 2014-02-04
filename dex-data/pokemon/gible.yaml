@@ -48,6 +48,8 @@ pokemon:
     - [Monster, Dragon]
     height: [1.9]
     introduction: xy
+    moves:
+    - []
     stats:
     - [108, 170, 115, 120, 95, 92]
     tags:

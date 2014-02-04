@@ -75,6 +75,8 @@ pokemon:
     - [Flying]
     height: [2.1]
     introduction: xy
+    moves:
+    - []
     stats:
     - [80, 135, 85, 70, 95, 150]
     tags:

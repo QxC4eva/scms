@@ -75,6 +75,8 @@ pokemon:
     - [Field, Fairy]
     height: [1]
     introduction: xy
+    moves:
+    - []
     stats:
     - [50, 105, 125, 55, 95, 50]
     tags:

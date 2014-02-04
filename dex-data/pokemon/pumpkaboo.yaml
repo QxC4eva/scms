@@ -23,6 +23,8 @@ pokemon:
     - [Amorphous]
     height: [0]
     introduction: xy
+    moves:
+    - []
     stats:
     - [75, 95, 122, 58, 75, 69]
     tags:
@@ -37,6 +39,8 @@ pokemon:
     - [Amorphous]
     height: [0]
     introduction: xy
+    moves:
+    - []
     stats:
     - [55, 85, 122, 58, 75, 99]
     tags:
@@ -51,6 +55,8 @@ pokemon:
     - [Amorphous]
     height: [0]
     introduction: xy
+    moves:
+    - []
     stats:
     - [85, 100, 122, 58, 75, 54]
     tags:
@@ -91,6 +97,8 @@ pokemon:
     evolutions: [Gourgeist-Large]
     height: [0]
     introduction: xy
+    moves:
+    - []
     stats:
     - [54, 66, 70, 44, 55, 46]
     tags:
@@ -106,6 +114,8 @@ pokemon:
     evolutions: [Gourgeist-Small]
     height: [0]
     introduction: xy
+    moves:
+    - []
     stats:
     - [44, 66, 70, 44, 55, 56]
     tags:
@@ -121,6 +131,8 @@ pokemon:
     evolutions: [Gourgeist-Super]
     height: [0]
     introduction: xy
+    moves:
+    - []
     stats:
     - [59, 66, 70, 44, 55, 41]
     tags:

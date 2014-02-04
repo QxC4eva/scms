@@ -67,6 +67,8 @@ pokemon:
     - [Water 2, Dragon]
     height: [6.5]
     introduction: xy
+    moves:
+    - []
     stats:
     - [95, 155, 109, 70, 130, 81]
     tags:

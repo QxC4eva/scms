@@ -30,6 +30,8 @@ pokemon:
     - [Monster, Grass]
     height: [2.7]
     introduction: xy
+    moves:
+    - []
     stats:
     - [90, 132, 105, 132, 105, 30]
     tags:

@@ -106,6 +106,8 @@ pokemon:
     - [Amorphous]
     height: [1.4]
     introduction: xy
+    moves:
+    - []
     stats:
     - [60, 65, 80, 170, 95, 130]
     tags:

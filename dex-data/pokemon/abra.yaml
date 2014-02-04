@@ -101,6 +101,8 @@ pokemon:
     - [Human-Like]
     height: [1.2]
     introduction: xy
+    moves:
+    - []
     stats:
     - [55, 50, 65, 175, 95, 150]
     tags:

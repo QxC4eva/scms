@@ -1,94 +1,92 @@
 pokemon:
-  Slakoth:
-    introduction: rs
-    types:
-    - [Normal]
-    egggroups:
-    - [Ground]
-    abilities:
-    - [Truant]
-    stats:
-    - [60, 60, 60, 35, 35, 30]
-    tags:
-    - [nfe]
-    - dp: [lc]
-    weight: [24]
-    height: [0.8]
-  Vigoroth:
-    introduction: rs
-    types:
-    - [Normal]
-    egggroups:
-    - [Ground]
-    abilities:
-    - [Vital Spirit]
-    - bw: [Vital Spirit]
-    stats:
-    - [80, 80, 80, 55, 55, 90]
-    tags:
-    - [nfe]
-    - dp: [nu]
-    weight: [46.5]
-    height: [1.4]
   Slaking:
-    introduction: rs
-    types:
-    - [Normal]
-    egggroups:
-    - [Ground]
     abilities:
     - [Truant]
+    egggroups:
+    - [Ground]
+    height: [2]
+    introduction: rs
+    moves:
+    - bw: [Block, Giga Impact, Hyper Beam, Punishment, Quash, Smack Down, Double-Edge,
+        Icy Wind, Mimic, Seismic Toss]
+    - dp: [Block, Giga Impact, Hyper Beam, Punishment, Double-Edge, Icy Wind, Mimic,
+        Seismic Toss]
+    - rs: [Hyper Beam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
     stats:
     - [150, 160, 100, 95, 65, 100]
     tags:
     - [bl]
     - dp: [nu]
+    types:
+    - [Normal]
     weight: [130.5]
-    height: [2]
-evolutions:
-- {from: Slakoth, to: Vigoroth}
-- {from: Vigoroth, to: Slaking}
-learnsets:
-  rs:
-    Slakoth: [Aerial Ace, Amnesia, Attract, Blizzard, Body Slam, Brick Break, Bulk
-        Up, Counter, Covet, Crush Claw, Curse, Cut, Double-Edge, Double Team, Dynamicpunch,
-      Encore, Endure, Facade, Faint Attack, Fire Blast, Fire Punch, Flail, Flamethrower,
-      Focus Punch, Frustration, Fury Cutter, Hidden Power, Ice Beam, Ice Punch, Icy
-        Wind, Mega Kick, Mega Punch, Mimic, Mud-Slap, Protect, Pursuit, Rain Dance,
-      Rest, Return, Rock Slide, Rock Smash, Scratch, Secret Power, Seismic Toss, Shadow
-        Ball, Shock Wave, Slack Off, Slash, Sleep Talk, Snore, Solarbeam, Strength,
-      Substitute, Sunny Day, Swagger, Thunder, Thunderbolt, Thunderpunch, Toxic, Water
-        Pulse, Yawn, Double-Edge, Icy Wind, Mimic, Seismic Toss]
-    Vigoroth: [Earthquake, Focus Energy, Fury Swipes, Reversal, Roar, Taunt, Uproar,
-      Double-Edge, Icy Wind, Mimic, Seismic Toss]
-    Slaking: [Hyper Beam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
-  dp:
-    Slakoth: [Aerial Ace, Amnesia, Attract, Blizzard, Body Slam, Brick Break, Bulk
-        Up, Captivate, Counter, Covet, Crush Claw, Curse, Cut, Double Team, Encore,
-      Endure, Facade, Faint Attack, Fire Blast, Fire Punch, Flail, Flamethrower, Fling,
-      Focus Punch, Frustration, Fury Cutter, Gunk Shot, Hammer Arm, Headbutt, Hidden
-        Power, Ice Beam, Ice Punch, Icy Wind, Mud-Slap, Natural Gift, Night Slash,
-      Protect, Pursuit, Rain Dance, Rest, Return, Rock Slide, Rock Smash, Rock Tomb,
-      Scratch, Secret Power, Shadow Ball, Shadow Claw, Shock Wave, Slack Off, Slash,
-      Sleep Talk, Snore, Solarbeam, Strength, Substitute, Sucker Punch, Sunny Day,
-      Swagger, Thunder, Thunderbolt, Thunderpunch, Toxic, Water Pulse, Yawn, Double-Edge,
-      Icy Wind, Mimic, Seismic Toss]
-    Vigoroth: [Earthquake, Focus Blast, Focus Energy, Fury Swipes, Low Kick, Reversal,
-      Roar, Rock Climb, Taunt, Uproar, Double-Edge, Icy Wind, Mimic, Seismic Toss]
-    Slaking: [Block, Giga Impact, Hyper Beam, Punishment, Double-Edge, Icy Wind, Mimic,
-      Seismic Toss]
-  bw:
-    Slakoth: [Aerial Ace, After You, Amnesia, Attract, Blizzard, Body Slam, Brick
-        Break, Bulk Up, Chip Away, Counter, Covet, Crush Claw, Curse, Cut, Double
-        Team, Encore, Facade, Faint Attack, Fire Blast, Fire Punch, Flail, Flamethrower,
-      Fling, Frustration, Gunk Shot, Hammer Arm, Hidden Power, Hone Claws, Ice Beam,
-      Ice Punch, Icy Wind, Incinerate, Night Slash, Protect, Pursuit, Rain Dance,
-      Rest, Retaliate, Return, Rock Slide, Rock Smash, Rock Tomb, Round, Scratch,
-      Shadow Ball, Shadow Claw, Slack Off, Slash, Sleep Talk, Snore, Solarbeam, Strength,
-      Substitute, Sunny Day, Swagger, Thunder, Thunderbolt, Thunderpunch, Tickle,
-      Toxic, Work Up, Yawn, Double-Edge, Icy Wind, Mimic, Seismic Toss]
-    Vigoroth: [Bulldoze, Earthquake, Endure, Focus Blast, Focus Energy, Focus Punch,
-      Fury Swipes, Low Kick, Low Sweep, Reversal, Roar, Taunt, Uproar, Double-Edge,
-      Icy Wind, Mimic, Seismic Toss]
-    Slaking: [Block, Giga Impact, Hyper Beam, Punishment, Quash, Smack Down, Double-Edge,
-      Icy Wind, Mimic, Seismic Toss]
+  Slakoth:
+    abilities:
+    - [Truant]
+    egggroups:
+    - [Ground]
+    evolutions: [Vigoroth]
+    height: [0.8]
+    introduction: rs
+    moves:
+    - bw: [Aerial Ace, After You, Amnesia, Attract, Blizzard, Body Slam, Brick Break,
+        Bulk Up, Chip Away, Counter, Covet, Crush Claw, Curse, Cut, Double Team, Encore,
+        Facade, Faint Attack, Fire Blast, Fire Punch, Flail, Flamethrower, Fling,
+        Frustration, Gunk Shot, Hammer Arm, Hidden Power, Hone Claws, Ice Beam, Ice
+          Punch, Icy Wind, Incinerate, Night Slash, Protect, Pursuit, Rain Dance,
+        Rest, Retaliate, Return, Rock Slide, Rock Smash, Rock Tomb, Round, Scratch,
+        Shadow Ball, Shadow Claw, Slack Off, Slash, Sleep Talk, Snore, Solarbeam,
+        Strength, Substitute, Sunny Day, Swagger, Thunder, Thunderbolt, Thunderpunch,
+        Tickle, Toxic, Work Up, Yawn, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+    - dp: [Aerial Ace, Amnesia, Attract, Blizzard, Body Slam, Brick Break, Bulk Up,
+        Captivate, Counter, Covet, Crush Claw, Curse, Cut, Double Team, Encore, Endure,
+        Facade, Faint Attack, Fire Blast, Fire Punch, Flail, Flamethrower, Fling,
+        Focus Punch, Frustration, Fury Cutter, Gunk Shot, Hammer Arm, Headbutt, Hidden
+          Power, Ice Beam, Ice Punch, Icy Wind, Mud-Slap, Natural Gift, Night Slash,
+        Protect, Pursuit, Rain Dance, Rest, Return, Rock Slide, Rock Smash, Rock Tomb,
+        Scratch, Secret Power, Shadow Ball, Shadow Claw, Shock Wave, Slack Off, Slash,
+        Sleep Talk, Snore, Solarbeam, Strength, Substitute, Sucker Punch, Sunny Day,
+        Swagger, Thunder, Thunderbolt, Thunderpunch, Toxic, Water Pulse, Yawn, Double-Edge,
+        Icy Wind, Mimic, Seismic Toss]
+    - rs: [Aerial Ace, Amnesia, Attract, Blizzard, Body Slam, Brick Break, Bulk Up,
+        Counter, Covet, Crush Claw, Curse, Cut, Double-Edge, Double Team, Dynamicpunch,
+        Encore, Endure, Facade, Faint Attack, Fire Blast, Fire Punch, Flail, Flamethrower,
+        Focus Punch, Frustration, Fury Cutter, Hidden Power, Ice Beam, Ice Punch,
+        Icy Wind, Mega Kick, Mega Punch, Mimic, Mud-Slap, Protect, Pursuit, Rain Dance,
+        Rest, Return, Rock Slide, Rock Smash, Scratch, Secret Power, Seismic Toss,
+        Shadow Ball, Shock Wave, Slack Off, Slash, Sleep Talk, Snore, Solarbeam, Strength,
+        Substitute, Sunny Day, Swagger, Thunder, Thunderbolt, Thunderpunch, Toxic,
+        Water Pulse, Yawn, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+    stats:
+    - [60, 60, 60, 35, 35, 30]
+    tags:
+    - [nfe]
+    - dp: [lc]
+    types:
+    - [Normal]
+    weight: [24]
+  Vigoroth:
+    abilities:
+    - [Vital Spirit]
+    - bw: [Vital Spirit]
+    egggroups:
+    - [Ground]
+    evolutions: [Slaking]
+    height: [1.4]
+    introduction: rs
+    moves:
+    - bw: [Bulldoze, Earthquake, Endure, Focus Blast, Focus Energy, Focus Punch, Fury
+          Swipes, Low Kick, Low Sweep, Reversal, Roar, Taunt, Uproar, Double-Edge,
+        Icy Wind, Mimic, Seismic Toss]
+    - dp: [Earthquake, Focus Blast, Focus Energy, Fury Swipes, Low Kick, Reversal,
+        Roar, Rock Climb, Taunt, Uproar, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+    - rs: [Earthquake, Focus Energy, Fury Swipes, Reversal, Roar, Taunt, Uproar, Double-Edge,
+        Icy Wind, Mimic, Seismic Toss]
+    stats:
+    - [80, 80, 80, 55, 55, 90]
+    tags:
+    - [nfe]
+    - dp: [nu]
+    types:
+    - [Normal]
+    weight: [46.5]

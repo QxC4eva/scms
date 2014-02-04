@@ -1,59 +1,56 @@
 pokemon:
   Sableye:
-    introduction: rs
-    types:
-    - [Dark, Ghost]
-    egggroups:
-    - [Humanshape]
     abilities:
     - [Keen Eye]
-    - dp: [Keen Eye, Stall]
-      bw: [Keen Eye, Prankster, Stall]
+    - bw: [Keen Eye, Prankster, Stall]
+      dp: [Keen Eye, Stall]
+    egggroups:
+    - [Humanshape]
+    height: [0.5]
+    introduction: rs
+    moves:
+    - bw: [Aerial Ace, Astonish, Attract, Brick Break, Calm Mind, Captivate, Confuse
+          Ray, Cut, Dark Pulse, Detect, Dig, Double Team, Dream Eater, Embargo, Facade,
+        Faint Attack, Fake Out, Feint, Fire Punch, Flash, Flatter, Fling, Foresight,
+        Foul Play, Frustration, Fury Swipes, Gravity, Hidden Power, Hone Claws, Ice
+          Punch, Icy Wind, Incinerate, Knock Off, Leer, Low Kick, Low Sweep, Magic
+          Coat, Mean Look, Metal Burst, Moonlight, Nasty Plot, Night Shade, Payback,
+        Poison Jab, Power Gem, Protect, Psych Up, Psychic, Punishment, Rain Dance,
+        Recover, Rest, Retaliate, Return, Rock Smash, Rock Tomb, Role Play, Round,
+        Scratch, Shadow Ball, Shadow Claw, Shadow Sneak, Signal Beam, Sleep Talk,
+        Snarl, Snatch, Snore, Spite, Substitute, Sucker Punch, Sunny Day, Swagger,
+        Taunt, Telekinesis, Thief, Thunderpunch, Torment, Toxic, Trick, Will-O-Wisp,
+        Wonder Room, Zen Headbutt, Body Slam, Double-Edge, Helping Hand, Mimic, Nightmare,
+        Seismic Toss, Substitute]
+    - dp: [Aerial Ace, Astonish, Attract, Brick Break, Calm Mind, Captivate, Confuse
+          Ray, Cut, Dark Pulse, Detect, Dig, Double Team, Dream Eater, Embargo, Endure,
+        Facade, Faint Attack, Fake Out, Feint, Fire Punch, Flash, Flatter, Fling,
+        Focus Punch, Foresight, Frustration, Fury Cutter, Fury Swipes, Gravity, Headbutt,
+        Hidden Power, Ice Punch, Icy Wind, Knock Off, Leer, Low Kick, Magic Coat,
+        Mean Look, Moonlight, Mud-Slap, Nasty Plot, Natural Gift, Night Shade, Ominous
+          Wind, Pain Split, Payback, Poison Jab, Power Gem, Protect, Psych Up, Psychic,
+        Punishment, Rain Dance, Recover, Rest, Return, Rock Smash, Rock Tomb, Role
+          Play, Scratch, Secret Power, Shadow Ball, Shadow Claw, Shadow Sneak, Shock
+          Wave, Signal Beam, Sleep Talk, Snatch, Snore, Spite, Substitute, Sucker
+          Punch, Sunny Day, Swagger, Taunt, Thief, Thunderpunch, Torment, Toxic, Trick,
+        Water Pulse, Will-O-Wisp, Zen Headbutt, Body Slam, Double-Edge, Helping Hand,
+        Mimic, Nightmare, Seismic Toss, Substitute]
+    - rs: [Aerial Ace, Astonish, Attract, Body Slam, Brick Break, Calm Mind, Confuse
+          Ray, Counter, Cut, Detect, Dig, Double-Edge, Double Team, Dream Eater, Dynamicpunch,
+        Endure, Facade, Faint Attack, Fake Out, Fire Punch, Flash, Focus Punch, Foresight,
+        Frustration, Fury Cutter, Fury Swipes, Hidden Power, Ice Punch, Knock Off,
+        Leer, Mean Look, Mega Kick, Mega Punch, Metronome, Mimic, Moonlight, Mud-Slap,
+        Night Shade, Nightmare, Protect, Psych Up, Psychic, Rain Dance, Recover, Rest,
+        Return, Rock Smash, Rock Tomb, Scratch, Secret Power, Seismic Toss, Shadow
+          Ball, Shock Wave, Sleep Talk, Snatch, Snore, Substitute, Sunny Day, Swagger,
+        Taunt, Thief, Thunderpunch, Torment, Toxic, Water Pulse, Body Slam, Double-Edge,
+        Helping Hand, Mimic, Nightmare, Seismic Toss, Substitute]
     stats:
     - [50, 75, 75, 65, 65, 50]
     tags:
     - [uu]
     - bw: [uu]
       dp: [nu]
+    types:
+    - [Dark, Ghost]
     weight: [11]
-    height: [0.5]
-evolutions: []
-learnsets:
-  rs:
-    Sableye: [Aerial Ace, Astonish, Attract, Body Slam, Brick Break, Calm Mind, Confuse
-        Ray, Counter, Cut, Detect, Dig, Double-Edge, Double Team, Dream Eater, Dynamicpunch,
-      Endure, Facade, Faint Attack, Fake Out, Fire Punch, Flash, Focus Punch, Foresight,
-      Frustration, Fury Cutter, Fury Swipes, Hidden Power, Ice Punch, Knock Off, Leer,
-      Mean Look, Mega Kick, Mega Punch, Metronome, Mimic, Moonlight, Mud-Slap, Night
-        Shade, Nightmare, Protect, Psych Up, Psychic, Rain Dance, Recover, Rest, Return,
-      Rock Smash, Rock Tomb, Scratch, Secret Power, Seismic Toss, Shadow Ball, Shock
-        Wave, Sleep Talk, Snatch, Snore, Substitute, Sunny Day, Swagger, Taunt, Thief,
-      Thunderpunch, Torment, Toxic, Water Pulse, Body Slam, Double-Edge, Helping Hand,
-      Mimic, Nightmare, Seismic Toss, Substitute]
-  dp:
-    Sableye: [Aerial Ace, Astonish, Attract, Brick Break, Calm Mind, Captivate, Confuse
-        Ray, Cut, Dark Pulse, Detect, Dig, Double Team, Dream Eater, Embargo, Endure,
-      Facade, Faint Attack, Fake Out, Feint, Fire Punch, Flash, Flatter, Fling, Focus
-        Punch, Foresight, Frustration, Fury Cutter, Fury Swipes, Gravity, Headbutt,
-      Hidden Power, Ice Punch, Icy Wind, Knock Off, Leer, Low Kick, Magic Coat, Mean
-        Look, Moonlight, Mud-Slap, Nasty Plot, Natural Gift, Night Shade, Ominous
-        Wind, Pain Split, Payback, Poison Jab, Power Gem, Protect, Psych Up, Psychic,
-      Punishment, Rain Dance, Recover, Rest, Return, Rock Smash, Rock Tomb, Role Play,
-      Scratch, Secret Power, Shadow Ball, Shadow Claw, Shadow Sneak, Shock Wave, Signal
-        Beam, Sleep Talk, Snatch, Snore, Spite, Substitute, Sucker Punch, Sunny Day,
-      Swagger, Taunt, Thief, Thunderpunch, Torment, Toxic, Trick, Water Pulse, Will-O-Wisp,
-      Zen Headbutt, Body Slam, Double-Edge, Helping Hand, Mimic, Nightmare, Seismic
-        Toss, Substitute]
-  bw:
-    Sableye: [Aerial Ace, Astonish, Attract, Brick Break, Calm Mind, Captivate, Confuse
-        Ray, Cut, Dark Pulse, Detect, Dig, Double Team, Dream Eater, Embargo, Facade,
-      Faint Attack, Fake Out, Feint, Fire Punch, Flash, Flatter, Fling, Foresight,
-      Foul Play, Frustration, Fury Swipes, Gravity, Hidden Power, Hone Claws, Ice
-        Punch, Icy Wind, Incinerate, Knock Off, Leer, Low Kick, Low Sweep, Magic Coat,
-      Mean Look, Metal Burst, Moonlight, Nasty Plot, Night Shade, Payback, Poison
-        Jab, Power Gem, Protect, Psych Up, Psychic, Punishment, Rain Dance, Recover,
-      Rest, Retaliate, Return, Rock Smash, Rock Tomb, Role Play, Round, Scratch, Shadow
-        Ball, Shadow Claw, Shadow Sneak, Signal Beam, Sleep Talk, Snarl, Snatch, Snore,
-      Spite, Substitute, Sucker Punch, Sunny Day, Swagger, Taunt, Telekinesis, Thief,
-      Thunderpunch, Torment, Toxic, Trick, Will-O-Wisp, Wonder Room, Zen Headbutt,
-      Body Slam, Double-Edge, Helping Hand, Mimic, Nightmare, Seismic Toss, Substitute]

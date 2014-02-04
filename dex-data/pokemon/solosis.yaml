@@ -1,60 +1,59 @@
 pokemon:
-  Solosis:
-    introduction: bw
-    types:
-    - [Psychic]
-    egggroups:
-    - [Indeterminate]
-    abilities:
-    - [Magic Guard, Overcoat, Regenerator]
-    stats:
-    - [45, 30, 40, 105, 50, 20]
-    tags:
-    - [lc]
-    weight: [1]
-    height: [0.3]
   Duosion:
-    introduction: bw
-    types:
-    - [Psychic]
-    egggroups:
-    - [Indeterminate]
     abilities:
     - [Magic Guard, Overcoat, Regenerator]
+    egggroups:
+    - [Indeterminate]
+    evolutions: [Reuniclus]
+    height: [0.6]
+    introduction: bw
     stats:
     - [65, 40, 50, 125, 60, 30]
     tags:
     - [nu]
-    weight: [8]
-    height: [0.6]
-  Reuniclus:
-    introduction: bw
     types:
     - [Psychic]
-    egggroups:
-    - [Indeterminate]
+    weight: [8]
+  Reuniclus:
     abilities:
     - [Magic Guard, Overcoat, Regenerator]
+    egggroups:
+    - [Indeterminate]
+    height: [1]
+    introduction: bw
+    moves:
+    - bw: [Dizzy Punch, Drain Punch, Fire Punch, Fling, Focus Blast, Giga Impact,
+        Grass Knot, Helping Hand, Hyper Beam, Ice Punch, Knock Off, Rock Smash, Strength,
+        Superpower, Thunderpunch]
     stats:
     - [110, 65, 75, 125, 85, 30]
     tags:
     - [ou]
+    types:
+    - [Psychic]
     weight: [20.1]
-    height: [1]
-evolutions:
-- {from: Solosis, to: Duosion}
-- {from: Duosion, to: Reuniclus}
-learnsets:
-  bw:
-    Solosis: [Acid Armor, After You, Astonish, Attract, Calm Mind, Charm, Confuse
-        Ray, Double Team, Dream Eater, Embargo, Endeavor, Energy Ball, Explosion,
-      Facade, Flash, Flash Cannon, Frustration, Future Sight, Gravity, Gyro Ball,
-      Heal Block, Hidden Power, Imprison, Light Screen, Magic Coat, Night Shade, Pain
-        Split, Protect, Psych Up, Psychic, Psyshock, Psywave, Rain Dance, Recover,
-      Reflect, Rest, Return, Rock Slide, Rock Tomb, Role Play, Rollout, Round, Safeguard,
-      Secret Power, Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snatch, Snore,
-      Substitute, Swagger, Telekinesis, Thunder, Thunder Wave, Toxic, Trick, Trick
-        Room, Wonder Room, Zen Headbutt]
-    Reuniclus: [Dizzy Punch, Drain Punch, Fire Punch, Fling, Focus Blast, Giga Impact,
-      Grass Knot, Helping Hand, Hyper Beam, Ice Punch, Knock Off, Rock Smash, Strength,
-      Superpower, Thunderpunch]
+  Solosis:
+    abilities:
+    - [Magic Guard, Overcoat, Regenerator]
+    egggroups:
+    - [Indeterminate]
+    evolutions: [Duosion]
+    height: [0.3]
+    introduction: bw
+    moves:
+    - bw: [Acid Armor, After You, Astonish, Attract, Calm Mind, Charm, Confuse Ray,
+        Double Team, Dream Eater, Embargo, Endeavor, Energy Ball, Explosion, Facade,
+        Flash, Flash Cannon, Frustration, Future Sight, Gravity, Gyro Ball, Heal Block,
+        Hidden Power, Imprison, Light Screen, Magic Coat, Night Shade, Pain Split,
+        Protect, Psych Up, Psychic, Psyshock, Psywave, Rain Dance, Recover, Reflect,
+        Rest, Return, Rock Slide, Rock Tomb, Role Play, Rollout, Round, Safeguard,
+        Secret Power, Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snatch, Snore,
+        Substitute, Swagger, Telekinesis, Thunder, Thunder Wave, Toxic, Trick, Trick
+          Room, Wonder Room, Zen Headbutt]
+    stats:
+    - [45, 30, 40, 105, 50, 20]
+    tags:
+    - [lc]
+    types:
+    - [Psychic]
+    weight: [1]

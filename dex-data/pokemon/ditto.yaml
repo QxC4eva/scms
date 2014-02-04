@@ -1,13 +1,18 @@
 pokemon:
   Ditto:
-    introduction: rb
-    types:
-    - [Normal]
-    egggroups:
-    - [Ditto]
     abilities:
     - [Limber]
     - bw: [Imposter, Limber]
+    egggroups:
+    - [Ditto]
+    height: [0.3]
+    introduction: rb
+    moves:
+    - gs: [Transform]
+    - bw: [Transform]
+    - dp: [Transform]
+    - rs: [Transform]
+    - rb: [Transform]
     stats:
     - [48, 48, 48, 48, 48, 48]
     - gs: [48, 48, 48, 48, 48, 48]
@@ -15,17 +20,6 @@ pokemon:
     - [nfe, uu]
     - dp: [lc]
       rs: [nu]
+    types:
+    - [Normal]
     weight: [4]
-    height: [0.3]
-evolutions: []
-learnsets:
-  rb:
-    Ditto: [Transform]
-  gs:
-    Ditto: [Transform]
-  rs:
-    Ditto: [Transform]
-  dp:
-    Ditto: [Transform]
-  bw:
-    Ditto: [Transform]

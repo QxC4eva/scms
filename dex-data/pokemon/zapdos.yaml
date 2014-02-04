@@ -1,56 +1,53 @@
 pokemon:
   Zapdos:
-    introduction: rb
-    types:
-    - [Electric, Flying]
-    egggroups:
-    - []
     abilities:
     - [Pressure]
     - bw: [Lightningrod, Pressure]
     - xy: [Static, Pressure]
+    egggroups:
+    - []
+    height: [1.6]
+    introduction: rb
+    moves:
+    - gs: [Agility, Curse, Detect, Double Team, Drill Peck, Endure, Flash, Fly, Frustration,
+        Hidden Power, Hyper Beam, Light Screen, Mud-Slap, Peck, Protect, Rain Dance,
+        Rest, Return, Roar, Rock Smash, Sandstorm, Sleep Talk, Snore, Steel Wing,
+        Sunny Day, Swagger, Swift, Thunder, Thunder Wave, Thunderbolt, Thundershock,
+        Toxic, Zap Cannon]
+    - bw: [Aerial Ace, Agility, Ancientpower, Charge, Charge Beam, Detect, Discharge,
+        Double Team, Drill Peck, Facade, Flash, Fly, Frustration, Giga Impact, Heat
+          Wave, Hidden Power, Hyper Beam, Light Screen, Peck, Pluck, Protect, Rain
+          Dance, Rest, Return, Roar, Rock Smash, Roost, Round, Sandstorm, Signal Beam,
+        Sky Attack, Sky Drop, Sleep Talk, Snore, Substitute, Sunny Day, Swagger, Tailwind,
+        Thunder, Thunder Wave, Thunderbolt, Thundershock, Toxic, U-turn, Volt Switch,
+        Wild Charge, Zap Cannon, Baton Pass, Double-Edge, Extrasensory, Metal Sound,
+        Mimic, Sky Attack]
+    - dp: [Aerial Ace, Agility, Air Cutter, Ancientpower, Charge, Charge Beam, Defog,
+        Detect, Discharge, Double Team, Drill Peck, Endure, Facade, Flash, Fly, Frustration,
+        Giga Impact, Heat Wave, Hidden Power, Hyper Beam, Light Screen, Mud-Slap,
+        Natural Gift, Ominous Wind, Peck, Pluck, Protect, Rain Dance, Rest, Return,
+        Roar, Rock Smash, Roost, Sandstorm, Secret Power, Shock Wave, Signal Beam,
+        Sky Attack, Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day, Swagger,
+        Swift, Tailwind, Thunder, Thunder Wave, Thunderbolt, Thundershock, Toxic,
+        Twister, U-turn, Baton Pass, Double-Edge, Extrasensory, Metal Sound, Mimic,
+        Sky Attack]
+    - rs: [Aerial Ace, Agility, Charge, Detect, Double-Edge, Double Team, Drill Peck,
+        Endure, Facade, Flash, Fly, Frustration, Hidden Power, Hyper Beam, Light Screen,
+        Mimic, Mud-Slap, Peck, Protect, Rain Dance, Rest, Return, Roar, Rock Smash,
+        Sandstorm, Secret Power, Shock Wave, Sky Attack, Sleep Talk, Snore, Steel
+          Wing, Substitute, Sunny Day, Swagger, Swift, Thunder, Thunder Wave, Thunderbolt,
+        Thundershock, Toxic, Baton Pass, Double-Edge, Extrasensory, Metal Sound, Mimic,
+        Sky Attack]
+    - rb: [Agility, Bide, Double-Edge, Double Team, Drill Peck, Flash, Fly, Hyper
+          Beam, Light Screen, Mimic, Rage, Razor Wind, Reflect, Rest, Sky Attack,
+        Substitute, Swift, Take Down, Thunder, Thunder Wave, Thunderbolt, Thundershock,
+        Toxic, Whirlwind]
     stats:
     - [90, 90, 85, 125, 125, 100]
     - gs: [90, 90, 85, 125, 90, 100]
     tags:
     - [ou]
     - bw: [uu]
+    types:
+    - [Electric, Flying]
     weight: [52.6]
-    height: [1.6]
-evolutions: []
-learnsets:
-  rb:
-    Zapdos: [Agility, Bide, Double-Edge, Double Team, Drill Peck, Flash, Fly, Hyper
-        Beam, Light Screen, Mimic, Rage, Razor Wind, Reflect, Rest, Sky Attack, Substitute,
-      Swift, Take Down, Thunder, Thunder Wave, Thunderbolt, Thundershock, Toxic, Whirlwind]
-  gs:
-    Zapdos: [Agility, Curse, Detect, Double Team, Drill Peck, Endure, Flash, Fly,
-      Frustration, Hidden Power, Hyper Beam, Light Screen, Mud-Slap, Peck, Protect,
-      Rain Dance, Rest, Return, Roar, Rock Smash, Sandstorm, Sleep Talk, Snore, Steel
-        Wing, Sunny Day, Swagger, Swift, Thunder, Thunder Wave, Thunderbolt, Thundershock,
-      Toxic, Zap Cannon]
-  rs:
-    Zapdos: [Aerial Ace, Agility, Charge, Detect, Double-Edge, Double Team, Drill
-        Peck, Endure, Facade, Flash, Fly, Frustration, Hidden Power, Hyper Beam, Light
-        Screen, Mimic, Mud-Slap, Peck, Protect, Rain Dance, Rest, Return, Roar, Rock
-        Smash, Sandstorm, Secret Power, Shock Wave, Sky Attack, Sleep Talk, Snore,
-      Steel Wing, Substitute, Sunny Day, Swagger, Swift, Thunder, Thunder Wave, Thunderbolt,
-      Thundershock, Toxic, Baton Pass, Double-Edge, Extrasensory, Metal Sound, Mimic,
-      Sky Attack]
-  dp:
-    Zapdos: [Aerial Ace, Agility, Air Cutter, Ancientpower, Charge, Charge Beam, Defog,
-      Detect, Discharge, Double Team, Drill Peck, Endure, Facade, Flash, Fly, Frustration,
-      Giga Impact, Heat Wave, Hidden Power, Hyper Beam, Light Screen, Mud-Slap, Natural
-        Gift, Ominous Wind, Peck, Pluck, Protect, Rain Dance, Rest, Return, Roar,
-      Rock Smash, Roost, Sandstorm, Secret Power, Shock Wave, Signal Beam, Sky Attack,
-      Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day, Swagger, Swift, Tailwind,
-      Thunder, Thunder Wave, Thunderbolt, Thundershock, Toxic, Twister, U-turn, Baton
-        Pass, Double-Edge, Extrasensory, Metal Sound, Mimic, Sky Attack]
-  bw:
-    Zapdos: [Aerial Ace, Agility, Ancientpower, Charge, Charge Beam, Detect, Discharge,
-      Double Team, Drill Peck, Facade, Flash, Fly, Frustration, Giga Impact, Heat
-        Wave, Hidden Power, Hyper Beam, Light Screen, Peck, Pluck, Protect, Rain Dance,
-      Rest, Return, Roar, Rock Smash, Roost, Round, Sandstorm, Signal Beam, Sky Attack,
-      Sky Drop, Sleep Talk, Snore, Substitute, Sunny Day, Swagger, Tailwind, Thunder,
-      Thunder Wave, Thunderbolt, Thundershock, Toxic, U-turn, Volt Switch, Wild Charge,
-      Zap Cannon, Baton Pass, Double-Edge, Extrasensory, Metal Sound, Mimic, Sky Attack]

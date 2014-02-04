@@ -1,51 +1,47 @@
 pokemon:
   Shuckle:
-    introduction: gs
-    types:
-    - [Bug, Rock]
-    egggroups:
-    - [Bug]
     abilities:
     - [Sturdy]
-    - dp: [Gluttony, Sturdy]
-      bw: [Contrary, Gluttony, Sturdy]
+    - bw: [Contrary, Gluttony, Sturdy]
+      dp: [Gluttony, Sturdy]
+    egggroups:
+    - [Bug]
+    height: [0.6]
+    introduction: gs
+    moves:
+    - gs: [Attract, Bide, Constrict, Curse, Defense Curl, Dig, Double Team, Earthquake,
+        Encore, Endure, Flash, Frustration, Headbutt, Hidden Power, Mud-Slap, Protect,
+        Rest, Return, Rock Smash, Rollout, Safeguard, Sandstorm, Sleep Talk, Sludge
+          Bomb, Snore, Strength, Sunny Day, Swagger, Sweet Scent, Toxic, Withdraw,
+        Wrap]
+    - bw: [Acid, Acupressure, After You, Attract, Bide, Bind, Bug Bite, Bulldoze,
+        Constrict, Dig, Double Team, Earth Power, Earthquake, Encore, Facade, Final
+          Gambit, Flash, Frustration, Gastro Acid, Guard Split, Gyro Ball, Helping
+          Hand, Hidden Power, Knock Off, Mud-Slap, Power Split, Power Trick, Protect,
+        Rest, Return, Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock Throw,
+        Rock Tomb, Rollout, Round, Safeguard, Sand Tomb, Sandstorm, Shell Smash, Sleep
+          Talk, Sludge Bomb, Sludge Wave, Smack Down, Snore, Stealth Rock, Stone Edge,
+        Strength, Struggle Bug, Substitute, Sunny Day, Swagger, Sweet Scent, Toxic,
+        Venoshock, Withdraw, Wrap, Body Slam, Double-Edge, Mimic]
+    - dp: [Acupressure, Ancientpower, Attract, Bide, Bug Bite, Captivate, Constrict,
+        Dig, Double Team, Earth Power, Earthquake, Encore, Endure, Facade, Flash,
+        Frustration, Gastro Acid, Gyro Ball, Headbutt, Helping Hand, Hidden Power,
+        Knock Off, Mud-Slap, Natural Gift, Power Trick, Protect, Rest, Return, Rock
+          Polish, Rock Slide, Rock Smash, Rock Tomb, Rollout, Safeguard, Sand Tomb,
+        Sandstorm, Secret Power, Sleep Talk, Sludge Bomb, Snore, Stealth Rock, Stone
+          Edge, Strength, String Shot, Substitute, Sunny Day, Swagger, Sweet Scent,
+        Toxic, Withdraw, Wrap, Body Slam, Double-Edge, Mimic]
+    - rs: [Attract, Bide, Body Slam, Constrict, Defense Curl, Dig, Double-Edge, Double
+          Team, Earthquake, Encore, Endure, Facade, Flash, Frustration, Hidden Power,
+        Mimic, Mud-Slap, Protect, Rest, Return, Rock Slide, Rock Smash, Rock Tomb,
+        Rollout, Safeguard, Sandstorm, Secret Power, Sleep Talk, Sludge Bomb, Snore,
+        Strength, Substitute, Sunny Day, Swagger, Sweet Scent, Toxic, Withdraw, Wrap,
+        Body Slam, Double-Edge, Mimic]
     stats:
     - [20, 10, 230, 10, 230, 5]
     tags:
     - [uu]
     - dp: [nu]
+    types:
+    - [Bug, Rock]
     weight: [20.5]
-    height: [0.6]
-evolutions: []
-learnsets:
-  gs:
-    Shuckle: [Attract, Bide, Constrict, Curse, Defense Curl, Dig, Double Team, Earthquake,
-      Encore, Endure, Flash, Frustration, Headbutt, Hidden Power, Mud-Slap, Protect,
-      Rest, Return, Rock Smash, Rollout, Safeguard, Sandstorm, Sleep Talk, Sludge
-        Bomb, Snore, Strength, Sunny Day, Swagger, Sweet Scent, Toxic, Withdraw, Wrap]
-  rs:
-    Shuckle: [Attract, Bide, Body Slam, Constrict, Defense Curl, Dig, Double-Edge,
-      Double Team, Earthquake, Encore, Endure, Facade, Flash, Frustration, Hidden
-        Power, Mimic, Mud-Slap, Protect, Rest, Return, Rock Slide, Rock Smash, Rock
-        Tomb, Rollout, Safeguard, Sandstorm, Secret Power, Sleep Talk, Sludge Bomb,
-      Snore, Strength, Substitute, Sunny Day, Swagger, Sweet Scent, Toxic, Withdraw,
-      Wrap, Body Slam, Double-Edge, Mimic]
-  dp:
-    Shuckle: [Acupressure, Ancientpower, Attract, Bide, Bug Bite, Captivate, Constrict,
-      Dig, Double Team, Earth Power, Earthquake, Encore, Endure, Facade, Flash, Frustration,
-      Gastro Acid, Gyro Ball, Headbutt, Helping Hand, Hidden Power, Knock Off, Mud-Slap,
-      Natural Gift, Power Trick, Protect, Rest, Return, Rock Polish, Rock Slide, Rock
-        Smash, Rock Tomb, Rollout, Safeguard, Sand Tomb, Sandstorm, Secret Power,
-      Sleep Talk, Sludge Bomb, Snore, Stealth Rock, Stone Edge, Strength, String Shot,
-      Substitute, Sunny Day, Swagger, Sweet Scent, Toxic, Withdraw, Wrap, Body Slam,
-      Double-Edge, Mimic]
-  bw:
-    Shuckle: [Acid, Acupressure, After You, Attract, Bide, Bind, Bug Bite, Bulldoze,
-      Constrict, Dig, Double Team, Earth Power, Earthquake, Encore, Facade, Final
-        Gambit, Flash, Frustration, Gastro Acid, Guard Split, Gyro Ball, Helping Hand,
-      Hidden Power, Knock Off, Mud-Slap, Power Split, Power Trick, Protect, Rest,
-      Return, Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock Throw, Rock Tomb,
-      Rollout, Round, Safeguard, Sand Tomb, Sandstorm, Shell Smash, Sleep Talk, Sludge
-        Bomb, Sludge Wave, Smack Down, Snore, Stealth Rock, Stone Edge, Strength,
-      Struggle Bug, Substitute, Sunny Day, Swagger, Sweet Scent, Toxic, Venoshock,
-      Withdraw, Wrap, Body Slam, Double-Edge, Mimic]

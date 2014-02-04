@@ -1,93 +1,92 @@
 pokemon:
-  Mudkip:
-    introduction: rs
-    types:
-    - [Water]
-    egggroups:
-    - [Monster, Water 1]
+  Marshtomp:
     abilities:
     - [Torrent]
     - bw: [Damp, Torrent]
+    egggroups:
+    - [Monster, Water 1]
+    evolutions: [Swampert]
+    height: [0.7]
+    introduction: rs
+    moves:
+    - bw: [Brick Break, Bulldoze, Earthquake, Fling, Ice Punch, Mud Shot, Muddy Water,
+        Stealth Rock, Body Slam, Icy Wind, Mimic, Seismic Toss]
+    - dp: [Brick Break, Earthquake, Fling, Ice Punch, Mud Shot, Muddy Water, Stealth
+          Rock, Body Slam, Icy Wind, Mimic, Seismic Toss]
+    - rs: [Counter, Dynamicpunch, Earthquake, Ice Punch, Mega Kick, Mega Punch, Mud
+          Shot, Muddy Water, Rock Slide, Seismic Toss, Body Slam, Icy Wind, Mimic,
+        Seismic Toss]
+    stats:
+    - [70, 85, 70, 60, 70, 50]
+    tags:
+    - [nfe]
+    types:
+    - [Ground, Water]
+    weight: [28]
+  Mudkip:
+    abilities:
+    - [Torrent]
+    - bw: [Damp, Torrent]
+    egggroups:
+    - [Monster, Water 1]
+    evolutions: [Marshtomp]
+    height: [0.4]
+    introduction: rs
+    moves:
+    - bw: [Ancientpower, Aqua Tail, Attract, Avalanche, Bide, Bite, Blizzard, Counter,
+        Curse, Dig, Dive, Double-Edge, Double Team, Earth Power, Echoed Voice, Endeavor,
+        Facade, Foresight, Frustration, Growl, Hail, Hidden Power, Hydro Pump, Ice
+          Ball, Ice Beam, Icy Wind, Iron Tail, Low Kick, Mirror Coat, Mud Bomb, Mud-Slap,
+        Mud Sport, Protect, Rain Dance, Refresh, Rest, Return, Rock Slide, Rock Smash,
+        Rock Tomb, Round, Scald, Sleep Talk, Sludge, Sludge Wave, Snore, Stomp, Strength,
+        Substitute, Superpower, Surf, Swagger, Tackle, Take Down, Toxic, Uproar, Water
+          Gun, Water Pledge, Waterfall, Whirlpool, Wide Guard, Yawn, Body Slam, Icy
+          Wind, Mimic]
+    - dp: [Ancientpower, Aqua Tail, Attract, Bide, Bite, Blizzard, Captivate, Counter,
+        Curse, Dig, Dive, Double-Edge, Double Team, Earth Power, Endeavor, Endure,
+        Facade, Foresight, Frustration, Growl, Hail, Headbutt, Hidden Power, Hydro
+          Pump, Ice Ball, Ice Beam, Icy Wind, Iron Tail, Low Kick, Mirror Coat, Mud
+          Bomb, Mud-Slap, Mud Sport, Natural Gift, Protect, Rain Dance, Refresh, Rest,
+        Return, Rock Slide, Rock Smash, Rock Tomb, Rollout, Secret Power, Sleep Talk,
+        Sludge, Snore, Stomp, Strength, Substitute, Superpower, Surf, Swagger, Tackle,
+        Take Down, Toxic, Uproar, Water Gun, Water Pulse, Waterfall, Whirlpool, Yawn,
+        Body Slam, Icy Wind, Mimic]
+    - rs: [Attract, Bide, Blizzard, Body Slam, Curse, Defense Curl, Dig, Dive, Double-Edge,
+        Double Team, Endeavor, Endure, Facade, Foresight, Frustration, Growl, Hail,
+        Hidden Power, Hydro Pump, Ice Ball, Ice Beam, Icy Wind, Iron Tail, Mimic,
+        Mirror Coat, Mud-Slap, Mud Sport, Protect, Rain Dance, Refresh, Rest, Return,
+        Rock Smash, Rock Tomb, Rollout, Secret Power, Sleep Talk, Snore, Stomp, Strength,
+        Substitute, Surf, Swagger, Tackle, Take Down, Toxic, Uproar, Water Gun, Water
+          Pulse, Waterfall, Whirlpool, Body Slam, Icy Wind, Mimic]
     stats:
     - [50, 70, 50, 50, 50, 40]
     tags:
     - [nfe]
     - dp: [lc]
+    types:
+    - [Water]
     weight: [7.6]
-    height: [0.4]
-  Marshtomp:
-    introduction: rs
-    types:
-    - [Ground, Water]
-    egggroups:
-    - [Monster, Water 1]
-    abilities:
-    - [Torrent]
-    - bw: [Damp, Torrent]
-    stats:
-    - [70, 85, 70, 60, 70, 50]
-    tags:
-    - [nfe]
-    weight: [28]
-    height: [0.7]
   Swampert:
-    introduction: rs
-    types:
-    - [Ground, Water]
-    egggroups:
-    - [Monster, Water 1]
     abilities:
     - [Torrent]
     - bw: [Damp, Torrent]
+    egggroups:
+    - [Monster, Water 1]
+    height: [1.5]
+    introduction: rs
+    moves:
+    - bw: [Focus Blast, Giga Impact, Hammer Arm, Hydro Cannon, Hyper Beam, Outrage,
+        Roar, Stone Edge, Body Slam, Icy Wind, Mimic, Seismic Toss]
+    - dp: [Avalanche, Focus Blast, Focus Punch, Giga Impact, Hammer Arm, Hydro Cannon,
+        Hyper Beam, Outrage, Roar, Rock Climb, Stone Edge, Body Slam, Icy Wind, Mimic,
+        Seismic Toss]
+    - rs: [Brick Break, Focus Punch, Hyper Beam, Roar, Body Slam, Icy Wind, Mimic,
+        Seismic Toss]
     stats:
     - [100, 110, 90, 85, 90, 60]
     tags:
     - [ou]
     - bw: [uu]
+    types:
+    - [Ground, Water]
     weight: [81.9]
-    height: [1.5]
-evolutions:
-- {from: Mudkip, to: Marshtomp}
-- {from: Marshtomp, to: Swampert}
-learnsets:
-  rs:
-    Mudkip: [Attract, Bide, Blizzard, Body Slam, Curse, Defense Curl, Dig, Dive, Double-Edge,
-      Double Team, Endeavor, Endure, Facade, Foresight, Frustration, Growl, Hail,
-      Hidden Power, Hydro Pump, Ice Ball, Ice Beam, Icy Wind, Iron Tail, Mimic, Mirror
-        Coat, Mud-Slap, Mud Sport, Protect, Rain Dance, Refresh, Rest, Return, Rock
-        Smash, Rock Tomb, Rollout, Secret Power, Sleep Talk, Snore, Stomp, Strength,
-      Substitute, Surf, Swagger, Tackle, Take Down, Toxic, Uproar, Water Gun, Water
-        Pulse, Waterfall, Whirlpool, Body Slam, Icy Wind, Mimic]
-    Marshtomp: [Counter, Dynamicpunch, Earthquake, Ice Punch, Mega Kick, Mega Punch,
-      Mud Shot, Muddy Water, Rock Slide, Seismic Toss, Body Slam, Icy Wind, Mimic,
-      Seismic Toss]
-    Swampert: [Brick Break, Focus Punch, Hyper Beam, Roar, Body Slam, Icy Wind, Mimic,
-      Seismic Toss]
-  dp:
-    Mudkip: [Ancientpower, Aqua Tail, Attract, Bide, Bite, Blizzard, Captivate, Counter,
-      Curse, Dig, Dive, Double-Edge, Double Team, Earth Power, Endeavor, Endure, Facade,
-      Foresight, Frustration, Growl, Hail, Headbutt, Hidden Power, Hydro Pump, Ice
-        Ball, Ice Beam, Icy Wind, Iron Tail, Low Kick, Mirror Coat, Mud Bomb, Mud-Slap,
-      Mud Sport, Natural Gift, Protect, Rain Dance, Refresh, Rest, Return, Rock Slide,
-      Rock Smash, Rock Tomb, Rollout, Secret Power, Sleep Talk, Sludge, Snore, Stomp,
-      Strength, Substitute, Superpower, Surf, Swagger, Tackle, Take Down, Toxic, Uproar,
-      Water Gun, Water Pulse, Waterfall, Whirlpool, Yawn, Body Slam, Icy Wind, Mimic]
-    Marshtomp: [Brick Break, Earthquake, Fling, Ice Punch, Mud Shot, Muddy Water,
-      Stealth Rock, Body Slam, Icy Wind, Mimic, Seismic Toss]
-    Swampert: [Avalanche, Focus Blast, Focus Punch, Giga Impact, Hammer Arm, Hydro
-        Cannon, Hyper Beam, Outrage, Roar, Rock Climb, Stone Edge, Body Slam, Icy
-        Wind, Mimic, Seismic Toss]
-  bw:
-    Mudkip: [Ancientpower, Aqua Tail, Attract, Avalanche, Bide, Bite, Blizzard, Counter,
-      Curse, Dig, Dive, Double-Edge, Double Team, Earth Power, Echoed Voice, Endeavor,
-      Facade, Foresight, Frustration, Growl, Hail, Hidden Power, Hydro Pump, Ice Ball,
-      Ice Beam, Icy Wind, Iron Tail, Low Kick, Mirror Coat, Mud Bomb, Mud-Slap, Mud
-        Sport, Protect, Rain Dance, Refresh, Rest, Return, Rock Slide, Rock Smash,
-      Rock Tomb, Round, Scald, Sleep Talk, Sludge, Sludge Wave, Snore, Stomp, Strength,
-      Substitute, Superpower, Surf, Swagger, Tackle, Take Down, Toxic, Uproar, Water
-        Gun, Water Pledge, Waterfall, Whirlpool, Wide Guard, Yawn, Body Slam, Icy
-        Wind, Mimic]
-    Marshtomp: [Brick Break, Bulldoze, Earthquake, Fling, Ice Punch, Mud Shot, Muddy
-        Water, Stealth Rock, Body Slam, Icy Wind, Mimic, Seismic Toss]
-    Swampert: [Focus Blast, Giga Impact, Hammer Arm, Hydro Cannon, Hyper Beam, Outrage,
-      Roar, Stone Edge, Body Slam, Icy Wind, Mimic, Seismic Toss]

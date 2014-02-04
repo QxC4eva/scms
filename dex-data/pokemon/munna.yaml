@@ -1,43 +1,42 @@
 pokemon:
   Munna:
-    introduction: dp
-    types:
-    - [Psychic]
-    egggroups:
-    - [Ground]
     abilities:
     - [Forewarn, Synchronize, Telepathy]
+    egggroups:
+    - [Ground]
+    evolutions: [Musharna]
+    height: [0.6]
+    introduction: dp
+    moves:
+    - bw: [After You, Attract, Barrier, Baton Pass, Calm Mind, Charge Beam, Curse,
+        Defense Curl, Double Team, Dream Eater, Energy Ball, Facade, Flash, Frustration,
+        Future Sight, Gravity, Gyro Ball, Heal Bell, Helping Hand, Hidden Power, Hypnosis,
+        Imprison, Light Screen, Lucky Chant, Magic Coat, Moonlight, Nightmare, Pain
+          Split, Protect, Psybeam, Psych Up, Psychic, Psyshock, Psywave, Rain Dance,
+        Reflect, Rest, Return, Rock Slide, Rock Tomb, Round, Safeguard, Secret Power,
+        Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snore, Sonicboom, Stored
+          Power, Substitute, Swagger, Swift, Synchronoise, Telekinesis, Thunder Wave,
+        Torment, Toxic, Trick, Trick Room, Wonder Room, Worry Seed, Yawn, Zen Headbutt]
     stats:
     - [76, 25, 45, 67, 55, 24]
     tags:
     - [lc]
-    weight: [23.3]
-    height: [0.6]
-  Musharna:
-    introduction: dp
     types:
     - [Psychic]
-    egggroups:
-    - [Ground]
+    weight: [23.3]
+  Musharna:
     abilities:
     - [Forewarn, Synchronize, Telepathy]
+    egggroups:
+    - [Ground]
+    height: [1.1]
+    introduction: dp
+    moves:
+    - bw: [Giga Impact, Hyper Beam]
     stats:
     - [116, 55, 85, 107, 95, 29]
     tags:
     - [nu]
+    types:
+    - [Psychic]
     weight: [60.5]
-    height: [1.1]
-evolutions:
-- {from: Munna, to: Musharna}
-learnsets:
-  bw:
-    Munna: [After You, Attract, Barrier, Baton Pass, Calm Mind, Charge Beam, Curse,
-      Defense Curl, Double Team, Dream Eater, Energy Ball, Facade, Flash, Frustration,
-      Future Sight, Gravity, Gyro Ball, Heal Bell, Helping Hand, Hidden Power, Hypnosis,
-      Imprison, Light Screen, Lucky Chant, Magic Coat, Moonlight, Nightmare, Pain
-        Split, Protect, Psybeam, Psych Up, Psychic, Psyshock, Psywave, Rain Dance,
-      Reflect, Rest, Return, Rock Slide, Rock Tomb, Round, Safeguard, Secret Power,
-      Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snore, Sonicboom, Stored Power,
-      Substitute, Swagger, Swift, Synchronoise, Telekinesis, Thunder Wave, Torment,
-      Toxic, Trick, Trick Room, Wonder Room, Worry Seed, Yawn, Zen Headbutt]
-    Musharna: [Giga Impact, Hyper Beam]

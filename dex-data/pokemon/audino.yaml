@@ -1,30 +1,29 @@
 pokemon:
   Audino:
-    introduction: bw
-    types:
-    - [Normal]
-    egggroups:
-    - [Fairy]
     abilities:
     - [Healer, Klutz, Regenerator]
+    egggroups:
+    - [Fairy]
+    height: [1.1]
+    introduction: bw
+    moves:
+    - bw: [After You, Amnesia, Attract, Bestow, Blizzard, Calm Mind, Charge Beam,
+        Covet, Dig, Double-Edge, Double Team, Doubleslap, Drain Punch, Dream Eater,
+        Echoed Voice, Encore, Entrainment, Facade, Fire Blast, Fire Punch, Flamethrower,
+        Flash, Fling, Frustration, Grass Knot, Gravity, Growl, Heal Bell, Heal Pulse,
+        Healing Wish, Helping Hand, Hidden Power, Hyper Beam, Hyper Voice, Ice Beam,
+        Ice Punch, Icy Wind, Incinerate, Iron Tail, Knock Off, Last Resort, Light
+          Screen, Low Kick, Lucky Chant, Magic Coat, Pain Split, Pound, Protect, Psych
+          Up, Psychic, Psyshock, Rain Dance, Reflect, Refresh, Rest, Retaliate, Return,
+        Role Play, Round, Safeguard, Secret Power, Shadow Ball, Signal Beam, Simple
+          Beam, Skill Swap, Sleep Talk, Snatch, Snore, Solarbeam, Substitute, Sunny
+          Day, Surf, Swagger, Sweet Kiss, Take Down, Telekinesis, Thunder, Thunder
+          Wave, Thunderbolt, Thunderpunch, Toxic, Trick Room, Uproar, Wild Charge,
+        Wish, Work Up, Yawn, Zen Headbutt]
     stats:
     - [103, 60, 86, 60, 86, 50]
     tags:
     - [nu]
+    types:
+    - [Normal]
     weight: [31]
-    height: [1.1]
-evolutions: []
-learnsets:
-  bw:
-    Audino: [After You, Amnesia, Attract, Bestow, Blizzard, Calm Mind, Charge Beam,
-      Covet, Dig, Double-Edge, Double Team, Doubleslap, Drain Punch, Dream Eater,
-      Echoed Voice, Encore, Entrainment, Facade, Fire Blast, Fire Punch, Flamethrower,
-      Flash, Fling, Frustration, Grass Knot, Gravity, Growl, Heal Bell, Heal Pulse,
-      Healing Wish, Helping Hand, Hidden Power, Hyper Beam, Hyper Voice, Ice Beam,
-      Ice Punch, Icy Wind, Incinerate, Iron Tail, Knock Off, Last Resort, Light Screen,
-      Low Kick, Lucky Chant, Magic Coat, Pain Split, Pound, Protect, Psych Up, Psychic,
-      Psyshock, Rain Dance, Reflect, Refresh, Rest, Retaliate, Return, Role Play,
-      Round, Safeguard, Secret Power, Shadow Ball, Signal Beam, Simple Beam, Skill
-        Swap, Sleep Talk, Snatch, Snore, Solarbeam, Substitute, Sunny Day, Surf, Swagger,
-      Sweet Kiss, Take Down, Telekinesis, Thunder, Thunder Wave, Thunderbolt, Thunderpunch,
-      Toxic, Trick Room, Uproar, Wild Charge, Wish, Work Up, Yawn, Zen Headbutt]

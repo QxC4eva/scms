@@ -1,42 +1,42 @@
 pokemon:
-  Yamask:
-    introduction: bw
-    types:
-    - [Ghost]
-    egggroups:
-    - [Indeterminate, Mineral]
-    abilities:
-    - [Mummy]
-    stats:
-    - [38, 30, 85, 55, 65, 30]
-    tags:
-    - [lc]
-    weight: [1.5]
-    height: [0.5]
   Cofagrigus:
-    introduction: bw
-    types:
-    - [Ghost]
-    egggroups:
-    - [Indeterminate, Mineral]
     abilities:
     - [Mummy]
+    egggroups:
+    - [Indeterminate, Mineral]
+    height: [1.7]
+    introduction: bw
+    moves:
+    - bw: [Giga Impact, Grass Knot, Hyper Beam, Scary Face]
     stats:
     - [58, 50, 145, 95, 105, 30]
     tags:
     - [uu]
+    types:
+    - [Ghost]
     weight: [76.5]
-    height: [1.7]
-evolutions:
-- {from: Yamask, to: Cofagrigus}
-learnsets:
-  bw:
-    Yamask: [After You, Astonish, Attract, Block, Calm Mind, Curse, Dark Pulse, Destiny
-        Bond, Disable, Double Team, Dream Eater, Embargo, Endure, Energy Ball, Facade,
-      Fake Tears, Flash, Frustration, Grudge, Guard Split, Haze, Heal Block, Hex,
-      Hidden Power, Imprison, Iron Defense, Knock Off, Magic Coat, Mean Look, Memento,
-      Nasty Plot, Night Shade, Nightmare, Ominous Wind, Pain Split, Payback, Power
-        Split, Protect, Psych Up, Psychic, Rain Dance, Rest, Return, Role Play, Round,
-      Safeguard, Shadow Ball, Skill Swap, Sleep Talk, Snatch, Snore, Spite, Substitute,
-      Swagger, Telekinesis, Thief, Toxic, Trick, Trick Room, Will-O-Wisp, Wonder Room]
-    Cofagrigus: [Giga Impact, Grass Knot, Hyper Beam, Scary Face]
+  Yamask:
+    abilities:
+    - [Mummy]
+    egggroups:
+    - [Indeterminate, Mineral]
+    evolutions: [Cofagrigus]
+    height: [0.5]
+    introduction: bw
+    moves:
+    - bw: [After You, Astonish, Attract, Block, Calm Mind, Curse, Dark Pulse, Destiny
+          Bond, Disable, Double Team, Dream Eater, Embargo, Endure, Energy Ball, Facade,
+        Fake Tears, Flash, Frustration, Grudge, Guard Split, Haze, Heal Block, Hex,
+        Hidden Power, Imprison, Iron Defense, Knock Off, Magic Coat, Mean Look, Memento,
+        Nasty Plot, Night Shade, Nightmare, Ominous Wind, Pain Split, Payback, Power
+          Split, Protect, Psych Up, Psychic, Rain Dance, Rest, Return, Role Play,
+        Round, Safeguard, Shadow Ball, Skill Swap, Sleep Talk, Snatch, Snore, Spite,
+        Substitute, Swagger, Telekinesis, Thief, Toxic, Trick, Trick Room, Will-O-Wisp,
+        Wonder Room]
+    stats:
+    - [38, 30, 85, 55, 65, 30]
+    tags:
+    - [lc]
+    types:
+    - [Ghost]
+    weight: [1.5]

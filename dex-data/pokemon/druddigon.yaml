@@ -1,30 +1,28 @@
 pokemon:
   Druddigon:
-    introduction: bw
-    types:
-    - [Dragon]
-    egggroups:
-    - [Dragon, Monster]
     abilities:
     - [Mold Breaker, Rough Skin, Sheer Force]
+    egggroups:
+    - [Dragon, Monster]
+    height: [1.6]
+    introduction: bw
+    moves:
+    - bw: [Aerial Ace, Aqua Tail, Attract, Bite, Bulldoze, Charge Beam, Chip Away,
+        Crunch, Crush Claw, Cut, Dark Pulse, Dig, Double Team, Draco Meteor, Dragon
+          Claw, Dragon Pulse, Dragon Rage, Dragon Tail, Earthquake, Facade, Faint
+          Attack, Fire Fang, Fire Punch, Flamethrower, Flash Cannon, Fling, Focus
+          Blast, Frustration, Giga Impact, Glare, Gunk Shot, Heat Wave, Hidden Power,
+        Hone Claws, Hyper Beam, Incinerate, Iron Head, Iron Tail, Leer, Metal Claw,
+        Night Slash, Outrage, Payback, Poison Tail, Protect, Pursuit, Rain Dance,
+        Rest, Retaliate, Return, Revenge, Roar, Rock Climb, Rock Slide, Rock Smash,
+        Rock Tomb, Round, Scary Face, Scratch, Shadow Claw, Slash, Sleep Talk, Sludge
+          Bomb, Smack Down, Snarl, Snatch, Snore, Stealth Rock, Strength, Substitute,
+        Sucker Punch, Sunny Day, Superpower, Surf, Swagger, Taunt, Thunder Fang, Thunderpunch,
+        Torment, Toxic]
     stats:
     - [77, 120, 90, 60, 90, 48]
     tags:
     - [ru]
+    types:
+    - [Dragon]
     weight: [139]
-    height: [1.6]
-evolutions: []
-learnsets:
-  bw:
-    Druddigon: [Aerial Ace, Aqua Tail, Attract, Bite, Bulldoze, Charge Beam, Chip
-        Away, Crunch, Crush Claw, Cut, Dark Pulse, Dig, Double Team, Draco Meteor,
-      Dragon Claw, Dragon Pulse, Dragon Rage, Dragon Tail, Earthquake, Facade, Faint
-        Attack, Fire Fang, Fire Punch, Flamethrower, Flash Cannon, Fling, Focus Blast,
-      Frustration, Giga Impact, Glare, Gunk Shot, Heat Wave, Hidden Power, Hone Claws,
-      Hyper Beam, Incinerate, Iron Head, Iron Tail, Leer, Metal Claw, Night Slash,
-      Outrage, Payback, Poison Tail, Protect, Pursuit, Rain Dance, Rest, Retaliate,
-      Return, Revenge, Roar, Rock Climb, Rock Slide, Rock Smash, Rock Tomb, Round,
-      Scary Face, Scratch, Shadow Claw, Slash, Sleep Talk, Sludge Bomb, Smack Down,
-      Snarl, Snatch, Snore, Stealth Rock, Strength, Substitute, Sucker Punch, Sunny
-        Day, Superpower, Surf, Swagger, Taunt, Thunder Fang, Thunderpunch, Torment,
-      Toxic]

@@ -1,60 +1,59 @@
 pokemon:
   Deino:
-    introduction: bw
-    types:
-    - [Dark, Dragon]
-    egggroups:
-    - [Dragon]
     abilities:
     - [Hustle]
+    egggroups:
+    - [Dragon]
+    evolutions: [Zweilous]
+    height: [0.8]
+    introduction: bw
+    moves:
+    - bw: [Aqua Tail, Assurance, Astonish, Attract, Bite, Body Slam, Crunch, Dark
+          Pulse, Double Hit, Double Team, Draco Meteor, Dragon Pulse, Dragon Rage,
+        Dragon Rush, Dragon Tail, Dragonbreath, Earth Power, Facade, Fire Fang, Focus
+          Energy, Frustration, Head Smash, Headbutt, Hidden Power, Hyper Voice, Ice
+          Fang, Incinerate, Outrage, Protect, Psych Up, Rain Dance, Rest, Return,
+        Roar, Rock Smash, Round, Scary Face, Screech, Slam, Sleep Talk, Snore, Spite,
+        Strength, Substitute, Sunny Day, Superpower, Swagger, Tackle, Taunt, Thief,
+        Thunder Fang, Thunder Wave, Torment, Toxic, Uproar, Work Up, Zen Headbutt]
     stats:
     - [52, 65, 50, 45, 50, 38]
     tags:
     - [uu, lc]
+    types:
+    - [Dark, Dragon]
     weight: [17.3]
-    height: [0.8]
-  Zweilous:
-    introduction: bw
-    types:
-    - [Dark, Dragon]
-    egggroups:
-    - [Dragon]
-    abilities:
-    - [Hustle]
-    stats:
-    - [72, 85, 70, 65, 70, 58]
-    tags:
-    - [nu]
-    weight: [50]
-    height: [1.4]
   Hydreigon:
-    introduction: bw
-    types:
-    - [Dark, Dragon]
-    egggroups:
-    - [Dragon]
     abilities:
     - [Levitate]
+    egggroups:
+    - [Dragon]
+    height: [1.8]
+    introduction: bw
+    moves:
+    - bw: [Acrobatics, Bulldoze, Charge Beam, Earthquake, Echoed Voice, Fire Blast,
+        Flamethrower, Flash Cannon, Fly, Focus Blast, Giga Impact, Heat Wave, Hyper
+          Beam, Iron Tail, Payback, Reflect, Rock Slide, Rock Tomb, Roost, Signal
+          Beam, Stone Edge, Surf, Tailwind, Tri Attack, U-turn]
     stats:
     - [92, 105, 90, 125, 90, 98]
     tags:
     - [ou]
+    types:
+    - [Dark, Dragon]
     weight: [160]
-    height: [1.8]
-evolutions:
-- {from: Deino, to: Zweilous}
-- {from: Zweilous, to: Hydreigon}
-learnsets:
-  bw:
-    Deino: [Aqua Tail, Assurance, Astonish, Attract, Bite, Body Slam, Crunch, Dark
-        Pulse, Double Hit, Double Team, Draco Meteor, Dragon Pulse, Dragon Rage, Dragon
-        Rush, Dragon Tail, Dragonbreath, Earth Power, Facade, Fire Fang, Focus Energy,
-      Frustration, Head Smash, Headbutt, Hidden Power, Hyper Voice, Ice Fang, Incinerate,
-      Outrage, Protect, Psych Up, Rain Dance, Rest, Return, Roar, Rock Smash, Round,
-      Scary Face, Screech, Slam, Sleep Talk, Snore, Spite, Strength, Substitute, Sunny
-        Day, Superpower, Swagger, Tackle, Taunt, Thief, Thunder Fang, Thunder Wave,
-      Torment, Toxic, Uproar, Work Up, Zen Headbutt]
-    Hydreigon: [Acrobatics, Bulldoze, Charge Beam, Earthquake, Echoed Voice, Fire
-        Blast, Flamethrower, Flash Cannon, Fly, Focus Blast, Giga Impact, Heat Wave,
-      Hyper Beam, Iron Tail, Payback, Reflect, Rock Slide, Rock Tomb, Roost, Signal
-        Beam, Stone Edge, Surf, Tailwind, Tri Attack, U-turn]
+  Zweilous:
+    abilities:
+    - [Hustle]
+    egggroups:
+    - [Dragon]
+    evolutions: [Hydreigon]
+    height: [1.4]
+    introduction: bw
+    stats:
+    - [72, 85, 70, 65, 70, 58]
+    tags:
+    - [nu]
+    types:
+    - [Dark, Dragon]
+    weight: [50]

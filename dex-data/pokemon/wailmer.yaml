@@ -1,63 +1,61 @@
 pokemon:
   Wailmer:
-    introduction: rs
-    types:
-    - [Water]
-    egggroups:
-    - [Ground, Water 2]
     abilities:
     - [Oblivious, Water Veil]
     - bw: [Oblivious, Pressure, Water Veil]
+    egggroups:
+    - [Ground, Water 2]
+    evolutions: [Wailord]
+    height: [2]
+    introduction: rs
+    moves:
+    - bw: [Amnesia, Aqua Ring, Astonish, Attract, Blizzard, Body Slam, Bounce, Brine,
+        Bulldoze, Curse, Defense Curl, Dive, Double-Edge, Double Team, Earthquake,
+        Echoed Voice, Facade, Fissure, Frustration, Growl, Hail, Heavy Slam, Hidden
+          Power, Hydro Pump, Hyper Voice, Ice Beam, Icy Wind, Mist, Protect, Rain
+          Dance, Rest, Return, Roar, Rock Smash, Rock Tomb, Rollout, Round, Scald,
+        Sleep Talk, Snore, Soak, Splash, Strength, Substitute, Surf, Swagger, Thrash,
+        Tickle, Toxic, Water Gun, Water Pulse, Water Spout, Waterfall, Whirlpool,
+        Zen Headbutt, Icy Wind, Mimic, Selfdestruct]
+    - dp: [Amnesia, Aqua Ring, Astonish, Attract, Avalanche, Blizzard, Body Slam,
+        Bounce, Brine, Captivate, Curse, Defense Curl, Dive, Double-Edge, Double Team,
+        Earthquake, Endure, Facade, Fissure, Frustration, Growl, Hail, Headbutt, Hidden
+          Power, Hydro Pump, Ice Beam, Icy Wind, Mist, Natural Gift, Protect, Rain
+          Dance, Rest, Return, Roar, Rock Smash, Rock Tomb, Rollout, Secret Power,
+        Sleep Talk, Snore, Splash, Strength, Substitute, Surf, Swagger, Thrash, Tickle,
+        Toxic, Water Gun, Water Pulse, Water Spout, Waterfall, Whirlpool, Icy Wind,
+        Mimic, Selfdestruct]
+    - rs: [Amnesia, Astonish, Attract, Blizzard, Body Slam, Curse, Defense Curl, Dive,
+        Double-Edge, Double Team, Earthquake, Endure, Facade, Fissure, Frustration,
+        Growl, Hail, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Mimic, Mist, Protect,
+        Rain Dance, Rest, Return, Roar, Rock Smash, Rock Tomb, Rollout, Secret Power,
+        Selfdestruct, Sleep Talk, Snore, Splash, Strength, Substitute, Surf, Swagger,
+        Thrash, Tickle, Toxic, Water Gun, Water Pulse, Water Spout, Waterfall, Whirlpool,
+        Icy Wind, Mimic, Selfdestruct]
     stats:
     - [130, 70, 35, 70, 35, 60]
     tags:
     - [nfe]
     - dp: [lc]
-    weight: [130]
-    height: [2]
-  Wailord:
-    introduction: rs
     types:
     - [Water]
-    egggroups:
-    - [Ground, Water 2]
+    weight: [130]
+  Wailord:
     abilities:
     - [Oblivious, Water Veil]
     - bw: [Oblivious, Pressure, Water Veil]
+    egggroups:
+    - [Ground, Water 2]
+    height: [14.5]
+    introduction: rs
+    moves:
+    - bw: [Block, Giga Impact, Hyper Beam, Iron Head, Icy Wind, Mimic, Selfdestruct]
+    - dp: [Block, Giga Impact, Hyper Beam, Iron Head, Icy Wind, Mimic, Selfdestruct]
+    - rs: [Hyper Beam, Icy Wind, Mimic, Selfdestruct]
     stats:
     - [170, 90, 45, 90, 45, 60]
     tags:
     - [nu]
+    types:
+    - [Water]
     weight: [398]
-    height: [14.5]
-evolutions:
-- {from: Wailmer, to: Wailord}
-learnsets:
-  rs:
-    Wailmer: [Amnesia, Astonish, Attract, Blizzard, Body Slam, Curse, Defense Curl,
-      Dive, Double-Edge, Double Team, Earthquake, Endure, Facade, Fissure, Frustration,
-      Growl, Hail, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Mimic, Mist, Protect,
-      Rain Dance, Rest, Return, Roar, Rock Smash, Rock Tomb, Rollout, Secret Power,
-      Selfdestruct, Sleep Talk, Snore, Splash, Strength, Substitute, Surf, Swagger,
-      Thrash, Tickle, Toxic, Water Gun, Water Pulse, Water Spout, Waterfall, Whirlpool,
-      Icy Wind, Mimic, Selfdestruct]
-    Wailord: [Hyper Beam, Icy Wind, Mimic, Selfdestruct]
-  dp:
-    Wailmer: [Amnesia, Aqua Ring, Astonish, Attract, Avalanche, Blizzard, Body Slam,
-      Bounce, Brine, Captivate, Curse, Defense Curl, Dive, Double-Edge, Double Team,
-      Earthquake, Endure, Facade, Fissure, Frustration, Growl, Hail, Headbutt, Hidden
-        Power, Hydro Pump, Ice Beam, Icy Wind, Mist, Natural Gift, Protect, Rain Dance,
-      Rest, Return, Roar, Rock Smash, Rock Tomb, Rollout, Secret Power, Sleep Talk,
-      Snore, Splash, Strength, Substitute, Surf, Swagger, Thrash, Tickle, Toxic, Water
-        Gun, Water Pulse, Water Spout, Waterfall, Whirlpool, Icy Wind, Mimic, Selfdestruct]
-    Wailord: [Block, Giga Impact, Hyper Beam, Iron Head, Icy Wind, Mimic, Selfdestruct]
-  bw:
-    Wailmer: [Amnesia, Aqua Ring, Astonish, Attract, Blizzard, Body Slam, Bounce,
-      Brine, Bulldoze, Curse, Defense Curl, Dive, Double-Edge, Double Team, Earthquake,
-      Echoed Voice, Facade, Fissure, Frustration, Growl, Hail, Heavy Slam, Hidden
-        Power, Hydro Pump, Hyper Voice, Ice Beam, Icy Wind, Mist, Protect, Rain Dance,
-      Rest, Return, Roar, Rock Smash, Rock Tomb, Rollout, Round, Scald, Sleep Talk,
-      Snore, Soak, Splash, Strength, Substitute, Surf, Swagger, Thrash, Tickle, Toxic,
-      Water Gun, Water Pulse, Water Spout, Waterfall, Whirlpool, Zen Headbutt, Icy
-        Wind, Mimic, Selfdestruct]
-    Wailord: [Block, Giga Impact, Hyper Beam, Iron Head, Icy Wind, Mimic, Selfdestruct]

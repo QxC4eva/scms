@@ -1,41 +1,38 @@
 pokemon:
   Azelf:
-    introduction: dp
-    types:
-    - [Psychic]
-    egggroups:
-    - []
     abilities:
     - [Levitate]
+    egggroups:
+    - []
+    height: [0.3]
+    introduction: dp
+    moves:
+    - bw: [Acrobatics, Calm Mind, Charge Beam, Confusion, Detect, Double Team, Dream
+          Eater, Energy Ball, Explosion, Extrasensory, Facade, Fire Blast, Fire Punch,
+        Flamethrower, Flash, Fling, Frustration, Future Sight, Giga Impact, Grass
+          Knot, Helping Hand, Hidden Power, Hyper Beam, Ice Punch, Imprison, Incinerate,
+        Iron Tail, Knock Off, Last Resort, Light Screen, Magic Coat, Magic Room, Nasty
+          Plot, Natural Gift, Payback, Protect, Psych Up, Psychic, Psyshock, Rain
+          Dance, Recycle, Reflect, Rest, Return, Role Play, Round, Safeguard, Sandstorm,
+        Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snore, Stealth Rock, Substitute,
+        Sunny Day, Swagger, Swift, Taunt, Telekinesis, Thunder, Thunder Wave, Thunderbolt,
+        Thunderpunch, Torment, Toxic, Trick, Trick Room, U-turn, Uproar, Wonder Room,
+        Zen Headbutt]
+    - dp: [Calm Mind, Charge Beam, Confusion, Detect, Double Team, Dream Eater, Endure,
+        Energy Ball, Explosion, Extrasensory, Facade, Fire Blast, Fire Punch, Flamethrower,
+        Flash, Fling, Frustration, Future Sight, Giga Impact, Grass Knot, Headbutt,
+        Helping Hand, Hidden Power, Hyper Beam, Ice Punch, Imprison, Iron Tail, Knock
+          Off, Last Resort, Light Screen, Magic Coat, Mud-Slap, Nasty Plot, Natural
+          Gift, Payback, Protect, Psych Up, Psychic, Rain Dance, Recycle, Reflect,
+        Rest, Return, Role Play, Safeguard, Sandstorm, Secret Power, Shadow Ball,
+        Shock Wave, Signal Beam, Skill Swap, Sleep Talk, Snore, Stealth Rock, Substitute,
+        Sunny Day, Swagger, Swift, Taunt, Thunder, Thunder Wave, Thunderbolt, Thunderpunch,
+        Torment, Toxic, Trick, Trick Room, U-turn, Uproar, Water Pulse, Zen Headbutt]
     stats:
     - [75, 125, 70, 125, 70, 115]
     tags:
     - [ou]
     - bw: [uu]
+    types:
+    - [Psychic]
     weight: [0.3]
-    height: [0.3]
-evolutions: []
-learnsets:
-  dp:
-    Azelf: [Calm Mind, Charge Beam, Confusion, Detect, Double Team, Dream Eater, Endure,
-      Energy Ball, Explosion, Extrasensory, Facade, Fire Blast, Fire Punch, Flamethrower,
-      Flash, Fling, Frustration, Future Sight, Giga Impact, Grass Knot, Headbutt,
-      Helping Hand, Hidden Power, Hyper Beam, Ice Punch, Imprison, Iron Tail, Knock
-        Off, Last Resort, Light Screen, Magic Coat, Mud-Slap, Nasty Plot, Natural
-        Gift, Payback, Protect, Psych Up, Psychic, Rain Dance, Recycle, Reflect, Rest,
-      Return, Role Play, Safeguard, Sandstorm, Secret Power, Shadow Ball, Shock Wave,
-      Signal Beam, Skill Swap, Sleep Talk, Snore, Stealth Rock, Substitute, Sunny
-        Day, Swagger, Swift, Taunt, Thunder, Thunder Wave, Thunderbolt, Thunderpunch,
-      Torment, Toxic, Trick, Trick Room, U-turn, Uproar, Water Pulse, Zen Headbutt]
-  bw:
-    Azelf: [Acrobatics, Calm Mind, Charge Beam, Confusion, Detect, Double Team, Dream
-        Eater, Energy Ball, Explosion, Extrasensory, Facade, Fire Blast, Fire Punch,
-      Flamethrower, Flash, Fling, Frustration, Future Sight, Giga Impact, Grass Knot,
-      Helping Hand, Hidden Power, Hyper Beam, Ice Punch, Imprison, Incinerate, Iron
-        Tail, Knock Off, Last Resort, Light Screen, Magic Coat, Magic Room, Nasty
-        Plot, Natural Gift, Payback, Protect, Psych Up, Psychic, Psyshock, Rain Dance,
-      Recycle, Reflect, Rest, Return, Role Play, Round, Safeguard, Sandstorm, Shadow
-        Ball, Signal Beam, Skill Swap, Sleep Talk, Snore, Stealth Rock, Substitute,
-      Sunny Day, Swagger, Swift, Taunt, Telekinesis, Thunder, Thunder Wave, Thunderbolt,
-      Thunderpunch, Torment, Toxic, Trick, Trick Room, U-turn, Uproar, Wonder Room,
-      Zen Headbutt]

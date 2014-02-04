@@ -1,58 +1,54 @@
 pokemon:
   Absol:
-    introduction: rs
-    types:
-    - [Dark]
-    egggroups:
-    - [Ground]
     abilities:
     - [Pressure]
-    - dp: [Pressure, Super Luck]
-      bw: [Justified, Pressure, Super Luck]
+    - bw: [Justified, Pressure, Super Luck]
+      dp: [Pressure, Super Luck]
+    egggroups:
+    - [Ground]
+    height: [1.2]
+    introduction: rs
+    moves:
+    - bw: [Aerial Ace, Assurance, Attract, Baton Pass, Bite, Blizzard, Bounce, Calm
+          Mind, Charge Beam, Curse, Cut, Dark Pulse, Detect, Double-Edge, Double Team,
+        Dream Eater, Echoed Voice, Facade, Faint Attack, False Swipe, Feint, Fire
+          Blast, Flamethrower, Flash, Foul Play, Frustration, Future Sight, Giga Impact,
+        Hail, Hex, Hidden Power, Hone Claws, Hyper Beam, Ice Beam, Icy Wind, Incinerate,
+        Iron Tail, Knock Off, Leer, Magic Coat, Me First, Mean Look, Megahorn, Night
+          Slash, Nightmare, Payback, Perish Song, Protect, Psych Up, Psycho Cut, Punishment,
+        Pursuit, Quick Attack, Rain Dance, Razor Wind, Rest, Retaliate, Return, Rock
+          Slide, Rock Smash, Rock Tomb, Role Play, Round, Sandstorm, Scratch, Shadow
+          Ball, Shadow Claw, Slash, Sleep Talk, Snarl, Snatch, Snore, Spite, Stone
+          Edge, Strength, Substitute, Sucker Punch, Sunny Day, Superpower, Swagger,
+        Swords Dance, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Torment, Toxic,
+        Will-O-Wisp, X-scissor, Zen Headbutt]
+    - dp: [Aerial Ace, Assurance, Attract, Baton Pass, Bite, Blizzard, Bounce, Calm
+          Mind, Captivate, Charge Beam, Curse, Cut, Dark Pulse, Detect, Double-Edge,
+        Double Team, Dream Eater, Endure, Facade, Faint Attack, False Swipe, Feint,
+        Fire Blast, Flamethrower, Flash, Frustration, Fury Cutter, Future Sight, Giga
+          Impact, Hail, Headbutt, Hidden Power, Hyper Beam, Ice Beam, Icy Wind, Iron
+          Tail, Knock Off, Leer, Magic Coat, Me First, Mean Look, Megahorn, Mud-Slap,
+        Natural Gift, Night Slash, Nightmare, Payback, Perish Song, Protect, Psych
+          Up, Psycho Cut, Punishment, Pursuit, Quick Attack, Rain Dance, Razor Wind,
+        Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Role Play, Sandstorm, Scratch,
+        Secret Power, Shadow Ball, Shadow Claw, Shock Wave, Slash, Sleep Talk, Snatch,
+        Snore, Spite, Stone Edge, Strength, Substitute, Sucker Punch, Sunny Day, Superpower,
+        Swagger, Swift, Swords Dance, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt,
+        Torment, Toxic, Water Pulse, Will-O-Wisp, X-scissor, Zen Headbutt]
+    - rs: [Aerial Ace, Attract, Baton Pass, Bite, Blizzard, Body Slam, Calm Mind,
+        Counter, Curse, Cut, Double-Edge, Double Team, Dream Eater, Endure, Facade,
+        Faint Attack, Fire Blast, Flamethrower, Flash, Frustration, Fury Cutter, Future
+          Sight, Hail, Hidden Power, Hyper Beam, Ice Beam, Icy Wind, Iron Tail, Leer,
+        Magic Coat, Mimic, Mud-Slap, Nightmare, Perish Song, Protect, Psych Up, Quick
+          Attack, Rain Dance, Razor Wind, Rest, Return, Rock Slide, Rock Smash, Sandstorm,
+        Scratch, Secret Power, Shadow Ball, Shock Wave, Slash, Sleep Talk, Snatch,
+        Snore, Strength, Substitute, Sunny Day, Swagger, Swift, Swords Dance, Taunt,
+        Thief, Thunder, Thunder Wave, Thunderbolt, Torment, Toxic, Water Pulse]
     stats:
     - [65, 130, 60, 75, 60, 75]
     tags:
     - [uu]
     - bw: [ru]
+    types:
+    - [Dark]
     weight: [47]
-    height: [1.2]
-evolutions: []
-learnsets:
-  rs:
-    Absol: [Aerial Ace, Attract, Baton Pass, Bite, Blizzard, Body Slam, Calm Mind,
-      Counter, Curse, Cut, Double-Edge, Double Team, Dream Eater, Endure, Facade,
-      Faint Attack, Fire Blast, Flamethrower, Flash, Frustration, Fury Cutter, Future
-        Sight, Hail, Hidden Power, Hyper Beam, Ice Beam, Icy Wind, Iron Tail, Leer,
-      Magic Coat, Mimic, Mud-Slap, Nightmare, Perish Song, Protect, Psych Up, Quick
-        Attack, Rain Dance, Razor Wind, Rest, Return, Rock Slide, Rock Smash, Sandstorm,
-      Scratch, Secret Power, Shadow Ball, Shock Wave, Slash, Sleep Talk, Snatch, Snore,
-      Strength, Substitute, Sunny Day, Swagger, Swift, Swords Dance, Taunt, Thief,
-      Thunder, Thunder Wave, Thunderbolt, Torment, Toxic, Water Pulse]
-  dp:
-    Absol: [Aerial Ace, Assurance, Attract, Baton Pass, Bite, Blizzard, Bounce, Calm
-        Mind, Captivate, Charge Beam, Curse, Cut, Dark Pulse, Detect, Double-Edge,
-      Double Team, Dream Eater, Endure, Facade, Faint Attack, False Swipe, Feint,
-      Fire Blast, Flamethrower, Flash, Frustration, Fury Cutter, Future Sight, Giga
-        Impact, Hail, Headbutt, Hidden Power, Hyper Beam, Ice Beam, Icy Wind, Iron
-        Tail, Knock Off, Leer, Magic Coat, Me First, Mean Look, Megahorn, Mud-Slap,
-      Natural Gift, Night Slash, Nightmare, Payback, Perish Song, Protect, Psych Up,
-      Psycho Cut, Punishment, Pursuit, Quick Attack, Rain Dance, Razor Wind, Rest,
-      Return, Rock Slide, Rock Smash, Rock Tomb, Role Play, Sandstorm, Scratch, Secret
-        Power, Shadow Ball, Shadow Claw, Shock Wave, Slash, Sleep Talk, Snatch, Snore,
-      Spite, Stone Edge, Strength, Substitute, Sucker Punch, Sunny Day, Superpower,
-      Swagger, Swift, Swords Dance, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt,
-      Torment, Toxic, Water Pulse, Will-O-Wisp, X-scissor, Zen Headbutt]
-  bw:
-    Absol: [Aerial Ace, Assurance, Attract, Baton Pass, Bite, Blizzard, Bounce, Calm
-        Mind, Charge Beam, Curse, Cut, Dark Pulse, Detect, Double-Edge, Double Team,
-      Dream Eater, Echoed Voice, Facade, Faint Attack, False Swipe, Feint, Fire Blast,
-      Flamethrower, Flash, Foul Play, Frustration, Future Sight, Giga Impact, Hail,
-      Hex, Hidden Power, Hone Claws, Hyper Beam, Ice Beam, Icy Wind, Incinerate, Iron
-        Tail, Knock Off, Leer, Magic Coat, Me First, Mean Look, Megahorn, Night Slash,
-      Nightmare, Payback, Perish Song, Protect, Psych Up, Psycho Cut, Punishment,
-      Pursuit, Quick Attack, Rain Dance, Razor Wind, Rest, Retaliate, Return, Rock
-        Slide, Rock Smash, Rock Tomb, Role Play, Round, Sandstorm, Scratch, Shadow
-        Ball, Shadow Claw, Slash, Sleep Talk, Snarl, Snatch, Snore, Spite, Stone Edge,
-      Strength, Substitute, Sucker Punch, Sunny Day, Superpower, Swagger, Swords Dance,
-      Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Torment, Toxic, Will-O-Wisp,
-      X-scissor, Zen Headbutt]

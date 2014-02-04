@@ -1,55 +1,55 @@
 pokemon:
-  Klink:
-    introduction: bw
-    types:
-    - [Steel]
-    egggroups:
-    - [Mineral]
-    abilities:
-    - [Clear Body, Minus, Plus]
-    stats:
-    - [40, 55, 70, 45, 60, 30]
-    tags:
-    - [lc]
-    weight: [21]
-    height: [0.3]
   Klang:
-    introduction: bw
-    types:
-    - [Steel]
-    egggroups:
-    - [Mineral]
     abilities:
     - [Clear Body, Minus, Plus]
+    egggroups:
+    - [Mineral]
+    evolutions: [Klinklang]
+    height: [0.6]
+    introduction: bw
     stats:
     - [60, 80, 95, 70, 85, 50]
     tags:
     - [nu]
-    weight: [51]
-    height: [0.6]
-  Klinklang:
-    introduction: bw
     types:
     - [Steel]
-    egggroups:
-    - [Mineral]
+    weight: [51]
+  Klink:
     abilities:
     - [Clear Body, Minus, Plus]
+    egggroups:
+    - [Mineral]
+    evolutions: [Klang]
+    height: [0.3]
+    introduction: bw
+    moves:
+    - bw: [Autotomize, Bind, Charge, Charge Beam, Discharge, Double Team, Facade,
+        Flash Cannon, Frustration, Gear Grind, Gravity, Hidden Power, Hyper Beam,
+        Iron Defense, Lock-On, Magic Coat, Magnet Rise, Metal Sound, Mirror Shot,
+        Protect, Recycle, Rest, Return, Rock Polish, Rock Smash, Round, Sandstorm,
+        Screech, Shift Gear, Signal Beam, Sleep Talk, Snore, Substitute, Swagger,
+        Thunder Wave, Thunderbolt, Thundershock, Toxic, Uproar, Vicegrip, Volt Switch,
+        Wild Charge, Zap Cannon]
+    stats:
+    - [40, 55, 70, 45, 60, 30]
+    tags:
+    - [lc]
+    types:
+    - [Steel]
+    weight: [21]
+  Klinklang:
+    abilities:
+    - [Clear Body, Minus, Plus]
+    egggroups:
+    - [Mineral]
+    height: [0.6]
+    introduction: bw
+    moves:
+    - bw: [Giga Impact, Thunder, Trick Room]
     stats:
     - [60, 100, 115, 70, 85, 90]
     tags:
     - [ru]
+    types:
+    - [Steel]
     weight: [81]
-    height: [0.6]
-evolutions:
-- {from: Klink, to: Klang}
-- {from: Klang, to: Klinklang}
-learnsets:
-  bw:
-    Klink: [Autotomize, Bind, Charge, Charge Beam, Discharge, Double Team, Facade,
-      Flash Cannon, Frustration, Gear Grind, Gravity, Hidden Power, Hyper Beam, Iron
-        Defense, Lock-On, Magic Coat, Magnet Rise, Metal Sound, Mirror Shot, Protect,
-      Recycle, Rest, Return, Rock Polish, Rock Smash, Round, Sandstorm, Screech, Shift
-        Gear, Signal Beam, Sleep Talk, Snore, Substitute, Swagger, Thunder Wave, Thunderbolt,
-      Thundershock, Toxic, Uproar, Vicegrip, Volt Switch, Wild Charge, Zap Cannon]
-    Klinklang: [Giga Impact, Thunder, Trick Room]

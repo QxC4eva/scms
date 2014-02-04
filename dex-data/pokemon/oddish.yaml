@@ -1,125 +1,121 @@
 pokemon:
-  Oddish:
-    introduction: rb
-    types:
-    - [Grass, Poison]
-    egggroups:
-    - [Plant]
-    abilities:
-    - [Chlorophyll]
-    - bw: [Chlorophyll, Run Away]
-    stats:
-    - [45, 50, 55, 75, 75, 30]
-    - gs: [45, 50, 55, 75, 65, 30]
-    tags:
-    - [nfe]
-    - dp: [lc]
-    weight: [5.4]
-    height: [0.5]
-  Gloom:
-    introduction: rb
-    types:
-    - [Grass, Poison]
-    egggroups:
-    - [Plant]
-    abilities:
-    - [Chlorophyll]
-    - bw: [Chlorophyll, Stench]
-    stats:
-    - [60, 65, 70, 85, 85, 40]
-    - gs: [60, 65, 70, 85, 75, 40]
-    tags:
-    - [nfe]
-    weight: [8.6]
-    height: [0.8]
-  Vileplume:
-    introduction: rb
-    types:
-    - [Grass, Poison]
-    egggroups:
-    - [Plant]
-    abilities:
-    - [Chlorophyll]
-    - bw: [Chlorophyll, Effect Spore]
-    stats:
-    - [75, 80, 85, 100, 100, 50]
-    - gs: [75, 80, 85, 100, 90, 50]
-      xy: [75, 80, 85, 110, 90, 50] 
-    tags:
-    - [uu]
-    - dp: [nu]
-    weight: [18.6]
-    height: [1.2]
   Bellossom:
-    introduction: gs
-    types:
-    - [Grass]
-    egggroups:
-    - [Plant]
     abilities:
     - [Chlorophyll]
     - bw: [Chlorophyll, Healer]
+    egggroups:
+    - [Plant]
+    height: [0.4]
+    introduction: gs
+    moves:
+    - gs: [Hyper Beam]
+    - bw: [Giga Impact, Hyper Beam, Leaf Blade, Leaf Storm, Magical Leaf, Safeguard,
+        Uproar]
+    - dp: [Giga Impact, Hyper Beam, Leaf Blade, Leaf Storm, Magical Leaf, Safeguard,
+        Uproar]
+    - rs: [Hyper Beam, Magical Leaf, Safeguard]
     stats:
     - [75, 80, 85, 90, 100, 50]
     - xy: [75, 80, 95, 90, 100, 50]
     tags:
     - [uu]
     - dp: [nu]
+    types:
+    - [Grass]
     weight: [5.8]
-    height: [0.4]
-evolutions:
-- {from: Oddish, to: Gloom}
-- {from: Gloom, to: Vileplume}
-- {from: Gloom, to: Bellossom}
-learnsets:
-  rb:
-    Oddish: [Absorb, Acid, Bide, Cut, Double-Edge, Double Team, Mega Drain, Mimic,
-      Petal Dance, Poisonpowder, Rage, Reflect, Rest, Sleep Powder, Solarbeam, Stun
-        Spore, Substitute, Swords Dance, Take Down, Toxic, Leech Seed]
-    Gloom: []
-    Vileplume: [Body Slam, Hyper Beam]
-  gs:
-    Oddish: [Absorb, Acid, Attract, Charm, Curse, Cut, Double Team, Endure, Flail,
-      Flash, Frustration, Giga Drain, Hidden Power, Moonlight, Petal Dance, Poisonpowder,
-      Protect, Razor Leaf, Rest, Return, Sleep Powder, Sleep Talk, Sludge Bomb, Snore,
-      Solarbeam, Stun Spore, Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis,
-      Toxic, Leech Seed]
-    Gloom: []
-    Vileplume: []
-    Bellossom: [Hyper Beam]
-  rs:
-    Oddish: [Absorb, Acid, Attract, Bullet Seed, Charm, Cut, Double-Edge, Double Team,
-      Endure, Facade, Flail, Flash, Frustration, Giga Drain, Hidden Power, Ingrain,
-      Mimic, Moonlight, Petal Dance, Poisonpowder, Protect, Razor Leaf, Rest, Return,
-      Secret Power, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solarbeam, Stun
-        Spore, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis,
-      Toxic, Leech Seed, Body Slam, Double-Edge, Mimic]
-    Gloom: [Double-Edge, Mimic]
-    Bellossom: [Hyper Beam, Magical Leaf, Safeguard]
-    Vileplume: [Aromatherapy, Body Slam, Mega Drain, Body Slam, Double-Edge, Mimic]
-  dp:
-    Oddish: [Absorb, Acid, Attract, Bullet Seed, Captivate, Charm, Cut, Double Team,
-      Endure, Energy Ball, Facade, Flail, Flash, Frustration, Gastro Acid, Giga Drain,
-      Grass Knot, Hidden Power, Ingrain, Lucky Chant, Mega Drain, Moonlight, Natural
-        Gift, Petal Dance, Poisonpowder, Protect, Razor Leaf, Rest, Return, Secret
-        Power, Seed Bomb, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solarbeam,
-      Stun Spore, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis,
-      Teeter Dance, Tickle, Toxic, Worry Seed, Leech Seed, Body Slam, Double-Edge,
-      Mimic]
-    Gloom: [Drain Punch, Fling, Double-Edge, Mimic]
-    Bellossom: [Giga Impact, Hyper Beam, Leaf Blade, Leaf Storm, Magical Leaf, Safeguard,
-      Uproar]
-    Vileplume: [Aromatherapy, Body Slam, Double-Edge, Mimic]
-  bw:
-    Oddish: [Absorb, Acid, After You, Attract, Charm, Cut, Double Team, Energy Ball,
-      Facade, Flail, Flash, Frustration, Gastro Acid, Giga Drain, Grass Knot, Hidden
-        Power, Ingrain, Lucky Chant, Mega Drain, Moonlight, Natural Gift, Nature Power,
-      Petal Dance, Poisonpowder, Protect, Razor Leaf, Rest, Return, Round, Secret
-        Power, Seed Bomb, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solarbeam,
-      Stun Spore, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis,
-      Teeter Dance, Tickle, Toxic, Venoshock, Worry Seed, Leech Seed, Body Slam, Double-Edge,
-      Mimic]
-    Gloom: [Drain Punch, Fling, Double-Edge, Mimic]
-    Bellossom: [Giga Impact, Hyper Beam, Leaf Blade, Leaf Storm, Magical Leaf, Safeguard,
-      Uproar]
-    Vileplume: [Aromatherapy, Body Slam, Double-Edge, Mimic]
+  Gloom:
+    abilities:
+    - [Chlorophyll]
+    - bw: [Chlorophyll, Stench]
+    egggroups:
+    - [Plant]
+    evolutions: [Vileplume, Bellossom]
+    height: [0.8]
+    introduction: rb
+    moves:
+    - gs: []
+    - bw: [Drain Punch, Fling, Double-Edge, Mimic]
+    - dp: [Drain Punch, Fling, Double-Edge, Mimic]
+    - rs: [Double-Edge, Mimic]
+    - rb: []
+    stats:
+    - [60, 65, 70, 85, 85, 40]
+    - gs: [60, 65, 70, 85, 75, 40]
+    tags:
+    - [nfe]
+    types:
+    - [Grass, Poison]
+    weight: [8.6]
+  Oddish:
+    abilities:
+    - [Chlorophyll]
+    - bw: [Chlorophyll, Run Away]
+    egggroups:
+    - [Plant]
+    evolutions: [Gloom]
+    height: [0.5]
+    introduction: rb
+    moves:
+    - gs: [Absorb, Acid, Attract, Charm, Curse, Cut, Double Team, Endure, Flail, Flash,
+        Frustration, Giga Drain, Hidden Power, Moonlight, Petal Dance, Poisonpowder,
+        Protect, Razor Leaf, Rest, Return, Sleep Powder, Sleep Talk, Sludge Bomb,
+        Snore, Solarbeam, Stun Spore, Sunny Day, Swagger, Sweet Scent, Swords Dance,
+        Synthesis, Toxic, Leech Seed]
+    - bw: [Absorb, Acid, After You, Attract, Charm, Cut, Double Team, Energy Ball,
+        Facade, Flail, Flash, Frustration, Gastro Acid, Giga Drain, Grass Knot, Hidden
+          Power, Ingrain, Lucky Chant, Mega Drain, Moonlight, Natural Gift, Nature
+          Power, Petal Dance, Poisonpowder, Protect, Razor Leaf, Rest, Return, Round,
+        Secret Power, Seed Bomb, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solarbeam,
+        Stun Spore, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis,
+        Teeter Dance, Tickle, Toxic, Venoshock, Worry Seed, Leech Seed, Body Slam,
+        Double-Edge, Mimic]
+    - dp: [Absorb, Acid, Attract, Bullet Seed, Captivate, Charm, Cut, Double Team,
+        Endure, Energy Ball, Facade, Flail, Flash, Frustration, Gastro Acid, Giga
+          Drain, Grass Knot, Hidden Power, Ingrain, Lucky Chant, Mega Drain, Moonlight,
+        Natural Gift, Petal Dance, Poisonpowder, Protect, Razor Leaf, Rest, Return,
+        Secret Power, Seed Bomb, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solarbeam,
+        Stun Spore, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis,
+        Teeter Dance, Tickle, Toxic, Worry Seed, Leech Seed, Body Slam, Double-Edge,
+        Mimic]
+    - rs: [Absorb, Acid, Attract, Bullet Seed, Charm, Cut, Double-Edge, Double Team,
+        Endure, Facade, Flail, Flash, Frustration, Giga Drain, Hidden Power, Ingrain,
+        Mimic, Moonlight, Petal Dance, Poisonpowder, Protect, Razor Leaf, Rest, Return,
+        Secret Power, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solarbeam, Stun
+          Spore, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis,
+        Toxic, Leech Seed, Body Slam, Double-Edge, Mimic]
+    - rb: [Absorb, Acid, Bide, Cut, Double-Edge, Double Team, Mega Drain, Mimic, Petal
+          Dance, Poisonpowder, Rage, Reflect, Rest, Sleep Powder, Solarbeam, Stun
+          Spore, Substitute, Swords Dance, Take Down, Toxic, Leech Seed]
+    stats:
+    - [45, 50, 55, 75, 75, 30]
+    - gs: [45, 50, 55, 75, 65, 30]
+    tags:
+    - [nfe]
+    - dp: [lc]
+    types:
+    - [Grass, Poison]
+    weight: [5.4]
+  Vileplume:
+    abilities:
+    - [Chlorophyll]
+    - bw: [Chlorophyll, Effect Spore]
+    egggroups:
+    - [Plant]
+    height: [1.2]
+    introduction: rb
+    moves:
+    - gs: []
+    - bw: [Aromatherapy, Body Slam, Double-Edge, Mimic]
+    - dp: [Aromatherapy, Body Slam, Double-Edge, Mimic]
+    - rs: [Aromatherapy, Body Slam, Mega Drain, Body Slam, Double-Edge, Mimic]
+    - rb: [Body Slam, Hyper Beam]
+    stats:
+    - [75, 80, 85, 100, 100, 50]
+    - gs: [75, 80, 85, 100, 90, 50]
+      xy: [75, 80, 85, 110, 90, 50]
+    tags:
+    - [uu]
+    - dp: [nu]
+    types:
+    - [Grass, Poison]
+    weight: [18.6]

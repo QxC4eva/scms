@@ -1,30 +1,68 @@
 pokemon:
   Magnemite:
-    introduction: rb
-    types:
-    - [Electric, Steel]
-    egggroups:
-    - [Mineral]
     abilities:
     - [Magnet Pull, Sturdy]
     - bw: [Analytic, Magnet Pull, Sturdy]
+    egggroups:
+    - [Mineral]
+    evolutions: [Magneton]
+    height: [0.3]
+    introduction: rb
+    moves:
+    - gs: [Curse, Double Team, Endure, Flash, Frustration, Hidden Power, Lock-On,
+        Protect, Rain Dance, Rest, Return, Rollout, Screech, Sleep Talk, Snore, Sonicboom,
+        Supersonic, Swagger, Swift, Tackle, Thunder, Thunder Wave, Thunderbolt, Thundershock,
+        Toxic, Zap Cannon, Agility]
+    - bw: [Charge Beam, Discharge, Double Team, Electro Ball, Electroweb, Explosion,
+        Facade, Flash, Flash Cannon, Frustration, Gravity, Gyro Ball, Hidden Power,
+        Iron Defense, Light Screen, Lock-On, Magic Coat, Magnet Bomb, Magnet Rise,
+        Metal Sound, Mirror Shot, Protect, Psych Up, Rain Dance, Recycle, Reflect,
+        Rest, Return, Round, Screech, Signal Beam, Sleep Talk, Snore, Sonicboom, Spark,
+        Substitute, Sunny Day, Supersonic, Swagger, Tackle, Thunder, Thunder Wave,
+        Thunderbolt, Thundershock, Toxic, Volt Switch, Wild Charge, Zap Cannon, Double-Edge,
+        Mimic]
+    - dp: [Charge Beam, Discharge, Double Team, Endure, Explosion, Facade, Flash,
+        Flash Cannon, Frustration, Gravity, Gyro Ball, Hidden Power, Iron Defense,
+        Light Screen, Lock-On, Magic Coat, Magnet Bomb, Magnet Rise, Metal Sound,
+        Mirror Shot, Natural Gift, Protect, Psych Up, Rain Dance, Recycle, Reflect,
+        Rest, Return, Rollout, Screech, Secret Power, Shock Wave, Signal Beam, Sleep
+          Talk, Snore, Sonicboom, Spark, Substitute, Sunny Day, Supersonic, Swagger,
+        Swift, Tackle, Thunder, Thunder Wave, Thunderbolt, Thundershock, Toxic, Zap
+          Cannon, Double-Edge, Mimic]
+    - rs: [Double-Edge, Double Team, Endure, Facade, Flash, Frustration, Hidden Power,
+        Lock-On, Metal Sound, Mimic, Protect, Rain Dance, Reflect, Rest, Return, Rollout,
+        Screech, Secret Power, Shock Wave, Sleep Talk, Snore, Sonicboom, Spark, Substitute,
+        Sunny Day, Supersonic, Swagger, Swift, Tackle, Thunder, Thunder Wave, Thunderbolt,
+        Thundershock, Toxic, Zap Cannon, Double-Edge, Mimic]
+    - rb: [Bide, Double-Edge, Double Team, Flash, Mimic, Rage, Reflect, Rest, Screech,
+        Sonicboom, Substitute, Supersonic, Swift, Tackle, Take Down, Teleport, Thunder,
+        Thunder Wave, Thunderbolt, Thundershock, Toxic, Agility]
     stats:
     - [25, 35, 70, 95, 95, 45]
     - gs: [25, 35, 70, 95, 55, 45]
     tags:
     - [nfe]
     - dp: [lc]
-    weight: [6]
-    height: [0.3]
-  Magneton:
-    introduction: rb
     types:
     - [Electric, Steel]
-    egggroups:
-    - [Mineral]
+    weight: [6]
+  Magneton:
     abilities:
     - [Magnet Pull, Sturdy]
     - bw: [Analytic, Magnet Pull, Sturdy]
+    egggroups:
+    - [Mineral]
+    evolutions: [Magnezone]
+    height: [1]
+    introduction: rb
+    moves:
+    - gs: [Hyper Beam, Tri Attack]
+    - bw: [Giga Impact, Hyper Beam, Tri Attack, Refresh, Double-Edge, Double-Edge,
+        Mimic, Refresh]
+    - dp: [Giga Impact, Hyper Beam, Tri Attack, Refresh, Double-Edge, Double-Edge,
+        Mimic, Refresh]
+    - rs: [Hyper Beam, Tri Attack, Refresh, Double-Edge, Double-Edge, Mimic, Refresh]
+    - rb: [Hyper Beam]
     stats:
     - [50, 60, 95, 120, 120, 70]
     - gs: [50, 60, 95, 120, 70, 70]
@@ -33,64 +71,23 @@ pokemon:
     - bw: [ru]
     - dp: [nu]
     - rs: [ou]
-    weight: [60]
-    height: [1]
-  Magnezone:
-    introduction: dp
     types:
     - [Electric, Steel]
-    egggroups:
-    - [Mineral]
+    weight: [60]
+  Magnezone:
     abilities:
     - [Analytic, Magnet Pull, Sturdy]
+    egggroups:
+    - [Mineral]
+    height: [1.2]
+    introduction: dp
+    moves:
+    - bw: [Barrier, Iron Head, Mirror Coat]
+    - dp: [Barrier, Iron Head, Mirror Coat]
     stats:
     - [70, 70, 115, 130, 90, 60]
     tags:
     - [ou]
+    types:
+    - [Electric, Steel]
     weight: [180]
-    height: [1.2]
-evolutions:
-- {from: Magnemite, to: Magneton}
-- {from: Magneton, to: Magnezone}
-learnsets:
-  rb:
-    Magnemite: [Bide, Double-Edge, Double Team, Flash, Mimic, Rage, Reflect, Rest,
-      Screech, Sonicboom, Substitute, Supersonic, Swift, Tackle, Take Down, Teleport,
-      Thunder, Thunder Wave, Thunderbolt, Thundershock, Toxic, Agility]
-    Magneton: [Hyper Beam]
-  gs:
-    Magnemite: [Curse, Double Team, Endure, Flash, Frustration, Hidden Power, Lock-On,
-      Protect, Rain Dance, Rest, Return, Rollout, Screech, Sleep Talk, Snore, Sonicboom,
-      Supersonic, Swagger, Swift, Tackle, Thunder, Thunder Wave, Thunderbolt, Thundershock,
-      Toxic, Zap Cannon, Agility]
-    Magneton: [Hyper Beam, Tri Attack]
-  rs:
-    Magnemite: [Double-Edge, Double Team, Endure, Facade, Flash, Frustration, Hidden
-        Power, Lock-On, Metal Sound, Mimic, Protect, Rain Dance, Reflect, Rest, Return,
-      Rollout, Screech, Secret Power, Shock Wave, Sleep Talk, Snore, Sonicboom, Spark,
-      Substitute, Sunny Day, Supersonic, Swagger, Swift, Tackle, Thunder, Thunder
-        Wave, Thunderbolt, Thundershock, Toxic, Zap Cannon, Double-Edge, Mimic]
-    Magneton: [Hyper Beam, Tri Attack, Refresh, Double-Edge, Double-Edge, Mimic, Refresh]
-  dp:
-    Magnemite: [Charge Beam, Discharge, Double Team, Endure, Explosion, Facade, Flash,
-      Flash Cannon, Frustration, Gravity, Gyro Ball, Hidden Power, Iron Defense, Light
-        Screen, Lock-On, Magic Coat, Magnet Bomb, Magnet Rise, Metal Sound, Mirror
-        Shot, Natural Gift, Protect, Psych Up, Rain Dance, Recycle, Reflect, Rest,
-      Return, Rollout, Screech, Secret Power, Shock Wave, Signal Beam, Sleep Talk,
-      Snore, Sonicboom, Spark, Substitute, Sunny Day, Supersonic, Swagger, Swift,
-      Tackle, Thunder, Thunder Wave, Thunderbolt, Thundershock, Toxic, Zap Cannon,
-      Double-Edge, Mimic]
-    Magneton: [Giga Impact, Hyper Beam, Tri Attack, Refresh, Double-Edge, Double-Edge,
-      Mimic, Refresh]
-    Magnezone: [Barrier, Iron Head, Mirror Coat]
-  bw:
-    Magnemite: [Charge Beam, Discharge, Double Team, Electro Ball, Electroweb, Explosion,
-      Facade, Flash, Flash Cannon, Frustration, Gravity, Gyro Ball, Hidden Power,
-      Iron Defense, Light Screen, Lock-On, Magic Coat, Magnet Bomb, Magnet Rise, Metal
-        Sound, Mirror Shot, Protect, Psych Up, Rain Dance, Recycle, Reflect, Rest,
-      Return, Round, Screech, Signal Beam, Sleep Talk, Snore, Sonicboom, Spark, Substitute,
-      Sunny Day, Supersonic, Swagger, Tackle, Thunder, Thunder Wave, Thunderbolt,
-      Thundershock, Toxic, Volt Switch, Wild Charge, Zap Cannon, Double-Edge, Mimic]
-    Magneton: [Giga Impact, Hyper Beam, Tri Attack, Refresh, Double-Edge, Double-Edge,
-      Mimic, Refresh]
-    Magnezone: [Barrier, Iron Head, Mirror Coat]

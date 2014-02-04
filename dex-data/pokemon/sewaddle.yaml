@@ -1,60 +1,60 @@
 pokemon:
-  Sewaddle:
-    introduction: bw
-    types:
-    - [Bug, Grass]
-    egggroups:
-    - [Bug]
-    abilities:
-    - [Chlorophyll, Overcoat, Swarm]
-    stats:
-    - [45, 53, 70, 40, 60, 42]
-    tags:
-    - [lc]
-    weight: [2.5]
-    height: [0.3]
-  Swadloon:
-    introduction: bw
-    types:
-    - [Bug, Grass]
-    egggroups:
-    - [Bug]
-    abilities:
-    - [Chlorophyll, Leaf Guard, Overcoat]
-    stats:
-    - [55, 63, 90, 50, 80, 42]
-    tags:
-    - [nfe]
-    weight: [7.3]
-    height: [0.5]
   Leavanny:
-    introduction: bw
-    types:
-    - [Bug, Grass]
-    egggroups:
-    - [Bug]
     abilities:
     - [Chlorophyll, Overcoat, Swarm]
+    egggroups:
+    - [Bug]
+    height: [1.2]
+    introduction: bw
+    moves:
+    - bw: [Aerial Ace, Entrainment, False Swipe, Giga Impact, Heal Bell, Helping Hand,
+        Hone Claws, Hyper Beam, Knock Off, Leaf Blade, Leaf Storm, Poison Jab, Reflect,
+        Retaliate, Shadow Claw, Slash, Swords Dance, X-scissor]
     stats:
     - [75, 103, 80, 70, 70, 92]
     - xy: [75, 103, 80, 70, 80, 92]
     tags:
     - [nu]
+    types:
+    - [Bug, Grass]
     weight: [20.5]
-    height: [1.2]
-evolutions:
-- {from: Sewaddle, to: Swadloon}
-- {from: Swadloon, to: Leavanny}
-learnsets:
-  bw:
-    Sewaddle: [Agility, Air Slash, Attract, Baton Pass, Bug Bite, Bug Buzz, Calm Mind,
-      Camouflage, Cut, Double Team, Dream Eater, Electroweb, Endure, Energy Ball,
-      Facade, Flail, Flash, Frustration, Giga Drain, Grass Knot, Hidden Power, Iron
-        Defense, Light Screen, Magic Coat, Me First, Mind Reader, Payback, Protect,
-      Razor Leaf, Razor Wind, Rest, Return, Round, Safeguard, Screech, Seed Bomb,
-      Signal Beam, Silver Wind, Sleep Talk, Snore, Solarbeam, String Shot, Struggle
-        Bug, Substitute, Sunny Day, Swagger, Synthesis, Tackle, Toxic, Worry Seed]
-    Swadloon: [Grasswhistle]
-    Leavanny: [Aerial Ace, Entrainment, False Swipe, Giga Impact, Heal Bell, Helping
-        Hand, Hone Claws, Hyper Beam, Knock Off, Leaf Blade, Leaf Storm, Poison Jab,
-      Reflect, Retaliate, Shadow Claw, Slash, Swords Dance, X-scissor]
+  Sewaddle:
+    abilities:
+    - [Chlorophyll, Overcoat, Swarm]
+    egggroups:
+    - [Bug]
+    evolutions: [Swadloon]
+    height: [0.3]
+    introduction: bw
+    moves:
+    - bw: [Agility, Air Slash, Attract, Baton Pass, Bug Bite, Bug Buzz, Calm Mind,
+        Camouflage, Cut, Double Team, Dream Eater, Electroweb, Endure, Energy Ball,
+        Facade, Flail, Flash, Frustration, Giga Drain, Grass Knot, Hidden Power, Iron
+          Defense, Light Screen, Magic Coat, Me First, Mind Reader, Payback, Protect,
+        Razor Leaf, Razor Wind, Rest, Return, Round, Safeguard, Screech, Seed Bomb,
+        Signal Beam, Silver Wind, Sleep Talk, Snore, Solarbeam, String Shot, Struggle
+          Bug, Substitute, Sunny Day, Swagger, Synthesis, Tackle, Toxic, Worry Seed]
+    stats:
+    - [45, 53, 70, 40, 60, 42]
+    tags:
+    - [lc]
+    types:
+    - [Bug, Grass]
+    weight: [2.5]
+  Swadloon:
+    abilities:
+    - [Chlorophyll, Leaf Guard, Overcoat]
+    egggroups:
+    - [Bug]
+    evolutions: [Leavanny]
+    height: [0.5]
+    introduction: bw
+    moves:
+    - bw: [Grasswhistle]
+    stats:
+    - [55, 63, 90, 50, 80, 42]
+    tags:
+    - [nfe]
+    types:
+    - [Bug, Grass]
+    weight: [7.3]

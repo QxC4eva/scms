@@ -1,59 +1,59 @@
 pokemon:
-  Tympole:
-    introduction: bw
-    types:
-    - [Water]
-    egggroups:
-    - [Water 1]
-    abilities:
-    - [Hydration, Swift Swim, Water Absorb]
-    stats:
-    - [50, 50, 40, 50, 40, 64]
-    tags:
-    - [lc]
-    weight: [4.5]
-    height: [0.5]
   Palpitoad:
-    introduction: bw
-    types:
-    - [Ground, Water]
-    egggroups:
-    - [Water 1]
     abilities:
     - [Hydration, Swift Swim, Water Absorb]
+    egggroups:
+    - [Water 1]
+    evolutions: [Seismitoad]
+    height: [0.8]
+    introduction: bw
+    moves:
+    - bw: [Bulldoze, Gastro Acid, Rock Smash, Stealth Rock]
     stats:
     - [75, 65, 55, 65, 55, 69]
     tags:
     - [nfe]
-    weight: [17]
-    height: [0.8]
-  Seismitoad:
-    introduction: bw
     types:
     - [Ground, Water]
-    egggroups:
-    - [Water 1]
+    weight: [17]
+  Seismitoad:
     abilities:
     - [Poison Touch, Swift Swim, Water Absorb]
+    egggroups:
+    - [Water 1]
+    height: [1.5]
+    introduction: bw
+    moves:
+    - bw: [Acid, Brick Break, Dig, Drain Punch, Earthquake, Fling, Focus Blast, Giga
+          Impact, Grass Knot, Hyper Beam, Ice Punch, Knock Off, Low Kick, Payback,
+        Poison Jab, Rock Slide, Rock Tomb, Strength, Venoshock]
     stats:
     - [105, 85, 75, 85, 75, 74]
     - xy: [105, 95, 75, 85, 75, 74]
     tags:
     - [nu]
+    types:
+    - [Ground, Water]
     weight: [62]
-    height: [1.5]
-evolutions:
-- {from: Tympole, to: Palpitoad}
-- {from: Palpitoad, to: Seismitoad}
-learnsets:
-  bw:
-    Tympole: [Aqua Ring, Attract, Bounce, Bubble, Bubblebeam, Double Team, Earth Power,
-      Echoed Voice, Endeavor, Facade, Flail, Frustration, Growl, Hail, Hidden Power,
-      Hydro Pump, Hyper Voice, Icy Wind, Mist, Mud Bomb, Mud Shot, Mud Sport, Muddy
-        Water, Protect, Rain Dance, Refresh, Rest, Return, Round, Scald, Sleep Talk,
-      Sludge Bomb, Sludge Wave, Snore, Substitute, Supersonic, Surf, Swagger, Toxic,
-      Uproar, Water Pulse]
-    Palpitoad: [Bulldoze, Gastro Acid, Rock Smash, Stealth Rock]
-    Seismitoad: [Acid, Brick Break, Dig, Drain Punch, Earthquake, Fling, Focus Blast,
-      Giga Impact, Grass Knot, Hyper Beam, Ice Punch, Knock Off, Low Kick, Payback,
-      Poison Jab, Rock Slide, Rock Tomb, Strength, Venoshock]
+  Tympole:
+    abilities:
+    - [Hydration, Swift Swim, Water Absorb]
+    egggroups:
+    - [Water 1]
+    evolutions: [Palpitoad]
+    height: [0.5]
+    introduction: bw
+    moves:
+    - bw: [Aqua Ring, Attract, Bounce, Bubble, Bubblebeam, Double Team, Earth Power,
+        Echoed Voice, Endeavor, Facade, Flail, Frustration, Growl, Hail, Hidden Power,
+        Hydro Pump, Hyper Voice, Icy Wind, Mist, Mud Bomb, Mud Shot, Mud Sport, Muddy
+          Water, Protect, Rain Dance, Refresh, Rest, Return, Round, Scald, Sleep Talk,
+        Sludge Bomb, Sludge Wave, Snore, Substitute, Supersonic, Surf, Swagger, Toxic,
+        Uproar, Water Pulse]
+    stats:
+    - [50, 50, 40, 50, 40, 64]
+    tags:
+    - [lc]
+    types:
+    - [Water]
+    weight: [4.5]

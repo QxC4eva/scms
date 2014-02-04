@@ -1,77 +1,73 @@
 pokemon:
-  Meditite:
-    introduction: rs
-    types:
-    - [Fighting, Psychic]
-    egggroups:
-    - [Humanshape]
-    abilities:
-    - [Pure Power]
-    - bw: [Pure Power, Telepathy]
-    stats:
-    - [30, 40, 55, 40, 55, 60]
-    tags:
-    - [nfe]
-    weight: [11.2]
-    height: [0.6]
   Medicham:
-    introduction: rs
-    types:
-    - [Fighting, Psychic]
-    egggroups:
-    - [Humanshape]
     abilities:
     - [Pure Power]
     - bw: [Pure Power, Telepathy]
+    egggroups:
+    - [Humanshape]
+    height: [1.3]
+    introduction: rs
+    moves:
+    - bw: [Energy Ball, Giga Impact, Hyper Beam, Body Slam, Double-Edge, Mimic, Seismic
+          Toss]
+    - dp: [Energy Ball, Giga Impact, Hyper Beam, Body Slam, Double-Edge, Mimic, Seismic
+          Toss]
+    - rs: [Hyper Beam, Rock Slide, Body Slam, Double-Edge, Mimic, Seismic Toss]
     stats:
     - [60, 60, 75, 60, 75, 80]
     tags:
     - [bl]
     - bw: [ru]
       dp: [nu]
+    types:
+    - [Fighting, Psychic]
     weight: [31.5]
-    height: [1.3]
-evolutions:
-- {from: Meditite, to: Medicham}
-learnsets:
-  rs:
-    Meditite: [Attract, Baton Pass, Bide, Body Slam, Brick Break, Bulk Up, Calm Mind,
-      Confusion, Counter, Detect, Double-Edge, Double Team, Dream Eater, Dynamicpunch,
-      Endure, Facade, Fake Out, Fire Punch, Flash, Focus Punch, Foresight, Frustration,
-      Hi Jump Kick, Hidden Power, Ice Punch, Light Screen, Meditate, Mega Kick, Mega
-        Punch, Metronome, Mimic, Mind Reader, Mud-Slap, Protect, Psych Up, Psychic,
-      Rain Dance, Recover, Reflect, Rest, Return, Reversal, Rock Smash, Rock Tomb,
-      Secret Power, Seismic Toss, Shadow Ball, Sleep Talk, Snore, Strength, Substitute,
-      Sunny Day, Swagger, Swift, Thunderpunch, Toxic, Body Slam, Double-Edge, Mimic,
-      Seismic Toss]
-    Medicham: [Hyper Beam, Rock Slide, Body Slam, Double-Edge, Mimic, Seismic Toss]
-  dp:
-    Meditite: [Attract, Baton Pass, Bide, Brick Break, Bulk Up, Bullet Punch, Calm
-        Mind, Captivate, Confusion, Detect, Double Team, Drain Punch, Dream Eater,
-      Dynamicpunch, Endure, Facade, Fake Out, Feint, Fire Punch, Flash, Fling, Focus
-        Blast, Focus Punch, Force Palm, Foresight, Frustration, Grass Knot, Gravity,
-      Guard Swap, Headbutt, Helping Hand, Hi Jump Kick, Hidden Power, Ice Punch, Light
-        Screen, Low Kick, Magic Coat, Meditate, Mind Reader, Mud-Slap, Natural Gift,
-      Pain Split, Poison Jab, Power Swap, Power Trick, Protect, Psych Up, Psychic,
-      Psycho Cut, Rain Dance, Recover, Recycle, Reflect, Rest, Return, Reversal, Rock
-        Slide, Rock Smash, Rock Tomb, Role Play, Secret Power, Shadow Ball, Signal
-        Beam, Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger, Swift,
-      Thunderpunch, Toxic, Trick, Vacuum Wave, Zen Headbutt, Body Slam, Double-Edge,
-      Mimic, Seismic Toss]
-    Medicham: [Energy Ball, Giga Impact, Hyper Beam, Body Slam, Double-Edge, Mimic,
-      Seismic Toss]
-  bw:
-    Meditite: [Acupressure, Attract, Baton Pass, Bide, Brick Break, Bulk Up, Bullet
-        Punch, Calm Mind, Confusion, Detect, Double Team, Drain Punch, Dream Eater,
-      Dynamicpunch, Facade, Fake Out, Feint, Fire Punch, Flash, Fling, Focus Blast,
-      Force Palm, Foresight, Frustration, Grass Knot, Gravity, Guard Swap, Helping
-        Hand, Hi Jump Kick, Hidden Power, Ice Punch, Light Screen, Low Kick, Low Sweep,
-      Magic Coat, Meditate, Mind Reader, Pain Split, Poison Jab, Power Swap, Power
-        Trick, Protect, Psych Up, Psychic, Psycho Cut, Psyshock, Rain Dance, Recover,
-      Recycle, Reflect, Rest, Retaliate, Return, Reversal, Rock Slide, Rock Smash,
-      Rock Tomb, Role Play, Round, Secret Power, Shadow Ball, Signal Beam, Sleep Talk,
-      Snore, Strength, Substitute, Sunny Day, Swagger, Telekinesis, Thunderpunch,
-      Toxic, Trick, Work Up, Zen Headbutt, Body Slam, Double-Edge, Mimic, Seismic
-        Toss]
-    Medicham: [Energy Ball, Giga Impact, Hyper Beam, Body Slam, Double-Edge, Mimic,
-      Seismic Toss]
+  Meditite:
+    abilities:
+    - [Pure Power]
+    - bw: [Pure Power, Telepathy]
+    egggroups:
+    - [Humanshape]
+    evolutions: [Medicham]
+    height: [0.6]
+    introduction: rs
+    moves:
+    - bw: [Acupressure, Attract, Baton Pass, Bide, Brick Break, Bulk Up, Bullet Punch,
+        Calm Mind, Confusion, Detect, Double Team, Drain Punch, Dream Eater, Dynamicpunch,
+        Facade, Fake Out, Feint, Fire Punch, Flash, Fling, Focus Blast, Force Palm,
+        Foresight, Frustration, Grass Knot, Gravity, Guard Swap, Helping Hand, Hi
+          Jump Kick, Hidden Power, Ice Punch, Light Screen, Low Kick, Low Sweep, Magic
+          Coat, Meditate, Mind Reader, Pain Split, Poison Jab, Power Swap, Power Trick,
+        Protect, Psych Up, Psychic, Psycho Cut, Psyshock, Rain Dance, Recover, Recycle,
+        Reflect, Rest, Retaliate, Return, Reversal, Rock Slide, Rock Smash, Rock Tomb,
+        Role Play, Round, Secret Power, Shadow Ball, Signal Beam, Sleep Talk, Snore,
+        Strength, Substitute, Sunny Day, Swagger, Telekinesis, Thunderpunch, Toxic,
+        Trick, Work Up, Zen Headbutt, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    - dp: [Attract, Baton Pass, Bide, Brick Break, Bulk Up, Bullet Punch, Calm Mind,
+        Captivate, Confusion, Detect, Double Team, Drain Punch, Dream Eater, Dynamicpunch,
+        Endure, Facade, Fake Out, Feint, Fire Punch, Flash, Fling, Focus Blast, Focus
+          Punch, Force Palm, Foresight, Frustration, Grass Knot, Gravity, Guard Swap,
+        Headbutt, Helping Hand, Hi Jump Kick, Hidden Power, Ice Punch, Light Screen,
+        Low Kick, Magic Coat, Meditate, Mind Reader, Mud-Slap, Natural Gift, Pain
+          Split, Poison Jab, Power Swap, Power Trick, Protect, Psych Up, Psychic,
+        Psycho Cut, Rain Dance, Recover, Recycle, Reflect, Rest, Return, Reversal,
+        Rock Slide, Rock Smash, Rock Tomb, Role Play, Secret Power, Shadow Ball, Signal
+          Beam, Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger, Swift,
+        Thunderpunch, Toxic, Trick, Vacuum Wave, Zen Headbutt, Body Slam, Double-Edge,
+        Mimic, Seismic Toss]
+    - rs: [Attract, Baton Pass, Bide, Body Slam, Brick Break, Bulk Up, Calm Mind,
+        Confusion, Counter, Detect, Double-Edge, Double Team, Dream Eater, Dynamicpunch,
+        Endure, Facade, Fake Out, Fire Punch, Flash, Focus Punch, Foresight, Frustration,
+        Hi Jump Kick, Hidden Power, Ice Punch, Light Screen, Meditate, Mega Kick,
+        Mega Punch, Metronome, Mimic, Mind Reader, Mud-Slap, Protect, Psych Up, Psychic,
+        Rain Dance, Recover, Reflect, Rest, Return, Reversal, Rock Smash, Rock Tomb,
+        Secret Power, Seismic Toss, Shadow Ball, Sleep Talk, Snore, Strength, Substitute,
+        Sunny Day, Swagger, Swift, Thunderpunch, Toxic, Body Slam, Double-Edge, Mimic,
+        Seismic Toss]
+    stats:
+    - [30, 40, 55, 40, 55, 60]
+    tags:
+    - [nfe]
+    types:
+    - [Fighting, Psychic]
+    weight: [11.2]

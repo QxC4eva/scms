@@ -1,83 +1,78 @@
 pokemon:
   Tentacool:
-    introduction: rb
-    types:
-    - [Poison, Water]
-    egggroups:
-    - [Water 3]
     abilities:
     - [Clear Body, Liquid Ooze]
     - bw: [Clear Body, Liquid Ooze, Rain Dish]
+    egggroups:
+    - [Water 3]
+    evolutions: [Tentacruel]
+    height: [0.9]
+    introduction: rb
+    moves:
+    - gs: [Acid, Attract, Aurora Beam, Barrier, Blizzard, Bubblebeam, Constrict, Curse,
+        Cut, Double Team, Endure, Frustration, Giga Drain, Haze, Hidden Power, Hydro
+          Pump, Ice Beam, Icy Wind, Mirror Coat, Poison Sting, Protect, Rain Dance,
+        Rapid Spin, Rest, Return, Safeguard, Screech, Sleep Talk, Sludge Bomb, Snore,
+        Supersonic, Surf, Swagger, Toxic, Whirlpool, Wrap, Confuse Ray]
+    - bw: [Acid, Acid Spray, Acupressure, Aqua Ring, Attract, Aurora Beam, Barrier,
+        Bind, Blizzard, Bubble, Bubblebeam, Confuse Ray, Constrict, Cut, Dive, Double
+          Team, Facade, Frustration, Giga Drain, Hail, Haze, Hex, Hidden Power, Hydro
+          Pump, Ice Beam, Icy Wind, Knock Off, Magic Coat, Mirror Coat, Muddy Water,
+        Payback, Poison Jab, Poison Sting, Protect, Rain Dance, Rapid Spin, Rest,
+        Return, Round, Safeguard, Scald, Screech, Sleep Talk, Sludge Bomb, Sludge
+          Wave, Snore, Substitute, Supersonic, Surf, Swagger, Swords Dance, Thief,
+        Tickle, Toxic, Toxic Spikes, Venoshock, Water Pulse, Waterfall, Wrap, Wring
+          Out, Double-Edge, Icy Wind, Mimic]
+    - dp: [Acid, Acupressure, Attract, Aurora Beam, Barrier, Blizzard, Brine, Bubblebeam,
+        Captivate, Confuse Ray, Constrict, Cut, Dive, Double Team, Endure, Facade,
+        Frustration, Giga Drain, Hail, Haze, Hidden Power, Hydro Pump, Ice Beam, Icy
+          Wind, Knock Off, Magic Coat, Mirror Coat, Muddy Water, Natural Gift, Payback,
+        Poison Jab, Poison Sting, Protect, Rain Dance, Rapid Spin, Rest, Return, Safeguard,
+        Screech, Secret Power, Sleep Talk, Sludge Bomb, Snore, Substitute, Supersonic,
+        Surf, Swagger, Swords Dance, Thief, Toxic, Toxic Spikes, Water Pulse, Waterfall,
+        Whirlpool, Wrap, Wring Out, Double-Edge, Icy Wind, Mimic]
+    - rs: [Acid, Attract, Aurora Beam, Barrier, Blizzard, Bubblebeam, Confuse Ray,
+        Constrict, Cut, Dive, Double-Edge, Double Team, Endure, Facade, Frustration,
+        Giga Drain, Hail, Haze, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Mimic,
+        Mirror Coat, Poison Sting, Protect, Rain Dance, Rapid Spin, Rest, Return,
+        Safeguard, Screech, Secret Power, Sleep Talk, Sludge Bomb, Snore, Substitute,
+        Supersonic, Surf, Swagger, Swords Dance, Thief, Toxic, Water Pulse, Waterfall,
+        Wrap, Double-Edge, Icy Wind, Mimic]
+    - rb: [Acid, Barrier, Bide, Blizzard, Bubblebeam, Constrict, Cut, Double-Edge,
+        Double Team, Hydro Pump, Ice Beam, Mega Drain, Mimic, Poison Sting, Rage,
+        Reflect, Rest, Screech, Skull Bash, Substitute, Supersonic, Surf, Swords Dance,
+        Take Down, Toxic, Water Gun, Wrap, Confuse Ray]
     stats:
     - [40, 40, 35, 100, 100, 70]
     - gs: [40, 40, 35, 50, 100, 70]
     tags:
     - [nfe]
     - dp: [lc]
-    weight: [45.5]
-    height: [0.9]
-  Tentacruel:
-    introduction: rb
     types:
     - [Poison, Water]
-    egggroups:
-    - [Water 3]
+    weight: [45.5]
+  Tentacruel:
     abilities:
     - [Clear Body, Liquid Ooze]
     - bw: [Clear Body, Liquid Ooze, Rain Dish]
+    egggroups:
+    - [Water 3]
+    height: [1.6]
+    introduction: rb
+    moves:
+    - gs: [Hyper Beam]
+    - bw: [Giga Impact, Hyper Beam, Double-Edge, Icy Wind, Mimic]
+    - dp: [Giga Impact, Hyper Beam, Double-Edge, Icy Wind, Mimic]
+    - rs: [Hyper Beam, Double-Edge, Icy Wind, Mimic]
+    - rb: [Hyper Beam]
     stats:
     - [80, 70, 65, 120, 120, 100]
     - gs: [80, 70, 65, 80, 120, 100]
     tags:
     - [uu]
     - dp: [ou]
-      rs: [uu]
       gs: [bl]
+      rs: [uu]
+    types:
+    - [Poison, Water]
     weight: [55]
-    height: [1.6]
-evolutions:
-- {from: Tentacool, to: Tentacruel}
-learnsets:
-  rb:
-    Tentacool: [Acid, Barrier, Bide, Blizzard, Bubblebeam, Constrict, Cut, Double-Edge,
-      Double Team, Hydro Pump, Ice Beam, Mega Drain, Mimic, Poison Sting, Rage, Reflect,
-      Rest, Screech, Skull Bash, Substitute, Supersonic, Surf, Swords Dance, Take
-        Down, Toxic, Water Gun, Wrap, Confuse Ray]
-    Tentacruel: [Hyper Beam]
-  gs:
-    Tentacool: [Acid, Attract, Aurora Beam, Barrier, Blizzard, Bubblebeam, Constrict,
-      Curse, Cut, Double Team, Endure, Frustration, Giga Drain, Haze, Hidden Power,
-      Hydro Pump, Ice Beam, Icy Wind, Mirror Coat, Poison Sting, Protect, Rain Dance,
-      Rapid Spin, Rest, Return, Safeguard, Screech, Sleep Talk, Sludge Bomb, Snore,
-      Supersonic, Surf, Swagger, Toxic, Whirlpool, Wrap, Confuse Ray]
-    Tentacruel: [Hyper Beam]
-  rs:
-    Tentacool: [Acid, Attract, Aurora Beam, Barrier, Blizzard, Bubblebeam, Confuse
-        Ray, Constrict, Cut, Dive, Double-Edge, Double Team, Endure, Facade, Frustration,
-      Giga Drain, Hail, Haze, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Mimic,
-      Mirror Coat, Poison Sting, Protect, Rain Dance, Rapid Spin, Rest, Return, Safeguard,
-      Screech, Secret Power, Sleep Talk, Sludge Bomb, Snore, Substitute, Supersonic,
-      Surf, Swagger, Swords Dance, Thief, Toxic, Water Pulse, Waterfall, Wrap, Double-Edge,
-      Icy Wind, Mimic]
-    Tentacruel: [Hyper Beam, Double-Edge, Icy Wind, Mimic]
-  dp:
-    Tentacool: [Acid, Acupressure, Attract, Aurora Beam, Barrier, Blizzard, Brine,
-      Bubblebeam, Captivate, Confuse Ray, Constrict, Cut, Dive, Double Team, Endure,
-      Facade, Frustration, Giga Drain, Hail, Haze, Hidden Power, Hydro Pump, Ice Beam,
-      Icy Wind, Knock Off, Magic Coat, Mirror Coat, Muddy Water, Natural Gift, Payback,
-      Poison Jab, Poison Sting, Protect, Rain Dance, Rapid Spin, Rest, Return, Safeguard,
-      Screech, Secret Power, Sleep Talk, Sludge Bomb, Snore, Substitute, Supersonic,
-      Surf, Swagger, Swords Dance, Thief, Toxic, Toxic Spikes, Water Pulse, Waterfall,
-      Whirlpool, Wrap, Wring Out, Double-Edge, Icy Wind, Mimic]
-    Tentacruel: [Giga Impact, Hyper Beam, Double-Edge, Icy Wind, Mimic]
-  bw:
-    Tentacool: [Acid, Acid Spray, Acupressure, Aqua Ring, Attract, Aurora Beam, Barrier,
-      Bind, Blizzard, Bubble, Bubblebeam, Confuse Ray, Constrict, Cut, Dive, Double
-        Team, Facade, Frustration, Giga Drain, Hail, Haze, Hex, Hidden Power, Hydro
-        Pump, Ice Beam, Icy Wind, Knock Off, Magic Coat, Mirror Coat, Muddy Water,
-      Payback, Poison Jab, Poison Sting, Protect, Rain Dance, Rapid Spin, Rest, Return,
-      Round, Safeguard, Scald, Screech, Sleep Talk, Sludge Bomb, Sludge Wave, Snore,
-      Substitute, Supersonic, Surf, Swagger, Swords Dance, Thief, Tickle, Toxic, Toxic
-        Spikes, Venoshock, Water Pulse, Waterfall, Wrap, Wring Out, Double-Edge, Icy
-        Wind, Mimic]
-    Tentacruel: [Giga Impact, Hyper Beam, Double-Edge, Icy Wind, Mimic]

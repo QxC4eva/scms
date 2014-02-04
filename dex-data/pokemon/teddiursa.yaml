@@ -1,84 +1,81 @@
 pokemon:
   Teddiursa:
-    introduction: gs
-    types:
-    - [Normal]
-    egggroups:
-    - [Ground]
     abilities:
     - [Pickup]
     - dp: [Pickup, Quick Feet]
     - bw: [Honey Gather, Pickup, Quick Feet]
+    egggroups:
+    - [Ground]
+    evolutions: [Ursaring]
+    height: [0.6]
+    introduction: gs
+    moves:
+    - gs: [Attract, Counter, Crunch, Curse, Cut, Defense Curl, Dig, Double Team, Dynamicpunch,
+        Earthquake, Endure, Faint Attack, Fire Punch, Focus Energy, Frustration, Fury
+          Cutter, Fury Swipes, Headbutt, Hidden Power, Ice Punch, Leer, Lick, Metal
+          Claw, Mud-Slap, Protect, Rest, Return, Roar, Rock Smash, Rollout, Scratch,
+        Seismic Toss, Slash, Sleep Talk, Snore, Strength, Sunny Day, Swagger, Swift,
+        Take Down, Thief, Thrash, Thunderpunch, Toxic, Zap Cannon]
+    - bw: [Aerial Ace, Attract, Belly Drum, Brick Break, Bulk Up, Bulldoze, Charm,
+        Chip Away, Close Combat, Counter, Covet, Cross Chop, Crunch, Cut, Dig, Double-Edge,
+        Double Team, Earthquake, Facade, Faint Attack, Fake Tears, Fire Punch, Fling,
+        Frustration, Fury Swipes, Gunk Shot, Hidden Power, Hone Claws, Hyper Voice,
+        Ice Punch, Last Resort, Leer, Lick, Metal Claw, Night Slash, Payback, Protect,
+        Rain Dance, Rest, Retaliate, Return, Roar, Rock Slide, Rock Smash, Rock Tomb,
+        Round, Scratch, Seed Bomb, Seismic Toss, Shadow Claw, Slash, Sleep Talk, Snore,
+        Strength, Substitute, Sunny Day, Superpower, Swagger, Sweet Scent, Swords
+          Dance, Take Down, Taunt, Thief, Thrash, Thunderpunch, Torment, Toxic, Work
+          Up, Yawn, Body Slam, Mimic, Refresh]
+    - dp: [Aerial Ace, Attract, Belly Drum, Brick Break, Bulk Up, Captivate, Charm,
+        Close Combat, Counter, Covet, Cross Chop, Crunch, Cut, Dig, Double-Edge, Double
+          Team, Earthquake, Endure, Facade, Faint Attack, Fake Tears, Fire Punch,
+        Fling, Focus Punch, Frustration, Fury Cutter, Fury Swipes, Gunk Shot, Headbutt,
+        Hidden Power, Ice Punch, Last Resort, Leer, Lick, Metal Claw, Mud-Slap, Natural
+          Gift, Night Slash, Payback, Protect, Rain Dance, Rest, Return, Roar, Rock
+          Slide, Rock Smash, Rock Tomb, Rollout, Scratch, Secret Power, Seed Bomb,
+        Seismic Toss, Shadow Claw, Slash, Sleep Talk, Snore, Strength, Substitute,
+        Sunny Day, Superpower, Swagger, Sweet Scent, Swift, Swords Dance, Take Down,
+        Taunt, Thief, Thrash, Thunderpunch, Torment, Toxic, Yawn, Body Slam, Mimic,
+        Refresh]
+    - rs: [Aerial Ace, Attract, Body Slam, Brick Break, Bulk Up, Counter, Crunch,
+        Cut, Defense Curl, Dig, Double-Edge, Double Team, Dynamicpunch, Earthquake,
+        Endure, Facade, Faint Attack, Fake Tears, Fire Punch, Focus Punch, Frustration,
+        Fury Cutter, Fury Swipes, Hidden Power, Ice Punch, Leer, Lick, Mega Kick,
+        Mega Punch, Metal Claw, Metronome, Mimic, Mud-Slap, Protect, Rain Dance, Rest,
+        Return, Roar, Rock Smash, Rollout, Scratch, Secret Power, Seismic Toss, Slash,
+        Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger, Swift, Swords
+          Dance, Take Down, Taunt, Thief, Thrash, Thunderpunch, Torment, Toxic, Yawn,
+        Body Slam, Mimic, Refresh]
     stats:
     - [60, 80, 50, 50, 50, 40]
     tags:
     - [nfe]
     - dp: [lc]
-    weight: [8.8]
-    height: [0.6]
-  Ursaring:
-    introduction: gs
     types:
     - [Normal]
-    egggroups:
-    - [Ground]
+    weight: [8.8]
+  Ursaring:
     abilities:
     - [Guts]
     - dp: [Guts, Quick Feet]
     - bw: [Guts, Quick Feet, Unnerve]
+    egggroups:
+    - [Ground]
+    height: [1.8]
+    introduction: gs
+    moves:
+    - gs: [Hyper Beam]
+    - bw: [Focus Blast, Giga Impact, Hammer Arm, Hyper Beam, Low Kick, Scary Face,
+        Smack Down, Stone Edge, Uproar, Body Slam, Mimic]
+    - dp: [Avalanche, Focus Blast, Giga Impact, Hammer Arm, Hyper Beam, Low Kick,
+        Rock Climb, Scary Face, Stone Edge, Uproar, Body Slam, Mimic]
+    - rs: [Hyper Beam, Rock Slide, Rock Tomb, Body Slam, Mimic]
     stats:
     - [90, 130, 75, 75, 75, 55]
     tags:
     - [bl]
     - bw: [nu]
     - dp: [uu]
+    types:
+    - [Normal]
     weight: [125.8]
-    height: [1.8]
-evolutions:
-- {from: Teddiursa, to: Ursaring}
-learnsets:
-  gs:
-    Teddiursa: [Attract, Counter, Crunch, Curse, Cut, Defense Curl, Dig, Double Team,
-      Dynamicpunch, Earthquake, Endure, Faint Attack, Fire Punch, Focus Energy, Frustration,
-      Fury Cutter, Fury Swipes, Headbutt, Hidden Power, Ice Punch, Leer, Lick, Metal
-        Claw, Mud-Slap, Protect, Rest, Return, Roar, Rock Smash, Rollout, Scratch,
-      Seismic Toss, Slash, Sleep Talk, Snore, Strength, Sunny Day, Swagger, Swift,
-      Take Down, Thief, Thrash, Thunderpunch, Toxic, Zap Cannon]
-    Ursaring: [Hyper Beam]
-  rs:
-    Teddiursa: [Aerial Ace, Attract, Body Slam, Brick Break, Bulk Up, Counter, Crunch,
-      Cut, Defense Curl, Dig, Double-Edge, Double Team, Dynamicpunch, Earthquake,
-      Endure, Facade, Faint Attack, Fake Tears, Fire Punch, Focus Punch, Frustration,
-      Fury Cutter, Fury Swipes, Hidden Power, Ice Punch, Leer, Lick, Mega Kick, Mega
-        Punch, Metal Claw, Metronome, Mimic, Mud-Slap, Protect, Rain Dance, Rest,
-      Return, Roar, Rock Smash, Rollout, Scratch, Secret Power, Seismic Toss, Slash,
-      Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger, Swift, Swords Dance,
-      Take Down, Taunt, Thief, Thrash, Thunderpunch, Torment, Toxic, Yawn, Body Slam,
-      Mimic, Refresh]
-    Ursaring: [Hyper Beam, Rock Slide, Rock Tomb, Body Slam, Mimic]
-  dp:
-    Teddiursa: [Aerial Ace, Attract, Belly Drum, Brick Break, Bulk Up, Captivate,
-      Charm, Close Combat, Counter, Covet, Cross Chop, Crunch, Cut, Dig, Double-Edge,
-      Double Team, Earthquake, Endure, Facade, Faint Attack, Fake Tears, Fire Punch,
-      Fling, Focus Punch, Frustration, Fury Cutter, Fury Swipes, Gunk Shot, Headbutt,
-      Hidden Power, Ice Punch, Last Resort, Leer, Lick, Metal Claw, Mud-Slap, Natural
-        Gift, Night Slash, Payback, Protect, Rain Dance, Rest, Return, Roar, Rock
-        Slide, Rock Smash, Rock Tomb, Rollout, Scratch, Secret Power, Seed Bomb, Seismic
-        Toss, Shadow Claw, Slash, Sleep Talk, Snore, Strength, Substitute, Sunny Day,
-      Superpower, Swagger, Sweet Scent, Swift, Swords Dance, Take Down, Taunt, Thief,
-      Thrash, Thunderpunch, Torment, Toxic, Yawn, Body Slam, Mimic, Refresh]
-    Ursaring: [Avalanche, Focus Blast, Giga Impact, Hammer Arm, Hyper Beam, Low Kick,
-      Rock Climb, Scary Face, Stone Edge, Uproar, Body Slam, Mimic]
-  bw:
-    Teddiursa: [Aerial Ace, Attract, Belly Drum, Brick Break, Bulk Up, Bulldoze, Charm,
-      Chip Away, Close Combat, Counter, Covet, Cross Chop, Crunch, Cut, Dig, Double-Edge,
-      Double Team, Earthquake, Facade, Faint Attack, Fake Tears, Fire Punch, Fling,
-      Frustration, Fury Swipes, Gunk Shot, Hidden Power, Hone Claws, Hyper Voice,
-      Ice Punch, Last Resort, Leer, Lick, Metal Claw, Night Slash, Payback, Protect,
-      Rain Dance, Rest, Retaliate, Return, Roar, Rock Slide, Rock Smash, Rock Tomb,
-      Round, Scratch, Seed Bomb, Seismic Toss, Shadow Claw, Slash, Sleep Talk, Snore,
-      Strength, Substitute, Sunny Day, Superpower, Swagger, Sweet Scent, Swords Dance,
-      Take Down, Taunt, Thief, Thrash, Thunderpunch, Torment, Toxic, Work Up, Yawn,
-      Body Slam, Mimic, Refresh]
-    Ursaring: [Focus Blast, Giga Impact, Hammer Arm, Hyper Beam, Low Kick, Scary Face,
-      Smack Down, Stone Edge, Uproar, Body Slam, Mimic]

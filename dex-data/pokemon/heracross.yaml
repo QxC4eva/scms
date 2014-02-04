@@ -1,55 +1,50 @@
 pokemon:
   Heracross:
-    introduction: gs
-    types:
-    - [Bug, Fighting]
-    egggroups:
-    - [Bug]
     abilities:
     - [Guts, Swarm]
     - bw: [Guts, Moxie, Swarm]
+    egggroups:
+    - [Bug]
+    height: [1.5]
+    introduction: gs
+    moves:
+    - gs: [Attract, Bide, Counter, Curse, Cut, Detect, Double Team, Earthquake, Endure,
+        Flail, Frustration, Fury Attack, Fury Cutter, Harden, Headbutt, Hidden Power,
+        Horn Attack, Leer, Megahorn, Protect, Rest, Return, Reversal, Rock Smash,
+        Sleep Talk, Snore, Strength, Sunny Day, Swagger, Tackle, Take Down, Thief,
+        Toxic]
+    - bw: [Aerial Ace, Attract, Bide, Brick Break, Bug Bite, Bulk Up, Bulldoze, Chip
+          Away, Close Combat, Counter, Cut, Dig, Double-Edge, Double Team, Earthquake,
+        Endure, Facade, False Swipe, Feint, Flail, Fling, Focus Blast, Focus Punch,
+        Frustration, Fury Attack, Giga Impact, Harden, Helping Hand, Hidden Power,
+        Horn Attack, Hyper Beam, Iron Defense, Knock Off, Leer, Low Kick, Megahorn,
+        Night Slash, Protect, Pursuit, Rain Dance, Rest, Retaliate, Return, Revenge,
+        Reversal, Rock Slide, Rock Smash, Rock Tomb, Round, Seismic Toss, Shadow Claw,
+        Sleep Talk, Smack Down, Snore, Stone Edge, Strength, Struggle Bug, Substitute,
+        Sunny Day, Swagger, Swords Dance, Tackle, Take Down, Thief, Toxic, Venoshock,
+        Work Up, Body Slam, Mimic]
+    - dp: [Aerial Ace, Attract, Bide, Brick Break, Bug Bite, Bulk Up, Captivate, Close
+          Combat, Counter, Cut, Dig, Double-Edge, Double Team, Earthquake, Endure,
+        Facade, False Swipe, Feint, Flail, Fling, Focus Blast, Focus Punch, Frustration,
+        Fury Attack, Fury Cutter, Giga Impact, Harden, Headbutt, Helping Hand, Hidden
+          Power, Horn Attack, Hyper Beam, Iron Defense, Knock Off, Leer, Low Kick,
+        Megahorn, Natural Gift, Night Slash, Protect, Pursuit, Rain Dance, Rest, Return,
+        Revenge, Reversal, Rock Slide, Rock Smash, Rock Tomb, Secret Power, Shadow
+          Claw, Sleep Talk, Snore, Stone Edge, Strength, Substitute, Sunny Day, Swagger,
+        Swords Dance, Tackle, Take Down, Thief, Toxic, Vacuum Wave, Body Slam, Mimic]
+    - rs: [Attract, Bide, Body Slam, Brick Break, Bulk Up, Counter, Cut, Dig, Double-Edge,
+        Double Team, Earthquake, Endure, Facade, False Swipe, Flail, Focus Punch,
+        Frustration, Fury Attack, Fury Cutter, Harden, Hidden Power, Horn Attack,
+        Hyper Beam, Leer, Megahorn, Mimic, Protect, Rain Dance, Rest, Return, Reversal,
+        Rock Slide, Rock Smash, Rock Tomb, Secret Power, Seismic Toss, Sleep Talk,
+        Snore, Strength, Substitute, Sunny Day, Swagger, Swords Dance, Tackle, Take
+          Down, Thief, Toxic, Body Slam, Mimic]
     stats:
     - [80, 125, 75, 40, 95, 85]
     tags:
     - [ou]
     - bw: [uu]
     - dp: [bl]
+    types:
+    - [Bug, Fighting]
     weight: [54]
-    height: [1.5]
-evolutions: []
-learnsets:
-  gs:
-    Heracross: [Attract, Bide, Counter, Curse, Cut, Detect, Double Team, Earthquake,
-      Endure, Flail, Frustration, Fury Attack, Fury Cutter, Harden, Headbutt, Hidden
-        Power, Horn Attack, Leer, Megahorn, Protect, Rest, Return, Reversal, Rock
-        Smash, Sleep Talk, Snore, Strength, Sunny Day, Swagger, Tackle, Take Down,
-      Thief, Toxic]
-  rs:
-    Heracross: [Attract, Bide, Body Slam, Brick Break, Bulk Up, Counter, Cut, Dig,
-      Double-Edge, Double Team, Earthquake, Endure, Facade, False Swipe, Flail, Focus
-        Punch, Frustration, Fury Attack, Fury Cutter, Harden, Hidden Power, Horn Attack,
-      Hyper Beam, Leer, Megahorn, Mimic, Protect, Rain Dance, Rest, Return, Reversal,
-      Rock Slide, Rock Smash, Rock Tomb, Secret Power, Seismic Toss, Sleep Talk, Snore,
-      Strength, Substitute, Sunny Day, Swagger, Swords Dance, Tackle, Take Down, Thief,
-      Toxic, Body Slam, Mimic]
-  dp:
-    Heracross: [Aerial Ace, Attract, Bide, Brick Break, Bug Bite, Bulk Up, Captivate,
-      Close Combat, Counter, Cut, Dig, Double-Edge, Double Team, Earthquake, Endure,
-      Facade, False Swipe, Feint, Flail, Fling, Focus Blast, Focus Punch, Frustration,
-      Fury Attack, Fury Cutter, Giga Impact, Harden, Headbutt, Helping Hand, Hidden
-        Power, Horn Attack, Hyper Beam, Iron Defense, Knock Off, Leer, Low Kick, Megahorn,
-      Natural Gift, Night Slash, Protect, Pursuit, Rain Dance, Rest, Return, Revenge,
-      Reversal, Rock Slide, Rock Smash, Rock Tomb, Secret Power, Shadow Claw, Sleep
-        Talk, Snore, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Swords
-        Dance, Tackle, Take Down, Thief, Toxic, Vacuum Wave, Body Slam, Mimic]
-  bw:
-    Heracross: [Aerial Ace, Attract, Bide, Brick Break, Bug Bite, Bulk Up, Bulldoze,
-      Chip Away, Close Combat, Counter, Cut, Dig, Double-Edge, Double Team, Earthquake,
-      Endure, Facade, False Swipe, Feint, Flail, Fling, Focus Blast, Focus Punch,
-      Frustration, Fury Attack, Giga Impact, Harden, Helping Hand, Hidden Power, Horn
-        Attack, Hyper Beam, Iron Defense, Knock Off, Leer, Low Kick, Megahorn, Night
-        Slash, Protect, Pursuit, Rain Dance, Rest, Retaliate, Return, Revenge, Reversal,
-      Rock Slide, Rock Smash, Rock Tomb, Round, Seismic Toss, Shadow Claw, Sleep Talk,
-      Smack Down, Snore, Stone Edge, Strength, Struggle Bug, Substitute, Sunny Day,
-      Swagger, Swords Dance, Tackle, Take Down, Thief, Toxic, Venoshock, Work Up,
-      Body Slam, Mimic]

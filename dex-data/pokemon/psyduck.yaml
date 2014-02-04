@@ -1,96 +1,90 @@
 pokemon:
-  Psyduck:
-    introduction: rb
-    types:
-    - [Water]
-    egggroups:
-    - [Ground, Water 1]
-    abilities:
-    - [Cloud Nine, Damp]
-    - bw: [Cloud Nine, Damp, Swift Swim]
-    stats:
-    - [50, 52, 48, 50, 50, 55]
-    - gs: [50, 52, 48, 65, 50, 55]
-    tags:
-    - [nfe]
-    - dp: [lc]
-    weight: [19.6]
-    height: [0.8]
   Golduck:
-    introduction: rb
-    types:
-    - [Water]
-    egggroups:
-    - [Ground, Water 1]
     abilities:
     - [Cloud Nine, Damp]
     - bw: [Cloud Nine, Damp, Swift Swim]
+    egggroups:
+    - [Ground, Water 1]
+    height: [1.7]
+    introduction: rb
+    moves:
+    - gs: [Fury Cutter, Hyper Beam]
+    - bw: [Aqua Jet, Focus Blast, Giga Impact, Hyper Beam, Low Kick, Low Sweep, Charm,
+        Body Slam, Brick Break, Charm, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+    - dp: [Aqua Jet, Focus Blast, Fury Cutter, Giga Impact, Hyper Beam, Low Kick,
+        Rock Climb, Charm, Body Slam, Brick Break, Charm, Double-Edge, Icy Wind, Mimic,
+        Seismic Toss]
+    - rs: [Fury Cutter, Hyper Beam, Charm, Body Slam, Brick Break, Charm, Double-Edge,
+        Icy Wind, Mimic, Seismic Toss]
+    - rb: [Hyper Beam]
     stats:
     - [80, 82, 78, 80, 80, 85]
     - gs: [80, 82, 78, 95, 80, 85]
     tags:
     - [uu]
     - dp: [nu]
+    types:
+    - [Water]
     weight: [76.6]
-    height: [1.7]
-evolutions:
-- {from: Psyduck, to: Golduck}
-learnsets:
-  rb:
-    Psyduck: [Bide, Blizzard, Body Slam, Bubblebeam, Confusion, Counter, Dig, Disable,
-      Double-Edge, Double Team, Fury Swipes, Hydro Pump, Ice Beam, Mega Kick, Mega
-        Punch, Mimic, Pay Day, Rage, Rest, Scratch, Seismic Toss, Skull Bash, Strength,
-      Submission, Substitute, Surf, Swift, Tail Whip, Take Down, Toxic, Water Gun,
-      Petal Dance, Tri Attack]
-    Golduck: [Hyper Beam]
-  gs:
-    Psyduck: [Attract, Blizzard, Confusion, Cross Chop, Curse, Dig, Disable, Double
-        Team, Dynamicpunch, Endure, Flash, Foresight, Frustration, Fury Swipes, Future
-        Sight, Headbutt, Hidden Power, Hydro Pump, Hypnosis, Ice Beam, Ice Punch,
-      Icy Wind, Iron Tail, Light Screen, Mud-Slap, Protect, Psybeam, Psych Up, Psychic,
-      Rain Dance, Rest, Return, Rock Smash, Scratch, Screech, Sleep Talk, Snore, Strength,
-      Surf, Swagger, Swift, Tail Whip, Toxic, Waterfall, Whirlpool, Petal Dance, Tri
-        Attack]
-    Golduck: [Fury Cutter, Hyper Beam]
-  rs:
-    Psyduck: [Aerial Ace, Attract, Blizzard, Body Slam, Brick Break, Calm Mind, Confusion,
-      Counter, Cross Chop, Dig, Disable, Dive, Double-Edge, Double Team, Dynamicpunch,
-      Endure, Facade, Flash, Focus Punch, Foresight, Frustration, Fury Swipes, Future
-        Sight, Hail, Hidden Power, Hydro Pump, Hypnosis, Ice Beam, Ice Punch, Icy
-        Wind, Iron Tail, Light Screen, Mega Kick, Mega Punch, Mimic, Mud-Slap, Protect,
-      Psybeam, Psych Up, Psychic, Rain Dance, Refresh, Rest, Return, Rock Smash, Scratch,
-      Screech, Secret Power, Seismic Toss, Sleep Talk, Snore, Strength, Substitute,
-      Surf, Swagger, Swift, Tail Whip, Toxic, Water Pulse, Water Sport, Waterfall,
-      Mud Sport, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
-    Golduck: [Fury Cutter, Hyper Beam, Charm, Body Slam, Brick Break, Charm, Double-Edge,
-      Icy Wind, Mimic, Seismic Toss]
-  dp:
-    Psyduck: [Aerial Ace, Amnesia, Aqua Tail, Attract, Blizzard, Brick Break, Brine,
-      Calm Mind, Captivate, Confuse Ray, Confusion, Cross Chop, Dig, Disable, Dive,
-      Double Team, Encore, Endure, Facade, Flash, Fling, Focus Punch, Foresight, Frustration,
-      Fury Swipes, Future Sight, Hail, Headbutt, Hidden Power, Hydro Pump, Hypnosis,
-      Ice Beam, Ice Punch, Icy Wind, Iron Tail, Light Screen, Mud Bomb, Mud-Slap,
-      Natural Gift, Protect, Psybeam, Psych Up, Psychic, Rain Dance, Refresh, Rest,
-      Return, Rock Smash, Role Play, Scratch, Screech, Secret Power, Shadow Claw,
-      Signal Beam, Sleep Talk, Snore, Strength, Substitute, Surf, Swagger, Swift,
-      Tail Whip, Toxic, Water Gun, Water Pulse, Water Sport, Waterfall, Whirlpool,
-      Worry Seed, Yawn, Zen Headbutt, Mud Sport, Body Slam, Double-Edge, Icy Wind,
-      Mimic, Seismic Toss]
-    Golduck: [Aqua Jet, Focus Blast, Fury Cutter, Giga Impact, Hyper Beam, Low Kick,
-      Rock Climb, Charm, Body Slam, Brick Break, Charm, Double-Edge, Icy Wind, Mimic,
-      Seismic Toss]
-  bw:
-    Psyduck: [Aerial Ace, Amnesia, Aqua Tail, Attract, Blizzard, Brick Break, Calm
-        Mind, Confuse Ray, Confusion, Cross Chop, Dig, Disable, Dive, Double Team,
-      Encore, Facade, Flash, Fling, Foresight, Frustration, Fury Swipes, Future Sight,
-      Hail, Hidden Power, Hone Claws, Hydro Pump, Hypnosis, Ice Beam, Ice Punch, Icy
-        Wind, Iron Tail, Light Screen, Mud Bomb, Protect, Psybeam, Psych Up, Psychic,
-      Psyshock, Rain Dance, Refresh, Rest, Return, Rock Smash, Role Play, Round, Scald,
-      Scratch, Screech, Secret Power, Shadow Claw, Signal Beam, Sleep Talk, Snore,
-      Soak, Strength, Substitute, Surf, Swagger, Synchronoise, Tail Whip, Telekinesis,
-      Toxic, Water Gun, Water Pulse, Water Sport, Waterfall, Wonder Room, Worry Seed,
-      Yawn, Zen Headbutt, Mud Sport, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic
-        Toss]
-    Golduck: [Aqua Jet, Focus Blast, Giga Impact, Hyper Beam, Low Kick, Low Sweep,
-      Charm, Body Slam, Brick Break, Charm, Double-Edge, Icy Wind, Mimic, Seismic
-        Toss]
+  Psyduck:
+    abilities:
+    - [Cloud Nine, Damp]
+    - bw: [Cloud Nine, Damp, Swift Swim]
+    egggroups:
+    - [Ground, Water 1]
+    evolutions: [Golduck]
+    height: [0.8]
+    introduction: rb
+    moves:
+    - gs: [Attract, Blizzard, Confusion, Cross Chop, Curse, Dig, Disable, Double Team,
+        Dynamicpunch, Endure, Flash, Foresight, Frustration, Fury Swipes, Future Sight,
+        Headbutt, Hidden Power, Hydro Pump, Hypnosis, Ice Beam, Ice Punch, Icy Wind,
+        Iron Tail, Light Screen, Mud-Slap, Protect, Psybeam, Psych Up, Psychic, Rain
+          Dance, Rest, Return, Rock Smash, Scratch, Screech, Sleep Talk, Snore, Strength,
+        Surf, Swagger, Swift, Tail Whip, Toxic, Waterfall, Whirlpool, Petal Dance,
+        Tri Attack]
+    - bw: [Aerial Ace, Amnesia, Aqua Tail, Attract, Blizzard, Brick Break, Calm Mind,
+        Confuse Ray, Confusion, Cross Chop, Dig, Disable, Dive, Double Team, Encore,
+        Facade, Flash, Fling, Foresight, Frustration, Fury Swipes, Future Sight, Hail,
+        Hidden Power, Hone Claws, Hydro Pump, Hypnosis, Ice Beam, Ice Punch, Icy Wind,
+        Iron Tail, Light Screen, Mud Bomb, Protect, Psybeam, Psych Up, Psychic, Psyshock,
+        Rain Dance, Refresh, Rest, Return, Rock Smash, Role Play, Round, Scald, Scratch,
+        Screech, Secret Power, Shadow Claw, Signal Beam, Sleep Talk, Snore, Soak,
+        Strength, Substitute, Surf, Swagger, Synchronoise, Tail Whip, Telekinesis,
+        Toxic, Water Gun, Water Pulse, Water Sport, Waterfall, Wonder Room, Worry
+          Seed, Yawn, Zen Headbutt, Mud Sport, Body Slam, Double-Edge, Icy Wind, Mimic,
+        Seismic Toss]
+    - dp: [Aerial Ace, Amnesia, Aqua Tail, Attract, Blizzard, Brick Break, Brine,
+        Calm Mind, Captivate, Confuse Ray, Confusion, Cross Chop, Dig, Disable, Dive,
+        Double Team, Encore, Endure, Facade, Flash, Fling, Focus Punch, Foresight,
+        Frustration, Fury Swipes, Future Sight, Hail, Headbutt, Hidden Power, Hydro
+          Pump, Hypnosis, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Light Screen,
+        Mud Bomb, Mud-Slap, Natural Gift, Protect, Psybeam, Psych Up, Psychic, Rain
+          Dance, Refresh, Rest, Return, Rock Smash, Role Play, Scratch, Screech, Secret
+          Power, Shadow Claw, Signal Beam, Sleep Talk, Snore, Strength, Substitute,
+        Surf, Swagger, Swift, Tail Whip, Toxic, Water Gun, Water Pulse, Water Sport,
+        Waterfall, Whirlpool, Worry Seed, Yawn, Zen Headbutt, Mud Sport, Body Slam,
+        Double-Edge, Icy Wind, Mimic, Seismic Toss]
+    - rs: [Aerial Ace, Attract, Blizzard, Body Slam, Brick Break, Calm Mind, Confusion,
+        Counter, Cross Chop, Dig, Disable, Dive, Double-Edge, Double Team, Dynamicpunch,
+        Endure, Facade, Flash, Focus Punch, Foresight, Frustration, Fury Swipes, Future
+          Sight, Hail, Hidden Power, Hydro Pump, Hypnosis, Ice Beam, Ice Punch, Icy
+          Wind, Iron Tail, Light Screen, Mega Kick, Mega Punch, Mimic, Mud-Slap, Protect,
+        Psybeam, Psych Up, Psychic, Rain Dance, Refresh, Rest, Return, Rock Smash,
+        Scratch, Screech, Secret Power, Seismic Toss, Sleep Talk, Snore, Strength,
+        Substitute, Surf, Swagger, Swift, Tail Whip, Toxic, Water Pulse, Water Sport,
+        Waterfall, Mud Sport, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+    - rb: [Bide, Blizzard, Body Slam, Bubblebeam, Confusion, Counter, Dig, Disable,
+        Double-Edge, Double Team, Fury Swipes, Hydro Pump, Ice Beam, Mega Kick, Mega
+          Punch, Mimic, Pay Day, Rage, Rest, Scratch, Seismic Toss, Skull Bash, Strength,
+        Submission, Substitute, Surf, Swift, Tail Whip, Take Down, Toxic, Water Gun,
+        Petal Dance, Tri Attack]
+    stats:
+    - [50, 52, 48, 50, 50, 55]
+    - gs: [50, 52, 48, 65, 50, 55]
+    tags:
+    - [nfe]
+    - dp: [lc]
+    types:
+    - [Water]
+    weight: [19.6]

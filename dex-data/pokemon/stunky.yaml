@@ -1,52 +1,50 @@
 pokemon:
-  Stunky:
-    introduction: dp
-    types:
-    - [Dark, Poison]
-    egggroups:
-    - [Ground]
-    abilities:
-    - [Aftermath, Keen Eye, Stench]
-    stats:
-    - [63, 63, 47, 41, 41, 74]
-    tags:
-    - [lc]
-    weight: [19.2]
-    height: [0.4]
   Skuntank:
-    introduction: dp
-    types:
-    - [Dark, Poison]
-    egggroups:
-    - [Ground]
     abilities:
     - [Aftermath, Keen Eye, Stench]
+    egggroups:
+    - [Ground]
+    height: [1]
+    introduction: dp
+    moves:
+    - bw: [Giga Impact, Hyper Beam, Poison Jab, Strength]
+    - dp: [Giga Impact, Hyper Beam, Poison Jab, Strength]
     stats:
     - [103, 93, 67, 71, 61, 84]
     tags:
     - [nu]
+    types:
+    - [Dark, Poison]
     weight: [38]
-    height: [1]
-evolutions:
-- {from: Stunky, to: Skuntank}
-learnsets:
-  dp:
-    Stunky: [Astonish, Attract, Captivate, Crunch, Cut, Dark Pulse, Defog, Dig, Double-Edge,
-      Double Team, Endure, Explosion, Facade, Feint, Fire Blast, Flamethrower, Focus
-        Energy, Frustration, Fury Cutter, Fury Swipes, Haze, Headbutt, Hidden Power,
-      Iron Tail, Leer, Memento, Mud-Slap, Natural Gift, Night Slash, Payback, Poison
-        Gas, Protect, Punishment, Pursuit, Rain Dance, Rest, Return, Roar, Rock Smash,
-      Scary Face, Scratch, Screech, Secret Power, Shadow Ball, Shadow Claw, Slash,
-      Sleep Talk, Sludge Bomb, Smog, Smokescreen, Snatch, Snore, Substitute, Sucker
-        Punch, Sunny Day, Swagger, Swift, Taunt, Thief, Torment, Toxic]
-    Skuntank: [Giga Impact, Hyper Beam, Poison Jab, Strength]
-  bw:
-    Stunky: [Acid Spray, Astonish, Attract, Crunch, Cut, Dark Pulse, Dig, Double-Edge,
-      Double Team, Explosion, Facade, Feint, Fire Blast, Flame Burst, Flamethrower,
-      Focus Energy, Foul Play, Frustration, Fury Swipes, Haze, Hidden Power, Hone
-        Claws, Incinerate, Iron Tail, Leer, Memento, Night Slash, Payback, Poison
-        Gas, Protect, Punishment, Pursuit, Rain Dance, Rest, Return, Roar, Rock Smash,
-      Round, Scary Face, Scratch, Screech, Shadow Ball, Shadow Claw, Slash, Sleep
-        Talk, Sludge Bomb, Smog, Smokescreen, Snarl, Snatch, Snore, Substitute, Sunny
-        Day, Swagger, Taunt, Thief, Torment, Toxic, Venoshock]
-    Skuntank: [Giga Impact, Hyper Beam, Poison Jab, Strength]
+  Stunky:
+    abilities:
+    - [Aftermath, Keen Eye, Stench]
+    egggroups:
+    - [Ground]
+    evolutions: [Skuntank]
+    height: [0.4]
+    introduction: dp
+    moves:
+    - bw: [Acid Spray, Astonish, Attract, Crunch, Cut, Dark Pulse, Dig, Double-Edge,
+        Double Team, Explosion, Facade, Feint, Fire Blast, Flame Burst, Flamethrower,
+        Focus Energy, Foul Play, Frustration, Fury Swipes, Haze, Hidden Power, Hone
+          Claws, Incinerate, Iron Tail, Leer, Memento, Night Slash, Payback, Poison
+          Gas, Protect, Punishment, Pursuit, Rain Dance, Rest, Return, Roar, Rock
+          Smash, Round, Scary Face, Scratch, Screech, Shadow Ball, Shadow Claw, Slash,
+        Sleep Talk, Sludge Bomb, Smog, Smokescreen, Snarl, Snatch, Snore, Substitute,
+        Sunny Day, Swagger, Taunt, Thief, Torment, Toxic, Venoshock]
+    - dp: [Astonish, Attract, Captivate, Crunch, Cut, Dark Pulse, Defog, Dig, Double-Edge,
+        Double Team, Endure, Explosion, Facade, Feint, Fire Blast, Flamethrower, Focus
+          Energy, Frustration, Fury Cutter, Fury Swipes, Haze, Headbutt, Hidden Power,
+        Iron Tail, Leer, Memento, Mud-Slap, Natural Gift, Night Slash, Payback, Poison
+          Gas, Protect, Punishment, Pursuit, Rain Dance, Rest, Return, Roar, Rock
+          Smash, Scary Face, Scratch, Screech, Secret Power, Shadow Ball, Shadow Claw,
+        Slash, Sleep Talk, Sludge Bomb, Smog, Smokescreen, Snatch, Snore, Substitute,
+        Sucker Punch, Sunny Day, Swagger, Swift, Taunt, Thief, Torment, Toxic]
+    stats:
+    - [63, 63, 47, 41, 41, 74]
+    tags:
+    - [lc]
+    types:
+    - [Dark, Poison]
+    weight: [19.2]

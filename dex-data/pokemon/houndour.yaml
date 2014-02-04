@@ -1,75 +1,74 @@
 pokemon:
-  Houndour:
-    introduction: gs
-    types:
-    - [Dark, Fire]
-    egggroups:
-    - [Ground]
-    abilities:
-    - [Early Bird, Flash Fire]
-    - bw: [Early Bird, Flash Fire, Unnerve]
-    stats:
-    - [45, 60, 30, 80, 50, 65]
-    tags:
-    - [nfe]
-    - dp: [lc]
-    weight: [10.8]
-    height: [0.6]
   Houndoom:
-    introduction: gs
-    types:
-    - [Dark, Fire]
-    egggroups:
-    - [Ground]
     abilities:
     - [Early Bird, Flash Fire]
     - bw: [Early Bird, Flash Fire, Unnerve]
+    egggroups:
+    - [Ground]
+    height: [1.4]
+    introduction: gs
+    moves:
+    - gs: [Hyper Beam, Strength]
+    - bw: [Giga Impact, Hyper Beam, Strength, Body Slam, Double-Edge, Mimic]
+    - dp: [Giga Impact, Hyper Beam, Strength, Body Slam, Double-Edge, Mimic]
+    - rs: [Hyper Beam, Strength, Body Slam, Double-Edge, Mimic]
     stats:
     - [75, 90, 50, 110, 80, 95]
     tags:
     - [bl]
     - dp: [uu]
+    types:
+    - [Dark, Fire]
     weight: [35]
-    height: [1.4]
-evolutions:
-- {from: Houndour, to: Houndoom}
-learnsets:
-  gs:
-    Houndour: [Attract, Beat Up, Bite, Counter, Crunch, Curse, Detect, Double Team,
-      Dream Eater, Ember, Endure, Faint Attack, Fire Blast, Fire Spin, Flamethrower,
-      Frustration, Headbutt, Hidden Power, Iron Tail, Leer, Mud-Slap, Nightmare, Protect,
-      Pursuit, Rage, Rest, Return, Reversal, Roar, Rock Smash, Shadow Ball, Sleep
-        Talk, Sludge Bomb, Smog, Snore, Solarbeam, Spite, Sunny Day, Swagger, Swift,
-      Thief, Toxic]
-    Houndoom: [Hyper Beam, Strength]
-  rs:
-    Houndour: [Attract, Beat Up, Bite, Body Slam, Counter, Crunch, Double-Edge, Double
-        Team, Dream Eater, Ember, Endure, Facade, Faint Attack, Fire Blast, Fire Spin,
-      Flamethrower, Frustration, Hidden Power, Howl, Iron Tail, Leer, Mimic, Mud-Slap,
-      Nightmare, Odor Sleuth, Overheat, Protect, Pursuit, Rage, Rest, Return, Reversal,
-      Roar, Rock Smash, Secret Power, Shadow Ball, Sleep Talk, Sludge Bomb, Smog,
-      Snatch, Snore, Solarbeam, Spite, Substitute, Sunny Day, Swagger, Swift, Taunt,
-      Thief, Torment, Toxic, Will-O-Wisp, Body Slam, Charm, Double-Edge, Mimic, Nightmare]
-    Houndoom: [Hyper Beam, Strength, Body Slam, Double-Edge, Mimic]
-  dp:
-    Houndour: [Attract, Beat Up, Bite, Captivate, Counter, Crunch, Dark Pulse, Double
-        Team, Dream Eater, Embargo, Ember, Endure, Facade, Faint Attack, Feint, Fire
-        Blast, Fire Fang, Fire Spin, Flamethrower, Frustration, Headbutt, Heat Wave,
-      Hidden Power, Howl, Iron Tail, Leer, Mud-Slap, Nasty Plot, Natural Gift, Odor
-        Sleuth, Overheat, Payback, Protect, Punishment, Pursuit, Rage, Rest, Return,
-      Reversal, Roar, Rock Smash, Role Play, Secret Power, Shadow Ball, Sleep Talk,
-      Sludge Bomb, Smog, Snatch, Snore, Solarbeam, Spite, Substitute, Sucker Punch,
-      Sunny Day, Super Fang, Swagger, Swift, Taunt, Thief, Thunder Fang, Torment,
-      Toxic, Uproar, Will-O-Wisp, Body Slam, Charm, Double-Edge, Mimic, Nightmare]
-    Houndoom: [Giga Impact, Hyper Beam, Strength, Body Slam, Double-Edge, Mimic]
-  bw:
-    Houndour: [Attract, Beat Up, Bite, Counter, Crunch, Dark Pulse, Double Team, Dream
-        Eater, Embargo, Ember, Facade, Faint Attack, Feint, Fire Blast, Fire Fang,
-      Fire Spin, Flame Charge, Flamethrower, Foul Play, Frustration, Heat Wave, Hidden
-        Power, Howl, Hyper Voice, Incinerate, Inferno, Iron Tail, Leer, Nasty Plot,
-      Odor Sleuth, Overheat, Payback, Protect, Punishment, Pursuit, Rage, Rest, Retaliate,
-      Return, Reversal, Roar, Rock Smash, Role Play, Round, Shadow Ball, Sleep Talk,
-      Sludge Bomb, Smog, Snarl, Snatch, Snore, Solarbeam, Spite, Substitute, Sucker
-        Punch, Sunny Day, Super Fang, Swagger, Taunt, Thief, Thunder Fang, Torment,
-      Toxic, Uproar, Will-O-Wisp, Body Slam, Charm, Double-Edge, Mimic, Nightmare]
-    Houndoom: [Giga Impact, Hyper Beam, Strength, Body Slam, Double-Edge, Mimic]
+  Houndour:
+    abilities:
+    - [Early Bird, Flash Fire]
+    - bw: [Early Bird, Flash Fire, Unnerve]
+    egggroups:
+    - [Ground]
+    evolutions: [Houndoom]
+    height: [0.6]
+    introduction: gs
+    moves:
+    - gs: [Attract, Beat Up, Bite, Counter, Crunch, Curse, Detect, Double Team, Dream
+          Eater, Ember, Endure, Faint Attack, Fire Blast, Fire Spin, Flamethrower,
+        Frustration, Headbutt, Hidden Power, Iron Tail, Leer, Mud-Slap, Nightmare,
+        Protect, Pursuit, Rage, Rest, Return, Reversal, Roar, Rock Smash, Shadow Ball,
+        Sleep Talk, Sludge Bomb, Smog, Snore, Solarbeam, Spite, Sunny Day, Swagger,
+        Swift, Thief, Toxic]
+    - bw: [Attract, Beat Up, Bite, Counter, Crunch, Dark Pulse, Double Team, Dream
+          Eater, Embargo, Ember, Facade, Faint Attack, Feint, Fire Blast, Fire Fang,
+        Fire Spin, Flame Charge, Flamethrower, Foul Play, Frustration, Heat Wave,
+        Hidden Power, Howl, Hyper Voice, Incinerate, Inferno, Iron Tail, Leer, Nasty
+          Plot, Odor Sleuth, Overheat, Payback, Protect, Punishment, Pursuit, Rage,
+        Rest, Retaliate, Return, Reversal, Roar, Rock Smash, Role Play, Round, Shadow
+          Ball, Sleep Talk, Sludge Bomb, Smog, Snarl, Snatch, Snore, Solarbeam, Spite,
+        Substitute, Sucker Punch, Sunny Day, Super Fang, Swagger, Taunt, Thief, Thunder
+          Fang, Torment, Toxic, Uproar, Will-O-Wisp, Body Slam, Charm, Double-Edge,
+        Mimic, Nightmare]
+    - dp: [Attract, Beat Up, Bite, Captivate, Counter, Crunch, Dark Pulse, Double
+          Team, Dream Eater, Embargo, Ember, Endure, Facade, Faint Attack, Feint,
+        Fire Blast, Fire Fang, Fire Spin, Flamethrower, Frustration, Headbutt, Heat
+          Wave, Hidden Power, Howl, Iron Tail, Leer, Mud-Slap, Nasty Plot, Natural
+          Gift, Odor Sleuth, Overheat, Payback, Protect, Punishment, Pursuit, Rage,
+        Rest, Return, Reversal, Roar, Rock Smash, Role Play, Secret Power, Shadow
+          Ball, Sleep Talk, Sludge Bomb, Smog, Snatch, Snore, Solarbeam, Spite, Substitute,
+        Sucker Punch, Sunny Day, Super Fang, Swagger, Swift, Taunt, Thief, Thunder
+          Fang, Torment, Toxic, Uproar, Will-O-Wisp, Body Slam, Charm, Double-Edge,
+        Mimic, Nightmare]
+    - rs: [Attract, Beat Up, Bite, Body Slam, Counter, Crunch, Double-Edge, Double
+          Team, Dream Eater, Ember, Endure, Facade, Faint Attack, Fire Blast, Fire
+          Spin, Flamethrower, Frustration, Hidden Power, Howl, Iron Tail, Leer, Mimic,
+        Mud-Slap, Nightmare, Odor Sleuth, Overheat, Protect, Pursuit, Rage, Rest,
+        Return, Reversal, Roar, Rock Smash, Secret Power, Shadow Ball, Sleep Talk,
+        Sludge Bomb, Smog, Snatch, Snore, Solarbeam, Spite, Substitute, Sunny Day,
+        Swagger, Swift, Taunt, Thief, Torment, Toxic, Will-O-Wisp, Body Slam, Charm,
+        Double-Edge, Mimic, Nightmare]
+    stats:
+    - [45, 60, 30, 80, 50, 65]
+    tags:
+    - [nfe]
+    - dp: [lc]
+    types:
+    - [Dark, Fire]
+    weight: [10.8]

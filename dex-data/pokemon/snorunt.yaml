@@ -1,88 +1,85 @@
 pokemon:
-  Snorunt:
-    introduction: rs
-    types:
-    - [Ice]
+  Froslass:
+    abilities:
+    - [Cursed Body, Snow Cloak]
     egggroups:
     - [Fairy, Mineral]
+    height: [1.3]
+    introduction: dp
+    moves:
+    - bw: [Astonish, Captivate, Confuse Ray, Destiny Bond, Dream Eater, Embargo, Fling,
+        Giga Impact, Hyper Beam, Ice Punch, Ominous Wind, Pain Split, Payback, Psych
+          Up, Psychic, Signal Beam, Snatch, Taunt, Telekinesis, Thunder, Thunder Wave,
+        Thunderbolt, Torment, Trick, Wake-Up Slap]
+    - dp: [Astonish, Confuse Ray, Destiny Bond, Dream Eater, Embargo, Fling, Giga
+          Impact, Hyper Beam, Ice Punch, Mud-Slap, Ominous Wind, Pain Split, Payback,
+        Psych Up, Psychic, Shock Wave, Signal Beam, Snatch, Sucker Punch, Taunt, Thunder,
+        Thunder Wave, Thunderbolt, Torment, Trick, Wake-Up Slap]
+    stats:
+    - [70, 80, 70, 80, 70, 110]
+    tags:
+    - [bl]
+    types:
+    - [Ghost, Ice]
+    weight: [26.6]
+  Glalie:
     abilities:
     - [Inner Focus]
     - dp: [Ice Body, Inner Focus]
     - bw: [Ice Body, Inner Focus, Moody]
+    egggroups:
+    - [Fairy, Mineral]
+    height: [1.5]
+    introduction: rs
+    moves:
+    - bw: [Bulldoze, Dark Pulse, Earthquake, Explosion, Gyro Ball, Iron Head, Sheer
+          Cold, Super Fang, Body Slam, Double-Edge, Mimic, Selfdestruct]
+    - dp: [Dark Pulse, Earthquake, Explosion, Gyro Ball, Iron Head, Sheer Cold, Super
+          Fang, Body Slam, Double-Edge, Mimic, Selfdestruct]
+    - rs: [Defense Curl, Earthquake, Explosion, Hyper Beam, Rollout, Selfdestruct,
+        Sheer Cold, Taunt, Torment, Body Slam, Double-Edge, Mimic, Selfdestruct]
+    stats:
+    - [80, 80, 80, 80, 80, 80]
+    tags:
+    - [nu]
+    types:
+    - [Ice]
+    weight: [256.5]
+  Snorunt:
+    abilities:
+    - [Inner Focus]
+    - dp: [Ice Body, Inner Focus]
+    - bw: [Ice Body, Inner Focus, Moody]
+    egggroups:
+    - [Fairy, Mineral]
+    evolutions: [Glalie, Froslass]
+    height: [0.7]
+    introduction: rs
+    moves:
+    - bw: [Attract, Avalanche, Bide, Bite, Blizzard, Block, Crunch, Disable, Double
+          Team, Facade, Fake Tears, Flash, Frost Breath, Frustration, Hail, Headbutt,
+        Hex, Hidden Power, Ice Beam, Ice Fang, Ice Shard, Icy Wind, Leer, Light Screen,
+        Powder Snow, Protect, Rain Dance, Rest, Return, Rollout, Round, Safeguard,
+        Shadow Ball, Sleep Talk, Snore, Spikes, Spite, Substitute, Swagger, Toxic,
+        Weather Ball, Body Slam, Double-Edge, Mimic, Sing, Water Pulse]
+    - dp: [Attract, Avalanche, Bide, Bite, Blizzard, Block, Captivate, Crunch, Disable,
+        Double Team, Endure, Facade, Flash, Frustration, Hail, Headbutt, Hidden Power,
+        Ice Beam, Ice Fang, Ice Shard, Icy Wind, Leer, Light Screen, Natural Gift,
+        Powder Snow, Protect, Rain Dance, Rest, Return, Rollout, Safeguard, Secret
+          Power, Shadow Ball, Sleep Talk, Snore, Spikes, Spite, Substitute, Swagger,
+        Toxic, Water Pulse, Weather Ball, Body Slam, Double-Edge, Mimic, Sing, Water
+          Pulse]
+    - rs: [Attract, Bite, Blizzard, Block, Body Slam, Crunch, Double-Edge, Double
+          Team, Endure, Facade, Flash, Frustration, Hail, Headbutt, Hidden Power,
+        Ice Beam, Icy Wind, Leer, Light Screen, Mimic, Powder Snow, Protect, Rain
+          Dance, Rest, Return, Safeguard, Secret Power, Shadow Ball, Sleep Talk, Snore,
+        Spikes, Substitute, Swagger, Toxic, Water Pulse, Body Slam, Double-Edge, Mimic,
+        Sing, Water Pulse]
     stats:
     - [50, 50, 50, 50, 50, 50]
     tags:
     - [nfe]
     - dp: [lc]
-    weight: [16.8]
-    height: [0.7]
-  Glalie:
-    introduction: rs
     types:
     - [Ice]
-    egggroups:
-    - [Fairy, Mineral]
-    abilities:
-    - [Inner Focus]
-    - dp: [Ice Body, Inner Focus]
-    - bw: [Ice Body, Inner Focus, Moody]
-    stats:
-    - [80, 80, 80, 80, 80, 80]
-    tags:
-    - [nu]
-    weight: [256.5]
-    height: [1.5]
-  Froslass:
-    introduction: dp
-    types:
-    - [Ghost, Ice]
-    egggroups:
-    - [Fairy, Mineral]
-    abilities:
-    - [Cursed Body, Snow Cloak]
-    stats:
-    - [70, 80, 70, 80, 70, 110]
-    tags:
-    - [bl]
-    weight: [26.6]
-    height: [1.3]
-evolutions:
-- {from: Snorunt, to: Glalie}
-- {from: Snorunt, to: Froslass}
-learnsets:
-  rs:
-    Snorunt: [Attract, Bite, Blizzard, Block, Body Slam, Crunch, Double-Edge, Double
-        Team, Endure, Facade, Flash, Frustration, Hail, Headbutt, Hidden Power, Ice
-        Beam, Icy Wind, Leer, Light Screen, Mimic, Powder Snow, Protect, Rain Dance,
-      Rest, Return, Safeguard, Secret Power, Shadow Ball, Sleep Talk, Snore, Spikes,
-      Substitute, Swagger, Toxic, Water Pulse, Body Slam, Double-Edge, Mimic, Sing,
-      Water Pulse]
-    Glalie: [Defense Curl, Earthquake, Explosion, Hyper Beam, Rollout, Selfdestruct,
-      Sheer Cold, Taunt, Torment, Body Slam, Double-Edge, Mimic, Selfdestruct]
-  dp:
-    Snorunt: [Attract, Avalanche, Bide, Bite, Blizzard, Block, Captivate, Crunch,
-      Disable, Double Team, Endure, Facade, Flash, Frustration, Hail, Headbutt, Hidden
-        Power, Ice Beam, Ice Fang, Ice Shard, Icy Wind, Leer, Light Screen, Natural
-        Gift, Powder Snow, Protect, Rain Dance, Rest, Return, Rollout, Safeguard,
-      Secret Power, Shadow Ball, Sleep Talk, Snore, Spikes, Spite, Substitute, Swagger,
-      Toxic, Water Pulse, Weather Ball, Body Slam, Double-Edge, Mimic, Sing, Water
-        Pulse]
-    Froslass: [Astonish, Confuse Ray, Destiny Bond, Dream Eater, Embargo, Fling, Giga
-        Impact, Hyper Beam, Ice Punch, Mud-Slap, Ominous Wind, Pain Split, Payback,
-      Psych Up, Psychic, Shock Wave, Signal Beam, Snatch, Sucker Punch, Taunt, Thunder,
-      Thunder Wave, Thunderbolt, Torment, Trick, Wake-Up Slap]
-    Glalie: [Dark Pulse, Earthquake, Explosion, Gyro Ball, Iron Head, Sheer Cold,
-      Super Fang, Body Slam, Double-Edge, Mimic, Selfdestruct]
-  bw:
-    Snorunt: [Attract, Avalanche, Bide, Bite, Blizzard, Block, Crunch, Disable, Double
-        Team, Facade, Fake Tears, Flash, Frost Breath, Frustration, Hail, Headbutt,
-      Hex, Hidden Power, Ice Beam, Ice Fang, Ice Shard, Icy Wind, Leer, Light Screen,
-      Powder Snow, Protect, Rain Dance, Rest, Return, Rollout, Round, Safeguard, Shadow
-        Ball, Sleep Talk, Snore, Spikes, Spite, Substitute, Swagger, Toxic, Weather
-        Ball, Body Slam, Double-Edge, Mimic, Sing, Water Pulse]
-    Froslass: [Astonish, Captivate, Confuse Ray, Destiny Bond, Dream Eater, Embargo,
-      Fling, Giga Impact, Hyper Beam, Ice Punch, Ominous Wind, Pain Split, Payback,
-      Psych Up, Psychic, Signal Beam, Snatch, Taunt, Telekinesis, Thunder, Thunder
-        Wave, Thunderbolt, Torment, Trick, Wake-Up Slap]
-    Glalie: [Bulldoze, Dark Pulse, Earthquake, Explosion, Gyro Ball, Iron Head, Sheer
-        Cold, Super Fang, Body Slam, Double-Edge, Mimic, Selfdestruct]
+    weight: [16.8]

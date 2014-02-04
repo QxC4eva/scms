@@ -1,57 +1,54 @@
 pokemon:
   Kyurem:
-    introduction: bw
-    types:
-    - [Dragon, Ice]
-    egggroups:
-    - []
     abilities:
     - [Pressure]
+    egggroups:
+    - []
+    evolutions: [Kyurem-B, Kyurem-W]
+    height: [3]
+    introduction: bw
+    moves:
+    - bw: [Ancientpower, Blizzard, Cut, Double Team, Draco Meteor, Dragon Claw, Dragon
+          Pulse, Dragon Rage, Dragon Tail, Dragonbreath, Earth Power, Echoed Voice,
+        Endeavor, Facade, Flash Cannon, Fling, Fly, Focus Blast, Frustration, Giga
+          Impact, Glaciate, Hail, Hidden Power, Hone Claws, Hyper Beam, Hyper Voice,
+        Ice Beam, Icy Wind, Imprison, Iron Head, Light Screen, Outrage, Payback, Protect,
+        Psychic, Rain Dance, Reflect, Rest, Return, Rock Slide, Rock Smash, Rock Tomb,
+        Roost, Round, Safeguard, Scary Face, Shadow Ball, Shadow Claw, Signal Beam,
+        Slash, Sleep Talk, Snore, Stone Edge, Strength, Substitute, Sunny Day, Swagger,
+        Toxic, Zen Headbutt]
     stats:
     - [125, 130, 90, 130, 90, 95]
     tags:
     - [bl]
-    weight: [325]
-    height: [3]
-  Kyurem-Black:
-    introduction: bw
     types:
     - [Dragon, Ice]
-    egggroups:
-    - []
+    weight: [325]
+  Kyurem-Black:
     abilities:
     - [Teravolt]
+    egggroups:
+    - []
+    height: [3.3]
+    introduction: bw
     stats:
     - [125, 170, 100, 120, 90, 95]
     tags:
     - [ou]
-    weight: [325]
-    height: [3.3]
-  Kyurem-White:
-    introduction: bw
     types:
     - [Dragon, Ice]
-    egggroups:
-    - []
+    weight: [325]
+  Kyurem-White:
     abilities:
     - [Turboblaze]
+    egggroups:
+    - []
+    height: [3.6]
+    introduction: bw
     stats:
     - [125, 120, 90, 170, 100, 95]
     tags:
     - [uber]
+    types:
+    - [Dragon, Ice]
     weight: [325]
-    height: [3.6]
-evolutions:
-- {from: Kyurem, to: Kyurem-B}
-- {from: Kyurem, to: Kyurem-W}
-learnsets:
-  bw:
-    Kyurem: [Ancientpower, Blizzard, Cut, Double Team, Draco Meteor, Dragon Claw,
-      Dragon Pulse, Dragon Rage, Dragon Tail, Dragonbreath, Earth Power, Echoed Voice,
-      Endeavor, Facade, Flash Cannon, Fling, Fly, Focus Blast, Frustration, Giga Impact,
-      Glaciate, Hail, Hidden Power, Hone Claws, Hyper Beam, Hyper Voice, Ice Beam,
-      Icy Wind, Imprison, Iron Head, Light Screen, Outrage, Payback, Protect, Psychic,
-      Rain Dance, Reflect, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Roost,
-      Round, Safeguard, Scary Face, Shadow Ball, Shadow Claw, Signal Beam, Slash,
-      Sleep Talk, Snore, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Toxic,
-      Zen Headbutt]

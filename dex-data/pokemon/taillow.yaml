@@ -1,62 +1,59 @@
 pokemon:
-  Taillow:
-    introduction: rs
-    types:
-    - [Flying, Normal]
-    egggroups:
-    - [Flying]
-    abilities:
-    - [Guts]
-    - bw: [Guts, Scrappy]
-    stats:
-    - [40, 55, 30, 30, 30, 85]
-    tags:
-    - [nfe]
-    - dp: [lc]
-    weight: [2.3]
-    height: [0.3]
   Swellow:
-    introduction: rs
-    types:
-    - [Flying, Normal]
-    egggroups:
-    - [Flying]
     abilities:
     - [Guts]
     - bw: [Guts, Scrappy]
+    egggroups:
+    - [Flying]
+    height: [0.7]
+    introduction: rs
+    moves:
+    - bw: [Giga Impact, Hyper Beam, Baton Pass, Double-Edge, Mimic]
+    - dp: [Giga Impact, Hyper Beam, Baton Pass, Double-Edge, Mimic]
+    - rs: [Hyper Beam, Baton Pass, Double-Edge, Mimic]
     stats:
     - [60, 85, 60, 50, 50, 125]
     tags:
     - [bl]
     - bw: [nu]
       dp: [uu]
+    types:
+    - [Flying, Normal]
     weight: [19.8]
-    height: [0.7]
-evolutions:
-- {from: Taillow, to: Swellow}
-learnsets:
-  rs:
-    Taillow: [Aerial Ace, Agility, Attract, Counter, Double-Edge, Double Team, Endeavor,
-      Endure, Facade, Fly, Focus Energy, Frustration, Growl, Hidden Power, Mimic,
-      Mirror Move, Mud-Slap, Peck, Protect, Pursuit, Quick Attack, Rage, Rain Dance,
-      Refresh, Rest, Return, Secret Power, Sky Attack, Sleep Talk, Snore, Steel Wing,
-      Substitute, Sunny Day, Supersonic, Swagger, Swift, Thief, Toxic, Wing Attack,
-      Double-Edge, Mimic]
-    Swellow: [Hyper Beam, Baton Pass, Double-Edge, Mimic]
-  dp:
-    Taillow: [Aerial Ace, Agility, Air Cutter, Air Slash, Attract, Brave Bird, Captivate,
-      Defog, Double Team, Endeavor, Endure, Facade, Fly, Focus Energy, Frustration,
-      Growl, Heat Wave, Hidden Power, Mirror Move, Mud-Slap, Natural Gift, Ominous
-        Wind, Peck, Pluck, Protect, Pursuit, Quick Attack, Rage, Rain Dance, Refresh,
-      Rest, Return, Roost, Secret Power, Sky Attack, Sleep Talk, Snore, Steel Wing,
-      Substitute, Sunny Day, Supersonic, Swagger, Swift, Tailwind, Thief, Toxic, Twister,
-      U-turn, Whirlwind, Wing Attack, Double-Edge, Mimic]
-    Swellow: [Giga Impact, Hyper Beam, Baton Pass, Double-Edge, Mimic]
-  bw:
-    Taillow: [Aerial Ace, Agility, Air Slash, Attract, Brave Bird, Defog, Double Team,
-      Echoed Voice, Endeavor, Facade, Fly, Focus Energy, Frustration, Growl, Heat
-        Wave, Hidden Power, Mirror Move, Peck, Pluck, Protect, Pursuit, Quick Attack,
-      Rage, Rain Dance, Refresh, Rest, Return, Roost, Round, Sky Attack, Sleep Talk,
-      Snore, Steel Wing, Substitute, Sunny Day, Supersonic, Swagger, Tailwind, Thief,
-      Toxic, U-turn, Whirlwind, Wing Attack, Work Up, Double-Edge, Mimic]
-    Swellow: [Giga Impact, Hyper Beam, Baton Pass, Double-Edge, Mimic]
+  Taillow:
+    abilities:
+    - [Guts]
+    - bw: [Guts, Scrappy]
+    egggroups:
+    - [Flying]
+    evolutions: [Swellow]
+    height: [0.3]
+    introduction: rs
+    moves:
+    - bw: [Aerial Ace, Agility, Air Slash, Attract, Brave Bird, Defog, Double Team,
+        Echoed Voice, Endeavor, Facade, Fly, Focus Energy, Frustration, Growl, Heat
+          Wave, Hidden Power, Mirror Move, Peck, Pluck, Protect, Pursuit, Quick Attack,
+        Rage, Rain Dance, Refresh, Rest, Return, Roost, Round, Sky Attack, Sleep Talk,
+        Snore, Steel Wing, Substitute, Sunny Day, Supersonic, Swagger, Tailwind, Thief,
+        Toxic, U-turn, Whirlwind, Wing Attack, Work Up, Double-Edge, Mimic]
+    - dp: [Aerial Ace, Agility, Air Cutter, Air Slash, Attract, Brave Bird, Captivate,
+        Defog, Double Team, Endeavor, Endure, Facade, Fly, Focus Energy, Frustration,
+        Growl, Heat Wave, Hidden Power, Mirror Move, Mud-Slap, Natural Gift, Ominous
+          Wind, Peck, Pluck, Protect, Pursuit, Quick Attack, Rage, Rain Dance, Refresh,
+        Rest, Return, Roost, Secret Power, Sky Attack, Sleep Talk, Snore, Steel Wing,
+        Substitute, Sunny Day, Supersonic, Swagger, Swift, Tailwind, Thief, Toxic,
+        Twister, U-turn, Whirlwind, Wing Attack, Double-Edge, Mimic]
+    - rs: [Aerial Ace, Agility, Attract, Counter, Double-Edge, Double Team, Endeavor,
+        Endure, Facade, Fly, Focus Energy, Frustration, Growl, Hidden Power, Mimic,
+        Mirror Move, Mud-Slap, Peck, Protect, Pursuit, Quick Attack, Rage, Rain Dance,
+        Refresh, Rest, Return, Secret Power, Sky Attack, Sleep Talk, Snore, Steel
+          Wing, Substitute, Sunny Day, Supersonic, Swagger, Swift, Thief, Toxic, Wing
+          Attack, Double-Edge, Mimic]
+    stats:
+    - [40, 55, 30, 30, 30, 85]
+    tags:
+    - [nfe]
+    - dp: [lc]
+    types:
+    - [Flying, Normal]
+    weight: [2.3]

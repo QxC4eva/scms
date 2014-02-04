@@ -1,43 +1,42 @@
 pokemon:
   Patrat:
-    introduction: dp
-    types:
-    - [Normal]
-    egggroups:
-    - [Ground]
     abilities:
     - [Analytic, Keen Eye, Run Away]
+    egggroups:
+    - [Ground]
+    evolutions: [Watchog]
+    height: [0.5]
+    introduction: dp
+    moves:
+    - bw: [After You, Aqua Tail, Assurance, Attract, Baton Pass, Bide, Bite, Covet,
+        Crunch, Cut, Detect, Dig, Double Team, Endeavor, Facade, Flail, Fling, Foresight,
+        Frustration, Grass Knot, Gunk Shot, Helping Hand, Hidden Power, Hyper Fang,
+        Hypnosis, Iron Tail, Last Resort, Leer, Low Kick, Mean Look, Protect, Pursuit,
+        Rain Dance, Rest, Retaliate, Return, Revenge, Round, Sand-Attack, Screech,
+        Seed Bomb, Shadow Ball, Slam, Sleep Talk, Snore, Substitute, Sunny Day, Super
+          Fang, Swagger, Swords Dance, Tackle, Thunderbolt, Toxic, Work Up, Zen Headbutt]
     stats:
     - [45, 55, 39, 35, 39, 42]
     tags:
     - [lc]
-    weight: [11.6]
-    height: [0.5]
-  Watchog:
-    introduction: dp
     types:
     - [Normal]
-    egggroups:
-    - [Ground]
+    weight: [11.6]
+  Watchog:
     abilities:
     - [Analytic, Illuminate, Keen Eye]
+    egggroups:
+    - [Ground]
+    height: [1.1]
+    introduction: dp
+    moves:
+    - bw: [Confuse Ray, Dream Eater, Fire Punch, Flamethrower, Flash, Focus Blast,
+        Giga Impact, Hyper Beam, Ice Punch, Knock Off, Light Screen, Psych Up, Rock
+          Smash, Signal Beam, Strength, Thunder, Thunder Wave, Thunderpunch]
     stats:
     - [60, 85, 69, 60, 69, 77]
     tags:
     - [nu]
+    types:
+    - [Normal]
     weight: [27]
-    height: [1.1]
-evolutions:
-- {from: Patrat, to: Watchog}
-learnsets:
-  bw:
-    Patrat: [After You, Aqua Tail, Assurance, Attract, Baton Pass, Bide, Bite, Covet,
-      Crunch, Cut, Detect, Dig, Double Team, Endeavor, Facade, Flail, Fling, Foresight,
-      Frustration, Grass Knot, Gunk Shot, Helping Hand, Hidden Power, Hyper Fang,
-      Hypnosis, Iron Tail, Last Resort, Leer, Low Kick, Mean Look, Protect, Pursuit,
-      Rain Dance, Rest, Retaliate, Return, Revenge, Round, Sand-Attack, Screech, Seed
-        Bomb, Shadow Ball, Slam, Sleep Talk, Snore, Substitute, Sunny Day, Super Fang,
-      Swagger, Swords Dance, Tackle, Thunderbolt, Toxic, Work Up, Zen Headbutt]
-    Watchog: [Confuse Ray, Dream Eater, Fire Punch, Flamethrower, Flash, Focus Blast,
-      Giga Impact, Hyper Beam, Ice Punch, Knock Off, Light Screen, Psych Up, Rock
-        Smash, Signal Beam, Strength, Thunder, Thunder Wave, Thunderpunch]

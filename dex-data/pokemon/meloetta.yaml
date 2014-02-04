@@ -1,30 +1,28 @@
 pokemon:
   Meloetta:
-    introduction: bw
-    types:
-    - [Normal, Psychic]
-    egggroups:
-    - []
     abilities:
     - [Serene Grace]
+    egggroups:
+    - []
+    height: [0.6]
+    introduction: bw
+    moves:
+    - bw: [Acrobatics, Brick Break, Calm Mind, Charge Beam, Close Combat, Confusion,
+        Covet, Double Team, Drain Punch, Dream Eater, Dual Chop, Echoed Voice, Embargo,
+        Energy Ball, Facade, Fire Punch, Flash, Fling, Focus Blast, Frustration, Giga
+          Impact, Grass Knot, Gravity, Heal Bell, Helping Hand, Hidden Power, Hone
+          Claws, Hyper Beam, Hyper Voice, Ice Punch, Knock Off, Last Resort, Light
+          Screen, Low Kick, Low Sweep, Magic Coat, Magic Room, Payback, Perish Song,
+        Protect, Psybeam, Psych Up, Psychic, Psyshock, Quick Attack, Rain Dance, Recycle,
+        Relic Song, Rest, Retaliate, Return, Rock Smash, Role Play, Round, Safeguard,
+        Shadow Ball, Shadow Claw, Signal Beam, Sing, Skill Swap, Sleep Talk, Snatch,
+        Snore, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Teeter Dance,
+        Telekinesis, Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Toxic, Trick,
+        Trick Room, U-turn, Uproar, Wake-Up Slap, Wonder Room, Work Up, Zen Headbutt]
     stats:
     - [100, 77, 77, 128, 128, 90]
     tags:
     - [uu]
+    types:
+    - [Normal, Psychic]
     weight: [6.5]
-    height: [0.6]
-evolutions: []
-learnsets:
-  bw:
-    Meloetta: [Acrobatics, Brick Break, Calm Mind, Charge Beam, Close Combat, Confusion,
-      Covet, Double Team, Drain Punch, Dream Eater, Dual Chop, Echoed Voice, Embargo,
-      Energy Ball, Facade, Fire Punch, Flash, Fling, Focus Blast, Frustration, Giga
-        Impact, Grass Knot, Gravity, Heal Bell, Helping Hand, Hidden Power, Hone Claws,
-      Hyper Beam, Hyper Voice, Ice Punch, Knock Off, Last Resort, Light Screen, Low
-        Kick, Low Sweep, Magic Coat, Magic Room, Payback, Perish Song, Protect, Psybeam,
-      Psych Up, Psychic, Psyshock, Quick Attack, Rain Dance, Recycle, Relic Song,
-      Rest, Retaliate, Return, Rock Smash, Role Play, Round, Safeguard, Shadow Ball,
-      Shadow Claw, Signal Beam, Sing, Skill Swap, Sleep Talk, Snatch, Snore, Stone
-        Edge, Strength, Substitute, Sunny Day, Swagger, Teeter Dance, Telekinesis,
-      Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Toxic, Trick, Trick Room,
-      U-turn, Uproar, Wake-Up Slap, Wonder Room, Work Up, Zen Headbutt]

@@ -1,87 +1,83 @@
 pokemon:
   Kabuto:
-    introduction: rb
-    types:
-    - [Rock, Water]
-    egggroups:
-    - [Water 1, Water 3]
     abilities:
     - [Battle Armor, Swift Swim]
     - bw: [Battle Armor, Swift Swim, Weak Armor]
+    egggroups:
+    - [Water 1, Water 3]
+    evolutions: [Kabutops]
+    height: [0.5]
+    introduction: rb
+    moves:
+    - gs: [Absorb, Ancientpower, Attract, Aurora Beam, Blizzard, Bubblebeam, Curse,
+        Dig, Double Team, Endure, Flail, Frustration, Giga Drain, Harden, Hidden Power,
+        Ice Beam, Icy Wind, Leer, Mega Drain, Protect, Rain Dance, Rapid Spin, Rest,
+        Return, Rock Smash, Rollout, Sand-Attack, Sandstorm, Scratch, Sleep Talk,
+        Snore, Swagger, Thief, Toxic]
+    - bw: [Absorb, Ancientpower, Aqua Jet, Attract, Aurora Beam, Blizzard, Bubblebeam,
+        Confuse Ray, Dig, Double Team, Earth Power, Endure, Facade, Flail, Foresight,
+        Frustration, Giga Drain, Hail, Harden, Hidden Power, Hone Claws, Ice Beam,
+        Icy Wind, Iron Defense, Knock Off, Leer, Mega Drain, Metal Sound, Mud Shot,
+        Protect, Rain Dance, Rapid Spin, Rest, Return, Rock Polish, Rock Slide, Rock
+          Smash, Rock Tomb, Round, Sand-Attack, Sandstorm, Scald, Scratch, Screech,
+        Sleep Talk, Smack Down, Snore, Stealth Rock, Substitute, Surf, Swagger, Thief,
+        Toxic, Waterfall, Wring Out, Body Slam, Double-Edge, Mimic]
+    - dp: [Absorb, Ancientpower, Aqua Jet, Attract, Aurora Beam, Blizzard, Brine,
+        Bubblebeam, Captivate, Confuse Ray, Dig, Double Team, Earth Power, Endure,
+        Facade, Flail, Frustration, Giga Drain, Hail, Harden, Hidden Power, Ice Beam,
+        Icy Wind, Iron Defense, Knock Off, Leer, Mega Drain, Metal Sound, Mud Shot,
+        Mud-Slap, Natural Gift, Protect, Rain Dance, Rapid Spin, Rest, Return, Rock
+          Polish, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sand-Attack, Sandstorm,
+        Scratch, Screech, Secret Power, Sleep Talk, Snore, Stealth Rock, Substitute,
+        Surf, Swagger, Thief, Toxic, Water Pulse, Waterfall, Whirlpool, Wring Out,
+        Body Slam, Double-Edge, Mimic]
+    - rs: [Absorb, Aerial Ace, Ancientpower, Attract, Aurora Beam, Blizzard, Body
+          Slam, Bubblebeam, Confuse Ray, Dig, Double-Edge, Double Team, Endure, Facade,
+        Flail, Frustration, Giga Drain, Hail, Harden, Hidden Power, Ice Beam, Icy
+          Wind, Knock Off, Leer, Mega Drain, Metal Sound, Mimic, Mud Shot, Protect,
+        Rain Dance, Rapid Spin, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout,
+        Sand-Attack, Sandstorm, Scratch, Secret Power, Sleep Talk, Snore, Substitute,
+        Surf, Swagger, Thief, Toxic, Water Pulse, Waterfall, Body Slam, Double-Edge,
+        Mimic]
+    - rb: [Absorb, Bide, Blizzard, Body Slam, Bubblebeam, Double-Edge, Double Team,
+        Harden, Hydro Pump, Ice Beam, Leer, Mimic, Rage, Reflect, Rest, Scratch, Slash,
+        Substitute, Surf, Take Down, Toxic, Water Gun]
     stats:
     - [30, 80, 90, 45, 45, 55]
     - gs: [30, 80, 90, 55, 45, 55]
     tags:
     - [nfe]
     - dp: [lc]
-    weight: [11.5]
-    height: [0.5]
-  Kabutops:
-    introduction: rb
     types:
     - [Rock, Water]
-    egggroups:
-    - [Water 1, Water 3]
+    weight: [11.5]
+  Kabutops:
     abilities:
     - [Battle Armor, Swift Swim]
     - bw: [Battle Armor, Swift Swim, Weak Armor]
+    egggroups:
+    - [Water 1, Water 3]
+    height: [1.3]
+    introduction: rb
+    moves:
+    - gs: [Cut, Fury Cutter, Headbutt, Hyper Beam, Slash, Surf, Whirlpool]
+    - bw: [Aerial Ace, Aqua Tail, Brick Break, Cut, Dive, Feint, Giga Impact, Hyper
+          Beam, Low Kick, Night Slash, Slash, Stone Edge, Superpower, Swords Dance,
+        X-scissor, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    - dp: [Aerial Ace, Aqua Tail, Brick Break, Cut, Dive, Feint, Fury Cutter, Giga
+          Impact, Headbutt, Hyper Beam, Low Kick, Night Slash, Rock Climb, Slash,
+        Stone Edge, Superpower, Swords Dance, X-scissor, Body Slam, Double-Edge, Mimic,
+        Seismic Toss]
+    - rs: [Brick Break, Cut, Dive, Fury Cutter, Hyper Beam, Mega Kick, Seismic Toss,
+        Slash, Swords Dance, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    - rb: [Cut, Hyper Beam, Mega Kick, Razor Wind, Seismic Toss, Skull Bash, Submission,
+        Swords Dance]
     stats:
     - [60, 115, 105, 70, 70, 80]
     - gs: [60, 115, 105, 65, 70, 80]
     tags:
     - [uu]
     - bw: [ru]
+    types:
+    - [Rock, Water]
     weight: [40.5]
-    height: [1.3]
-evolutions:
-- {from: Kabuto, to: Kabutops}
-learnsets:
-  rb:
-    Kabuto: [Absorb, Bide, Blizzard, Body Slam, Bubblebeam, Double-Edge, Double Team,
-      Harden, Hydro Pump, Ice Beam, Leer, Mimic, Rage, Reflect, Rest, Scratch, Slash,
-      Substitute, Surf, Take Down, Toxic, Water Gun]
-    Kabutops: [Cut, Hyper Beam, Mega Kick, Razor Wind, Seismic Toss, Skull Bash, Submission,
-      Swords Dance]
-  gs:
-    Kabuto: [Absorb, Ancientpower, Attract, Aurora Beam, Blizzard, Bubblebeam, Curse,
-      Dig, Double Team, Endure, Flail, Frustration, Giga Drain, Harden, Hidden Power,
-      Ice Beam, Icy Wind, Leer, Mega Drain, Protect, Rain Dance, Rapid Spin, Rest,
-      Return, Rock Smash, Rollout, Sand-Attack, Sandstorm, Scratch, Sleep Talk, Snore,
-      Swagger, Thief, Toxic]
-    Kabutops: [Cut, Fury Cutter, Headbutt, Hyper Beam, Slash, Surf, Whirlpool]
-  rs:
-    Kabuto: [Absorb, Aerial Ace, Ancientpower, Attract, Aurora Beam, Blizzard, Body
-        Slam, Bubblebeam, Confuse Ray, Dig, Double-Edge, Double Team, Endure, Facade,
-      Flail, Frustration, Giga Drain, Hail, Harden, Hidden Power, Ice Beam, Icy Wind,
-      Knock Off, Leer, Mega Drain, Metal Sound, Mimic, Mud Shot, Protect, Rain Dance,
-      Rapid Spin, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sand-Attack,
-      Sandstorm, Scratch, Secret Power, Sleep Talk, Snore, Substitute, Surf, Swagger,
-      Thief, Toxic, Water Pulse, Waterfall, Body Slam, Double-Edge, Mimic]
-    Kabutops: [Brick Break, Cut, Dive, Fury Cutter, Hyper Beam, Mega Kick, Seismic
-        Toss, Slash, Swords Dance, Body Slam, Double-Edge, Mimic, Seismic Toss]
-  dp:
-    Kabuto: [Absorb, Ancientpower, Aqua Jet, Attract, Aurora Beam, Blizzard, Brine,
-      Bubblebeam, Captivate, Confuse Ray, Dig, Double Team, Earth Power, Endure, Facade,
-      Flail, Frustration, Giga Drain, Hail, Harden, Hidden Power, Ice Beam, Icy Wind,
-      Iron Defense, Knock Off, Leer, Mega Drain, Metal Sound, Mud Shot, Mud-Slap,
-      Natural Gift, Protect, Rain Dance, Rapid Spin, Rest, Return, Rock Polish, Rock
-        Slide, Rock Smash, Rock Tomb, Rollout, Sand-Attack, Sandstorm, Scratch, Screech,
-      Secret Power, Sleep Talk, Snore, Stealth Rock, Substitute, Surf, Swagger, Thief,
-      Toxic, Water Pulse, Waterfall, Whirlpool, Wring Out, Body Slam, Double-Edge,
-      Mimic]
-    Kabutops: [Aerial Ace, Aqua Tail, Brick Break, Cut, Dive, Feint, Fury Cutter,
-      Giga Impact, Headbutt, Hyper Beam, Low Kick, Night Slash, Rock Climb, Slash,
-      Stone Edge, Superpower, Swords Dance, X-scissor, Body Slam, Double-Edge, Mimic,
-      Seismic Toss]
-  bw:
-    Kabuto: [Absorb, Ancientpower, Aqua Jet, Attract, Aurora Beam, Blizzard, Bubblebeam,
-      Confuse Ray, Dig, Double Team, Earth Power, Endure, Facade, Flail, Foresight,
-      Frustration, Giga Drain, Hail, Harden, Hidden Power, Hone Claws, Ice Beam, Icy
-        Wind, Iron Defense, Knock Off, Leer, Mega Drain, Metal Sound, Mud Shot, Protect,
-      Rain Dance, Rapid Spin, Rest, Return, Rock Polish, Rock Slide, Rock Smash, Rock
-        Tomb, Round, Sand-Attack, Sandstorm, Scald, Scratch, Screech, Sleep Talk,
-      Smack Down, Snore, Stealth Rock, Substitute, Surf, Swagger, Thief, Toxic, Waterfall,
-      Wring Out, Body Slam, Double-Edge, Mimic]
-    Kabutops: [Aerial Ace, Aqua Tail, Brick Break, Cut, Dive, Feint, Giga Impact,
-      Hyper Beam, Low Kick, Night Slash, Slash, Stone Edge, Superpower, Swords Dance,
-      X-scissor, Body Slam, Double-Edge, Mimic, Seismic Toss]

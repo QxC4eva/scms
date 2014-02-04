@@ -1,31 +1,29 @@
 pokemon:
-  Smoochum:
-    introduction: gs
-    types:
-    - [Ice, Psychic]
-    egggroups:
-    - []
-    abilities:
-    - [Oblivious]
-    - dp: [Forewarn, Oblivious]
-    - bw: [Forewarn, Hydration, Oblivious]
-    stats:
-    - [45, 30, 15, 85, 65, 65]
-    tags:
-    - [nfe]
-    - dp: [lc]
-    weight: [6]
-    height: [0.4]
   Jynx:
-    introduction: rb
-    types:
-    - [Ice, Psychic]
-    egggroups:
-    - [Humanshape]
     abilities:
     - [Oblivious]
     - dp: [Forewarn, Oblivious]
     - bw: [Dry Skin, Forewarn, Oblivious]
+    egggroups:
+    - [Humanshape]
+    height: [1.4]
+    introduction: rb
+    moves:
+    - gs: [Body Slam, Doubleslap, Headbutt, Hyper Beam]
+    - bw: [Body Slam, Brick Break, Doubleslap, Drain Punch, Energy Ball, Focus Blast,
+        Giga Impact, Hyper Beam, Hyper Voice, Lovely Kiss, Taunt, Telekinesis, Torment,
+        Wring Out, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss]
+    - dp: [Body Slam, Brick Break, Doubleslap, Drain Punch, Energy Ball, Focus Blast,
+        Focus Punch, Giga Impact, Headbutt, Hyper Beam, Lovely Kiss, Taunt, Torment,
+        Wake-Up Slap, Wring Out, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic
+          Toss]
+    - rs: [Brick Break, Doubleslap, Focus Punch, Hyper Beam, Lovely Kiss, Taunt, Torment,
+        Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss]
+    - rb: [Bide, Blizzard, Body Slam, Bubblebeam, Counter, Double-Edge, Double Team,
+        Doubleslap, Hyper Beam, Ice Beam, Ice Punch, Lick, Lovely Kiss, Mega Kick,
+        Mega Punch, Metronome, Mimic, Pound, Psychic, Psywave, Rage, Reflect, Rest,
+        Seismic Toss, Skull Bash, Submission, Substitute, Take Down, Teleport, Thrash,
+        Toxic, Water Gun]
     stats:
     - [65, 50, 35, 95, 95, 95]
     - gs: [65, 50, 35, 115, 95, 95]
@@ -33,62 +31,60 @@ pokemon:
     - [ou]
     - dp: [nu]
     - gs: [bl]
+    types:
+    - [Ice, Psychic]
     weight: [40.6]
-    height: [1.4]
-evolutions:
-- {from: Smoochum, to: Jynx}
-learnsets:
-  rb:
-    Jynx: [Bide, Blizzard, Body Slam, Bubblebeam, Counter, Double-Edge, Double Team,
-      Doubleslap, Hyper Beam, Ice Beam, Ice Punch, Lick, Lovely Kiss, Mega Kick, Mega
-        Punch, Metronome, Mimic, Pound, Psychic, Psywave, Rage, Reflect, Rest, Seismic
-        Toss, Skull Bash, Submission, Substitute, Take Down, Teleport, Thrash, Toxic,
-      Water Gun]
-  gs:
-    Smoochum: [Attract, Blizzard, Confusion, Curse, Double Team, Dream Eater, Dynamicpunch,
-      Endure, Frustration, Hidden Power, Ice Beam, Ice Punch, Icy Wind, Lick, Lovely
-        Kiss, Mean Look, Meditate, Mud-Slap, Nightmare, Perish Song, Pound, Powder
-        Snow, Protect, Psych Up, Psychic, Rain Dance, Rest, Return, Shadow Ball, Sing,
-      Sleep Talk, Snore, Swagger, Sweet Kiss, Sweet Scent, Thief, Toxic]
-    Jynx: [Body Slam, Doubleslap, Headbutt, Hyper Beam]
-  rs:
-    Smoochum: [Attract, Blizzard, Body Slam, Calm Mind, Confusion, Counter, Double-Edge,
-      Double Team, Dream Eater, Dynamicpunch, Endure, Facade, Fake Out, Fake Tears,
-      Flash, Frustration, Hail, Hidden Power, Ice Beam, Ice Punch, Icy Wind, Lick,
-      Light Screen, Mean Look, Meditate, Mega Kick, Mega Punch, Metronome, Mimic,
-      Mud-Slap, Nightmare, Perish Song, Pound, Powder Snow, Protect, Psych Up, Psychic,
-      Rain Dance, Reflect, Rest, Return, Secret Power, Seismic Toss, Shadow Ball,
-      Sing, Skill Swap, Sleep Talk, Snore, Substitute, Swagger, Sweet Kiss, Thief,
-      Toxic, Water Pulse, Wish, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare,
-      Seismic Toss, Substitute]
-    Jynx: [Brick Break, Doubleslap, Focus Punch, Hyper Beam, Lovely Kiss, Taunt, Torment,
-      Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss]
-  dp:
-    Smoochum: [Attract, Avalanche, Blizzard, Calm Mind, Captivate, Confusion, Copycat,
-      Double Team, Dream Eater, Endure, Facade, Fake Out, Fake Tears, Flash, Fling,
-      Frustration, Grass Knot, Hail, Heal Bell, Helping Hand, Hidden Power, Ice Beam,
-      Ice Punch, Icy Wind, Lick, Light Screen, Lucky Chant, Magic Coat, Mean Look,
-      Meditate, Miracle Eye, Mud-Slap, Nasty Plot, Natural Gift, Payback, Perish Song,
-      Pound, Powder Snow, Protect, Psych Up, Psychic, Rain Dance, Recycle, Reflect,
-      Rest, Return, Role Play, Secret Power, Shadow Ball, Signal Beam, Sing, Skill
-        Swap, Sleep Talk, Snore, Substitute, Swagger, Sweet Kiss, Thief, Toxic, Trick,
-      Trick Room, Uproar, Water Pulse, Wish, Zen Headbutt, Body Slam, Double-Edge,
-      Icy Wind, Mimic, Nightmare, Seismic Toss, Substitute]
-    Jynx: [Body Slam, Brick Break, Doubleslap, Drain Punch, Energy Ball, Focus Blast,
-      Focus Punch, Giga Impact, Headbutt, Hyper Beam, Lovely Kiss, Taunt, Torment,
-      Wake-Up Slap, Wring Out, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss]
-  bw:
-    Smoochum: [Attract, Avalanche, Blizzard, Calm Mind, Captivate, Confusion, Copycat,
-      Covet, Double Team, Dream Eater, Echoed Voice, Facade, Fake Out, Fake Tears,
-      Flash, Fling, Frost Breath, Frustration, Grass Knot, Hail, Heal Bell, Heart
-        Stamp, Helping Hand, Hidden Power, Ice Beam, Ice Punch, Icy Wind, Lick, Light
-        Screen, Lucky Chant, Magic Coat, Magic Room, Mean Look, Meditate, Miracle
-        Eye, Nasty Plot, Payback, Perish Song, Pound, Powder Snow, Protect, Psych
-        Up, Psychic, Psyshock, Rain Dance, Recycle, Reflect, Rest, Return, Role Play,
-      Round, Shadow Ball, Signal Beam, Sing, Skill Swap, Sleep Talk, Snore, Substitute,
-      Swagger, Sweet Kiss, Thief, Toxic, Trick, Trick Room, Uproar, Wake-Up Slap,
-      Wish, Zen Headbutt, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic
-        Toss, Substitute]
-    Jynx: [Body Slam, Brick Break, Doubleslap, Drain Punch, Energy Ball, Focus Blast,
-      Giga Impact, Hyper Beam, Hyper Voice, Lovely Kiss, Taunt, Telekinesis, Torment,
-      Wring Out, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss]
+  Smoochum:
+    abilities:
+    - [Oblivious]
+    - dp: [Forewarn, Oblivious]
+    - bw: [Forewarn, Hydration, Oblivious]
+    egggroups:
+    - []
+    evolutions: [Jynx]
+    height: [0.4]
+    introduction: gs
+    moves:
+    - gs: [Attract, Blizzard, Confusion, Curse, Double Team, Dream Eater, Dynamicpunch,
+        Endure, Frustration, Hidden Power, Ice Beam, Ice Punch, Icy Wind, Lick, Lovely
+          Kiss, Mean Look, Meditate, Mud-Slap, Nightmare, Perish Song, Pound, Powder
+          Snow, Protect, Psych Up, Psychic, Rain Dance, Rest, Return, Shadow Ball,
+        Sing, Sleep Talk, Snore, Swagger, Sweet Kiss, Sweet Scent, Thief, Toxic]
+    - bw: [Attract, Avalanche, Blizzard, Calm Mind, Captivate, Confusion, Copycat,
+        Covet, Double Team, Dream Eater, Echoed Voice, Facade, Fake Out, Fake Tears,
+        Flash, Fling, Frost Breath, Frustration, Grass Knot, Hail, Heal Bell, Heart
+          Stamp, Helping Hand, Hidden Power, Ice Beam, Ice Punch, Icy Wind, Lick,
+        Light Screen, Lucky Chant, Magic Coat, Magic Room, Mean Look, Meditate, Miracle
+          Eye, Nasty Plot, Payback, Perish Song, Pound, Powder Snow, Protect, Psych
+          Up, Psychic, Psyshock, Rain Dance, Recycle, Reflect, Rest, Return, Role
+          Play, Round, Shadow Ball, Signal Beam, Sing, Skill Swap, Sleep Talk, Snore,
+        Substitute, Swagger, Sweet Kiss, Thief, Toxic, Trick, Trick Room, Uproar,
+        Wake-Up Slap, Wish, Zen Headbutt, Body Slam, Double-Edge, Icy Wind, Mimic,
+        Nightmare, Seismic Toss, Substitute]
+    - dp: [Attract, Avalanche, Blizzard, Calm Mind, Captivate, Confusion, Copycat,
+        Double Team, Dream Eater, Endure, Facade, Fake Out, Fake Tears, Flash, Fling,
+        Frustration, Grass Knot, Hail, Heal Bell, Helping Hand, Hidden Power, Ice
+          Beam, Ice Punch, Icy Wind, Lick, Light Screen, Lucky Chant, Magic Coat,
+        Mean Look, Meditate, Miracle Eye, Mud-Slap, Nasty Plot, Natural Gift, Payback,
+        Perish Song, Pound, Powder Snow, Protect, Psych Up, Psychic, Rain Dance, Recycle,
+        Reflect, Rest, Return, Role Play, Secret Power, Shadow Ball, Signal Beam,
+        Sing, Skill Swap, Sleep Talk, Snore, Substitute, Swagger, Sweet Kiss, Thief,
+        Toxic, Trick, Trick Room, Uproar, Water Pulse, Wish, Zen Headbutt, Body Slam,
+        Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss, Substitute]
+    - rs: [Attract, Blizzard, Body Slam, Calm Mind, Confusion, Counter, Double-Edge,
+        Double Team, Dream Eater, Dynamicpunch, Endure, Facade, Fake Out, Fake Tears,
+        Flash, Frustration, Hail, Hidden Power, Ice Beam, Ice Punch, Icy Wind, Lick,
+        Light Screen, Mean Look, Meditate, Mega Kick, Mega Punch, Metronome, Mimic,
+        Mud-Slap, Nightmare, Perish Song, Pound, Powder Snow, Protect, Psych Up, Psychic,
+        Rain Dance, Reflect, Rest, Return, Secret Power, Seismic Toss, Shadow Ball,
+        Sing, Skill Swap, Sleep Talk, Snore, Substitute, Swagger, Sweet Kiss, Thief,
+        Toxic, Water Pulse, Wish, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare,
+        Seismic Toss, Substitute]
+    stats:
+    - [45, 30, 15, 85, 65, 65]
+    tags:
+    - [nfe]
+    - dp: [lc]
+    types:
+    - [Ice, Psychic]
+    weight: [6]

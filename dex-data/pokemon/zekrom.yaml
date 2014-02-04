@@ -1,28 +1,26 @@
 pokemon:
   Zekrom:
-    introduction: bw
-    types:
-    - [Dragon, Electric]
-    egggroups:
-    - []
     abilities:
     - [Teravolt]
+    egggroups:
+    - []
+    height: [2.9]
+    introduction: bw
+    moves:
+    - bw: [Ancientpower, Bolt Strike, Charge Beam, Crunch, Cut, Double Team, Draco
+          Meteor, Dragon Claw, Dragon Pulse, Dragon Rage, Dragon Tail, Dragonbreath,
+        Earth Power, Echoed Voice, Facade, Flash, Flash Cannon, Fling, Fly, Focus
+          Blast, Frustration, Fusion Bolt, Giga Impact, Haze, Hidden Power, Hone Claws,
+        Hyper Beam, Hyper Voice, Imprison, Light Screen, Magnet Rise, Outrage, Payback,
+        Protect, Psychic, Rain Dance, Reflect, Rest, Return, Rock Slide, Rock Smash,
+        Rock Tomb, Roost, Round, Safeguard, Shadow Ball, Shadow Claw, Signal Beam,
+        Slash, Sleep Talk, Snore, Stone Edge, Strength, Substitute, Swagger, Tailwind,
+        Thunder, Thunder Fang, Thunder Wave, Thunderbolt, Thunderpunch, Toxic, Volt
+          Switch, Wild Charge, Zen Headbutt]
     stats:
     - [100, 150, 120, 120, 100, 90]
     tags:
     - [uber]
+    types:
+    - [Dragon, Electric]
     weight: [345]
-    height: [2.9]
-evolutions: []
-learnsets:
-  bw:
-    Zekrom: [Ancientpower, Bolt Strike, Charge Beam, Crunch, Cut, Double Team, Draco
-        Meteor, Dragon Claw, Dragon Pulse, Dragon Rage, Dragon Tail, Dragonbreath,
-      Earth Power, Echoed Voice, Facade, Flash, Flash Cannon, Fling, Fly, Focus Blast,
-      Frustration, Fusion Bolt, Giga Impact, Haze, Hidden Power, Hone Claws, Hyper
-        Beam, Hyper Voice, Imprison, Light Screen, Magnet Rise, Outrage, Payback,
-      Protect, Psychic, Rain Dance, Reflect, Rest, Return, Rock Slide, Rock Smash,
-      Rock Tomb, Roost, Round, Safeguard, Shadow Ball, Shadow Claw, Signal Beam, Slash,
-      Sleep Talk, Snore, Stone Edge, Strength, Substitute, Swagger, Tailwind, Thunder,
-      Thunder Fang, Thunder Wave, Thunderbolt, Thunderpunch, Toxic, Volt Switch, Wild
-        Charge, Zen Headbutt]

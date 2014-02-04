@@ -1,49 +1,46 @@
 pokemon:
   Shaymin:
-    introduction: dp
-    types:
-    - [Grass]
-    egggroups:
-    - []
     abilities:
     - [Natural Cure]
+    egggroups:
+    - []
+    evolutions: [Shaymin-S]
+    height: [0.2]
+    introduction: dp
+    moves:
+    - bw: [Aromatherapy, Covet, Double Team, Earth Power, Endeavor, Energy Ball, Facade,
+        Flash, Frustration, Giga Drain, Giga Impact, Grass Knot, Growth, Healing Wish,
+        Hidden Power, Hyper Beam, Last Resort, Leech Seed, Magical Leaf, Natural Gift,
+        Protect, Psych Up, Psychic, Rest, Return, Round, Safeguard, Seed Bomb, Seed
+          Flare, Sleep Talk, Snore, Solarbeam, Substitute, Sunny Day, Swagger, Sweet
+          Kiss, Sweet Scent, Swords Dance, Synthesis, Toxic, Worry Seed, Zen Headbutt]
+    - dp: [Aromatherapy, Bullet Seed, Defense Curl, Double Team, Earth Power, Endeavor,
+        Endure, Energy Ball, Facade, Flash, Frustration, Giga Drain, Giga Impact,
+        Grass Knot, Grasswhistle, Growth, Headbutt, Healing Wish, Hidden Power, Hyper
+          Beam, Last Resort, Leech Seed, Lucky Chant, Magical Leaf, Mud-Slap, Natural
+          Gift, Protect, Psych Up, Psychic, Rest, Return, Safeguard, Secret Power,
+        Seed Bomb, Seed Flare, Sleep Talk, Snore, Solarbeam, Substitute, Sunny Day,
+        Swagger, Sweet Kiss, Sweet Scent, Swift, Swords Dance, Synthesis, Toxic, Worry
+          Seed, Zen Headbutt]
     stats:
     - [100, 100, 100, 100, 100, 100]
     tags:
     - [ou]
     - bw: [uu]
-    weight: [2.1]
-    height: [0.2]
-  Shaymin-Sky:
-    introduction: dp
     types:
-    - [Flying, Grass]
-    egggroups:
-    - []
+    - [Grass]
+    weight: [2.1]
+  Shaymin-Sky:
     abilities:
     - [Serene Grace]
+    egggroups:
+    - []
+    height: [0.4]
+    introduction: dp
     stats:
     - [100, 103, 75, 120, 75, 127]
     tags:
     - [uber]
+    types:
+    - [Flying, Grass]
     weight: [5.2]
-    height: [0.4]
-evolutions:
-- {from: Shaymin, to: Shaymin-S}
-learnsets:
-  dp:
-    Shaymin: [Aromatherapy, Bullet Seed, Defense Curl, Double Team, Earth Power, Endeavor,
-      Endure, Energy Ball, Facade, Flash, Frustration, Giga Drain, Giga Impact, Grass
-        Knot, Grasswhistle, Growth, Headbutt, Healing Wish, Hidden Power, Hyper Beam,
-      Last Resort, Leech Seed, Lucky Chant, Magical Leaf, Mud-Slap, Natural Gift,
-      Protect, Psych Up, Psychic, Rest, Return, Safeguard, Secret Power, Seed Bomb,
-      Seed Flare, Sleep Talk, Snore, Solarbeam, Substitute, Sunny Day, Swagger, Sweet
-        Kiss, Sweet Scent, Swift, Swords Dance, Synthesis, Toxic, Worry Seed, Zen
-        Headbutt]
-  bw:
-    Shaymin: [Aromatherapy, Covet, Double Team, Earth Power, Endeavor, Energy Ball,
-      Facade, Flash, Frustration, Giga Drain, Giga Impact, Grass Knot, Growth, Healing
-        Wish, Hidden Power, Hyper Beam, Last Resort, Leech Seed, Magical Leaf, Natural
-        Gift, Protect, Psych Up, Psychic, Rest, Return, Round, Safeguard, Seed Bomb,
-      Seed Flare, Sleep Talk, Snore, Solarbeam, Substitute, Sunny Day, Swagger, Sweet
-        Kiss, Sweet Scent, Swords Dance, Synthesis, Toxic, Worry Seed, Zen Headbutt]

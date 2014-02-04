@@ -1,50 +1,48 @@
 pokemon:
   Combee:
-    introduction: dp
-    types:
-    - [Bug, Flying]
-    egggroups:
-    - [Bug]
     abilities:
     - [Honey Gather, Hustle]
+    egggroups:
+    - [Bug]
+    evolutions: [Vespiquen]
+    height: [0.3]
+    introduction: dp
+    moves:
+    - bw: [Bug Bite, Bug Buzz, Endeavor, Gust, Snore, Sweet Scent, Tailwind]
+    - dp: [Air Cutter, Bug Bite, Endeavor, Gust, Mud-Slap, Ominous Wind, Snore, String
+          Shot, Sweet Scent, Swift, Tailwind]
     stats:
     - [30, 30, 42, 30, 42, 70]
     tags:
     - [lc]
-    weight: [5.5]
-    height: [0.3]
-  Vespiquen:
-    introduction: dp
     types:
     - [Bug, Flying]
-    egggroups:
-    - [Bug]
+    weight: [5.5]
+  Vespiquen:
     abilities:
     - [Pressure, Unnerve]
+    egggroups:
+    - [Bug]
+    height: [1.2]
+    introduction: dp
+    moves:
+    - bw: [Acrobatics, Aerial Ace, Air Slash, Attack Order, Attract, Captivate, Confuse
+          Ray, Cut, Defend Order, Destiny Bond, Double Team, Facade, Flash, Fling,
+        Frustration, Fury Cutter, Fury Swipes, Giga Impact, Heal Order, Hidden Power,
+        Hone Claws, Hyper Beam, Poison Sting, Power Gem, Protect, Pursuit, Quash,
+        Rain Dance, Rest, Return, Roost, Round, Signal Beam, Slash, Sleep Talk, Sludge
+          Bomb, Struggle Bug, Substitute, Sunny Day, Swagger, Thief, Toxic, U-turn,
+        Venoshock, X-scissor]
+    - dp: [Aerial Ace, Attack Order, Attract, Captivate, Confuse Ray, Cut, Defend
+          Order, Defog, Destiny Bond, Double Team, Endure, Facade, Flash, Fling, Frustration,
+        Fury Cutter, Fury Swipes, Giga Impact, Heal Order, Hidden Power, Hyper Beam,
+        Natural Gift, Poison Sting, Power Gem, Protect, Pursuit, Rain Dance, Rest,
+        Return, Roost, Secret Power, Signal Beam, Silver Wind, Slash, Sleep Talk,
+        Sludge Bomb, Substitute, Sunny Day, Swagger, Thief, Toxic, U-turn, X-scissor]
     stats:
     - [70, 80, 102, 80, 102, 40]
     tags:
     - [nu]
+    types:
+    - [Bug, Flying]
     weight: [38.5]
-    height: [1.2]
-evolutions:
-- {from: Combee, to: Vespiquen}
-learnsets:
-  dp:
-    Combee: [Air Cutter, Bug Bite, Endeavor, Gust, Mud-Slap, Ominous Wind, Snore,
-      String Shot, Sweet Scent, Swift, Tailwind]
-    Vespiquen: [Aerial Ace, Attack Order, Attract, Captivate, Confuse Ray, Cut, Defend
-        Order, Defog, Destiny Bond, Double Team, Endure, Facade, Flash, Fling, Frustration,
-      Fury Cutter, Fury Swipes, Giga Impact, Heal Order, Hidden Power, Hyper Beam,
-      Natural Gift, Poison Sting, Power Gem, Protect, Pursuit, Rain Dance, Rest, Return,
-      Roost, Secret Power, Signal Beam, Silver Wind, Slash, Sleep Talk, Sludge Bomb,
-      Substitute, Sunny Day, Swagger, Thief, Toxic, U-turn, X-scissor]
-  bw:
-    Combee: [Bug Bite, Bug Buzz, Endeavor, Gust, Snore, Sweet Scent, Tailwind]
-    Vespiquen: [Acrobatics, Aerial Ace, Air Slash, Attack Order, Attract, Captivate,
-      Confuse Ray, Cut, Defend Order, Destiny Bond, Double Team, Facade, Flash, Fling,
-      Frustration, Fury Cutter, Fury Swipes, Giga Impact, Heal Order, Hidden Power,
-      Hone Claws, Hyper Beam, Poison Sting, Power Gem, Protect, Pursuit, Quash, Rain
-        Dance, Rest, Return, Roost, Round, Signal Beam, Slash, Sleep Talk, Sludge
-        Bomb, Struggle Bug, Substitute, Sunny Day, Swagger, Thief, Toxic, U-turn,
-      Venoshock, X-scissor]

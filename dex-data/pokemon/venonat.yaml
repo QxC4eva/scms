@@ -1,32 +1,23 @@
 pokemon:
-  Venonat:
-    introduction: rb
-    types:
-    - [Bug, Poison]
-    egggroups:
-    - [Bug]
-    abilities:
-    - [Compound Eyes]
-    - dp: [Compound Eyes, Tinted Lens]
-    - bw: [Compound Eyes, Run Away, Tinted Lens]
-    stats:
-    - [60, 55, 50, 40, 40, 45]
-    - gs: [60, 55, 50, 40, 55, 45]
-    tags:
-    - [nfe]
-    - dp: [lc]
-    weight: [30]
-    height: [1]
   Venomoth:
-    introduction: rb
-    types:
-    - [Bug, Poison]
-    egggroups:
-    - [Bug]
     abilities:
     - [Shield Dust]
     - dp: [Shield Dust, Tinted Lens]
     - bw: [Shield Dust, Tinted Lens, Wonder Skin]
+    egggroups:
+    - [Bug]
+    height: [1.5]
+    introduction: rb
+    moves:
+    - gs: [Flash, Gust, Hyper Beam]
+    - bw: [Acrobatics, Aerial Ace, Bug Buzz, Energy Ball, Giga Impact, Gust, Hyper
+          Beam, Quiver Dance, Roost, Silver Wind, Tailwind, U-turn, Double-Edge, Mimic,
+        Refresh]
+    - dp: [Aerial Ace, Air Cutter, Bug Buzz, Defog, Energy Ball, Giga Impact, Gust,
+        Hyper Beam, Ominous Wind, Roost, Silver Wind, Tailwind, Twister, U-turn, Double-Edge,
+        Mimic, Refresh]
+    - rs: [Aerial Ace, Gust, Hyper Beam, Silver Wind, Double-Edge, Mimic, Refresh]
+    - rb: [Hyper Beam, Razor Wind, Swift, Teleport, Whirlwind]
     stats:
     - [70, 65, 60, 90, 90, 90]
     - gs: [70, 65, 60, 90, 75, 90]
@@ -34,51 +25,55 @@ pokemon:
     - [uu]
     - bw: [bl2]
     - rs: [nu]
+    types:
+    - [Bug, Poison]
     weight: [12.5]
-    height: [1.5]
-evolutions:
-- {from: Venonat, to: Venomoth}
-learnsets:
-  rb:
-    Venonat: [Bide, Confusion, Disable, Double-Edge, Double Team, Flash, Leech Life,
-      Mega Drain, Mimic, Poisonpowder, Psybeam, Psychic, Psywave, Rage, Reflect, Rest,
-      Sleep Powder, Solarbeam, Stun Spore, Substitute, Supersonic, Tackle, Take Down,
-      Toxic]
-    Venomoth: [Hyper Beam, Razor Wind, Swift, Teleport, Whirlwind]
-  gs:
-    Venonat: [Attract, Baton Pass, Confusion, Curse, Disable, Double Team, Endure,
-      Foresight, Frustration, Giga Drain, Hidden Power, Leech Life, Poisonpowder,
-      Protect, Psybeam, Psychic, Rest, Return, Screech, Sleep Powder, Sleep Talk,
-      Sludge Bomb, Snore, Solarbeam, Stun Spore, Sunny Day, Supersonic, Swagger, Sweet
-        Scent, Swift, Tackle, Thief, Toxic]
-    Venomoth: [Flash, Gust, Hyper Beam]
-  rs:
-    Venonat: [Attract, Baton Pass, Confusion, Disable, Double-Edge, Double Team, Endure,
-      Facade, Flash, Foresight, Frustration, Giga Drain, Hidden Power, Leech Life,
-      Mimic, Poisonpowder, Protect, Psybeam, Psychic, Rest, Return, Screech, Secret
-        Power, Signal Beam, Skill Swap, Sleep Powder, Sleep Talk, Sludge Bomb, Snore,
-      Solarbeam, Stun Spore, Substitute, Sunny Day, Supersonic, Swagger, Swift, Tackle,
-      Thief, Toxic, Double-Edge, Mimic]
-    Venomoth: [Aerial Ace, Gust, Hyper Beam, Silver Wind, Double-Edge, Mimic, Refresh]
-  dp:
-    Venonat: [Agility, Attract, Baton Pass, Bug Bite, Captivate, Confusion, Disable,
-      Double Team, Endure, Facade, Flash, Foresight, Frustration, Giga Drain, Hidden
-        Power, Leech Life, Morning Sun, Natural Gift, Poison Fang, Poisonpowder, Protect,
-      Psybeam, Psychic, Rest, Return, Screech, Secret Power, Signal Beam, Skill Swap,
-      Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solarbeam, String Shot, Stun Spore,
-      Substitute, Sunny Day, Supersonic, Swagger, Swift, Tackle, Thief, Toxic, Toxic
-        Spikes, Zen Headbutt, Double-Edge, Mimic]
-    Venomoth: [Aerial Ace, Air Cutter, Bug Buzz, Defog, Energy Ball, Giga Impact,
-      Gust, Hyper Beam, Ominous Wind, Roost, Silver Wind, Tailwind, Twister, U-turn,
-      Double-Edge, Mimic, Refresh]
-  bw:
-    Venonat: [Agility, Attract, Baton Pass, Bug Bite, Confusion, Disable, Double Team,
-      Facade, Flash, Foresight, Frustration, Giga Drain, Hidden Power, Leech Life,
-      Morning Sun, Poison Fang, Poisonpowder, Protect, Psybeam, Psychic, Rage Powder,
-      Rest, Return, Round, Screech, Secret Power, Signal Beam, Skill Swap, Sleep Powder,
-      Sleep Talk, Sludge Bomb, Snore, Solarbeam, Struggle Bug, Stun Spore, Substitute,
-      Sunny Day, Supersonic, Swagger, Tackle, Thief, Toxic, Toxic Spikes, Venoshock,
-      Zen Headbutt, Double-Edge, Mimic]
-    Venomoth: [Acrobatics, Aerial Ace, Bug Buzz, Energy Ball, Giga Impact, Gust, Hyper
-        Beam, Quiver Dance, Roost, Silver Wind, Tailwind, U-turn, Double-Edge, Mimic,
-      Refresh]
+  Venonat:
+    abilities:
+    - [Compound Eyes]
+    - dp: [Compound Eyes, Tinted Lens]
+    - bw: [Compound Eyes, Run Away, Tinted Lens]
+    egggroups:
+    - [Bug]
+    evolutions: [Venomoth]
+    height: [1]
+    introduction: rb
+    moves:
+    - gs: [Attract, Baton Pass, Confusion, Curse, Disable, Double Team, Endure, Foresight,
+        Frustration, Giga Drain, Hidden Power, Leech Life, Poisonpowder, Protect,
+        Psybeam, Psychic, Rest, Return, Screech, Sleep Powder, Sleep Talk, Sludge
+          Bomb, Snore, Solarbeam, Stun Spore, Sunny Day, Supersonic, Swagger, Sweet
+          Scent, Swift, Tackle, Thief, Toxic]
+    - bw: [Agility, Attract, Baton Pass, Bug Bite, Confusion, Disable, Double Team,
+        Facade, Flash, Foresight, Frustration, Giga Drain, Hidden Power, Leech Life,
+        Morning Sun, Poison Fang, Poisonpowder, Protect, Psybeam, Psychic, Rage Powder,
+        Rest, Return, Round, Screech, Secret Power, Signal Beam, Skill Swap, Sleep
+          Powder, Sleep Talk, Sludge Bomb, Snore, Solarbeam, Struggle Bug, Stun Spore,
+        Substitute, Sunny Day, Supersonic, Swagger, Tackle, Thief, Toxic, Toxic Spikes,
+        Venoshock, Zen Headbutt, Double-Edge, Mimic]
+    - dp: [Agility, Attract, Baton Pass, Bug Bite, Captivate, Confusion, Disable,
+        Double Team, Endure, Facade, Flash, Foresight, Frustration, Giga Drain, Hidden
+          Power, Leech Life, Morning Sun, Natural Gift, Poison Fang, Poisonpowder,
+        Protect, Psybeam, Psychic, Rest, Return, Screech, Secret Power, Signal Beam,
+        Skill Swap, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solarbeam, String
+          Shot, Stun Spore, Substitute, Sunny Day, Supersonic, Swagger, Swift, Tackle,
+        Thief, Toxic, Toxic Spikes, Zen Headbutt, Double-Edge, Mimic]
+    - rs: [Attract, Baton Pass, Confusion, Disable, Double-Edge, Double Team, Endure,
+        Facade, Flash, Foresight, Frustration, Giga Drain, Hidden Power, Leech Life,
+        Mimic, Poisonpowder, Protect, Psybeam, Psychic, Rest, Return, Screech, Secret
+          Power, Signal Beam, Skill Swap, Sleep Powder, Sleep Talk, Sludge Bomb, Snore,
+        Solarbeam, Stun Spore, Substitute, Sunny Day, Supersonic, Swagger, Swift,
+        Tackle, Thief, Toxic, Double-Edge, Mimic]
+    - rb: [Bide, Confusion, Disable, Double-Edge, Double Team, Flash, Leech Life,
+        Mega Drain, Mimic, Poisonpowder, Psybeam, Psychic, Psywave, Rage, Reflect,
+        Rest, Sleep Powder, Solarbeam, Stun Spore, Substitute, Supersonic, Tackle,
+        Take Down, Toxic]
+    stats:
+    - [60, 55, 50, 40, 40, 45]
+    - gs: [60, 55, 50, 40, 55, 45]
+    tags:
+    - [nfe]
+    - dp: [lc]
+    types:
+    - [Bug, Poison]
+    weight: [30]

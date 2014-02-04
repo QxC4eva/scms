@@ -1,30 +1,67 @@
-
 pokemon:
   Diglett:
-    introduction: rb
-    types:
-    - [Ground]
-    egggroups:
-    - [Ground]
     abilities:
     - [Arena Trap, Sand Veil]
     - bw: [Arena Trap, Sand Force, Sand Veil]
+    egggroups:
+    - [Ground]
+    evolutions: [Dugtrio]
+    height: [0.2]
+    introduction: rb
+    moves:
+    - gs: [Ancientpower, Attract, Beat Up, Curse, Cut, Dig, Double Team, Earthquake,
+        Endure, Faint Attack, Fissure, Frustration, Growl, Hidden Power, Magnitude,
+        Mud-Slap, Protect, Pursuit, Rest, Return, Rock Smash, Sand-Attack, Scratch,
+        Screech, Slash, Sleep Talk, Sludge Bomb, Snore, Sunny Day, Swagger, Thief,
+        Toxic]
+    - bw: [Aerial Ace, Ancientpower, Astonish, Attract, Beat Up, Bulldoze, Cut, Dig,
+        Double-Edge, Double Team, Earth Power, Earthquake, Echoed Voice, Endure, Facade,
+        Faint Attack, Final Gambit, Fissure, Frustration, Fury Cutter, Growl, Headbutt,
+        Hidden Power, Hone Claws, Magnitude, Memento, Mimic, Mud Bomb, Mud-Slap, Protect,
+        Pursuit, Rest, Return, Reversal, Rock Slide, Rock Smash, Rock Tomb, Round,
+        Sand-Attack, Sandstorm, Scratch, Screech, Shadow Claw, Slash, Sleep Talk,
+        Sludge Bomb, Snore, Stealth Rock, Substitute, Sucker Punch, Sunny Day, Swagger,
+        Thief, Toxic, Uproar]
+    - dp: [Aerial Ace, Ancientpower, Astonish, Attract, Beat Up, Body Slam, Captivate,
+        Cut, Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endure, Facade,
+        Faint Attack, Fissure, Frustration, Fury Cutter, Growl, Hidden Power, Magnitude,
+        Mimic, Mud Bomb, Mud-Slap, Natural Gift, Protect, Pursuit, Rest, Return, Reversal,
+        Rock Slide, Rock Smash, Rock Tomb, Sand-Attack, Sandstorm, Scratch, Screech,
+        Secret Power, Shadow Claw, Slash, Sleep Talk, Sludge Bomb, Snore, Stealth
+          Rock, Substitute, Sucker Punch, Sunny Day, Swagger, Thief, Toxic, Uproar]
+    - rs: [Aerial Ace, Ancientpower, Attract, Beat Up, Body Slam, Cut, Dig, Double-Edge,
+        Double Team, Earthquake, Endure, Facade, Faint Attack, Fissure, Frustration,
+        Fury Cutter, Fury Swipes, Growl, Hidden Power, Magnitude, Mimic, Mud-Slap,
+        Protect, Pursuit, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Sand-Attack,
+        Scratch, Screech, Secret Power, Slash, Sleep Talk, Sludge Bomb, Snore, Substitute,
+        Sunny Day, Swagger, Thief, Toxic, Uproar]
+    - rb: [Bide, Body Slam, Cut, Dig, Double-Edge, Double Team, Earthquake, Fissure,
+        Growl, Mimic, Rage, Rest, Rock Slide, Sand-Attack, Scratch, Slash, Substitute,
+        Take Down, Toxic]
     stats:
-    - [10, 55, 25, 45, 45, 95]  
+    - [10, 55, 25, 45, 45, 95]
     - gs: [10, 55, 25, 35, 45, 95]
     tags:
     - [nfe]
-    weight: [0.8]
-    height: [0.2]
-  Dugtrio:
-    introduction: rb
     types:
     - [Ground]
-    egggroups:
-    - [Ground]
+    weight: [0.8]
+  Dugtrio:
     abilities:
     - [Arena Trap, Sand Veil]
     - bw: [Arena Trap, Sand Force, Sand Veil]
+    egggroups:
+    - [Ground]
+    height: [0.7]
+    introduction: rb
+    moves:
+    - gs: [Hyper Beam, Tri Attack]
+    - bw: [Charm, Giga Impact, Hyper Beam, Night Slash, Sand Tomb, Sludge Wave, Stone
+          Edge, Tri Attack]
+    - dp: [Charm, Giga Impact, Hyper Beam, Night Slash, Sand Tomb, Stone Edge, Tri
+          Attack]
+    - rs: [Charm, Hyper Beam, Sand Tomb, Tri Attack]
+    - rb: [Hyper Beam]
     stats:
     - [35, 80, 50, 70, 70, 120]
     - gs: [35, 80, 50, 50, 70, 120]
@@ -33,48 +70,6 @@ pokemon:
     - bw: [ou]
     - dp: [uu]
     - rs: [ou]
+    types:
+    - [Ground]
     weight: [33.3]
-    height: [0.7]
-evolutions:
-- {from: Diglett, to: Dugtrio}
-learnsets:
-  rb:
-    Diglett: [Bide, Body Slam, Cut, Dig, Double-Edge, Double Team, Earthquake, Fissure,
-      Growl, Mimic, Rage, Rest, Rock Slide, Sand-Attack, Scratch, Slash, Substitute,
-      Take Down, Toxic]
-    Dugtrio: [Hyper Beam]
-  gs:
-    Diglett: [Ancientpower, Attract, Beat Up, Curse, Cut, Dig, Double Team, Earthquake,
-      Endure, Faint Attack, Fissure, Frustration, Growl, Hidden Power, Magnitude,
-      Mud-Slap, Protect, Pursuit, Rest, Return, Rock Smash, Sand-Attack, Scratch,
-      Screech, Slash, Sleep Talk, Sludge Bomb, Snore, Sunny Day, Swagger, Thief, Toxic]
-    Dugtrio: [Hyper Beam, Tri Attack]
-  rs:
-    Diglett: [Aerial Ace, Ancientpower, Attract, Beat Up, Body Slam, Cut, Dig, Double-Edge,
-      Double Team, Earthquake, Endure, Facade, Faint Attack, Fissure, Frustration,
-      Fury Cutter, Fury Swipes, Growl, Hidden Power, Magnitude, Mimic, Mud-Slap, Protect,
-      Pursuit, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Sand-Attack, Scratch,
-      Screech, Secret Power, Slash, Sleep Talk, Sludge Bomb, Snore, Substitute, Sunny
-        Day, Swagger, Thief, Toxic, Uproar]
-    Dugtrio: [Charm, Hyper Beam, Sand Tomb, Tri Attack]
-  dp:
-    Diglett: [Aerial Ace, Ancientpower, Astonish, Attract, Beat Up, Body Slam, Captivate,
-      Cut, Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endure, Facade,
-      Faint Attack, Fissure, Frustration, Fury Cutter, Growl, Hidden Power, Magnitude,
-      Mimic, Mud Bomb, Mud-Slap, Natural Gift, Protect, Pursuit, Rest, Return, Reversal,
-      Rock Slide, Rock Smash, Rock Tomb, Sand-Attack, Sandstorm, Scratch, Screech,
-      Secret Power, Shadow Claw, Slash, Sleep Talk, Sludge Bomb, Snore, Stealth Rock,
-      Substitute, Sucker Punch, Sunny Day, Swagger, Thief, Toxic, Uproar]
-    Dugtrio: [Charm, Giga Impact, Hyper Beam, Night Slash, Sand Tomb, Stone Edge,
-      Tri Attack]
-  bw:
-    Diglett: [Aerial Ace, Ancientpower, Astonish, Attract, Beat Up, Bulldoze, Cut,
-      Dig, Double-Edge, Double Team, Earth Power, Earthquake, Echoed Voice, Endure,
-      Facade, Faint Attack, Final Gambit, Fissure, Frustration, Fury Cutter, Growl,
-      Headbutt, Hidden Power, Hone Claws, Magnitude, Memento, Mimic, Mud Bomb, Mud-Slap,
-      Protect, Pursuit, Rest, Return, Reversal, Rock Slide, Rock Smash, Rock Tomb,
-      Round, Sand-Attack, Sandstorm, Scratch, Screech, Shadow Claw, Slash, Sleep Talk,
-      Sludge Bomb, Snore, Stealth Rock, Substitute, Sucker Punch, Sunny Day, Swagger,
-      Thief, Toxic, Uproar]
-    Dugtrio: [Charm, Giga Impact, Hyper Beam, Night Slash, Sand Tomb, Sludge Wave,
-      Stone Edge, Tri Attack]

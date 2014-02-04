@@ -1,64 +1,57 @@
 pokemon:
   Aerodactyl:
-    introduction: rb
-    types:
-    - [Flying, Rock]
-    egggroups:
-    - [Flying]
     abilities:
     - [Pressure, Rock Head]
     - bw: [Pressure, Rock Head, Unnerve]
+    egggroups:
+    - [Flying]
+    height: [1.8]
+    introduction: rb
+    moves:
+    - gs: [Agility, Ancientpower, Attract, Bite, Curse, Detect, Double Team, Dragonbreath,
+        Earthquake, Endure, Fire Blast, Flamethrower, Fly, Foresight, Frustration,
+        Headbutt, Hidden Power, Hyper Beam, Iron Tail, Protect, Pursuit, Rain Dance,
+        Rest, Return, Roar, Rock Smash, Sandstorm, Scary Face, Sleep Talk, Snore,
+        Steel Wing, Supersonic, Swagger, Swift, Take Down, Toxic, Whirlwind, Wing
+          Attack]
+    - bw: [Aerial Ace, Agility, Ancientpower, Aqua Tail, Assurance, Attract, Bite,
+        Bulldoze, Crunch, Curse, Double Team, Dragon Claw, Dragon Pulse, Dragonbreath,
+        Earth Power, Earthquake, Facade, Fire Blast, Fire Fang, Flamethrower, Fly,
+        Foresight, Frustration, Giga Impact, Heat Wave, Hidden Power, Hone Claws,
+        Hyper Beam, Ice Fang, Incinerate, Iron Head, Iron Tail, Payback, Protect,
+        Pursuit, Rain Dance, Rest, Return, Roar, Rock Polish, Rock Slide, Rock Smash,
+        Rock Tomb, Roost, Round, Sandstorm, Scary Face, Sky Attack, Sky Drop, Sleep
+          Talk, Smack Down, Snore, Stealth Rock, Steel Wing, Stone Edge, Strength,
+        Substitute, Sunny Day, Supersonic, Swagger, Tailwind, Take Down, Taunt, Thief,
+        Thunder Fang, Torment, Toxic, Whirlwind, Wing Attack]
+    - dp: [Aerial Ace, Agility, Air Cutter, Ancientpower, Aqua Tail, Assurance, Attract,
+        Bite, Captivate, Crunch, Curse, Defog, Double Team, Dragon Claw, Dragon Pulse,
+        Dragonbreath, Earth Power, Earthquake, Endure, Facade, Fire Blast, Fire Fang,
+        Flamethrower, Fly, Foresight, Frustration, Giga Impact, Headbutt, Heat Wave,
+        Hidden Power, Hyper Beam, Ice Fang, Iron Head, Iron Tail, Natural Gift, Ominous
+          Wind, Payback, Protect, Pursuit, Rain Dance, Rest, Return, Roar, Rock Polish,
+        Rock Slide, Rock Smash, Rock Tomb, Roost, Sandstorm, Scary Face, Secret Power,
+        Sky Attack, Sleep Talk, Snore, Stealth Rock, Steel Wing, Stone Edge, Strength,
+        Substitute, Sunny Day, Supersonic, Swagger, Swift, Tailwind, Take Down, Taunt,
+        Thief, Thunder Fang, Torment, Toxic, Twister, Whirlwind, Wing Attack]
+    - rs: [Aerial Ace, Agility, Ancientpower, Attract, Bite, Curse, Double-Edge, Double
+          Team, Dragon Claw, Dragonbreath, Earthquake, Endure, Facade, Fire Blast,
+        Flamethrower, Fly, Foresight, Frustration, Hidden Power, Hyper Beam, Iron
+          Tail, Mimic, Protect, Pursuit, Rain Dance, Rest, Return, Roar, Rock Slide,
+        Rock Smash, Rock Tomb, Sandstorm, Scary Face, Secret Power, Sky Attack, Sleep
+          Talk, Snore, Steel Wing, Strength, Substitute, Sunny Day, Supersonic, Swagger,
+        Swift, Take Down, Taunt, Thief, Torment, Toxic, Whirlwind, Wing Attack]
+    - rb: [Agility, Bide, Bite, Double-Edge, Double Team, Dragon Rage, Fire Blast,
+        Fly, Hyper Beam, Mimic, Rage, Razor Wind, Reflect, Rest, Sky Attack, Substitute,
+        Supersonic, Swift, Take Down, Toxic, Whirlwind, Wing Attack]
     stats:
     - [80, 105, 65, 60, 60, 130]
     - gs: [80, 105, 65, 60, 75, 130]
     tags:
     - [uu]
     - bw: [ru]
-      rs: [ou]
       gs: [bl]
+      rs: [ou]
+    types:
+    - [Flying, Rock]
     weight: [59]
-    height: [1.8]
-evolutions: []
-learnsets:
-  rb:
-    Aerodactyl: [Agility, Bide, Bite, Double-Edge, Double Team, Dragon Rage, Fire
-        Blast, Fly, Hyper Beam, Mimic, Rage, Razor Wind, Reflect, Rest, Sky Attack,
-      Substitute, Supersonic, Swift, Take Down, Toxic, Whirlwind, Wing Attack]
-  gs:
-    Aerodactyl: [Agility, Ancientpower, Attract, Bite, Curse, Detect, Double Team,
-      Dragonbreath, Earthquake, Endure, Fire Blast, Flamethrower, Fly, Foresight,
-      Frustration, Headbutt, Hidden Power, Hyper Beam, Iron Tail, Protect, Pursuit,
-      Rain Dance, Rest, Return, Roar, Rock Smash, Sandstorm, Scary Face, Sleep Talk,
-      Snore, Steel Wing, Supersonic, Swagger, Swift, Take Down, Toxic, Whirlwind,
-      Wing Attack]
-  rs:
-    Aerodactyl: [Aerial Ace, Agility, Ancientpower, Attract, Bite, Curse, Double-Edge,
-      Double Team, Dragon Claw, Dragonbreath, Earthquake, Endure, Facade, Fire Blast,
-      Flamethrower, Fly, Foresight, Frustration, Hidden Power, Hyper Beam, Iron Tail,
-      Mimic, Protect, Pursuit, Rain Dance, Rest, Return, Roar, Rock Slide, Rock Smash,
-      Rock Tomb, Sandstorm, Scary Face, Secret Power, Sky Attack, Sleep Talk, Snore,
-      Steel Wing, Strength, Substitute, Sunny Day, Supersonic, Swagger, Swift, Take
-        Down, Taunt, Thief, Torment, Toxic, Whirlwind, Wing Attack]
-  dp:
-    Aerodactyl: [Aerial Ace, Agility, Air Cutter, Ancientpower, Aqua Tail, Assurance,
-      Attract, Bite, Captivate, Crunch, Curse, Defog, Double Team, Dragon Claw, Dragon
-        Pulse, Dragonbreath, Earth Power, Earthquake, Endure, Facade, Fire Blast,
-      Fire Fang, Flamethrower, Fly, Foresight, Frustration, Giga Impact, Headbutt,
-      Heat Wave, Hidden Power, Hyper Beam, Ice Fang, Iron Head, Iron Tail, Natural
-        Gift, Ominous Wind, Payback, Protect, Pursuit, Rain Dance, Rest, Return, Roar,
-      Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Roost, Sandstorm, Scary Face,
-      Secret Power, Sky Attack, Sleep Talk, Snore, Stealth Rock, Steel Wing, Stone
-        Edge, Strength, Substitute, Sunny Day, Supersonic, Swagger, Swift, Tailwind,
-      Take Down, Taunt, Thief, Thunder Fang, Torment, Toxic, Twister, Whirlwind, Wing
-        Attack]
-  bw:
-    Aerodactyl: [Aerial Ace, Agility, Ancientpower, Aqua Tail, Assurance, Attract,
-      Bite, Bulldoze, Crunch, Curse, Double Team, Dragon Claw, Dragon Pulse, Dragonbreath,
-      Earth Power, Earthquake, Facade, Fire Blast, Fire Fang, Flamethrower, Fly, Foresight,
-      Frustration, Giga Impact, Heat Wave, Hidden Power, Hone Claws, Hyper Beam, Ice
-        Fang, Incinerate, Iron Head, Iron Tail, Payback, Protect, Pursuit, Rain Dance,
-      Rest, Return, Roar, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Roost, Round,
-      Sandstorm, Scary Face, Sky Attack, Sky Drop, Sleep Talk, Smack Down, Snore,
-      Stealth Rock, Steel Wing, Stone Edge, Strength, Substitute, Sunny Day, Supersonic,
-      Swagger, Tailwind, Take Down, Taunt, Thief, Thunder Fang, Torment, Toxic, Whirlwind,
-      Wing Attack]

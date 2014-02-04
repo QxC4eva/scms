@@ -1,94 +1,93 @@
 pokemon:
-  Whismur:
-    introduction: rs
-    types:
-    - [Normal]
-    egggroups:
-    - [Ground, Monster]
-    abilities:
-    - [Soundproof]
-    - bw: [Rattled, Soundproof]
-    stats:
-    - [64, 51, 23, 51, 23, 28]
-    tags:
-    - [nfe]
-    - dp: [lc]
-    weight: [16.3]
-    height: [0.6]
-  Loudred:
-    introduction: rs
-    types:
-    - [Normal]
-    egggroups:
-    - [Ground, Monster]
-    abilities:
-    - [Soundproof]
-    - bw: [Scrappy, Soundproof]
-    stats:
-    - [84, 71, 43, 71, 43, 48]
-    tags:
-    - [nfe]
-    weight: [40.5]
-    height: [1]
   Exploud:
-    introduction: rs
-    types:
-    - [Normal]
-    egggroups:
-    - [Ground, Monster]
     abilities:
     - [Soundproof]
     - bw: [Scrappy, Soundproof]
+    egggroups:
+    - [Ground, Monster]
+    height: [1.5]
+    introduction: rs
+    moves:
+    - bw: [Crunch, Fire Fang, Focus Blast, Giga Impact, Hyper Beam, Ice Fang, Outrage,
+        Surf, Thunder Fang, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+    - dp: [Avalanche, Crunch, Fire Fang, Focus Blast, Giga Impact, Hyper Beam, Ice
+          Fang, Outrage, Rock Climb, Surf, Thunder Fang, Whirlpool, Body Slam, Double-Edge,
+        Icy Wind, Mimic, Seismic Toss]
+    - rs: [Hyper Beam, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
     stats:
     - [104, 91, 63, 91, 63, 68]
     - xy: [104, 91, 63, 91, 73, 68]
     tags:
     - [uu]
     - dp: [nu]
+    types:
+    - [Normal]
     weight: [84]
-    height: [1.5]
-evolutions:
-- {from: Whismur, to: Loudred}
-- {from: Loudred, to: Exploud}
-learnsets:
-  rs:
-    Whismur: [Astonish, Attract, Blizzard, Body Slam, Counter, Defense Curl, Double-Edge,
-      Double Team, Dynamicpunch, Endure, Extrasensory, Facade, Fire Blast, Fire Punch,
-      Flamethrower, Frustration, Hidden Power, Howl, Hyper Voice, Ice Beam, Ice Punch,
-      Icy Wind, Mega Kick, Mega Punch, Mimic, Mud-Slap, Pound, Protect, Psych Up,
-      Rain Dance, Rest, Return, Roar, Rollout, Screech, Secret Power, Seismic Toss,
-      Shadow Ball, Shock Wave, Sleep Talk, Smellingsalt, Snore, Solarbeam, Stomp,
-      Substitute, Sunny Day, Supersonic, Swagger, Take Down, Thunderpunch, Toxic,
-      Uproar, Water Pulse, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
-    Loudred: [Brick Break, Earthquake, Overheat, Rock Slide, Rock Smash, Strength,
-      Taunt, Torment, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
-    Exploud: [Hyper Beam, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
-  dp:
-    Whismur: [Astonish, Attract, Blizzard, Captivate, Double Team, Endeavor, Endure,
-      Extrasensory, Facade, Fire Blast, Fire Punch, Flamethrower, Fling, Frustration,
-      Hammer Arm, Headbutt, Hidden Power, Howl, Hyper Voice, Ice Beam, Ice Punch,
-      Icy Wind, Mud-Slap, Natural Gift, Pound, Protect, Rain Dance, Rest, Return,
-      Roar, Rollout, Screech, Secret Power, Shadow Ball, Shock Wave, Sleep Talk, Smellingsalt,
-      Smokescreen, Snore, Solarbeam, Stomp, Substitute, Sunny Day, Supersonic, Swagger,
-      Take Down, Thunderpunch, Toxic, Uproar, Water Pulse, Zen Headbutt, Body Slam,
-      Double-Edge, Icy Wind, Mimic, Seismic Toss]
-    Loudred: [Bite, Brick Break, Earthquake, Low Kick, Overheat, Rock Slide, Rock
-        Smash, Rock Tomb, Strength, Taunt, Torment, Body Slam, Double-Edge, Icy Wind,
-      Mimic, Seismic Toss]
-    Exploud: [Avalanche, Crunch, Fire Fang, Focus Blast, Giga Impact, Hyper Beam,
-      Ice Fang, Outrage, Rock Climb, Surf, Thunder Fang, Whirlpool, Body Slam, Double-Edge,
-      Icy Wind, Mimic, Seismic Toss]
-  bw:
-    Whismur: [Astonish, Attract, Blizzard, Circle Throw, Double Team, Echoed Voice,
-      Endeavor, Extrasensory, Facade, Fake Tears, Fire Blast, Fire Punch, Flamethrower,
-      Fling, Frustration, Hammer Arm, Hidden Power, Howl, Hyper Voice, Ice Beam, Ice
-        Punch, Icy Wind, Incinerate, Pound, Protect, Rain Dance, Rest, Retaliate,
-      Return, Roar, Round, Screech, Shadow Ball, Sleep Talk, Smellingsalt, Smokescreen,
-      Snore, Solarbeam, Stomp, Substitute, Sunny Day, Supersonic, Swagger, Synchronoise,
-      Take Down, Thunderpunch, Toxic, Uproar, Work Up, Zen Headbutt, Body Slam, Double-Edge,
-      Icy Wind, Mimic, Seismic Toss]
-    Loudred: [Bite, Brick Break, Bulldoze, Earthquake, Low Kick, Overheat, Rock Slide,
-      Rock Smash, Rock Tomb, Smack Down, Strength, Taunt, Torment, Body Slam, Double-Edge,
-      Icy Wind, Mimic, Seismic Toss]
-    Exploud: [Crunch, Fire Fang, Focus Blast, Giga Impact, Hyper Beam, Ice Fang, Outrage,
-      Surf, Thunder Fang, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+  Loudred:
+    abilities:
+    - [Soundproof]
+    - bw: [Scrappy, Soundproof]
+    egggroups:
+    - [Ground, Monster]
+    evolutions: [Exploud]
+    height: [1]
+    introduction: rs
+    moves:
+    - bw: [Bite, Brick Break, Bulldoze, Earthquake, Low Kick, Overheat, Rock Slide,
+        Rock Smash, Rock Tomb, Smack Down, Strength, Taunt, Torment, Body Slam, Double-Edge,
+        Icy Wind, Mimic, Seismic Toss]
+    - dp: [Bite, Brick Break, Earthquake, Low Kick, Overheat, Rock Slide, Rock Smash,
+        Rock Tomb, Strength, Taunt, Torment, Body Slam, Double-Edge, Icy Wind, Mimic,
+        Seismic Toss]
+    - rs: [Brick Break, Earthquake, Overheat, Rock Slide, Rock Smash, Strength, Taunt,
+        Torment, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+    stats:
+    - [84, 71, 43, 71, 43, 48]
+    tags:
+    - [nfe]
+    types:
+    - [Normal]
+    weight: [40.5]
+  Whismur:
+    abilities:
+    - [Soundproof]
+    - bw: [Rattled, Soundproof]
+    egggroups:
+    - [Ground, Monster]
+    evolutions: [Loudred]
+    height: [0.6]
+    introduction: rs
+    moves:
+    - bw: [Astonish, Attract, Blizzard, Circle Throw, Double Team, Echoed Voice, Endeavor,
+        Extrasensory, Facade, Fake Tears, Fire Blast, Fire Punch, Flamethrower, Fling,
+        Frustration, Hammer Arm, Hidden Power, Howl, Hyper Voice, Ice Beam, Ice Punch,
+        Icy Wind, Incinerate, Pound, Protect, Rain Dance, Rest, Retaliate, Return,
+        Roar, Round, Screech, Shadow Ball, Sleep Talk, Smellingsalt, Smokescreen,
+        Snore, Solarbeam, Stomp, Substitute, Sunny Day, Supersonic, Swagger, Synchronoise,
+        Take Down, Thunderpunch, Toxic, Uproar, Work Up, Zen Headbutt, Body Slam,
+        Double-Edge, Icy Wind, Mimic, Seismic Toss]
+    - dp: [Astonish, Attract, Blizzard, Captivate, Double Team, Endeavor, Endure,
+        Extrasensory, Facade, Fire Blast, Fire Punch, Flamethrower, Fling, Frustration,
+        Hammer Arm, Headbutt, Hidden Power, Howl, Hyper Voice, Ice Beam, Ice Punch,
+        Icy Wind, Mud-Slap, Natural Gift, Pound, Protect, Rain Dance, Rest, Return,
+        Roar, Rollout, Screech, Secret Power, Shadow Ball, Shock Wave, Sleep Talk,
+        Smellingsalt, Smokescreen, Snore, Solarbeam, Stomp, Substitute, Sunny Day,
+        Supersonic, Swagger, Take Down, Thunderpunch, Toxic, Uproar, Water Pulse,
+        Zen Headbutt, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+    - rs: [Astonish, Attract, Blizzard, Body Slam, Counter, Defense Curl, Double-Edge,
+        Double Team, Dynamicpunch, Endure, Extrasensory, Facade, Fire Blast, Fire
+          Punch, Flamethrower, Frustration, Hidden Power, Howl, Hyper Voice, Ice Beam,
+        Ice Punch, Icy Wind, Mega Kick, Mega Punch, Mimic, Mud-Slap, Pound, Protect,
+        Psych Up, Rain Dance, Rest, Return, Roar, Rollout, Screech, Secret Power,
+        Seismic Toss, Shadow Ball, Shock Wave, Sleep Talk, Smellingsalt, Snore, Solarbeam,
+        Stomp, Substitute, Sunny Day, Supersonic, Swagger, Take Down, Thunderpunch,
+        Toxic, Uproar, Water Pulse, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic
+          Toss]
+    stats:
+    - [64, 51, 23, 51, 23, 28]
+    tags:
+    - [nfe]
+    - dp: [lc]
+    types:
+    - [Normal]
+    weight: [16.3]

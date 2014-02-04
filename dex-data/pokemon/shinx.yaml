@@ -1,65 +1,63 @@
 pokemon:
-  Shinx:
-    introduction: dp
-    types:
-    - [Electric]
-    egggroups:
-    - [Ground]
-    abilities:
-    - [Guts, Intimidate, Rivalry]
-    stats:
-    - [45, 65, 34, 40, 34, 45]
-    tags:
-    - [lc]
-    weight: [9.5]
-    height: [0.5]
   Luxio:
-    introduction: dp
-    types:
-    - [Electric]
-    egggroups:
-    - [Ground]
     abilities:
     - [Guts, Intimidate, Rivalry]
+    egggroups:
+    - [Ground]
+    evolutions: [Luxray]
+    height: [0.9]
+    introduction: dp
     stats:
     - [60, 85, 49, 60, 49, 60]
     tags:
     - [nfe]
-    weight: [30.5]
-    height: [0.9]
-  Luxray:
-    introduction: dp
     types:
     - [Electric]
-    egggroups:
-    - [Ground]
+    weight: [30.5]
+  Luxray:
     abilities:
     - [Guts, Intimidate, Rivalry]
+    egggroups:
+    - [Ground]
+    height: [1.4]
+    introduction: dp
+    moves:
+    - bw: [Giga Impact, Hyper Beam, Superpower]
+    - dp: [Giga Impact, Hyper Beam, Superpower]
     stats:
     - [80, 120, 79, 95, 79, 70]
     tags:
     - [nu]
+    types:
+    - [Electric]
     weight: [42]
-    height: [1.4]
-evolutions:
-- {from: Shinx, to: Luxio}
-- {from: Luxio, to: Luxray}
-learnsets:
-  dp:
-    Shinx: [Attract, Bite, Captivate, Charge, Charge Beam, Crunch, Discharge, Double
-        Team, Endure, Facade, Fire Fang, Flash, Frustration, Fury Cutter, Headbutt,
-      Hidden Power, Howl, Ice Fang, Iron Tail, Leer, Light Screen, Magnet Rise, Mud-Slap,
-      Natural Gift, Night Slash, Protect, Quick Attack, Rain Dance, Rest, Return,
-      Roar, Scary Face, Secret Power, Shock Wave, Signal Beam, Sleep Talk, Snore,
-      Spark, Strength, Substitute, Swagger, Swift, Tackle, Take Down, Thief, Thunder,
-      Thunder Fang, Thunder Wave, Thunderbolt, Toxic]
-    Luxray: [Giga Impact, Hyper Beam, Superpower]
-  bw:
-    Shinx: [Attract, Bite, Charge, Charge Beam, Crunch, Discharge, Double Kick, Double
-        Team, Facade, Fire Fang, Flash, Frustration, Helping Hand, Hidden Power, Howl,
-      Ice Fang, Iron Tail, Leer, Light Screen, Magnet Rise, Night Slash, Protect,
-      Quick Attack, Rain Dance, Rest, Return, Roar, Round, Scary Face, Shock Wave,
-      Signal Beam, Sleep Talk, Snarl, Snore, Spark, Strength, Substitute, Swagger,
-      Swift, Tackle, Take Down, Thief, Thunder, Thunder Fang, Thunder Wave, Thunderbolt,
-      Toxic, Volt Switch, Wild Charge]
-    Luxray: [Giga Impact, Hyper Beam, Superpower]
+  Shinx:
+    abilities:
+    - [Guts, Intimidate, Rivalry]
+    egggroups:
+    - [Ground]
+    evolutions: [Luxio]
+    height: [0.5]
+    introduction: dp
+    moves:
+    - bw: [Attract, Bite, Charge, Charge Beam, Crunch, Discharge, Double Kick, Double
+          Team, Facade, Fire Fang, Flash, Frustration, Helping Hand, Hidden Power,
+        Howl, Ice Fang, Iron Tail, Leer, Light Screen, Magnet Rise, Night Slash, Protect,
+        Quick Attack, Rain Dance, Rest, Return, Roar, Round, Scary Face, Shock Wave,
+        Signal Beam, Sleep Talk, Snarl, Snore, Spark, Strength, Substitute, Swagger,
+        Swift, Tackle, Take Down, Thief, Thunder, Thunder Fang, Thunder Wave, Thunderbolt,
+        Toxic, Volt Switch, Wild Charge]
+    - dp: [Attract, Bite, Captivate, Charge, Charge Beam, Crunch, Discharge, Double
+          Team, Endure, Facade, Fire Fang, Flash, Frustration, Fury Cutter, Headbutt,
+        Hidden Power, Howl, Ice Fang, Iron Tail, Leer, Light Screen, Magnet Rise,
+        Mud-Slap, Natural Gift, Night Slash, Protect, Quick Attack, Rain Dance, Rest,
+        Return, Roar, Scary Face, Secret Power, Shock Wave, Signal Beam, Sleep Talk,
+        Snore, Spark, Strength, Substitute, Swagger, Swift, Tackle, Take Down, Thief,
+        Thunder, Thunder Fang, Thunder Wave, Thunderbolt, Toxic]
+    stats:
+    - [45, 65, 34, 40, 34, 45]
+    tags:
+    - [lc]
+    types:
+    - [Electric]
+    weight: [9.5]

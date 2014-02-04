@@ -1,43 +1,42 @@
 pokemon:
   Pansear:
-    introduction: dp
-    types:
-    - [Fire]
-    egggroups:
-    - [Ground]
     abilities:
     - [Blaze, Gluttony]
+    egggroups:
+    - [Ground]
+    evolutions: [Simisear]
+    height: [0.6]
+    introduction: dp
+    moves:
+    - bw: [Acrobatics, Amnesia, Astonish, Attract, Bite, Covet, Crunch, Cut, Dig,
+        Double Team, Endeavor, Facade, Fire Blast, Fire Punch, Fire Spin, Flame Burst,
+        Flame Charge, Flamethrower, Fling, Frustration, Fury Swipes, Grass Knot, Gunk
+          Shot, Heat Wave, Helping Hand, Hidden Power, Hone Claws, Incinerate, Iron
+          Tail, Knock Off, Leer, Lick, Low Kick, Low Sweep, Nasty Plot, Natural Gift,
+        Overheat, Payback, Protect, Recycle, Rest, Return, Rock Smash, Rock Tomb,
+        Role Play, Round, Scratch, Shadow Claw, Sleep Talk, Snore, Solarbeam, Substitute,
+        Sunny Day, Swagger, Taunt, Thief, Tickle, Torment, Toxic, Uproar, Will-O-Wisp,
+        Work Up, Yawn]
     stats:
     - [50, 53, 48, 53, 48, 64]
     tags:
     - [lc]
-    weight: [11]
-    height: [0.6]
-  Simisear:
-    introduction: dp
     types:
     - [Fire]
-    egggroups:
-    - [Ground]
+    weight: [11]
+  Simisear:
     abilities:
     - [Blaze, Gluttony]
+    egggroups:
+    - [Ground]
+    height: [1]
+    introduction: dp
+    moves:
+    - bw: [Brick Break, Focus Blast, Giga Impact, Hyper Beam, Rock Slide, Superpower]
     stats:
     - [75, 98, 63, 98, 63, 101]
     tags:
     - [nu]
+    types:
+    - [Fire]
     weight: [28]
-    height: [1]
-evolutions:
-- {from: Pansear, to: Simisear}
-learnsets:
-  bw:
-    Pansear: [Acrobatics, Amnesia, Astonish, Attract, Bite, Covet, Crunch, Cut, Dig,
-      Double Team, Endeavor, Facade, Fire Blast, Fire Punch, Fire Spin, Flame Burst,
-      Flame Charge, Flamethrower, Fling, Frustration, Fury Swipes, Grass Knot, Gunk
-        Shot, Heat Wave, Helping Hand, Hidden Power, Hone Claws, Incinerate, Iron
-        Tail, Knock Off, Leer, Lick, Low Kick, Low Sweep, Nasty Plot, Natural Gift,
-      Overheat, Payback, Protect, Recycle, Rest, Return, Rock Smash, Rock Tomb, Role
-        Play, Round, Scratch, Shadow Claw, Sleep Talk, Snore, Solarbeam, Substitute,
-      Sunny Day, Swagger, Taunt, Thief, Tickle, Torment, Toxic, Uproar, Will-O-Wisp,
-      Work Up, Yawn]
-    Simisear: [Brick Break, Focus Blast, Giga Impact, Hyper Beam, Rock Slide, Superpower]

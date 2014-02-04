@@ -1,41 +1,40 @@
 pokemon:
   Blitzle:
-    introduction: bw
-    types:
-    - [Electric]
-    egggroups:
-    - [Ground]
     abilities:
     - [Lightningrod, Motor Drive, Sap Sipper]
+    egggroups:
+    - [Ground]
+    evolutions: [Zebstrika]
+    height: [0.8]
+    introduction: bw
+    moves:
+    - bw: [Agility, Attract, Bounce, Charge, Charge Beam, Discharge, Double-Edge,
+        Double Kick, Double Team, Endure, Facade, Flame Charge, Flash, Frustration,
+        Hidden Power, Light Screen, Magnet Rise, Me First, Protect, Pursuit, Quick
+          Attack, Rage, Rain Dance, Rest, Return, Round, Sand-Attack, Screech, Shock
+          Wave, Signal Beam, Sleep Talk, Snore, Spark, Stomp, Substitute, Swagger,
+        Tail Whip, Take Down, Thrash, Thunder, Thunder Wave, Thunderbolt, Toxic, Volt
+          Switch, Wild Charge]
     stats:
     - [45, 60, 32, 50, 32, 76]
     tags:
     - [lc]
-    weight: [29.8]
-    height: [0.8]
-  Zebstrika:
-    introduction: bw
     types:
     - [Electric]
-    egggroups:
-    - [Ground]
+    weight: [29.8]
+  Zebstrika:
     abilities:
     - [Lightningrod, Motor Drive, Sap Sipper]
+    egggroups:
+    - [Ground]
+    height: [1.6]
+    introduction: bw
+    moves:
+    - bw: [Giga Impact, Hyper Beam, Overheat, Rock Smash]
     stats:
     - [75, 100, 63, 80, 63, 116]
     tags:
     - [nu]
+    types:
+    - [Electric]
     weight: [79.5]
-    height: [1.6]
-evolutions:
-- {from: Blitzle, to: Zebstrika}
-learnsets:
-  bw:
-    Blitzle: [Agility, Attract, Bounce, Charge, Charge Beam, Discharge, Double-Edge,
-      Double Kick, Double Team, Endure, Facade, Flame Charge, Flash, Frustration,
-      Hidden Power, Light Screen, Magnet Rise, Me First, Protect, Pursuit, Quick Attack,
-      Rage, Rain Dance, Rest, Return, Round, Sand-Attack, Screech, Shock Wave, Signal
-        Beam, Sleep Talk, Snore, Spark, Stomp, Substitute, Swagger, Tail Whip, Take
-        Down, Thrash, Thunder, Thunder Wave, Thunderbolt, Toxic, Volt Switch, Wild
-        Charge]
-    Zebstrika: [Giga Impact, Hyper Beam, Overheat, Rock Smash]

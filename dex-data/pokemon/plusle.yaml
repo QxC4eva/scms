@@ -1,45 +1,42 @@
 pokemon:
   Plusle:
-    introduction: rs
-    types:
-    - [Electric]
-    egggroups:
-    - [Fairy]
     abilities:
     - [Plus]
     - bw: [Plus]
     - xy: [Plus, Lightningrod]
+    egggroups:
+    - [Fairy]
+    height: [0.4]
+    introduction: rs
+    moves:
+    - bw: [Agility, Attract, Baton Pass, Charge, Charge Beam, Copycat, Discharge,
+        Double Team, Echoed Voice, Electro Ball, Encore, Entrainment, Facade, Fake
+          Tears, Flash, Fling, Frustration, Grass Knot, Growl, Helping Hand, Hidden
+          Power, Iron Tail, Last Resort, Light Screen, Lucky Chant, Magnet Rise, Nasty
+          Plot, Protect, Quick Attack, Rain Dance, Rest, Return, Round, Signal Beam,
+        Sing, Sleep Talk, Snore, Spark, Substitute, Swagger, Sweet Kiss, Swift, Thunder,
+        Thunder Wave, Thunderbolt, Thunderpunch, Toxic, Uproar, Volt Switch, Wild
+          Charge, Wish, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    - dp: [Agility, Attract, Baton Pass, Captivate, Charge, Charge Beam, Copycat,
+        Discharge, Double Team, Encore, Endure, Facade, Fake Tears, Flash, Fling,
+        Frustration, Grass Knot, Growl, Headbutt, Helping Hand, Hidden Power, Iron
+          Tail, Last Resort, Light Screen, Magnet Rise, Mud-Slap, Nasty Plot, Natural
+          Gift, Protect, Quick Attack, Rain Dance, Rest, Return, Rollout, Secret Power,
+        Shock Wave, Signal Beam, Sing, Sleep Talk, Snore, Spark, Substitute, Swagger,
+        Sweet Kiss, Swift, Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Toxic,
+        Uproar, Wish, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    - rs: [Agility, Attract, Baton Pass, Body Slam, Charge, Counter, Defense Curl,
+        Double-Edge, Double Team, Dynamicpunch, Encore, Endure, Facade, Fake Tears,
+        Flash, Frustration, Growl, Helping Hand, Hidden Power, Iron Tail, Light Screen,
+        Mega Kick, Mega Punch, Metronome, Mimic, Mud-Slap, Protect, Quick Attack,
+        Rain Dance, Rest, Return, Rollout, Secret Power, Seismic Toss, Shock Wave,
+        Sleep Talk, Snore, Spark, Substitute, Swagger, Swift, Thunder, Thunder Wave,
+        Thunderbolt, Thunderpunch, Toxic, Wish, Body Slam, Double-Edge, Mimic, Seismic
+          Toss]
     stats:
     - [60, 50, 40, 85, 75, 95]
     tags:
     - [nu]
+    types:
+    - [Electric]
     weight: [4.2]
-    height: [0.4]
-evolutions: []
-learnsets:
-  rs:
-    Plusle: [Agility, Attract, Baton Pass, Body Slam, Charge, Counter, Defense Curl,
-      Double-Edge, Double Team, Dynamicpunch, Encore, Endure, Facade, Fake Tears,
-      Flash, Frustration, Growl, Helping Hand, Hidden Power, Iron Tail, Light Screen,
-      Mega Kick, Mega Punch, Metronome, Mimic, Mud-Slap, Protect, Quick Attack, Rain
-        Dance, Rest, Return, Rollout, Secret Power, Seismic Toss, Shock Wave, Sleep
-        Talk, Snore, Spark, Substitute, Swagger, Swift, Thunder, Thunder Wave, Thunderbolt,
-      Thunderpunch, Toxic, Wish, Body Slam, Double-Edge, Mimic, Seismic Toss]
-  dp:
-    Plusle: [Agility, Attract, Baton Pass, Captivate, Charge, Charge Beam, Copycat,
-      Discharge, Double Team, Encore, Endure, Facade, Fake Tears, Flash, Fling, Frustration,
-      Grass Knot, Growl, Headbutt, Helping Hand, Hidden Power, Iron Tail, Last Resort,
-      Light Screen, Magnet Rise, Mud-Slap, Nasty Plot, Natural Gift, Protect, Quick
-        Attack, Rain Dance, Rest, Return, Rollout, Secret Power, Shock Wave, Signal
-        Beam, Sing, Sleep Talk, Snore, Spark, Substitute, Swagger, Sweet Kiss, Swift,
-      Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Toxic, Uproar, Wish, Body
-        Slam, Double-Edge, Mimic, Seismic Toss]
-  bw:
-    Plusle: [Agility, Attract, Baton Pass, Charge, Charge Beam, Copycat, Discharge,
-      Double Team, Echoed Voice, Electro Ball, Encore, Entrainment, Facade, Fake Tears,
-      Flash, Fling, Frustration, Grass Knot, Growl, Helping Hand, Hidden Power, Iron
-        Tail, Last Resort, Light Screen, Lucky Chant, Magnet Rise, Nasty Plot, Protect,
-      Quick Attack, Rain Dance, Rest, Return, Round, Signal Beam, Sing, Sleep Talk,
-      Snore, Spark, Substitute, Swagger, Sweet Kiss, Swift, Thunder, Thunder Wave,
-      Thunderbolt, Thunderpunch, Toxic, Uproar, Volt Switch, Wild Charge, Wish, Body
-        Slam, Double-Edge, Mimic, Seismic Toss]

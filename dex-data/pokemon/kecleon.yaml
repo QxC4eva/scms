@@ -1,59 +1,56 @@
 pokemon:
   Kecleon:
-    introduction: rs
-    types:
-    - [Normal]
-    egggroups:
-    - [Ground]
     abilities:
     - [Color Change]
     - bw: [Color Change]
     - xy: [Color Change, Protean]
+    egggroups:
+    - [Ground]
+    height: [1]
+    introduction: rs
+    moves:
+    - bw: [Aerial Ace, After You, Ancientpower, Aqua Tail, Astonish, Attract, Bind,
+        Blizzard, Brick Break, Charge Beam, Cut, Dig, Disable, Dizzy Punch, Double
+          Team, Drain Punch, Facade, Faint Attack, Fake Out, Feint, Fire Blast, Fire
+          Punch, Flamethrower, Flash, Fling, Foul Play, Frustration, Fury Swipes,
+        Grass Knot, Hidden Power, Hone Claws, Ice Beam, Ice Punch, Icy Wind, Incinerate,
+        Iron Tail, Knock Off, Last Resort, Lick, Low Kick, Magic Coat, Nasty Plot,
+        Protect, Psybeam, Psych Up, Rain Dance, Recover, Recycle, Rest, Retaliate,
+        Return, Rock Slide, Rock Smash, Rock Tomb, Role Play, Round, Scratch, Screech,
+        Shadow Ball, Shadow Claw, Shadow Sneak, Skill Swap, Slash, Sleep Talk, Snatch,
+        Snore, Solarbeam, Stealth Rock, Strength, Substitute, Sucker Punch, Sunny
+          Day, Swagger, Synchronoise, Tail Whip, Thief, Thunder, Thunder Wave, Thunderbolt,
+        Thunderpunch, Toxic, Trick, Trick Room, Wonder Room, Work Up, Body Slam, Double-Edge,
+        Icy Wind, Mimic, Seismic Toss]
+    - dp: [Aerial Ace, Ancientpower, Aqua Tail, Astonish, Attract, Bind, Blizzard,
+        Brick Break, Captivate, Charge Beam, Cut, Dig, Disable, Dizzy Punch, Double
+          Team, Drain Punch, Endure, Facade, Faint Attack, Fake Out, Feint, Fire Blast,
+        Fire Punch, Flamethrower, Flash, Fling, Focus Punch, Frustration, Fury Cutter,
+        Fury Swipes, Grass Knot, Headbutt, Hidden Power, Ice Beam, Ice Punch, Icy
+          Wind, Iron Tail, Knock Off, Last Resort, Lick, Low Kick, Magic Coat, Mud-Slap,
+        Nasty Plot, Natural Gift, Protect, Psybeam, Psych Up, Rain Dance, Recover,
+        Recycle, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Role Play, Rollout,
+        Scratch, Screech, Secret Power, Shadow Ball, Shadow Claw, Shadow Sneak, Shock
+          Wave, Skill Swap, Slash, Sleep Talk, Snatch, Snore, Solarbeam, Stealth Rock,
+        Strength, Substitute, Sucker Punch, Sunny Day, Swagger, Swift, Tail Whip,
+        Thief, Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Toxic, Trick, Trick
+          Room, Water Pulse, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+    - rs: [Aerial Ace, Ancientpower, Astonish, Attract, Bind, Blizzard, Body Slam,
+        Brick Break, Counter, Cut, Defense Curl, Dig, Disable, Double-Edge, Double
+          Team, Dynamicpunch, Endure, Facade, Faint Attack, Fire Blast, Fire Punch,
+        Flamethrower, Flash, Focus Punch, Frustration, Fury Cutter, Fury Swipes, Hidden
+          Power, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Lick, Magic Coat, Mega
+          Kick, Mega Punch, Metronome, Mimic, Mud-Slap, Protect, Psybeam, Psych Up,
+        Rain Dance, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout, Scratch,
+        Screech, Secret Power, Seismic Toss, Shadow Ball, Shock Wave, Skill Swap,
+        Slash, Sleep Talk, Snatch, Snore, Solarbeam, Strength, Substitute, Sunny Day,
+        Swagger, Swift, Tail Whip, Thief, Thunder, Thunder Wave, Thunderbolt, Thunderpunch,
+        Toxic, Trick, Water Pulse, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic
+          Toss]
     stats:
     - [60, 90, 70, 60, 120, 40]
     tags:
     - [nu]
+    types:
+    - [Normal]
     weight: [22]
-    height: [1]
-evolutions: []
-learnsets:
-  rs:
-    Kecleon: [Aerial Ace, Ancientpower, Astonish, Attract, Bind, Blizzard, Body Slam,
-      Brick Break, Counter, Cut, Defense Curl, Dig, Disable, Double-Edge, Double Team,
-      Dynamicpunch, Endure, Facade, Faint Attack, Fire Blast, Fire Punch, Flamethrower,
-      Flash, Focus Punch, Frustration, Fury Cutter, Fury Swipes, Hidden Power, Ice
-        Beam, Ice Punch, Icy Wind, Iron Tail, Lick, Magic Coat, Mega Kick, Mega Punch,
-      Metronome, Mimic, Mud-Slap, Protect, Psybeam, Psych Up, Rain Dance, Rest, Return,
-      Rock Slide, Rock Smash, Rock Tomb, Rollout, Scratch, Screech, Secret Power,
-      Seismic Toss, Shadow Ball, Shock Wave, Skill Swap, Slash, Sleep Talk, Snatch,
-      Snore, Solarbeam, Strength, Substitute, Sunny Day, Swagger, Swift, Tail Whip,
-      Thief, Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Toxic, Trick, Water
-        Pulse, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
-  dp:
-    Kecleon: [Aerial Ace, Ancientpower, Aqua Tail, Astonish, Attract, Bind, Blizzard,
-      Brick Break, Captivate, Charge Beam, Cut, Dig, Disable, Dizzy Punch, Double
-        Team, Drain Punch, Endure, Facade, Faint Attack, Fake Out, Feint, Fire Blast,
-      Fire Punch, Flamethrower, Flash, Fling, Focus Punch, Frustration, Fury Cutter,
-      Fury Swipes, Grass Knot, Headbutt, Hidden Power, Ice Beam, Ice Punch, Icy Wind,
-      Iron Tail, Knock Off, Last Resort, Lick, Low Kick, Magic Coat, Mud-Slap, Nasty
-        Plot, Natural Gift, Protect, Psybeam, Psych Up, Rain Dance, Recover, Recycle,
-      Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Role Play, Rollout, Scratch,
-      Screech, Secret Power, Shadow Ball, Shadow Claw, Shadow Sneak, Shock Wave, Skill
-        Swap, Slash, Sleep Talk, Snatch, Snore, Solarbeam, Stealth Rock, Strength,
-      Substitute, Sucker Punch, Sunny Day, Swagger, Swift, Tail Whip, Thief, Thunder,
-      Thunder Wave, Thunderbolt, Thunderpunch, Toxic, Trick, Trick Room, Water Pulse,
-      Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
-  bw:
-    Kecleon: [Aerial Ace, After You, Ancientpower, Aqua Tail, Astonish, Attract, Bind,
-      Blizzard, Brick Break, Charge Beam, Cut, Dig, Disable, Dizzy Punch, Double Team,
-      Drain Punch, Facade, Faint Attack, Fake Out, Feint, Fire Blast, Fire Punch,
-      Flamethrower, Flash, Fling, Foul Play, Frustration, Fury Swipes, Grass Knot,
-      Hidden Power, Hone Claws, Ice Beam, Ice Punch, Icy Wind, Incinerate, Iron Tail,
-      Knock Off, Last Resort, Lick, Low Kick, Magic Coat, Nasty Plot, Protect, Psybeam,
-      Psych Up, Rain Dance, Recover, Recycle, Rest, Retaliate, Return, Rock Slide,
-      Rock Smash, Rock Tomb, Role Play, Round, Scratch, Screech, Shadow Ball, Shadow
-        Claw, Shadow Sneak, Skill Swap, Slash, Sleep Talk, Snatch, Snore, Solarbeam,
-      Stealth Rock, Strength, Substitute, Sucker Punch, Sunny Day, Swagger, Synchronoise,
-      Tail Whip, Thief, Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Toxic, Trick,
-      Trick Room, Wonder Room, Work Up, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic
-        Toss]

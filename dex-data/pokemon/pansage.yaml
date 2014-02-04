@@ -1,43 +1,42 @@
 pokemon:
   Pansage:
-    introduction: dp
-    types:
-    - [Grass]
-    egggroups:
-    - [Ground]
     abilities:
     - [Gluttony, Overgrow]
+    egggroups:
+    - [Ground]
+    evolutions: [Simisage]
+    height: [0.6]
+    introduction: dp
+    moves:
+    - bw: [Acrobatics, Astonish, Attract, Bite, Bullet Seed, Covet, Crunch, Cut, Dig,
+        Double Team, Endeavor, Energy Ball, Facade, Flash, Fling, Frustration, Fury
+          Swipes, Giga Drain, Grass Knot, Grasswhistle, Gunk Shot, Helping Hand, Hidden
+          Power, Hone Claws, Iron Tail, Knock Off, Leaf Storm, Leech Seed, Leer, Lick,
+        Low Kick, Low Sweep, Magical Leaf, Nasty Plot, Natural Gift, Payback, Protect,
+        Recycle, Rest, Return, Rock Smash, Rock Tomb, Role Play, Round, Scratch, Seed
+          Bomb, Shadow Claw, Sleep Talk, Snore, Solarbeam, Substitute, Sunny Day,
+        Swagger, Synthesis, Taunt, Thief, Tickle, Torment, Toxic, Uproar, Vine Whip,
+        Work Up, Worry Seed]
     stats:
     - [50, 53, 48, 53, 48, 64]
     tags:
     - [lc]
-    weight: [10.5]
-    height: [0.6]
-  Simisage:
-    introduction: dp
     types:
     - [Grass]
-    egggroups:
-    - [Ground]
+    weight: [10.5]
+  Simisage:
     abilities:
     - [Gluttony, Overgrow]
+    egggroups:
+    - [Ground]
+    height: [1.1]
+    introduction: dp
+    moves:
+    - bw: [Brick Break, Focus Blast, Giga Impact, Hyper Beam, Rock Slide, Superpower]
     stats:
     - [75, 98, 63, 98, 63, 101]
     tags:
     - [nu]
+    types:
+    - [Grass]
     weight: [30.5]
-    height: [1.1]
-evolutions:
-- {from: Pansage, to: Simisage}
-learnsets:
-  bw:
-    Pansage: [Acrobatics, Astonish, Attract, Bite, Bullet Seed, Covet, Crunch, Cut,
-      Dig, Double Team, Endeavor, Energy Ball, Facade, Flash, Fling, Frustration,
-      Fury Swipes, Giga Drain, Grass Knot, Grasswhistle, Gunk Shot, Helping Hand,
-      Hidden Power, Hone Claws, Iron Tail, Knock Off, Leaf Storm, Leech Seed, Leer,
-      Lick, Low Kick, Low Sweep, Magical Leaf, Nasty Plot, Natural Gift, Payback,
-      Protect, Recycle, Rest, Return, Rock Smash, Rock Tomb, Role Play, Round, Scratch,
-      Seed Bomb, Shadow Claw, Sleep Talk, Snore, Solarbeam, Substitute, Sunny Day,
-      Swagger, Synthesis, Taunt, Thief, Tickle, Torment, Toxic, Uproar, Vine Whip,
-      Work Up, Worry Seed]
-    Simisage: [Brick Break, Focus Blast, Giga Impact, Hyper Beam, Rock Slide, Superpower]

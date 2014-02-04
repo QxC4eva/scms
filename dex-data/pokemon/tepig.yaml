@@ -1,60 +1,61 @@
 pokemon:
-  Tepig:
-    introduction: dp
-    types:
-    - [Fire]
-    egggroups:
-    - [Ground]
-    abilities:
-    - [Blaze, Thick Fat]
-    stats:
-    - [65, 63, 45, 45, 45, 45]
-    tags:
-    - [lc]
-    weight: [9.9]
-    height: [0.5]
-  Pignite:
-    introduction: dp
-    types:
-    - [Fighting, Fire]
-    egggroups:
-    - [Ground]
-    abilities:
-    - [Blaze, Thick Fat]
-    stats:
-    - [90, 93, 55, 70, 55, 55]
-    tags:
-    - [nfe]
-    weight: [55.5]
-    height: [1]
   Emboar:
-    introduction: dp
-    types:
-    - [Fighting, Fire]
-    egggroups:
-    - [Ground]
     abilities:
     - [Blaze, Reckless]
+    egggroups:
+    - [Ground]
+    height: [1.6]
+    introduction: dp
+    moves:
+    - bw: [Blast Burn, Block, Bulk Up, Earthquake, Giga Impact, Hammer Arm, Hyper
+          Beam, Iron Head, Scald, Smack Down]
     stats:
     - [110, 123, 65, 100, 65, 65]
     tags:
     - [ru]
+    types:
+    - [Fighting, Fire]
     weight: [150]
-    height: [1.6]
-evolutions:
-- {from: Tepig, to: Pignite}
-- {from: Pignite, to: Emboar}
-learnsets:
-  bw:
-    Tepig: [Assurance, Attract, Body Slam, Covet, Curse, Defense Curl, Double Team,
-      Echoed Voice, Ember, Endeavor, Facade, Fire Blast, Fire Pledge, Flame Charge,
-      Flamethrower, Flare Blitz, Frustration, Grass Knot, Gyro Ball, Head Smash, Heat
-        Crash, Heat Wave, Heavy Slam, Helping Hand, Hidden Power, Incinerate, Iron
-        Tail, Magnitude, Odor Sleuth, Overheat, Protect, Rest, Return, Roar, Rock
-        Smash, Rock Tomb, Rollout, Round, Sleep Talk, Smog, Snore, Solarbeam, Strength,
-      Substitute, Sunny Day, Superpower, Swagger, Tackle, Tail Whip, Take Down, Taunt,
-      Thrash, Toxic, Wild Charge, Will-O-Wisp, Yawn]
-    Pignite: [Arm Thrust, Brick Break, Bulldoze, Fire Punch, Fling, Focus Blast, Low
-        Kick, Low Sweep, Poison Jab, Rock Slide, Stone Edge, Thunderpunch, Work Up]
-    Emboar: [Blast Burn, Block, Bulk Up, Earthquake, Giga Impact, Hammer Arm, Hyper
-        Beam, Iron Head, Scald, Smack Down]
+  Pignite:
+    abilities:
+    - [Blaze, Thick Fat]
+    egggroups:
+    - [Ground]
+    evolutions: [Emboar]
+    height: [1]
+    introduction: dp
+    moves:
+    - bw: [Arm Thrust, Brick Break, Bulldoze, Fire Punch, Fling, Focus Blast, Low
+          Kick, Low Sweep, Poison Jab, Rock Slide, Stone Edge, Thunderpunch, Work
+          Up]
+    stats:
+    - [90, 93, 55, 70, 55, 55]
+    tags:
+    - [nfe]
+    types:
+    - [Fighting, Fire]
+    weight: [55.5]
+  Tepig:
+    abilities:
+    - [Blaze, Thick Fat]
+    egggroups:
+    - [Ground]
+    evolutions: [Pignite]
+    height: [0.5]
+    introduction: dp
+    moves:
+    - bw: [Assurance, Attract, Body Slam, Covet, Curse, Defense Curl, Double Team,
+        Echoed Voice, Ember, Endeavor, Facade, Fire Blast, Fire Pledge, Flame Charge,
+        Flamethrower, Flare Blitz, Frustration, Grass Knot, Gyro Ball, Head Smash,
+        Heat Crash, Heat Wave, Heavy Slam, Helping Hand, Hidden Power, Incinerate,
+        Iron Tail, Magnitude, Odor Sleuth, Overheat, Protect, Rest, Return, Roar,
+        Rock Smash, Rock Tomb, Rollout, Round, Sleep Talk, Smog, Snore, Solarbeam,
+        Strength, Substitute, Sunny Day, Superpower, Swagger, Tackle, Tail Whip, Take
+          Down, Taunt, Thrash, Toxic, Wild Charge, Will-O-Wisp, Yawn]
+    stats:
+    - [65, 63, 45, 45, 45, 45]
+    tags:
+    - [lc]
+    types:
+    - [Fire]
+    weight: [9.9]

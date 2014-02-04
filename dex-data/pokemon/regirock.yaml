@@ -1,50 +1,46 @@
 pokemon:
   Regirock:
-    introduction: rs
-    types:
-    - [Rock]
-    egggroups:
-    - []
     abilities:
     - [Clear Body]
     - bw: [Clear Body, Sturdy]
+    egggroups:
+    - []
+    height: [1.7]
+    introduction: rs
+    moves:
+    - bw: [Ancientpower, Block, Brick Break, Bulldoze, Charge Beam, Curse, Dig, Double
+          Team, Drain Punch, Earth Power, Earthquake, Explosion, Facade, Fire Punch,
+        Fling, Focus Blast, Frustration, Giga Impact, Gravity, Hammer Arm, Hidden
+          Power, Hyper Beam, Ice Punch, Iron Defense, Iron Head, Lock-On, Protect,
+        Psych Up, Rest, Return, Rock Polish, Rock Slide, Rock Smash, Rock Throw, Rock
+          Tomb, Round, Safeguard, Sandstorm, Sleep Talk, Smack Down, Snore, Stealth
+          Rock, Stomp, Stone Edge, Strength, Substitute, Sunny Day, Superpower, Swagger,
+        Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Toxic, Zap Cannon, Body
+          Slam, Double-Edge, Mimic, Seismic Toss, Selfdestruct]
+    - dp: [Ancientpower, Block, Brick Break, Charge Beam, Curse, Dig, Double Team,
+        Drain Punch, Earth Power, Earthquake, Endure, Explosion, Facade, Fire Punch,
+        Fling, Focus Blast, Focus Punch, Frustration, Giga Impact, Gravity, Hammer
+          Arm, Headbutt, Hidden Power, Hyper Beam, Ice Punch, Iron Defense, Iron Head,
+        Lock-On, Mud-Slap, Natural Gift, Protect, Psych Up, Rest, Return, Rock Climb,
+        Rock Polish, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Safeguard,
+        Sandstorm, Secret Power, Shock Wave, Sleep Talk, Snore, Stealth Rock, Stomp,
+        Stone Edge, Strength, Substitute, Sunny Day, Superpower, Swagger, Thunder,
+        Thunder Wave, Thunderbolt, Thunderpunch, Toxic, Zap Cannon, Body Slam, Double-Edge,
+        Mimic, Seismic Toss, Selfdestruct]
+    - rs: [Ancientpower, Body Slam, Brick Break, Counter, Curse, Defense Curl, Dig,
+        Double-Edge, Double Team, Dynamicpunch, Earthquake, Endure, Explosion, Facade,
+        Fire Punch, Focus Punch, Frustration, Hidden Power, Hyper Beam, Ice Punch,
+        Iron Defense, Lock-On, Mega Kick, Mega Punch, Mimic, Mud-Slap, Protect, Psych
+          Up, Rest, Return, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout,
+        Safeguard, Sandstorm, Secret Power, Seismic Toss, Selfdestruct, Shock Wave,
+        Sleep Talk, Snore, Strength, Substitute, Sunny Day, Superpower, Swagger, Thunder,
+        Thunder Wave, Thunderbolt, Thunderpunch, Toxic, Zap Cannon, Body Slam, Double-Edge,
+        Mimic, Seismic Toss, Selfdestruct]
     stats:
     - [80, 100, 200, 50, 100, 50]
     tags:
     - [bl]
     - dp: [nu]
+    types:
+    - [Rock]
     weight: [230]
-    height: [1.7]
-evolutions: []
-learnsets:
-  rs:
-    Regirock: [Ancientpower, Body Slam, Brick Break, Counter, Curse, Defense Curl,
-      Dig, Double-Edge, Double Team, Dynamicpunch, Earthquake, Endure, Explosion,
-      Facade, Fire Punch, Focus Punch, Frustration, Hidden Power, Hyper Beam, Ice
-        Punch, Iron Defense, Lock-On, Mega Kick, Mega Punch, Mimic, Mud-Slap, Protect,
-      Psych Up, Rest, Return, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout,
-      Safeguard, Sandstorm, Secret Power, Seismic Toss, Selfdestruct, Shock Wave,
-      Sleep Talk, Snore, Strength, Substitute, Sunny Day, Superpower, Swagger, Thunder,
-      Thunder Wave, Thunderbolt, Thunderpunch, Toxic, Zap Cannon, Body Slam, Double-Edge,
-      Mimic, Seismic Toss, Selfdestruct]
-  dp:
-    Regirock: [Ancientpower, Block, Brick Break, Charge Beam, Curse, Dig, Double Team,
-      Drain Punch, Earth Power, Earthquake, Endure, Explosion, Facade, Fire Punch,
-      Fling, Focus Blast, Focus Punch, Frustration, Giga Impact, Gravity, Hammer Arm,
-      Headbutt, Hidden Power, Hyper Beam, Ice Punch, Iron Defense, Iron Head, Lock-On,
-      Mud-Slap, Natural Gift, Protect, Psych Up, Rest, Return, Rock Climb, Rock Polish,
-      Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Safeguard, Sandstorm,
-      Secret Power, Shock Wave, Sleep Talk, Snore, Stealth Rock, Stomp, Stone Edge,
-      Strength, Substitute, Sunny Day, Superpower, Swagger, Thunder, Thunder Wave,
-      Thunderbolt, Thunderpunch, Toxic, Zap Cannon, Body Slam, Double-Edge, Mimic,
-      Seismic Toss, Selfdestruct]
-  bw:
-    Regirock: [Ancientpower, Block, Brick Break, Bulldoze, Charge Beam, Curse, Dig,
-      Double Team, Drain Punch, Earth Power, Earthquake, Explosion, Facade, Fire Punch,
-      Fling, Focus Blast, Frustration, Giga Impact, Gravity, Hammer Arm, Hidden Power,
-      Hyper Beam, Ice Punch, Iron Defense, Iron Head, Lock-On, Protect, Psych Up,
-      Rest, Return, Rock Polish, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Round,
-      Safeguard, Sandstorm, Sleep Talk, Smack Down, Snore, Stealth Rock, Stomp, Stone
-        Edge, Strength, Substitute, Sunny Day, Superpower, Swagger, Thunder, Thunder
-        Wave, Thunderbolt, Thunderpunch, Toxic, Zap Cannon, Body Slam, Double-Edge,
-      Mimic, Seismic Toss, Selfdestruct]

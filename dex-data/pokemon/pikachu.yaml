@@ -1,29 +1,76 @@
 pokemon:
   Pichu:
-    introduction: gs
-    types:
-    - [Electric]
-    egggroups:
-    - []
     abilities:
     - [Static]
     - bw: [Lightningrod, Static]
+    egggroups:
+    - []
+    evolutions: [Pikachu]
+    height: [0.3]
+    introduction: gs
+    moves:
+    - gs: [Attract, Bide, Charm, Curse, Defense Curl, Detect, Double Team, Doubleslap,
+        Encore, Endure, Flash, Frustration, Headbutt, Hidden Power, Iron Tail, Mud-Slap,
+        Present, Protect, Rain Dance, Rest, Return, Reversal, Rollout, Sleep Talk,
+        Snore, Swagger, Sweet Kiss, Swift, Tail Whip, Thunder, Thunder Wave, Thunderbolt,
+        Thundershock, Toxic, Zap Cannon, Dizzy Punch, Petal Dance, Sing, Scary Face]
+    - bw: [Attract, Bestow, Bide, Charge, Charge Beam, Charm, Covet, Double Team,
+        Doubleslap, Echoed Voice, Encore, Endure, Facade, Fake Out, Flail, Flash,
+        Fling, Frustration, Grass Knot, Helping Hand, Hidden Power, Iron Tail, Light
+          Screen, Lucky Chant, Magnet Rise, Nasty Plot, Present, Protect, Rain Dance,
+        Rest, Return, Reversal, Round, Signal Beam, Sleep Talk, Snore, Substitute,
+        Swagger, Sweet Kiss, Tail Whip, Thunder, Thunder Wave, Thunderbolt, Thunderpunch,
+        Thundershock, Tickle, Toxic, Uproar, Volt Switch, Volt Tackle, Wild Charge,
+        Wish, Teeter Dance, Follow Me]
+    - dp: [Attract, Bide, Captivate, Charge, Charge Beam, Charm, Double Team, Doubleslap,
+        Encore, Endure, Facade, Fake Out, Flail, Flash, Fling, Frustration, Grass
+          Knot, Headbutt, Helping Hand, Hidden Power, Iron Tail, Light Screen, Magnet
+          Rise, Mud-Slap, Nasty Plot, Natural Gift, Present, Protect, Rain Dance,
+        Rest, Return, Reversal, Rollout, Secret Power, Shock Wave, Signal Beam, Sleep
+          Talk, Snore, Substitute, Swagger, Sweet Kiss, Swift, Tail Whip, Thunder,
+        Thunder Wave, Thunderbolt, Thunderpunch, Thundershock, Tickle, Toxic, Uproar,
+        Volt Tackle, Wish, Teeter Dance, Follow Me]
+    - rs: [Attract, Bide, Body Slam, Charge, Charm, Counter, Defense Curl, Double-Edge,
+        Double Team, Doubleslap, Encore, Endure, Facade, Flash, Frustration, Hidden
+          Power, Iron Tail, Light Screen, Mega Kick, Mega Punch, Mimic, Mud-Slap,
+        Present, Protect, Rain Dance, Rest, Return, Reversal, Rollout, Secret Power,
+        Seismic Toss, Shock Wave, Sleep Talk, Snore, Substitute, Swagger, Sweet Kiss,
+        Swift, Tail Whip, Thunder, Thunder Wave, Thunderbolt, Thundershock, Toxic,
+        Volt Tackle, Wish, Follow Me, Teeter Dance, Wish]
     stats:
     - [20, 40, 15, 35, 35, 60]
     tags:
     - [nfe]
     - dp: [lc]
-    weight: [2]
-    height: [0.3]
-  Pikachu:
-    introduction: rb
     types:
     - [Electric]
-    egggroups:
-    - [Fairy, Ground]
+    weight: [2]
+  Pikachu:
     abilities:
     - [Static]
     - bw: [Lightningrod, Static]
+    egggroups:
+    - [Fairy, Ground]
+    evolutions: [Raichu]
+    height: [0.4]
+    introduction: rb
+    moves:
+    - gs: [Agility, Dynamicpunch, Growl, Light Screen, Quick Attack, Slam, Strength,
+        Thunderpunch, Fly, Surf]
+    - bw: [Agility, Brick Break, Dig, Discharge, Electro Ball, Feint, Growl, Knock
+          Off, Quick Attack, Rock Smash, Slam, Strength, Fly, Sing, Extremespeed,
+        Surf, Last Resort, Yawn, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    - dp: [Agility, Brick Break, Dig, Discharge, Feint, Focus Punch, Growl, Knock
+          Off, Quick Attack, Rock Smash, Slam, Strength, Surf, Last Resort, Yawn,
+        Fly, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    - rs: [Agility, Brick Break, Dig, Dynamicpunch, Focus Punch, Growl, Quick Attack,
+        Rock Smash, Slam, Strength, Thunderpunch, Fly, Body Slam, Double-Edge, Mimic,
+        Seismic Toss]
+    - rb: [Agility, Bide, Body Slam, Double-Edge, Double Team, Flash, Growl, Light
+          Screen, Mega Kick, Mega Punch, Mimic, Pay Day, Quick Attack, Rage, Reflect,
+        Rest, Seismic Toss, Skull Bash, Slam, Submission, Substitute, Surf, Swift,
+        Tail Whip, Take Down, Thunder, Thunder Wave, Thunderbolt, Thundershock, Toxic,
+        Fly, Dizzy Punch, Petal Dance, Sing, Scary Face]
     stats:
     - [35, 55, 30, 50, 50, 90]
     - gs: [35, 55, 30, 50, 40, 90]
@@ -34,82 +81,31 @@ pokemon:
     - rs: [nfe]
     - gs: [uu]
     - dp: [nu]
-    weight: [6]
-    height: [0.4]
-  Raichu:
-    introduction: rb
     types:
     - [Electric]
-    egggroups:
-    - [Fairy, Ground]
+    weight: [6]
+  Raichu:
     abilities:
     - [Static]
     - bw: [Lightningrod, Static]
+    egggroups:
+    - [Fairy, Ground]
+    height: [0.8]
+    introduction: rb
+    moves:
+    - gs: [Hyper Beam, Thief]
+    - bw: [Focus Blast, Giga Impact, Hyper Beam, Thief, Body Slam, Double-Edge, Mimic,
+        Seismic Toss]
+    - dp: [Focus Blast, Giga Impact, Hyper Beam, Thief, Body Slam, Double-Edge, Mimic,
+        Seismic Toss]
+    - rs: [Hyper Beam, Thief, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    - rb: [Hyper Beam]
     stats:
     - [60, 90, 55, 90, 90, 100]
     - gs: [60, 90, 55, 90, 80, 100]
     - xy: [60, 90, 55, 90, 80, 110]
     tags:
     - [uu]
+    types:
+    - [Electric]
     weight: [30]
-    height: [0.8]
-evolutions:
-- {from: Pichu, to: Pikachu}
-- {from: Pikachu, to: Raichu}
-learnsets:
-  rb:
-    Pikachu: [Agility, Bide, Body Slam, Double-Edge, Double Team, Flash, Growl, Light
-        Screen, Mega Kick, Mega Punch, Mimic, Pay Day, Quick Attack, Rage, Reflect,
-      Rest, Seismic Toss, Skull Bash, Slam, Submission, Substitute, Surf, Swift, Tail
-        Whip, Take Down, Thunder, Thunder Wave, Thunderbolt, Thundershock, Toxic,
-      Fly, Dizzy Punch, Petal Dance, Sing, Scary Face]
-    Raichu: [Hyper Beam]
-  gs:
-    Pichu: [Attract, Bide, Charm, Curse, Defense Curl, Detect, Double Team, Doubleslap,
-      Encore, Endure, Flash, Frustration, Headbutt, Hidden Power, Iron Tail, Mud-Slap,
-      Present, Protect, Rain Dance, Rest, Return, Reversal, Rollout, Sleep Talk, Snore,
-      Swagger, Sweet Kiss, Swift, Tail Whip, Thunder, Thunder Wave, Thunderbolt, Thundershock,
-      Toxic, Zap Cannon, Dizzy Punch, Petal Dance, Sing, Scary Face]
-    Pikachu: [Agility, Dynamicpunch, Growl, Light Screen, Quick Attack, Slam, Strength,
-      Thunderpunch, Fly, Surf]
-    Raichu: [Hyper Beam, Thief]
-  rs:
-    Pichu: [Attract, Bide, Body Slam, Charge, Charm, Counter, Defense Curl, Double-Edge,
-      Double Team, Doubleslap, Encore, Endure, Facade, Flash, Frustration, Hidden
-        Power, Iron Tail, Light Screen, Mega Kick, Mega Punch, Mimic, Mud-Slap, Present,
-      Protect, Rain Dance, Rest, Return, Reversal, Rollout, Secret Power, Seismic
-        Toss, Shock Wave, Sleep Talk, Snore, Substitute, Swagger, Sweet Kiss, Swift,
-      Tail Whip, Thunder, Thunder Wave, Thunderbolt, Thundershock, Toxic, Volt Tackle,
-      Wish, Follow Me, Teeter Dance, Wish]
-    Pikachu: [Agility, Brick Break, Dig, Dynamicpunch, Focus Punch, Growl, Quick Attack,
-      Rock Smash, Slam, Strength, Thunderpunch, Fly, Body Slam, Double-Edge, Mimic,
-      Seismic Toss]
-    Raichu: [Hyper Beam, Thief, Body Slam, Double-Edge, Mimic, Seismic Toss]
-  dp:
-    Pichu: [Attract, Bide, Captivate, Charge, Charge Beam, Charm, Double Team, Doubleslap,
-      Encore, Endure, Facade, Fake Out, Flail, Flash, Fling, Frustration, Grass Knot,
-      Headbutt, Helping Hand, Hidden Power, Iron Tail, Light Screen, Magnet Rise,
-      Mud-Slap, Nasty Plot, Natural Gift, Present, Protect, Rain Dance, Rest, Return,
-      Reversal, Rollout, Secret Power, Shock Wave, Signal Beam, Sleep Talk, Snore,
-      Substitute, Swagger, Sweet Kiss, Swift, Tail Whip, Thunder, Thunder Wave, Thunderbolt,
-      Thunderpunch, Thundershock, Tickle, Toxic, Uproar, Volt Tackle, Wish, Teeter
-        Dance, Follow Me]
-    Pikachu: [Agility, Brick Break, Dig, Discharge, Feint, Focus Punch, Growl, Knock
-        Off, Quick Attack, Rock Smash, Slam, Strength, Surf, Last Resort, Yawn, Fly,
-      Body Slam, Double-Edge, Mimic, Seismic Toss]
-    Raichu: [Focus Blast, Giga Impact, Hyper Beam, Thief, Body Slam, Double-Edge,
-      Mimic, Seismic Toss]
-  bw:
-    Pichu: [Attract, Bestow, Bide, Charge, Charge Beam, Charm, Covet, Double Team,
-      Doubleslap, Echoed Voice, Encore, Endure, Facade, Fake Out, Flail, Flash, Fling,
-      Frustration, Grass Knot, Helping Hand, Hidden Power, Iron Tail, Light Screen,
-      Lucky Chant, Magnet Rise, Nasty Plot, Present, Protect, Rain Dance, Rest, Return,
-      Reversal, Round, Signal Beam, Sleep Talk, Snore, Substitute, Swagger, Sweet
-        Kiss, Tail Whip, Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Thundershock,
-      Tickle, Toxic, Uproar, Volt Switch, Volt Tackle, Wild Charge, Wish, Teeter Dance,
-      Follow Me]
-    Pikachu: [Agility, Brick Break, Dig, Discharge, Electro Ball, Feint, Growl, Knock
-        Off, Quick Attack, Rock Smash, Slam, Strength, Fly, Sing, Extremespeed, Surf,
-      Last Resort, Yawn, Body Slam, Double-Edge, Mimic, Seismic Toss]
-    Raichu: [Focus Blast, Giga Impact, Hyper Beam, Thief, Body Slam, Double-Edge,
-      Mimic, Seismic Toss]

@@ -1,32 +1,21 @@
 pokemon:
-  Shellder:
-    introduction: rb
-    types:
-    - [Water]
-    egggroups:
-    - [Water 3]
-    abilities:
-    - [Shell Armor]
-    - dp: [Shell Armor, Skill Link]
-      bw: [Overcoat, Shell Armor, Skill Link]
-    stats:
-    - [30, 65, 100, 45, 45, 40]
-    - gs: [30, 65, 100, 45, 25, 40]
-    tags:
-    - [nfe]
-    - dp: [lc]
-    weight: [4]
-    height: [0.3]
   Cloyster:
-    introduction: rb
-    types:
-    - [Ice, Water]
-    egggroups:
-    - [Water 3]
     abilities:
     - [Shell Armor]
-    - dp: [Shell Armor, Skill Link]
-      bw: [Overcoat, Shell Armor, Skill Link]
+    - bw: [Overcoat, Shell Armor, Skill Link]
+      dp: [Shell Armor, Skill Link]
+    egggroups:
+    - [Water 3]
+    height: [1.5]
+    introduction: rb
+    moves:
+    - gs: [Hyper Beam, Spike Cannon, Spikes]
+    - bw: [Frost Breath, Giga Impact, Hyper Beam, Icicle Crash, Poison Jab, Signal
+          Beam, Spike Cannon, Spikes, Torment, Toxic Spikes]
+    - dp: [Avalanche, Giga Impact, Hyper Beam, Poison Jab, Signal Beam, Spike Cannon,
+        Spikes, Torment, Toxic Spikes]
+    - rs: [Hyper Beam, Spike Cannon, Spikes, Torment]
+    - rb: [Hyper Beam, Spike Cannon]
     stats:
     - [50, 95, 180, 85, 85, 70]
     - gs: [50, 95, 180, 85, 45, 70]
@@ -34,48 +23,54 @@ pokemon:
     - [ou]
     - bw: [ou]
       dp: [uu]
+    types:
+    - [Ice, Water]
     weight: [132.5]
-    height: [1.5]
-evolutions:
-- {from: Shellder, to: Cloyster}
-learnsets:
-  rb:
-    Shellder: [Aurora Beam, Bide, Blizzard, Bubblebeam, Clamp, Double-Edge, Double
-        Team, Explosion, Ice Beam, Leer, Mimic, Rage, Reflect, Rest, Selfdestruct,
-      Substitute, Supersonic, Surf, Swift, Tackle, Take Down, Teleport, Toxic, Tri
-        Attack, Water Gun, Withdraw]
-    Cloyster: [Hyper Beam, Spike Cannon]
-  gs:
-    Shellder: [Attract, Aurora Beam, Barrier, Blizzard, Bubblebeam, Clamp, Curse,
-      Double Team, Endure, Frustration, Hidden Power, Ice Beam, Icy Wind, Leer, Protect,
-      Rain Dance, Rapid Spin, Rest, Return, Screech, Sleep Talk, Snore, Supersonic,
-      Surf, Swagger, Swift, Tackle, Take Down, Toxic, Whirlpool, Withdraw]
-    Cloyster: [Hyper Beam, Spike Cannon, Spikes]
-  rs:
-    Shellder: [Attract, Aurora Beam, Barrier, Blizzard, Bubblebeam, Clamp, Dive, Double-Edge,
-      Double Team, Endure, Explosion, Facade, Frustration, Hail, Hidden Power, Ice
-        Beam, Icicle Spear, Icy Wind, Leer, Mimic, Protect, Rain Dance, Rapid Spin,
-      Rest, Return, Screech, Secret Power, Selfdestruct, Sleep Talk, Snore, Substitute,
-      Supersonic, Surf, Swagger, Swift, Tackle, Take Down, Toxic, Water Pulse, Withdraw,
-      Double-Edge, Icy Wind, Mimic, Refresh, Selfdestruct]
-    Cloyster: [Hyper Beam, Spike Cannon, Spikes, Torment]
-  dp:
-    Shellder: [Attract, Aurora Beam, Barrier, Blizzard, Brine, Bubblebeam, Captivate,
-      Clamp, Dive, Double Team, Endure, Explosion, Facade, Frustration, Hail, Hidden
-        Power, Ice Beam, Ice Shard, Icicle Spear, Icy Wind, Iron Defense, Leer, Mud
-        Shot, Natural Gift, Payback, Protect, Rain Dance, Rapid Spin, Rest, Return,
-      Rock Blast, Screech, Secret Power, Sleep Talk, Snore, Substitute, Supersonic,
-      Surf, Swagger, Swift, Tackle, Take Down, Toxic, Water Pulse, Whirlpool, Withdraw,
-      Double-Edge, Icy Wind, Mimic, Refresh, Selfdestruct]
-    Cloyster: [Avalanche, Giga Impact, Hyper Beam, Poison Jab, Signal Beam, Spike
-        Cannon, Spikes, Torment, Toxic Spikes]
-  bw:
-    Shellder: [Aqua Ring, Attract, Aurora Beam, Avalanche, Barrier, Blizzard, Brine,
-      Bubblebeam, Clamp, Dive, Double Team, Explosion, Facade, Frustration, Hail,
-      Hidden Power, Hydro Pump, Ice Beam, Ice Shard, Icicle Spear, Icy Wind, Iron
-        Defense, Leer, Mud Shot, Payback, Protect, Rain Dance, Rapid Spin, Razor Shell,
-      Rest, Return, Rock Blast, Round, Screech, Shell Smash, Sleep Talk, Snore, Substitute,
-      Supersonic, Surf, Swagger, Tackle, Take Down, Toxic, Twineedle, Water Pulse,
-      Whirlpool, Withdraw, Double-Edge, Icy Wind, Mimic, Refresh, Selfdestruct]
-    Cloyster: [Frost Breath, Giga Impact, Hyper Beam, Icicle Crash, Poison Jab, Signal
-        Beam, Spike Cannon, Spikes, Torment, Toxic Spikes]
+  Shellder:
+    abilities:
+    - [Shell Armor]
+    - bw: [Overcoat, Shell Armor, Skill Link]
+      dp: [Shell Armor, Skill Link]
+    egggroups:
+    - [Water 3]
+    evolutions: [Cloyster]
+    height: [0.3]
+    introduction: rb
+    moves:
+    - gs: [Attract, Aurora Beam, Barrier, Blizzard, Bubblebeam, Clamp, Curse, Double
+          Team, Endure, Frustration, Hidden Power, Ice Beam, Icy Wind, Leer, Protect,
+        Rain Dance, Rapid Spin, Rest, Return, Screech, Sleep Talk, Snore, Supersonic,
+        Surf, Swagger, Swift, Tackle, Take Down, Toxic, Whirlpool, Withdraw]
+    - bw: [Aqua Ring, Attract, Aurora Beam, Avalanche, Barrier, Blizzard, Brine, Bubblebeam,
+        Clamp, Dive, Double Team, Explosion, Facade, Frustration, Hail, Hidden Power,
+        Hydro Pump, Ice Beam, Ice Shard, Icicle Spear, Icy Wind, Iron Defense, Leer,
+        Mud Shot, Payback, Protect, Rain Dance, Rapid Spin, Razor Shell, Rest, Return,
+        Rock Blast, Round, Screech, Shell Smash, Sleep Talk, Snore, Substitute, Supersonic,
+        Surf, Swagger, Tackle, Take Down, Toxic, Twineedle, Water Pulse, Whirlpool,
+        Withdraw, Double-Edge, Icy Wind, Mimic, Refresh, Selfdestruct]
+    - dp: [Attract, Aurora Beam, Barrier, Blizzard, Brine, Bubblebeam, Captivate,
+        Clamp, Dive, Double Team, Endure, Explosion, Facade, Frustration, Hail, Hidden
+          Power, Ice Beam, Ice Shard, Icicle Spear, Icy Wind, Iron Defense, Leer,
+        Mud Shot, Natural Gift, Payback, Protect, Rain Dance, Rapid Spin, Rest, Return,
+        Rock Blast, Screech, Secret Power, Sleep Talk, Snore, Substitute, Supersonic,
+        Surf, Swagger, Swift, Tackle, Take Down, Toxic, Water Pulse, Whirlpool, Withdraw,
+        Double-Edge, Icy Wind, Mimic, Refresh, Selfdestruct]
+    - rs: [Attract, Aurora Beam, Barrier, Blizzard, Bubblebeam, Clamp, Dive, Double-Edge,
+        Double Team, Endure, Explosion, Facade, Frustration, Hail, Hidden Power, Ice
+          Beam, Icicle Spear, Icy Wind, Leer, Mimic, Protect, Rain Dance, Rapid Spin,
+        Rest, Return, Screech, Secret Power, Selfdestruct, Sleep Talk, Snore, Substitute,
+        Supersonic, Surf, Swagger, Swift, Tackle, Take Down, Toxic, Water Pulse, Withdraw,
+        Double-Edge, Icy Wind, Mimic, Refresh, Selfdestruct]
+    - rb: [Aurora Beam, Bide, Blizzard, Bubblebeam, Clamp, Double-Edge, Double Team,
+        Explosion, Ice Beam, Leer, Mimic, Rage, Reflect, Rest, Selfdestruct, Substitute,
+        Supersonic, Surf, Swift, Tackle, Take Down, Teleport, Toxic, Tri Attack, Water
+          Gun, Withdraw]
+    stats:
+    - [30, 65, 100, 45, 45, 40]
+    - gs: [30, 65, 100, 45, 25, 40]
+    tags:
+    - [nfe]
+    - dp: [lc]
+    types:
+    - [Water]
+    weight: [4]

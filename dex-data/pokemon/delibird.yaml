@@ -1,44 +1,43 @@
 pokemon:
   Delibird:
-    introduction: gs
-    types: [[Flying, Ice]]
-    egggroups: [[Ground, Water-1]]
     abilities:
     - [Hustle, Vital Spirit]
     - bw: [Hustle, Insomnia, Vital Spirit]
+    egggroups:
+    - [Ground, Water-1]
+    height: [0.9]
+    introduction: gs
+    moves:
+    - gs: [Attract, Aurora Beam, Blizzard, Curse, Detect, Double Team, Endure, Fly,
+        Frustration, Future Sight, Headbutt, Hidden Power, Ice Beam, Icy Wind, Mud-Slap,
+        Present, Protect, Quick Attack, Rain Dance, Rapid Spin, Rest, Return, Sleep
+          Talk, Snore, Splash, Swagger, Swift, Thief, Toxic]
+    - bw: [Aerial Ace, Attract, Aurora Beam, Bestow, Blizzard, Body Slam, Bounce,
+        Brick Break, Double-Edge, Double Team, Facade, Fake Out, Fling, Fly, Frost
+          Breath, Frustration, Future Sight, Gunk Shot, Hail, Hidden Power, Ice Ball,
+        Ice Beam, Ice Punch, Ice Shard, Icy Wind, Mimic, Pluck, Present, Protect,
+        Quick Attack, Rain Dance, Rapid Spin, Recycle, Rest, Return, Round, Seed Bomb,
+        Seismic Toss, Signal Beam, Sky Attack, Sleep Talk, Splash, Substitute, Swagger,
+        Thief, Toxic]
+    - dp: [Aerial Ace, Attract, Aurora Beam, Avalanche, Blizzard, Body Slam, Bounce,
+        Brick Break, Captivate, Defog, Double-Edge, Double Team, Endure, Facade, Fake
+          Out, Fling, Fly, Focus Punch, Frustration, Future Sight, Gunk Shot, Hail,
+        Headbutt, Hidden Power, Ice Ball, Ice Beam, Ice Punch, Ice Shard, Icy Wind,
+        Mimic, Mud-Slap, Natural Gift, Pluck, Present, Protect, Quick Attack, Rain
+          Dance, Rapid Spin, Recycle, Rest, Return, Rollout, Secret Power, Seed Bomb,
+        Seismic Toss, Signal Beam, Sky Attack, Sleep Talk, Splash, Substitute, Swagger,
+        Swift, Thief, Toxic, Water Pulse]
+    - rs: [Aerial Ace, Attract, Aurora Beam, Blizzard, Body Slam, Counter, Double-Edge,
+        Double Team, Endure, Facade, Fly, Focus Punch, Frustration, Future Sight,
+        Hail, Hidden Power, Ice Ball, Ice Beam, Icy Wind, Mega Kick, Mega Punch, Mimic,
+        Mud-Slap, Present, Protect, Quick Attack, Rain Dance, Rapid Spin, Rest, Return,
+        Secret Power, Seismic Toss, Sky Attack, Sleep Talk, Snore, Splash, Substitute,
+        Swagger, Swift, Thief, Toxic, Water Pulse]
     stats:
     - [45, 55, 45, 65, 45, 75]
     tags:
     - [uu]
     - rs: [nu]
+    types:
+    - [Flying, Ice]
     weight: [16]
-    height: [0.9]
-learnsets:
-  gs:
-    Delibird: [Attract, Aurora Beam, Blizzard, Curse, Detect, Double Team, Endure,
-      Fly, Frustration, Future Sight, Headbutt, Hidden Power, Ice Beam, Icy Wind,
-      Mud-Slap, Present, Protect, Quick Attack, Rain Dance, Rapid Spin, Rest, Return,
-      Sleep Talk, Snore, Splash, Swagger, Swift, Thief, Toxic]
-  rs:
-    Delibird: [Aerial Ace, Attract, Aurora Beam, Blizzard, Body Slam, Counter, Double-Edge,
-      Double Team, Endure, Facade, Fly, Focus Punch, Frustration, Future Sight, Hail,
-      Hidden Power, Ice Ball, Ice Beam, Icy Wind, Mega Kick, Mega Punch, Mimic, Mud-Slap,
-      Present, Protect, Quick Attack, Rain Dance, Rapid Spin, Rest, Return, Secret
-        Power, Seismic Toss, Sky Attack, Sleep Talk, Snore, Splash, Substitute, Swagger,
-      Swift, Thief, Toxic, Water Pulse]
-  dp:
-    Delibird: [Aerial Ace, Attract, Aurora Beam, Avalanche, Blizzard, Body Slam, Bounce,
-      Brick Break, Captivate, Defog, Double-Edge, Double Team, Endure, Facade, Fake
-        Out, Fling, Fly, Focus Punch, Frustration, Future Sight, Gunk Shot, Hail,
-      Headbutt, Hidden Power, Ice Ball, Ice Beam, Ice Punch, Ice Shard, Icy Wind,
-      Mimic, Mud-Slap, Natural Gift, Pluck, Present, Protect, Quick Attack, Rain Dance,
-      Rapid Spin, Recycle, Rest, Return, Rollout, Secret Power, Seed Bomb, Seismic
-        Toss, Signal Beam, Sky Attack, Sleep Talk, Splash, Substitute, Swagger, Swift,
-      Thief, Toxic, Water Pulse]
-  bw:
-    Delibird: [Aerial Ace, Attract, Aurora Beam, Bestow, Blizzard, Body Slam, Bounce,
-      Brick Break, Double-Edge, Double Team, Facade, Fake Out, Fling, Fly, Frost Breath,
-      Frustration, Future Sight, Gunk Shot, Hail, Hidden Power, Ice Ball, Ice Beam,
-      Ice Punch, Ice Shard, Icy Wind, Mimic, Pluck, Present, Protect, Quick Attack,
-      Rain Dance, Rapid Spin, Recycle, Rest, Return, Round, Seed Bomb, Seismic Toss,
-      Signal Beam, Sky Attack, Sleep Talk, Splash, Substitute, Swagger, Thief, Toxic]

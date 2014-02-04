@@ -1,77 +1,73 @@
 pokemon:
-  Wooper:
-    introduction: gs
-    types:
-    - [Ground, Water]
-    egggroups:
-    - [Ground, Water 1]
-    abilities:
-    - [Damp, Water Absorb]
-    - bw: [Damp, Unaware, Water Absorb]
-    stats:
-    - [55, 45, 45, 25, 25, 15]
-    tags:
-    - [nfe]
-    - dp: [lc]
-    weight: [8.5]
-    height: [0.4]
   Quagsire:
-    introduction: gs
-    types:
-    - [Ground, Water]
-    egggroups:
-    - [Ground, Water 1]
     abilities:
     - [Damp, Water Absorb]
     - bw: [Damp, Unaware, Water Absorb]
+    egggroups:
+    - [Ground, Water 1]
+    height: [1.4]
+    introduction: gs
+    moves:
+    - gs: [Hyper Beam, Strength]
+    - bw: [Brick Break, Fling, Focus Blast, Giga Impact, Hyper Beam, Rock Slide, Rock
+          Tomb, Stone Edge, Strength, Thief, Double-Edge, Mimic, Seismic Toss]
+    - dp: [Brick Break, Fling, Focus Blast, Focus Punch, Giga Impact, Hyper Beam,
+        Rock Slide, Rock Tomb, Stone Edge, Strength, Double-Edge, Mimic, Seismic Toss]
+    - rs: [Brick Break, Counter, Focus Punch, Hyper Beam, Mega Kick, Mega Punch, Rock
+          Tomb, Seismic Toss, Strength, Double-Edge, Mimic, Seismic Toss]
     stats:
     - [95, 85, 85, 65, 65, 35]
     tags:
     - [uu]
     - bw: [ru]
       dp: [nu]
+    types:
+    - [Ground, Water]
     weight: [75]
-    height: [1.4]
-evolutions:
-- {from: Wooper, to: Quagsire}
-learnsets:
-  gs:
-    Wooper: [Amnesia, Ancientpower, Attract, Body Slam, Curse, Defense Curl, Dig,
-      Double Team, Dynamicpunch, Earthquake, Endure, Flash, Frustration, Haze, Headbutt,
-      Hidden Power, Ice Beam, Ice Punch, Iron Tail, Mist, Mud-Slap, Protect, Rain
-        Dance, Rest, Return, Rock Smash, Rollout, Safeguard, Sandstorm, Slam, Sleep
-        Talk, Sludge Bomb, Snore, Surf, Swagger, Tail Whip, Toxic, Water Gun, Whirlpool]
-    Quagsire: [Hyper Beam, Strength]
-  rs:
-    Wooper: [Amnesia, Ancientpower, Attract, Blizzard, Body Slam, Curse, Defense Curl,
-      Dig, Dive, Double-Edge, Double Team, Dynamicpunch, Earthquake, Endure, Facade,
-      Flash, Frustration, Hail, Haze, Hidden Power, Ice Beam, Ice Punch, Iron Tail,
-      Mimic, Mist, Mud Shot, Mud-Slap, Mud Sport, Protect, Rain Dance, Rest, Return,
-      Rock Smash, Rollout, Safeguard, Sandstorm, Secret Power, Slam, Sleep Talk, Sludge
-        Bomb, Snore, Spit Up, Stockpile, Substitute, Surf, Swagger, Swallow, Tail
-        Whip, Toxic, Water Gun, Water Pulse, Waterfall, Yawn, Double-Edge, Mimic]
-    Quagsire: [Brick Break, Counter, Focus Punch, Hyper Beam, Mega Kick, Mega Punch,
-      Rock Tomb, Seismic Toss, Strength, Double-Edge, Mimic, Seismic Toss]
-  dp:
-    Wooper: [Amnesia, Ancientpower, Aqua Tail, Attract, Blizzard, Body Slam, Captivate,
-      Counter, Curse, Dig, Dive, Double Kick, Double Team, Earth Power, Earthquake,
-      Encore, Endure, Facade, Flash, Frustration, Hail, Haze, Headbutt, Hidden Power,
-      Ice Beam, Ice Punch, Icy Wind, Iron Tail, Mist, Mud Bomb, Mud Shot, Mud-Slap,
-      Mud Sport, Muddy Water, Natural Gift, Protect, Rain Dance, Recover, Rest, Return,
-      Rock Smash, Rollout, Safeguard, Sandstorm, Secret Power, Slam, Sleep Talk, Sludge
-        Bomb, Snore, Spit Up, Stockpile, Substitute, Surf, Swagger, Swallow, Tail
-        Whip, Toxic, Water Gun, Water Pulse, Waterfall, Whirlpool, Yawn, Double-Edge,
-      Mimic]
-    Quagsire: [Brick Break, Fling, Focus Blast, Focus Punch, Giga Impact, Hyper Beam,
-      Rock Slide, Rock Tomb, Stone Edge, Strength, Double-Edge, Mimic, Seismic Toss]
-  bw:
-    Wooper: [Acid Spray, After You, Amnesia, Ancientpower, Aqua Tail, Attract, Blizzard,
-      Body Slam, Bulldoze, Counter, Curse, Dig, Dive, Double Kick, Double Team, Earth
-        Power, Earthquake, Encore, Facade, Flash, Frustration, Hail, Haze, Hidden
-        Power, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Mist, Mud Bomb, Mud Shot,
-      Mud Sport, Muddy Water, Protect, Rain Dance, Recover, Rest, Return, Rock Smash,
-      Round, Safeguard, Sandstorm, Scald, Slam, Sleep Talk, Sludge Bomb, Sludge Wave,
-      Snore, Spit Up, Stockpile, Substitute, Surf, Swagger, Swallow, Tail Whip, Toxic,
-      Water Gun, Waterfall, Yawn, Double-Edge, Mimic]
-    Quagsire: [Brick Break, Fling, Focus Blast, Giga Impact, Hyper Beam, Rock Slide,
-      Rock Tomb, Stone Edge, Strength, Thief, Double-Edge, Mimic, Seismic Toss]
+  Wooper:
+    abilities:
+    - [Damp, Water Absorb]
+    - bw: [Damp, Unaware, Water Absorb]
+    egggroups:
+    - [Ground, Water 1]
+    evolutions: [Quagsire]
+    height: [0.4]
+    introduction: gs
+    moves:
+    - gs: [Amnesia, Ancientpower, Attract, Body Slam, Curse, Defense Curl, Dig, Double
+          Team, Dynamicpunch, Earthquake, Endure, Flash, Frustration, Haze, Headbutt,
+        Hidden Power, Ice Beam, Ice Punch, Iron Tail, Mist, Mud-Slap, Protect, Rain
+          Dance, Rest, Return, Rock Smash, Rollout, Safeguard, Sandstorm, Slam, Sleep
+          Talk, Sludge Bomb, Snore, Surf, Swagger, Tail Whip, Toxic, Water Gun, Whirlpool]
+    - bw: [Acid Spray, After You, Amnesia, Ancientpower, Aqua Tail, Attract, Blizzard,
+        Body Slam, Bulldoze, Counter, Curse, Dig, Dive, Double Kick, Double Team,
+        Earth Power, Earthquake, Encore, Facade, Flash, Frustration, Hail, Haze, Hidden
+          Power, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Mist, Mud Bomb, Mud Shot,
+        Mud Sport, Muddy Water, Protect, Rain Dance, Recover, Rest, Return, Rock Smash,
+        Round, Safeguard, Sandstorm, Scald, Slam, Sleep Talk, Sludge Bomb, Sludge
+          Wave, Snore, Spit Up, Stockpile, Substitute, Surf, Swagger, Swallow, Tail
+          Whip, Toxic, Water Gun, Waterfall, Yawn, Double-Edge, Mimic]
+    - dp: [Amnesia, Ancientpower, Aqua Tail, Attract, Blizzard, Body Slam, Captivate,
+        Counter, Curse, Dig, Dive, Double Kick, Double Team, Earth Power, Earthquake,
+        Encore, Endure, Facade, Flash, Frustration, Hail, Haze, Headbutt, Hidden Power,
+        Ice Beam, Ice Punch, Icy Wind, Iron Tail, Mist, Mud Bomb, Mud Shot, Mud-Slap,
+        Mud Sport, Muddy Water, Natural Gift, Protect, Rain Dance, Recover, Rest,
+        Return, Rock Smash, Rollout, Safeguard, Sandstorm, Secret Power, Slam, Sleep
+          Talk, Sludge Bomb, Snore, Spit Up, Stockpile, Substitute, Surf, Swagger,
+        Swallow, Tail Whip, Toxic, Water Gun, Water Pulse, Waterfall, Whirlpool, Yawn,
+        Double-Edge, Mimic]
+    - rs: [Amnesia, Ancientpower, Attract, Blizzard, Body Slam, Curse, Defense Curl,
+        Dig, Dive, Double-Edge, Double Team, Dynamicpunch, Earthquake, Endure, Facade,
+        Flash, Frustration, Hail, Haze, Hidden Power, Ice Beam, Ice Punch, Iron Tail,
+        Mimic, Mist, Mud Shot, Mud-Slap, Mud Sport, Protect, Rain Dance, Rest, Return,
+        Rock Smash, Rollout, Safeguard, Sandstorm, Secret Power, Slam, Sleep Talk,
+        Sludge Bomb, Snore, Spit Up, Stockpile, Substitute, Surf, Swagger, Swallow,
+        Tail Whip, Toxic, Water Gun, Water Pulse, Waterfall, Yawn, Double-Edge, Mimic]
+    stats:
+    - [55, 45, 45, 25, 25, 15]
+    tags:
+    - [nfe]
+    - dp: [lc]
+    types:
+    - [Ground, Water]
+    weight: [8.5]

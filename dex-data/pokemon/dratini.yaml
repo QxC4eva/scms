@@ -1,47 +1,48 @@
 pokemon:
-  Dratini:
-    introduction: rb
-    types:
-    - [Dragon]
-    egggroups:
-    - [Dragon, Water 1]
-    abilities:
-    - [Shed Skin]
-    - bw: [Marvel Scale, Shed Skin]
-    stats:
-    - [41, 64, 45, 50, 50, 50]
-    - gs: [41, 64, 45, 50, 50, 50]
-    tags:
-    - [nfe]
-    - dp: [lc]
-    weight: [3.3]
-    height: [1.8]
   Dragonair:
-    introduction: rb
-    types:
-    - [Dragon]
-    egggroups:
-    - [Dragon, Water 1]
     abilities:
     - [Shed Skin]
     - bw: [Marvel Scale, Shed Skin]
+    egggroups:
+    - [Dragon, Water 1]
+    evolutions: [Dragonite]
+    height: [4]
+    introduction: rb
+    moves:
+    - rb: [Horn Drill]
     stats:
     - [61, 84, 65, 70, 70, 70]
     - gs: [61, 84, 65, 70, 70, 70]
     tags:
     - [nfe]
     - dp: [nu]
-    weight: [16.5]
-    height: [4]
-  Dragonite:
-    introduction: rb
     types:
-    - [Dragon, Flying]
-    egggroups:
-    - [Dragon, Water 1]
+    - [Dragon]
+    weight: [16.5]
+  Dragonite:
     abilities:
     - [Inner Focus]
     - bw: [Inner Focus, Multiscale]
+    egggroups:
+    - [Dragon, Water 1]
+    height: [2.2]
+    introduction: rb
+    moves:
+    - gs: [Dynamicpunch, Fire Punch, Fly, Fury Cutter, Ice Punch, Mud-Slap, Rock Smash,
+        Sandstorm, Steel Wing, Strength, Thunderpunch, Whirlpool, Wing Attack]
+    - bw: [Aerial Ace, Brick Break, Bulldoze, Cut, Dive, Dragon Claw, Earthquake,
+        Fire Punch, Fling, Fly, Focus Blast, Giga Impact, Heat Wave, Hone Claws, Hurricane,
+        Ice Punch, Iron Head, Roar, Rock Slide, Rock Smash, Rock Tomb, Roost, Sandstorm,
+        Sky Drop, Stone Edge, Strength, Superpower, Tailwind, Thunderpunch, Wing Attack]
+    - dp: [Aerial Ace, Air Cutter, Brick Break, Cut, Defog, Dive, Dragon Claw, Earthquake,
+        Fire Punch, Fling, Fly, Focus Blast, Focus Punch, Fury Cutter, Giga Impact,
+        Heat Wave, Ice Punch, Iron Head, Mud-Slap, Ominous Wind, Roar, Rock Slide,
+        Rock Smash, Rock Tomb, Roost, Sandstorm, Steel Wing, Stone Edge, Strength,
+        Superpower, Tailwind, Thunderpunch, Wing Attack]
+    - rs: [Aerial Ace, Brick Break, Cut, Dive, Dragon Claw, Dynamicpunch, Earthquake,
+        Fire Punch, Fly, Focus Punch, Fury Cutter, Ice Punch, Mud-Slap, Roar, Rock
+          Smash, Rock Tomb, Sandstorm, Steel Wing, Strength, Thunderpunch, Wing Attack]
+    - rb: [Razor Wind, Strength]
     stats:
     - [91, 134, 95, 100, 100, 80]
     - gs: [91, 134, 95, 100, 100, 80]
@@ -49,63 +50,59 @@ pokemon:
     - [ou]
     - dp: [ou]
       gs: [bl]
+    types:
+    - [Dragon, Flying]
     weight: [210]
-    height: [2.2]
-evolutions:
-- {from: Dratini, to: Dragonair}
-- {from: Dragonair, to: Dragonite}
-learnsets:
-  rb:
-    Dratini: [Agility, Bide, Blizzard, Body Slam, Bubblebeam, Double-Edge, Double
-        Team, Dragon Rage, Fire Blast, Hyper Beam, Ice Beam, Leer, Mimic, Rage, Reflect,
-      Rest, Skull Bash, Slam, Substitute, Surf, Swift, Take Down, Thunder, Thunder
-        Wave, Thunderbolt, Toxic, Water Gun, Wrap]
-    Dragonair: [Horn Drill]
-    Dragonite: [Razor Wind, Strength]
-  gs:
-    Dratini: [Agility, Attract, Blizzard, Curse, Detect, Double Team, Dragon Rage,
-      Dragonbreath, Endure, Fire Blast, Flamethrower, Frustration, Haze, Headbutt,
-      Hidden Power, Hyper Beam, Ice Beam, Icy Wind, Iron Tail, Leer, Light Screen,
-      Mist, Outrage, Protect, Rain Dance, Rest, Return, Safeguard, Slam, Sleep Talk,
-      Snore, Supersonic, Surf, Swagger, Swift, Thunder, Thunder Wave, Thunderbolt,
-      Toxic, Twister, Waterfall, Wrap, Zap Cannon]
-    Dragonite: [Dynamicpunch, Fire Punch, Fly, Fury Cutter, Ice Punch, Mud-Slap, Rock
-        Smash, Sandstorm, Steel Wing, Strength, Thunderpunch, Whirlpool, Wing Attack]
-  rs:
-    Dratini: [Agility, Attract, Blizzard, Body Slam, Double-Edge, Double Team, Dragon
-        Dance, Dragon Rage, Dragonbreath, Endure, Facade, Fire Blast, Flamethrower,
-      Frustration, Hail, Haze, Hidden Power, Hyper Beam, Ice Beam, Icy Wind, Iron
-        Tail, Leer, Light Screen, Mimic, Mist, Outrage, Protect, Rain Dance, Rest,
-      Return, Safeguard, Secret Power, Shock Wave, Slam, Sleep Talk, Snore, Substitute,
-      Sunny Day, Supersonic, Surf, Swagger, Swift, Thunder, Thunder Wave, Thunderbolt,
-      Toxic, Twister, Water Pulse, Waterfall, Wrap]
-    Dragonite: [Aerial Ace, Brick Break, Cut, Dive, Dragon Claw, Dynamicpunch, Earthquake,
-      Fire Punch, Fly, Focus Punch, Fury Cutter, Ice Punch, Mud-Slap, Roar, Rock Smash,
-      Rock Tomb, Sandstorm, Steel Wing, Strength, Thunderpunch, Wing Attack]
-  dp:
-    Dratini: [Agility, Aqua Tail, Attract, Blizzard, Body Slam, Captivate, Double-Edge,
-      Double Team, Draco Meteor, Dragon Dance, Dragon Pulse, Dragon Rage, Dragon Rush,
-      Dragonbreath, Endure, Extremespeed, Facade, Fire Blast, Flamethrower, Frustration,
-      Hail, Haze, Headbutt, Hidden Power, Hyper Beam, Ice Beam, Icy Wind, Iron Tail,
-      Leer, Light Screen, Mimic, Mist, Natural Gift, Outrage, Protect, Rain Dance,
-      Rest, Return, Safeguard, Secret Power, Shock Wave, Slam, Sleep Talk, Snore,
-      Substitute, Sunny Day, Supersonic, Surf, Swagger, Swift, Thunder, Thunder Wave,
-      Thunderbolt, Toxic, Twister, Water Pulse, Waterfall, Whirlpool, Wrap]
-    Dragonite: [Aerial Ace, Air Cutter, Brick Break, Cut, Defog, Dive, Dragon Claw,
-      Earthquake, Fire Punch, Fling, Fly, Focus Blast, Focus Punch, Fury Cutter, Giga
-        Impact, Heat Wave, Ice Punch, Iron Head, Mud-Slap, Ominous Wind, Roar, Rock
-        Slide, Rock Smash, Rock Tomb, Roost, Sandstorm, Steel Wing, Stone Edge, Strength,
-      Superpower, Tailwind, Thunderpunch, Wing Attack]
-  bw:
-    Dratini: [Agility, Aqua Jet, Aqua Tail, Attract, Bind, Blizzard, Body Slam, Double-Edge,
-      Double Team, Draco Meteor, Dragon Dance, Dragon Pulse, Dragon Rage, Dragon Rush,
-      Dragon Tail, Dragonbreath, Extremespeed, Facade, Fire Blast, Flamethrower, Frustration,
-      Hail, Haze, Hidden Power, Hyper Beam, Ice Beam, Icy Wind, Incinerate, Iron Tail,
-      Leer, Light Screen, Mimic, Mist, Outrage, Protect, Rain Dance, Rest, Return,
-      Round, Safeguard, Slam, Shock Wave, Sleep Talk, Snore, Substitute, Sunny Day,
-      Supersonic, Surf, Swagger, Thunder, Thunder Wave, Thunderbolt, Toxic, Twister,
-      Water Pulse, Waterfall, Wrap]
-    Dragonite: [Aerial Ace, Brick Break, Bulldoze, Cut, Dive, Dragon Claw, Earthquake,
-      Fire Punch, Fling, Fly, Focus Blast, Giga Impact, Heat Wave, Hone Claws, Hurricane,
-      Ice Punch, Iron Head, Roar, Rock Slide, Rock Smash, Rock Tomb, Roost, Sandstorm,
-      Sky Drop, Stone Edge, Strength, Superpower, Tailwind, Thunderpunch, Wing Attack]
+  Dratini:
+    abilities:
+    - [Shed Skin]
+    - bw: [Marvel Scale, Shed Skin]
+    egggroups:
+    - [Dragon, Water 1]
+    evolutions: [Dragonair]
+    height: [1.8]
+    introduction: rb
+    moves:
+    - gs: [Agility, Attract, Blizzard, Curse, Detect, Double Team, Dragon Rage, Dragonbreath,
+        Endure, Fire Blast, Flamethrower, Frustration, Haze, Headbutt, Hidden Power,
+        Hyper Beam, Ice Beam, Icy Wind, Iron Tail, Leer, Light Screen, Mist, Outrage,
+        Protect, Rain Dance, Rest, Return, Safeguard, Slam, Sleep Talk, Snore, Supersonic,
+        Surf, Swagger, Swift, Thunder, Thunder Wave, Thunderbolt, Toxic, Twister,
+        Waterfall, Wrap, Zap Cannon]
+    - bw: [Agility, Aqua Jet, Aqua Tail, Attract, Bind, Blizzard, Body Slam, Double-Edge,
+        Double Team, Draco Meteor, Dragon Dance, Dragon Pulse, Dragon Rage, Dragon
+          Rush, Dragon Tail, Dragonbreath, Extremespeed, Facade, Fire Blast, Flamethrower,
+        Frustration, Hail, Haze, Hidden Power, Hyper Beam, Ice Beam, Icy Wind, Incinerate,
+        Iron Tail, Leer, Light Screen, Mimic, Mist, Outrage, Protect, Rain Dance,
+        Rest, Return, Round, Safeguard, Slam, Shock Wave, Sleep Talk, Snore, Substitute,
+        Sunny Day, Supersonic, Surf, Swagger, Thunder, Thunder Wave, Thunderbolt,
+        Toxic, Twister, Water Pulse, Waterfall, Wrap]
+    - dp: [Agility, Aqua Tail, Attract, Blizzard, Body Slam, Captivate, Double-Edge,
+        Double Team, Draco Meteor, Dragon Dance, Dragon Pulse, Dragon Rage, Dragon
+          Rush, Dragonbreath, Endure, Extremespeed, Facade, Fire Blast, Flamethrower,
+        Frustration, Hail, Haze, Headbutt, Hidden Power, Hyper Beam, Ice Beam, Icy
+          Wind, Iron Tail, Leer, Light Screen, Mimic, Mist, Natural Gift, Outrage,
+        Protect, Rain Dance, Rest, Return, Safeguard, Secret Power, Shock Wave, Slam,
+        Sleep Talk, Snore, Substitute, Sunny Day, Supersonic, Surf, Swagger, Swift,
+        Thunder, Thunder Wave, Thunderbolt, Toxic, Twister, Water Pulse, Waterfall,
+        Whirlpool, Wrap]
+    - rs: [Agility, Attract, Blizzard, Body Slam, Double-Edge, Double Team, Dragon
+          Dance, Dragon Rage, Dragonbreath, Endure, Facade, Fire Blast, Flamethrower,
+        Frustration, Hail, Haze, Hidden Power, Hyper Beam, Ice Beam, Icy Wind, Iron
+          Tail, Leer, Light Screen, Mimic, Mist, Outrage, Protect, Rain Dance, Rest,
+        Return, Safeguard, Secret Power, Shock Wave, Slam, Sleep Talk, Snore, Substitute,
+        Sunny Day, Supersonic, Surf, Swagger, Swift, Thunder, Thunder Wave, Thunderbolt,
+        Toxic, Twister, Water Pulse, Waterfall, Wrap]
+    - rb: [Agility, Bide, Blizzard, Body Slam, Bubblebeam, Double-Edge, Double Team,
+        Dragon Rage, Fire Blast, Hyper Beam, Ice Beam, Leer, Mimic, Rage, Reflect,
+        Rest, Skull Bash, Slam, Substitute, Surf, Swift, Take Down, Thunder, Thunder
+          Wave, Thunderbolt, Toxic, Water Gun, Wrap]
+    stats:
+    - [41, 64, 45, 50, 50, 50]
+    - gs: [41, 64, 45, 50, 50, 50]
+    tags:
+    - [nfe]
+    - dp: [lc]
+    types:
+    - [Dragon]
+    weight: [3.3]

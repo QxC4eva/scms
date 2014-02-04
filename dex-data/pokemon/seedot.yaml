@@ -1,96 +1,94 @@
 pokemon:
-  Seedot:
-    introduction: rs
-    types:
-    - [Grass]
-    egggroups:
-    - [Ground, Plant]
+  Nuzleaf:
     abilities:
     - [Chlorophyll, Early Bird]
     - bw: [Chlorophyll, Early Bird, Pickpocket]
+    egggroups:
+    - [Ground, Plant]
+    evolutions: [Shiftry]
+    height: [1]
+    introduction: rs
+    moves:
+    - bw: [Brick Break, Cut, Dark Pulse, Embargo, Extrasensory, Faint Attack, Fake
+          Out, Fling, Hyper Beam, Low Kick, Low Sweep, Payback, Pound, Psych Up, Razor
+          Leaf, Rock Slide, Rock Tomb, Snarl, Strength, Thief, Torment, Body Slam,
+        Double-Edge, Mimic, Selfdestruct]
+    - dp: [Brick Break, Cut, Dark Pulse, Embargo, Extrasensory, Faint Attack, Fake
+          Out, Fling, Fury Cutter, Hyper Beam, Low Kick, Mud-Slap, Payback, Pound,
+        Psych Up, Razor Leaf, Rock Slide, Rock Tomb, Strength, Swift, Thief, Torment,
+        Body Slam, Double-Edge, Mimic, Selfdestruct]
+    - rs: [Brick Break, Cut, Extrasensory, Faint Attack, Fake Out, Fury Cutter, Hyper
+          Beam, Mega Kick, Mud-Slap, Pound, Psych Up, Rock Tomb, Strength, Swift,
+        Thief, Torment, Body Slam, Double-Edge, Mimic, Selfdestruct]
+    stats:
+    - [70, 70, 40, 60, 40, 60]
+    tags:
+    - [nfe]
+    types:
+    - [Dark, Grass]
+    weight: [28]
+  Seedot:
+    abilities:
+    - [Chlorophyll, Early Bird]
+    - bw: [Chlorophyll, Early Bird, Pickpocket]
+    egggroups:
+    - [Ground, Plant]
+    evolutions: [Nuzleaf]
+    height: [0.5]
+    introduction: rs
+    moves:
+    - bw: [Amnesia, Attract, Beat Up, Bide, Bullet Seed, Defog, Dig, Double Team,
+        Energy Ball, Explosion, Facade, False Swipe, Flash, Foul Play, Frustration,
+        Giga Drain, Grass Knot, Growth, Harden, Hidden Power, Leech Seed, Nasty Plot,
+        Nature Power, Power Swap, Protect, Quick Attack, Razor Wind, Rest, Retaliate,
+        Return, Rock Smash, Round, Seed Bomb, Shadow Ball, Sleep Talk, Snore, Solarbeam,
+        Spite, Substitute, Sunny Day, Swagger, Swords Dance, Synthesis, Take Down,
+        Toxic, Worry Seed, Body Slam, Double-Edge, Giga Drain, Mimic, Refresh, Secret
+          Power, Selfdestruct]
+    - dp: [Amnesia, Attract, Bide, Bullet Seed, Captivate, Dig, Double Team, Endure,
+        Energy Ball, Explosion, Facade, False Swipe, Flash, Frustration, Giga Drain,
+        Grass Knot, Growth, Harden, Headbutt, Hidden Power, Leech Seed, Nasty Plot,
+        Natural Gift, Nature Power, Power Swap, Protect, Quick Attack, Razor Wind,
+        Rest, Return, Rock Smash, Rollout, Secret Power, Seed Bomb, Shadow Ball, Sleep
+          Talk, Snore, Solarbeam, Spite, Substitute, Sunny Day, Swagger, Swords Dance,
+        Synthesis, Take Down, Toxic, Worry Seed, Body Slam, Double-Edge, Giga Drain,
+        Mimic, Refresh, Secret Power, Selfdestruct]
+    - rs: [Amnesia, Attract, Bide, Body Slam, Bullet Seed, Defense Curl, Dig, Double-Edge,
+        Double Team, Endure, Explosion, Facade, False Swipe, Flash, Frustration, Giga
+          Drain, Growth, Harden, Hidden Power, Leech Seed, Mimic, Nature Power, Protect,
+        Quick Attack, Razor Wind, Rest, Return, Rock Smash, Rollout, Secret Power,
+        Selfdestruct, Shadow Ball, Sleep Talk, Snore, Solarbeam, Substitute, Sunny
+          Day, Swagger, Swords Dance, Synthesis, Take Down, Toxic, Body Slam, Double-Edge,
+        Giga Drain, Mimic, Refresh, Secret Power, Selfdestruct]
     stats:
     - [40, 40, 50, 30, 30, 30]
     tags:
     - [nfe]
     - dp: [lc]
+    types:
+    - [Grass]
     weight: [4]
-    height: [0.5]
-  Nuzleaf:
-    introduction: rs
-    types:
-    - [Dark, Grass]
-    egggroups:
-    - [Ground, Plant]
-    abilities:
-    - [Chlorophyll, Early Bird]
-    - bw: [Chlorophyll, Early Bird, Pickpocket]
-    stats:
-    - [70, 70, 40, 60, 40, 60]
-    tags:
-    - [nfe]
-    weight: [28]
-    height: [1]
   Shiftry:
-    introduction: rs
-    types:
-    - [Dark, Grass]
-    egggroups:
-    - [Ground, Plant]
     abilities:
     - [Chlorophyll, Early Bird]
     - bw: [Chlorophyll, Early Bird, Pickpocket]
+    egggroups:
+    - [Ground, Plant]
+    height: [1.3]
+    introduction: rs
+    moves:
+    - bw: [Aerial Ace, Bounce, Focus Blast, Giga Impact, Icy Wind, Knock Off, Leaf
+          Storm, Leaf Tornado, Tailwind, Whirlwind, X-scissor, Body Slam, Double-Edge,
+        Mimic, Selfdestruct]
+    - dp: [Aerial Ace, Air Cutter, Bounce, Defog, Focus Blast, Giga Impact, Icy Wind,
+        Knock Off, Leaf Storm, Ominous Wind, Silver Wind, Sucker Punch, Tailwind,
+        Twister, Whirlwind, X-scissor, Body Slam, Double-Edge, Mimic, Selfdestruct]
+    - rs: [Aerial Ace, Body Slam, Double-Edge, Mimic, Selfdestruct]
     stats:
     - [90, 100, 60, 90, 60, 80]
     tags:
     - [uu]
     - dp: [nu]
+    types:
+    - [Dark, Grass]
     weight: [59.6]
-    height: [1.3]
-evolutions:
-- {from: Seedot, to: Nuzleaf}
-- {from: Nuzleaf, to: Shiftry}
-learnsets:
-  rs:
-    Seedot: [Amnesia, Attract, Bide, Body Slam, Bullet Seed, Defense Curl, Dig, Double-Edge,
-      Double Team, Endure, Explosion, Facade, False Swipe, Flash, Frustration, Giga
-        Drain, Growth, Harden, Hidden Power, Leech Seed, Mimic, Nature Power, Protect,
-      Quick Attack, Razor Wind, Rest, Return, Rock Smash, Rollout, Secret Power, Selfdestruct,
-      Shadow Ball, Sleep Talk, Snore, Solarbeam, Substitute, Sunny Day, Swagger, Swords
-        Dance, Synthesis, Take Down, Toxic, Body Slam, Double-Edge, Giga Drain, Mimic,
-      Refresh, Secret Power, Selfdestruct]
-    Nuzleaf: [Brick Break, Cut, Extrasensory, Faint Attack, Fake Out, Fury Cutter,
-      Hyper Beam, Mega Kick, Mud-Slap, Pound, Psych Up, Rock Tomb, Strength, Swift,
-      Thief, Torment, Body Slam, Double-Edge, Mimic, Selfdestruct]
-    Shiftry: [Aerial Ace, Body Slam, Double-Edge, Mimic, Selfdestruct]
-  dp:
-    Seedot: [Amnesia, Attract, Bide, Bullet Seed, Captivate, Dig, Double Team, Endure,
-      Energy Ball, Explosion, Facade, False Swipe, Flash, Frustration, Giga Drain,
-      Grass Knot, Growth, Harden, Headbutt, Hidden Power, Leech Seed, Nasty Plot,
-      Natural Gift, Nature Power, Power Swap, Protect, Quick Attack, Razor Wind, Rest,
-      Return, Rock Smash, Rollout, Secret Power, Seed Bomb, Shadow Ball, Sleep Talk,
-      Snore, Solarbeam, Spite, Substitute, Sunny Day, Swagger, Swords Dance, Synthesis,
-      Take Down, Toxic, Worry Seed, Body Slam, Double-Edge, Giga Drain, Mimic, Refresh,
-      Secret Power, Selfdestruct]
-    Nuzleaf: [Brick Break, Cut, Dark Pulse, Embargo, Extrasensory, Faint Attack, Fake
-        Out, Fling, Fury Cutter, Hyper Beam, Low Kick, Mud-Slap, Payback, Pound, Psych
-        Up, Razor Leaf, Rock Slide, Rock Tomb, Strength, Swift, Thief, Torment, Body
-        Slam, Double-Edge, Mimic, Selfdestruct]
-    Shiftry: [Aerial Ace, Air Cutter, Bounce, Defog, Focus Blast, Giga Impact, Icy
-        Wind, Knock Off, Leaf Storm, Ominous Wind, Silver Wind, Sucker Punch, Tailwind,
-      Twister, Whirlwind, X-scissor, Body Slam, Double-Edge, Mimic, Selfdestruct]
-  bw:
-    Seedot: [Amnesia, Attract, Beat Up, Bide, Bullet Seed, Defog, Dig, Double Team,
-      Energy Ball, Explosion, Facade, False Swipe, Flash, Foul Play, Frustration,
-      Giga Drain, Grass Knot, Growth, Harden, Hidden Power, Leech Seed, Nasty Plot,
-      Nature Power, Power Swap, Protect, Quick Attack, Razor Wind, Rest, Retaliate,
-      Return, Rock Smash, Round, Seed Bomb, Shadow Ball, Sleep Talk, Snore, Solarbeam,
-      Spite, Substitute, Sunny Day, Swagger, Swords Dance, Synthesis, Take Down, Toxic,
-      Worry Seed, Body Slam, Double-Edge, Giga Drain, Mimic, Refresh, Secret Power,
-      Selfdestruct]
-    Nuzleaf: [Brick Break, Cut, Dark Pulse, Embargo, Extrasensory, Faint Attack, Fake
-        Out, Fling, Hyper Beam, Low Kick, Low Sweep, Payback, Pound, Psych Up, Razor
-        Leaf, Rock Slide, Rock Tomb, Snarl, Strength, Thief, Torment, Body Slam, Double-Edge,
-      Mimic, Selfdestruct]
-    Shiftry: [Aerial Ace, Bounce, Focus Blast, Giga Impact, Icy Wind, Knock Off, Leaf
-        Storm, Leaf Tornado, Tailwind, Whirlwind, X-scissor, Body Slam, Double-Edge,
-      Mimic, Selfdestruct]

@@ -1,14 +1,53 @@
 pokemon:
   Miltank:
-    introduction: gs
-    types:
-    - [Normal]
-    egggroups:
-    - [Ground]
     abilities:
     - [Thick Fat]
     - dp: [Scrappy, Thick Fat]
     - bw: [Sap Sipper, Scrappy, Thick Fat]
+    egggroups:
+    - [Ground]
+    height: [1.2]
+    introduction: gs
+    moves:
+    - gs: [Attract, Bide, Blizzard, Body Slam, Curse, Defense Curl, Double Team, Dynamicpunch,
+        Earthquake, Endure, Fire Punch, Frustration, Growl, Headbutt, Heal Bell, Hidden
+          Power, Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Milk Drink,
+        Mud-Slap, Present, Protect, Psych Up, Rain Dance, Rest, Return, Reversal,
+        Rock Smash, Rollout, Sandstorm, Seismic Toss, Shadow Ball, Sleep Talk, Snore,
+        Stomp, Strength, Sunny Day, Surf, Swagger, Sweet Scent, Tackle, Thunder, Thunderbolt,
+        Thunderpunch, Toxic, Zap Cannon]
+    - bw: [After You, Attract, Bide, Blizzard, Block, Body Slam, Brick Break, Bulldoze,
+        Captivate, Curse, Defense Curl, Dizzy Punch, Double-Edge, Double Team, Earthquake,
+        Echoed Voice, Endure, Facade, Fire Punch, Fling, Focus Blast, Frustration,
+        Giga Impact, Growl, Gyro Ball, Hammer Arm, Heal Bell, Heart Stamp, Helping
+          Hand, Hidden Power, Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Iron Head,
+        Iron Tail, Milk Drink, Natural Gift, Present, Protect, Psych Up, Punishment,
+        Rain Dance, Rest, Retaliate, Return, Reversal, Rock Slide, Rock Smash, Rock
+          Tomb, Rollout, Round, Sandstorm, Seismic Toss, Shadow Ball, Sleep Talk,
+        Snore, Solarbeam, Stealth Rock, Stomp, Strength, Substitute, Sunny Day, Surf,
+        Swagger, Tackle, Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Toxic,
+        Wake-Up Slap, Work Up, Zen Headbutt, Icy Wind, Mimic]
+    - dp: [Attract, Bide, Blizzard, Block, Body Slam, Brick Break, Captivate, Curse,
+        Defense Curl, Dizzy Punch, Double-Edge, Double Team, Earthquake, Endure, Facade,
+        Fire Punch, Fling, Focus Blast, Focus Punch, Frustration, Giga Impact, Growl,
+        Gyro Ball, Hammer Arm, Headbutt, Heal Bell, Helping Hand, Hidden Power, Hyper
+          Beam, Ice Beam, Ice Punch, Icy Wind, Iron Head, Iron Tail, Milk Drink, Mud-Slap,
+        Natural Gift, Present, Protect, Psych Up, Punishment, Rain Dance, Rest, Return,
+        Reversal, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sandstorm, Secret Power,
+        Seismic Toss, Shadow Ball, Shock Wave, Sleep Talk, Snore, Solarbeam, Stealth
+          Rock, Stomp, Strength, Substitute, Sunny Day, Surf, Swagger, Tackle, Thunder,
+        Thunder Wave, Thunderbolt, Thunderpunch, Toxic, Wake-Up Slap, Water Pulse,
+        Whirlpool, Zen Headbutt, Icy Wind, Mimic]
+    - rs: [Attract, Bide, Blizzard, Body Slam, Brick Break, Counter, Curse, Defense
+          Curl, Double-Edge, Double Team, Dynamicpunch, Earthquake, Endure, Facade,
+        Fire Punch, Focus Punch, Frustration, Growl, Heal Bell, Helping Hand, Hidden
+          Power, Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Mega Kick,
+        Mega Punch, Metronome, Milk Drink, Mimic, Mud-Slap, Present, Protect, Psych
+          Up, Rain Dance, Rest, Return, Reversal, Rock Slide, Rock Smash, Rock Tomb,
+        Rollout, Sandstorm, Secret Power, Seismic Toss, Shadow Ball, Shock Wave, Sleep
+          Talk, Snore, Solarbeam, Stomp, Strength, Substitute, Sunny Day, Surf, Swagger,
+        Tackle, Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Toxic, Water Pulse,
+        Icy Wind, Mimic]
     stats:
     - [95, 80, 105, 40, 70, 100]
     tags:
@@ -16,50 +55,6 @@ pokemon:
     - bw: [nu]
     - dp: [uu]
     - rs: [bl]
+    types:
+    - [Normal]
     weight: [75.5]
-    height: [1.2]
-evolutions: []
-learnsets:
-  gs:
-    Miltank: [Attract, Bide, Blizzard, Body Slam, Curse, Defense Curl, Double Team,
-      Dynamicpunch, Earthquake, Endure, Fire Punch, Frustration, Growl, Headbutt,
-      Heal Bell, Hidden Power, Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Iron Tail,
-      Milk Drink, Mud-Slap, Present, Protect, Psych Up, Rain Dance, Rest, Return,
-      Reversal, Rock Smash, Rollout, Sandstorm, Seismic Toss, Shadow Ball, Sleep Talk,
-      Snore, Stomp, Strength, Sunny Day, Surf, Swagger, Sweet Scent, Tackle, Thunder,
-      Thunderbolt, Thunderpunch, Toxic, Zap Cannon]
-  rs:
-    Miltank: [Attract, Bide, Blizzard, Body Slam, Brick Break, Counter, Curse, Defense
-        Curl, Double-Edge, Double Team, Dynamicpunch, Earthquake, Endure, Facade,
-      Fire Punch, Focus Punch, Frustration, Growl, Heal Bell, Helping Hand, Hidden
-        Power, Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Mega Kick, Mega
-        Punch, Metronome, Milk Drink, Mimic, Mud-Slap, Present, Protect, Psych Up,
-      Rain Dance, Rest, Return, Reversal, Rock Slide, Rock Smash, Rock Tomb, Rollout,
-      Sandstorm, Secret Power, Seismic Toss, Shadow Ball, Shock Wave, Sleep Talk,
-      Snore, Solarbeam, Stomp, Strength, Substitute, Sunny Day, Surf, Swagger, Tackle,
-      Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Toxic, Water Pulse, Icy Wind,
-      Mimic]
-  dp:
-    Miltank: [Attract, Bide, Blizzard, Block, Body Slam, Brick Break, Captivate, Curse,
-      Defense Curl, Dizzy Punch, Double-Edge, Double Team, Earthquake, Endure, Facade,
-      Fire Punch, Fling, Focus Blast, Focus Punch, Frustration, Giga Impact, Growl,
-      Gyro Ball, Hammer Arm, Headbutt, Heal Bell, Helping Hand, Hidden Power, Hyper
-        Beam, Ice Beam, Ice Punch, Icy Wind, Iron Head, Iron Tail, Milk Drink, Mud-Slap,
-      Natural Gift, Present, Protect, Psych Up, Punishment, Rain Dance, Rest, Return,
-      Reversal, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sandstorm, Secret Power,
-      Seismic Toss, Shadow Ball, Shock Wave, Sleep Talk, Snore, Solarbeam, Stealth
-        Rock, Stomp, Strength, Substitute, Sunny Day, Surf, Swagger, Tackle, Thunder,
-      Thunder Wave, Thunderbolt, Thunderpunch, Toxic, Wake-Up Slap, Water Pulse, Whirlpool,
-      Zen Headbutt, Icy Wind, Mimic]
-  bw:
-    Miltank: [After You, Attract, Bide, Blizzard, Block, Body Slam, Brick Break, Bulldoze,
-      Captivate, Curse, Defense Curl, Dizzy Punch, Double-Edge, Double Team, Earthquake,
-      Echoed Voice, Endure, Facade, Fire Punch, Fling, Focus Blast, Frustration, Giga
-        Impact, Growl, Gyro Ball, Hammer Arm, Heal Bell, Heart Stamp, Helping Hand,
-      Hidden Power, Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Iron Head, Iron Tail,
-      Milk Drink, Natural Gift, Present, Protect, Psych Up, Punishment, Rain Dance,
-      Rest, Retaliate, Return, Reversal, Rock Slide, Rock Smash, Rock Tomb, Rollout,
-      Round, Sandstorm, Seismic Toss, Shadow Ball, Sleep Talk, Snore, Solarbeam, Stealth
-        Rock, Stomp, Strength, Substitute, Sunny Day, Surf, Swagger, Tackle, Thunder,
-      Thunder Wave, Thunderbolt, Thunderpunch, Toxic, Wake-Up Slap, Work Up, Zen Headbutt,
-      Icy Wind, Mimic]

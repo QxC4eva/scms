@@ -1,70 +1,66 @@
 pokemon:
-  Spinarak:
-    introduction: gs
-    types:
-    - [Bug, Poison]
-    egggroups:
-    - [Bug]
-    abilities:
-    - [Insomnia, Swarm]
-    - bw: [Insomnia, Sniper, Swarm]
-    stats:
-    - [40, 60, 40, 40, 40, 30]
-    tags:
-    - [nfe]
-    - dp: [lc]
-    weight: [8.5]
-    height: [0.5]
   Ariados:
-    introduction: gs
-    types:
-    - [Bug, Poison]
-    egggroups:
-    - [Bug]
     abilities:
     - [Insomnia, Swarm]
     - bw: [Insomnia, Sniper, Swarm]
+    egggroups:
+    - [Bug]
+    height: [1.1]
+    introduction: gs
+    moves:
+    - gs: [Hyper Beam]
+    - bw: [Giga Impact, Hyper Beam]
+    - dp: [Giga Impact, Hyper Beam]
+    - rs: [Hyper Beam]
     stats:
     - [70, 90, 70, 60, 60, 40]
     tags:
     - [uu]
     - rs: [nu]
+    types:
+    - [Bug, Poison]
     weight: [33.5]
-    height: [1.1]
-evolutions:
-- {from: Spinarak, to: Ariados}
-learnsets:
-  gs:
-    Spinarak: [Agility, Attract, Baton Pass, Constrict, Curse, Dig, Disable, Double
-        Team, Endure, Flash, Frustration, Fury Swipes, Giga Drain, Hidden Power, Leech
-        Life, Night Shade, Poison Sting, Protect, Psybeam, Psychic, Pursuit, Rest,
-      Return, Scary Face, Screech, Sleep Talk, Sludge Bomb, Snore, Solarbeam, Sonicboom,
-      Spider Web, String Shot, Sunny Day, Swagger, Thief, Toxic]
-    Ariados: [Hyper Beam]
-  rs:
-    Spinarak: [Agility, Attract, Baton Pass, Body Slam, Constrict, Dig, Disable, Double-Edge,
-      Double Team, Endure, Facade, Flash, Frustration, Fury Swipes, Giga Drain, Hidden
-        Power, Leech Life, Mimic, Night Shade, Poison Sting, Protect, Psybeam, Psychic,
-      Pursuit, Rest, Return, Scary Face, Secret Power, Signal Beam, Sleep Talk, Sludge
-        Bomb, Snore, Solarbeam, Sonicboom, Spider Web, String Shot, Substitute, Sunny
-        Day, Swagger, Thief, Toxic, Refresh]
-    Ariados: [Hyper Beam]
-  dp:
-    Spinarak: [Agility, Attract, Baton Pass, Bounce, Bug Bite, Captivate, Constrict,
-      Dig, Disable, Double Team, Endure, Facade, Flash, Frustration, Fury Swipes,
-      Giga Drain, Hidden Power, Leech Life, Natural Gift, Night Shade, Pin Missile,
-      Poison Jab, Poison Sting, Protect, Psybeam, Psychic, Pursuit, Rest, Return,
-      Scary Face, Secret Power, Shadow Sneak, Signal Beam, Sleep Talk, Sludge Bomb,
-      Solarbeam, Sonicboom, Spider Web, String Shot, Substitute, Sucker Punch, Sunny
-        Day, Swagger, Thief, Toxic, Toxic Spikes, Refresh]
-    Ariados: [Giga Impact, Hyper Beam]
-  bw:
-    Spinarak: [Agility, Attract, Baton Pass, Bounce, Bug Bite, Constrict, Cross Poison,
-      Dig, Disable, Double Team, Electroweb, Facade, Flash, Foul Play, Frustration,
-      Fury Swipes, Giga Drain, Hidden Power, Hone Claws, Leech Life, Night Shade,
-      Night Slash, Pin Missile, Poison Jab, Poison Sting, Protect, Psybeam, Psychic,
-      Pursuit, Rage Powder, Rest, Return, Round, Scary Face, Shadow Sneak, Signal
-        Beam, Sleep Talk, Sludge Bomb, Solarbeam, Sonicboom, Spider Web, String Shot,
-      Struggle Bug, Substitute, Sucker Punch, Sunny Day, Swagger, Thief, Toxic, Toxic
-        Spikes, Twineedle, Venoshock, X-scissor, Refresh]
-    Ariados: [Giga Impact, Hyper Beam]
+  Spinarak:
+    abilities:
+    - [Insomnia, Swarm]
+    - bw: [Insomnia, Sniper, Swarm]
+    egggroups:
+    - [Bug]
+    evolutions: [Ariados]
+    height: [0.5]
+    introduction: gs
+    moves:
+    - gs: [Agility, Attract, Baton Pass, Constrict, Curse, Dig, Disable, Double Team,
+        Endure, Flash, Frustration, Fury Swipes, Giga Drain, Hidden Power, Leech Life,
+        Night Shade, Poison Sting, Protect, Psybeam, Psychic, Pursuit, Rest, Return,
+        Scary Face, Screech, Sleep Talk, Sludge Bomb, Snore, Solarbeam, Sonicboom,
+        Spider Web, String Shot, Sunny Day, Swagger, Thief, Toxic]
+    - bw: [Agility, Attract, Baton Pass, Bounce, Bug Bite, Constrict, Cross Poison,
+        Dig, Disable, Double Team, Electroweb, Facade, Flash, Foul Play, Frustration,
+        Fury Swipes, Giga Drain, Hidden Power, Hone Claws, Leech Life, Night Shade,
+        Night Slash, Pin Missile, Poison Jab, Poison Sting, Protect, Psybeam, Psychic,
+        Pursuit, Rage Powder, Rest, Return, Round, Scary Face, Shadow Sneak, Signal
+          Beam, Sleep Talk, Sludge Bomb, Solarbeam, Sonicboom, Spider Web, String
+          Shot, Struggle Bug, Substitute, Sucker Punch, Sunny Day, Swagger, Thief,
+        Toxic, Toxic Spikes, Twineedle, Venoshock, X-scissor, Refresh]
+    - dp: [Agility, Attract, Baton Pass, Bounce, Bug Bite, Captivate, Constrict, Dig,
+        Disable, Double Team, Endure, Facade, Flash, Frustration, Fury Swipes, Giga
+          Drain, Hidden Power, Leech Life, Natural Gift, Night Shade, Pin Missile,
+        Poison Jab, Poison Sting, Protect, Psybeam, Psychic, Pursuit, Rest, Return,
+        Scary Face, Secret Power, Shadow Sneak, Signal Beam, Sleep Talk, Sludge Bomb,
+        Solarbeam, Sonicboom, Spider Web, String Shot, Substitute, Sucker Punch, Sunny
+          Day, Swagger, Thief, Toxic, Toxic Spikes, Refresh]
+    - rs: [Agility, Attract, Baton Pass, Body Slam, Constrict, Dig, Disable, Double-Edge,
+        Double Team, Endure, Facade, Flash, Frustration, Fury Swipes, Giga Drain,
+        Hidden Power, Leech Life, Mimic, Night Shade, Poison Sting, Protect, Psybeam,
+        Psychic, Pursuit, Rest, Return, Scary Face, Secret Power, Signal Beam, Sleep
+          Talk, Sludge Bomb, Snore, Solarbeam, Sonicboom, Spider Web, String Shot,
+        Substitute, Sunny Day, Swagger, Thief, Toxic, Refresh]
+    stats:
+    - [40, 60, 40, 40, 40, 30]
+    tags:
+    - [nfe]
+    - dp: [lc]
+    types:
+    - [Bug, Poison]
+    weight: [8.5]

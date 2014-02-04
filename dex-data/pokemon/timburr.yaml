@@ -1,58 +1,57 @@
 pokemon:
-  Timburr:
-    introduction: bw
-    types:
-    - [Fighting]
-    egggroups:
-    - [Humanshape]
-    abilities:
-    - [Guts, Iron Fist, Sheer Force]
-    stats:
-    - [75, 80, 55, 25, 35, 35]
-    tags:
-    - [lc]
-    weight: [12.5]
-    height: [0.6]
-  Gurdurr:
-    introduction: bw
-    types:
-    - [Fighting]
-    egggroups:
-    - [Humanshape]
-    abilities:
-    - [Guts, Iron Fist, Sheer Force]
-    stats:
-    - [85, 105, 85, 40, 50, 40]
-    tags:
-    - [nu]
-    weight: [40]
-    height: [1.2]
   Conkeldurr:
-    introduction: bw
-    types:
-    - [Fighting]
-    egggroups:
-    - [Humanshape]
     abilities:
     - [Guts, Iron Fist, Sheer Force]
+    egggroups:
+    - [Humanshape]
+    height: [1.4]
+    introduction: bw
+    moves:
+    - bw: [Bulldoze, Earthquake, Giga Impact, Hyper Beam]
     stats:
     - [105, 140, 95, 55, 65, 45]
     tags:
     - [ou]
+    types:
+    - [Fighting]
     weight: [87]
-    height: [1.4]
-evolutions:
-- {from: Timburr, to: Gurdurr}
-- {from: Gurdurr, to: Conkeldurr}
-learnsets:
-  bw:
-    Timburr: [Attract, Bide, Block, Brick Break, Bulk Up, Chip Away, Comet Punch,
-      Counter, Detect, Dig, Double Team, Drain Punch, Dynamicpunch, Endure, Facade,
-      Fire Punch, Fling, Focus Blast, Focus Energy, Focus Punch, Force Palm, Foresight,
-      Frustration, Grass Knot, Hammer Arm, Helping Hand, Hidden Power, Ice Punch,
-      Knock Off, Leer, Low Kick, Low Sweep, Mach Punch, Payback, Poison Jab, Pound,
-      Protect, Rain Dance, Rest, Retaliate, Return, Reversal, Rock Slide, Rock Smash,
-      Rock Throw, Rock Tomb, Round, Scary Face, Sleep Talk, Smack Down, Smellingsalt,
-      Snore, Stone Edge, Strength, Substitute, Sunny Day, Superpower, Swagger, Taunt,
-      Thunderpunch, Toxic, Wake-Up Slap, Wide Guard, Work Up]
-    Conkeldurr: [Bulldoze, Earthquake, Giga Impact, Hyper Beam]
+  Gurdurr:
+    abilities:
+    - [Guts, Iron Fist, Sheer Force]
+    egggroups:
+    - [Humanshape]
+    evolutions: [Conkeldurr]
+    height: [1.2]
+    introduction: bw
+    stats:
+    - [85, 105, 85, 40, 50, 40]
+    tags:
+    - [nu]
+    types:
+    - [Fighting]
+    weight: [40]
+  Timburr:
+    abilities:
+    - [Guts, Iron Fist, Sheer Force]
+    egggroups:
+    - [Humanshape]
+    evolutions: [Gurdurr]
+    height: [0.6]
+    introduction: bw
+    moves:
+    - bw: [Attract, Bide, Block, Brick Break, Bulk Up, Chip Away, Comet Punch, Counter,
+        Detect, Dig, Double Team, Drain Punch, Dynamicpunch, Endure, Facade, Fire
+          Punch, Fling, Focus Blast, Focus Energy, Focus Punch, Force Palm, Foresight,
+        Frustration, Grass Knot, Hammer Arm, Helping Hand, Hidden Power, Ice Punch,
+        Knock Off, Leer, Low Kick, Low Sweep, Mach Punch, Payback, Poison Jab, Pound,
+        Protect, Rain Dance, Rest, Retaliate, Return, Reversal, Rock Slide, Rock Smash,
+        Rock Throw, Rock Tomb, Round, Scary Face, Sleep Talk, Smack Down, Smellingsalt,
+        Snore, Stone Edge, Strength, Substitute, Sunny Day, Superpower, Swagger, Taunt,
+        Thunderpunch, Toxic, Wake-Up Slap, Wide Guard, Work Up]
+    stats:
+    - [75, 80, 55, 25, 35, 35]
+    tags:
+    - [lc]
+    types:
+    - [Fighting]
+    weight: [12.5]

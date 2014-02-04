@@ -1,66 +1,63 @@
 pokemon:
   Barboach:
-    introduction: rs
-    types:
-    - [Ground, Water]
-    egggroups:
-    - [Water 2]
     abilities:
     - [Oblivious]
     - dp: [Anticipation, Oblivious]
     - bw: [Anticipation, Hydration, Oblivious]
+    egggroups:
+    - [Water 2]
+    evolutions: [Whiscash]
+    height: [0.4]
+    introduction: rs
+    moves:
+    - bw: [Amnesia, Aqua Tail, Attract, Blizzard, Bounce, Bulldoze, Dive, Double-Edge,
+        Double Team, Dragon Dance, Earth Power, Earthquake, Facade, Fissure, Flail,
+        Frustration, Future Sight, Hail, Hidden Power, Hydro Pump, Ice Beam, Icy Wind,
+        Magnitude, Mimic, Mud Bomb, Mud Shot, Mud-Slap, Mud Sport, Muddy Water, Protect,
+        Rain Dance, Rest, Return, Rock Tomb, Round, Sandstorm, Scald, Sleep Talk,
+        Snore, Spark, Substitute, Surf, Swagger, Take Down, Thrash, Toxic, Water Gun,
+        Water Pulse, Water Sport, Waterfall, Whirlpool]
+    - dp: [Amnesia, Aqua Tail, Attract, Blizzard, Bounce, Captivate, Dive, Double
+          Team, Dragon Dance, Earth Power, Earthquake, Endure, Facade, Fissure, Flail,
+        Frustration, Future Sight, Hail, Headbutt, Hidden Power, Hydro Pump, Ice Beam,
+        Icy Wind, Magnitude, Mud Bomb, Mud-Slap, Mud Sport, Natural Gift, Protect,
+        Rain Dance, Rest, Return, Rock Tomb, Sandstorm, Secret Power, Sleep Talk,
+        Snore, Spark, Substitute, Surf, Swagger, Take Down, Thrash, Toxic, Water Gun,
+        Water Pulse, Water Sport, Waterfall, Whirlpool]
+    - rs: [Amnesia, Attract, Blizzard, Dive, Double-Edge, Double Team, Earthquake,
+        Endure, Facade, Fissure, Frustration, Future Sight, Hail, Hidden Power, Ice
+          Beam, Icy Wind, Magnitude, Mimic, Mud-Slap, Mud Sport, Protect, Rain Dance,
+        Rest, Return, Rock Tomb, Sandstorm, Secret Power, Sleep Talk, Snore, Spark,
+        Substitute, Surf, Swagger, Thrash, Toxic, Water Gun, Water Pulse, Water Sport,
+        Waterfall, Whirlpool]
     stats:
     - [50, 48, 43, 46, 41, 60]
     tags:
     - [nfe]
     - dp: [lc]
-    weight: [1.9]
-    height: [0.4]
-  Whiscash:
-    introduction: rs
     types:
     - [Ground, Water]
-    egggroups:
-    - [Water 2]
+    weight: [1.9]
+  Whiscash:
     abilities:
     - [Oblivious]
     - dp: [Anticipation, Oblivious]
     - bw: [Anticipation, Hydration, Oblivious]
+    egggroups:
+    - [Water 2]
+    height: [0.9]
+    introduction: rs
+    moves:
+    - bw: [Giga Impact, Hyper Beam, Rock Slide, Rock Smash, Stone Edge, Strength,
+        Tickle, Zen Headbutt, Double-Edge, Icy Wind, Mimic]
+    - dp: [Giga Impact, Hyper Beam, Rock Slide, Rock Smash, Stone Edge, Strength,
+        Tickle, Zen Headbutt, Double-Edge, Icy Wind, Mimic]
+    - rs: [Hyper Beam, Rock Slide, Rock Smash, Strength, Tickle, Double-Edge, Icy
+          Wind, Mimic]
     stats:
     - [110, 78, 73, 76, 71, 60]
     tags:
     - [nu]
+    types:
+    - [Ground, Water]
     weight: [23.6]
-    height: [0.9]
-evolutions:
-- {from: Barboach, to: Whiscash}
-learnsets:
-  rs:
-    Barboach: [Amnesia, Attract, Blizzard, Dive, Double-Edge, Double Team, Earthquake,
-      Endure, Facade, Fissure, Frustration, Future Sight, Hail, Hidden Power, Ice
-        Beam, Icy Wind, Magnitude, Mimic, Mud-Slap, Mud Sport, Protect, Rain Dance,
-      Rest, Return, Rock Tomb, Sandstorm, Secret Power, Sleep Talk, Snore, Spark,
-      Substitute, Surf, Swagger, Thrash, Toxic, Water Gun, Water Pulse, Water Sport,
-      Waterfall, Whirlpool]
-    Whiscash: [Hyper Beam, Rock Slide, Rock Smash, Strength, Tickle, Double-Edge,
-      Icy Wind, Mimic]
-  dp:
-    Barboach: [Amnesia, Aqua Tail, Attract, Blizzard, Bounce, Captivate, Dive, Double
-        Team, Dragon Dance, Earth Power, Earthquake, Endure, Facade, Fissure, Flail,
-      Frustration, Future Sight, Hail, Headbutt, Hidden Power, Hydro Pump, Ice Beam,
-      Icy Wind, Magnitude, Mud Bomb, Mud-Slap, Mud Sport, Natural Gift, Protect, Rain
-        Dance, Rest, Return, Rock Tomb, Sandstorm, Secret Power, Sleep Talk, Snore,
-      Spark, Substitute, Surf, Swagger, Take Down, Thrash, Toxic, Water Gun, Water
-        Pulse, Water Sport, Waterfall, Whirlpool]
-    Whiscash: [Giga Impact, Hyper Beam, Rock Slide, Rock Smash, Stone Edge, Strength,
-      Tickle, Zen Headbutt, Double-Edge, Icy Wind, Mimic]
-  bw:
-    Barboach: [Amnesia, Aqua Tail, Attract, Blizzard, Bounce, Bulldoze, Dive, Double-Edge,
-      Double Team, Dragon Dance, Earth Power, Earthquake, Facade, Fissure, Flail,
-      Frustration, Future Sight, Hail, Hidden Power, Hydro Pump, Ice Beam, Icy Wind,
-      Magnitude, Mimic, Mud Bomb, Mud Shot, Mud-Slap, Mud Sport, Muddy Water, Protect,
-      Rain Dance, Rest, Return, Rock Tomb, Round, Sandstorm, Scald, Sleep Talk, Snore,
-      Spark, Substitute, Surf, Swagger, Take Down, Thrash, Toxic, Water Gun, Water
-        Pulse, Water Sport, Waterfall, Whirlpool]
-    Whiscash: [Giga Impact, Hyper Beam, Rock Slide, Rock Smash, Stone Edge, Strength,
-      Tickle, Zen Headbutt, Double-Edge, Icy Wind, Mimic]

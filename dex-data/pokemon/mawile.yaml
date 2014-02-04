@@ -1,57 +1,54 @@
 pokemon:
   Mawile:
-    introduction: rs
-    types:
-    - [Steel]
-    - xy: [Steel, Fairy]
-    egggroups:
-    - [Fairy, Ground]
     abilities:
     - [Hyper Cutter, Intimidate]
     - bw: [Hyper Cutter, Intimidate, Sheer Force]
+    egggroups:
+    - [Fairy, Ground]
+    height: [0.6]
+    introduction: rs
+    moves:
+    - bw: [Ancientpower, Astonish, Attract, Baton Pass, Bite, Brick Break, Captivate,
+        Charge Beam, Crunch, Dark Pulse, Double Team, Embargo, Facade, Faint Attack,
+        Fake Tears, False Swipe, Fire Blast, Fire Fang, Flamethrower, Flash Cannon,
+        Fling, Focus Blast, Foul Play, Frustration, Giga Impact, Grass Knot, Guard
+          Swap, Hidden Power, Hyper Beam, Ice Beam, Ice Fang, Ice Punch, Icy Wind,
+        Incinerate, Iron Defense, Iron Head, Knock Off, Last Resort, Magnet Rise,
+        Metal Burst, Pain Split, Payback, Poison Fang, Protect, Psych Up, Punishment,
+        Rain Dance, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Round, Sandstorm,
+        Shadow Ball, Slam, Sleep Talk, Sludge Bomb, Snatch, Snore, Solarbeam, Spit
+          Up, Stealth Rock, Stockpile, Stone Edge, Strength, Substitute, Sucker Punch,
+        Sunny Day, Super Fang, Swagger, Swallow, Sweet Scent, Swords Dance, Taunt,
+        Thunder Fang, Thunderpunch, Tickle, Torment, Toxic, Vicegrip, Body Slam, Double-Edge,
+        Icy Wind, Mimic, Seismic Toss, Sing]
+    - dp: [Ancientpower, Astonish, Attract, Baton Pass, Bite, Brick Break, Captivate,
+        Charge Beam, Crunch, Dark Pulse, Double Team, Embargo, Endure, Facade, Faint
+          Attack, Fake Tears, False Swipe, Fire Blast, Fire Fang, Flamethrower, Flash
+          Cannon, Fling, Focus Blast, Focus Punch, Frustration, Giga Impact, Grass
+          Knot, Guard Swap, Headbutt, Hidden Power, Hyper Beam, Ice Beam, Ice Fang,
+        Ice Punch, Icy Wind, Iron Defense, Iron Head, Knock Off, Magnet Rise, Mud-Slap,
+        Natural Gift, Pain Split, Payback, Poison Fang, Protect, Psych Up, Punishment,
+        Rain Dance, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Sandstorm, Secret
+          Power, Shadow Ball, Sleep Talk, Sludge Bomb, Snore, Solarbeam, Spit Up,
+        Stockpile, Strength, Substitute, Sucker Punch, Sunny Day, Super Fang, Swagger,
+        Swallow, Sweet Scent, Swords Dance, Taunt, Thunder Fang, Thunderpunch, Tickle,
+        Torment, Toxic, Vicegrip, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic
+          Toss, Sing]
+    - rs: [Ancientpower, Astonish, Attract, Baton Pass, Bite, Body Slam, Brick Break,
+        Counter, Crunch, Double-Edge, Double Team, Dynamicpunch, Endure, Facade, Faint
+          Attack, Fake Tears, False Swipe, Fire Blast, Flamethrower, Focus Punch,
+        Frustration, Hidden Power, Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Iron
+          Defense, Mega Kick, Mega Punch, Mimic, Mud-Slap, Poison Fang, Protect, Psych
+          Up, Rain Dance, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Sandstorm,
+        Secret Power, Seismic Toss, Sleep Talk, Sludge Bomb, Snore, Solarbeam, Spit
+          Up, Stockpile, Strength, Substitute, Sunny Day, Swagger, Swallow, Sweet
+          Scent, Swords Dance, Taunt, Thunderpunch, Tickle, Torment, Toxic, Vicegrip,
+        Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss, Sing]
     stats:
     - [50, 85, 85, 55, 55, 50]
     tags:
     - [nu]
+    types:
+    - [Steel]
+    - xy: [Steel, Fairy]
     weight: [11.5]
-    height: [0.6]
-evolutions: []
-learnsets:
-  rs:
-    Mawile: [Ancientpower, Astonish, Attract, Baton Pass, Bite, Body Slam, Brick Break,
-      Counter, Crunch, Double-Edge, Double Team, Dynamicpunch, Endure, Facade, Faint
-        Attack, Fake Tears, False Swipe, Fire Blast, Flamethrower, Focus Punch, Frustration,
-      Hidden Power, Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Iron Defense, Mega
-        Kick, Mega Punch, Mimic, Mud-Slap, Poison Fang, Protect, Psych Up, Rain Dance,
-      Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Sandstorm, Secret Power, Seismic
-        Toss, Sleep Talk, Sludge Bomb, Snore, Solarbeam, Spit Up, Stockpile, Strength,
-      Substitute, Sunny Day, Swagger, Swallow, Sweet Scent, Swords Dance, Taunt, Thunderpunch,
-      Tickle, Torment, Toxic, Vicegrip, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic
-        Toss, Sing]
-  dp:
-    Mawile: [Ancientpower, Astonish, Attract, Baton Pass, Bite, Brick Break, Captivate,
-      Charge Beam, Crunch, Dark Pulse, Double Team, Embargo, Endure, Facade, Faint
-        Attack, Fake Tears, False Swipe, Fire Blast, Fire Fang, Flamethrower, Flash
-        Cannon, Fling, Focus Blast, Focus Punch, Frustration, Giga Impact, Grass Knot,
-      Guard Swap, Headbutt, Hidden Power, Hyper Beam, Ice Beam, Ice Fang, Ice Punch,
-      Icy Wind, Iron Defense, Iron Head, Knock Off, Magnet Rise, Mud-Slap, Natural
-        Gift, Pain Split, Payback, Poison Fang, Protect, Psych Up, Punishment, Rain
-        Dance, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Sandstorm, Secret
-        Power, Shadow Ball, Sleep Talk, Sludge Bomb, Snore, Solarbeam, Spit Up, Stockpile,
-      Strength, Substitute, Sucker Punch, Sunny Day, Super Fang, Swagger, Swallow,
-      Sweet Scent, Swords Dance, Taunt, Thunder Fang, Thunderpunch, Tickle, Torment,
-      Toxic, Vicegrip, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss, Sing]
-  bw:
-    Mawile: [Ancientpower, Astonish, Attract, Baton Pass, Bite, Brick Break, Captivate,
-      Charge Beam, Crunch, Dark Pulse, Double Team, Embargo, Facade, Faint Attack,
-      Fake Tears, False Swipe, Fire Blast, Fire Fang, Flamethrower, Flash Cannon,
-      Fling, Focus Blast, Foul Play, Frustration, Giga Impact, Grass Knot, Guard Swap,
-      Hidden Power, Hyper Beam, Ice Beam, Ice Fang, Ice Punch, Icy Wind, Incinerate,
-      Iron Defense, Iron Head, Knock Off, Last Resort, Magnet Rise, Metal Burst, Pain
-        Split, Payback, Poison Fang, Protect, Psych Up, Punishment, Rain Dance, Rest,
-      Return, Rock Slide, Rock Smash, Rock Tomb, Round, Sandstorm, Shadow Ball, Slam,
-      Sleep Talk, Sludge Bomb, Snatch, Snore, Solarbeam, Spit Up, Stealth Rock, Stockpile,
-      Stone Edge, Strength, Substitute, Sucker Punch, Sunny Day, Super Fang, Swagger,
-      Swallow, Sweet Scent, Swords Dance, Taunt, Thunder Fang, Thunderpunch, Tickle,
-      Torment, Toxic, Vicegrip, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss,
-      Sing]

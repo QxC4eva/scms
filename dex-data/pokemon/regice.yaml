@@ -1,48 +1,46 @@
 pokemon:
   Regice:
-    introduction: rs
-    types:
-    - [Ice]
-    egggroups:
-    - []
     abilities:
     - [Clear Body]
     - bw: [Clear Body, Ice Body]
+    egggroups:
+    - []
+    height: [1.8]
+    introduction: rs
+    moves:
+    - bw: [Amnesia, Ancientpower, Blizzard, Block, Brick Break, Bulldoze, Charge Beam,
+        Curse, Double Team, Earthquake, Explosion, Facade, Flash Cannon, Fling, Focus
+          Blast, Frost Breath, Frustration, Giga Impact, Gravity, Hail, Hammer Arm,
+        Hidden Power, Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Iron Head, Lock-On,
+        Protect, Psych Up, Rain Dance, Rest, Return, Rock Polish, Rock Slide, Rock
+          Smash, Rock Tomb, Round, Safeguard, Signal Beam, Sleep Talk, Snore, Stomp,
+        Strength, Substitute, Superpower, Swagger, Thunder, Thunder Wave, Thunderbolt,
+        Thunderpunch, Toxic, Zap Cannon, Body Slam, Double-Edge, Mimic, Seismic Toss,
+        Selfdestruct]
+    - dp: [Amnesia, Ancientpower, Avalanche, Blizzard, Block, Brick Break, Charge
+          Beam, Curse, Double Team, Earthquake, Endure, Explosion, Facade, Flash Cannon,
+        Fling, Focus Blast, Focus Punch, Frustration, Giga Impact, Gravity, Hail,
+        Hammer Arm, Headbutt, Hidden Power, Hyper Beam, Ice Beam, Ice Punch, Icy Wind,
+        Iron Head, Lock-On, Mud-Slap, Natural Gift, Protect, Psych Up, Rain Dance,
+        Rest, Return, Rock Climb, Rock Polish, Rock Slide, Rock Smash, Rock Tomb,
+        Rollout, Safeguard, Secret Power, Shock Wave, Signal Beam, Sleep Talk, Snore,
+        Stomp, Strength, Substitute, Superpower, Swagger, Thunder, Thunder Wave, Thunderbolt,
+        Thunderpunch, Toxic, Zap Cannon, Body Slam, Double-Edge, Mimic, Seismic Toss,
+        Selfdestruct]
+    - rs: [Amnesia, Ancientpower, Blizzard, Body Slam, Brick Break, Counter, Curse,
+        Defense Curl, Double-Edge, Double Team, Dynamicpunch, Earthquake, Endure,
+        Explosion, Facade, Focus Punch, Frustration, Hail, Hidden Power, Hyper Beam,
+        Ice Beam, Ice Punch, Icy Wind, Lock-On, Mega Kick, Mega Punch, Mimic, Mud-Slap,
+        Protect, Psych Up, Rain Dance, Rest, Return, Rock Slide, Rock Smash, Rollout,
+        Safeguard, Secret Power, Seismic Toss, Selfdestruct, Shock Wave, Sleep Talk,
+        Snore, Strength, Substitute, Superpower, Swagger, Thunder, Thunder Wave, Thunderbolt,
+        Thunderpunch, Toxic, Zap Cannon, Body Slam, Double-Edge, Mimic, Seismic Toss,
+        Selfdestruct]
     stats:
     - [80, 50, 100, 100, 200, 50]
     tags:
     - [ou]
     - dp: [nu]
+    types:
+    - [Ice]
     weight: [175]
-    height: [1.8]
-evolutions: []
-learnsets:
-  rs:
-    Regice: [Amnesia, Ancientpower, Blizzard, Body Slam, Brick Break, Counter, Curse,
-      Defense Curl, Double-Edge, Double Team, Dynamicpunch, Earthquake, Endure, Explosion,
-      Facade, Focus Punch, Frustration, Hail, Hidden Power, Hyper Beam, Ice Beam,
-      Ice Punch, Icy Wind, Lock-On, Mega Kick, Mega Punch, Mimic, Mud-Slap, Protect,
-      Psych Up, Rain Dance, Rest, Return, Rock Slide, Rock Smash, Rollout, Safeguard,
-      Secret Power, Seismic Toss, Selfdestruct, Shock Wave, Sleep Talk, Snore, Strength,
-      Substitute, Superpower, Swagger, Thunder, Thunder Wave, Thunderbolt, Thunderpunch,
-      Toxic, Zap Cannon, Body Slam, Double-Edge, Mimic, Seismic Toss, Selfdestruct]
-  dp:
-    Regice: [Amnesia, Ancientpower, Avalanche, Blizzard, Block, Brick Break, Charge
-        Beam, Curse, Double Team, Earthquake, Endure, Explosion, Facade, Flash Cannon,
-      Fling, Focus Blast, Focus Punch, Frustration, Giga Impact, Gravity, Hail, Hammer
-        Arm, Headbutt, Hidden Power, Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Iron
-        Head, Lock-On, Mud-Slap, Natural Gift, Protect, Psych Up, Rain Dance, Rest,
-      Return, Rock Climb, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Rollout,
-      Safeguard, Secret Power, Shock Wave, Signal Beam, Sleep Talk, Snore, Stomp,
-      Strength, Substitute, Superpower, Swagger, Thunder, Thunder Wave, Thunderbolt,
-      Thunderpunch, Toxic, Zap Cannon, Body Slam, Double-Edge, Mimic, Seismic Toss,
-      Selfdestruct]
-  bw:
-    Regice: [Amnesia, Ancientpower, Blizzard, Block, Brick Break, Bulldoze, Charge
-        Beam, Curse, Double Team, Earthquake, Explosion, Facade, Flash Cannon, Fling,
-      Focus Blast, Frost Breath, Frustration, Giga Impact, Gravity, Hail, Hammer Arm,
-      Hidden Power, Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Iron Head, Lock-On,
-      Protect, Psych Up, Rain Dance, Rest, Return, Rock Polish, Rock Slide, Rock Smash,
-      Rock Tomb, Round, Safeguard, Signal Beam, Sleep Talk, Snore, Stomp, Strength,
-      Substitute, Superpower, Swagger, Thunder, Thunder Wave, Thunderbolt, Thunderpunch,
-      Toxic, Zap Cannon, Body Slam, Double-Edge, Mimic, Seismic Toss, Selfdestruct]

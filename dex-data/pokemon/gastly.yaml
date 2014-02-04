@@ -1,111 +1,107 @@
 pokemon:
   Gastly:
-    introduction: rb
-    types:
-    - [Ghost, Poison]
-    egggroups:
-    - [Indeterminate]
     abilities:
     - [Levitate]
     - bw: [Levitate]
+    egggroups:
+    - [Indeterminate]
+    evolutions: [Haunter]
+    height: [1.3]
+    introduction: rb
+    moves:
+    - gs: [Attract, Confuse Ray, Curse, Destiny Bond, Double Team, Dream Eater, Endure,
+        Frustration, Giga Drain, Haze, Hidden Power, Hypnosis, Lick, Mean Look, Night
+          Shade, Nightmare, Perish Song, Protect, Psych Up, Psychic, Psywave, Rain
+          Dance, Rest, Return, Shadow Ball, Sleep Talk, Snore, Spite, Sunny Day, Swagger,
+        Thief, Thunder, Thunderbolt, Toxic, Zap Cannon]
+    - bw: [Astonish, Attract, Clear Smog, Confuse Ray, Curse, Dark Pulse, Destiny
+          Bond, Disable, Double Team, Dream Eater, Embargo, Energy Ball, Explosion,
+        Facade, Fire Punch, Foul Play, Frustration, Giga Drain, Grudge, Haze, Hex,
+        Hidden Power, Hypnosis, Ice Punch, Icy Wind, Knock Off, Lick, Mean Look, Night
+          Shade, Nightmare, Pain Split, Payback, Perish Song, Protect, Psych Up, Psychic,
+        Psywave, Rain Dance, Rest, Return, Round, Scary Face, Shadow Ball, Skill Swap,
+        Sleep Talk, Sludge Bomb, Smog, Snatch, Snore, Spite, Substitute, Sucker Punch,
+        Sunny Day, Swagger, Taunt, Telekinesis, Thief, Thunderbolt, Thunderpunch,
+        Torment, Toxic, Trick, Trick Room, Uproar, Venoshock, Will-O-Wisp, Wonder
+          Room, Double-Edge, Mimic, Selfdestruct]
+    - dp: [Astonish, Attract, Captivate, Confuse Ray, Curse, Dark Pulse, Destiny Bond,
+        Disable, Double Team, Dream Eater, Embargo, Endure, Energy Ball, Explosion,
+        Facade, Fire Punch, Frustration, Giga Drain, Grudge, Haze, Hidden Power, Hypnosis,
+        Ice Punch, Icy Wind, Knock Off, Lick, Mean Look, Natural Gift, Night Shade,
+        Nightmare, Ominous Wind, Pain Split, Payback, Perish Song, Protect, Psych
+          Up, Psychic, Psywave, Rain Dance, Rest, Return, Secret Power, Shadow Ball,
+        Skill Swap, Sleep Talk, Sludge Bomb, Snatch, Snore, Spite, Substitute, Sucker
+          Punch, Sunny Day, Swagger, Taunt, Thief, Thunderbolt, Thunderpunch, Torment,
+        Toxic, Trick, Trick Room, Uproar, Will-O-Wisp, Double-Edge, Mimic, Selfdestruct]
+    - rs: [Astonish, Attract, Confuse Ray, Curse, Destiny Bond, Double Team, Dream
+          Eater, Endure, Explosion, Facade, Frustration, Giga Drain, Grudge, Haze,
+        Hidden Power, Hypnosis, Lick, Mean Look, Mimic, Night Shade, Nightmare, Perish
+          Song, Protect, Psych Up, Psychic, Psywave, Rain Dance, Rest, Return, Secret
+          Power, Selfdestruct, Shadow Ball, Skill Swap, Sleep Talk, Sludge Bomb, Snatch,
+        Snore, Spite, Substitute, Sunny Day, Swagger, Taunt, Thief, Thunderbolt, Torment,
+        Toxic, Will-O-Wisp, Double-Edge, Mimic, Selfdestruct]
+    - rb: [Bide, Confuse Ray, Double Team, Dream Eater, Explosion, Hypnosis, Lick,
+        Mega Drain, Mimic, Night Shade, Psychic, Psywave, Rage, Rest, Selfdestruct,
+        Substitute, Thunder, Thunderbolt, Toxic]
     stats:
     - [30, 35, 30, 100, 100, 80]
     - gs: [30, 35, 30, 100, 35, 80]
     tags:
     - [nfe]
     - dp: [lc]
-    weight: [0.1]
-    height: [1.3]
-  Haunter:
-    introduction: rb
     types:
     - [Ghost, Poison]
-    egggroups:
-    - [Indeterminate]
+    weight: [0.1]
+  Gengar:
     abilities:
     - [Levitate]
     - bw: [Levitate]
+    egggroups:
+    - [Indeterminate]
+    height: [1.5]
+    introduction: rb
+    moves:
+    - gs: [Dynamicpunch, Fire Punch, Headbutt, Hyper Beam, Ice Punch, Rock Smash,
+        Strength, Thunderpunch]
+    - bw: [Brick Break, Drain Punch, Focus Blast, Giga Impact, Hyper Beam, Rock Smash,
+        Role Play, Strength, Thunder, Body Slam, Double-Edge, Mimic, Seismic Toss,
+        Selfdestruct]
+    - dp: [Brick Break, Drain Punch, Focus Blast, Focus Punch, Giga Impact, Headbutt,
+        Hyper Beam, Rock Smash, Role Play, Strength, Thunder, Body Slam, Double-Edge,
+        Mimic, Seismic Toss, Selfdestruct]
+    - rs: [Body Slam, Brick Break, Counter, Double-Edge, Dynamicpunch, Fire Punch,
+        Focus Punch, Hyper Beam, Ice Punch, Mega Kick, Mega Punch, Metronome, Rock
+          Smash, Seismic Toss, Strength, Thunder, Thunderpunch, Body Slam, Double-Edge,
+        Mimic, Seismic Toss, Selfdestruct]
+    - rb: [Body Slam, Counter, Double-Edge, Hyper Beam, Mega Kick, Mega Punch, Metronome,
+        Seismic Toss, Skull Bash, Strength, Submission, Take Down]
+    stats:
+    - [60, 65, 60, 130, 130, 110]
+    - gs: [60, 65, 60, 130, 75, 110]
+    tags:
+    - [ou]
+    types:
+    - [Ghost, Poison]
+    weight: [40.5]
+  Haunter:
+    abilities:
+    - [Levitate]
+    - bw: [Levitate]
+    egggroups:
+    - [Indeterminate]
+    evolutions: [Gengar]
+    height: [1.6]
+    introduction: rb
+    moves:
+    - bw: [Fling, Poison Jab, Shadow Claw, Shadow Punch, Double-Edge, Mimic, Selfdestruct]
+    - dp: [Fling, Poison Jab, Shadow Claw, Shadow Punch, Double-Edge, Mimic, Selfdestruct]
+    - rs: [Shadow Punch, Double-Edge, Mimic, Selfdestruct]
     stats:
     - [45, 50, 45, 115, 115, 95]
     - gs: [45, 50, 45, 115, 55, 95]
     tags:
     - [nfe, uu]
     - dp: [nu]
-    weight: [0.1]
-    height: [1.6]
-  Gengar:
-    introduction: rb
     types:
     - [Ghost, Poison]
-    egggroups:
-    - [Indeterminate]
-    abilities:
-    - [Levitate]
-    - bw: [Levitate]
-    stats:
-    - [60, 65, 60, 130, 130, 110]
-    - gs: [60, 65, 60, 130, 75, 110]
-    tags:
-    - [ou]
-    weight: [40.5]
-    height: [1.5]
-evolutions:
-- {from: Gastly, to: Haunter}
-- {from: Haunter, to: Gengar}
-learnsets:
-  rb:
-    Gastly: [Bide, Confuse Ray, Double Team, Dream Eater, Explosion, Hypnosis, Lick,
-      Mega Drain, Mimic, Night Shade, Psychic, Psywave, Rage, Rest, Selfdestruct,
-      Substitute, Thunder, Thunderbolt, Toxic]
-    Gengar: [Body Slam, Counter, Double-Edge, Hyper Beam, Mega Kick, Mega Punch, Metronome,
-      Seismic Toss, Skull Bash, Strength, Submission, Take Down]
-  gs:
-    Gastly: [Attract, Confuse Ray, Curse, Destiny Bond, Double Team, Dream Eater,
-      Endure, Frustration, Giga Drain, Haze, Hidden Power, Hypnosis, Lick, Mean Look,
-      Night Shade, Nightmare, Perish Song, Protect, Psych Up, Psychic, Psywave, Rain
-        Dance, Rest, Return, Shadow Ball, Sleep Talk, Snore, Spite, Sunny Day, Swagger,
-      Thief, Thunder, Thunderbolt, Toxic, Zap Cannon]
-    Gengar: [Dynamicpunch, Fire Punch, Headbutt, Hyper Beam, Ice Punch, Rock Smash,
-      Strength, Thunderpunch]
-  rs:
-    Gastly: [Astonish, Attract, Confuse Ray, Curse, Destiny Bond, Double Team, Dream
-        Eater, Endure, Explosion, Facade, Frustration, Giga Drain, Grudge, Haze, Hidden
-        Power, Hypnosis, Lick, Mean Look, Mimic, Night Shade, Nightmare, Perish Song,
-      Protect, Psych Up, Psychic, Psywave, Rain Dance, Rest, Return, Secret Power,
-      Selfdestruct, Shadow Ball, Skill Swap, Sleep Talk, Sludge Bomb, Snatch, Snore,
-      Spite, Substitute, Sunny Day, Swagger, Taunt, Thief, Thunderbolt, Torment, Toxic,
-      Will-O-Wisp, Double-Edge, Mimic, Selfdestruct]
-    Haunter: [Shadow Punch, Double-Edge, Mimic, Selfdestruct]
-    Gengar: [Body Slam, Brick Break, Counter, Double-Edge, Dynamicpunch, Fire Punch,
-      Focus Punch, Hyper Beam, Ice Punch, Mega Kick, Mega Punch, Metronome, Rock Smash,
-      Seismic Toss, Strength, Thunder, Thunderpunch, Body Slam, Double-Edge, Mimic,
-      Seismic Toss, Selfdestruct]
-  dp:
-    Gastly: [Astonish, Attract, Captivate, Confuse Ray, Curse, Dark Pulse, Destiny
-        Bond, Disable, Double Team, Dream Eater, Embargo, Endure, Energy Ball, Explosion,
-      Facade, Fire Punch, Frustration, Giga Drain, Grudge, Haze, Hidden Power, Hypnosis,
-      Ice Punch, Icy Wind, Knock Off, Lick, Mean Look, Natural Gift, Night Shade,
-      Nightmare, Ominous Wind, Pain Split, Payback, Perish Song, Protect, Psych Up,
-      Psychic, Psywave, Rain Dance, Rest, Return, Secret Power, Shadow Ball, Skill
-        Swap, Sleep Talk, Sludge Bomb, Snatch, Snore, Spite, Substitute, Sucker Punch,
-      Sunny Day, Swagger, Taunt, Thief, Thunderbolt, Thunderpunch, Torment, Toxic,
-      Trick, Trick Room, Uproar, Will-O-Wisp, Double-Edge, Mimic, Selfdestruct]
-    Haunter: [Fling, Poison Jab, Shadow Claw, Shadow Punch, Double-Edge, Mimic, Selfdestruct]
-    Gengar: [Brick Break, Drain Punch, Focus Blast, Focus Punch, Giga Impact, Headbutt,
-      Hyper Beam, Rock Smash, Role Play, Strength, Thunder, Body Slam, Double-Edge,
-      Mimic, Seismic Toss, Selfdestruct]
-  bw:
-    Gastly: [Astonish, Attract, Clear Smog, Confuse Ray, Curse, Dark Pulse, Destiny
-        Bond, Disable, Double Team, Dream Eater, Embargo, Energy Ball, Explosion,
-      Facade, Fire Punch, Foul Play, Frustration, Giga Drain, Grudge, Haze, Hex, Hidden
-        Power, Hypnosis, Ice Punch, Icy Wind, Knock Off, Lick, Mean Look, Night Shade,
-      Nightmare, Pain Split, Payback, Perish Song, Protect, Psych Up, Psychic, Psywave,
-      Rain Dance, Rest, Return, Round, Scary Face, Shadow Ball, Skill Swap, Sleep
-        Talk, Sludge Bomb, Smog, Snatch, Snore, Spite, Substitute, Sucker Punch, Sunny
-        Day, Swagger, Taunt, Telekinesis, Thief, Thunderbolt, Thunderpunch, Torment,
-      Toxic, Trick, Trick Room, Uproar, Venoshock, Will-O-Wisp, Wonder Room, Double-Edge,
-      Mimic, Selfdestruct]
-    Haunter: [Fling, Poison Jab, Shadow Claw, Shadow Punch, Double-Edge, Mimic, Selfdestruct]
-    Gengar: [Brick Break, Drain Punch, Focus Blast, Giga Impact, Hyper Beam, Rock
-        Smash, Role Play, Strength, Thunder, Body Slam, Double-Edge, Mimic, Seismic
-        Toss, Selfdestruct]
+    weight: [0.1]

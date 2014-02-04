@@ -1,63 +1,60 @@
 pokemon:
   Nosepass:
-    introduction: rs
-    types:
-    - [Rock]
-    egggroups:
-    - [Mineral]
     abilities:
     - [Magnet Pull, Sturdy]
     - bw: [Magnet Pull, Sand Force, Sturdy]
+    egggroups:
+    - [Mineral]
+    evolutions: [Probopass]
+    height: [1]
+    introduction: rs
+    moves:
+    - bw: [Attract, Block, Bulldoze, Discharge, Double-Edge, Double Team, Earth Power,
+        Earthquake, Endure, Explosion, Facade, Fire Punch, Frustration, Gravity, Harden,
+        Hidden Power, Ice Punch, Iron Defense, Lock-On, Magic Coat, Magnet Rise, Magnitude,
+        Pain Split, Power Gem, Protect, Rest, Return, Rock Blast, Rock Polish, Rock
+          Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Round, Sandstorm, Sleep
+          Talk, Smack Down, Snore, Spark, Stealth Rock, Stone Edge, Strength, Substitute,
+        Sunny Day, Swagger, Tackle, Taunt, Thunder, Thunder Wave, Thunderbolt, Thunderpunch,
+        Torment, Toxic, Volt Switch, Zap Cannon, Body Slam, Helping Hand, Mimic, Selfdestruct]
+    - dp: [Ancientpower, Attract, Block, Captivate, Discharge, Double-Edge, Double
+          Team, Earth Power, Earthquake, Endure, Explosion, Facade, Fire Punch, Frustration,
+        Gravity, Harden, Head Smash, Headbutt, Hidden Power, Ice Punch, Iron Defense,
+        Lock-On, Magic Coat, Magnet Rise, Magnitude, Mud-Slap, Natural Gift, Pain
+          Split, Power Gem, Protect, Rest, Return, Rock Polish, Rock Slide, Rock Smash,
+        Rock Throw, Rock Tomb, Rollout, Sandstorm, Secret Power, Shock Wave, Sleep
+          Talk, Snore, Stealth Rock, Stone Edge, Strength, Substitute, Sunny Day,
+        Swagger, Tackle, Taunt, Thunder, Thunder Wave, Thunderbolt, Thunderpunch,
+        Torment, Toxic, Zap Cannon, Body Slam, Helping Hand, Mimic, Selfdestruct]
+    - rs: [Attract, Block, Body Slam, Defense Curl, Double-Edge, Double Team, Dynamicpunch,
+        Earthquake, Endure, Explosion, Facade, Fire Punch, Frustration, Harden, Hidden
+          Power, Ice Punch, Lock-On, Magnitude, Mimic, Mud-Slap, Protect, Rest, Return,
+        Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Sandstorm, Secret
+          Power, Selfdestruct, Shock Wave, Sleep Talk, Snore, Strength, Substitute,
+        Sunny Day, Swagger, Tackle, Taunt, Thunder, Thunder Wave, Thunderbolt, Thunderpunch,
+        Torment, Toxic, Zap Cannon, Body Slam, Helping Hand, Mimic, Selfdestruct]
     stats:
     - [30, 45, 135, 45, 90, 30]
     tags:
     - [nu]
     - dp: [lc]
-    weight: [97]
-    height: [1]
-  Probopass:
-    introduction: dp
     types:
-    - [Rock, Steel]
-    egggroups:
-    - [Mineral]
+    - [Rock]
+    weight: [97]
+  Probopass:
     abilities:
     - [Magnet Pull, Sand Force, Sturdy]
+    egggroups:
+    - [Mineral]
+    height: [1.4]
+    introduction: dp
+    moves:
+    - bw: [Flash Cannon, Giga Impact, Hyper Beam, Iron Head, Magnet Bomb]
+    - dp: [Flash Cannon, Giga Impact, Hyper Beam, Iron Head, Magnet Bomb]
     stats:
     - [60, 55, 145, 75, 150, 40]
     tags:
     - [nu]
+    types:
+    - [Rock, Steel]
     weight: [340]
-    height: [1.4]
-evolutions:
-- {from: Nosepass, to: Probopass}
-learnsets:
-  rs:
-    Nosepass: [Attract, Block, Body Slam, Defense Curl, Double-Edge, Double Team,
-      Dynamicpunch, Earthquake, Endure, Explosion, Facade, Fire Punch, Frustration,
-      Harden, Hidden Power, Ice Punch, Lock-On, Magnitude, Mimic, Mud-Slap, Protect,
-      Rest, Return, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Sandstorm,
-      Secret Power, Selfdestruct, Shock Wave, Sleep Talk, Snore, Strength, Substitute,
-      Sunny Day, Swagger, Tackle, Taunt, Thunder, Thunder Wave, Thunderbolt, Thunderpunch,
-      Torment, Toxic, Zap Cannon, Body Slam, Helping Hand, Mimic, Selfdestruct]
-  dp:
-    Nosepass: [Ancientpower, Attract, Block, Captivate, Discharge, Double-Edge, Double
-        Team, Earth Power, Earthquake, Endure, Explosion, Facade, Fire Punch, Frustration,
-      Gravity, Harden, Head Smash, Headbutt, Hidden Power, Ice Punch, Iron Defense,
-      Lock-On, Magic Coat, Magnet Rise, Magnitude, Mud-Slap, Natural Gift, Pain Split,
-      Power Gem, Protect, Rest, Return, Rock Polish, Rock Slide, Rock Smash, Rock
-        Throw, Rock Tomb, Rollout, Sandstorm, Secret Power, Shock Wave, Sleep Talk,
-      Snore, Stealth Rock, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Tackle,
-      Taunt, Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Torment, Toxic, Zap
-        Cannon, Body Slam, Helping Hand, Mimic, Selfdestruct]
-    Probopass: [Flash Cannon, Giga Impact, Hyper Beam, Iron Head, Magnet Bomb]
-  bw:
-    Nosepass: [Attract, Block, Bulldoze, Discharge, Double-Edge, Double Team, Earth
-        Power, Earthquake, Endure, Explosion, Facade, Fire Punch, Frustration, Gravity,
-      Harden, Hidden Power, Ice Punch, Iron Defense, Lock-On, Magic Coat, Magnet Rise,
-      Magnitude, Pain Split, Power Gem, Protect, Rest, Return, Rock Blast, Rock Polish,
-      Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Round, Sandstorm, Sleep
-        Talk, Smack Down, Snore, Spark, Stealth Rock, Stone Edge, Strength, Substitute,
-      Sunny Day, Swagger, Tackle, Taunt, Thunder, Thunder Wave, Thunderbolt, Thunderpunch,
-      Torment, Toxic, Volt Switch, Zap Cannon, Body Slam, Helping Hand, Mimic, Selfdestruct]
-    Probopass: [Flash Cannon, Giga Impact, Hyper Beam, Iron Head, Magnet Bomb]

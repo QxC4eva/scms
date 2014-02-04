@@ -1,56 +1,55 @@
 pokemon:
   Pidove:
-    introduction: dp
-    types:
-    - [Flying, Normal]
-    egggroups:
-    - [Flying]
     abilities:
     - [Big Pecks, Rivalry, Super Luck]
+    egggroups:
+    - [Flying]
+    evolutions: [Tranquill]
+    height: [0.3]
+    introduction: dp
+    moves:
+    - bw: [Aerial Ace, Air Cutter, Air Slash, Attract, Bestow, Detect, Double Team,
+        Echoed Voice, Facade, Featherdance, Fly, Frustration, Growl, Gust, Heat Wave,
+        Hidden Power, Hypnosis, Leer, Lucky Chant, Morning Sun, Pluck, Protect, Quick
+          Attack, Rain Dance, Razor Wind, Rest, Return, Roost, Round, Sky Attack,
+        Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day, Swagger, Tailwind, Taunt,
+        Toxic, U-turn, Uproar, Wish, Work Up]
     stats:
     - [50, 55, 50, 36, 30, 43]
     tags:
     - [lc]
-    weight: [2.1]
-    height: [0.3]
-  Tranquill:
-    introduction: dp
     types:
     - [Flying, Normal]
-    egggroups:
-    - [Flying]
+    weight: [2.1]
+  Tranquill:
     abilities:
     - [Big Pecks, Rivalry, Super Luck]
+    egggroups:
+    - [Flying]
+    evolutions: [Unfezant]
+    height: [0.6]
+    introduction: dp
     stats:
     - [62, 77, 62, 50, 42, 65]
     tags:
     - [nfe]
-    weight: [15]
-    height: [0.6]
-  Unfezant:
-    introduction: dp
     types:
     - [Flying, Normal]
-    egggroups:
-    - [Flying]
+    weight: [15]
+  Unfezant:
     abilities:
     - [Big Pecks, Rivalry, Super Luck]
+    egggroups:
+    - [Flying]
+    height: [1.2]
+    introduction: dp
+    moves:
+    - bw: [Giga Impact, Hyper Beam, Psych Up]
     stats:
     - [80, 105, 80, 65, 55, 93]
     - xy: [80, 115, 80, 65, 55, 93]
     tags:
     - [nu]
+    types:
+    - [Flying, Normal]
     weight: [29]
-    height: [1.2]
-evolutions:
-- {from: Pidove, to: Tranquill}
-- {from: Tranquill, to: Unfezant}
-learnsets:
-  bw:
-    Pidove: [Aerial Ace, Air Cutter, Air Slash, Attract, Bestow, Detect, Double Team,
-      Echoed Voice, Facade, Featherdance, Fly, Frustration, Growl, Gust, Heat Wave,
-      Hidden Power, Hypnosis, Leer, Lucky Chant, Morning Sun, Pluck, Protect, Quick
-        Attack, Rain Dance, Razor Wind, Rest, Return, Roost, Round, Sky Attack, Sleep
-        Talk, Snore, Steel Wing, Substitute, Sunny Day, Swagger, Tailwind, Taunt,
-      Toxic, U-turn, Uproar, Wish, Work Up]
-    Unfezant: [Giga Impact, Hyper Beam, Psych Up]

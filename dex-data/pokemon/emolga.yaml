@@ -1,28 +1,26 @@
 pokemon:
   Emolga:
-    introduction: bw
-    types:
-    - [Electric, Flying]
-    egggroups:
-    - [Ground]
     abilities:
     - [Motor Drive, Static]
+    egggroups:
+    - [Ground]
+    height: [0.4]
+    introduction: bw
+    moves:
+    - bw: [Acrobatics, Aerial Ace, Agility, Air Slash, Astonish, Attract, Baton Pass,
+        Charge, Charge Beam, Charm, Covet, Cut, Discharge, Double Team, Electro Ball,
+        Encore, Facade, Flash, Fling, Frustration, Helping Hand, Hidden Power, Iron
+          Tail, Knock Off, Last Resort, Light Screen, Protect, Pursuit, Quick Attack,
+        Rain Dance, Rest, Return, Roost, Round, Shock Wave, Signal Beam, Sleep Talk,
+        Snore, Spark, Substitute, Swagger, Tail Whip, Tailwind, Taunt, Thunder, Thunder
+          Wave, Thunderbolt, Thundershock, Tickle, Toxic, U-turn, Volt Switch, Wild
+          Charge]
     stats:
     - [55, 75, 60, 75, 60, 103]
     tags:
     - [bl, nu]
     - bw: [ru]
     - dp: [nu]
+    types:
+    - [Electric, Flying]
     weight: [5]
-    height: [0.4]
-evolutions: []
-learnsets:
-  bw:
-    Emolga: [Acrobatics, Aerial Ace, Agility, Air Slash, Astonish, Attract, Baton
-        Pass, Charge, Charge Beam, Charm, Covet, Cut, Discharge, Double Team, Electro
-        Ball, Encore, Facade, Flash, Fling, Frustration, Helping Hand, Hidden Power,
-      Iron Tail, Knock Off, Last Resort, Light Screen, Protect, Pursuit, Quick Attack,
-      Rain Dance, Rest, Return, Roost, Round, Shock Wave, Signal Beam, Sleep Talk,
-      Snore, Spark, Substitute, Swagger, Tail Whip, Tailwind, Taunt, Thunder, Thunder
-        Wave, Thunderbolt, Thundershock, Tickle, Toxic, U-turn, Volt Switch, Wild
-        Charge]

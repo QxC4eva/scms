@@ -1,41 +1,39 @@
 pokemon:
-  Rufflet:
-    introduction: bw
-    types:
-    - [Flying, Normal]
-    egggroups:
-    - [Flying]
-    abilities:
-    - [Hustle, Keen Eye, Sheer Force]
-    stats:
-    - [70, 83, 50, 37, 50, 60]
-    tags:
-    - [lc]
-    weight: [10.5]
-    height: [0.5]
   Braviary:
-    introduction: bw
-    types:
-    - [Flying, Normal]
-    egggroups:
-    - [Flying]
     abilities:
     - [Defiant, Keen Eye, Sheer Force]
+    egggroups:
+    - [Flying]
+    height: [1.5]
+    introduction: bw
+    moves:
+    - bw: [Giga Impact, Hyper Beam, Sky Attack]
     stats:
     - [100, 123, 75, 57, 75, 80]
     tags:
     - [nu]
+    types:
+    - [Flying, Normal]
     weight: [41]
-    height: [1.5]
-evolutions:
-- {from: Rufflet, to: Braviary}
-learnsets:
-  bw:
-    Rufflet: [Aerial Ace, Air Slash, Attract, Brave Bird, Bulk Up, Crush Claw, Cut,
-      Defog, Double Team, Facade, Fly, Frustration, Fury Attack, Heat Wave, Hidden
-        Power, Hone Claws, Leer, Peck, Pluck, Protect, Rain Dance, Rest, Retaliate,
-      Return, Rock Slide, Rock Smash, Rock Tomb, Roost, Round, Scary Face, Shadow
-        Claw, Sky Drop, Slash, Sleep Talk, Snore, Strength, Substitute, Sunny Day,
-      Superpower, Swagger, Tailwind, Thrash, Toxic, U-turn, Whirlwind, Wing Attack,
-      Work Up]
-    Braviary: [Giga Impact, Hyper Beam, Sky Attack]
+  Rufflet:
+    abilities:
+    - [Hustle, Keen Eye, Sheer Force]
+    egggroups:
+    - [Flying]
+    evolutions: [Braviary]
+    height: [0.5]
+    introduction: bw
+    moves:
+    - bw: [Aerial Ace, Air Slash, Attract, Brave Bird, Bulk Up, Crush Claw, Cut, Defog,
+        Double Team, Facade, Fly, Frustration, Fury Attack, Heat Wave, Hidden Power,
+        Hone Claws, Leer, Peck, Pluck, Protect, Rain Dance, Rest, Retaliate, Return,
+        Rock Slide, Rock Smash, Rock Tomb, Roost, Round, Scary Face, Shadow Claw,
+        Sky Drop, Slash, Sleep Talk, Snore, Strength, Substitute, Sunny Day, Superpower,
+        Swagger, Tailwind, Thrash, Toxic, U-turn, Whirlwind, Wing Attack, Work Up]
+    stats:
+    - [70, 83, 50, 37, 50, 60]
+    tags:
+    - [lc]
+    types:
+    - [Flying, Normal]
+    weight: [10.5]

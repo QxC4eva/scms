@@ -1,56 +1,55 @@
 pokemon:
   Vanillish:
-    introduction: bw
-    types:
-    - [Ice]
-    egggroups:
-    - [Mineral]
     abilities:
     - [Ice Body, Weak Armor]
+    egggroups:
+    - [Mineral]
+    evolutions: [Vanilluxe]
+    height: [1.1]
+    introduction: bw
     stats:
     - [51, 65, 65, 80, 75, 59]
     tags:
     - [nfe]
-    weight: [41]
-    height: [1.1]
-  Vanillite:
-    introduction: bw
     types:
     - [Ice]
-    egggroups:
-    - [Mineral]
+    weight: [41]
+  Vanillite:
     abilities:
     - [Ice Body, Weak Armor]
+    egggroups:
+    - [Mineral]
+    evolutions: [Vanillish]
+    height: [0.4]
+    introduction: bw
+    moves:
+    - bw: [Acid Armor, Astonish, Attract, Autotomize, Avalanche, Blizzard, Double
+          Team, Explosion, Facade, Flash Cannon, Frost Breath, Frustration, Hail,
+        Harden, Hidden Power, Ice Beam, Ice Shard, Icicle Spear, Icy Wind, Imprison,
+        Iron Defense, Light Screen, Magic Coat, Magnet Rise, Mirror Coat, Mirror Shot,
+        Mist, Natural Gift, Powder Snow, Protect, Rain Dance, Rest, Return, Round,
+        Sheer Cold, Signal Beam, Sleep Talk, Snore, Substitute, Swagger, Taunt, Toxic,
+        Uproar, Water Pulse]
     stats:
     - [36, 50, 50, 65, 60, 44]
     tags:
     - [lc]
-    weight: [5.7]
-    height: [0.4]
-  Vanilluxe:
-    introduction: bw
     types:
     - [Ice]
-    egggroups:
-    - [Mineral]
+    weight: [5.7]
+  Vanilluxe:
     abilities:
     - [Ice Body, Weak Armor]
+    egggroups:
+    - [Mineral]
+    height: [1.3]
+    introduction: bw
+    moves:
+    - bw: [Giga Impact, Hyper Beam, Weather Ball]
     stats:
     - [71, 95, 85, 110, 95, 79]
     tags:
     - [nu]
+    types:
+    - [Ice]
     weight: [57.5]
-    height: [1.3]
-evolutions:
-- {from: Vanillite, to: Vanillish}
-- {from: Vanillish, to: Vanilluxe}
-learnsets:
-  bw:
-    Vanillite: [Acid Armor, Astonish, Attract, Autotomize, Avalanche, Blizzard, Double
-        Team, Explosion, Facade, Flash Cannon, Frost Breath, Frustration, Hail, Harden,
-      Hidden Power, Ice Beam, Ice Shard, Icicle Spear, Icy Wind, Imprison, Iron Defense,
-      Light Screen, Magic Coat, Magnet Rise, Mirror Coat, Mirror Shot, Mist, Natural
-        Gift, Powder Snow, Protect, Rain Dance, Rest, Return, Round, Sheer Cold, Signal
-        Beam, Sleep Talk, Snore, Substitute, Swagger, Taunt, Toxic, Uproar, Water
-        Pulse]
-    Vanilluxe: [Giga Impact, Hyper Beam, Weather Ball]

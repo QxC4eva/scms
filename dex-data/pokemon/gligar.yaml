@@ -1,77 +1,74 @@
 pokemon:
   Gligar:
-    introduction: gs
-    types:
-    - [Flying, Ground]
-    egggroups:
-    - [Bug]
     abilities:
     - [Hyper Cutter, Sand Veil]
     - bw: [Hyper Cutter, Immunity, Sand Veil]
+    egggroups:
+    - [Bug]
+    evolutions: [Gliscor]
+    height: [1.1]
+    introduction: gs
+    moves:
+    - gs: [Attract, Counter, Curse, Cut, Detect, Double Team, Endure, Faint Attack,
+        Frustration, Fury Cutter, Guillotine, Harden, Headbutt, Hidden Power, Iron
+          Tail, Metal Claw, Poison Sting, Protect, Quick Attack, Razor Wind, Rest,
+        Return, Rock Smash, Sand-Attack, Sandstorm, Screech, Slash, Sleep Talk, Sludge
+          Bomb, Snore, Strength, Sunny Day, Swagger, Swift, Thief, Toxic, Wing Attack]
+    - bw: [Acrobatics, Aerial Ace, Agility, Aqua Tail, Attract, Baton Pass, Brick
+          Break, Bug Bite, Bulldoze, Counter, Cross Poison, Cut, Dark Pulse, Dig,
+        Double-Edge, Double Team, Earth Power, Earthquake, Facade, Faint Attack, False
+          Swipe, Feint, Fling, Frustration, Fury Cutter, Guillotine, Harden, Hidden
+          Power, Hone Claws, Iron Tail, Knock Off, Metal Claw, Night Slash, Payback,
+        Poison Jab, Poison Sting, Poison Tail, Power Trick, Protect, Quick Attack,
+        Rain Dance, Razor Wind, Rest, Return, Rock Climb, Rock Polish, Rock Slide,
+        Rock Smash, Rock Tomb, Roost, Round, Sand-Attack, Sand Tomb, Sandstorm, Screech,
+        Sky Uppercut, Slash, Sleep Talk, Sludge Bomb, Snore, Stealth Rock, Stone Edge,
+        Strength, Struggle Bug, Substitute, Sunny Day, Swagger, Swords Dance, Tailwind,
+        Taunt, Thief, Torment, Toxic, U-turn, Venoshock, Wing Attack, X-scissor, Dream
+          Eater, Mimic]
+    - dp: [Aerial Ace, Agility, Aqua Tail, Attract, Baton Pass, Brick Break, Captivate,
+        Counter, Cross Poison, Cut, Dark Pulse, Defog, Dig, Double-Edge, Double Team,
+        Earth Power, Earthquake, Endure, Facade, Faint Attack, False Swipe, Feint,
+        Fling, Frustration, Fury Cutter, Guillotine, Harden, Headbutt, Hidden Power,
+        Iron Tail, Knock Off, Metal Claw, Natural Gift, Night Slash, Payback, Poison
+          Jab, Poison Sting, Power Trick, Protect, Quick Attack, Rain Dance, Razor
+          Wind, Rest, Return, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Roost,
+        Sand-Attack, Sand Tomb, Sandstorm, Screech, Secret Power, Slash, Sleep Talk,
+        Sludge Bomb, Snore, Stealth Rock, Steel Wing, Stone Edge, Strength, Substitute,
+        Sunny Day, Swagger, Swift, Swords Dance, Tailwind, Taunt, Thief, Torment,
+        Toxic, U-turn, Wing Attack, X-scissor, Dream Eater, Mimic]
+    - rs: [Aerial Ace, Attract, Counter, Cut, Dig, Double-Edge, Double Team, Dream
+          Eater, Earthquake, Endure, Facade, Faint Attack, Frustration, Fury Cutter,
+        Guillotine, Harden, Hidden Power, Iron Tail, Metal Claw, Mimic, Poison Sting,
+        Protect, Quick Attack, Rain Dance, Razor Wind, Rest, Return, Rock Slide, Rock
+          Smash, Rock Tomb, Sand-Attack, Sand Tomb, Sandstorm, Screech, Secret Power,
+        Slash, Sleep Talk, Sludge Bomb, Snore, Steel Wing, Strength, Substitute, Sunny
+          Day, Swagger, Swift, Swords Dance, Thief, Toxic, Wing Attack, Dream Eater,
+        Mimic]
     stats:
     - [65, 75, 105, 35, 65, 85]
     tags:
     - [uu]
     - bw: [uu]
     - dp: [nu]
-    weight: [64.8]
-    height: [1.1]
-  Gliscor:
-    introduction: dp
     types:
     - [Flying, Ground]
-    egggroups:
-    - [Bug]
+    weight: [64.8]
+  Gliscor:
     abilities:
     - [Hyper Cutter, Poison Heal, Sand Veil]
+    egggroups:
+    - [Bug]
+    height: [2]
+    introduction: dp
+    moves:
+    - bw: [Fire Fang, Giga Impact, Hyper Beam, Ice Fang, Sky Attack, Thunder Fang]
+    - dp: [Fire Fang, Giga Impact, Hyper Beam, Ice Fang, Mud-Slap, Sky Attack, Thunder
+          Fang]
     stats:
     - [75, 95, 125, 45, 75, 95]
     tags:
     - [ou]
+    types:
+    - [Flying, Ground]
     weight: [42.5]
-    height: [2]
-evolutions:
-- {from: Gligar, to: Gliscor}
-learnsets:
-  gs:
-    Gligar: [Attract, Counter, Curse, Cut, Detect, Double Team, Endure, Faint Attack,
-      Frustration, Fury Cutter, Guillotine, Harden, Headbutt, Hidden Power, Iron Tail,
-      Metal Claw, Poison Sting, Protect, Quick Attack, Razor Wind, Rest, Return, Rock
-        Smash, Sand-Attack, Sandstorm, Screech, Slash, Sleep Talk, Sludge Bomb, Snore,
-      Strength, Sunny Day, Swagger, Swift, Thief, Toxic, Wing Attack]
-  rs:
-    Gligar: [Aerial Ace, Attract, Counter, Cut, Dig, Double-Edge, Double Team, Dream
-        Eater, Earthquake, Endure, Facade, Faint Attack, Frustration, Fury Cutter,
-      Guillotine, Harden, Hidden Power, Iron Tail, Metal Claw, Mimic, Poison Sting,
-      Protect, Quick Attack, Rain Dance, Razor Wind, Rest, Return, Rock Slide, Rock
-        Smash, Rock Tomb, Sand-Attack, Sand Tomb, Sandstorm, Screech, Secret Power,
-      Slash, Sleep Talk, Sludge Bomb, Snore, Steel Wing, Strength, Substitute, Sunny
-        Day, Swagger, Swift, Swords Dance, Thief, Toxic, Wing Attack, Dream Eater,
-      Mimic]
-  dp:
-    Gligar: [Aerial Ace, Agility, Aqua Tail, Attract, Baton Pass, Brick Break, Captivate,
-      Counter, Cross Poison, Cut, Dark Pulse, Defog, Dig, Double-Edge, Double Team,
-      Earth Power, Earthquake, Endure, Facade, Faint Attack, False Swipe, Feint, Fling,
-      Frustration, Fury Cutter, Guillotine, Harden, Headbutt, Hidden Power, Iron Tail,
-      Knock Off, Metal Claw, Natural Gift, Night Slash, Payback, Poison Jab, Poison
-        Sting, Power Trick, Protect, Quick Attack, Rain Dance, Razor Wind, Rest, Return,
-      Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Roost, Sand-Attack, Sand Tomb,
-      Sandstorm, Screech, Secret Power, Slash, Sleep Talk, Sludge Bomb, Snore, Stealth
-        Rock, Steel Wing, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Swift,
-      Swords Dance, Tailwind, Taunt, Thief, Torment, Toxic, U-turn, Wing Attack, X-scissor,
-      Dream Eater, Mimic]
-    Gliscor: [Fire Fang, Giga Impact, Hyper Beam, Ice Fang, Mud-Slap, Sky Attack,
-      Thunder Fang]
-  bw:
-    Gligar: [Acrobatics, Aerial Ace, Agility, Aqua Tail, Attract, Baton Pass, Brick
-        Break, Bug Bite, Bulldoze, Counter, Cross Poison, Cut, Dark Pulse, Dig, Double-Edge,
-      Double Team, Earth Power, Earthquake, Facade, Faint Attack, False Swipe, Feint,
-      Fling, Frustration, Fury Cutter, Guillotine, Harden, Hidden Power, Hone Claws,
-      Iron Tail, Knock Off, Metal Claw, Night Slash, Payback, Poison Jab, Poison Sting,
-      Poison Tail, Power Trick, Protect, Quick Attack, Rain Dance, Razor Wind, Rest,
-      Return, Rock Climb, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Roost, Round,
-      Sand-Attack, Sand Tomb, Sandstorm, Screech, Sky Uppercut, Slash, Sleep Talk,
-      Sludge Bomb, Snore, Stealth Rock, Stone Edge, Strength, Struggle Bug, Substitute,
-      Sunny Day, Swagger, Swords Dance, Tailwind, Taunt, Thief, Torment, Toxic, U-turn,
-      Venoshock, Wing Attack, X-scissor, Dream Eater, Mimic]
-    Gliscor: [Fire Fang, Giga Impact, Hyper Beam, Ice Fang, Sky Attack, Thunder Fang]

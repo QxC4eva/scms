@@ -1,91 +1,89 @@
 pokemon:
   Beldum:
-    introduction: rs
-    types:
-    - [Psychic, Steel]
-    egggroups:
-    - [Mineral]
     abilities:
     - [Clear Body]
     - bw: [Clear Body, Light Metal]
+    egggroups:
+    - [Mineral]
+    evolutions: [Metang]
+    height: [0.6]
+    introduction: rs
+    moves:
+    - bw: [Iron Defense, Iron Head, Take Down, Zen Headbutt]
+    - dp: [Headbutt, Iron Defense, Iron Head, Take Down, Zen Headbutt]
+    - rs: [Take Down]
     stats:
     - [40, 55, 80, 35, 60, 30]
     tags:
     - [nfe]
     - dp: [lc]
-    weight: [95.2]
-    height: [0.6]
-  Metang:
-    introduction: rs
     types:
     - [Psychic, Steel]
-    egggroups:
-    - [Mineral]
+    weight: [95.2]
+  Metagross:
     abilities:
     - [Clear Body]
     - bw: [Clear Body, Light Metal]
+    egggroups:
+    - [Mineral]
+    height: [1.6]
+    introduction: rs
+    moves:
+    - bw: [Block, Giga Impact, Hammer Arm, Body Slam, Double-Edge, Icy Wind, Mimic,
+        Selfdestruct]
+    - dp: [Block, Giga Impact, Hammer Arm, Body Slam, Body Slam, Double-Edge, Icy
+          Wind, Mimic, Selfdestruct]
+    - rs: [Body Slam, Double-Edge, Icy Wind, Mimic, Selfdestruct]
+    stats:
+    - [80, 135, 130, 95, 90, 70]
+    tags:
+    - [ou]
+    types:
+    - [Psychic, Steel]
+    weight: [550]
+  Metang:
+    abilities:
+    - [Clear Body]
+    - bw: [Clear Body, Light Metal]
+    egggroups:
+    - [Mineral]
+    evolutions: [Metagross]
+    height: [1.2]
+    introduction: rs
+    moves:
+    - bw: [Aerial Ace, Agility, Body Slam, Brick Break, Bulldoze, Bullet Punch, Confusion,
+        Cut, Double-Edge, Double Team, Earthquake, Explosion, Facade, Flash, Flash
+          Cannon, Frustration, Grass Knot, Gravity, Gyro Ball, Hidden Power, Hone
+          Claws, Hyper Beam, Ice Punch, Icy Wind, Light Screen, Magnet Rise, Metal
+          Claw, Meteor Mash, Mimic, Miracle Eye, Protect, Psych Up, Psychic, Psyshock,
+        Pursuit, Rain Dance, Reflect, Rest, Return, Rock Polish, Rock Slide, Rock
+          Smash, Rock Tomb, Round, Sandstorm, Scary Face, Shadow Ball, Selfdestruct,
+        Signal Beam, Sleep Talk, Sludge Bomb, Snore, Stealth Rock, Strength, Substitute,
+        Sunny Day, Swagger, Telekinesis, Thunderpunch, Toxic, Trick, Body Slam, Double-Edge,
+        Icy Wind, Mimic, Selfdestruct]
+    - dp: [Aerial Ace, Agility, Brick Break, Bullet Punch, Confusion, Cut, Double
+          Team, Earthquake, Endure, Explosion, Facade, Flash, Flash Cannon, Frustration,
+        Fury Cutter, Grass Knot, Gravity, Gyro Ball, Hidden Power, Hyper Beam, Ice
+          Punch, Icy Wind, Light Screen, Magnet Rise, Metal Claw, Meteor Mash, Mud-Slap,
+        Natural Gift, Protect, Psych Up, Psychic, Pursuit, Rain Dance, Reflect, Rest,
+        Return, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sandstorm,
+        Scary Face, Secret Power, Shadow Ball, Signal Beam, Sleep Talk, Sludge Bomb,
+        Snore, Stealth Rock, Strength, Substitute, Sunny Day, Swagger, Swift, Thunderpunch,
+        Toxic, Trick, Body Slam, Double-Edge, Icy Wind, Mimic, Selfdestruct]
+    - rs: [Aerial Ace, Agility, Body Slam, Brick Break, Confusion, Cut, Defense Curl,
+        Double-Edge, Double Team, Dynamicpunch, Earthquake, Endure, Explosion, Facade,
+        Flash, Frustration, Fury Cutter, Hidden Power, Hyper Beam, Ice Punch, Icy
+          Wind, Iron Defense, Light Screen, Metal Claw, Meteor Mash, Mimic, Mud-Slap,
+        Protect, Psych Up, Psychic, Pursuit, Rain Dance, Reflect, Rest, Return, Rock
+          Slide, Rock Smash, Rock Tomb, Rollout, Sandstorm, Scary Face, Secret Power,
+        Selfdestruct, Shadow Ball, Sleep Talk, Sludge Bomb, Snore, Strength, Substitute,
+        Sunny Day, Swagger, Swift, Thunderpunch, Toxic, Body Slam, Double-Edge, Icy
+          Wind, Mimic, Selfdestruct]
     stats:
     - [60, 75, 100, 55, 80, 50]
     tags:
     - [nfe]
     - dp: [nu]
-    weight: [202.5]
-    height: [1.2]
-  Metagross:
-    introduction: rs
     types:
     - [Psychic, Steel]
-    egggroups:
-    - [Mineral]
-    abilities:
-    - [Clear Body]
-    - bw: [Clear Body, Light Metal]
-    stats:
-    - [80, 135, 130, 95, 90, 70]
-    tags:
-    - [ou]
-    weight: [550]
-    height: [1.6]
-evolutions:
-- {from: Beldum, to: Metang}
-- {from: Metang, to: Metagross}
-learnsets:
-  rs:
-    Beldum: [Take Down]
-    Metang: [Aerial Ace, Agility, Body Slam, Brick Break, Confusion, Cut, Defense
-        Curl, Double-Edge, Double Team, Dynamicpunch, Earthquake, Endure, Explosion,
-      Facade, Flash, Frustration, Fury Cutter, Hidden Power, Hyper Beam, Ice Punch,
-      Icy Wind, Iron Defense, Light Screen, Metal Claw, Meteor Mash, Mimic, Mud-Slap,
-      Protect, Psych Up, Psychic, Pursuit, Rain Dance, Reflect, Rest, Return, Rock
-        Slide, Rock Smash, Rock Tomb, Rollout, Sandstorm, Scary Face, Secret Power,
-      Selfdestruct, Shadow Ball, Sleep Talk, Sludge Bomb, Snore, Strength, Substitute,
-      Sunny Day, Swagger, Swift, Thunderpunch, Toxic, Body Slam, Double-Edge, Icy
-        Wind, Mimic, Selfdestruct]
-    Metagross: [Body Slam, Double-Edge, Icy Wind, Mimic, Selfdestruct]
-  dp:
-    Beldum: [Headbutt, Iron Defense, Iron Head, Take Down, Zen Headbutt]
-    Metang: [Aerial Ace, Agility, Brick Break, Bullet Punch, Confusion, Cut, Double
-        Team, Earthquake, Endure, Explosion, Facade, Flash, Flash Cannon, Frustration,
-      Fury Cutter, Grass Knot, Gravity, Gyro Ball, Hidden Power, Hyper Beam, Ice Punch,
-      Icy Wind, Light Screen, Magnet Rise, Metal Claw, Meteor Mash, Mud-Slap, Natural
-        Gift, Protect, Psych Up, Psychic, Pursuit, Rain Dance, Reflect, Rest, Return,
-      Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sandstorm, Scary Face,
-      Secret Power, Shadow Ball, Signal Beam, Sleep Talk, Sludge Bomb, Snore, Stealth
-        Rock, Strength, Substitute, Sunny Day, Swagger, Swift, Thunderpunch, Toxic,
-      Trick, Body Slam, Double-Edge, Icy Wind, Mimic, Selfdestruct]
-    Metagross: [Block, Giga Impact, Hammer Arm, Body Slam, Body Slam, Double-Edge,
-      Icy Wind, Mimic, Selfdestruct]
-  bw:
-    Beldum: [Iron Defense, Iron Head, Take Down, Zen Headbutt]
-    Metang: [Aerial Ace, Agility, Body Slam, Brick Break, Bulldoze, Bullet Punch,
-      Confusion, Cut, Double-Edge, Double Team, Earthquake, Explosion, Facade, Flash,
-      Flash Cannon, Frustration, Grass Knot, Gravity, Gyro Ball, Hidden Power, Hone
-        Claws, Hyper Beam, Ice Punch, Icy Wind, Light Screen, Magnet Rise, Metal Claw,
-      Meteor Mash, Mimic, Miracle Eye, Protect, Psych Up, Psychic, Psyshock, Pursuit,
-      Rain Dance, Reflect, Rest, Return, Rock Polish, Rock Slide, Rock Smash, Rock
-        Tomb, Round, Sandstorm, Scary Face, Shadow Ball, Selfdestruct, Signal Beam,
-      Sleep Talk, Sludge Bomb, Snore, Stealth Rock, Strength, Substitute, Sunny Day,
-      Swagger, Telekinesis, Thunderpunch, Toxic, Trick, Body Slam, Double-Edge, Icy
-        Wind, Mimic, Selfdestruct]
-    Metagross: [Block, Giga Impact, Hammer Arm, Body Slam, Double-Edge, Icy Wind,
-      Mimic, Selfdestruct]
+    weight: [202.5]

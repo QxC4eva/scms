@@ -1,94 +1,89 @@
 pokemon:
   Cubone:
-    introduction: rb
-    types:
-    - [Ground]
-    egggroups:
-    - [Monster]
     abilities:
     - [Lightningrod, Rock Head]
     - bw: [Battle Armor, Lightningrod, Rock Head]
+    egggroups:
+    - [Monster]
+    evolutions: [Marowak]
+    height: [0.4]
+    introduction: rb
+    moves:
+    - gs: [Ancientpower, Attract, Belly Drum, Blizzard, Bone Club, Bone Rush, Bonemerang,
+        Curse, Detect, Dig, Double Team, Dynamicpunch, Earthquake, Endure, False Swipe,
+        Fire Blast, Fire Punch, Flamethrower, Focus Energy, Frustration, Growl, Headbutt,
+        Hidden Power, Ice Beam, Icy Wind, Iron Tail, Leer, Mud-Slap, Perish Song,
+        Protect, Rage, Rest, Return, Rock Slide, Rock Smash, Sandstorm, Screech, Skull
+          Bash, Sleep Talk, Snore, Strength, Sunny Day, Swagger, Swords Dance, Tail
+          Whip, Thief, Thrash, Thunderpunch, Toxic]
+    - bw: [Aerial Ace, Ancientpower, Attract, Belly Drum, Blizzard, Bone Club, Bone
+          Rush, Bonemerang, Brick Break, Bulldoze, Chip Away, Detect, Dig, Double-Edge,
+        Double Kick, Double Team, Earth Power, Earthquake, Echoed Voice, Endeavor,
+        Endure, Facade, False Swipe, Fire Blast, Fire Punch, Flamethrower, Fling,
+        Focus Energy, Frustration, Growl, Headbutt, Hidden Power, Ice Beam, Icy Wind,
+        Incinerate, Iron Defense, Iron Head, Iron Tail, Knock Off, Leer, Low Kick,
+        Mimic, Perish Song, Protect, Rage, Rest, Retaliate, Return, Rock Slide, Rock
+          Smash, Rock Tomb, Round, Sandstorm, Screech, Seismic Toss, Skull Bash, Sleep
+          Talk, Smack Down, Snore, Stealth Rock, Strength, Substitute, Sunny Day,
+        Swagger, Swords Dance, Tail Whip, Thief, Thrash, Thunderpunch, Toxic, Uproar]
+    - dp: [Aerial Ace, Ancientpower, Attract, Belly Drum, Blizzard, Body Slam, Bone
+          Club, Bone Rush, Bonemerang, Brick Break, Captivate, Detect, Dig, Double-Edge,
+        Double Kick, Double Team, Earth Power, Earthquake, Endeavor, Endure, Facade,
+        False Swipe, Fire Blast, Fire Punch, Flamethrower, Fling, Focus Energy, Focus
+          Punch, Frustration, Fury Cutter, Growl, Headbutt, Hidden Power, Ice Beam,
+        Icy Wind, Iron Defense, Iron Head, Iron Tail, Knock Off, Leer, Low Kick, Mimic,
+        Mud-Slap, Natural Gift, Perish Song, Protect, Rage, Rest, Return, Rock Climb,
+        Rock Slide, Rock Smash, Rock Tomb, Sandstorm, Screech, Secret Power, Seismic
+          Toss, Skull Bash, Sleep Talk, Snore, Stealth Rock, Strength, Substitute,
+        Sunny Day, Swagger, Swords Dance, Tail Whip, Thief, Thrash, Thunderpunch,
+        Toxic, Uproar]
+    - rs: [Aerial Ace, Ancientpower, Attract, Belly Drum, Blizzard, Body Slam, Bone
+          Club, Bone Rush, Bonemerang, Brick Break, Counter, Dig, Double-Edge, Double
+          Team, Dynamicpunch, Earthquake, Endure, Facade, False Swipe, Fire Blast,
+        Fire Punch, Flamethrower, Focus Energy, Focus Punch, Frustration, Growl, Headbutt,
+        Hidden Power, Ice Beam, Icy Wind, Iron Tail, Leer, Mega Kick, Mega Punch,
+        Mimic, Mud-Slap, Perish Song, Protect, Rage, Rest, Return, Rock Slide, Rock
+          Smash, Rock Tomb, Sandstorm, Screech, Secret Power, Seismic Toss, Skull
+          Bash, Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger, Swords
+          Dance, Tail Whip, Thief, Thrash, Thunderpunch, Toxic]
+    - rb: [Bide, Blizzard, Body Slam, Bone Club, Bonemerang, Bubblebeam, Counter,
+        Dig, Double-Edge, Double Team, Earthquake, Fire Blast, Fissure, Focus Energy,
+        Growl, Headbutt, Ice Beam, Leer, Mega Kick, Mega Punch, Mimic, Rage, Rest,
+        Seismic Toss, Skull Bash, Strength, Submission, Substitute, Tail Whip, Take
+          Down, Thrash, Toxic, Water Gun]
     stats:
     - [50, 50, 95, 40, 40, 35]
     - gs: [50, 50, 95, 40, 50, 35]
     tags:
     - [nfe]
     - dp: [lc]
-    weight: [6.5]
-    height: [0.4]
-  Marowak:
-    introduction: rb
     types:
     - [Ground]
-    egggroups:
-    - [Monster]
+    weight: [6.5]
+  Marowak:
     abilities:
     - [Lightningrod, Rock Head]
     - bw: [Battle Armor, Lightningrod, Rock Head]
+    egggroups:
+    - [Monster]
+    height: [1]
+    introduction: rb
+    moves:
+    - gs: [Hyper Beam]
+    - bw: [Focus Blast, Giga Impact, Hyper Beam, Outrage, Sing, Stone Edge, Body Slam,
+        Icy Wind, Mimic, Seismic Toss, Sing]
+    - dp: [Focus Blast, Giga Impact, Hyper Beam, Outrage, Sing, Stone Edge, Body Slam,
+        Icy Wind, Mimic, Seismic Toss, Sing]
+    - rs: [Hyper Beam, Sing, Body Slam, Icy Wind, Mimic, Seismic Toss, Sing]
+    - rb: [Hyper Beam]
     stats:
     - [60, 80, 110, 50, 50, 45]
     - gs: [60, 80, 110, 50, 80, 45]
     tags:
     - [uu]
     - dp: [nu]
-      rs: [bl]
       gs: [ou]
+      rs: [bl]
+    types:
+    - [Ground]
     weight: [45]
-    height: [1]
-evolutions:
-- {from: Cubone, to: Marowak}
-learnsets:
-  rb:
-    Cubone: [Bide, Blizzard, Body Slam, Bone Club, Bonemerang, Bubblebeam, Counter,
-      Dig, Double-Edge, Double Team, Earthquake, Fire Blast, Fissure, Focus Energy,
-      Growl, Headbutt, Ice Beam, Leer, Mega Kick, Mega Punch, Mimic, Rage, Rest, Seismic
-        Toss, Skull Bash, Strength, Submission, Substitute, Tail Whip, Take Down,
-      Thrash, Toxic, Water Gun]
-    Marowak: [Hyper Beam]
-  gs:
-    Cubone: [Ancientpower, Attract, Belly Drum, Blizzard, Bone Club, Bone Rush, Bonemerang,
-      Curse, Detect, Dig, Double Team, Dynamicpunch, Earthquake, Endure, False Swipe,
-      Fire Blast, Fire Punch, Flamethrower, Focus Energy, Frustration, Growl, Headbutt,
-      Hidden Power, Ice Beam, Icy Wind, Iron Tail, Leer, Mud-Slap, Perish Song, Protect,
-      Rage, Rest, Return, Rock Slide, Rock Smash, Sandstorm, Screech, Skull Bash,
-      Sleep Talk, Snore, Strength, Sunny Day, Swagger, Swords Dance, Tail Whip, Thief,
-      Thrash, Thunderpunch, Toxic]
-    Marowak: [Hyper Beam]
-  rs:
-    Cubone: [Aerial Ace, Ancientpower, Attract, Belly Drum, Blizzard, Body Slam, Bone
-        Club, Bone Rush, Bonemerang, Brick Break, Counter, Dig, Double-Edge, Double
-        Team, Dynamicpunch, Earthquake, Endure, Facade, False Swipe, Fire Blast, Fire
-        Punch, Flamethrower, Focus Energy, Focus Punch, Frustration, Growl, Headbutt,
-      Hidden Power, Ice Beam, Icy Wind, Iron Tail, Leer, Mega Kick, Mega Punch, Mimic,
-      Mud-Slap, Perish Song, Protect, Rage, Rest, Return, Rock Slide, Rock Smash,
-      Rock Tomb, Sandstorm, Screech, Secret Power, Seismic Toss, Skull Bash, Sleep
-        Talk, Snore, Strength, Substitute, Sunny Day, Swagger, Swords Dance, Tail
-        Whip, Thief, Thrash, Thunderpunch, Toxic]
-    Marowak: [Hyper Beam, Sing, Body Slam, Icy Wind, Mimic, Seismic Toss, Sing]
-  dp:
-    Cubone: [Aerial Ace, Ancientpower, Attract, Belly Drum, Blizzard, Body Slam, Bone
-        Club, Bone Rush, Bonemerang, Brick Break, Captivate, Detect, Dig, Double-Edge,
-      Double Kick, Double Team, Earth Power, Earthquake, Endeavor, Endure, Facade,
-      False Swipe, Fire Blast, Fire Punch, Flamethrower, Fling, Focus Energy, Focus
-        Punch, Frustration, Fury Cutter, Growl, Headbutt, Hidden Power, Ice Beam,
-      Icy Wind, Iron Defense, Iron Head, Iron Tail, Knock Off, Leer, Low Kick, Mimic,
-      Mud-Slap, Natural Gift, Perish Song, Protect, Rage, Rest, Return, Rock Climb,
-      Rock Slide, Rock Smash, Rock Tomb, Sandstorm, Screech, Secret Power, Seismic
-        Toss, Skull Bash, Sleep Talk, Snore, Stealth Rock, Strength, Substitute, Sunny
-        Day, Swagger, Swords Dance, Tail Whip, Thief, Thrash, Thunderpunch, Toxic,
-      Uproar]
-    Marowak: [Focus Blast, Giga Impact, Hyper Beam, Outrage, Sing, Stone Edge, Body
-        Slam, Icy Wind, Mimic, Seismic Toss, Sing]
-  bw:
-    Cubone: [Aerial Ace, Ancientpower, Attract, Belly Drum, Blizzard, Bone Club, Bone
-        Rush, Bonemerang, Brick Break, Bulldoze, Chip Away, Detect, Dig, Double-Edge,
-      Double Kick, Double Team, Earth Power, Earthquake, Echoed Voice, Endeavor, Endure,
-      Facade, False Swipe, Fire Blast, Fire Punch, Flamethrower, Fling, Focus Energy,
-      Frustration, Growl, Headbutt, Hidden Power, Ice Beam, Icy Wind, Incinerate,
-      Iron Defense, Iron Head, Iron Tail, Knock Off, Leer, Low Kick, Mimic, Perish
-        Song, Protect, Rage, Rest, Retaliate, Return, Rock Slide, Rock Smash, Rock
-        Tomb, Round, Sandstorm, Screech, Seismic Toss, Skull Bash, Sleep Talk, Smack
-        Down, Snore, Stealth Rock, Strength, Substitute, Sunny Day, Swagger, Swords
-        Dance, Tail Whip, Thief, Thrash, Thunderpunch, Toxic, Uproar]
-    Marowak: [Focus Blast, Giga Impact, Hyper Beam, Outrage, Sing, Stone Edge, Body
-        Slam, Icy Wind, Mimic, Seismic Toss, Sing]

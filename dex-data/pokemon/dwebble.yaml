@@ -1,42 +1,41 @@
 pokemon:
-  Dwebble:
-    introduction: bw
-    types:
-    - [Bug, Rock]
-    egggroups:
-    - [Bug, Mineral]
-    abilities:
-    - [Shell Armor, Sturdy, Weak Armor]
-    stats:
-    - [50, 65, 85, 35, 35, 55]
-    tags:
-    - [lc]
-    weight: [14.5]
-    height: [0.3]
   Crustle:
-    introduction: bw
-    types:
-    - [Bug, Rock]
-    egggroups:
-    - [Bug, Mineral]
     abilities:
     - [Shell Armor, Sturdy, Weak Armor]
+    egggroups:
+    - [Bug, Mineral]
+    height: [1.4]
+    introduction: bw
+    moves:
+    - bw: [Giga Impact, Hyper Beam]
     stats:
     - [70, 95, 125, 65, 75, 45]
     tags:
     - [ru]
+    types:
+    - [Bug, Rock]
     weight: [200]
-    height: [1.4]
-evolutions:
-- {from: Dwebble, to: Crustle}
-learnsets:
-  bw:
-    Dwebble: [Aerial Ace, Attract, Block, Bug Bite, Bulldoze, Counter, Curse, Cut,
-      Dig, Double Team, Earthquake, Endure, Facade, Faint Attack, Flail, Frustration,
-      Fury Cutter, Hidden Power, Hone Claws, Iron Defense, Knock Off, Night Slash,
-      Poison Jab, Protect, Rest, Return, Rock Blast, Rock Polish, Rock Slide, Rock
-        Smash, Rock Tomb, Rock Wrecker, Round, Sand-Attack, Sand Tomb, Sandstorm,
-      Shadow Claw, Shell Smash, Slash, Sleep Talk, Smack Down, Snore, Solarbeam, Spikes,
-      Stealth Rock, Stone Edge, Strength, Struggle Bug, Substitute, Swagger, Swords
-        Dance, Toxic, Withdraw, X-scissor]
-    Crustle: [Giga Impact, Hyper Beam]
+  Dwebble:
+    abilities:
+    - [Shell Armor, Sturdy, Weak Armor]
+    egggroups:
+    - [Bug, Mineral]
+    evolutions: [Crustle]
+    height: [0.3]
+    introduction: bw
+    moves:
+    - bw: [Aerial Ace, Attract, Block, Bug Bite, Bulldoze, Counter, Curse, Cut, Dig,
+        Double Team, Earthquake, Endure, Facade, Faint Attack, Flail, Frustration,
+        Fury Cutter, Hidden Power, Hone Claws, Iron Defense, Knock Off, Night Slash,
+        Poison Jab, Protect, Rest, Return, Rock Blast, Rock Polish, Rock Slide, Rock
+          Smash, Rock Tomb, Rock Wrecker, Round, Sand-Attack, Sand Tomb, Sandstorm,
+        Shadow Claw, Shell Smash, Slash, Sleep Talk, Smack Down, Snore, Solarbeam,
+        Spikes, Stealth Rock, Stone Edge, Strength, Struggle Bug, Substitute, Swagger,
+        Swords Dance, Toxic, Withdraw, X-scissor]
+    stats:
+    - [50, 65, 85, 35, 35, 55]
+    tags:
+    - [lc]
+    types:
+    - [Bug, Rock]
+    weight: [14.5]

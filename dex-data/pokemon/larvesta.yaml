@@ -1,43 +1,42 @@
 pokemon:
   Larvesta:
-    introduction: bw
-    types:
-    - [Bug, Fire]
-    egggroups:
-    - [Bug]
     abilities:
     - [Flame Body, Swarm]
+    egggroups:
+    - [Bug]
+    evolutions: [Volcarona]
+    height: [1.1]
+    introduction: bw
+    moves:
+    - bw: [Acrobatics, Amnesia, Bug Bite, Bug Buzz, Calm Mind, Double-Edge, Double
+          Team, Ember, Endure, Facade, Fire Blast, Flame Charge, Flame Wheel, Flamethrower,
+        Flare Blitz, Foresight, Frustration, Giga Drain, Harden, Heat Wave, Hidden
+          Power, Incinerate, Leech Life, Light Screen, Magnet Rise, Morning Sun, Overheat,
+        Protect, Psychic, Rest, Return, Round, Safeguard, Signal Beam, Sleep Talk,
+        Snore, Solarbeam, String Shot, Struggle Bug, Substitute, Sunny Day, Swagger,
+        Take Down, Thrash, Toxic, U-turn, Wild Charge, Will-O-Wisp, Zen Headbutt]
     stats:
     - [55, 85, 55, 50, 55, 60]
     tags:
     - [lc]
-    weight: [28.8]
-    height: [1.1]
-  Volcarona:
-    introduction: bw
     types:
     - [Bug, Fire]
-    egggroups:
-    - [Bug]
+    weight: [28.8]
+  Volcarona:
     abilities:
     - [Flame Body, Swarm]
+    egggroups:
+    - [Bug]
+    height: [1.6]
+    introduction: bw
+    moves:
+    - bw: [Aerial Ace, Fiery Dance, Fire Spin, Fly, Giga Impact, Gust, Hurricane,
+        Hyper Beam, Poison Jab, Quiver Dance, Rage Powder, Roost, Silver Wind, Tailwind,
+        Whirlwind]
     stats:
     - [85, 60, 65, 135, 105, 100]
     tags:
     - [ou]
+    types:
+    - [Bug, Fire]
     weight: [46]
-    height: [1.6]
-evolutions:
-- {from: Larvesta, to: Volcarona}
-learnsets:
-  bw:
-    Larvesta: [Acrobatics, Amnesia, Bug Bite, Bug Buzz, Calm Mind, Double-Edge, Double
-        Team, Ember, Endure, Facade, Fire Blast, Flame Charge, Flame Wheel, Flamethrower,
-      Flare Blitz, Foresight, Frustration, Giga Drain, Harden, Heat Wave, Hidden Power,
-      Incinerate, Leech Life, Light Screen, Magnet Rise, Morning Sun, Overheat, Protect,
-      Psychic, Rest, Return, Round, Safeguard, Signal Beam, Sleep Talk, Snore, Solarbeam,
-      String Shot, Struggle Bug, Substitute, Sunny Day, Swagger, Take Down, Thrash,
-      Toxic, U-turn, Wild Charge, Will-O-Wisp, Zen Headbutt]
-    Volcarona: [Aerial Ace, Fiery Dance, Fire Spin, Fly, Giga Impact, Gust, Hurricane,
-      Hyper Beam, Poison Jab, Quiver Dance, Rage Powder, Roost, Silver Wind, Tailwind,
-      Whirlwind]

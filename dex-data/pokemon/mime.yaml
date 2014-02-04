@@ -1,92 +1,89 @@
 pokemon:
   Mime Jr.:
-    introduction: dp
-    types:
-    - [Psychic]
-    - xy: [Psychic, Fairy]
-    egggroups:
-    - []
     abilities:
     - [Filter, Soundproof, Technician]
+    egggroups:
+    - []
+    evolutions: [Mr. Mime]
+    height: [0.6]
+    introduction: dp
+    moves:
+    - bw: [Attract, Barrier, Baton Pass, Brick Break, Calm Mind, Charge Beam, Charm,
+        Confuse Ray, Confusion, Copycat, Covet, Double Team, Doubleslap, Drain Punch,
+        Dream Eater, Encore, Facade, Fake Out, Flash, Fling, Frustration, Future Sight,
+        Grass Knot, Healing Wish, Helping Hand, Hidden Power, Hypnosis, Icy Wind,
+        Light Screen, Magic Coat, Magic Room, Meditate, Mimic, Nasty Plot, Power Split,
+        Protect, Psybeam, Psych Up, Psychic, Psyshock, Rain Dance, Recycle, Reflect,
+        Rest, Return, Role Play, Round, Safeguard, Shadow Ball, Signal Beam, Skill
+          Swap, Sleep Talk, Snatch, Snore, Solarbeam, Substitute, Sunny Day, Swagger,
+        Taunt, Teeter Dance, Telekinesis, Thief, Thunder, Thunder Wave, Thunderbolt,
+        Tickle, Torment, Toxic, Trick, Trick Room, Uproar, Wake-Up Slap, Wonder Room]
+    - dp: [Attract, Barrier, Baton Pass, Brick Break, Calm Mind, Captivate, Charge
+          Beam, Charm, Confuse Ray, Confusion, Copycat, Double Team, Doubleslap, Drain
+          Punch, Dream Eater, Encore, Endure, Facade, Fake Out, Flash, Fling, Focus
+          Punch, Frustration, Future Sight, Grass Knot, Headbutt, Healing Wish, Helping
+          Hand, Hidden Power, Hypnosis, Light Screen, Magic Coat, Meditate, Mimic,
+        Mud-Slap, Nasty Plot, Natural Gift, Protect, Psybeam, Psych Up, Psychic, Rain
+          Dance, Recycle, Reflect, Rest, Return, Role Play, Safeguard, Secret Power,
+        Shadow Ball, Shock Wave, Signal Beam, Skill Swap, Sleep Talk, Snatch, Snore,
+        Solarbeam, Substitute, Sunny Day, Swagger, Taunt, Teeter Dance, Thief, Thunder,
+        Thunder Wave, Thunderbolt, Tickle, Torment, Toxic, Trick, Trick Room, Uproar,
+        Wake-Up Slap]
     stats:
     - [20, 25, 45, 70, 90, 60]
     tags:
     - [lc]
-    weight: [13]
-    height: [0.6]
-  Mr. Mime:
-    introduction: rb
     types:
     - [Psychic]
     - xy: [Psychic, Fairy]
-    egggroups:
-    - [Humanshape]
+    weight: [13]
+  Mr. Mime:
     abilities:
     - [Soundproof]
-    - dp: [Filter, Soundproof]
-      bw: [Filter, Soundproof, Technician]
+    - bw: [Filter, Soundproof, Technician]
+      dp: [Filter, Soundproof]
+    egggroups:
+    - [Humanshape]
+    height: [1.3]
+    introduction: rb
+    moves:
+    - gs: [Attract, Barrier, Baton Pass, Confusion, Curse, Double Team, Doubleslap,
+        Dream Eater, Dynamicpunch, Encore, Endure, Fire Punch, Flash, Frustration,
+        Future Sight, Headbutt, Hidden Power, Hyper Beam, Hypnosis, Ice Punch, Light
+          Screen, Meditate, Mimic, Mud-Slap, Nightmare, Protect, Psybeam, Psych Up,
+        Psychic, Reflect, Rest, Return, Safeguard, Shadow Ball, Sleep Talk, Snore,
+        Solarbeam, Substitute, Sunny Day, Swagger, Thief, Thunder, Thunderbolt, Thunderpunch,
+        Toxic, Zap Cannon]
+    - bw: [Aerial Ace, Energy Ball, Fire Punch, Focus Blast, Foul Play, Giga Impact,
+        Guard Swap, Hyper Beam, Ice Punch, Iron Defense, Magical Leaf, Payback, Power
+          Swap, Psywave, Quick Guard, Thunderpunch, Wide Guard, Zen Headbutt, Body
+          Slam, Double-Edge, Follow Me, Nightmare, Seismic Toss, Thunderpunch]
+    - dp: [Aerial Ace, Energy Ball, Fire Punch, Focus Blast, Giga Impact, Guard Swap,
+        Hyper Beam, Ice Punch, Iron Defense, Magical Leaf, Payback, Power Swap, Thunderpunch,
+        Zen Headbutt, Body Slam, Double-Edge, Follow Me, Nightmare, Seismic Toss,
+        Thunderpunch]
+    - rs: [Attract, Barrier, Baton Pass, Body Slam, Brick Break, Calm Mind, Confusion,
+        Counter, Double-Edge, Double Team, Doubleslap, Dream Eater, Encore, Endure,
+        Facade, Fake Out, Fire Punch, Flash, Focus Punch, Frustration, Future Sight,
+        Hidden Power, Hyper Beam, Hypnosis, Ice Punch, Light Screen, Magical Leaf,
+        Meditate, Mega Kick, Mega Punch, Metronome, Mimic, Mud-Slap, Nightmare, Protect,
+        Psybeam, Psych Up, Psychic, Rain Dance, Recycle, Reflect, Rest, Return, Role
+          Play, Safeguard, Secret Power, Seismic Toss, Shadow Ball, Shock Wave, Skill
+          Swap, Sleep Talk, Snatch, Snore, Solarbeam, Substitute, Sunny Day, Swagger,
+        Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Torment, Toxic,
+        Trick, Body Slam, Double-Edge, Follow Me, Nightmare, Seismic Toss, Thunderpunch]
+    - rb: [Barrier, Bide, Body Slam, Confusion, Counter, Double-Edge, Double Team,
+        Doubleslap, Flash, Hyper Beam, Light Screen, Meditate, Mega Kick, Mega Punch,
+        Metronome, Mimic, Psychic, Psywave, Rage, Reflect, Rest, Seismic Toss, Skull
+          Bash, Solarbeam, Submission, Substitute, Take Down, Teleport, Thunder, Thunder
+          Wave, Thunderbolt, Toxic]
     stats:
     - [40, 45, 65, 100, 100, 90]
     - gs: [40, 45, 65, 100, 120, 90]
     tags:
     - [uu]
     - dp: [nu]
+    types:
+    - [Psychic]
+    - xy: [Psychic, Fairy]
     weight: [54.5]
-    height: [1.3]
-evolutions:
-- {from: Mime Jr., to: Mr. Mime}
-learnsets:
-  rb:
-    Mr. Mime: [Barrier, Bide, Body Slam, Confusion, Counter, Double-Edge, Double Team,
-      Doubleslap, Flash, Hyper Beam, Light Screen, Meditate, Mega Kick, Mega Punch,
-      Metronome, Mimic, Psychic, Psywave, Rage, Reflect, Rest, Seismic Toss, Skull
-        Bash, Solarbeam, Submission, Substitute, Take Down, Teleport, Thunder, Thunder
-        Wave, Thunderbolt, Toxic]
-  gs:
-    Mr. Mime: [Attract, Barrier, Baton Pass, Confusion, Curse, Double Team, Doubleslap,
-      Dream Eater, Dynamicpunch, Encore, Endure, Fire Punch, Flash, Frustration, Future
-        Sight, Headbutt, Hidden Power, Hyper Beam, Hypnosis, Ice Punch, Light Screen,
-      Meditate, Mimic, Mud-Slap, Nightmare, Protect, Psybeam, Psych Up, Psychic, Reflect,
-      Rest, Return, Safeguard, Shadow Ball, Sleep Talk, Snore, Solarbeam, Substitute,
-      Sunny Day, Swagger, Thief, Thunder, Thunderbolt, Thunderpunch, Toxic, Zap Cannon]
-  rs:
-    Mr. Mime: [Attract, Barrier, Baton Pass, Body Slam, Brick Break, Calm Mind, Confusion,
-      Counter, Double-Edge, Double Team, Doubleslap, Dream Eater, Encore, Endure,
-      Facade, Fake Out, Fire Punch, Flash, Focus Punch, Frustration, Future Sight,
-      Hidden Power, Hyper Beam, Hypnosis, Ice Punch, Light Screen, Magical Leaf, Meditate,
-      Mega Kick, Mega Punch, Metronome, Mimic, Mud-Slap, Nightmare, Protect, Psybeam,
-      Psych Up, Psychic, Rain Dance, Recycle, Reflect, Rest, Return, Role Play, Safeguard,
-      Secret Power, Seismic Toss, Shadow Ball, Shock Wave, Skill Swap, Sleep Talk,
-      Snatch, Snore, Solarbeam, Substitute, Sunny Day, Swagger, Taunt, Thief, Thunder,
-      Thunder Wave, Thunderbolt, Thunderpunch, Torment, Toxic, Trick, Body Slam, Double-Edge,
-      Follow Me, Nightmare, Seismic Toss, Thunderpunch]
-  dp:
-    Mime Jr.: [Attract, Barrier, Baton Pass, Brick Break, Calm Mind, Captivate, Charge
-        Beam, Charm, Confuse Ray, Confusion, Copycat, Double Team, Doubleslap, Drain
-        Punch, Dream Eater, Encore, Endure, Facade, Fake Out, Flash, Fling, Focus
-        Punch, Frustration, Future Sight, Grass Knot, Headbutt, Healing Wish, Helping
-        Hand, Hidden Power, Hypnosis, Light Screen, Magic Coat, Meditate, Mimic, Mud-Slap,
-      Nasty Plot, Natural Gift, Protect, Psybeam, Psych Up, Psychic, Rain Dance, Recycle,
-      Reflect, Rest, Return, Role Play, Safeguard, Secret Power, Shadow Ball, Shock
-        Wave, Signal Beam, Skill Swap, Sleep Talk, Snatch, Snore, Solarbeam, Substitute,
-      Sunny Day, Swagger, Taunt, Teeter Dance, Thief, Thunder, Thunder Wave, Thunderbolt,
-      Tickle, Torment, Toxic, Trick, Trick Room, Uproar, Wake-Up Slap]
-    Mr. Mime: [Aerial Ace, Energy Ball, Fire Punch, Focus Blast, Giga Impact, Guard
-        Swap, Hyper Beam, Ice Punch, Iron Defense, Magical Leaf, Payback, Power Swap,
-      Thunderpunch, Zen Headbutt, Body Slam, Double-Edge, Follow Me, Nightmare, Seismic
-        Toss, Thunderpunch]
-  bw:
-    Mime Jr.: [Attract, Barrier, Baton Pass, Brick Break, Calm Mind, Charge Beam, Charm,
-      Confuse Ray, Confusion, Copycat, Covet, Double Team, Doubleslap, Drain Punch,
-      Dream Eater, Encore, Facade, Fake Out, Flash, Fling, Frustration, Future Sight,
-      Grass Knot, Healing Wish, Helping Hand, Hidden Power, Hypnosis, Icy Wind, Light
-        Screen, Magic Coat, Magic Room, Meditate, Mimic, Nasty Plot, Power Split,
-      Protect, Psybeam, Psych Up, Psychic, Psyshock, Rain Dance, Recycle, Reflect,
-      Rest, Return, Role Play, Round, Safeguard, Shadow Ball, Signal Beam, Skill Swap,
-      Sleep Talk, Snatch, Snore, Solarbeam, Substitute, Sunny Day, Swagger, Taunt,
-      Teeter Dance, Telekinesis, Thief, Thunder, Thunder Wave, Thunderbolt, Tickle,
-      Torment, Toxic, Trick, Trick Room, Uproar, Wake-Up Slap, Wonder Room]
-    Mr. Mime: [Aerial Ace, Energy Ball, Fire Punch, Focus Blast, Foul Play, Giga Impact,
-      Guard Swap, Hyper Beam, Ice Punch, Iron Defense, Magical Leaf, Payback, Power
-        Swap, Psywave, Quick Guard, Thunderpunch, Wide Guard, Zen Headbutt, Body Slam,
-      Double-Edge, Follow Me, Nightmare, Seismic Toss, Thunderpunch]

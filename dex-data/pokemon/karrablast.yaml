@@ -1,42 +1,40 @@
 pokemon:
-  Karrablast:
-    introduction: bw
-    types:
-    - [Bug]
-    egggroups:
-    - [Bug]
-    abilities:
-    - [No Guard, Shed Skin, Swarm]
-    stats:
-    - [50, 75, 45, 40, 45, 60]
-    tags:
-    - [lc]
-    weight: [5.9]
-    height: [0.5]
   Escavalier:
-    introduction: bw
-    types:
-    - [Bug, Steel]
-    egggroups:
-    - [Bug]
     abilities:
     - [Overcoat, Shell Armor, Swarm]
+    egggroups:
+    - [Bug]
+    height: [1]
+    introduction: bw
+    moves:
+    - bw: [Focus Blast, Giga Impact, Hyper Beam, Iron Head, Quick Guard, Reversal,
+        Rock Smash, Twineedle]
     stats:
     - [70, 135, 105, 60, 105, 20]
     tags:
     - [ru]
+    types:
+    - [Bug, Steel]
     weight: [33]
-    height: [1]
-evolutions:
-- {from: Karrablast, to: Escavalier}
-learnsets:
-  bw:
-    Karrablast: [Aerial Ace, Attract, Bug Bite, Bug Buzz, Counter, Cut, Double-Edge,
-      Double Team, Endure, Energy Ball, Facade, Faint Attack, False Swipe, Flail,
-      Frustration, Fury Attack, Fury Cutter, Giga Drain, Headbutt, Hidden Power, Horn
-        Attack, Iron Defense, Knock Off, Leer, Megahorn, Peck, Poison Jab, Protect,
-      Pursuit, Rain Dance, Rest, Return, Round, Scary Face, Screech, Slash, Sleep
-        Talk, Snore, Struggle Bug, Substitute, Swagger, Swords Dance, Take Down, Toxic,
-      X-scissor]
-    Escavalier: [Focus Blast, Giga Impact, Hyper Beam, Iron Head, Quick Guard, Reversal,
-      Rock Smash, Twineedle]
+  Karrablast:
+    abilities:
+    - [No Guard, Shed Skin, Swarm]
+    egggroups:
+    - [Bug]
+    evolutions: [Escavalier]
+    height: [0.5]
+    introduction: bw
+    moves:
+    - bw: [Aerial Ace, Attract, Bug Bite, Bug Buzz, Counter, Cut, Double-Edge, Double
+          Team, Endure, Energy Ball, Facade, Faint Attack, False Swipe, Flail, Frustration,
+        Fury Attack, Fury Cutter, Giga Drain, Headbutt, Hidden Power, Horn Attack,
+        Iron Defense, Knock Off, Leer, Megahorn, Peck, Poison Jab, Protect, Pursuit,
+        Rain Dance, Rest, Return, Round, Scary Face, Screech, Slash, Sleep Talk, Snore,
+        Struggle Bug, Substitute, Swagger, Swords Dance, Take Down, Toxic, X-scissor]
+    stats:
+    - [50, 75, 45, 40, 45, 60]
+    tags:
+    - [lc]
+    types:
+    - [Bug]
+    weight: [5.9]

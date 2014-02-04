@@ -1,30 +1,74 @@
 pokemon:
   Exeggcute:
-    introduction: rb
-    types:
-    - [Grass, Psychic]
-    egggroups:
-    - [Plant]
     abilities:
     - [Chlorophyll]
     - bw: [Chlorophyll, Harvest]
+    egggroups:
+    - [Plant]
+    evolutions: [Exeggutor]
+    height: [0.4]
+    introduction: rb
+    moves:
+    - gs: [Ancientpower, Attract, Barrage, Confusion, Curse, Double Team, Dream Eater,
+        Endure, Flash, Frustration, Giga Drain, Hidden Power, Hypnosis, Leech Seed,
+        Mega Drain, Moonlight, Nightmare, Poisonpowder, Protect, Psych Up, Psychic,
+        Reflect, Rest, Return, Rollout, Sleep Powder, Sleep Talk, Sludge Bomb, Snore,
+        Solarbeam, Strength, Stun Spore, Sunny Day, Swagger, Synthesis, Thief, Toxic]
+    - bw: [Ancientpower, Attract, Barrage, Bestow, Block, Bullet Seed, Confusion,
+        Curse, Double Team, Dream Eater, Energy Ball, Explosion, Extrasensory, Facade,
+        Flash, Frustration, Giga Drain, Grass Knot, Gravity, Hidden Power, Hypnosis,
+        Ingrain, Leaf Storm, Leech Seed, Light Screen, Lucky Chant, Moonlight, Natural
+          Gift, Nature Power, Poisonpowder, Power Swap, Protect, Psych Up, Psychic,
+        Reflect, Rest, Return, Round, Seed Bomb, Skill Swap, Sleep Powder, Sleep Talk,
+        Sludge Bomb, Snore, Solarbeam, Strength, Stun Spore, Substitute, Sunny Day,
+        Swagger, Swords Dance, Synthesis, Telekinesis, Thief, Toxic, Trick Room, Uproar,
+        Worry Seed, Double-Edge, Mimic, Nightmare, Selfdestruct, Swagger]
+    - dp: [Ancientpower, Attract, Barrage, Bullet Seed, Captivate, Confusion, Curse,
+        Double Team, Dream Eater, Endure, Energy Ball, Explosion, Facade, Flash, Frustration,
+        Giga Drain, Grass Knot, Gravity, Hidden Power, Hypnosis, Ingrain, Leaf Storm,
+        Leech Seed, Light Screen, Lucky Chant, Moonlight, Natural Gift, Nature Power,
+        Poisonpowder, Power Swap, Protect, Psych Up, Psychic, Reflect, Rest, Return,
+        Rollout, Secret Power, Seed Bomb, Skill Swap, Sleep Powder, Sleep Talk, Sludge
+          Bomb, Snore, Solarbeam, Strength, Stun Spore, Substitute, Sunny Day, Swagger,
+        Swords Dance, Synthesis, Thief, Toxic, Trick Room, Uproar, Worry Seed, Double-Edge,
+        Mimic, Nightmare, Selfdestruct, Swagger]
+    - rs: [Ancientpower, Attract, Barrage, Bullet Seed, Confusion, Curse, Double-Edge,
+        Double Team, Dream Eater, Endure, Explosion, Facade, Flash, Frustration, Giga
+          Drain, Hidden Power, Hypnosis, Ingrain, Leech Seed, Light Screen, Mimic,
+        Moonlight, Nightmare, Poisonpowder, Protect, Psych Up, Psychic, Reflect, Rest,
+        Return, Rollout, Secret Power, Selfdestruct, Skill Swap, Sleep Powder, Sleep
+          Talk, Sludge Bomb, Snore, Solarbeam, Strength, Stun Spore, Substitute, Sunny
+          Day, Swagger, Synthesis, Thief, Toxic, Uproar, Double-Edge, Mimic, Nightmare,
+        Selfdestruct, Swagger]
+    - rb: [Barrage, Bide, Double-Edge, Double Team, Egg Bomb, Explosion, Hypnosis,
+        Leech Seed, Mimic, Poisonpowder, Psychic, Psywave, Rage, Reflect, Rest, Selfdestruct,
+        Sleep Powder, Solarbeam, Stun Spore, Substitute, Take Down, Teleport, Toxic]
     stats:
     - [60, 40, 80, 60, 60, 40]
     - gs: [60, 40, 80, 60, 45, 40]
     tags:
     - [nfe, uu]
     - dp: [lc]
-    weight: [2.5]
-    height: [0.4]
-  Exeggutor:
-    introduction: rb
     types:
     - [Grass, Psychic]
-    egggroups:
-    - [Plant]
+    weight: [2.5]
+  Exeggutor:
     abilities:
     - [Chlorophyll]
     - bw: [Chlorophyll, Harvest]
+    egggroups:
+    - [Plant]
+    height: [2]
+    introduction: rb
+    moves:
+    - gs: [Egg Bomb, Headbutt, Hyper Beam, Stomp]
+    - bw: [Egg Bomb, Giga Impact, Hyper Beam, Low Kick, Psyshock, Stomp, Wood Hammer,
+        Zen Headbutt, Double-Edge, Mimic, Nightmare, Refresh, Selfdestruct, Swagger]
+    - dp: [Egg Bomb, Giga Impact, Headbutt, Hyper Beam, Low Kick, Stomp, Wood Hammer,
+        Zen Headbutt, Double-Edge, Mimic, Nightmare, Refresh, Selfdestruct, Swagger]
+    - rs: [Egg Bomb, Hyper Beam, Stomp, Double-Edge, Mimic, Nightmare, Refresh, Selfdestruct,
+        Swagger]
+    - rb: [Hyper Beam, Mega Drain, Stomp, Strength]
     stats:
     - [95, 95, 85, 125, 125, 55]
     - gs: [95, 95, 85, 125, 65, 55]
@@ -33,57 +77,6 @@ pokemon:
     - bw: [nu]
     - dp: [uu]
     - rs: [bl]
+    types:
+    - [Grass, Psychic]
     weight: [120]
-    height: [2]
-evolutions:
-- {from: Exeggcute, to: Exeggutor}
-learnsets:
-  rb:
-    Exeggcute: [Barrage, Bide, Double-Edge, Double Team, Egg Bomb, Explosion, Hypnosis,
-      Leech Seed, Mimic, Poisonpowder, Psychic, Psywave, Rage, Reflect, Rest, Selfdestruct,
-      Sleep Powder, Solarbeam, Stun Spore, Substitute, Take Down, Teleport, Toxic]
-    Exeggutor: [Hyper Beam, Mega Drain, Stomp, Strength]
-  gs:
-    Exeggcute: [Ancientpower, Attract, Barrage, Confusion, Curse, Double Team, Dream
-        Eater, Endure, Flash, Frustration, Giga Drain, Hidden Power, Hypnosis, Leech
-        Seed, Mega Drain, Moonlight, Nightmare, Poisonpowder, Protect, Psych Up, Psychic,
-      Reflect, Rest, Return, Rollout, Sleep Powder, Sleep Talk, Sludge Bomb, Snore,
-      Solarbeam, Strength, Stun Spore, Sunny Day, Swagger, Synthesis, Thief, Toxic]
-    Exeggutor: [Egg Bomb, Headbutt, Hyper Beam, Stomp]
-  rs:
-    Exeggcute: [Ancientpower, Attract, Barrage, Bullet Seed, Confusion, Curse, Double-Edge,
-      Double Team, Dream Eater, Endure, Explosion, Facade, Flash, Frustration, Giga
-        Drain, Hidden Power, Hypnosis, Ingrain, Leech Seed, Light Screen, Mimic, Moonlight,
-      Nightmare, Poisonpowder, Protect, Psych Up, Psychic, Reflect, Rest, Return,
-      Rollout, Secret Power, Selfdestruct, Skill Swap, Sleep Powder, Sleep Talk, Sludge
-        Bomb, Snore, Solarbeam, Strength, Stun Spore, Substitute, Sunny Day, Swagger,
-      Synthesis, Thief, Toxic, Uproar, Double-Edge, Mimic, Nightmare, Selfdestruct,
-      Swagger]
-    Exeggutor: [Egg Bomb, Hyper Beam, Stomp, Double-Edge, Mimic, Nightmare, Refresh,
-      Selfdestruct, Swagger]
-  dp:
-    Exeggcute: [Ancientpower, Attract, Barrage, Bullet Seed, Captivate, Confusion,
-      Curse, Double Team, Dream Eater, Endure, Energy Ball, Explosion, Facade, Flash,
-      Frustration, Giga Drain, Grass Knot, Gravity, Hidden Power, Hypnosis, Ingrain,
-      Leaf Storm, Leech Seed, Light Screen, Lucky Chant, Moonlight, Natural Gift,
-      Nature Power, Poisonpowder, Power Swap, Protect, Psych Up, Psychic, Reflect,
-      Rest, Return, Rollout, Secret Power, Seed Bomb, Skill Swap, Sleep Powder, Sleep
-        Talk, Sludge Bomb, Snore, Solarbeam, Strength, Stun Spore, Substitute, Sunny
-        Day, Swagger, Swords Dance, Synthesis, Thief, Toxic, Trick Room, Uproar, Worry
-        Seed, Double-Edge, Mimic, Nightmare, Selfdestruct, Swagger]
-    Exeggutor: [Egg Bomb, Giga Impact, Headbutt, Hyper Beam, Low Kick, Stomp, Wood
-        Hammer, Zen Headbutt, Double-Edge, Mimic, Nightmare, Refresh, Selfdestruct,
-      Swagger]
-  bw:
-    Exeggcute: [Ancientpower, Attract, Barrage, Bestow, Block, Bullet Seed, Confusion,
-      Curse, Double Team, Dream Eater, Energy Ball, Explosion, Extrasensory, Facade,
-      Flash, Frustration, Giga Drain, Grass Knot, Gravity, Hidden Power, Hypnosis,
-      Ingrain, Leaf Storm, Leech Seed, Light Screen, Lucky Chant, Moonlight, Natural
-        Gift, Nature Power, Poisonpowder, Power Swap, Protect, Psych Up, Psychic,
-      Reflect, Rest, Return, Round, Seed Bomb, Skill Swap, Sleep Powder, Sleep Talk,
-      Sludge Bomb, Snore, Solarbeam, Strength, Stun Spore, Substitute, Sunny Day,
-      Swagger, Swords Dance, Synthesis, Telekinesis, Thief, Toxic, Trick Room, Uproar,
-      Worry Seed, Double-Edge, Mimic, Nightmare, Selfdestruct, Swagger]
-    Exeggutor: [Egg Bomb, Giga Impact, Hyper Beam, Low Kick, Psyshock, Stomp, Wood
-        Hammer, Zen Headbutt, Double-Edge, Mimic, Nightmare, Refresh, Selfdestruct,
-      Swagger]

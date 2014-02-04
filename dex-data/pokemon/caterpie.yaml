@@ -1,45 +1,44 @@
 pokemon:
-  Caterpie:
-    introduction: rb
-    types:
-    - [Bug]
-    egggroups:
-    - [Bug]
-    abilities:
-    - [Shield Dust]
-    - bw: [Run Away, Shield Dust]
-    stats:
-    - [45, 30, 35, 20, 20, 45]
-    - gs: [45, 30, 35, 20, 20, 45]
-    tags:
-    - [nfe]
-    - dp: [lc]
-    weight: [2.9]
-    height: [0.3]
-  Metapod:
-    introduction: rb
-    types:
-    - [Bug]
-    egggroups:
-    - [Bug]
-    abilities:
-    - [Shed Skin]
-    stats:
-    - [50, 20, 55, 25, 25, 30]
-    - gs: [50, 20, 55, 25, 25, 30]
-    tags:
-    - [nfe]
-    weight: [9.9]
-    height: [0.7]
   Butterfree:
-    introduction: rb
-    types:
-    - [Bug, Flying]
-    egggroups:
-    - [Bug]
     abilities:
     - [Compound Eyes]
     - bw: [Compound Eyes, Tinted Lens]
+    egggroups:
+    - [Bug]
+    height: [1.1]
+    introduction: rb
+    moves:
+    - gs: [Attract, Confusion, Curse, Double Team, Endure, Flash, Frustration, Giga
+          Drain, Gust, Hidden Power, Hyper Beam, Nightmare, Poisonpowder, Protect,
+        Psybeam, Psychic, Rest, Return, Safeguard, Sleep Powder, Sleep Talk, Snore,
+        Solarbeam, Stun Spore, Sunny Day, Supersonic, Swagger, Sweet Scent, Swift,
+        Toxic, Whirlwind]
+    - bw: [Acrobatics, Aerial Ace, Attract, Bug Buzz, Captivate, Confusion, Double-Edge,
+        Double Team, Dream Eater, Energy Ball, Facade, Flash, Frustration, Giga Drain,
+        Giga Impact, Gust, Hidden Power, Hyper Beam, Mimic, Morning Sun, Nightmare,
+        Poisonpowder, Protect, Psybeam, Psych Up, Psychic, Quiver Dance, Rage Powder,
+        Rain Dance, Rest, Return, Roost, Round, Safeguard, Shadow Ball, Signal Beam,
+        Silver Wind, Skill Swap, Sleep Powder, Sleep Talk, Solarbeam, Struggle Bug,
+        Stun Spore, Substitute, Sunny Day, Supersonic, Swagger, Tailwind, Thief, Toxic,
+        U-turn, Venoshock, Whirlwind]
+    - dp: [Aerial Ace, Air Cutter, Attract, Bug Buzz, Captivate, Confusion, Defog,
+        Double-Edge, Double Team, Dream Eater, Endure, Energy Ball, Facade, Flash,
+        Frustration, Giga Drain, Giga Impact, Gust, Hidden Power, Hyper Beam, Mimic,
+        Morning Sun, Natural Gift, Nightmare, Ominous Wind, Poisonpowder, Protect,
+        Psybeam, Psych Up, Psychic, Rain Dance, Rest, Return, Roost, Safeguard, Secret
+          Power, Shadow Ball, Signal Beam, Silver Wind, Skill Swap, Sleep Powder,
+        Sleep Talk, Solarbeam, Stun Spore, Substitute, Sunny Day, Supersonic, Swagger,
+        Swift, Tailwind, Thief, Toxic, Twister, U-turn, Whirlwind]
+    - rs: [Aerial Ace, Attract, Confusion, Double-Edge, Double Team, Dream Eater,
+        Endure, Facade, Flash, Frustration, Giga Drain, Gust, Hidden Power, Hyper
+          Beam, Mimic, Morning Sun, Nightmare, Poisonpowder, Protect, Psybeam, Psychic,
+        Rain Dance, Rest, Return, Safeguard, Secret Power, Shadow Ball, Silver Wind,
+        Skill Swap, Sleep Powder, Sleep Talk, Snore, Solarbeam, Stun Spore, Substitute,
+        Sunny Day, Supersonic, Swagger, Swift, Thief, Toxic, Whirlwind]
+    - rb: [Bide, Confusion, Double-Edge, Double Team, Flash, Gust, Hyper Beam, Mega
+          Drain, Mimic, Poisonpowder, Psybeam, Psychic, Psywave, Rage, Razor Wind,
+        Reflect, Rest, Sleep Powder, Solarbeam, Stun Spore, Substitute, Supersonic,
+        Swift, Take Down, Teleport, Toxic, Whirlwind]
     stats:
     - [60, 45, 50, 80, 80, 70]
     - gs: [60, 45, 50, 80, 80, 70]
@@ -47,55 +46,52 @@ pokemon:
     tags:
     - [uu]
     - rs: [nu]
+    types:
+    - [Bug, Flying]
     weight: [32]
-    height: [1.1]
-evolutions:
-- {from: Caterpie, to: Metapod}
-- {from: Metapod, to: Butterfree}
-learnsets:
-  rb:
-    Caterpie: [String Shot, Tackle]
-    Metapod: [Harden]
-    Butterfree: [Bide, Confusion, Double-Edge, Double Team, Flash, Gust, Hyper Beam,
-      Mega Drain, Mimic, Poisonpowder, Psybeam, Psychic, Psywave, Rage, Razor Wind,
-      Reflect, Rest, Sleep Powder, Solarbeam, Stun Spore, Substitute, Supersonic,
-      Swift, Take Down, Teleport, Toxic, Whirlwind]
-  gs:
-    Caterpie: [String Shot, Tackle]
-    Metapod: [Harden]
-    Butterfree: [Attract, Confusion, Curse, Double Team, Endure, Flash, Frustration,
-      Giga Drain, Gust, Hidden Power, Hyper Beam, Nightmare, Poisonpowder, Protect,
-      Psybeam, Psychic, Rest, Return, Safeguard, Sleep Powder, Sleep Talk, Snore,
-      Solarbeam, Stun Spore, Sunny Day, Supersonic, Swagger, Sweet Scent, Swift, Toxic,
-      Whirlwind]
-  rs:
-    Caterpie: [String Shot, Tackle]
-    Metapod: [Harden]
-    Butterfree: [Aerial Ace, Attract, Confusion, Double-Edge, Double Team, Dream Eater,
-      Endure, Facade, Flash, Frustration, Giga Drain, Gust, Hidden Power, Hyper Beam,
-      Mimic, Morning Sun, Nightmare, Poisonpowder, Protect, Psybeam, Psychic, Rain
-        Dance, Rest, Return, Safeguard, Secret Power, Shadow Ball, Silver Wind, Skill
-        Swap, Sleep Powder, Sleep Talk, Snore, Solarbeam, Stun Spore, Substitute,
-      Sunny Day, Supersonic, Swagger, Swift, Thief, Toxic, Whirlwind]
-  dp:
-    Caterpie: [Bug Bite, Snore, String Shot, Tackle]
-    Metapod: [Harden, Iron Defense]
-    Butterfree: [Aerial Ace, Air Cutter, Attract, Bug Buzz, Captivate, Confusion,
-      Defog, Double-Edge, Double Team, Dream Eater, Endure, Energy Ball, Facade, Flash,
-      Frustration, Giga Drain, Giga Impact, Gust, Hidden Power, Hyper Beam, Mimic,
-      Morning Sun, Natural Gift, Nightmare, Ominous Wind, Poisonpowder, Protect, Psybeam,
-      Psych Up, Psychic, Rain Dance, Rest, Return, Roost, Safeguard, Secret Power,
-      Shadow Ball, Signal Beam, Silver Wind, Skill Swap, Sleep Powder, Sleep Talk,
-      Solarbeam, Stun Spore, Substitute, Sunny Day, Supersonic, Swagger, Swift, Tailwind,
-      Thief, Toxic, Twister, U-turn, Whirlwind]
-  bw:
-    Caterpie: [Bug Bite, Electroweb, Snore, String Shot, Tackle]
-    Metapod: [Harden, Iron Defense]
-    Butterfree: [Acrobatics, Aerial Ace, Attract, Bug Buzz, Captivate, Confusion,
-      Double-Edge, Double Team, Dream Eater, Energy Ball, Facade, Flash, Frustration,
-      Giga Drain, Giga Impact, Gust, Hidden Power, Hyper Beam, Mimic, Morning Sun,
-      Nightmare, Poisonpowder, Protect, Psybeam, Psych Up, Psychic, Quiver Dance,
-      Rage Powder, Rain Dance, Rest, Return, Roost, Round, Safeguard, Shadow Ball,
-      Signal Beam, Silver Wind, Skill Swap, Sleep Powder, Sleep Talk, Solarbeam, Struggle
-        Bug, Stun Spore, Substitute, Sunny Day, Supersonic, Swagger, Tailwind, Thief,
-      Toxic, U-turn, Venoshock, Whirlwind]
+  Caterpie:
+    abilities:
+    - [Shield Dust]
+    - bw: [Run Away, Shield Dust]
+    egggroups:
+    - [Bug]
+    evolutions: [Metapod]
+    height: [0.3]
+    introduction: rb
+    moves:
+    - gs: [String Shot, Tackle]
+    - bw: [Bug Bite, Electroweb, Snore, String Shot, Tackle]
+    - dp: [Bug Bite, Snore, String Shot, Tackle]
+    - rs: [String Shot, Tackle]
+    - rb: [String Shot, Tackle]
+    stats:
+    - [45, 30, 35, 20, 20, 45]
+    - gs: [45, 30, 35, 20, 20, 45]
+    tags:
+    - [nfe]
+    - dp: [lc]
+    types:
+    - [Bug]
+    weight: [2.9]
+  Metapod:
+    abilities:
+    - [Shed Skin]
+    egggroups:
+    - [Bug]
+    evolutions: [Butterfree]
+    height: [0.7]
+    introduction: rb
+    moves:
+    - gs: [Harden]
+    - bw: [Harden, Iron Defense]
+    - dp: [Harden, Iron Defense]
+    - rs: [Harden]
+    - rb: [Harden]
+    stats:
+    - [50, 20, 55, 25, 25, 30]
+    - gs: [50, 20, 55, 25, 25, 30]
+    tags:
+    - [nfe]
+    types:
+    - [Bug]
+    weight: [9.9]

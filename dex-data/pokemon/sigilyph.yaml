@@ -1,28 +1,26 @@
 pokemon:
   Sigilyph:
-    introduction: bw
-    types:
-    - [Flying, Psychic]
-    egggroups:
-    - [Flying]
     abilities:
     - [Magic Guard, Tinted Lens, Wonder Skin]
+    egggroups:
+    - [Flying]
+    height: [1.4]
+    introduction: bw
+    moves:
+    - bw: [Aerial Ace, Air Cutter, Air Slash, Ancientpower, Attract, Calm Mind, Charge
+          Beam, Cosmic Power, Dark Pulse, Double Team, Dream Eater, Energy Ball, Facade,
+        Flash, Flash Cannon, Fly, Frustration, Gravity, Gust, Heat Wave, Hidden Power,
+        Hyper Beam, Hypnosis, Ice Beam, Icy Wind, Light Screen, Magic Coat, Magic
+          Room, Miracle Eye, Mirror Move, Pluck, Protect, Psybeam, Psych Up, Psychic,
+        Psycho Shift, Psyshock, Psywave, Rain Dance, Reflect, Rest, Return, Roost,
+        Round, Safeguard, Shadow Ball, Signal Beam, Skill Swap, Sky Attack, Sleep
+          Talk, Smack Down, Snore, Solarbeam, Steel Wing, Stored Power, Substitute,
+        Swagger, Synchronoise, Tailwind, Telekinesis, Thief, Thunder Wave, Toxic,
+        Trick, Trick Room, Whirlwind, Zen Headbutt]
     stats:
     - [72, 58, 80, 103, 80, 97]
     tags:
     - [ru]
+    types:
+    - [Flying, Psychic]
     weight: [14]
-    height: [1.4]
-evolutions: []
-learnsets:
-  bw:
-    Sigilyph: [Aerial Ace, Air Cutter, Air Slash, Ancientpower, Attract, Calm Mind,
-      Charge Beam, Cosmic Power, Dark Pulse, Double Team, Dream Eater, Energy Ball,
-      Facade, Flash, Flash Cannon, Fly, Frustration, Gravity, Gust, Heat Wave, Hidden
-        Power, Hyper Beam, Hypnosis, Ice Beam, Icy Wind, Light Screen, Magic Coat,
-      Magic Room, Miracle Eye, Mirror Move, Pluck, Protect, Psybeam, Psych Up, Psychic,
-      Psycho Shift, Psyshock, Psywave, Rain Dance, Reflect, Rest, Return, Roost, Round,
-      Safeguard, Shadow Ball, Signal Beam, Skill Swap, Sky Attack, Sleep Talk, Smack
-        Down, Snore, Solarbeam, Steel Wing, Stored Power, Substitute, Swagger, Synchronoise,
-      Tailwind, Telekinesis, Thief, Thunder Wave, Toxic, Trick, Trick Room, Whirlwind,
-      Zen Headbutt]

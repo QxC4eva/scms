@@ -1,44 +1,43 @@
 pokemon:
-  Elgyem:
-    introduction: bw
-    types:
-    - [Psychic]
-    egggroups:
-    - [Humanshape]
-    abilities:
-    - [Analytic, Synchronize, Telepathy]
-    stats:
-    - [55, 55, 55, 85, 55, 30]
-    tags:
-    - [lc]
-    weight: [9]
-    height: [0.5]
   Beheeyem:
-    introduction: bw
-    types:
-    - [Psychic]
-    egggroups:
-    - [Humanshape]
     abilities:
     - [Analytic, Synchronize, Telepathy]
+    egggroups:
+    - [Humanshape]
+    height: [1]
+    introduction: bw
+    moves:
+    - bw: [Giga Impact, Hyper Beam]
     stats:
     - [75, 75, 75, 125, 95, 40]
     tags:
     - [nu]
+    types:
+    - [Psychic]
     weight: [34.5]
-    height: [1]
-evolutions:
-- {from: Elgyem, to: Beheeyem}
-learnsets:
-  bw:
-    Elgyem: [After You, Ally Switch, Astonish, Attract, Barrier, Calm Mind, Charge
-        Beam, Confusion, Dark Pulse, Disable, Double Team, Dream Eater, Echoed Voice,
-      Embargo, Energy Ball, Facade, Flash, Frustration, Gravity, Growl, Guard Split,
-      Guard Swap, Headbutt, Heal Block, Hidden Power, Imprison, Light Screen, Magic
-        Coat, Miracle Eye, Nasty Plot, Pain Split, Power Split, Power Swap, Protect,
-      Psybeam, Psych Up, Psychic, Psyshock, Rain Dance, Recover, Recycle, Reflect,
-      Rest, Return, Rock Slide, Rock Tomb, Role Play, Round, Safeguard, Shadow Ball,
-      Signal Beam, Simple Beam, Skill Swap, Sleep Talk, Snatch, Snore, Substitute,
-      Swagger, Synchronoise, Telekinesis, Teleport, Thief, Thunder Wave, Thunderbolt,
-      Toxic, Trick, Trick Room, Uproar, Wonder Room, Zen Headbutt]
-    Beheeyem: [Giga Impact, Hyper Beam]
+  Elgyem:
+    abilities:
+    - [Analytic, Synchronize, Telepathy]
+    egggroups:
+    - [Humanshape]
+    evolutions: [Beheeyem]
+    height: [0.5]
+    introduction: bw
+    moves:
+    - bw: [After You, Ally Switch, Astonish, Attract, Barrier, Calm Mind, Charge Beam,
+        Confusion, Dark Pulse, Disable, Double Team, Dream Eater, Echoed Voice, Embargo,
+        Energy Ball, Facade, Flash, Frustration, Gravity, Growl, Guard Split, Guard
+          Swap, Headbutt, Heal Block, Hidden Power, Imprison, Light Screen, Magic
+          Coat, Miracle Eye, Nasty Plot, Pain Split, Power Split, Power Swap, Protect,
+        Psybeam, Psych Up, Psychic, Psyshock, Rain Dance, Recover, Recycle, Reflect,
+        Rest, Return, Rock Slide, Rock Tomb, Role Play, Round, Safeguard, Shadow Ball,
+        Signal Beam, Simple Beam, Skill Swap, Sleep Talk, Snatch, Snore, Substitute,
+        Swagger, Synchronoise, Telekinesis, Teleport, Thief, Thunder Wave, Thunderbolt,
+        Toxic, Trick, Trick Room, Uproar, Wonder Room, Zen Headbutt]
+    stats:
+    - [55, 55, 55, 85, 55, 30]
+    tags:
+    - [lc]
+    types:
+    - [Psychic]
+    weight: [9]

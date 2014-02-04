@@ -1,52 +1,48 @@
 pokemon:
   Suicune:
-    introduction: gs
-    types:
-    - [Water]
-    egggroups:
-    - []
     abilities:
     - [Pressure]
     - bw: [Pressure, Water Absorb]
+    egggroups:
+    - []
+    height: [2]
+    introduction: gs
+    moves:
+    - gs: [Aurora Beam, Bite, Blizzard, Bubblebeam, Curse, Cut, Detect, Dig, Double
+          Team, Endure, Frustration, Gust, Headbutt, Hidden Power, Hydro Pump, Hyper
+          Beam, Ice Beam, Icy Wind, Iron Tail, Leer, Mirror Coat, Mist, Mud-Slap,
+        Protect, Psych Up, Rain Dance, Rest, Return, Roar, Rock Smash, Sandstorm,
+        Sleep Talk, Snore, Sunny Day, Surf, Swagger, Swift, Toxic, Water Gun, Waterfall,
+        Whirlpool]
+    - bw: [Aurora Beam, Bite, Blizzard, Bubblebeam, Bulldoze, Calm Mind, Cut, Dig,
+        Dive, Double Team, Extrasensory, Facade, Frustration, Giga Impact, Gust, Hail,
+        Hidden Power, Hydro Pump, Hyper Beam, Ice Beam, Ice Fang, Icy Wind, Iron Head,
+        Iron Tail, Leer, Mirror Coat, Mist, Protect, Psych Up, Quash, Rain Dance,
+        Reflect, Rest, Return, Roar, Rock Smash, Round, Sandstorm, Scald, Shadow Ball,
+        Signal Beam, Sleep Talk, Snarl, Snore, Substitute, Sunny Day, Surf, Swagger,
+        Tailwind, Toxic, Waterfall, Sheer Cold, Air Slash, Aqua Ring, Extremespeed,
+        Body Slam, Double-Edge, Icy Wind, Mimic]
+    - dp: [Aurora Beam, Avalanche, Bite, Blizzard, Brine, Bubblebeam, Calm Mind, Cut,
+        Dig, Dive, Double Team, Endure, Extrasensory, Facade, Frustration, Giga Impact,
+        Gust, Hail, Headbutt, Hidden Power, Hydro Pump, Hyper Beam, Ice Beam, Ice
+          Fang, Icy Wind, Iron Head, Iron Tail, Leer, Mirror Coat, Mist, Mud-Slap,
+        Natural Gift, Ominous Wind, Protect, Psych Up, Rain Dance, Reflect, Rest,
+        Return, Roar, Rock Climb, Rock Smash, Sandstorm, Secret Power, Shadow Ball,
+        Signal Beam, Sleep Talk, Snore, Substitute, Sunny Day, Surf, Swagger, Swift,
+        Tailwind, Toxic, Water Pulse, Waterfall, Whirlpool, Sheer Cold, Air Slash,
+        Aqua Ring, Extremespeed, Body Slam, Double-Edge, Icy Wind, Mimic]
+    - rs: [Aurora Beam, Bite, Blizzard, Body Slam, Bubblebeam, Calm Mind, Cut, Dig,
+        Dive, Double-Edge, Double Team, Endure, Facade, Frustration, Gust, Hail, Hidden
+          Power, Hydro Pump, Hyper Beam, Ice Beam, Icy Wind, Iron Tail, Leer, Mimic,
+        Mirror Coat, Mist, Mud-Slap, Protect, Psych Up, Rain Dance, Reflect, Rest,
+        Return, Roar, Rock Smash, Sandstorm, Secret Power, Sleep Talk, Snore, Substitute,
+        Sunny Day, Surf, Swagger, Swift, Toxic, Water Pulse, Waterfall, Body Slam,
+        Double-Edge, Icy Wind, Mimic]
     stats:
     - [100, 75, 115, 90, 115, 85]
     tags:
     - [ou]
     - bw: [uu]
+    types:
+    - [Water]
     weight: [187]
-    height: [2]
-evolutions: []
-learnsets:
-  gs:
-    Suicune: [Aurora Beam, Bite, Blizzard, Bubblebeam, Curse, Cut, Detect, Dig, Double
-        Team, Endure, Frustration, Gust, Headbutt, Hidden Power, Hydro Pump, Hyper
-        Beam, Ice Beam, Icy Wind, Iron Tail, Leer, Mirror Coat, Mist, Mud-Slap, Protect,
-      Psych Up, Rain Dance, Rest, Return, Roar, Rock Smash, Sandstorm, Sleep Talk,
-      Snore, Sunny Day, Surf, Swagger, Swift, Toxic, Water Gun, Waterfall, Whirlpool]
-  rs:
-    Suicune: [Aurora Beam, Bite, Blizzard, Body Slam, Bubblebeam, Calm Mind, Cut,
-      Dig, Dive, Double-Edge, Double Team, Endure, Facade, Frustration, Gust, Hail,
-      Hidden Power, Hydro Pump, Hyper Beam, Ice Beam, Icy Wind, Iron Tail, Leer, Mimic,
-      Mirror Coat, Mist, Mud-Slap, Protect, Psych Up, Rain Dance, Reflect, Rest, Return,
-      Roar, Rock Smash, Sandstorm, Secret Power, Sleep Talk, Snore, Substitute, Sunny
-        Day, Surf, Swagger, Swift, Toxic, Water Pulse, Waterfall, Body Slam, Double-Edge,
-      Icy Wind, Mimic]
-  dp:
-    Suicune: [Aurora Beam, Avalanche, Bite, Blizzard, Brine, Bubblebeam, Calm Mind,
-      Cut, Dig, Dive, Double Team, Endure, Extrasensory, Facade, Frustration, Giga
-        Impact, Gust, Hail, Headbutt, Hidden Power, Hydro Pump, Hyper Beam, Ice Beam,
-      Ice Fang, Icy Wind, Iron Head, Iron Tail, Leer, Mirror Coat, Mist, Mud-Slap,
-      Natural Gift, Ominous Wind, Protect, Psych Up, Rain Dance, Reflect, Rest, Return,
-      Roar, Rock Climb, Rock Smash, Sandstorm, Secret Power, Shadow Ball, Signal Beam,
-      Sleep Talk, Snore, Substitute, Sunny Day, Surf, Swagger, Swift, Tailwind, Toxic,
-      Water Pulse, Waterfall, Whirlpool, Sheer Cold, Air Slash, Aqua Ring, Extremespeed,
-      Body Slam, Double-Edge, Icy Wind, Mimic]
-  bw:
-    Suicune: [Aurora Beam, Bite, Blizzard, Bubblebeam, Bulldoze, Calm Mind, Cut, Dig,
-      Dive, Double Team, Extrasensory, Facade, Frustration, Giga Impact, Gust, Hail,
-      Hidden Power, Hydro Pump, Hyper Beam, Ice Beam, Ice Fang, Icy Wind, Iron Head,
-      Iron Tail, Leer, Mirror Coat, Mist, Protect, Psych Up, Quash, Rain Dance, Reflect,
-      Rest, Return, Roar, Rock Smash, Round, Sandstorm, Scald, Shadow Ball, Signal
-        Beam, Sleep Talk, Snarl, Snore, Substitute, Sunny Day, Surf, Swagger, Tailwind,
-      Toxic, Waterfall, Sheer Cold, Air Slash, Aqua Ring, Extremespeed, Body Slam,
-      Double-Edge, Icy Wind, Mimic]

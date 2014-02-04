@@ -1,32 +1,93 @@
 pokemon:
   Horsea:
-    introduction: rb
-    types:
-    - [Water]
-    egggroups:
-    - [Dragon, Water 1]
     abilities:
     - [Swift Swim]
     - dp: [Sniper, Swift Swim]
     - bw: [Damp, Sniper, Swift Swim]
+    egggroups:
+    - [Dragon, Water 1]
+    evolutions: [Seadra]
+    height: [0.4]
+    introduction: rb
+    moves:
+    - gs: [Agility, Attract, Aurora Beam, Blizzard, Bubble, Curse, Disable, Double
+          Team, Dragon Rage, Dragonbreath, Endure, Flail, Frustration, Headbutt, Hidden
+          Power, Hydro Pump, Ice Beam, Icy Wind, Leer, Octazooka, Protect, Rain Dance,
+        Rest, Return, Sleep Talk, Smokescreen, Snore, Splash, Surf, Swagger, Swift,
+        Toxic, Twister, Water Gun, Waterfall, Whirlpool]
+    - bw: [Agility, Attract, Aurora Beam, Blizzard, Bounce, Brine, Bubble, Bubblebeam,
+        Clear Smog, Disable, Dive, Double Team, Dragon Dance, Dragon Pulse, Dragon
+          Rage, Dragonbreath, Facade, Flail, Flash Cannon, Focus Energy, Frustration,
+        Hail, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Leer, Muddy Water, Octazooka,
+        Outrage, Protect, Rain Dance, Razor Wind, Rest, Return, Round, Scald, Signal
+          Beam, Sleep Talk, Smokescreen, Snore, Splash, Substitute, Surf, Swagger,
+        Toxic, Twister, Water Gun, Water Pulse, Waterfall, Double-Edge, Icy Wind,
+        Mimic]
+    - dp: [Agility, Attract, Aurora Beam, Blizzard, Bounce, Brine, Bubble, Bubblebeam,
+        Captivate, Disable, Dive, Double Team, Dragon Dance, Dragon Pulse, Dragon
+          Rage, Dragonbreath, Endure, Facade, Flail, Flash Cannon, Focus Energy, Frustration,
+        Hail, Headbutt, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Leer, Muddy
+          Water, Natural Gift, Octazooka, Outrage, Protect, Rain Dance, Razor Wind,
+        Rest, Return, Secret Power, Signal Beam, Sleep Talk, Smokescreen, Snore, Splash,
+        Substitute, Surf, Swagger, Swift, Toxic, Twister, Water Gun, Water Pulse,
+        Waterfall, Whirlpool, Double-Edge, Icy Wind, Mimic]
+    - rs: [Agility, Attract, Aurora Beam, Blizzard, Bubble, Disable, Dive, Double-Edge,
+        Double Team, Dragon Dance, Dragon Rage, Dragonbreath, Endure, Facade, Flail,
+        Frustration, Hail, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Leer, Mimic,
+        Octazooka, Protect, Rain Dance, Rest, Return, Secret Power, Sleep Talk, Smokescreen,
+        Snore, Splash, Substitute, Surf, Swagger, Swift, Toxic, Twister, Water Gun,
+        Water Pulse, Waterfall, Double-Edge, Icy Wind, Mimic]
+    - rb: [Agility, Bide, Blizzard, Bubble, Bubblebeam, Double-Edge, Double Team,
+        Hydro Pump, Ice Beam, Leer, Mimic, Rage, Rest, Skull Bash, Smokescreen, Substitute,
+        Surf, Swift, Take Down, Toxic, Water Gun]
     stats:
     - [30, 40, 70, 70, 70, 60]
     - gs: [30, 40, 70, 70, 25, 60]
     tags:
     - [nfe]
     - dp: [lc]
-    weight: [8]
-    height: [0.4]
-  Seadra:
-    introduction: rb
     types:
     - [Water]
+    weight: [8]
+  Kingdra:
+    abilities:
+    - [Swift Swim]
+    - dp: [Sniper, Swift Swim]
+    - bw: [Damp, Sniper, Swift Swim]
     egggroups:
     - [Dragon, Water 1]
+    height: [1.8]
+    introduction: gs
+    moves:
+    - bw: [Draco Meteor, Iron Head, Quash, Yawn, Body Slam, Double-Edge, Icy Wind,
+        Mimic]
+    - dp: [Draco Meteor, Iron Head, Yawn, Body Slam, Double-Edge, Icy Wind, Mimic]
+    - rs: [Body Slam, Body Slam, Double-Edge, Icy Wind, Mimic]
+    stats:
+    - [75, 95, 95, 95, 95, 85]
+    tags:
+    - [bl]
+    - bw: [uu]
+    - dp: [ou]
+    types:
+    - [Dragon, Water]
+    weight: [152]
+  Seadra:
     abilities:
     - [Poison Point]
     - dp: [Poison Point, Sniper]
     - bw: [Damp, Poison Point, Sniper]
+    egggroups:
+    - [Dragon, Water 1]
+    evolutions: [Kingdra]
+    height: [1.2]
+    introduction: rb
+    moves:
+    - gs: [Hyper Beam]
+    - bw: [Giga Impact, Hyper Beam, Double-Edge, Icy Wind, Mimic]
+    - dp: [Giga Impact, Hyper Beam, Double-Edge, Icy Wind, Mimic]
+    - rs: [Hyper Beam, Double-Edge, Icy Wind, Mimic]
+    - rb: [Hyper Beam]
     stats:
     - [55, 65, 95, 95, 95, 85]
     - gs: [55, 65, 95, 95, 45, 85]
@@ -34,70 +95,6 @@ pokemon:
     - [uu]
     - bw: [nu]
     - gs: [nfe]
-    weight: [25]
-    height: [1.2]
-  Kingdra:
-    introduction: gs
     types:
-    - [Dragon, Water]
-    egggroups:
-    - [Dragon, Water 1]
-    abilities:
-    - [Swift Swim]
-    - dp: [Sniper, Swift Swim]
-    - bw: [Damp, Sniper, Swift Swim]
-    stats:
-    - [75, 95, 95, 95, 95, 85]
-    tags:
-    - [bl]
-    - bw: [uu]
-    - dp: [ou]
-    weight: [152]
-    height: [1.8]
-evolutions:
-- {from: Horsea, to: Seadra}
-- {from: Seadra, to: Kingdra}
-learnsets:
-  rb:
-    Horsea: [Agility, Bide, Blizzard, Bubble, Bubblebeam, Double-Edge, Double Team,
-      Hydro Pump, Ice Beam, Leer, Mimic, Rage, Rest, Skull Bash, Smokescreen, Substitute,
-      Surf, Swift, Take Down, Toxic, Water Gun]
-    Seadra: [Hyper Beam]
-  gs:
-    Horsea: [Agility, Attract, Aurora Beam, Blizzard, Bubble, Curse, Disable, Double
-        Team, Dragon Rage, Dragonbreath, Endure, Flail, Frustration, Headbutt, Hidden
-        Power, Hydro Pump, Ice Beam, Icy Wind, Leer, Octazooka, Protect, Rain Dance,
-      Rest, Return, Sleep Talk, Smokescreen, Snore, Splash, Surf, Swagger, Swift,
-      Toxic, Twister, Water Gun, Waterfall, Whirlpool]
-    Seadra: [Hyper Beam]
-  rs:
-    Horsea: [Agility, Attract, Aurora Beam, Blizzard, Bubble, Disable, Dive, Double-Edge,
-      Double Team, Dragon Dance, Dragon Rage, Dragonbreath, Endure, Facade, Flail,
-      Frustration, Hail, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Leer, Mimic,
-      Octazooka, Protect, Rain Dance, Rest, Return, Secret Power, Sleep Talk, Smokescreen,
-      Snore, Splash, Substitute, Surf, Swagger, Swift, Toxic, Twister, Water Gun,
-      Water Pulse, Waterfall, Double-Edge, Icy Wind, Mimic]
-    Seadra: [Hyper Beam, Double-Edge, Icy Wind, Mimic]
-    Kingdra: [Body Slam, Body Slam, Double-Edge, Icy Wind, Mimic]
-  dp:
-    Horsea: [Agility, Attract, Aurora Beam, Blizzard, Bounce, Brine, Bubble, Bubblebeam,
-      Captivate, Disable, Dive, Double Team, Dragon Dance, Dragon Pulse, Dragon Rage,
-      Dragonbreath, Endure, Facade, Flail, Flash Cannon, Focus Energy, Frustration,
-      Hail, Headbutt, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Leer, Muddy Water,
-      Natural Gift, Octazooka, Outrage, Protect, Rain Dance, Razor Wind, Rest, Return,
-      Secret Power, Signal Beam, Sleep Talk, Smokescreen, Snore, Splash, Substitute,
-      Surf, Swagger, Swift, Toxic, Twister, Water Gun, Water Pulse, Waterfall, Whirlpool,
-      Double-Edge, Icy Wind, Mimic]
-    Seadra: [Giga Impact, Hyper Beam, Double-Edge, Icy Wind, Mimic]
-    Kingdra: [Draco Meteor, Iron Head, Yawn, Body Slam, Double-Edge, Icy Wind, Mimic]
-  bw:
-    Horsea: [Agility, Attract, Aurora Beam, Blizzard, Bounce, Brine, Bubble, Bubblebeam,
-      Clear Smog, Disable, Dive, Double Team, Dragon Dance, Dragon Pulse, Dragon Rage,
-      Dragonbreath, Facade, Flail, Flash Cannon, Focus Energy, Frustration, Hail,
-      Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Leer, Muddy Water, Octazooka,
-      Outrage, Protect, Rain Dance, Razor Wind, Rest, Return, Round, Scald, Signal
-        Beam, Sleep Talk, Smokescreen, Snore, Splash, Substitute, Surf, Swagger, Toxic,
-      Twister, Water Gun, Water Pulse, Waterfall, Double-Edge, Icy Wind, Mimic]
-    Seadra: [Giga Impact, Hyper Beam, Double-Edge, Icy Wind, Mimic]
-    Kingdra: [Draco Meteor, Iron Head, Quash, Yawn, Body Slam, Double-Edge, Icy Wind,
-      Mimic]
+    - [Water]
+    weight: [25]

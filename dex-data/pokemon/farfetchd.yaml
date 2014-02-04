@@ -1,56 +1,54 @@
 pokemon:
   Farfetch'd:
-    introduction: rb
-    types: [[Flying, Ground]]
-    egggroups: [[Flying, Ground]]
     abilities:
     - [Inner Focus, Keen Eye]
     - bw: [Defiant, Inner Focus, Keen Eye]
+    egggroups:
+    - [Flying, Ground]
+    height: [0.8]
+    introduction: rb
+    moves:
+    - gs: [Agility, Attract, Curse, Cut, Detect, Double Team, Endure, False Swipe,
+        Flail, Fly, Foresight, Frustration, Fury Attack, Gust, Headbutt, Hidden Power,
+        Iron Tail, Leer, Mirror Move, Mud-Slap, Peck, Protect, Psych Up, Quick Attack,
+        Rest, Return, Sand-Attack, Slash, Sleep Talk, Snore, Steel Wing, Sunny Day,
+        Swagger, Swift, Swords Dance, Thief, Toxic, Fury Cutter]
+    - bw: [Acrobatics, Aerial Ace, Agility, Air Cutter, Air Slash, Attract, Brave
+          Bird, Covet, Curse, Cut, Double Team, Facade, False Swipe, Featherdance,
+        Feint, Flail, Fly, Foresight, Frustration, Fury Attack, Fury Cutter, Gust,
+        Heat Wave, Helping Hand, Hidden Power, Iron Tail, Knock Off, Last Resort,
+        Leaf Blade, Leer, Mirror Move, Mud-Slap, Night Slash, Peck, Pluck, Poison
+          Jab, Protect, Psych Up, Quick Attack, Rest, Retaliate, Return, Revenge,
+        Roost, Round, Sand-Attack, Sky Attack, Slash, Sleep Talk, Snore, Steel Wing,
+        Substitute, Sunny Day, Swagger, Swords Dance, Tailwind, Thief, Toxic, Trump
+          Card, U-turn, Uproar, Work Up, Wish, Yawn, Baton Pass, Baton Pass, Body
+          Slam, Double-Edge, Mimic]
+    - dp: [Aerial Ace, Agility, Air Cutter, Air Slash, Attract, Captivate, Covet,
+        Curse, Cut, Defog, Double Team, Endure, Facade, False Swipe, Featherdance,
+        Feint, Flail, Fly, Foresight, Frustration, Fury Attack, Fury Cutter, Gust,
+        Headbutt, Heat Wave, Hidden Power, Iron Tail, Knock Off, Last Resort, Leaf
+          Blade, Leer, Mirror Move, Mud-Slap, Natural Gift, Night Slash, Ominous Wind,
+        Peck, Pluck, Poison Jab, Protect, Psych Up, Quick Attack, Rest, Return, Roost,
+        Sand-Attack, Secret Power, Slash, Sleep Talk, Snore, Steel Wing, Substitute,
+        Sunny Day, Swagger, Swift, Swords Dance, Thief, Toxic, Twister, U-turn, Uproar,
+        Wish, Yawn, Baton Pass, Baton Pass, Body Slam, Double-Edge, Mimic]
+    - rs: [Aerial Ace, Agility, Attract, Body Slam, Curse, Cut, Double-Edge, Double
+          Team, Endure, Facade, False Swipe, Featherdance, Flail, Fly, Foresight,
+        Frustration, Fury Attack, Fury Cutter, Gust, Hidden Power, Iron Tail, Knock
+          Off, Leer, Mimic, Mirror Move, Mud-Slap, Peck, Protect, Psych Up, Quick
+          Attack, Rest, Return, Sand-Attack, Secret Power, Slash, Sleep Talk, Snore,
+        Steel Wing, Substitute, Sunny Day, Swagger, Swift, Swords Dance, Thief, Toxic,
+        Wish, Yawn, Baton Pass, Baton Pass, Body Slam, Double-Edge, Mimic]
+    - rb: [Agility, Bide, Body Slam, Cut, Double-Edge, Double Team, Fly, Fury Attack,
+        Leer, Mimic, Peck, Rage, Razor Wind, Reflect, Rest, Sand-Attack, Skull Bash,
+        Slash, Substitute, Swift, Swords Dance, Take Down, Toxic, Whirlwind, Fury
+          Cutter]
     stats:
     - [52, 65, 55, 58, 58, 60]
     - gs: [52, 65, 55, 58, 62, 60]
     tags:
     - [uu]
     - rs: [nu]
+    types:
+    - [Flying, Ground]
     weight: [15]
-    height: [0.8]
-learnsets:
-  rb:
-    Farfetch'd: [Agility, Bide, Body Slam, Cut, Double-Edge, Double Team, Fly, Fury
-        Attack, Leer, Mimic, Peck, Rage, Razor Wind, Reflect, Rest, Sand-Attack, Skull
-        Bash, Slash, Substitute, Swift, Swords Dance, Take Down, Toxic, Whirlwind,
-      Fury Cutter]
-  gs:
-    Farfetch'd: [Agility, Attract, Curse, Cut, Detect, Double Team, Endure, False Swipe,
-      Flail, Fly, Foresight, Frustration, Fury Attack, Gust, Headbutt, Hidden Power,
-      Iron Tail, Leer, Mirror Move, Mud-Slap, Peck, Protect, Psych Up, Quick Attack,
-      Rest, Return, Sand-Attack, Slash, Sleep Talk, Snore, Steel Wing, Sunny Day,
-      Swagger, Swift, Swords Dance, Thief, Toxic, Fury Cutter]
-  rs:
-    Farfetch'd: [Aerial Ace, Agility, Attract, Body Slam, Curse, Cut, Double-Edge,
-      Double Team, Endure, Facade, False Swipe, Featherdance, Flail, Fly, Foresight,
-      Frustration, Fury Attack, Fury Cutter, Gust, Hidden Power, Iron Tail, Knock
-        Off, Leer, Mimic, Mirror Move, Mud-Slap, Peck, Protect, Psych Up, Quick Attack,
-      Rest, Return, Sand-Attack, Secret Power, Slash, Sleep Talk, Snore, Steel Wing,
-      Substitute, Sunny Day, Swagger, Swift, Swords Dance, Thief, Toxic, Wish, Yawn,
-      Baton Pass, Baton Pass, Body Slam, Double-Edge, Mimic]
-  dp:
-    Farfetch'd: [Aerial Ace, Agility, Air Cutter, Air Slash, Attract, Captivate, Covet,
-      Curse, Cut, Defog, Double Team, Endure, Facade, False Swipe, Featherdance, Feint,
-      Flail, Fly, Foresight, Frustration, Fury Attack, Fury Cutter, Gust, Headbutt,
-      Heat Wave, Hidden Power, Iron Tail, Knock Off, Last Resort, Leaf Blade, Leer,
-      Mirror Move, Mud-Slap, Natural Gift, Night Slash, Ominous Wind, Peck, Pluck,
-      Poison Jab, Protect, Psych Up, Quick Attack, Rest, Return, Roost, Sand-Attack,
-      Secret Power, Slash, Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day, Swagger,
-      Swift, Swords Dance, Thief, Toxic, Twister, U-turn, Uproar, Wish, Yawn, Baton
-        Pass, Baton Pass, Body Slam, Double-Edge, Mimic]
-  bw:
-    Farfetch'd: [Acrobatics, Aerial Ace, Agility, Air Cutter, Air Slash, Attract, Brave
-        Bird, Covet, Curse, Cut, Double Team, Facade, False Swipe, Featherdance, Feint,
-      Flail, Fly, Foresight, Frustration, Fury Attack, Fury Cutter, Gust, Heat Wave,
-      Helping Hand, Hidden Power, Iron Tail, Knock Off, Last Resort, Leaf Blade, Leer,
-      Mirror Move, Mud-Slap, Night Slash, Peck, Pluck, Poison Jab, Protect, Psych
-        Up, Quick Attack, Rest, Retaliate, Return, Revenge, Roost, Round, Sand-Attack,
-      Sky Attack, Slash, Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day, Swagger,
-      Swords Dance, Tailwind, Thief, Toxic, Trump Card, U-turn, Uproar, Work Up, Wish,
-      Yawn, Baton Pass, Baton Pass, Body Slam, Double-Edge, Mimic]

@@ -1,42 +1,41 @@
 pokemon:
-  Shelmet:
-    introduction: bw
-    types:
-    - [Bug]
-    egggroups:
-    - [Bug]
-    abilities:
-    - [Hydration, Overcoat, Shell Armor]
-    stats:
-    - [50, 40, 85, 40, 65, 25]
-    tags:
-    - [lc]
-    weight: [7.7]
-    height: [0.4]
   Accelgor:
-    introduction: bw
-    types:
-    - [Bug]
-    egggroups:
-    - [Bug]
     abilities:
     - [Hydration, Sticky Hold, Unburden]
+    egggroups:
+    - [Bug]
+    height: [0.8]
+    introduction: bw
+    moves:
+    - bw: [Acid Spray, Agility, Focus Blast, Giga Impact, Hyper Beam, Knock Off, Me
+          First, Power Swap, Quick Attack, Sandstorm, Swift, U-turn]
     stats:
     - [80, 70, 40, 100, 60, 145]
     tags:
     - [ru]
+    types:
+    - [Bug]
     weight: [25.3]
-    height: [0.8]
-evolutions:
-- {from: Shelmet, to: Accelgor}
-learnsets:
-  bw:
-    Shelmet: [Acid, Acid Armor, Attract, Baton Pass, Bide, Body Slam, Bug Bite, Bug
-        Buzz, Curse, Double-Edge, Double Team, Encore, Endure, Energy Ball, Facade,
-      Feint, Final Gambit, Frustration, Gastro Acid, Giga Drain, Guard Split, Guard
-        Swap, Hidden Power, Leech Life, Mega Drain, Mind Reader, Mud-Slap, Protect,
-      Pursuit, Rain Dance, Recover, Rest, Return, Round, Signal Beam, Sleep Talk,
-      Sludge Bomb, Snore, Spikes, Struggle Bug, Substitute, Swagger, Toxic, Venoshock,
-      Yawn]
-    Accelgor: [Acid Spray, Agility, Focus Blast, Giga Impact, Hyper Beam, Knock Off,
-      Me First, Power Swap, Quick Attack, Sandstorm, Swift, U-turn]
+  Shelmet:
+    abilities:
+    - [Hydration, Overcoat, Shell Armor]
+    egggroups:
+    - [Bug]
+    evolutions: [Accelgor]
+    height: [0.4]
+    introduction: bw
+    moves:
+    - bw: [Acid, Acid Armor, Attract, Baton Pass, Bide, Body Slam, Bug Bite, Bug Buzz,
+        Curse, Double-Edge, Double Team, Encore, Endure, Energy Ball, Facade, Feint,
+        Final Gambit, Frustration, Gastro Acid, Giga Drain, Guard Split, Guard Swap,
+        Hidden Power, Leech Life, Mega Drain, Mind Reader, Mud-Slap, Protect, Pursuit,
+        Rain Dance, Recover, Rest, Return, Round, Signal Beam, Sleep Talk, Sludge
+          Bomb, Snore, Spikes, Struggle Bug, Substitute, Swagger, Toxic, Venoshock,
+        Yawn]
+    stats:
+    - [50, 40, 85, 40, 65, 25]
+    tags:
+    - [lc]
+    types:
+    - [Bug]
+    weight: [7.7]

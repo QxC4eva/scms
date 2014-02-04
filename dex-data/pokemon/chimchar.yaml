@@ -1,78 +1,77 @@
 pokemon:
   Chimchar:
-    introduction: dp
-    types:
-    - [Fire]
-    egggroups:
-    - [Ground, Humanshape]
     abilities:
     - [Blaze, Iron Fist]
+    egggroups:
+    - [Ground, Humanshape]
+    evolutions: [Monferno]
+    height: [0.5]
+    introduction: dp
+    moves:
+    - bw: [Acrobatics, Aerial Ace, Assist, Attract, Blaze Kick, Brick Break, Bulk
+          Up, Counter, Covet, Cut, Dig, Double Kick, Double Team, Ember, Encore, Endeavor,
+        Facade, Fake Out, Fire Blast, Fire Pledge, Fire Punch, Fire Spin, Flame Charge,
+        Flame Wheel, Flamethrower, Fling, Focus Energy, Focus Punch, Frustration,
+        Fury Swipes, Grass Knot, Gunk Shot, Heat Wave, Helping Hand, Hidden Power,
+        Hone Claws, Incinerate, Iron Tail, Leer, Low Kick, Low Sweep, Nasty Plot,
+        Overheat, Protect, Quick Guard, Rest, Return, Rock Smash, Role Play, Round,
+        Scratch, Shadow Claw, Slack Off, Sleep Talk, Snore, Stealth Rock, Strength,
+        Submission, Substitute, Sunny Day, Swagger, Swords Dance, Taunt, Thunderpunch,
+        Torment, Toxic, U-turn, Uproar, Will-O-Wisp]
+    - dp: [Aerial Ace, Assist, Attract, Blaze Kick, Brick Break, Bulk Up, Captivate,
+        Counter, Cut, Dig, Double Kick, Double Team, Ember, Encore, Endeavor, Endure,
+        Facade, Fake Out, Fire Blast, Fire Punch, Fire Spin, Flame Wheel, Flamethrower,
+        Fling, Focus Energy, Focus Punch, Frustration, Fury Swipes, Grass Knot, Gunk
+          Shot, Headbutt, Heat Wave, Helping Hand, Hidden Power, Iron Tail, Leer,
+        Low Kick, Mud-Slap, Nasty Plot, Natural Gift, Overheat, Protect, Rest, Return,
+        Rock Climb, Rock Smash, Role Play, Rollout, Scratch, Secret Power, Shadow
+          Claw, Slack Off, Sleep Talk, Snore, Stealth Rock, Strength, Substitute,
+        Sunny Day, Swagger, Swift, Swords Dance, Taunt, Thunderpunch, Torment, Toxic,
+        U-turn, Uproar, Vacuum Wave, Will-O-Wisp]
     stats:
     - [44, 58, 44, 58, 44, 61]
     tags:
     - [lc]
-    weight: [6.2]
-    height: [0.5]
-  Monferno:
-    introduction: dp
     types:
-    - [Fighting, Fire]
-    egggroups:
-    - [Ground, Humanshape]
+    - [Fire]
+    weight: [6.2]
+  Infernape:
     abilities:
     - [Blaze, Iron Fist]
+    egggroups:
+    - [Ground, Humanshape]
+    height: [1.2]
+    introduction: dp
+    moves:
+    - bw: [Blast Burn, Bulldoze, Calm Mind, Earthquake, Giga Impact, Hyper Beam, Punishment,
+        Roar, Solarbeam, Stone Edge]
+    - dp: [Blast Burn, Calm Mind, Earthquake, Giga Impact, Hyper Beam, Punishment,
+        Roar, Solarbeam, Stone Edge]
+    stats:
+    - [76, 104, 71, 104, 71, 108]
+    tags:
+    - [ou]
+    types:
+    - [Fighting, Fire]
+    weight: [55]
+  Monferno:
+    abilities:
+    - [Blaze, Iron Fist]
+    egggroups:
+    - [Ground, Humanshape]
+    evolutions: [Infernape]
+    height: [0.9]
+    introduction: dp
+    moves:
+    - bw: [Close Combat, Dual Chop, Feint, Flare Blitz, Focus Blast, Mach Punch, Poison
+          Jab, Retaliate, Rock Slide, Rock Tomb, Work Up]
+    - dp: [Close Combat, Feint, Flare Blitz, Focus Blast, Mach Punch, Poison Jab,
+        Rock Slide, Rock Tomb]
     stats:
     - [64, 78, 52, 78, 52, 81]
     tags:
     - [nu]
     - bw: [nfe]
-    weight: [22]
-    height: [0.9]
-  Infernape:
-    introduction: dp
     types:
     - [Fighting, Fire]
-    egggroups:
-    - [Ground, Humanshape]
-    abilities:
-    - [Blaze, Iron Fist]
-    stats:
-    - [76, 104, 71, 104, 71, 108]
-    tags:
-    - [ou]
-    weight: [55]
-    height: [1.2]
-evolutions:
-- {from: Chimchar, to: Monferno}
-- {from: Monferno, to: Infernape}
-learnsets:
-  dp:
-    Chimchar: [Aerial Ace, Assist, Attract, Blaze Kick, Brick Break, Bulk Up, Captivate,
-      Counter, Cut, Dig, Double Kick, Double Team, Ember, Encore, Endeavor, Endure,
-      Facade, Fake Out, Fire Blast, Fire Punch, Fire Spin, Flame Wheel, Flamethrower,
-      Fling, Focus Energy, Focus Punch, Frustration, Fury Swipes, Grass Knot, Gunk
-        Shot, Headbutt, Heat Wave, Helping Hand, Hidden Power, Iron Tail, Leer, Low
-        Kick, Mud-Slap, Nasty Plot, Natural Gift, Overheat, Protect, Rest, Return,
-      Rock Climb, Rock Smash, Role Play, Rollout, Scratch, Secret Power, Shadow Claw,
-      Slack Off, Sleep Talk, Snore, Stealth Rock, Strength, Substitute, Sunny Day,
-      Swagger, Swift, Swords Dance, Taunt, Thunderpunch, Torment, Toxic, U-turn, Uproar,
-      Vacuum Wave, Will-O-Wisp]
-    Monferno: [Close Combat, Feint, Flare Blitz, Focus Blast, Mach Punch, Poison Jab,
-      Rock Slide, Rock Tomb]
-    Infernape: [Blast Burn, Calm Mind, Earthquake, Giga Impact, Hyper Beam, Punishment,
-      Roar, Solarbeam, Stone Edge]
-  bw:
-    Chimchar: [Acrobatics, Aerial Ace, Assist, Attract, Blaze Kick, Brick Break, Bulk
-        Up, Counter, Covet, Cut, Dig, Double Kick, Double Team, Ember, Encore, Endeavor,
-      Facade, Fake Out, Fire Blast, Fire Pledge, Fire Punch, Fire Spin, Flame Charge,
-      Flame Wheel, Flamethrower, Fling, Focus Energy, Focus Punch, Frustration, Fury
-        Swipes, Grass Knot, Gunk Shot, Heat Wave, Helping Hand, Hidden Power, Hone
-        Claws, Incinerate, Iron Tail, Leer, Low Kick, Low Sweep, Nasty Plot, Overheat,
-      Protect, Quick Guard, Rest, Return, Rock Smash, Role Play, Round, Scratch, Shadow
-        Claw, Slack Off, Sleep Talk, Snore, Stealth Rock, Strength, Submission, Substitute,
-      Sunny Day, Swagger, Swords Dance, Taunt, Thunderpunch, Torment, Toxic, U-turn,
-      Uproar, Will-O-Wisp]
-    Monferno: [Close Combat, Dual Chop, Feint, Flare Blitz, Focus Blast, Mach Punch,
-      Poison Jab, Retaliate, Rock Slide, Rock Tomb, Work Up]
-    Infernape: [Blast Burn, Bulldoze, Calm Mind, Earthquake, Giga Impact, Hyper Beam,
-      Punishment, Roar, Solarbeam, Stone Edge]
+    weight: [22]

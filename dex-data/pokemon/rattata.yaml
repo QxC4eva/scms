@@ -1,87 +1,81 @@
 pokemon:
-  Rattata:
-    introduction: rb
-    types:
-    - [Normal]
-    egggroups:
-    - [Ground]
-    abilities:
-    - [Guts, Run Away]
-    - bw: [Guts, Hustle, Run Away]
-    stats:
-    - [30, 56, 35, 25, 25, 72]
-    - gs: [30, 56, 35, 25, 35, 72]
-    tags:
-    - [nfe]
-    - dp: [lc]
-    weight: [3.5]
-    height: [0.3]
   Raticate:
-    introduction: rb
-    types:
-    - [Normal]
-    egggroups:
-    - [Ground]
     abilities:
     - [Guts, Run Away]
     - bw: [Guts, Hustle, Run Away]
+    egggroups:
+    - [Ground]
+    height: [0.7]
+    introduction: rb
+    moves:
+    - gs: [Cut, Hyper Beam, Ice Beam, Roar, Scary Face, Strength, Thunderbolt]
+    - bw: [Giga Impact, Hyper Beam, Roar, Scary Face, Strength, Swords Dance, Body
+          Slam, Icy Wind, Mimic, Refresh]
+    - dp: [Giga Impact, Hyper Beam, Roar, Scary Face, Strength, Swords Dance, Body
+          Slam, Icy Wind, Mimic, Refresh]
+    - rs: [Hyper Beam, Roar, Scary Face, Strength, Body Slam, Icy Wind, Mimic, Refresh]
+    - rb: [Hyper Beam, Ice Beam]
     stats:
     - [55, 81, 60, 50, 50, 97]
     - gs: [55, 81, 60, 50, 70, 97]
     tags:
     - [uu]
     - rs: [nu]
+    types:
+    - [Normal]
     weight: [18.5]
-    height: [0.7]
-evolutions:
-- {from: Rattata, to: Raticate}
-learnsets:
-  rb:
-    Rattata: [Bide, Blizzard, Body Slam, Bubblebeam, Dig, Double-Edge, Double Team,
-      Focus Energy, Hyper Fang, Mimic, Quick Attack, Rage, Rest, Skull Bash, Substitute,
-      Super Fang, Swift, Tackle, Tail Whip, Take Down, Thunder, Thunderbolt, Toxic,
-      Water Gun]
-    Raticate: [Hyper Beam, Ice Beam]
-  gs:
-    Rattata: [Attract, Bite, Blizzard, Counter, Curse, Defense Curl, Dig, Double Team,
-      Endure, Flame Wheel, Focus Energy, Frustration, Fury Swipes, Headbutt, Hidden
-        Power, Hyper Fang, Icy Wind, Iron Tail, Mud-Slap, Protect, Pursuit, Quick
-        Attack, Rest, Return, Reversal, Rock Smash, Screech, Shadow Ball, Sleep Talk,
-      Snore, Sunny Day, Super Fang, Swagger, Swift, Tackle, Tail Whip, Thief, Thunder,
-      Toxic]
-    Raticate: [Cut, Hyper Beam, Ice Beam, Roar, Scary Face, Strength, Thunderbolt]
-  rs:
-    Rattata: [Attract, Bite, Blizzard, Body Slam, Counter, Cut, Defense Curl, Dig,
-      Double-Edge, Double Team, Endeavor, Endure, Facade, Flame Wheel, Focus Energy,
-      Frustration, Fury Swipes, Hidden Power, Hyper Fang, Ice Beam, Icy Wind, Iron
-        Tail, Mimic, Mud-Slap, Protect, Pursuit, Quick Attack, Rain Dance, Rest, Return,
-      Reversal, Rock Smash, Screech, Secret Power, Shadow Ball, Shock Wave, Sleep
-        Talk, Snore, Substitute, Sunny Day, Super Fang, Swagger, Swift, Tackle, Tail
-        Whip, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Toxic, Uproar, Body
-        Slam, Icy Wind, Mimic]
-    Raticate: [Hyper Beam, Roar, Scary Face, Strength, Body Slam, Icy Wind, Mimic,
-      Refresh]
-  dp:
-    Rattata: [Assurance, Attract, Bite, Blizzard, Captivate, Charge Beam, Counter,
-      Crunch, Cut, Dig, Double-Edge, Double Team, Endeavor, Endure, Facade, Flame
-        Wheel, Focus Energy, Frustration, Fury Swipes, Grass Knot, Headbutt, Hidden
-        Power, Hyper Fang, Ice Beam, Icy Wind, Iron Tail, Last Resort, Me First, Mud-Slap,
-      Natural Gift, Pluck, Protect, Pursuit, Quick Attack, Rain Dance, Rest, Return,
-      Reversal, Rock Smash, Screech, Secret Power, Shadow Ball, Shock Wave, Sleep
-        Talk, Snore, Substitute, Sucker Punch, Sunny Day, Super Fang, Swagger, Swift,
-      Tackle, Tail Whip, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Toxic,
-      U-turn, Uproar, Zen Headbutt, Body Slam, Icy Wind, Mimic]
-    Raticate: [Giga Impact, Hyper Beam, Roar, Scary Face, Strength, Swords Dance,
-      Body Slam, Icy Wind, Mimic, Refresh]
-  bw:
-    Rattata: [Assurance, Attract, Bite, Blizzard, Charge Beam, Counter, Covet, Crunch,
-      Cut, Dig, Double-Edge, Double Team, Endeavor, Facade, Final Gambit, Flame Wheel,
-      Focus Energy, Frustration, Fury Swipes, Grass Knot, Hidden Power, Hyper Fang,
-      Ice Beam, Icy Wind, Iron Tail, Last Resort, Me First, Pluck, Protect, Pursuit,
-      Quick Attack, Rain Dance, Rest, Retaliate, Return, Revenge, Reversal, Rock Smash,
-      Round, Screech, Shadow Ball, Sleep Talk, Snore, Substitute, Sucker Punch, Sunny
-        Day, Super Fang, Swagger, Tackle, Tail Whip, Taunt, Thief, Thunder, Thunder
-        Wave, Thunderbolt, Toxic, U-turn, Uproar, Wild Charge, Work Up, Zen Headbutt,
-      Body Slam, Icy Wind, Mimic]
-    Raticate: [Giga Impact, Hyper Beam, Roar, Scary Face, Strength, Swords Dance,
-      Body Slam, Icy Wind, Mimic, Refresh]
+  Rattata:
+    abilities:
+    - [Guts, Run Away]
+    - bw: [Guts, Hustle, Run Away]
+    egggroups:
+    - [Ground]
+    evolutions: [Raticate]
+    height: [0.3]
+    introduction: rb
+    moves:
+    - gs: [Attract, Bite, Blizzard, Counter, Curse, Defense Curl, Dig, Double Team,
+        Endure, Flame Wheel, Focus Energy, Frustration, Fury Swipes, Headbutt, Hidden
+          Power, Hyper Fang, Icy Wind, Iron Tail, Mud-Slap, Protect, Pursuit, Quick
+          Attack, Rest, Return, Reversal, Rock Smash, Screech, Shadow Ball, Sleep
+          Talk, Snore, Sunny Day, Super Fang, Swagger, Swift, Tackle, Tail Whip, Thief,
+        Thunder, Toxic]
+    - bw: [Assurance, Attract, Bite, Blizzard, Charge Beam, Counter, Covet, Crunch,
+        Cut, Dig, Double-Edge, Double Team, Endeavor, Facade, Final Gambit, Flame
+          Wheel, Focus Energy, Frustration, Fury Swipes, Grass Knot, Hidden Power,
+        Hyper Fang, Ice Beam, Icy Wind, Iron Tail, Last Resort, Me First, Pluck, Protect,
+        Pursuit, Quick Attack, Rain Dance, Rest, Retaliate, Return, Revenge, Reversal,
+        Rock Smash, Round, Screech, Shadow Ball, Sleep Talk, Snore, Substitute, Sucker
+          Punch, Sunny Day, Super Fang, Swagger, Tackle, Tail Whip, Taunt, Thief,
+        Thunder, Thunder Wave, Thunderbolt, Toxic, U-turn, Uproar, Wild Charge, Work
+          Up, Zen Headbutt, Body Slam, Icy Wind, Mimic]
+    - dp: [Assurance, Attract, Bite, Blizzard, Captivate, Charge Beam, Counter, Crunch,
+        Cut, Dig, Double-Edge, Double Team, Endeavor, Endure, Facade, Flame Wheel,
+        Focus Energy, Frustration, Fury Swipes, Grass Knot, Headbutt, Hidden Power,
+        Hyper Fang, Ice Beam, Icy Wind, Iron Tail, Last Resort, Me First, Mud-Slap,
+        Natural Gift, Pluck, Protect, Pursuit, Quick Attack, Rain Dance, Rest, Return,
+        Reversal, Rock Smash, Screech, Secret Power, Shadow Ball, Shock Wave, Sleep
+          Talk, Snore, Substitute, Sucker Punch, Sunny Day, Super Fang, Swagger, Swift,
+        Tackle, Tail Whip, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Toxic,
+        U-turn, Uproar, Zen Headbutt, Body Slam, Icy Wind, Mimic]
+    - rs: [Attract, Bite, Blizzard, Body Slam, Counter, Cut, Defense Curl, Dig, Double-Edge,
+        Double Team, Endeavor, Endure, Facade, Flame Wheel, Focus Energy, Frustration,
+        Fury Swipes, Hidden Power, Hyper Fang, Ice Beam, Icy Wind, Iron Tail, Mimic,
+        Mud-Slap, Protect, Pursuit, Quick Attack, Rain Dance, Rest, Return, Reversal,
+        Rock Smash, Screech, Secret Power, Shadow Ball, Shock Wave, Sleep Talk, Snore,
+        Substitute, Sunny Day, Super Fang, Swagger, Swift, Tackle, Tail Whip, Taunt,
+        Thief, Thunder, Thunder Wave, Thunderbolt, Toxic, Uproar, Body Slam, Icy Wind,
+        Mimic]
+    - rb: [Bide, Blizzard, Body Slam, Bubblebeam, Dig, Double-Edge, Double Team, Focus
+          Energy, Hyper Fang, Mimic, Quick Attack, Rage, Rest, Skull Bash, Substitute,
+        Super Fang, Swift, Tackle, Tail Whip, Take Down, Thunder, Thunderbolt, Toxic,
+        Water Gun]
+    stats:
+    - [30, 56, 35, 25, 25, 72]
+    - gs: [30, 56, 35, 25, 35, 72]
+    tags:
+    - [nfe]
+    - dp: [lc]
+    types:
+    - [Normal]
+    weight: [3.5]

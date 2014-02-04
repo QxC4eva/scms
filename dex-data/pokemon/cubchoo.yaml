@@ -1,42 +1,41 @@
 pokemon:
-  Cubchoo:
-    introduction: bw
-    types:
-    - [Ice]
-    egggroups:
-    - [Ground]
-    abilities:
-    - [Rattled, Snow Cloak]
-    stats:
-    - [55, 70, 40, 60, 40, 40]
-    tags:
-    - [lc]
-    weight: [8.5]
-    height: [0.5]
   Beartic:
-    introduction: bw
-    types:
-    - [Ice]
-    egggroups:
-    - [Ground]
     abilities:
     - [Snow Cloak, Swift Swim]
+    egggroups:
+    - [Ground]
+    height: [2.6]
+    introduction: bw
+    moves:
+    - bw: [Aqua Jet, Brick Break, Bulk Up, Bulldoze, Dive, Focus Blast, Giga Impact,
+        Hyper Beam, Icicle Crash, Roar, Rock Slide, Stone Edge, Swords Dance, Taunt]
     stats:
     - [95, 110, 80, 70, 80, 50]
     tags:
     - [nu]
+    types:
+    - [Ice]
     weight: [260]
-    height: [2.6]
-evolutions:
-- {from: Cubchoo, to: Beartic}
-learnsets:
-  bw:
-    Cubchoo: [Aerial Ace, Assurance, Attract, Avalanche, Bide, Blizzard, Brine, Charm,
-      Covet, Cut, Dig, Double Team, Echoed Voice, Encore, Endure, Facade, Flail, Fling,
-      Focus Punch, Frost Breath, Frustration, Fury Swipes, Grass Knot, Growl, Hail,
-      Hidden Power, Hone Claws, Ice Beam, Ice Punch, Icy Wind, Low Kick, Night Slash,
-      Powder Snow, Protect, Rain Dance, Rest, Return, Rock Smash, Rock Tomb, Round,
-      Shadow Claw, Sheer Cold, Slash, Sleep Talk, Snore, Strength, Substitute, Superpower,
-      Surf, Swagger, Thrash, Toxic, Yawn]
-    Beartic: [Aqua Jet, Brick Break, Bulk Up, Bulldoze, Dive, Focus Blast, Giga Impact,
-      Hyper Beam, Icicle Crash, Roar, Rock Slide, Stone Edge, Swords Dance, Taunt]
+  Cubchoo:
+    abilities:
+    - [Rattled, Snow Cloak]
+    egggroups:
+    - [Ground]
+    evolutions: [Beartic]
+    height: [0.5]
+    introduction: bw
+    moves:
+    - bw: [Aerial Ace, Assurance, Attract, Avalanche, Bide, Blizzard, Brine, Charm,
+        Covet, Cut, Dig, Double Team, Echoed Voice, Encore, Endure, Facade, Flail,
+        Fling, Focus Punch, Frost Breath, Frustration, Fury Swipes, Grass Knot, Growl,
+        Hail, Hidden Power, Hone Claws, Ice Beam, Ice Punch, Icy Wind, Low Kick, Night
+          Slash, Powder Snow, Protect, Rain Dance, Rest, Return, Rock Smash, Rock
+          Tomb, Round, Shadow Claw, Sheer Cold, Slash, Sleep Talk, Snore, Strength,
+        Substitute, Superpower, Surf, Swagger, Thrash, Toxic, Yawn]
+    stats:
+    - [55, 70, 40, 60, 40, 40]
+    tags:
+    - [lc]
+    types:
+    - [Ice]
+    weight: [8.5]

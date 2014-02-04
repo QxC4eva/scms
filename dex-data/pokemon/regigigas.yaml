@@ -1,36 +1,33 @@
 pokemon:
   Regigigas:
-    introduction: dp
-    types:
-    - [Normal]
-    egggroups:
-    - []
     abilities:
     - [Slow Start]
+    egggroups:
+    - []
+    height: [3.7]
+    introduction: dp
+    moves:
+    - bw: [Aerial Ace, Block, Brick Break, Bulldoze, Confuse Ray, Crush Grip, Dizzy
+          Punch, Double Team, Drain Punch, Earth Power, Earthquake, Facade, Fire Punch,
+        Fling, Focus Blast, Foresight, Frustration, Giga Impact, Gravity, Heavy Slam,
+        Hidden Power, Hyper Beam, Ice Punch, Icy Wind, Iron Head, Knock Off, Payback,
+        Psych Up, Rain Dance, Retaliate, Return, Revenge, Rock Polish, Rock Slide,
+        Rock Smash, Rock Tomb, Round, Safeguard, Sleep Talk, Smack Down, Snore, Stone
+          Edge, Strength, Substitute, Sunny Day, Superpower, Swagger, Thunder, Thunder
+          Wave, Thunderbolt, Thunderpunch, Toxic, Wide Guard, Zen Headbutt]
+    - dp: [Aerial Ace, Ancientpower, Avalanche, Block, Brick Break, Confuse Ray, Crush
+          Grip, Dizzy Punch, Double Team, Drain Punch, Earth Power, Earthquake, Endure,
+        Facade, Fire Punch, Fling, Focus Blast, Focus Punch, Foresight, Frustration,
+        Giga Impact, Gravity, Headbutt, Hidden Power, Hyper Beam, Ice Punch, Icy Wind,
+        Iron Head, Knock Off, Mega Punch, Mud-Slap, Natural Gift, Psych Up, Rain Dance,
+        Return, Revenge, Rock Climb, Rock Polish, Rock Slide, Rock Smash, Rock Tomb,
+        Safeguard, Secret Power, Shock Wave, Sleep Talk, Snore, Stomp, Stone Edge,
+        Strength, Substitute, Sunny Day, Superpower, Swagger, Thunder, Thunder Wave,
+        Thunderbolt, Thunderpunch, Toxic, Zen Headbutt]
     stats:
     - [110, 160, 110, 80, 110, 100]
     tags:
     - [nu]
+    types:
+    - [Normal]
     weight: [420]
-    height: [3.7]
-evolutions: []
-learnsets:
-  dp:
-    Regigigas: [Aerial Ace, Ancientpower, Avalanche, Block, Brick Break, Confuse Ray,
-      Crush Grip, Dizzy Punch, Double Team, Drain Punch, Earth Power, Earthquake,
-      Endure, Facade, Fire Punch, Fling, Focus Blast, Focus Punch, Foresight, Frustration,
-      Giga Impact, Gravity, Headbutt, Hidden Power, Hyper Beam, Ice Punch, Icy Wind,
-      Iron Head, Knock Off, Mega Punch, Mud-Slap, Natural Gift, Psych Up, Rain Dance,
-      Return, Revenge, Rock Climb, Rock Polish, Rock Slide, Rock Smash, Rock Tomb,
-      Safeguard, Secret Power, Shock Wave, Sleep Talk, Snore, Stomp, Stone Edge, Strength,
-      Substitute, Sunny Day, Superpower, Swagger, Thunder, Thunder Wave, Thunderbolt,
-      Thunderpunch, Toxic, Zen Headbutt]
-  bw:
-    Regigigas: [Aerial Ace, Block, Brick Break, Bulldoze, Confuse Ray, Crush Grip,
-      Dizzy Punch, Double Team, Drain Punch, Earth Power, Earthquake, Facade, Fire
-        Punch, Fling, Focus Blast, Foresight, Frustration, Giga Impact, Gravity, Heavy
-        Slam, Hidden Power, Hyper Beam, Ice Punch, Icy Wind, Iron Head, Knock Off,
-      Payback, Psych Up, Rain Dance, Retaliate, Return, Revenge, Rock Polish, Rock
-        Slide, Rock Smash, Rock Tomb, Round, Safeguard, Sleep Talk, Smack Down, Snore,
-      Stone Edge, Strength, Substitute, Sunny Day, Superpower, Swagger, Thunder, Thunder
-        Wave, Thunderbolt, Thunderpunch, Toxic, Wide Guard, Zen Headbutt]

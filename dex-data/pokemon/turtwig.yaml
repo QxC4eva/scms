@@ -1,73 +1,70 @@
 pokemon:
-  Turtwig:
-    introduction: dp
-    types:
-    - [Grass]
-    egggroups:
-    - [Monster, Plant]
-    abilities:
-    - [Overgrow, Shell Armor]
-    stats:
-    - [55, 68, 64, 45, 55, 31]
-    tags:
-    - [lc]
-    weight: [10.2]
-    height: [0.4]
   Grotle:
-    introduction: dp
-    types:
-    - [Grass]
-    egggroups:
-    - [Monster, Plant]
     abilities:
     - [Overgrow, Shell Armor]
+    egggroups:
+    - [Monster, Plant]
+    evolutions: [Torterra]
+    height: [1.1]
+    introduction: dp
     stats:
     - [75, 89, 85, 55, 65, 36]
     tags:
     - [nfe]
-    weight: [97]
-    height: [1.1]
-  Torterra:
-    introduction: dp
     types:
-    - [Grass, Ground]
-    egggroups:
-    - [Monster, Plant]
+    - [Grass]
+    weight: [97]
+  Torterra:
     abilities:
     - [Overgrow, Shell Armor]
+    egggroups:
+    - [Monster, Plant]
+    height: [2.2]
+    introduction: dp
+    moves:
+    - bw: [Block, Bulldoze, Earthquake, Frenzy Plant, Giga Impact, Hyper Beam, Iron
+          Head, Outrage, Roar, Rock Polish, Rock Slide, Rock Tomb, Sandstorm, Stone
+          Edge, Wood Hammer]
+    - dp: [Block, Earthquake, Frenzy Plant, Giga Impact, Hyper Beam, Iron Head, Outrage,
+        Roar, Rock Polish, Rock Slide, Rock Tomb, Sandstorm, Stone Edge, Wood Hammer]
     stats:
     - [95, 109, 105, 75, 85, 56]
     tags:
     - [uu]
     - bw: [nu]
+    types:
+    - [Grass, Ground]
     weight: [310]
-    height: [2.2]
-evolutions:
-- {from: Turtwig, to: Grotle}
-- {from: Grotle, to: Torterra}
-learnsets:
-  dp:
-    Turtwig: [Absorb, Amnesia, Attract, Bite, Body Slam, Bullet Seed, Captivate, Crunch,
-      Curse, Cut, Double-Edge, Double Team, Earth Power, Endure, Energy Ball, Facade,
-      Flash, Frustration, Giga Drain, Grass Knot, Growth, Headbutt, Hidden Power,
-      Iron Tail, Leaf Storm, Leech Seed, Light Screen, Mega Drain, Mud-Slap, Natural
-        Gift, Protect, Razor Leaf, Reflect, Rest, Return, Rock Climb, Rock Smash,
-      Safeguard, Sand Tomb, Secret Power, Seed Bomb, Sleep Talk, Snore, Solarbeam,
-      Spit Up, Stealth Rock, Stockpile, Strength, Substitute, Sunny Day, Superpower,
-      Swagger, Swallow, Swords Dance, Synthesis, Tackle, Thrash, Tickle, Toxic, Withdraw,
-      Worry Seed]
-    Torterra: [Block, Earthquake, Frenzy Plant, Giga Impact, Hyper Beam, Iron Head,
-      Outrage, Roar, Rock Polish, Rock Slide, Rock Tomb, Sandstorm, Stone Edge, Wood
-        Hammer]
-  bw:
-    Turtwig: [Absorb, Amnesia, Attract, Bite, Body Slam, Crunch, Curse, Cut, Double-Edge,
-      Double Team, Earth Power, Energy Ball, Facade, Flash, Frustration, Giga Drain,
-      Grass Knot, Grass Pledge, Growth, Hidden Power, Iron Tail, Leaf Storm, Leech
-        Seed, Light Screen, Mega Drain, Protect, Razor Leaf, Reflect, Rest, Return,
-      Rock Smash, Round, Safeguard, Sand Tomb, Seed Bomb, Sleep Talk, Snore, Solarbeam,
-      Spit Up, Stealth Rock, Stockpile, Strength, Substitute, Sunny Day, Superpower,
-      Swagger, Swallow, Swords Dance, Synthesis, Tackle, Thrash, Tickle, Toxic, Wide
-        Guard, Withdraw, Worry Seed]
-    Torterra: [Block, Bulldoze, Earthquake, Frenzy Plant, Giga Impact, Hyper Beam,
-      Iron Head, Outrage, Roar, Rock Polish, Rock Slide, Rock Tomb, Sandstorm, Stone
-        Edge, Wood Hammer]
+  Turtwig:
+    abilities:
+    - [Overgrow, Shell Armor]
+    egggroups:
+    - [Monster, Plant]
+    evolutions: [Grotle]
+    height: [0.4]
+    introduction: dp
+    moves:
+    - bw: [Absorb, Amnesia, Attract, Bite, Body Slam, Crunch, Curse, Cut, Double-Edge,
+        Double Team, Earth Power, Energy Ball, Facade, Flash, Frustration, Giga Drain,
+        Grass Knot, Grass Pledge, Growth, Hidden Power, Iron Tail, Leaf Storm, Leech
+          Seed, Light Screen, Mega Drain, Protect, Razor Leaf, Reflect, Rest, Return,
+        Rock Smash, Round, Safeguard, Sand Tomb, Seed Bomb, Sleep Talk, Snore, Solarbeam,
+        Spit Up, Stealth Rock, Stockpile, Strength, Substitute, Sunny Day, Superpower,
+        Swagger, Swallow, Swords Dance, Synthesis, Tackle, Thrash, Tickle, Toxic,
+        Wide Guard, Withdraw, Worry Seed]
+    - dp: [Absorb, Amnesia, Attract, Bite, Body Slam, Bullet Seed, Captivate, Crunch,
+        Curse, Cut, Double-Edge, Double Team, Earth Power, Endure, Energy Ball, Facade,
+        Flash, Frustration, Giga Drain, Grass Knot, Growth, Headbutt, Hidden Power,
+        Iron Tail, Leaf Storm, Leech Seed, Light Screen, Mega Drain, Mud-Slap, Natural
+          Gift, Protect, Razor Leaf, Reflect, Rest, Return, Rock Climb, Rock Smash,
+        Safeguard, Sand Tomb, Secret Power, Seed Bomb, Sleep Talk, Snore, Solarbeam,
+        Spit Up, Stealth Rock, Stockpile, Strength, Substitute, Sunny Day, Superpower,
+        Swagger, Swallow, Swords Dance, Synthesis, Tackle, Thrash, Tickle, Toxic,
+        Withdraw, Worry Seed]
+    stats:
+    - [55, 68, 64, 45, 55, 31]
+    tags:
+    - [lc]
+    types:
+    - [Grass]
+    weight: [10.2]

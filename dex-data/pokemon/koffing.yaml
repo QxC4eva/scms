@@ -1,30 +1,67 @@
 pokemon:
   Koffing:
-    introduction: rb
-    types:
-    - [Poison]
-    egggroups:
-    - [Indeterminate]
     abilities:
     - [Levitate]
     - bw: [Levitate]
+    egggroups:
+    - [Indeterminate]
+    evolutions: [Weezing]
+    height: [0.6]
+    introduction: rb
+    moves:
+    - gs: [Attract, Curse, Destiny Bond, Double Team, Endure, Explosion, Fire Blast,
+        Flamethrower, Frustration, Haze, Hidden Power, Pain Split, Poison Gas, Protect,
+        Psybeam, Psywave, Rest, Return, Rollout, Screech, Selfdestruct, Sleep Talk,
+        Sludge, Sludge Bomb, Smog, Smokescreen, Snore, Sunny Day, Swagger, Tackle,
+        Thief, Thunder, Thunderbolt, Toxic, Zap Cannon]
+    - bw: [Assurance, Attract, Clear Smog, Curse, Dark Pulse, Destiny Bond, Double
+          Team, Explosion, Facade, Fire Blast, Flamethrower, Flash, Frustration, Grudge,
+        Gyro Ball, Haze, Hidden Power, Incinerate, Memento, Pain Split, Payback, Poison
+          Gas, Protect, Psybeam, Psywave, Rain Dance, Rest, Return, Round, Screech,
+        Selfdestruct, Shadow Ball, Sleep Talk, Sludge, Sludge Bomb, Smog, Smokescreen,
+        Snore, Spit Up, Spite, Stockpile, Substitute, Sunny Day, Swagger, Swallow,
+        Tackle, Taunt, Thief, Thunder, Thunderbolt, Torment, Toxic, Uproar, Venoshock,
+        Will-O-Wisp, Mimic]
+    - dp: [Assurance, Attract, Captivate, Curse, Dark Pulse, Destiny Bond, Double
+          Team, Endure, Explosion, Facade, Fire Blast, Flamethrower, Flash, Frustration,
+        Grudge, Gyro Ball, Haze, Hidden Power, Memento, Natural Gift, Pain Split,
+        Payback, Poison Gas, Protect, Psybeam, Psywave, Rain Dance, Rest, Return,
+        Rollout, Screech, Secret Power, Selfdestruct, Shadow Ball, Shock Wave, Sleep
+          Talk, Sludge, Sludge Bomb, Smog, Smokescreen, Snore, Spite, Substitute,
+        Sunny Day, Swagger, Tackle, Taunt, Thief, Thunder, Thunderbolt, Torment, Toxic,
+        Uproar, Will-O-Wisp, Mimic]
+    - rs: [Attract, Destiny Bond, Double Team, Endure, Explosion, Facade, Fire Blast,
+        Flamethrower, Flash, Frustration, Haze, Hidden Power, Memento, Mimic, Pain
+          Split, Poison Gas, Protect, Psybeam, Psywave, Rain Dance, Rest, Return,
+        Rollout, Screech, Secret Power, Selfdestruct, Shadow Ball, Shock Wave, Sleep
+          Talk, Sludge, Sludge Bomb, Smog, Smokescreen, Snore, Substitute, Sunny Day,
+        Swagger, Tackle, Taunt, Thief, Thunder, Thunderbolt, Torment, Toxic, Will-O-Wisp,
+        Mimic]
+    - rb: [Bide, Double Team, Explosion, Fire Blast, Haze, Mimic, Rage, Rest, Selfdestruct,
+        Sludge, Smog, Smokescreen, Substitute, Tackle, Thunder, Thunderbolt, Toxic]
     stats:
     - [40, 65, 95, 60, 60, 35]
     - gs: [40, 65, 95, 60, 45, 35]
     tags:
     - [nfe]
     - dp: [lc]
-    weight: [1]
-    height: [0.6]
-  Weezing:
-    introduction: rb
     types:
     - [Poison]
-    egggroups:
-    - [Indeterminate]
+    weight: [1]
+  Weezing:
     abilities:
     - [Levitate]
     - bw: [Levitate]
+    egggroups:
+    - [Indeterminate]
+    height: [1.2]
+    introduction: rb
+    moves:
+    - gs: [Hyper Beam]
+    - bw: [Double Hit, Giga Impact, Hyper Beam, Mimic]
+    - dp: [Double Hit, Giga Impact, Hyper Beam, Mimic]
+    - rs: [Hyper Beam, Mimic]
+    - rb: [Hyper Beam]
     stats:
     - [65, 90, 120, 85, 85, 60]
     - gs: [65, 90, 120, 85, 70, 60]
@@ -33,47 +70,6 @@ pokemon:
     - bw: [nu]
       dp: [uu]
       rs: [bl]
+    types:
+    - [Poison]
     weight: [9.5]
-    height: [1.2]
-evolutions:
-- {from: Koffing, to: Weezing}
-learnsets:
-  rb:
-    Koffing: [Bide, Double Team, Explosion, Fire Blast, Haze, Mimic, Rage, Rest, Selfdestruct,
-      Sludge, Smog, Smokescreen, Substitute, Tackle, Thunder, Thunderbolt, Toxic]
-    Weezing: [Hyper Beam]
-  gs:
-    Koffing: [Attract, Curse, Destiny Bond, Double Team, Endure, Explosion, Fire Blast,
-      Flamethrower, Frustration, Haze, Hidden Power, Pain Split, Poison Gas, Protect,
-      Psybeam, Psywave, Rest, Return, Rollout, Screech, Selfdestruct, Sleep Talk,
-      Sludge, Sludge Bomb, Smog, Smokescreen, Snore, Sunny Day, Swagger, Tackle, Thief,
-      Thunder, Thunderbolt, Toxic, Zap Cannon]
-    Weezing: [Hyper Beam]
-  rs:
-    Koffing: [Attract, Destiny Bond, Double Team, Endure, Explosion, Facade, Fire
-        Blast, Flamethrower, Flash, Frustration, Haze, Hidden Power, Memento, Mimic,
-      Pain Split, Poison Gas, Protect, Psybeam, Psywave, Rain Dance, Rest, Return,
-      Rollout, Screech, Secret Power, Selfdestruct, Shadow Ball, Shock Wave, Sleep
-        Talk, Sludge, Sludge Bomb, Smog, Smokescreen, Snore, Substitute, Sunny Day,
-      Swagger, Tackle, Taunt, Thief, Thunder, Thunderbolt, Torment, Toxic, Will-O-Wisp,
-      Mimic]
-    Weezing: [Hyper Beam, Mimic]
-  dp:
-    Koffing: [Assurance, Attract, Captivate, Curse, Dark Pulse, Destiny Bond, Double
-        Team, Endure, Explosion, Facade, Fire Blast, Flamethrower, Flash, Frustration,
-      Grudge, Gyro Ball, Haze, Hidden Power, Memento, Natural Gift, Pain Split, Payback,
-      Poison Gas, Protect, Psybeam, Psywave, Rain Dance, Rest, Return, Rollout, Screech,
-      Secret Power, Selfdestruct, Shadow Ball, Shock Wave, Sleep Talk, Sludge, Sludge
-        Bomb, Smog, Smokescreen, Snore, Spite, Substitute, Sunny Day, Swagger, Tackle,
-      Taunt, Thief, Thunder, Thunderbolt, Torment, Toxic, Uproar, Will-O-Wisp, Mimic]
-    Weezing: [Double Hit, Giga Impact, Hyper Beam, Mimic]
-  bw:
-    Koffing: [Assurance, Attract, Clear Smog, Curse, Dark Pulse, Destiny Bond, Double
-        Team, Explosion, Facade, Fire Blast, Flamethrower, Flash, Frustration, Grudge,
-      Gyro Ball, Haze, Hidden Power, Incinerate, Memento, Pain Split, Payback, Poison
-        Gas, Protect, Psybeam, Psywave, Rain Dance, Rest, Return, Round, Screech,
-      Selfdestruct, Shadow Ball, Sleep Talk, Sludge, Sludge Bomb, Smog, Smokescreen,
-      Snore, Spit Up, Spite, Stockpile, Substitute, Sunny Day, Swagger, Swallow, Tackle,
-      Taunt, Thief, Thunder, Thunderbolt, Torment, Toxic, Uproar, Venoshock, Will-O-Wisp,
-      Mimic]
-    Weezing: [Double Hit, Giga Impact, Hyper Beam, Mimic]

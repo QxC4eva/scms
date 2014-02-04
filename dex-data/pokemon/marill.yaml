@@ -1,98 +1,97 @@
 pokemon:
-  Azurill:
-    introduction: rs
-    types:
-    - [Normal]
-    - xy: [Normal, Fairy]
-    egggroups:
-    - []
-    abilities:
-    - [Huge Power, Thick Fat]
-    - bw: [Huge Power, Sap Sipper, Thick Fat]
-    stats:
-    - [50, 20, 40, 20, 40, 20]
-    tags:
-    - [nfe]
-    - dp: [lc]
-    weight: [2]
-    height: [0.2]
-  Marill:
-    introduction: gs
-    types:
-    - [Water]
-    - xy: [Water, Fairy]
-    egggroups:
-    - [Fairy, Water 1]
-    abilities:
-    - [Huge Power, Thick Fat]
-    - bw: [Huge Power, Sap Sipper, Thick Fat]
-    stats:
-    - [70, 20, 50, 20, 50, 40]
-    tags:
-    - [nfe]
-    weight: [8.5]
-    height: [0.4]
   Azumarill:
-    introduction: gs
-    types:
-    - [Water]
-    - xy: [Water, Fairy]
-    egggroups:
-    - [Fairy, Water 1]
     abilities:
     - [Huge Power, Thick Fat]
     - bw: [Huge Power, Sap Sipper, Thick Fat]
+    egggroups:
+    - [Fairy, Water 1]
+    height: [0.8]
+    introduction: gs
+    moves:
+    - gs: [Hyper Beam, Rock Smash, Strength]
+    - bw: [Bulldoze, Focus Blast, Giga Impact, Hyper Beam]
+    - dp: [Focus Blast, Giga Impact, Hyper Beam]
+    - rs: [Hyper Beam]
     stats:
     - [100, 50, 80, 50, 80, 50]
     - xy: [100, 50, 80, 60, 80, 50]
     tags:
     - [uu]
+    types:
+    - [Water]
+    - xy: [Water, Fairy]
     weight: [28.5]
-    height: [0.8]
-evolutions:
-- {from: Azurill, to: Marill}
-- {from: Marill, to: Azumarill}
-learnsets:
-  gs:
-    Marill: [Amnesia, Attract, Belly Drum, Blizzard, Bubblebeam, Curse, Defense Curl,
-      Double-Edge, Double Team, Dynamicpunch, Endure, Foresight, Frustration, Future
-        Sight, Headbutt, Hidden Power, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Light
-        Screen, Mud-Slap, Perish Song, Present, Protect, Rain Dance, Rest, Return,
-      Rollout, Sleep Talk, Snore, Supersonic, Surf, Swagger, Swift, Tackle, Tail Whip,
-      Toxic, Water Gun, Waterfall, Whirlpool]
-    Azumarill: [Hyper Beam, Rock Smash, Strength]
-  rs:
-    Azurill: [Attract, Blizzard, Body Slam, Bubble, Charm, Defense Curl, Double-Edge,
-      Double Team, Encore, Endure, Facade, Frustration, Hail, Hidden Power, Ice Beam,
-      Icy Wind, Iron Tail, Mimic, Mud-Slap, Protect, Rain Dance, Refresh, Rest, Return,
-      Rollout, Secret Power, Sing, Slam, Sleep Talk, Snore, Splash, Substitute, Surf,
-      Swagger, Swift, Tail Whip, Tickle, Toxic, Water Gun, Water Pulse, Waterfall]
-    Marill: [Amnesia, Belly Drum, Brick Break, Bubblebeam, Dig, Dive, Dynamicpunch,
-      Focus Punch, Future Sight, Hydro Pump, Ice Punch, Light Screen, Mega Kick, Mega
-        Punch, Perish Song, Present, Rock Smash, Seismic Toss, Strength, Supersonic,
-      Tackle]
-    Azumarill: [Hyper Beam]
-  dp:
-    Azurill: [Attract, Blizzard, Body Slam, Bubble, Captivate, Charm, Double Team,
-      Encore, Endure, Facade, Fake Tears, Frustration, Hail, Headbutt, Helping Hand,
-      Hidden Power, Ice Beam, Icy Wind, Iron Tail, Knock Off, Mud-Slap, Natural Gift,
-      Protect, Rain Dance, Refresh, Rest, Return, Rollout, Secret Power, Sing, Slam,
-      Sleep Talk, Snore, Splash, Substitute, Surf, Swagger, Swift, Tail Whip, Tickle,
-      Toxic, Uproar, Water Gun, Water Pulse, Waterfall, Whirlpool]
-    Marill: [Amnesia, Aqua Jet, Aqua Ring, Aqua Tail, Belly Drum, Brick Break, Bubblebeam,
-      Defense Curl, Dig, Dive, Double-Edge, Fling, Focus Punch, Future Sight, Grass
-        Knot, Hydro Pump, Ice Punch, Light Screen, Perish Song, Present, Rock Smash,
-      Strength, Superpower, Supersonic, Tackle]
-    Azumarill: [Focus Blast, Giga Impact, Hyper Beam]
-  bw:
-    Azurill: [Attract, Blizzard, Body Slam, Bounce, Bubble, Bubblebeam, Charm, Covet,
-      Double Team, Encore, Facade, Fake Tears, Frustration, Hail, Helping Hand, Hidden
-        Power, Hyper Voice, Ice Beam, Icy Wind, Iron Tail, Knock Off, Light Screen,
-      Muddy Water, Protect, Rain Dance, Refresh, Rest, Return, Round, Scald, Sing,
-      Slam, Sleep Talk, Snore, Soak, Splash, Substitute, Surf, Swagger, Tail Whip,
-      Tickle, Toxic, Uproar, Water Gun, Water Sport, Waterfall, Work Up]
-    Marill: [Amnesia, Aqua Jet, Aqua Ring, Aqua Tail, Belly Drum, Brick Break, Defense
-        Curl, Dig, Dive, Double-Edge, Fling, Future Sight, Grass Knot, Hydro Pump,
-      Ice Punch, Perish Song, Present, Rock Smash, Rollout, Strength, Superpower,
-      Supersonic, Tackle]
-    Azumarill: [Bulldoze, Focus Blast, Giga Impact, Hyper Beam]
+  Azurill:
+    abilities:
+    - [Huge Power, Thick Fat]
+    - bw: [Huge Power, Sap Sipper, Thick Fat]
+    egggroups:
+    - []
+    evolutions: [Marill]
+    height: [0.2]
+    introduction: rs
+    moves:
+    - bw: [Attract, Blizzard, Body Slam, Bounce, Bubble, Bubblebeam, Charm, Covet,
+        Double Team, Encore, Facade, Fake Tears, Frustration, Hail, Helping Hand,
+        Hidden Power, Hyper Voice, Ice Beam, Icy Wind, Iron Tail, Knock Off, Light
+          Screen, Muddy Water, Protect, Rain Dance, Refresh, Rest, Return, Round,
+        Scald, Sing, Slam, Sleep Talk, Snore, Soak, Splash, Substitute, Surf, Swagger,
+        Tail Whip, Tickle, Toxic, Uproar, Water Gun, Water Sport, Waterfall, Work
+          Up]
+    - dp: [Attract, Blizzard, Body Slam, Bubble, Captivate, Charm, Double Team, Encore,
+        Endure, Facade, Fake Tears, Frustration, Hail, Headbutt, Helping Hand, Hidden
+          Power, Ice Beam, Icy Wind, Iron Tail, Knock Off, Mud-Slap, Natural Gift,
+        Protect, Rain Dance, Refresh, Rest, Return, Rollout, Secret Power, Sing, Slam,
+        Sleep Talk, Snore, Splash, Substitute, Surf, Swagger, Swift, Tail Whip, Tickle,
+        Toxic, Uproar, Water Gun, Water Pulse, Waterfall, Whirlpool]
+    - rs: [Attract, Blizzard, Body Slam, Bubble, Charm, Defense Curl, Double-Edge,
+        Double Team, Encore, Endure, Facade, Frustration, Hail, Hidden Power, Ice
+          Beam, Icy Wind, Iron Tail, Mimic, Mud-Slap, Protect, Rain Dance, Refresh,
+        Rest, Return, Rollout, Secret Power, Sing, Slam, Sleep Talk, Snore, Splash,
+        Substitute, Surf, Swagger, Swift, Tail Whip, Tickle, Toxic, Water Gun, Water
+          Pulse, Waterfall]
+    stats:
+    - [50, 20, 40, 20, 40, 20]
+    tags:
+    - [nfe]
+    - dp: [lc]
+    types:
+    - [Normal]
+    - xy: [Normal, Fairy]
+    weight: [2]
+  Marill:
+    abilities:
+    - [Huge Power, Thick Fat]
+    - bw: [Huge Power, Sap Sipper, Thick Fat]
+    egggroups:
+    - [Fairy, Water 1]
+    evolutions: [Azumarill]
+    height: [0.4]
+    introduction: gs
+    moves:
+    - gs: [Amnesia, Attract, Belly Drum, Blizzard, Bubblebeam, Curse, Defense Curl,
+        Double-Edge, Double Team, Dynamicpunch, Endure, Foresight, Frustration, Future
+          Sight, Headbutt, Hidden Power, Ice Beam, Ice Punch, Icy Wind, Iron Tail,
+        Light Screen, Mud-Slap, Perish Song, Present, Protect, Rain Dance, Rest, Return,
+        Rollout, Sleep Talk, Snore, Supersonic, Surf, Swagger, Swift, Tackle, Tail
+          Whip, Toxic, Water Gun, Waterfall, Whirlpool]
+    - bw: [Amnesia, Aqua Jet, Aqua Ring, Aqua Tail, Belly Drum, Brick Break, Defense
+          Curl, Dig, Dive, Double-Edge, Fling, Future Sight, Grass Knot, Hydro Pump,
+        Ice Punch, Perish Song, Present, Rock Smash, Rollout, Strength, Superpower,
+        Supersonic, Tackle]
+    - dp: [Amnesia, Aqua Jet, Aqua Ring, Aqua Tail, Belly Drum, Brick Break, Bubblebeam,
+        Defense Curl, Dig, Dive, Double-Edge, Fling, Focus Punch, Future Sight, Grass
+          Knot, Hydro Pump, Ice Punch, Light Screen, Perish Song, Present, Rock Smash,
+        Strength, Superpower, Supersonic, Tackle]
+    - rs: [Amnesia, Belly Drum, Brick Break, Bubblebeam, Dig, Dive, Dynamicpunch,
+        Focus Punch, Future Sight, Hydro Pump, Ice Punch, Light Screen, Mega Kick,
+        Mega Punch, Perish Song, Present, Rock Smash, Seismic Toss, Strength, Supersonic,
+        Tackle]
+    stats:
+    - [70, 20, 50, 20, 50, 40]
+    tags:
+    - [nfe]
+    types:
+    - [Water]
+    - xy: [Water, Fairy]
+    weight: [8.5]

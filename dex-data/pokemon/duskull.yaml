@@ -1,99 +1,98 @@
 pokemon:
-  Duskull:
-    introduction: rs
-    types:
-    - [Ghost]
-    egggroups:
-    - [Indeterminate]
-    abilities:
-    - [Levitate]
-    - bw: [Levitate]
-      xy: [Levitate, Frisk]
-    stats:
-    - [20, 40, 90, 30, 90, 25]
-    tags:
-    - [nfe]
-    - dp: [lc]
-    weight: [15]
-    height: [0.8]
   Dusclops:
-    introduction: rs
-    types:
-    - [Ghost]
-    egggroups:
-    - [Indeterminate]
     abilities:
     - [Pressure]
     - bw: [Pressure]
       xy: [Pressure, Frisk]
+    egggroups:
+    - [Indeterminate]
+    evolutions: [Dusknoir]
+    height: [1.6]
+    introduction: rs
+    moves:
+    - bw: [Bind, Brick Break, Bulldoze, Earthquake, Fire Punch, Giga Impact, Hyper
+          Beam, Ice Punch, Rock Slide, Rock Smash, Rock Tomb, Shadow Punch, Strength,
+        Thunderpunch, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic
+          Toss]
+    - dp: [Bind, Brick Break, Earthquake, Fire Punch, Focus Punch, Giga Impact, Hyper
+          Beam, Ice Punch, Mud-Slap, Rock Slide, Rock Smash, Rock Tomb, Shadow Punch,
+        Strength, Thunderpunch, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare,
+        Seismic Toss]
+    - rs: [Bind, Counter, Dynamicpunch, Earthquake, Fire Punch, Focus Punch, Hyper
+          Beam, Ice Punch, Mega Kick, Mega Punch, Metronome, Mud-Slap, Rock Slide,
+        Rock Smash, Rock Tomb, Seismic Toss, Shadow Punch, Strength, Thunderpunch,
+        Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss]
     stats:
     - [40, 70, 130, 60, 130, 25]
     tags:
     - [bl]
     - bw: [uu]
       dp: [nu]
-    weight: [30.6]
-    height: [1.6]
-  Dusknoir:
-    introduction: dp
     types:
     - [Ghost]
-    egggroups:
-    - [Indeterminate]
+    weight: [30.6]
+  Dusknoir:
     abilities:
     - [Pressure]
     - xy: [Pressure, Frisk]
+    egggroups:
+    - [Indeterminate]
+    height: [2.2]
+    introduction: dp
+    moves:
+    - bw: [Focus Blast]
+    - dp: [Focus Blast]
     stats:
     - [45, 100, 135, 65, 135, 45]
     tags:
     - [ou]
     - bw: [ru]
+    types:
+    - [Ghost]
     weight: [106.6]
-    height: [2.2]
-evolutions:
-- {from: Duskull, to: Dusclops}
-- {from: Dusclops, to: Dusknoir}
-learnsets:
-  rs:
-    Duskull: [Astonish, Attract, Blizzard, Body Slam, Calm Mind, Confuse Ray, Curse,
-      Destiny Bond, Disable, Double-Edge, Double Team, Dream Eater, Endure, Facade,
-      Faint Attack, Flash, Foresight, Frustration, Future Sight, Grudge, Hidden Power,
-      Ice Beam, Icy Wind, Imprison, Leer, Mean Look, Memento, Mimic, Night Shade,
-      Nightmare, Pain Split, Protect, Psych Up, Psychic, Pursuit, Rain Dance, Rest,
-      Return, Secret Power, Shadow Ball, Skill Swap, Sleep Talk, Snatch, Snore, Substitute,
-      Sunny Day, Swagger, Taunt, Thief, Torment, Toxic, Will-O-Wisp, Body Slam, Double-Edge,
-      Helping Hand, Icy Wind, Mimic, Nightmare]
-    Dusclops: [Bind, Counter, Dynamicpunch, Earthquake, Fire Punch, Focus Punch, Hyper
-        Beam, Ice Punch, Mega Kick, Mega Punch, Metronome, Mud-Slap, Rock Slide, Rock
-        Smash, Rock Tomb, Seismic Toss, Shadow Punch, Strength, Thunderpunch, Body
-        Slam, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss]
-  dp:
-    Duskull: [Astonish, Attract, Blizzard, Calm Mind, Captivate, Charge Beam, Confuse
-        Ray, Curse, Dark Pulse, Destiny Bond, Disable, Double Team, Dream Eater, Embargo,
-      Endure, Facade, Faint Attack, Flash, Fling, Foresight, Frustration, Future Sight,
-      Gravity, Grudge, Headbutt, Hidden Power, Ice Beam, Icy Wind, Imprison, Leer,
-      Mean Look, Memento, Natural Gift, Night Shade, Ominous Wind, Pain Split, Payback,
-      Protect, Psych Up, Psychic, Pursuit, Rain Dance, Rest, Return, Secret Power,
-      Shadow Ball, Shadow Sneak, Skill Swap, Sleep Talk, Snatch, Snore, Spite, Substitute,
-      Sucker Punch, Sunny Day, Swagger, Taunt, Thief, Torment, Toxic, Trick, Trick
-        Room, Will-O-Wisp, Body Slam, Double-Edge, Helping Hand, Icy Wind, Mimic,
-      Nightmare]
-    Dusclops: [Bind, Brick Break, Earthquake, Fire Punch, Focus Punch, Giga Impact,
-      Hyper Beam, Ice Punch, Mud-Slap, Rock Slide, Rock Smash, Rock Tomb, Shadow Punch,
-      Strength, Thunderpunch, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare,
-      Seismic Toss]
-    Dusknoir: [Focus Blast]
-  bw:
-    Duskull: [Astonish, Attract, Blizzard, Calm Mind, Charge Beam, Confuse Ray, Curse,
-      Dark Pulse, Destiny Bond, Disable, Double Team, Dream Eater, Embargo, Facade,
-      Faint Attack, Flash, Fling, Foresight, Frustration, Future Sight, Gravity, Grudge,
-      Hex, Hidden Power, Ice Beam, Icy Wind, Imprison, Leer, Mean Look, Memento, Night
-        Shade, Ominous Wind, Pain Split, Payback, Protect, Psych Up, Psychic, Pursuit,
-      Rain Dance, Rest, Return, Round, Shadow Ball, Shadow Sneak, Skill Swap, Sleep
-        Talk, Snatch, Snore, Spite, Substitute, Sunny Day, Swagger, Taunt, Telekinesis,
-      Thief, Torment, Toxic, Trick, Trick Room, Will-O-Wisp, Wonder Room, Body Slam,
-      Double-Edge, Helping Hand, Icy Wind, Mimic, Nightmare]
-    Dusclops: [Bind, Brick Break, Bulldoze, Earthquake, Fire Punch, Giga Impact, Hyper
-        Beam, Ice Punch, Rock Slide, Rock Smash, Rock Tomb, Shadow Punch, Strength,
-      Thunderpunch, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss]
-    Dusknoir: [Focus Blast]
+  Duskull:
+    abilities:
+    - [Levitate]
+    - bw: [Levitate]
+      xy: [Levitate, Frisk]
+    egggroups:
+    - [Indeterminate]
+    evolutions: [Dusclops]
+    height: [0.8]
+    introduction: rs
+    moves:
+    - bw: [Astonish, Attract, Blizzard, Calm Mind, Charge Beam, Confuse Ray, Curse,
+        Dark Pulse, Destiny Bond, Disable, Double Team, Dream Eater, Embargo, Facade,
+        Faint Attack, Flash, Fling, Foresight, Frustration, Future Sight, Gravity,
+        Grudge, Hex, Hidden Power, Ice Beam, Icy Wind, Imprison, Leer, Mean Look,
+        Memento, Night Shade, Ominous Wind, Pain Split, Payback, Protect, Psych Up,
+        Psychic, Pursuit, Rain Dance, Rest, Return, Round, Shadow Ball, Shadow Sneak,
+        Skill Swap, Sleep Talk, Snatch, Snore, Spite, Substitute, Sunny Day, Swagger,
+        Taunt, Telekinesis, Thief, Torment, Toxic, Trick, Trick Room, Will-O-Wisp,
+        Wonder Room, Body Slam, Double-Edge, Helping Hand, Icy Wind, Mimic, Nightmare]
+    - dp: [Astonish, Attract, Blizzard, Calm Mind, Captivate, Charge Beam, Confuse
+          Ray, Curse, Dark Pulse, Destiny Bond, Disable, Double Team, Dream Eater,
+        Embargo, Endure, Facade, Faint Attack, Flash, Fling, Foresight, Frustration,
+        Future Sight, Gravity, Grudge, Headbutt, Hidden Power, Ice Beam, Icy Wind,
+        Imprison, Leer, Mean Look, Memento, Natural Gift, Night Shade, Ominous Wind,
+        Pain Split, Payback, Protect, Psych Up, Psychic, Pursuit, Rain Dance, Rest,
+        Return, Secret Power, Shadow Ball, Shadow Sneak, Skill Swap, Sleep Talk, Snatch,
+        Snore, Spite, Substitute, Sucker Punch, Sunny Day, Swagger, Taunt, Thief,
+        Torment, Toxic, Trick, Trick Room, Will-O-Wisp, Body Slam, Double-Edge, Helping
+          Hand, Icy Wind, Mimic, Nightmare]
+    - rs: [Astonish, Attract, Blizzard, Body Slam, Calm Mind, Confuse Ray, Curse,
+        Destiny Bond, Disable, Double-Edge, Double Team, Dream Eater, Endure, Facade,
+        Faint Attack, Flash, Foresight, Frustration, Future Sight, Grudge, Hidden
+          Power, Ice Beam, Icy Wind, Imprison, Leer, Mean Look, Memento, Mimic, Night
+          Shade, Nightmare, Pain Split, Protect, Psych Up, Psychic, Pursuit, Rain
+          Dance, Rest, Return, Secret Power, Shadow Ball, Skill Swap, Sleep Talk,
+        Snatch, Snore, Substitute, Sunny Day, Swagger, Taunt, Thief, Torment, Toxic,
+        Will-O-Wisp, Body Slam, Double-Edge, Helping Hand, Icy Wind, Mimic, Nightmare]
+    stats:
+    - [20, 40, 90, 30, 90, 25]
+    tags:
+    - [nfe]
+    - dp: [lc]
+    types:
+    - [Ghost]
+    weight: [15]

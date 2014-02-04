@@ -1,87 +1,83 @@
 pokemon:
-  Snubbull:
-    introduction: gs
-    types:
-    - [Normal]
-    - xy: [Fairy]
-    egggroups:
-    - [Fairy, Ground]
-    abilities:
-    - [Intimidate, Run Away]
-    - bw: [Intimidate, Rattled, Run Away]
-    stats:
-    - [60, 80, 50, 40, 40, 30]
-    tags:
-    - [nfe]
-    - dp: [lc]
-    weight: [7.8]
-    height: [0.6]
   Granbull:
-    introduction: gs
-    types:
-    - [Normal]
-    - xy: [Fairy]
-    egggroups:
-    - [Fairy, Ground]
     abilities:
     - [Intimidate]
     - dp: [Intimidate, Quick Feet]
     - bw: [Intimidate, Quick Feet, Rattled]
+    egggroups:
+    - [Fairy, Ground]
+    height: [1.4]
+    introduction: gs
+    moves:
+    - gs: [Hyper Beam]
+    - bw: [Focus Blast, Giga Impact, Hyper Beam, Iron Tail, Outrage, Rock Slide, Rock
+          Tomb, Stone Edge, Body Slam, Seismic Toss]
+    - dp: [Focus Blast, Giga Impact, Hyper Beam, Iron Tail, Rock Climb, Rock Slide,
+        Rock Tomb, Stone Edge, Body Slam, Seismic Toss]
+    - rs: [Hyper Beam, Iron Tail, Rock Slide, Rock Tomb, Body Slam, Seismic Toss]
     stats:
     - [90, 120, 75, 60, 60, 45]
     tags:
     - [uu]
     - dp: [nu]
+    types:
+    - [Normal]
+    - xy: [Fairy]
     weight: [48.7]
-    height: [1.4]
-evolutions:
-- {from: Snubbull, to: Granbull}
-learnsets:
-  gs:
-    Snubbull: [Attract, Bite, Charm, Crunch, Curse, Defense Curl, Detect, Double Team,
-      Dynamicpunch, Endure, Faint Attack, Fire Punch, Frustration, Headbutt, Heal
-        Bell, Hidden Power, Ice Punch, Leer, Lick, Metronome, Mud-Slap, Present, Protect,
-      Rage, Rain Dance, Reflect, Rest, Return, Roar, Rock Smash, Scary Face, Shadow
-        Ball, Sleep Talk, Sludge Bomb, Snore, Strength, Sunny Day, Swagger, Tackle,
-      Tail Whip, Take Down, Thief, Thunder, Thunderbolt, Thunderpunch, Toxic, Zap
-        Cannon]
-    Granbull: [Hyper Beam]
-  rs:
-    Snubbull: [Attract, Bite, Body Slam, Brick Break, Bulk Up, Charm, Counter, Crunch,
-      Defense Curl, Dig, Double-Edge, Double Team, Dynamicpunch, Earthquake, Endure,
-      Facade, Faint Attack, Fire Blast, Fire Punch, Flamethrower, Focus Punch, Frustration,
-      Heal Bell, Hidden Power, Ice Punch, Lick, Mega Kick, Mega Punch, Metronome,
-      Mimic, Mud-Slap, Overheat, Present, Protect, Rage, Rain Dance, Reflect, Rest,
-      Return, Roar, Rock Smash, Scary Face, Secret Power, Seismic Toss, Shadow Ball,
-      Shock Wave, Sleep Talk, Sludge Bomb, Smellingsalt, Snore, Solarbeam, Strength,
-      Substitute, Sunny Day, Swagger, Tackle, Tail Whip, Take Down, Taunt, Thief,
-      Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Torment, Toxic, Water Pulse,
-      Body Slam, Seismic Toss]
-    Granbull: [Hyper Beam, Iron Tail, Rock Slide, Rock Tomb, Body Slam, Seismic Toss]
-  dp:
-    Snubbull: [Attract, Bite, Brick Break, Bulk Up, Captivate, Charm, Close Combat,
-      Crunch, Dig, Double Team, Earthquake, Endure, Facade, Faint Attack, Fire Blast,
-      Fire Fang, Fire Punch, Flamethrower, Fling, Focus Punch, Frustration, Headbutt,
-      Heal Bell, Hidden Power, Ice Fang, Ice Punch, Last Resort, Lick, Low Kick, Metronome,
-      Mud-Slap, Natural Gift, Overheat, Payback, Present, Protect, Rage, Rain Dance,
-      Reflect, Rest, Return, Roar, Rock Smash, Scary Face, Secret Power, Shadow Ball,
-      Shock Wave, Sleep Talk, Sludge Bomb, Smellingsalt, Snore, Solarbeam, Strength,
-      Substitute, Sunny Day, Super Fang, Superpower, Swagger, Tackle, Tail Whip, Take
-        Down, Taunt, Thief, Thunder, Thunder Fang, Thunder Wave, Thunderbolt, Thunderpunch,
-      Torment, Toxic, Water Pulse, Body Slam, Seismic Toss]
-    Granbull: [Focus Blast, Giga Impact, Hyper Beam, Iron Tail, Rock Climb, Rock Slide,
-      Rock Tomb, Stone Edge, Body Slam, Seismic Toss]
-  bw:
-    Snubbull: [Attract, Bite, Brick Break, Bulk Up, Bulldoze, Charm, Close Combat,
-      Covet, Crunch, Dig, Double-Edge, Double Team, Earthquake, Facade, Faint Attack,
-      Fire Blast, Fire Fang, Fire Punch, Flamethrower, Fling, Focus Punch, Frustration,
-      Headbutt, Heal Bell, Hidden Power, Hyper Voice, Ice Fang, Ice Punch, Incinerate,
-      Last Resort, Lick, Low Kick, Metronome, Mimic, Overheat, Payback, Present, Protect,
-      Rage, Rain Dance, Reflect, Rest, Retaliate, Return, Roar, Rock Smash, Round,
-      Scary Face, Shadow Ball, Sleep Talk, Sludge Bomb, Smellingsalt, Snarl, Snore,
-      Solarbeam, Strength, Substitute, Sunny Day, Super Fang, Superpower, Swagger,
-      Tackle, Tail Whip, Take Down, Taunt, Thief, Thunder, Thunder Fang, Thunder Wave,
-      Thunderbolt, Thunderpunch, Torment, Toxic, Wild Charge, Work Up, Body Slam,
-      Seismic Toss]
-    Granbull: [Focus Blast, Giga Impact, Hyper Beam, Iron Tail, Outrage, Rock Slide,
-      Rock Tomb, Stone Edge, Body Slam, Seismic Toss]
+  Snubbull:
+    abilities:
+    - [Intimidate, Run Away]
+    - bw: [Intimidate, Rattled, Run Away]
+    egggroups:
+    - [Fairy, Ground]
+    evolutions: [Granbull]
+    height: [0.6]
+    introduction: gs
+    moves:
+    - gs: [Attract, Bite, Charm, Crunch, Curse, Defense Curl, Detect, Double Team,
+        Dynamicpunch, Endure, Faint Attack, Fire Punch, Frustration, Headbutt, Heal
+          Bell, Hidden Power, Ice Punch, Leer, Lick, Metronome, Mud-Slap, Present,
+        Protect, Rage, Rain Dance, Reflect, Rest, Return, Roar, Rock Smash, Scary
+          Face, Shadow Ball, Sleep Talk, Sludge Bomb, Snore, Strength, Sunny Day,
+        Swagger, Tackle, Tail Whip, Take Down, Thief, Thunder, Thunderbolt, Thunderpunch,
+        Toxic, Zap Cannon]
+    - bw: [Attract, Bite, Brick Break, Bulk Up, Bulldoze, Charm, Close Combat, Covet,
+        Crunch, Dig, Double-Edge, Double Team, Earthquake, Facade, Faint Attack, Fire
+          Blast, Fire Fang, Fire Punch, Flamethrower, Fling, Focus Punch, Frustration,
+        Headbutt, Heal Bell, Hidden Power, Hyper Voice, Ice Fang, Ice Punch, Incinerate,
+        Last Resort, Lick, Low Kick, Metronome, Mimic, Overheat, Payback, Present,
+        Protect, Rage, Rain Dance, Reflect, Rest, Retaliate, Return, Roar, Rock Smash,
+        Round, Scary Face, Shadow Ball, Sleep Talk, Sludge Bomb, Smellingsalt, Snarl,
+        Snore, Solarbeam, Strength, Substitute, Sunny Day, Super Fang, Superpower,
+        Swagger, Tackle, Tail Whip, Take Down, Taunt, Thief, Thunder, Thunder Fang,
+        Thunder Wave, Thunderbolt, Thunderpunch, Torment, Toxic, Wild Charge, Work
+          Up, Body Slam, Seismic Toss]
+    - dp: [Attract, Bite, Brick Break, Bulk Up, Captivate, Charm, Close Combat, Crunch,
+        Dig, Double Team, Earthquake, Endure, Facade, Faint Attack, Fire Blast, Fire
+          Fang, Fire Punch, Flamethrower, Fling, Focus Punch, Frustration, Headbutt,
+        Heal Bell, Hidden Power, Ice Fang, Ice Punch, Last Resort, Lick, Low Kick,
+        Metronome, Mud-Slap, Natural Gift, Overheat, Payback, Present, Protect, Rage,
+        Rain Dance, Reflect, Rest, Return, Roar, Rock Smash, Scary Face, Secret Power,
+        Shadow Ball, Shock Wave, Sleep Talk, Sludge Bomb, Smellingsalt, Snore, Solarbeam,
+        Strength, Substitute, Sunny Day, Super Fang, Superpower, Swagger, Tackle,
+        Tail Whip, Take Down, Taunt, Thief, Thunder, Thunder Fang, Thunder Wave, Thunderbolt,
+        Thunderpunch, Torment, Toxic, Water Pulse, Body Slam, Seismic Toss]
+    - rs: [Attract, Bite, Body Slam, Brick Break, Bulk Up, Charm, Counter, Crunch,
+        Defense Curl, Dig, Double-Edge, Double Team, Dynamicpunch, Earthquake, Endure,
+        Facade, Faint Attack, Fire Blast, Fire Punch, Flamethrower, Focus Punch, Frustration,
+        Heal Bell, Hidden Power, Ice Punch, Lick, Mega Kick, Mega Punch, Metronome,
+        Mimic, Mud-Slap, Overheat, Present, Protect, Rage, Rain Dance, Reflect, Rest,
+        Return, Roar, Rock Smash, Scary Face, Secret Power, Seismic Toss, Shadow Ball,
+        Shock Wave, Sleep Talk, Sludge Bomb, Smellingsalt, Snore, Solarbeam, Strength,
+        Substitute, Sunny Day, Swagger, Tackle, Tail Whip, Take Down, Taunt, Thief,
+        Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Torment, Toxic, Water Pulse,
+        Body Slam, Seismic Toss]
+    stats:
+    - [60, 80, 50, 40, 40, 30]
+    tags:
+    - [nfe]
+    - dp: [lc]
+    types:
+    - [Normal]
+    - xy: [Fairy]
+    weight: [7.8]

@@ -1,69 +1,66 @@
 pokemon:
   Feebas:
-    introduction: rs
-    types:
-    - [Water]
-    egggroups:
-    - [Dragon, Water 1]
     abilities:
     - [Swift Swim]
     - bw: [Adaptability, Swift Swim]
     - xy: [Adaptability, Swift Swim, Oblivious]
+    egggroups:
+    - [Dragon, Water 1]
+    evolutions: [Milotic]
+    height: [0.6]
+    introduction: rs
+    moves:
+    - bw: [Attract, Blizzard, Brine, Captivate, Confuse Ray, Dive, Double Team, Dragon
+          Pulse, Dragonbreath, Facade, Flail, Frustration, Hail, Haze, Hidden Power,
+        Hypnosis, Ice Beam, Icy Wind, Iron Tail, Light Screen, Mirror Coat, Mist,
+        Mud Sport, Protect, Rain Dance, Rest, Return, Round, Scald, Sleep Talk, Snore,
+        Splash, Substitute, Surf, Swagger, Tackle, Tickle, Toxic, Waterfall, Double-Edge,
+        Icy Wind, Mimic]
+    - dp: [Attract, Blizzard, Captivate, Confuse Ray, Dive, Double Team, Dragonbreath,
+        Endure, Facade, Flail, Frustration, Hail, Haze, Hidden Power, Hypnosis, Ice
+          Beam, Icy Wind, Light Screen, Mirror Coat, Mist, Mud Sport, Natural Gift,
+        Protect, Rain Dance, Rest, Return, Secret Power, Sleep Talk, Snore, Splash,
+        Substitute, Surf, Swagger, Swift, Tackle, Tickle, Toxic, Water Pulse, Waterfall,
+        Whirlpool, Double-Edge, Icy Wind, Mimic]
+    - rs: [Attract, Blizzard, Confuse Ray, Dive, Double-Edge, Double Team, Dragonbreath,
+        Endure, Facade, Flail, Frustration, Hail, Hidden Power, Hypnosis, Ice Beam,
+        Icy Wind, Light Screen, Mimic, Mirror Coat, Mud Sport, Protect, Rain Dance,
+        Rest, Return, Secret Power, Sleep Talk, Snore, Splash, Substitute, Surf, Swagger,
+        Swift, Tackle, Toxic, Water Pulse, Waterfall, Double-Edge, Icy Wind, Mimic]
     stats:
     - [20, 15, 20, 10, 55, 80]
     tags:
     - [nfe]
     - dp: [lc]
-    weight: [7.4]
-    height: [0.6]
-  Milotic:
-    introduction: rs
     types:
     - [Water]
-    egggroups:
-    - [Dragon, Water 1]
+    weight: [7.4]
+  Milotic:
     abilities:
     - [Marvel Scale]
     - bw: [Cute Charm, Marvel Scale]
     - xy: [Cute Charm, Marvel Scale, Competitive]
+    egggroups:
+    - [Dragon, Water 1]
+    height: [6.2]
+    introduction: rs
+    moves:
+    - bw: [Aqua Ring, Aqua Tail, Bind, Bulldoze, Dragon Tail, Giga Impact, Hydro Pump,
+        Hyper Beam, Iron Head, Magic Coat, Psych Up, Recover, Refresh, Safeguard,
+        Twister, Water Gun, Water Pulse, Water Sport, Wrap, Body Slam, Double-Edge,
+        Icy Wind, Mimic]
+    - dp: [Aqua Ring, Aqua Tail, Avalanche, Dragon Pulse, Giga Impact, Hydro Pump,
+        Hyper Beam, Iron Head, Iron Tail, Magic Coat, Mud-Slap, Psych Up, Recover,
+        Refresh, Safeguard, Twister, Water Gun, Water Sport, Wrap, Body Slam, Double-Edge,
+        Icy Wind, Mimic]
+    - rs: [Body Slam, Hydro Pump, Hyper Beam, Iron Tail, Mud-Slap, Psych Up, Recover,
+        Refresh, Safeguard, Twister, Water Gun, Water Sport, Wrap, Body Slam, Double-Edge,
+        Icy Wind, Mimic]
     stats:
     - [95, 60, 79, 100, 125, 81]
     tags:
     - [ou]
     - dp: [uu]
+    types:
+    - [Water]
     weight: [162]
-    height: [6.2]
-evolutions:
-- {from: Feebas, to: Milotic}
-learnsets:
-  rs:
-    Feebas: [Attract, Blizzard, Confuse Ray, Dive, Double-Edge, Double Team, Dragonbreath,
-      Endure, Facade, Flail, Frustration, Hail, Hidden Power, Hypnosis, Ice Beam,
-      Icy Wind, Light Screen, Mimic, Mirror Coat, Mud Sport, Protect, Rain Dance,
-      Rest, Return, Secret Power, Sleep Talk, Snore, Splash, Substitute, Surf, Swagger,
-      Swift, Tackle, Toxic, Water Pulse, Waterfall, Double-Edge, Icy Wind, Mimic]
-    Milotic: [Body Slam, Hydro Pump, Hyper Beam, Iron Tail, Mud-Slap, Psych Up, Recover,
-      Refresh, Safeguard, Twister, Water Gun, Water Sport, Wrap, Body Slam, Double-Edge,
-      Icy Wind, Mimic]
-  dp:
-    Feebas: [Attract, Blizzard, Captivate, Confuse Ray, Dive, Double Team, Dragonbreath,
-      Endure, Facade, Flail, Frustration, Hail, Haze, Hidden Power, Hypnosis, Ice
-        Beam, Icy Wind, Light Screen, Mirror Coat, Mist, Mud Sport, Natural Gift,
-      Protect, Rain Dance, Rest, Return, Secret Power, Sleep Talk, Snore, Splash,
-      Substitute, Surf, Swagger, Swift, Tackle, Tickle, Toxic, Water Pulse, Waterfall,
-      Whirlpool, Double-Edge, Icy Wind, Mimic]
-    Milotic: [Aqua Ring, Aqua Tail, Avalanche, Dragon Pulse, Giga Impact, Hydro Pump,
-      Hyper Beam, Iron Head, Iron Tail, Magic Coat, Mud-Slap, Psych Up, Recover, Refresh,
-      Safeguard, Twister, Water Gun, Water Sport, Wrap, Body Slam, Double-Edge, Icy
-        Wind, Mimic]
-  bw:
-    Feebas: [Attract, Blizzard, Brine, Captivate, Confuse Ray, Dive, Double Team,
-      Dragon Pulse, Dragonbreath, Facade, Flail, Frustration, Hail, Haze, Hidden Power,
-      Hypnosis, Ice Beam, Icy Wind, Iron Tail, Light Screen, Mirror Coat, Mist, Mud
-        Sport, Protect, Rain Dance, Rest, Return, Round, Scald, Sleep Talk, Snore,
-      Splash, Substitute, Surf, Swagger, Tackle, Tickle, Toxic, Waterfall, Double-Edge,
-      Icy Wind, Mimic]
-    Milotic: [Aqua Ring, Aqua Tail, Bind, Bulldoze, Dragon Tail, Giga Impact, Hydro
-        Pump, Hyper Beam, Iron Head, Magic Coat, Psych Up, Recover, Refresh, Safeguard,
-      Twister, Water Gun, Water Pulse, Water Sport, Wrap, Body Slam, Double-Edge,
-      Icy Wind, Mimic]

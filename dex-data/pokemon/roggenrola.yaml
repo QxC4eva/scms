@@ -1,57 +1,57 @@
 pokemon:
-  Roggenrola:
-    introduction: bw
-    types:
-    - [Rock]
-    egggroups:
-    - [Mineral]
-    abilities:
-    - [Sand Force, Sturdy]
-    stats:
-    - [55, 75, 85, 25, 25, 15]
-    tags:
-    - [lc]
-    weight: [18]
-    height: [0.4]
   Boldore:
-    introduction: bw
-    types:
-    - [Rock]
-    egggroups:
-    - [Mineral]
     abilities:
     - [Sand Force, Sturdy]
+    egggroups:
+    - [Mineral]
+    evolutions: [Gigalith]
+    height: [0.9]
+    introduction: bw
+    moves:
+    - bw: [Power Gem]
     stats:
     - [70, 105, 105, 50, 40, 20]
     tags:
     - [nfe]
-    weight: [102]
-    height: [0.9]
-  Gigalith:
-    introduction: bw
     types:
     - [Rock]
-    egggroups:
-    - [Mineral]
+    weight: [102]
+  Gigalith:
     abilities:
     - [Sand Force, Sturdy]
+    egggroups:
+    - [Mineral]
+    height: [1.7]
+    introduction: bw
+    moves:
+    - bw: [Giga Impact, Hyper Beam, Iron Head, Solarbeam, Superpower]
     stats:
     - [85, 135, 130, 60, 70, 25]
     - xy: [85, 135, 130, 60, 80, 25]
     tags:
     - [nu]
+    types:
+    - [Rock]
     weight: [260]
-    height: [1.7]
-evolutions:
-- {from: Roggenrola, to: Boldore}
-- {from: Boldore, to: Gigalith}
-learnsets:
-  bw:
-    Roggenrola: [Attract, Autotomize, Block, Bulldoze, Curse, Double Team, Earth Power,
-      Earthquake, Explosion, Facade, Flash Cannon, Frustration, Gravity, Harden, Headbutt,
-      Heavy Slam, Hidden Power, Iron Defense, Lock-On, Magnitude, Mud-Slap, Protect,
-      Rest, Return, Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Round,
-      Sand-Attack, Sandstorm, Sleep Talk, Smack Down, Snore, Stealth Rock, Stone Edge,
-      Strength, Substitute, Swagger, Tackle, Take Down, Toxic]
-    Boldore: [Power Gem]
-    Gigalith: [Giga Impact, Hyper Beam, Iron Head, Solarbeam, Superpower]
+  Roggenrola:
+    abilities:
+    - [Sand Force, Sturdy]
+    egggroups:
+    - [Mineral]
+    evolutions: [Boldore]
+    height: [0.4]
+    introduction: bw
+    moves:
+    - bw: [Attract, Autotomize, Block, Bulldoze, Curse, Double Team, Earth Power,
+        Earthquake, Explosion, Facade, Flash Cannon, Frustration, Gravity, Harden,
+        Headbutt, Heavy Slam, Hidden Power, Iron Defense, Lock-On, Magnitude, Mud-Slap,
+        Protect, Rest, Return, Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock
+          Tomb, Round, Sand-Attack, Sandstorm, Sleep Talk, Smack Down, Snore, Stealth
+          Rock, Stone Edge, Strength, Substitute, Swagger, Tackle, Take Down, Toxic]
+    stats:
+    - [55, 75, 85, 25, 25, 15]
+    tags:
+    - [lc]
+    types:
+    - [Rock]
+    weight: [18]

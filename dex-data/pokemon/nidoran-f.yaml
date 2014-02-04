@@ -1,48 +1,36 @@
 pokemon:
-  Nidoran-F:
-    introduction: rb
-    types:
-    - [Poison]
-    egggroups:
-    - [Ground, Monster]
-    abilities:
-    - [Poison Point]
-    - dp: [Poison Point, Rivalry]
-    - bw: [Hustle, Poison Point, Rivalry]
-    stats:
-    - [55, 47, 52, 40, 40, 41]
-    - gs: [55, 47, 52, 40, 40, 41]
-    tags:
-    - [nfe]
-    weight: [7]
-    height: [0.4]
-  Nidorina:
-    introduction: rb
-    types:
-    - [Poison]
-    egggroups:
-    - []
-    abilities:
-    - [Poison Point]
-    - dp: [Poison Point, Rivalry]
-    - bw: [Hustle, Poison Point, Rivalry]
-    stats:
-    - [70, 62, 67, 55, 55, 56]
-    - gs: [70, 62, 67, 55, 55, 56]
-    tags:
-    - [nfe]
-    weight: [20]
-    height: [0.8]
   Nidoqueen:
-    introduction: rb
-    types:
-    - [Ground, Poison]
-    egggroups:
-    - []
     abilities:
     - [Poison Point]
     - dp: [Poison Point, Rivalry]
     - bw: [Poison Point, Rivalry, Sheer Force]
+    egggroups:
+    - []
+    height: [1.3]
+    introduction: rb
+    moves:
+    - gs: [Body Slam, Dynamicpunch, Earthquake, Fire Blast, Fire Punch, Flamethrower,
+        Fury Cutter, Hyper Beam, Ice Punch, Icy Wind, Roar, Sandstorm, Shadow Ball,
+        Surf, Thunderpunch]
+    - bw: [Aqua Tail, Body Slam, Brick Break, Bulldoze, Dragon Pulse, Dragon Tail,
+        Earth Power, Earthquake, Fire Blast, Fire Punch, Flamethrower, Fling, Focus
+          Blast, Giga Impact, Hyper Beam, Ice Punch, Icy Wind, Incinerate, Outrage,
+        Quash, Roar, Rock Slide, Rock Tomb, Sandstorm, Shadow Ball, Sludge Wave, Smack
+          Down, Stealth Rock, Stone Edge, Superpower, Surf, Taunt, Thunderpunch, Torment,
+        Uproar, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+    - dp: [Aqua Tail, Avalanche, Body Slam, Brick Break, Dragon Pulse, Earth Power,
+        Earthquake, Fire Blast, Fire Punch, Flamethrower, Fling, Focus Blast, Focus
+          Punch, Fury Cutter, Giga Impact, Hyper Beam, Ice Punch, Icy Wind, Outrage,
+        Roar, Rock Climb, Rock Slide, Rock Tomb, Sandstorm, Shadow Ball, Stealth Rock,
+        Stone Edge, Superpower, Surf, Taunt, Thunderpunch, Torment, Uproar, Whirlpool,
+        Double-Edge, Icy Wind, Mimic, Seismic Toss]
+    - rs: [Brick Break, Dynamicpunch, Earthquake, Fire Blast, Fire Punch, Flamethrower,
+        Focus Punch, Fury Cutter, Hyper Beam, Ice Punch, Icy Wind, Mega Kick, Mega
+          Punch, Roar, Rock Slide, Rock Tomb, Sandstorm, Seismic Toss, Shadow Ball,
+        Superpower, Surf, Taunt, Thunderpunch, Torment, Double-Edge, Icy Wind, Mimic,
+        Seismic Toss]
+    - rb: [Counter, Earthquake, Fire Blast, Fissure, Hyper Beam, Mega Kick, Mega Punch,
+        Pay Day, Rock Slide, Seismic Toss, Strength, Submission, Surf]
     stats:
     - [90, 82, 87, 75, 75, 76]
     - gs: [90, 82, 87, 75, 85, 76]
@@ -51,77 +39,86 @@ pokemon:
     - [uu]
     - dp: [nu]
     - bw: [uu]
+    types:
+    - [Ground, Poison]
     weight: [60]
-    height: [1.3]
-evolutions:
-- {from: Nidoran-F, to: Nidorina}
-- {from: Nidorina, to: Nidoqueen}
-learnsets:
-  rb:
-    Nidoran-F: [Bide, Bite, Blizzard, Body Slam, Double-Edge, Double Kick, Double
-        Team, Fury Swipes, Growl, Mimic, Poison Sting, Rage, Reflect, Rest, Scratch,
-      Skull Bash, Substitute, Tackle, Tail Whip, Take Down, Thunder, Thunderbolt,
-      Toxic, Lovely Kiss, Sweet Kiss, Moonlight]
-    Nidorina: [Bubblebeam, Horn Drill, Ice Beam, Water Gun]
-    Nidoqueen: [Counter, Earthquake, Fire Blast, Fissure, Hyper Beam, Mega Kick, Mega
-        Punch, Pay Day, Rock Slide, Seismic Toss, Strength, Submission, Surf]
-  gs:
-    Nidoran-F: [Attract, Beat Up, Bite, Blizzard, Charm, Counter, Curse, Defense Curl,
-      Detect, Disable, Double Kick, Double Team, Endure, Focus Energy, Frustration,
-      Fury Swipes, Growl, Headbutt, Hidden Power, Iron Tail, Mud-Slap, Poison Sting,
-      Protect, Rain Dance, Rest, Return, Scratch, Sleep Talk, Snore, Sunny Day, Supersonic,
-      Swagger, Tackle, Tail Whip, Take Down, Thief, Thunder, Thunderbolt, Toxic, Lovely
-        Kiss, Sweet Kiss, Moonlight]
-    Nidorina: [Ice Beam, Rock Smash, Strength]
-    Nidoqueen: [Body Slam, Dynamicpunch, Earthquake, Fire Blast, Fire Punch, Flamethrower,
-      Fury Cutter, Hyper Beam, Ice Punch, Icy Wind, Roar, Sandstorm, Shadow Ball,
-      Surf, Thunderpunch]
-  rs:
-    Nidoran-F: [Aerial Ace, Attract, Beat Up, Bite, Blizzard, Body Slam, Charm, Counter,
-      Crunch, Cut, Defense Curl, Dig, Disable, Double-Edge, Double Kick, Double Team,
-      Endure, Facade, Flatter, Focus Energy, Frustration, Fury Swipes, Growl, Helping
-        Hand, Hidden Power, Ice Beam, Iron Tail, Mimic, Mud-Slap, Poison Sting, Protect,
-      Rain Dance, Rest, Return, Rock Smash, Scratch, Secret Power, Shock Wave, Sleep
-        Talk, Sludge Bomb, Snore, Strength, Substitute, Sunny Day, Supersonic, Swagger,
-      Tail Whip, Take Down, Thief, Thunder, Thunderbolt, Toxic, Water Pulse, Body
-        Slam, Double-Edge, Mimic]
-    Nidorina: [Body Slam, Double-Edge, Mimic]
-    Nidoqueen: [Brick Break, Dynamicpunch, Earthquake, Fire Blast, Fire Punch, Flamethrower,
-      Focus Punch, Fury Cutter, Hyper Beam, Ice Punch, Icy Wind, Mega Kick, Mega Punch,
-      Roar, Rock Slide, Rock Tomb, Sandstorm, Seismic Toss, Shadow Ball, Superpower,
-      Surf, Taunt, Thunderpunch, Torment, Double-Edge, Icy Wind, Mimic, Seismic Toss]
-  dp:
-    Nidoran-F: [Aerial Ace, Attract, Beat Up, Bite, Blizzard, Captivate, Charm, Counter,
-      Crunch, Cut, Dig, Disable, Double Kick, Double Team, Endure, Facade, Flatter,
-      Focus Energy, Frustration, Fury Swipes, Growl, Headbutt, Helping Hand, Hidden
-        Power, Ice Beam, Iron Tail, Mud-Slap, Natural Gift, Poison Fang, Poison Jab,
-      Poison Sting, Protect, Pursuit, Rain Dance, Rest, Return, Rock Smash, Scratch,
-      Secret Power, Shadow Claw, Shock Wave, Skull Bash, Sleep Talk, Sludge Bomb,
-      Snore, Strength, Substitute, Sunny Day, Super Fang, Supersonic, Swagger, Tail
-        Whip, Take Down, Thief, Thunder, Thunderbolt, Toxic, Toxic Spikes, Water Pulse,
-      Body Slam, Double-Edge, Mimic]
-    Nidorina: [Body Slam, Double-Edge, Mimic]
-    Nidoqueen: [Aqua Tail, Avalanche, Body Slam, Brick Break, Dragon Pulse, Earth
-        Power, Earthquake, Fire Blast, Fire Punch, Flamethrower, Fling, Focus Blast,
-      Focus Punch, Fury Cutter, Giga Impact, Hyper Beam, Ice Punch, Icy Wind, Outrage,
-      Roar, Rock Climb, Rock Slide, Rock Tomb, Sandstorm, Shadow Ball, Stealth Rock,
-      Stone Edge, Superpower, Surf, Taunt, Thunderpunch, Torment, Uproar, Whirlpool,
-      Double-Edge, Icy Wind, Mimic, Seismic Toss]
-  bw:
-    Nidoran-F: [Aerial Ace, Attract, Beat Up, Bite, Blizzard, Captivate, Charm, Chip
-        Away, Counter, Crunch, Cut, Dig, Disable, Double Kick, Double Team, Endure,
-      Facade, Flatter, Focus Energy, Frustration, Fury Swipes, Growl, Helping Hand,
-      Hidden Power, Hone Claws, Ice Beam, Iron Tail, Poison Fang, Poison Jab, Poison
-        Sting, Poison Tail, Protect, Pursuit, Rain Dance, Rest, Return, Rock Smash,
-      Round, Scratch, Shadow Claw, Skull Bash, Sleep Talk, Sludge Bomb, Snore, Strength,
-      Substitute, Sunny Day, Super Fang, Supersonic, Swagger, Tail Whip, Take Down,
-      Thief, Thunder, Thunderbolt, Toxic, Toxic Spikes, Venoshock, Sucker Punch, Body
-        Slam, Double-Edge, Mimic]
-    Nidorina: [Echoed Voice, Body Slam, Body Slam, Body Slam, Body Slam, Double-Edge,
-      Mimic]
-    Nidoqueen: [Aqua Tail, Body Slam, Brick Break, Bulldoze, Dragon Pulse, Dragon
-        Tail, Earth Power, Earthquake, Fire Blast, Fire Punch, Flamethrower, Fling,
-      Focus Blast, Giga Impact, Hyper Beam, Ice Punch, Icy Wind, Incinerate, Outrage,
-      Quash, Roar, Rock Slide, Rock Tomb, Sandstorm, Shadow Ball, Sludge Wave, Smack
-        Down, Stealth Rock, Stone Edge, Superpower, Surf, Taunt, Thunderpunch, Torment,
-      Uproar, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+  Nidoran-F:
+    abilities:
+    - [Poison Point]
+    - dp: [Poison Point, Rivalry]
+    - bw: [Hustle, Poison Point, Rivalry]
+    egggroups:
+    - [Ground, Monster]
+    evolutions: [Nidorina]
+    height: [0.4]
+    introduction: rb
+    moves:
+    - gs: [Attract, Beat Up, Bite, Blizzard, Charm, Counter, Curse, Defense Curl,
+        Detect, Disable, Double Kick, Double Team, Endure, Focus Energy, Frustration,
+        Fury Swipes, Growl, Headbutt, Hidden Power, Iron Tail, Mud-Slap, Poison Sting,
+        Protect, Rain Dance, Rest, Return, Scratch, Sleep Talk, Snore, Sunny Day,
+        Supersonic, Swagger, Tackle, Tail Whip, Take Down, Thief, Thunder, Thunderbolt,
+        Toxic, Lovely Kiss, Sweet Kiss, Moonlight]
+    - bw: [Aerial Ace, Attract, Beat Up, Bite, Blizzard, Captivate, Charm, Chip Away,
+        Counter, Crunch, Cut, Dig, Disable, Double Kick, Double Team, Endure, Facade,
+        Flatter, Focus Energy, Frustration, Fury Swipes, Growl, Helping Hand, Hidden
+          Power, Hone Claws, Ice Beam, Iron Tail, Poison Fang, Poison Jab, Poison
+          Sting, Poison Tail, Protect, Pursuit, Rain Dance, Rest, Return, Rock Smash,
+        Round, Scratch, Shadow Claw, Skull Bash, Sleep Talk, Sludge Bomb, Snore, Strength,
+        Substitute, Sunny Day, Super Fang, Supersonic, Swagger, Tail Whip, Take Down,
+        Thief, Thunder, Thunderbolt, Toxic, Toxic Spikes, Venoshock, Sucker Punch,
+        Body Slam, Double-Edge, Mimic]
+    - dp: [Aerial Ace, Attract, Beat Up, Bite, Blizzard, Captivate, Charm, Counter,
+        Crunch, Cut, Dig, Disable, Double Kick, Double Team, Endure, Facade, Flatter,
+        Focus Energy, Frustration, Fury Swipes, Growl, Headbutt, Helping Hand, Hidden
+          Power, Ice Beam, Iron Tail, Mud-Slap, Natural Gift, Poison Fang, Poison
+          Jab, Poison Sting, Protect, Pursuit, Rain Dance, Rest, Return, Rock Smash,
+        Scratch, Secret Power, Shadow Claw, Shock Wave, Skull Bash, Sleep Talk, Sludge
+          Bomb, Snore, Strength, Substitute, Sunny Day, Super Fang, Supersonic, Swagger,
+        Tail Whip, Take Down, Thief, Thunder, Thunderbolt, Toxic, Toxic Spikes, Water
+          Pulse, Body Slam, Double-Edge, Mimic]
+    - rs: [Aerial Ace, Attract, Beat Up, Bite, Blizzard, Body Slam, Charm, Counter,
+        Crunch, Cut, Defense Curl, Dig, Disable, Double-Edge, Double Kick, Double
+          Team, Endure, Facade, Flatter, Focus Energy, Frustration, Fury Swipes, Growl,
+        Helping Hand, Hidden Power, Ice Beam, Iron Tail, Mimic, Mud-Slap, Poison Sting,
+        Protect, Rain Dance, Rest, Return, Rock Smash, Scratch, Secret Power, Shock
+          Wave, Sleep Talk, Sludge Bomb, Snore, Strength, Substitute, Sunny Day, Supersonic,
+        Swagger, Tail Whip, Take Down, Thief, Thunder, Thunderbolt, Toxic, Water Pulse,
+        Body Slam, Double-Edge, Mimic]
+    - rb: [Bide, Bite, Blizzard, Body Slam, Double-Edge, Double Kick, Double Team,
+        Fury Swipes, Growl, Mimic, Poison Sting, Rage, Reflect, Rest, Scratch, Skull
+          Bash, Substitute, Tackle, Tail Whip, Take Down, Thunder, Thunderbolt, Toxic,
+        Lovely Kiss, Sweet Kiss, Moonlight]
+    stats:
+    - [55, 47, 52, 40, 40, 41]
+    - gs: [55, 47, 52, 40, 40, 41]
+    tags:
+    - [nfe]
+    types:
+    - [Poison]
+    weight: [7]
+  Nidorina:
+    abilities:
+    - [Poison Point]
+    - dp: [Poison Point, Rivalry]
+    - bw: [Hustle, Poison Point, Rivalry]
+    egggroups:
+    - []
+    evolutions: [Nidoqueen]
+    height: [0.8]
+    introduction: rb
+    moves:
+    - gs: [Ice Beam, Rock Smash, Strength]
+    - bw: [Echoed Voice, Body Slam, Body Slam, Body Slam, Body Slam, Double-Edge,
+        Mimic]
+    - dp: [Body Slam, Double-Edge, Mimic]
+    - rs: [Body Slam, Double-Edge, Mimic]
+    - rb: [Bubblebeam, Horn Drill, Ice Beam, Water Gun]
+    stats:
+    - [70, 62, 67, 55, 55, 56]
+    - gs: [70, 62, 67, 55, 55, 56]
+    tags:
+    - [nfe]
+    types:
+    - [Poison]
+    weight: [20]

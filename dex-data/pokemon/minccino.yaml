@@ -1,43 +1,42 @@
 pokemon:
-  Minccino:
-    introduction: bw
-    types:
-    - [Normal]
-    egggroups:
-    - [Ground]
-    abilities:
-    - [Cute Charm, Skill Link, Technician]
-    stats:
-    - [55, 50, 40, 40, 40, 75]
-    tags:
-    - [lc]
-    weight: [5.8]
-    height: [0.4]
   Cinccino:
-    introduction: bw
-    types:
-    - [Normal]
-    egggroups:
-    - [Ground]
     abilities:
     - [Cute Charm, Skill Link, Technician]
+    egggroups:
+    - [Ground]
+    height: [0.5]
+    introduction: bw
+    moves:
+    - bw: [Bullet Seed, Focus Blast, Giga Impact, Hyper Beam, Light Screen, Rock Blast,
+        Thunder]
     stats:
     - [75, 95, 60, 65, 60, 115]
     tags:
     - [ru]
+    types:
+    - [Normal]
     weight: [7.5]
-    height: [0.5]
-evolutions:
-- {from: Minccino, to: Cinccino}
-learnsets:
-  bw:
-    Minccino: [After You, Aqua Tail, Attract, Calm Mind, Captivate, Charm, Covet,
-      Dig, Double Team, Doubleslap, Echoed Voice, Encore, Endure, Facade, Fake Tears,
-      Flail, Fling, Frustration, Grass Knot, Growl, Gunk Shot, Helping Hand, Hidden
-        Power, Hyper Voice, Iron Tail, Knock Off, Last Resort, Mud-Slap, Pound, Protect,
-      Rain Dance, Rest, Retaliate, Return, Round, Safeguard, Seed Bomb, Sing, Slam,
-      Sleep Talk, Snore, Substitute, Sunny Day, Swagger, Swift, Tail Slap, Tail Whip,
-      Thief, Thunder Wave, Thunderbolt, Tickle, Toxic, U-turn, Uproar, Wake-Up Slap,
-      Work Up]
-    Cinccino: [Bullet Seed, Focus Blast, Giga Impact, Hyper Beam, Light Screen, Rock
-        Blast, Thunder]
+  Minccino:
+    abilities:
+    - [Cute Charm, Skill Link, Technician]
+    egggroups:
+    - [Ground]
+    evolutions: [Cinccino]
+    height: [0.4]
+    introduction: bw
+    moves:
+    - bw: [After You, Aqua Tail, Attract, Calm Mind, Captivate, Charm, Covet, Dig,
+        Double Team, Doubleslap, Echoed Voice, Encore, Endure, Facade, Fake Tears,
+        Flail, Fling, Frustration, Grass Knot, Growl, Gunk Shot, Helping Hand, Hidden
+          Power, Hyper Voice, Iron Tail, Knock Off, Last Resort, Mud-Slap, Pound,
+        Protect, Rain Dance, Rest, Retaliate, Return, Round, Safeguard, Seed Bomb,
+        Sing, Slam, Sleep Talk, Snore, Substitute, Sunny Day, Swagger, Swift, Tail
+          Slap, Tail Whip, Thief, Thunder Wave, Thunderbolt, Tickle, Toxic, U-turn,
+        Uproar, Wake-Up Slap, Work Up]
+    stats:
+    - [55, 50, 40, 40, 40, 75]
+    tags:
+    - [lc]
+    types:
+    - [Normal]
+    weight: [5.8]

@@ -1,53 +1,50 @@
 pokemon:
   Rayquaza:
-    introduction: rs
-    types:
-    - [Dragon, Flying]
-    egggroups:
-    - []
     abilities:
     - [Air Lock]
     - bw: [Air Lock]
+    egggroups:
+    - []
+    height: [7]
+    introduction: rs
+    moves:
+    - bw: [Aerial Ace, Air Slash, Ancientpower, Aqua Tail, Bind, Blizzard, Brick Break,
+        Bulk Up, Bulldoze, Crunch, Dive, Double Team, Draco Meteor, Dragon Claw, Dragon
+          Dance, Dragon Pulse, Dragon Tail, Earth Power, Earthquake, Echoed Voice,
+        Energy Ball, Extremespeed, Facade, Fire Blast, Flamethrower, Fling, Fly, Focus
+          Blast, Frustration, Giga Impact, Gyro Ball, Hidden Power, Hone Claws, Hyper
+          Beam, Hyper Voice, Ice Beam, Icy Wind, Incinerate, Iron Head, Iron Tail,
+        Outrage, Overheat, Protect, Psych Up, Rain Dance, Rest, Return, Roar, Rock
+          Slide, Rock Smash, Rock Tomb, Round, Sandstorm, Scary Face, Shadow Claw,
+        Sky Drop, Sleep Talk, Snore, Solarbeam, Stone Edge, Strength, Substitute,
+        Sunny Day, Surf, Swagger, Swords Dance, Tailwind, Thunder, Thunder Wave, Thunderbolt,
+        Toxic, Twister, Uproar, V-create, Waterfall, Body Slam, Double-Edge, Icy Wind,
+        Mimic]
+    - dp: [Aerial Ace, Air Slash, Ancientpower, Aqua Tail, Avalanche, Blizzard, Brick
+          Break, Bulk Up, Crunch, Dive, Double Team, Draco Meteor, Dragon Claw, Dragon
+          Dance, Dragon Pulse, Earth Power, Earthquake, Endure, Energy Ball, Extremespeed,
+        Facade, Fire Blast, Flamethrower, Fling, Fly, Focus Blast, Frustration, Fury
+          Cutter, Giga Impact, Gyro Ball, Headbutt, Hidden Power, Hyper Beam, Hyper
+          Voice, Ice Beam, Icy Wind, Iron Head, Iron Tail, Mud-Slap, Natural Gift,
+        Outrage, Overheat, Protect, Psych Up, Rain Dance, Rest, Return, Roar, Rock
+          Slide, Rock Smash, Rock Tomb, Sandstorm, Scary Face, Secret Power, Shadow
+          Claw, Shock Wave, Sleep Talk, Snore, Solarbeam, Stone Edge, Strength, Substitute,
+        Sunny Day, Surf, Swagger, Swift, Swords Dance, Tailwind, Thunder, Thunder
+          Wave, Thunderbolt, Toxic, Twister, Uproar, Water Pulse, Waterfall, Whirlpool,
+        Body Slam, Double-Edge, Icy Wind, Mimic]
+    - rs: [Aerial Ace, Ancientpower, Blizzard, Body Slam, Brick Break, Bulk Up, Crunch,
+        Dive, Double-Edge, Double Team, Dragon Claw, Dragon Dance, Earthquake, Endure,
+        Extremespeed, Facade, Fire Blast, Flamethrower, Fly, Frustration, Fury Cutter,
+        Hidden Power, Hyper Beam, Ice Beam, Icy Wind, Iron Tail, Mimic, Mud-Slap,
+        Outrage, Overheat, Protect, Psych Up, Rain Dance, Rest, Return, Roar, Rock
+          Slide, Rock Smash, Sandstorm, Scary Face, Secret Power, Shock Wave, Sleep
+          Talk, Snore, Solarbeam, Strength, Substitute, Sunny Day, Surf, Swagger,
+        Swift, Thunder, Thunder Wave, Thunderbolt, Toxic, Twister, Water Pulse, Waterfall,
+        Body Slam, Double-Edge, Icy Wind, Mimic]
     stats:
     - [105, 150, 90, 150, 90, 95]
     tags:
     - [uber]
+    types:
+    - [Dragon, Flying]
     weight: [206.5]
-    height: [7]
-evolutions: []
-learnsets:
-  rs:
-    Rayquaza: [Aerial Ace, Ancientpower, Blizzard, Body Slam, Brick Break, Bulk Up,
-      Crunch, Dive, Double-Edge, Double Team, Dragon Claw, Dragon Dance, Earthquake,
-      Endure, Extremespeed, Facade, Fire Blast, Flamethrower, Fly, Frustration, Fury
-        Cutter, Hidden Power, Hyper Beam, Ice Beam, Icy Wind, Iron Tail, Mimic, Mud-Slap,
-      Outrage, Overheat, Protect, Psych Up, Rain Dance, Rest, Return, Roar, Rock Slide,
-      Rock Smash, Sandstorm, Scary Face, Secret Power, Shock Wave, Sleep Talk, Snore,
-      Solarbeam, Strength, Substitute, Sunny Day, Surf, Swagger, Swift, Thunder, Thunder
-        Wave, Thunderbolt, Toxic, Twister, Water Pulse, Waterfall, Body Slam, Double-Edge,
-      Icy Wind, Mimic]
-  dp:
-    Rayquaza: [Aerial Ace, Air Slash, Ancientpower, Aqua Tail, Avalanche, Blizzard,
-      Brick Break, Bulk Up, Crunch, Dive, Double Team, Draco Meteor, Dragon Claw,
-      Dragon Dance, Dragon Pulse, Earth Power, Earthquake, Endure, Energy Ball, Extremespeed,
-      Facade, Fire Blast, Flamethrower, Fling, Fly, Focus Blast, Frustration, Fury
-        Cutter, Giga Impact, Gyro Ball, Headbutt, Hidden Power, Hyper Beam, Hyper
-        Voice, Ice Beam, Icy Wind, Iron Head, Iron Tail, Mud-Slap, Natural Gift, Outrage,
-      Overheat, Protect, Psych Up, Rain Dance, Rest, Return, Roar, Rock Slide, Rock
-        Smash, Rock Tomb, Sandstorm, Scary Face, Secret Power, Shadow Claw, Shock
-        Wave, Sleep Talk, Snore, Solarbeam, Stone Edge, Strength, Substitute, Sunny
-        Day, Surf, Swagger, Swift, Swords Dance, Tailwind, Thunder, Thunder Wave,
-      Thunderbolt, Toxic, Twister, Uproar, Water Pulse, Waterfall, Whirlpool, Body
-        Slam, Double-Edge, Icy Wind, Mimic]
-  bw:
-    Rayquaza: [Aerial Ace, Air Slash, Ancientpower, Aqua Tail, Bind, Blizzard, Brick
-        Break, Bulk Up, Bulldoze, Crunch, Dive, Double Team, Draco Meteor, Dragon
-        Claw, Dragon Dance, Dragon Pulse, Dragon Tail, Earth Power, Earthquake, Echoed
-        Voice, Energy Ball, Extremespeed, Facade, Fire Blast, Flamethrower, Fling,
-      Fly, Focus Blast, Frustration, Giga Impact, Gyro Ball, Hidden Power, Hone Claws,
-      Hyper Beam, Hyper Voice, Ice Beam, Icy Wind, Incinerate, Iron Head, Iron Tail,
-      Outrage, Overheat, Protect, Psych Up, Rain Dance, Rest, Return, Roar, Rock Slide,
-      Rock Smash, Rock Tomb, Round, Sandstorm, Scary Face, Shadow Claw, Sky Drop,
-      Sleep Talk, Snore, Solarbeam, Stone Edge, Strength, Substitute, Sunny Day, Surf,
-      Swagger, Swords Dance, Tailwind, Thunder, Thunder Wave, Thunderbolt, Toxic,
-      Twister, Uproar, V-create, Waterfall, Body Slam, Double-Edge, Icy Wind, Mimic]

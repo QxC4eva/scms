@@ -1,42 +1,41 @@
 pokemon:
-  Trubbish:
-    introduction: bw
-    types:
-    - [Poison]
-    egggroups:
-    - [Mineral]
-    abilities:
-    - [Aftermath, Stench, Sticky Hold]
-    stats:
-    - [50, 50, 62, 40, 62, 65]
-    tags:
-    - [lc]
-    weight: [31]
-    height: [0.6]
   Garbodor:
-    introduction: bw
-    types:
-    - [Poison]
-    egggroups:
-    - [Mineral]
     abilities:
     - [Aftermath, Stench, Weak Armor]
+    egggroups:
+    - [Mineral]
+    height: [1.9]
+    introduction: bw
+    moves:
+    - bw: [Body Slam, Fling, Focus Blast, Giga Impact, Hyper Beam, Psychic, Rock Polish,
+        Smack Down, Solarbeam, Thunderbolt]
     stats:
     - [80, 95, 82, 60, 82, 75]
     tags:
     - [nu]
+    types:
+    - [Poison]
     weight: [107.3]
-    height: [1.9]
-evolutions:
-- {from: Trubbish, to: Garbodor}
-learnsets:
-  bw:
-    Trubbish: [Acid Spray, Amnesia, Attract, Clear Smog, Curse, Dark Pulse, Double
-        Team, Doubleslap, Drain Punch, Explosion, Facade, Frustration, Giga Drain,
-      Gunk Shot, Haze, Hidden Power, Mud Sport, Pain Split, Payback, Poison Gas, Pound,
-      Protect, Rain Dance, Recycle, Rest, Return, Rock Blast, Rollout, Round, Sand-Attack,
-      Seed Bomb, Selfdestruct, Sleep Talk, Sludge, Sludge Bomb, Sludge Wave, Snore,
-      Spikes, Spite, Stockpile, Substitute, Sunny Day, Swagger, Swallow, Take Down,
-      Thief, Toxic, Toxic Spikes, Venoshock]
-    Garbodor: [Body Slam, Fling, Focus Blast, Giga Impact, Hyper Beam, Psychic, Rock
-        Polish, Smack Down, Solarbeam, Thunderbolt]
+  Trubbish:
+    abilities:
+    - [Aftermath, Stench, Sticky Hold]
+    egggroups:
+    - [Mineral]
+    evolutions: [Garbodor]
+    height: [0.6]
+    introduction: bw
+    moves:
+    - bw: [Acid Spray, Amnesia, Attract, Clear Smog, Curse, Dark Pulse, Double Team,
+        Doubleslap, Drain Punch, Explosion, Facade, Frustration, Giga Drain, Gunk
+          Shot, Haze, Hidden Power, Mud Sport, Pain Split, Payback, Poison Gas, Pound,
+        Protect, Rain Dance, Recycle, Rest, Return, Rock Blast, Rollout, Round, Sand-Attack,
+        Seed Bomb, Selfdestruct, Sleep Talk, Sludge, Sludge Bomb, Sludge Wave, Snore,
+        Spikes, Spite, Stockpile, Substitute, Sunny Day, Swagger, Swallow, Take Down,
+        Thief, Toxic, Toxic Spikes, Venoshock]
+    stats:
+    - [50, 50, 62, 40, 62, 65]
+    tags:
+    - [lc]
+    types:
+    - [Poison]
+    weight: [31]

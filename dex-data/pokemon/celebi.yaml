@@ -1,59 +1,54 @@
 pokemon:
   Celebi:
-    introduction: gs
-    types:
-    - [Grass, Psychic]
-    egggroups:
-    - []
     abilities:
     - [Natural Cure]
     - bw: [Natural Cure]
+    egggroups:
+    - []
+    height: [0.6]
+    introduction: gs
+    moves:
+    - gs: [Ancientpower, Baton Pass, Confusion, Curse, Defense Curl, Detect, Double
+          Team, Dream Eater, Endure, Flash, Frustration, Future Sight, Giga Drain,
+        Heal Bell, Hidden Power, Hyper Beam, Leech Seed, Mud-Slap, Nightmare, Perish
+          Song, Protect, Psych Up, Psychic, Rain Dance, Recover, Rest, Return, Safeguard,
+        Sandstorm, Shadow Ball, Sleep Talk, Snore, Solarbeam, Sunny Day, Swagger,
+        Sweet Scent, Swift, Toxic]
+    - bw: [Aerial Ace, Ancientpower, Baton Pass, Body Slam, Calm Mind, Charge Beam,
+        Confusion, Cut, Double Team, Dream Eater, Earth Power, Echoed Voice, Energy
+          Ball, Facade, Flash, Fling, Frustration, Future Sight, Giga Drain, Giga
+          Impact, Grass Knot, Heal Bell, Heal Block, Healing Wish, Helping Hand, Hidden
+          Power, Hyper Beam, Last Resort, Leaf Storm, Leech Seed, Light Screen, Magic
+          Coat, Magic Room, Magical Leaf, Mimic, Natural Gift, Perish Song, Protect,
+        Psych Up, Psychic, Rain Dance, Recover, Reflect, Rest, Return, Round, Safeguard,
+        Sandstorm, Seed Bomb, Shadow Ball, Shock Wave, Signal Beam, Skill Swap, Sleep
+          Talk, Snore, Solarbeam, Stealth Rock, Substitute, Sunny Day, Swagger, Swords
+          Dance, Synthesis, Thunder Wave, Toxic, Trick, Trick Room, U-turn, Uproar,
+        Wonder Room, Worry Seed, Zen Headbutt]
+    - dp: [Aerial Ace, Ancientpower, Baton Pass, Body Slam, Calm Mind, Charge Beam,
+        Confusion, Cut, Double Team, Dream Eater, Earth Power, Endure, Energy Ball,
+        Facade, Flash, Fling, Frustration, Future Sight, Giga Drain, Giga Impact,
+        Grass Knot, Heal Bell, Heal Block, Healing Wish, Helping Hand, Hidden Power,
+        Hyper Beam, Last Resort, Leaf Storm, Leech Seed, Light Screen, Magic Coat,
+        Magical Leaf, Mimic, Mud-Slap, Natural Gift, Perish Song, Protect, Psych Up,
+        Psychic, Rain Dance, Recover, Reflect, Rest, Return, Safeguard, Sandstorm,
+        Secret Power, Seed Bomb, Shadow Ball, Shock Wave, Signal Beam, Silver Wind,
+        Skill Swap, Sleep Talk, Snore, Solarbeam, Stealth Rock, Substitute, Sucker
+          Punch, Sunny Day, Swagger, Swift, Swords Dance, Synthesis, Thunder Wave,
+        Toxic, Trick, Trick Room, U-turn, Uproar, Water Pulse, Worry Seed, Zen Headbutt]
+    - rs: [Aerial Ace, Ancientpower, Baton Pass, Body Slam, Calm Mind, Confusion,
+        Cut, Defense Curl, Double-Edge, Double Team, Dream Eater, Endure, Facade,
+        Flash, Frustration, Future Sight, Giga Drain, Heal Bell, Hidden Power, Hyper
+          Beam, Leech Seed, Light Screen, Metronome, Mimic, Mud-Slap, Nightmare, Perish
+          Song, Protect, Psych Up, Psychic, Rain Dance, Recover, Reflect, Rest, Return,
+        Safeguard, Sandstorm, Secret Power, Shadow Ball, Shock Wave, Skill Swap, Sleep
+          Talk, Snore, Solarbeam, Substitute, Sunny Day, Swagger, Swift, Swords Dance,
+        Toxic, Water Pulse]
     stats:
     - [100, 100, 100, 100, 100, 100]
     tags:
     - [uber]
     - rs: [ou]
+    types:
+    - [Grass, Psychic]
     weight: [5]
-    height: [0.6]
-evolutions: []
-learnsets:
-  gs:
-    Celebi: [Ancientpower, Baton Pass, Confusion, Curse, Defense Curl, Detect, Double
-        Team, Dream Eater, Endure, Flash, Frustration, Future Sight, Giga Drain, Heal
-        Bell, Hidden Power, Hyper Beam, Leech Seed, Mud-Slap, Nightmare, Perish Song,
-      Protect, Psych Up, Psychic, Rain Dance, Recover, Rest, Return, Safeguard, Sandstorm,
-      Shadow Ball, Sleep Talk, Snore, Solarbeam, Sunny Day, Swagger, Sweet Scent,
-      Swift, Toxic]
-  rs:
-    Celebi: [Aerial Ace, Ancientpower, Baton Pass, Body Slam, Calm Mind, Confusion,
-      Cut, Defense Curl, Double-Edge, Double Team, Dream Eater, Endure, Facade, Flash,
-      Frustration, Future Sight, Giga Drain, Heal Bell, Hidden Power, Hyper Beam,
-      Leech Seed, Light Screen, Metronome, Mimic, Mud-Slap, Nightmare, Perish Song,
-      Protect, Psych Up, Psychic, Rain Dance, Recover, Reflect, Rest, Return, Safeguard,
-      Sandstorm, Secret Power, Shadow Ball, Shock Wave, Skill Swap, Sleep Talk, Snore,
-      Solarbeam, Substitute, Sunny Day, Swagger, Swift, Swords Dance, Toxic, Water
-        Pulse]
-  dp:
-    Celebi: [Aerial Ace, Ancientpower, Baton Pass, Body Slam, Calm Mind, Charge Beam,
-      Confusion, Cut, Double Team, Dream Eater, Earth Power, Endure, Energy Ball,
-      Facade, Flash, Fling, Frustration, Future Sight, Giga Drain, Giga Impact, Grass
-        Knot, Heal Bell, Heal Block, Healing Wish, Helping Hand, Hidden Power, Hyper
-        Beam, Last Resort, Leaf Storm, Leech Seed, Light Screen, Magic Coat, Magical
-        Leaf, Mimic, Mud-Slap, Natural Gift, Perish Song, Protect, Psych Up, Psychic,
-      Rain Dance, Recover, Reflect, Rest, Return, Safeguard, Sandstorm, Secret Power,
-      Seed Bomb, Shadow Ball, Shock Wave, Signal Beam, Silver Wind, Skill Swap, Sleep
-        Talk, Snore, Solarbeam, Stealth Rock, Substitute, Sucker Punch, Sunny Day,
-      Swagger, Swift, Swords Dance, Synthesis, Thunder Wave, Toxic, Trick, Trick Room,
-      U-turn, Uproar, Water Pulse, Worry Seed, Zen Headbutt]
-  bw:
-    Celebi: [Aerial Ace, Ancientpower, Baton Pass, Body Slam, Calm Mind, Charge Beam,
-      Confusion, Cut, Double Team, Dream Eater, Earth Power, Echoed Voice, Energy
-        Ball, Facade, Flash, Fling, Frustration, Future Sight, Giga Drain, Giga Impact,
-      Grass Knot, Heal Bell, Heal Block, Healing Wish, Helping Hand, Hidden Power,
-      Hyper Beam, Last Resort, Leaf Storm, Leech Seed, Light Screen, Magic Coat, Magic
-        Room, Magical Leaf, Mimic, Natural Gift, Perish Song, Protect, Psych Up, Psychic,
-      Rain Dance, Recover, Reflect, Rest, Return, Round, Safeguard, Sandstorm, Seed
-        Bomb, Shadow Ball, Shock Wave, Signal Beam, Skill Swap, Sleep Talk, Snore,
-      Solarbeam, Stealth Rock, Substitute, Sunny Day, Swagger, Swords Dance, Synthesis,
-      Thunder Wave, Toxic, Trick, Trick Room, U-turn, Uproar, Wonder Room, Worry Seed,
-      Zen Headbutt]

@@ -1,95 +1,92 @@
 pokemon:
   Cyndaquil:
-    introduction: gs
-    types:
-    - [Fire]
-    egggroups:
-    - [Ground]
     abilities:
     - [Blaze]
     - bw: [Blaze, Flash Fire]
+    egggroups:
+    - [Ground]
+    evolutions: [Quilava]
+    height: [0.5]
+    introduction: gs
+    moves:
+    - gs: [Attract, Curse, Cut, Defense Curl, Detect, Dig, Double Team, Ember, Endure,
+        Fire Blast, Flame Wheel, Flamethrower, Foresight, Frustration, Fury Swipes,
+        Headbutt, Hidden Power, Iron Tail, Leer, Mud-Slap, Protect, Quick Attack,
+        Rest, Return, Reversal, Rollout, Sleep Talk, Smokescreen, Snore, Submission,
+        Sunny Day, Swagger, Swift, Tackle, Thrash, Toxic]
+    - bw: [Aerial Ace, Attract, Covet, Crush Claw, Cut, Defense Curl, Dig, Double-Edge,
+        Double Kick, Double Team, Ember, Eruption, Extrasensory, Facade, Fire Blast,
+        Fire Pledge, Flame Burst, Flame Charge, Flame Wheel, Flamethrower, Flare Blitz,
+        Foresight, Frustration, Fury Swipes, Heat Wave, Hidden Power, Howl, Incinerate,
+        Inferno, Lava Plume, Leer, Nature Power, Overheat, Protect, Quick Attack,
+        Rest, Return, Reversal, Rollout, Round, Sleep Talk, Smokescreen, Snore, Substitute,
+        Sunny Day, Swagger, Swift, Tackle, Thrash, Toxic, Wild Charge, Will-O-Wisp]
+    - dp: [Aerial Ace, Attract, Captivate, Covet, Crush Claw, Cut, Defense Curl, Dig,
+        Double-Edge, Double Kick, Double Team, Ember, Endure, Eruption, Extrasensory,
+        Facade, Fire Blast, Flame Wheel, Flamethrower, Flare Blitz, Foresight, Frustration,
+        Fury Swipes, Headbutt, Heat Wave, Hidden Power, Howl, Lava Plume, Leer, Mud-Slap,
+        Natural Gift, Overheat, Protect, Quick Attack, Rest, Return, Reversal, Rollout,
+        Secret Power, Sleep Talk, Smokescreen, Snore, Substitute, Sunny Day, Swagger,
+        Swift, Tackle, Thrash, Toxic, Will-O-Wisp]
+    - rs: [Aerial Ace, Attract, Body Slam, Covet, Crush Claw, Cut, Defense Curl, Dig,
+        Double-Edge, Double Team, Ember, Endure, Facade, Fire Blast, Flame Wheel,
+        Flamethrower, Foresight, Frustration, Fury Swipes, Hidden Power, Howl, Leer,
+        Mimic, Mud-Slap, Overheat, Protect, Quick Attack, Rest, Return, Reversal,
+        Rollout, Secret Power, Sleep Talk, Smokescreen, Snore, Substitute, Sunny Day,
+        Swagger, Swift, Tackle, Thrash, Toxic]
     stats:
     - [39, 52, 43, 60, 50, 65]
     tags:
     - [nfe]
     - dp: [lc]
-    weight: [7.9]
-    height: [0.5]
-  Quilava:
-    introduction: gs
     types:
     - [Fire]
-    egggroups:
-    - [Ground]
+    weight: [7.9]
+  Quilava:
     abilities:
     - [Blaze]
     - bw: [Blaze, Flash Fire]
+    egggroups:
+    - [Ground]
+    evolutions: [Typhlosion]
+    height: [0.9]
+    introduction: gs
+    moves:
+    - gs: [Fury Cutter, Roar, Rock Smash, Strength]
+    - bw: [Brick Break, Roar, Rock Smash, Strength]
+    - dp: [Brick Break, Focus Punch, Fury Cutter, Roar, Rock Smash, Strength]
+    - rs: [Brick Break, Focus Punch, Fury Cutter, Roar, Rock Smash, Strength]
     stats:
     - [58, 64, 58, 80, 65, 80]
     tags:
     - [nfe]
-    weight: [19]
-    height: [0.9]
-  Typhlosion:
-    introduction: gs
     types:
     - [Fire]
-    egggroups:
-    - [Ground]
+    weight: [19]
+  Typhlosion:
     abilities:
     - [Blaze]
     - bw: [Blaze, Flash Fire]
+    egggroups:
+    - [Ground]
+    height: [1.7]
+    introduction: gs
+    moves:
+    - gs: [Dynamicpunch, Earthquake, Fire Punch, Hyper Beam, Thunderpunch]
+    - bw: [Blast Burn, Bulldoze, Earthquake, Fire Punch, Fling, Focus Blast, Giga
+          Impact, Gyro Ball, Hyper Beam, Low Kick, Rock Slide, Rock Tomb, Shadow Claw,
+        Solarbeam, Thunderpunch]
+    - dp: [Blast Burn, Earthquake, Fire Punch, Fling, Focus Blast, Giga Impact, Gyro
+          Ball, Hyper Beam, Low Kick, Rock Climb, Rock Slide, Rock Tomb, Shadow Claw,
+        Solarbeam, Thunderpunch]
+    - rs: [Counter, Dynamicpunch, Earthquake, Fire Punch, Hyper Beam, Mega Kick, Mega
+          Punch, Rock Slide, Seismic Toss, Thunderpunch]
     stats:
     - [78, 84, 78, 109, 85, 100]
     tags:
     - [bl]
     - bw: [ru]
     - dp: [nu]
+    types:
+    - [Fire]
     weight: [79.5]
-    height: [1.7]
-evolutions:
-- {from: Cyndaquil, to: Quilava}
-- {from: Quilava, to: Typhlosion}
-learnsets:
-  gs:
-    Cyndaquil: [Attract, Curse, Cut, Defense Curl, Detect, Dig, Double Team, Ember,
-      Endure, Fire Blast, Flame Wheel, Flamethrower, Foresight, Frustration, Fury
-        Swipes, Headbutt, Hidden Power, Iron Tail, Leer, Mud-Slap, Protect, Quick
-        Attack, Rest, Return, Reversal, Rollout, Sleep Talk, Smokescreen, Snore, Submission,
-      Sunny Day, Swagger, Swift, Tackle, Thrash, Toxic]
-    Quilava: [Fury Cutter, Roar, Rock Smash, Strength]
-    Typhlosion: [Dynamicpunch, Earthquake, Fire Punch, Hyper Beam, Thunderpunch]
-  rs:
-    Cyndaquil: [Aerial Ace, Attract, Body Slam, Covet, Crush Claw, Cut, Defense Curl,
-      Dig, Double-Edge, Double Team, Ember, Endure, Facade, Fire Blast, Flame Wheel,
-      Flamethrower, Foresight, Frustration, Fury Swipes, Hidden Power, Howl, Leer,
-      Mimic, Mud-Slap, Overheat, Protect, Quick Attack, Rest, Return, Reversal, Rollout,
-      Secret Power, Sleep Talk, Smokescreen, Snore, Substitute, Sunny Day, Swagger,
-      Swift, Tackle, Thrash, Toxic]
-    Quilava: [Brick Break, Focus Punch, Fury Cutter, Roar, Rock Smash, Strength]
-    Typhlosion: [Counter, Dynamicpunch, Earthquake, Fire Punch, Hyper Beam, Mega Kick,
-      Mega Punch, Rock Slide, Seismic Toss, Thunderpunch]
-  dp:
-    Cyndaquil: [Aerial Ace, Attract, Captivate, Covet, Crush Claw, Cut, Defense Curl,
-      Dig, Double-Edge, Double Kick, Double Team, Ember, Endure, Eruption, Extrasensory,
-      Facade, Fire Blast, Flame Wheel, Flamethrower, Flare Blitz, Foresight, Frustration,
-      Fury Swipes, Headbutt, Heat Wave, Hidden Power, Howl, Lava Plume, Leer, Mud-Slap,
-      Natural Gift, Overheat, Protect, Quick Attack, Rest, Return, Reversal, Rollout,
-      Secret Power, Sleep Talk, Smokescreen, Snore, Substitute, Sunny Day, Swagger,
-      Swift, Tackle, Thrash, Toxic, Will-O-Wisp]
-    Quilava: [Brick Break, Focus Punch, Fury Cutter, Roar, Rock Smash, Strength]
-    Typhlosion: [Blast Burn, Earthquake, Fire Punch, Fling, Focus Blast, Giga Impact,
-      Gyro Ball, Hyper Beam, Low Kick, Rock Climb, Rock Slide, Rock Tomb, Shadow Claw,
-      Solarbeam, Thunderpunch]
-  bw:
-    Cyndaquil: [Aerial Ace, Attract, Covet, Crush Claw, Cut, Defense Curl, Dig, Double-Edge,
-      Double Kick, Double Team, Ember, Eruption, Extrasensory, Facade, Fire Blast,
-      Fire Pledge, Flame Burst, Flame Charge, Flame Wheel, Flamethrower, Flare Blitz,
-      Foresight, Frustration, Fury Swipes, Heat Wave, Hidden Power, Howl, Incinerate,
-      Inferno, Lava Plume, Leer, Nature Power, Overheat, Protect, Quick Attack, Rest,
-      Return, Reversal, Rollout, Round, Sleep Talk, Smokescreen, Snore, Substitute,
-      Sunny Day, Swagger, Swift, Tackle, Thrash, Toxic, Wild Charge, Will-O-Wisp]
-    Quilava: [Brick Break, Roar, Rock Smash, Strength]
-    Typhlosion: [Blast Burn, Bulldoze, Earthquake, Fire Punch, Fling, Focus Blast,
-      Giga Impact, Gyro Ball, Hyper Beam, Low Kick, Rock Slide, Rock Tomb, Shadow
-        Claw, Solarbeam, Thunderpunch]

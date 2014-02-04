@@ -1,59 +1,59 @@
 pokemon:
   Axew:
-    introduction: bw
-    types:
-    - [Dragon]
-    egggroups:
-    - [Dragon, Monster]
     abilities:
     - [Mold Breaker, Rivalry, Unnerve]
+    egggroups:
+    - [Dragon, Monster]
+    evolutions: [Fraxure]
+    height: [0.6]
+    introduction: bw
+    moves:
+    - bw: [Aerial Ace, Aqua Tail, Assurance, Attract, Counter, Cut, Dig, Double Team,
+        Draco Meteor, Dragon Claw, Dragon Dance, Dragon Pulse, Dragon Rage, Dual Chop,
+        Endeavor, Endure, Facade, False Swipe, Fling, Focus Energy, Frustration, Giga
+          Impact, Guillotine, Harden, Hidden Power, Hone Claws, Incinerate, Iron Tail,
+        Leer, Night Slash, Outrage, Payback, Poison Jab, Protect, Rain Dance, Razor
+          Wind, Rest, Return, Reversal, Roar, Rock Smash, Rock Tomb, Round, Scary
+          Face, Scratch, Slash, Sleep Talk, Snore, Strength, Substitute, Sunny Day,
+        Superpower, Swagger, Swords Dance, Taunt, Toxic, X-scissor]
     stats:
     - [46, 87, 60, 30, 40, 57]
     tags:
     - [lc]
-    weight: [18]
-    height: [0.6]
-  Fraxure:
-    introduction: bw
     types:
     - [Dragon]
-    egggroups:
-    - [Dragon, Monster]
+    weight: [18]
+  Fraxure:
     abilities:
     - [Mold Breaker, Rivalry, Unnerve]
+    egggroups:
+    - [Dragon, Monster]
+    evolutions: [Haxorus]
+    height: [1]
+    introduction: bw
+    moves:
+    - bw: [Dragon Tail, Low Kick, Shadow Claw]
     stats:
     - [66, 117, 70, 40, 50, 67]
     tags:
     - [nu]
-    weight: [36]
-    height: [1]
-  Haxorus:
-    introduction: bw
     types:
     - [Dragon]
-    egggroups:
-    - [Dragon, Monster]
+    weight: [36]
+  Haxorus:
     abilities:
     - [Mold Breaker, Rivalry, Unnerve]
+    egggroups:
+    - [Dragon, Monster]
+    height: [1.8]
+    introduction: bw
+    moves:
+    - bw: [Brick Break, Bulldoze, Earthquake, Focus Blast, Grass Knot, Hyper Beam,
+        Rock Slide, Surf]
     stats:
     - [76, 147, 90, 60, 70, 97]
     tags:
     - [ou]
+    types:
+    - [Dragon]
     weight: [105.5]
-    height: [1.8]
-evolutions:
-- {from: Axew, to: Fraxure}
-- {from: Fraxure, to: Haxorus}
-learnsets:
-  bw:
-    Axew: [Aerial Ace, Aqua Tail, Assurance, Attract, Counter, Cut, Dig, Double Team,
-      Draco Meteor, Dragon Claw, Dragon Dance, Dragon Pulse, Dragon Rage, Dual Chop,
-      Endeavor, Endure, Facade, False Swipe, Fling, Focus Energy, Frustration, Giga
-        Impact, Guillotine, Harden, Hidden Power, Hone Claws, Incinerate, Iron Tail,
-      Leer, Night Slash, Outrage, Payback, Poison Jab, Protect, Rain Dance, Razor
-        Wind, Rest, Return, Reversal, Roar, Rock Smash, Rock Tomb, Round, Scary Face,
-      Scratch, Slash, Sleep Talk, Snore, Strength, Substitute, Sunny Day, Superpower,
-      Swagger, Swords Dance, Taunt, Toxic, X-scissor]
-    Fraxure: [Dragon Tail, Low Kick, Shadow Claw]
-    Haxorus: [Brick Break, Bulldoze, Earthquake, Focus Blast, Grass Knot, Hyper Beam,
-      Rock Slide, Surf]

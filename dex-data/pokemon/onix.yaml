@@ -1,13 +1,45 @@
 pokemon:
   Onix:
-    introduction: rb
-    types:
-    - [Ground, Rock]
-    egggroups:
-    - [Mineral]
     abilities:
     - [Rock Head, Sturdy]
     - bw: [Rock Head, Sturdy, Weak Armor]
+    egggroups:
+    - [Mineral]
+    evolutions: [Steelix]
+    height: [8.8]
+    introduction: rb
+    moves:
+    - gs: [Attract, Bind, Curse, Dig, Double Team, Earthquake, Endure, Flail, Frustration,
+        Harden, Headbutt, Hidden Power, Iron Tail, Mud-Slap, Protect, Rage, Rest,
+        Return, Roar, Rock Slide, Rock Smash, Rock Throw, Sandstorm, Screech, Slam,
+        Sleep Talk, Snore, Strength, Sunny Day, Swagger, Tackle, Toxic, Sharpen]
+    - bw: [Attract, Bind, Block, Bulldoze, Curse, Defense Curl, Dig, Double-Edge,
+        Double Team, Dragon Pulse, Dragon Tail, Dragonbreath, Earth Power, Earthquake,
+        Explosion, Facade, Flail, Flash Cannon, Frustration, Gyro Ball, Harden, Heavy
+          Slam, Hidden Power, Iron Head, Iron Tail, Mud Sport, Payback, Protect, Psych
+          Up, Rage, Rest, Return, Roar, Rock Blast, Rock Climb, Rock Polish, Rock
+          Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Round, Sand Tomb, Sandstorm,
+        Screech, Slam, Sleep Talk, Smack Down, Snore, Stealth Rock, Stone Edge, Strength,
+        Substitute, Sunny Day, Swagger, Tackle, Taunt, Torment, Toxic, Body Slam,
+        Mimic, Selfdestruct]
+    - dp: [Ancientpower, Attract, Bind, Block, Captivate, Curse, Defense Curl, Dig,
+        Double-Edge, Double Team, Dragon Pulse, Dragonbreath, Earth Power, Earthquake,
+        Endure, Explosion, Facade, Flail, Flash Cannon, Frustration, Gyro Ball, Harden,
+        Headbutt, Hidden Power, Iron Head, Iron Tail, Mud-Slap, Mud Sport, Natural
+          Gift, Payback, Protect, Psych Up, Rage, Rest, Return, Roar, Rock Blast,
+        Rock Climb, Rock Polish, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout,
+        Sand Tomb, Sandstorm, Screech, Secret Power, Slam, Sleep Talk, Snore, Stealth
+          Rock, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Tackle, Taunt,
+        Torment, Toxic, Twister, Body Slam, Mimic, Selfdestruct]
+    - rs: [Attract, Bind, Block, Body Slam, Dig, Double-Edge, Double Team, Dragonbreath,
+        Earthquake, Endure, Explosion, Facade, Flail, Frustration, Harden, Hidden
+          Power, Iron Tail, Mimic, Mud-Slap, Protect, Psych Up, Rage, Rest, Return,
+        Roar, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Sand Tomb, Sandstorm,
+        Screech, Secret Power, Selfdestruct, Slam, Sleep Talk, Snore, Strength, Substitute,
+        Sunny Day, Swagger, Tackle, Taunt, Torment, Toxic, Body Slam, Mimic, Selfdestruct]
+    - rb: [Bide, Bind, Body Slam, Dig, Double-Edge, Double Team, Earthquake, Explosion,
+        Fissure, Harden, Mimic, Rage, Rest, Rock Slide, Rock Throw, Screech, Selfdestruct,
+        Skull Bash, Slam, Strength, Substitute, Tackle, Take Down, Toxic, Sharpen]
     stats:
     - [35, 45, 160, 30, 30, 70]
     - gs: [35, 45, 160, 30, 45, 70]
@@ -15,17 +47,24 @@ pokemon:
     - []
     - dp: [lc]
       gs: [nfe]
-    weight: [210]
-    height: [8.8]
-  Steelix:
-    introduction: gs
     types:
-    - [Ground, Steel]
-    egggroups:
-    - [Mineral]
+    - [Ground, Rock]
+    weight: [210]
+  Steelix:
     abilities:
     - [Rock Head, Sturdy]
     - bw: [Rock Head, Sheer Force, Sturdy]
+    egggroups:
+    - [Mineral]
+    height: [9.2]
+    introduction: gs
+    moves:
+    - gs: [Crunch, Cut, Defense Curl, Dragonbreath, Hyper Beam, Rollout]
+    - bw: [Aqua Tail, Autotomize, Crunch, Cut, Dark Pulse, Fire Fang, Giga Impact,
+        Hyper Beam, Ice Fang, Magnet Rise, Thunder Fang, Body Slam, Mimic, Selfdestruct]
+    - dp: [Aqua Tail, Crunch, Cut, Dark Pulse, Fire Fang, Giga Impact, Hyper Beam,
+        Ice Fang, Magnet Rise, Thunder Fang, Body Slam, Mimic, Selfdestruct]
+    - rs: [Crunch, Cut, Defense Curl, Hyper Beam, Rollout, Body Slam, Mimic, Selfdestruct]
     stats:
     - [75, 85, 200, 55, 65, 30]
     tags:
@@ -33,49 +72,6 @@ pokemon:
     - bw: [ru]
       dp: [uu]
       rs: [bl]
+    types:
+    - [Ground, Steel]
     weight: [400]
-    height: [9.2]
-evolutions:
-- {from: Onix, to: Steelix}
-learnsets:
-  rb:
-    Onix: [Bide, Bind, Body Slam, Dig, Double-Edge, Double Team, Earthquake, Explosion,
-      Fissure, Harden, Mimic, Rage, Rest, Rock Slide, Rock Throw, Screech, Selfdestruct,
-      Skull Bash, Slam, Strength, Substitute, Tackle, Take Down, Toxic, Sharpen]
-  gs:
-    Onix: [Attract, Bind, Curse, Dig, Double Team, Earthquake, Endure, Flail, Frustration,
-      Harden, Headbutt, Hidden Power, Iron Tail, Mud-Slap, Protect, Rage, Rest, Return,
-      Roar, Rock Slide, Rock Smash, Rock Throw, Sandstorm, Screech, Slam, Sleep Talk,
-      Snore, Strength, Sunny Day, Swagger, Tackle, Toxic, Sharpen]
-    Steelix: [Crunch, Cut, Defense Curl, Dragonbreath, Hyper Beam, Rollout]
-  rs:
-    Onix: [Attract, Bind, Block, Body Slam, Dig, Double-Edge, Double Team, Dragonbreath,
-      Earthquake, Endure, Explosion, Facade, Flail, Frustration, Harden, Hidden Power,
-      Iron Tail, Mimic, Mud-Slap, Protect, Psych Up, Rage, Rest, Return, Roar, Rock
-        Slide, Rock Smash, Rock Throw, Rock Tomb, Sand Tomb, Sandstorm, Screech, Secret
-        Power, Selfdestruct, Slam, Sleep Talk, Snore, Strength, Substitute, Sunny
-        Day, Swagger, Tackle, Taunt, Torment, Toxic, Body Slam, Mimic, Selfdestruct]
-    Steelix: [Crunch, Cut, Defense Curl, Hyper Beam, Rollout, Body Slam, Mimic, Selfdestruct]
-  dp:
-    Onix: [Ancientpower, Attract, Bind, Block, Captivate, Curse, Defense Curl, Dig,
-      Double-Edge, Double Team, Dragon Pulse, Dragonbreath, Earth Power, Earthquake,
-      Endure, Explosion, Facade, Flail, Flash Cannon, Frustration, Gyro Ball, Harden,
-      Headbutt, Hidden Power, Iron Head, Iron Tail, Mud-Slap, Mud Sport, Natural Gift,
-      Payback, Protect, Psych Up, Rage, Rest, Return, Roar, Rock Blast, Rock Climb,
-      Rock Polish, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Sand Tomb,
-      Sandstorm, Screech, Secret Power, Slam, Sleep Talk, Snore, Stealth Rock, Stone
-        Edge, Strength, Substitute, Sunny Day, Swagger, Tackle, Taunt, Torment, Toxic,
-      Twister, Body Slam, Mimic, Selfdestruct]
-    Steelix: [Aqua Tail, Crunch, Cut, Dark Pulse, Fire Fang, Giga Impact, Hyper Beam,
-      Ice Fang, Magnet Rise, Thunder Fang, Body Slam, Mimic, Selfdestruct]
-  bw:
-    Onix: [Attract, Bind, Block, Bulldoze, Curse, Defense Curl, Dig, Double-Edge,
-      Double Team, Dragon Pulse, Dragon Tail, Dragonbreath, Earth Power, Earthquake,
-      Explosion, Facade, Flail, Flash Cannon, Frustration, Gyro Ball, Harden, Heavy
-        Slam, Hidden Power, Iron Head, Iron Tail, Mud Sport, Payback, Protect, Psych
-        Up, Rage, Rest, Return, Roar, Rock Blast, Rock Climb, Rock Polish, Rock Slide,
-      Rock Smash, Rock Throw, Rock Tomb, Rollout, Round, Sand Tomb, Sandstorm, Screech,
-      Slam, Sleep Talk, Smack Down, Snore, Stealth Rock, Stone Edge, Strength, Substitute,
-      Sunny Day, Swagger, Tackle, Taunt, Torment, Toxic, Body Slam, Mimic, Selfdestruct]
-    Steelix: [Aqua Tail, Autotomize, Crunch, Cut, Dark Pulse, Fire Fang, Giga Impact,
-      Hyper Beam, Ice Fang, Magnet Rise, Thunder Fang, Body Slam, Mimic, Selfdestruct]

@@ -1,45 +1,41 @@
 pokemon:
-  Wynaut:
-    introduction: rs
-    types:
-    - [Psychic]
-    egggroups:
-    - []
+  Wobbuffet:
     abilities:
     - [Shadow Tag]
     - bw: [Shadow Tag, Telepathy]
-    stats:
-    - [95, 23, 48, 23, 48, 23]
-    tags:
-    - [uber]
-    - bw: [lc]
-    weight: [14]
-    height: [0.6]
-  Wobbuffet:
-    introduction: gs
-    types:
-    - [Psychic]
     egggroups:
     - [Indeterminate]
-    abilities:
-    - [Shadow Tag]
-    - bw: [Shadow Tag, Telepathy]
+    height: [1.3]
+    introduction: gs
+    moves:
+    - gs: [Counter, Destiny Bond, Mirror Coat, Safeguard]
     stats:
     - [190, 33, 58, 33, 58, 33]
     tags:
     - [uu]
     - bw: [bl]
       rs: [uber]
+    types:
+    - [Psychic]
     weight: [28.5]
-    height: [1.3]
-evolutions:
-- {from: Wynaut, to: Wobbuffet}
-learnsets:
-  gs:
-    Wobbuffet: [Counter, Destiny Bond, Mirror Coat, Safeguard]
-  rs:
-    Wynaut: [Charm, Counter, Destiny Bond, Encore, Mirror Coat, Safeguard, Splash]
-  dp:
-    Wynaut: [Charm, Counter, Destiny Bond, Encore, Mirror Coat, Safeguard, Splash]
-  bw:
-    Wynaut: [Charm, Counter, Destiny Bond, Encore, Mirror Coat, Safeguard, Splash]
+  Wynaut:
+    abilities:
+    - [Shadow Tag]
+    - bw: [Shadow Tag, Telepathy]
+    egggroups:
+    - []
+    evolutions: [Wobbuffet]
+    height: [0.6]
+    introduction: rs
+    moves:
+    - bw: [Charm, Counter, Destiny Bond, Encore, Mirror Coat, Safeguard, Splash]
+    - dp: [Charm, Counter, Destiny Bond, Encore, Mirror Coat, Safeguard, Splash]
+    - rs: [Charm, Counter, Destiny Bond, Encore, Mirror Coat, Safeguard, Splash]
+    stats:
+    - [95, 23, 48, 23, 48, 23]
+    tags:
+    - [uber]
+    - bw: [lc]
+    types:
+    - [Psychic]
+    weight: [14]

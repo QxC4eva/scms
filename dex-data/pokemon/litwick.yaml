@@ -1,60 +1,59 @@
 pokemon:
-  Litwick:
-    introduction: bw
-    types:
-    - [Fire, Ghost]
-    egggroups:
-    - [Indeterminate]
-    abilities:
-    - [Flame Body, Flash Fire, Shadow Tag]
-    - xy: [Flame Body, Flash Fire, Infiltrator]
-    stats:
-    - [50, 30, 55, 65, 55, 20]
-    tags:
-    - [lc]
-    weight: [3.1]
-    height: [0.3]
-  Lampent:
-    introduction: bw
-    types:
-    - [Fire, Ghost]
-    egggroups:
-    - [Indeterminate]
-    abilities:
-    - [Flame Body, Flash Fire, Shadow Tag]
-    - xy: [Flame Body, Flash Fire, Infiltrator]
-    stats:
-    - [60, 40, 60, 95, 60, 55]
-    tags:
-    - [nu]
-    weight: [13]
-    height: [0.6]
   Chandelure:
-    introduction: bw
-    types:
-    - [Fire, Ghost]
-    egggroups:
-    - [Indeterminate]
     abilities:
     - [Flame Body, Flash Fire, Shadow Tag]
     - xy: [Flame Body, Flash Fire, Infiltrator]
+    egggroups:
+    - [Indeterminate]
+    height: [1]
+    introduction: bw
+    moves:
+    - bw: [Giga Impact, Hyper Beam]
     stats:
     - [60, 55, 90, 145, 90, 80]
     tags:
     - [uu]
+    types:
+    - [Fire, Ghost]
     weight: [34.3]
-    height: [1]
-evolutions:
-- {from: Litwick, to: Lampent}
-- {from: Lampent, to: Chandelure}
-learnsets:
-  bw:
-    Litwick: [Acid, Acid Armor, Astonish, Attract, Calm Mind, Captivate, Clear Smog,
-      Confuse Ray, Curse, Dark Pulse, Double Team, Dream Eater, Embargo, Ember, Endure,
-      Energy Ball, Facade, Fire Blast, Fire Spin, Flame Burst, Flame Charge, Flamethrower,
-      Flash, Frustration, Haze, Heat Wave, Hex, Hidden Power, Imprison, Incinerate,
-      Inferno, Memento, Minimize, Night Shade, Overheat, Pain Split, Payback, Protect,
-      Psych Up, Psychic, Rest, Return, Round, Safeguard, Shadow Ball, Sleep Talk,
-      Smog, Snore, Solarbeam, Spite, Substitute, Sunny Day, Swagger, Taunt, Telekinesis,
-      Thief, Toxic, Trick, Trick Room, Will-O-Wisp]
-    Chandelure: [Giga Impact, Hyper Beam]
+  Lampent:
+    abilities:
+    - [Flame Body, Flash Fire, Shadow Tag]
+    - xy: [Flame Body, Flash Fire, Infiltrator]
+    egggroups:
+    - [Indeterminate]
+    evolutions: [Chandelure]
+    height: [0.6]
+    introduction: bw
+    stats:
+    - [60, 40, 60, 95, 60, 55]
+    tags:
+    - [nu]
+    types:
+    - [Fire, Ghost]
+    weight: [13]
+  Litwick:
+    abilities:
+    - [Flame Body, Flash Fire, Shadow Tag]
+    - xy: [Flame Body, Flash Fire, Infiltrator]
+    egggroups:
+    - [Indeterminate]
+    evolutions: [Lampent]
+    height: [0.3]
+    introduction: bw
+    moves:
+    - bw: [Acid, Acid Armor, Astonish, Attract, Calm Mind, Captivate, Clear Smog,
+        Confuse Ray, Curse, Dark Pulse, Double Team, Dream Eater, Embargo, Ember,
+        Endure, Energy Ball, Facade, Fire Blast, Fire Spin, Flame Burst, Flame Charge,
+        Flamethrower, Flash, Frustration, Haze, Heat Wave, Hex, Hidden Power, Imprison,
+        Incinerate, Inferno, Memento, Minimize, Night Shade, Overheat, Pain Split,
+        Payback, Protect, Psych Up, Psychic, Rest, Return, Round, Safeguard, Shadow
+          Ball, Sleep Talk, Smog, Snore, Solarbeam, Spite, Substitute, Sunny Day,
+        Swagger, Taunt, Telekinesis, Thief, Toxic, Trick, Trick Room, Will-O-Wisp]
+    stats:
+    - [50, 30, 55, 65, 55, 20]
+    tags:
+    - [lc]
+    types:
+    - [Fire, Ghost]
+    weight: [3.1]

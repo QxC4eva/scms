@@ -1,31 +1,20 @@
 pokemon:
-  Vulpix:
-    introduction: rb
-    types:
-    - [Fire]
-    egggroups:
-    - [Ground]
-    abilities:
-    - [Flash Fire]
-    - bw: [Drought, Flash Fire]
-    stats:
-    - [38, 41, 40, 65, 65, 65]
-    - gs: [38, 41, 40, 50, 65, 65]
-    tags:
-    - [nfe]
-    - bw: [nfe]
-    - dp: [lc]
-    weight: [9.9]
-    height: [0.6]
   Ninetales:
-    introduction: rb
-    types:
-    - [Fire]
-    egggroups:
-    - [Ground]
     abilities:
     - [Flash Fire]
     - bw: [Drought, Flash Fire]
+    egggroups:
+    - [Ground]
+    height: [1.1]
+    introduction: rb
+    moves:
+    - gs: [Hyper Beam]
+    - bw: [Calm Mind, Dream Eater, Giga Impact, Hyper Beam, Nasty Plot, Psyshock,
+        Solarbeam, Body Slam, Double-Edge, Mimic]
+    - dp: [Calm Mind, Dream Eater, Giga Impact, Hyper Beam, Nasty Plot, Solarbeam,
+        Body Slam, Double-Edge, Mimic]
+    - rs: [Hyper Beam, Body Slam, Double-Edge, Mimic]
+    - rb: [Hyper Beam]
     stats:
     - [73, 76, 75, 100, 100, 100]
     - gs: [73, 76, 75, 81, 100, 100]
@@ -33,50 +22,58 @@ pokemon:
     - [uu]
     - bw: [ou]
     - dp: [nu]
+    types:
+    - [Fire]
     weight: [19.9]
-    height: [1.1]
-evolutions:
-- {from: Vulpix, to: Ninetales}
-learnsets:
-  rb:
-    Vulpix: [Bide, Body Slam, Confuse Ray, Dig, Double-Edge, Double Team, Ember, Fire
-        Blast, Fire Spin, Flamethrower, Mimic, Quick Attack, Rage, Reflect, Rest,
-      Roar, Skull Bash, Substitute, Swift, Tail Whip, Take Down, Toxic]
-    Ninetales: [Hyper Beam]
-  gs:
-    Vulpix: [Attract, Confuse Ray, Curse, Dig, Disable, Double Team, Ember, Endure,
-      Faint Attack, Fire Blast, Fire Spin, Flail, Flamethrower, Frustration, Headbutt,
-      Hidden Power, Hypnosis, Iron Tail, Protect, Quick Attack, Rest, Return, Roar,
-      Safeguard, Sleep Talk, Snore, Spite, Sunny Day, Swagger, Swift, Tail Whip, Toxic]
-    Ninetales: [Hyper Beam]
-  rs:
-    Vulpix: [Attract, Body Slam, Confuse Ray, Dig, Disable, Double-Edge, Double Team,
-      Ember, Endure, Facade, Faint Attack, Fire Blast, Fire Spin, Flail, Flamethrower,
-      Frustration, Grudge, Heat Wave, Hidden Power, Howl, Hypnosis, Imprison, Iron
-        Tail, Mimic, Overheat, Protect, Psych Up, Quick Attack, Rest, Return, Roar,
-      Safeguard, Secret Power, Sleep Talk, Snore, Spite, Substitute, Sunny Day, Swagger,
-      Swift, Tail Whip, Toxic, Will-O-Wisp, Body Slam, Charm, Double-Edge, Mimic]
-    Ninetales: [Hyper Beam, Body Slam, Double-Edge, Mimic]
-  dp:
-    Vulpix: [Attract, Captivate, Confuse Ray, Dark Pulse, Dig, Disable, Double Team,
-      Ember, Endure, Energy Ball, Extrasensory, Facade, Faint Attack, Fire Blast,
-      Fire Spin, Flail, Flamethrower, Flare Blitz, Frustration, Grudge, Headbutt,
-      Heat Wave, Hidden Power, Howl, Hypnosis, Imprison, Iron Tail, Natural Gift,
-      Ominous Wind, Overheat, Pain Split, Payback, Power Swap, Protect, Psych Up,
-      Quick Attack, Rest, Return, Roar, Role Play, Safeguard, Secret Power, Sleep
-        Talk, Snore, Spite, Substitute, Sunny Day, Swagger, Swift, Tail Whip, Toxic,
-      Will-O-Wisp, Zen Headbutt, Body Slam, Charm, Double-Edge, Mimic]
-    Ninetales: [Calm Mind, Dream Eater, Giga Impact, Hyper Beam, Nasty Plot, Solarbeam,
-      Body Slam, Double-Edge, Mimic]
-  bw:
-    Vulpix: [Attract, Captivate, Confuse Ray, Covet, Dark Pulse, Dig, Disable, Double
-        Team, Ember, Energy Ball, Extrasensory, Facade, Faint Attack, Fire Blast,
-      Fire Spin, Flail, Flame Burst, Flame Charge, Flamethrower, Flare Blitz, Foul
-        Play, Frustration, Grudge, Heat Wave, Hex, Hidden Power, Howl, Hypnosis, Imprison,
-      Incinerate, Inferno, Iron Tail, Overheat, Pain Split, Payback, Power Swap, Protect,
-      Psych Up, Quick Attack, Rest, Return, Roar, Role Play, Round, Safeguard, Secret
-        Power, Sleep Talk, Snore, Spite, Substitute, Sunny Day, Swagger, Tail Slap,
-      Tail Whip, Toxic, Will-O-Wisp, Zen Headbutt, Body Slam, Charm, Double-Edge,
-      Mimic]
-    Ninetales: [Calm Mind, Dream Eater, Giga Impact, Hyper Beam, Nasty Plot, Psyshock,
-      Solarbeam, Body Slam, Double-Edge, Mimic]
+  Vulpix:
+    abilities:
+    - [Flash Fire]
+    - bw: [Drought, Flash Fire]
+    egggroups:
+    - [Ground]
+    evolutions: [Ninetales]
+    height: [0.6]
+    introduction: rb
+    moves:
+    - gs: [Attract, Confuse Ray, Curse, Dig, Disable, Double Team, Ember, Endure,
+        Faint Attack, Fire Blast, Fire Spin, Flail, Flamethrower, Frustration, Headbutt,
+        Hidden Power, Hypnosis, Iron Tail, Protect, Quick Attack, Rest, Return, Roar,
+        Safeguard, Sleep Talk, Snore, Spite, Sunny Day, Swagger, Swift, Tail Whip,
+        Toxic]
+    - bw: [Attract, Captivate, Confuse Ray, Covet, Dark Pulse, Dig, Disable, Double
+          Team, Ember, Energy Ball, Extrasensory, Facade, Faint Attack, Fire Blast,
+        Fire Spin, Flail, Flame Burst, Flame Charge, Flamethrower, Flare Blitz, Foul
+          Play, Frustration, Grudge, Heat Wave, Hex, Hidden Power, Howl, Hypnosis,
+        Imprison, Incinerate, Inferno, Iron Tail, Overheat, Pain Split, Payback, Power
+          Swap, Protect, Psych Up, Quick Attack, Rest, Return, Roar, Role Play, Round,
+        Safeguard, Secret Power, Sleep Talk, Snore, Spite, Substitute, Sunny Day,
+        Swagger, Tail Slap, Tail Whip, Toxic, Will-O-Wisp, Zen Headbutt, Body Slam,
+        Charm, Double-Edge, Mimic]
+    - dp: [Attract, Captivate, Confuse Ray, Dark Pulse, Dig, Disable, Double Team,
+        Ember, Endure, Energy Ball, Extrasensory, Facade, Faint Attack, Fire Blast,
+        Fire Spin, Flail, Flamethrower, Flare Blitz, Frustration, Grudge, Headbutt,
+        Heat Wave, Hidden Power, Howl, Hypnosis, Imprison, Iron Tail, Natural Gift,
+        Ominous Wind, Overheat, Pain Split, Payback, Power Swap, Protect, Psych Up,
+        Quick Attack, Rest, Return, Roar, Role Play, Safeguard, Secret Power, Sleep
+          Talk, Snore, Spite, Substitute, Sunny Day, Swagger, Swift, Tail Whip, Toxic,
+        Will-O-Wisp, Zen Headbutt, Body Slam, Charm, Double-Edge, Mimic]
+    - rs: [Attract, Body Slam, Confuse Ray, Dig, Disable, Double-Edge, Double Team,
+        Ember, Endure, Facade, Faint Attack, Fire Blast, Fire Spin, Flail, Flamethrower,
+        Frustration, Grudge, Heat Wave, Hidden Power, Howl, Hypnosis, Imprison, Iron
+          Tail, Mimic, Overheat, Protect, Psych Up, Quick Attack, Rest, Return, Roar,
+        Safeguard, Secret Power, Sleep Talk, Snore, Spite, Substitute, Sunny Day,
+        Swagger, Swift, Tail Whip, Toxic, Will-O-Wisp, Body Slam, Charm, Double-Edge,
+        Mimic]
+    - rb: [Bide, Body Slam, Confuse Ray, Dig, Double-Edge, Double Team, Ember, Fire
+          Blast, Fire Spin, Flamethrower, Mimic, Quick Attack, Rage, Reflect, Rest,
+        Roar, Skull Bash, Substitute, Swift, Tail Whip, Take Down, Toxic]
+    stats:
+    - [38, 41, 40, 65, 65, 65]
+    - gs: [38, 41, 40, 50, 65, 65]
+    tags:
+    - [nfe]
+    - bw: [nfe]
+    - dp: [lc]
+    types:
+    - [Fire]
+    weight: [9.9]

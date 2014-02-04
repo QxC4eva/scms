@@ -1,26 +1,24 @@
 pokemon:
   Stunfisk:
-    introduction: bw
-    types:
-    - [Electric, Ground]
-    egggroups:
-    - [Indeterminate, Water 1]
     abilities:
     - [Limber, Sand Veil, Static]
+    egggroups:
+    - [Indeterminate, Water 1]
+    height: [0.7]
+    introduction: bw
+    moves:
+    - bw: [Aqua Tail, Astonish, Attract, Bide, Bounce, Bulldoze, Camouflage, Curse,
+        Dig, Discharge, Double Team, Earth Power, Earthquake, Electroweb, Endeavor,
+        Endure, Facade, Fissure, Flail, Flash, Foul Play, Frustration, Hidden Power,
+        Magnet Rise, Mud Bomb, Mud Shot, Mud-Slap, Mud Sport, Muddy Water, Pain Split,
+        Payback, Protect, Rain Dance, Rest, Return, Revenge, Rock Slide, Rock Tomb,
+        Round, Sandstorm, Scald, Shock Wave, Sleep Talk, Sludge Bomb, Sludge Wave,
+        Snore, Spark, Spite, Stealth Rock, Stone Edge, Substitute, Surf, Swagger,
+        Thunder, Thunder Wave, Thunderbolt, Thundershock, Toxic, Uproar, Yawn]
     stats:
     - [109, 66, 84, 81, 99, 32]
     tags:
     - [nu]
+    types:
+    - [Electric, Ground]
     weight: [11]
-    height: [0.7]
-evolutions: []
-learnsets:
-  bw:
-    Stunfisk: [Aqua Tail, Astonish, Attract, Bide, Bounce, Bulldoze, Camouflage, Curse,
-      Dig, Discharge, Double Team, Earth Power, Earthquake, Electroweb, Endeavor,
-      Endure, Facade, Fissure, Flail, Flash, Foul Play, Frustration, Hidden Power,
-      Magnet Rise, Mud Bomb, Mud Shot, Mud-Slap, Mud Sport, Muddy Water, Pain Split,
-      Payback, Protect, Rain Dance, Rest, Return, Revenge, Rock Slide, Rock Tomb,
-      Round, Sandstorm, Scald, Shock Wave, Sleep Talk, Sludge Bomb, Sludge Wave, Snore,
-      Spark, Spite, Stealth Rock, Stone Edge, Substitute, Surf, Swagger, Thunder,
-      Thunder Wave, Thunderbolt, Thundershock, Toxic, Uproar, Yawn]

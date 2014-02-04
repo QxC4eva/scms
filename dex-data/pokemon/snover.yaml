@@ -1,57 +1,55 @@
 pokemon:
-  Snover:
-    introduction: dp
-    types:
-    - [Grass, Ice]
-    egggroups:
-    - [Monster, Plant]
-    abilities:
-    - [Snow Warning, Soundproof]
-    stats:
-    - [60, 62, 50, 62, 60, 40]
-    tags:
-    - [nu]
-    - bw: [lc]
-    weight: [50.5]
-    height: [1]
   Abomasnow:
-    introduction: dp
-    types:
-    - [Grass, Ice]
-    egggroups:
-    - [Monster, Plant]
     abilities:
     - [Snow Warning, Soundproof]
+    egggroups:
+    - [Monster, Plant]
+    height: [2.2]
+    introduction: dp
+    moves:
+    - bw: [Block, Brick Break, Bulldoze, Earthquake, Fling, Focus Blast, Giga Impact,
+        Hyper Beam, Outrage, Rock Slide, Rock Smash, Rock Tomb, Strength]
+    - dp: [Block, Brick Break, Earthquake, Fling, Focus Blast, Focus Punch, Giga Impact,
+        Hyper Beam, Outrage, Rock Climb, Rock Slide, Rock Smash, Rock Tomb, Strength]
     stats:
     - [90, 92, 75, 92, 85, 60]
     tags:
     - [bl]
     - bw: [uu]
+    types:
+    - [Grass, Ice]
     weight: [135.5]
-    height: [2.2]
-evolutions:
-- {from: Snover, to: Abomasnow}
-learnsets:
-  dp:
-    Snover: [Attract, Avalanche, Blizzard, Bullet Seed, Captivate, Double-Edge, Double
-        Team, Endure, Energy Ball, Facade, Flash, Frustration, Giga Drain, Grass Knot,
-      Grasswhistle, Growth, Hail, Headbutt, Hidden Power, Ice Beam, Ice Punch, Ice
-        Shard, Icy Wind, Ingrain, Iron Tail, Leech Seed, Leer, Light Screen, Magical
-        Leaf, Mist, Mud-Slap, Natural Gift, Powder Snow, Protect, Rain Dance, Razor
-        Leaf, Rest, Return, Role Play, Safeguard, Secret Power, Seed Bomb, Shadow
-        Ball, Sheer Cold, Skull Bash, Sleep Talk, Snore, Solarbeam, Stomp, Substitute,
-      Swagger, Swords Dance, Synthesis, Toxic, Water Pulse, Wood Hammer, Worry Seed]
-    Abomasnow: [Block, Brick Break, Earthquake, Fling, Focus Blast, Focus Punch, Giga
-        Impact, Hyper Beam, Outrage, Rock Climb, Rock Slide, Rock Smash, Rock Tomb,
-      Strength]
-  bw:
-    Snover: [Attract, Avalanche, Blizzard, Bullet Seed, Double-Edge, Double Team,
-      Energy Ball, Facade, Flash, Frost Breath, Frustration, Giga Drain, Grass Knot,
-      Grasswhistle, Growth, Hail, Hidden Power, Ice Beam, Ice Punch, Ice Shard, Icy
-        Wind, Ingrain, Iron Tail, Leech Seed, Leer, Light Screen, Magical Leaf, Mist,
-      Natural Gift, Powder Snow, Protect, Rain Dance, Razor Leaf, Rest, Return, Role
-        Play, Round, Safeguard, Seed Bomb, Shadow Ball, Sheer Cold, Skull Bash, Sleep
-        Talk, Snore, Solarbeam, Stomp, Substitute, Swagger, Swords Dance, Synthesis,
-      Toxic, Wood Hammer, Worry Seed]
-    Abomasnow: [Block, Brick Break, Bulldoze, Earthquake, Fling, Focus Blast, Giga
-        Impact, Hyper Beam, Outrage, Rock Slide, Rock Smash, Rock Tomb, Strength]
+  Snover:
+    abilities:
+    - [Snow Warning, Soundproof]
+    egggroups:
+    - [Monster, Plant]
+    evolutions: [Abomasnow]
+    height: [1]
+    introduction: dp
+    moves:
+    - bw: [Attract, Avalanche, Blizzard, Bullet Seed, Double-Edge, Double Team, Energy
+          Ball, Facade, Flash, Frost Breath, Frustration, Giga Drain, Grass Knot,
+        Grasswhistle, Growth, Hail, Hidden Power, Ice Beam, Ice Punch, Ice Shard,
+        Icy Wind, Ingrain, Iron Tail, Leech Seed, Leer, Light Screen, Magical Leaf,
+        Mist, Natural Gift, Powder Snow, Protect, Rain Dance, Razor Leaf, Rest, Return,
+        Role Play, Round, Safeguard, Seed Bomb, Shadow Ball, Sheer Cold, Skull Bash,
+        Sleep Talk, Snore, Solarbeam, Stomp, Substitute, Swagger, Swords Dance, Synthesis,
+        Toxic, Wood Hammer, Worry Seed]
+    - dp: [Attract, Avalanche, Blizzard, Bullet Seed, Captivate, Double-Edge, Double
+          Team, Endure, Energy Ball, Facade, Flash, Frustration, Giga Drain, Grass
+          Knot, Grasswhistle, Growth, Hail, Headbutt, Hidden Power, Ice Beam, Ice
+          Punch, Ice Shard, Icy Wind, Ingrain, Iron Tail, Leech Seed, Leer, Light
+          Screen, Magical Leaf, Mist, Mud-Slap, Natural Gift, Powder Snow, Protect,
+        Rain Dance, Razor Leaf, Rest, Return, Role Play, Safeguard, Secret Power,
+        Seed Bomb, Shadow Ball, Sheer Cold, Skull Bash, Sleep Talk, Snore, Solarbeam,
+        Stomp, Substitute, Swagger, Swords Dance, Synthesis, Toxic, Water Pulse, Wood
+          Hammer, Worry Seed]
+    stats:
+    - [60, 62, 50, 62, 60, 40]
+    tags:
+    - [nu]
+    - bw: [lc]
+    types:
+    - [Grass, Ice]
+    weight: [50.5]

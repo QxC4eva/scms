@@ -1,23 +1,26 @@
 pokemon:
   Genesect:
+    abilities:
+    - [Download]
+    egggroups:
+    - []
+    height: [1.5]
     introduction: bw
-    types: [[Bug, Steel]]
-    egggroups: [[]]
-    abilities: [[Download]]
-    stats: [[71, 120, 95, 120, 95, 99]]
+    moves:
+    - bw: [Aerial Ace, Blizzard, Bug Bite, Bug Buzz, Charge Beam, Dark Pulse, Double
+          Team, Electroweb, Energy Ball, Explosion, Facade, Flame Charge, Flamethrower,
+        Flash, Flash Cannon, Fly, Frustration, Fury Cutter, Giga Drain, Giga Impact,
+        Gravity, Gunk Shot, Hidden Power, Hone Claws, Hyper Beam, Ice Beam, Iron Defense,
+        Iron Head, Last Resort, Light Screen, Lock-On, Magic Coat, Magnet Bomb, Magnet
+          Rise, Metal Claw, Metal Sound, Protect, Psychic, Quick Attack, Recycle,
+        Reflect, Rest, Return, Rock Polish, Round, Screech, Selfdestruct, Shadow Claw,
+        Signal Beam, Simple Beam, Slash, Sleep Talk, Snore, Solarbeam, Signal Beam,
+        Struggle Bug, Substitute, Swagger, Techno Blast, Thunder, Thunder Wave, Thunderbolt,
+        Toxic, Tri Attack, U-turn, X-scissor, Zap Cannon, Zen Headbutt]
+    stats:
+    - [71, 120, 95, 120, 95, 99]
     tags:
     - [uber]
+    types:
+    - [Bug, Steel]
     weight: [82.5]
-    height: [1.5]
-learnsets:
-  bw:
-    Genesect: [Aerial Ace, Blizzard, Bug Bite, Bug Buzz, Charge Beam, Dark Pulse,
-      Double Team, Electroweb, Energy Ball, Explosion, Facade, Flame Charge, Flamethrower,
-      Flash, Flash Cannon, Fly, Frustration, Fury Cutter, Giga Drain, Giga Impact,
-      Gravity, Gunk Shot, Hidden Power, Hone Claws, Hyper Beam, Ice Beam, Iron Defense,
-      Iron Head, Last Resort, Light Screen, Lock-On, Magic Coat, Magnet Bomb, Magnet
-        Rise, Metal Claw, Metal Sound, Protect, Psychic, Quick Attack, Recycle, Reflect,
-      Rest, Return, Rock Polish, Round, Screech, Selfdestruct, Shadow Claw, Signal
-        Beam, Simple Beam, Slash, Sleep Talk, Snore, Solarbeam, Signal Beam, Struggle
-        Bug, Substitute, Swagger, Techno Blast, Thunder, Thunder Wave, Thunderbolt,
-      Toxic, Tri Attack, U-turn, X-scissor, Zap Cannon, Zen Headbutt]

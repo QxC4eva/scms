@@ -1,14 +1,18 @@
 pokemon:
   Smeargle:
-    introduction: gs
-    types:
-    - [Normal]
-    egggroups:
-    - [Ground]
     abilities:
     - [Own Tempo]
     - dp: [Own Tempo, Technician]
     - bw: [Moody, Own Tempo, Technician]
+    egggroups:
+    - [Ground]
+    height: [1.2]
+    introduction: gs
+    moves:
+    - gs: [Sketch]
+    - bw: [Sketch]
+    - dp: [Sketch]
+    - rs: [Sketch]
     stats:
     - [55, 20, 35, 20, 45, 75]
     tags:
@@ -16,15 +20,6 @@ pokemon:
     - bw: [ru]
     - dp: [ou]
     - rs: [bl]
+    types:
+    - [Normal]
     weight: [58]
-    height: [1.2]
-evolutions: []
-learnsets:
-  gs:
-    Smeargle: [Sketch]
-  rs:
-    Smeargle: [Sketch]
-  dp:
-    Smeargle: [Sketch]
-  bw:
-    Smeargle: [Sketch]

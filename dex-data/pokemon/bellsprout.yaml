@@ -1,46 +1,71 @@
 pokemon:
   Bellsprout:
-    introduction: rb
-    types:
-    - [Grass, Poison]
-    egggroups:
-    - [Plant]
     abilities:
     - [Chlorophyll]
     - bw: [Chlorophyll, Gluttony]
+    egggroups:
+    - [Plant]
+    evolutions: [Weepinbell]
+    height: [0.7]
+    introduction: rb
+    moves:
+    - gs: [Acid, Attract, Curse, Cut, Double Team, Encore, Endure, Flash, Frustration,
+        Giga Drain, Growth, Hidden Power, Leech Life, Poisonpowder, Protect, Razor
+          Leaf, Reflect, Rest, Return, Slam, Sleep Powder, Sleep Talk, Sludge Bomb,
+        Snore, Solarbeam, Stun Spore, Sunny Day, Swagger, Sweet Scent, Swords Dance,
+        Synthesis, Toxic, Vine Whip, Wrap, Lovely Kiss, Sweet Kiss]
+    - bw: [Acid, Attract, Bind, Body Slam, Bullet Seed, Clear Smog, Cut, Double Team,
+        Encore, Energy Ball, Facade, Flash, Frustration, Gastro Acid, Giga Drain,
+        Grass Knot, Growth, Hidden Power, Ingrain, Knock Off, Leech Life, Magical
+          Leaf, Mimic, Natural Gift, Poisonpowder, Power Whip, Protect, Razor Leaf,
+        Reflect, Rest, Return, Round, Seed Bomb, Slam, Sleep Powder, Sleep Talk, Sludge
+          Bomb, Snore, Solarbeam, Stun Spore, Substitute, Sunny Day, Swagger, Sweet
+          Scent, Swords Dance, Synthesis, Thief, Tickle, Toxic, Venoshock, Vine Whip,
+        Weather Ball, Worry Seed, Wrap, Wring Out, Teeter Dance]
+    - dp: [Acid, Attract, Bullet Seed, Captivate, Cut, Double Team, Encore, Endure,
+        Energy Ball, Facade, Flash, Frustration, Gastro Acid, Giga Drain, Grass Knot,
+        Growth, Hidden Power, Ingrain, Knock Off, Leech Life, Magical Leaf, Natural
+          Gift, Poisonpowder, Protect, Razor Leaf, Reflect, Rest, Return, Secret Power,
+        Seed Bomb, Slam, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solarbeam,
+        Stun Spore, Substitute, Sucker Punch, Sunny Day, Swagger, Sweet Scent, Swords
+          Dance, Synthesis, Thief, Tickle, Toxic, Vine Whip, Weather Ball, Worry Seed,
+        Wrap, Wring Out, Teeter Dance]
+    - rs: [Acid, Attract, Bullet Seed, Cut, Double-Edge, Double Team, Encore, Endure,
+        Facade, Flash, Frustration, Giga Drain, Growth, Hidden Power, Ingrain, Leech
+          Life, Magical Leaf, Mimic, Poisonpowder, Protect, Razor Leaf, Reflect, Rest,
+        Return, Secret Power, Slam, Sleep Powder, Sleep Talk, Sludge Bomb, Snore,
+        Solarbeam, Stun Spore, Substitute, Sunny Day, Swagger, Sweet Scent, Swords
+          Dance, Synthesis, Thief, Toxic, Vine Whip, Wrap, Teeter Dance]
+    - rb: [Acid, Bide, Cut, Double-Edge, Double Team, Growth, Mega Drain, Mimic, Poisonpowder,
+        Rage, Razor Leaf, Reflect, Rest, Slam, Sleep Powder, Solarbeam, Stun Spore,
+        Substitute, Swords Dance, Take Down, Toxic, Vine Whip, Wrap, Lovely Kiss,
+        Sweet Kiss]
     stats:
     - [50, 75, 35, 70, 70, 40]
     - gs: [50, 75, 35, 70, 30, 40]
     tags:
     - [nfe]
     - dp: [lc]
+    types:
+    - [Grass, Poison]
     weight: [4]
-    height: [0.7]
-  Weepinbell:
-    introduction: rb
-    types:
-    - [Grass, Poison]
-    egggroups:
-    - [Plant]
-    abilities:
-    - [Chlorophyll]
-    - bw: [Chlorophyll, Gluttony]
-    stats:
-    - [65, 90, 50, 85, 85, 55]
-    - gs: [65, 90, 50, 85, 45, 55]
-    tags:
-    - [nfe]
-    weight: [6.4]
-    height: [1]
   Victreebel:
-    introduction: rb
-    types:
-    - [Grass, Poison]
-    egggroups:
-    - [Plant]
     abilities:
     - [Chlorophyll]
     - bw: [Chlorophyll, Gluttony]
+    egggroups:
+    - [Plant]
+    height: [1.7]
+    introduction: rb
+    moves:
+    - gs: [Hyper Beam]
+    - bw: [Giga Impact, Hyper Beam, Leaf Blade, Leaf Storm, Leaf Tornado, Spit Up,
+        Stockpile, Swallow, Body Slam, Double-Edge, Mimic]
+    - dp: [Giga Impact, Hyper Beam, Leaf Blade, Leaf Storm, Spit Up, Stockpile, Swallow,
+        Body Slam, Double-Edge, Mimic]
+    - rs: [Body Slam, Hyper Beam, Spit Up, Stockpile, Swallow, Body Slam, Double-Edge,
+        Mimic]
+    - rb: [Body Slam, Hyper Beam]
     stats:
     - [80, 105, 65, 100, 100, 70]
     - gs: [80, 105, 65, 100, 60, 70]
@@ -48,58 +73,29 @@ pokemon:
     tags:
     - [uu]
     - dp: [nu]
+    types:
+    - [Grass, Poison]
     weight: [15.5]
-    height: [1.7]
-evolutions:
-- {from: Bellsprout, to: Weepinbell}
-- {from: Weepinbell, to: Victreebel}
-learnsets:
-  rb:
-    Bellsprout: [Acid, Bide, Cut, Double-Edge, Double Team, Growth, Mega Drain, Mimic,
-      Poisonpowder, Rage, Razor Leaf, Reflect, Rest, Slam, Sleep Powder, Solarbeam,
-      Stun Spore, Substitute, Swords Dance, Take Down, Toxic, Vine Whip, Wrap, Lovely
-        Kiss, Sweet Kiss]
-    Weepinbell: []
-    Victreebel: [Body Slam, Hyper Beam]
-  gs:
-    Bellsprout: [Acid, Attract, Curse, Cut, Double Team, Encore, Endure, Flash, Frustration,
-      Giga Drain, Growth, Hidden Power, Leech Life, Poisonpowder, Protect, Razor Leaf,
-      Reflect, Rest, Return, Slam, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solarbeam,
-      Stun Spore, Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis, Toxic,
-      Vine Whip, Wrap, Lovely Kiss, Sweet Kiss]
-    Weepinbell: []
-    Victreebel: [Hyper Beam]
-  rs:
-    Bellsprout: [Acid, Attract, Bullet Seed, Cut, Double-Edge, Double Team, Encore,
-      Endure, Facade, Flash, Frustration, Giga Drain, Growth, Hidden Power, Ingrain,
-      Leech Life, Magical Leaf, Mimic, Poisonpowder, Protect, Razor Leaf, Reflect,
-      Rest, Return, Secret Power, Slam, Sleep Powder, Sleep Talk, Sludge Bomb, Snore,
-      Solarbeam, Stun Spore, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance,
-      Synthesis, Thief, Toxic, Vine Whip, Wrap, Teeter Dance]
-    Weepinbell: [Double-Edge, Mimic, Morning Sun]
-    Victreebel: [Body Slam, Hyper Beam, Spit Up, Stockpile, Swallow, Body Slam, Double-Edge,
-      Mimic]
-  dp:
-    Bellsprout: [Acid, Attract, Bullet Seed, Captivate, Cut, Double Team, Encore,
-      Endure, Energy Ball, Facade, Flash, Frustration, Gastro Acid, Giga Drain, Grass
-        Knot, Growth, Hidden Power, Ingrain, Knock Off, Leech Life, Magical Leaf,
-      Natural Gift, Poisonpowder, Protect, Razor Leaf, Reflect, Rest, Return, Secret
-        Power, Seed Bomb, Slam, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solarbeam,
-      Stun Spore, Substitute, Sucker Punch, Sunny Day, Swagger, Sweet Scent, Swords
-        Dance, Synthesis, Thief, Tickle, Toxic, Vine Whip, Weather Ball, Worry Seed,
-      Wrap, Wring Out, Teeter Dance]
-    Weepinbell: [Double-Edge, Mimic, Morning Sun]
-    Victreebel: [Giga Impact, Hyper Beam, Leaf Blade, Leaf Storm, Spit Up, Stockpile,
-      Swallow, Body Slam, Double-Edge, Mimic]
-  bw:
-    Bellsprout: [Acid, Attract, Bind, Body Slam, Bullet Seed, Clear Smog, Cut, Double
-        Team, Encore, Energy Ball, Facade, Flash, Frustration, Gastro Acid, Giga Drain,
-      Grass Knot, Growth, Hidden Power, Ingrain, Knock Off, Leech Life, Magical Leaf,
-      Mimic, Natural Gift, Poisonpowder, Power Whip, Protect, Razor Leaf, Reflect,
-      Rest, Return, Round, Seed Bomb, Slam, Sleep Powder, Sleep Talk, Sludge Bomb,
-      Snore, Solarbeam, Stun Spore, Substitute, Sunny Day, Swagger, Sweet Scent, Swords
-        Dance, Synthesis, Thief, Tickle, Toxic, Venoshock, Vine Whip, Weather Ball,
-      Worry Seed, Wrap, Wring Out, Teeter Dance]
-    Weepinbell: [Bug Bite, Morning Sun, Double-Edge, Double-Edge, Mimic, Morning Sun]
-    Victreebel: [Giga Impact, Hyper Beam, Leaf Blade, Leaf Storm, Leaf Tornado, Spit
-        Up, Stockpile, Swallow, Body Slam, Double-Edge, Mimic]
+  Weepinbell:
+    abilities:
+    - [Chlorophyll]
+    - bw: [Chlorophyll, Gluttony]
+    egggroups:
+    - [Plant]
+    evolutions: [Victreebel]
+    height: [1]
+    introduction: rb
+    moves:
+    - gs: []
+    - bw: [Bug Bite, Morning Sun, Double-Edge, Double-Edge, Mimic, Morning Sun]
+    - dp: [Double-Edge, Mimic, Morning Sun]
+    - rs: [Double-Edge, Mimic, Morning Sun]
+    - rb: []
+    stats:
+    - [65, 90, 50, 85, 85, 55]
+    - gs: [65, 90, 50, 85, 45, 55]
+    tags:
+    - [nfe]
+    types:
+    - [Grass, Poison]
+    weight: [6.4]

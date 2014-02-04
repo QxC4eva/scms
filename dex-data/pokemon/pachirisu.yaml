@@ -1,35 +1,32 @@
 pokemon:
   Pachirisu:
-    introduction: dp
-    types:
-    - [Electric]
-    egggroups:
-    - [Fairy, Ground]
     abilities:
     - [Pickup, Run Away, Volt Absorb]
+    egggroups:
+    - [Fairy, Ground]
+    height: [0.4]
+    introduction: dp
+    moves:
+    - bw: [Attract, Bestow, Bide, Bite, Charge, Charge Beam, Charm, Covet, Cut, Defense
+          Curl, Dig, Discharge, Double Team, Echoed Voice, Electro Ball, Endure, Facade,
+        Fake Tears, Flail, Flash, Flatter, Fling, Follow Me, Frustration, Grass Knot,
+        Growl, Gunk Shot, Helping Hand, Hidden Power, Hyper Fang, Iron Tail, Last
+          Resort, Light Screen, Magnet Rise, Protect, Quick Attack, Rain Dance, Rest,
+        Return, Rollout, Round, Seed Bomb, Sleep Talk, Snore, Spark, Substitute, Super
+          Fang, Swagger, Sweet Kiss, Swift, Tail Whip, Thunder, Thunder Wave, Thunderbolt,
+        Thunderpunch, Toxic, U-turn, Uproar, Volt Switch]
+    - dp: [Attract, Bide, Bite, Captivate, Charge Beam, Charm, Covet, Cut, Defense
+          Curl, Dig, Discharge, Double Team, Endure, Facade, Fake Tears, Flail, Flash,
+        Flatter, Fling, Frustration, Grass Knot, Growl, Gunk Shot, Headbutt, Helping
+          Hand, Hidden Power, Iron Tail, Last Resort, Light Screen, Magnet Rise, Mud-Slap,
+        Natural Gift, Protect, Quick Attack, Rain Dance, Rest, Return, Rollout, Secret
+          Power, Seed Bomb, Shock Wave, Sleep Talk, Snore, Spark, Substitute, Super
+          Fang, Swagger, Sweet Kiss, Swift, Thunder, Thunder Wave, Thunderbolt, Thunderpunch,
+        Toxic, U-turn, Uproar]
     stats:
     - [60, 45, 70, 45, 90, 95]
     tags:
     - [nu]
+    types:
+    - [Electric]
     weight: [3.9]
-    height: [0.4]
-evolutions: []
-learnsets:
-  dp:
-    Pachirisu: [Attract, Bide, Bite, Captivate, Charge Beam, Charm, Covet, Cut, Defense
-        Curl, Dig, Discharge, Double Team, Endure, Facade, Fake Tears, Flail, Flash,
-      Flatter, Fling, Frustration, Grass Knot, Growl, Gunk Shot, Headbutt, Helping
-        Hand, Hidden Power, Iron Tail, Last Resort, Light Screen, Magnet Rise, Mud-Slap,
-      Natural Gift, Protect, Quick Attack, Rain Dance, Rest, Return, Rollout, Secret
-        Power, Seed Bomb, Shock Wave, Sleep Talk, Snore, Spark, Substitute, Super
-        Fang, Swagger, Sweet Kiss, Swift, Thunder, Thunder Wave, Thunderbolt, Thunderpunch,
-      Toxic, U-turn, Uproar]
-  bw:
-    Pachirisu: [Attract, Bestow, Bide, Bite, Charge, Charge Beam, Charm, Covet, Cut,
-      Defense Curl, Dig, Discharge, Double Team, Echoed Voice, Electro Ball, Endure,
-      Facade, Fake Tears, Flail, Flash, Flatter, Fling, Follow Me, Frustration, Grass
-        Knot, Growl, Gunk Shot, Helping Hand, Hidden Power, Hyper Fang, Iron Tail,
-      Last Resort, Light Screen, Magnet Rise, Protect, Quick Attack, Rain Dance, Rest,
-      Return, Rollout, Round, Seed Bomb, Sleep Talk, Snore, Spark, Substitute, Super
-        Fang, Swagger, Sweet Kiss, Swift, Tail Whip, Thunder, Thunder Wave, Thunderbolt,
-      Thunderpunch, Toxic, U-turn, Uproar, Volt Switch]

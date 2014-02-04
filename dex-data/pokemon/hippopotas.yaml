@@ -1,52 +1,50 @@
 pokemon:
   Hippopotas:
-    introduction: dp
-    types:
-    - [Ground]
-    egggroups:
-    - [Ground]
     abilities:
     - [Sand Force, Sand Stream]
+    egggroups:
+    - [Ground]
+    evolutions: [Hippowdon]
+    height: [0.8]
+    introduction: dp
+    moves:
+    - bw: [Attract, Bite, Body Slam, Bulldoze, Crunch, Curse, Dig, Double-Edge, Double
+          Team, Earth Power, Earthquake, Facade, Fissure, Frustration, Hidden Power,
+        Iron Tail, Protect, Rest, Return, Revenge, Roar, Rock Slide, Rock Smash, Rock
+          Tomb, Round, Sand-Attack, Sand Tomb, Sandstorm, Slack Off, Sleep Talk, Snore,
+        Spit Up, Stealth Rock, Stockpile, Strength, Substitute, Sunny Day, Superpower,
+        Swagger, Swallow, Tackle, Take Down, Toxic, Whirlwind, Yawn]
+    - dp: [Attract, Bite, Body Slam, Captivate, Crunch, Curse, Dig, Double-Edge, Double
+          Team, Earth Power, Earthquake, Endure, Facade, Fissure, Frustration, Headbutt,
+        Hidden Power, Iron Tail, Mud-Slap, Natural Gift, Protect, Rest, Return, Revenge,
+        Roar, Rock Slide, Rock Smash, Rock Tomb, Sand-Attack, Sand Tomb, Sandstorm,
+        Secret Power, Slack Off, Sleep Talk, Snore, Spit Up, Stealth Rock, Stockpile,
+        Strength, Substitute, Sunny Day, Superpower, Swagger, Swallow, Tackle, Take
+          Down, Toxic, Water Pulse, Yawn]
     stats:
     - [68, 72, 78, 38, 42, 32]
     tags:
     - [nu]
     - bw: [lc]
-    weight: [49.5]
-    height: [0.8]
-  Hippowdon:
-    introduction: dp
     types:
     - [Ground]
-    egggroups:
-    - [Ground]
+    weight: [49.5]
+  Hippowdon:
     abilities:
     - [Sand Force, Sand Stream]
+    egggroups:
+    - [Ground]
+    height: [2]
+    introduction: dp
+    moves:
+    - bw: [Fire Fang, Giga Impact, Hyper Beam, Ice Fang, Iron Head, Stone Edge, Thunder
+          Fang]
+    - dp: [Fire Fang, Giga Impact, Hyper Beam, Ice Fang, Iron Head, Stone Edge, Thunder
+          Fang]
     stats:
     - [108, 112, 118, 68, 72, 47]
     tags:
     - [ou]
+    types:
+    - [Ground]
     weight: [300]
-    height: [2]
-evolutions:
-- {from: Hippopotas, to: Hippowdon}
-learnsets:
-  dp:
-    Hippopotas: [Attract, Bite, Body Slam, Captivate, Crunch, Curse, Dig, Double-Edge,
-      Double Team, Earth Power, Earthquake, Endure, Facade, Fissure, Frustration,
-      Headbutt, Hidden Power, Iron Tail, Mud-Slap, Natural Gift, Protect, Rest, Return,
-      Revenge, Roar, Rock Slide, Rock Smash, Rock Tomb, Sand-Attack, Sand Tomb, Sandstorm,
-      Secret Power, Slack Off, Sleep Talk, Snore, Spit Up, Stealth Rock, Stockpile,
-      Strength, Substitute, Sunny Day, Superpower, Swagger, Swallow, Tackle, Take
-        Down, Toxic, Water Pulse, Yawn]
-    Hippowdon: [Fire Fang, Giga Impact, Hyper Beam, Ice Fang, Iron Head, Stone Edge,
-      Thunder Fang]
-  bw:
-    Hippopotas: [Attract, Bite, Body Slam, Bulldoze, Crunch, Curse, Dig, Double-Edge,
-      Double Team, Earth Power, Earthquake, Facade, Fissure, Frustration, Hidden Power,
-      Iron Tail, Protect, Rest, Return, Revenge, Roar, Rock Slide, Rock Smash, Rock
-        Tomb, Round, Sand-Attack, Sand Tomb, Sandstorm, Slack Off, Sleep Talk, Snore,
-      Spit Up, Stealth Rock, Stockpile, Strength, Substitute, Sunny Day, Superpower,
-      Swagger, Swallow, Tackle, Take Down, Toxic, Whirlwind, Yawn]
-    Hippowdon: [Fire Fang, Giga Impact, Hyper Beam, Ice Fang, Iron Head, Stone Edge,
-      Thunder Fang]

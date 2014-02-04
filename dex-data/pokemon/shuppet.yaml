@@ -1,72 +1,68 @@
 pokemon:
-  Shuppet:
-    introduction: rs
-    types:
-    - [Ghost]
-    egggroups:
-    - [Indeterminate]
-    abilities:
-    - [Insomnia]
-    - dp: [Frisk, Insomnia]
-    - bw: [Cursed Body, Frisk, Insomnia]
-    stats:
-    - [44, 75, 35, 63, 33, 45]
-    tags:
-    - [nfe]
-    - dp: [lc]
-    weight: [2.3]
-    height: [0.6]
   Banette:
-    introduction: rs
-    types:
-    - [Ghost]
-    egggroups:
-    - [Indeterminate]
     abilities:
     - [Insomnia]
     - dp: [Frisk, Insomnia]
     - bw: [Cursed Body, Frisk, Insomnia]
+    egggroups:
+    - [Indeterminate]
+    height: [1.1]
+    introduction: rs
+    moves:
+    - bw: [Fling, Giga Impact, Hyper Beam, Shadow Claw, Cotton Guard]
+    - dp: [Fling, Giga Impact, Hyper Beam, Mud-Slap, Shadow Claw]
+    - rs: [Hyper Beam, Metronome, Mud-Slap]
     stats:
     - [64, 115, 65, 83, 63, 65]
     tags:
     - [uu]
     - dp: [nu]
+    types:
+    - [Ghost]
     weight: [12.5]
-    height: [1.1]
-evolutions:
-- {from: Shuppet, to: Banette}
-learnsets:
-  rs:
-    Shuppet: [Astonish, Attract, Body Slam, Calm Mind, Curse, Destiny Bond, Disable,
-      Double-Edge, Double Team, Dream Eater, Endure, Facade, Faint Attack, Flash,
-      Foresight, Frustration, Grudge, Hidden Power, Icy Wind, Imprison, Knock Off,
-      Mimic, Night Shade, Nightmare, Protect, Psych Up, Psychic, Rain Dance, Rest,
-      Return, Screech, Secret Power, Shadow Ball, Shock Wave, Skill Swap, Sleep Talk,
-      Snatch, Snore, Spite, Substitute, Sunny Day, Swagger, Taunt, Thief, Thunder,
-      Thunder Wave, Thunderbolt, Torment, Toxic, Will-O-Wisp, Body Slam, Double-Edge,
-      Icy Wind, Mimic, Nightmare]
-    Banette: [Hyper Beam, Metronome, Mud-Slap]
-  dp:
-    Shuppet: [Astonish, Attract, Calm Mind, Captivate, Charge Beam, Confuse Ray, Curse,
-      Dark Pulse, Destiny Bond, Disable, Double Team, Dream Eater, Embargo, Endure,
-      Facade, Faint Attack, Flash, Foresight, Frustration, Grudge, Headbutt, Hidden
-        Power, Icy Wind, Imprison, Knock Off, Magic Coat, Natural Gift, Night Shade,
-      Ominous Wind, Pain Split, Payback, Protect, Psych Up, Psychic, Pursuit, Rain
-        Dance, Rest, Return, Role Play, Screech, Secret Power, Shadow Ball, Shadow
-        Sneak, Shock Wave, Skill Swap, Sleep Talk, Snatch, Spite, Substitute, Sucker
-        Punch, Sunny Day, Swagger, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt,
-      Torment, Toxic, Trick, Trick Room, Will-O-Wisp, Body Slam, Double-Edge, Icy
-        Wind, Mimic, Nightmare]
-    Banette: [Fling, Giga Impact, Hyper Beam, Mud-Slap, Shadow Claw]
-  bw:
-    Shuppet: [Astonish, Attract, Calm Mind, Charge Beam, Confuse Ray, Curse, Dark
-        Pulse, Destiny Bond, Disable, Double Team, Dream Eater, Embargo, Facade, Faint
-        Attack, Flash, Foresight, Foul Play, Frustration, Grudge, Gunk Shot, Hex,
-      Hidden Power, Icy Wind, Imprison, Knock Off, Magic Coat, Magic Room, Night Shade,
-      Ominous Wind, Pain Split, Payback, Protect, Psych Up, Psychic, Pursuit, Rain
-        Dance, Rest, Return, Role Play, Round, Screech, Shadow Ball, Shadow Sneak,
-      Skill Swap, Sleep Talk, Snatch, Spite, Substitute, Sucker Punch, Sunny Day,
-      Swagger, Taunt, Telekinesis, Thief, Thunder, Thunder Wave, Thunderbolt, Torment,
-      Toxic, Trick, Trick Room, Will-O-Wisp, Body Slam, Double-Edge, Icy Wind, Mimic,
-      Nightmare]
-    Banette: [Fling, Giga Impact, Hyper Beam, Shadow Claw, Cotton Guard]
+  Shuppet:
+    abilities:
+    - [Insomnia]
+    - dp: [Frisk, Insomnia]
+    - bw: [Cursed Body, Frisk, Insomnia]
+    egggroups:
+    - [Indeterminate]
+    evolutions: [Banette]
+    height: [0.6]
+    introduction: rs
+    moves:
+    - bw: [Astonish, Attract, Calm Mind, Charge Beam, Confuse Ray, Curse, Dark Pulse,
+        Destiny Bond, Disable, Double Team, Dream Eater, Embargo, Facade, Faint Attack,
+        Flash, Foresight, Foul Play, Frustration, Grudge, Gunk Shot, Hex, Hidden Power,
+        Icy Wind, Imprison, Knock Off, Magic Coat, Magic Room, Night Shade, Ominous
+          Wind, Pain Split, Payback, Protect, Psych Up, Psychic, Pursuit, Rain Dance,
+        Rest, Return, Role Play, Round, Screech, Shadow Ball, Shadow Sneak, Skill
+          Swap, Sleep Talk, Snatch, Spite, Substitute, Sucker Punch, Sunny Day, Swagger,
+        Taunt, Telekinesis, Thief, Thunder, Thunder Wave, Thunderbolt, Torment, Toxic,
+        Trick, Trick Room, Will-O-Wisp, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare]
+    - dp: [Astonish, Attract, Calm Mind, Captivate, Charge Beam, Confuse Ray, Curse,
+        Dark Pulse, Destiny Bond, Disable, Double Team, Dream Eater, Embargo, Endure,
+        Facade, Faint Attack, Flash, Foresight, Frustration, Grudge, Headbutt, Hidden
+          Power, Icy Wind, Imprison, Knock Off, Magic Coat, Natural Gift, Night Shade,
+        Ominous Wind, Pain Split, Payback, Protect, Psych Up, Psychic, Pursuit, Rain
+          Dance, Rest, Return, Role Play, Screech, Secret Power, Shadow Ball, Shadow
+          Sneak, Shock Wave, Skill Swap, Sleep Talk, Snatch, Spite, Substitute, Sucker
+          Punch, Sunny Day, Swagger, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt,
+        Torment, Toxic, Trick, Trick Room, Will-O-Wisp, Body Slam, Double-Edge, Icy
+          Wind, Mimic, Nightmare]
+    - rs: [Astonish, Attract, Body Slam, Calm Mind, Curse, Destiny Bond, Disable,
+        Double-Edge, Double Team, Dream Eater, Endure, Facade, Faint Attack, Flash,
+        Foresight, Frustration, Grudge, Hidden Power, Icy Wind, Imprison, Knock Off,
+        Mimic, Night Shade, Nightmare, Protect, Psych Up, Psychic, Rain Dance, Rest,
+        Return, Screech, Secret Power, Shadow Ball, Shock Wave, Skill Swap, Sleep
+          Talk, Snatch, Snore, Spite, Substitute, Sunny Day, Swagger, Taunt, Thief,
+        Thunder, Thunder Wave, Thunderbolt, Torment, Toxic, Will-O-Wisp, Body Slam,
+        Double-Edge, Icy Wind, Mimic, Nightmare]
+    stats:
+    - [44, 75, 35, 63, 33, 45]
+    tags:
+    - [nfe]
+    - dp: [lc]
+    types:
+    - [Ghost]
+    weight: [2.3]

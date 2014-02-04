@@ -1,44 +1,43 @@
 pokemon:
-  Woobat:
-    introduction: bw
-    types:
-    - [Flying, Psychic]
-    egggroups:
-    - [Flying, Ground]
-    abilities:
-    - [Klutz, Simple, Unaware]
-    stats:
-    - [55, 45, 43, 55, 43, 72]
-    tags:
-    - [lc]
-    weight: [2.1]
-    height: [0.4]
   Swoobat:
-    introduction: bw
-    types:
-    - [Flying, Psychic]
-    egggroups:
-    - [Flying, Ground]
     abilities:
     - [Klutz, Simple, Unaware]
+    egggroups:
+    - [Flying, Ground]
+    height: [0.9]
+    introduction: bw
+    moves:
+    - bw: [Giga Impact, Hyper Beam, Sky Attack]
     stats:
     - [67, 57, 55, 77, 55, 114]
     tags:
     - [nu]
+    types:
+    - [Flying, Psychic]
     weight: [10.5]
-    height: [0.9]
-evolutions:
-- {from: Woobat, to: Swoobat}
-learnsets:
-  bw:
-    Woobat: [Acrobatics, Aerial Ace, After You, Air Cutter, Air Slash, Amnesia, Assurance,
-      Attract, Calm Mind, Charge Beam, Charm, Confusion, Double Team, Dream Eater,
-      Embargo, Endeavor, Energy Ball, Facade, Fake Tears, Flash, Flatter, Fly, Frustration,
-      Future Sight, Giga Drain, Gust, Gyro Ball, Heart Stamp, Heat Wave, Helping Hand,
-      Hidden Power, Imprison, Knock Off, Light Screen, Magic Coat, Odor Sleuth, Pluck,
-      Protect, Psych Up, Psychic, Psyshock, Rain Dance, Reflect, Rest, Return, Roost,
-      Round, Safeguard, Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snore, Stored
-        Power, Substitute, Super Fang, Supersonic, Swagger, Synchronoise, Tailwind,
-      Taunt, Telekinesis, Thief, Thunder Wave, Torment, Toxic, Trick, Trick Room,
-      U-turn, Uproar, Zen Headbutt]
-    Swoobat: [Giga Impact, Hyper Beam, Sky Attack]
+  Woobat:
+    abilities:
+    - [Klutz, Simple, Unaware]
+    egggroups:
+    - [Flying, Ground]
+    evolutions: [Swoobat]
+    height: [0.4]
+    introduction: bw
+    moves:
+    - bw: [Acrobatics, Aerial Ace, After You, Air Cutter, Air Slash, Amnesia, Assurance,
+        Attract, Calm Mind, Charge Beam, Charm, Confusion, Double Team, Dream Eater,
+        Embargo, Endeavor, Energy Ball, Facade, Fake Tears, Flash, Flatter, Fly, Frustration,
+        Future Sight, Giga Drain, Gust, Gyro Ball, Heart Stamp, Heat Wave, Helping
+          Hand, Hidden Power, Imprison, Knock Off, Light Screen, Magic Coat, Odor
+          Sleuth, Pluck, Protect, Psych Up, Psychic, Psyshock, Rain Dance, Reflect,
+        Rest, Return, Roost, Round, Safeguard, Shadow Ball, Signal Beam, Skill Swap,
+        Sleep Talk, Snore, Stored Power, Substitute, Super Fang, Supersonic, Swagger,
+        Synchronoise, Tailwind, Taunt, Telekinesis, Thief, Thunder Wave, Torment,
+        Toxic, Trick, Trick Room, U-turn, Uproar, Zen Headbutt]
+    stats:
+    - [55, 45, 43, 55, 43, 72]
+    tags:
+    - [lc]
+    types:
+    - [Flying, Psychic]
+    weight: [2.1]

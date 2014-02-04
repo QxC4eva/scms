@@ -1,98 +1,96 @@
 pokemon:
-  Treecko:
-    introduction: rs
-    types:
-    - [Grass]
-    egggroups:
-    - [Dragon, Monster]
-    abilities:
-    - [Overgrow]
-    - bw: [Overgrow, Unburden]
-    stats:
-    - [40, 45, 35, 65, 55, 70]
-    tags:
-    - [nfe]
-    - dp: [lc]
-    weight: [5]
-    height: [0.5]
   Grovyle:
-    introduction: rs
-    types:
-    - [Grass]
-    egggroups:
-    - [Dragon, Monster]
     abilities:
     - [Overgrow]
     - bw: [Overgrow, Unburden]
+    egggroups:
+    - [Dragon, Monster]
+    evolutions: [Sceptile]
+    height: [0.9]
+    introduction: rs
+    moves:
+    - bw: [False Swipe, Fury Cutter, Leaf Blade, Low Sweep, X-scissor, Body Slam,
+        Double-Edge, Mimic, Seismic Toss]
+    - dp: [False Swipe, Leaf Blade, X-scissor, Body Slam, Double-Edge, Mimic, Seismic
+          Toss]
+    - rs: [False Swipe, Leaf Blade, Body Slam, Double-Edge, Mimic, Seismic Toss]
     stats:
     - [50, 65, 45, 85, 65, 95]
     tags:
     - [nfe]
-    weight: [21.6]
-    height: [0.9]
-  Sceptile:
-    introduction: rs
     types:
     - [Grass]
-    egggroups:
-    - [Dragon, Monster]
+    weight: [21.6]
+  Sceptile:
     abilities:
     - [Overgrow]
     - bw: [Overgrow, Unburden]
+    egggroups:
+    - [Dragon, Monster]
+    height: [1.7]
+    introduction: rs
+    moves:
+    - bw: [Bulldoze, Dragon Claw, Dragon Pulse, Earthquake, Focus Blast, Frenzy Plant,
+        Giga Impact, Hone Claws, Hyper Beam, Night Slash, Outrage, Roar, Body Slam,
+        Double-Edge, Mimic, Seismic Toss]
+    - dp: [Dragon Claw, Dragon Pulse, Earthquake, Focus Blast, Frenzy Plant, Giga
+          Impact, Hyper Beam, Night Slash, Outrage, Roar, Rock Climb, Body Slam, Double-Edge,
+        Mimic, Seismic Toss]
+    - rs: [Dragon Claw, Earthquake, Hyper Beam, Roar, Body Slam, Double-Edge, Mimic,
+        Seismic Toss]
     stats:
     - [70, 85, 65, 105, 85, 120]
     tags:
     - [bl]
     - bw: [ru]
     - dp: [uu]
+    types:
+    - [Grass]
     weight: [52.2]
-    height: [1.7]
-evolutions:
-- {from: Treecko, to: Grovyle}
-- {from: Grovyle, to: Sceptile}
-learnsets:
-  rs:
-    Treecko: [Absorb, Aerial Ace, Agility, Attract, Body Slam, Brick Break, Bullet
-        Seed, Counter, Crunch, Crush Claw, Cut, Detect, Dig, Double-Edge, Double Team,
-      Dragonbreath, Dynamicpunch, Endeavor, Endure, Facade, Flash, Focus Punch, Frustration,
-      Fury Cutter, Giga Drain, Hidden Power, Iron Tail, Leech Seed, Leer, Mega Drain,
-      Mega Kick, Mega Punch, Mimic, Mud-Slap, Mud Sport, Pound, Protect, Pursuit,
-      Quick Attack, Rest, Return, Rock Smash, Rock Tomb, Safeguard, Screech, Secret
-        Power, Seismic Toss, Slam, Sleep Talk, Snore, Solarbeam, Strength, Substitute,
-      Sunny Day, Swagger, Swift, Swords Dance, Thunderpunch, Toxic, Body Slam, Double-Edge,
-      Mimic, Seismic Toss]
-    Grovyle: [False Swipe, Leaf Blade, Body Slam, Double-Edge, Mimic, Seismic Toss]
-    Sceptile: [Dragon Claw, Earthquake, Hyper Beam, Roar, Body Slam, Double-Edge,
-      Mimic, Seismic Toss]
-  dp:
-    Treecko: [Absorb, Aerial Ace, Agility, Attract, Brick Break, Bullet Seed, Captivate,
-      Crunch, Crush Claw, Cut, Detect, Dig, Double Kick, Double Team, Dragonbreath,
-      Drain Punch, Endeavor, Endure, Energy Ball, Facade, Flash, Fling, Focus Punch,
-      Frustration, Fury Cutter, Giga Drain, Grass Knot, Grasswhistle, Headbutt, Hidden
-        Power, Iron Tail, Leaf Storm, Leech Seed, Leer, Low Kick, Magical Leaf, Mega
-        Drain, Mud-Slap, Mud Sport, Natural Gift, Pound, Protect, Pursuit, Quick Attack,
-      Razor Wind, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Safeguard, Screech,
-      Secret Power, Seed Bomb, Slam, Sleep Talk, Snore, Solarbeam, Strength, Substitute,
-      Sunny Day, Swagger, Swift, Swords Dance, Synthesis, Thunderpunch, Toxic, Worry
-        Seed, Body Slam, Double-Edge, Mimic, Seismic Toss]
-    Grovyle: [False Swipe, Leaf Blade, X-scissor, Body Slam, Double-Edge, Mimic, Seismic
-        Toss]
-    Sceptile: [Dragon Claw, Dragon Pulse, Earthquake, Focus Blast, Frenzy Plant, Giga
-        Impact, Hyper Beam, Night Slash, Outrage, Roar, Rock Climb, Body Slam, Double-Edge,
-      Mimic, Seismic Toss]
-  bw:
-    Treecko: [Absorb, Acrobatics, Aerial Ace, Agility, Attract, Brick Break, Bullet
-        Seed, Crunch, Crush Claw, Cut, Detect, Dig, Double Kick, Double Team, Dragonbreath,
-      Drain Punch, Endeavor, Energy Ball, Facade, Flash, Fling, Frustration, Giga
-        Drain, Grass Knot, Grass Pledge, Grasswhistle, Hidden Power, Iron Tail, Leaf
-        Storm, Leech Seed, Leer, Low Kick, Magical Leaf, Mega Drain, Mud Sport, Natural
-        Gift, Pound, Protect, Pursuit, Quick Attack, Razor Wind, Rest, Return, Rock
-        Slide, Rock Smash, Rock Tomb, Round, Safeguard, Screech, Seed Bomb, Slam,
-      Sleep Talk, Snore, Solarbeam, Strength, Substitute, Sunny Day, Swagger, Swords
-        Dance, Synthesis, Thunderpunch, Toxic, Worry Seed, Body Slam, Double-Edge,
-      Mimic, Seismic Toss]
-    Grovyle: [False Swipe, Fury Cutter, Leaf Blade, Low Sweep, X-scissor, Body Slam,
-      Double-Edge, Mimic, Seismic Toss]
-    Sceptile: [Bulldoze, Dragon Claw, Dragon Pulse, Earthquake, Focus Blast, Frenzy
-        Plant, Giga Impact, Hone Claws, Hyper Beam, Night Slash, Outrage, Roar, Body
-        Slam, Double-Edge, Mimic, Seismic Toss]
+  Treecko:
+    abilities:
+    - [Overgrow]
+    - bw: [Overgrow, Unburden]
+    egggroups:
+    - [Dragon, Monster]
+    evolutions: [Grovyle]
+    height: [0.5]
+    introduction: rs
+    moves:
+    - bw: [Absorb, Acrobatics, Aerial Ace, Agility, Attract, Brick Break, Bullet Seed,
+        Crunch, Crush Claw, Cut, Detect, Dig, Double Kick, Double Team, Dragonbreath,
+        Drain Punch, Endeavor, Energy Ball, Facade, Flash, Fling, Frustration, Giga
+          Drain, Grass Knot, Grass Pledge, Grasswhistle, Hidden Power, Iron Tail,
+        Leaf Storm, Leech Seed, Leer, Low Kick, Magical Leaf, Mega Drain, Mud Sport,
+        Natural Gift, Pound, Protect, Pursuit, Quick Attack, Razor Wind, Rest, Return,
+        Rock Slide, Rock Smash, Rock Tomb, Round, Safeguard, Screech, Seed Bomb, Slam,
+        Sleep Talk, Snore, Solarbeam, Strength, Substitute, Sunny Day, Swagger, Swords
+          Dance, Synthesis, Thunderpunch, Toxic, Worry Seed, Body Slam, Double-Edge,
+        Mimic, Seismic Toss]
+    - dp: [Absorb, Aerial Ace, Agility, Attract, Brick Break, Bullet Seed, Captivate,
+        Crunch, Crush Claw, Cut, Detect, Dig, Double Kick, Double Team, Dragonbreath,
+        Drain Punch, Endeavor, Endure, Energy Ball, Facade, Flash, Fling, Focus Punch,
+        Frustration, Fury Cutter, Giga Drain, Grass Knot, Grasswhistle, Headbutt,
+        Hidden Power, Iron Tail, Leaf Storm, Leech Seed, Leer, Low Kick, Magical Leaf,
+        Mega Drain, Mud-Slap, Mud Sport, Natural Gift, Pound, Protect, Pursuit, Quick
+          Attack, Razor Wind, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Safeguard,
+        Screech, Secret Power, Seed Bomb, Slam, Sleep Talk, Snore, Solarbeam, Strength,
+        Substitute, Sunny Day, Swagger, Swift, Swords Dance, Synthesis, Thunderpunch,
+        Toxic, Worry Seed, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    - rs: [Absorb, Aerial Ace, Agility, Attract, Body Slam, Brick Break, Bullet Seed,
+        Counter, Crunch, Crush Claw, Cut, Detect, Dig, Double-Edge, Double Team, Dragonbreath,
+        Dynamicpunch, Endeavor, Endure, Facade, Flash, Focus Punch, Frustration, Fury
+          Cutter, Giga Drain, Hidden Power, Iron Tail, Leech Seed, Leer, Mega Drain,
+        Mega Kick, Mega Punch, Mimic, Mud-Slap, Mud Sport, Pound, Protect, Pursuit,
+        Quick Attack, Rest, Return, Rock Smash, Rock Tomb, Safeguard, Screech, Secret
+          Power, Seismic Toss, Slam, Sleep Talk, Snore, Solarbeam, Strength, Substitute,
+        Sunny Day, Swagger, Swift, Swords Dance, Thunderpunch, Toxic, Body Slam, Double-Edge,
+        Mimic, Seismic Toss]
+    stats:
+    - [40, 45, 35, 65, 55, 70]
+    tags:
+    - [nfe]
+    - dp: [lc]
+    types:
+    - [Grass]
+    weight: [5]

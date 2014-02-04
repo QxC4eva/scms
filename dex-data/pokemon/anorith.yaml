@@ -1,66 +1,63 @@
 pokemon:
   Anorith:
-    introduction: rs
-    types:
-    - [Bug, Rock]
-    egggroups:
-    - [Water 3]
     abilities:
     - [Battle Armor]
     - bw: [Battle Armor, Swift Swim]
+    egggroups:
+    - [Water 3]
+    evolutions: [Armaldo]
+    height: [0.7]
+    introduction: rs
+    moves:
+    - bw: [Aerial Ace, Ancientpower, Attract, Body Slam, Brick Break, Bug Bite, Cross
+          Poison, Crush Claw, Curse, Cut, Dig, Double-Edge, Double Team, Earth Power,
+        Facade, False Swipe, Frustration, Fury Cutter, Harden, Hidden Power, Hone
+          Claws, Iron Defense, Knock Off, Metal Claw, Mimic, Mud Sport, Protect, Rapid
+          Spin, Rest, Return, Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock
+          Tomb, Round, Sand-Attack, Sandstorm, Scratch, Screech, Slash, Sleep Talk,
+        Smack Down, Snore, Stealth Rock, Struggle Bug, Substitute, Sunny Day, Swagger,
+        Swords Dance, Toxic, Water Gun, Water Pulse, X-scissor]
+    - dp: [Aerial Ace, Ancientpower, Attract, Brick Break, Captivate, Cross Poison,
+        Crush Claw, Curse, Cut, Dig, Double Team, Earth Power, Endure, Facade, False
+          Swipe, Frustration, Fury Cutter, Harden, Headbutt, Hidden Power, Iron Defense,
+        Knock Off, Metal Claw, Mud-Slap, Mud Sport, Natural Gift, Protect, Rapid Spin,
+        Rest, Return, Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock Tomb,
+        Sand-Attack, Sandstorm, Scratch, Screech, Secret Power, Slash, Sleep Talk,
+        Snore, Stealth Rock, String Shot, Substitute, Sunny Day, Swagger, Swords Dance,
+        Toxic, Water Gun, Water Pulse, X-scissor]
+    - rs: [Aerial Ace, Ancientpower, Attract, Body Slam, Brick Break, Cut, Dig, Double-Edge,
+        Double Team, Endure, Facade, Frustration, Fury Cutter, Harden, Hidden Power,
+        Knock Off, Metal Claw, Mimic, Mud-Slap, Mud Sport, Protect, Rapid Spin, Rest,
+        Return, Rock Blast, Rock Slide, Rock Smash, Rock Tomb, Sandstorm, Scratch,
+        Secret Power, Slash, Sleep Talk, Snore, Substitute, Sunny Day, Swagger, Swords
+          Dance, Toxic, Water Gun, Water Pulse]
     stats:
     - [45, 95, 50, 40, 50, 75]
     tags:
     - [nfe]
     - dp: [lc]
-    weight: [12.5]
-    height: [0.7]
-  Armaldo:
-    introduction: rs
     types:
     - [Bug, Rock]
-    egggroups:
-    - [Water 3]
+    weight: [12.5]
+  Armaldo:
     abilities:
     - [Battle Armor]
     - bw: [Battle Armor, Swift Swim]
+    egggroups:
+    - [Water 3]
+    height: [1.5]
+    introduction: rs
+    moves:
+    - bw: [Aqua Tail, Block, Bulldoze, Earthquake, Flash Cannon, Giga Impact, Hyper
+          Beam, Iron Tail, Low Kick, Seismic Toss, Stone Edge, Strength, Superpower]
+    - dp: [Aqua Tail, Block, Earthquake, Flash Cannon, Giga Impact, Hyper Beam, Iron
+          Tail, Low Kick, Stone Edge, Strength, Superpower]
+    - rs: [Earthquake, Hyper Beam, Iron Tail, Seismic Toss, Strength]
     stats:
     - [75, 125, 100, 70, 80, 45]
     tags:
     - [bl]
     - dp: [nu]
+    types:
+    - [Bug, Rock]
     weight: [68.2]
-    height: [1.5]
-evolutions:
-- {from: Anorith, to: Armaldo}
-learnsets:
-  rs:
-    Anorith: [Aerial Ace, Ancientpower, Attract, Body Slam, Brick Break, Cut, Dig,
-      Double-Edge, Double Team, Endure, Facade, Frustration, Fury Cutter, Harden,
-      Hidden Power, Knock Off, Metal Claw, Mimic, Mud-Slap, Mud Sport, Protect, Rapid
-        Spin, Rest, Return, Rock Blast, Rock Slide, Rock Smash, Rock Tomb, Sandstorm,
-      Scratch, Secret Power, Slash, Sleep Talk, Snore, Substitute, Sunny Day, Swagger,
-      Swords Dance, Toxic, Water Gun, Water Pulse]
-    Armaldo: [Earthquake, Hyper Beam, Iron Tail, Seismic Toss, Strength]
-  dp:
-    Anorith: [Aerial Ace, Ancientpower, Attract, Brick Break, Captivate, Cross Poison,
-      Crush Claw, Curse, Cut, Dig, Double Team, Earth Power, Endure, Facade, False
-        Swipe, Frustration, Fury Cutter, Harden, Headbutt, Hidden Power, Iron Defense,
-      Knock Off, Metal Claw, Mud-Slap, Mud Sport, Natural Gift, Protect, Rapid Spin,
-      Rest, Return, Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Sand-Attack,
-      Sandstorm, Scratch, Screech, Secret Power, Slash, Sleep Talk, Snore, Stealth
-        Rock, String Shot, Substitute, Sunny Day, Swagger, Swords Dance, Toxic, Water
-        Gun, Water Pulse, X-scissor]
-    Armaldo: [Aqua Tail, Block, Earthquake, Flash Cannon, Giga Impact, Hyper Beam,
-      Iron Tail, Low Kick, Stone Edge, Strength, Superpower]
-  bw:
-    Anorith: [Aerial Ace, Ancientpower, Attract, Body Slam, Brick Break, Bug Bite,
-      Cross Poison, Crush Claw, Curse, Cut, Dig, Double-Edge, Double Team, Earth Power,
-      Facade, False Swipe, Frustration, Fury Cutter, Harden, Hidden Power, Hone Claws,
-      Iron Defense, Knock Off, Metal Claw, Mimic, Mud Sport, Protect, Rapid Spin,
-      Rest, Return, Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Round,
-      Sand-Attack, Sandstorm, Scratch, Screech, Slash, Sleep Talk, Smack Down, Snore,
-      Stealth Rock, Struggle Bug, Substitute, Sunny Day, Swagger, Swords Dance, Toxic,
-      Water Gun, Water Pulse, X-scissor]
-    Armaldo: [Aqua Tail, Block, Bulldoze, Earthquake, Flash Cannon, Giga Impact, Hyper
-        Beam, Iron Tail, Low Kick, Seismic Toss, Stone Edge, Strength, Superpower]

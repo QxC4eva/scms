@@ -1,57 +1,55 @@
 pokemon:
-  Skorupi:
-    introduction: dp
-    types:
-    - [Bug, Poison]
-    egggroups:
-    - [Bug, Water 3]
-    abilities:
-    - [Battle Armor, Keen Eye, Sniper]
-    stats:
-    - [40, 50, 90, 30, 55, 65]
-    tags:
-    - [lc]
-    weight: [12]
-    height: [0.8]
   Drapion:
-    introduction: dp
-    types:
-    - [Dark, Poison]
-    egggroups:
-    - [Bug, Water 3]
     abilities:
     - [Battle Armor, Keen Eye, Sniper]
+    egggroups:
+    - [Bug, Water 3]
+    height: [1.3]
+    introduction: dp
+    moves:
+    - bw: [Bulldoze, Earthquake, Fire Fang, Giga Impact, Hyper Beam, Ice Fang, Retaliate,
+        Roar, Rock Slide, Snarl, Thunder Fang]
+    - dp: [Earthquake, Fire Fang, Giga Impact, Hyper Beam, Ice Fang, Roar, Rock Climb,
+        Rock Slide, Thunder Fang]
     stats:
     - [70, 90, 110, 60, 75, 95]
     tags:
     - [uu]
     - bw: [ru]
+    types:
+    - [Dark, Poison]
     weight: [61.5]
-    height: [1.3]
-evolutions:
-- {from: Skorupi, to: Drapion}
-learnsets:
-  dp:
-    Skorupi: [Acupressure, Aerial Ace, Agility, Aqua Tail, Attract, Bite, Brick Break,
-      Bug Bite, Captivate, Confuse Ray, Cross Poison, Crunch, Cut, Dark Pulse, Dig,
-      Double Team, Endure, Facade, Faint Attack, False Swipe, Flash, Fling, Frustration,
-      Fury Cutter, Headbutt, Hidden Power, Iron Tail, Knock Off, Leer, Mud-Slap, Natural
-        Gift, Night Slash, Payback, Pin Missile, Poison Fang, Poison Jab, Poison Sting,
-      Protect, Pursuit, Rain Dance, Rest, Return, Rock Smash, Rock Tomb, Sand-Attack,
-      Scary Face, Screech, Secret Power, Shadow Ball, Slash, Sleep Talk, Sludge Bomb,
-      Snore, Strength, Substitute, Sunny Day, Swagger, Swords Dance, Taunt, Thief,
-      Torment, Toxic, Toxic Spikes, Whirlwind, X-scissor]
-    Drapion: [Earthquake, Fire Fang, Giga Impact, Hyper Beam, Ice Fang, Roar, Rock
-        Climb, Rock Slide, Thunder Fang]
-  bw:
-    Skorupi: [Acupressure, Aerial Ace, Agility, Aqua Tail, Attract, Bite, Brick Break,
-      Bug Bite, Confuse Ray, Cross Poison, Crunch, Cut, Dark Pulse, Dig, Double Team,
-      Facade, Faint Attack, False Swipe, Flash, Fling, Frustration, Hidden Power,
-      Hone Claws, Iron Tail, Knock Off, Leer, Night Slash, Payback, Pin Missile, Poison
-        Fang, Poison Jab, Poison Sting, Poison Tail, Protect, Pursuit, Rain Dance,
-      Rest, Return, Rock Smash, Rock Tomb, Round, Sand-Attack, Scary Face, Screech,
-      Shadow Ball, Slash, Sleep Talk, Sludge Bomb, Snore, Strength, Struggle Bug,
-      Substitute, Sunny Day, Swagger, Swords Dance, Taunt, Thief, Torment, Toxic,
-      Toxic Spikes, Twineedle, Venoshock, Whirlwind, X-scissor]
-    Drapion: [Bulldoze, Earthquake, Fire Fang, Giga Impact, Hyper Beam, Ice Fang,
-      Retaliate, Roar, Rock Slide, Snarl, Thunder Fang]
+  Skorupi:
+    abilities:
+    - [Battle Armor, Keen Eye, Sniper]
+    egggroups:
+    - [Bug, Water 3]
+    evolutions: [Drapion]
+    height: [0.8]
+    introduction: dp
+    moves:
+    - bw: [Acupressure, Aerial Ace, Agility, Aqua Tail, Attract, Bite, Brick Break,
+        Bug Bite, Confuse Ray, Cross Poison, Crunch, Cut, Dark Pulse, Dig, Double
+          Team, Facade, Faint Attack, False Swipe, Flash, Fling, Frustration, Hidden
+          Power, Hone Claws, Iron Tail, Knock Off, Leer, Night Slash, Payback, Pin
+          Missile, Poison Fang, Poison Jab, Poison Sting, Poison Tail, Protect, Pursuit,
+        Rain Dance, Rest, Return, Rock Smash, Rock Tomb, Round, Sand-Attack, Scary
+          Face, Screech, Shadow Ball, Slash, Sleep Talk, Sludge Bomb, Snore, Strength,
+        Struggle Bug, Substitute, Sunny Day, Swagger, Swords Dance, Taunt, Thief,
+        Torment, Toxic, Toxic Spikes, Twineedle, Venoshock, Whirlwind, X-scissor]
+    - dp: [Acupressure, Aerial Ace, Agility, Aqua Tail, Attract, Bite, Brick Break,
+        Bug Bite, Captivate, Confuse Ray, Cross Poison, Crunch, Cut, Dark Pulse, Dig,
+        Double Team, Endure, Facade, Faint Attack, False Swipe, Flash, Fling, Frustration,
+        Fury Cutter, Headbutt, Hidden Power, Iron Tail, Knock Off, Leer, Mud-Slap,
+        Natural Gift, Night Slash, Payback, Pin Missile, Poison Fang, Poison Jab,
+        Poison Sting, Protect, Pursuit, Rain Dance, Rest, Return, Rock Smash, Rock
+          Tomb, Sand-Attack, Scary Face, Screech, Secret Power, Shadow Ball, Slash,
+        Sleep Talk, Sludge Bomb, Snore, Strength, Substitute, Sunny Day, Swagger,
+        Swords Dance, Taunt, Thief, Torment, Toxic, Toxic Spikes, Whirlwind, X-scissor]
+    stats:
+    - [40, 50, 90, 30, 55, 65]
+    tags:
+    - [lc]
+    types:
+    - [Bug, Poison]
+    weight: [12]

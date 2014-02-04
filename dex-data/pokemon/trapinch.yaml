@@ -1,90 +1,89 @@
 pokemon:
-  Trapinch:
-    introduction: rs
-    types:
-    - [Ground]
-    egggroups:
-    - [Bug]
-    abilities:
-    - [Arena Trap, Hyper Cutter]
-    - bw: [Arena Trap, Hyper Cutter, Sheer Force]
-    stats:
-    - [45, 100, 45, 45, 45, 10]
-    tags:
-    - [nu]
-    - bw: [lc]
-    weight: [15]
-    height: [0.7]
-  Vibrava:
-    introduction: rs
-    types:
-    - [Dragon, Ground]
-    egggroups:
-    - [Bug]
-    abilities:
-    - [Levitate]
-    - bw: [Levitate]
-    stats:
-    - [50, 70, 50, 50, 50, 70]
-    tags:
-    - [nfe]
-    weight: [15.3]
-    height: [1.1]
   Flygon:
-    introduction: rs
-    types:
-    - [Dragon, Ground]
-    egggroups:
-    - [Bug]
     abilities:
     - [Levitate]
     - bw: [Levitate]
+    egggroups:
+    - [Bug]
+    height: [2]
+    introduction: rs
+    moves:
+    - bw: [Aerial Ace, Dragon Claw, Dragon Tail, Fire Blast, Fire Punch, Flamethrower,
+        Giga Impact, Hone Claws, Incinerate, Iron Tail, Stone Edge, Thunderpunch,
+        Body Slam, Double-Edge, Mimic]
+    - dp: [Aerial Ace, Dragon Claw, Fire Blast, Fire Punch, Flamethrower, Giga Impact,
+        Iron Tail, Stone Edge, Thunderpunch, Body Slam, Double-Edge, Mimic]
+    - rs: [Dragon Claw, Fire Blast, Fire Punch, Flamethrower, Fury Cutter, Iron Tail,
+        Body Slam, Double-Edge, Mimic]
     stats:
     - [80, 100, 80, 80, 80, 100]
     tags:
     - [ou]
     - bw: [uu]
+    types:
+    - [Dragon, Ground]
     weight: [82]
-    height: [2]
-evolutions:
-- {from: Trapinch, to: Vibrava}
-- {from: Vibrava, to: Flygon}
-learnsets:
-  rs:
-    Trapinch: [Attract, Bite, Body Slam, Crunch, Dig, Double-Edge, Double Team, Earthquake,
-      Endure, Facade, Faint Attack, Focus Energy, Frustration, Giga Drain, Gust, Hidden
-        Power, Hyper Beam, Mimic, Mud-Slap, Protect, Quick Attack, Rest, Return, Rock
-        Slide, Rock Smash, Rock Tomb, Sand-Attack, Sand Tomb, Sandstorm, Secret Power,
-      Sleep Talk, Snore, Solarbeam, Strength, Substitute, Sunny Day, Swagger, Toxic,
-      Body Slam, Double-Edge, Mimic]
-    Vibrava: [Dragonbreath, Fly, Screech, Steel Wing, Swift, Body Slam, Double-Edge,
-      Mimic]
-    Flygon: [Dragon Claw, Fire Blast, Fire Punch, Flamethrower, Fury Cutter, Iron
-        Tail, Body Slam, Double-Edge, Mimic]
-  dp:
-    Trapinch: [Attract, Bite, Bug Bite, Captivate, Crunch, Dig, Double Team, Earth
-        Power, Earthquake, Endure, Facade, Faint Attack, Feint, Fissure, Flail, Focus
-        Energy, Frustration, Fury Cutter, Giga Drain, Gust, Headbutt, Hidden Power,
-      Hyper Beam, Mud Shot, Mud-Slap, Natural Gift, Protect, Quick Attack, Rest, Return,
-      Rock Slide, Rock Smash, Rock Tomb, Sand-Attack, Sand Tomb, Sandstorm, Secret
-        Power, Sleep Talk, Snore, Solarbeam, Strength, Substitute, Sunny Day, Swagger,
-      Toxic, Body Slam, Double-Edge, Mimic]
-    Vibrava: [Air Cutter, Defog, Draco Meteor, Dragon Pulse, Dragonbreath, Fly, Heat
-        Wave, Ominous Wind, Outrage, Roost, Screech, Silver Wind, Sonicboom, Steel
-        Wing, Supersonic, Swift, Tailwind, Twister, U-turn, Body Slam, Double-Edge,
-      Mimic]
-    Flygon: [Aerial Ace, Dragon Claw, Fire Blast, Fire Punch, Flamethrower, Giga Impact,
-      Iron Tail, Stone Edge, Thunderpunch, Body Slam, Double-Edge, Mimic]
-  bw:
-    Trapinch: [Attract, Bide, Bite, Bug Bite, Bulldoze, Crunch, Dig, Double Team,
-      Earth Power, Earthquake, Endure, Facade, Faint Attack, Feint, Fissure, Flail,
-      Focus Energy, Frustration, Fury Cutter, Giga Drain, Gust, Hidden Power, Hyper
-        Beam, Mud Shot, Mud-Slap, Protect, Quick Attack, Rest, Return, Rock Slide,
-      Rock Smash, Rock Tomb, Round, Sand-Attack, Sand Tomb, Sandstorm, Signal Beam,
-      Sleep Talk, Snore, Solarbeam, Strength, Struggle Bug, Substitute, Sunny Day,
-      Superpower, Swagger, Toxic, Body Slam, Double-Edge, Mimic]
-    Vibrava: [Draco Meteor, Dragon Pulse, Dragonbreath, Fly, Heat Wave, Outrage, Roost,
-      Screech, Sonicboom, Supersonic, Tailwind, U-turn, Body Slam, Double-Edge, Mimic]
-    Flygon: [Aerial Ace, Dragon Claw, Dragon Tail, Fire Blast, Fire Punch, Flamethrower,
-      Giga Impact, Hone Claws, Incinerate, Iron Tail, Stone Edge, Thunderpunch, Body
-        Slam, Double-Edge, Mimic]
+  Trapinch:
+    abilities:
+    - [Arena Trap, Hyper Cutter]
+    - bw: [Arena Trap, Hyper Cutter, Sheer Force]
+    egggroups:
+    - [Bug]
+    evolutions: [Vibrava]
+    height: [0.7]
+    introduction: rs
+    moves:
+    - bw: [Attract, Bide, Bite, Bug Bite, Bulldoze, Crunch, Dig, Double Team, Earth
+          Power, Earthquake, Endure, Facade, Faint Attack, Feint, Fissure, Flail,
+        Focus Energy, Frustration, Fury Cutter, Giga Drain, Gust, Hidden Power, Hyper
+          Beam, Mud Shot, Mud-Slap, Protect, Quick Attack, Rest, Return, Rock Slide,
+        Rock Smash, Rock Tomb, Round, Sand-Attack, Sand Tomb, Sandstorm, Signal Beam,
+        Sleep Talk, Snore, Solarbeam, Strength, Struggle Bug, Substitute, Sunny Day,
+        Superpower, Swagger, Toxic, Body Slam, Double-Edge, Mimic]
+    - dp: [Attract, Bite, Bug Bite, Captivate, Crunch, Dig, Double Team, Earth Power,
+        Earthquake, Endure, Facade, Faint Attack, Feint, Fissure, Flail, Focus Energy,
+        Frustration, Fury Cutter, Giga Drain, Gust, Headbutt, Hidden Power, Hyper
+          Beam, Mud Shot, Mud-Slap, Natural Gift, Protect, Quick Attack, Rest, Return,
+        Rock Slide, Rock Smash, Rock Tomb, Sand-Attack, Sand Tomb, Sandstorm, Secret
+          Power, Sleep Talk, Snore, Solarbeam, Strength, Substitute, Sunny Day, Swagger,
+        Toxic, Body Slam, Double-Edge, Mimic]
+    - rs: [Attract, Bite, Body Slam, Crunch, Dig, Double-Edge, Double Team, Earthquake,
+        Endure, Facade, Faint Attack, Focus Energy, Frustration, Giga Drain, Gust,
+        Hidden Power, Hyper Beam, Mimic, Mud-Slap, Protect, Quick Attack, Rest, Return,
+        Rock Slide, Rock Smash, Rock Tomb, Sand-Attack, Sand Tomb, Sandstorm, Secret
+          Power, Sleep Talk, Snore, Solarbeam, Strength, Substitute, Sunny Day, Swagger,
+        Toxic, Body Slam, Double-Edge, Mimic]
+    stats:
+    - [45, 100, 45, 45, 45, 10]
+    tags:
+    - [nu]
+    - bw: [lc]
+    types:
+    - [Ground]
+    weight: [15]
+  Vibrava:
+    abilities:
+    - [Levitate]
+    - bw: [Levitate]
+    egggroups:
+    - [Bug]
+    evolutions: [Flygon]
+    height: [1.1]
+    introduction: rs
+    moves:
+    - bw: [Draco Meteor, Dragon Pulse, Dragonbreath, Fly, Heat Wave, Outrage, Roost,
+        Screech, Sonicboom, Supersonic, Tailwind, U-turn, Body Slam, Double-Edge,
+        Mimic]
+    - dp: [Air Cutter, Defog, Draco Meteor, Dragon Pulse, Dragonbreath, Fly, Heat
+          Wave, Ominous Wind, Outrage, Roost, Screech, Silver Wind, Sonicboom, Steel
+          Wing, Supersonic, Swift, Tailwind, Twister, U-turn, Body Slam, Double-Edge,
+        Mimic]
+    - rs: [Dragonbreath, Fly, Screech, Steel Wing, Swift, Body Slam, Double-Edge,
+        Mimic]
+    stats:
+    - [50, 70, 50, 50, 50, 70]
+    tags:
+    - [nfe]
+    types:
+    - [Dragon, Ground]
+    weight: [15.3]

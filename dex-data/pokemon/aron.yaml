@@ -1,97 +1,96 @@
 pokemon:
-  Aron:
-    introduction: rs
-    types:
-    - [Rock, Steel]
-    egggroups:
-    - [Monster]
-    abilities:
-    - [Rock Head, Sturdy]
-    - bw: [Heavy Metal, Rock Head, Sturdy]
-    stats:
-    - [50, 70, 100, 40, 40, 30]
-    tags:
-    - [nfe]
-    - dp: [lc]
-    weight: [60]
-    height: [0.4]
-  Lairon:
-    introduction: rs
-    types:
-    - [Rock, Steel]
-    egggroups:
-    - [Monster]
-    abilities:
-    - [Rock Head, Sturdy]
-    - bw: [Heavy Metal, Rock Head, Sturdy]
-    stats:
-    - [60, 90, 140, 50, 50, 40]
-    tags:
-    - [nfe]
-    - bw: [nu]
-    weight: [120]
-    height: [0.9]
   Aggron:
-    introduction: rs
-    types:
-    - [Rock, Steel]
-    egggroups:
-    - [Monster]
     abilities:
     - [Rock Head, Sturdy]
     - bw: [Heavy Metal, Rock Head, Sturdy]
+    egggroups:
+    - [Monster]
+    height: [2.1]
+    introduction: rs
+    moves:
+    - bw: [Aqua Tail, Blizzard, Block, Brick Break, Dark Pulse, Dragon Claw, Dragon
+          Pulse, Dragon Tail, Fire Blast, Fire Punch, Flamethrower, Flash Cannon,
+        Fling, Focus Blast, Giga Impact, Hyper Beam, Ice Beam, Ice Punch, Icy Wind,
+        Incinerate, Low Kick, Outrage, Payback, Seismic Toss, Smack Down, Solarbeam,
+        Surf, Taunt, Thunder, Thunder Wave, Thunderbolt, Thunderpunch]
+    - dp: [Aqua Tail, Avalanche, Blizzard, Block, Brick Break, Dark Pulse, Dragon
+          Claw, Dragon Pulse, Fire Blast, Fire Punch, Flamethrower, Flash Cannon,
+        Fling, Focus Blast, Focus Punch, Giga Impact, Hyper Beam, Ice Beam, Ice Punch,
+        Icy Wind, Low Kick, Outrage, Payback, Rock Climb, Solarbeam, Surf, Taunt,
+        Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Whirlpool]
+    - rs: [Blizzard, Brick Break, Counter, Dragon Claw, Dynamicpunch, Fire Blast,
+        Fire Punch, Flamethrower, Focus Punch, Hyper Beam, Ice Beam, Ice Punch, Icy
+          Wind, Mega Kick, Mega Punch, Seismic Toss, Solarbeam, Surf, Taunt, Thunder,
+        Thunder Wave, Thunderbolt, Thunderpunch]
     stats:
     - [70, 110, 180, 60, 60, 50]
     tags:
     - [uu]
     - bw: [ru]
+    types:
+    - [Rock, Steel]
     weight: [360]
-    height: [2.1]
-evolutions:
-- {from: Aron, to: Lairon}
-- {from: Lairon, to: Aggron}
-learnsets:
-  rs:
-    Aron: [Aerial Ace, Attract, Body Slam, Cut, Defense Curl, Dig, Double-Edge, Double
-        Team, Earthquake, Endeavor, Endure, Facade, Frustration, Fury Cutter, Harden,
-      Headbutt, Hidden Power, Iron Defense, Iron Tail, Metal Claw, Metal Sound, Mimic,
-      Mud-Slap, Protect, Rain Dance, Rest, Return, Roar, Rock Slide, Rock Smash, Rock
-        Tomb, Rollout, Sandstorm, Secret Power, Shock Wave, Sleep Talk, Smellingsalt,
-      Snore, Stomp, Strength, Substitute, Sunny Day, Swagger, Tackle, Take Down, Toxic,
-      Water Pulse]
-    Lairon: [Mimic]
-    Aggron: [Blizzard, Brick Break, Counter, Dragon Claw, Dynamicpunch, Fire Blast,
-      Fire Punch, Flamethrower, Focus Punch, Hyper Beam, Ice Beam, Ice Punch, Icy
-        Wind, Mega Kick, Mega Punch, Seismic Toss, Solarbeam, Surf, Taunt, Thunder,
-      Thunder Wave, Thunderbolt, Thunderpunch]
-  dp:
-    Aron: [Aerial Ace, Ancientpower, Attract, Body Slam, Captivate, Curse, Cut, Dig,
-      Double-Edge, Double Team, Dragon Rush, Earth Power, Earthquake, Endeavor, Endure,
-      Facade, Frustration, Fury Cutter, Harden, Head Smash, Headbutt, Hidden Power,
-      Iron Defense, Iron Head, Iron Tail, Magnet Rise, Metal Burst, Metal Claw, Metal
-        Sound, Mud-Slap, Natural Gift, Protect, Rain Dance, Rest, Return, Roar, Rock
-        Polish, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sandstorm, Screech, Secret
-        Power, Shadow Claw, Shock Wave, Sleep Talk, Smellingsalt, Snore, Spite, Stealth
-        Rock, Stomp, Strength, Substitute, Sunny Day, Superpower, Swagger, Tackle,
-      Take Down, Toxic, Uproar, Water Pulse]
-    Lairon: [Stone Edge, Mimic]
-    Aggron: [Aqua Tail, Avalanche, Blizzard, Block, Brick Break, Dark Pulse, Dragon
-        Claw, Dragon Pulse, Fire Blast, Fire Punch, Flamethrower, Flash Cannon, Fling,
-      Focus Blast, Focus Punch, Giga Impact, Hyper Beam, Ice Beam, Ice Punch, Icy
-        Wind, Low Kick, Outrage, Payback, Rock Climb, Solarbeam, Surf, Taunt, Thunder,
-      Thunder Wave, Thunderbolt, Thunderpunch, Whirlpool]
-  bw:
-    Aron: [Aerial Ace, Attract, Autotomize, Body Slam, Bulldoze, Curse, Cut, Dig,
-      Double-Edge, Double Team, Dragon Rush, Earth Power, Earthquake, Endeavor, Facade,
-      Frustration, Harden, Head Smash, Headbutt, Heavy Slam, Hidden Power, Hone Claws,
-      Iron Defense, Iron Head, Iron Tail, Magnet Rise, Metal Burst, Metal Claw, Metal
-        Sound, Mimic, Mud-Slap, Protect, Rain Dance, Rest, Return, Roar, Rock Polish,
-      Rock Slide, Rock Smash, Rock Tomb, Round, Sandstorm, Screech, Shadow Claw, Shock
-        Wave, Sleep Talk, Smellingsalt, Snore, Spite, Stealth Rock, Stomp, Strength,
-      Substitute, Sunny Day, Superpower, Swagger, Tackle, Take Down, Toxic, Uproar]
-    Lairon: [Stone Edge, Mimic]
-    Aggron: [Aqua Tail, Blizzard, Block, Brick Break, Dark Pulse, Dragon Claw, Dragon
-        Pulse, Dragon Tail, Fire Blast, Fire Punch, Flamethrower, Flash Cannon, Fling,
-      Focus Blast, Giga Impact, Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Incinerate,
-      Low Kick, Outrage, Payback, Seismic Toss, Smack Down, Solarbeam, Surf, Taunt,
-      Thunder, Thunder Wave, Thunderbolt, Thunderpunch]
+  Aron:
+    abilities:
+    - [Rock Head, Sturdy]
+    - bw: [Heavy Metal, Rock Head, Sturdy]
+    egggroups:
+    - [Monster]
+    evolutions: [Lairon]
+    height: [0.4]
+    introduction: rs
+    moves:
+    - bw: [Aerial Ace, Attract, Autotomize, Body Slam, Bulldoze, Curse, Cut, Dig,
+        Double-Edge, Double Team, Dragon Rush, Earth Power, Earthquake, Endeavor,
+        Facade, Frustration, Harden, Head Smash, Headbutt, Heavy Slam, Hidden Power,
+        Hone Claws, Iron Defense, Iron Head, Iron Tail, Magnet Rise, Metal Burst,
+        Metal Claw, Metal Sound, Mimic, Mud-Slap, Protect, Rain Dance, Rest, Return,
+        Roar, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Round, Sandstorm, Screech,
+        Shadow Claw, Shock Wave, Sleep Talk, Smellingsalt, Snore, Spite, Stealth Rock,
+        Stomp, Strength, Substitute, Sunny Day, Superpower, Swagger, Tackle, Take
+          Down, Toxic, Uproar]
+    - dp: [Aerial Ace, Ancientpower, Attract, Body Slam, Captivate, Curse, Cut, Dig,
+        Double-Edge, Double Team, Dragon Rush, Earth Power, Earthquake, Endeavor,
+        Endure, Facade, Frustration, Fury Cutter, Harden, Head Smash, Headbutt, Hidden
+          Power, Iron Defense, Iron Head, Iron Tail, Magnet Rise, Metal Burst, Metal
+          Claw, Metal Sound, Mud-Slap, Natural Gift, Protect, Rain Dance, Rest, Return,
+        Roar, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sandstorm,
+        Screech, Secret Power, Shadow Claw, Shock Wave, Sleep Talk, Smellingsalt,
+        Snore, Spite, Stealth Rock, Stomp, Strength, Substitute, Sunny Day, Superpower,
+        Swagger, Tackle, Take Down, Toxic, Uproar, Water Pulse]
+    - rs: [Aerial Ace, Attract, Body Slam, Cut, Defense Curl, Dig, Double-Edge, Double
+          Team, Earthquake, Endeavor, Endure, Facade, Frustration, Fury Cutter, Harden,
+        Headbutt, Hidden Power, Iron Defense, Iron Tail, Metal Claw, Metal Sound,
+        Mimic, Mud-Slap, Protect, Rain Dance, Rest, Return, Roar, Rock Slide, Rock
+          Smash, Rock Tomb, Rollout, Sandstorm, Secret Power, Shock Wave, Sleep Talk,
+        Smellingsalt, Snore, Stomp, Strength, Substitute, Sunny Day, Swagger, Tackle,
+        Take Down, Toxic, Water Pulse]
+    stats:
+    - [50, 70, 100, 40, 40, 30]
+    tags:
+    - [nfe]
+    - dp: [lc]
+    types:
+    - [Rock, Steel]
+    weight: [60]
+  Lairon:
+    abilities:
+    - [Rock Head, Sturdy]
+    - bw: [Heavy Metal, Rock Head, Sturdy]
+    egggroups:
+    - [Monster]
+    evolutions: [Aggron]
+    height: [0.9]
+    introduction: rs
+    moves:
+    - bw: [Stone Edge, Mimic]
+    - dp: [Stone Edge, Mimic]
+    - rs: [Mimic]
+    stats:
+    - [60, 90, 140, 50, 50, 40]
+    tags:
+    - [nfe]
+    - bw: [nu]
+    types:
+    - [Rock, Steel]
+    weight: [120]

@@ -1,31 +1,31 @@
 pokemon:
-  Tyrogue:
-    introduction: gs
-    types:
-    - [Fighting]
-    egggroups:
-    - []
-    abilities:
-    - [Guts]
-    - dp: [Guts, Steadfast]
-    - bw: [Guts, Steadfast, Vital Spirit]
-    stats:
-    - [35, 35, 35, 35, 35, 35]
-    tags:
-    - [nfe]
-    - dp: [lc]
-    weight: [21]
-    height: [0.7]
   Hitmonchan:
-    introduction: rb
-    types:
-    - [Fighting]
-    egggroups:
-    - [Humanshape]
     abilities:
     - [Keen Eye]
     - dp: [Iron Fist, Keen Eye]
     - bw: [Inner Focus, Iron Fist, Keen Eye]
+    egggroups:
+    - [Humanshape]
+    height: [1.4]
+    introduction: rb
+    moves:
+    - gs: [Agility, Comet Punch, Counter, Dynamicpunch, Fire Punch, Ice Punch, Mega
+          Punch, Pursuit, Thunderpunch]
+    - bw: [Agility, Close Combat, Comet Punch, Detect, Drain Punch, Fire Punch, Fling,
+        Focus Blast, Focus Punch, Ice Punch, Mega Punch, Quick Guard, Revenge, Rock
+          Tomb, Sky Uppercut, Stone Edge, Thunderpunch, Body Slam, Double-Edge, Mimic,
+        Seismic Toss]
+    - dp: [Agility, Close Combat, Comet Punch, Detect, Drain Punch, Feint, Fire Punch,
+        Fling, Focus Blast, Focus Punch, Ice Punch, Mega Punch, Pursuit, Revenge,
+        Rock Climb, Rock Tomb, Sky Uppercut, Stone Edge, Thunderpunch, Body Slam,
+        Double-Edge, Mimic, Seismic Toss]
+    - rs: [Agility, Comet Punch, Detect, Dynamicpunch, Fire Punch, Focus Punch, Ice
+          Punch, Mega Punch, Metronome, Pursuit, Revenge, Rock Tomb, Sky Uppercut,
+        Thunderpunch, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    - rb: [Agility, Bide, Body Slam, Comet Punch, Counter, Double-Edge, Double Team,
+        Fire Punch, Ice Punch, Mega Kick, Mega Punch, Metronome, Mimic, Rage, Rest,
+        Seismic Toss, Skull Bash, Strength, Submission, Substitute, Swift, Take Down,
+        Thunderpunch, Toxic]
     stats:
     - [50, 105, 79, 35, 35, 76]
     - gs: [50, 105, 79, 35, 110, 76]
@@ -33,109 +33,103 @@ pokemon:
     - [uu]
     - bw: [ru]
     - dp: [nu]
-    weight: [50.2]
-    height: [1.4]
-  Hitmonlee:
-    introduction: rb
     types:
     - [Fighting]
-    egggroups:
-    - [Humanshape]
+    weight: [50.2]
+  Hitmonlee:
     abilities:
     - [Limber]
     - dp: [Limber, Reckless]
     - bw: [Limber, Reckless, Unburden]
+    egggroups:
+    - [Humanshape]
+    height: [1.5]
+    introduction: rb
+    moves:
+    - gs: [Double Kick, Focus Energy, Foresight, Jump Kick, Meditate, Mega Kick, Reversal,
+        Rolling Kick]
+    - bw: [Blaze Kick, Bounce, Double Kick, Focus Energy, Jump Kick, Knock Off, Meditate,
+        Mega Kick, Poison Jab, Reversal, Rolling Kick, Superpower, Wide Guard, Body
+          Slam, Double-Edge, Mimic, Refresh, Seismic Toss]
+    - dp: [Blaze Kick, Bounce, Double Kick, Focus Energy, Jump Kick, Knock Off, Meditate,
+        Mega Kick, Poison Jab, Reversal, Rolling Kick, Sucker Punch, Superpower, Body
+          Slam, Double-Edge, Mimic, Refresh, Seismic Toss]
+    - rs: [Double Kick, Focus Energy, Foresight, Jump Kick, Meditate, Reversal, Rolling
+          Kick, Body Slam, Double-Edge, Mimic, Refresh, Seismic Toss]
+    - rb: [Double Kick, Focus Energy, Hi Jump Kick, Jump Kick, Meditate, Rolling Kick]
     stats:
     - [50, 120, 53, 35, 35, 87]
     - gs: [50, 120, 53, 35, 110, 87]
     tags:
     - [uu]
     - bw: [ru]
-    weight: [49.8]
-    height: [1.5]
-  Hitmontop:
-    introduction: gs
     types:
     - [Fighting]
-    egggroups:
-    - [Humanshape]
+    weight: [49.8]
+  Hitmontop:
     abilities:
     - [Intimidate]
     - dp: [Intimidate, Technician]
     - bw: [Intimidate, Steadfast, Technician]
+    egggroups:
+    - [Humanshape]
+    height: [1.4]
+    introduction: gs
+    moves:
+    - gs: [Dig, Quick Attack, Triple Kick]
+    - bw: [Aerial Ace, Dig, Drill Run, Endeavor, Gyro Ball, Quick Attack, Sandstorm,
+        Triple Kick, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    - dp: [Aerial Ace, Dig, Endeavor, Gyro Ball, Quick Attack, Rollout, Sandstorm,
+        Triple Kick, Twister, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    - rs: [Dig, Endeavor, Quick Attack, Sandstorm, Triple Kick, Body Slam, Double-Edge,
+        Mimic, Seismic Toss]
     stats:
     - [50, 95, 95, 35, 110, 70]
     tags:
     - [uu]
+    types:
+    - [Fighting]
     weight: [48]
-    height: [1.4]
-evolutions:
-- {from: Tyrogue, to: Hitmonlee}
-- {from: Tyrogue, to: Hitmonchan}
-- {from: Tyrogue, to: Hitmontop}
-learnsets:
-  rb:
-    Hitmonchan: [Agility, Bide, Body Slam, Comet Punch, Counter, Double-Edge, Double
-        Team, Fire Punch, Ice Punch, Mega Kick, Mega Punch, Metronome, Mimic, Rage,
-      Rest, Seismic Toss, Skull Bash, Strength, Submission, Substitute, Swift, Take
-        Down, Thunderpunch, Toxic]
-    Hitmonlee: [Double Kick, Focus Energy, Hi Jump Kick, Jump Kick, Meditate, Rolling
-        Kick]
-  gs:
-    Tyrogue: [Attract, Curse, Detect, Double Team, Endure, Frustration, Headbutt,
-      Hi Jump Kick, Hidden Power, Mach Punch, Mind Reader, Mud-Slap, Protect, Rapid
-        Spin, Rest, Return, Rock Smash, Sleep Talk, Snore, Strength, Sunny Day, Swagger,
-      Swift, Tackle, Thief, Toxic]
-    Hitmonchan: [Agility, Comet Punch, Counter, Dynamicpunch, Fire Punch, Ice Punch,
-      Mega Punch, Pursuit, Thunderpunch]
-    Hitmonlee: [Double Kick, Focus Energy, Foresight, Jump Kick, Meditate, Mega Kick,
-      Reversal, Rolling Kick]
-    Hitmontop: [Dig, Quick Attack, Triple Kick]
-  rs:
-    Tyrogue: [Attract, Body Slam, Brick Break, Bulk Up, Counter, Double-Edge, Double
-        Team, Earthquake, Endure, Facade, Frustration, Helping Hand, Hi Jump Kick,
-      Hidden Power, Mach Punch, Mega Kick, Mimic, Mind Reader, Mud-Slap, Protect,
-      Rain Dance, Rapid Spin, Rest, Return, Rock Slide, Rock Smash, Secret Power,
-      Seismic Toss, Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger, Swift,
-      Tackle, Thief, Toxic, Body Slam, Double-Edge, Mimic, Seismic Toss]
-    Hitmonchan: [Agility, Comet Punch, Detect, Dynamicpunch, Fire Punch, Focus Punch,
-      Ice Punch, Mega Punch, Metronome, Pursuit, Revenge, Rock Tomb, Sky Uppercut,
-      Thunderpunch, Body Slam, Double-Edge, Mimic, Seismic Toss]
-    Hitmonlee: [Double Kick, Focus Energy, Foresight, Jump Kick, Meditate, Reversal,
-      Rolling Kick, Body Slam, Double-Edge, Mimic, Refresh, Seismic Toss]
-    Hitmontop: [Dig, Endeavor, Quick Attack, Sandstorm, Triple Kick, Body Slam, Double-Edge,
-      Mimic, Seismic Toss]
-  dp:
-    Tyrogue: [Attract, Brick Break, Bulk Up, Bullet Punch, Captivate, Counter, Double
-        Team, Earthquake, Endure, Facade, Fake Out, Foresight, Frustration, Headbutt,
-      Helping Hand, Hi Jump Kick, Hidden Power, Low Kick, Mach Punch, Mind Reader,
-      Mud-Slap, Natural Gift, Protect, Rain Dance, Rapid Spin, Rest, Return, Rock
-        Slide, Rock Smash, Role Play, Secret Power, Sleep Talk, Snore, Strength, Substitute,
-      Sunny Day, Swagger, Swift, Tackle, Thief, Toxic, Uproar, Vacuum Wave, Body Slam,
-      Double-Edge, Mimic, Seismic Toss]
-    Hitmonchan: [Agility, Close Combat, Comet Punch, Detect, Drain Punch, Feint, Fire
-        Punch, Fling, Focus Blast, Focus Punch, Ice Punch, Mega Punch, Pursuit, Revenge,
-      Rock Climb, Rock Tomb, Sky Uppercut, Stone Edge, Thunderpunch, Body Slam, Double-Edge,
-      Mimic, Seismic Toss]
-    Hitmonlee: [Blaze Kick, Bounce, Double Kick, Focus Energy, Jump Kick, Knock Off,
-      Meditate, Mega Kick, Poison Jab, Reversal, Rolling Kick, Sucker Punch, Superpower,
-      Body Slam, Double-Edge, Mimic, Refresh, Seismic Toss]
-    Hitmontop: [Aerial Ace, Dig, Endeavor, Gyro Ball, Quick Attack, Rollout, Sandstorm,
-      Triple Kick, Twister, Body Slam, Double-Edge, Mimic, Seismic Toss]
-  bw:
-    Tyrogue: [Attract, Brick Break, Bulk Up, Bulldoze, Bullet Punch, Counter, Covet,
-      Double Team, Earthquake, Endure, Facade, Fake Out, Feint, Foresight, Frustration,
-      Helping Hand, Hi Jump Kick, Hidden Power, Low Kick, Low Sweep, Mach Punch, Mind
-        Reader, Protect, Pursuit, Rain Dance, Rapid Spin, Rest, Retaliate, Return,
-      Rock Slide, Rock Smash, Role Play, Round, Sleep Talk, Snore, Strength, Substitute,
-      Sunny Day, Swagger, Tackle, Thief, Toxic, Uproar, Vacuum Wave, Work Up, Body
-        Slam, Double-Edge, Mimic, Seismic Toss]
-    Hitmonchan: [Agility, Close Combat, Comet Punch, Detect, Drain Punch, Fire Punch,
-      Fling, Focus Blast, Focus Punch, Ice Punch, Mega Punch, Quick Guard, Revenge,
-      Rock Tomb, Sky Uppercut, Stone Edge, Thunderpunch, Body Slam, Double-Edge, Mimic,
-      Seismic Toss]
-    Hitmonlee: [Blaze Kick, Bounce, Double Kick, Focus Energy, Jump Kick, Knock Off,
-      Meditate, Mega Kick, Poison Jab, Reversal, Rolling Kick, Superpower, Wide Guard,
-      Body Slam, Double-Edge, Mimic, Refresh, Seismic Toss]
-    Hitmontop: [Aerial Ace, Dig, Drill Run, Endeavor, Gyro Ball, Quick Attack, Sandstorm,
-      Triple Kick, Body Slam, Double-Edge, Mimic, Seismic Toss]
+  Tyrogue:
+    abilities:
+    - [Guts]
+    - dp: [Guts, Steadfast]
+    - bw: [Guts, Steadfast, Vital Spirit]
+    egggroups:
+    - []
+    evolutions: [Hitmonlee, Hitmonchan, Hitmontop]
+    height: [0.7]
+    introduction: gs
+    moves:
+    - gs: [Attract, Curse, Detect, Double Team, Endure, Frustration, Headbutt, Hi
+          Jump Kick, Hidden Power, Mach Punch, Mind Reader, Mud-Slap, Protect, Rapid
+          Spin, Rest, Return, Rock Smash, Sleep Talk, Snore, Strength, Sunny Day,
+        Swagger, Swift, Tackle, Thief, Toxic]
+    - bw: [Attract, Brick Break, Bulk Up, Bulldoze, Bullet Punch, Counter, Covet,
+        Double Team, Earthquake, Endure, Facade, Fake Out, Feint, Foresight, Frustration,
+        Helping Hand, Hi Jump Kick, Hidden Power, Low Kick, Low Sweep, Mach Punch,
+        Mind Reader, Protect, Pursuit, Rain Dance, Rapid Spin, Rest, Retaliate, Return,
+        Rock Slide, Rock Smash, Role Play, Round, Sleep Talk, Snore, Strength, Substitute,
+        Sunny Day, Swagger, Tackle, Thief, Toxic, Uproar, Vacuum Wave, Work Up, Body
+          Slam, Double-Edge, Mimic, Seismic Toss]
+    - dp: [Attract, Brick Break, Bulk Up, Bullet Punch, Captivate, Counter, Double
+          Team, Earthquake, Endure, Facade, Fake Out, Foresight, Frustration, Headbutt,
+        Helping Hand, Hi Jump Kick, Hidden Power, Low Kick, Mach Punch, Mind Reader,
+        Mud-Slap, Natural Gift, Protect, Rain Dance, Rapid Spin, Rest, Return, Rock
+          Slide, Rock Smash, Role Play, Secret Power, Sleep Talk, Snore, Strength,
+        Substitute, Sunny Day, Swagger, Swift, Tackle, Thief, Toxic, Uproar, Vacuum
+          Wave, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    - rs: [Attract, Body Slam, Brick Break, Bulk Up, Counter, Double-Edge, Double
+          Team, Earthquake, Endure, Facade, Frustration, Helping Hand, Hi Jump Kick,
+        Hidden Power, Mach Punch, Mega Kick, Mimic, Mind Reader, Mud-Slap, Protect,
+        Rain Dance, Rapid Spin, Rest, Return, Rock Slide, Rock Smash, Secret Power,
+        Seismic Toss, Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger,
+        Swift, Tackle, Thief, Toxic, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    stats:
+    - [35, 35, 35, 35, 35, 35]
+    tags:
+    - [nfe]
+    - dp: [lc]
+    types:
+    - [Fighting]
+    weight: [21]

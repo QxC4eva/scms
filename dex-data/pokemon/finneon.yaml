@@ -1,49 +1,48 @@
 pokemon:
   Finneon:
-    introduction: dp
-    types:
-    - [Water]
-    egggroups:
-    - [Water 2]
     abilities:
     - [Storm Drain, Swift Swim, Water Veil]
+    egggroups:
+    - [Water 2]
+    evolutions: [Lumineon]
+    height: [0.4]
+    introduction: dp
+    moves:
+    - bw: [Agility, Aqua Ring, Aqua Tail, Attract, Aurora Beam, Blizzard, Bounce,
+        Brine, Captivate, Charm, Dive, Double Team, Facade, Flail, Flash, Frustration,
+        Gust, Hail, Hidden Power, Ice Beam, Icy Wind, Payback, Pound, Protect, Psybeam,
+        Psych Up, Rain Dance, Rest, Return, Round, Safeguard, Scald, Signal Beam,
+        Silver Wind, Sleep Talk, Snore, Soak, Splash, Substitute, Surf, Swagger, Sweet
+          Kiss, Tailwind, Tickle, Toxic, U-turn, Water Gun, Water Pulse, Waterfall,
+        Whirlpool]
+    - dp: [Agility, Air Cutter, Aqua Ring, Aqua Tail, Attract, Blizzard, Bounce, Brine,
+        Captivate, Charm, Defog, Dive, Double Team, Endure, Facade, Flail, Flash,
+        Frustration, Gust, Hail, Hidden Power, Ice Beam, Icy Wind, Natural Gift, Ominous
+          Wind, Payback, Pound, Protect, Psybeam, Psych Up, Rain Dance, Rest, Return,
+        Safeguard, Secret Power, Silver Wind, Sleep Talk, Snore, Splash, Substitute,
+        Surf, Swagger, Sweet Kiss, Swift, Tailwind, Tickle, Toxic, Twister, U-turn,
+        Water Gun, Water Pulse, Waterfall, Whirlpool]
     stats:
     - [49, 49, 56, 49, 61, 66]
     tags:
     - [lc]
-    weight: [7]
-    height: [0.4]
-  Lumineon:
-    introduction: dp
     types:
     - [Water]
-    egggroups:
-    - [Water 2]
+    weight: [7]
+  Lumineon:
     abilities:
     - [Storm Drain, Swift Swim, Water Veil]
+    egggroups:
+    - [Water 2]
+    height: [1.2]
+    introduction: dp
+    moves:
+    - bw: [Giga Impact, Hyper Beam]
+    - dp: [Giga Impact, Hyper Beam]
     stats:
     - [69, 69, 76, 69, 86, 91]
     tags:
     - [nu]
+    types:
+    - [Water]
     weight: [24]
-    height: [1.2]
-evolutions:
-- {from: Finneon, to: Lumineon}
-learnsets:
-  dp:
-    Finneon: [Agility, Air Cutter, Aqua Ring, Aqua Tail, Attract, Blizzard, Bounce,
-      Brine, Captivate, Charm, Defog, Dive, Double Team, Endure, Facade, Flail, Flash,
-      Frustration, Gust, Hail, Hidden Power, Ice Beam, Icy Wind, Natural Gift, Ominous
-        Wind, Payback, Pound, Protect, Psybeam, Psych Up, Rain Dance, Rest, Return,
-      Safeguard, Secret Power, Silver Wind, Sleep Talk, Snore, Splash, Substitute,
-      Surf, Swagger, Sweet Kiss, Swift, Tailwind, Tickle, Toxic, Twister, U-turn,
-      Water Gun, Water Pulse, Waterfall, Whirlpool]
-    Lumineon: [Giga Impact, Hyper Beam]
-  bw:
-    Finneon: [Agility, Aqua Ring, Aqua Tail, Attract, Aurora Beam, Blizzard, Bounce,
-      Brine, Captivate, Charm, Dive, Double Team, Facade, Flail, Flash, Frustration,
-      Gust, Hail, Hidden Power, Ice Beam, Icy Wind, Payback, Pound, Protect, Psybeam,
-      Psych Up, Rain Dance, Rest, Return, Round, Safeguard, Scald, Signal Beam, Silver
-        Wind, Sleep Talk, Snore, Soak, Splash, Substitute, Surf, Swagger, Sweet Kiss,
-      Tailwind, Tickle, Toxic, U-turn, Water Gun, Water Pulse, Waterfall, Whirlpool]
-    Lumineon: [Giga Impact, Hyper Beam]

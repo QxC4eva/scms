@@ -1,54 +1,50 @@
 pokemon:
   Latios:
-    introduction: rs
-    types:
-    - [Dragon, Psychic]
-    egggroups:
-    - []
     abilities:
     - [Levitate]
     - bw: [Levitate]
+    egggroups:
+    - []
+    height: [2]
+    introduction: rs
+    moves:
+    - bw: [Aerial Ace, Attract, Bulldoze, Calm Mind, Charge Beam, Cut, Dive, Double
+          Team, Draco Meteor, Dragon Claw, Dragon Dance, Dragon Pulse, Dragonbreath,
+        Dream Eater, Earthquake, Energy Ball, Facade, Flash, Fly, Frustration, Giga
+          Impact, Grass Knot, Heal Block, Heal Pulse, Helping Hand, Hidden Power,
+        Hone Claws, Hyper Beam, Ice Beam, Icy Wind, Last Resort, Light Screen, Luster
+          Purge, Magic Coat, Memento, Outrage, Power Split, Protect, Psych Up, Psychic,
+        Psycho Shift, Psyshock, Psywave, Rain Dance, Recover, Reflect, Refresh, Rest,
+        Retaliate, Return, Roar, Roost, Round, Safeguard, Sandstorm, Shadow Ball,
+        Shadow Claw, Sleep Talk, Snore, Solarbeam, Substitute, Sunny Day, Surf, Swagger,
+        Tailwind, Telekinesis, Thunder, Thunder Wave, Thunderbolt, Toxic, Trick, Waterfall,
+        Wonder Room, Zen Headbutt, Body Slam, Double-Edge, Icy Wind, Mimic]
+    - dp: [Aerial Ace, Attract, Calm Mind, Captivate, Charge Beam, Cut, Defog, Dive,
+        Double Team, Draco Meteor, Dragon Claw, Dragon Dance, Dragon Pulse, Dragonbreath,
+        Dream Eater, Earthquake, Endure, Energy Ball, Facade, Flash, Fly, Frustration,
+        Fury Cutter, Giga Impact, Grass Knot, Heal Block, Helping Hand, Hidden Power,
+        Hyper Beam, Ice Beam, Icy Wind, Last Resort, Light Screen, Luster Purge, Magic
+          Coat, Memento, Mud-Slap, Natural Gift, Outrage, Protect, Psych Up, Psychic,
+        Psycho Shift, Psywave, Rain Dance, Recover, Reflect, Refresh, Rest, Return,
+        Roar, Roost, Safeguard, Sandstorm, Secret Power, Shadow Ball, Shadow Claw,
+        Shock Wave, Sleep Talk, Snore, Solarbeam, Steel Wing, Substitute, Sunny Day,
+        Surf, Swagger, Swift, Tailwind, Thunder, Thunder Wave, Thunderbolt, Toxic,
+        Trick, Twister, Water Pulse, Waterfall, Whirlpool, Zen Headbutt, Body Slam,
+        Double-Edge, Icy Wind, Mimic]
+    - rs: [Aerial Ace, Attract, Body Slam, Calm Mind, Cut, Dive, Double-Edge, Double
+          Team, Dragon Claw, Dragon Dance, Dragonbreath, Dream Eater, Earthquake,
+        Endure, Facade, Flash, Fly, Frustration, Fury Cutter, Helping Hand, Hidden
+          Power, Hyper Beam, Ice Beam, Icy Wind, Light Screen, Luster Purge, Memento,
+        Mimic, Mud-Slap, Protect, Psych Up, Psychic, Psywave, Rain Dance, Recover,
+        Reflect, Refresh, Rest, Return, Roar, Safeguard, Sandstorm, Secret Power,
+        Shadow Ball, Shock Wave, Sleep Talk, Snore, Solarbeam, Steel Wing, Substitute,
+        Sunny Day, Surf, Swagger, Swift, Thunder, Thunder Wave, Thunderbolt, Toxic,
+        Water Pulse, Waterfall, Body Slam, Double-Edge, Icy Wind, Mimic]
     stats:
     - [80, 90, 80, 130, 110, 110]
     tags:
     - [uber]
     - bw: [ou]
+    types:
+    - [Dragon, Psychic]
     weight: [60]
-    height: [2]
-evolutions: []
-learnsets:
-  rs:
-    Latios: [Aerial Ace, Attract, Body Slam, Calm Mind, Cut, Dive, Double-Edge, Double
-        Team, Dragon Claw, Dragon Dance, Dragonbreath, Dream Eater, Earthquake, Endure,
-      Facade, Flash, Fly, Frustration, Fury Cutter, Helping Hand, Hidden Power, Hyper
-        Beam, Ice Beam, Icy Wind, Light Screen, Luster Purge, Memento, Mimic, Mud-Slap,
-      Protect, Psych Up, Psychic, Psywave, Rain Dance, Recover, Reflect, Refresh,
-      Rest, Return, Roar, Safeguard, Sandstorm, Secret Power, Shadow Ball, Shock Wave,
-      Sleep Talk, Snore, Solarbeam, Steel Wing, Substitute, Sunny Day, Surf, Swagger,
-      Swift, Thunder, Thunder Wave, Thunderbolt, Toxic, Water Pulse, Waterfall, Body
-        Slam, Double-Edge, Icy Wind, Mimic]
-  dp:
-    Latios: [Aerial Ace, Attract, Calm Mind, Captivate, Charge Beam, Cut, Defog, Dive,
-      Double Team, Draco Meteor, Dragon Claw, Dragon Dance, Dragon Pulse, Dragonbreath,
-      Dream Eater, Earthquake, Endure, Energy Ball, Facade, Flash, Fly, Frustration,
-      Fury Cutter, Giga Impact, Grass Knot, Heal Block, Helping Hand, Hidden Power,
-      Hyper Beam, Ice Beam, Icy Wind, Last Resort, Light Screen, Luster Purge, Magic
-        Coat, Memento, Mud-Slap, Natural Gift, Outrage, Protect, Psych Up, Psychic,
-      Psycho Shift, Psywave, Rain Dance, Recover, Reflect, Refresh, Rest, Return,
-      Roar, Roost, Safeguard, Sandstorm, Secret Power, Shadow Ball, Shadow Claw, Shock
-        Wave, Sleep Talk, Snore, Solarbeam, Steel Wing, Substitute, Sunny Day, Surf,
-      Swagger, Swift, Tailwind, Thunder, Thunder Wave, Thunderbolt, Toxic, Trick,
-      Twister, Water Pulse, Waterfall, Whirlpool, Zen Headbutt, Body Slam, Double-Edge,
-      Icy Wind, Mimic]
-  bw:
-    Latios: [Aerial Ace, Attract, Bulldoze, Calm Mind, Charge Beam, Cut, Dive, Double
-        Team, Draco Meteor, Dragon Claw, Dragon Dance, Dragon Pulse, Dragonbreath,
-      Dream Eater, Earthquake, Energy Ball, Facade, Flash, Fly, Frustration, Giga
-        Impact, Grass Knot, Heal Block, Heal Pulse, Helping Hand, Hidden Power, Hone
-        Claws, Hyper Beam, Ice Beam, Icy Wind, Last Resort, Light Screen, Luster Purge,
-      Magic Coat, Memento, Outrage, Power Split, Protect, Psych Up, Psychic, Psycho
-        Shift, Psyshock, Psywave, Rain Dance, Recover, Reflect, Refresh, Rest, Retaliate,
-      Return, Roar, Roost, Round, Safeguard, Sandstorm, Shadow Ball, Shadow Claw,
-      Sleep Talk, Snore, Solarbeam, Substitute, Sunny Day, Surf, Swagger, Tailwind,
-      Telekinesis, Thunder, Thunder Wave, Thunderbolt, Toxic, Trick, Waterfall, Wonder
-        Room, Zen Headbutt, Body Slam, Double-Edge, Icy Wind, Mimic]

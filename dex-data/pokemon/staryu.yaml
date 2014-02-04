@@ -1,84 +1,79 @@
 pokemon:
-  Staryu:
-    introduction: rb
-    types:
-    - [Water]
-    egggroups:
-    - [Water 3]
+  Starmie:
     abilities:
     - [Illuminate, Natural Cure]
     - bw: [Analytic, Illuminate, Natural Cure]
+    egggroups:
+    - [Water 3]
+    height: [1.1]
+    introduction: rb
+    moves:
+    - gs: [Confuse Ray, Dream Eater, Hyper Beam, Nightmare]
+    - bw: [Confuse Ray, Dream Eater, Giga Impact, Grass Knot, Hyper Beam, Psyshock,
+        Skill Swap, Telekinesis, Trick, Trick Room, Wonder Room, Double-Edge, Icy
+          Wind, Mimic, Nightmare, Refresh]
+    - dp: [Avalanche, Confuse Ray, Dream Eater, Giga Impact, Grass Knot, Hyper Beam,
+        Skill Swap, Trick, Trick Room, Double-Edge, Icy Wind, Mimic, Nightmare, Refresh]
+    - rs: [Confuse Ray, Dream Eater, Hyper Beam, Nightmare, Skill Swap, Double-Edge,
+        Icy Wind, Mimic, Nightmare, Refresh]
+    - rb: [Hyper Beam]
+    stats:
+    - [60, 75, 85, 100, 100, 115]
+    - gs: [60, 75, 85, 100, 85, 115]
+    tags:
+    - [ou]
+    types:
+    - [Psychic, Water]
+    weight: [80]
+  Staryu:
+    abilities:
+    - [Illuminate, Natural Cure]
+    - bw: [Analytic, Illuminate, Natural Cure]
+    egggroups:
+    - [Water 3]
+    evolutions: [Starmie]
+    height: [0.8]
+    introduction: rb
+    moves:
+    - gs: [Attract, Aurora Beam, Barrier, Blizzard, Bubblebeam, Curse, Double Team,
+        Endure, Flash, Frustration, Harden, Hidden Power, Hydro Pump, Ice Beam, Icy
+          Wind, Light Screen, Minimize, Protect, Psych Up, Psychic, Rain Dance, Rapid
+          Spin, Recover, Rest, Return, Sleep Talk, Snore, Supersonic, Surf, Swagger,
+        Swift, Tackle, Thunder, Thunderbolt, Toxic, Water Gun, Waterfall, Whirlpool,
+        Zap Cannon]
+    - bw: [Blizzard, Brine, Bubblebeam, Camouflage, Cosmic Power, Dive, Double Team,
+        Facade, Flash, Flash Cannon, Frustration, Gravity, Gyro Ball, Hail, Harden,
+        Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Light Screen, Magic Coat, Minimize,
+        Pain Split, Power Gem, Protect, Psych Up, Psychic, Rain Dance, Rapid Spin,
+        Recover, Recycle, Reflect, Reflect Type, Rest, Return, Round, Scald, Signal
+          Beam, Sleep Talk, Snore, Substitute, Surf, Swagger, Swift, Tackle, Thunder,
+        Thunder Wave, Thunderbolt, Toxic, Water Gun, Waterfall, Double-Edge, Icy Wind,
+        Mimic]
+    - dp: [Blizzard, Brine, Bubblebeam, Camouflage, Cosmic Power, Dive, Double Team,
+        Endure, Facade, Flash, Flash Cannon, Frustration, Gravity, Gyro Ball, Hail,
+        Harden, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Light Screen, Magic
+          Coat, Minimize, Natural Gift, Pain Split, Power Gem, Protect, Psych Up,
+        Psychic, Rain Dance, Rapid Spin, Recover, Recycle, Reflect, Rest, Return,
+        Rollout, Secret Power, Signal Beam, Sleep Talk, Snore, Substitute, Surf, Swagger,
+        Swift, Tackle, Thunder, Thunder Wave, Thunderbolt, Toxic, Twister, Water Gun,
+        Water Pulse, Waterfall, Whirlpool, Double-Edge, Icy Wind, Mimic]
+    - rs: [Blizzard, Bubblebeam, Camouflage, Cosmic Power, Dive, Double-Edge, Double
+          Team, Endure, Facade, Flash, Frustration, Hail, Harden, Hidden Power, Hydro
+          Pump, Ice Beam, Icy Wind, Light Screen, Mimic, Minimize, Protect, Psych
+          Up, Psychic, Rain Dance, Rapid Spin, Recover, Reflect, Rest, Return, Secret
+          Power, Sleep Talk, Snore, Substitute, Surf, Swagger, Swift, Tackle, Thunder,
+        Thunder Wave, Thunderbolt, Toxic, Water Gun, Water Pulse, Waterfall, Double-Edge,
+        Icy Wind, Mimic]
+    - rb: [Bide, Blizzard, Bubblebeam, Double-Edge, Double Team, Flash, Harden, Hydro
+          Pump, Ice Beam, Light Screen, Mimic, Minimize, Psychic, Psywave, Rage, Recover,
+        Reflect, Rest, Skull Bash, Substitute, Surf, Swift, Tackle, Take Down, Teleport,
+        Thunder, Thunder Wave, Thunderbolt, Toxic, Tri Attack, Water Gun]
     stats:
     - [30, 45, 55, 70, 70, 85]
     - gs: [30, 45, 55, 70, 55, 85]
     tags:
     - [nfe]
     - dp: [lc]
-    weight: [34.5]
-    height: [0.8]
-  Starmie:
-    introduction: rb
     types:
-    - [Psychic, Water]
-    egggroups:
-    - [Water 3]
-    abilities:
-    - [Illuminate, Natural Cure]
-    - bw: [Analytic, Illuminate, Natural Cure]
-    stats:
-    - [60, 75, 85, 100, 100, 115]
-    - gs: [60, 75, 85, 100, 85, 115]
-    tags:
-    - [ou]
-    weight: [80]
-    height: [1.1]
-evolutions:
-- {from: Staryu, to: Starmie}
-learnsets:
-  rb:
-    Staryu: [Bide, Blizzard, Bubblebeam, Double-Edge, Double Team, Flash, Harden,
-      Hydro Pump, Ice Beam, Light Screen, Mimic, Minimize, Psychic, Psywave, Rage,
-      Recover, Reflect, Rest, Skull Bash, Substitute, Surf, Swift, Tackle, Take Down,
-      Teleport, Thunder, Thunder Wave, Thunderbolt, Toxic, Tri Attack, Water Gun]
-    Starmie: [Hyper Beam]
-  gs:
-    Staryu: [Attract, Aurora Beam, Barrier, Blizzard, Bubblebeam, Curse, Double Team,
-      Endure, Flash, Frustration, Harden, Hidden Power, Hydro Pump, Ice Beam, Icy
-        Wind, Light Screen, Minimize, Protect, Psych Up, Psychic, Rain Dance, Rapid
-        Spin, Recover, Rest, Return, Sleep Talk, Snore, Supersonic, Surf, Swagger,
-      Swift, Tackle, Thunder, Thunderbolt, Toxic, Water Gun, Waterfall, Whirlpool,
-      Zap Cannon]
-    Starmie: [Confuse Ray, Dream Eater, Hyper Beam, Nightmare]
-  rs:
-    Staryu: [Blizzard, Bubblebeam, Camouflage, Cosmic Power, Dive, Double-Edge, Double
-        Team, Endure, Facade, Flash, Frustration, Hail, Harden, Hidden Power, Hydro
-        Pump, Ice Beam, Icy Wind, Light Screen, Mimic, Minimize, Protect, Psych Up,
-      Psychic, Rain Dance, Rapid Spin, Recover, Reflect, Rest, Return, Secret Power,
-      Sleep Talk, Snore, Substitute, Surf, Swagger, Swift, Tackle, Thunder, Thunder
-        Wave, Thunderbolt, Toxic, Water Gun, Water Pulse, Waterfall, Double-Edge,
-      Icy Wind, Mimic]
-    Starmie: [Confuse Ray, Dream Eater, Hyper Beam, Nightmare, Skill Swap, Double-Edge,
-      Icy Wind, Mimic, Nightmare, Refresh]
-  dp:
-    Staryu: [Blizzard, Brine, Bubblebeam, Camouflage, Cosmic Power, Dive, Double Team,
-      Endure, Facade, Flash, Flash Cannon, Frustration, Gravity, Gyro Ball, Hail,
-      Harden, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Light Screen, Magic Coat,
-      Minimize, Natural Gift, Pain Split, Power Gem, Protect, Psych Up, Psychic, Rain
-        Dance, Rapid Spin, Recover, Recycle, Reflect, Rest, Return, Rollout, Secret
-        Power, Signal Beam, Sleep Talk, Snore, Substitute, Surf, Swagger, Swift, Tackle,
-      Thunder, Thunder Wave, Thunderbolt, Toxic, Twister, Water Gun, Water Pulse,
-      Waterfall, Whirlpool, Double-Edge, Icy Wind, Mimic]
-    Starmie: [Avalanche, Confuse Ray, Dream Eater, Giga Impact, Grass Knot, Hyper
-        Beam, Skill Swap, Trick, Trick Room, Double-Edge, Icy Wind, Mimic, Nightmare,
-      Refresh]
-  bw:
-    Staryu: [Blizzard, Brine, Bubblebeam, Camouflage, Cosmic Power, Dive, Double Team,
-      Facade, Flash, Flash Cannon, Frustration, Gravity, Gyro Ball, Hail, Harden,
-      Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Light Screen, Magic Coat, Minimize,
-      Pain Split, Power Gem, Protect, Psych Up, Psychic, Rain Dance, Rapid Spin, Recover,
-      Recycle, Reflect, Reflect Type, Rest, Return, Round, Scald, Signal Beam, Sleep
-        Talk, Snore, Substitute, Surf, Swagger, Swift, Tackle, Thunder, Thunder Wave,
-      Thunderbolt, Toxic, Water Gun, Waterfall, Double-Edge, Icy Wind, Mimic]
-    Starmie: [Confuse Ray, Dream Eater, Giga Impact, Grass Knot, Hyper Beam, Psyshock,
-      Skill Swap, Telekinesis, Trick, Trick Room, Wonder Room, Double-Edge, Icy Wind,
-      Mimic, Nightmare, Refresh]
+    - [Water]
+    weight: [34.5]

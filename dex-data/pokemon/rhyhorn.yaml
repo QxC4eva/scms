@@ -1,30 +1,28 @@
 pokemon:
-  Rhyhorn:
-    introduction: rb
-    types:
-    - [Ground, Rock]
-    egggroups:
-    - [Ground, Monster]
-    abilities:
-    - [Lightningrod, Rock Head]
-    - bw: [Lightningrod, Reckless, Rock Head]
-    stats:
-    - [80, 85, 95, 30, 30, 25]
-    - gs: [80, 85, 95, 30, 30, 25]
-    tags:
-    - [nfe]
-    - dp: [lc]
-    weight: [115]
-    height: [1]
   Rhydon:
-    introduction: rb
-    types:
-    - [Ground, Rock]
-    egggroups:
-    - [Ground, Monster]
     abilities:
     - [Lightningrod, Rock Head]
     - bw: [Lightningrod, Reckless, Rock Head]
+    egggroups:
+    - [Ground, Monster]
+    evolutions: [Rhyperior]
+    height: [1.9]
+    introduction: rb
+    moves:
+    - gs: [Dynamicpunch, Fire Punch, Fury Cutter, Hyper Beam, Surf, Thunderpunch]
+    - bw: [Block, Brick Break, Cut, Dragon Tail, Fire Punch, Fling, Focus Blast, Giga
+          Impact, Hammer Arm, Hyper Beam, Ice Punch, Outrage, Shadow Claw, Smack Down,
+        Surf, Thunderpunch, Body Slam, Double-Edge, Helping Hand, Icy Wind, Mimic,
+        Seismic Toss]
+    - dp: [Avalanche, Block, Brick Break, Cut, Fire Punch, Fling, Focus Blast, Focus
+          Punch, Fury Cutter, Giga Impact, Hammer Arm, Hyper Beam, Ice Punch, Outrage,
+        Shadow Claw, Surf, Thunderpunch, Whirlpool, Body Slam, Double-Edge, Helping
+          Hand, Icy Wind, Mimic, Seismic Toss]
+    - rs: [Brick Break, Cut, Dynamicpunch, Fire Punch, Focus Punch, Fury Cutter, Hyper
+          Beam, Mega Kick, Mega Punch, Seismic Toss, Surf, Thunderpunch, Body Slam,
+        Double-Edge, Helping Hand, Icy Wind, Mimic, Seismic Toss]
+    - rb: [Blizzard, Bubblebeam, Counter, Hyper Beam, Ice Beam, Mega Kick, Mega Punch,
+        Pay Day, Seismic Toss, Submission, Surf, Water Gun]
     stats:
     - [105, 130, 120, 45, 45, 40]
     - gs: [105, 130, 120, 45, 45, 40]
@@ -33,85 +31,85 @@ pokemon:
     - bw: [ru]
       dp: [nfe]
       rs: [bl]
-    weight: [120]
-    height: [1.9]
-  Rhyperior:
-    introduction: dp
     types:
     - [Ground, Rock]
+    weight: [120]
+  Rhyhorn:
+    abilities:
+    - [Lightningrod, Rock Head]
+    - bw: [Lightningrod, Reckless, Rock Head]
     egggroups:
     - [Ground, Monster]
+    evolutions: [Rhydon]
+    height: [1]
+    introduction: rb
+    moves:
+    - gs: [Attract, Blizzard, Counter, Crunch, Curse, Dig, Double Team, Earthquake,
+        Endure, Fire Blast, Flamethrower, Frustration, Fury Attack, Headbutt, Hidden
+          Power, Horn Attack, Horn Drill, Ice Beam, Icy Wind, Iron Tail, Magnitude,
+        Mud-Slap, Protect, Pursuit, Rest, Return, Reversal, Roar, Rock Slide, Rock
+          Smash, Rollout, Sandstorm, Scary Face, Sleep Talk, Snore, Stomp, Strength,
+        Sunny Day, Swagger, Tail Whip, Take Down, Thrash, Thunder, Thunderbolt, Toxic,
+        Zap Cannon]
+    - bw: [Aqua Tail, Attract, Blizzard, Bulldoze, Chip Away, Counter, Crunch, Crush
+          Claw, Curse, Dig, Double Team, Dragon Pulse, Dragon Rush, Drill Run, Earth
+          Power, Earthquake, Endeavor, Facade, Fire Blast, Fire Fang, Flamethrower,
+        Frustration, Fury Attack, Hidden Power, Horn Attack, Horn Drill, Ice Beam,
+        Ice Fang, Icy Wind, Incinerate, Iron Tail, Magnitude, Megahorn, Payback, Poison
+          Jab, Protect, Rain Dance, Rest, Return, Reversal, Roar, Rock Blast, Rock
+          Climb, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Round, Sandstorm,
+        Scary Face, Skull Bash, Sleep Talk, Snore, Spite, Stealth Rock, Stomp, Stone
+          Edge, Strength, Substitute, Sunny Day, Superpower, Swagger, Swords Dance,
+        Tail Whip, Take Down, Thief, Thunder, Thunder Fang, Thunderbolt, Toxic, Uproar,
+        Body Slam, Double-Edge, Icy Wind, Mimic]
+    - dp: [Ancientpower, Aqua Tail, Attract, Blizzard, Captivate, Counter, Crunch,
+        Crush Claw, Curse, Dig, Double Team, Dragon Pulse, Dragon Rush, Earth Power,
+        Earthquake, Endeavor, Endure, Facade, Fire Blast, Fire Fang, Flamethrower,
+        Frustration, Fury Attack, Headbutt, Hidden Power, Horn Attack, Horn Drill,
+        Ice Beam, Ice Fang, Icy Wind, Iron Tail, Magnitude, Megahorn, Mud-Slap, Natural
+          Gift, Payback, Poison Jab, Protect, Rain Dance, Rest, Return, Reversal,
+        Roar, Rock Blast, Rock Climb, Rock Polish, Rock Slide, Rock Smash, Rock Tomb,
+        Rollout, Sandstorm, Scary Face, Secret Power, Shock Wave, Skull Bash, Sleep
+          Talk, Snore, Spite, Stealth Rock, Stomp, Stone Edge, Strength, Substitute,
+        Sunny Day, Superpower, Swagger, Swords Dance, Tail Whip, Take Down, Thief,
+        Thunder, Thunder Fang, Thunderbolt, Toxic, Uproar, Body Slam, Double-Edge,
+        Icy Wind, Mimic]
+    - rs: [Attract, Blizzard, Body Slam, Counter, Crunch, Crush Claw, Curse, Dig,
+        Double-Edge, Double Team, Earthquake, Endure, Facade, Fire Blast, Flamethrower,
+        Frustration, Fury Attack, Hidden Power, Horn Attack, Horn Drill, Ice Beam,
+        Icy Wind, Iron Tail, Magnitude, Megahorn, Mimic, Mud-Slap, Protect, Rain Dance,
+        Rest, Return, Reversal, Roar, Rock Blast, Rock Slide, Rock Smash, Rock Tomb,
+        Rollout, Sandstorm, Scary Face, Secret Power, Shock Wave, Sleep Talk, Snore,
+        Stomp, Strength, Substitute, Sunny Day, Swagger, Swords Dance, Tail Whip,
+        Take Down, Thief, Thunder, Thunderbolt, Toxic, Body Slam, Double-Edge, Icy
+          Wind, Mimic]
+    - rb: [Bide, Body Slam, Dig, Double-Edge, Double Team, Earthquake, Fire Blast,
+        Fissure, Fury Attack, Horn Attack, Horn Drill, Leer, Mimic, Rage, Rest, Rock
+          Slide, Skull Bash, Stomp, Strength, Substitute, Tail Whip, Take Down, Thunder,
+        Thunderbolt, Toxic]
+    stats:
+    - [80, 85, 95, 30, 30, 25]
+    - gs: [80, 85, 95, 30, 30, 25]
+    tags:
+    - [nfe]
+    - dp: [lc]
+    types:
+    - [Ground, Rock]
+    weight: [115]
+  Rhyperior:
     abilities:
     - [Lightningrod, Reckless, Solid Rock]
+    egggroups:
+    - [Ground, Monster]
+    height: [2.4]
+    introduction: dp
+    moves:
+    - bw: [Flash Cannon, Iron Head, Rock Wrecker]
+    - dp: [Flash Cannon, Iron Head, Rock Wrecker]
     stats:
     - [115, 140, 130, 55, 55, 40]
     tags:
     - [uu]
+    types:
+    - [Ground, Rock]
     weight: [282.8]
-    height: [2.4]
-evolutions:
-- {from: Rhyhorn, to: Rhydon}
-- {from: Rhydon, to: Rhyperior}
-learnsets:
-  rb:
-    Rhyhorn: [Bide, Body Slam, Dig, Double-Edge, Double Team, Earthquake, Fire Blast,
-      Fissure, Fury Attack, Horn Attack, Horn Drill, Leer, Mimic, Rage, Rest, Rock
-        Slide, Skull Bash, Stomp, Strength, Substitute, Tail Whip, Take Down, Thunder,
-      Thunderbolt, Toxic]
-    Rhydon: [Blizzard, Bubblebeam, Counter, Hyper Beam, Ice Beam, Mega Kick, Mega
-        Punch, Pay Day, Seismic Toss, Submission, Surf, Water Gun]
-  gs:
-    Rhyhorn: [Attract, Blizzard, Counter, Crunch, Curse, Dig, Double Team, Earthquake,
-      Endure, Fire Blast, Flamethrower, Frustration, Fury Attack, Headbutt, Hidden
-        Power, Horn Attack, Horn Drill, Ice Beam, Icy Wind, Iron Tail, Magnitude,
-      Mud-Slap, Protect, Pursuit, Rest, Return, Reversal, Roar, Rock Slide, Rock Smash,
-      Rollout, Sandstorm, Scary Face, Sleep Talk, Snore, Stomp, Strength, Sunny Day,
-      Swagger, Tail Whip, Take Down, Thrash, Thunder, Thunderbolt, Toxic, Zap Cannon]
-    Rhydon: [Dynamicpunch, Fire Punch, Fury Cutter, Hyper Beam, Surf, Thunderpunch]
-  rs:
-    Rhyhorn: [Attract, Blizzard, Body Slam, Counter, Crunch, Crush Claw, Curse, Dig,
-      Double-Edge, Double Team, Earthquake, Endure, Facade, Fire Blast, Flamethrower,
-      Frustration, Fury Attack, Hidden Power, Horn Attack, Horn Drill, Ice Beam, Icy
-        Wind, Iron Tail, Magnitude, Megahorn, Mimic, Mud-Slap, Protect, Rain Dance,
-      Rest, Return, Reversal, Roar, Rock Blast, Rock Slide, Rock Smash, Rock Tomb,
-      Rollout, Sandstorm, Scary Face, Secret Power, Shock Wave, Sleep Talk, Snore,
-      Stomp, Strength, Substitute, Sunny Day, Swagger, Swords Dance, Tail Whip, Take
-        Down, Thief, Thunder, Thunderbolt, Toxic, Body Slam, Double-Edge, Icy Wind,
-      Mimic]
-    Rhydon: [Brick Break, Cut, Dynamicpunch, Fire Punch, Focus Punch, Fury Cutter,
-      Hyper Beam, Mega Kick, Mega Punch, Seismic Toss, Surf, Thunderpunch, Body Slam,
-      Double-Edge, Helping Hand, Icy Wind, Mimic, Seismic Toss]
-  dp:
-    Rhyhorn: [Ancientpower, Aqua Tail, Attract, Blizzard, Captivate, Counter, Crunch,
-      Crush Claw, Curse, Dig, Double Team, Dragon Pulse, Dragon Rush, Earth Power,
-      Earthquake, Endeavor, Endure, Facade, Fire Blast, Fire Fang, Flamethrower, Frustration,
-      Fury Attack, Headbutt, Hidden Power, Horn Attack, Horn Drill, Ice Beam, Ice
-        Fang, Icy Wind, Iron Tail, Magnitude, Megahorn, Mud-Slap, Natural Gift, Payback,
-      Poison Jab, Protect, Rain Dance, Rest, Return, Reversal, Roar, Rock Blast, Rock
-        Climb, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sandstorm,
-      Scary Face, Secret Power, Shock Wave, Skull Bash, Sleep Talk, Snore, Spite,
-      Stealth Rock, Stomp, Stone Edge, Strength, Substitute, Sunny Day, Superpower,
-      Swagger, Swords Dance, Tail Whip, Take Down, Thief, Thunder, Thunder Fang, Thunderbolt,
-      Toxic, Uproar, Body Slam, Double-Edge, Icy Wind, Mimic]
-    Rhydon: [Avalanche, Block, Brick Break, Cut, Fire Punch, Fling, Focus Blast, Focus
-        Punch, Fury Cutter, Giga Impact, Hammer Arm, Hyper Beam, Ice Punch, Outrage,
-      Shadow Claw, Surf, Thunderpunch, Whirlpool, Body Slam, Double-Edge, Helping
-        Hand, Icy Wind, Mimic, Seismic Toss]
-    Rhyperior: [Flash Cannon, Iron Head, Rock Wrecker]
-  bw:
-    Rhyhorn: [Aqua Tail, Attract, Blizzard, Bulldoze, Chip Away, Counter, Crunch,
-      Crush Claw, Curse, Dig, Double Team, Dragon Pulse, Dragon Rush, Drill Run, Earth
-        Power, Earthquake, Endeavor, Facade, Fire Blast, Fire Fang, Flamethrower,
-      Frustration, Fury Attack, Hidden Power, Horn Attack, Horn Drill, Ice Beam, Ice
-        Fang, Icy Wind, Incinerate, Iron Tail, Magnitude, Megahorn, Payback, Poison
-        Jab, Protect, Rain Dance, Rest, Return, Reversal, Roar, Rock Blast, Rock Climb,
-      Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Round, Sandstorm, Scary Face,
-      Skull Bash, Sleep Talk, Snore, Spite, Stealth Rock, Stomp, Stone Edge, Strength,
-      Substitute, Sunny Day, Superpower, Swagger, Swords Dance, Tail Whip, Take Down,
-      Thief, Thunder, Thunder Fang, Thunderbolt, Toxic, Uproar, Body Slam, Double-Edge,
-      Icy Wind, Mimic]
-    Rhydon: [Block, Brick Break, Cut, Dragon Tail, Fire Punch, Fling, Focus Blast,
-      Giga Impact, Hammer Arm, Hyper Beam, Ice Punch, Outrage, Shadow Claw, Smack
-        Down, Surf, Thunderpunch, Body Slam, Double-Edge, Helping Hand, Icy Wind,
-      Mimic, Seismic Toss]
-    Rhyperior: [Flash Cannon, Iron Head, Rock Wrecker]

@@ -1,4 +1,19 @@
 pokemon:
+  Doduo:
+    introduction: rb
+    types:
+    - [Flying, Normal]
+    egggroups:
+    - [Flying]
+    abilities:
+    - [Early Bird, Run Away]
+    - bw: [Early Bird, Run Away, Tangled Feet]
+    stats:
+    - [35, 85, 45, 35, 35, 75]
+    tags:
+    - [nfe]
+    weight: [39.2]
+    height: [1.4]
   Dodrio:
     introduction: rb
     types:

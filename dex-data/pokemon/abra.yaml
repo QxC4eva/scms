@@ -94,6 +94,20 @@ pokemon:
     types:
     - [Psychic]
     weight: [48]
+  Alakazam-Mega:
+    abilities:
+    - [Trace]
+    egggroups:
+    - [Human-Like]
+    height: [1.2]
+    introduction: xy
+    stats:
+    - [55, 50, 65, 175, 95, 150]
+    tags:
+    - []
+    types:
+    - [Psychic]
+    weight: [48]
   Kadabra:
     abilities:
     - [Inner Focus, Synchronize]

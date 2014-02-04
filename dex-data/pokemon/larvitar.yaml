@@ -119,3 +119,17 @@ pokemon:
     types:
     - [Dark, Rock]
     weight: [202]
+  Tyranitar-Mega:
+    abilities:
+    - [Sand Stream]
+    egggroups:
+    - [Monster]
+    height: [2.5]
+    introduction: xy
+    stats:
+    - [100, 164, 150, 95, 120, 71]
+    tags:
+    - []
+    types:
+    - [Rock, Dark]
+    weight: [255]

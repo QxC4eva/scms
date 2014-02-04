@@ -23,6 +23,20 @@ pokemon:
     types:
     - [Ghost]
     weight: [12.5]
+  Banette-Mega:
+    abilities:
+    - [Prankster]
+    egggroups:
+    - [Amorphous]
+    height: [1.2]
+    introduction: xy
+    stats:
+    - [64, 165, 75, 93, 83, 75]
+    tags:
+    - []
+    types:
+    - [Ghost]
+    weight: [13]
   Shuppet:
     abilities:
     - [Insomnia]

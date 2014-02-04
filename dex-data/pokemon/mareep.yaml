@@ -25,6 +25,20 @@ pokemon:
     types:
     - [Electric]
     weight: [61.5]
+  Ampharos-Mega:
+    abilities:
+    - [Mold Breaker]
+    egggroups:
+    - [Monster, Field]
+    height: [1.4]
+    introduction: xy
+    stats:
+    - [90, 95, 105, 165, 110, 45]
+    tags:
+    - []
+    types:
+    - [Electric, Dragon]
+    weight: [61.5]
   Flaaffy:
     abilities:
     - [Static]

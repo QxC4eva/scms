@@ -41,6 +41,20 @@ pokemon:
     types:
     - [Dragon, Ground]
     weight: [95]
+  Garchomp-Mega:
+    abilities:
+    - [Sand Force]
+    egggroups:
+    - [Monster, Dragon]
+    height: [1.9]
+    introduction: xy
+    stats:
+    - [108, 170, 115, 120, 95, 92]
+    tags:
+    - []
+    types:
+    - [Dragon, Ground]
+    weight: [95]
   Gible:
     abilities:
     - [Rough Skin, Sand Veil]

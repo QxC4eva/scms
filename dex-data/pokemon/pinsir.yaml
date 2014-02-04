@@ -63,3 +63,17 @@ pokemon:
     types:
     - [Bug]
     weight: [55]
+  Pinsir-Mega:
+    abilities:
+    - [Aerilate]
+    egggroups:
+    - [Bug]
+    height: [1.7]
+    introduction: xy
+    stats:
+    - [65, 155, 120, 65, 90, 105]
+    tags:
+    - []
+    types:
+    - [Bug, Flying]
+    weight: [59]

@@ -68,3 +68,17 @@ pokemon:
     types:
     - [Flying, Rock]
     weight: [59]
+  Aerodactyl-Mega:
+    abilities:
+    - [Tough Claws]
+    egggroups:
+    - [Flying]
+    height: [2.1]
+    introduction: xy
+    stats:
+    - [80, 135, 85, 70, 95, 150]
+    tags:
+    - []
+    types:
+    - [Rock, Flying]
+    weight: [79]

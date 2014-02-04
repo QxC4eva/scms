@@ -86,3 +86,17 @@ pokemon:
     types:
     - [Normal]
     weight: [80]
+  Kangaskhan-Mega:
+    abilities:
+    - [Parental Bond]
+    egggroups:
+    - [Monster]
+    height: [2.2]
+    introduction: xy
+    stats:
+    - [105, 125, 100, 60, 100, 100]
+    tags:
+    - []
+    types:
+    - [Normal]
+    weight: [100]

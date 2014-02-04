@@ -57,6 +57,20 @@ pokemon:
     - [Psychic]
     - xy: [Psychic, Fairy]
     weight: [48.4]
+  Gardevoir-Mega:
+    abilities:
+    - [Pixilate]
+    egggroups:
+    - [Amorphous]
+    height: [1.6]
+    introduction: xy
+    stats:
+    - [68, 85, 65, 165, 135, 100]
+    tags:
+    - []
+    types:
+    - [Psychic, Fairy]
+    weight: [48.4]
   Kirlia:
     abilities:
     - [Synchronize, Trace]

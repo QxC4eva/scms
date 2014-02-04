@@ -68,3 +68,17 @@ pokemon:
     types:
     - [Dark]
     weight: [47]
+  Absol-Mega:
+    abilities:
+    - [Magic Bounce]
+    egggroups:
+    - [Field]
+    height: [1.2]
+    introduction: xy
+    stats:
+    - [65, 150, 60, 115, 60, 115]
+    tags:
+    - []
+    types:
+    - [Dark]
+    weight: [49]

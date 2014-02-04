@@ -60,6 +60,20 @@ pokemon:
     types:
     - [Flying, Water]
     weight: [235]
+  Gyarados-Mega:
+    abilities:
+    - [Mold Breaker]
+    egggroups:
+    - [Water 2, Dragon]
+    height: [6.5]
+    introduction: xy
+    stats:
+    - [95, 155, 109, 70, 130, 81]
+    tags:
+    - []
+    types:
+    - [Water, Dark]
+    weight: [305]
   Magikarp:
     abilities:
     - [Swift Swim]

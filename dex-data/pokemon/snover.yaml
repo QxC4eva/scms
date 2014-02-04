@@ -23,6 +23,20 @@ pokemon:
     types:
     - [Grass, Ice]
     weight: [135.5]
+  Abomasnow-Mega:
+    abilities:
+    - [Snow Warning]
+    egggroups:
+    - [Monster, Grass]
+    height: [2.7]
+    introduction: xy
+    stats:
+    - [90, 132, 105, 132, 105, 30]
+    tags:
+    - []
+    types:
+    - [Grass, Ice]
+    weight: [185]
   Snover:
     abilities:
     - [Snow Warning, Soundproof]

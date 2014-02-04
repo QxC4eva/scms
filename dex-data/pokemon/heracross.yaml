@@ -61,3 +61,17 @@ pokemon:
     types:
     - [Bug, Fighting]
     weight: [54]
+  Heracross-Mega:
+    abilities:
+    - [Skill Link]
+    egggroups:
+    - [Bug]
+    height: [1.7]
+    introduction: xy
+    stats:
+    - [80, 185, 115, 40, 105, 75]
+    tags:
+    - []
+    types:
+    - [Bug, Fighting]
+    weight: [62.5]

@@ -68,3 +68,17 @@ pokemon:
     - [Steel]
     - xy: [Steel, Fairy]
     weight: [11.5]
+  Mawile-Mega:
+    abilities:
+    - [Huge Power]
+    egggroups:
+    - [Field, Fairy]
+    height: [1]
+    introduction: xy
+    stats:
+    - [50, 105, 125, 55, 95, 50]
+    tags:
+    - []
+    types:
+    - [Steel, Fairy]
+    weight: [23.5]

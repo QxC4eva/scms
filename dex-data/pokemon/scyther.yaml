@@ -26,6 +26,20 @@ pokemon:
     types:
     - [Bug, Steel]
     weight: [118]
+  Scizor-Mega:
+    abilities:
+    - [Technician]
+    egggroups:
+    - [Bug]
+    height: [2]
+    introduction: xy
+    stats:
+    - [70, 150, 140, 65, 100, 75]
+    tags:
+    - []
+    types:
+    - [Bug, Steel]
+    weight: [125]
   Scyther:
     abilities:
     - [Swarm]

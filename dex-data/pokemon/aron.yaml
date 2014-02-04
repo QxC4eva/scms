@@ -38,6 +38,20 @@ pokemon:
     types:
     - [Rock, Steel]
     weight: [360]
+  Aggron-Mega:
+    abilities:
+    - [Filter]
+    egggroups:
+    - [Monster]
+    height: [2.2]
+    introduction: xy
+    stats:
+    - [70, 140, 230, 60, 80, 50]
+    tags:
+    - []
+    types:
+    - [Steel]
+    weight: [395]
   Aron:
     abilities:
     - [Rock Head, Sturdy]

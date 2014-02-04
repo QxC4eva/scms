@@ -206,6 +206,24 @@ pokemon:
     types:
     - [Grass]
     weight: [25.5]
+  Sylveon:
+    abilities:
+    - [Cute Charm, Pixilate]
+    egggroups:
+    - [Field]
+    height: [1]
+    introduction: xy
+    moves:
+    - xy: [Disarming Voice, Fairy Wind, Draining Kiss, Skill Swap, Misty Terrain,
+        Light Screen, Moonblast, Psych Up, Psyshock, Calm Mind, Hyper Beam, Safeguard,
+        Reflect, Giga Impact, Flash, Dazzling Gleam, Cut]
+    stats:
+    - [95, 65, 65, 110, 130, 60]
+    tags:
+    - []
+    types:
+    - [Fairy]
+    weight: [23.5]
   Umbreon:
     abilities:
     - [Synchronize]

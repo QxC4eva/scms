@@ -24,6 +24,20 @@ pokemon:
     types:
     - [Fighting, Psychic]
     weight: [31.5]
+  Medicham-Mega:
+    abilities:
+    - [Pure Power]
+    egggroups:
+    - [Human-Like]
+    height: [1.3]
+    introduction: xy
+    stats:
+    - [60, 100, 85, 80, 85, 100]
+    tags:
+    - []
+    types:
+    - [Fighting, Psychic]
+    weight: [31.5]
   Meditite:
     abilities:
     - [Pure Power]

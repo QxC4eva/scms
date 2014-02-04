@@ -71,3 +71,17 @@ pokemon:
     types:
     - [Electric]
     weight: [40.2]
+  Manectric-Mega:
+    abilities:
+    - [Intimidate]
+    egggroups:
+    - [Field]
+    height: [1.8]
+    introduction: xy
+    stats:
+    - [70, 75, 80, 135, 80, 135]
+    tags:
+    - []
+    types:
+    - [Electric]
+    weight: [44]

@@ -31,20 +31,20 @@ pokemon:
     height: [2.2]
     introduction: rb
     moves:
-    - gs: [Dynamicpunch, Fire Punch, Fly, Fury Cutter, Ice Punch, Mud-Slap, Rock Smash,
-        Sandstorm, Steel Wing, Strength, Thunderpunch, Whirlpool, Wing Attack]
+    - gs: [Dynamic Punch, Fire Punch, Fly, Fury Cutter, Ice Punch, Mud-Slap, Rock Smash,
+        Sandstorm, Steel Wing, Strength, Thunder Punch, Whirlpool, Wing Attack]
     - bw: [Aerial Ace, Brick Break, Bulldoze, Cut, Dive, Dragon Claw, Earthquake,
         Fire Punch, Fling, Fly, Focus Blast, Giga Impact, Heat Wave, Hone Claws, Hurricane,
         Ice Punch, Iron Head, Roar, Rock Slide, Rock Smash, Rock Tomb, Roost, Sandstorm,
-        Sky Drop, Stone Edge, Strength, Superpower, Tailwind, Thunderpunch, Wing Attack]
+        Sky Drop, Stone Edge, Strength, Superpower, Tailwind, Thunder Punch, Wing Attack]
     - dp: [Aerial Ace, Air Cutter, Brick Break, Cut, Defog, Dive, Dragon Claw, Earthquake,
         Fire Punch, Fling, Fly, Focus Blast, Focus Punch, Fury Cutter, Giga Impact,
         Heat Wave, Ice Punch, Iron Head, Mud-Slap, Ominous Wind, Roar, Rock Slide,
         Rock Smash, Rock Tomb, Roost, Sandstorm, Steel Wing, Stone Edge, Strength,
-        Superpower, Tailwind, Thunderpunch, Wing Attack]
-    - rs: [Aerial Ace, Brick Break, Cut, Dive, Dragon Claw, Dynamicpunch, Earthquake,
+        Superpower, Tailwind, Thunder Punch, Wing Attack]
+    - rs: [Aerial Ace, Brick Break, Cut, Dive, Dragon Claw, Dynamic Punch, Earthquake,
         Fire Punch, Fly, Focus Punch, Fury Cutter, Ice Punch, Mud-Slap, Roar, Rock
-          Smash, Rock Tomb, Sandstorm, Steel Wing, Strength, Thunderpunch, Wing Attack]
+          Smash, Rock Tomb, Sandstorm, Steel Wing, Strength, Thunder Punch, Wing Attack]
     - rb: [Razor Wind, Strength]
     - xy: [Aerial Ace, Air Cutter, Brick Break, Bulldoze, Cut, Defog, Dive, Dragon
           Claw, Dynamic Punch, Earthquake, Extreme Speed, Fire Punch, Fling, Fly,
@@ -73,7 +73,7 @@ pokemon:
     height: [1.8]
     introduction: rb
     moves:
-    - gs: [Agility, Attract, Blizzard, Curse, Detect, Double Team, Dragon Rage, Dragonbreath,
+    - gs: [Agility, Attract, Blizzard, Curse, Detect, Double Team, Dragon Rage, Dragon Breath,
         Endure, Fire Blast, Flamethrower, Frustration, Haze, Headbutt, Hidden Power,
         Hyper Beam, Ice Beam, Icy Wind, Iron Tail, Leer, Light Screen, Mist, Outrage,
         Protect, Rain Dance, Rest, Return, Safeguard, Slam, Sleep Talk, Snore, Supersonic,
@@ -81,7 +81,7 @@ pokemon:
         Waterfall, Wrap, Zap Cannon]
     - bw: [Agility, Aqua Jet, Aqua Tail, Attract, Bind, Blizzard, Body Slam, Double-Edge,
         Double Team, Draco Meteor, Dragon Dance, Dragon Pulse, Dragon Rage, Dragon
-          Rush, Dragon Tail, Dragonbreath, Extremespeed, Facade, Fire Blast, Flamethrower,
+          Rush, Dragon Tail, Dragon Breath, Extremespeed, Facade, Fire Blast, Flamethrower,
         Frustration, Hail, Haze, Hidden Power, Hyper Beam, Ice Beam, Icy Wind, Incinerate,
         Iron Tail, Leer, Light Screen, Mimic, Mist, Outrage, Protect, Rain Dance,
         Rest, Return, Round, Safeguard, Slam, Shock Wave, Sleep Talk, Snore, Substitute,
@@ -89,7 +89,7 @@ pokemon:
         Toxic, Twister, Water Pulse, Waterfall, Wrap]
     - dp: [Agility, Aqua Tail, Attract, Blizzard, Body Slam, Captivate, Double-Edge,
         Double Team, Draco Meteor, Dragon Dance, Dragon Pulse, Dragon Rage, Dragon
-          Rush, Dragonbreath, Endure, Extremespeed, Facade, Fire Blast, Flamethrower,
+          Rush, Dragon Breath, Endure, Extremespeed, Facade, Fire Blast, Flamethrower,
         Frustration, Hail, Haze, Headbutt, Hidden Power, Hyper Beam, Ice Beam, Icy
           Wind, Iron Tail, Leer, Light Screen, Mimic, Mist, Natural Gift, Outrage,
         Protect, Rain Dance, Rest, Return, Safeguard, Secret Power, Shock Wave, Slam,
@@ -97,13 +97,13 @@ pokemon:
         Thunder, Thunder Wave, Thunderbolt, Toxic, Twister, Water Pulse, Waterfall,
         Whirlpool, Wrap]
     - rs: [Agility, Attract, Blizzard, Body Slam, Double-Edge, Double Team, Dragon
-          Dance, Dragon Rage, Dragonbreath, Endure, Facade, Fire Blast, Flamethrower,
+          Dance, Dragon Rage, Dragon Breath, Endure, Facade, Fire Blast, Flamethrower,
         Frustration, Hail, Haze, Hidden Power, Hyper Beam, Ice Beam, Icy Wind, Iron
           Tail, Leer, Light Screen, Mimic, Mist, Outrage, Protect, Rain Dance, Rest,
         Return, Safeguard, Secret Power, Shock Wave, Slam, Sleep Talk, Snore, Substitute,
         Sunny Day, Supersonic, Surf, Swagger, Swift, Thunder, Thunder Wave, Thunderbolt,
         Toxic, Twister, Water Pulse, Waterfall, Wrap]
-    - rb: [Agility, Bide, Blizzard, Body Slam, Bubblebeam, Double-Edge, Double Team,
+    - rb: [Agility, Bide, Blizzard, Body Slam, Bubble Beam, Double-Edge, Double Team,
         Dragon Rage, Fire Blast, Hyper Beam, Ice Beam, Leer, Mimic, Rage, Reflect,
         Rest, Skull Bash, Slam, Substitute, Surf, Swift, Take Down, Thunder, Thunder
           Wave, Thunderbolt, Toxic, Water Gun, Wrap]

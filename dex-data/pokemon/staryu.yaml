@@ -40,13 +40,13 @@ pokemon:
     height: [0.8]
     introduction: rb
     moves:
-    - gs: [Attract, Aurora Beam, Barrier, Blizzard, Bubblebeam, Curse, Double Team,
+    - gs: [Attract, Aurora Beam, Barrier, Blizzard, Bubble Beam, Curse, Double Team,
         Endure, Flash, Frustration, Harden, Hidden Power, Hydro Pump, Ice Beam, Icy
           Wind, Light Screen, Minimize, Protect, Psych Up, Psychic, Rain Dance, Rapid
           Spin, Recover, Rest, Return, Sleep Talk, Snore, Supersonic, Surf, Swagger,
         Swift, Tackle, Thunder, Thunderbolt, Toxic, Water Gun, Waterfall, Whirlpool,
         Zap Cannon]
-    - bw: [Blizzard, Brine, Bubblebeam, Camouflage, Cosmic Power, Dive, Double Team,
+    - bw: [Blizzard, Brine, Bubble Beam, Camouflage, Cosmic Power, Dive, Double Team,
         Facade, Flash, Flash Cannon, Frustration, Gravity, Gyro Ball, Hail, Harden,
         Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Light Screen, Magic Coat, Minimize,
         Pain Split, Power Gem, Protect, Psych Up, Psychic, Rain Dance, Rapid Spin,
@@ -54,7 +54,7 @@ pokemon:
           Beam, Sleep Talk, Snore, Substitute, Surf, Swagger, Swift, Tackle, Thunder,
         Thunder Wave, Thunderbolt, Toxic, Water Gun, Waterfall, Double-Edge, Icy Wind,
         Mimic]
-    - dp: [Blizzard, Brine, Bubblebeam, Camouflage, Cosmic Power, Dive, Double Team,
+    - dp: [Blizzard, Brine, Bubble Beam, Camouflage, Cosmic Power, Dive, Double Team,
         Endure, Facade, Flash, Flash Cannon, Frustration, Gravity, Gyro Ball, Hail,
         Harden, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Light Screen, Magic
           Coat, Minimize, Natural Gift, Pain Split, Power Gem, Protect, Psych Up,
@@ -62,14 +62,14 @@ pokemon:
         Rollout, Secret Power, Signal Beam, Sleep Talk, Snore, Substitute, Surf, Swagger,
         Swift, Tackle, Thunder, Thunder Wave, Thunderbolt, Toxic, Twister, Water Gun,
         Water Pulse, Waterfall, Whirlpool, Double-Edge, Icy Wind, Mimic]
-    - rs: [Blizzard, Bubblebeam, Camouflage, Cosmic Power, Dive, Double-Edge, Double
+    - rs: [Blizzard, Bubble Beam, Camouflage, Cosmic Power, Dive, Double-Edge, Double
           Team, Endure, Facade, Flash, Frustration, Hail, Harden, Hidden Power, Hydro
           Pump, Ice Beam, Icy Wind, Light Screen, Mimic, Minimize, Protect, Psych
           Up, Psychic, Rain Dance, Rapid Spin, Recover, Reflect, Rest, Return, Secret
           Power, Sleep Talk, Snore, Substitute, Surf, Swagger, Swift, Tackle, Thunder,
         Thunder Wave, Thunderbolt, Toxic, Water Gun, Water Pulse, Waterfall, Double-Edge,
         Icy Wind, Mimic]
-    - rb: [Bide, Blizzard, Bubblebeam, Double-Edge, Double Team, Flash, Harden, Hydro
+    - rb: [Bide, Blizzard, Bubble Beam, Double-Edge, Double Team, Flash, Harden, Hydro
           Pump, Ice Beam, Light Screen, Mimic, Minimize, Psychic, Psywave, Rage, Recover,
         Reflect, Rest, Skull Bash, Substitute, Surf, Swift, Tackle, Take Down, Teleport,
         Thunder, Thunder Wave, Thunderbolt, Toxic, Tri Attack, Water Gun]

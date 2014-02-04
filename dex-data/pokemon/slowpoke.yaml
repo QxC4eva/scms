@@ -10,14 +10,14 @@ pokemon:
     height: [1.6]
     introduction: rb
     moves:
-    - gs: [Dynamicpunch, Fury Cutter, Hyper Beam, Ice Punch, Rock Smash, Withdraw]
+    - gs: [Dynamic Punch, Fury Cutter, Hyper Beam, Ice Punch, Rock Smash, Withdraw]
     - bw: [Aerial Ace, Brick Break, Drain Punch, Fling, Focus Blast, Foul Play, Giga
           Impact, Hyper Beam, Ice Punch, Iron Defense, Rock Smash, Withdraw, Body
           Slam, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss]
     - dp: [Avalanche, Brick Break, Drain Punch, Fling, Focus Blast, Focus Punch, Fury
           Cutter, Giga Impact, Hyper Beam, Ice Punch, Iron Defense, Rock Smash, Withdraw,
         Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss]
-    - rs: [Brick Break, Counter, Dynamicpunch, Focus Punch, Fury Cutter, Hyper Beam,
+    - rs: [Brick Break, Counter, Dynamic Punch, Focus Punch, Fury Cutter, Hyper Beam,
         Ice Punch, Mega Kick, Mega Punch, Rock Smash, Seismic Toss, Withdraw, Body
           Slam, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss]
     - rb: [Counter, Hyper Beam, Mega Kick, Mega Punch, Seismic Toss, Submission, Withdraw]
@@ -112,7 +112,7 @@ pokemon:
         Stomp, Strength, Substitute, Sunny Day, Surf, Swagger, Swift, Tackle, Thunder
           Wave, Toxic, Water Gun, Water Pulse, Yawn, Body Slam, Double-Edge, Icy Wind,
         Mimic, Nightmare]
-    - rb: [Amnesia, Bide, Blizzard, Body Slam, Bubblebeam, Confusion, Dig, Disable,
+    - rb: [Amnesia, Bide, Blizzard, Body Slam, Bubble Beam, Confusion, Dig, Disable,
         Double-Edge, Double Team, Earthquake, Fire Blast, Fissure, Flash, Growl, Headbutt,
         Ice Beam, Mimic, Pay Day, Psychic, Psywave, Rage, Reflect, Rest, Skull Bash,
         Strength, Substitute, Surf, Swift, Take Down, Teleport, Thunder Wave, Toxic,

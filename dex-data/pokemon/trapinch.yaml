@@ -11,10 +11,10 @@ pokemon:
     introduction: rs
     moves:
     - bw: [Aerial Ace, Dragon Claw, Dragon Tail, Fire Blast, Fire Punch, Flamethrower,
-        Giga Impact, Hone Claws, Incinerate, Iron Tail, Stone Edge, Thunderpunch,
+        Giga Impact, Hone Claws, Incinerate, Iron Tail, Stone Edge, Thunder Punch,
         Body Slam, Double-Edge, Mimic]
     - dp: [Aerial Ace, Dragon Claw, Fire Blast, Fire Punch, Flamethrower, Giga Impact,
-        Iron Tail, Stone Edge, Thunderpunch, Body Slam, Double-Edge, Mimic]
+        Iron Tail, Stone Edge, Thunder Punch, Body Slam, Double-Edge, Mimic]
     - rs: [Dragon Claw, Fire Blast, Fire Punch, Flamethrower, Fury Cutter, Iron Tail,
         Body Slam, Double-Edge, Mimic]
     - xy: [Aerial Ace, Dragon Claw, Dragon Tail, Fire Blast, Fire Punch, Flamethrower,
@@ -39,24 +39,24 @@ pokemon:
     introduction: rs
     moves:
     - bw: [Attract, Bide, Bite, Bug Bite, Bulldoze, Crunch, Dig, Double Team, Earth
-          Power, Earthquake, Endure, Facade, Faint Attack, Feint, Fissure, Flail,
+          Power, Earthquake, Endure, Facade, Feint Attack, Feint, Fissure, Flail,
         Focus Energy, Frustration, Fury Cutter, Giga Drain, Gust, Hidden Power, Hyper
           Beam, Mud Shot, Mud-Slap, Protect, Quick Attack, Rest, Return, Rock Slide,
-        Rock Smash, Rock Tomb, Round, Sand-Attack, Sand Tomb, Sandstorm, Signal Beam,
-        Sleep Talk, Snore, Solarbeam, Strength, Struggle Bug, Substitute, Sunny Day,
+        Rock Smash, Rock Tomb, Round, Sand Attack, Sand Tomb, Sandstorm, Signal Beam,
+        Sleep Talk, Snore, Solar Beam, Strength, Struggle Bug, Substitute, Sunny Day,
         Superpower, Swagger, Toxic, Body Slam, Double-Edge, Mimic]
     - dp: [Attract, Bite, Bug Bite, Captivate, Crunch, Dig, Double Team, Earth Power,
-        Earthquake, Endure, Facade, Faint Attack, Feint, Fissure, Flail, Focus Energy,
+        Earthquake, Endure, Facade, Feint Attack, Feint, Fissure, Flail, Focus Energy,
         Frustration, Fury Cutter, Giga Drain, Gust, Headbutt, Hidden Power, Hyper
           Beam, Mud Shot, Mud-Slap, Natural Gift, Protect, Quick Attack, Rest, Return,
-        Rock Slide, Rock Smash, Rock Tomb, Sand-Attack, Sand Tomb, Sandstorm, Secret
-          Power, Sleep Talk, Snore, Solarbeam, Strength, Substitute, Sunny Day, Swagger,
+        Rock Slide, Rock Smash, Rock Tomb, Sand Attack, Sand Tomb, Sandstorm, Secret
+          Power, Sleep Talk, Snore, Solar Beam, Strength, Substitute, Sunny Day, Swagger,
         Toxic, Body Slam, Double-Edge, Mimic]
     - rs: [Attract, Bite, Body Slam, Crunch, Dig, Double-Edge, Double Team, Earthquake,
-        Endure, Facade, Faint Attack, Focus Energy, Frustration, Giga Drain, Gust,
+        Endure, Facade, Feint Attack, Focus Energy, Frustration, Giga Drain, Gust,
         Hidden Power, Hyper Beam, Mimic, Mud-Slap, Protect, Quick Attack, Rest, Return,
-        Rock Slide, Rock Smash, Rock Tomb, Sand-Attack, Sand Tomb, Sandstorm, Secret
-          Power, Sleep Talk, Snore, Solarbeam, Strength, Substitute, Sunny Day, Swagger,
+        Rock Slide, Rock Smash, Rock Tomb, Sand Attack, Sand Tomb, Sandstorm, Secret
+          Power, Sleep Talk, Snore, Solar Beam, Strength, Substitute, Sunny Day, Swagger,
         Toxic, Body Slam, Double-Edge, Mimic]
     - xy: [Attract, Bide, Bite, Body Slam, Bug Bite, Bulldoze, Captivate, Crunch,
         Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endure, Facade, Feint
@@ -84,14 +84,14 @@ pokemon:
     height: [1.1]
     introduction: rs
     moves:
-    - bw: [Draco Meteor, Dragon Pulse, Dragonbreath, Fly, Heat Wave, Outrage, Roost,
-        Screech, Sonicboom, Supersonic, Tailwind, U-turn, Body Slam, Double-Edge,
+    - bw: [Draco Meteor, Dragon Pulse, Dragon Breath, Fly, Heat Wave, Outrage, Roost,
+        Screech, Sonic Boom, Supersonic, Tailwind, U-turn, Body Slam, Double-Edge,
         Mimic]
-    - dp: [Air Cutter, Defog, Draco Meteor, Dragon Pulse, Dragonbreath, Fly, Heat
-          Wave, Ominous Wind, Outrage, Roost, Screech, Silver Wind, Sonicboom, Steel
+    - dp: [Air Cutter, Defog, Draco Meteor, Dragon Pulse, Dragon Breath, Fly, Heat
+          Wave, Ominous Wind, Outrage, Roost, Screech, Silver Wind, Sonic Boom, Steel
           Wing, Supersonic, Swift, Tailwind, Twister, U-turn, Body Slam, Double-Edge,
         Mimic]
-    - rs: [Dragonbreath, Fly, Screech, Steel Wing, Swift, Body Slam, Double-Edge,
+    - rs: [Dragon Breath, Fly, Screech, Steel Wing, Swift, Body Slam, Double-Edge,
         Mimic]
     - xy: [Air Cutter, Defog, Draco Meteor, Dragon Breath, Dragon Pulse, Fly, Heat
           Wave, Ominous Wind, Outrage, Roost, Screech, Silver Wind, Sonic Boom, Steel

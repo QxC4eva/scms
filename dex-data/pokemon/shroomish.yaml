@@ -11,17 +11,17 @@ pokemon:
     height: [1.2]
     introduction: rs
     moves:
-    - bw: [Brick Break, Bulk Up, Counter, Cut, Dynamicpunch, Fling, Focus Blast, Force
+    - bw: [Brick Break, Bulk Up, Counter, Cut, Dynamic Punch, Fling, Focus Blast, Force
           Palm, Giga Impact, Hyper Beam, Iron Tail, Low Sweep, Mach Punch, Mind Reader,
         Retaliate, Rock Slide, Rock Smash, Rock Tomb, Sky Uppercut, Stone Edge, Strength,
-        Superpower, Thunderpunch, Work Up]
-    - dp: [Brick Break, Bulk Up, Counter, Cut, Drain Punch, Dynamicpunch, Fling, Focus
+        Superpower, Thunder Punch, Work Up]
+    - dp: [Brick Break, Bulk Up, Counter, Cut, Drain Punch, Dynamic Punch, Fling, Focus
           Blast, Focus Punch, Force Palm, Fury Cutter, Giga Impact, Hyper Beam, Iron
           Tail, Mach Punch, Mind Reader, Mud-Slap, Rock Slide, Rock Smash, Rock Tomb,
-        Sky Uppercut, Stone Edge, Strength, Superpower, Thunderpunch, Vacuum Wave]
-    - rs: [Brick Break, Bulk Up, Counter, Cut, Dynamicpunch, Focus Punch, Fury Cutter,
+        Sky Uppercut, Stone Edge, Strength, Superpower, Thunder Punch, Vacuum Wave]
+    - rs: [Brick Break, Bulk Up, Counter, Cut, Dynamic Punch, Focus Punch, Fury Cutter,
         Hyper Beam, Iron Tail, Mach Punch, Mega Kick, Mega Punch, Mind Reader, Mud-Slap,
-        Rock Smash, Seismic Toss, Sky Uppercut, Strength, Thunderpunch]
+        Rock Smash, Seismic Toss, Sky Uppercut, Strength, Thunder Punch]
     - xy: [Brick Break, Bulk Up, Counter, Cut, Dynamic Punch, Fling, Focus Blast,
         Force Palm, Fury Cutter, Giga Impact, Hyper Beam, Iron Tail, Low Sweep, Mach
           Punch, Mega Kick, Mega Punch, Mind Reader, Mud-Slap, Retaliate, Rock Slide,
@@ -49,23 +49,23 @@ pokemon:
     - bw: [Absorb, Attract, Bullet Seed, Charm, Double Team, Drain Punch, Energy Ball,
         Facade, Fake Tears, False Swipe, Flash, Focus Punch, Frustration, Giga Drain,
         Grass Knot, Growth, Headbutt, Helping Hand, Hidden Power, Leech Seed, Mega
-          Drain, Natural Gift, Poisonpowder, Protect, Rest, Return, Round, Safeguard,
-        Seed Bomb, Sleep Talk, Sludge Bomb, Snatch, Snore, Solarbeam, Spore, Stun
+          Drain, Natural Gift, Poison Powder, Protect, Rest, Return, Round, Safeguard,
+        Seed Bomb, Sleep Talk, Sludge Bomb, Snatch, Snore, Solar Beam, Spore, Stun
           Spore, Substitute, Sunny Day, Swagger, Swords Dance, Synthesis, Tackle,
         Toxic, Venoshock, Wake-Up Slap, Worry Seed, Body Slam, Double-Edge, Mimic,
         Refresh]
     - dp: [Absorb, Attract, Bullet Seed, Captivate, Charm, Double Team, Endure, Energy
           Ball, Facade, Fake Tears, False Swipe, Flash, Frustration, Giga Drain, Grass
           Knot, Growth, Headbutt, Helping Hand, Hidden Power, Leech Seed, Mega Drain,
-        Natural Gift, Poisonpowder, Protect, Rest, Return, Safeguard, Secret Power,
-        Seed Bomb, Sleep Talk, Sludge Bomb, Snatch, Snore, Solarbeam, Spore, Stun
+        Natural Gift, Poison Powder, Protect, Rest, Return, Safeguard, Secret Power,
+        Seed Bomb, Sleep Talk, Sludge Bomb, Snatch, Snore, Solar Beam, Spore, Stun
           Spore, Substitute, Sunny Day, Swagger, Swords Dance, Synthesis, Tackle,
         Toxic, Wake-Up Slap, Worry Seed, Body Slam, Double-Edge, Mimic, Refresh]
     - rs: [Absorb, Attract, Body Slam, Bullet Seed, Charm, Double-Edge, Double Team,
         Endure, Facade, Fake Tears, False Swipe, Flash, Frustration, Giga Drain, Growth,
-        Headbutt, Helping Hand, Hidden Power, Leech Seed, Mega Drain, Mimic, Poisonpowder,
+        Headbutt, Helping Hand, Hidden Power, Leech Seed, Mega Drain, Mimic, Poison Powder,
         Protect, Rest, Return, Safeguard, Secret Power, Sleep Talk, Sludge Bomb, Snatch,
-        Snore, Solarbeam, Spore, Stun Spore, Substitute, Sunny Day, Swagger, Swords
+        Snore, Solar Beam, Spore, Stun Spore, Substitute, Sunny Day, Swagger, Swords
           Dance, Tackle, Toxic, Body Slam, Double-Edge, Mimic, Refresh]
     - xy: [Absorb, Attract, Body Slam, Bullet Seed, Captivate, Charm, Double-Edge,
         Double Team, Drain Punch, Endure, Energy Ball, Facade, Fake Tears, False Swipe,

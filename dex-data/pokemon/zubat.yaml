@@ -11,8 +11,8 @@ pokemon:
     introduction: gs
     moves:
     - gs: [Fly]
-    - bw: [Cross Poison, Dark Pulse, Sky Attack, X-scissor]
-    - dp: [Cross Poison, Dark Pulse, Sky Attack, X-scissor]
+    - bw: [Cross Poison, Dark Pulse, Sky Attack, X-Scissor]
+    - dp: [Cross Poison, Dark Pulse, Sky Attack, X-Scissor]
     - rs: [Fly]
     - xy: [Cross Poison, Dark Pulse, Sky Attack, X-Scissor]
     stats:
@@ -60,13 +60,13 @@ pokemon:
     height: [0.8]
     introduction: rb
     moves:
-    - gs: [Attract, Bite, Confuse Ray, Curse, Detect, Double Team, Endure, Faint Attack,
+    - gs: [Attract, Bite, Confuse Ray, Curse, Detect, Double Team, Endure, Feint Attack,
         Frustration, Giga Drain, Gust, Haze, Hidden Power, Leech Life, Mean Look,
         Protect, Pursuit, Quick Attack, Rest, Return, Sleep Talk, Snore, Steel Wing,
         Sunny Day, Supersonic, Swagger, Swift, Thief, Toxic, Whirlwind, Wing Attack,
         Flail]
     - bw: [Acrobatics, Aerial Ace, Air Cutter, Air Slash, Astonish, Attract, Bite,
-        Brave Bird, Confuse Ray, Curse, Defog, Double Team, Facade, Faint Attack,
+        Brave Bird, Confuse Ray, Curse, Defog, Double Team, Facade, Feint Attack,
         Fly, Frustration, Giga Drain, Gust, Haze, Heat Wave, Hidden Power, Hypnosis,
         Leech Life, Mean Look, Nasty Plot, Payback, Pluck, Poison Fang, Protect, Pursuit,
         Quick Attack, Rain Dance, Rest, Return, Roost, Round, Shadow Ball, Sleep Talk,
@@ -75,7 +75,7 @@ pokemon:
         Uproar, Venoshock, Whirlwind, Wing Attack, Zen Headbutt, Double-Edge, Mimic,
         Mimic]
     - dp: [Aerial Ace, Air Cutter, Air Slash, Astonish, Attract, Bite, Brave Bird,
-        Captivate, Confuse Ray, Curse, Defog, Double Team, Endure, Facade, Faint Attack,
+        Captivate, Confuse Ray, Curse, Defog, Double Team, Endure, Facade, Feint Attack,
         Fly, Frustration, Giga Drain, Gust, Haze, Heat Wave, Hidden Power, Hypnosis,
         Leech Life, Mean Look, Nasty Plot, Natural Gift, Ominous Wind, Payback, Pluck,
         Poison Fang, Protect, Pursuit, Quick Attack, Rain Dance, Rest, Return, Roost,
@@ -84,7 +84,7 @@ pokemon:
         Thief, Torment, Toxic, Twister, U-turn, Uproar, Whirlwind, Wing Attack, Zen
           Headbutt, Double-Edge, Mimic, Mimic]
     - rs: [Aerial Ace, Air Cutter, Astonish, Attract, Bite, Confuse Ray, Curse, Double-Edge,
-        Double Team, Endure, Facade, Faint Attack, Frustration, Giga Drain, Gust,
+        Double Team, Endure, Facade, Feint Attack, Frustration, Giga Drain, Gust,
         Haze, Hidden Power, Leech Life, Mean Look, Mimic, Poison Fang, Protect, Pursuit,
         Quick Attack, Rain Dance, Rest, Return, Secret Power, Shadow Ball, Sleep Talk,
         Sludge Bomb, Snatch, Snore, Steel Wing, Substitute, Sunny Day, Supersonic,

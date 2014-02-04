@@ -27,7 +27,7 @@ pokemon:
     height: [1.7]
     introduction: bw
     moves:
-    - bw: [Giga Impact, Hyper Beam, Iron Head, Solarbeam, Superpower]
+    - bw: [Giga Impact, Hyper Beam, Iron Head, Solar Beam, Superpower]
     - xy: [Giga Impact, Hyper Beam, Solar Beam, Iron Head, Superpower]
     stats:
     - [85, 135, 130, 60, 70, 25]
@@ -50,7 +50,7 @@ pokemon:
         Earthquake, Explosion, Facade, Flash Cannon, Frustration, Gravity, Harden,
         Headbutt, Heavy Slam, Hidden Power, Iron Defense, Lock-On, Magnitude, Mud-Slap,
         Protect, Rest, Return, Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock
-          Tomb, Round, Sand-Attack, Sandstorm, Sleep Talk, Smack Down, Snore, Stealth
+          Tomb, Round, Sand Attack, Sandstorm, Sleep Talk, Smack Down, Snore, Stealth
           Rock, Stone Edge, Strength, Substitute, Swagger, Tackle, Take Down, Toxic]
     - xy: [Attract, Autotomize, Bulldoze, Curse, Double Team, Earthquake, Explosion,
         Facade, Flash Cannon, Frustration, Gravity, Harden, Headbutt, Heavy Slam,

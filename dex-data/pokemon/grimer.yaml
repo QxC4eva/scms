@@ -9,11 +9,11 @@ pokemon:
     height: [0.9]
     introduction: rb
     moves:
-    - gs: [Acid Armor, Attract, Curse, Disable, Double Team, Dynamicpunch, Endure,
+    - gs: [Acid Armor, Attract, Curse, Disable, Double Team, Dynamic Punch, Endure,
         Fire Blast, Fire Punch, Flamethrower, Frustration, Giga Drain, Harden, Haze,
         Hidden Power, Ice Punch, Lick, Mean Look, Minimize, Mud-Slap, Poison Gas,
         Pound, Protect, Rest, Return, Screech, Sleep Talk, Sludge, Sludge Bomb, Snore,
-        Sunny Day, Swagger, Thief, Thunder, Thunderbolt, Thunderpunch, Toxic, Zap
+        Sunny Day, Swagger, Thief, Thunder, Thunderbolt, Thunder Punch, Toxic, Zap
           Cannon]
     - bw: [Acid Armor, Acid Spray, Attract, Curse, Dig, Disable, Double Team, Explosion,
         Facade, Fire Blast, Fire Punch, Flamethrower, Fling, Frustration, Giga Drain,
@@ -23,7 +23,7 @@ pokemon:
           Tomb, Round, Scary Face, Screech, Shadow Ball, Shadow Punch, Shadow Sneak,
         Sleep Talk, Sludge, Sludge Bomb, Sludge Wave, Snore, Spit Up, Stockpile, Strength,
         Substitute, Sunny Day, Swagger, Swallow, Taunt, Thief, Thunder, Thunderbolt,
-        Thunderpunch, Torment, Toxic, Venoshock, Body Slam, Helping Hand, Mimic, Selfdestruct]
+        Thunder Punch, Torment, Toxic, Venoshock, Body Slam, Helping Hand, Mimic, Self-Destruct]
     - dp: [Acid Armor, Attract, Captivate, Curse, Dig, Disable, Double Team, Endure,
         Explosion, Facade, Fire Blast, Fire Punch, Flamethrower, Fling, Frustration,
         Giga Drain, Gunk Shot, Harden, Haze, Hidden Power, Ice Punch, Imprison, Lick,
@@ -32,19 +32,19 @@ pokemon:
         Rock Slide, Rock Tomb, Screech, Secret Power, Shadow Ball, Shadow Punch, Shadow
           Sneak, Shock Wave, Sleep Talk, Sludge, Sludge Bomb, Snore, Spit Up, Stockpile,
         Strength, Substitute, Sunny Day, Swagger, Swallow, Taunt, Thief, Thunder,
-        Thunderbolt, Thunderpunch, Torment, Toxic, Body Slam, Helping Hand, Mimic,
-        Selfdestruct]
-    - rs: [Acid Armor, Attract, Body Slam, Curse, Dig, Disable, Double Team, Dynamicpunch,
+        Thunderbolt, Thunder Punch, Torment, Toxic, Body Slam, Helping Hand, Mimic,
+        Self-Destruct]
+    - rs: [Acid Armor, Attract, Body Slam, Curse, Dig, Disable, Double Team, Dynamic Punch,
         Endure, Explosion, Facade, Fire Blast, Fire Punch, Flamethrower, Frustration,
         Giga Drain, Harden, Haze, Hidden Power, Ice Punch, Imprison, Lick, Mean Look,
         Memento, Mimic, Minimize, Mud-Slap, Poison Gas, Pound, Protect, Rain Dance,
-        Rest, Return, Rock Tomb, Screech, Secret Power, Selfdestruct, Shadow Punch,
+        Rest, Return, Rock Tomb, Screech, Secret Power, Self-Destruct, Shadow Punch,
         Shock Wave, Sleep Talk, Sludge, Sludge Bomb, Snore, Substitute, Sunny Day,
-        Swagger, Taunt, Thief, Thunder, Thunderbolt, Thunderpunch, Torment, Toxic,
-        Body Slam, Helping Hand, Mimic, Selfdestruct]
+        Swagger, Taunt, Thief, Thunder, Thunderbolt, Thunder Punch, Torment, Toxic,
+        Body Slam, Helping Hand, Mimic, Self-Destruct]
     - rb: [Acid Armor, Bide, Body Slam, Disable, Double Team, Explosion, Fire Blast,
         Harden, Mega Drain, Mimic, Minimize, Poison Gas, Pound, Rage, Rest, Screech,
-        Selfdestruct, Sludge, Substitute, Thunder, Thunderbolt, Toxic]
+        Self-Destruct, Sludge, Substitute, Thunder, Thunderbolt, Toxic]
     - xy: [Acid Armor, Acid Spray, Attract, Body Slam, Captivate, Curse, Dig, Disable,
         Double Team, Dynamic Punch, Endure, Explosion, Facade, Fire Blast, Fire Punch,
         Flamethrower, Fling, Frustration, Giga Drain, Gunk Shot, Harden, Haze, Helping
@@ -78,11 +78,11 @@ pokemon:
     moves:
     - gs: [Hyper Beam]
     - bw: [Block, Brick Break, Dark Pulse, Focus Blast, Giga Impact, Hyper Beam, Rock
-          Smash, Body Slam, Mimic, Selfdestruct]
+          Smash, Body Slam, Mimic, Self-Destruct]
     - dp: [Block, Brick Break, Dark Pulse, Focus Blast, Focus Punch, Giga Impact,
-        Hyper Beam, Rock Smash, Body Slam, Mimic, Selfdestruct]
+        Hyper Beam, Rock Smash, Body Slam, Mimic, Self-Destruct]
     - rs: [Brick Break, Focus Punch, Hyper Beam, Rock Smash, Strength, Body Slam,
-        Mimic, Selfdestruct]
+        Mimic, Self-Destruct]
     - rb: [Hyper Beam]
     - xy: [Block, Brick Break, Dark Pulse, Focus Blast, Focus Punch, Giga Impact,
         Hyper Beam, Rock Smash]

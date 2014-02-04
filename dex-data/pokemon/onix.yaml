@@ -14,31 +14,31 @@ pokemon:
         Return, Roar, Rock Slide, Rock Smash, Rock Throw, Sandstorm, Screech, Slam,
         Sleep Talk, Snore, Strength, Sunny Day, Swagger, Tackle, Toxic, Sharpen]
     - bw: [Attract, Bind, Block, Bulldoze, Curse, Defense Curl, Dig, Double-Edge,
-        Double Team, Dragon Pulse, Dragon Tail, Dragonbreath, Earth Power, Earthquake,
+        Double Team, Dragon Pulse, Dragon Tail, Dragon Breath, Earth Power, Earthquake,
         Explosion, Facade, Flail, Flash Cannon, Frustration, Gyro Ball, Harden, Heavy
           Slam, Hidden Power, Iron Head, Iron Tail, Mud Sport, Payback, Protect, Psych
           Up, Rage, Rest, Return, Roar, Rock Blast, Rock Climb, Rock Polish, Rock
           Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Round, Sand Tomb, Sandstorm,
         Screech, Slam, Sleep Talk, Smack Down, Snore, Stealth Rock, Stone Edge, Strength,
         Substitute, Sunny Day, Swagger, Tackle, Taunt, Torment, Toxic, Body Slam,
-        Mimic, Selfdestruct]
-    - dp: [Ancientpower, Attract, Bind, Block, Captivate, Curse, Defense Curl, Dig,
-        Double-Edge, Double Team, Dragon Pulse, Dragonbreath, Earth Power, Earthquake,
+        Mimic, Self-Destruct]
+    - dp: [Ancient Power, Attract, Bind, Block, Captivate, Curse, Defense Curl, Dig,
+        Double-Edge, Double Team, Dragon Pulse, Dragon Breath, Earth Power, Earthquake,
         Endure, Explosion, Facade, Flail, Flash Cannon, Frustration, Gyro Ball, Harden,
         Headbutt, Hidden Power, Iron Head, Iron Tail, Mud-Slap, Mud Sport, Natural
           Gift, Payback, Protect, Psych Up, Rage, Rest, Return, Roar, Rock Blast,
         Rock Climb, Rock Polish, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout,
         Sand Tomb, Sandstorm, Screech, Secret Power, Slam, Sleep Talk, Snore, Stealth
           Rock, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Tackle, Taunt,
-        Torment, Toxic, Twister, Body Slam, Mimic, Selfdestruct]
-    - rs: [Attract, Bind, Block, Body Slam, Dig, Double-Edge, Double Team, Dragonbreath,
+        Torment, Toxic, Twister, Body Slam, Mimic, Self-Destruct]
+    - rs: [Attract, Bind, Block, Body Slam, Dig, Double-Edge, Double Team, Dragon Breath,
         Earthquake, Endure, Explosion, Facade, Flail, Frustration, Harden, Hidden
           Power, Iron Tail, Mimic, Mud-Slap, Protect, Psych Up, Rage, Rest, Return,
         Roar, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Sand Tomb, Sandstorm,
-        Screech, Secret Power, Selfdestruct, Slam, Sleep Talk, Snore, Strength, Substitute,
-        Sunny Day, Swagger, Tackle, Taunt, Torment, Toxic, Body Slam, Mimic, Selfdestruct]
+        Screech, Secret Power, Self-Destruct, Slam, Sleep Talk, Snore, Strength, Substitute,
+        Sunny Day, Swagger, Tackle, Taunt, Torment, Toxic, Body Slam, Mimic, Self-Destruct]
     - rb: [Bide, Bind, Body Slam, Dig, Double-Edge, Double Team, Earthquake, Explosion,
-        Fissure, Harden, Mimic, Rage, Rest, Rock Slide, Rock Throw, Screech, Selfdestruct,
+        Fissure, Harden, Mimic, Rage, Rest, Rock Slide, Rock Throw, Screech, Self-Destruct,
         Skull Bash, Slam, Strength, Substitute, Tackle, Take Down, Toxic, Sharpen]
     - xy: [Ancient Power, Attract, Bind, Block, Body Slam, Bulldoze, Captivate, Curse,
         Defense Curl, Dig, Double-Edge, Double Team, Dragon Breath, Dragon Pulse,
@@ -71,12 +71,12 @@ pokemon:
     height: [9.2]
     introduction: gs
     moves:
-    - gs: [Crunch, Cut, Defense Curl, Dragonbreath, Hyper Beam, Rollout]
+    - gs: [Crunch, Cut, Defense Curl, Dragon Breath, Hyper Beam, Rollout]
     - bw: [Aqua Tail, Autotomize, Crunch, Cut, Dark Pulse, Fire Fang, Giga Impact,
-        Hyper Beam, Ice Fang, Magnet Rise, Thunder Fang, Body Slam, Mimic, Selfdestruct]
+        Hyper Beam, Ice Fang, Magnet Rise, Thunder Fang, Body Slam, Mimic, Self-Destruct]
     - dp: [Aqua Tail, Crunch, Cut, Dark Pulse, Fire Fang, Giga Impact, Hyper Beam,
-        Ice Fang, Magnet Rise, Thunder Fang, Body Slam, Mimic, Selfdestruct]
-    - rs: [Crunch, Cut, Defense Curl, Hyper Beam, Rollout, Body Slam, Mimic, Selfdestruct]
+        Ice Fang, Magnet Rise, Thunder Fang, Body Slam, Mimic, Self-Destruct]
+    - rs: [Crunch, Cut, Defense Curl, Hyper Beam, Rollout, Body Slam, Mimic, Self-Destruct]
     - xy: [Aqua Tail, Autotomize, Crunch, Cut, Dark Pulse, Fire Fang, Giga Impact,
         Hyper Beam, Ice Fang, Magnet Rise, Thunder Fang]
     stats:

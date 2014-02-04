@@ -179,7 +179,7 @@ moves:
     priority: [0]
     target: [user]
     
-  AncientPower:
+  Ancient Power:
     introduction: gs
     type:
     - Rock
@@ -670,7 +670,7 @@ moves:
     priority: [0]
     target: [enemies]
     
-  BubbleBeam:
+  Bubble Beam:
     introduction: rb
     type:
     - Water
@@ -1402,7 +1402,7 @@ moves:
     priority: [0]
     target: [enemy]
     
-  DoubleSlap:
+  Double Slap:
     introduction: rb
     type:
     - Normal
@@ -1504,7 +1504,7 @@ moves:
     priority: [-6]
     target: [enemy]
     
-  DragonBreath:
+  Dragon Breath:
     introduction: gs
     type:
     - Dragon
@@ -1580,7 +1580,7 @@ moves:
     priority: [0]
     target: [enemy]
     
-  DynamicPunch:
+  Dynamic Punch:
     introduction: gs
     type:
     - Fighting
@@ -1823,7 +1823,7 @@ moves:
     priority: [0]
     target: [enemy]
     
-  Faint Attack:
+  Feint Attack:
     introduction: gs
     type:
     - Dark
@@ -1873,7 +1873,7 @@ moves:
     priority: [0]
     target: [enemy]
     
-  FeatherDance:
+  Feather Dance:
     introduction: rs
     type:
     - Flying
@@ -2481,7 +2481,7 @@ moves:
     priority: [0]
     target: [enemy]
     
-  GrassWhistle:
+  Grass Whistle:
     introduction: rs
     type:
     - Grass
@@ -2855,7 +2855,7 @@ moves:
     priority: [0]
     target: [enemy]
     
-  Hi Jump Kick:
+  High Jump Kick:
     introduction: rb
     type:
     - Fighting
@@ -4352,7 +4352,7 @@ moves:
     priority: [0]
     target: [enemy]
     
-  PoisonPowder:
+  Poison Powder:
     introduction: rb
     type:
     - Poison
@@ -5144,7 +5144,7 @@ moves:
     priority: [0]
     target: [enemy]
     
-  Sand-Attack:
+  Sand Attack:
     introduction: rb
     type:
     - Ground
@@ -5290,7 +5290,7 @@ moves:
     priority: [0]
     target: [enemy]
     
-  Selfdestruct:
+  Self-Destruct:
     introduction: rb
     type:
     - Normal
@@ -5658,7 +5658,7 @@ moves:
     priority: [0]
     target: [enemy]
     
-  SmellingSalt:
+  Smelling Salts:
     introduction: rs
     type:
     - Normal
@@ -5762,7 +5762,7 @@ moves:
     priority: [0]
     target: [user]
     
-  SolarBeam:
+  Solar Beam:
     introduction: rb
     type:
     - Grass
@@ -5774,7 +5774,7 @@ moves:
     priority: [0]
     target: [enemy]
     
-  SonicBoom:
+  Sonic Boom:
     introduction: rb
     type:
     - Normal
@@ -6486,7 +6486,7 @@ moves:
     priority: [0]
     target: [enemy]
     
-  ThunderPunch:
+  Thunder Punch:
     introduction: rb
     type:
     - Electric
@@ -6498,7 +6498,7 @@ moves:
     priority: [0]
     target: [enemy]
     
-  ThunderShock:
+  Thunder Shock:
     introduction: rb
     type:
     - Electric
@@ -6735,7 +6735,7 @@ moves:
     priority: [0]
     target: [enemy]
     
-  ViceGrip:
+  Vice Grip:
     introduction: rb
     type:
     - Normal

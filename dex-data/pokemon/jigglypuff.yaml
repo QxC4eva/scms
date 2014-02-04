@@ -11,36 +11,36 @@ pokemon:
     introduction: gs
     moves:
     - gs: [Attract, Charm, Curse, Defense Curl, Detect, Double Team, Dream Eater,
-        Endure, Faint Attack, Fire Blast, Flamethrower, Flash, Frustration, Headbutt,
+        Endure, Feint Attack, Fire Blast, Flamethrower, Flash, Frustration, Headbutt,
         Hidden Power, Icy Wind, Mud-Slap, Nightmare, Perish Song, Pound, Present,
         Protect, Psych Up, Psychic, Rain Dance, Rest, Return, Rollout, Shadow Ball,
-        Sing, Sleep Talk, Snore, Solarbeam, Sunny Day, Swagger, Sweet Kiss, Toxic,
+        Sing, Sleep Talk, Snore, Solar Beam, Sunny Day, Swagger, Sweet Kiss, Toxic,
         Zap Cannon]
     - bw: [Attract, Bounce, Captivate, Charm, Copycat, Covet, Defense Curl, Dig, Double
-          Team, Dream Eater, Echoed Voice, Endeavor, Facade, Faint Attack, Fake Tears,
+          Team, Dream Eater, Echoed Voice, Endeavor, Facade, Feint Attack, Fake Tears,
         Fire Blast, Flamethrower, Flash, Fling, Frustration, Grass Knot, Gravity,
         Heal Bell, Helping Hand, Hidden Power, Hyper Voice, Icy Wind, Incinerate,
         Last Resort, Light Screen, Magic Coat, Pain Split, Perish Song, Pound, Present,
         Protect, Psych Up, Psychic, Punishment, Rain Dance, Recycle, Reflect, Rest,
         Return, Role Play, Round, Safeguard, Shadow Ball, Sing, Sleep Talk, Snore,
-        Solarbeam, Substitute, Sunny Day, Swagger, Sweet Kiss, Thunder Wave, Toxic,
+        Solar Beam, Substitute, Sunny Day, Swagger, Sweet Kiss, Thunder Wave, Toxic,
         Uproar, Wild Charge, Wish, Work Up]
     - dp: [Attract, Bounce, Captivate, Charm, Copycat, Covet, Defense Curl, Dig, Double
-          Team, Dream Eater, Endeavor, Endure, Facade, Faint Attack, Fake Tears, Fire
+          Team, Dream Eater, Endeavor, Endure, Facade, Feint Attack, Fake Tears, Fire
           Blast, Flamethrower, Flash, Fling, Frustration, Grass Knot, Gravity, Headbutt,
         Heal Bell, Helping Hand, Hidden Power, Icy Wind, Last Resort, Light Screen,
         Magic Coat, Mud-Slap, Natural Gift, Pain Split, Perish Song, Pound, Present,
         Protect, Psych Up, Psychic, Rain Dance, Recycle, Reflect, Rest, Return, Role
           Play, Rollout, Safeguard, Secret Power, Shadow Ball, Shock Wave, Sing, Sleep
-          Talk, Snore, Solarbeam, Substitute, Sunny Day, Swagger, Sweet Kiss, Thunder
+          Talk, Snore, Solar Beam, Substitute, Sunny Day, Swagger, Sweet Kiss, Thunder
           Wave, Toxic, Uproar, Water Pulse, Wish]
     - rs: [Attract, Body Slam, Charm, Counter, Defense Curl, Dig, Double-Edge, Double
-          Team, Dream Eater, Endure, Facade, Faint Attack, Fake Tears, Fire Blast,
+          Team, Dream Eater, Endure, Facade, Feint Attack, Fake Tears, Fire Blast,
         Flamethrower, Flash, Frustration, Hidden Power, Icy Wind, Light Screen, Mega
           Kick, Mega Punch, Mimic, Mud-Slap, Nightmare, Perish Song, Pound, Present,
         Protect, Psych Up, Psychic, Rain Dance, Reflect, Rest, Return, Rollout, Safeguard,
         Secret Power, Seismic Toss, Shadow Ball, Shock Wave, Sing, Sleep Talk, Snore,
-        Solarbeam, Substitute, Sunny Day, Swagger, Sweet Kiss, Thunder Wave, Toxic,
+        Solar Beam, Substitute, Sunny Day, Swagger, Sweet Kiss, Thunder Wave, Toxic,
         Water Pulse, Wish]
     - xy: [Attract, Body Slam, Bounce, Captivate, Charm, Copycat, Counter, Covet,
         Defense Curl, Dig, Double-Edge, Double Team, Dream Eater, Echoed Voice, Endeavor,
@@ -74,23 +74,23 @@ pokemon:
     height: [0.5]
     introduction: rb
     moves:
-    - gs: [Blizzard, Body Slam, Disable, Double-Edge, Doubleslap, Dynamicpunch, Fire
-          Punch, Ice Beam, Ice Punch, Strength, Thunder, Thunderbolt, Thunderpunch]
-    - bw: [Blizzard, Body Slam, Brick Break, Charge Beam, Disable, Double-Edge, Doubleslap,
+    - gs: [Blizzard, Body Slam, Disable, Double-Edge, Double Slap, Dynamic Punch, Fire
+          Punch, Ice Beam, Ice Punch, Strength, Thunder, Thunderbolt, Thunder Punch]
+    - bw: [Blizzard, Body Slam, Brick Break, Charge Beam, Disable, Double-Edge, Double Slap,
         Drain Punch, Fire Punch, Gyro Ball, Ice Beam, Ice Punch, Knock Off, Mimic,
         Retaliate, Rollout, Snatch, Stealth Rock, Strength, Thunder, Thunderbolt,
-        Thunderpunch, Wake-Up Slap, Icy Wind, Nightmare, Seismic Toss]
-    - dp: [Blizzard, Body Slam, Brick Break, Charge Beam, Disable, Double-Edge, Doubleslap,
+        Thunder Punch, Wake-Up Slap, Icy Wind, Nightmare, Seismic Toss]
+    - dp: [Blizzard, Body Slam, Brick Break, Charge Beam, Disable, Double-Edge, Double Slap,
         Drain Punch, Fire Punch, Focus Punch, Gyro Ball, Hyper Voice, Ice Beam, Ice
           Punch, Knock Off, Mimic, Snatch, Stealth Rock, Strength, Thunder, Thunderbolt,
-        Thunderpunch, Wake-Up Slap, Icy Wind, Nightmare, Seismic Toss]
-    - rs: [Blizzard, Brick Break, Disable, Doubleslap, Dynamicpunch, Fire Punch, Focus
+        Thunder Punch, Wake-Up Slap, Icy Wind, Nightmare, Seismic Toss]
+    - rs: [Blizzard, Brick Break, Disable, Double Slap, Dynamic Punch, Fire Punch, Focus
           Punch, Hyper Voice, Ice Beam, Ice Punch, Snatch, Strength, Thunder, Thunderbolt,
-        Thunderpunch, Icy Wind, Nightmare, Seismic Toss]
-    - rb: [Bide, Blizzard, Body Slam, Bubblebeam, Counter, Defense Curl, Disable,
-        Double-Edge, Double Team, Doubleslap, Fire Blast, Flash, Ice Beam, Mega Kick,
+        Thunder Punch, Icy Wind, Nightmare, Seismic Toss]
+    - rb: [Bide, Blizzard, Body Slam, Bubble Beam, Counter, Defense Curl, Disable,
+        Double-Edge, Double Team, Double Slap, Fire Blast, Flash, Ice Beam, Mega Kick,
         Mega Punch, Mimic, Pound, Psychic, Psywave, Rage, Reflect, Rest, Seismic Toss,
-        Sing, Skull Bash, Solarbeam, Strength, Submission, Substitute, Take Down,
+        Sing, Skull Bash, Solar Beam, Strength, Submission, Substitute, Take Down,
         Teleport, Thunder, Thunder Wave, Thunderbolt, Toxic, Tri Attack, Water Gun]
     - xy: [Blizzard, Brick Break, Charge Beam, Disable, Double Slap, Drain Punch,
         Dynamic Punch, Fire Punch, Focus Punch, Gyro Ball, Ice Beam, Ice Punch, Knock

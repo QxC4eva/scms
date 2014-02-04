@@ -56,7 +56,7 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Attract, Bite, Blizzard, Bubble, Confusion, Curse, Defense Curl, Dig, Double
-          Team, Dynamicpunch, Endure, Flail, Foresight, Frustration, Haze, Headbutt,
+          Team, Dynamic Punch, Endure, Flail, Foresight, Frustration, Haze, Headbutt,
         Hidden Power, Hydro Pump, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Mirror
           Coat, Mist, Mud-Slap, Protect, Rain Dance, Rapid Spin, Rest, Return, Rock
           Smash, Rollout, Skull Bash, Sleep Talk, Snore, Strength, Surf, Swagger,
@@ -81,7 +81,7 @@ pokemon:
         Waterfall, Whirlpool, Withdraw, Yawn, Zen Headbutt, Body Slam, Double-Edge,
         Mimic, Seismic Toss]
     - rs: [Attract, Bite, Blizzard, Body Slam, Brick Break, Bubble, Counter, Defense
-          Curl, Dig, Dive, Double-Edge, Double Team, Dynamicpunch, Endure, Facade,
+          Curl, Dig, Dive, Double-Edge, Double Team, Dynamic Punch, Endure, Facade,
         Flail, Focus Punch, Foresight, Frustration, Hail, Haze, Hidden Power, Hydro
           Pump, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Mega Kick, Mega Punch, Mimic,
         Mirror Coat, Mist, Mud-Slap, Mud Sport, Protect, Rain Dance, Rapid Spin, Refresh,
@@ -89,7 +89,7 @@ pokemon:
         Sleep Talk, Snore, Strength, Substitute, Surf, Swagger, Tackle, Tail Whip,
         Toxic, Water Gun, Water Pulse, Waterfall, Withdraw, Yawn, Body Slam, Double-Edge,
         Mimic, Seismic Toss]
-    - rb: [Bide, Bite, Blizzard, Body Slam, Bubble, Bubblebeam, Counter, Dig, Double-Edge,
+    - rb: [Bide, Bite, Blizzard, Body Slam, Bubble, Bubble Beam, Counter, Dig, Double-Edge,
         Double Team, Hydro Pump, Ice Beam, Mega Kick, Mega Punch, Mimic, Rage, Reflect,
         Rest, Seismic Toss, Skull Bash, Strength, Submission, Substitute, Surf, Tackle,
         Tail Whip, Take Down, Toxic, Water Gun, Withdraw, Zap Cannon]

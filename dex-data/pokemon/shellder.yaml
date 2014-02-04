@@ -41,32 +41,32 @@ pokemon:
     height: [0.3]
     introduction: rb
     moves:
-    - gs: [Attract, Aurora Beam, Barrier, Blizzard, Bubblebeam, Clamp, Curse, Double
+    - gs: [Attract, Aurora Beam, Barrier, Blizzard, Bubble Beam, Clamp, Curse, Double
           Team, Endure, Frustration, Hidden Power, Ice Beam, Icy Wind, Leer, Protect,
         Rain Dance, Rapid Spin, Rest, Return, Screech, Sleep Talk, Snore, Supersonic,
         Surf, Swagger, Swift, Tackle, Take Down, Toxic, Whirlpool, Withdraw]
-    - bw: [Aqua Ring, Attract, Aurora Beam, Avalanche, Barrier, Blizzard, Brine, Bubblebeam,
+    - bw: [Aqua Ring, Attract, Aurora Beam, Avalanche, Barrier, Blizzard, Brine, Bubble Beam,
         Clamp, Dive, Double Team, Explosion, Facade, Frustration, Hail, Hidden Power,
         Hydro Pump, Ice Beam, Ice Shard, Icicle Spear, Icy Wind, Iron Defense, Leer,
         Mud Shot, Payback, Protect, Rain Dance, Rapid Spin, Razor Shell, Rest, Return,
         Rock Blast, Round, Screech, Shell Smash, Sleep Talk, Snore, Substitute, Supersonic,
         Surf, Swagger, Tackle, Take Down, Toxic, Twineedle, Water Pulse, Whirlpool,
-        Withdraw, Double-Edge, Icy Wind, Mimic, Refresh, Selfdestruct]
-    - dp: [Attract, Aurora Beam, Barrier, Blizzard, Brine, Bubblebeam, Captivate,
+        Withdraw, Double-Edge, Icy Wind, Mimic, Refresh, Self-Destruct]
+    - dp: [Attract, Aurora Beam, Barrier, Blizzard, Brine, Bubble Beam, Captivate,
         Clamp, Dive, Double Team, Endure, Explosion, Facade, Frustration, Hail, Hidden
           Power, Ice Beam, Ice Shard, Icicle Spear, Icy Wind, Iron Defense, Leer,
         Mud Shot, Natural Gift, Payback, Protect, Rain Dance, Rapid Spin, Rest, Return,
         Rock Blast, Screech, Secret Power, Sleep Talk, Snore, Substitute, Supersonic,
         Surf, Swagger, Swift, Tackle, Take Down, Toxic, Water Pulse, Whirlpool, Withdraw,
-        Double-Edge, Icy Wind, Mimic, Refresh, Selfdestruct]
-    - rs: [Attract, Aurora Beam, Barrier, Blizzard, Bubblebeam, Clamp, Dive, Double-Edge,
+        Double-Edge, Icy Wind, Mimic, Refresh, Self-Destruct]
+    - rs: [Attract, Aurora Beam, Barrier, Blizzard, Bubble Beam, Clamp, Dive, Double-Edge,
         Double Team, Endure, Explosion, Facade, Frustration, Hail, Hidden Power, Ice
           Beam, Icicle Spear, Icy Wind, Leer, Mimic, Protect, Rain Dance, Rapid Spin,
-        Rest, Return, Screech, Secret Power, Selfdestruct, Sleep Talk, Snore, Substitute,
+        Rest, Return, Screech, Secret Power, Self-Destruct, Sleep Talk, Snore, Substitute,
         Supersonic, Surf, Swagger, Swift, Tackle, Take Down, Toxic, Water Pulse, Withdraw,
-        Double-Edge, Icy Wind, Mimic, Refresh, Selfdestruct]
-    - rb: [Aurora Beam, Bide, Blizzard, Bubblebeam, Clamp, Double-Edge, Double Team,
-        Explosion, Ice Beam, Leer, Mimic, Rage, Reflect, Rest, Selfdestruct, Substitute,
+        Double-Edge, Icy Wind, Mimic, Refresh, Self-Destruct]
+    - rb: [Aurora Beam, Bide, Blizzard, Bubble Beam, Clamp, Double-Edge, Double Team,
+        Explosion, Ice Beam, Leer, Mimic, Rage, Reflect, Rest, Self-Destruct, Substitute,
         Supersonic, Surf, Swift, Tackle, Take Down, Teleport, Toxic, Tri Attack, Water
           Gun, Withdraw]
     - xy: [Aqua Ring, Attract, Aurora Beam, Avalanche, Barrier, Blizzard, Brine, Bubble

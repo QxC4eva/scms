@@ -41,27 +41,27 @@ pokemon:
     height: [0.6]
     introduction: rb
     moves:
-    - gs: [Blizzard, Doubleslap, Dynamicpunch, Fire Punch, Growl, Ice Beam, Ice Punch,
-        Light Screen, Minimize, Moonlight, Strength, Thunder, Thunderbolt, Thunderpunch]
+    - gs: [Blizzard, Double Slap, Dynamic Punch, Fire Punch, Growl, Ice Beam, Ice Punch,
+        Light Screen, Minimize, Moonlight, Strength, Thunder, Thunderbolt, Thunder Punch]
     - bw: [Bestow, Blizzard, Body Slam, Bounce, Brick Break, Calm Mind, Charge Beam,
-        Cosmic Power, Defense Curl, Doubleslap, Double-Edge, Drain Punch, Fire Punch,
+        Cosmic Power, Defense Curl, Double Slap, Double-Edge, Drain Punch, Fire Punch,
         Follow Me, Growl, Heal Bell, Healing Wish, Ice Beam, Ice Punch, Knock Off,
         Lucky Chant, Meteor Mash, Minimize, Moonlight, Nightmare, Retaliate, Rock
           Smash, Seismic Toss, Shock Wave, Snatch, Stealth Rock, Strength, Thunder,
-        Thunderbolt, Thunderpunch, Wake-Up Slap]
+        Thunderbolt, Thunder Punch, Wake-Up Slap]
     - dp: [Body Slam, Blizzard, Bounce, Brick Break, Calm Mind, Charge Beam, Cosmic
-          Power, Defense Curl, Doubleslap, Double-Edge, Drain Punch, Fire Punch, Focus
+          Power, Defense Curl, Double Slap, Double-Edge, Drain Punch, Fire Punch, Focus
           Punch, Follow Me, Growl, Heal Bell, Healing Wish, Ice Beam, Ice Punch, Knock
           Off, Lucky Chant, Meteor Mash, Minimize, Moonlight, Nightmare, Rock Smash,
         Seismic Toss, Shock Wave, Snatch, Stealth Rock, Strength, Thunder, Thunderbolt,
-        Thunderpunch, Wake-Up Slap]
-    - rs: [Blizzard, Brick Break, Calm Mind, Cosmic Power, Doubleslap, Dynamicpunch,
+        Thunder Punch, Wake-Up Slap]
+    - rs: [Blizzard, Brick Break, Calm Mind, Cosmic Power, Double Slap, Dynamic Punch,
         Fire Punch, Focus Punch, Follow Me, Growl, Ice Beam, Ice Punch, Meteor Mash,
-        Minimize, Moonlight, Shock Wave, Snatch, Strength, Thunder, Thunderbolt, Thunderpunch]
-    - rb: [Bide, Blizzard, Body Slam, Bubblebeam, Counter, Defense Curl, Double-Edge,
-        Double Team, Doubleslap, Fire Blast, Flash, Growl, Ice Beam, Light Screen,
+        Minimize, Moonlight, Shock Wave, Snatch, Strength, Thunder, Thunderbolt, Thunder Punch]
+    - rb: [Bide, Blizzard, Body Slam, Bubble Beam, Counter, Defense Curl, Double-Edge,
+        Double Team, Double Slap, Fire Blast, Flash, Growl, Ice Beam, Light Screen,
         Mega Kick, Mega Punch, Metronome, Mimic, Minimize, Pound, Psychic, Psywave,
-        Rage, Reflect, Rest, Seismic Toss, Sing, Skull Bash, Solarbeam, Strength,
+        Rage, Reflect, Rest, Seismic Toss, Sing, Skull Bash, Solar Beam, Strength,
         Submission, Substitute, Take Down, Teleport, Thunder, Thunder Wave, Thunderbolt,
         Toxic, Tri Attack, Water Gun, Dizzy Punch, Scary Face, Swift, Petal Dance]
     - xy: [Bestow, Blizzard, Bounce, Brick Break, Calm Mind, Charge Beam, Cosmic Power,
@@ -94,7 +94,7 @@ pokemon:
           Team, Dream Eater, Encore, Endure, Fire Blast, Flamethrower, Flash, Frustration,
         Headbutt, Hidden Power, Icy Wind, Iron Tail, Metronome, Mimic, Mud-Slap, Nightmare,
         Pound, Present, Protect, Psych Up, Psychic, Rain Dance, Rest, Return, Rollout,
-        Shadow Ball, Sing, Sleep Talk, Snore, Solarbeam, Splash, Sunny Day, Swagger,
+        Shadow Ball, Sing, Sleep Talk, Snore, Solar Beam, Splash, Sunny Day, Swagger,
         Sweet Kiss, Toxic, Zap Cannon, Dizzy Punch, Scary Face, Swift, Petal Dance]
     - bw: [After You, Amnesia, Aromatherapy, Attract, Belly Drum, Charm, Copycat,
         Covet, Dig, Double Team, Dream Eater, Echoed Voice, Encore, Endeavor, Facade,
@@ -103,7 +103,7 @@ pokemon:
           Tail, Last Resort, Light Screen, Magic Coat, Magical Leaf, Metronome, Mimic,
         Pound, Present, Protect, Psych Up, Psychic, Psyshock, Rain Dance, Recycle,
         Reflect, Rest, Return, Role Play, Round, Safeguard, Shadow Ball, Signal Beam,
-        Sing, Sleep Talk, Snore, Solarbeam, Splash, Stored Power, Substitute, Sunny
+        Sing, Sleep Talk, Snore, Solar Beam, Splash, Stored Power, Substitute, Sunny
           Day, Swagger, Sweet Kiss, Telekinesis, Thunder Wave, Tickle, Toxic, Trick,
         Uproar, Wish, Wonder Room, Work Up, Zen Headbutt]
     - dp: [Amnesia, Aromatherapy, Attract, Belly Drum, Captivate, Charm, Copycat,
@@ -113,7 +113,7 @@ pokemon:
         Light Screen, Magic Coat, Magical Leaf, Metronome, Mimic, Mud-Slap, Natural
           Gift, Pound, Present, Protect, Psych Up, Psychic, Rain Dance, Recycle, Reflect,
         Rest, Return, Role Play, Rollout, Safeguard, Secret Power, Shadow Ball, Shock
-          Wave, Signal Beam, Sing, Sleep Talk, Snore, Solarbeam, Splash, Substitute,
+          Wave, Signal Beam, Sing, Sleep Talk, Snore, Solar Beam, Splash, Substitute,
         Sunny Day, Swagger, Sweet Kiss, Thunder Wave, Toxic, Trick, Uproar, Water
           Pulse, Wish, Zen Headbutt]
     - rs: [Amnesia, Attract, Belly Drum, Body Slam, Charm, Counter, Defense Curl,
@@ -122,7 +122,7 @@ pokemon:
           Screen, Magical Leaf, Mega Kick, Mega Punch, Metronome, Mimic, Mud-Slap,
         Nightmare, Pound, Present, Protect, Psych Up, Psychic, Rain Dance, Reflect,
         Rest, Return, Rollout, Safeguard, Secret Power, Seismic Toss, Shadow Ball,
-        Shock Wave, Sing, Sleep Talk, Snore, Softboiled, Solarbeam, Splash, Substitute,
+        Shock Wave, Sing, Sleep Talk, Snore, Softboiled, Solar Beam, Splash, Substitute,
         Sunny Day, Swagger, Sweet Kiss, Thunder Wave, Toxic, Water Pulse, Wish]
     - xy: [Amnesia, Aromatherapy, Attract, Belly Drum, Body Slam, Captivate, Charm,
         Copycat, Counter, Covet, Defense Curl, Dig, Double-Edge, Double Team, Dream

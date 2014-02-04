@@ -10,21 +10,21 @@ pokemon:
     height: [0.5]
     introduction: gs
     moves:
-    - gs: [Attract, Blizzard, Bubblebeam, Curse, Defense Curl, Double Team, Endure,
+    - gs: [Attract, Blizzard, Bubble Beam, Curse, Defense Curl, Double Team, Endure,
         Flail, Frustration, Harden, Haze, Headbutt, Hidden Power, Hydro Pump, Ice
           Beam, Icy Wind, Minimize, Pin Missile, Poison Sting, Protect, Rain Dance,
         Rest, Return, Rollout, Sleep Talk, Sludge Bomb, Snore, Spikes, Supersonic,
         Surf, Swagger, Swift, Tackle, Take Down, Toxic, Water Gun, Waterfall, Whirlpool]
     - bw: [Acid Spray, Aqua Jet, Aqua Tail, Astonish, Attract, Blizzard, Bounce, Brine,
-        Bubblebeam, Destiny Bond, Dive, Double Team, Explosion, Facade, Flail, Frustration,
+        Bubble Beam, Destiny Bond, Dive, Double Team, Explosion, Facade, Flail, Frustration,
         Gyro Ball, Hail, Harden, Haze, Hidden Power, Hydro Pump, Ice Beam, Icy Wind,
         Minimize, Pain Split, Payback, Pin Missile, Poison Jab, Poison Sting, Protect,
         Rain Dance, Rest, Return, Revenge, Rollout, Round, Scald, Shadow Ball, Signal
           Beam, Sleep Talk, Sludge Bomb, Sludge Wave, Snore, Spikes, Spit Up, Stockpile,
         Substitute, Supersonic, Surf, Swagger, Tackle, Take Down, Taunt, Thunder Wave,
         Toxic, Toxic Spikes, Venoshock, Water Gun, Water Pulse, Waterfall, Double-Edge,
-        Icy Wind, Mimic, Selfdestruct]
-    - dp: [Aqua Jet, Aqua Tail, Astonish, Attract, Blizzard, Bounce, Brine, Bubblebeam,
+        Icy Wind, Mimic, Self-Destruct]
+    - dp: [Aqua Jet, Aqua Tail, Astonish, Attract, Blizzard, Bounce, Brine, Bubble Beam,
         Captivate, Destiny Bond, Dive, Double Team, Endure, Explosion, Facade, Flail,
         Frustration, Gyro Ball, Hail, Harden, Haze, Headbutt, Hidden Power, Hydro
           Pump, Ice Beam, Icy Wind, Minimize, Natural Gift, Pain Split, Payback, Pin
@@ -32,15 +32,15 @@ pokemon:
         Rollout, Secret Power, Shadow Ball, Shock Wave, Signal Beam, Sleep Talk, Sludge
           Bomb, Snore, Spikes, Spit Up, Stockpile, Substitute, Supersonic, Surf, Swagger,
         Swift, Tackle, Take Down, Taunt, Thunder Wave, Toxic, Toxic Spikes, Water
-          Gun, Water Pulse, Waterfall, Whirlpool, Double-Edge, Icy Wind, Mimic, Selfdestruct]
-    - rs: [Astonish, Attract, Blizzard, Bubblebeam, Defense Curl, Destiny Bond, Dive,
+          Gun, Water Pulse, Waterfall, Whirlpool, Double-Edge, Icy Wind, Mimic, Self-Destruct]
+    - rs: [Astonish, Attract, Blizzard, Bubble Beam, Defense Curl, Destiny Bond, Dive,
         Double-Edge, Double Team, Endure, Facade, Flail, Frustration, Hail, Harden,
         Haze, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Mimic, Minimize, Pin Missile,
         Poison Sting, Protect, Rain Dance, Rest, Return, Revenge, Rollout, Secret
-          Power, Selfdestruct, Shadow Ball, Shock Wave, Sleep Talk, Sludge Bomb, Snore,
+          Power, Self-Destruct, Shadow Ball, Shock Wave, Sleep Talk, Sludge Bomb, Snore,
         Spikes, Substitute, Supersonic, Surf, Swagger, Swift, Swords Dance, Tackle,
         Take Down, Thunder Wave, Toxic, Water Gun, Water Pulse, Waterfall, Double-Edge,
-        Icy Wind, Mimic, Selfdestruct]
+        Icy Wind, Mimic, Self-Destruct]
     - xy: [Acid Spray, Aqua Jet, Aqua Tail, Astonish, Attract, Blizzard, Bounce, Brine,
         Bubble Beam, Captivate, Defense Curl, Destiny Bond, Dive, Double-Edge, Double
           Team, Endure, Explosion, Facade, Flail, Frustration, Gyro Ball, Hail, Harden,

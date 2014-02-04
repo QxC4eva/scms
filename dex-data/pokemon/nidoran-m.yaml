@@ -11,25 +11,25 @@ pokemon:
     height: [1.4]
     introduction: rb
     moves:
-    - gs: [Dynamicpunch, Earthquake, Fire Blast, Fire Punch, Flamethrower, Fury Cutter,
+    - gs: [Dynamic Punch, Earthquake, Fire Blast, Fire Punch, Flamethrower, Fury Cutter,
         Hyper Beam, Ice Punch, Icy Wind, Roar, Sandstorm, Shadow Ball, Surf, Thrash,
-        Thunderpunch]
+        Thunder Punch]
     - bw: [Aqua Tail, Brick Break, Bulldoze, Dragon Pulse, Dragon Tail, Earth Power,
         Earthquake, Fire Blast, Fire Punch, Flamethrower, Fling, Focus Blast, Giga
           Impact, Hyper Beam, Ice Punch, Icy Wind, Incinerate, Megahorn, Outrage,
         Quash, Roar, Rock Slide, Rock Tomb, Sandstorm, Shadow Ball, Sludge Wave, Smack
-          Down, Stealth Rock, Stone Edge, Superpower, Surf, Taunt, Thrash, Thunderpunch,
+          Down, Stealth Rock, Stone Edge, Superpower, Surf, Taunt, Thrash, Thunder Punch,
         Torment, Uproar, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
     - dp: [Aqua Tail, Avalanche, Brick Break, Dragon Pulse, Earth Power, Earthquake,
         Fire Blast, Fire Punch, Flamethrower, Fling, Focus Blast, Focus Punch, Fury
           Cutter, Giga Impact, Hyper Beam, Ice Punch, Icy Wind, Megahorn, Outrage,
         Roar, Rock Climb, Rock Slide, Rock Tomb, Sandstorm, Shadow Ball, Stealth Rock,
-        Stone Edge, Superpower, Surf, Taunt, Thrash, Thunderpunch, Torment, Uproar,
+        Stone Edge, Superpower, Surf, Taunt, Thrash, Thunder Punch, Torment, Uproar,
         Whirlpool, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
-    - rs: [Brick Break, Dynamicpunch, Earthquake, Fire Blast, Fire Punch, Flamethrower,
+    - rs: [Brick Break, Dynamic Punch, Earthquake, Fire Blast, Fire Punch, Flamethrower,
         Focus Punch, Fury Cutter, Hyper Beam, Ice Punch, Icy Wind, Mega Kick, Mega
           Punch, Megahorn, Roar, Rock Slide, Rock Tomb, Sandstorm, Seismic Toss, Shadow
-          Ball, Surf, Taunt, Thrash, Thunderpunch, Torment]
+          Ball, Surf, Taunt, Thrash, Thunder Punch, Torment]
     - rb: [Counter, Earthquake, Fire Blast, Fissure, Hyper Beam, Mega Kick, Mega Punch,
         Pay Day, Rock Slide, Seismic Toss, Strength, Submission, Surf, Thrash, Body
           Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
@@ -131,7 +131,7 @@ pokemon:
     - bw: [Body Slam, Double-Edge, Mimic]
     - dp: [Body Slam, Double-Edge, Mimic]
     - rs: []
-    - rb: [Bubblebeam, Ice Beam, Water Gun, Body Slam, Double-Edge, Mimic]
+    - rb: [Bubble Beam, Ice Beam, Water Gun, Body Slam, Double-Edge, Mimic]
     - xy: []
     stats:
     - [61, 72, 57, 55, 55, 65]

@@ -12,10 +12,10 @@ pokemon:
     introduction: rs
     moves:
     - bw: [Eruption, Explosion, Fissure, Flash Cannon, Giga Impact, Hyper Beam, Roar,
-        Rock Polish, Solarbeam, Stone Edge]
+        Rock Polish, Solar Beam, Stone Edge]
     - dp: [Eruption, Explosion, Fissure, Flash Cannon, Giga Impact, Hyper Beam, Iron
-          Head, Roar, Rock Polish, Solarbeam, Stone Edge]
-    - rs: [Eruption, Explosion, Fissure, Hyper Beam, Roar, Selfdestruct]
+          Head, Roar, Rock Polish, Solar Beam, Stone Edge]
+    - rs: [Eruption, Explosion, Fissure, Hyper Beam, Roar, Self-Destruct]
     - xy: [Eruption, Explosion, Fissure, Flash Cannon, Giga Impact, Hyper Beam, Roar,
         Rock Polish, Self-Destruct, Solar Beam, Stone Edge]
     stats:
@@ -37,7 +37,7 @@ pokemon:
     height: [0.7]
     introduction: rs
     moves:
-    - bw: [After You, Amnesia, Ancientpower, Attract, Body Slam, Bulldoze, Curse,
+    - bw: [After You, Amnesia, Ancient Power, Attract, Body Slam, Bulldoze, Curse,
         Defense Curl, Dig, Double-Edge, Double Team, Earth Power, Earthquake, Echoed
           Voice, Ember, Endure, Facade, Fire Blast, Flame Burst, Flame Charge, Flamethrower,
         Focus Energy, Frustration, Growl, Heat Wave, Hidden Power, Howl, Incinerate,
@@ -46,7 +46,7 @@ pokemon:
         Sleep Talk, Snore, Spit Up, Stealth Rock, Stockpile, Stomp, Strength, Substitute,
         Sunny Day, Swagger, Swallow, Tackle, Take Down, Toxic, Will-O-Wisp, Yawn,
         Charm, Mimic]
-    - dp: [Amnesia, Ancientpower, Attract, Body Slam, Captivate, Defense Curl, Dig,
+    - dp: [Amnesia, Ancient Power, Attract, Body Slam, Captivate, Defense Curl, Dig,
         Double-Edge, Double Team, Earth Power, Earthquake, Ember, Endure, Facade,
         Fire Blast, Flamethrower, Focus Energy, Frustration, Growl, Headbutt, Heat
           Wave, Hidden Power, Howl, Lava Plume, Magnitude, Mud Bomb, Mud-Slap, Natural

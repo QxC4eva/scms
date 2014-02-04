@@ -9,13 +9,13 @@ pokemon:
     height: [0.9]
     introduction: rb
     moves:
-    - gs: [Acid, Attract, Aurora Beam, Barrier, Blizzard, Bubblebeam, Constrict, Curse,
+    - gs: [Acid, Attract, Aurora Beam, Barrier, Blizzard, Bubble Beam, Constrict, Curse,
         Cut, Double Team, Endure, Frustration, Giga Drain, Haze, Hidden Power, Hydro
           Pump, Ice Beam, Icy Wind, Mirror Coat, Poison Sting, Protect, Rain Dance,
         Rapid Spin, Rest, Return, Safeguard, Screech, Sleep Talk, Sludge Bomb, Snore,
         Supersonic, Surf, Swagger, Toxic, Whirlpool, Wrap, Confuse Ray]
     - bw: [Acid, Acid Spray, Acupressure, Aqua Ring, Attract, Aurora Beam, Barrier,
-        Bind, Blizzard, Bubble, Bubblebeam, Confuse Ray, Constrict, Cut, Dive, Double
+        Bind, Blizzard, Bubble, Bubble Beam, Confuse Ray, Constrict, Cut, Dive, Double
           Team, Facade, Frustration, Giga Drain, Hail, Haze, Hex, Hidden Power, Hydro
           Pump, Ice Beam, Icy Wind, Knock Off, Magic Coat, Mirror Coat, Muddy Water,
         Payback, Poison Jab, Poison Sting, Protect, Rain Dance, Rapid Spin, Rest,
@@ -23,7 +23,7 @@ pokemon:
           Wave, Snore, Substitute, Supersonic, Surf, Swagger, Swords Dance, Thief,
         Tickle, Toxic, Toxic Spikes, Venoshock, Water Pulse, Waterfall, Wrap, Wring
           Out, Double-Edge, Icy Wind, Mimic]
-    - dp: [Acid, Acupressure, Attract, Aurora Beam, Barrier, Blizzard, Brine, Bubblebeam,
+    - dp: [Acid, Acupressure, Attract, Aurora Beam, Barrier, Blizzard, Brine, Bubble Beam,
         Captivate, Confuse Ray, Constrict, Cut, Dive, Double Team, Endure, Facade,
         Frustration, Giga Drain, Hail, Haze, Hidden Power, Hydro Pump, Ice Beam, Icy
           Wind, Knock Off, Magic Coat, Mirror Coat, Muddy Water, Natural Gift, Payback,
@@ -31,14 +31,14 @@ pokemon:
         Screech, Secret Power, Sleep Talk, Sludge Bomb, Snore, Substitute, Supersonic,
         Surf, Swagger, Swords Dance, Thief, Toxic, Toxic Spikes, Water Pulse, Waterfall,
         Whirlpool, Wrap, Wring Out, Double-Edge, Icy Wind, Mimic]
-    - rs: [Acid, Attract, Aurora Beam, Barrier, Blizzard, Bubblebeam, Confuse Ray,
+    - rs: [Acid, Attract, Aurora Beam, Barrier, Blizzard, Bubble Beam, Confuse Ray,
         Constrict, Cut, Dive, Double-Edge, Double Team, Endure, Facade, Frustration,
         Giga Drain, Hail, Haze, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Mimic,
         Mirror Coat, Poison Sting, Protect, Rain Dance, Rapid Spin, Rest, Return,
         Safeguard, Screech, Secret Power, Sleep Talk, Sludge Bomb, Snore, Substitute,
         Supersonic, Surf, Swagger, Swords Dance, Thief, Toxic, Water Pulse, Waterfall,
         Wrap, Double-Edge, Icy Wind, Mimic]
-    - rb: [Acid, Barrier, Bide, Blizzard, Bubblebeam, Constrict, Cut, Double-Edge,
+    - rb: [Acid, Barrier, Bide, Blizzard, Bubble Beam, Constrict, Cut, Double-Edge,
         Double Team, Hydro Pump, Ice Beam, Mega Drain, Mimic, Poison Sting, Rage,
         Reflect, Rest, Screech, Skull Bash, Substitute, Supersonic, Surf, Swords Dance,
         Take Down, Toxic, Water Gun, Wrap, Confuse Ray]

@@ -11,18 +11,18 @@ pokemon:
     height: [1.4]
     introduction: rb
     moves:
-    - gs: [Body Slam, Doubleslap, Headbutt, Hyper Beam]
-    - bw: [Body Slam, Brick Break, Doubleslap, Drain Punch, Energy Ball, Focus Blast,
+    - gs: [Body Slam, Double Slap, Headbutt, Hyper Beam]
+    - bw: [Body Slam, Brick Break, Double Slap, Drain Punch, Energy Ball, Focus Blast,
         Giga Impact, Hyper Beam, Hyper Voice, Lovely Kiss, Taunt, Telekinesis, Torment,
         Wring Out, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss]
-    - dp: [Body Slam, Brick Break, Doubleslap, Drain Punch, Energy Ball, Focus Blast,
+    - dp: [Body Slam, Brick Break, Double Slap, Drain Punch, Energy Ball, Focus Blast,
         Focus Punch, Giga Impact, Headbutt, Hyper Beam, Lovely Kiss, Taunt, Torment,
         Wake-Up Slap, Wring Out, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic
           Toss]
-    - rs: [Brick Break, Doubleslap, Focus Punch, Hyper Beam, Lovely Kiss, Taunt, Torment,
+    - rs: [Brick Break, Double Slap, Focus Punch, Hyper Beam, Lovely Kiss, Taunt, Torment,
         Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss]
-    - rb: [Bide, Blizzard, Body Slam, Bubblebeam, Counter, Double-Edge, Double Team,
-        Doubleslap, Hyper Beam, Ice Beam, Ice Punch, Lick, Lovely Kiss, Mega Kick,
+    - rb: [Bide, Blizzard, Body Slam, Bubble Beam, Counter, Double-Edge, Double Team,
+        Double Slap, Hyper Beam, Ice Beam, Ice Punch, Lick, Lovely Kiss, Mega Kick,
         Mega Punch, Metronome, Mimic, Pound, Psychic, Psywave, Rage, Reflect, Rest,
         Seismic Toss, Skull Bash, Submission, Substitute, Take Down, Teleport, Thrash,
         Toxic, Water Gun]
@@ -50,7 +50,7 @@ pokemon:
     height: [0.4]
     introduction: gs
     moves:
-    - gs: [Attract, Blizzard, Confusion, Curse, Double Team, Dream Eater, Dynamicpunch,
+    - gs: [Attract, Blizzard, Confusion, Curse, Double Team, Dream Eater, Dynamic Punch,
         Endure, Frustration, Hidden Power, Ice Beam, Ice Punch, Icy Wind, Lick, Lovely
           Kiss, Mean Look, Meditate, Mud-Slap, Nightmare, Perish Song, Pound, Powder
           Snow, Protect, Psych Up, Psychic, Rain Dance, Rest, Return, Shadow Ball,
@@ -77,7 +77,7 @@ pokemon:
         Toxic, Trick, Trick Room, Uproar, Water Pulse, Wish, Zen Headbutt, Body Slam,
         Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss, Substitute]
     - rs: [Attract, Blizzard, Body Slam, Calm Mind, Confusion, Counter, Double-Edge,
-        Double Team, Dream Eater, Dynamicpunch, Endure, Facade, Fake Out, Fake Tears,
+        Double Team, Dream Eater, Dynamic Punch, Endure, Facade, Fake Out, Fake Tears,
         Flash, Frustration, Hail, Hidden Power, Ice Beam, Ice Punch, Icy Wind, Lick,
         Light Screen, Mean Look, Meditate, Mega Kick, Mega Punch, Metronome, Mimic,
         Mud-Slap, Nightmare, Perish Song, Pound, Powder Snow, Protect, Psych Up, Psychic,

@@ -10,34 +10,34 @@ pokemon:
     introduction: gs
     moves:
     - gs: [Attract, Barrier, Confuse Ray, Cross Chop, Curse, Detect, Double Team,
-        Dynamicpunch, Ember, Endure, Fire Blast, Fire Punch, Flamethrower, Frustration,
+        Dynamic Punch, Ember, Endure, Fire Blast, Fire Punch, Flamethrower, Frustration,
         Headbutt, Hidden Power, Iron Tail, Karate Chop, Leer, Mega Punch, Mud-Slap,
         Protect, Psychic, Rest, Return, Screech, Sleep Talk, Smog, Smokescreen, Snore,
-        Sunny Day, Swagger, Thief, Thunderpunch, Toxic]
+        Sunny Day, Swagger, Thief, Thunder Punch, Toxic]
     - bw: [Attract, Barrier, Belly Drum, Brick Break, Clear Smog, Confuse Ray, Covet,
-        Cross Chop, Double Team, Dual Chop, Dynamicpunch, Ember, Facade, Faint Attack,
+        Cross Chop, Double Team, Dual Chop, Dynamic Punch, Ember, Facade, Feint Attack,
         Fire Blast, Fire Punch, Fire Spin, Flame Burst, Flame Charge, Flamethrower,
         Flare Blitz, Fling, Focus Energy, Frustration, Heat Wave, Helping Hand, Hidden
           Power, Incinerate, Iron Tail, Karate Chop, Lava Plume, Leer, Mach Punch,
         Mega Punch, Overheat, Protect, Psychic, Rest, Return, Rock Smash, Round, Screech,
         Sleep Talk, Smog, Smokescreen, Snore, Substitute, Sunny Day, Swagger, Thief,
-        Thunderpunch, Toxic, Uproar, Will-O-Wisp, Body Slam, Double-Edge, Mimic, Seismic
+        Thunder Punch, Toxic, Uproar, Will-O-Wisp, Body Slam, Double-Edge, Mimic, Seismic
           Toss]
     - dp: [Attract, Barrier, Belly Drum, Brick Break, Captivate, Confuse Ray, Cross
-          Chop, Double Team, Dynamicpunch, Ember, Endure, Facade, Faint Attack, Fire
+          Chop, Double Team, Dynamic Punch, Ember, Endure, Facade, Feint Attack, Fire
           Blast, Fire Punch, Fire Spin, Flamethrower, Flare Blitz, Fling, Focus Punch,
         Frustration, Headbutt, Heat Wave, Helping Hand, Hidden Power, Iron Tail, Karate
           Chop, Lava Plume, Leer, Mach Punch, Mega Punch, Mud-Slap, Natural Gift,
         Overheat, Protect, Psychic, Rest, Return, Rock Smash, Screech, Secret Power,
         Sleep Talk, Smog, Smokescreen, Snore, Substitute, Sunny Day, Swagger, Thief,
-        Thunderpunch, Toxic, Uproar, Will-O-Wisp, Body Slam, Double-Edge, Mimic, Seismic
+        Thunder Punch, Toxic, Uproar, Will-O-Wisp, Body Slam, Double-Edge, Mimic, Seismic
           Toss]
     - rs: [Attract, Barrier, Body Slam, Brick Break, Confuse Ray, Counter, Cross Chop,
-        Double-Edge, Double Team, Dynamicpunch, Ember, Endure, Facade, Fire Blast,
+        Double-Edge, Double Team, Dynamic Punch, Ember, Endure, Facade, Fire Blast,
         Fire Punch, Flamethrower, Focus Punch, Frustration, Hidden Power, Iron Tail,
         Karate Chop, Leer, Mega Kick, Mega Punch, Mimic, Mud-Slap, Protect, Psychic,
         Rest, Return, Rock Smash, Screech, Secret Power, Seismic Toss, Sleep Talk,
-        Smog, Smokescreen, Snore, Substitute, Sunny Day, Swagger, Thief, Thunderpunch,
+        Smog, Smokescreen, Snore, Substitute, Sunny Day, Swagger, Thief, Thunder Punch,
         Toxic, Body Slam, Double-Edge, Mimic, Seismic Toss]
     - xy: [Attract, Barrier, Belly Drum, Body Slam, Brick Break, Captivate, Clear
           Smog, Confuse Ray, Counter, Cross Chop, Double-Edge, Double Team, Dynamic
@@ -102,9 +102,9 @@ pokemon:
     height: [1.6]
     introduction: dp
     moves:
-    - bw: [Bulldoze, Earthquake, Rock Slide, Rock Tomb, Solarbeam, Taunt, Thunderbolt,
+    - bw: [Bulldoze, Earthquake, Rock Slide, Rock Tomb, Solar Beam, Taunt, Thunderbolt,
         Torment]
-    - dp: [Earthquake, Rock Slide, Rock Tomb, Solarbeam, Taunt, Thunderbolt, Torment]
+    - dp: [Earthquake, Rock Slide, Rock Tomb, Solar Beam, Taunt, Thunderbolt, Torment]
     - xy: [Bulldoze, Earthquake, Rock Slide, Rock Tomb, Solar Beam, Taunt, Thunderbolt,
         Torment]
     stats:

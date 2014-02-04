@@ -21,9 +21,9 @@ pokemon:
           Shade, Nightmare, Pain Split, Payback, Perish Song, Protect, Psych Up, Psychic,
         Psywave, Rain Dance, Rest, Return, Round, Scary Face, Shadow Ball, Skill Swap,
         Sleep Talk, Sludge Bomb, Smog, Snatch, Snore, Spite, Substitute, Sucker Punch,
-        Sunny Day, Swagger, Taunt, Telekinesis, Thief, Thunderbolt, Thunderpunch,
+        Sunny Day, Swagger, Taunt, Telekinesis, Thief, Thunderbolt, Thunder Punch,
         Torment, Toxic, Trick, Trick Room, Uproar, Venoshock, Will-O-Wisp, Wonder
-          Room, Double-Edge, Mimic, Selfdestruct]
+          Room, Double-Edge, Mimic, Self-Destruct]
     - dp: [Astonish, Attract, Captivate, Confuse Ray, Curse, Dark Pulse, Destiny Bond,
         Disable, Double Team, Dream Eater, Embargo, Endure, Energy Ball, Explosion,
         Facade, Fire Punch, Frustration, Giga Drain, Grudge, Haze, Hidden Power, Hypnosis,
@@ -31,17 +31,17 @@ pokemon:
         Nightmare, Ominous Wind, Pain Split, Payback, Perish Song, Protect, Psych
           Up, Psychic, Psywave, Rain Dance, Rest, Return, Secret Power, Shadow Ball,
         Skill Swap, Sleep Talk, Sludge Bomb, Snatch, Snore, Spite, Substitute, Sucker
-          Punch, Sunny Day, Swagger, Taunt, Thief, Thunderbolt, Thunderpunch, Torment,
-        Toxic, Trick, Trick Room, Uproar, Will-O-Wisp, Double-Edge, Mimic, Selfdestruct]
+          Punch, Sunny Day, Swagger, Taunt, Thief, Thunderbolt, Thunder Punch, Torment,
+        Toxic, Trick, Trick Room, Uproar, Will-O-Wisp, Double-Edge, Mimic, Self-Destruct]
     - rs: [Astonish, Attract, Confuse Ray, Curse, Destiny Bond, Double Team, Dream
           Eater, Endure, Explosion, Facade, Frustration, Giga Drain, Grudge, Haze,
         Hidden Power, Hypnosis, Lick, Mean Look, Mimic, Night Shade, Nightmare, Perish
           Song, Protect, Psych Up, Psychic, Psywave, Rain Dance, Rest, Return, Secret
-          Power, Selfdestruct, Shadow Ball, Skill Swap, Sleep Talk, Sludge Bomb, Snatch,
+          Power, Self-Destruct, Shadow Ball, Skill Swap, Sleep Talk, Sludge Bomb, Snatch,
         Snore, Spite, Substitute, Sunny Day, Swagger, Taunt, Thief, Thunderbolt, Torment,
-        Toxic, Will-O-Wisp, Double-Edge, Mimic, Selfdestruct]
+        Toxic, Will-O-Wisp, Double-Edge, Mimic, Self-Destruct]
     - rb: [Bide, Confuse Ray, Double Team, Dream Eater, Explosion, Hypnosis, Lick,
-        Mega Drain, Mimic, Night Shade, Psychic, Psywave, Rage, Rest, Selfdestruct,
+        Mega Drain, Mimic, Night Shade, Psychic, Psywave, Rage, Rest, Self-Destruct,
         Substitute, Thunder, Thunderbolt, Toxic]
     - xy: [Astonish, Attract, Captivate, Clear Smog, Confuse Ray, Curse, Dark Pulse,
         Destiny Bond, Disable, Double Team, Dream Eater, Embargo, Endure, Energy Ball,
@@ -73,18 +73,18 @@ pokemon:
     height: [1.5]
     introduction: rb
     moves:
-    - gs: [Dynamicpunch, Fire Punch, Headbutt, Hyper Beam, Ice Punch, Rock Smash,
-        Strength, Thunderpunch]
+    - gs: [Dynamic Punch, Fire Punch, Headbutt, Hyper Beam, Ice Punch, Rock Smash,
+        Strength, Thunder Punch]
     - bw: [Brick Break, Drain Punch, Focus Blast, Giga Impact, Hyper Beam, Rock Smash,
         Role Play, Strength, Thunder, Body Slam, Double-Edge, Mimic, Seismic Toss,
-        Selfdestruct]
+        Self-Destruct]
     - dp: [Brick Break, Drain Punch, Focus Blast, Focus Punch, Giga Impact, Headbutt,
         Hyper Beam, Rock Smash, Role Play, Strength, Thunder, Body Slam, Double-Edge,
-        Mimic, Seismic Toss, Selfdestruct]
-    - rs: [Body Slam, Brick Break, Counter, Double-Edge, Dynamicpunch, Fire Punch,
+        Mimic, Seismic Toss, Self-Destruct]
+    - rs: [Body Slam, Brick Break, Counter, Double-Edge, Dynamic Punch, Fire Punch,
         Focus Punch, Hyper Beam, Ice Punch, Mega Kick, Mega Punch, Metronome, Rock
-          Smash, Seismic Toss, Strength, Thunder, Thunderpunch, Body Slam, Double-Edge,
-        Mimic, Seismic Toss, Selfdestruct]
+          Smash, Seismic Toss, Strength, Thunder, Thunder Punch, Body Slam, Double-Edge,
+        Mimic, Seismic Toss, Self-Destruct]
     - rb: [Body Slam, Counter, Double-Edge, Hyper Beam, Mega Kick, Mega Punch, Metronome,
         Seismic Toss, Skull Bash, Strength, Submission, Take Down]
     - xy: [Body Slam, Brick Break, Counter, Double-Edge, Drain Punch, Dynamic Punch,
@@ -127,9 +127,9 @@ pokemon:
     height: [1.6]
     introduction: rb
     moves:
-    - bw: [Fling, Poison Jab, Shadow Claw, Shadow Punch, Double-Edge, Mimic, Selfdestruct]
-    - dp: [Fling, Poison Jab, Shadow Claw, Shadow Punch, Double-Edge, Mimic, Selfdestruct]
-    - rs: [Shadow Punch, Double-Edge, Mimic, Selfdestruct]
+    - bw: [Fling, Poison Jab, Shadow Claw, Shadow Punch, Double-Edge, Mimic, Self-Destruct]
+    - dp: [Fling, Poison Jab, Shadow Claw, Shadow Punch, Double-Edge, Mimic, Self-Destruct]
+    - rs: [Shadow Punch, Double-Edge, Mimic, Self-Destruct]
     - xy: [Fling, Poison Jab, Shadow Claw, Shadow Punch]
     - []
     stats:

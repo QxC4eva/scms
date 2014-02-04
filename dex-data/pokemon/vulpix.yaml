@@ -12,8 +12,8 @@ pokemon:
     moves:
     - gs: [Hyper Beam]
     - bw: [Calm Mind, Dream Eater, Giga Impact, Hyper Beam, Nasty Plot, Psyshock,
-        Solarbeam, Body Slam, Double-Edge, Mimic]
-    - dp: [Calm Mind, Dream Eater, Giga Impact, Hyper Beam, Nasty Plot, Solarbeam,
+        Solar Beam, Body Slam, Double-Edge, Mimic]
+    - dp: [Calm Mind, Dream Eater, Giga Impact, Hyper Beam, Nasty Plot, Solar Beam,
         Body Slam, Double-Edge, Mimic]
     - rs: [Hyper Beam, Body Slam, Double-Edge, Mimic]
     - rb: [Hyper Beam]
@@ -40,12 +40,12 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Attract, Confuse Ray, Curse, Dig, Disable, Double Team, Ember, Endure,
-        Faint Attack, Fire Blast, Fire Spin, Flail, Flamethrower, Frustration, Headbutt,
+        Feint Attack, Fire Blast, Fire Spin, Flail, Flamethrower, Frustration, Headbutt,
         Hidden Power, Hypnosis, Iron Tail, Protect, Quick Attack, Rest, Return, Roar,
         Safeguard, Sleep Talk, Snore, Spite, Sunny Day, Swagger, Swift, Tail Whip,
         Toxic]
     - bw: [Attract, Captivate, Confuse Ray, Covet, Dark Pulse, Dig, Disable, Double
-          Team, Ember, Energy Ball, Extrasensory, Facade, Faint Attack, Fire Blast,
+          Team, Ember, Energy Ball, Extrasensory, Facade, Feint Attack, Fire Blast,
         Fire Spin, Flail, Flame Burst, Flame Charge, Flamethrower, Flare Blitz, Foul
           Play, Frustration, Grudge, Heat Wave, Hex, Hidden Power, Howl, Hypnosis,
         Imprison, Incinerate, Inferno, Iron Tail, Overheat, Pain Split, Payback, Power
@@ -54,7 +54,7 @@ pokemon:
         Swagger, Tail Slap, Tail Whip, Toxic, Will-O-Wisp, Zen Headbutt, Body Slam,
         Charm, Double-Edge, Mimic]
     - dp: [Attract, Captivate, Confuse Ray, Dark Pulse, Dig, Disable, Double Team,
-        Ember, Endure, Energy Ball, Extrasensory, Facade, Faint Attack, Fire Blast,
+        Ember, Endure, Energy Ball, Extrasensory, Facade, Feint Attack, Fire Blast,
         Fire Spin, Flail, Flamethrower, Flare Blitz, Frustration, Grudge, Headbutt,
         Heat Wave, Hidden Power, Howl, Hypnosis, Imprison, Iron Tail, Natural Gift,
         Ominous Wind, Overheat, Pain Split, Payback, Power Swap, Protect, Psych Up,
@@ -62,7 +62,7 @@ pokemon:
           Talk, Snore, Spite, Substitute, Sunny Day, Swagger, Swift, Tail Whip, Toxic,
         Will-O-Wisp, Zen Headbutt, Body Slam, Charm, Double-Edge, Mimic]
     - rs: [Attract, Body Slam, Confuse Ray, Dig, Disable, Double-Edge, Double Team,
-        Ember, Endure, Facade, Faint Attack, Fire Blast, Fire Spin, Flail, Flamethrower,
+        Ember, Endure, Facade, Feint Attack, Fire Blast, Fire Spin, Flail, Flamethrower,
         Frustration, Grudge, Heat Wave, Hidden Power, Howl, Hypnosis, Imprison, Iron
           Tail, Mimic, Overheat, Protect, Psych Up, Quick Attack, Rest, Return, Roar,
         Safeguard, Secret Power, Sleep Talk, Snore, Spite, Substitute, Sunny Day,

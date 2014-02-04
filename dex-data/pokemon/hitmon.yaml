@@ -11,23 +11,23 @@ pokemon:
     height: [1.4]
     introduction: rb
     moves:
-    - gs: [Agility, Comet Punch, Counter, Dynamicpunch, Fire Punch, Ice Punch, Mega
-          Punch, Pursuit, Thunderpunch]
+    - gs: [Agility, Comet Punch, Counter, Dynamic Punch, Fire Punch, Ice Punch, Mega
+          Punch, Pursuit, Thunder Punch]
     - bw: [Agility, Close Combat, Comet Punch, Detect, Drain Punch, Fire Punch, Fling,
         Focus Blast, Focus Punch, Ice Punch, Mega Punch, Quick Guard, Revenge, Rock
-          Tomb, Sky Uppercut, Stone Edge, Thunderpunch, Body Slam, Double-Edge, Mimic,
+          Tomb, Sky Uppercut, Stone Edge, Thunder Punch, Body Slam, Double-Edge, Mimic,
         Seismic Toss]
     - dp: [Agility, Close Combat, Comet Punch, Detect, Drain Punch, Feint, Fire Punch,
         Fling, Focus Blast, Focus Punch, Ice Punch, Mega Punch, Pursuit, Revenge,
-        Rock Climb, Rock Tomb, Sky Uppercut, Stone Edge, Thunderpunch, Body Slam,
+        Rock Climb, Rock Tomb, Sky Uppercut, Stone Edge, Thunder Punch, Body Slam,
         Double-Edge, Mimic, Seismic Toss]
-    - rs: [Agility, Comet Punch, Detect, Dynamicpunch, Fire Punch, Focus Punch, Ice
+    - rs: [Agility, Comet Punch, Detect, Dynamic Punch, Fire Punch, Focus Punch, Ice
           Punch, Mega Punch, Metronome, Pursuit, Revenge, Rock Tomb, Sky Uppercut,
-        Thunderpunch, Body Slam, Double-Edge, Mimic, Seismic Toss]
+        Thunder Punch, Body Slam, Double-Edge, Mimic, Seismic Toss]
     - rb: [Agility, Bide, Body Slam, Comet Punch, Counter, Double-Edge, Double Team,
         Fire Punch, Ice Punch, Mega Kick, Mega Punch, Metronome, Mimic, Rage, Rest,
         Seismic Toss, Skull Bash, Strength, Submission, Substitute, Swift, Take Down,
-        Thunderpunch, Toxic]
+        Thunder Punch, Toxic]
     - xy: [Agility, Close Combat, Comet Punch, Detect, Drain Punch, Dynamic Punch,
         Fire Punch, Fling, Focus Blast, Focus Punch, Ice Punch, Mega Punch, Metronome,
         Quick Guard, Revenge, Rock Climb, Rock Tomb, Sky Uppercut, Stone Edge, Thunder
@@ -64,7 +64,7 @@ pokemon:
           Slam, Double-Edge, Mimic, Refresh, Seismic Toss]
     - rs: [Double Kick, Focus Energy, Foresight, Jump Kick, Meditate, Reversal, Rolling
           Kick, Body Slam, Double-Edge, Mimic, Refresh, Seismic Toss]
-    - rb: [Double Kick, Focus Energy, Hi Jump Kick, Jump Kick, Meditate, Rolling Kick]
+    - rb: [Double Kick, Focus Energy, High Jump Kick, Jump Kick, Meditate, Rolling Kick]
     - xy: [Blaze Kick, Bounce, Close Combat, Double Kick, Dynamic Punch, Fling, Focus
           Blast, Focus Energy, Focus Punch, Jump Kick, Knock Off, Meditate, Mega Punch,
         Metronome, Poison Jab, Refresh, Revenge, Reversal, Rock Climb, Rock Tomb,
@@ -124,20 +124,20 @@ pokemon:
         Swagger, Swift, Tackle, Thief, Toxic]
     - bw: [Attract, Brick Break, Bulk Up, Bulldoze, Bullet Punch, Counter, Covet,
         Double Team, Earthquake, Endure, Facade, Fake Out, Feint, Foresight, Frustration,
-        Helping Hand, Hi Jump Kick, Hidden Power, Low Kick, Low Sweep, Mach Punch,
+        Helping Hand, High Jump Kick, Hidden Power, Low Kick, Low Sweep, Mach Punch,
         Mind Reader, Protect, Pursuit, Rain Dance, Rapid Spin, Rest, Retaliate, Return,
         Rock Slide, Rock Smash, Role Play, Round, Sleep Talk, Snore, Strength, Substitute,
         Sunny Day, Swagger, Tackle, Thief, Toxic, Uproar, Vacuum Wave, Work Up, Body
           Slam, Double-Edge, Mimic, Seismic Toss]
     - dp: [Attract, Brick Break, Bulk Up, Bullet Punch, Captivate, Counter, Double
           Team, Earthquake, Endure, Facade, Fake Out, Foresight, Frustration, Headbutt,
-        Helping Hand, Hi Jump Kick, Hidden Power, Low Kick, Mach Punch, Mind Reader,
+        Helping Hand, High Jump Kick, Hidden Power, Low Kick, Mach Punch, Mind Reader,
         Mud-Slap, Natural Gift, Protect, Rain Dance, Rapid Spin, Rest, Return, Rock
           Slide, Rock Smash, Role Play, Secret Power, Sleep Talk, Snore, Strength,
         Substitute, Sunny Day, Swagger, Swift, Tackle, Thief, Toxic, Uproar, Vacuum
           Wave, Body Slam, Double-Edge, Mimic, Seismic Toss]
     - rs: [Attract, Body Slam, Brick Break, Bulk Up, Counter, Double-Edge, Double
-          Team, Earthquake, Endure, Facade, Frustration, Helping Hand, Hi Jump Kick,
+          Team, Earthquake, Endure, Facade, Frustration, Helping Hand, High Jump Kick,
         Hidden Power, Mach Punch, Mega Kick, Mimic, Mind Reader, Mud-Slap, Protect,
         Rain Dance, Rapid Spin, Rest, Return, Rock Slide, Rock Smash, Secret Power,
         Seismic Toss, Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger,

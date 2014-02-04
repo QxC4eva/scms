@@ -9,40 +9,40 @@ pokemon:
     height: [0.4]
     introduction: rb
     moves:
-    - gs: [Ancientpower, Attract, Barrage, Confusion, Curse, Double Team, Dream Eater,
+    - gs: [Ancient Power, Attract, Barrage, Confusion, Curse, Double Team, Dream Eater,
         Endure, Flash, Frustration, Giga Drain, Hidden Power, Hypnosis, Leech Seed,
-        Mega Drain, Moonlight, Nightmare, Poisonpowder, Protect, Psych Up, Psychic,
+        Mega Drain, Moonlight, Nightmare, Poison Powder, Protect, Psych Up, Psychic,
         Reflect, Rest, Return, Rollout, Sleep Powder, Sleep Talk, Sludge Bomb, Snore,
-        Solarbeam, Strength, Stun Spore, Sunny Day, Swagger, Synthesis, Thief, Toxic]
-    - bw: [Ancientpower, Attract, Barrage, Bestow, Block, Bullet Seed, Confusion,
+        Solar Beam, Strength, Stun Spore, Sunny Day, Swagger, Synthesis, Thief, Toxic]
+    - bw: [Ancient Power, Attract, Barrage, Bestow, Block, Bullet Seed, Confusion,
         Curse, Double Team, Dream Eater, Energy Ball, Explosion, Extrasensory, Facade,
         Flash, Frustration, Giga Drain, Grass Knot, Gravity, Hidden Power, Hypnosis,
         Ingrain, Leaf Storm, Leech Seed, Light Screen, Lucky Chant, Moonlight, Natural
-          Gift, Nature Power, Poisonpowder, Power Swap, Protect, Psych Up, Psychic,
+          Gift, Nature Power, Poison Powder, Power Swap, Protect, Psych Up, Psychic,
         Reflect, Rest, Return, Round, Seed Bomb, Skill Swap, Sleep Powder, Sleep Talk,
-        Sludge Bomb, Snore, Solarbeam, Strength, Stun Spore, Substitute, Sunny Day,
+        Sludge Bomb, Snore, Solar Beam, Strength, Stun Spore, Substitute, Sunny Day,
         Swagger, Swords Dance, Synthesis, Telekinesis, Thief, Toxic, Trick Room, Uproar,
-        Worry Seed, Double-Edge, Mimic, Nightmare, Selfdestruct, Swagger]
-    - dp: [Ancientpower, Attract, Barrage, Bullet Seed, Captivate, Confusion, Curse,
+        Worry Seed, Double-Edge, Mimic, Nightmare, Self-Destruct, Swagger]
+    - dp: [Ancient Power, Attract, Barrage, Bullet Seed, Captivate, Confusion, Curse,
         Double Team, Dream Eater, Endure, Energy Ball, Explosion, Facade, Flash, Frustration,
         Giga Drain, Grass Knot, Gravity, Hidden Power, Hypnosis, Ingrain, Leaf Storm,
         Leech Seed, Light Screen, Lucky Chant, Moonlight, Natural Gift, Nature Power,
-        Poisonpowder, Power Swap, Protect, Psych Up, Psychic, Reflect, Rest, Return,
+        Poison Powder, Power Swap, Protect, Psych Up, Psychic, Reflect, Rest, Return,
         Rollout, Secret Power, Seed Bomb, Skill Swap, Sleep Powder, Sleep Talk, Sludge
-          Bomb, Snore, Solarbeam, Strength, Stun Spore, Substitute, Sunny Day, Swagger,
+          Bomb, Snore, Solar Beam, Strength, Stun Spore, Substitute, Sunny Day, Swagger,
         Swords Dance, Synthesis, Thief, Toxic, Trick Room, Uproar, Worry Seed, Double-Edge,
-        Mimic, Nightmare, Selfdestruct, Swagger]
-    - rs: [Ancientpower, Attract, Barrage, Bullet Seed, Confusion, Curse, Double-Edge,
+        Mimic, Nightmare, Self-Destruct, Swagger]
+    - rs: [Ancient Power, Attract, Barrage, Bullet Seed, Confusion, Curse, Double-Edge,
         Double Team, Dream Eater, Endure, Explosion, Facade, Flash, Frustration, Giga
           Drain, Hidden Power, Hypnosis, Ingrain, Leech Seed, Light Screen, Mimic,
-        Moonlight, Nightmare, Poisonpowder, Protect, Psych Up, Psychic, Reflect, Rest,
-        Return, Rollout, Secret Power, Selfdestruct, Skill Swap, Sleep Powder, Sleep
-          Talk, Sludge Bomb, Snore, Solarbeam, Strength, Stun Spore, Substitute, Sunny
+        Moonlight, Nightmare, Poison Powder, Protect, Psych Up, Psychic, Reflect, Rest,
+        Return, Rollout, Secret Power, Self-Destruct, Skill Swap, Sleep Powder, Sleep
+          Talk, Sludge Bomb, Snore, Solar Beam, Strength, Stun Spore, Substitute, Sunny
           Day, Swagger, Synthesis, Thief, Toxic, Uproar, Double-Edge, Mimic, Nightmare,
-        Selfdestruct, Swagger]
+        Self-Destruct, Swagger]
     - rb: [Barrage, Bide, Double-Edge, Double Team, Egg Bomb, Explosion, Hypnosis,
-        Leech Seed, Mimic, Poisonpowder, Psychic, Psywave, Rage, Reflect, Rest, Selfdestruct,
-        Sleep Powder, Solarbeam, Stun Spore, Substitute, Take Down, Teleport, Toxic]
+        Leech Seed, Mimic, Poison Powder, Psychic, Psywave, Rage, Reflect, Rest, Self-Destruct,
+        Sleep Powder, Solar Beam, Stun Spore, Substitute, Take Down, Teleport, Toxic]
     - xy: [Ancient Power, Attract, Barrage, Bestow, Block, Bullet Seed, Captivate,
         Confusion, Curse, Double-Edge, Double Team, Dream Eater, Endure, Energy Ball,
         Explosion, Extrasensory, Facade, Flash, Frustration, Giga Drain, Grass Knot,
@@ -76,10 +76,10 @@ pokemon:
     moves:
     - gs: [Egg Bomb, Headbutt, Hyper Beam, Stomp]
     - bw: [Egg Bomb, Giga Impact, Hyper Beam, Low Kick, Psyshock, Stomp, Wood Hammer,
-        Zen Headbutt, Double-Edge, Mimic, Nightmare, Refresh, Selfdestruct, Swagger]
+        Zen Headbutt, Double-Edge, Mimic, Nightmare, Refresh, Self-Destruct, Swagger]
     - dp: [Egg Bomb, Giga Impact, Headbutt, Hyper Beam, Low Kick, Stomp, Wood Hammer,
-        Zen Headbutt, Double-Edge, Mimic, Nightmare, Refresh, Selfdestruct, Swagger]
-    - rs: [Egg Bomb, Hyper Beam, Stomp, Double-Edge, Mimic, Nightmare, Refresh, Selfdestruct,
+        Zen Headbutt, Double-Edge, Mimic, Nightmare, Refresh, Self-Destruct, Swagger]
+    - rs: [Egg Bomb, Hyper Beam, Stomp, Double-Edge, Mimic, Nightmare, Refresh, Self-Destruct,
         Swagger]
     - rb: [Hyper Beam, Mega Drain, Stomp, Strength]
     - xy: [Egg Bomb, Giga Impact, Headbutt, Hyper Beam, Low Kick, Psyshock, Refresh,

@@ -10,12 +10,12 @@ pokemon:
     height: [1.1]
     introduction: gs
     moves:
-    - gs: [Dynamicpunch, Hyper Beam, Perish Song]
+    - gs: [Dynamic Punch, Hyper Beam, Perish Song]
     - bw: [Bounce, Echoed Voice, Focus Blast, Giga Impact, Hyper Beam, Hyper Voice,
         Payback, Perish Song, Double-Edge, Icy Wind, Mimic, Seismic Toss]
     - dp: [Bounce, Focus Blast, Giga Impact, Hyper Beam, Hyper Voice, Payback, Perish
           Song, Double-Edge, Icy Wind, Mimic, Seismic Toss]
-    - rs: [Dynamicpunch, Hyper Beam, Perish Song, Double-Edge, Icy Wind, Mimic, Seismic
+    - rs: [Dynamic Punch, Hyper Beam, Perish Song, Double-Edge, Icy Wind, Mimic, Seismic
           Toss]
     - xy: [Bounce, Dynamic Punch, Echoed Voice, Focus Blast, Giga Impact, Hyper Beam,
         Hyper Voice, Payback, Perish Song]
@@ -38,36 +38,36 @@ pokemon:
     height: [0.6]
     introduction: rb
     moves:
-    - gs: [Attract, Belly Drum, Blizzard, Body Slam, Bubble, Bubblebeam, Curse, Defense
-          Curl, Double Team, Doubleslap, Endure, Frustration, Haze, Headbutt, Hidden
+    - gs: [Attract, Belly Drum, Blizzard, Body Slam, Bubble, Bubble Beam, Curse, Defense
+          Curl, Double Team, Double Slap, Endure, Frustration, Haze, Headbutt, Hidden
           Power, Hydro Pump, Hypnosis, Ice Beam, Icy Wind, Mind Reader, Mist, Protect,
         Psychic, Rain Dance, Rest, Return, Sleep Talk, Snore, Splash, Surf, Swagger,
         Thief, Toxic, Water Gun, Waterfall, Whirlpool, Growth, Lovely Kiss, Sweet
           Kiss]
-    - bw: [Attract, Belly Drum, Blizzard, Body Slam, Bubble, Bubblebeam, Dig, Dive,
-        Double Team, Doubleslap, Encore, Endeavor, Endure, Facade, Frustration, Hail,
+    - bw: [Attract, Belly Drum, Blizzard, Body Slam, Bubble, Bubble Beam, Dig, Dive,
+        Double Team, Double Slap, Encore, Endeavor, Endure, Facade, Frustration, Hail,
         Haze, Helping Hand, Hidden Power, Hydro Pump, Hypnosis, Ice Ball, Ice Beam,
         Icy Wind, Mind Reader, Mist, Mud Bomb, Mud Shot, Protect, Psychic, Rain Dance,
         Refresh, Rest, Return, Round, Scald, Sleep Talk, Snore, Splash, Substitute,
         Surf, Swagger, Thief, Toxic, Wake-Up Slap, Water Gun, Water Pulse, Water Sport,
         Waterfall, Double-Edge, Icy Wind, Mimic]
-    - dp: [Attract, Belly Drum, Blizzard, Body Slam, Bubble, Bubblebeam, Captivate,
-        Dig, Dive, Double Team, Doubleslap, Encore, Endeavor, Endure, Facade, Frustration,
+    - dp: [Attract, Belly Drum, Blizzard, Body Slam, Bubble, Bubble Beam, Captivate,
+        Dig, Dive, Double Team, Double Slap, Encore, Endeavor, Endure, Facade, Frustration,
         Hail, Haze, Headbutt, Helping Hand, Hidden Power, Hydro Pump, Hypnosis, Ice
           Ball, Ice Beam, Icy Wind, Mind Reader, Mist, Mud Bomb, Mud Shot, Natural
           Gift, Protect, Psychic, Rain Dance, Refresh, Rest, Return, Secret Power,
         Sleep Talk, Snore, Splash, Substitute, Surf, Swagger, Thief, Toxic, Wake-Up
           Slap, Water Gun, Water Pulse, Water Sport, Waterfall, Whirlpool, Double-Edge,
         Icy Wind, Mimic]
-    - rs: [Attract, Belly Drum, Blizzard, Body Slam, Bubble, Bubblebeam, Defense Curl,
-        Dig, Dive, Double-Edge, Double Team, Doubleslap, Endure, Facade, Frustration,
+    - rs: [Attract, Belly Drum, Blizzard, Body Slam, Bubble, Bubble Beam, Defense Curl,
+        Dig, Dive, Double-Edge, Double Team, Double Slap, Endure, Facade, Frustration,
         Hail, Haze, Hidden Power, Hydro Pump, Hypnosis, Ice Ball, Ice Beam, Icy Wind,
         Mimic, Mind Reader, Mist, Protect, Psychic, Rain Dance, Rest, Return, Secret
           Power, Sleep Talk, Snore, Splash, Substitute, Surf, Swagger, Thief, Toxic,
         Water Gun, Water Pulse, Water Sport, Waterfall, Sweet Kiss, Double-Edge, Icy
           Wind, Mimic]
-    - rb: [Amnesia, Bide, Blizzard, Body Slam, Bubble, Bubblebeam, Double-Edge, Double
-          Team, Doubleslap, Hydro Pump, Hypnosis, Ice Beam, Mimic, Psychic, Psywave,
+    - rb: [Amnesia, Bide, Blizzard, Body Slam, Bubble, Bubble Beam, Double-Edge, Double
+          Team, Double Slap, Hydro Pump, Hypnosis, Ice Beam, Mimic, Psychic, Psywave,
         Rage, Rest, Skull Bash, Substitute, Surf, Take Down, Toxic, Water Gun, Growth,
         Lovely Kiss, Sweet Kiss]
     - xy: [Attract, Belly Drum, Blizzard, Body Slam, Bubble, Bubble Beam, Captivate,
@@ -130,10 +130,10 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Submission]
-    - bw: [Bulk Up, Circle Throw, Dynamicpunch, Low Sweep, Poison Jab, Rock Slide,
+    - bw: [Bulk Up, Circle Throw, Dynamic Punch, Low Sweep, Poison Jab, Rock Slide,
         Rock Tomb, Submission, Work Up, Double-Edge, Helping Hand, Icy Wind, Mimic,
         Seismic Toss]
-    - dp: [Bulk Up, Dynamicpunch, Poison Jab, Rock Climb, Rock Slide, Rock Tomb, Submission,
+    - dp: [Bulk Up, Dynamic Punch, Poison Jab, Rock Climb, Rock Slide, Rock Tomb, Submission,
         Vacuum Wave, Double-Edge, Helping Hand, Icy Wind, Mimic, Seismic Toss]
     - rs: [Bulk Up, Rock Tomb, Submission, Helping Hand, Double-Edge, Helping Hand,
         Icy Wind, Mimic, Seismic Toss]

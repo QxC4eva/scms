@@ -10,13 +10,13 @@ pokemon:
     introduction: rs
     moves:
     - bw: [Brick Break, Dive, Drain Punch, Fake Out, Fire Punch, Fling, Fury Swipes,
-        Hone Claws, Hydro Pump, Hyper Voice, Ice Punch, Rock Smash, Strength, Thunderpunch,
+        Hone Claws, Hydro Pump, Hyper Voice, Ice Punch, Rock Smash, Strength, Thunder Punch,
         Water Sport, Waterfall, Body Slam, Double-Edge, Icy Wind, Mimic]
     - dp: [Brick Break, Dive, Drain Punch, Fake Out, Fire Punch, Fling, Fury Swipes,
-        Hydro Pump, Ice Punch, Mud-Slap, Rock Smash, Strength, Thunderpunch, Water
+        Hydro Pump, Ice Punch, Mud-Slap, Rock Smash, Strength, Thunder Punch, Water
           Sport, Waterfall, Body Slam, Double-Edge, Icy Wind, Mimic]
-    - rs: [Brick Break, Dive, Dynamicpunch, Fake Out, Fire Punch, Fury Swipes, Hydro
-          Pump, Ice Punch, Mud-Slap, Rock Smash, Strength, Thunderpunch, Uproar, Water
+    - rs: [Brick Break, Dive, Dynamic Punch, Fake Out, Fire Punch, Fury Swipes, Hydro
+          Pump, Ice Punch, Mud-Slap, Rock Smash, Strength, Thunder Punch, Uproar, Water
           Sport, Waterfall, Body Slam, Double-Edge, Icy Wind, Mimic]
     - xy: [Brick Break, Dive, Drain Punch, Dynamic Punch, Fake Out, Fire Punch, Fling,
         Fury Swipes, Hone Claws, Hydro Pump, Ice Punch, Mud-Slap, Rock Smash, Strength,
@@ -38,27 +38,27 @@ pokemon:
     height: [0.5]
     introduction: rs
     moves:
-    - bw: [Absorb, Astonish, Attract, Blizzard, Bubblebeam, Counter, Double Team,
+    - bw: [Absorb, Astonish, Attract, Blizzard, Bubble Beam, Counter, Double Team,
         Echoed Voice, Energy Ball, Facade, Flail, Flash, Frustration, Giga Drain,
         Grass Knot, Growl, Hail, Hidden Power, Ice Beam, Icy Wind, Leech Seed, Mega
           Drain, Mist, Natural Gift, Nature Power, Protect, Rain Dance, Razor Leaf,
-        Rest, Return, Round, Scald, Seed Bomb, Sleep Talk, Snore, Solarbeam, Substitute,
+        Rest, Return, Round, Scald, Seed Bomb, Sleep Talk, Snore, Solar Beam, Substitute,
         Sunny Day, Surf, Swagger, Sweet Scent, Swords Dance, Synthesis, Teeter Dance,
         Thief, Tickle, Toxic, Uproar, Water Gun, Zen Headbutt, Body Slam, Double-Edge,
         Icy Wind, Mimic]
-    - dp: [Absorb, Astonish, Attract, Blizzard, Bubblebeam, Bullet Seed, Captivate,
+    - dp: [Absorb, Astonish, Attract, Blizzard, Bubble Beam, Bullet Seed, Captivate,
         Counter, Double Team, Endure, Energy Ball, Facade, Flail, Flash, Frustration,
         Giga Drain, Grass Knot, Growl, Hail, Headbutt, Hidden Power, Ice Beam, Icy
           Wind, Leech Seed, Mega Drain, Mist, Natural Gift, Nature Power, Protect,
         Rain Dance, Razor Leaf, Rest, Return, Secret Power, Seed Bomb, Sleep Talk,
-        Snore, Solarbeam, Substitute, Sunny Day, Surf, Swagger, Sweet Scent, Swords
+        Snore, Solar Beam, Substitute, Sunny Day, Surf, Swagger, Sweet Scent, Swords
           Dance, Synthesis, Thief, Tickle, Toxic, Uproar, Water Gun, Water Pulse,
         Whirlpool, Zen Headbutt, Body Slam, Double-Edge, Icy Wind, Mimic]
     - rs: [Absorb, Astonish, Attract, Blizzard, Body Slam, Bullet Seed, Double-Edge,
         Double Team, Endure, Facade, Flail, Flash, Frustration, Giga Drain, Growl,
         Hail, Hidden Power, Ice Beam, Icy Wind, Leech Seed, Mega Drain, Mimic, Mist,
         Nature Power, Protect, Rain Dance, Razor Leaf, Rest, Return, Secret Power,
-        Sleep Talk, Snore, Solarbeam, Substitute, Sunny Day, Surf, Swagger, Sweet
+        Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day, Surf, Swagger, Sweet
           Scent, Swords Dance, Synthesis, Thief, Toxic, Water Gun, Water Pulse, Body
           Slam, Double-Edge, Icy Wind, Mimic]
     - xy: [Absorb, Astonish, Attract, Blizzard, Body Slam, Bubble Beam, Bullet Seed,

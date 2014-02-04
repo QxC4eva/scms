@@ -11,10 +11,10 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Attract, Barrier, Confusion, Curse, Disable, Double Team, Dream Eater,
-        Dynamicpunch, Endure, Fire Punch, Flash, Frustration, Future Sight, Headbutt,
+        Dynamic Punch, Endure, Fire Punch, Flash, Frustration, Future Sight, Headbutt,
         Hidden Power, Hypnosis, Ice Punch, Light Screen, Meditate, Nightmare, Poison
           Gas, Pound, Protect, Psych Up, Psychic, Rain Dance, Rest, Return, Shadow
-          Ball, Sleep Talk, Snore, Sunny Day, Swagger, Thunderpunch, Toxic, Zap Cannon]
+          Ball, Sleep Talk, Snore, Sunny Day, Swagger, Thunder Punch, Toxic, Zap Cannon]
     - bw: [Assist, Attract, Barrier, Body Slam, Brick Break, Calm Mind, Confusion,
         Disable, Double-Edge, Double Team, Drain Punch, Dream Eater, Facade, Fire
           Punch, Flash, Flatter, Fling, Foul Play, Frustration, Future Sight, Grass
@@ -24,7 +24,7 @@ pokemon:
           Cut, Psyshock, Rain Dance, Recycle, Reflect, Rest, Return, Role Play, Round,
         Safeguard, Secret Power, Seismic Toss, Shadow Ball, Signal Beam, Skill Swap,
         Sleep Talk, Snatch, Substitute, Sunny Day, Swagger, Synchronoise, Taunt, Telekinesis,
-        Thief, Thunder Wave, Thunderpunch, Torment, Toxic, Trick, Trick Room, Zen
+        Thief, Thunder Wave, Thunder Punch, Torment, Toxic, Trick, Trick Room, Zen
           Headbutt, Baton Pass, Body Slam, Double-Edge, Mimic, Seismic Toss]
     - dp: [Assist, Attract, Barrier, Body Slam, Brick Break, Calm Mind, Captivate,
         Confusion, Disable, Double-Edge, Double Team, Drain Punch, Dream Eater, Endure,
@@ -34,17 +34,17 @@ pokemon:
         Nightmare, Poison Gas, Pound, Protect, Psybeam, Psych Up, Psychic, Psycho
           Cut, Rain Dance, Recycle, Reflect, Rest, Return, Role Play, Safeguard, Secret
           Power, Seismic Toss, Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snatch,
-        Substitute, Sunny Day, Swagger, Taunt, Thief, Thunder Wave, Thunderpunch,
+        Substitute, Sunny Day, Swagger, Taunt, Thief, Thunder Wave, Thunder Punch,
         Torment, Toxic, Trick, Trick Room, Zen Headbutt, Baton Pass, Body Slam, Double-Edge,
         Mimic, Seismic Toss]
     - rs: [Assist, Attract, Barrier, Body Slam, Brick Break, Calm Mind, Confusion,
-        Counter, Disable, Double-Edge, Double Team, Dream Eater, Dynamicpunch, Endure,
+        Counter, Disable, Double-Edge, Double Team, Dream Eater, Dynamic Punch, Endure,
         Facade, Fire Punch, Flash, Focus Punch, Frustration, Future Sight, Headbutt,
         Hidden Power, Hypnosis, Ice Punch, Light Screen, Meditate, Mega Kick, Mega
           Punch, Metronome, Mimic, Nightmare, Poison Gas, Pound, Protect, Psych Up,
         Psychic, Rain Dance, Reflect, Rest, Return, Role Play, Safeguard, Secret Power,
         Seismic Toss, Shadow Ball, Skill Swap, Sleep Talk, Snatch, Snore, Substitute,
-        Sunny Day, Swagger, Taunt, Thief, Thunder Wave, Thunderpunch, Torment, Toxic,
+        Sunny Day, Swagger, Taunt, Thief, Thunder Wave, Thunder Punch, Torment, Toxic,
         Baton Pass, Body Slam, Double-Edge, Mimic, Seismic Toss]
     - rb: [Bide, Body Slam, Confusion, Counter, Disable, Double-Edge, Double Team,
         Dream Eater, Flash, Headbutt, Hypnosis, Meditate, Mega Kick, Mega Punch, Metronome,

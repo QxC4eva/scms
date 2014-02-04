@@ -9,33 +9,33 @@ pokemon:
     height: [0.3]
     introduction: gs
     moves:
-    - gs: [Attract, Bide, Charm, Curse, Defense Curl, Detect, Double Team, Doubleslap,
+    - gs: [Attract, Bide, Charm, Curse, Defense Curl, Detect, Double Team, Double Slap,
         Encore, Endure, Flash, Frustration, Headbutt, Hidden Power, Iron Tail, Mud-Slap,
         Present, Protect, Rain Dance, Rest, Return, Reversal, Rollout, Sleep Talk,
         Snore, Swagger, Sweet Kiss, Swift, Tail Whip, Thunder, Thunder Wave, Thunderbolt,
-        Thundershock, Toxic, Zap Cannon, Dizzy Punch, Petal Dance, Sing, Scary Face]
+        Thunder Shock, Toxic, Zap Cannon, Dizzy Punch, Petal Dance, Sing, Scary Face]
     - bw: [Attract, Bestow, Bide, Charge, Charge Beam, Charm, Covet, Double Team,
-        Doubleslap, Echoed Voice, Encore, Endure, Facade, Fake Out, Flail, Flash,
+        Double Slap, Echoed Voice, Encore, Endure, Facade, Fake Out, Flail, Flash,
         Fling, Frustration, Grass Knot, Helping Hand, Hidden Power, Iron Tail, Light
           Screen, Lucky Chant, Magnet Rise, Nasty Plot, Present, Protect, Rain Dance,
         Rest, Return, Reversal, Round, Signal Beam, Sleep Talk, Snore, Substitute,
-        Swagger, Sweet Kiss, Tail Whip, Thunder, Thunder Wave, Thunderbolt, Thunderpunch,
-        Thundershock, Tickle, Toxic, Uproar, Volt Switch, Volt Tackle, Wild Charge,
+        Swagger, Sweet Kiss, Tail Whip, Thunder, Thunder Wave, Thunderbolt, Thunder Punch,
+        Thunder Shock, Tickle, Toxic, Uproar, Volt Switch, Volt Tackle, Wild Charge,
         Wish, Teeter Dance, Follow Me]
-    - dp: [Attract, Bide, Captivate, Charge, Charge Beam, Charm, Double Team, Doubleslap,
+    - dp: [Attract, Bide, Captivate, Charge, Charge Beam, Charm, Double Team, Double Slap,
         Encore, Endure, Facade, Fake Out, Flail, Flash, Fling, Frustration, Grass
           Knot, Headbutt, Helping Hand, Hidden Power, Iron Tail, Light Screen, Magnet
           Rise, Mud-Slap, Nasty Plot, Natural Gift, Present, Protect, Rain Dance,
         Rest, Return, Reversal, Rollout, Secret Power, Shock Wave, Signal Beam, Sleep
           Talk, Snore, Substitute, Swagger, Sweet Kiss, Swift, Tail Whip, Thunder,
-        Thunder Wave, Thunderbolt, Thunderpunch, Thundershock, Tickle, Toxic, Uproar,
+        Thunder Wave, Thunderbolt, Thunder Punch, Thunder Shock, Tickle, Toxic, Uproar,
         Volt Tackle, Wish, Teeter Dance, Follow Me]
     - rs: [Attract, Bide, Body Slam, Charge, Charm, Counter, Defense Curl, Double-Edge,
-        Double Team, Doubleslap, Encore, Endure, Facade, Flash, Frustration, Hidden
+        Double Team, Double Slap, Encore, Endure, Facade, Flash, Frustration, Hidden
           Power, Iron Tail, Light Screen, Mega Kick, Mega Punch, Mimic, Mud-Slap,
         Present, Protect, Rain Dance, Rest, Return, Reversal, Rollout, Secret Power,
         Seismic Toss, Shock Wave, Sleep Talk, Snore, Substitute, Swagger, Sweet Kiss,
-        Swift, Tail Whip, Thunder, Thunder Wave, Thunderbolt, Thundershock, Toxic,
+        Swift, Tail Whip, Thunder, Thunder Wave, Thunderbolt, Thunder Shock, Toxic,
         Volt Tackle, Wish, Follow Me, Teeter Dance, Wish]
     - xy: [Attract, Bestow, Bide, Body Slam, Captivate, Charge, Charge Beam, Charm,
         Counter, Defense Curl, Double-Edge, Double Slap, Double Team, Echoed Voice,
@@ -66,21 +66,21 @@ pokemon:
     height: [0.4]
     introduction: rb
     moves:
-    - gs: [Agility, Dynamicpunch, Growl, Light Screen, Quick Attack, Slam, Strength,
-        Thunderpunch, Fly, Surf]
+    - gs: [Agility, Dynamic Punch, Growl, Light Screen, Quick Attack, Slam, Strength,
+        Thunder Punch, Fly, Surf]
     - bw: [Agility, Brick Break, Dig, Discharge, Electro Ball, Feint, Growl, Knock
           Off, Quick Attack, Rock Smash, Slam, Strength, Fly, Sing, Extremespeed,
         Surf, Last Resort, Yawn, Body Slam, Double-Edge, Mimic, Seismic Toss]
     - dp: [Agility, Brick Break, Dig, Discharge, Feint, Focus Punch, Growl, Knock
           Off, Quick Attack, Rock Smash, Slam, Strength, Surf, Last Resort, Yawn,
         Fly, Body Slam, Double-Edge, Mimic, Seismic Toss]
-    - rs: [Agility, Brick Break, Dig, Dynamicpunch, Focus Punch, Growl, Quick Attack,
-        Rock Smash, Slam, Strength, Thunderpunch, Fly, Body Slam, Double-Edge, Mimic,
+    - rs: [Agility, Brick Break, Dig, Dynamic Punch, Focus Punch, Growl, Quick Attack,
+        Rock Smash, Slam, Strength, Thunder Punch, Fly, Body Slam, Double-Edge, Mimic,
         Seismic Toss]
     - rb: [Agility, Bide, Body Slam, Double-Edge, Double Team, Flash, Growl, Light
           Screen, Mega Kick, Mega Punch, Mimic, Pay Day, Quick Attack, Rage, Reflect,
         Rest, Seismic Toss, Skull Bash, Slam, Submission, Substitute, Surf, Swift,
-        Tail Whip, Take Down, Thunder, Thunder Wave, Thunderbolt, Thundershock, Toxic,
+        Tail Whip, Take Down, Thunder, Thunder Wave, Thunderbolt, Thunder Shock, Toxic,
         Fly, Dizzy Punch, Petal Dance, Sing, Scary Face]
     - xy: [Agility, Brick Break, Dig, Discharge, Dynamic Punch, Electro Ball, Extreme
           Speed, Feint, Fly, Focus Punch, Growl, Knock Off, Last Resort, Quick Attack,

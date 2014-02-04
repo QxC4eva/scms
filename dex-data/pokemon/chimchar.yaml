@@ -16,7 +16,7 @@ pokemon:
         Hone Claws, Incinerate, Iron Tail, Leer, Low Kick, Low Sweep, Nasty Plot,
         Overheat, Protect, Quick Guard, Rest, Return, Rock Smash, Role Play, Round,
         Scratch, Shadow Claw, Slack Off, Sleep Talk, Snore, Stealth Rock, Strength,
-        Submission, Substitute, Sunny Day, Swagger, Swords Dance, Taunt, Thunderpunch,
+        Submission, Substitute, Sunny Day, Swagger, Swords Dance, Taunt, Thunder Punch,
         Torment, Toxic, U-turn, Uproar, Will-O-Wisp]
     - dp: [Aerial Ace, Assist, Attract, Blaze Kick, Brick Break, Bulk Up, Captivate,
         Counter, Cut, Dig, Double Kick, Double Team, Ember, Encore, Endeavor, Endure,
@@ -26,7 +26,7 @@ pokemon:
         Low Kick, Mud-Slap, Nasty Plot, Natural Gift, Overheat, Protect, Rest, Return,
         Rock Climb, Rock Smash, Role Play, Rollout, Scratch, Secret Power, Shadow
           Claw, Slack Off, Sleep Talk, Snore, Stealth Rock, Strength, Substitute,
-        Sunny Day, Swagger, Swift, Swords Dance, Taunt, Thunderpunch, Torment, Toxic,
+        Sunny Day, Swagger, Swift, Swords Dance, Taunt, Thunder Punch, Torment, Toxic,
         U-turn, Uproar, Vacuum Wave, Will-O-Wisp]
     - xy: [Acrobatics, Aerial Ace, Assist, Attract, Blaze Kick, Brick Break, Bulk
           Up, Captivate, Counter, Cut, Dig, Double Kick, Double Team, Ember, Encore,
@@ -58,9 +58,9 @@ pokemon:
     introduction: dp
     moves:
     - bw: [Blast Burn, Bulldoze, Calm Mind, Earthquake, Giga Impact, Hyper Beam, Punishment,
-        Roar, Solarbeam, Stone Edge]
+        Roar, Solar Beam, Stone Edge]
     - dp: [Blast Burn, Calm Mind, Earthquake, Giga Impact, Hyper Beam, Punishment,
-        Roar, Solarbeam, Stone Edge]
+        Roar, Solar Beam, Stone Edge]
     - xy: [Blast Burn, Bulldoze, Calm Mind, Earthquake, Giga Impact, Hyper Beam, Punishment,
         Roar, Solar Beam, Stone Edge]
     stats:

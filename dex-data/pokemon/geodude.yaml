@@ -9,10 +9,10 @@ pokemon:
     height: [0.4]
     introduction: rb
     moves:
-    - gs: [Attract, Curse, Defense Curl, Dig, Double Team, Dynamicpunch, Earthquake,
+    - gs: [Attract, Curse, Defense Curl, Dig, Double Team, Dynamic Punch, Earthquake,
         Endure, Explosion, Fire Blast, Fire Punch, Flamethrower, Frustration, Harden,
         Headbutt, Hidden Power, Magnitude, Mega Punch, Mud-Slap, Protect, Rest, Return,
-        Rock Slide, Rock Smash, Rock Throw, Rollout, Sandstorm, Selfdestruct, Sleep
+        Rock Slide, Rock Smash, Rock Throw, Rollout, Sandstorm, Self-Destruct, Sleep
           Talk, Snore, Strength, Sunny Day, Swagger, Tackle, Toxic, Rapid Spin]
     - bw: [Attract, Autotomize, Block, Brick Break, Bulldoze, Curse, Defense Curl,
         Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endure, Explosion,
@@ -20,29 +20,29 @@ pokemon:
         Gyro Ball, Hammer Arm, Hidden Power, Incinerate, Iron Defense, Magnitude,
         Mega Punch, Mud Sport, Protect, Rest, Return, Rock Blast, Rock Climb, Rock
           Polish, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Round, Sandstorm,
-        Selfdestruct, Sleep Talk, Smack Down, Snore, Stealth Rock, Stone Edge, Strength,
-        Substitute, Sunny Day, Superpower, Swagger, Tackle, Thunderpunch, Toxic, Body
-          Slam, Double-Edge, Mimic, Seismic Toss, Selfdestruct]
-    - dp: [Ancientpower, Attract, Block, Brick Break, Captivate, Curse, Defense Curl,
+        Self-Destruct, Sleep Talk, Smack Down, Snore, Stealth Rock, Stone Edge, Strength,
+        Substitute, Sunny Day, Superpower, Swagger, Tackle, Thunder Punch, Toxic, Body
+          Slam, Double-Edge, Mimic, Seismic Toss, Self-Destruct]
+    - dp: [Ancient Power, Attract, Block, Brick Break, Captivate, Curse, Defense Curl,
         Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endure, Explosion,
         Facade, Fire Blast, Fire Punch, Flail, Flamethrower, Fling, Focus Punch, Frustration,
         Gyro Ball, Hammer Arm, Headbutt, Hidden Power, Magnitude, Mega Punch, Mud-Slap,
         Mud Sport, Natural Gift, Protect, Rest, Return, Rock Blast, Rock Climb, Rock
           Polish, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Sandstorm,
-        Secret Power, Selfdestruct, Sleep Talk, Snore, Stealth Rock, Stone Edge, Strength,
-        Substitute, Sucker Punch, Sunny Day, Superpower, Swagger, Tackle, Thunderpunch,
-        Toxic, Body Slam, Double-Edge, Mimic, Seismic Toss, Selfdestruct]
+        Secret Power, Self-Destruct, Sleep Talk, Snore, Stealth Rock, Stone Edge, Strength,
+        Substitute, Sucker Punch, Sunny Day, Superpower, Swagger, Tackle, Thunder Punch,
+        Toxic, Body Slam, Double-Edge, Mimic, Seismic Toss, Self-Destruct]
     - rs: [Attract, Block, Body Slam, Brick Break, Counter, Defense Curl, Dig, Double-Edge,
-        Double Team, Dynamicpunch, Earthquake, Endure, Explosion, Facade, Fire Blast,
+        Double Team, Dynamic Punch, Earthquake, Endure, Explosion, Facade, Fire Blast,
         Fire Punch, Flamethrower, Focus Punch, Frustration, Hidden Power, Magnitude,
         Mega Punch, Metronome, Mimic, Mud-Slap, Mud Sport, Protect, Rest, Return,
         Rock Blast, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Sandstorm,
-        Secret Power, Seismic Toss, Selfdestruct, Sleep Talk, Snore, Strength, Substitute,
+        Secret Power, Seismic Toss, Self-Destruct, Sleep Talk, Snore, Strength, Substitute,
         Sunny Day, Swagger, Tackle, Toxic, Body Slam, Double-Edge, Mimic, Seismic
-          Toss, Selfdestruct]
+          Toss, Self-Destruct]
     - rb: [Bide, Body Slam, Counter, Defense Curl, Dig, Double-Edge, Double Team,
         Earthquake, Explosion, Fire Blast, Fissure, Harden, Mega Punch, Metronome,
-        Mimic, Rage, Rest, Rock Slide, Rock Throw, Seismic Toss, Selfdestruct, Strength,
+        Mimic, Rage, Rest, Rock Slide, Rock Throw, Seismic Toss, Self-Destruct, Strength,
         Submission, Substitute, Tackle, Take Down, Toxic, Rapid Spin]
     - xy: [Ancient Power, Attract, Autotomize, Block, Body Slam, Brick Break, Bulldoze,
         Captivate, Counter, Curse, Defense Curl, Dig, Double-Edge, Double Team, Dynamic

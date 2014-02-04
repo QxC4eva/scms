@@ -34,7 +34,7 @@ pokemon:
     height: [0.2]
     introduction: rs
     moves:
-    - bw: [Attract, Blizzard, Body Slam, Bounce, Bubble, Bubblebeam, Charm, Covet,
+    - bw: [Attract, Blizzard, Body Slam, Bounce, Bubble, Bubble Beam, Charm, Covet,
         Double Team, Encore, Facade, Fake Tears, Frustration, Hail, Helping Hand,
         Hidden Power, Hyper Voice, Ice Beam, Icy Wind, Iron Tail, Knock Off, Light
           Screen, Muddy Water, Protect, Rain Dance, Refresh, Rest, Return, Round,
@@ -80,8 +80,8 @@ pokemon:
     height: [0.4]
     introduction: gs
     moves:
-    - gs: [Amnesia, Attract, Belly Drum, Blizzard, Bubblebeam, Curse, Defense Curl,
-        Double-Edge, Double Team, Dynamicpunch, Endure, Foresight, Frustration, Future
+    - gs: [Amnesia, Attract, Belly Drum, Blizzard, Bubble Beam, Curse, Defense Curl,
+        Double-Edge, Double Team, Dynamic Punch, Endure, Foresight, Frustration, Future
           Sight, Headbutt, Hidden Power, Ice Beam, Ice Punch, Icy Wind, Iron Tail,
         Light Screen, Mud-Slap, Perish Song, Present, Protect, Rain Dance, Rest, Return,
         Rollout, Sleep Talk, Snore, Supersonic, Surf, Swagger, Swift, Tackle, Tail
@@ -90,11 +90,11 @@ pokemon:
           Curl, Dig, Dive, Double-Edge, Fling, Future Sight, Grass Knot, Hydro Pump,
         Ice Punch, Perish Song, Present, Rock Smash, Rollout, Strength, Superpower,
         Supersonic, Tackle]
-    - dp: [Amnesia, Aqua Jet, Aqua Ring, Aqua Tail, Belly Drum, Brick Break, Bubblebeam,
+    - dp: [Amnesia, Aqua Jet, Aqua Ring, Aqua Tail, Belly Drum, Brick Break, Bubble Beam,
         Defense Curl, Dig, Dive, Double-Edge, Fling, Focus Punch, Future Sight, Grass
           Knot, Hydro Pump, Ice Punch, Light Screen, Perish Song, Present, Rock Smash,
         Strength, Superpower, Supersonic, Tackle]
-    - rs: [Amnesia, Belly Drum, Brick Break, Bubblebeam, Dig, Dive, Dynamicpunch,
+    - rs: [Amnesia, Belly Drum, Brick Break, Bubble Beam, Dig, Dive, Dynamic Punch,
         Focus Punch, Future Sight, Hydro Pump, Ice Punch, Light Screen, Mega Kick,
         Mega Punch, Perish Song, Present, Rock Smash, Seismic Toss, Strength, Supersonic,
         Tackle]

@@ -9,12 +9,12 @@ pokemon:
     height: [0.6]
     introduction: gs
     moves:
-    - gs: [Ancientpower, Attract, Bite, Crunch, Curse, Detect, Dig, Double Team, Earthquake,
+    - gs: [Ancient Power, Attract, Bite, Crunch, Curse, Detect, Dig, Double Team, Earthquake,
         Endure, Focus Energy, Frustration, Headbutt, Hidden Power, Hyper Beam, Leer,
         Mud-Slap, Outrage, Protect, Pursuit, Rain Dance, Rest, Return, Rock Slide,
         Sandstorm, Scary Face, Screech, Sleep Talk, Snore, Stomp, Sunny Day, Swagger,
         Thrash, Toxic]
-    - bw: [Ancientpower, Assurance, Attract, Bite, Brick Break, Bulldoze, Chip Away,
+    - bw: [Ancient Power, Assurance, Attract, Bite, Brick Break, Bulldoze, Chip Away,
         Crunch, Curse, Dark Pulse, Dig, Double Team, Dragon Dance, Earth Power, Earthquake,
         Facade, Focus Energy, Frustration, Hidden Power, Hyper Beam, Iron Defense,
         Iron Head, Iron Tail, Leer, Outrage, Payback, Protect, Pursuit, Rain Dance,
@@ -22,7 +22,7 @@ pokemon:
         Sandstorm, Scary Face, Screech, Sleep Talk, Smack Down, Snarl, Snore, Spite,
         Stealth Rock, Stomp, Stone Edge, Substitute, Sunny Day, Superpower, Swagger,
         Taunt, Thrash, Torment, Toxic, Uproar, Body Slam, Double-Edge, Mimic]
-    - dp: [Ancientpower, Assurance, Attract, Bite, Brick Break, Captivate, Crunch,
+    - dp: [Ancient Power, Assurance, Attract, Bite, Brick Break, Captivate, Crunch,
         Curse, Dark Pulse, Dig, Double Team, Dragon Dance, Earth Power, Earthquake,
         Endure, Facade, Focus Energy, Frustration, Headbutt, Hidden Power, Hyper Beam,
         Iron Defense, Iron Head, Leer, Mud-Slap, Natural Gift, Outrage, Payback, Protect,
@@ -30,7 +30,7 @@ pokemon:
           Tomb, Sandstorm, Scary Face, Screech, Secret Power, Sleep Talk, Snore, Spite,
         Stealth Rock, Stomp, Stone Edge, Substitute, Sunny Day, Superpower, Swagger,
         Taunt, Thrash, Torment, Toxic, Uproar, Body Slam, Double-Edge, Mimic]
-    - rs: [Ancientpower, Attract, Bite, Body Slam, Brick Break, Crunch, Curse, Dig,
+    - rs: [Ancient Power, Attract, Bite, Body Slam, Brick Break, Crunch, Curse, Dig,
         Double-Edge, Double Team, Dragon Dance, Earthquake, Endure, Facade, Focus
           Energy, Frustration, Hidden Power, Hyper Beam, Leer, Mimic, Mud-Slap, Outrage,
         Protect, Pursuit, Rain Dance, Rest, Return, Rock Slide, Rock Smash, Sandstorm,
@@ -85,22 +85,22 @@ pokemon:
     height: [2]
     introduction: gs
     moves:
-    - gs: [Cut, Dragonbreath, Dynamicpunch, Fire Blast, Fire Punch, Flamethrower,
+    - gs: [Cut, Dragon Breath, Dynamic Punch, Fire Blast, Fire Punch, Flamethrower,
         Fury Cutter, Ice Beam, Iron Tail, Nightmare, Roar, Rock Smash, Strength, Surf,
         Thunderbolt]
     - bw: [Aerial Ace, Aqua Tail, Blizzard, Block, Cut, Dragon Claw, Dragon Pulse,
         Dragon Tail, Fire Blast, Fire Fang, Fire Punch, Flamethrower, Fling, Focus
           Blast, Foul Play, Giga Impact, Hone Claws, Ice Beam, Ice Fang, Ice Punch,
         Incinerate, Low Kick, Roar, Shadow Claw, Strength, Surf, Thunder, Thunder
-          Fang, Thunder Wave, Thunderbolt, Thunderpunch, Body Slam, Double-Edge, Mimic,
+          Fang, Thunder Wave, Thunderbolt, Thunder Punch, Body Slam, Double-Edge, Mimic,
         Nightmare, Seismic Toss]
     - dp: [Aerial Ace, Aqua Tail, Avalanche, Blizzard, Block, Cut, Dragon Claw, Dragon
           Pulse, Fire Blast, Fire Fang, Fire Punch, Flamethrower, Fling, Focus Blast,
         Focus Punch, Fury Cutter, Giga Impact, Ice Beam, Ice Fang, Ice Punch, Iron
           Tail, Low Kick, Roar, Rock Climb, Shadow Claw, Shock Wave, Strength, Surf,
-        Thunder, Thunder Fang, Thunder Wave, Thunderbolt, Thunderpunch, Water Pulse,
+        Thunder, Thunder Fang, Thunder Wave, Thunderbolt, Thunder Punch, Water Pulse,
         Whirlpool, Body Slam, Double-Edge, Mimic, Nightmare, Seismic Toss]
-    - rs: [Aerial Ace, Blizzard, Counter, Cut, Dragon Claw, Dynamicpunch, Fire Blast,
+    - rs: [Aerial Ace, Blizzard, Counter, Cut, Dragon Claw, Dynamic Punch, Fire Blast,
         Fire Punch, Flamethrower, Focus Punch, Fury Cutter, Ice Beam, Iron Tail, Mega
           Kick, Mega Punch, Nightmare, Roar, Rock Tomb, Seismic Toss, Shock Wave,
         Strength, Surf, Thunder, Thunder Wave, Thunderbolt, Water Pulse, Body Slam,

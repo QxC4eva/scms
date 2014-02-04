@@ -11,7 +11,7 @@ pokemon:
     moves:
     - bw: [Aerial Ace, Entrainment, False Swipe, Giga Impact, Heal Bell, Helping Hand,
         Hone Claws, Hyper Beam, Knock Off, Leaf Blade, Leaf Storm, Poison Jab, Reflect,
-        Retaliate, Shadow Claw, Slash, Swords Dance, X-scissor]
+        Retaliate, Shadow Claw, Slash, Swords Dance, X-Scissor]
     - xy: [Aerial Ace, Entrainment, False Swipe, Giga Impact, Helping Hand, Hone Claws,
         Hyper Beam, Leaf Blade, Leaf Storm, Poison Jab, Reflect, Retaliate, Shadow
           Claw, Slash, Swords Dance, X-Scissor, Knock Off, Heal Bell, Fell Stinger,
@@ -38,7 +38,7 @@ pokemon:
         Facade, Flail, Flash, Frustration, Giga Drain, Grass Knot, Hidden Power, Iron
           Defense, Light Screen, Magic Coat, Me First, Mind Reader, Payback, Protect,
         Razor Leaf, Razor Wind, Rest, Return, Round, Safeguard, Screech, Seed Bomb,
-        Signal Beam, Silver Wind, Sleep Talk, Snore, Solarbeam, String Shot, Struggle
+        Signal Beam, Silver Wind, Sleep Talk, Snore, Solar Beam, String Shot, Struggle
           Bug, Substitute, Sunny Day, Swagger, Synthesis, Tackle, Toxic, Worry Seed]
     - xy: [Agility, Air Slash, Attract, Baton Pass, Bug Bite, Bug Buzz, Calm Mind,
         Camouflage, Cut, Double Team, Dream Eater, Endure, Energy Ball, Facade, Flail,
@@ -64,7 +64,7 @@ pokemon:
     height: [0.5]
     introduction: bw
     moves:
-    - bw: [Grasswhistle]
+    - bw: [Grass Whistle]
     - xy: [Grass Whistle]
     stats:
     - [55, 63, 90, 50, 80, 42]

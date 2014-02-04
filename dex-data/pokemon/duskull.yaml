@@ -12,15 +12,15 @@ pokemon:
     moves:
     - bw: [Bind, Brick Break, Bulldoze, Earthquake, Fire Punch, Giga Impact, Hyper
           Beam, Ice Punch, Rock Slide, Rock Smash, Rock Tomb, Shadow Punch, Strength,
-        Thunderpunch, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic
+        Thunder Punch, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic
           Toss]
     - dp: [Bind, Brick Break, Earthquake, Fire Punch, Focus Punch, Giga Impact, Hyper
           Beam, Ice Punch, Mud-Slap, Rock Slide, Rock Smash, Rock Tomb, Shadow Punch,
-        Strength, Thunderpunch, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare,
+        Strength, Thunder Punch, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare,
         Seismic Toss]
-    - rs: [Bind, Counter, Dynamicpunch, Earthquake, Fire Punch, Focus Punch, Hyper
+    - rs: [Bind, Counter, Dynamic Punch, Earthquake, Fire Punch, Focus Punch, Hyper
           Beam, Ice Punch, Mega Kick, Mega Punch, Metronome, Mud-Slap, Rock Slide,
-        Rock Smash, Rock Tomb, Seismic Toss, Shadow Punch, Strength, Thunderpunch,
+        Rock Smash, Rock Tomb, Seismic Toss, Shadow Punch, Strength, Thunder Punch,
         Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss]
     - xy: [Bind, Brick Break, Bulldoze, Counter, Dynamic Punch, Earthquake, Fire Punch,
         Focus Punch, Giga Impact, Hyper Beam, Ice Punch, Mega Kick, Mega Punch, Metronome,
@@ -70,7 +70,7 @@ pokemon:
     moves:
     - bw: [Astonish, Attract, Blizzard, Calm Mind, Charge Beam, Confuse Ray, Curse,
         Dark Pulse, Destiny Bond, Disable, Double Team, Dream Eater, Embargo, Facade,
-        Faint Attack, Flash, Fling, Foresight, Frustration, Future Sight, Gravity,
+        Feint Attack, Flash, Fling, Foresight, Frustration, Future Sight, Gravity,
         Grudge, Hex, Hidden Power, Ice Beam, Icy Wind, Imprison, Leer, Mean Look,
         Memento, Night Shade, Ominous Wind, Pain Split, Payback, Protect, Psych Up,
         Psychic, Pursuit, Rain Dance, Rest, Return, Round, Shadow Ball, Shadow Sneak,
@@ -79,7 +79,7 @@ pokemon:
         Wonder Room, Body Slam, Double-Edge, Helping Hand, Icy Wind, Mimic, Nightmare]
     - dp: [Astonish, Attract, Blizzard, Calm Mind, Captivate, Charge Beam, Confuse
           Ray, Curse, Dark Pulse, Destiny Bond, Disable, Double Team, Dream Eater,
-        Embargo, Endure, Facade, Faint Attack, Flash, Fling, Foresight, Frustration,
+        Embargo, Endure, Facade, Feint Attack, Flash, Fling, Foresight, Frustration,
         Future Sight, Gravity, Grudge, Headbutt, Hidden Power, Ice Beam, Icy Wind,
         Imprison, Leer, Mean Look, Memento, Natural Gift, Night Shade, Ominous Wind,
         Pain Split, Payback, Protect, Psych Up, Psychic, Pursuit, Rain Dance, Rest,
@@ -89,7 +89,7 @@ pokemon:
           Hand, Icy Wind, Mimic, Nightmare]
     - rs: [Astonish, Attract, Blizzard, Body Slam, Calm Mind, Confuse Ray, Curse,
         Destiny Bond, Disable, Double-Edge, Double Team, Dream Eater, Endure, Facade,
-        Faint Attack, Flash, Foresight, Frustration, Future Sight, Grudge, Hidden
+        Feint Attack, Flash, Foresight, Frustration, Future Sight, Grudge, Hidden
           Power, Ice Beam, Icy Wind, Imprison, Leer, Mean Look, Memento, Mimic, Night
           Shade, Nightmare, Pain Split, Protect, Psych Up, Psychic, Pursuit, Rain
           Dance, Rest, Return, Secret Power, Shadow Ball, Skill Swap, Sleep Talk,

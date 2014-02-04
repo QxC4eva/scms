@@ -11,12 +11,12 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Attract, Bite, Blizzard, Comet Punch, Curse, Disable, Dizzy Punch, Double
-          Team, Dynamicpunch, Earthquake, Endure, Fire Blast, Fire Punch, Flamethrower,
+          Team, Dynamic Punch, Earthquake, Endure, Fire Blast, Fire Punch, Flamethrower,
         Focus Energy, Foresight, Frustration, Fury Cutter, Headbutt, Hidden Power,
         Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Leer, Mega Punch, Mud-Slap,
         Protect, Rage, Rain Dance, Rest, Return, Reversal, Roar, Rock Smash, Safeguard,
         Sandstorm, Shadow Ball, Sleep Talk, Snore, Stomp, Strength, Sunny Day, Surf,
-        Swagger, Tail Whip, Thunder, Thunderbolt, Thunderpunch, Toxic, Zap Cannon]
+        Swagger, Tail Whip, Thunder, Thunderbolt, Thunder Punch, Toxic, Zap Cannon]
     - bw: [Aerial Ace, Aqua Tail, Attract, Bite, Blizzard, Brick Break, Bulldoze,
         Chip Away, Circle Throw, Comet Punch, Counter, Covet, Crunch, Crush Claw,
         Cut, Dig, Disable, Dizzy Punch, Double-Edge, Double Hit, Double Team, Drain
@@ -26,9 +26,9 @@ pokemon:
           Beam, Ice Beam, Ice Punch, Icy Wind, Incinerate, Iron Tail, Leer, Low Kick,
         Mega Punch, Outrage, Protect, Rage, Rain Dance, Rest, Retaliate, Return, Reversal,
         Roar, Rock Slide, Rock Smash, Rock Tomb, Round, Safeguard, Sandstorm, Shadow
-          Ball, Shadow Claw, Sleep Talk, Snore, Solarbeam, Spite, Stomp, Strength,
+          Ball, Shadow Claw, Sleep Talk, Snore, Solar Beam, Spite, Stomp, Strength,
         Substitute, Sucker Punch, Sunny Day, Surf, Swagger, Tail Whip, Thief, Thunder,
-        Thunderbolt, Thunderpunch, Toxic, Trump Card, Uproar, Work Up, Body Slam,
+        Thunderbolt, Thunder Punch, Toxic, Trump Card, Uproar, Work Up, Body Slam,
         Icy Wind, Mimic, Seismic Toss, Sing]
     - dp: [Aerial Ace, Aqua Tail, Attract, Avalanche, Bite, Blizzard, Brick Break,
         Captivate, Comet Punch, Counter, Crunch, Crush Claw, Cut, Dig, Disable, Dizzy
@@ -39,22 +39,22 @@ pokemon:
         Ice Beam, Ice Punch, Icy Wind, Iron Tail, Leer, Low Kick, Mega Punch, Mud-Slap,
         Natural Gift, Outrage, Protect, Rage, Rain Dance, Rest, Return, Reversal,
         Roar, Rock Climb, Rock Slide, Rock Smash, Rock Tomb, Safeguard, Sandstorm,
-        Secret Power, Shadow Ball, Shadow Claw, Shock Wave, Sleep Talk, Snore, Solarbeam,
+        Secret Power, Shadow Ball, Shadow Claw, Shock Wave, Sleep Talk, Snore, Solar Beam,
         Spite, Stomp, Strength, Substitute, Sucker Punch, Sunny Day, Surf, Swagger,
-        Tail Whip, Thief, Thunder, Thunderbolt, Thunderpunch, Toxic, Uproar, Water
+        Tail Whip, Thief, Thunder, Thunderbolt, Thunder Punch, Toxic, Uproar, Water
           Pulse, Whirlpool, Body Slam, Icy Wind, Mimic, Seismic Toss, Sing]
     - rs: [Aerial Ace, Attract, Bite, Blizzard, Body Slam, Brick Break, Comet Punch,
         Counter, Crush Claw, Cut, Dig, Disable, Dizzy Punch, Double-Edge, Double Team,
-        Dynamicpunch, Earthquake, Endure, Facade, Fake Out, Fire Blast, Fire Punch,
+        Dynamic Punch, Earthquake, Endure, Facade, Fake Out, Fire Blast, Fire Punch,
         Flamethrower, Focus Energy, Focus Punch, Foresight, Frustration, Fury Cutter,
         Hail, Hidden Power, Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Iron Tail,
         Leer, Mega Kick, Mega Punch, Mimic, Mud-Slap, Protect, Rage, Rain Dance, Rest,
         Return, Reversal, Roar, Rock Slide, Rock Smash, Rock Tomb, Safeguard, Sandstorm,
-        Secret Power, Seismic Toss, Shadow Ball, Shock Wave, Sleep Talk, Snore, Solarbeam,
+        Secret Power, Seismic Toss, Shadow Ball, Shock Wave, Sleep Talk, Snore, Solar Beam,
         Stomp, Strength, Substitute, Sunny Day, Surf, Swagger, Tail Whip, Thief, Thunder,
-        Thunderbolt, Thunderpunch, Toxic, Water Pulse, Body Slam, Icy Wind, Mimic,
+        Thunderbolt, Thunder Punch, Toxic, Water Pulse, Body Slam, Icy Wind, Mimic,
         Seismic Toss, Sing]
-    - rb: [Bide, Bite, Blizzard, Body Slam, Bubblebeam, Comet Punch, Counter, Dizzy
+    - rb: [Bide, Bite, Blizzard, Body Slam, Bubble Beam, Comet Punch, Counter, Dizzy
           Punch, Double-Edge, Double Team, Earthquake, Fire Blast, Fissure, Hyper
           Beam, Ice Beam, Leer, Mega Kick, Mega Punch, Mimic, Rage, Rest, Rock Slide,
         Seismic Toss, Skull Bash, Strength, Submission, Substitute, Surf, Tail Whip,

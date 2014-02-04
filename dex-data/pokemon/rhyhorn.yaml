@@ -9,19 +9,19 @@ pokemon:
     height: [1.9]
     introduction: rb
     moves:
-    - gs: [Dynamicpunch, Fire Punch, Fury Cutter, Hyper Beam, Surf, Thunderpunch]
+    - gs: [Dynamic Punch, Fire Punch, Fury Cutter, Hyper Beam, Surf, Thunder Punch]
     - bw: [Block, Brick Break, Cut, Dragon Tail, Fire Punch, Fling, Focus Blast, Giga
           Impact, Hammer Arm, Hyper Beam, Ice Punch, Outrage, Shadow Claw, Smack Down,
-        Surf, Thunderpunch, Body Slam, Double-Edge, Helping Hand, Icy Wind, Mimic,
+        Surf, Thunder Punch, Body Slam, Double-Edge, Helping Hand, Icy Wind, Mimic,
         Seismic Toss]
     - dp: [Avalanche, Block, Brick Break, Cut, Fire Punch, Fling, Focus Blast, Focus
           Punch, Fury Cutter, Giga Impact, Hammer Arm, Hyper Beam, Ice Punch, Outrage,
-        Shadow Claw, Surf, Thunderpunch, Whirlpool, Body Slam, Double-Edge, Helping
+        Shadow Claw, Surf, Thunder Punch, Whirlpool, Body Slam, Double-Edge, Helping
           Hand, Icy Wind, Mimic, Seismic Toss]
-    - rs: [Brick Break, Cut, Dynamicpunch, Fire Punch, Focus Punch, Fury Cutter, Hyper
-          Beam, Mega Kick, Mega Punch, Seismic Toss, Surf, Thunderpunch, Body Slam,
+    - rs: [Brick Break, Cut, Dynamic Punch, Fire Punch, Focus Punch, Fury Cutter, Hyper
+          Beam, Mega Kick, Mega Punch, Seismic Toss, Surf, Thunder Punch, Body Slam,
         Double-Edge, Helping Hand, Icy Wind, Mimic, Seismic Toss]
-    - rb: [Blizzard, Bubblebeam, Counter, Hyper Beam, Ice Beam, Mega Kick, Mega Punch,
+    - rb: [Blizzard, Bubble Beam, Counter, Hyper Beam, Ice Beam, Mega Kick, Mega Punch,
         Pay Day, Seismic Toss, Submission, Surf, Water Gun]
     - xy: [Avalanche, Block, Brick Break, Cut, Dragon Tail, Dynamic Punch, Fire Punch,
         Fling, Focus Blast, Focus Punch, Fury Cutter, Giga Impact, Hammer Arm, Helping
@@ -66,7 +66,7 @@ pokemon:
           Edge, Strength, Substitute, Sunny Day, Superpower, Swagger, Swords Dance,
         Tail Whip, Take Down, Thief, Thunder, Thunder Fang, Thunderbolt, Toxic, Uproar,
         Body Slam, Double-Edge, Icy Wind, Mimic]
-    - dp: [Ancientpower, Aqua Tail, Attract, Blizzard, Captivate, Counter, Crunch,
+    - dp: [Ancient Power, Aqua Tail, Attract, Blizzard, Captivate, Counter, Crunch,
         Crush Claw, Curse, Dig, Double Team, Dragon Pulse, Dragon Rush, Earth Power,
         Earthquake, Endeavor, Endure, Facade, Fire Blast, Fire Fang, Flamethrower,
         Frustration, Fury Attack, Headbutt, Hidden Power, Horn Attack, Horn Drill,

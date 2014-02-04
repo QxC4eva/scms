@@ -30,12 +30,12 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Attract, Belly Drum, Blizzard, Body Slam, Curse, Cut, Defense Curl, Disable,
-        Double Team, Dream Eater, Dynamicpunch, Earthquake, Endure, Fire Blast, Fire
+        Double Team, Dream Eater, Dynamic Punch, Earthquake, Endure, Fire Blast, Fire
           Punch, Flamethrower, Frustration, Headbutt, Hidden Power, Hyper Beam, Ice
           Beam, Ice Punch, Icy Wind, Iron Tail, Lick, Magnitude, Mud-Slap, Nightmare,
         Protect, Psych Up, Rain Dance, Rest, Return, Rock Smash, Rollout, Sandstorm,
         Screech, Shadow Ball, Slam, Sleep Talk, Snore, Stomp, Strength, Sunny Day,
-        Supersonic, Surf, Swagger, Thief, Thunder, Thunderbolt, Thunderpunch, Toxic,
+        Supersonic, Surf, Swagger, Thief, Thunder, Thunderbolt, Thunder Punch, Toxic,
         Wrap]
     - bw: [Amnesia, Aqua Tail, Attract, Belly Drum, Bind, Blizzard, Body Slam, Brick
           Break, Bulldoze, Chip Away, Curse, Cut, Defense Curl, Dig, Disable, Double
@@ -44,9 +44,9 @@ pokemon:
           Beam, Ice Beam, Ice Punch, Icy Wind, Incinerate, Iron Tail, Knock Off, Lick,
         Magnitude, Me First, Muddy Water, Power Whip, Protect, Psych Up, Rain Dance,
         Refresh, Rest, Retaliate, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout,
-        Round, Sandstorm, Screech, Shadow Ball, Slam, Sleep Talk, Smellingsalt, Snore,
-        Solarbeam, Stomp, Strength, Substitute, Sunny Day, Supersonic, Surf, Swagger,
-        Swords Dance, Thief, Thunder, Thunderbolt, Thunderpunch, Toxic, Work Up, Wrap,
+        Round, Sandstorm, Screech, Shadow Ball, Slam, Sleep Talk, Smelling Salts, Snore,
+        Solar Beam, Stomp, Strength, Substitute, Sunny Day, Supersonic, Surf, Swagger,
+        Swords Dance, Thief, Thunder, Thunderbolt, Thunder Punch, Toxic, Work Up, Wrap,
         Wring Out, Zen Headbutt, Double-Edge, Double-Edge, Helping Hand, Icy Wind,
         Mimic, Nightmare, Seismic Toss]
     - dp: [Amnesia, Aqua Tail, Attract, Belly Drum, Blizzard, Body Slam, Brick Break,
@@ -57,24 +57,24 @@ pokemon:
         Me First, Mud-Slap, Muddy Water, Natural Gift, Power Whip, Protect, Psych
           Up, Rain Dance, Refresh, Rest, Return, Rock Climb, Rock Slide, Rock Smash,
         Rock Tomb, Rollout, Sandstorm, Screech, Secret Power, Shadow Ball, Shock Wave,
-        Slam, Sleep Talk, Smellingsalt, Snore, Solarbeam, Stomp, Strength, Substitute,
+        Slam, Sleep Talk, Smelling Salts, Snore, Solar Beam, Stomp, Strength, Substitute,
         Sunny Day, Supersonic, Surf, Swagger, Swords Dance, Thief, Thunder, Thunderbolt,
-        Thunderpunch, Toxic, Water Pulse, Whirlpool, Wrap, Wring Out, Zen Headbutt,
+        Thunder Punch, Toxic, Water Pulse, Whirlpool, Wrap, Wring Out, Zen Headbutt,
         Double-Edge, Double-Edge, Helping Hand, Icy Wind, Mimic, Nightmare, Seismic
           Toss]
     - rs: [Attract, Belly Drum, Blizzard, Body Slam, Brick Break, Counter, Curse,
-        Cut, Defense Curl, Dig, Disable, Double-Edge, Double Team, Dream Eater, Dynamicpunch,
+        Cut, Defense Curl, Dig, Disable, Double-Edge, Double Team, Dream Eater, Dynamic Punch,
         Earthquake, Endure, Facade, Fire Blast, Fire Punch, Flamethrower, Focus Punch,
         Frustration, Hidden Power, Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Iron
           Tail, Knock Off, Lick, Magnitude, Mega Kick, Mega Punch, Mimic, Mud-Slap,
         Nightmare, Protect, Psych Up, Rain Dance, Refresh, Rest, Return, Rock Slide,
         Rock Smash, Rock Tomb, Rollout, Sandstorm, Screech, Secret Power, Seismic
-          Toss, Shadow Ball, Shock Wave, Slam, Sleep Talk, Smellingsalt, Snore, Solarbeam,
+          Toss, Shadow Ball, Shock Wave, Slam, Sleep Talk, Smelling Salts, Snore, Solar Beam,
         Stomp, Strength, Substitute, Sunny Day, Supersonic, Surf, Swagger, Swords
-          Dance, Thief, Thunder, Thunderbolt, Thunderpunch, Toxic, Water Pulse, Wrap,
+          Dance, Thief, Thunder, Thunderbolt, Thunder Punch, Toxic, Water Pulse, Wrap,
         Double-Edge, Double-Edge, Helping Hand, Icy Wind, Mimic, Nightmare, Seismic
           Toss]
-    - rb: [Bide, Blizzard, Body Slam, Bubblebeam, Counter, Cut, Defense Curl, Disable,
+    - rb: [Bide, Blizzard, Body Slam, Bubble Beam, Counter, Cut, Defense Curl, Disable,
         Double-Edge, Double Team, Earthquake, Fire Blast, Fissure, Hyper Beam, Ice
           Beam, Mega Kick, Mega Punch, Mimic, Rage, Rest, Screech, Seismic Toss, Skull
           Bash, Slam, Stomp, Strength, Submission, Substitute, Supersonic, Surf, Swords

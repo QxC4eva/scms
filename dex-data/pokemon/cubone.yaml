@@ -9,14 +9,14 @@ pokemon:
     height: [0.4]
     introduction: rb
     moves:
-    - gs: [Ancientpower, Attract, Belly Drum, Blizzard, Bone Club, Bone Rush, Bonemerang,
-        Curse, Detect, Dig, Double Team, Dynamicpunch, Earthquake, Endure, False Swipe,
+    - gs: [Ancient Power, Attract, Belly Drum, Blizzard, Bone Club, Bone Rush, Bonemerang,
+        Curse, Detect, Dig, Double Team, Dynamic Punch, Earthquake, Endure, False Swipe,
         Fire Blast, Fire Punch, Flamethrower, Focus Energy, Frustration, Growl, Headbutt,
         Hidden Power, Ice Beam, Icy Wind, Iron Tail, Leer, Mud-Slap, Perish Song,
         Protect, Rage, Rest, Return, Rock Slide, Rock Smash, Sandstorm, Screech, Skull
           Bash, Sleep Talk, Snore, Strength, Sunny Day, Swagger, Swords Dance, Tail
-          Whip, Thief, Thrash, Thunderpunch, Toxic]
-    - bw: [Aerial Ace, Ancientpower, Attract, Belly Drum, Blizzard, Bone Club, Bone
+          Whip, Thief, Thrash, Thunder Punch, Toxic]
+    - bw: [Aerial Ace, Ancient Power, Attract, Belly Drum, Blizzard, Bone Club, Bone
           Rush, Bonemerang, Brick Break, Bulldoze, Chip Away, Detect, Dig, Double-Edge,
         Double Kick, Double Team, Earth Power, Earthquake, Echoed Voice, Endeavor,
         Endure, Facade, False Swipe, Fire Blast, Fire Punch, Flamethrower, Fling,
@@ -25,8 +25,8 @@ pokemon:
         Mimic, Perish Song, Protect, Rage, Rest, Retaliate, Return, Rock Slide, Rock
           Smash, Rock Tomb, Round, Sandstorm, Screech, Seismic Toss, Skull Bash, Sleep
           Talk, Smack Down, Snore, Stealth Rock, Strength, Substitute, Sunny Day,
-        Swagger, Swords Dance, Tail Whip, Thief, Thrash, Thunderpunch, Toxic, Uproar]
-    - dp: [Aerial Ace, Ancientpower, Attract, Belly Drum, Blizzard, Body Slam, Bone
+        Swagger, Swords Dance, Tail Whip, Thief, Thrash, Thunder Punch, Toxic, Uproar]
+    - dp: [Aerial Ace, Ancient Power, Attract, Belly Drum, Blizzard, Body Slam, Bone
           Club, Bone Rush, Bonemerang, Brick Break, Captivate, Detect, Dig, Double-Edge,
         Double Kick, Double Team, Earth Power, Earthquake, Endeavor, Endure, Facade,
         False Swipe, Fire Blast, Fire Punch, Flamethrower, Fling, Focus Energy, Focus
@@ -35,18 +35,18 @@ pokemon:
         Mud-Slap, Natural Gift, Perish Song, Protect, Rage, Rest, Return, Rock Climb,
         Rock Slide, Rock Smash, Rock Tomb, Sandstorm, Screech, Secret Power, Seismic
           Toss, Skull Bash, Sleep Talk, Snore, Stealth Rock, Strength, Substitute,
-        Sunny Day, Swagger, Swords Dance, Tail Whip, Thief, Thrash, Thunderpunch,
+        Sunny Day, Swagger, Swords Dance, Tail Whip, Thief, Thrash, Thunder Punch,
         Toxic, Uproar]
-    - rs: [Aerial Ace, Ancientpower, Attract, Belly Drum, Blizzard, Body Slam, Bone
+    - rs: [Aerial Ace, Ancient Power, Attract, Belly Drum, Blizzard, Body Slam, Bone
           Club, Bone Rush, Bonemerang, Brick Break, Counter, Dig, Double-Edge, Double
-          Team, Dynamicpunch, Earthquake, Endure, Facade, False Swipe, Fire Blast,
+          Team, Dynamic Punch, Earthquake, Endure, Facade, False Swipe, Fire Blast,
         Fire Punch, Flamethrower, Focus Energy, Focus Punch, Frustration, Growl, Headbutt,
         Hidden Power, Ice Beam, Icy Wind, Iron Tail, Leer, Mega Kick, Mega Punch,
         Mimic, Mud-Slap, Perish Song, Protect, Rage, Rest, Return, Rock Slide, Rock
           Smash, Rock Tomb, Sandstorm, Screech, Secret Power, Seismic Toss, Skull
           Bash, Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger, Swords
-          Dance, Tail Whip, Thief, Thrash, Thunderpunch, Toxic]
-    - rb: [Bide, Blizzard, Body Slam, Bone Club, Bonemerang, Bubblebeam, Counter,
+          Dance, Tail Whip, Thief, Thrash, Thunder Punch, Toxic]
+    - rb: [Bide, Blizzard, Body Slam, Bone Club, Bonemerang, Bubble Beam, Counter,
         Dig, Double-Edge, Double Team, Earthquake, Fire Blast, Fissure, Focus Energy,
         Growl, Headbutt, Ice Beam, Leer, Mega Kick, Mega Punch, Mimic, Rage, Rest,
         Seismic Toss, Skull Bash, Strength, Submission, Substitute, Tail Whip, Take

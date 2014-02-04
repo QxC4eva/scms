@@ -10,14 +10,14 @@ pokemon:
     height: [5.2]
     introduction: gs
     moves:
-    - gs: [Aeroblast, Ancientpower, Blizzard, Curse, Detect, Double Team, Dragonbreath,
+    - gs: [Aeroblast, Ancient Power, Blizzard, Curse, Detect, Double Team, Dragon Breath,
         Dream Eater, Earthquake, Endure, Fly, Frustration, Future Sight, Giga Drain,
         Gust, Headbutt, Hidden Power, Hydro Pump, Hyper Beam, Ice Beam, Icy Wind,
         Iron Tail, Mud-Slap, Nightmare, Protect, Psych Up, Psychic, Rain Dance, Recover,
         Rest, Return, Roar, Rock Smash, Safeguard, Sandstorm, Shadow Ball, Sleep Talk,
         Snore, Steel Wing, Strength, Sunny Day, Surf, Swagger, Swift, Thunder, Thunderbolt,
         Toxic, Waterfall, Whirlpool, Whirlwind, Zap Cannon]
-    - bw: [Aerial Ace, Aeroblast, Ancientpower, Aqua Tail, Blizzard, Bulldoze, Calm
+    - bw: [Aerial Ace, Aeroblast, Ancient Power, Aqua Tail, Blizzard, Bulldoze, Calm
           Mind, Charge Beam, Dive, Double Team, Dragon Pulse, Dragon Rush, Dragon
           Tail, Dream Eater, Earth Power, Earthquake, Echoed Voice, Extrasensory,
         Facade, Flash, Fly, Frustration, Future Sight, Giga Drain, Giga Impact, Gust,
@@ -28,8 +28,8 @@ pokemon:
           Swap, Sky Attack, Sky Drop, Sleep Talk, Snore, Strength, Substitute, Sunny
           Day, Surf, Swagger, Tailwind, Telekinesis, Thunder, Thunder Wave, Thunderbolt,
         Toxic, Trick, Waterfall, Weather Ball, Whirlwind, Wonder Room, Zen Headbutt,
-        Body Slam, Double-Edge, Featherdance, Icy Wind, Mimic, Nightmare, Psycho Boost]
-    - dp: [Aerial Ace, Aeroblast, Air Cutter, Ancientpower, Aqua Tail, Avalanche,
+        Body Slam, Double-Edge, Feather Dance, Icy Wind, Mimic, Nightmare, Psycho Boost]
+    - dp: [Aerial Ace, Aeroblast, Air Cutter, Ancient Power, Aqua Tail, Avalanche,
         Blizzard, Brine, Calm Mind, Charge Beam, Defog, Dive, Double Team, Dragon
           Pulse, Dragon Rush, Dream Eater, Earth Power, Earthquake, Endure, Extrasensory,
         Facade, Flash, Fly, Frustration, Future Sight, Giga Drain, Giga Impact, Gust,
@@ -41,8 +41,8 @@ pokemon:
         Steel Wing, Strength, Substitute, Sunny Day, Surf, Swagger, Swift, Tailwind,
         Thunder, Thunder Wave, Thunderbolt, Toxic, Trick, Twister, Water Pulse, Waterfall,
         Weather Ball, Whirlpool, Whirlwind, Zen Headbutt, Body Slam, Double-Edge,
-        Featherdance, Icy Wind, Mimic, Nightmare, Psycho Boost]
-    - rs: [Aerial Ace, Aeroblast, Ancientpower, Blizzard, Body Slam, Calm Mind, Dive,
+        Feather Dance, Icy Wind, Mimic, Nightmare, Psycho Boost]
+    - rs: [Aerial Ace, Aeroblast, Ancient Power, Blizzard, Body Slam, Calm Mind, Dive,
         Double-Edge, Double Team, Dream Eater, Earthquake, Endure, Facade, Fly, Frustration,
         Future Sight, Giga Drain, Gust, Hail, Hidden Power, Hydro Pump, Hyper Beam,
         Ice Beam, Icy Wind, Iron Tail, Light Screen, Mimic, Mud-Slap, Nightmare, Protect,
@@ -50,7 +50,7 @@ pokemon:
           Smash, Safeguard, Sandstorm, Secret Power, Shadow Ball, Shock Wave, Skill
           Swap, Sleep Talk, Snore, Steel Wing, Strength, Substitute, Sunny Day, Surf,
         Swagger, Swift, Thunder, Thunder Wave, Thunderbolt, Toxic, Water Pulse, Waterfall,
-        Whirlwind, Body Slam, Double-Edge, Featherdance, Icy Wind, Mimic, Nightmare,
+        Whirlwind, Body Slam, Double-Edge, Feather Dance, Icy Wind, Mimic, Nightmare,
         Psycho Boost]
     - xy: [Aerial Ace, Aeroblast, Air Cutter, Ancient Power, Aqua Tail, Avalanche,
         Blizzard, Body Slam, Brine, Bulldoze, Calm Mind, Charge Beam, Defog, Dive,

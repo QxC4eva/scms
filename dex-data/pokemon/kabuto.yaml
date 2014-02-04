@@ -9,37 +9,37 @@ pokemon:
     height: [0.5]
     introduction: rb
     moves:
-    - gs: [Absorb, Ancientpower, Attract, Aurora Beam, Blizzard, Bubblebeam, Curse,
+    - gs: [Absorb, Ancient Power, Attract, Aurora Beam, Blizzard, Bubble Beam, Curse,
         Dig, Double Team, Endure, Flail, Frustration, Giga Drain, Harden, Hidden Power,
         Ice Beam, Icy Wind, Leer, Mega Drain, Protect, Rain Dance, Rapid Spin, Rest,
-        Return, Rock Smash, Rollout, Sand-Attack, Sandstorm, Scratch, Sleep Talk,
+        Return, Rock Smash, Rollout, Sand Attack, Sandstorm, Scratch, Sleep Talk,
         Snore, Swagger, Thief, Toxic]
-    - bw: [Absorb, Ancientpower, Aqua Jet, Attract, Aurora Beam, Blizzard, Bubblebeam,
+    - bw: [Absorb, Ancient Power, Aqua Jet, Attract, Aurora Beam, Blizzard, Bubble Beam,
         Confuse Ray, Dig, Double Team, Earth Power, Endure, Facade, Flail, Foresight,
         Frustration, Giga Drain, Hail, Harden, Hidden Power, Hone Claws, Ice Beam,
         Icy Wind, Iron Defense, Knock Off, Leer, Mega Drain, Metal Sound, Mud Shot,
         Protect, Rain Dance, Rapid Spin, Rest, Return, Rock Polish, Rock Slide, Rock
-          Smash, Rock Tomb, Round, Sand-Attack, Sandstorm, Scald, Scratch, Screech,
+          Smash, Rock Tomb, Round, Sand Attack, Sandstorm, Scald, Scratch, Screech,
         Sleep Talk, Smack Down, Snore, Stealth Rock, Substitute, Surf, Swagger, Thief,
         Toxic, Waterfall, Wring Out, Body Slam, Double-Edge, Mimic]
-    - dp: [Absorb, Ancientpower, Aqua Jet, Attract, Aurora Beam, Blizzard, Brine,
-        Bubblebeam, Captivate, Confuse Ray, Dig, Double Team, Earth Power, Endure,
+    - dp: [Absorb, Ancient Power, Aqua Jet, Attract, Aurora Beam, Blizzard, Brine,
+        Bubble Beam, Captivate, Confuse Ray, Dig, Double Team, Earth Power, Endure,
         Facade, Flail, Frustration, Giga Drain, Hail, Harden, Hidden Power, Ice Beam,
         Icy Wind, Iron Defense, Knock Off, Leer, Mega Drain, Metal Sound, Mud Shot,
         Mud-Slap, Natural Gift, Protect, Rain Dance, Rapid Spin, Rest, Return, Rock
-          Polish, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sand-Attack, Sandstorm,
+          Polish, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sand Attack, Sandstorm,
         Scratch, Screech, Secret Power, Sleep Talk, Snore, Stealth Rock, Substitute,
         Surf, Swagger, Thief, Toxic, Water Pulse, Waterfall, Whirlpool, Wring Out,
         Body Slam, Double-Edge, Mimic]
-    - rs: [Absorb, Aerial Ace, Ancientpower, Attract, Aurora Beam, Blizzard, Body
-          Slam, Bubblebeam, Confuse Ray, Dig, Double-Edge, Double Team, Endure, Facade,
+    - rs: [Absorb, Aerial Ace, Ancient Power, Attract, Aurora Beam, Blizzard, Body
+          Slam, Bubble Beam, Confuse Ray, Dig, Double-Edge, Double Team, Endure, Facade,
         Flail, Frustration, Giga Drain, Hail, Harden, Hidden Power, Ice Beam, Icy
           Wind, Knock Off, Leer, Mega Drain, Metal Sound, Mimic, Mud Shot, Protect,
         Rain Dance, Rapid Spin, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout,
-        Sand-Attack, Sandstorm, Scratch, Secret Power, Sleep Talk, Snore, Substitute,
+        Sand Attack, Sandstorm, Scratch, Secret Power, Sleep Talk, Snore, Substitute,
         Surf, Swagger, Thief, Toxic, Water Pulse, Waterfall, Body Slam, Double-Edge,
         Mimic]
-    - rb: [Absorb, Bide, Blizzard, Body Slam, Bubblebeam, Double-Edge, Double Team,
+    - rb: [Absorb, Bide, Blizzard, Body Slam, Bubble Beam, Double-Edge, Double Team,
         Harden, Hydro Pump, Ice Beam, Leer, Mimic, Rage, Reflect, Rest, Scratch, Slash,
         Substitute, Surf, Take Down, Toxic, Water Gun]
     - xy: [Absorb, Aerial Ace, Ancient Power, Aqua Jet, Attract, Aurora Beam, Blizzard,
@@ -75,10 +75,10 @@ pokemon:
     - gs: [Cut, Fury Cutter, Headbutt, Hyper Beam, Slash, Surf, Whirlpool]
     - bw: [Aerial Ace, Aqua Tail, Brick Break, Cut, Dive, Feint, Giga Impact, Hyper
           Beam, Low Kick, Night Slash, Slash, Stone Edge, Superpower, Swords Dance,
-        X-scissor, Body Slam, Double-Edge, Mimic, Seismic Toss]
+        X-Scissor, Body Slam, Double-Edge, Mimic, Seismic Toss]
     - dp: [Aerial Ace, Aqua Tail, Brick Break, Cut, Dive, Feint, Fury Cutter, Giga
           Impact, Headbutt, Hyper Beam, Low Kick, Night Slash, Rock Climb, Slash,
-        Stone Edge, Superpower, Swords Dance, X-scissor, Body Slam, Double-Edge, Mimic,
+        Stone Edge, Superpower, Swords Dance, X-Scissor, Body Slam, Double-Edge, Mimic,
         Seismic Toss]
     - rs: [Brick Break, Cut, Dive, Fury Cutter, Hyper Beam, Mega Kick, Seismic Toss,
         Slash, Swords Dance, Body Slam, Double-Edge, Mimic, Seismic Toss]

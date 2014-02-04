@@ -10,16 +10,16 @@ pokemon:
     height: [0.4]
     introduction: rb
     moves:
-    - gs: [Ancientpower, Attract, Blizzard, Curse, Cut, Defense Curl, Detect, Dig,
-        Double Team, Dragonbreath, Dream Eater, Dynamicpunch, Earthquake, Endure,
+    - gs: [Ancient Power, Attract, Blizzard, Curse, Cut, Defense Curl, Detect, Dig,
+        Double Team, Dragon Breath, Dream Eater, Dynamic Punch, Earthquake, Endure,
         Fire Blast, Fire Punch, Flamethrower, Flash, Fly, Frustration, Fury Cutter,
         Giga Drain, Headbutt, Hidden Power, Hyper Beam, Ice Beam, Ice Punch, Icy Wind,
         Iron Tail, Mega Punch, Metronome, Mud-Slap, Nightmare, Pound, Protect, Psych
           Up, Psychic, Rain Dance, Rest, Return, Roar, Rock Smash, Rollout, Sandstorm,
-        Shadow Ball, Sleep Talk, Sludge Bomb, Snore, Solarbeam, Steel Wing, Strength,
+        Shadow Ball, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Steel Wing, Strength,
         Sunny Day, Surf, Swagger, Sweet Scent, Swift, Thief, Thunder, Thunderbolt,
-        Thunderpunch, Toxic, Transform, Waterfall, Whirlpool, Zap Cannon]
-    - bw: [Acrobatics, Aerial Ace, After You, Ally Switch, Amnesia, Ancientpower,
+        Thunder Punch, Toxic, Transform, Waterfall, Whirlpool, Zap Cannon]
+    - bw: [Acrobatics, Aerial Ace, After You, Ally Switch, Amnesia, Ancient Power,
         Aqua Tail, Attract, Aura Sphere, Barrier, Baton Pass, Bind, Blizzard, Block,
         Bounce, Brick Break, Bug Bite, Bulk Up, Bulldoze, Calm Mind, Charge Beam,
         Covet, Cut, Dark Pulse, Dig, Dive, Double Team, Dragon Claw, Dragon Pulse,
@@ -38,19 +38,19 @@ pokemon:
           Smash, Rock Tomb, Role Play, Roost, Round, Safeguard, Sandstorm, Scald,
         Seed Bomb, Shadow Ball, Shadow Claw, Signal Beam, Skill Swap, Sky Attack,
         Sky Drop, Sleep Talk, Sludge Bomb, Sludge Wave, Smack Down, Snarl, Snatch,
-        Snore, Solarbeam, Spite, Stealth Rock, Stone Edge, Strength, Struggle Bug,
+        Snore, Solar Beam, Spite, Stealth Rock, Stone Edge, Strength, Struggle Bug,
         Substitute, Sunny Day, Super Fang, Superpower, Surf, Swagger, Swords Dance,
         Synthesis, Tailwind, Taunt, Telekinesis, Thief, Thunder, Thunder Wave, Thunderbolt,
-        Thunderpunch, Torment, Toxic, Transform, Trick, Trick Room, U-turn, Uproar,
+        Thunder Punch, Torment, Toxic, Transform, Trick, Trick Room, U-turn, Uproar,
         Venoshock, Volt Switch, Waterfall, Wild Charge, Will-O-Wisp, Wonder Room,
-        Work Up, Worry Seed, X-scissor, Zen Headbutt, Body Slam, Bullet Seed, Counter,
-        Defense Curl, Double-Edge, Dream Eater, Dynamicpunch, Endure, Faint Attack,
+        Work Up, Worry Seed, X-Scissor, Zen Headbutt, Body Slam, Bullet Seed, Counter,
+        Defense Curl, Double-Edge, Dream Eater, Dynamic Punch, Endure, Feint Attack,
         Fake Out, Fire Punch, Focus Punch, Fury Cutter, Giga Drain, Hypnosis, Ice
           Punch, Icy Wind, Iron Tail, Mega Kick, Mimic, Mud-Slap, Night Shade, Nightmare,
-        Psych Up, Role Play, Rollout, Secret Power, Seismic Toss, Selfdestruct, Shock
+        Psych Up, Role Play, Rollout, Secret Power, Seismic Toss, Self-Destruct, Shock
           Wave, Skill Swap, Sky Attack, Sleep Talk, Snatch, Snore, Softboiled, Steel
-          Wing, Swift, Thunderpunch, Water Pulse, Zap Cannon]
-    - dp: [Aerial Ace, Air Cutter, Amnesia, Ancientpower, Aqua Tail, Attract, Aura
+          Wing, Swift, Thunder Punch, Water Pulse, Zap Cannon]
+    - dp: [Aerial Ace, Air Cutter, Amnesia, Ancient Power, Aqua Tail, Attract, Aura
           Sphere, Avalanche, Barrier, Baton Pass, Blizzard, Block, Bounce, Brick Break,
         Brine, Bug Bite, Bulk Up, Bullet Seed, Calm Mind, Captivate, Charge Beam,
         Cut, Dark Pulse, Defog, Dig, Dive, Double Team, Dragon Claw, Dragon Pulse,
@@ -67,45 +67,45 @@ pokemon:
         Rock Climb, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Role Play, Rollout,
         Roost, Safeguard, Sandstorm, Secret Power, Seed Bomb, Shadow Ball, Shadow
           Claw, Shock Wave, Signal Beam, Silver Wind, Skill Swap, Sky Attack, Sleep
-          Talk, Sludge Bomb, Snatch, Snore, Solarbeam, Spite, Stealth Rock, Steel
+          Talk, Sludge Bomb, Snatch, Snore, Solar Beam, Spite, Stealth Rock, Steel
           Wing, Stone Edge, Strength, String Shot, Substitute, Sucker Punch, Sunny
           Day, Super Fang, Superpower, Surf, Swagger, Swift, Swords Dance, Synthesis,
-        Tailwind, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Thunderpunch,
+        Tailwind, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Thunder Punch,
         Torment, Toxic, Transform, Trick, Trick Room, Twister, U-turn, Uproar, Vacuum
-          Wave, Water Pulse, Waterfall, Whirlpool, Will-O-Wisp, Worry Seed, X-scissor,
+          Wave, Water Pulse, Waterfall, Whirlpool, Will-O-Wisp, Worry Seed, X-Scissor,
         Zen Headbutt, Body Slam, Bullet Seed, Counter, Defense Curl, Double-Edge,
-        Dream Eater, Dynamicpunch, Endure, Faint Attack, Fake Out, Fire Punch, Focus
+        Dream Eater, Dynamic Punch, Endure, Feint Attack, Fake Out, Fire Punch, Focus
           Punch, Fury Cutter, Giga Drain, Hypnosis, Ice Punch, Icy Wind, Iron Tail,
         Mega Kick, Mimic, Mud-Slap, Night Shade, Nightmare, Psych Up, Role Play, Rollout,
-        Secret Power, Seismic Toss, Selfdestruct, Shock Wave, Skill Swap, Sky Attack,
-        Sleep Talk, Snatch, Snore, Softboiled, Steel Wing, Swift, Thunderpunch, Water
+        Secret Power, Seismic Toss, Self-Destruct, Shock Wave, Skill Swap, Sky Attack,
+        Sleep Talk, Snatch, Snore, Softboiled, Steel Wing, Swift, Thunder Punch, Water
           Pulse, Zap Cannon]
-    - rs: [Aerial Ace, Ancientpower, Attract, Blizzard, Body Slam, Brick Break, Bulk
+    - rs: [Aerial Ace, Ancient Power, Attract, Blizzard, Body Slam, Brick Break, Bulk
           Up, Bullet Seed, Calm Mind, Counter, Cut, Defense Curl, Dig, Dive, Double-Edge,
-        Double Team, Dragon Claw, Dream Eater, Dynamicpunch, Earthquake, Endure, Explosion,
-        Facade, Faint Attack, Fake Out, Fire Blast, Fire Punch, Flamethrower, Flash,
+        Double Team, Dragon Claw, Dream Eater, Dynamic Punch, Earthquake, Endure, Explosion,
+        Facade, Feint Attack, Fake Out, Fire Blast, Fire Punch, Flamethrower, Flash,
         Fly, Focus Punch, Frustration, Fury Cutter, Giga Drain, Hail, Hidden Power,
         Hyper Beam, Hypnosis, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Light Screen,
         Mega Kick, Mega Punch, Metronome, Mimic, Mud-Slap, Night Shade, Nightmare,
         Overheat, Pound, Protect, Psych Up, Psychic, Rain Dance, Reflect, Rest, Return,
         Roar, Rock Slide, Rock Smash, Rock Tomb, Role Play, Rollout, Safeguard, Sandstorm,
-        Secret Power, Seismic Toss, Selfdestruct, Shadow Ball, Shock Wave, Skill Swap,
-        Sky Attack, Sleep Talk, Sludge Bomb, Snatch, Snore, Softboiled, Solarbeam,
+        Secret Power, Seismic Toss, Self-Destruct, Shadow Ball, Shock Wave, Skill Swap,
+        Sky Attack, Sleep Talk, Sludge Bomb, Snatch, Snore, Softboiled, Solar Beam,
         Steel Wing, Strength, Substitute, Sunny Day, Surf, Swagger, Swift, Swords
-          Dance, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Torment,
+          Dance, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Torment,
         Toxic, Transform, Water Pulse, Waterfall, Zap Cannon, Body Slam, Bullet Seed,
-        Counter, Defense Curl, Double-Edge, Dream Eater, Dynamicpunch, Endure, Faint
+        Counter, Defense Curl, Double-Edge, Dream Eater, Dynamic Punch, Endure, Faint
           Attack, Fake Out, Fire Punch, Focus Punch, Fury Cutter, Giga Drain, Hypnosis,
         Ice Punch, Icy Wind, Iron Tail, Mega Kick, Mimic, Mud-Slap, Night Shade, Nightmare,
-        Psych Up, Role Play, Rollout, Secret Power, Seismic Toss, Selfdestruct, Shock
+        Psych Up, Role Play, Rollout, Secret Power, Seismic Toss, Self-Destruct, Shock
           Wave, Skill Swap, Sky Attack, Sleep Talk, Snatch, Snore, Softboiled, Steel
-          Wing, Swift, Thunderpunch, Water Pulse, Zap Cannon]
-    - rb: [Bide, Blizzard, Body Slam, Bubblebeam, Counter, Cut, Dig, Double-Edge,
+          Wing, Swift, Thunder Punch, Water Pulse, Zap Cannon]
+    - rb: [Bide, Blizzard, Body Slam, Bubble Beam, Counter, Cut, Dig, Double-Edge,
         Double Team, Dragon Rage, Dream Eater, Earthquake, Egg Bomb, Explosion, Fire
           Blast, Fissure, Flash, Fly, Horn Drill, Hyper Beam, Ice Beam, Mega Drain,
         Mega Kick, Mega Punch, Metronome, Mimic, Pay Day, Pound, Psychic, Psywave,
-        Rage, Razor Wind, Reflect, Rest, Rock Slide, Seismic Toss, Selfdestruct, Skull
-          Bash, Sky Attack, Softboiled, Solarbeam, Strength, Submission, Substitute,
+        Rage, Razor Wind, Reflect, Rest, Rock Slide, Seismic Toss, Self-Destruct, Skull
+          Bash, Sky Attack, Softboiled, Solar Beam, Strength, Submission, Substitute,
         Surf, Swift, Swords Dance, Take Down, Teleport, Thunder, Thunder Wave, Thunderbolt,
         Toxic, Transform, Tri Attack, Water Gun, Whirlwind]
     - xy: [Acrobatics, Aerial Ace, Air Cutter, Ally Switch, Amnesia, Ancient Power,

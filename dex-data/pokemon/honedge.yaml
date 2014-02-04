@@ -4,7 +4,7 @@ pokemon:
     - [Stance Change]
     egggroups:
     - [Mineral]
-    evolutions: [Aegislash-Blade]
+    evolutions: []
     height: [1.7]
     introduction: xy
     moves:
@@ -17,20 +17,6 @@ pokemon:
     types:
     - [Steel, Ghost]
     weight: [52]
-  Aegislash-Blade:
-    abilities:
-    - [Stance Change]
-    egggroups:
-    - [Mineral]
-    height: [0]
-    introduction: xy
-    stats:
-    - [60, 150, 50, 150, 50, 60]
-    tags:
-    - []
-    types:
-    - [Steel, Ghost]
-    weight: [0]
   Doublade:
     abilities:
     - [No Guard]

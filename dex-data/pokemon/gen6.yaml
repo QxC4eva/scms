@@ -1,74 +1,3 @@
-evolutions:
-- {from: Venusaur, to: Venusaur-Mega}
-- {from: Blastoise, to: Blastoise-Mega}
-- {from: Alakazam, to: Alakazam-Mega}
-- {from: Gengar, to: Gengar-Mega}
-- {from: Kangaskhan, to: Kangaskhan-Mega}
-- {from: Pinsir, to: Pinsir-Mega}
-- {from: Gyarados, to: Gyarados-Mega}
-- {from: Eevee, to: Sylveon}
-- {from: Aerodactyl, to: Aerodactyl-Mega}
-- {from: Ampharos, to: Ampharos-Mega}
-- {from: Scizor, to: Scizor-Mega}
-- {from: Heracross, to: Heracross-Mega}
-- {from: Houndoom, to: Houndoom-Mega}
-- {from: Tyranitar, to: Tyranitar-Mega}
-- {from: Blaziken, to: Blaziken-Mega}
-- {from: Gardevoir, to: Gardevoir-Mega}
-- {from: Mawile, to: Mawile-Mega}
-- {from: Aggron, to: Aggron-Mega}
-- {from: Medicham, to: Medicham-Mega}
-- {from: Manectric, to: Manectric-Mega}
-- {from: Banette, to: Banette-Mega}
-- {from: Absol, to: Absol-Mega}
-- {from: Garchomp, to: Garchomp-Mega}
-- {from: Lucario, to: Lucario-Mega}
-- {from: Abomasnow, to: Abomasnow-Mega}
-- {from: Chespin, to: Quilladin}
-- {from: Quilladin, to: Chesnaught}
-- {from: Fennekin, to: Braixen}
-- {from: Braixen, to: Delphox}
-- {from: Froakie, to: Frogadier}
-- {from: Frogadier, to: Greninja}
-- {from: Bunnelby, to: Diggersby}
-- {from: Fletchling, to: Fletchinder}
-- {from: Fletchinder, to: Talonflame}
-- {from: Scatterbug, to: Spewpa}
-- {from: Spewpa, to: Vivillon}
-- {from: Litleo, to: Pyroar}
-- {from: Flabebe, to: Floette}
-- {from: Floette, to: Florges}
-- {from: Skiddo, to: Gogoat}
-- {from: Pancham, to: Pangoro}
-- {from: Espurr, to: Meowstic}
-- {from: Meowstic, to: Meowstic-F}
-- {from: Honedge, to: Doublade}
-- {from: Doublade, to: Aegislash}
-- {from: Aegislash, to: Aegislash-Blade}
-- {from: Spritzee, to: Aromatisse}
-- {from: Swirlix, to: Slurpuff}
-- {from: Inkay, to: Malamar}
-- {from: Binacle, to: Barbaracle}
-- {from: Skrelp, to: Dragalge}
-- {from: Clauncher, to: Clawitzer}
-- {from: Helioptile, to: Heliolisk}
-- {from: Tyrunt, to: Tyrantrum}
-- {from: Amaura, to: Aurorus}
-- {from: Goomy, to: Sliggoo}
-- {from: Sliggoo, to: Goodra}
-- {from: Phantump, to: Trevenant}
-- {from: Pumpkaboo, to: Gourgeist}
-- {from: Pumpkaboo, to: Pumpkaboo-Small}
-- {from: Pumpkaboo, to: Pumpkaboo-Large}
-- {from: Pumpkaboo, to: Pumpkaboo-Super}
-- {from: Pumpkaboo-Small, to: Gourgeist-Small}
-- {from: Pumpkaboo-Large, to: Gourgeist-Large}
-- {from: Pumpkaboo-Super, to: Gourgeist-Super}
-- {from: Gourgeist, to: Gourgeist-Small}
-- {from: Gourgeist, to: Gourgeist-Large}
-- {from: Gourgeist, to: Gourgeist-Super}
-- {from: Bergmite, to: Avalugg}
-- {from: Noibat, to: Noivern}
 pokemon:
   Abomasnow-Mega:
     abilities:
@@ -103,6 +32,7 @@ pokemon:
     - [Stance Change]
     egggroups:
     - [Mineral]
+    evolutions: [Aegislash-Blade]
     height: [1.7]
     introduction: xy
     moves:
@@ -176,6 +106,7 @@ pokemon:
     - [Refrigerate, Snow Warning]
     egggroups:
     - [Monster]
+    evolutions: [Aurorus]
     height: [1.3]
     introduction: xy
     moves:
@@ -293,6 +224,7 @@ pokemon:
     - [Own Tempo, Ice Body, Sturdy]
     egggroups:
     - [Monster]
+    evolutions: [Avalugg]
     height: [1]
     introduction: xy
     moves:
@@ -315,6 +247,7 @@ pokemon:
     - [Tough Claws, Sniper, Pickpocket]
     egggroups:
     - [Water 3]
+    evolutions: [Barbaracle]
     height: [0.5]
     introduction: xy
     moves:
@@ -368,6 +301,7 @@ pokemon:
     - [Blaze, Magician]
     egggroups:
     - [Field]
+    evolutions: [Delphox]
     height: [1]
     introduction: xy
     moves:
@@ -384,6 +318,7 @@ pokemon:
     - [Pickup, Cheek Pouch, Huge Power]
     egggroups:
     - [Field]
+    evolutions: [Diggersby]
     height: [0.4]
     introduction: xy
     moves:
@@ -446,6 +381,7 @@ pokemon:
     - [Overgrow, Bulletproof]
     egggroups:
     - [Field]
+    evolutions: [Quilladin]
     height: [0.4]
     introduction: xy
     moves:
@@ -470,6 +406,7 @@ pokemon:
     - [Mega Launcher]
     egggroups:
     - [Water 1, Water 3]
+    evolutions: [Clawitzer]
     height: [0.5]
     introduction: xy
     moves:
@@ -563,6 +500,7 @@ pokemon:
     - [No Guard]
     egggroups:
     - [Mineral]
+    evolutions: [Aegislash]
     height: [0.8]
     introduction: xy
     moves:
@@ -596,6 +534,7 @@ pokemon:
     - [Keen Eye, Infiltrator, Own Tempo]
     egggroups:
     - [Field]
+    evolutions: [Meowstic]
     height: [0.3]
     introduction: xy
     moves:
@@ -618,6 +557,7 @@ pokemon:
     - [Blaze, Magician]
     egggroups:
     - [Field]
+    evolutions: [Braixen]
     height: [0.4]
     introduction: xy
     moves:
@@ -640,6 +580,7 @@ pokemon:
     - [Flower Veil, Symbiosis]
     egggroups:
     - [Fairy]
+    evolutions: [Floette]
     height: [0.1]
     introduction: xy
     moves:
@@ -662,6 +603,7 @@ pokemon:
     - [Flame Body, Gale Wings]
     egggroups:
     - [Flying]
+    evolutions: [Talonflame]
     height: [0]
     introduction: xy
     moves:
@@ -678,6 +620,7 @@ pokemon:
     - [Big Pecks, Gale Wings]
     egggroups:
     - [Flying]
+    evolutions: [Fletchinder]
     height: [0.3]
     introduction: xy
     moves:
@@ -698,6 +641,7 @@ pokemon:
     - [Flower Veil, Symbiosis]
     egggroups:
     - [Fairy]
+    evolutions: [Florges]
     height: [0.2]
     introduction: xy
     moves:
@@ -731,6 +675,7 @@ pokemon:
     - [Torrent, Protean]
     egggroups:
     - [Water 1]
+    evolutions: [Frogadier]
     height: [0.3]
     introduction: xy
     moves:
@@ -753,6 +698,7 @@ pokemon:
     - [Torrent, Protean]
     egggroups:
     - [Water 1]
+    evolutions: [Greninja]
     height: [0.6]
     introduction: xy
     moves:
@@ -867,6 +813,7 @@ pokemon:
     - [Sap Sipper, Hydration, Gooey]
     egggroups:
     - [Dragon]
+    evolutions: [Sliggoo]
     height: [0.3]
     introduction: xy
     moves:
@@ -888,6 +835,7 @@ pokemon:
     - [Pickup, Frisk, Insomnia]
     egggroups:
     - [Amorphous]
+    evolutions: [Gourgeist-Small, Gourgeist-Large, Gourgeist-Super]
     height: [0]
     introduction: xy
     moves:
@@ -1018,6 +966,7 @@ pokemon:
     - [Dry Skin, Sand Veil, Solar Power]
     egggroups:
     - [Monster, Dragon]
+    evolutions: [Heliolisk]
     height: [0.5]
     introduction: xy
     moves:
@@ -1054,6 +1003,7 @@ pokemon:
     - [No Guard]
     egggroups:
     - [Mineral]
+    evolutions: [Doublade]
     height: [0.8]
     introduction: xy
     moves:
@@ -1089,6 +1039,7 @@ pokemon:
     - [Contrary, Suction Cups, Infiltrator]
     egggroups:
     - [Water 1, Water 2]
+    evolutions: [Malamar]
     height: [0.4]
     introduction: xy
     moves:
@@ -1148,6 +1099,7 @@ pokemon:
     - [Rivalry, Unnerve, Moxie]
     egggroups:
     - [Field]
+    evolutions: [Pyroar]
     height: [0.6]
     introduction: xy
     moves:
@@ -1242,6 +1194,7 @@ pokemon:
     - [Keen Eye, Infiltrator, Prankster]
     egggroups:
     - [Field]
+    evolutions: [Meowstic-F]
     height: [0.6]
     introduction: xy
     moves:
@@ -1274,6 +1227,7 @@ pokemon:
     - [Frisk, Infiltrator, Telepathy]
     egggroups:
     - [Flying]
+    evolutions: [Noivern]
     height: [0.5]
     introduction: xy
     moves:
@@ -1314,6 +1268,7 @@ pokemon:
     - [Iron Fist, Mold Breaker, Scrappy]
     egggroups:
     - [Field, Human-Like]
+    evolutions: [Pangoro]
     height: [0.6]
     introduction: xy
     moves:
@@ -1355,6 +1310,7 @@ pokemon:
     - [Natural Cure, Frisk, Harvest]
     egggroups:
     - [Grass, Amorphous]
+    evolutions: [Trevenant]
     height: [0.4]
     introduction: xy
     moves:
@@ -1392,6 +1348,7 @@ pokemon:
     - [Pickup, Frisk, Insomnia]
     egggroups:
     - [Amorphous]
+    evolutions: [Gourgeist, Pumpkaboo-Small, Pumpkaboo-Large, Pumpkaboo-Super]
     height: [0]
     introduction: xy
     moves:
@@ -1416,6 +1373,7 @@ pokemon:
     - [Pickup, Frisk, Insomnia]
     egggroups:
     - [Amorphous]
+    evolutions: [Gourgeist-Large]
     height: [0]
     introduction: xy
     stats:
@@ -1430,6 +1388,7 @@ pokemon:
     - [Pickup, Frisk, Insomnia]
     egggroups:
     - [Amorphous]
+    evolutions: [Gourgeist-Small]
     height: [0]
     introduction: xy
     stats:
@@ -1444,6 +1403,7 @@ pokemon:
     - [Pickup, Frisk, Insomnia]
     egggroups:
     - [Amorphous]
+    evolutions: [Gourgeist-Super]
     height: [0]
     introduction: xy
     stats:
@@ -1474,6 +1434,7 @@ pokemon:
     - [Overgrow, Bulletproof]
     egggroups:
     - [Field]
+    evolutions: [Chesnaught]
     height: [0.7]
     introduction: xy
     moves:
@@ -1490,6 +1451,7 @@ pokemon:
     - [Shield Dust, Compound Eyes, Friend Guard]
     egggroups:
     - [Bug]
+    evolutions: [Spewpa]
     height: [0.3]
     introduction: xy
     moves:
@@ -1520,6 +1482,7 @@ pokemon:
     - [Sap Sipper, Grass Pelt]
     egggroups:
     - [Field]
+    evolutions: [Gogoat]
     height: [0.9]
     introduction: xy
     moves:
@@ -1542,6 +1505,7 @@ pokemon:
     - [Poison Point, Poison Touch, Adaptability]
     egggroups:
     - [Water 1, Dragon]
+    evolutions: [Dragalge]
     height: [0.5]
     introduction: xy
     moves:
@@ -1563,6 +1527,7 @@ pokemon:
     - [Sap Sipper, Hydration, Gooey]
     egggroups:
     - [Dragon]
+    evolutions: [Goodra]
     height: [0.8]
     introduction: xy
     moves:
@@ -1595,6 +1560,7 @@ pokemon:
     - [Shed Skin, Friend Guard]
     egggroups:
     - [Bug]
+    evolutions: [Vivillon]
     height: [0.3]
     introduction: xy
     moves:
@@ -1611,6 +1577,7 @@ pokemon:
     - [Healer, Aroma Veil]
     egggroups:
     - [Fairy]
+    evolutions: [Aromatisse]
     height: [0.2]
     introduction: xy
     moves:
@@ -1633,6 +1600,7 @@ pokemon:
     - [Sweet Veil, Unburden]
     egggroups:
     - [Fairy]
+    evolutions: [Slurpuff]
     height: [0.4]
     introduction: xy
     moves:
@@ -1737,6 +1705,7 @@ pokemon:
     - [Strong Jaw, Rock Head]
     egggroups:
     - [Monster, Dragon]
+    evolutions: [Tyrantrum]
     height: [0.8]
     introduction: xy
     moves:

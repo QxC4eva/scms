@@ -1,0 +1,41 @@
+pokemon:
+  Inkay:
+    abilities:
+    - [Contrary, Suction Cups, Infiltrator]
+    egggroups:
+    - [Water 1, Water 2]
+    evolutions: [Malamar]
+    height: [0.4]
+    introduction: xy
+    moves:
+    - xy: [Tackle, Peck, Constrict, Reflect, Foul Play, Swagger, Psywave, Topsy-Turvy,
+        Hypnosis, Psybeam, Switcheroo, Payback, Light Screen, Pluck, Psycho Cut, Slash,
+        Night Slash, Superpower, Calm Mind, Toxic, Hidden Power, Sunny Day, Taunt,
+        Protect, Rain Dance, Frustration, Thunderbolt, Return, Psychic, Double Team,
+        Flamethrower, Aerial Ace, Torment, Facade, Rest, Attract, Thief, Round, Fling,
+        Embargo, Retaliate, Flash, Psych Up, Rock Slide, Sleep Talk, Substitute, Trick
+          Room, Dark Pulse, Confide, Cut, Destiny Bond, Camouflage, Power Split, Simple
+          Beam, Flatter]
+    stats:
+    - [53, 54, 53, 37, 46, 45]
+    tags:
+    - []
+    types:
+    - [Dark, Psychic]
+    weight: [3.5]
+  Malamar:
+    abilities:
+    - [Contrary, Suction Cups, Infiltrator]
+    egggroups:
+    - [Water 1, Water 2]
+    height: [1.5]
+    introduction: xy
+    moves:
+    - xy: [Reversal, Psyshock, Hyper Beam, Giga Impact]
+    stats:
+    - [86, 92, 88, 68, 75, 73]
+    tags:
+    - []
+    types:
+    - [Dark, Psychic]
+    weight: [47]

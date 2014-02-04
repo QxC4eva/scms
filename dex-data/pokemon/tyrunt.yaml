@@ -1,0 +1,40 @@
+pokemon:
+  Tyrantrum:
+    abilities:
+    - [Strong Jaw, Rock Head]
+    egggroups:
+    - [Monster, Dragon]
+    height: [2.5]
+    introduction: xy
+    moves:
+    - xy: [Head Smash, Giga Impact, Hyper Beam]
+    stats:
+    - [82, 121, 119, 69, 59, 71]
+    tags:
+    - []
+    types:
+    - [Rock, Dragon]
+    weight: [270]
+  Tyrunt:
+    abilities:
+    - [Strong Jaw, Rock Head]
+    egggroups:
+    - [Monster, Dragon]
+    evolutions: [Tyrantrum]
+    height: [0.8]
+    introduction: xy
+    moves:
+    - xy: [Tail Whip, Tackle, Roar, Stomp, Bide, Stealth Rock, Bite, Charm, Ancient
+          Power, Dragon Tail, Crunch, Dragon Claw, Thrash, Earthquake, Horn Drill,
+        Hone Claws, Toxic, Hidden Power, Sunny Day, Protect, Frustration, Return,
+        Dig, Brick Break, Double Team, Sandstorm, Rock Tomb, Aerial Ace, Facade, Rest,
+        Attract, Round, Rock Polish, Stone Edge, Bulldoze, Rock Slide, Swagger, Sleep
+          Talk, Substitute, Rock Smash, Dark Pulse, Confide, Strength, Draco Meteor,
+        Fire Fang, Dragon Dance, Ice Fang, Thunder Fang, Poison Fang, Curse]
+    stats:
+    - [58, 89, 77, 45, 45, 48]
+    tags:
+    - []
+    types:
+    - [Rock, Dragon]
+    weight: [26]

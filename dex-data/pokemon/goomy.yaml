@@ -1,0 +1,58 @@
+pokemon:
+  Goodra:
+    abilities:
+    - [Sap Sipper, Hydration, Gooey]
+    egggroups:
+    - [Dragon]
+    height: [2]
+    introduction: xy
+    moves:
+    - xy: [Outrage, Feint, Aqua Tail, Power Whip, Hail, Hyper Beam, Thunder, Earthquake,
+        Flamethrower, Fire Blast, Focus Blast, Incinerate, Giga Impact, Bulldoze,
+        Dragon Tail, Rock Smash, Strength]
+    stats:
+    - [90, 100, 70, 110, 150, 80]
+    tags:
+    - []
+    types:
+    - [Dragon]
+    weight: [150.5]
+  Goomy:
+    abilities:
+    - [Sap Sipper, Hydration, Gooey]
+    egggroups:
+    - [Dragon]
+    evolutions: [Sliggoo]
+    height: [0.3]
+    introduction: xy
+    moves:
+    - xy: [Tackle, Bubble, Absorb, Protect, Bide, Dragon Breath, Rain Dance, Flail,
+        Body Slam, Muddy Water, Dragon Pulse, Toxic, Hidden Power, Sunny Day, Frustration,
+        Thunderbolt, Return, Double Team, Sludge Wave, Sludge Bomb, Facade, Rest,
+        Attract, Round, Rock Slide, Infestation, Swagger, Sleep Talk, Substitute,
+        Confide, Draco Meteor, Poison Tail, Iron Tail, Curse, Acid Armor, Counter,
+        Endure]
+    stats:
+    - [45, 50, 35, 55, 75, 40]
+    tags:
+    - []
+    types:
+    - [Dragon]
+    weight: [2.8]
+  Sliggoo:
+    abilities:
+    - [Sap Sipper, Hydration, Gooey]
+    egggroups:
+    - [Dragon]
+    evolutions: [Goodra]
+    height: [0.8]
+    introduction: xy
+    moves:
+    - xy: [Ice Beam, Blizzard]
+    stats:
+    - [68, 75, 53, 83, 113, 60]
+    tags:
+    - []
+    types:
+    - [Dragon]
+    weight: [17.5]

@@ -1,0 +1,23 @@
+pokemon:
+  Klefki:
+    abilities:
+    - [Prankster, Magician]
+    egggroups:
+    - [Mineral]
+    height: [0.2]
+    introduction: xy
+    moves:
+    - xy: [Fairy Lock, Tackle, Fairy Wind, Astonish, Metal Sound, Spikes, Draining
+          Kiss, Crafty Shield, Foul Play, Torment, Mirror Shot, Imprison, Recycle,
+        Play Rough, Magic Room, Heal Block, Psyshock, Calm Mind, Toxic, Hidden Power,
+        Sunny Day, Hyper Beam, Light Screen, Protect, Rain Dance, Safeguard, Frustration,
+        Return, Psychic, Double Team, Reflect, Facade, Rest, Attract, Thief, Round,
+        Giga Impact, Thunder Wave, Psych Up, Swagger, Sleep Talk, Substitute, Flash
+          Cannon, Dazzling Gleam, Confide, Cut, Iron Defense, Lock-On, Switcheroo]
+    stats:
+    - [57, 80, 91, 80, 87, 75]
+    tags:
+    - []
+    types:
+    - [Steel, Fairy]
+    weight: [3]

@@ -1,0 +1,40 @@
+pokemon:
+  Heliolisk:
+    abilities:
+    - [Dry Skin, Sand Veil, Solar Power]
+    egggroups:
+    - [Monster, Dragon]
+    height: [1]
+    introduction: xy
+    moves:
+    - xy: [Eerie Impulse, Hyper Beam, Focus Blast, Giga Impact]
+    stats:
+    - [62, 55, 52, 109, 94, 109]
+    tags:
+    - []
+    types:
+    - [Electric, Normal]
+    weight: [21]
+  Helioptile:
+    abilities:
+    - [Dry Skin, Sand Veil, Solar Power]
+    egggroups:
+    - [Monster, Dragon]
+    evolutions: [Heliolisk]
+    height: [0.5]
+    introduction: xy
+    moves:
+    - xy: [Pound, Tail Whip, Thunder Shock, Charge, Mud-Slap, Quick Attack, Razor
+          Wind, Parabolic Charge, Thunder Wave, Bulldoze, Volt Switch, Electrify,
+        Thunderbolt, Toxic, Hidden Power, Light Screen, Protect, Rain Dance, Frustration,
+        Thunder, Return, Dig, Double Team, Sandstorm, Rock Tomb, Facade, Rest, Attract,
+        Low Sweep, Round, Charge Beam, Flash, Psych Up, Rock Slide, Dragon Tail, Grass
+          Knot, Swagger, Sleep Talk, U-turn, Substitute, Wild Charge, Dark Pulse,
+        Confide, Cut, Surf, Camouflage, Agility, Glare, Electric Terrain]
+    stats:
+    - [44, 38, 33, 61, 43, 70]
+    tags:
+    - []
+    types:
+    - [Electric, Normal]
+    weight: [6]

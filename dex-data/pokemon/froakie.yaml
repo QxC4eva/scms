@@ -1,0 +1,58 @@
+pokemon:
+  Froakie:
+    abilities:
+    - [Torrent, Protean]
+    egggroups:
+    - [Water 1]
+    evolutions: [Frogadier]
+    height: [0.3]
+    introduction: xy
+    moves:
+    - xy: [Pound, Growl, Bubble, Quick Attack, Lick, Water Pulse, Smokescreen, Round,
+        Fling, Smack Down, Substitute, Bounce, Double Team, Hydro Pump, Toxic, Hidden
+          Power, Taunt, Ice Beam, Blizzard, Protect, Rain Dance, Frustration, Return,
+        Dig, Rock Tomb, Aerial Ace, Facade, Rest, Attract, Thief, Echoed Voice, Scald,
+        Acrobatics, Rock Slide, Grass Knot, Swagger, Sleep Talk, U-turn, Rock Smash,
+        Power-Up Punch, Confide, Cut, Surf, Strength, Waterfall, Water Pledge, Toxic
+          Spikes, Water Sport, Camouflage, Mud Sport, Mind Reader, Bestow]
+    stats:
+    - [41, 56, 41, 62, 44, 71]
+    tags:
+    - []
+    types:
+    - [Water]
+    weight: [7]
+  Frogadier:
+    abilities:
+    - [Torrent, Protean]
+    egggroups:
+    - [Water 1]
+    evolutions: [Greninja]
+    height: [0.6]
+    introduction: xy
+    moves:
+    - xy: [Dark Pulse]
+    stats:
+    - [54, 63, 52, 83, 56, 97]
+    tags:
+    - []
+    types:
+    - [Water]
+    weight: [10.9]
+  Greninja:
+    abilities:
+    - [Torrent, Protean]
+    egggroups:
+    - [Water 1]
+    height: [1.5]
+    introduction: xy
+    moves:
+    - xy: [Night Slash, Role Play, Mat Block, Shadow Sneak, Spikes, Feint Attack,
+        Water Shuriken, Extrasensory, Haze, Hyper Beam, Giga Impact, Hydro Cannon]
+    stats:
+    - [72, 95, 67, 103, 71, 122]
+    tags:
+    - []
+    types:
+    - [Water, Dark]
+    weight: [40]

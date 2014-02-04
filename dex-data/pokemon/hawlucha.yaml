@@ -1,0 +1,26 @@
+pokemon:
+  Hawlucha:
+    abilities:
+    - [Limber, Unburden, Mold Breaker]
+    egggroups:
+    - [Human-Like]
+    height: [0.8]
+    introduction: xy
+    moves:
+    - xy: [Detect, Tackle, Hone Claws, Karate Chop, Wing Attack, Roost, Aerial Ace,
+        Encore, Fling, Flying Press, Bounce, Endeavor, Feather Dance, High Jump Kick,
+        Sky Attack, Sky Drop, Swords Dance, Toxic, Bulk Up, Hidden Power, Sunny Day,
+        Taunt, Protect, Rain Dance, Frustration, Return, Dig, Brick Break, Double
+          Team, Rock Tomb, Torment, Facade, Rest, Attract, Low Sweep, Round, Steel
+          Wing, Focus Blast, False Swipe, Acrobatics, Payback, Retaliate, Giga Impact,
+        Stone Edge, Rock Slide, X-Scissor, Poison Jab, Grass Knot, Swagger, Sleep
+          Talk, U-turn, Substitute, Rock Smash, Power-Up Punch, Confide, Cut, Fly,
+        Strength, Quick Guard, Baton Pass, Entrainment, Me First, Ally Switch, Agility,
+        Mud Sport]
+    stats:
+    - [78, 92, 77, 74, 63, 118]
+    tags:
+    - []
+    types:
+    - [Fighting, Flying]
+    weight: [21.5]

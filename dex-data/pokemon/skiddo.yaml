@@ -1,0 +1,40 @@
+pokemon:
+  Gogoat:
+    abilities:
+    - [Sap Sipper, Grass Pelt]
+    egggroups:
+    - [Field]
+    height: [1.7]
+    introduction: xy
+    moves:
+    - xy: [Aerial Ace, Earthquake, Hyper Beam, Giga Impact]
+    stats:
+    - [123, 100, 62, 97, 81, 68]
+    tags:
+    - []
+    types:
+    - [Grass]
+    weight: [91]
+  Skiddo:
+    abilities:
+    - [Sap Sipper, Grass Pelt]
+    egggroups:
+    - [Field]
+    evolutions: [Gogoat]
+    height: [0.9]
+    introduction: xy
+    moves:
+    - xy: [Tackle, Growth, Vine Whip, Tail Whip, Leech Seed, Razor Leaf, Worry Seed,
+        Synthesis, Take Down, Bulldoze, Seed Bomb, Bulk Up, Double-Edge, Horn Leech,
+        Leaf Blade, Milk Drink, Roar, Toxic, Hidden Power, Sunny Day, Protect, Rain
+          Dance, Frustration, Solar Beam, Return, Dig, Brick Break, Double Team, Facade,
+        Rest, Attract, Round, Energy Ball, Payback, Retaliate, Rock Slide, Grass Knot,
+        Swagger, Sleep Talk, Substitute, Wild Charge, Rock Smash, Nature Power, Confide,
+        Surf, Strength, Rollout, Defense Curl]
+    stats:
+    - [66, 65, 48, 62, 57, 52]
+    tags:
+    - []
+    types:
+    - [Grass]
+    weight: [31]

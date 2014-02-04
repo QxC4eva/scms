@@ -1,0 +1,43 @@
+pokemon:
+  Pancham:
+    abilities:
+    - [Iron Fist, Mold Breaker, Scrappy]
+    egggroups:
+    - [Field, Human-Like]
+    evolutions: [Pangoro]
+    height: [0.6]
+    introduction: xy
+    moves:
+    - xy: [Tackle, Leer, Arm Thrust, Work Up, Karate Chop, Comet Punch, Slash, Circle
+          Throw, Vital Throw, Body Slam, Crunch, Entrainment, Parting Shot, Sky Uppercut,
+        Roar, Toxic, Bulk Up, Hidden Power, Sunny Day, Protect, Rain Dance, Frustration,
+        Return, Dig, Brick Break, Double Team, Sludge Bomb, Rock Tomb, Aerial Ace,
+        Torment, Facade, Rest, Attract, Low Sweep, Round, Echoed Voice, False Swipe,
+        Fling, Shadow Claw, Payback, Retaliate, Stone Edge, Swords Dance, Bulldoze,
+        Rock Slide, Grass Knot, Swagger, Sleep Talk, Substitute, Rock Smash, Dark
+          Pulse, Power-Up Punch, Confide, Cut, Surf, Strength, Foul Play, Quick Guard,
+        Me First, Storm Throw, Quash]
+    stats:
+    - [67, 82, 62, 46, 48, 43]
+    tags:
+    - []
+    types:
+    - [Fighting]
+    weight: [8]
+  Pangoro:
+    abilities:
+    - [Iron Fist, Mold Breaker, Scrappy]
+    egggroups:
+    - [Field, Human-Like]
+    height: [2.1]
+    introduction: xy
+    moves:
+    - xy: [Hammer Arm, Taunt, Hone Claws, Dragon Claw, Hyper Beam, Earthquake, Thief,
+        Focus Blast, Embargo, Giga Impact, X-Scissor, Infestation, Poison Jab, Snarl]
+    stats:
+    - [95, 124, 78, 69, 71, 58]
+    tags:
+    - []
+    types:
+    - [Fighting, Dark]
+    weight: [136]

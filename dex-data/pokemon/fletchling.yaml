@@ -1,0 +1,56 @@
+pokemon:
+  Fletchinder:
+    abilities:
+    - [Flame Body, Gale Wings]
+    egggroups:
+    - [Flying]
+    evolutions: [Talonflame]
+    height: [0]
+    introduction: xy
+    moves:
+    - xy: [Ember, Flamethrower, Fire Blast, Incinerate, Will-O-Wisp]
+    stats:
+    - [62, 73, 55, 56, 52, 84]
+    tags:
+    - []
+    types:
+    - [Fire, Flying]
+    weight: [0]
+  Fletchling:
+    abilities:
+    - [Big Pecks, Gale Wings]
+    egggroups:
+    - [Flying]
+    evolutions: [Fletchinder]
+    height: [0.3]
+    introduction: xy
+    moves:
+    - xy: [Tackle, Growl, Quick Attack, Peck, Agility, Flail, Roost, Razor Wind, Natural
+          Gift, Flame Charge, Acrobatics, Me First, Tailwind, Steel Wing, Toxic, Hidden
+          Power, Sunny Day, Taunt, Protect, Frustration, Return, Double Team, Aerial
+          Ace, Facade, Rest, Attract, Thief, Round, Overheat, Swords Dance, Swagger,
+        Sleep Talk, U-turn, Substitute, Confide, Fly, Quick Guard, Snatch]
+    stats:
+    - [45, 50, 43, 40, 38, 62]
+    tags:
+    - []
+    types:
+    - [Normal, Flying]
+    weight: [1.7]
+  Talonflame:
+    abilities:
+    - [Flame Body, Gale Wings]
+    egggroups:
+    - [Flying]
+    height: [1.2]
+    introduction: xy
+    moves:
+    - xy: [Brave Bird, Flare Blitz, Hone Claws, Bulk Up, Hyper Beam, Solar Beam, Giga
+          Impact]
+    stats:
+    - [78, 81, 71, 74, 69, 126]
+    tags:
+    - []
+    types:
+    - [Fire, Flying]
+    weight: [24.5]

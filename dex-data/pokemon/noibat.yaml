@@ -1,0 +1,42 @@
+pokemon:
+  Noibat:
+    abilities:
+    - [Frisk, Infiltrator, Telepathy]
+    egggroups:
+    - [Flying]
+    evolutions: [Noivern]
+    height: [0.5]
+    introduction: xy
+    moves:
+    - xy: [Screech, Supersonic, Tackle, Leech Life, Gust, Bite, Wing Attack, Agility,
+        Air Cutter, Roost, Razor Wind, Tailwind, Whirlwind, Super Fang, Air Slash,
+        Hurricane, Toxic, Hidden Power, Sunny Day, Taunt, Protect, Frustration, Solar
+          Beam, Return, Psychic, Shadow Ball, Brick Break, Double Team, Aerial Ace,
+        Torment, Facade, Rest, Attract, Thief, Round, Echoed Voice, Steel Wing, Acrobatics,
+        Shadow Claw, X-Scissor, Dream Eater, Swagger, Sleep Talk, U-turn, Substitute,
+        Wild Charge, Dark Pulse, Confide, Cut, Fly, Draco Meteor, Switcheroo, Snatch,
+        Outrage]
+    stats:
+    - [40, 30, 35, 45, 40, 55]
+    tags:
+    - []
+    types:
+    - [Flying, Dragon]
+    weight: [8]
+  Noivern:
+    abilities:
+    - [Frisk, Infiltrator, Telepathy]
+    egggroups:
+    - [Flying]
+    height: [1.5]
+    introduction: xy
+    moves:
+    - xy: [Moonlight, Boomburst, Dragon Pulse, Hone Claws, Dragon Claw, Hyper Beam,
+        Flamethrower, Focus Blast, Giga Impact]
+    stats:
+    - [85, 70, 80, 97, 80, 123]
+    tags:
+    - []
+    types:
+    - [Flying, Dragon]
+    weight: [85]

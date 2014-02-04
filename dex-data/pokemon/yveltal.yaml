@@ -1,0 +1,23 @@
+pokemon:
+  Yveltal:
+    abilities:
+    - [Dark Aura]
+    egggroups:
+    - [Undiscovered]
+    height: [5.8]
+    introduction: xy
+    moves:
+    - xy: [Hurricane, Razor Wind, Taunt, Roost, Double Team, Air Slash, Snarl, Oblivion
+          Wing, Disable, Dark Pulse, Foul Play, Phantom Force, Psychic, Dragon Rush,
+        Focus Blast, Sucker Punch, Hyper Beam, Sky Attack, Hone Claws, Dragon Claw,
+        Toxic, Hidden Power, Sunny Day, Protect, Rain Dance, Frustration, Return,
+        Shadow Ball, Aerial Ace, Torment, Facade, Rest, Thief, Round, Steel Wing,
+        Sky Drop, Acrobatics, Embargo, Shadow Claw, Giga Impact, Rock Slide, Dream
+          Eater, Swagger, Sleep Talk, U-turn, Substitute, Confide, Cut, Fly]
+    stats:
+    - [126, 131, 95, 131, 98, 99]
+    tags:
+    - []
+    types:
+    - [Dark, Flying]
+    weight: [203]

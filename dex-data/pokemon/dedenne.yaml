@@ -1,0 +1,23 @@
+pokemon:
+  Dedenne:
+    abilities:
+    - [Cheek Pouch, Pickup, Plus]
+    egggroups:
+    - [Field, Fairy]
+    height: [0.2]
+    introduction: xy
+    moves:
+    - xy: [Tackle, Tail Whip, Thunder Shock, Charge, Charm, Parabolic Charge, Nuzzle,
+        Thunder Wave, Volt Switch, Rest, Snore, Charge Beam, Entrainment, Play Rough,
+        Thunder, Discharge, Toxic, Hidden Power, Sunny Day, Protect, Rain Dance, Frustration,
+        Thunderbolt, Return, Dig, Double Team, Aerial Ace, Facade, Attract, Thief,
+        Round, Fling, Retaliate, Giga Impact, Flash, Grass Knot, Swagger, Sleep Talk,
+        U-turn, Substitute, Wild Charge, Confide, Cut, Helping Hand, Covet, Eerie
+          Impulse, Natural Gift]
+    stats:
+    - [67, 58, 57, 81, 67, 101]
+    tags:
+    - []
+    types:
+    - [Electric, Fairy]
+    weight: [2.2]

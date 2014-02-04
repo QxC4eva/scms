@@ -1,0 +1,40 @@
+pokemon:
+  Litleo:
+    abilities:
+    - [Rivalry, Unnerve, Moxie]
+    egggroups:
+    - [Field]
+    evolutions: [Pyroar]
+    height: [0.6]
+    introduction: xy
+    moves:
+    - xy: [Tackle, Leer, Ember, Work Up, Headbutt, Noble Roar, Take Down, Fire Fang,
+        Endeavor, Echoed Voice, Flamethrower, Crunch, Hyper Voice, Incinerate, Overheat,
+        Roar, Toxic, Hidden Power, Sunny Day, Taunt, Protect, Rain Dance, Frustration,
+        Solar Beam, Return, Dig, Double Team, Fire Blast, Facade, Flame Charge, Rest,
+        Attract, Thief, Round, Will-O-Wisp, Payback, Retaliate, Bulldoze, Swagger,
+        Sleep Talk, Substitute, Wild Charge, Rock Smash, Snarl, Dark Pulse, Confide,
+        Strength, Yawn, Entrainment, Snatch, Fire Spin]
+    stats:
+    - [62, 50, 58, 73, 54, 72]
+    tags:
+    - []
+    types:
+    - [Fire, Normal]
+    weight: [13.5]
+  Pyroar:
+    abilities:
+    - [Rivalry, Unnerve, Moxie]
+    egggroups:
+    - [Field]
+    height: [1.5]
+    introduction: xy
+    moves:
+    - xy: [Hyper Beam, Giga Impact]
+    stats:
+    - [86, 68, 72, 109, 66, 106]
+    tags:
+    - []
+    types:
+    - [Fire, Normal]
+    weight: [81.5]

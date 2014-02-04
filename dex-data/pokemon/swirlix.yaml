@@ -1,0 +1,40 @@
+pokemon:
+  Slurpuff:
+    abilities:
+    - [Sweet Veil, Unburden]
+    egggroups:
+    - [Fairy]
+    height: [0.8]
+    introduction: xy
+    moves:
+    - xy: [Hyper Beam, Giga Impact]
+    stats:
+    - [82, 80, 86, 85, 75, 72]
+    tags:
+    - []
+    types:
+    - [Fairy]
+    weight: [5]
+  Swirlix:
+    abilities:
+    - [Sweet Veil, Unburden]
+    egggroups:
+    - [Fairy]
+    evolutions: [Slurpuff]
+    height: [0.4]
+    introduction: xy
+    moves:
+    - xy: [Sweet Scent, Tackle, Fairy Wind, Play Nice, Fake Tears, Round, Cotton Spore,
+        Endeavor, Aromatherapy, Draining Kiss, Energy Ball, Cotton Guard, Wish, Play
+          Rough, Light Screen, Safeguard, Calm Mind, Toxic, Hidden Power, Sunny Day,
+        Protect, Rain Dance, Frustration, Thunderbolt, Return, Psychic, Double Team,
+        Flamethrower, Facade, Rest, Attract, Thief, Flash, Psych Up, Dream Eater,
+        Swagger, Sleep Talk, Substitute, Dazzling Gleam, Confide, Surf, Yawn, After
+          You, Copycat, Belly Drum]
+    stats:
+    - [62, 48, 66, 59, 57, 49]
+    tags:
+    - []
+    types:
+    - [Fairy]
+    weight: [3.5]

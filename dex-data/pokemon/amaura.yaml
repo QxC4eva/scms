@@ -1,0 +1,42 @@
+pokemon:
+  Amaura:
+    abilities:
+    - [Refrigerate, Snow Warning]
+    egggroups:
+    - [Monster]
+    evolutions: [Aurorus]
+    height: [1.3]
+    introduction: xy
+    moves:
+    - xy: [Growl, Powder Snow, Thunder Wave, Rock Throw, Icy Wind, Take Down, Mist,
+        Aurora Beam, Ancient Power, Round, Avalanche, Hail, Nature Power, Encore,
+        Light Screen, Ice Beam, Hyper Beam, Blizzard, Calm Mind, Roar, Toxic, Hidden
+          Power, Protect, Rain Dance, Safeguard, Frustration, Thunderbolt, Return,
+        Double Team, Reflect, Sandstorm, Rock Tomb, Facade, Rest, Attract, Echoed
+          Voice, Charge Beam, Rock Polish, Flash, Stone Edge, Psych Up, Bulldoze,
+        Frost Breath, Rock Slide, Dragon Tail, Dream Eater, Swagger, Sleep Talk, Substitute,
+        Flash Cannon, Rock Smash, Dark Pulse, Confide, Discharge, Mirror Coat, Haze,
+        Barrier, Magnet Rise]
+    stats:
+    - [77, 59, 50, 67, 63, 46]
+    tags:
+    - []
+    types:
+    - [Rock, Ice]
+    weight: [25.2]
+  Aurorus:
+    abilities:
+    - [Refrigerate, Snow Warning]
+    egggroups:
+    - [Monster]
+    height: [2.7]
+    introduction: xy
+    moves:
+    - xy: [Freeze-Dry, Thunder, Earthquake, Psychic, Giga Impact]
+    stats:
+    - [123, 77, 72, 99, 92, 58]
+    tags:
+    - []
+    types:
+    - [Rock, Ice]
+    weight: [225]

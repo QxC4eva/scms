@@ -40,6 +40,15 @@ pokemon:
         Rage, Razor Leaf, Reflect, Rest, Slam, Sleep Powder, Solarbeam, Stun Spore,
         Substitute, Swords Dance, Take Down, Toxic, Vine Whip, Wrap, Lovely Kiss,
         Sweet Kiss]
+    - xy: [Acid, Attract, Bullet Seed, Captivate, Clear Smog, Cut, Double-Edge, Double
+          Team, Encore, Endure, Energy Ball, Facade, Flash, Frustration, Gastro Acid,
+        Giga Drain, Grass Knot, Growth, Hidden Power, Ingrain, Knock Off, Leech Life,
+        Magical Leaf, Mimic, Natural Gift, Poison Powder, Power Whip, Protect, Razor
+          Leaf, Reflect, Rest, Return, Round, Secret Power, Seed Bomb, Slam, Sleep
+          Powder, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Stun Spore, Substitute,
+        Sucker Punch, Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis, Teeter
+          Dance, Thief, Tickle, Toxic, Venoshock, Vine Whip, Weather Ball, Worry Seed,
+        Wrap, Wring Out, Bind, Infestation, Nature Power, Confide, Belch, Acid Spray]
     stats:
     - [50, 75, 35, 70, 70, 40]
     - gs: [50, 75, 35, 70, 30, 40]
@@ -66,6 +75,8 @@ pokemon:
     - rs: [Body Slam, Hyper Beam, Spit Up, Stockpile, Swallow, Body Slam, Double-Edge,
         Mimic]
     - rb: [Body Slam, Hyper Beam]
+    - xy: [Body Slam, Giga Impact, Hyper Beam, Leaf Blade, Leaf Storm, Leaf Tornado,
+        Spit Up, Stockpile, Swallow]
     stats:
     - [80, 105, 65, 100, 100, 70]
     - gs: [80, 105, 65, 100, 60, 70]
@@ -91,6 +102,7 @@ pokemon:
     - dp: [Double-Edge, Mimic, Morning Sun]
     - rs: [Double-Edge, Mimic, Morning Sun]
     - rb: []
+    - xy: [Morning Sun, Bug Bite]
     stats:
     - [65, 90, 50, 85, 85, 55]
     - gs: [65, 90, 50, 85, 45, 55]

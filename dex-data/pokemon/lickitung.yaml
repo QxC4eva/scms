@@ -9,6 +9,7 @@ pokemon:
     moves:
     - bw: [Block, Explosion, Focus Blast, Gyro Ball]
     - dp: [Block, Explosion, Focus Blast, Gyro Ball]
+    - xy: [Block, Explosion, Focus Blast, Gyro Ball]
     stats:
     - [110, 85, 95, 80, 95, 50]
     tags:
@@ -76,6 +77,21 @@ pokemon:
           Beam, Mega Kick, Mega Punch, Mimic, Rage, Rest, Screech, Seismic Toss, Skull
           Bash, Slam, Stomp, Strength, Submission, Substitute, Supersonic, Surf, Swords
           Dance, Take Down, Thunder, Thunderbolt, Toxic, Water Gun, Wrap]
+    - xy: [Amnesia, Aqua Tail, Attract, Belly Drum, Blizzard, Body Slam, Brick Break,
+        Bulldoze, Captivate, Chip Away, Counter, Curse, Cut, Defense Curl, Dig, Disable,
+        Double-Edge, Double Team, Dragon Tail, Dream Eater, Dynamic Punch, Earthquake,
+        Endure, Facade, Fire Blast, Fire Punch, Flamethrower, Fling, Focus Punch,
+        Frustration, Giga Impact, Hammer Arm, Headbutt, Heal Bell, Helping Hand, Hidden
+          Power, Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Incinerate, Iron Tail,
+        Knock Off, Lick, Magnitude, Me First, Mega Kick, Mega Punch, Mimic, Muddy
+          Water, Mud-Slap, Natural Gift, Nightmare, Power Whip, Protect, Psych Up,
+        Rain Dance, Refresh, Rest, Retaliate, Return, Rock Climb, Rock Slide, Rock
+          Smash, Rock Tomb, Rollout, Round, Sandstorm, Screech, Secret Power, Seismic
+          Toss, Shadow Ball, Shock Wave, Slam, Sleep Talk, Smelling Salts, Snore,
+        Solar Beam, Stomp, Strength, Substitute, Sunny Day, Supersonic, Surf, Swagger,
+        Swords Dance, Thief, Thunder, Thunderbolt, Thunder Punch, Toxic, Water Pulse,
+        Whirlpool, Wish, Work Up, Wrap, Wring Out, Zen Headbutt, Bind, Power-Up Punch,
+        Confide, Belch]
     stats:
     - [90, 55, 75, 60, 60, 30]
     - gs: [90, 55, 75, 60, 75, 30]

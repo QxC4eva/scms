@@ -11,6 +11,9 @@ pokemon:
         Hyper Beam, Outrage, Rock Slide, Rock Smash, Rock Tomb, Strength]
     - dp: [Block, Brick Break, Earthquake, Fling, Focus Blast, Focus Punch, Giga Impact,
         Hyper Beam, Outrage, Rock Climb, Rock Slide, Rock Smash, Rock Tomb, Strength]
+    - xy: [Block, Brick Break, Bulldoze, Earthquake, Fling, Focus Blast, Focus Punch,
+        Giga Impact, Hyper Beam, Outrage, Rock Climb, Rock Slide, Rock Smash, Rock
+          Tomb, Strength]
     stats:
     - [90, 92, 75, 92, 85, 60]
     tags:
@@ -45,6 +48,15 @@ pokemon:
         Seed Bomb, Shadow Ball, Sheer Cold, Skull Bash, Sleep Talk, Snore, Solarbeam,
         Stomp, Substitute, Swagger, Swords Dance, Synthesis, Toxic, Water Pulse, Wood
           Hammer, Worry Seed]
+    - xy: [Attract, Avalanche, Blizzard, Bullet Seed, Captivate, Double-Edge, Double
+          Team, Endure, Energy Ball, Facade, Flash, Frost Breath, Frustration, Giga
+          Drain, Grass Knot, Grass Whistle, Growth, Hail, Headbutt, Hidden Power,
+        Ice Beam, Ice Punch, Ice Shard, Icy Wind, Ingrain, Iron Tail, Leech Seed,
+        Leer, Light Screen, Magical Leaf, Mist, Mud-Slap, Natural Gift, Powder Snow,
+        Protect, Rain Dance, Razor Leaf, Rest, Return, Role Play, Round, Safeguard,
+        Secret Power, Seed Bomb, Shadow Ball, Sheer Cold, Skull Bash, Sleep Talk,
+        Snore, Solar Beam, Stomp, Substitute, Swagger, Swords Dance, Synthesis, Toxic,
+        Water Pulse, Wood Hammer, Worry Seed, Confide]
     stats:
     - [60, 62, 50, 62, 60, 40]
     tags:

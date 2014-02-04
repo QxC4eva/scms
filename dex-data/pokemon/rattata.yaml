@@ -15,6 +15,7 @@ pokemon:
           Slam, Icy Wind, Mimic, Refresh]
     - rs: [Hyper Beam, Roar, Scary Face, Strength, Body Slam, Icy Wind, Mimic, Refresh]
     - rb: [Hyper Beam, Ice Beam]
+    - xy: [Giga Impact, Hyper Beam, Refresh, Roar, Scary Face, Strength, Swords Dance]
     stats:
     - [55, 81, 60, 50, 50, 97]
     - gs: [55, 81, 60, 50, 70, 97]
@@ -70,6 +71,16 @@ pokemon:
           Energy, Hyper Fang, Mimic, Quick Attack, Rage, Rest, Skull Bash, Substitute,
         Super Fang, Swift, Tackle, Tail Whip, Take Down, Thunder, Thunderbolt, Toxic,
         Water Gun]
+    - xy: [Assurance, Attract, Bite, Blizzard, Body Slam, Captivate, Charge Beam,
+        Counter, Crunch, Cut, Defense Curl, Dig, Double-Edge, Double Team, Endeavor,
+        Endure, Facade, Final Gambit, Flame Wheel, Focus Energy, Frustration, Fury
+          Swipes, Grass Knot, Headbutt, Hidden Power, Hyper Fang, Ice Beam, Icy Wind,
+        Iron Tail, Last Resort, Me First, Mimic, Mud-Slap, Natural Gift, Pluck, Protect,
+        Pursuit, Quick Attack, Rain Dance, Rest, Retaliate, Return, Revenge, Reversal,
+        Rock Smash, Round, Screech, Secret Power, Shadow Ball, Shock Wave, Sleep Talk,
+        Snore, Substitute, Sucker Punch, Sunny Day, Super Fang, Swagger, Swift, Tackle,
+        Tail Whip, Taunt, Thief, Thunder, Thunderbolt, Thunder Wave, Toxic, Uproar,
+        U-turn, Wild Charge, Work Up, Zen Headbutt, Covet, Confide]
     stats:
     - [30, 56, 35, 25, 25, 72]
     - gs: [30, 56, 35, 25, 35, 72]

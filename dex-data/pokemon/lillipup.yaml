@@ -9,6 +9,7 @@ pokemon:
     introduction: dp
     moves:
     - bw: [Payback, Strength, Surf]
+    - xy: [Payback, Strength, Surf]
     stats:
     - [65, 80, 65, 35, 65, 60]
     tags:
@@ -32,6 +33,14 @@ pokemon:
         Rock Tomb, Round, Sand-Attack, Shadow Ball, Sleep Talk, Snarl, Snore, Substitute,
         Sunny Day, Swagger, Tackle, Take Down, Thunder Fang, Thunder Wave, Thunderbolt,
         Toxic, Uproar, Wild Charge, Work Up, Yawn]
+    - xy: [Aerial Ace, Attract, Bite, Charm, Crunch, Dig, Double Team, Endure, Facade,
+        Fire Fang, Frustration, Giga Impact, Helping Hand, Hidden Power, Howl, Ice
+          Fang, Last Resort, Leer, Lick, Mud-Slap, Odor Sleuth, Protect, Pursuit,
+        Rain Dance, Rest, Retaliate, Return, Reversal, Roar, Rock Smash, Rock Tomb,
+        Round, Sand Attack, Shadow Ball, Snarl, Substitute, Sunny Day, Swagger, Tackle,
+        Take Down, Thunderbolt, Thunder Fang, Thunder Wave, Toxic, Wild Charge, Work
+          Up, Yawn, Covet, Uproar, Hyper Voice, Snore, Sleep Talk, Baby-Doll Eyes,
+        Play Rough, Confide, After You]
     stats:
     - [45, 60, 45, 25, 45, 55]
     tags:
@@ -48,6 +57,7 @@ pokemon:
     introduction: dp
     moves:
     - bw: [Hyper Beam, Iron Head, Superpower, Thunder]
+    - xy: [Fire Fang, Hyper Beam, Ice Fang, Thunder, Thunder Fang, Iron Head, Superpower]
     stats:
     - [85, 100, 90, 45, 90, 80]
     - xy: [85, 110, 90, 45, 90, 80]

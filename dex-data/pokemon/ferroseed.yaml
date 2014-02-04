@@ -15,6 +15,14 @@ pokemon:
         Rest, Return, Rock Climb, Rock Polish, Rock Smash, Rollout, Round, Seed Bomb,
         Selfdestruct, Sleep Talk, Snore, Solarbeam, Spikes, Stealth Rock, Substitute,
         Sunny Day, Swagger, Tackle, Thunder Wave, Thunderbolt, Toxic, Worry Seed]
+    - xy: [Bullet Seed, Curse, Double Team, Energy Ball, Explosion, Facade, Flash,
+        Flash Cannon, Frustration, Gravity, Gyro Ball, Harden, Hidden Power, Hone
+          Claws, Ingrain, Iron Defense, Iron Head, Leech Seed, Metal Claw, Mirror
+          Shot, Payback, Pin Missile, Poison Jab, Protect, Rest, Return, Rock Climb,
+        Rock Polish, Rock Smash, Rollout, Round, Seed Bomb, Self-Destruct, Solar Beam,
+        Spikes, Stealth Rock, Substitute, Sunny Day, Swagger, Tackle, Thunderbolt,
+        Thunder Wave, Toxic, Worry Seed, Magnet Rise, Snore, Giga Drain, Endeavor,
+        Sleep Talk, Nature Power, Confide, Acid Spray]
     stats:
     - [44, 50, 91, 24, 86, 10]
     tags:
@@ -33,6 +41,8 @@ pokemon:
     moves:
     - bw: [Aerial Ace, Bulldoze, Cut, Giga Impact, Grass Knot, Hyper Beam, Knock Off,
         Power Whip, Sandstorm, Shadow Claw, Strength, Swords Dance, Thunder]
+    - xy: [Aerial Ace, Bulldoze, Cut, Giga Impact, Grass Knot, Hyper Beam, Power Whip,
+        Sandstorm, Shadow Claw, Strength, Swords Dance, Thunder, Knock Off]
     stats:
     - [74, 94, 131, 54, 116, 20]
     tags:

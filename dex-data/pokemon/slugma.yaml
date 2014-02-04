@@ -17,6 +17,9 @@ pokemon:
         Refresh, Selfdestruct]
     - rs: [Earthquake, Hyper Beam, Rock Tomb, Sandstorm, Strength, Double-Edge, Mimic,
         Refresh, Selfdestruct]
+    - xy: [Bulldoze, Earthquake, Explosion, Giga Impact, Gyro Ball, Hyper Beam, Refresh,
+        Rock Polish, Sandstorm, Shell Smash, Smack Down, Solar Beam, Stealth Rock,
+        Stone Edge, Strength]
     stats:
     - [50, 50, 120, 80, 80, 30]
     tags:
@@ -61,6 +64,15 @@ pokemon:
         Reflect, Rest, Return, Rock Slide, Rock Smash, Rock Throw, Rollout, Secret
           Power, Selfdestruct, Sleep Talk, Smog, Snore, Substitute, Sunny Day, Swagger,
         Toxic, Yawn, Double-Edge, Mimic, Selfdestruct]
+    - xy: [Acid Armor, Amnesia, Ancient Power, Attract, Body Slam, Captivate, Curse,
+        Defense Curl, Double-Edge, Double Team, Earth Power, Ember, Endure, Facade,
+        Fire Blast, Flame Burst, Flame Charge, Flamethrower, Frustration, Harden,
+        Heat Wave, Hidden Power, Incinerate, Inferno, Iron Defense, Lava Plume, Light
+          Screen, Memento, Mimic, Mud-Slap, Natural Gift, Overheat, Pain Split, Protect,
+        Recover, Reflect, Rest, Return, Rock Slide, Rock Smash, Rock Throw, Rock Tomb,
+        Rollout, Round, Secret Power, Self-Destruct, Sleep Talk, Smog, Smokescreen,
+        Snore, Spit Up, Stockpile, Substitute, Sunny Day, Swagger, Swallow, Toxic,
+        Will-O-Wisp, Yawn, After You, Infestation, Nature Power, Confide, Guard Swap]
     stats:
     - [40, 40, 40, 70, 40, 20]
     tags:

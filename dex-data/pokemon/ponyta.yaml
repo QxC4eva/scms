@@ -37,6 +37,15 @@ pokemon:
     - rb: [Agility, Bide, Body Slam, Double-Edge, Double Team, Ember, Fire Blast,
         Fire Spin, Growl, Horn Drill, Mimic, Rage, Reflect, Rest, Skull Bash, Stomp,
         Substitute, Swift, Tail Whip, Take Down, Toxic, Low Kick]
+    - xy: [Agility, Attract, Body Slam, Bounce, Captivate, Charm, Double-Edge, Double
+          Kick, Double Team, Echoed Voice, Ember, Endure, Facade, Fire Blast, Fire
+          Spin, Flame Charge, Flamethrower, Flame Wheel, Flare Blitz, Frustration,
+        Growl, Headbutt, Heat Wave, Hidden Power, Horn Drill, Hypnosis, Incinerate,
+        Inferno, Iron Tail, Low Kick, Mimic, Morning Sun, Natural Gift, Overheat,
+        Protect, Quick Attack, Rest, Return, Round, Secret Power, Sleep Talk, Snore,
+        Solar Beam, Stomp, Strength, Substitute, Sunny Day, Swagger, Swift, Tackle,
+        Tail Whip, Take Down, Thrash, Toxic, Wild Charge, Will-O-Wisp, Confide, Ally
+          Switch]
     stats:
     - [50, 85, 55, 65, 65, 90]
     - gs: [50, 85, 55, 65, 65, 90]
@@ -62,6 +71,8 @@ pokemon:
         Baton Pass, Baton Pass, Body Slam, Mimic]
     - rs: [Fury Attack, Hyper Beam, Baton Pass, Baton Pass, Body Slam, Mimic]
     - rb: [Hyper Beam]
+    - xy: [Baton Pass, Fury Attack, Giga Impact, Hyper Beam, Megahorn, Poison Jab,
+        Drill Run]
     stats:
     - [65, 100, 70, 80, 80, 105]
     - gs: [65, 100, 70, 80, 80, 105]

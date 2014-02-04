@@ -14,6 +14,7 @@ pokemon:
     - dp: [Avalanche, Giga Impact, Hyper Beam, Sheer Cold]
     - rs: [Hyper Beam, Sheer Cold, Signal Beam]
     - rb: [Hyper Beam]
+    - xy: [Avalanche, Frost Breath, Giga Impact, Hyper Beam, Sheer Cold]
     stats:
     - [90, 70, 80, 95, 95, 70]
     - gs: [90, 70, 80, 70, 95, 70]
@@ -63,6 +64,15 @@ pokemon:
     - rb: [Aurora Beam, Bide, Blizzard, Body Slam, Bubblebeam, Double-Edge, Double
           Team, Growl, Headbutt, Horn Drill, Ice Beam, Mimic, Pay Day, Rage, Rest,
         Skull Bash, Strength, Substitute, Surf, Take Down, Toxic, Water Gun, Flail]
+    - xy: [Aqua Jet, Aqua Ring, Aqua Tail, Attract, Aurora Beam, Blizzard, Body Slam,
+        Brine, Captivate, Disable, Dive, Double-Edge, Double Team, Echoed Voice, Encore,
+        Endure, Facade, Fake Out, Fling, Frustration, Growl, Hail, Headbutt, Helping
+          Hand, Hidden Power, Horn Drill, Ice Beam, Ice Shard, Icicle Spear, Icy Wind,
+        Iron Tail, Lick, Mimic, Natural Gift, Perish Song, Protect, Rain Dance, Rest,
+        Return, Round, Safeguard, Secret Power, Signal Beam, Slam, Sleep Talk, Snore,
+        Spit Up, Stockpile, Substitute, Surf, Swagger, Swallow, Take Down, Thief,
+        Toxic, Waterfall, Water Pulse, Water Sport, Whirlpool, Drill Run, Confide,
+        Entrainment, Belch]
     stats:
     - [65, 45, 55, 70, 70, 45]
     - gs: [65, 45, 55, 45, 70, 45]

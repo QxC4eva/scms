@@ -24,6 +24,9 @@ pokemon:
         Mega Punch, Metronome, Mimic, Pound, Psychic, Psywave, Rage, Reflect, Rest,
         Seismic Toss, Skull Bash, Submission, Substitute, Take Down, Teleport, Thrash,
         Toxic, Water Gun]
+    - xy: [Brick Break, Double Slap, Drain Punch, Energy Ball, Focus Blast, Focus
+          Punch, Giga Impact, Headbutt, Hyper Beam, Lovely Kiss, Taunt, Telekinesis,
+        Torment, Wring Out, Hyper Voice, Draining Kiss, Power-Up Punch]
     stats:
     - [65, 50, 35, 95, 95, 95]
     - gs: [65, 50, 35, 115, 95, 95]
@@ -80,6 +83,18 @@ pokemon:
         Sing, Skill Swap, Sleep Talk, Snore, Substitute, Swagger, Sweet Kiss, Thief,
         Toxic, Water Pulse, Wish, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare,
         Seismic Toss, Substitute]
+    - xy: [Attract, Avalanche, Blizzard, Body Slam, Calm Mind, Captivate, Confusion,
+        Copycat, Counter, Double-Edge, Double Team, Dream Eater, Dynamic Punch, Echoed
+          Voice, Endure, Facade, Fake Out, Fake Tears, Flash, Fling, Frost Breath,
+        Frustration, Grass Knot, Hail, Heal Bell, Heart Stamp, Helping Hand, Hidden
+          Power, Ice Beam, Ice Punch, Icy Wind, Lick, Light Screen, Lucky Chant, Magic
+          Coat, Mean Look, Meditate, Mega Kick, Mega Punch, Metronome, Mimic, Miracle
+          Eye, Mud-Slap, Nasty Plot, Natural Gift, Nightmare, Payback, Perish Song,
+        Pound, Powder Snow, Protect, Psychic, Psych Up, Psyshock, Rain Dance, Recycle,
+        Reflect, Rest, Return, Role Play, Round, Secret Power, Seismic Toss, Shadow
+          Ball, Signal Beam, Sing, Skill Swap, Sleep Talk, Snore, Substitute, Swagger,
+        Sweet Kiss, Thief, Toxic, Trick, Trick Room, Uproar, Wake-Up Slap, Water Pulse,
+        Wish, Zen Headbutt, Covet, Magic Room, Confide]
     stats:
     - [45, 30, 15, 85, 65, 65]
     tags:

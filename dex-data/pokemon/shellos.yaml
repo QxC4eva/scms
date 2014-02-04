@@ -12,6 +12,9 @@ pokemon:
           Edge, Strength, Waterfall]
     - dp: [Block, Dig, Earthquake, Flash, Giga Impact, Hyper Beam, Rock Slide, Rock
           Smash, Rock Tomb, Sandstorm, Sludge Bomb, Stone Edge, Strength, Waterfall]
+    - xy: [Block, Bulldoze, Dig, Earthquake, Flash, Giga Impact, Hyper Beam, Rock
+          Slide, Rock Smash, Rock Tomb, Sandstorm, Sludge Bomb, Sludge Wave, Stone
+          Edge, Strength, Waterfall]
     stats:
     - [111, 83, 68, 92, 82, 39]
     tags:
@@ -42,6 +45,14 @@ pokemon:
         Protect, Rain Dance, Recover, Rest, Return, Secret Power, Sleep Talk, Sludge,
         Snore, Spit Up, Stockpile, String Shot, Substitute, Surf, Swagger, Swallow,
         Toxic, Trump Card, Water Pulse, Whirlpool, Yawn]
+    - xy: [Amnesia, Ancient Power, Attract, Blizzard, Body Slam, Brine, Captivate,
+        Clear Smog, Counter, Curse, Dive, Double Team, Earth Power, Endure, Facade,
+        Fissure, Frustration, Hail, Harden, Headbutt, Hidden Power, Ice Beam, Icy
+          Wind, Memento, Mirror Coat, Mist, Mud Bomb, Muddy Water, Mud-Slap, Mud Sport,
+        Natural Gift, Pain Split, Protect, Rain Dance, Recover, Rest, Return, Round,
+        Scald, Secret Power, Sleep Talk, Sludge, Snore, Spit Up, Stockpile, String
+          Shot, Substitute, Surf, Swagger, Swallow, Toxic, Trump Card, Water Pulse,
+        Whirlpool, Yawn, Infestation, Confide, Acid Armor]
     stats:
     - [76, 48, 48, 57, 62, 34]
     tags:

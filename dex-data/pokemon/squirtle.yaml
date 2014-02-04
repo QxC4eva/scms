@@ -15,6 +15,9 @@ pokemon:
         Hyper Beam, Outrage, Roar, Rock Climb, Rock Slide, Signal Beam]
     - rs: [Earthquake, Hydro Cannon, Hyper Beam, Roar]
     - rb: [Earthquake, Fissure, Hyper Beam]
+    - xy: [Avalanche, Bulldoze, Dragon Tail, Earthquake, Flash Cannon, Focus Blast,
+        Giga Impact, Hydro Cannon, Hyper Beam, Outrage, Roar, Rock Climb, Rock Slide,
+        Signal Beam, Smack Down, Dark Pulse]
     stats:
     - [79, 83, 100, 85, 85, 78]
     - gs: [79, 83, 100, 85, 105, 78]
@@ -71,6 +74,18 @@ pokemon:
         Double Team, Hydro Pump, Ice Beam, Mega Kick, Mega Punch, Mimic, Rage, Reflect,
         Rest, Seismic Toss, Skull Bash, Strength, Submission, Substitute, Surf, Tackle,
         Tail Whip, Take Down, Toxic, Water Gun, Withdraw, Zap Cannon]
+    - xy: [Aqua Jet, Aqua Ring, Aqua Tail, Attract, Bite, Blizzard, Block, Body Slam,
+        Brick Break, Brine, Bubble, Captivate, Counter, Defense Curl, Dig, Dive, Double-Edge,
+        Double Team, Dynamic Punch, Endure, Facade, Fake Out, False Swipe, Flail,
+        Fling, Focus Punch, Follow Me, Foresight, Frustration, Gyro Ball, Hail, Haze,
+        Headbutt, Hidden Power, Hydro Cannon, Hydro Pump, Ice Beam, Ice Punch, Icy
+          Wind, Iron Defense, Iron Tail, Mega Kick, Mega Punch, Mimic, Mirror Coat,
+        Mist, Muddy Water, Mud-Slap, Mud Sport, Natural Gift, Protect, Rain Dance,
+        Rapid Spin, Refresh, Rest, Return, Rock Smash, Rock Tomb, Rollout, Round,
+        Scald, Secret Power, Seismic Toss, Skull Bash, Sleep Talk, Snore, Strength,
+        Substitute, Surf, Swagger, Tackle, Tail Whip, Toxic, Waterfall, Water Gun,
+        Water Pledge, Water Pulse, Water Spout, Whirlpool, Withdraw, Yawn, Zen Headbutt,
+        Power-Up Punch, Confide, Aura Sphere, Dragon Pulse, Flash Cannon]
     stats:
     - [44, 48, 65, 50, 50, 43]
     - gs: [44, 48, 65, 50, 64, 43]
@@ -95,6 +110,7 @@ pokemon:
     - dp: [Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
     - rs: [Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
     - rb: []
+    - xy: []
     stats:
     - [59, 63, 80, 65, 65, 58]
     - gs: [59, 63, 80, 65, 80, 58]

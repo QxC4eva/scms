@@ -12,6 +12,8 @@ pokemon:
     - bw: [Bulldoze, Focus Blast, Giga Impact, Hyper Beam, Outrage]
     - dp: [Focus Blast, Giga Impact, Hyper Beam, Outrage, Rock Climb]
     - rs: [Hyper Beam]
+    - xy: [Bulldoze, Focus Blast, Giga Impact, Hyper Beam, Outrage, Rock Climb, Zap
+          Cannon, Magnetic Flux, Ion Deluge, Dragon Pulse]
     stats:
     - [90, 75, 75, 115, 90, 55]
     - xy: [90, 75, 85, 115, 90, 55]
@@ -38,6 +40,9 @@ pokemon:
     - dp: [Brick Break, Fire Punch, Fling, Focus Punch, Rock Smash, Strength, Thunderpunch]
     - rs: [Brick Break, Counter, Dynamicpunch, Fire Punch, Focus Punch, Mega Kick,
         Mega Punch, Rock Smash, Seismic Toss, Strength, Thunderpunch]
+    - xy: [Brick Break, Counter, Dynamic Punch, Fire Punch, Fling, Focus Punch, Mega
+          Kick, Mega Punch, Rock Smash, Seismic Toss, Strength, Thunder Punch, Volt
+          Switch, Power-Up Punch]
     stats:
     - [70, 55, 55, 80, 60, 45]
     tags:
@@ -80,6 +85,15 @@ pokemon:
         Safeguard, Screech, Secret Power, Shock Wave, Sleep Talk, Snore, Substitute,
         Swagger, Swift, Tackle, Take Down, Thunder, Thunder Wave, Thunderbolt, Thundershock,
         Toxic, Heal Bell]
+    - xy: [After You, Agility, Attract, Body Slam, Captivate, Charge, Charge Beam,
+        Confuse Ray, Cotton Guard, Cotton Spore, Defense Curl, Discharge, Double-Edge,
+        Double Team, Echoed Voice, Electro Ball, Endure, Facade, Flash, Flatter, Frustration,
+        Growl, Headbutt, Heal Bell, Hidden Power, Iron Tail, Light Screen, Magnet
+          Rise, Mimic, Natural Gift, Odor Sleuth, Power Gem, Protect, Rain Dance,
+        Reflect, Rest, Return, Round, Safeguard, Sand Attack, Screech, Secret Power,
+        Shock Wave, Signal Beam, Sleep Talk, Snore, Substitute, Swagger, Swift, Tackle,
+        Take Down, Thunder, Thunderbolt, Thunder Shock, Thunder Wave, Toxic, Wild
+          Charge, Confide, Eerie Impulse, Electric Terrain]
     stats:
     - [55, 40, 40, 65, 45, 35]
     tags:

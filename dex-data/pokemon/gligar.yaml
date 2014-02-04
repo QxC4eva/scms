@@ -45,6 +45,19 @@ pokemon:
         Slash, Sleep Talk, Sludge Bomb, Snore, Steel Wing, Strength, Substitute, Sunny
           Day, Swagger, Swift, Swords Dance, Thief, Toxic, Wing Attack, Dream Eater,
         Mimic]
+    - xy: [Acrobatics, Aerial Ace, Agility, Aqua Tail, Attract, Baton Pass, Brick
+          Break, Bulldoze, Captivate, Counter, Cross Poison, Cut, Dark Pulse, Defog,
+        Dig, Double-Edge, Double Team, Dream Eater, Earth Power, Earthquake, Endure,
+        Facade, Feint Attack, False Swipe, Feint, Fling, Frustration, Fury Cutter,
+        Guillotine, Harden, Headbutt, Hidden Power, Hone Claws, Iron Tail, Knock Off,
+        Metal Claw, Mimic, Natural Gift, Night Slash, Payback, Poison Jab, Poison
+          Sting, Poison Tail, Power Trick, Protect, Quick Attack, Rain Dance, Razor
+          Wind, Rest, Return, Rock Climb, Rock Polish, Rock Slide, Rock Smash, Rock
+          Tomb, Roost, Round, Sand Attack, Sandstorm, Sand Tomb, Screech, Secret Power,
+        Sky Uppercut, Slash, Sleep Talk, Sludge Bomb, Snore, Stealth Rock, Steel Wing,
+        Stone Edge, Strength, Struggle Bug, Substitute, Sunny Day, Swagger, Swift,
+        Swords Dance, Tailwind, Taunt, Thief, Torment, Toxic, U-turn, Venoshock, Wing
+          Attack, X-Scissor, Bug Bite, Confide]
     stats:
     - [65, 75, 105, 35, 65, 85]
     tags:
@@ -64,6 +77,8 @@ pokemon:
     moves:
     - bw: [Fire Fang, Giga Impact, Hyper Beam, Ice Fang, Sky Attack, Thunder Fang]
     - dp: [Fire Fang, Giga Impact, Hyper Beam, Ice Fang, Mud-Slap, Sky Attack, Thunder
+          Fang]
+    - xy: [Fire Fang, Giga Impact, Hyper Beam, Ice Fang, Mud-Slap, Sky Attack, Thunder
           Fang]
     stats:
     - [75, 95, 125, 45, 75, 95]

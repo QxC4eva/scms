@@ -17,6 +17,15 @@ pokemon:
           Bomb, Shadow Claw, Sleep Talk, Snore, Solarbeam, Substitute, Sunny Day,
         Swagger, Synthesis, Taunt, Thief, Tickle, Torment, Toxic, Uproar, Vine Whip,
         Work Up, Worry Seed]
+    - xy: [Acrobatics, Astonish, Attract, Bite, Bullet Seed, Covet, Crunch, Cut, Dig,
+        Double Team, Energy Ball, Facade, Flash, Fling, Frustration, Fury Swipes,
+        Grass Knot, Grass Whistle, Hidden Power, Hone Claws, Leaf Storm, Leech Seed,
+        Leer, Lick, Low Kick, Low Sweep, Magical Leaf, Nasty Plot, Natural Gift, Payback,
+        Protect, Recycle, Rest, Return, Rock Smash, Rock Tomb, Role Play, Round, Scratch,
+        Seed Bomb, Shadow Claw, Solar Beam, Substitute, Sunny Day, Swagger, Taunt,
+        Thief, Tickle, Torment, Toxic, Vine Whip, Work Up, Gunk Shot, Uproar, Iron
+          Tail, Snore, Knock Off, Synthesis, Giga Drain, Worry Seed, Helping Hand,
+        Endeavor, Sleep Talk, Play Nice, Nature Power, Confide, Disarming Voice]
     stats:
     - [50, 53, 48, 53, 48, 64]
     tags:
@@ -33,6 +42,8 @@ pokemon:
     introduction: dp
     moves:
     - bw: [Brick Break, Focus Blast, Giga Impact, Hyper Beam, Rock Slide, Superpower]
+    - xy: [Brick Break, Focus Blast, Giga Impact, Hyper Beam, Rock Slide, Superpower,
+        Power-Up Punch]
     stats:
     - [75, 98, 63, 98, 63, 101]
     tags:

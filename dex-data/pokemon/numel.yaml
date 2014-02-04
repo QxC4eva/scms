@@ -14,6 +14,8 @@ pokemon:
     - dp: [Eruption, Explosion, Fissure, Flash Cannon, Giga Impact, Hyper Beam, Iron
           Head, Roar, Rock Polish, Solarbeam, Stone Edge]
     - rs: [Eruption, Explosion, Fissure, Hyper Beam, Roar, Selfdestruct]
+    - xy: [Eruption, Explosion, Fissure, Flash Cannon, Giga Impact, Hyper Beam, Roar,
+        Rock Polish, Self-Destruct, Solar Beam, Stone Edge]
     stats:
     - [70, 100, 70, 105, 75, 40]
     tags:
@@ -56,6 +58,16 @@ pokemon:
         Protect, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sandstorm,
         Scary Face, Secret Power, Sleep Talk, Snore, Stomp, Strength, Substitute,
         Sunny Day, Swagger, Tackle, Take Down, Toxic, Charm, Mimic]
+    - xy: [Amnesia, Ancient Power, Attract, Body Slam, Bulldoze, Captivate, Charm,
+        Curse, Defense Curl, Dig, Double-Edge, Double Team, Earth Power, Earthquake,
+        Echoed Voice, Ember, Endure, Facade, Fire Blast, Flame Burst, Flame Charge,
+        Flamethrower, Focus Energy, Frustration, Growl, Headbutt, Heat Wave, Hidden
+          Power, Howl, Incinerate, Iron Head, Lava Plume, Magnitude, Mimic, Mud Bomb,
+        Mud-Slap, Natural Gift, Overheat, Protect, Rest, Return, Rock Slide, Rock
+          Smash, Rock Tomb, Rollout, Round, Sandstorm, Scary Face, Secret Power, Sleep
+          Talk, Snore, Spit Up, Stealth Rock, Stockpile, Stomp, Strength, Substitute,
+        Sunny Day, Swagger, Swallow, Tackle, Take Down, Toxic, Will-O-Wisp, Yawn,
+        After You, Nature Power, Confide, Growth]
     stats:
     - [60, 60, 40, 65, 45, 35]
     tags:

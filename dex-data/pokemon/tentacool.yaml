@@ -42,6 +42,16 @@ pokemon:
         Double Team, Hydro Pump, Ice Beam, Mega Drain, Mimic, Poison Sting, Rage,
         Reflect, Rest, Screech, Skull Bash, Substitute, Supersonic, Surf, Swords Dance,
         Take Down, Toxic, Water Gun, Wrap, Confuse Ray]
+    - xy: [Acid, Acid Spray, Acupressure, Aqua Ring, Attract, Aurora Beam, Barrier,
+        Blizzard, Brine, Bubble, Bubble Beam, Captivate, Confuse Ray, Constrict, Cut,
+        Dive, Double-Edge, Double Team, Endure, Facade, Frustration, Giga Drain, Hail,
+        Haze, Hex, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Knock Off, Magic
+          Coat, Mimic, Mirror Coat, Muddy Water, Natural Gift, Payback, Poison Jab,
+        Poison Sting, Protect, Rain Dance, Rapid Spin, Rest, Return, Round, Safeguard,
+        Scald, Screech, Secret Power, Sleep Talk, Sludge Bomb, Sludge Wave, Snore,
+        Substitute, Supersonic, Surf, Swagger, Swords Dance, Thief, Tickle, Toxic,
+        Toxic Spikes, Venoshock, Waterfall, Water Pulse, Whirlpool, Wrap, Wring Out,
+        Bind, Infestation, Dazzling Gleam, Confide]
     stats:
     - [40, 40, 35, 100, 100, 70]
     - gs: [40, 40, 35, 50, 100, 70]
@@ -65,6 +75,7 @@ pokemon:
     - dp: [Giga Impact, Hyper Beam, Double-Edge, Icy Wind, Mimic]
     - rs: [Hyper Beam, Double-Edge, Icy Wind, Mimic]
     - rb: [Hyper Beam]
+    - xy: [Giga Impact, Hyper Beam, Reflect Type]
     stats:
     - [80, 70, 65, 120, 120, 100]
     - gs: [80, 70, 65, 80, 120, 100]

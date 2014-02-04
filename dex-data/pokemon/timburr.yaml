@@ -8,6 +8,7 @@ pokemon:
     introduction: bw
     moves:
     - bw: [Bulldoze, Earthquake, Giga Impact, Hyper Beam]
+    - xy: [Bulldoze, Earthquake, Giga Impact, Hyper Beam]
     stats:
     - [105, 140, 95, 55, 65, 45]
     tags:
@@ -23,6 +24,8 @@ pokemon:
     evolutions: [Conkeldurr]
     height: [1.2]
     introduction: bw
+    moves:
+    - xy: []
     stats:
     - [85, 105, 85, 40, 50, 40]
     tags:
@@ -48,6 +51,16 @@ pokemon:
         Rock Throw, Rock Tomb, Round, Scary Face, Sleep Talk, Smack Down, Smellingsalt,
         Snore, Stone Edge, Strength, Substitute, Sunny Day, Superpower, Swagger, Taunt,
         Thunderpunch, Toxic, Wake-Up Slap, Wide Guard, Work Up]
+    - xy: [Attract, Bide, Brick Break, Bulk Up, Chip Away, Comet Punch, Counter, Detect,
+        Dig, Double Team, Drain Punch, Dynamic Punch, Endure, Facade, Fling, Focus
+          Blast, Focus Energy, Focus Punch, Force Palm, Foresight, Frustration, Grass
+          Knot, Hammer Arm, Hidden Power, Leer, Low Kick, Low Sweep, Mach Punch, Payback,
+        Poison Jab, Pound, Protect, Rain Dance, Rest, Retaliate, Return, Reversal,
+        Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Round, Scary Face, Smack Down,
+        Smelling Salts, Stone Edge, Strength, Substitute, Sunny Day, Superpower, Swagger,
+        Taunt, Toxic, Wake-Up Slap, Wide Guard, Work Up, Thunder Punch, Fire Punch,
+        Ice Punch, Block, Snore, Knock Off, Helping Hand, Sleep Talk, Power-Up Punch,
+        Confide, Cross Chop]
     stats:
     - [75, 80, 55, 25, 35, 35]
     tags:

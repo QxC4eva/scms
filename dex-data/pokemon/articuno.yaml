@@ -35,6 +35,15 @@ pokemon:
     - rb: [Agility, Bide, Blizzard, Bubblebeam, Double-Edge, Double Team, Fly, Hyper
           Beam, Ice Beam, Mimic, Mist, Peck, Rage, Razor Wind, Reflect, Rest, Sky
           Attack, Substitute, Swift, Take Down, Toxic, Water Gun, Whirlwind]
+    - xy: [Aerial Ace, Agility, Air Cutter, Ancient Power, Avalanche, Blizzard, Defog,
+        Double-Edge, Double Team, Endure, Extrasensory, Facade, Fly, Frost Breath,
+        Frustration, Giga Impact, Gust, Hail, Haze, Heal Bell, Hidden Power, Hurricane,
+        Hyper Beam, Ice Beam, Ice Shard, Icy Wind, Mimic, Mind Reader, Mist, Mud-Slap,
+        Natural Gift, Ominous Wind, Pluck, Powder Snow, Protect, Rain Dance, Reflect,
+        Rest, Return, Roar, Rock Smash, Roost, Round, Sandstorm, Secret Power, Sheer
+          Cold, Signal Beam, Sky Attack, Sky Drop, Sleep Talk, Snore, Steel Wing,
+        Substitute, Sunny Day, Swagger, Swift, Tailwind, Toxic, Twister, U-turn, Water
+          Pulse, Freeze-Dry, Confide]
     stats:
     - [90, 85, 100, 125, 125, 85]
     - gs: [90, 85, 100, 95, 125, 85]

@@ -28,6 +28,18 @@ pokemon:
           Claw, Slack Off, Sleep Talk, Snore, Stealth Rock, Strength, Substitute,
         Sunny Day, Swagger, Swift, Swords Dance, Taunt, Thunderpunch, Torment, Toxic,
         U-turn, Uproar, Vacuum Wave, Will-O-Wisp]
+    - xy: [Acrobatics, Aerial Ace, Assist, Attract, Blaze Kick, Brick Break, Bulk
+          Up, Captivate, Counter, Cut, Dig, Double Kick, Double Team, Ember, Encore,
+        Endeavor, Endure, Facade, Fake Out, Fire Blast, Fire Pledge, Fire Punch, Fire
+          Spin, Flame Charge, Flamethrower, Flame Wheel, Fling, Focus Energy, Focus
+          Punch, Frustration, Fury Swipes, Grass Knot, Headbutt, Heat Wave, Helping
+          Hand, Hidden Power, Hone Claws, Incinerate, Iron Tail, Leer, Low Kick, Low
+          Sweep, Mud-Slap, Nasty Plot, Natural Gift, Overheat, Protect, Quick Guard,
+        Rest, Return, Rock Climb, Rock Smash, Role Play, Rollout, Round, Scratch,
+        Secret Power, Shadow Claw, Slack Off, Sleep Talk, Snore, Stealth Rock, Strength,
+        Submission, Substitute, Sunny Day, Swagger, Swift, Swords Dance, Taunt, Thunder
+          Punch, Torment, Toxic, Uproar, U-turn, Vacuum Wave, Will-O-Wisp, Covet,
+        Gunk Shot, Power-Up Punch, Confide]
     stats:
     - [44, 58, 44, 58, 44, 61]
     tags:
@@ -47,6 +59,8 @@ pokemon:
         Roar, Solarbeam, Stone Edge]
     - dp: [Blast Burn, Calm Mind, Earthquake, Giga Impact, Hyper Beam, Punishment,
         Roar, Solarbeam, Stone Edge]
+    - xy: [Blast Burn, Bulldoze, Calm Mind, Earthquake, Giga Impact, Hyper Beam, Punishment,
+        Roar, Solar Beam, Stone Edge]
     stats:
     - [76, 104, 71, 104, 71, 108]
     tags:
@@ -67,6 +81,8 @@ pokemon:
           Jab, Retaliate, Rock Slide, Rock Tomb, Work Up]
     - dp: [Close Combat, Feint, Flare Blitz, Focus Blast, Mach Punch, Poison Jab,
         Rock Slide, Rock Tomb]
+    - xy: [Close Combat, Feint, Flare Blitz, Focus Blast, Mach Punch, Poison Jab,
+        Retaliate, Rock Slide, Rock Tomb, Work Up, Dual Chop]
     stats:
     - [64, 78, 52, 78, 52, 81]
     tags:

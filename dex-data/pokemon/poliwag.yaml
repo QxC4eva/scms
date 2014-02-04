@@ -15,6 +15,8 @@ pokemon:
           Song, Double-Edge, Icy Wind, Mimic, Seismic Toss]
     - rs: [Dynamicpunch, Hyper Beam, Perish Song, Double-Edge, Icy Wind, Mimic, Seismic
           Toss]
+    - xy: [Bounce, Dynamic Punch, Echoed Voice, Focus Blast, Giga Impact, Hyper Beam,
+        Hyper Voice, Payback, Perish Song]
     stats:
     - [90, 75, 75, 90, 100, 70]
     tags:
@@ -66,6 +68,14 @@ pokemon:
           Team, Doubleslap, Hydro Pump, Hypnosis, Ice Beam, Mimic, Psychic, Psywave,
         Rage, Rest, Skull Bash, Substitute, Surf, Take Down, Toxic, Water Gun, Growth,
         Lovely Kiss, Sweet Kiss]
+    - xy: [Attract, Belly Drum, Blizzard, Body Slam, Bubble, Bubble Beam, Captivate,
+        Defense Curl, Dig, Dive, Double-Edge, Double Slap, Double Team, Encore, Endeavor,
+        Endure, Facade, Frustration, Hail, Haze, Headbutt, Hidden Power, Hydro Pump,
+        Hypnosis, Ice Ball, Ice Beam, Icy Wind, Mimic, Mind Reader, Mist, Mud Bomb,
+        Mud Shot, Natural Gift, Protect, Psychic, Rain Dance, Refresh, Rest, Return,
+        Round, Scald, Secret Power, Sleep Talk, Snore, Splash, Substitute, Surf, Swagger,
+        Sweet Kiss, Thief, Toxic, Wake-Up Slap, Waterfall, Water Gun, Water Pulse,
+        Water Sport, Whirlpool, Helping Hand, Confide]
     stats:
     - [40, 50, 40, 40, 40, 90]
     - gs: [40, 50, 40, 40, 40, 90]
@@ -95,6 +105,9 @@ pokemon:
         Icy Wind, Mimic, Seismic Toss]
     - rb: [Counter, Earthquake, Fissure, Mega Kick, Mega Punch, Metronome, Seismic
           Toss, Strength, Submission]
+    - xy: [Brick Break, Bulldoze, Counter, Earthquake, Fling, Focus Punch, Ice Punch,
+        Mega Kick, Mega Punch, Metronome, Mud-Slap, Rock Smash, Seismic Toss, Strength,
+        Power-Up Punch]
     stats:
     - [65, 65, 65, 50, 50, 90]
     - gs: [65, 65, 65, 50, 50, 90]
@@ -121,6 +134,9 @@ pokemon:
     - rs: [Bulk Up, Rock Tomb, Submission, Helping Hand, Double-Edge, Helping Hand,
         Icy Wind, Mimic, Seismic Toss]
     - rb: [Hyper Beam]
+    - xy: [Bulk Up, Circle Throw, Dynamic Punch, Focus Blast, Giga Impact, Hyper Beam,
+        Low Sweep, Mind Reader, Payback, Poison Jab, Rock Climb, Rock Slide, Rock
+          Tomb, Submission, Vacuum Wave, Work Up]
     stats:
     - [90, 85, 95, 70, 70, 70]
     - gs: [90, 85, 95, 70, 90, 70]

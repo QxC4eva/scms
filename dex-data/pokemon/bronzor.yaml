@@ -11,6 +11,8 @@ pokemon:
         Zen Headbutt]
     - dp: [Block, Explosion, Giga Impact, Hyper Beam, Iron Head, Rock Smash, Strength,
         Zen Headbutt]
+    - xy: [Block, Explosion, Giga Impact, Hyper Beam, Iron Head, Rock Smash, Strength,
+        Zen Headbutt]
     stats:
     - [67, 89, 116, 79, 116, 33]
     tags:
@@ -46,6 +48,16 @@ pokemon:
         Secret Power, Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snore, Solarbeam,
         Stealth Rock, Substitute, Sunny Day, Swagger, Tackle, Toxic, Trick, Trick
           Room]
+    - xy: [Ancient Power, Bulldoze, Calm Mind, Charge Beam, Confuse Ray, Confusion,
+        Double Team, Dream Eater, Earthquake, Endure, Extrasensory, Facade, Feint
+          Attack, Flash, Flash Cannon, Frustration, Future Sight, Grass Knot, Gravity,
+        Gyro Ball, Heal Block, Heavy Slam, Hidden Power, Hypnosis, Imprison, Iron
+          Defense, Light Screen, Metal Sound, Natural Gift, Payback, Protect, Psychic,
+        Psych Up, Psyshock, Psywave, Rain Dance, Recycle, Reflect, Rest, Return, Rock
+          Polish, Rock Slide, Rock Tomb, Rollout, Round, Safeguard, Sandstorm, Secret
+          Power, Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snore, Solar Beam,
+        Stealth Rock, Substitute, Sunny Day, Swagger, Tackle, Telekinesis, Toxic,
+        Trick, Trick Room, Wonder Room, Confide]
     stats:
     - [57, 24, 86, 24, 86, 23]
     tags:

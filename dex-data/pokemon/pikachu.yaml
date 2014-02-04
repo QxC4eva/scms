@@ -37,6 +37,17 @@ pokemon:
         Seismic Toss, Shock Wave, Sleep Talk, Snore, Substitute, Swagger, Sweet Kiss,
         Swift, Tail Whip, Thunder, Thunder Wave, Thunderbolt, Thundershock, Toxic,
         Volt Tackle, Wish, Follow Me, Teeter Dance, Wish]
+    - xy: [Attract, Bestow, Bide, Body Slam, Captivate, Charge, Charge Beam, Charm,
+        Counter, Defense Curl, Double-Edge, Double Slap, Double Team, Echoed Voice,
+        Encore, Endeavor, Endure, Facade, Fake Out, Flail, Flash, Fling, Follow Me,
+        Frustration, Grass Knot, Headbutt, Helping Hand, Hidden Power, Iron Tail,
+        Light Screen, Lucky Chant, Magnet Rise, Mega Kick, Mega Punch, Mimic, Mud-Slap,
+        Nasty Plot, Natural Gift, Present, Protect, Rain Dance, Rest, Return, Reversal,
+        Rollout, Round, Secret Power, Seismic Toss, Shock Wave, Signal Beam, Sleep
+          Talk, Snore, Substitute, Surf, Swagger, Sweet Kiss, Swift, Tail Whip, Teeter
+          Dance, Thunder, Thunderbolt, Thunder Punch, Thunder Shock, Thunder Wave,
+        Tickle, Toxic, Uproar, Volt Switch, Volt Tackle, Wild Charge, Wish, Covet,
+        Confide, Disarming Voice]
     stats:
     - [20, 40, 15, 35, 35, 60]
     tags:
@@ -71,6 +82,9 @@ pokemon:
         Rest, Seismic Toss, Skull Bash, Slam, Submission, Substitute, Surf, Swift,
         Tail Whip, Take Down, Thunder, Thunder Wave, Thunderbolt, Thundershock, Toxic,
         Fly, Dizzy Punch, Petal Dance, Sing, Scary Face]
+    - xy: [Agility, Brick Break, Dig, Discharge, Dynamic Punch, Electro Ball, Extreme
+          Speed, Feint, Fly, Focus Punch, Growl, Knock Off, Last Resort, Quick Attack,
+        Rock Smash, Sing, Slam, Strength, Yawn, Play Nice, Nuzzle]
     stats:
     - [35, 55, 30, 50, 50, 90]
     - gs: [35, 55, 30, 50, 40, 90]
@@ -100,6 +114,7 @@ pokemon:
         Seismic Toss]
     - rs: [Hyper Beam, Thief, Body Slam, Double-Edge, Mimic, Seismic Toss]
     - rb: [Hyper Beam]
+    - xy: [Focus Blast, Giga Impact, Hyper Beam, Thief]
     stats:
     - [60, 90, 55, 90, 90, 100]
     - gs: [60, 90, 55, 90, 80, 100]

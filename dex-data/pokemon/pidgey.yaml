@@ -14,6 +14,7 @@ pokemon:
     - dp: [Giga Impact, Hyper Beam, Sky Attack, Double-Edge, Mimic, Sky Attack]
     - rs: [Hyper Beam, Double-Edge, Mimic, Sky Attack]
     - rb: [Hyper Beam]
+    - xy: [Giga Impact, Hyper Beam]
     stats:
     - [83, 80, 75, 70, 70, 91]
     - gs: [83, 80, 75, 70, 70, 91]
@@ -40,6 +41,7 @@ pokemon:
     - dp: [Double-Edge, Mimic, Refresh, Sky Attack]
     - rs: [Double-Edge, Mimic, Refresh, Sky Attack]
     - rb: []
+    - xy: [Refresh]
     stats:
     - [63, 60, 55, 50, 50, 71]
     - gs: [63, 60, 55, 50, 50, 71]
@@ -86,6 +88,14 @@ pokemon:
     - rb: [Agility, Bide, Double-Edge, Double Team, Fly, Gust, Mimic, Mirror Move,
         Quick Attack, Rage, Razor Wind, Reflect, Rest, Sand-Attack, Sky Attack, Substitute,
         Swift, Take Down, Toxic, Whirlwind, Wing Attack]
+    - xy: [Aerial Ace, Agility, Air Cutter, Air Slash, Attract, Brave Bird, Captivate,
+        Defog, Double-Edge, Double Team, Endure, Facade, Feint Attack, Feather Dance,
+        Fly, Foresight, Frustration, Gust, Heat Wave, Hidden Power, Hurricane, Mimic,
+        Mirror Move, Mud-Slap, Natural Gift, Ominous Wind, Pluck, Protect, Pursuit,
+        Quick Attack, Rain Dance, Rest, Return, Roost, Round, Sand Attack, Secret
+          Power, Sky Attack, Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day,
+        Swagger, Swift, Tackle, Tailwind, Thief, Toxic, Twister, Uproar, U-turn, Whirlwind,
+        Wing Attack, Work Up, Confide]
     stats:
     - [40, 45, 40, 35, 35, 56]
     - gs: [40, 45, 40, 35, 35, 56]

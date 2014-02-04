@@ -27,6 +27,13 @@ pokemon:
         Icy Wind, Light Screen, Mimic, Mirror Coat, Mud Sport, Protect, Rain Dance,
         Rest, Return, Secret Power, Sleep Talk, Snore, Splash, Substitute, Surf, Swagger,
         Swift, Tackle, Toxic, Water Pulse, Waterfall, Double-Edge, Icy Wind, Mimic]
+    - xy: [Attract, Blizzard, Brine, Captivate, Confuse Ray, Dive, Double-Edge, Double
+          Team, Dragon Breath, Dragon Pulse, Endure, Facade, Flail, Frustration, Hail,
+        Haze, Hidden Power, Hypnosis, Ice Beam, Icy Wind, Iron Tail, Light Screen,
+        Mimic, Mirror Coat, Mist, Mud Sport, Natural Gift, Protect, Rain Dance, Rest,
+        Return, Round, Scald, Secret Power, Sleep Talk, Snore, Splash, Substitute,
+        Surf, Swagger, Swift, Tackle, Tickle, Toxic, Waterfall, Water Pulse, Whirlpool,
+        Confide]
     stats:
     - [20, 15, 20, 10, 55, 80]
     tags:
@@ -56,6 +63,9 @@ pokemon:
     - rs: [Body Slam, Hydro Pump, Hyper Beam, Iron Tail, Mud-Slap, Psych Up, Recover,
         Refresh, Safeguard, Twister, Water Gun, Water Sport, Wrap, Body Slam, Double-Edge,
         Icy Wind, Mimic]
+    - xy: [Aqua Ring, Aqua Tail, Avalanche, Body Slam, Bulldoze, Dragon Tail, Giga
+          Impact, Hydro Pump, Hyper Beam, Iron Head, Magic Coat, Mud-Slap, Psych Up,
+        Recover, Refresh, Safeguard, Twister, Water Gun, Water Sport, Wrap, Bind]
     stats:
     - [95, 60, 79, 100, 125, 81]
     tags:

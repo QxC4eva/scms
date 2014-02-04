@@ -17,6 +17,15 @@ pokemon:
         Rock Smash, Rock Tomb, Rollout, Round, Safeguard, Shadow Ball, Shadow Punch,
         Signal Beam, Sleep Talk, Snore, Stealth Rock, Strength, Substitute, Superpower,
         Swagger, Telekinesis, Thief, Thunderpunch, Toxic]
+    - xy: [Astonish, Brick Break, Bulldoze, Curse, Defense Curl, Double Team, Dynamic
+          Punch, Earthquake, Facade, Flash, Fling, Focus Blast, Focus Punch, Frustration,
+        Grass Knot, Gyro Ball, Hammer Arm, Hidden Power, Ice Beam, Iron Defense, Low
+          Sweep, Magnitude, Mega Punch, Mud-Slap, Night Shade, Pound, Protect, Psychic,
+        Rain Dance, Rest, Return, Rock Polish, Rock Slide, Rock Smash, Rock Tomb,
+        Rollout, Round, Safeguard, Shadow Ball, Shadow Punch, Strength, Substitute,
+        Swagger, Telekinesis, Thief, Toxic, Signal Beam, Low Kick, Thunder Punch,
+        Fire Punch, Ice Punch, Magic Coat, Block, Earth Power, Gravity, Superpower,
+        Icy Wind, Snore, Drain Punch, Stealth Rock, Sleep Talk, Power-Up Punch, Confide]
     stats:
     - [59, 74, 50, 35, 50, 35]
     tags:
@@ -34,6 +43,8 @@ pokemon:
     moves:
     - bw: [Charge Beam, Flash Cannon, Fly, Giga Impact, Heavy Slam, Hyper Beam, Solarbeam,
         Stone Edge, Thunderbolt, Zen Headbutt]
+    - xy: [Charge Beam, Flash Cannon, Fly, Giga Impact, Heavy Slam, Hyper Beam, Solar
+          Beam, Stone Edge, Thunderbolt, Zen Headbutt, Phantom Force]
     stats:
     - [89, 124, 80, 55, 80, 55]
     tags:

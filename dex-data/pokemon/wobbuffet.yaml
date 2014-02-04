@@ -9,6 +9,7 @@ pokemon:
     introduction: gs
     moves:
     - gs: [Counter, Destiny Bond, Mirror Coat, Safeguard]
+    - xy: []
     stats:
     - [190, 33, 58, 33, 58, 33]
     tags:
@@ -31,6 +32,7 @@ pokemon:
     - bw: [Charm, Counter, Destiny Bond, Encore, Mirror Coat, Safeguard, Splash]
     - dp: [Charm, Counter, Destiny Bond, Encore, Mirror Coat, Safeguard, Splash]
     - rs: [Charm, Counter, Destiny Bond, Encore, Mirror Coat, Safeguard, Splash]
+    - xy: [Charm, Counter, Destiny Bond, Encore, Mirror Coat, Safeguard, Splash, Tickle]
     stats:
     - [95, 23, 48, 23, 48, 23]
     tags:

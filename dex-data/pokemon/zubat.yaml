@@ -12,6 +12,7 @@ pokemon:
     - bw: [Cross Poison, Dark Pulse, Sky Attack, X-scissor]
     - dp: [Cross Poison, Dark Pulse, Sky Attack, X-scissor]
     - rs: [Fly]
+    - xy: [Cross Poison, Dark Pulse, Sky Attack, X-Scissor]
     stats:
     - [85, 90, 80, 70, 80, 130]
     tags:
@@ -36,6 +37,7 @@ pokemon:
     - dp: [Giga Impact, Hyper Beam, Screech, Double-Edge, Mimic]
     - rs: [Hyper Beam, Screech, Double-Edge, Mimic]
     - rb: [Hyper Beam, Screech]
+    - xy: [Giga Impact, Hyper Beam, Screech]
     stats:
     - [75, 80, 70, 75, 75, 90]
     - gs: [75, 80, 70, 65, 75, 90]
@@ -89,6 +91,16 @@ pokemon:
     - rb: [Bide, Bite, Confuse Ray, Double-Edge, Double Team, Haze, Leech Life, Mega
           Drain, Mimic, Rage, Razor Wind, Rest, Substitute, Supersonic, Swift, Take
           Down, Toxic, Whirlwind, Wing Attack, Flail]
+    - xy: [Acrobatics, Aerial Ace, Air Cutter, Air Slash, Astonish, Attract, Bite,
+        Brave Bird, Captivate, Confuse Ray, Curse, Defog, Double-Edge, Double Team,
+        Endure, Facade, Feint Attack, Fly, Frustration, Giga Drain, Gust, Haze, Heat
+          Wave, Hidden Power, Hypnosis, Leech Life, Mean Look, Mimic, Nasty Plot,
+        Natural Gift, Ominous Wind, Payback, Pluck, Poison Fang, Protect, Pursuit,
+        Quick Attack, Rain Dance, Rest, Return, Roost, Round, Secret Power, Shadow
+          Ball, Sleep Talk, Sludge Bomb, Snatch, Snore, Steel Wing, Substitute, Sunny
+          Day, Super Fang, Supersonic, Swagger, Swift, Tailwind, Taunt, Thief, Torment,
+        Toxic, Twister, Uproar, U-turn, Venoshock, Whirlwind, Wing Attack, Zen Headbutt,
+        Confide, Venom Drench]
     stats:
     - [40, 45, 35, 40, 40, 55]
     - gs: [40, 45, 35, 30, 40, 55]

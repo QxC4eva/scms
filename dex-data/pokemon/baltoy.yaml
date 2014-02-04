@@ -34,6 +34,17 @@ pokemon:
           Up, Psychic, Rain Dance, Rapid Spin, Reflect, Rest, Return, Rock Slide,
         Rock Tomb, Sandstorm, Secret Power, Selfdestruct, Shadow Ball, Skill Swap,
         Sleep Talk, Snore, Solarbeam, Substitute, Sunny Day, Swagger, Toxic]
+    - xy: [Ally Switch, Ancient Power, Bulldoze, Calm Mind, Charge Beam, Confusion,
+        Cosmic Power, Dig, Double-Edge, Double Team, Dream Eater, Earth Power, Earthquake,
+        Endure, Explosion, Extrasensory, Facade, Flash, Frustration, Grass Knot, Gravity,
+        Guard Split, Gyro Ball, Harden, Headbutt, Heal Block, Hidden Power, Ice Beam,
+        Light Screen, Magic Coat, Mimic, Mud-Slap, Natural Gift, Power Split, Power
+          Trick, Protect, Psybeam, Psychic, Psych Up, Psyshock, Rain Dance, Rapid
+          Spin, Recycle, Reflect, Refresh, Rest, Return, Rock Polish, Rock Slide,
+        Rock Tomb, Round, Safeguard, Sandstorm, Secret Power, Self-Destruct, Shadow
+          Ball, Signal Beam, Skill Swap, Sleep Talk, Smack Down, Snore, Solar Beam,
+        Stealth Rock, Substitute, Sunny Day, Swagger, Telekinesis, Toxic, Trick, Trick
+          Room, Zen Headbutt, Drill Run, Wonder Room, Dazzling Gleam, Confide]
     stats:
     - [40, 40, 55, 40, 70, 55]
     tags:
@@ -54,6 +65,7 @@ pokemon:
     - bw: [Giga Impact, Hyper Beam, Rock Smash, Stone Edge, Strength, Teleport]
     - dp: [Giga Impact, Hyper Beam, Rock Smash, Stone Edge, Strength, Teleport]
     - rs: [Hyper Beam, Rock Smash, Strength, Teleport]
+    - xy: [Giga Impact, Hyper Beam, Rock Smash, Stone Edge, Strength, Teleport]
     stats:
     - [60, 70, 105, 70, 120, 75]
     tags:

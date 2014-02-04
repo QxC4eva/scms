@@ -42,6 +42,16 @@ pokemon:
     - rb: [Bide, Blizzard, Body Slam, Bubblebeam, Double-Edge, Double Team, Horn Attack,
         Hydro Pump, Ice Beam, Leer, Mimic, Rage, Reflect, Rest, Spike Cannon, Substitute,
         Surf, Take Down, Toxic, Water Gun, Withdraw]
+    - xy: [Ancient Power, Attract, Aurora Beam, Bide, Bite, Blizzard, Body Slam, Brine,
+        Bubble Beam, Captivate, Constrict, Dive, Double-Edge, Double Team, Earth Power,
+        Endure, Facade, Frustration, Gyro Ball, Hail, Haze, Headbutt, Hidden Power,
+        Hydro Pump, Ice Beam, Icy Wind, Iron Defense, Knock Off, Leer, Mimic, Muddy
+          Water, Mud Shot, Natural Gift, Protect, Rain Dance, Rest, Return, Rock Blast,
+        Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Rollout, Round, Sandstorm,
+        Scald, Secret Power, Shell Smash, Slam, Sleep Talk, Smack Down, Snore, Spikes,
+        Stealth Rock, Substitute, Supersonic, Surf, Swagger, Thief, Tickle, Toxic,
+        Toxic Spikes, Waterfall, Water Gun, Water Pulse, Whirlpool, Withdraw, Wring
+          Out, Bind, Confide, Reflect Type]
     stats:
     - [35, 40, 100, 90, 90, 35]
     - gs: [35, 40, 100, 90, 55, 35]
@@ -68,6 +78,8 @@ pokemon:
     - rs: [Hyper Beam, Seismic Toss, Spike Cannon, Body Slam, Double-Edge, Icy Wind,
         Mimic, Seismic Toss]
     - rb: [Horn Drill, Hyper Beam, Seismic Toss, Skull Bash, Submission]
+    - xy: [Giga Impact, Hyper Beam, Mud-Slap, Rock Climb, Seismic Toss, Spike Cannon,
+        Stone Edge]
     stats:
     - [70, 60, 125, 115, 115, 55]
     - gs: [70, 60, 125, 115, 70, 55]

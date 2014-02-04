@@ -9,6 +9,8 @@ pokemon:
     moves:
     - bw: [Body Slam, Fling, Focus Blast, Giga Impact, Hyper Beam, Psychic, Rock Polish,
         Smack Down, Solarbeam, Thunderbolt]
+    - xy: [Body Slam, Fling, Focus Blast, Giga Impact, Hyper Beam, Psychic, Rock Polish,
+        Smack Down, Solar Beam, Thunderbolt]
     stats:
     - [80, 95, 82, 60, 82, 75]
     tags:
@@ -32,6 +34,14 @@ pokemon:
         Seed Bomb, Selfdestruct, Sleep Talk, Sludge, Sludge Bomb, Sludge Wave, Snore,
         Spikes, Spite, Stockpile, Substitute, Sunny Day, Swagger, Swallow, Take Down,
         Thief, Toxic, Toxic Spikes, Venoshock]
+    - xy: [Acid Spray, Amnesia, Attract, Clear Smog, Curse, Double Slap, Double Team,
+        Explosion, Facade, Frustration, Gunk Shot, Haze, Hidden Power, Mud Sport,
+        Payback, Poison Gas, Pound, Protect, Rain Dance, Recycle, Rest, Return, Rock
+          Blast, Rollout, Round, Sand Attack, Self-Destruct, Sludge, Sludge Bomb,
+        Sludge Wave, Spikes, Stockpile, Substitute, Sunny Day, Swagger, Swallow, Take
+          Down, Thief, Toxic, Toxic Spikes, Venoshock, Seed Bomb, Dark Pulse, Snore,
+        Pain Split, Giga Drain, Drain Punch, Spite, Sleep Talk, Belch, Infestation,
+        Confide]
     stats:
     - [50, 50, 62, 40, 62, 65]
     tags:

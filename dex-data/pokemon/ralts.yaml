@@ -17,6 +17,12 @@ pokemon:
           Beam, Knock Off, Leaf Blade, Leer, Low Kick, Night Slash, Poison Jab, Psycho
           Cut, Rock Slide, Rock Smash, Rock Tomb, Slash, Stone Edge, Strength, Swords
           Dance, Vacuum Wave, X-scissor]
+    - xy: [Aerial Ace, Brick Break, Bulk Up, Bulldoze, Close Combat, Cut, Drain Punch,
+        Earthquake, False Swipe, Feint, Focus Blast, Focus Punch, Fury Cutter, Giga
+          Impact, Hyper Beam, Knock Off, Leaf Blade, Leer, Low Kick, Low Sweep, Night
+          Slash, Poison Jab, Psycho Cut, Retaliate, Rock Slide, Rock Smash, Rock Tomb,
+        Slash, Stone Edge, Strength, Swords Dance, Vacuum Wave, Work Up, X-Scissor,
+        Dual Chop, Power-Up Punch]
     stats:
     - [68, 125, 65, 65, 115, 80]
     tags:
@@ -39,6 +45,8 @@ pokemon:
     - dp: [Energy Ball, Heal Bell, Healing Wish, Wish, Body Slam, Double-Edge, Icy
           Wind, Mimic, Nightmare]
     - rs: [Hyper Beam, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare]
+    - xy: [Energy Ball, Focus Blast, Giga Impact, Heal Bell, Healing Wish, Hyper Beam,
+        Wish, Moonblast, Misty Terrain]
     stats:
     - [68, 65, 65, 125, 115, 80]
     tags:
@@ -61,6 +69,7 @@ pokemon:
     - bw: [Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare]
     - dp: [Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare]
     - rs: [Magical Leaf, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare]
+    - xy: []
     stats:
     - [38, 35, 35, 65, 55, 50]
     tags:
@@ -111,6 +120,19 @@ pokemon:
         Sunny Day, Swagger, Taunt, Teleport, Thief, Thunder Wave, Thunderbolt, Thunderpunch,
         Torment, Toxic, Will-O-Wisp, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare,
         Shock Wave, Sing]
+    - xy: [Ally Switch, Attract, Body Slam, Calm Mind, Captivate, Charge Beam, Charm,
+        Confuse Ray, Confusion, Defense Curl, Destiny Bond, Disable, Double-Edge,
+        Double Team, Dream Eater, Echoed Voice, Encore, Endure, Facade, Fire Punch,
+        Flash, Fling, Frustration, Future Sight, Grass Knot, Growl, Grudge, Headbutt,
+        Heal Pulse, Helping Hand, Hidden Power, Hypnosis, Ice Punch, Icy Wind, Imprison,
+        Light Screen, Lucky Chant, Magical Leaf, Magic Coat, Mean Look, Memento, Mimic,
+        Mud-Slap, Natural Gift, Nightmare, Pain Split, Protect, Psychic, Psych Up,
+        Psyshock, Rain Dance, Recycle, Reflect, Rest, Return, Round, Safeguard, Secret
+          Power, Shadow Ball, Shadow Sneak, Shock Wave, Signal Beam, Sing, Skill Swap,
+        Sleep Talk, Snatch, Snore, Stored Power, Substitute, Sunny Day, Swagger, Swift,
+        Synchronoise, Taunt, Telekinesis, Teleport, Thief, Thunderbolt, Thunder Punch,
+        Thunder Wave, Torment, Toxic, Trick, Trick Room, Will-O-Wisp, Wish, Zen Headbutt,
+        Hyper Voice, Magic Room, Wonder Room, Dazzling Gleam, Confide, Misty Terrain]
     stats:
     - [28, 25, 25, 45, 35, 40]
     tags:

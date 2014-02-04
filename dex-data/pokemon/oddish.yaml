@@ -14,6 +14,8 @@ pokemon:
     - dp: [Giga Impact, Hyper Beam, Leaf Blade, Leaf Storm, Magical Leaf, Safeguard,
         Uproar]
     - rs: [Hyper Beam, Magical Leaf, Safeguard]
+    - xy: [Giga Impact, Hyper Beam, Leaf Blade, Leaf Storm, Magical Leaf, Safeguard,
+        Uproar]
     stats:
     - [75, 80, 85, 90, 100, 50]
     - xy: [75, 80, 95, 90, 100, 50]
@@ -38,6 +40,7 @@ pokemon:
     - dp: [Drain Punch, Fling, Double-Edge, Mimic]
     - rs: [Double-Edge, Mimic]
     - rb: []
+    - xy: [Drain Punch, Fling, Petal Blizzard]
     stats:
     - [60, 65, 70, 85, 85, 40]
     - gs: [60, 65, 70, 85, 75, 40]
@@ -86,6 +89,15 @@ pokemon:
     - rb: [Absorb, Acid, Bide, Cut, Double-Edge, Double Team, Mega Drain, Mimic, Petal
           Dance, Poisonpowder, Rage, Reflect, Rest, Sleep Powder, Solarbeam, Stun
           Spore, Substitute, Swords Dance, Take Down, Toxic, Leech Seed]
+    - xy: [Absorb, Acid, After You, Attract, Bullet Seed, Captivate, Charm, Cut, Double-Edge,
+        Double Team, Endure, Energy Ball, Facade, Flail, Flash, Frustration, Gastro
+          Acid, Giga Drain, Grass Knot, Hidden Power, Ingrain, Leech Seed, Lucky Chant,
+        Mega Drain, Mimic, Moonlight, Natural Gift, Nature Power, Petal Dance, Poison
+          Powder, Protect, Razor Leaf, Rest, Return, Round, Secret Power, Seed Bomb,
+        Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Stun Spore, Substitute,
+        Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis, Teeter Dance, Tickle,
+        Toxic, Venoshock, Worry Seed, Grassy Terrain, Infestation, Dazzling Gleam,
+        Confide]
     stats:
     - [45, 50, 55, 75, 75, 30]
     - gs: [45, 50, 55, 75, 65, 30]
@@ -109,6 +121,7 @@ pokemon:
     - dp: [Aromatherapy, Body Slam, Double-Edge, Mimic]
     - rs: [Aromatherapy, Body Slam, Mega Drain, Body Slam, Double-Edge, Mimic]
     - rb: [Body Slam, Hyper Beam]
+    - xy: [Aromatherapy, Body Slam, Giga Impact, Hyper Beam, Safeguard]
     stats:
     - [75, 80, 85, 100, 100, 50]
     - gs: [75, 80, 85, 100, 90, 50]

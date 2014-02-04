@@ -15,6 +15,8 @@ pokemon:
     - dp: [Block, Flash Cannon, Giga Impact, Hyper Beam, Magnet Rise, Mirror Shot,
         Rock Polish, Signal Beam, Zap Cannon, Body Slam, Mimic]
     - rs: [Hyper Beam, Zap Cannon, Body Slam, Mimic]
+    - xy: [Autotomize, Block, Flash Cannon, Giga Impact, Heavy Slam, Hyper Beam, Magnet
+          Rise, Mirror Shot, Rock Polish, Signal Beam, Volt Switch, Zap Cannon]
     stats:
     - [75, 90, 140, 60, 60, 40]
     tags:
@@ -59,6 +61,16 @@ pokemon:
         Rest, Return, Rock Slide, Rock Smash, Rollout, Sand Tomb, Sandstorm, Secret
           Power, Selfdestruct, Sleep Talk, Snore, Solarbeam, Spikes, Strength, Substitute,
         Sunny Day, Swagger, Swift, Tackle, Take Down, Toxic, Body Slam, Mimic, Refresh]
+    - xy: [Attract, Bide, Body Slam, Bug Bite, Bulldoze, Captivate, Counter, Defense
+          Curl, Dig, Double-Edge, Double Team, Earthquake, Endure, Explosion, Facade,
+        Flail, Frustration, Giga Drain, Gravity, Gyro Ball, Headbutt, Hidden Power,
+        Iron Defense, Light Screen, Mimic, Natural Gift, Pain Split, Payback, Pin
+          Missile, Power Trick, Protect, Rapid Spin, Reflect, Refresh, Rest, Return,
+        Revenge, Rock Slide, Rock Smash, Rock Tomb, Rollout, Round, Sandstorm, Sand
+          Tomb, Secret Power, Self-Destruct, Sleep Talk, Snore, Solar Beam, Spikes,
+        Stealth Rock, Strength, String Shot, Struggle Bug, Substitute, Sunny Day,
+        Swagger, Swift, Tackle, Take Down, Toxic, Toxic Spikes, Venoshock, Drill Run,
+        Confide]
     stats:
     - [50, 65, 90, 35, 35, 15]
     tags:

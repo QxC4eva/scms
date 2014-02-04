@@ -17,6 +17,16 @@ pokemon:
         Sandstorm, Scary Face, Shadow Claw, Sleep Talk, Smack Down, Snore, Stealth
           Rock, Steel Wing, Stone Edge, Substitute, Swagger, Tailwind, Taunt, Thrash,
         Torment, Toxic, U-turn, Uproar, Wing Attack]
+    - xy: [Acrobatics, Aerial Ace, Agility, Ancient Power, Attract, Bite, Bulldoze,
+        Crunch, Cut, Defog, Dig, Double Team, Dragon Breath, Dragon Claw, Dragon Pulse,
+        Earth Power, Earthquake, Endeavor, Facade, Frustration, Head Smash, Hidden
+          Power, Hone Claws, Knock Off, Leer, Pluck, Protect, Quick Attack, Quick
+          Guard, Rest, Return, Roar, Rock Polish, Rock Slide, Rock Smash, Rock Throw,
+        Rock Tomb, Round, Sandstorm, Scary Face, Shadow Claw, Smack Down, Steel Wing,
+        Stone Edge, Substitute, Swagger, Taunt, Thrash, Torment, Toxic, U-turn, Wing
+          Attack, Bounce, Uproar, Iron Defense, Aqua Tail, Iron Tail, Snore, Heat
+          Wave, Tailwind, Roost, Stealth Rock, Sleep Talk, Confide, Switcheroo, Ally
+          Switch]
     stats:
     - [55, 112, 45, 74, 45, 70]
     tags:
@@ -33,6 +43,7 @@ pokemon:
     introduction: bw
     moves:
     - bw: [Dragon Tail, Fly, Focus Blast, Giga Impact, Hyper Beam, Outrage, Sky Attack]
+    - xy: [Dragon Tail, Fly, Focus Blast, Giga Impact, Hyper Beam, Sky Attack, Outrage]
     stats:
     - [75, 140, 65, 112, 65, 110]
     tags:

@@ -18,6 +18,9 @@ pokemon:
     - rs: [Brick Break, Dive, Dynamicpunch, Fake Out, Fire Punch, Fury Swipes, Hydro
           Pump, Ice Punch, Mud-Slap, Rock Smash, Strength, Thunderpunch, Uproar, Water
           Sport, Waterfall, Body Slam, Double-Edge, Icy Wind, Mimic]
+    - xy: [Brick Break, Dive, Drain Punch, Dynamic Punch, Fake Out, Fire Punch, Fling,
+        Fury Swipes, Hone Claws, Hydro Pump, Ice Punch, Mud-Slap, Rock Smash, Strength,
+        Thunder Punch, Waterfall, Water Sport, Hyper Voice, Power-Up Punch]
     stats:
     - [60, 50, 50, 60, 70, 50]
     tags:
@@ -58,6 +61,15 @@ pokemon:
         Sleep Talk, Snore, Solarbeam, Substitute, Sunny Day, Surf, Swagger, Sweet
           Scent, Swords Dance, Synthesis, Thief, Toxic, Water Gun, Water Pulse, Body
           Slam, Double-Edge, Icy Wind, Mimic]
+    - xy: [Absorb, Astonish, Attract, Blizzard, Body Slam, Bubble Beam, Bullet Seed,
+        Captivate, Counter, Double-Edge, Double Team, Echoed Voice, Endure, Energy
+          Ball, Facade, Flail, Flash, Frustration, Giga Drain, Grass Knot, Growl,
+        Hail, Headbutt, Hidden Power, Ice Beam, Icy Wind, Leech Seed, Mega Drain,
+        Mimic, Mist, Natural Gift, Nature Power, Protect, Rain Dance, Razor Leaf,
+        Rest, Return, Round, Scald, Secret Power, Seed Bomb, Sleep Talk, Snore, Solar
+          Beam, Substitute, Sunny Day, Surf, Swagger, Sweet Scent, Swords Dance, Synthesis,
+        Teeter Dance, Thief, Tickle, Toxic, Uproar, Water Gun, Water Pulse, Whirlpool,
+        Zen Headbutt, Confide]
     stats:
     - [40, 30, 30, 40, 50, 30]
     tags:
@@ -81,6 +93,8 @@ pokemon:
         Double-Edge, Icy Wind, Mimic, Seismic Toss]
     - rs: [Counter, Focus Punch, Hyper Beam, Mega Kick, Mega Punch, Metronome, Seismic
           Toss, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+    - xy: [Counter, Focus Blast, Focus Punch, Giga Impact, Hyper Beam, Mega Drain,
+        Mega Kick, Mega Punch, Metronome, Rock Climb, Seismic Toss]
     stats:
     - [80, 70, 70, 90, 100, 70]
     tags:

@@ -7,6 +7,8 @@ pokemon:
     evolutions: [Luxray]
     height: [0.9]
     introduction: dp
+    moves:
+    - xy: []
     stats:
     - [60, 85, 49, 60, 49, 60]
     tags:
@@ -24,6 +26,7 @@ pokemon:
     moves:
     - bw: [Giga Impact, Hyper Beam, Superpower]
     - dp: [Giga Impact, Hyper Beam, Superpower]
+    - xy: [Giga Impact, Hyper Beam, Superpower, Electric Terrain]
     stats:
     - [80, 120, 79, 95, 79, 70]
     tags:
@@ -54,6 +57,15 @@ pokemon:
         Return, Roar, Scary Face, Secret Power, Shock Wave, Signal Beam, Sleep Talk,
         Snore, Spark, Strength, Substitute, Swagger, Swift, Tackle, Take Down, Thief,
         Thunder, Thunder Fang, Thunder Wave, Thunderbolt, Toxic]
+    - xy: [Attract, Bite, Captivate, Charge, Charge Beam, Crunch, Discharge, Double
+          Kick, Double Team, Endure, Facade, Fire Fang, Flash, Frustration, Fury Cutter,
+        Headbutt, Helping Hand, Hidden Power, Howl, Ice Fang, Iron Tail, Leer, Light
+          Screen, Magnet Rise, Mud-Slap, Natural Gift, Night Slash, Protect, Quick
+          Attack, Rain Dance, Rest, Return, Roar, Round, Scary Face, Secret Power,
+        Shock Wave, Signal Beam, Sleep Talk, Snarl, Snore, Spark, Strength, Substitute,
+        Swagger, Swift, Tackle, Take Down, Thief, Thunder, Thunderbolt, Thunder Fang,
+        Thunder Wave, Toxic, Volt Switch, Wild Charge, Baby-Doll Eyes, Confide, Fake
+          Tears, Eerie Impulse]
     stats:
     - [45, 65, 34, 40, 34, 45]
     tags:

@@ -12,6 +12,7 @@ pokemon:
     - bw: [Blizzard, Focus Blast, Giga Impact, Hyper Beam, Rock Smash, Strength, Thunder]
     - dp: [Blizzard, Focus Blast, Giga Impact, Hyper Beam, Rock Smash, Strength, Thunder]
     - rs: [Blizzard, Hyper Beam, Rock Smash, Strength, Thunder]
+    - xy: [Blizzard, Focus Blast, Giga Impact, Hyper Beam, Rock Smash, Strength, Thunder]
     stats:
     - [85, 76, 64, 45, 55, 90]
     tags:
@@ -64,6 +65,18 @@ pokemon:
         Scratch, Secret Power, Shadow Ball, Shock Wave, Slam, Slash, Sleep Talk, Snore,
         Solarbeam, Substitute, Sunny Day, Surf, Swagger, Swift, Thief, Thunderbolt,
         Thunderpunch, Toxic, Trick, Water Pulse]
+    - xy: [Amnesia, Aqua Tail, Assist, Attract, Baton Pass, Body Slam, Brick Break,
+        Captivate, Charge Beam, Charm, Covet, Cut, Defense Curl, Dig, Double-Edge,
+        Double Team, Dynamic Punch, Echoed Voice, Endure, Facade, Fire Punch, Flamethrower,
+        Fling, Focus Energy, Focus Punch, Follow Me, Foresight, Frustration, Fury
+          Cutter, Fury Swipes, Grass Knot, Headbutt, Helping Hand, Hidden Power, Hone
+          Claws, Hyper Voice, Ice Beam, Ice Punch, Iron Tail, Knock Off, Last Resort,
+        Me First, Mimic, Mud-Slap, Natural Gift, Protect, Pursuit, Quick Attack, Rain
+          Dance, Rest, Retaliate, Return, Reversal, Rollout, Round, Scratch, Secret
+          Power, Shadow Ball, Shadow Claw, Shock Wave, Slam, Slash, Sleep Talk, Snore,
+        Solar Beam, Substitute, Sucker Punch, Sunny Day, Super Fang, Surf, Swagger,
+        Swift, Thief, Thunderbolt, Thunder Punch, Toxic, Trick, Uproar, U-turn, Water
+          Pulse, Whirlpool, Work Up, Power-Up Punch, Confide]
     stats:
     - [35, 46, 34, 35, 45, 20]
     tags:

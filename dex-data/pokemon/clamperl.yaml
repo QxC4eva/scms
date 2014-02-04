@@ -25,6 +25,12 @@ pokemon:
           Wind, Iron Defense, Mimic, Mud Sport, Protect, Rain Dance, Refresh, Rest,
         Return, Secret Power, Sleep Talk, Snore, Substitute, Supersonic, Surf, Swagger,
         Toxic, Water Gun, Water Pulse, Waterfall, Whirlpool]
+    - xy: [Aqua Ring, Attract, Barrier, Blizzard, Body Slam, Brine, Captivate, Clamp,
+        Confuse Ray, Dive, Double-Edge, Double Team, Endure, Facade, Frustration,
+        Hail, Hidden Power, Ice Beam, Icy Wind, Iron Defense, Mimic, Muddy Water,
+        Mud Sport, Natural Gift, Protect, Rain Dance, Refresh, Rest, Return, Round,
+        Scald, Secret Power, Shell Smash, Sleep Talk, Snore, Substitute, Supersonic,
+        Surf, Swagger, Toxic, Waterfall, Water Gun, Water Pulse, Whirlpool, Confide]
     stats:
     - [35, 64, 85, 74, 55, 32]
     tags:
@@ -51,6 +57,9 @@ pokemon:
         Signal Beam, Swift, Double-Edge, Icy Wind, Mimic]
     - rs: [Agility, Amnesia, Baton Pass, Confusion, Hydro Pump, Hyper Beam, Mud-Slap,
         Psychic, Safeguard, Shadow Ball, Swift, Double-Edge, Icy Wind, Mimic]
+    - xy: [Agility, Amnesia, Aqua Tail, Baton Pass, Bounce, Confusion, Giga Impact,
+        Hydro Pump, Hyper Beam, Mud-Slap, Psychic, Psych Up, Safeguard, Shadow Ball,
+        Signal Beam, Swift, Bind, Infestation]
     stats:
     - [55, 84, 105, 114, 75, 52]
     tags:
@@ -74,6 +83,9 @@ pokemon:
           Punch, Super Fang, Double-Edge, Icy Wind, Mimic]
     - rs: [Bite, Crunch, Rock Tomb, Scary Face, Screech, Snatch, Double-Edge, Icy
           Wind, Mimic]
+    - xy: [Aqua Tail, Baton Pass, Bite, Bounce, Crunch, Giga Impact, Hydro Pump, Hyper
+          Beam, Ice Fang, Mud-Slap, Rock Tomb, Scary Face, Screech, Snatch, Sucker
+          Punch, Super Fang, Swift, Bind, Infestation]
     stats:
     - [55, 104, 105, 94, 75, 52]
     tags:

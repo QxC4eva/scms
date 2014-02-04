@@ -7,6 +7,8 @@ pokemon:
     evolutions: [Vanilluxe]
     height: [1.1]
     introduction: bw
+    moves:
+    - xy: []
     stats:
     - [51, 65, 65, 80, 75, 59]
     tags:
@@ -30,6 +32,13 @@ pokemon:
         Mist, Natural Gift, Powder Snow, Protect, Rain Dance, Rest, Return, Round,
         Sheer Cold, Signal Beam, Sleep Talk, Snore, Substitute, Swagger, Taunt, Toxic,
         Uproar, Water Pulse]
+    - xy: [Acid Armor, Astonish, Attract, Autotomize, Avalanche, Blizzard, Double
+          Team, Explosion, Facade, Flash Cannon, Frost Breath, Frustration, Hail,
+        Harden, Hidden Power, Ice Beam, Ice Shard, Icicle Spear, Icy Wind, Imprison,
+        Iron Defense, Light Screen, Magnet Rise, Mirror Coat, Mirror Shot, Mist, Natural
+          Gift, Powder Snow, Protect, Rain Dance, Rest, Return, Round, Sheer Cold,
+        Substitute, Swagger, Taunt, Toxic, Uproar, Water Pulse, Signal Beam, Magic
+          Coat, Snore, Sleep Talk, Confide]
     stats:
     - [36, 50, 50, 65, 60, 44]
     tags:
@@ -46,6 +55,7 @@ pokemon:
     introduction: bw
     moves:
     - bw: [Giga Impact, Hyper Beam, Weather Ball]
+    - xy: [Giga Impact, Hyper Beam, Weather Ball, Freeze-Dry]
     stats:
     - [71, 95, 85, 110, 95, 79]
     tags:

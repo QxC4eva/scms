@@ -21,6 +21,8 @@ pokemon:
         Quick Attack, Rage, Reflect, Rest, Screech, Seismic Toss, Skull Bash, Strength,
         Submission, Substitute, Swift, Take Down, Teleport, Thunder, Thunder Wave,
         Thunderbolt, Thunderpunch, Thundershock, Toxic]
+    - xy: [Focus Blast, Follow Me, Giga Impact, Hyper Beam, Iron Tail, Low Sweep,
+        Rock Climb, Strength]
     stats:
     - [65, 83, 57, 85, 85, 105]
     - gs: [65, 83, 57, 95, 85, 105]
@@ -41,6 +43,8 @@ pokemon:
     - bw: [Bulldoze, Dig, Earthquake, Flamethrower, Rock Slide, Rock Tomb, Taunt,
         Torment]
     - dp: [Dig, Earthquake, Flamethrower, Rock Slide, Rock Tomb, Taunt, Torment]
+    - xy: [Bulldoze, Dig, Earthquake, Flamethrower, Rock Slide, Rock Tomb, Taunt,
+        Torment, Electric Terrain, Ion Deluge]
     stats:
     - [75, 123, 67, 95, 85, 95]
     tags:
@@ -90,6 +94,17 @@ pokemon:
           Toss, Shock Wave, Sleep Talk, Snore, Substitute, Swagger, Swift, Thief,
         Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Toxic, Body Slam, Double-Edge,
         Mimic, Seismic Toss]
+    - xy: [Attract, Barrier, Body Slam, Brick Break, Captivate, Charge Beam, Counter,
+        Cross Chop, Discharge, Double-Edge, Double Team, Dynamic Punch, Electro Ball,
+        Endure, Facade, Feint, Fire Punch, Flash, Fling, Focus Punch, Frustration,
+        Hammer Arm, Headbutt, Helping Hand, Hidden Power, Ice Punch, Karate Chop,
+        Leer, Light Screen, Low Kick, Magnet Rise, Meditate, Mega Kick, Mega Punch,
+        Mimic, Mud-Slap, Natural Gift, Protect, Psychic, Quick Attack, Rain Dance,
+        Rest, Return, Rock Smash, Rolling Kick, Round, Screech, Secret Power, Seismic
+          Toss, Shock Wave, Signal Beam, Sleep Talk, Snore, Substitute, Swagger, Swift,
+        Thief, Thunder, Thunderbolt, Thunder Punch, Thunder Shock, Thunder Wave, Toxic,
+        Uproar, Volt Switch, Wild Charge, Covet, Dual Chop, Electroweb, Power-Up Punch,
+        Confide]
     stats:
     - [45, 63, 37, 65, 55, 95]
     tags:

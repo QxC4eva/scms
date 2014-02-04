@@ -15,6 +15,8 @@ pokemon:
     - dp: [Bullet Punch, Flash Cannon, Fling, Iron Defense, Iron Head, Metal Claw,
         Sandstorm, Strength, Superpower, Double-Edge, Mimic]
     - rs: [Iron Defense, Metal Claw, Sandstorm, Strength, Double-Edge, Mimic]
+    - xy: [Acrobatics, Bullet Punch, Flash Cannon, Fling, Iron Defense, Iron Head,
+        Metal Claw, Sandstorm, Strength, Superpower, Venoshock]
     stats:
     - [70, 130, 100, 55, 80, 65]
     tags:
@@ -68,6 +70,16 @@ pokemon:
     - rb: [Agility, Bide, Cut, Double-Edge, Double Team, Focus Energy, Hyper Beam,
         Leer, Mimic, Quick Attack, Rage, Rest, Skull Bash, Slash, Substitute, Swift,
         Swords Dance, Take Down, Toxic, Wing Attack]
+    - xy: [Aerial Ace, Agility, Air Slash, Attract, Baton Pass, Brick Break, Bug Bite,
+        Bug Buzz, Captivate, Counter, Cut, Defog, Double-Edge, Double Hit, Double
+          Team, Endure, Facade, False Swipe, Feint, Focus Energy, Frustration, Fury
+          Cutter, Giga Impact, Headbutt, Hidden Power, Hyper Beam, Knock Off, Leer,
+        Light Screen, Mimic, Morning Sun, Natural Gift, Night Slash, Ominous Wind,
+        Protect, Pursuit, Quick Attack, Rain Dance, Razor Wind, Rest, Return, Reversal,
+        Rock Smash, Roost, Round, Safeguard, Secret Power, Silver Wind, Slash, Sleep
+          Talk, Snore, Steel Wing, Struggle Bug, Substitute, Sunny Day, Swagger, Swift,
+        Swords Dance, Tailwind, Thief, Toxic, U-turn, Vacuum Wave, Wing Attack, X-Scissor,
+        Confide, Quick Guard]
     stats:
     - [70, 110, 80, 55, 55, 105]
     - gs: [70, 110, 80, 55, 80, 105]

@@ -15,6 +15,13 @@ pokemon:
         Rock Slide, Rock Smash, Rock Tomb, Round, Sandstorm, Scratch, Shadow Claw,
         Skull Bash, Slash, Sleep Talk, Sludge Bomb, Snore, Stealth Rock, Strength,
         Submission, Substitute, Swagger, Swords Dance, Toxic, X-scissor]
+    - xy: [Aerial Ace, Attract, Brick Break, Bulldoze, Crush Claw, Cut, Dig, Double
+          Team, Drill Run, Earth Power, Earthquake, Facade, Fissure, Fling, Frustration,
+        Fury Swipes, Hidden Power, Hone Claws, Iron Defense, Metal Claw, Metal Sound,
+        Mud-Slap, Mud Sport, Poison Jab, Protect, Rapid Spin, Rest, Return, Rock Climb,
+        Rock Slide, Rock Smash, Rock Tomb, Round, Sandstorm, Scratch, Shadow Claw,
+        Skull Bash, Slash, Sludge Bomb, Strength, Submission, Substitute, Swagger,
+        Swords Dance, Toxic, X-Scissor, Snore, Stealth Rock, Sleep Talk, Confide]
     stats:
     - [60, 85, 40, 30, 45, 68]
     tags:
@@ -31,6 +38,8 @@ pokemon:
     introduction: bw
     moves:
     - bw: [Focus Blast, Giga Impact, Horn Drill, Hyper Beam, Iron Head, Magnet Rise]
+    - xy: [Focus Blast, Giga Impact, Horn Drill, Hyper Beam, Iron Head, Magnet Rise,
+        Rototiller]
     stats:
     - [110, 135, 60, 50, 65, 88]
     tags:

@@ -17,6 +17,10 @@ pokemon:
     - rs: [Counter, Dynamicpunch, Fire Punch, Focus Punch, Hyper Beam, Ice Punch,
         Mega Kick, Mega Punch, Mud-Slap, Seismic Toss, Thunderpunch, Body Slam, Double-Edge,
         Icy Wind, Mimic, Seismic Toss]
+    - xy: [Brick Break, Bulldoze, Counter, Drain Punch, Dynamic Punch, Energy Ball,
+        Fire Punch, Fling, Focus Blast, Focus Punch, Giga Impact, Hyper Beam, Ice
+          Punch, Mega Kick, Mega Punch, Mud-Slap, Seismic Toss, Thunder Punch, Power-Up
+          Punch]
     stats:
     - [80, 45, 65, 90, 110, 80]
     tags:
@@ -60,6 +64,16 @@ pokemon:
         Rest, Return, Secret Power, Shadow Ball, Shock Wave, Skill Swap, Sleep Talk,
         Snatch, Snore, Splash, Substitute, Sunny Day, Swagger, Swift, Taunt, Thief,
         Torment, Toxic, Trick, Body Slam, Double-Edge, Icy Wind, Mimic]
+    - xy: [Amnesia, Attract, Body Slam, Bounce, Calm Mind, Captivate, Charge Beam,
+        Confuse Ray, Double-Edge, Double Team, Dream Eater, Endure, Extrasensory,
+        Facade, Flash, Frustration, Future Sight, Grass Knot, Headbutt, Heal Bell,
+        Hidden Power, Icy Wind, Iron Tail, Light Screen, Lucky Chant, Magic Coat,
+        Mimic, Mirror Coat, Natural Gift, Odor Sleuth, Payback, Power Gem, Protect,
+        Psybeam, Psychic, Psych Up, Psyshock, Psywave, Rain Dance, Recycle, Reflect,
+        Rest, Return, Role Play, Round, Secret Power, Shadow Ball, Shock Wave, Signal
+          Beam, Skill Swap, Sleep Talk, Snatch, Snore, Splash, Substitute, Sunny Day,
+        Swagger, Swift, Taunt, Telekinesis, Thief, Thunder Wave, Torment, Toxic, Trick,
+        Trick Room, Uproar, Whirlwind, Zen Headbutt, Covet, Confide, Simple Beam]
     stats:
     - [60, 25, 35, 70, 80, 60]
     tags:

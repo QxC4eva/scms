@@ -9,6 +9,8 @@ pokemon:
     moves:
     - bw: [Aqua Jet, Brick Break, Bulk Up, Bulldoze, Dive, Focus Blast, Giga Impact,
         Hyper Beam, Icicle Crash, Roar, Rock Slide, Stone Edge, Swords Dance, Taunt]
+    - xy: [Aqua Jet, Brick Break, Bulk Up, Bulldoze, Dive, Focus Blast, Giga Impact,
+        Hyper Beam, Icicle Crash, Roar, Rock Slide, Stone Edge, Swords Dance, Taunt]
     stats:
     - [95, 110, 80, 70, 80, 50]
     tags:
@@ -32,6 +34,14 @@ pokemon:
           Slash, Powder Snow, Protect, Rain Dance, Rest, Return, Rock Smash, Rock
           Tomb, Round, Shadow Claw, Sheer Cold, Slash, Sleep Talk, Snore, Strength,
         Substitute, Superpower, Surf, Swagger, Thrash, Toxic, Yawn]
+    - xy: [Aerial Ace, Assurance, Attract, Avalanche, Bide, Blizzard, Brine, Charm,
+        Cut, Dig, Double Team, Echoed Voice, Encore, Endure, Facade, Flail, Fling,
+        Focus Punch, Frost Breath, Frustration, Fury Swipes, Grass Knot, Growl, Hail,
+        Hidden Power, Hone Claws, Ice Beam, Ice Punch, Icy Wind, Night Slash, Powder
+          Snow, Protect, Rain Dance, Rest, Return, Rock Smash, Rock Tomb, Round, Shadow
+          Claw, Sheer Cold, Slash, Sleep Talk, Strength, Substitute, Surf, Swagger,
+        Thrash, Toxic, Yawn, Covet, Low Kick, Superpower, Snore, Play Nice, Power-Up
+          Punch, Confide, Play Rough]
     stats:
     - [55, 70, 40, 60, 40, 40]
     tags:

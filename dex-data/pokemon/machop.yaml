@@ -15,6 +15,7 @@ pokemon:
     - dp: [Giga Impact, Hyper Beam, Stone Edge, Body Slam, Double-Edge, Mimic]
     - rs: [Hyper Beam, Body Slam, Double-Edge, Mimic]
     - rb: [Hyper Beam]
+    - xy: [Bullet Punch, Giga Impact, Hyper Beam, Stone Edge, Wide Guard]
     stats:
     - [90, 130, 80, 65, 65, 55]
     - gs: [90, 130, 80, 65, 85, 55]
@@ -43,6 +44,7 @@ pokemon:
     - dp: [Body Slam, Double-Edge, Mimic]
     - rs: [Body Slam, Double-Edge, Mimic]
     - rb: []
+    - xy: []
     stats:
     - [80, 100, 70, 50, 50, 45]
     - gs: [80, 100, 70, 50, 60, 45]
@@ -104,6 +106,19 @@ pokemon:
           Blast, Fissure, Focus Energy, Karate Chop, Leer, Low Kick, Mega Kick, Mega
           Punch, Metronome, Mimic, Rage, Rest, Rock Slide, Seismic Toss, Skull Bash,
         Strength, Submission, Substitute, Take Down, Toxic, False Swipe, Thrash]
+    - xy: [Attract, Body Slam, Brick Break, Bulk Up, Bulldoze, Bullet Punch, Captivate,
+        Close Combat, Counter, Cross Chop, Dig, Double-Edge, Double Team, Dynamic
+          Punch, Earthquake, Encore, Endure, Facade, Fire Blast, Fire Punch, Flamethrower,
+        Fling, Focus Blast, Focus Energy, Focus Punch, Foresight, Frustration, Headbutt,
+        Heavy Slam, Helping Hand, Hidden Power, Ice Punch, Incinerate, Karate Chop,
+        Knock Off, Leer, Light Screen, Low Kick, Low Sweep, Meditate, Mega Kick, Mega
+          Punch, Metronome, Mimic, Mud-Slap, Natural Gift, Payback, Poison Jab, Power
+          Trick, Protect, Rain Dance, Rest, Retaliate, Return, Revenge, Rock Climb,
+        Rock Slide, Rock Smash, Rock Tomb, Role Play, Rolling Kick, Round, Scary Face,
+        Secret Power, Seismic Toss, Sleep Talk, Smack Down, Smelling Salts, Snore,
+        Strength, Submission, Substitute, Sunny Day, Superpower, Swagger, Thief, Thunder
+          Punch, Tickle, Toxic, Vacuum Wave, Vital Throw, Wake-Up Slap, Work Up, Dual
+          Chop, Power-Up Punch, Confide, Quick Guard]
     stats:
     - [70, 80, 50, 35, 35, 35]
     - gs: [70, 80, 50, 35, 35, 35]

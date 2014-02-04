@@ -15,6 +15,10 @@ pokemon:
           Impact, Hyper Beam, Ice Punch, Mud-Slap, Ominous Wind, Pain Split, Payback,
         Psych Up, Psychic, Shock Wave, Signal Beam, Snatch, Sucker Punch, Taunt, Thunder,
         Thunder Wave, Thunderbolt, Torment, Trick, Wake-Up Slap]
+    - xy: [Astonish, Confuse Ray, Destiny Bond, Dream Eater, Embargo, Fling, Giga
+          Impact, Hyper Beam, Ice Punch, Mud-Slap, Ominous Wind, Pain Split, Payback,
+        Psychic, Psych Up, Shock Wave, Signal Beam, Snatch, Sucker Punch, Taunt, Telekinesis,
+        Thunder, Thunderbolt, Thunder Wave, Torment, Trick, Wake-Up Slap]
     stats:
     - [70, 80, 70, 80, 70, 110]
     tags:
@@ -38,6 +42,9 @@ pokemon:
           Fang, Body Slam, Double-Edge, Mimic, Selfdestruct]
     - rs: [Defense Curl, Earthquake, Explosion, Hyper Beam, Rollout, Selfdestruct,
         Sheer Cold, Taunt, Torment, Body Slam, Double-Edge, Mimic, Selfdestruct]
+    - xy: [Bulldoze, Dark Pulse, Defense Curl, Earthquake, Explosion, Giga Impact,
+        Gyro Ball, Hyper Beam, Iron Head, Payback, Self-Destruct, Sheer Cold, Signal
+          Beam, Super Fang, Taunt, Torment]
     stats:
     - [80, 80, 80, 80, 80, 80]
     tags:
@@ -75,6 +82,13 @@ pokemon:
           Dance, Rest, Return, Safeguard, Secret Power, Shadow Ball, Sleep Talk, Snore,
         Spikes, Substitute, Swagger, Toxic, Water Pulse, Body Slam, Double-Edge, Mimic,
         Sing, Water Pulse]
+    - xy: [Attract, Avalanche, Bide, Bite, Blizzard, Block, Body Slam, Captivate,
+        Crunch, Disable, Double-Edge, Double Team, Endure, Facade, Fake Tears, Flash,
+        Frost Breath, Frustration, Hail, Headbutt, Hex, Hidden Power, Ice Beam, Ice
+          Fang, Ice Shard, Icy Wind, Leer, Light Screen, Mimic, Natural Gift, Powder
+          Snow, Protect, Rain Dance, Rest, Return, Rollout, Round, Safeguard, Secret
+          Power, Shadow Ball, Sing, Sleep Talk, Snore, Spikes, Spite, Substitute,
+        Swagger, Toxic, Water Pulse, Weather Ball, Confide, Switcheroo]
     stats:
     - [50, 50, 50, 50, 50, 50]
     tags:

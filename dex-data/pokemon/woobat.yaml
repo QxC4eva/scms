@@ -8,6 +8,7 @@ pokemon:
     introduction: bw
     moves:
     - bw: [Giga Impact, Hyper Beam, Sky Attack]
+    - xy: [Giga Impact, Hyper Beam, Sky Attack]
     stats:
     - [67, 57, 55, 77, 55, 114]
     tags:
@@ -34,6 +35,17 @@ pokemon:
         Sleep Talk, Snore, Stored Power, Substitute, Super Fang, Supersonic, Swagger,
         Synchronoise, Tailwind, Taunt, Telekinesis, Thief, Thunder Wave, Torment,
         Toxic, Trick, Trick Room, U-turn, Uproar, Zen Headbutt]
+    - xy: [Acrobatics, Aerial Ace, Air Cutter, Air Slash, Amnesia, Assurance, Attract,
+        Calm Mind, Charge Beam, Charm, Confusion, Double Team, Dream Eater, Embargo,
+        Endeavor, Energy Ball, Facade, Fake Tears, Flash, Flatter, Fly, Frustration,
+        Future Sight, Gust, Gyro Ball, Heart Stamp, Helping Hand, Hidden Power, Imprison,
+        Knock Off, Light Screen, Odor Sleuth, Pluck, Protect, Psychic, Psych Up, Psyshock,
+        Rain Dance, Reflect, Rest, Return, Roost, Round, Safeguard, Shadow Ball, Stored
+          Power, Substitute, Supersonic, Swagger, Synchronoise, Taunt, Telekinesis,
+        Thief, Thunder Wave, Torment, Toxic, Trick Room, U-turn, Super Fang, Signal
+          Beam, Uproar, Magic Coat, Zen Headbutt, Snore, Heat Wave, Tailwind, Giga
+          Drain, After You, Trick, Sleep Talk, Skill Swap, Steel Wing, Confide, Psycho
+          Shift, Venom Drench, Captivate]
     stats:
     - [55, 45, 43, 55, 43, 72]
     tags:

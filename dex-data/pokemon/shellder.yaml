@@ -16,6 +16,8 @@ pokemon:
         Spikes, Torment, Toxic Spikes]
     - rs: [Hyper Beam, Spike Cannon, Spikes, Torment]
     - rb: [Hyper Beam, Spike Cannon]
+    - xy: [Frost Breath, Giga Impact, Hyper Beam, Icicle Crash, Poison Jab, Signal
+          Beam, Spike Cannon, Spikes, Torment, Toxic Spikes]
     stats:
     - [50, 95, 180, 85, 85, 70]
     - gs: [50, 95, 180, 85, 45, 70]
@@ -65,6 +67,14 @@ pokemon:
         Explosion, Ice Beam, Leer, Mimic, Rage, Reflect, Rest, Selfdestruct, Substitute,
         Supersonic, Surf, Swift, Tackle, Take Down, Teleport, Toxic, Tri Attack, Water
           Gun, Withdraw]
+    - xy: [Aqua Ring, Attract, Aurora Beam, Avalanche, Barrier, Blizzard, Brine, Bubble
+          Beam, Captivate, Clamp, Dive, Double-Edge, Double Team, Endure, Explosion,
+        Facade, Frustration, Hail, Hidden Power, Hydro Pump, Ice Beam, Ice Shard,
+        Icicle Spear, Icy Wind, Iron Defense, Leer, Mimic, Mud Shot, Natural Gift,
+        Payback, Protect, Rain Dance, Rapid Spin, Razor Shell, Refresh, Rest, Return,
+        Rock Blast, Round, Screech, Secret Power, Self-Destruct, Shell Smash, Sleep
+          Talk, Snore, Substitute, Supersonic, Surf, Swagger, Swift, Tackle, Take
+          Down, Toxic, Twineedle, Water Pulse, Whirlpool, Withdraw, Confide]
     stats:
     - [30, 65, 100, 45, 45, 40]
     - gs: [30, 65, 100, 45, 25, 40]

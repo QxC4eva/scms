@@ -10,6 +10,8 @@ pokemon:
     moves:
     - bw: [Bide, Bug Bite, Endeavor, Growl, Snore, Struggle Bug, Uproar]
     - dp: [Bide, Bug Bite, Endeavor, Growl, Mud-Slap, Snore, String Shot, Uproar]
+    - xy: [Bide, Bug Bite, Endeavor, Growl, Mud-Slap, Snore, String Shot, Struggle
+          Bug, Uproar]
     stats:
     - [37, 25, 41, 25, 41, 25]
     tags:
@@ -37,6 +39,14 @@ pokemon:
         Night Slash, Perish Song, Protect, Rain Dance, Rest, Return, Rock Smash, Screech,
         Secret Power, Silver Wind, Sing, Slash, Sleep Talk, Strength, Substitute,
         Sunny Day, Swagger, Swords Dance, Taunt, Toxic, X-scissor]
+    - xy: [Aerial Ace, Attract, Brick Break, Bug Buzz, Captivate, Cut, Double Team,
+        Echoed Voice, Endure, Facade, False Swipe, Flash, Focus Energy, Frustration,
+        Fury Cutter, Giga Impact, Hidden Power, Hone Claws, Hyper Beam, Knock Off,
+        Leech Life, Natural Gift, Night Slash, Perish Song, Protect, Rain Dance, Rest,
+        Return, Rock Smash, Round, Screech, Secret Power, Silver Wind, Sing, Slash,
+        Sleep Talk, Strength, Substitute, Sunny Day, Swagger, Swords Dance, Taunt,
+        Toxic, X-Scissor, Hyper Voice, Heal Bell, Fell Stinger, Sticky Web, Infestation,
+        Power-Up Punch, Confide]
     stats:
     - [77, 85, 51, 55, 51, 65]
     tags:

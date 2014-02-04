@@ -47,6 +47,19 @@ pokemon:
         Rock Smash, Scratch, Screech, Secret Power, Shadow Ball, Slash, Sleep Talk,
         Snatch, Snore, Spite, Strength, Substitute, Sunny Day, Surf, Swagger, Swift,
         Swords Dance, Taunt, Thief, Torment, Toxic, Double-Edge, Mimic, Nightmare]
+    - xy: [Aerial Ace, Agility, Assist, Attract, Avalanche, Beat Up, Bite, Blizzard,
+        Brick Break, Calm Mind, Captivate, Counter, Crush Claw, Cut, Dark Pulse, Defense
+          Curl, Dig, Double-Edge, Double Hit, Double Team, Dream Eater, Dynamic Punch,
+        Embargo, Endure, Facade, Feint Attack, Fake Out, False Swipe, Feint, Fling,
+        Focus Punch, Foresight, Frustration, Fury Cutter, Fury Swipes, Hail, Headbutt,
+        Hidden Power, Hone Claws, Ice Beam, Ice Punch, Ice Shard, Icy Wind, Iron Tail,
+        Knock Off, Leer, Low Kick, Low Sweep, Metal Claw, Mimic, Mud-Slap, Natural
+          Gift, Nightmare, Payback, Poison Jab, Protect, Psych Up, Punishment, Pursuit,
+        Quick Attack, Rain Dance, Reflect, Rest, Retaliate, Return, Rock Smash, Round,
+        Scratch, Screech, Secret Power, Shadow Ball, Shadow Claw, Slash, Sleep Talk,
+        Snarl, Snatch, Snore, Spite, Strength, Substitute, Sunny Day, Surf, Swagger,
+        Swift, Swords Dance, Taunt, Thief, Torment, Toxic, Whirlpool, X-Scissor, Foul
+          Play, Power-Up Punch, Confide, Icicle Crash]
     stats:
     - [55, 95, 55, 35, 75, 115]
     tags:
@@ -66,6 +79,8 @@ pokemon:
     - bw: [Assurance, Focus Blast, Giga Impact, Hyper Beam, Nasty Plot, Night Slash,
         Revenge]
     - dp: [Assurance, Focus Blast, Giga Impact, Hyper Beam, Nasty Plot, Night Slash,
+        Revenge]
+    - xy: [Assurance, Focus Blast, Giga Impact, Hyper Beam, Nasty Plot, Night Slash,
         Revenge]
     stats:
     - [70, 120, 65, 45, 85, 125]

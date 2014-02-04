@@ -10,6 +10,7 @@ pokemon:
     moves:
     - bw: [Dual Chop]
     - dp: [Iron Tail]
+    - xy: [Dual Chop]
     stats:
     - [68, 90, 65, 50, 55, 82]
     tags:
@@ -29,6 +30,8 @@ pokemon:
         Giga Impact, Hyper Beam, Poison Jab, Surf, Swords Dance]
     - dp: [Aqua Tail, Brick Break, Crunch, False Swipe, Fire Fang, Fling, Giga Impact,
         Hyper Beam, Poison Jab, Surf, Swords Dance, Whirlpool]
+    - xy: [Aqua Tail, Brick Break, Crunch, Dragon Tail, False Swipe, Fire Fang, Fling,
+        Giga Impact, Hyper Beam, Poison Jab, Surf, Swords Dance, Whirlpool]
     stats:
     - [108, 130, 95, 80, 85, 102]
     tags:
@@ -64,6 +67,16 @@ pokemon:
         Sandstorm, Scary Face, Secret Power, Shadow Claw, Slash, Sleep Talk, Snore,
         Stealth Rock, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Swift,
         Tackle, Take Down, Thrash, Toxic, Twister]
+    - xy: [Aerial Ace, Attract, Body Slam, Bulldoze, Captivate, Cut, Dig, Double-Edge,
+        Double Team, Draco Meteor, Dragon Breath, Dragon Claw, Dragon Pulse, Dragon
+          Rage, Dragon Rush, Earth Power, Earthquake, Endure, Facade, Fire Blast,
+        Flamethrower, Frustration, Fury Cutter, Headbutt, Hidden Power, Hone Claws,
+        Incinerate, Iron Head, Iron Tail, Metal Claw, Mud Shot, Mud-Slap, Natural
+          Gift, Outrage, Protect, Rain Dance, Rest, Return, Roar, Rock Climb, Rock
+          Slide, Rock Smash, Rock Tomb, Round, Sand Attack, Sandstorm, Sand Tomb,
+        Scary Face, Secret Power, Shadow Claw, Slash, Sleep Talk, Snore, Stealth Rock,
+        Stone Edge, Strength, Substitute, Sunny Day, Swagger, Swift, Tackle, Take
+          Down, Thrash, Toxic, Twister, Confide]
     stats:
     - [58, 70, 45, 40, 45, 42]
     tags:

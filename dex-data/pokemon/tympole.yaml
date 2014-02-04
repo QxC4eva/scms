@@ -9,6 +9,7 @@ pokemon:
     introduction: bw
     moves:
     - bw: [Bulldoze, Gastro Acid, Rock Smash, Stealth Rock]
+    - xy: [Bulldoze, Rock Smash, Gastro Acid, Stealth Rock]
     stats:
     - [75, 65, 55, 65, 55, 69]
     tags:
@@ -27,6 +28,9 @@ pokemon:
     - bw: [Acid, Brick Break, Dig, Drain Punch, Earthquake, Fling, Focus Blast, Giga
           Impact, Grass Knot, Hyper Beam, Ice Punch, Knock Off, Low Kick, Payback,
         Poison Jab, Rock Slide, Rock Tomb, Strength, Venoshock]
+    - xy: [Acid, Brick Break, Dig, Drain Punch, Earthquake, Fling, Focus Blast, Giga
+          Impact, Grass Knot, Hyper Beam, Payback, Poison Jab, Rock Slide, Rock Tomb,
+        Strength, Venoshock, Low Kick, Ice Punch, Knock Off, Power-Up Punch]
     stats:
     - [105, 85, 75, 85, 75, 74]
     - xy: [105, 95, 75, 85, 75, 74]
@@ -50,6 +54,12 @@ pokemon:
           Water, Protect, Rain Dance, Refresh, Rest, Return, Round, Scald, Sleep Talk,
         Sludge Bomb, Sludge Wave, Snore, Substitute, Supersonic, Surf, Swagger, Toxic,
         Uproar, Water Pulse]
+    - xy: [Aqua Ring, Attract, Bubble, Bubble Beam, Double Team, Earth Power, Echoed
+          Voice, Facade, Flail, Frustration, Growl, Hail, Hidden Power, Hydro Pump,
+        Hyper Voice, Mist, Mud Bomb, Muddy Water, Mud Shot, Mud Sport, Protect, Rain
+          Dance, Refresh, Rest, Return, Round, Scald, Sleep Talk, Sludge Bomb, Sludge
+          Wave, Snore, Substitute, Supersonic, Surf, Swagger, Toxic, Uproar, Water
+          Pulse, Bounce, Icy Wind, Endeavor, Infestation, Confide, After You]
     stats:
     - [50, 50, 40, 50, 40, 64]
     tags:

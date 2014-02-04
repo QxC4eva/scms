@@ -9,6 +9,7 @@ pokemon:
     moves:
     - bw: [Close Combat, Giga Impact, Hyper Beam, Sky Attack]
     - dp: [Close Combat, Giga Impact, Hyper Beam, Sky Attack]
+    - xy: [Close Combat, Giga Impact, Hyper Beam, Sky Attack]
     stats:
     - [85, 120, 70, 50, 50, 100]
     - xy: [85, 120, 70, 50, 60, 100]
@@ -27,6 +28,7 @@ pokemon:
     introduction: dp
     moves:
     - bw: [Retaliate]
+    - xy: [Retaliate]
     stats:
     - [55, 75, 50, 40, 40, 80]
     tags:
@@ -57,6 +59,14 @@ pokemon:
         Rest, Return, Roost, Sand-Attack, Secret Power, Sleep Talk, Snore, Steel Wing,
         Substitute, Sunny Day, Swagger, Swift, Tackle, Tailwind, Take Down, Thief,
         Toxic, Twister, U-turn, Whirlwind, Wing Attack]
+    - xy: [Aerial Ace, Agility, Air Cutter, Astonish, Attract, Brave Bird, Captivate,
+        Defog, Detect, Double-Edge, Double Team, Echoed Voice, Endeavor, Endure, Facade,
+        Feather Dance, Final Gambit, Fly, Foresight, Frustration, Fury Attack, Growl,
+        Heat Wave, Hidden Power, Mud-Slap, Natural Gift, Ominous Wind, Pluck, Protect,
+        Pursuit, Quick Attack, Rain Dance, Rest, Return, Revenge, Roost, Round, Sand
+          Attack, Secret Power, Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day,
+        Swagger, Swift, Tackle, Tailwind, Take Down, Thief, Toxic, Twister, Uproar,
+        U-turn, Whirlwind, Wing Attack, Work Up, Confide, Mirror Move]
     stats:
     - [40, 55, 30, 30, 30, 60]
     tags:

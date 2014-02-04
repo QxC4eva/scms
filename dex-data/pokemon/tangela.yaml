@@ -45,6 +45,17 @@ pokemon:
         Growth, Hyper Beam, Mega Drain, Mimic, Poisonpowder, Rage, Rest, Skull Bash,
         Slam, Sleep Powder, Solarbeam, Stun Spore, Substitute, Swords Dance, Take
           Down, Toxic, Vine Whip]
+    - xy: [Absorb, Amnesia, Ancient Power, Attract, Bind, Body Slam, Bullet Seed,
+        Captivate, Confusion, Constrict, Cut, Double-Edge, Double Team, Endeavor,
+        Endure, Energy Ball, Facade, Flail, Flash, Frustration, Giga Drain, Giga Impact,
+        Grass Knot, Growth, Headbutt, Hidden Power, Hyper Beam, Ingrain, Knock Off,
+        Leaf Storm, Leech Seed, Mega Drain, Mimic, Morning Sun, Natural Gift, Nature
+          Power, Pain Split, Poison Powder, Power Swap, Power Whip, Protect, Psych
+          Up, Rage Powder, Reflect, Rest, Return, Rock Smash, Round, Secret Power,
+        Seed Bomb, Shock Wave, Slam, Sleep Powder, Sleep Talk, Sludge Bomb, Snore,
+        Solar Beam, Stun Spore, Substitute, Sunny Day, Swagger, Swords Dance, Synthesis,
+        Thief, Tickle, Toxic, Vine Whip, Worry Seed, Wring Out, Grassy Terrain, Infestation,
+        Confide]
     stats:
     - [65, 55, 115, 100, 100, 60]
     - gs: [65, 55, 115, 100, 40, 60]
@@ -66,6 +77,8 @@ pokemon:
         Payback, Poison Jab, Rock Slide, Rock Tomb, Strength]
     - dp: [Aerial Ace, Block, Brick Break, Earthquake, Fling, Focus Blast, Mud-Slap,
         Payback, Poison Jab, Rock Slide, Rock Tomb, Strength]
+    - xy: [Aerial Ace, Block, Brick Break, Bulldoze, Earthquake, Fling, Focus Blast,
+        Mud-Slap, Payback, Poison Jab, Rock Slide, Rock Tomb, Strength]
     stats:
     - [100, 100, 125, 110, 50, 50]
     tags:

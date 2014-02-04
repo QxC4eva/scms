@@ -53,6 +53,20 @@ pokemon:
         Mimic, Pay Day, Rage, Rest, Rock Slide, Scratch, Screech, Seismic Toss, Skull
           Bash, Strength, Submission, Substitute, Swift, Take Down, Thrash, Thunder,
         Thunderbolt, Toxic]
+    - xy: [Acrobatics, Aerial Ace, Assurance, Attract, Beat Up, Body Slam, Brick Break,
+        Bulk Up, Bulldoze, Captivate, Close Combat, Counter, Covet, Cross Chop, Defense
+          Curl, Dig, Double-Edge, Double Team, Dynamic Punch, Earthquake, Encore,
+        Endeavor, Endure, Facade, Final Gambit, Fire Punch, Fling, Focus Blast, Focus
+          Energy, Focus Punch, Foresight, Frustration, Fury Swipes, Gunk Shot, Headbutt,
+        Helping Hand, Hidden Power, Hone Claws, Ice Punch, Iron Tail, Karate Chop,
+        Leer, Low Kick, Low Sweep, Meditate, Mega Kick, Mega Punch, Metronome, Mimic,
+        Mud-Slap, Natural Gift, Outrage, Overheat, Payback, Poison Jab, Protect, Psych
+          Up, Punishment, Rain Dance, Rest, Retaliate, Return, Revenge, Reversal,
+        Rock Climb, Rock Slide, Rock Smash, Rock Tomb, Role Play, Round, Scratch,
+        Screech, Secret Power, Seed Bomb, Seismic Toss, Sleep Talk, Smack Down, Smelling
+          Salts, Snore, Spite, Strength, Substitute, Sunny Day, Swagger, Swift, Taunt,
+        Thief, Thrash, Thunder, Thunderbolt, Thunder Punch, Toxic, Uproar, U-turn,
+        Vacuum Wave, Work Up, Dual Chop, Power-Up Punch, Confide, Night Slash]
     stats:
     - [40, 80, 35, 35, 35, 70]
     - gs: [40, 80, 35, 35, 45, 70]
@@ -79,6 +93,7 @@ pokemon:
           Hand, Mimic]
     - rs: [Hyper Beam, Rage, Body Slam, Double-Edge, Helping Hand, Mimic]
     - rb: [Hyper Beam]
+    - xy: [Giga Impact, Hyper Beam, Rage, Stone Edge]
     stats:
     - [65, 105, 60, 60, 60, 95]
     - gs: [65, 105, 60, 60, 70, 95]

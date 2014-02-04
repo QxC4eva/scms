@@ -12,6 +12,7 @@ pokemon:
     - bw: [Focus Blast, Giga Impact, Hyper Beam, Rock Smash, Strength]
     - dp: [Focus Blast, Giga Impact, Hyper Beam, Rock Smash, Strength]
     - rs: [Hyper Beam]
+    - xy: [Focus Blast, Giga Impact, Hyper Beam, Mud-Slap, Rock Smash, Strength]
     stats:
     - [55, 35, 50, 55, 110, 85]
     tags:
@@ -59,6 +60,16 @@ pokemon:
         Secret Power, Silver Wind, Sleep Talk, Snore, Solarbeam, Substitute, Sunny
           Day, Supersonic, Swagger, Swift, Swords Dance, Tackle, Thief, Thunderpunch,
         Toxic, Refresh]
+    - xy: [Acrobatics, Aerial Ace, Agility, Air Cutter, Attract, Baton Pass, Bide,
+        Brick Break, Bug Bite, Bug Buzz, Captivate, Comet Punch, Dig, Dizzy Punch,
+        Double-Edge, Double Team, Drain Punch, Dynamic Punch, Encore, Endure, Facade,
+        Flash, Fling, Focus Punch, Frustration, Giga Drain, Headbutt, Hidden Power,
+        Ice Punch, Knock Off, Light Screen, Mach Punch, Mega Punch, Mimic, Natural
+          Gift, Ominous Wind, Protect, Psybeam, Reflect, Refresh, Rest, Return, Rollout,
+        Roost, Round, Safeguard, Screech, Secret Power, Silver Wind, Sleep Talk, Snore,
+        Solar Beam, String Shot, Struggle Bug, Substitute, Sunny Day, Supersonic,
+        Swagger, Swift, Swords Dance, Tackle, Tailwind, Thief, Thunder Punch, Toxic,
+        Uproar, U-turn, Infestation, Power-Up Punch, Confide]
     stats:
     - [40, 20, 30, 40, 80, 55]
     tags:

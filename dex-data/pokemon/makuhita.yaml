@@ -13,6 +13,7 @@ pokemon:
     - dp: [Brine, Giga Impact, Hyper Beam, Iron Head, Payback, Stone Edge, Body Slam,
         Double-Edge, Mimic]
     - rs: [Hyper Beam, Body Slam, Double-Edge, Mimic]
+    - xy: [Brine, Giga Impact, Hyper Beam, Iron Head, Payback, Stone Edge]
     stats:
     - [144, 120, 60, 40, 60, 50]
     tags:
@@ -63,6 +64,19 @@ pokemon:
         Secret Power, Seismic Toss, Sleep Talk, Smellingsalt, Snore, Strength, Substitute,
         Sunny Day, Surf, Swagger, Tackle, Thunderpunch, Toxic, Vital Throw, Whirlwind,
         Body Slam, Double-Edge, Mimic, Refresh]
+    - xy: [Arm Thrust, Attract, Belly Drum, Body Slam, Brick Break, Bulk Up, Bulldoze,
+        Bullet Punch, Captivate, Chip Away, Close Combat, Counter, Cross Chop, Detect,
+        Dig, Double-Edge, Double Team, Dynamic Punch, Earthquake, Endure, Facade,
+        Feint Attack, Fake Out, Feint, Fire Punch, Fling, Focus Blast, Focus Energy,
+        Focus Punch, Force Palm, Foresight, Frustration, Headbutt, Heavy Slam, Helping
+          Hand, Hidden Power, Ice Punch, Knock Off, Low Kick, Low Sweep, Mega Kick,
+        Mega Punch, Metronome, Mimic, Mud-Slap, Natural Gift, Poison Jab, Protect,
+        Rain Dance, Refresh, Rest, Retaliate, Return, Revenge, Reversal, Rock Climb,
+        Rock Slide, Rock Smash, Rock Tomb, Role Play, Round, Sand Attack, Secret Power,
+        Seismic Toss, Sleep Talk, Smack Down, Smelling Salts, Snore, Strength, Substitute,
+        Sunny Day, Superpower, Surf, Swagger, Tackle, Thunder Punch, Toxic, Vacuum
+          Wave, Vital Throw, Wake-Up Slap, Whirlpool, Whirlwind, Wide Guard, Work
+          Up, Power-Up Punch, Confide]
     stats:
     - [72, 60, 30, 20, 30, 25]
     tags:

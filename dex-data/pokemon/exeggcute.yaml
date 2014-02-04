@@ -43,6 +43,17 @@ pokemon:
     - rb: [Barrage, Bide, Double-Edge, Double Team, Egg Bomb, Explosion, Hypnosis,
         Leech Seed, Mimic, Poisonpowder, Psychic, Psywave, Rage, Reflect, Rest, Selfdestruct,
         Sleep Powder, Solarbeam, Stun Spore, Substitute, Take Down, Teleport, Toxic]
+    - xy: [Ancient Power, Attract, Barrage, Bestow, Block, Bullet Seed, Captivate,
+        Confusion, Curse, Double-Edge, Double Team, Dream Eater, Endure, Energy Ball,
+        Explosion, Extrasensory, Facade, Flash, Frustration, Giga Drain, Grass Knot,
+        Gravity, Hidden Power, Hypnosis, Ingrain, Leaf Storm, Leech Seed, Light Screen,
+        Lucky Chant, Mimic, Moonlight, Natural Gift, Nature Power, Nightmare, Poison
+          Powder, Power Swap, Protect, Psychic, Psych Up, Reflect, Rest, Return, Rollout,
+        Round, Secret Power, Seed Bomb, Self-Destruct, Skill Swap, Sleep Powder, Sleep
+          Talk, Sludge Bomb, Snore, Solar Beam, Strength, Stun Spore, Substitute,
+        Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis, Telekinesis, Thief,
+        Toxic, Trick Room, Uproar, Wish, Worry Seed, Rock Slide, Infestation, Confide,
+        Grassy Terrain]
     stats:
     - [60, 40, 80, 60, 60, 40]
     - gs: [60, 40, 80, 60, 45, 40]
@@ -69,6 +80,8 @@ pokemon:
     - rs: [Egg Bomb, Hyper Beam, Stomp, Double-Edge, Mimic, Nightmare, Refresh, Selfdestruct,
         Swagger]
     - rb: [Hyper Beam, Mega Drain, Stomp, Strength]
+    - xy: [Egg Bomb, Giga Impact, Headbutt, Hyper Beam, Low Kick, Psyshock, Refresh,
+        Stomp, Wood Hammer, Zen Headbutt]
     stats:
     - [95, 95, 85, 125, 125, 55]
     - gs: [95, 95, 85, 125, 65, 55]

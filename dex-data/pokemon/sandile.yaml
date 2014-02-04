@@ -10,6 +10,8 @@ pokemon:
     moves:
     - bw: [Brick Break, Fling, Grass Knot, Knock Off, Low Kick, Low Sweep, Rock Smash,
         Shadow Claw, Strength]
+    - xy: [Brick Break, Fling, Grass Knot, Low Sweep, Rock Smash, Shadow Claw, Strength,
+        Low Kick, Knock Off, Power-Up Punch]
     stats:
     - [60, 82, 45, 45, 45, 74]
     tags:
@@ -27,6 +29,9 @@ pokemon:
     moves:
     - bw: [Aerial Ace, Block, Bulk Up, Dragon Claw, Dragon Pulse, Dragon Tail, Focus
           Blast, Giga Impact, Hyper Beam, Outrage, Smack Down, Superpower]
+    - xy: [Aerial Ace, Bulk Up, Dragon Claw, Dragon Tail, Focus Blast, Giga Impact,
+        Hyper Beam, Outrage, Smack Down, Block, Superpower, Dragon Pulse, Counter,
+        Mean Look]
     stats:
     - [95, 117, 70, 65, 70, 92]
     - xy: [95, 117, 80, 65, 70, 92]
@@ -52,6 +57,15 @@ pokemon:
           Tomb, Round, Sand-Attack, Sand Tomb, Sandstorm, Scary Face, Sleep Talk,
         Sludge Bomb, Snarl, Snatch, Snore, Spite, Stealth Rock, Stone Edge, Substitute,
         Swagger, Taunt, Thief, Thrash, Thunder Fang, Torment, Toxic, Uproar]
+    - xy: [Assurance, Attract, Beat Up, Bite, Bulldoze, Counter, Crunch, Cut, Dig,
+        Double-Edge, Double Team, Earthquake, Embargo, Facade, Fire Fang, Focus Energy,
+        Foul Play, Frustration, Hidden Power, Hone Claws, Incinerate, Leer, Mean Look,
+        Mud-Slap, Payback, Protect, Pursuit, Rage, Rest, Retaliate, Return, Roar,
+        Rock Climb, Rock Slide, Rock Tomb, Round, Sand Attack, Sandstorm, Sand Tomb,
+        Scary Face, Sludge Bomb, Snarl, Stone Edge, Substitute, Swagger, Taunt, Thief,
+        Thrash, Thunder Fang, Torment, Toxic, Uproar, Aqua Tail, Dark Pulse, Earth
+          Power, Iron Tail, Sleep Talk, Snatch, Snore, Spite, Stealth Rock, Confide,
+        Me First]
     stats:
     - [50, 72, 35, 35, 35, 65]
     tags:

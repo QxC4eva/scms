@@ -31,6 +31,13 @@ pokemon:
     - rb: [Counter, Earthquake, Fire Blast, Fissure, Hyper Beam, Mega Kick, Mega Punch,
         Pay Day, Rock Slide, Seismic Toss, Strength, Submission, Surf, Thrash, Body
           Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+    - xy: [Aqua Tail, Avalanche, Brick Break, Bulldoze, Chip Away, Dragon Pulse, Dragon
+          Tail, Dynamic Punch, Earth Power, Earthquake, Fire Blast, Fire Punch, Flamethrower,
+        Fling, Focus Blast, Focus Punch, Fury Cutter, Giga Impact, Hyper Beam, Ice
+          Punch, Icy Wind, Incinerate, Megahorn, Mega Kick, Mega Punch, Outrage, Quash,
+        Roar, Rock Climb, Rock Slide, Rock Tomb, Sandstorm, Seismic Toss, Shadow Ball,
+        Sludge Wave, Smack Down, Stealth Rock, Stone Edge, Superpower, Surf, Taunt,
+        Thrash, Thunder Punch, Torment, Uproar, Whirlpool, Power-Up Punch]
     stats:
     - [81, 92, 77, 75, 75, 85]
     - gs: [81, 92, 77, 85, 75, 85]
@@ -89,6 +96,16 @@ pokemon:
           Energy, Fury Attack, Horn Attack, Horn Drill, Leer, Mimic, Poison Sting,
         Rage, Reflect, Rest, Skull Bash, Substitute, Tackle, Take Down, Thunder, Thunderbolt,
         Toxic, Lovely Kiss, Sweet Kiss, Morning Sun, Body Slam, Double-Edge, Mimic]
+    - xy: [Amnesia, Attract, Beat Up, Blizzard, Body Slam, Captivate, Chip Away, Confusion,
+        Counter, Cut, Defense Curl, Dig, Disable, Double-Edge, Double Kick, Double
+          Team, Echoed Voice, Endure, Facade, Flatter, Focus Energy, Frustration,
+        Fury Attack, Headbutt, Head Smash, Helping Hand, Hidden Power, Hone Claws,
+        Horn Attack, Horn Drill, Ice Beam, Iron Tail, Leer, Mimic, Mud-Slap, Natural
+          Gift, Peck, Poison Jab, Poison Sting, Poison Tail, Protect, Rain Dance,
+        Rest, Return, Rock Smash, Round, Secret Power, Shadow Claw, Shock Wave, Sleep
+          Talk, Sludge Bomb, Snore, Strength, Substitute, Sucker Punch, Sunny Day,
+        Super Fang, Supersonic, Swagger, Take Down, Thief, Thunder, Thunderbolt, Toxic,
+        Toxic Spikes, Venoshock, Water Pulse, Drill Run, Confide, Venom Drench]
     stats:
     - [46, 57, 40, 40, 40, 50]
     - gs: [46, 57, 40, 40, 40, 50]
@@ -113,6 +130,7 @@ pokemon:
     - dp: [Body Slam, Double-Edge, Mimic]
     - rs: []
     - rb: [Bubblebeam, Ice Beam, Water Gun, Body Slam, Double-Edge, Mimic]
+    - xy: []
     stats:
     - [61, 72, 57, 55, 55, 65]
     - gs: [61, 72, 57, 55, 55, 65]

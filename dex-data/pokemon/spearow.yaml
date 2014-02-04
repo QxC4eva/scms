@@ -13,6 +13,7 @@ pokemon:
     - dp: [Giga Impact, Hyper Beam, Double-Edge, Mimic]
     - rs: [Hyper Beam, Double-Edge, Mimic]
     - rb: [Hyper Beam]
+    - xy: [Giga Impact, Hyper Beam]
     stats:
     - [65, 90, 65, 61, 61, 100]
     - gs: [65, 90, 65, 61, 61, 100]
@@ -60,6 +61,15 @@ pokemon:
     - rb: [Agility, Bide, Double-Edge, Double Team, Drill Peck, Fly, Fury Attack,
         Growl, Leer, Mimic, Mirror Move, Peck, Rage, Razor Wind, Rest, Sky Attack,
         Substitute, Swift, Take Down, Toxic, Whirlwind]
+    - xy: [Aerial Ace, Agility, Air Cutter, Assurance, Astonish, Attract, Baton Pass,
+        Captivate, Defog, Double-Edge, Double Team, Drill Peck, Echoed Voice, Endure,
+        Facade, Feint Attack, False Swipe, Feather Dance, Fly, Frustration, Fury Attack,
+        Growl, Heat Wave, Hidden Power, Leer, Mimic, Mirror Move, Mud-Slap, Natural
+          Gift, Ominous Wind, Peck, Pluck, Protect, Pursuit, Quick Attack, Rain Dance,
+        Razor Wind, Rest, Return, Roost, Round, Scary Face, Secret Power, Sky Attack,
+        Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day, Swagger, Swift, Tailwind,
+        Thief, Toxic, Tri Attack, Twister, Uproar, U-turn, Whirlwind, Work Up, Drill
+          Run, Confide]
     stats:
     - [40, 60, 30, 31, 31, 70]
     - gs: [40, 60, 30, 31, 31, 70]

@@ -8,6 +8,7 @@ pokemon:
     introduction: bw
     moves:
     - bw: [Bone Rush, Giga Impact, Hyper Beam, Sky Attack]
+    - xy: [Bone Rush, Giga Impact, Hyper Beam, Sky Attack]
     stats:
     - [110, 65, 105, 55, 95, 80]
     tags:
@@ -32,6 +33,14 @@ pokemon:
         Rock Smash, Rock Tomb, Roost, Round, Scary Face, Shadow Ball, Sleep Talk,
         Snarl, Snatch, Snore, Steel Wing, Substitute, Sunny Day, Swagger, Tailwind,
         Taunt, Thief, Torment, Toxic, U-turn, Whirlwind]
+    - xy: [Aerial Ace, Air Slash, Attract, Brave Bird, Cut, Dark Pulse, Defog, Double
+          Team, Embargo, Facade, Feint Attack, Fake Tears, Flatter, Fly, Frustration,
+        Fury Attack, Gust, Hidden Power, Incinerate, Knock Off, Leer, Mean Look, Mirror
+          Move, Nasty Plot, Payback, Pluck, Protect, Psych Up, Punishment, Rain Dance,
+        Rest, Retaliate, Return, Rock Smash, Rock Tomb, Roost, Round, Scary Face,
+        Shadow Ball, Snarl, Steel Wing, Substitute, Sunny Day, Swagger, Tailwind,
+        Taunt, Thief, Torment, Toxic, U-turn, Whirlwind, Block, Foul Play, Iron Defense,
+        Snore, Heat Wave, Snatch, Sleep Talk, Confide]
     stats:
     - [70, 55, 75, 45, 65, 60]
     tags:

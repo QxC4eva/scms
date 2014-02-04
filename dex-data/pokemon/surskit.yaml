@@ -16,6 +16,9 @@ pokemon:
         Tailwind, Twister, U-turn, Whirlwind, Double-Edge, Icy Wind, Mimic, Nightmare]
     - rs: [Aerial Ace, Gust, Hyper Beam, Nightmare, Scary Face, Silver Wind, Stun
           Spore, Whirlwind, Double-Edge, Icy Wind, Mimic, Nightmare]
+    - xy: [Aerial Ace, Air Cutter, Air Slash, Bug Buzz, Defog, Energy Ball, Giga Impact,
+        Gust, Hyper Beam, Nightmare, Ominous Wind, Quiver Dance, Roost, Scary Face,
+        Silver Wind, Stun Spore, Tailwind, Twister, U-turn, Whirlwind]
     stats:
     - [70, 60, 62, 80, 82, 60]
     tags:
@@ -54,6 +57,15 @@ pokemon:
           Ball, Sleep Talk, Snore, Solarbeam, Substitute, Sunny Day, Swagger, Sweet
           Scent, Swift, Thief, Toxic, Water Pulse, Water Sport, Double-Edge, Icy Wind,
         Mimic]
+    - xy: [Agility, Aqua Jet, Attract, Baton Pass, Blizzard, Bubble, Bubble Beam,
+        Bug Bite, Captivate, Double-Edge, Double Team, Endure, Facade, Flash, Foresight,
+        Frustration, Giga Drain, Haze, Hidden Power, Hydro Pump, Ice Beam, Icy Wind,
+        Mimic, Mind Reader, Mist, Mud Shot, Mud-Slap, Mud Sport, Natural Gift, Protect,
+        Psybeam, Psych Up, Quick Attack, Rain Dance, Rest, Return, Round, Scald, Secret
+          Power, Shadow Ball, Signal Beam, Sleep Talk, Snore, Solar Beam, String Shot,
+        Struggle Bug, Substitute, Sunny Day, Swagger, Sweet Scent, Swift, Thief, Toxic,
+        Water Pulse, Water Sport, Sticky Web, Infestation, Confide, Power Split, Fell
+          Stinger]
     stats:
     - [40, 30, 32, 50, 52, 65]
     tags:

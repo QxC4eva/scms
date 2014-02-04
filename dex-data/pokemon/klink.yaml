@@ -7,6 +7,8 @@ pokemon:
     evolutions: [Klinklang]
     height: [0.6]
     introduction: bw
+    moves:
+    - xy: []
     stats:
     - [60, 80, 95, 70, 85, 50]
     tags:
@@ -30,6 +32,13 @@ pokemon:
         Screech, Shift Gear, Signal Beam, Sleep Talk, Snore, Substitute, Swagger,
         Thunder Wave, Thunderbolt, Thundershock, Toxic, Uproar, Vicegrip, Volt Switch,
         Wild Charge, Zap Cannon]
+    - xy: [Autotomize, Bind, Charge, Charge Beam, Discharge, Double Team, Facade,
+        Flash Cannon, Frustration, Gear Grind, Hidden Power, Hyper Beam, Lock-On,
+        Metal Sound, Mirror Shot, Protect, Rest, Return, Rock Polish, Rock Smash,
+        Round, Sandstorm, Screech, Shift Gear, Substitute, Swagger, Thunderbolt, Thunder
+          Shock, Thunder Wave, Toxic, Vice Grip, Volt Switch, Wild Charge, Zap Cannon,
+        Signal Beam, Uproar, Magic Coat, Gravity, Magnet Rise, Iron Defense, Snore,
+        Recycle, Sleep Talk, Confide]
     stats:
     - [40, 55, 70, 45, 60, 30]
     tags:
@@ -46,6 +55,7 @@ pokemon:
     introduction: bw
     moves:
     - bw: [Giga Impact, Thunder, Trick Room]
+    - xy: [Giga Impact, Thunder, Trick Room, Magnetic Flux]
     stats:
     - [60, 100, 115, 70, 85, 90]
     tags:

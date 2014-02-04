@@ -14,6 +14,8 @@ pokemon:
         Mimic]
     - dp: [Giga Impact, Hyper Beam, Leaf Storm, Petal Dance, Pound, Double-Edge, Mimic]
     - rs: [Hyper Beam, Petal Dance, Pound, Razor Leaf, Double-Edge, Mimic]
+    - xy: [Giga Impact, Hyper Beam, Leaf Storm, Petal Dance, Pound, Flower Shield,
+        Petal Blizzard]
     stats:
     - [75, 75, 55, 105, 85, 30]
     tags:
@@ -59,6 +61,14 @@ pokemon:
         Mimic, Nature Power, Protect, Rest, Return, Safeguard, Secret Power, Sleep
           Talk, Sludge Bomb, Snore, Solarbeam, Substitute, Sunny Day, Swagger, Swords
           Dance, Synthesis, Toxic, Double-Edge, Mimic]
+    - xy: [Absorb, Attract, Bide, Bullet Seed, Captivate, Curse, Cut, Double-Edge,
+        Double Team, Earth Power, Encore, Endeavor, Endure, Energy Ball, Facade, Flash,
+        Frustration, Giga Drain, Grass Knot, Grass Whistle, Growth, Helping Hand,
+        Hidden Power, Ingrain, Leech Seed, Light Screen, Mega Drain, Mimic, Morning
+          Sun, Natural Gift, Nature Power, Protect, Razor Leaf, Rest, Return, Round,
+        Safeguard, Secret Power, Seed Bomb, Sleep Talk, Sludge Bomb, Snore, Solar
+          Beam, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis,
+        Toxic, Uproar, Worry Seed, After You, Confide, Grassy Terrain]
     stats:
     - [30, 30, 30, 30, 30, 30]
     tags:

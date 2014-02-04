@@ -14,6 +14,10 @@ pokemon:
     - dp: [Aura Sphere, Bone Rush, Calm Mind, Close Combat, Dark Pulse, Dragon Pulse,
         Extremespeed, Flash Cannon, Giga Impact, Hyper Beam, Me First, Metal Claw,
         Metal Sound, Psychic, Rock Climb, Shadow Ball, Stone Edge, Water Pulse]
+    - xy: [Bone Rush, Calm Mind, Close Combat, Dark Pulse, Dragon Pulse, Extreme Speed,
+        Flash Cannon, Giga Impact, Heal Pulse, Hone Claws, Hyper Beam, Me First, Metal
+          Claw, Metal Sound, Psychic, Quick Guard, Rock Climb, Shadow Ball, Stone
+          Edge, Water Pulse]
     stats:
     - [70, 110, 70, 115, 70, 90]
     tags:
@@ -50,6 +54,18 @@ pokemon:
           Slide, Rock Smash, Rock Tomb, Role Play, Screech, Secret Power, Shadow Claw,
         Sky Uppercut, Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger,
         Swift, Swords Dance, Thunderpunch, Toxic, Vacuum Wave, Zen Headbutt]
+    - xy: [Agility, Attract, Aura Sphere, Bite, Blaze Kick, Brick Break, Bulk Up,
+        Bulldoze, Bullet Punch, Captivate, Circle Throw, Copycat, Counter, Cross Chop,
+        Crunch, Detect, Dig, Double Team, Drain Punch, Earthquake, Endure, Facade,
+        Feint, Final Gambit, Fling, Focus Blast, Focus Punch, Follow Me, Force Palm,
+        Foresight, Frustration, Fury Cutter, Headbutt, Helping Hand, Hidden Power,
+        High Jump Kick, Ice Punch, Iron Defense, Iron Tail, Low Kick, Low Sweep, Magnet
+          Rise, Mind Reader, Mud-Slap, Nasty Plot, Natural Gift, Payback, Poison Jab,
+        Protect, Quick Attack, Rain Dance, Rest, Retaliate, Return, Reversal, Roar,
+        Rock Slide, Rock Smash, Rock Tomb, Role Play, Round, Screech, Secret Power,
+        Shadow Claw, Sky Uppercut, Sleep Talk, Snore, Strength, Substitute, Sunny
+          Day, Swagger, Swift, Swords Dance, Thunder Punch, Toxic, Vacuum Wave, Work
+          Up, Zen Headbutt, Dual Chop, Power-Up Punch, Confide]
     stats:
     - [40, 70, 40, 35, 40, 60]
     tags:

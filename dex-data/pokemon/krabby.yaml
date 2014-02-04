@@ -14,6 +14,7 @@ pokemon:
     - dp: [Giga Impact, Hyper Beam, Body Slam, Double-Edge, Icy Wind, Mimic]
     - rs: [Hyper Beam, Metal Claw, Body Slam, Double-Edge, Icy Wind, Mimic]
     - rb: [Hyper Beam]
+    - xy: [Giga Impact, Hyper Beam, Quash, Wide Guard]
     stats:
     - [55, 130, 115, 50, 50, 75]
     - gs: [55, 130, 115, 50, 50, 75]
@@ -66,6 +67,16 @@ pokemon:
         Double Team, Guillotine, Harden, Ice Beam, Leer, Mimic, Rage, Rest, Stomp,
         Strength, Substitute, Surf, Swords Dance, Take Down, Toxic, Vicegrip, Water
           Gun]
+    - xy: [Agility, Amnesia, Ancient Power, Attract, Bide, Blizzard, Body Slam, Brick
+          Break, Brine, Bubble, Bubble Beam, Captivate, Chip Away, Crabhammer, Cut,
+        Dig, Dive, Double-Edge, Double Team, Endure, Facade, False Swipe, Flail, Fling,
+        Frustration, Fury Cutter, Guillotine, Hail, Harden, Haze, Hidden Power, Hone
+          Claws, Ice Beam, Icy Wind, Iron Defense, Knock Off, Leer, Metal Claw, Mimic,
+        Mud Shot, Mud-Slap, Mud Sport, Natural Gift, Protect, Rain Dance, Rest, Return,
+        Rock Slide, Rock Smash, Rock Tomb, Round, Scald, Secret Power, Slam, Sleep
+          Talk, Snore, Stomp, Strength, Substitute, Superpower, Surf, Swagger, Swords
+          Dance, Thief, Tickle, Toxic, Vice Grip, Water Pulse, Whirlpool, X-Scissor,
+        Confide, Ally Switch]
     stats:
     - [30, 105, 90, 25, 25, 50]
     - gs: [30, 105, 90, 25, 25, 50]

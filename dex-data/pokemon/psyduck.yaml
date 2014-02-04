@@ -17,6 +17,8 @@ pokemon:
     - rs: [Fury Cutter, Hyper Beam, Charm, Body Slam, Brick Break, Charm, Double-Edge,
         Icy Wind, Mimic, Seismic Toss]
     - rb: [Hyper Beam]
+    - xy: [Aqua Jet, Charm, Focus Blast, Fury Cutter, Giga Impact, Hyper Beam, Low
+          Kick, Low Sweep, Rock Climb]
     stats:
     - [80, 82, 78, 80, 80, 85]
     - gs: [80, 82, 78, 95, 80, 85]
@@ -79,6 +81,19 @@ pokemon:
           Punch, Mimic, Pay Day, Rage, Rest, Scratch, Seismic Toss, Skull Bash, Strength,
         Submission, Substitute, Surf, Swift, Tail Whip, Take Down, Toxic, Water Gun,
         Petal Dance, Tri Attack]
+    - xy: [Aerial Ace, Amnesia, Aqua Tail, Attract, Blizzard, Body Slam, Brick Break,
+        Brine, Calm Mind, Captivate, Confuse Ray, Confusion, Counter, Cross Chop,
+        Dig, Disable, Dive, Double-Edge, Double Team, Dynamic Punch, Encore, Endure,
+        Facade, Flash, Fling, Focus Punch, Foresight, Frustration, Fury Swipes, Future
+          Sight, Hail, Headbutt, Hidden Power, Hone Claws, Hydro Pump, Hypnosis, Ice
+          Beam, Ice Punch, Icy Wind, Iron Tail, Light Screen, Mega Kick, Mega Punch,
+        Mimic, Mud Bomb, Mud-Slap, Mud Sport, Natural Gift, Protect, Psybeam, Psychic,
+        Psych Up, Psyshock, Rain Dance, Refresh, Rest, Return, Rock Smash, Role Play,
+        Round, Scald, Scratch, Screech, Secret Power, Seismic Toss, Shadow Claw, Signal
+          Beam, Sleep Talk, Snore, Soak, Strength, Substitute, Surf, Swagger, Swift,
+        Synchronoise, Tail Whip, Telekinesis, Toxic, Waterfall, Water Gun, Water Pulse,
+        Water Sport, Whirlpool, Wonder Room, Worry Seed, Yawn, Zen Headbutt, Power-Up
+          Punch, Confide, Simple Beam, Clear Smog]
     stats:
     - [50, 52, 48, 50, 50, 55]
     - gs: [50, 52, 48, 65, 50, 55]

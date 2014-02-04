@@ -44,6 +44,17 @@ pokemon:
     - rb: [Bide, Body Slam, Cut, Dig, Double-Edge, Double Team, Growth, Leech Life,
         Mega Drain, Mimic, Rage, Reflect, Rest, Scratch, Skull Bash, Slash, Solarbeam,
         Spore, Stun Spore, Substitute, Swords Dance, Take Down, Toxic, Synthesis]
+    - xy: [Aerial Ace, Agility, Aromatherapy, Attract, Body Slam, Brick Break, Bug
+          Bite, Bullet Seed, Captivate, Counter, Cross Poison, Cut, Dig, Double-Edge,
+        Double Team, Endure, Energy Ball, Facade, False Swipe, Flail, Flash, Frustration,
+        Fury Cutter, Giga Drain, Grass Knot, Growth, Hidden Power, Hone Claws, Knock
+          Off, Leech Life, Leech Seed, Light Screen, Metal Claw, Mimic, Natural Gift,
+        Poison Powder, Protect, Psybeam, Pursuit, Rage Powder, Refresh, Rest, Return,
+        Rock Smash, Round, Scratch, Screech, Secret Power, Seed Bomb, Slash, Sleep
+          Talk, Sludge Bomb, Snore, Solar Beam, Spore, String Shot, Struggle Bug,
+        Stun Spore, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis,
+        Thief, Toxic, Venoshock, Worry Seed, X-Scissor, After You, Nature Power, Confide,
+        Fell Stinger, Wide Guard, Rototiller]
     stats:
     - [35, 70, 55, 55, 55, 25]
     - gs: [35, 70, 55, 45, 55, 25]
@@ -68,6 +79,7 @@ pokemon:
     - dp: [Giga Impact, Hyper Beam, Body Slam, Double-Edge, Mimic]
     - rs: [Hyper Beam, Body Slam, Double-Edge, Mimic]
     - rb: [Hyper Beam]
+    - xy: [Giga Impact, Hyper Beam]
     stats:
     - [60, 95, 80, 80, 80, 30]
     - gs: [60, 95, 80, 60, 80, 30]

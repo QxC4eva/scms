@@ -10,6 +10,7 @@ pokemon:
     introduction: rb
     moves:
     - rb: [Horn Drill]
+    - xy: []
     stats:
     - [61, 84, 65, 70, 70, 70]
     - gs: [61, 84, 65, 70, 70, 70]
@@ -43,6 +44,13 @@ pokemon:
         Fire Punch, Fly, Focus Punch, Fury Cutter, Ice Punch, Mud-Slap, Roar, Rock
           Smash, Rock Tomb, Sandstorm, Steel Wing, Strength, Thunderpunch, Wing Attack]
     - rb: [Razor Wind, Strength]
+    - xy: [Aerial Ace, Air Cutter, Brick Break, Bulldoze, Cut, Defog, Dive, Dragon
+          Claw, Dynamic Punch, Earthquake, Extreme Speed, Fire Punch, Fling, Fly,
+        Focus Blast, Focus Punch, Fury Cutter, Giga Impact, Heal Bell, Heat Wave,
+        Hone Claws, Hurricane, Ice Punch, Iron Head, Mud-Slap, Ominous Wind, Roar,
+        Rock Slide, Rock Smash, Rock Tomb, Roost, Sandstorm, Sky Drop, Steel Wing,
+        Stone Edge, Strength, Superpower, Tailwind, Thunder Punch, Wing Attack, Power-Up
+          Punch]
     stats:
     - [91, 134, 95, 100, 100, 80]
     - gs: [91, 134, 95, 100, 100, 80]
@@ -97,6 +105,15 @@ pokemon:
         Dragon Rage, Fire Blast, Hyper Beam, Ice Beam, Leer, Mimic, Rage, Reflect,
         Rest, Skull Bash, Slam, Substitute, Surf, Swift, Take Down, Thunder, Thunder
           Wave, Thunderbolt, Toxic, Water Gun, Wrap]
+    - xy: [Agility, Aqua Jet, Aqua Tail, Attract, Blizzard, Body Slam, Captivate,
+        Double-Edge, Double Team, Draco Meteor, Dragon Breath, Dragon Dance, Dragon
+          Pulse, Dragon Rage, Dragon Rush, Dragon Tail, Endure, Extreme Speed, Facade,
+        Fire Blast, Flamethrower, Frustration, Hail, Haze, Headbutt, Hidden Power,
+        Hyper Beam, Ice Beam, Icy Wind, Incinerate, Iron Tail, Leer, Light Screen,
+        Mimic, Mist, Natural Gift, Outrage, Protect, Rain Dance, Rest, Return, Round,
+        Safeguard, Secret Power, Shock Wave, Slam, Sleep Talk, Snore, Substitute,
+        Sunny Day, Supersonic, Surf, Swagger, Swift, Thunder, Thunderbolt, Thunder
+          Wave, Toxic, Twister, Waterfall, Water Pulse, Whirlpool, Wrap, Bind, Confide]
     stats:
     - [41, 64, 45, 50, 50, 50]
     - gs: [41, 64, 45, 50, 50, 50]

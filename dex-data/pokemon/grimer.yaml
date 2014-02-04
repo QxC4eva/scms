@@ -45,6 +45,17 @@ pokemon:
     - rb: [Acid Armor, Bide, Body Slam, Disable, Double Team, Explosion, Fire Blast,
         Harden, Mega Drain, Mimic, Minimize, Poison Gas, Pound, Rage, Rest, Screech,
         Selfdestruct, Sludge, Substitute, Thunder, Thunderbolt, Toxic]
+    - xy: [Acid Armor, Acid Spray, Attract, Body Slam, Captivate, Curse, Dig, Disable,
+        Double Team, Dynamic Punch, Endure, Explosion, Facade, Fire Blast, Fire Punch,
+        Flamethrower, Fling, Frustration, Giga Drain, Gunk Shot, Harden, Haze, Helping
+          Hand, Hidden Power, Ice Punch, Imprison, Incinerate, Lick, Mean Look, Memento,
+        Mimic, Minimize, Mud Bomb, Mud-Slap, Natural Gift, Pain Split, Payback, Poison
+          Gas, Poison Jab, Pound, Protect, Rain Dance, Rest, Return, Rock Slide, Rock
+          Tomb, Round, Scary Face, Screech, Secret Power, Self-Destruct, Shadow Ball,
+        Shadow Punch, Shadow Sneak, Shock Wave, Sleep Talk, Sludge, Sludge Bomb, Sludge
+          Wave, Snore, Spit Up, Stockpile, Strength, Substitute, Sunny Day, Swagger,
+        Swallow, Taunt, Thief, Thunder, Thunderbolt, Thunder Punch, Torment, Toxic,
+        Venoshock, Belch, Infestation, Power-Up Punch, Confide]
     stats:
     - [80, 80, 50, 40, 40, 25]
     - gs: [80, 80, 50, 40, 50, 25]
@@ -71,6 +82,8 @@ pokemon:
     - rs: [Brick Break, Focus Punch, Hyper Beam, Rock Smash, Strength, Body Slam,
         Mimic, Selfdestruct]
     - rb: [Hyper Beam]
+    - xy: [Block, Brick Break, Dark Pulse, Focus Blast, Focus Punch, Giga Impact,
+        Hyper Beam, Rock Smash]
     stats:
     - [105, 105, 75, 65, 65, 50]
     - gs: [105, 105, 75, 65, 100, 50]

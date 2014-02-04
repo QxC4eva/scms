@@ -39,6 +39,15 @@ pokemon:
         Mimic]
     - rb: [Bide, Double Team, Explosion, Fire Blast, Haze, Mimic, Rage, Rest, Selfdestruct,
         Sludge, Smog, Smokescreen, Substitute, Tackle, Thunder, Thunderbolt, Toxic]
+    - xy: [Assurance, Attract, Captivate, Clear Smog, Curse, Dark Pulse, Destiny Bond,
+        Double Team, Endure, Explosion, Facade, Fire Blast, Flamethrower, Flash, Frustration,
+        Grudge, Gyro Ball, Haze, Hidden Power, Incinerate, Memento, Mimic, Natural
+          Gift, Pain Split, Payback, Poison Gas, Protect, Psybeam, Psywave, Rain Dance,
+        Rest, Return, Rollout, Round, Screech, Secret Power, Self-Destruct, Shadow
+          Ball, Shock Wave, Sleep Talk, Sludge, Sludge Bomb, Sludge Wave, Smog, Smokescreen,
+        Snore, Spite, Spit Up, Stockpile, Substitute, Sunny Day, Swagger, Swallow,
+        Tackle, Taunt, Thief, Thunder, Thunderbolt, Torment, Toxic, Uproar, Venoshock,
+        Will-O-Wisp, Belch, Infestation, Confide, Toxic Spikes]
     stats:
     - [40, 65, 95, 60, 60, 35]
     - gs: [40, 65, 95, 60, 45, 35]
@@ -62,6 +71,7 @@ pokemon:
     - dp: [Double Hit, Giga Impact, Hyper Beam, Mimic]
     - rs: [Hyper Beam, Mimic]
     - rb: [Hyper Beam]
+    - xy: [Double Hit, Giga Impact, Hyper Beam, Mud-Slap]
     stats:
     - [65, 90, 120, 85, 85, 60]
     - gs: [65, 90, 120, 85, 70, 60]

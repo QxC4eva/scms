@@ -16,6 +16,9 @@ pokemon:
         Horn Attack, Hyper Beam, Iron Defense, Magnitude, Poison Jab, Rapid Spin,
         Rock Polish, Scary Face, Stone Edge, Thunder Fang]
     - rs: [Fury Attack, Horn Attack, Hyper Beam, Rapid Spin, Rock Slide]
+    - xy: [Assurance, Block, Bounce, Fire Fang, Fury Attack, Giga Impact, Gyro Ball,
+        Horn Attack, Hyper Beam, Iron Defense, Magnitude, Poison Jab, Rapid Spin,
+        Rock Polish, Scary Face, Stone Edge, Thunder Fang]
     stats:
     - [90, 120, 120, 60, 60, 50]
     tags:
@@ -62,6 +65,15 @@ pokemon:
         Return, Roar, Rock Smash, Rock Tomb, Rollout, Sandstorm, Secret Power, Sleep
           Talk, Snore, Strength, Substitute, Sunny Day, Swagger, Tackle, Take Down,
         Toxic, Mimic]
+    - xy: [Ancient Power, Attract, Body Slam, Bulldoze, Captivate, Charm, Counter,
+        Defense Curl, Double-Edge, Double Team, Earth Power, Earthquake, Echoed Voice,
+        Endeavor, Endure, Facade, Fissure, Flail, Focus Energy, Frustration, Growl,
+        Gunk Shot, Headbutt, Head Smash, Heavy Slam, Hidden Power, Ice Shard, Iron
+          Tail, Knock Off, Last Resort, Mimic, Mud-Slap, Natural Gift, Odor Sleuth,
+        Protect, Rest, Return, Roar, Rock Slide, Rock Smash, Rock Tomb, Rollout, Round,
+        Sandstorm, Secret Power, Seed Bomb, Slam, Sleep Talk, Snore, Stealth Rock,
+        Strength, Substitute, Sunny Day, Superpower, Swagger, Tackle, Take Down, Toxic,
+        Hyper Voice, Confide, Play Rough]
     stats:
     - [90, 60, 60, 40, 40, 40]
     tags:

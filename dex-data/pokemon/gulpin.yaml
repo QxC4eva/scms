@@ -35,6 +35,17 @@ pokemon:
         Solarbeam, Spit Up, Stockpile, Strength, Substitute, Sunny Day, Swagger, Swallow,
         Thunderpunch, Toxic, Water Pulse, Yawn, Body Slam, Double-Edge, Mimic, Nightmare,
         Selfdestruct, Shock Wave, Sing]
+    - xy: [Acid Armor, Acid Spray, Amnesia, Attract, Body Slam, Bullet Seed, Captivate,
+        Counter, Curse, Defense Curl, Destiny Bond, Double-Edge, Double Team, Dream
+          Eater, Dynamic Punch, Encore, Endure, Explosion, Facade, Fire Punch, Frustration,
+        Gastro Acid, Giga Drain, Gunk Shot, Headbutt, Hidden Power, Ice Beam, Ice
+          Punch, Mimic, Mud-Slap, Natural Gift, Nightmare, Pain Split, Poison Gas,
+        Pound, Protect, Rain Dance, Rest, Return, Rock Smash, Rollout, Round, Secret
+          Power, Seed Bomb, Self-Destruct, Shadow Ball, Shock Wave, Sing, Sleep Talk,
+        Sludge, Sludge Bomb, Sludge Wave, Smog, Snatch, Snore, Solar Beam, Spit Up,
+        Stockpile, Strength, Substitute, Sunny Day, Swagger, Swallow, Thunder Punch,
+        Toxic, Venoshock, Water Pulse, Wring Out, Yawn, Belch, Infestation, Power-Up
+          Punch, Confide, Venom Drench]
     stats:
     - [70, 43, 53, 43, 53, 40]
     tags:
@@ -57,6 +68,7 @@ pokemon:
     - dp: [Block, Body Slam, Earthquake, Giga Impact, Hyper Beam, Double-Edge, Mimic,
         Nightmare, Selfdestruct]
     - rs: [Hyper Beam, Double-Edge, Mimic, Nightmare, Selfdestruct]
+    - xy: [Block, Bulldoze, Earthquake, Giga Impact, Hyper Beam]
     stats:
     - [100, 73, 83, 73, 83, 55]
     tags:

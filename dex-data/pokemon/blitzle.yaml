@@ -15,6 +15,13 @@ pokemon:
           Wave, Signal Beam, Sleep Talk, Snore, Spark, Stomp, Substitute, Swagger,
         Tail Whip, Take Down, Thrash, Thunder, Thunder Wave, Thunderbolt, Toxic, Volt
           Switch, Wild Charge]
+    - xy: [Agility, Attract, Charge, Charge Beam, Discharge, Double-Edge, Double Kick,
+        Double Team, Endure, Facade, Flame Charge, Flash, Frustration, Hidden Power,
+        Light Screen, Me First, Protect, Pursuit, Quick Attack, Rage, Rain Dance,
+        Rest, Return, Round, Sand Attack, Screech, Shock Wave, Spark, Stomp, Substitute,
+        Swagger, Tail Whip, Take Down, Thrash, Thunder, Thunderbolt, Thunder Wave,
+        Toxic, Volt Switch, Wild Charge, Signal Beam, Bounce, Magnet Rise, Snore,
+        Sleep Talk, Confide, Snatch]
     stats:
     - [45, 60, 32, 50, 32, 76]
     tags:
@@ -31,6 +38,7 @@ pokemon:
     introduction: bw
     moves:
     - bw: [Giga Impact, Hyper Beam, Overheat, Rock Smash]
+    - xy: [Giga Impact, Hyper Beam, Overheat, Rock Smash, Ion Deluge]
     stats:
     - [75, 100, 63, 80, 63, 116]
     tags:

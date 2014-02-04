@@ -13,6 +13,7 @@ pokemon:
     - dp: [Energy Ball, Giga Impact, Hyper Beam, Body Slam, Double-Edge, Mimic, Seismic
           Toss]
     - rs: [Hyper Beam, Rock Slide, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    - xy: [Energy Ball, Giga Impact, Hyper Beam]
     stats:
     - [60, 60, 75, 60, 75, 80]
     tags:
@@ -64,6 +65,20 @@ pokemon:
         Secret Power, Seismic Toss, Shadow Ball, Sleep Talk, Snore, Strength, Substitute,
         Sunny Day, Swagger, Swift, Thunderpunch, Toxic, Body Slam, Double-Edge, Mimic,
         Seismic Toss]
+    - xy: [Acupressure, Attract, Baton Pass, Bide, Body Slam, Brick Break, Bulk Up,
+        Bullet Punch, Calm Mind, Captivate, Confusion, Counter, Detect, Double-Edge,
+        Double Team, Drain Punch, Dream Eater, Dynamic Punch, Endure, Facade, Fake
+          Out, Feint, Fire Punch, Flash, Fling, Focus Blast, Focus Punch, Force Palm,
+        Foresight, Frustration, Grass Knot, Gravity, Guard Swap, Headbutt, Helping
+          Hand, Hidden Power, High Jump Kick, Ice Punch, Light Screen, Low Kick, Low
+          Sweep, Magic Coat, Meditate, Mega Kick, Mega Punch, Metronome, Mimic, Mind
+          Reader, Mud-Slap, Natural Gift, Pain Split, Poison Jab, Power Swap, Power
+          Trick, Protect, Psychic, Psycho Cut, Psych Up, Psyshock, Rain Dance, Recover,
+        Recycle, Reflect, Rest, Retaliate, Return, Reversal, Rock Slide, Rock Smash,
+        Rock Tomb, Role Play, Round, Secret Power, Seismic Toss, Shadow Ball, Signal
+          Beam, Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger, Swift,
+        Telekinesis, Thunder Punch, Toxic, Trick, Vacuum Wave, Work Up, Zen Headbutt,
+        Power-Up Punch, Confide, Quick Guard]
     stats:
     - [30, 40, 55, 40, 55, 60]
     tags:

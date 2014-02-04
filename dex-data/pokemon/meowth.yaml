@@ -47,6 +47,18 @@ pokemon:
     - rb: [Bide, Bite, Body Slam, Bubblebeam, Double-Edge, Double Team, Fury Swipes,
         Growl, Mimic, Pay Day, Rage, Rest, Scratch, Screech, Skull Bash, Slash, Substitute,
         Swift, Take Down, Thunder, Thunderbolt, Toxic, Water Gun]
+    - xy: [Aerial Ace, Amnesia, Assist, Assurance, Attract, Bite, Body Slam, Captivate,
+        Charm, Cut, Dark Pulse, Defense Curl, Dig, Double-Edge, Double Team, Dream
+          Eater, Echoed Voice, Endure, Facade, Feint Attack, Fake Out, Feint, Flail,
+        Flash, Foul Play, Frustration, Fury Swipes, Growl, Gunk Shot, Headbutt, Hidden
+          Power, Hone Claws, Hypnosis, Icy Wind, Iron Tail, Knock Off, Last Resort,
+        Mimic, Mud-Slap, Nasty Plot, Natural Gift, Nightmare, Night Slash, Odor Sleuth,
+        Payback, Pay Day, Petal Dance, Protect, Psych Up, Punishment, Rain Dance,
+        Rest, Retaliate, Return, Round, Scratch, Screech, Secret Power, Seed Bomb,
+        Shadow Ball, Shadow Claw, Shock Wave, Sing, Slash, Sleep Talk, Snatch, Snore,
+        Spite, Substitute, Sunny Day, Swagger, Swift, Tail Whip, Taunt, Thief, Thunder,
+        Thunderbolt, Torment, Toxic, U-turn, Water Pulse, Work Up, Covet, Uproar,
+        Hyper Voice, Confide]
     stats:
     - [40, 45, 35, 40, 40, 90]
     - gs: [40, 45, 35, 40, 40, 90]
@@ -73,6 +85,7 @@ pokemon:
         Double-Edge, Icy Wind, Mimic, Nightmare]
     - rs: [Hyper Beam, Roar, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare]
     - rb: [Hyper Beam]
+    - xy: [Embargo, Giga Impact, Hyper Beam, Power Gem, Roar, Switcheroo, Play Rough]
     stats:
     - [65, 70, 60, 65, 65, 115]
     - gs: [65, 70, 60, 65, 65, 115]

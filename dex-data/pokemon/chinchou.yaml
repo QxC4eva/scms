@@ -36,6 +36,15 @@ pokemon:
           Power, Shock Wave, Sleep Talk, Snore, Spark, Substitute, Supersonic, Surf,
         Swagger, Take Down, Thunder, Thunder Wave, Thunderbolt, Toxic, Water Gun,
         Water Pulse, Waterfall]
+    - xy: [Agility, Amnesia, Aqua Ring, Attract, Blizzard, Bounce, Brine, Bubble,
+        Bubble Beam, Captivate, Charge, Charge Beam, Confuse Ray, Discharge, Dive,
+        Double-Edge, Double Team, Electro Ball, Endure, Facade, Flail, Flash, Frustration,
+        Hail, Heal Bell, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Mimic, Mist,
+        Natural Gift, Protect, Psybeam, Rain Dance, Rest, Return, Round, Scald, Screech,
+        Secret Power, Shock Wave, Signal Beam, Sleep Talk, Snore, Spark, Substitute,
+        Sucker Punch, Supersonic, Surf, Swagger, Take Down, Thunder, Thunderbolt,
+        Thunder Wave, Toxic, Volt Switch, Waterfall, Water Gun, Water Pulse, Whirlpool,
+        Wild Charge, Ion Deluge, Dazzling Gleam, Confide, Soak]
     stats:
     - [75, 38, 38, 56, 56, 67]
     tags:
@@ -57,6 +66,8 @@ pokemon:
     - bw: [Aqua Tail, Giga Impact, Hyper Beam, Spit Up, Stockpile, Swallow]
     - dp: [Aqua Tail, Giga Impact, Hyper Beam, Spit Up, Stockpile, Swallow]
     - rs: [Hyper Beam]
+    - xy: [Aqua Tail, Giga Impact, Hyper Beam, Spit Up, Stockpile, Swallow, Eerie
+          Impulse]
     stats:
     - [125, 58, 58, 76, 76, 67]
     tags:

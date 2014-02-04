@@ -34,6 +34,15 @@ pokemon:
         Screech, Secret Power, Shadow Ball, Signal Beam, Silver Wind, Sleep Talk,
         Snore, Solarbeam, Sonicboom, Steel Wing, Substitute, Sunny Day, Supersonic,
         Swagger, Swift, Tackle, Thief, Toxic, Uproar, Whirlwind, Wing Attack, Mimic]
+    - xy: [Aerial Ace, Air Cutter, Air Slash, Ancient Power, Attract, Bug Bite, Bug
+          Buzz, Captivate, Defog, Detect, Double-Edge, Double Team, Dream Eater, Endure,
+        Facade, Feint Attack, Feint, Flash, Foresight, Frustration, Giga Drain, Headbutt,
+        Hidden Power, Hypnosis, Leech Life, Mimic, Natural Gift, Ominous Wind, Protect,
+        Psychic, Pursuit, Quick Attack, Rest, Return, Reversal, Roost, Round, Screech,
+        Secret Power, Shadow Ball, Signal Beam, Silver Wind, Sleep Talk, Snore, Solar
+          Beam, Sonic Boom, Steel Wing, String Shot, Substitute, Sunny Day, Supersonic,
+        Swagger, Swift, Tackle, Tailwind, Thief, Toxic, Uproar, U-turn, Whirlwind,
+        Wing Attack, Confide]
     stats:
     - [65, 65, 45, 75, 45, 95]
     tags:
@@ -53,6 +62,8 @@ pokemon:
     moves:
     - bw: [Giga Impact, Hyper Beam, Night Slash, Psych Up, Slash, Struggle Bug]
     - dp: [Giga Impact, Hyper Beam, Mud-Slap, Night Slash, Psych Up, Slash]
+    - xy: [Giga Impact, Hyper Beam, Mud-Slap, Night Slash, Psych Up, Slash, Struggle
+          Bug]
     stats:
     - [86, 76, 86, 116, 56, 95]
     tags:

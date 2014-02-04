@@ -31,6 +31,15 @@ pokemon:
         Return, Roar, Secret Power, Shock Wave, Sleep Talk, Snore, Spark, Strength,
         Substitute, Swagger, Swift, Tackle, Thief, Thunder, Thunder Wave, Thunderbolt,
         Toxic, Uproar, Body Slam, Double-Edge, Mimic]
+    - xy: [Attract, Bite, Body Slam, Captivate, Charge, Charge Beam, Crunch, Curse,
+        Discharge, Double-Edge, Double Team, Electro Ball, Endure, Facade, Fire Fang,
+        Flame Burst, Flamethrower, Flash, Frustration, Headbutt, Hidden Power, Howl,
+        Ice Fang, Iron Tail, Leer, Light Screen, Magnet Rise, Mimic, Mud-Slap, Natural
+          Gift, Odor Sleuth, Protect, Quick Attack, Rain Dance, Rest, Return, Roar,
+        Round, Secret Power, Shock Wave, Signal Beam, Sleep Talk, Snarl, Snore, Spark,
+        Strength, Substitute, Swagger, Swift, Switcheroo, Tackle, Thief, Thunder,
+        Thunderbolt, Thunder Fang, Thunder Wave, Toxic, Uproar, Volt Switch, Wild
+          Charge, Confide, Eerie Impulse]
     stats:
     - [40, 45, 40, 65, 40, 65]
     tags:
@@ -51,6 +60,7 @@ pokemon:
     - bw: [Giga Impact, Hyper Beam, Overheat, Body Slam, Double-Edge, Mimic, Refresh]
     - dp: [Giga Impact, Hyper Beam, Overheat, Body Slam, Double-Edge, Mimic, Refresh]
     - rs: [Hyper Beam, Body Slam, Double-Edge, Mimic, Refresh]
+    - xy: [Giga Impact, Hyper Beam, Overheat, Refresh, Electric Terrain]
     stats:
     - [70, 75, 60, 105, 60, 105]
     tags:

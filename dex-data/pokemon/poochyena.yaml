@@ -12,6 +12,7 @@ pokemon:
     - bw: [Giga Impact, Hyper Beam, Strength, Body Slam, Double-Edge, Mimic]
     - dp: [Giga Impact, Hyper Beam, Strength, Body Slam, Double-Edge, Mimic]
     - rs: [Hyper Beam, Strength, Body Slam, Double-Edge, Mimic]
+    - xy: [Giga Impact, Hyper Beam, Strength]
     stats:
     - [70, 90, 70, 60, 60, 70]
     tags:
@@ -53,6 +54,15 @@ pokemon:
           Ball, Sleep Talk, Snatch, Snore, Substitute, Sunny Day, Swagger, Tackle,
         Take Down, Taunt, Thief, Torment, Toxic, Yawn, Body Slam, Double-Edge, Heal
           Bell, Mimic]
+    - xy: [Assurance, Astonish, Attract, Bite, Body Slam, Captivate, Counter, Covet,
+        Crunch, Dark Pulse, Dig, Double-Edge, Double Team, Embargo, Endure, Facade,
+        Fire Fang, Frustration, Headbutt, Heal Bell, Hidden Power, Howl, Ice Fang,
+        Incinerate, Iron Tail, Leer, Me First, Mimic, Mud-Slap, Natural Gift, Odor
+          Sleuth, Payback, Poison Fang, Protect, Psych Up, Rain Dance, Rest, Retaliate,
+        Return, Roar, Rock Smash, Round, Sand Attack, Scary Face, Secret Power, Shadow
+          Ball, Sleep Talk, Snarl, Snatch, Snore, Spite, Substitute, Sucker Punch,
+        Sunny Day, Super Fang, Swagger, Tackle, Take Down, Taunt, Thief, Thunder Fang,
+        Torment, Toxic, Uproar, Yawn, Foul Play, Hyper Voice, Confide, Play Rough]
     stats:
     - [35, 55, 35, 30, 30, 35]
     tags:

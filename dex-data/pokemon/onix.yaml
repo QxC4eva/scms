@@ -40,6 +40,16 @@ pokemon:
     - rb: [Bide, Bind, Body Slam, Dig, Double-Edge, Double Team, Earthquake, Explosion,
         Fissure, Harden, Mimic, Rage, Rest, Rock Slide, Rock Throw, Screech, Selfdestruct,
         Skull Bash, Slam, Strength, Substitute, Tackle, Take Down, Toxic, Sharpen]
+    - xy: [Ancient Power, Attract, Bind, Block, Body Slam, Bulldoze, Captivate, Curse,
+        Defense Curl, Dig, Double-Edge, Double Team, Dragon Breath, Dragon Pulse,
+        Dragon Tail, Earth Power, Earthquake, Endure, Explosion, Facade, Flail, Flash
+          Cannon, Frustration, Gyro Ball, Harden, Headbutt, Heavy Slam, Hidden Power,
+        Iron Head, Iron Tail, Mimic, Mud-Slap, Mud Sport, Natural Gift, Payback, Protect,
+        Psych Up, Rage, Rest, Return, Roar, Rock Blast, Rock Climb, Rock Polish, Rock
+          Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Round, Sandstorm, Sand
+          Tomb, Screech, Secret Power, Self-Destruct, Slam, Sleep Talk, Smack Down,
+        Snore, Stealth Rock, Stone Edge, Strength, Substitute, Sunny Day, Swagger,
+        Tackle, Taunt, Torment, Toxic, Twister, Nature Power, Confide, Rototiller]
     stats:
     - [35, 45, 160, 30, 30, 70]
     - gs: [35, 45, 160, 30, 45, 70]
@@ -65,6 +75,8 @@ pokemon:
     - dp: [Aqua Tail, Crunch, Cut, Dark Pulse, Fire Fang, Giga Impact, Hyper Beam,
         Ice Fang, Magnet Rise, Thunder Fang, Body Slam, Mimic, Selfdestruct]
     - rs: [Crunch, Cut, Defense Curl, Hyper Beam, Rollout, Body Slam, Mimic, Selfdestruct]
+    - xy: [Aqua Tail, Autotomize, Crunch, Cut, Dark Pulse, Fire Fang, Giga Impact,
+        Hyper Beam, Ice Fang, Magnet Rise, Thunder Fang]
     stats:
     - [75, 85, 200, 55, 65, 30]
     tags:

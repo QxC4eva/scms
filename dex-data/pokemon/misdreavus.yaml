@@ -42,6 +42,18 @@ pokemon:
           Talk, Snatch, Snore, Spite, Substitute, Sunny Day, Swagger, Swift, Taunt,
         Thief, Thunder, Thunder Wave, Thunderbolt, Torment, Toxic, Double-Edge, Dream
           Eater, Mimic, Nightmare]
+    - xy: [Aerial Ace, Astonish, Attract, Calm Mind, Captivate, Charge Beam, Confuse
+          Ray, Curse, Dark Pulse, Defense Curl, Destiny Bond, Double-Edge, Double
+          Team, Dream Eater, Echoed Voice, Embargo, Endure, Facade, Flash, Frustration,
+        Growl, Grudge, Headbutt, Heal Bell, Hex, Hidden Power, Icy Wind, Imprison,
+        Inferno, Magic Coat, Mean Look, Memento, Mimic, Nasty Plot, Natural Gift,
+        Nightmare, Ominous Wind, Pain Split, Payback, Perish Song, Power Gem, Protect,
+        Psybeam, Psychic, Psych Up, Psywave, Rain Dance, Rest, Return, Round, Screech,
+        Secret Power, Shadow Ball, Shadow Sneak, Shock Wave, Skill Swap, Sleep Talk,
+        Snatch, Snore, Spite, Substitute, Sucker Punch, Sunny Day, Swagger, Swift,
+        Taunt, Telekinesis, Thief, Thunder, Thunderbolt, Thunder Wave, Torment, Toxic,
+        Trick, Trick Room, Uproar, Will-O-Wisp, Wonder Room, Foul Play, Hyper Voice,
+        Magic Room, Dazzling Gleam, Confide, Me First]
     stats:
     - [60, 60, 60, 85, 85, 85]
     tags:
@@ -62,6 +74,8 @@ pokemon:
     moves:
     - bw: [Energy Ball, Giga Impact, Hyper Beam, Lucky Chant, Magical Leaf]
     - dp: [Energy Ball, Giga Impact, Hyper Beam, Lucky Chant, Magical Leaf]
+    - xy: [Energy Ball, Giga Impact, Hyper Beam, Lucky Chant, Magical Leaf, Phantom
+          Force]
     stats:
     - [60, 60, 60, 105, 105, 105]
     tags:

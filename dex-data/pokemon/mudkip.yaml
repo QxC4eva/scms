@@ -16,6 +16,9 @@ pokemon:
     - rs: [Counter, Dynamicpunch, Earthquake, Ice Punch, Mega Kick, Mega Punch, Mud
           Shot, Muddy Water, Rock Slide, Seismic Toss, Body Slam, Icy Wind, Mimic,
         Seismic Toss]
+    - xy: [Brick Break, Bulldoze, Dynamic Punch, Earthquake, Fling, Ice Punch, Mega
+          Kick, Mega Punch, Muddy Water, Mud Shot, Seismic Toss, Stealth Rock, Power-Up
+          Punch]
     stats:
     - [70, 85, 70, 60, 70, 50]
     tags:
@@ -58,6 +61,16 @@ pokemon:
         Rock Smash, Rock Tomb, Rollout, Secret Power, Sleep Talk, Snore, Stomp, Strength,
         Substitute, Surf, Swagger, Tackle, Take Down, Toxic, Uproar, Water Gun, Water
           Pulse, Waterfall, Whirlpool, Body Slam, Icy Wind, Mimic]
+    - xy: [Ancient Power, Aqua Tail, Attract, Avalanche, Bide, Bite, Blizzard, Body
+          Slam, Captivate, Counter, Curse, Defense Curl, Dig, Dive, Double-Edge, Double
+          Team, Echoed Voice, Endeavor, Endure, Facade, Foresight, Frustration, Growl,
+        Hail, Headbutt, Hidden Power, Hydro Pump, Ice Ball, Ice Beam, Icy Wind, Iron
+          Tail, Low Kick, Mimic, Mirror Coat, Mud Bomb, Mud-Slap, Mud Sport, Natural
+          Gift, Protect, Rain Dance, Refresh, Rest, Return, Rock Slide, Rock Smash,
+        Rock Tomb, Rollout, Round, Scald, Secret Power, Sleep Talk, Sludge, Sludge
+          Wave, Snore, Stomp, Strength, Substitute, Superpower, Surf, Swagger, Tackle,
+        Take Down, Toxic, Uproar, Waterfall, Water Gun, Water Pledge, Water Pulse,
+        Whirlpool, Wide Guard, Yawn, Earth Power, Confide, Barrier]
     stats:
     - [50, 70, 50, 50, 50, 40]
     tags:
@@ -82,6 +95,8 @@ pokemon:
         Seismic Toss]
     - rs: [Brick Break, Focus Punch, Hyper Beam, Roar, Body Slam, Icy Wind, Mimic,
         Seismic Toss]
+    - xy: [Avalanche, Focus Blast, Focus Punch, Giga Impact, Hammer Arm, Hydro Cannon,
+        Hydro Pump, Hyper Beam, Outrage, Roar, Rock Climb, Stone Edge]
     stats:
     - [100, 110, 90, 85, 90, 60]
     tags:

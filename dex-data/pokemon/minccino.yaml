@@ -9,6 +9,8 @@ pokemon:
     moves:
     - bw: [Bullet Seed, Focus Blast, Giga Impact, Hyper Beam, Light Screen, Rock Blast,
         Thunder]
+    - xy: [Bullet Seed, Focus Blast, Giga Impact, Hyper Beam, Light Screen, Rock Blast,
+        Thunder]
     stats:
     - [75, 95, 60, 65, 60, 115]
     tags:
@@ -33,6 +35,14 @@ pokemon:
         Sing, Slam, Sleep Talk, Snore, Substitute, Sunny Day, Swagger, Swift, Tail
           Slap, Tail Whip, Thief, Thunder Wave, Thunderbolt, Tickle, Toxic, U-turn,
         Uproar, Wake-Up Slap, Work Up]
+    - xy: [After You, Aqua Tail, Attract, Calm Mind, Captivate, Charm, Dig, Double
+          Slap, Double Team, Echoed Voice, Encore, Endure, Facade, Fake Tears, Flail,
+        Fling, Frustration, Grass Knot, Growl, Helping Hand, Hidden Power, Hyper Voice,
+        Iron Tail, Knock Off, Last Resort, Mud-Slap, Pound, Protect, Rain Dance, Rest,
+        Retaliate, Return, Round, Safeguard, Sing, Slam, Sleep Talk, Substitute, Sunny
+          Day, Swagger, Swift, Tail Slap, Tail Whip, Thief, Thunderbolt, Thunder Wave,
+        Tickle, Toxic, U-turn, Wake-Up Slap, Work Up, Covet, Seed Bomb, Gunk Shot,
+        Uproar, Snore, Baby-Doll Eyes, Dazzling Gleam, Confide]
     stats:
     - [55, 50, 40, 40, 40, 75]
     tags:

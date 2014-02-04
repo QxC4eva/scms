@@ -23,6 +23,10 @@ pokemon:
         Double-Edge, Helping Hand, Icy Wind, Mimic, Seismic Toss]
     - rb: [Blizzard, Bubblebeam, Counter, Hyper Beam, Ice Beam, Mega Kick, Mega Punch,
         Pay Day, Seismic Toss, Submission, Surf, Water Gun]
+    - xy: [Avalanche, Block, Brick Break, Cut, Dragon Tail, Dynamic Punch, Fire Punch,
+        Fling, Focus Blast, Focus Punch, Fury Cutter, Giga Impact, Hammer Arm, Helping
+          Hand, Hyper Beam, Ice Punch, Mega Kick, Mega Punch, Outrage, Seismic Toss,
+        Shadow Claw, Smack Down, Surf, Thunder Punch, Whirlpool, Power-Up Punch]
     stats:
     - [105, 130, 120, 45, 45, 40]
     - gs: [105, 130, 120, 45, 45, 40]
@@ -87,6 +91,18 @@ pokemon:
         Fissure, Fury Attack, Horn Attack, Horn Drill, Leer, Mimic, Rage, Rest, Rock
           Slide, Skull Bash, Stomp, Strength, Substitute, Tail Whip, Take Down, Thunder,
         Thunderbolt, Toxic]
+    - xy: [Ancient Power, Aqua Tail, Attract, Blizzard, Body Slam, Bulldoze, Captivate,
+        Chip Away, Counter, Crunch, Crush Claw, Curse, Dig, Double-Edge, Double Team,
+        Dragon Pulse, Dragon Rush, Drill Run, Earth Power, Earthquake, Endeavor, Endure,
+        Facade, Fire Blast, Fire Fang, Flamethrower, Frustration, Fury Attack, Headbutt,
+        Hidden Power, Horn Attack, Horn Drill, Ice Beam, Ice Fang, Icy Wind, Incinerate,
+        Iron Tail, Magnitude, Megahorn, Mimic, Mud-Slap, Natural Gift, Payback, Poison
+          Jab, Protect, Rain Dance, Rest, Return, Reversal, Roar, Rock Blast, Rock
+          Climb, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Rollout, Round, Sandstorm,
+        Scary Face, Secret Power, Shock Wave, Skull Bash, Sleep Talk, Snore, Spite,
+        Stealth Rock, Stomp, Stone Edge, Strength, Substitute, Sunny Day, Superpower,
+        Swagger, Swords Dance, Tail Whip, Take Down, Thief, Thunder, Thunderbolt,
+        Thunder Fang, Toxic, Uproar, Confide, Metal Burst, Rototiller, Guard Split]
     stats:
     - [80, 85, 95, 30, 30, 25]
     - gs: [80, 85, 95, 30, 30, 25]
@@ -106,6 +122,7 @@ pokemon:
     moves:
     - bw: [Flash Cannon, Iron Head, Rock Wrecker]
     - dp: [Flash Cannon, Iron Head, Rock Wrecker]
+    - xy: [Flash Cannon, Iron Head, Rock Wrecker]
     stats:
     - [115, 140, 130, 55, 55, 40]
     tags:

@@ -30,6 +30,15 @@ pokemon:
           Dance, Refresh, Rest, Return, Scary Face, Screech, Secret Power, Sleep Talk,
         Snore, Substitute, Surf, Swagger, Swift, Take Down, Taunt, Thief, Thrash,
         Torment, Toxic, Water Pulse, Waterfall]
+    - xy: [Agility, Ancient Power, Aqua Jet, Assurance, Attract, Bite, Blizzard, Bounce,
+        Brine, Captivate, Crunch, Dark Pulse, Dive, Double-Edge, Double Team, Endure,
+        Facade, Focus Energy, Frustration, Fury Cutter, Hail, Hidden Power, Hydro
+          Pump, Ice Beam, Ice Fang, Icy Wind, Leer, Mimic, Mud-Slap, Natural Gift,
+        Payback, Protect, Rage, Rain Dance, Refresh, Rest, Retaliate, Return, Round,
+        Scald, Scary Face, Screech, Secret Power, Sleep Talk, Snarl, Snore, Spite,
+        Substitute, Super Fang, Surf, Swagger, Swift, Take Down, Taunt, Thief, Thrash,
+        Torment, Toxic, Uproar, Waterfall, Water Pulse, Whirlpool, Zen Headbutt, Confide,
+        Destiny Bond]
     stats:
     - [45, 90, 20, 65, 20, 65]
     tags:
@@ -56,6 +65,8 @@ pokemon:
         Mimic]
     - rs: [Earthquake, Hyper Beam, Roar, Rock Smash, Rock Tomb, Skull Bash, Slash,
         Strength, Icy Wind, Mimic]
+    - xy: [Avalanche, Bulldoze, Earthquake, Feint, Giga Impact, Hyper Beam, Night
+          Slash, Poison Jab, Roar, Rock Smash, Rock Tomb, Skull Bash, Slash, Strength]
     stats:
     - [70, 120, 40, 95, 40, 95]
     tags:

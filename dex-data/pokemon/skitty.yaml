@@ -12,6 +12,7 @@ pokemon:
     - bw: [Giga Impact, Hyper Beam, Rock Smash, Strength]
     - dp: [Giga Impact, Hyper Beam, Rock Smash, Strength]
     - rs: [Hyper Beam, Rock Smash, Strength]
+    - xy: [Giga Impact, Hyper Beam, Rock Smash, Strength, Sweet Kiss]
     stats:
     - [70, 65, 65, 55, 55, 70]
     tags:
@@ -59,6 +60,18 @@ pokemon:
           Day, Swagger, Swift, Tackle, Tail Whip, Thunder, Thunder Wave, Thunderbolt,
         Tickle, Toxic, Uproar, Water Pulse, Wish, Body Slam, Double-Edge, Icy Wind,
         Mimic]
+    - xy: [Assist, Attract, Baton Pass, Blizzard, Body Slam, Calm Mind, Captivate,
+        Charge Beam, Charm, Copycat, Covet, Defense Curl, Dig, Double-Edge, Double
+          Slap, Double Team, Dream Eater, Echoed Voice, Endure, Facade, Feint Attack,
+        Fake Out, Fake Tears, Flash, Foresight, Frustration, Grass Knot, Growl, Headbutt,
+        Heal Bell, Helping Hand, Hidden Power, Ice Beam, Icy Wind, Iron Tail, Last
+          Resort, Mimic, Mud Bomb, Mud-Slap, Natural Gift, Payback, Pay Day, Protect,
+        Psych Up, Rain Dance, Rest, Retaliate, Return, Rollout, Round, Safeguard,
+        Secret Power, Shadow Ball, Shock Wave, Simple Beam, Sing, Sleep Talk, Snore,
+        Solar Beam, Substitute, Sucker Punch, Sunny Day, Swagger, Swift, Tackle, Tail
+          Whip, Thunder, Thunderbolt, Thunder Wave, Tickle, Toxic, Uproar, Wake-Up
+          Slap, Water Pulse, Wild Charge, Wish, Work Up, Zen Headbutt, Hyper Voice,
+        Play Rough, Confide, Cosmic Power]
     stats:
     - [50, 45, 45, 35, 35, 50]
     tags:

@@ -45,6 +45,18 @@ pokemon:
           Punch, Metronome, Mimic, Psychic, Psywave, Rage, Reflect, Rest, Seismic
           Toss, Skull Bash, Submission, Substitute, Take Down, Teleport, Thunder Wave,
         Toxic, Tri Attack, Foresight]
+    - xy: [Ally Switch, Attract, Barrier, Body Slam, Calm Mind, Captivate, Charge
+          Beam, Counter, Double-Edge, Double Team, Drain Punch, Dream Eater, Dynamic
+          Punch, Embargo, Encore, Endure, Energy Ball, Facade, Fire Punch, Flash,
+        Fling, Focus Punch, Frustration, Grass Knot, Gravity, Guard Split, Guard Swap,
+        Headbutt, Hidden Power, Ice Punch, Iron Tail, Knock Off, Light Screen, Magic
+          Coat, Mega Kick, Mega Punch, Metronome, Mimic, Natural Gift, Nightmare,
+        Power Trick, Protect, Psychic, Psych Up, Psyshock, Rain Dance, Recycle, Reflect,
+        Rest, Return, Role Play, Round, Safeguard, Secret Power, Seismic Toss, Shadow
+          Ball, Shock Wave, Signal Beam, Skill Swap, Sleep Talk, Snatch, Snore, Substitute,
+        Sunny Day, Swagger, Taunt, Telekinesis, Teleport, Thief, Thunder Punch, Thunder
+          Wave, Torment, Toxic, Trick, Trick Room, Zen Headbutt, Foul Play, Magic
+          Room, Wonder Room, Dazzling Gleam, Confide, Psycho Shift]
     stats:
     - [25, 20, 15, 105, 105, 90]
     - gs: [25, 20, 15, 105, 55, 90]
@@ -68,6 +80,7 @@ pokemon:
     - dp: [Focus Blast, Giga Impact, Hyper Beam]
     - rs: [Hyper Beam]
     - rb: [Hyper Beam]
+    - xy: [Focus Blast, Giga Impact, Hyper Beam]
     stats:
     - [55, 50, 45, 135, 135, 120]
     - gs: [55, 50, 45, 135, 85, 120]
@@ -98,6 +111,8 @@ pokemon:
     - rs: [Confusion, Disable, Future Sight, Kinesis, Psybeam, Recover, Role Play,
         Trick, Body Slam, Double-Edge, Mimic, Nightmare, Seismic Toss, Substitute]
     - rb: [Confusion, Dig, Disable, Kinesis, Psybeam, Recover]
+    - xy: [Confusion, Disable, Future Sight, Kinesis, Miracle Eye, Psybeam, Psycho
+          Cut, Recover]
     stats:
     - [40, 35, 30, 120, 120, 105]
     - gs: [40, 35, 30, 120, 70, 105]

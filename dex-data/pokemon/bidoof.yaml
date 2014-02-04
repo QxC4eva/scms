@@ -11,6 +11,8 @@ pokemon:
         Water Gun, Waterfall]
     - dp: [Dive, Fling, Focus Punch, Giga Impact, Hyper Beam, Rock Climb, Strength,
         Surf, Water Gun, Water Pulse, Waterfall, Whirlpool]
+    - xy: [Bulldoze, Dive, Fling, Focus Punch, Giga Impact, Hyper Beam, Scald, Strength,
+        Surf, Waterfall, Water Gun, Water Pulse, Whirlpool, Rototiller]
     stats:
     - [79, 85, 60, 55, 60, 71]
     tags:
@@ -45,6 +47,16 @@ pokemon:
         Stealth Rock, Substitute, Sunny Day, Super Fang, Superpower, Swagger, Swift,
         Tackle, Take Down, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Toxic,
         Water Sport, Yawn]
+    - xy: [Amnesia, Aqua Tail, Attract, Blizzard, Captivate, Charge Beam, Curse, Cut,
+        Defense Curl, Dig, Double-Edge, Double Team, Echoed Voice, Endure, Facade,
+        Frustration, Fury Cutter, Fury Swipes, Grass Knot, Growl, Headbutt, Hidden
+          Power, Hyper Fang, Ice Beam, Icy Wind, Iron Tail, Last Resort, Mud-Slap,
+        Natural Gift, Odor Sleuth, Pluck, Protect, Quick Attack, Rain Dance, Rest,
+        Retaliate, Return, Rock Climb, Rock Smash, Rollout, Round, Secret Power, Shadow
+          Ball, Shock Wave, Skull Bash, Sleep Talk, Snore, Stealth Rock, Substitute,
+        Sunny Day, Super Fang, Superpower, Swagger, Swift, Tackle, Take Down, Taunt,
+        Thief, Thunder, Thunderbolt, Thunder Wave, Toxic, Water Sport, Work Up, Yawn,
+        Covet, Confide]
     stats:
     - [59, 45, 40, 35, 40, 31]
     tags:

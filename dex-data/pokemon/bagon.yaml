@@ -32,6 +32,16 @@ pokemon:
         Rage, Rain Dance, Rest, Return, Roar, Rock Slide, Rock Smash, Rock Tomb, Scary
           Face, Secret Power, Sleep Talk, Snore, Strength, Substitute, Sunny Day,
         Swagger, Thrash, Toxic, Twister]
+    - xy: [Aerial Ace, Attract, Bite, Body Slam, Brick Break, Captivate, Crunch, Cut,
+        Defense Curl, Double-Edge, Double Team, Draco Meteor, Dragon Breath, Dragon
+          Claw, Dragon Dance, Dragon Pulse, Dragon Rage, Dragon Rush, Ember, Endure,
+        Facade, Fire Blast, Fire Fang, Flamethrower, Focus Energy, Frustration, Fury
+          Cutter, Headbutt, Hidden Power, Hone Claws, Hydro Pump, Incinerate, Iron
+          Defense, Leer, Mimic, Mud-Slap, Natural Gift, Outrage, Protect, Rage, Rain
+          Dance, Rest, Return, Roar, Rock Slide, Rock Smash, Rock Tomb, Round, Scary
+          Face, Secret Power, Shadow Claw, Sleep Talk, Snore, Strength, Substitute,
+        Sunny Day, Swagger, Thrash, Toxic, Twister, Wish, Zen Headbutt, Hyper Voice,
+        Confide]
     stats:
     - [45, 75, 60, 40, 30, 50]
     tags:
@@ -57,6 +67,10 @@ pokemon:
         Tailwind, Thunder Fang, Body Slam, Mimic, Refresh]
     - rs: [Earthquake, Fly, Hyper Beam, Iron Tail, Steel Wing, Swift, Body Slam, Mimic,
         Refresh]
+    - xy: [Air Cutter, Aqua Tail, Bulldoze, Defog, Dragon Dance, Dragon Tail, Earthquake,
+        Fire Fang, Fly, Giga Impact, Heat Wave, Hydro Pump, Hyper Beam, Iron Tail,
+        Ominous Wind, Refresh, Roost, Steel Wing, Stone Edge, Swift, Tailwind, Thunder
+          Fang]
     stats:
     - [95, 135, 80, 110, 80, 100]
     tags:
@@ -79,6 +93,7 @@ pokemon:
     - bw: [Iron Defense, Body Slam, Mimic]
     - dp: [Iron Defense, Rollout, Body Slam, Mimic]
     - rs: [Defense Curl, Rollout, Body Slam, Mimic]
+    - xy: [Rollout]
     stats:
     - [65, 95, 100, 60, 50, 50]
     tags:

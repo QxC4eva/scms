@@ -9,6 +9,8 @@ pokemon:
     moves:
     - bw: [Dragon Pulse, Dragon Tail, Frenzy Plant, Giga Impact, Hyper Beam, Outrage,
         Rock Smash, Strength]
+    - xy: [Dragon Tail, Frenzy Plant, Giga Impact, Hyper Beam, Rock Smash, Strength,
+        Dragon Pulse, Outrage]
     stats:
     - [75, 75, 95, 75, 95, 113]
     tags:
@@ -24,6 +26,8 @@ pokemon:
     evolutions: [Serperior]
     height: [0.8]
     introduction: dp
+    moves:
+    - xy: []
     stats:
     - [60, 60, 75, 60, 75, 83]
     tags:
@@ -49,6 +53,15 @@ pokemon:
         Snore, Solarbeam, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance,
         Synthesis, Tackle, Taunt, Torment, Toxic, Twister, Vine Whip, Worry Seed,
         Wrap, Wring Out]
+    - xy: [Aerial Ace, Aromatherapy, Attract, Calm Mind, Captivate, Coil, Cut, Double
+          Team, Energy Ball, Facade, Flash, Frustration, Gastro Acid, Giga Drain,
+        Glare, Grass Knot, Grass Pledge, Growth, Hidden Power, Iron Tail, Leaf Blade,
+        Leaf Storm, Leaf Tornado, Leech Seed, Leer, Light Screen, Magical Leaf, Mean
+          Look, Mega Drain, Mirror Coat, Natural Gift, Protect, Pursuit, Reflect,
+        Rest, Return, Round, Safeguard, Slam, Solar Beam, Substitute, Sunny Day, Swagger,
+        Sweet Scent, Swords Dance, Synthesis, Tackle, Taunt, Torment, Toxic, Twister,
+        Vine Whip, Wrap, Wring Out, Seed Bomb, Aqua Tail, Bind, Snore, Knock Off,
+        Worry Seed, Snatch, Sleep Talk, Nature Power, Confide, Grassy Terrain]
     stats:
     - [45, 45, 55, 45, 55, 63]
     tags:

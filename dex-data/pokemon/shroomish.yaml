@@ -20,6 +20,11 @@ pokemon:
     - rs: [Brick Break, Bulk Up, Counter, Cut, Dynamicpunch, Focus Punch, Fury Cutter,
         Hyper Beam, Iron Tail, Mach Punch, Mega Kick, Mega Punch, Mind Reader, Mud-Slap,
         Rock Smash, Seismic Toss, Sky Uppercut, Strength, Thunderpunch]
+    - xy: [Brick Break, Bulk Up, Counter, Cut, Dynamic Punch, Fling, Focus Blast,
+        Force Palm, Fury Cutter, Giga Impact, Hyper Beam, Iron Tail, Low Sweep, Mach
+          Punch, Mega Kick, Mega Punch, Mind Reader, Mud-Slap, Retaliate, Rock Slide,
+        Rock Smash, Rock Tomb, Seismic Toss, Sky Uppercut, Stone Edge, Strength, Superpower,
+        Thunder Punch, Vacuum Wave, Work Up, Power-Up Punch]
     stats:
     - [60, 130, 80, 60, 60, 70]
     tags:
@@ -60,6 +65,14 @@ pokemon:
         Protect, Rest, Return, Safeguard, Secret Power, Sleep Talk, Sludge Bomb, Snatch,
         Snore, Solarbeam, Spore, Stun Spore, Substitute, Sunny Day, Swagger, Swords
           Dance, Tackle, Toxic, Body Slam, Double-Edge, Mimic, Refresh]
+    - xy: [Absorb, Attract, Body Slam, Bullet Seed, Captivate, Charm, Double-Edge,
+        Double Team, Drain Punch, Endure, Energy Ball, Facade, Fake Tears, False Swipe,
+        Flash, Focus Punch, Frustration, Giga Drain, Grass Knot, Growth, Headbutt,
+        Helping Hand, Hidden Power, Leech Seed, Mega Drain, Mimic, Natural Gift, Poison
+          Powder, Protect, Refresh, Rest, Return, Round, Safeguard, Secret Power,
+        Seed Bomb, Sleep Talk, Sludge Bomb, Snatch, Snore, Solar Beam, Spore, Stun
+          Spore, Substitute, Sunny Day, Swagger, Swords Dance, Synthesis, Tackle,
+        Toxic, Venoshock, Wake-Up Slap, Worry Seed, Confide]
     stats:
     - [60, 40, 60, 40, 60, 35]
     tags:

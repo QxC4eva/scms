@@ -26,6 +26,16 @@ pokemon:
           Talk, Snatch, Snore, Substitute, Sucker Punch, Sunny Day, Super Fang, Swagger,
         Swift, Tail Whip, Taunt, Thief, Thunder, Thunderbolt, Torment, Toxic, U-turn,
         Water Pulse]
+    - xy: [Aerial Ace, Assist, Assurance, Attract, Bite, Captivate, Charm, Cut, Dig,
+        Double Team, Dream Eater, Echoed Voice, Endure, Facade, Feint Attack, Fake
+          Out, Fake Tears, Flail, Flash, Frustration, Fury Cutter, Fury Swipes, Growl,
+        Headbutt, Hidden Power, Hone Claws, Hypnosis, Iron Tail, Knock Off, Last Resort,
+        Mud-Slap, Natural Gift, Payback, Protect, Psych Up, Quick Attack, Rain Dance,
+        Rest, Retaliate, Return, Round, Sand Attack, Scratch, Secret Power, Shadow
+          Ball, Shadow Claw, Shock Wave, Slash, Sleep Talk, Snatch, Snore, Substitute,
+        Sucker Punch, Sunny Day, Super Fang, Swagger, Swift, Tail Whip, Taunt, Thief,
+        Thunder, Thunderbolt, Torment, Toxic, U-turn, Wake-Up Slap, Water Pulse, Work
+          Up, Covet, Foul Play, Hyper Voice, Play Rough, Confide]
     stats:
     - [49, 55, 42, 42, 37, 85]
     tags:
@@ -43,6 +53,7 @@ pokemon:
     moves:
     - bw: [Body Slam, Bulldoze, Giga Impact, Hyper Beam, Roar]
     - dp: [Body Slam, Giga Impact, Hyper Beam, Roar, Rollout]
+    - xy: [Body Slam, Bulldoze, Giga Impact, Hyper Beam, Roar, Rollout]
     stats:
     - [71, 82, 64, 64, 59, 112]
     tags:

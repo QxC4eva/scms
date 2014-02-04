@@ -38,6 +38,14 @@ pokemon:
     - rb: [Bide, Bite, Body Slam, Double-Edge, Double Team, Focus Energy, Growl, Mimic,
         Quick Attack, Rage, Reflect, Rest, Sand-Attack, Skull Bash, Substitute, Swift,
         Tackle, Tail Whip, Take Down, Toxic]
+    - xy: [Attract, Baton Pass, Bite, Body Slam, Captivate, Charm, Covet, Curse, Detect,
+        Dig, Double-Edge, Double Team, Echoed Voice, Endure, Facade, Fake Tears, Flail,
+        Frustration, Growl, Headbutt, Heal Bell, Helping Hand, Hidden Power, Hyper
+          Voice, Iron Tail, Last Resort, Mimic, Mud-Slap, Natural Gift, Protect, Quick
+          Attack, Rain Dance, Rest, Retaliate, Return, Round, Sand Attack, Secret
+          Power, Shadow Ball, Sing, Sleep Talk, Snore, Stored Power, Substitute, Sunny
+          Day, Swagger, Swift, Synchronoise, Tackle, Tail Whip, Take Down, Tickle,
+        Toxic, Trump Card, Wish, Work Up, Yawn, Baby-Doll Eyes, Refresh, Confide]
     stats:
     - [55, 55, 50, 65, 65, 55]
     - gs: [55, 55, 50, 45, 65, 55]
@@ -70,6 +78,11 @@ pokemon:
     - rs: [Calm Mind, Confusion, Cut, Dream Eater, Flash, Hyper Beam, Light Screen,
         Morning Sun, Nightmare, Psybeam, Psych Up, Psychic, Reflect, Skill Swap, Body
           Slam, Double-Edge, Mimic, Nightmare]
+    - xy: [Calm Mind, Confusion, Cut, Dream Eater, Flash, Future Sight, Giga Impact,
+        Grass Knot, Hyper Beam, Light Screen, Magic Coat, Morning Sun, Nightmare,
+        Power Swap, Psybeam, Psychic, Psych Up, Psyshock, Reflect, Signal Beam, Skill
+          Swap, Telekinesis, Trick, Trick Room, Zen Headbutt, Magic Room, Dazzling
+          Gleam]
     stats:
     - [65, 65, 60, 130, 95, 110]
     tags:
@@ -98,6 +111,9 @@ pokemon:
     - rs: [Ember, Fire Blast, Fire Spin, Flamethrower, Leer, Overheat, Roar, Smog,
         Body Slam, Double-Edge, Mimic]
     - rb: [Ember, Fire Blast, Fire Spin, Flamethrower, Hyper Beam, Leer, Smog]
+    - xy: [Ember, Fire Blast, Fire Fang, Fire Spin, Flame Charge, Flamethrower, Giga
+          Impact, Heat Wave, Hyper Beam, Incinerate, Lava Plume, Leer, Overheat, Roar,
+        Rock Smash, Scary Face, Smog, Strength, Superpower, Will-O-Wisp, Flare Blitz]
     stats:
     - [65, 130, 60, 110, 110, 65]
     - gs: [65, 130, 60, 95, 110, 65]
@@ -120,6 +136,9 @@ pokemon:
           Shard, Icy Wind, Mirror Coat]
     - dp: [Aqua Tail, Avalanche, Barrier, Blizzard, Hail, Ice Beam, Ice Fang, Ice
           Shard, Icy Wind, Mirror Coat, Water Pulse]
+    - xy: [Aqua Tail, Avalanche, Barrier, Blizzard, Frost Breath, Giga Impact, Hail,
+        Hyper Beam, Ice Beam, Ice Fang, Ice Shard, Icy Wind, Mirror Coat, Roar, Rock
+          Smash, Signal Beam, Strength, Water Pulse]
     stats:
     - [65, 60, 110, 130, 95, 65]
     tags:
@@ -148,6 +167,10 @@ pokemon:
         Thundershock, Body Slam, Double-Edge, Mimic]
     - rb: [Agility, Double Kick, Flash, Pin Missile, Thunder, Thunder Wave, Thunderbolt,
         Thundershock]
+    - xy: [Agility, Charge Beam, Discharge, Double Kick, Flash, Giga Impact, Hyper
+          Beam, Light Screen, Magnet Rise, Pin Missile, Roar, Rock Smash, Shock Wave,
+        Signal Beam, Strength, Thunder, Thunderbolt, Thunder Fang, Thunder Shock,
+        Thunder Wave, Volt Switch, Wild Charge]
     stats:
     - [65, 65, 60, 110, 110, 130]
     - gs: [65, 65, 60, 110, 95, 130]
@@ -171,6 +194,10 @@ pokemon:
     - dp: [Aerial Ace, Bullet Seed, Energy Ball, Fury Cutter, Giga Drain, Grasswhistle,
         Knock Off, Leaf Blade, Magical Leaf, Razor Leaf, Seed Bomb, Solarbeam, Swords
           Dance, Synthesis, Worry Seed, X-scissor]
+    - xy: [Aerial Ace, Bullet Seed, Energy Ball, Flash, Fury Cutter, Giga Drain, Giga
+          Impact, Grass Knot, Grass Whistle, Hyper Beam, Knock Off, Leaf Blade, Magical
+          Leaf, Razor Leaf, Roar, Rock Smash, Seed Bomb, Solar Beam, Strength, Swords
+          Dance, Synthesis, Worry Seed, X-Scissor, Nature Power]
     stats:
     - [65, 110, 130, 60, 65, 95]
     tags:
@@ -197,6 +224,10 @@ pokemon:
         Torment, Body Slam, Double-Edge, Mimic, Nightmare]
     - rs: [Confuse Ray, Faint Attack, Mean Look, Moonlight, Pursuit, Screech, Snatch,
         Taunt, Torment, Body Slam, Double-Edge, Mimic, Nightmare]
+    - xy: [Assurance, Confuse Ray, Cut, Dark Pulse, Dream Eater, Feint Attack, Flash,
+        Giga Impact, Guard Swap, Hyper Beam, Mean Look, Moonlight, Nightmare, Payback,
+        Psychic, Psych Up, Pursuit, Screech, Snarl, Snatch, Spite, Sucker Punch, Taunt,
+        Torment, Foul Play, Wonder Room]
     stats:
     - [95, 65, 110, 60, 130, 65]
     tags:
@@ -229,6 +260,10 @@ pokemon:
         Icy Wind, Mimic]
     - rb: [Acid Armor, Aurora Beam, Blizzard, Bubblebeam, Haze, Hydro Pump, Ice Beam,
         Mist, Surf, Water Gun]
+    - xy: [Acid Armor, Aqua Ring, Aqua Tail, Aurora Beam, Blizzard, Brine, Dive, Giga
+          Impact, Hail, Haze, Hydro Pump, Hyper Beam, Ice Beam, Icy Wind, Muddy Water,
+        Roar, Rock Smash, Scald, Signal Beam, Strength, Surf, Waterfall, Water Gun,
+        Water Pulse, Whirlpool]
     stats:
     - [130, 65, 60, 110, 110, 65]
     - gs: [130, 65, 60, 110, 95, 65]

@@ -32,6 +32,15 @@ pokemon:
         Selfdestruct, Sleep Talk, Snore, Splash, Strength, Substitute, Surf, Swagger,
         Thrash, Tickle, Toxic, Water Gun, Water Pulse, Water Spout, Waterfall, Whirlpool,
         Icy Wind, Mimic, Selfdestruct]
+    - xy: [Amnesia, Aqua Ring, Astonish, Attract, Avalanche, Blizzard, Body Slam,
+        Bounce, Brine, Bulldoze, Captivate, Curse, Defense Curl, Dive, Double-Edge,
+        Double Team, Earthquake, Echoed Voice, Endure, Facade, Fissure, Frustration,
+        Growl, Hail, Headbutt, Heavy Slam, Hidden Power, Hydro Pump, Ice Beam, Icy
+          Wind, Mimic, Mist, Natural Gift, Protect, Rain Dance, Rest, Return, Roar,
+        Rock Smash, Rock Tomb, Rollout, Round, Scald, Secret Power, Self-Destruct,
+        Sleep Talk, Snore, Soak, Splash, Strength, Substitute, Surf, Swagger, Thrash,
+        Tickle, Toxic, Waterfall, Water Gun, Water Pulse, Water Spout, Whirlpool,
+        Zen Headbutt, Hyper Voice, Confide, Clear Smog]
     stats:
     - [130, 70, 35, 70, 35, 60]
     tags:
@@ -52,6 +61,7 @@ pokemon:
     - bw: [Block, Giga Impact, Hyper Beam, Iron Head, Icy Wind, Mimic, Selfdestruct]
     - dp: [Block, Giga Impact, Hyper Beam, Iron Head, Icy Wind, Mimic, Selfdestruct]
     - rs: [Hyper Beam, Icy Wind, Mimic, Selfdestruct]
+    - xy: [Block, Giga Impact, Hyper Beam, Iron Head]
     stats:
     - [170, 90, 45, 90, 45, 60]
     tags:

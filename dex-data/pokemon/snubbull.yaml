@@ -15,6 +15,8 @@ pokemon:
     - dp: [Focus Blast, Giga Impact, Hyper Beam, Iron Tail, Rock Climb, Rock Slide,
         Rock Tomb, Stone Edge, Body Slam, Seismic Toss]
     - rs: [Hyper Beam, Iron Tail, Rock Slide, Rock Tomb, Body Slam, Seismic Toss]
+    - xy: [Focus Blast, Giga Impact, Hyper Beam, Iron Tail, Outrage, Rock Climb, Rock
+          Slide, Rock Tomb, Stone Edge]
     stats:
     - [90, 120, 75, 60, 60, 45]
     tags:
@@ -72,6 +74,20 @@ pokemon:
         Substitute, Sunny Day, Swagger, Tackle, Tail Whip, Take Down, Taunt, Thief,
         Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Torment, Toxic, Water Pulse,
         Body Slam, Seismic Toss]
+    - xy: [Attract, Bite, Body Slam, Brick Break, Bulk Up, Bulldoze, Captivate, Charm,
+        Close Combat, Counter, Crunch, Defense Curl, Dig, Double-Edge, Double Team,
+        Dynamic Punch, Earthquake, Endure, Facade, Feint Attack, Fire Blast, Fire
+          Fang, Fire Punch, Flamethrower, Fling, Focus Punch, Frustration, Headbutt,
+        Heal Bell, Hidden Power, Ice Fang, Ice Punch, Incinerate, Last Resort, Lick,
+        Low Kick, Mega Kick, Mega Punch, Metronome, Mimic, Mud-Slap, Natural Gift,
+        Overheat, Payback, Present, Protect, Rage, Rain Dance, Reflect, Rest, Retaliate,
+        Return, Roar, Rock Smash, Round, Scary Face, Secret Power, Seismic Toss, Shadow
+          Ball, Shock Wave, Sleep Talk, Sludge Bomb, Smelling Salts, Snarl, Snore,
+        Solar Beam, Strength, Substitute, Sunny Day, Super Fang, Superpower, Swagger,
+        Tackle, Tail Whip, Take Down, Taunt, Thief, Thunder, Thunderbolt, Thunder
+          Fang, Thunder Punch, Thunder Wave, Torment, Toxic, Water Pulse, Wild Charge,
+        Work Up, Covet, Hyper Voice, Play Rough, Power-Up Punch, Dazzling Gleam, Confide,
+        Fake Tears]
     stats:
     - [60, 80, 50, 40, 40, 30]
     tags:

@@ -14,6 +14,12 @@ pokemon:
           Attack, Rain Dance, Razor Wind, Rest, Return, Roost, Round, Sky Attack,
         Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day, Swagger, Tailwind, Taunt,
         Toxic, U-turn, Uproar, Wish, Work Up]
+    - xy: [Aerial Ace, Air Cutter, Air Slash, Attract, Bestow, Detect, Double Team,
+        Echoed Voice, Facade, Feather Dance, Fly, Frustration, Growl, Gust, Hidden
+          Power, Hypnosis, Leer, Lucky Chant, Morning Sun, Pluck, Protect, Quick Attack,
+        Rain Dance, Razor Wind, Rest, Return, Roost, Round, Sky Attack, Steel Wing,
+        Substitute, Sunny Day, Swagger, Tailwind, Taunt, Toxic, Uproar, U-turn, Wish,
+        Work Up, Snore, Heat Wave, Sleep Talk, Confide, Night Slash]
     stats:
     - [50, 55, 50, 36, 30, 43]
     tags:
@@ -29,6 +35,8 @@ pokemon:
     evolutions: [Unfezant]
     height: [0.6]
     introduction: dp
+    moves:
+    - xy: []
     stats:
     - [62, 77, 62, 50, 42, 65]
     tags:
@@ -45,6 +53,7 @@ pokemon:
     introduction: dp
     moves:
     - bw: [Giga Impact, Hyper Beam, Psych Up]
+    - xy: [Giga Impact, Hyper Beam, Psych Up]
     stats:
     - [80, 105, 80, 65, 55, 93]
     - xy: [80, 115, 80, 65, 55, 93]

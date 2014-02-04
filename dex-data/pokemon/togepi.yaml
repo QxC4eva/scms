@@ -9,6 +9,7 @@ pokemon:
     moves:
     - bw: [Air Slash, Aura Sphere, Extremespeed, Pluck, Sky Attack]
     - dp: [Air Slash, Aura Sphere, Extremespeed, Pluck, Sky Attack]
+    - xy: [Air Slash, Aura Sphere, Extreme Speed, Pluck, Present]
     stats:
     - [85, 50, 95, 120, 115, 80]
     tags:
@@ -64,6 +65,19 @@ pokemon:
         Shadow Ball, Shock Wave, Sleep Talk, Snore, Softboiled, Solarbeam, Substitute,
         Sunny Day, Swagger, Sweet Kiss, Swift, Thunder Wave, Toxic, Water Pulse, Wish,
         Yawn, Helping Hand, Tri Attack]
+    - xy: [After You, Ancient Power, Attract, Baton Pass, Bestow, Body Slam, Captivate,
+        Charm, Counter, Defense Curl, Double-Edge, Double Team, Dream Eater, Echoed
+          Voice, Encore, Endeavor, Endure, Extrasensory, Facade, Fire Blast, Flamethrower,
+        Flash, Fling, Follow Me, Foresight, Frustration, Future Sight, Grass Knot,
+        Growl, Headbutt, Heal Bell, Helping Hand, Hidden Power, Incinerate, Last Resort,
+        Light Screen, Lucky Chant, Magic Coat, Mega Kick, Mega Punch, Metronome, Mimic,
+        Mirror Move, Morning Sun, Mud-Slap, Nasty Plot, Natural Gift, Peck, Present,
+        Protect, Psychic, Psycho Shift, Psych Up, Psyshock, Rain Dance, Reflect, Rest,
+        Return, Rock Smash, Rollout, Round, Safeguard, Secret Power, Seismic Toss,
+        Shadow Ball, Shock Wave, Signal Beam, Sleep Talk, Snore, Soft-Boiled, Solar
+          Beam, Stored Power, Substitute, Sunny Day, Swagger, Sweet Kiss, Swift, Telekinesis,
+        Thunder Wave, Toxic, Tri Attack, Trick, Uproar, Water Pulse, Wish, Work Up,
+        Yawn, Zen Headbutt, Covet, Hyper Voice, Dazzling Gleam, Confide]
     stats:
     - [35, 20, 65, 40, 65, 20]
     tags:
@@ -91,6 +105,9 @@ pokemon:
           Wind, Steel Wing, Tailwind, Twister]
     - rs: [Aerial Ace, Brick Break, Fly, Focus Punch, Hyper Beam, Magical Leaf, Sky
           Attack, Steel Wing]
+    - xy: [Aerial Ace, Air Cutter, Brick Break, Defog, Drain Punch, Fly, Focus Punch,
+        Giga Impact, Heat Wave, Hyper Beam, Magical Leaf, Ominous Wind, Retaliate,
+        Roost, Silver Wind, Sky Attack, Steel Wing, Tailwind, Twister, Fairy Wind]
     stats:
     - [55, 40, 85, 80, 105, 40]
     tags:

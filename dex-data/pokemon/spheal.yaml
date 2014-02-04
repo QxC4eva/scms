@@ -13,6 +13,7 @@ pokemon:
     - bw: [Roar, Double-Edge, Icy Wind, Mimic]
     - dp: [Roar, Double-Edge, Icy Wind, Mimic]
     - rs: [Roar, Double-Edge, Icy Wind, Mimic]
+    - xy: [Roar]
     stats:
     - [90, 60, 70, 75, 70, 45]
     tags:
@@ -55,6 +56,15 @@ pokemon:
           Tomb, Rollout, Secret Power, Sheer Cold, Sleep Talk, Snore, Spit Up, Stockpile,
         Strength, Substitute, Surf, Swagger, Swallow, Toxic, Water Gun, Water Pulse,
         Water Sport, Waterfall, Yawn, Charm, Double-Edge, Icy Wind, Mimic, Mud-Slap]
+    - xy: [Aqua Ring, Aqua Tail, Attract, Aurora Beam, Blizzard, Body Slam, Brine,
+        Bulldoze, Captivate, Charm, Curse, Defense Curl, Dive, Double-Edge, Double
+          Team, Earthquake, Echoed Voice, Encore, Endure, Facade, Fissure, Frost Breath,
+        Frustration, Growl, Hail, Headbutt, Hidden Power, Ice Ball, Ice Beam, Icy
+          Wind, Iron Tail, Mimic, Mud-Slap, Natural Gift, Powder Snow, Protect, Rain
+          Dance, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout, Round,
+        Secret Power, Sheer Cold, Signal Beam, Sleep Talk, Snore, Spit Up, Stockpile,
+        Strength, Substitute, Super Fang, Surf, Swagger, Swallow, Toxic, Waterfall,
+        Water Gun, Water Pulse, Water Sport, Whirlpool, Yawn, Confide, Belly Drum]
     stats:
     - [70, 40, 50, 55, 50, 25]
     tags:
@@ -78,6 +88,8 @@ pokemon:
     - dp: [Avalanche, Block, Crunch, Fury Cutter, Giga Impact, Hyper Beam, Ice Fang,
         Iron Head, Double-Edge, Icy Wind, Mimic]
     - rs: [Hyper Beam, Double-Edge, Icy Wind, Mimic]
+    - xy: [Avalanche, Block, Crunch, Fury Cutter, Giga Impact, Hyper Beam, Ice Fang,
+        Iron Head]
     stats:
     - [110, 80, 90, 95, 90, 65]
     tags:

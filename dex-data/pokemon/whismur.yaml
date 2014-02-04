@@ -14,6 +14,8 @@ pokemon:
           Fang, Outrage, Rock Climb, Surf, Thunder Fang, Whirlpool, Body Slam, Double-Edge,
         Icy Wind, Mimic, Seismic Toss]
     - rs: [Hyper Beam, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+    - xy: [Avalanche, Crunch, Fire Fang, Focus Blast, Giga Impact, Hyper Beam, Ice
+          Fang, Outrage, Rock Climb, Surf, Thunder Fang, Whirlpool, Boomburst]
     stats:
     - [104, 91, 63, 91, 63, 68]
     - xy: [104, 91, 63, 91, 73, 68]
@@ -41,6 +43,8 @@ pokemon:
         Seismic Toss]
     - rs: [Brick Break, Earthquake, Overheat, Rock Slide, Rock Smash, Strength, Taunt,
         Torment, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+    - xy: [Bite, Brick Break, Bulldoze, Earthquake, Low Kick, Overheat, Rock Slide,
+        Rock Smash, Rock Tomb, Smack Down, Strength, Taunt, Torment, Power-Up Punch]
     stats:
     - [84, 71, 43, 71, 43, 48]
     tags:
@@ -83,6 +87,17 @@ pokemon:
         Stomp, Substitute, Sunny Day, Supersonic, Swagger, Take Down, Thunderpunch,
         Toxic, Uproar, Water Pulse, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic
           Toss]
+    - xy: [Astonish, Attract, Blizzard, Body Slam, Captivate, Circle Throw, Counter,
+        Defense Curl, Double-Edge, Double Team, Dynamic Punch, Echoed Voice, Endeavor,
+        Endure, Extrasensory, Facade, Fake Tears, Fire Blast, Fire Punch, Flamethrower,
+        Fling, Frustration, Hammer Arm, Headbutt, Hidden Power, Howl, Hyper Voice,
+        Ice Beam, Ice Punch, Icy Wind, Incinerate, Mega Kick, Mega Punch, Mimic, Mud-Slap,
+        Natural Gift, Pound, Protect, Psych Up, Rain Dance, Rest, Retaliate, Return,
+        Roar, Rollout, Round, Screech, Secret Power, Seismic Toss, Shadow Ball, Shock
+          Wave, Sleep Talk, Smelling Salts, Smokescreen, Snore, Solar Beam, Stomp,
+        Substitute, Sunny Day, Supersonic, Swagger, Synchronoise, Take Down, Teeter
+          Dance, Thunder Punch, Toxic, Uproar, Water Pulse, Work Up, Zen Headbutt,
+        Confide, Disarming Voice]
     stats:
     - [64, 51, 23, 51, 23, 28]
     tags:

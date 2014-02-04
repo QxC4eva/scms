@@ -29,6 +29,18 @@ pokemon:
         Solarbeam, Substitute, Sunny Day, Swagger, Taunt, Teeter Dance, Thief, Thunder,
         Thunder Wave, Thunderbolt, Tickle, Torment, Toxic, Trick, Trick Room, Uproar,
         Wake-Up Slap]
+    - xy: [Attract, Barrier, Baton Pass, Brick Break, Calm Mind, Captivate, Charge
+          Beam, Charm, Confuse Ray, Confusion, Copycat, Double Slap, Double Team,
+        Drain Punch, Dream Eater, Encore, Endure, Facade, Fake Out, Flash, Fling,
+        Focus Punch, Frustration, Future Sight, Grass Knot, Headbutt, Healing Wish,
+        Helping Hand, Hidden Power, Hypnosis, Icy Wind, Light Screen, Magic Coat,
+        Magic Room, Meditate, Mimic, Mud-Slap, Nasty Plot, Natural Gift, Power Split,
+        Protect, Psybeam, Psychic, Psych Up, Psyshock, Rain Dance, Recycle, Reflect,
+        Rest, Return, Role Play, Round, Safeguard, Secret Power, Shadow Ball, Shock
+          Wave, Signal Beam, Skill Swap, Sleep Talk, Snatch, Snore, Solar Beam, Substitute,
+        Sunny Day, Swagger, Taunt, Teeter Dance, Telekinesis, Thief, Thunder, Thunderbolt,
+        Thunder Wave, Tickle, Torment, Toxic, Trick, Trick Room, Uproar, Wake-Up Slap,
+        Covet, Wonder Room, Infestation, Confide]
     stats:
     - [20, 25, 45, 70, 90, 60]
     tags:
@@ -77,6 +89,11 @@ pokemon:
         Metronome, Mimic, Psychic, Psywave, Rage, Reflect, Rest, Seismic Toss, Skull
           Bash, Solarbeam, Submission, Substitute, Take Down, Teleport, Thunder, Thunder
           Wave, Thunderbolt, Toxic]
+    - xy: [Aerial Ace, Body Slam, Counter, Double-Edge, Energy Ball, Fire Punch, Focus
+          Blast, Follow Me, Giga Impact, Guard Swap, Hyper Beam, Ice Punch, Iron Defense,
+        Magical Leaf, Mega Kick, Mega Punch, Metronome, Nightmare, Payback, Power
+          Swap, Psywave, Quick Guard, Seismic Toss, Thunder Punch, Wide Guard, Zen
+          Headbutt, Foul Play, Misty Terrain, Power-Up Punch, Dazzling Gleam]
     stats:
     - [40, 45, 65, 100, 100, 90]
     - gs: [40, 45, 65, 100, 120, 90]

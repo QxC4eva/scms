@@ -13,6 +13,7 @@ pokemon:
     - bw: [Roar, Rock Smash, Strength]
     - dp: [Fury Cutter, Roar, Rock Smash, Strength]
     - rs: [Fury Cutter, Roar, Rock Smash, Strength]
+    - xy: [Fury Cutter, Roar, Rock Smash, Strength]
     stats:
     - [65, 80, 80, 59, 63, 58]
     tags:
@@ -35,6 +36,8 @@ pokemon:
     - dp: [Agility, Avalanche, Dragon Pulse, Earthquake, Focus Blast, Giga Impact,
         Hydro Cannon, Hyper Beam, Outrage, Rock Climb]
     - rs: [Earthquake, Hyper Beam]
+    - xy: [Agility, Avalanche, Bulldoze, Dragon Pulse, Dragon Tail, Earthquake, Focus
+          Blast, Giga Impact, Hydro Cannon, Hyper Beam, Outrage, Rock Climb]
     stats:
     - [85, 105, 100, 79, 83, 78]
     tags:
@@ -85,6 +88,18 @@ pokemon:
         Scary Face, Scratch, Screech, Secret Power, Seismic Toss, Slash, Sleep Talk,
         Snore, Substitute, Surf, Swagger, Swords Dance, Thrash, Toxic, Water Gun,
         Water Pulse, Water Sport, Waterfall]
+    - xy: [Aerial Ace, Ancient Power, Aqua Jet, Aqua Tail, Attract, Bite, Blizzard,
+        Block, Body Slam, Brick Break, Captivate, Chip Away, Counter, Crunch, Cut,
+        Dig, Dive, Double-Edge, Double Team, Dragon Claw, Dragon Dance, Dynamic Punch,
+        Endure, Facade, Fake Tears, Flail, Fling, Focus Punch, Frustration, Hail,
+        Headbutt, Hidden Power, Hone Claws, Hydro Pump, Ice Beam, Ice Fang, Ice Punch,
+        Icy Wind, Iron Tail, Leer, Low Kick, Mega Kick, Mega Punch, Metal Claw, Mimic,
+        Mud-Slap, Mud Sport, Natural Gift, Protect, Rage, Rain Dance, Rest, Return,
+        Rock Slide, Rock Tomb, Round, Scald, Scary Face, Scratch, Screech, Secret
+          Power, Seismic Toss, Shadow Claw, Slash, Sleep Talk, Snore, Spite, Substitute,
+        Superpower, Surf, Swagger, Swords Dance, Thrash, Toxic, Uproar, Waterfall,
+        Water Gun, Water Pledge, Water Pulse, Water Sport, Whirlpool, Power-Up Punch,
+        Confide, Flatter]
     stats:
     - [50, 65, 64, 44, 48, 43]
     tags:

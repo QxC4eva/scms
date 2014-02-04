@@ -46,6 +46,19 @@ pokemon:
         Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger, Swift, Swords
           Dance, Take Down, Taunt, Thief, Thrash, Thunderpunch, Torment, Toxic, Yawn,
         Body Slam, Mimic, Refresh]
+    - xy: [Aerial Ace, Attract, Belly Drum, Body Slam, Brick Break, Bulk Up, Bulldoze,
+        Captivate, Charm, Chip Away, Close Combat, Counter, Covet, Cross Chop, Crunch,
+        Cut, Defense Curl, Dig, Double-Edge, Double Team, Dynamic Punch, Earthquake,
+        Endure, Facade, Feint Attack, Fake Tears, Fire Punch, Fling, Focus Punch,
+        Frustration, Fury Cutter, Fury Swipes, Gunk Shot, Headbutt, Hidden Power,
+        Hone Claws, Ice Punch, Last Resort, Leer, Lick, Mega Kick, Mega Punch, Metal
+          Claw, Metronome, Mimic, Mud-Slap, Natural Gift, Night Slash, Payback, Protect,
+        Rain Dance, Refresh, Rest, Retaliate, Return, Roar, Rock Slide, Rock Smash,
+        Rock Tomb, Rollout, Round, Scratch, Secret Power, Seed Bomb, Seismic Toss,
+        Shadow Claw, Slash, Sleep Talk, Snore, Strength, Substitute, Sunny Day, Superpower,
+        Swagger, Sweet Scent, Swift, Swords Dance, Take Down, Taunt, Thief, Thrash,
+        Thunder Punch, Torment, Toxic, Work Up, Yawn, Hyper Voice, Baby-Doll Eyes,
+        Play Nice, Power-Up Punch, Confide, Play Rough]
     stats:
     - [60, 80, 50, 50, 50, 40]
     tags:
@@ -70,6 +83,8 @@ pokemon:
     - dp: [Avalanche, Focus Blast, Giga Impact, Hammer Arm, Hyper Beam, Low Kick,
         Rock Climb, Scary Face, Stone Edge, Uproar, Body Slam, Mimic]
     - rs: [Hyper Beam, Rock Slide, Rock Tomb, Body Slam, Mimic]
+    - xy: [Avalanche, Focus Blast, Giga Impact, Hammer Arm, Hyper Beam, Low Kick,
+        Rock Climb, Scary Face, Smack Down, Stone Edge, Uproar]
     stats:
     - [90, 130, 75, 75, 75, 55]
     tags:

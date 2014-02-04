@@ -8,6 +8,7 @@ pokemon:
     introduction: bw
     moves:
     - bw: [Giga Impact, Hyper Beam, Thunder]
+    - xy: [Giga Impact, Hyper Beam, Thunder, Sticky Web]
     stats:
     - [70, 77, 60, 97, 60, 108]
     tags:
@@ -32,6 +33,15 @@ pokemon:
         Screech, Signal Beam, Slash, Sleep Talk, Snore, Spider Web, String Shot, Struggle
           Bug, Substitute, Sucker Punch, Swagger, Thief, Thunder Wave, Thunderbolt,
         Toxic, Volt Switch, Wild Charge, X-scissor]
+    - xy: [Agility, Attract, Bug Bite, Bug Buzz, Charge Beam, Cross Poison, Cut, Disable,
+        Discharge, Double Team, Electro Ball, Electroweb, Energy Ball, Facade, Feint
+          Attack, Flash, Frustration, Fury Cutter, Gastro Acid, Hidden Power, Leech
+          Life, Light Screen, Pin Missile, Poison Jab, Poison Sting, Protect, Pursuit,
+        Rain Dance, Rest, Return, Rock Climb, Round, Screech, Signal Beam, Slash,
+        Spider Web, String Shot, Struggle Bug, Substitute, Sucker Punch, Swagger,
+        Thief, Thunderbolt, Thunder Wave, Toxic, Volt Switch, Wild Charge, X-Scissor,
+        Bounce, Magnet Rise, Snore, Giga Drain, Sleep Talk, Infestation, Confide,
+        Camouflage]
     stats:
     - [50, 47, 50, 57, 50, 65]
     tags:

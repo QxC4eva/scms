@@ -15,6 +15,13 @@ pokemon:
         Protect, Psychic, Rest, Return, Round, Safeguard, Signal Beam, Sleep Talk,
         Snore, Solarbeam, String Shot, Struggle Bug, Substitute, Sunny Day, Swagger,
         Take Down, Thrash, Toxic, U-turn, Wild Charge, Will-O-Wisp, Zen Headbutt]
+    - xy: [Acrobatics, Amnesia, Bug Bite, Bug Buzz, Calm Mind, Double-Edge, Double
+          Team, Ember, Endure, Facade, Fire Blast, Flame Charge, Flamethrower, Flame
+          Wheel, Flare Blitz, Foresight, Frustration, Harden, Hidden Power, Incinerate,
+        Leech Life, Light Screen, Magnet Rise, Morning Sun, Overheat, Protect, Psychic,
+        Rest, Return, Round, Safeguard, Solar Beam, String Shot, Struggle Bug, Substitute,
+        Sunny Day, Swagger, Take Down, Thrash, Toxic, U-turn, Wild Charge, Will-O-Wisp,
+        Zen Headbutt, Signal Beam, Snore, Heat Wave, Giga Drain, Sleep Talk, Confide]
     stats:
     - [55, 85, 55, 50, 55, 60]
     tags:
@@ -33,6 +40,9 @@ pokemon:
     - bw: [Aerial Ace, Fiery Dance, Fire Spin, Fly, Giga Impact, Gust, Hurricane,
         Hyper Beam, Poison Jab, Quiver Dance, Rage Powder, Roost, Silver Wind, Tailwind,
         Whirlwind]
+    - xy: [Aerial Ace, Fiery Dance, Fire Spin, Fly, Giga Impact, Gust, Hurricane,
+        Hyper Beam, Poison Jab, Quiver Dance, Rage Powder, Silver Wind, Whirlwind,
+        Tailwind, Roost]
     stats:
     - [85, 60, 65, 135, 105, 100]
     tags:

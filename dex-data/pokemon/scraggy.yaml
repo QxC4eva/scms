@@ -8,6 +8,7 @@ pokemon:
     introduction: bw
     moves:
     - bw: [Giga Impact, Hyper Beam, Outrage, Thief]
+    - xy: [Giga Impact, Hyper Beam, Thief, Outrage]
     stats:
     - [65, 90, 115, 45, 115, 58]
     tags:
@@ -35,6 +36,17 @@ pokemon:
         Sludge Bomb, Smack Down, Snarl, Snatch, Snore, Spite, Stone Edge, Strength,
         Substitute, Sunny Day, Super Fang, Swagger, Taunt, Thunderpunch, Torment,
         Toxic, Work Up, Zen Headbutt]
+    - xy: [Amnesia, Attract, Brick Break, Bulk Up, Chip Away, Counter, Crunch, Detect,
+        Dig, Double Team, Dragon Claw, Dragon Dance, Dragon Tail, Drain Punch, Facade,
+        Feint Attack, Fake Out, Fire Punch, Fling, Focus Blast, Focus Punch, Frustration,
+        Grass Knot, Headbutt, Head Smash, Hidden Power, High Jump Kick, Ice Punch,
+        Incinerate, Leer, Low Kick, Low Sweep, Payback, Poison Jab, Protect, Rain
+          Dance, Rest, Retaliate, Return, Roar, Rock Climb, Rock Slide, Rock Smash,
+        Rock Tomb, Round, Sand Attack, Scary Face, Sludge Bomb, Smack Down, Snarl,
+        Stone Edge, Strength, Substitute, Sunny Day, Swagger, Taunt, Thunder Punch,
+        Torment, Toxic, Work Up, Zen Headbutt, Super Fang, Dual Chop, Iron Head, Foul
+          Play, Iron Defense, Dark Pulse, Dragon Pulse, Iron Tail, Snore, Knock Off,
+        Spite, Snatch, Sleep Talk, Power-Up Punch, Confide, Quick Guard]
     stats:
     - [50, 75, 70, 35, 70, 48]
     tags:

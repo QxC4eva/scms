@@ -15,6 +15,9 @@ pokemon:
         Rock Slide, Rock Tomb, Stone Edge, Strength, Double-Edge, Mimic, Seismic Toss]
     - rs: [Brick Break, Counter, Focus Punch, Hyper Beam, Mega Kick, Mega Punch, Rock
           Tomb, Seismic Toss, Strength, Double-Edge, Mimic, Seismic Toss]
+    - xy: [Brick Break, Fling, Focus Blast, Focus Punch, Giga Impact, Hyper Beam,
+        Mega Kick, Mega Punch, Rock Slide, Rock Tomb, Seismic Toss, Stone Edge, Strength,
+        Thief, Power-Up Punch]
     stats:
     - [95, 85, 85, 65, 65, 35]
     tags:
@@ -63,6 +66,16 @@ pokemon:
         Rock Smash, Rollout, Safeguard, Sandstorm, Secret Power, Slam, Sleep Talk,
         Sludge Bomb, Snore, Spit Up, Stockpile, Substitute, Surf, Swagger, Swallow,
         Tail Whip, Toxic, Water Gun, Water Pulse, Waterfall, Yawn, Double-Edge, Mimic]
+    - xy: [Acid Spray, After You, Amnesia, Ancient Power, Aqua Tail, Attract, Blizzard,
+        Body Slam, Bulldoze, Captivate, Counter, Curse, Defense Curl, Dig, Dive, Double-Edge,
+        Double Kick, Double Team, Dynamic Punch, Earth Power, Earthquake, Encore,
+        Endure, Facade, Flash, Frustration, Hail, Haze, Headbutt, Hidden Power, Ice
+          Beam, Ice Punch, Icy Wind, Iron Tail, Mimic, Mist, Mud Bomb, Muddy Water,
+        Mud Shot, Mud-Slap, Mud Sport, Natural Gift, Protect, Rain Dance, Recover,
+        Rest, Return, Rock Smash, Rollout, Round, Safeguard, Sandstorm, Scald, Secret
+          Power, Slam, Sleep Talk, Sludge Bomb, Sludge Wave, Snore, Spit Up, Stockpile,
+        Substitute, Surf, Swagger, Swallow, Tail Whip, Toxic, Waterfall, Water Gun,
+        Water Pulse, Whirlpool, Yawn, Infestation, Confide, Eerie Impulse, Guard Swap]
     stats:
     - [55, 45, 45, 25, 25, 15]
     tags:

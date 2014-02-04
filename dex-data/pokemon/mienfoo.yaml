@@ -17,6 +17,16 @@ pokemon:
         Reversal, Rock Slide, Rock Smash, Rock Tomb, Role Play, Round, Sleep Talk,
         Smellingsalt, Snore, Stone Edge, Strength, Substitute, Sunny Day, Swagger,
         Swift, Swords Dance, Taunt, Toxic, U-turn, Vital Throw, Work Up]
+    - xy: [Acrobatics, Aerial Ace, Attract, Aura Sphere, Baton Pass, Bounce, Brick
+          Break, Bulk Up, Calm Mind, Detect, Dig, Double Slap, Double Team, Drain
+          Punch, Endure, Facade, Fake Out, Feint, Fling, Focus Blast, Force Palm,
+        Frustration, Grass Knot, Hidden Power, High Jump Kick, Jump Kick, Knock Off,
+        Low Kick, Low Sweep, Meditate, Me First, Payback, Poison Jab, Pound, Protect,
+        Psych Up, Quick Guard, Rain Dance, Reflect, Rest, Retaliate, Return, Reversal,
+        Rock Slide, Rock Smash, Rock Tomb, Round, Smelling Salts, Stone Edge, Strength,
+        Substitute, Sunny Day, Swagger, Swift, Swords Dance, Taunt, Toxic, U-turn,
+        Vital Throw, Work Up, Dual Chop, Snore, Role Play, Helping Hand, Sleep Talk,
+        Power-Up Punch, Confide, Ally Switch]
     stats:
     - [45, 85, 50, 55, 50, 65]
     tags:
@@ -33,6 +43,7 @@ pokemon:
     introduction: bw
     moves:
     - bw: [Giga Impact, Hyper Beam, Wide Guard]
+    - xy: [Giga Impact, Hyper Beam, Wide Guard]
     stats:
     - [65, 125, 60, 95, 60, 105]
     tags:

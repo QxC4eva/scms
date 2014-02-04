@@ -37,6 +37,15 @@ pokemon:
     - rb: [Bide, Double-Edge, Double Team, Flash, Mimic, Rage, Reflect, Rest, Screech,
         Sonicboom, Substitute, Supersonic, Swift, Tackle, Take Down, Teleport, Thunder,
         Thunder Wave, Thunderbolt, Thundershock, Toxic, Agility]
+    - xy: [Charge Beam, Discharge, Double-Edge, Double Team, Electro Ball, Endure,
+        Explosion, Facade, Flash, Flash Cannon, Frustration, Gravity, Gyro Ball, Hidden
+          Power, Iron Defense, Light Screen, Lock-On, Magic Coat, Magnet Bomb, Magnet
+          Rise, Metal Sound, Mimic, Mirror Shot, Natural Gift, Protect, Psych Up,
+        Rain Dance, Recycle, Reflect, Rest, Return, Rollout, Round, Screech, Secret
+          Power, Shock Wave, Signal Beam, Sleep Talk, Snore, Sonic Boom, Spark, Substitute,
+        Sunny Day, Supersonic, Swagger, Swift, Tackle, Thunder, Thunderbolt, Thunder
+          Shock, Thunder Wave, Toxic, Volt Switch, Wild Charge, Zap Cannon, Electroweb,
+        Confide]
     stats:
     - [25, 35, 70, 95, 95, 45]
     - gs: [25, 35, 70, 95, 55, 45]
@@ -63,6 +72,7 @@ pokemon:
         Mimic, Refresh]
     - rs: [Hyper Beam, Tri Attack, Refresh, Double-Edge, Double-Edge, Mimic, Refresh]
     - rb: [Hyper Beam]
+    - xy: [Giga Impact, Hyper Beam, Refresh, Tri Attack, Electric Terrain]
     stats:
     - [50, 60, 95, 120, 120, 70]
     - gs: [50, 60, 95, 120, 70, 70]
@@ -84,6 +94,7 @@ pokemon:
     moves:
     - bw: [Barrier, Iron Head, Mirror Coat]
     - dp: [Barrier, Iron Head, Mirror Coat]
+    - xy: [Barrier, Headbutt, Iron Head, Mirror Coat, Magnetic Flux]
     stats:
     - [70, 70, 115, 130, 90, 60]
     tags:

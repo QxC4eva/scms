@@ -36,6 +36,14 @@ pokemon:
     - rb: [Agility, Bide, Blizzard, Bubblebeam, Double-Edge, Double Team, Fury Attack,
         Horn Attack, Horn Drill, Ice Beam, Mimic, Peck, Rage, Rest, Skull Bash, Substitute,
         Supersonic, Surf, Swift, Tail Whip, Take Down, Toxic, Water Gun, Waterfall]
+    - xy: [Agility, Aqua Ring, Aqua Tail, Attract, Blizzard, Body Slam, Bounce, Captivate,
+        Dive, Double-Edge, Double Team, Endure, Facade, Flail, Frustration, Fury Attack,
+        Fury Cutter, Hail, Haze, Hidden Power, Horn Attack, Horn Drill, Hydro Pump,
+        Ice Beam, Icy Wind, Knock Off, Megahorn, Mimic, Mud Shot, Mud-Slap, Mud Sport,
+        Natural Gift, Peck, Poison Jab, Protect, Psybeam, Rain Dance, Rest, Return,
+        Round, Scald, Secret Power, Signal Beam, Skull Bash, Sleep Talk, Snore, Soak,
+        Substitute, Supersonic, Surf, Swagger, Swift, Tail Whip, Toxic, Waterfall,
+        Water Pulse, Water Sport, Whirlpool, Drill Run, Confide]
     stats:
     - [45, 67, 60, 50, 50, 63]
     - gs: [45, 67, 60, 35, 50, 63]
@@ -59,6 +67,7 @@ pokemon:
     - dp: [Giga Impact, Hyper Beam, Double-Edge, Icy Wind, Mimic]
     - rs: [Hyper Beam, Double-Edge, Icy Wind, Mimic]
     - rb: [Hyper Beam]
+    - xy: [Giga Impact, Hyper Beam]
     stats:
     - [80, 92, 65, 80, 80, 68]
     - gs: [80, 92, 65, 65, 80, 68]

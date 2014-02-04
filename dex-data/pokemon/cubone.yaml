@@ -51,6 +51,19 @@ pokemon:
         Growl, Headbutt, Ice Beam, Leer, Mega Kick, Mega Punch, Mimic, Rage, Rest,
         Seismic Toss, Skull Bash, Strength, Submission, Substitute, Tail Whip, Take
           Down, Thrash, Toxic, Water Gun]
+    - xy: [Aerial Ace, Ancient Power, Attract, Belly Drum, Blizzard, Body Slam, Bone
+          Club, Bonemerang, Bone Rush, Brick Break, Bulldoze, Captivate, Chip Away,
+        Counter, Detect, Dig, Double-Edge, Double Kick, Double Team, Dynamic Punch,
+        Earth Power, Earthquake, Echoed Voice, Endeavor, Endure, Facade, False Swipe,
+        Fire Blast, Fire Punch, Flamethrower, Fling, Focus Energy, Focus Punch, Frustration,
+        Fury Cutter, Growl, Headbutt, Hidden Power, Ice Beam, Icy Wind, Incinerate,
+        Iron Defense, Iron Head, Iron Tail, Knock Off, Leer, Low Kick, Mega Kick,
+        Mega Punch, Mimic, Mud-Slap, Natural Gift, Perish Song, Protect, Rage, Rest,
+        Retaliate, Return, Rock Climb, Rock Slide, Rock Smash, Rock Tomb, Round, Sandstorm,
+        Screech, Secret Power, Seismic Toss, Skull Bash, Sleep Talk, Smack Down, Snore,
+        Stealth Rock, Strength, Substitute, Sunny Day, Swagger, Swords Dance, Tail
+          Whip, Thief, Thrash, Thunder Punch, Toxic, Uproar, Power-Up Punch, Confide,
+        Play Rough]
     stats:
     - [50, 50, 95, 40, 40, 35]
     - gs: [50, 50, 95, 40, 50, 35]
@@ -76,6 +89,7 @@ pokemon:
         Icy Wind, Mimic, Seismic Toss, Sing]
     - rs: [Hyper Beam, Sing, Body Slam, Icy Wind, Mimic, Seismic Toss, Sing]
     - rb: [Hyper Beam]
+    - xy: [Focus Blast, Giga Impact, Hyper Beam, Outrage, Sing, Stone Edge]
     stats:
     - [60, 80, 110, 50, 50, 45]
     - gs: [60, 80, 110, 50, 80, 45]

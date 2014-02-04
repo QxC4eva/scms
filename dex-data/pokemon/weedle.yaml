@@ -36,6 +36,16 @@ pokemon:
     - rb: [Agility, Bide, Cut, Double-Edge, Double Team, Focus Energy, Fury Attack,
         Hyper Beam, Mega Drain, Mimic, Pin Missile, Rage, Reflect, Rest, Skull Bash,
         Substitute, Swift, Swords Dance, Take Down, Toxic, Twineedle]
+    - xy: [Acrobatics, Aerial Ace, Agility, Air Cutter, Assurance, Attract, Baton
+          Pass, Brick Break, Captivate, Cut, Defog, Double-Edge, Double Team, Endeavor,
+        Endure, Facade, False Swipe, Flash, Focus Energy, Frustration, Fury Attack,
+        Fury Cutter, Giga Drain, Giga Impact, Hidden Power, Hyper Beam, Knock Off,
+        Mimic, Natural Gift, Ominous Wind, Payback, Pin Missile, Poison Jab, Protect,
+        Pursuit, Rage, Rest, Return, Rock Smash, Roost, Round, Secret Power, Silver
+          Wind, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Struggle Bug, Substitute,
+        Sunny Day, Swagger, Swift, Swords Dance, Tailwind, Thief, Toxic, Toxic Spikes,
+        Twineedle, U-turn, Venoshock, X-Scissor, Drill Run, Fell Stinger, Infestation,
+        Confide]
     stats:
     - [65, 80, 40, 45, 45, 75]
     - gs: [65, 80, 40, 45, 80, 75]
@@ -60,6 +70,7 @@ pokemon:
     - dp: [Harden, Iron Defense]
     - rs: [Harden]
     - rb: [Harden]
+    - xy: [Harden, Iron Defense]
     stats:
     - [45, 25, 50, 25, 25, 35]
     - gs: [45, 25, 50, 25, 25, 35]
@@ -83,6 +94,7 @@ pokemon:
     - dp: [Bug Bite, Poison Sting, String Shot]
     - rs: [Poison Sting, String Shot]
     - rb: [Poison Sting, String Shot]
+    - xy: [Bug Bite, Poison Sting, String Shot, Electroweb]
     stats:
     - [40, 35, 30, 20, 20, 50]
     - gs: [40, 35, 30, 20, 20, 50]

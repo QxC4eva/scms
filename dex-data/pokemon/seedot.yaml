@@ -20,6 +20,10 @@ pokemon:
     - rs: [Brick Break, Cut, Extrasensory, Faint Attack, Fake Out, Fury Cutter, Hyper
           Beam, Mega Kick, Mud-Slap, Pound, Psych Up, Rock Tomb, Strength, Swift,
         Thief, Torment, Body Slam, Double-Edge, Mimic, Selfdestruct]
+    - xy: [Brick Break, Cut, Dark Pulse, Embargo, Extrasensory, Feint Attack, Fake
+          Out, Fling, Fury Cutter, Hyper Beam, Low Kick, Low Sweep, Mega Kick, Mud-Slap,
+        Payback, Pound, Psych Up, Razor Leaf, Rock Slide, Rock Tomb, Snarl, Strength,
+        Swift, Thief, Torment, Power-Up Punch]
     stats:
     - [70, 70, 40, 60, 40, 60]
     tags:
@@ -60,6 +64,15 @@ pokemon:
         Selfdestruct, Shadow Ball, Sleep Talk, Snore, Solarbeam, Substitute, Sunny
           Day, Swagger, Swords Dance, Synthesis, Take Down, Toxic, Body Slam, Double-Edge,
         Giga Drain, Mimic, Refresh, Secret Power, Selfdestruct]
+    - xy: [Amnesia, Attract, Beat Up, Bide, Body Slam, Bullet Seed, Captivate, Defense
+          Curl, Defog, Dig, Double-Edge, Double Team, Endure, Energy Ball, Explosion,
+        Facade, False Swipe, Flash, Foul Play, Frustration, Giga Drain, Grass Knot,
+        Growth, Harden, Headbutt, Hidden Power, Leech Seed, Mimic, Nasty Plot, Natural
+          Gift, Nature Power, Power Swap, Protect, Quick Attack, Razor Wind, Refresh,
+        Rest, Retaliate, Return, Rock Smash, Rollout, Round, Secret Power, Seed Bomb,
+        Self-Destruct, Shadow Ball, Sleep Talk, Snore, Solar Beam, Spite, Substitute,
+        Sunny Day, Swagger, Swords Dance, Synthesis, Take Down, Toxic, Worry Seed,
+        Confide, Grassy Terrain]
     stats:
     - [40, 40, 50, 30, 30, 30]
     tags:
@@ -84,6 +97,9 @@ pokemon:
         Knock Off, Leaf Storm, Ominous Wind, Silver Wind, Sucker Punch, Tailwind,
         Twister, Whirlwind, X-scissor, Body Slam, Double-Edge, Mimic, Selfdestruct]
     - rs: [Aerial Ace, Body Slam, Double-Edge, Mimic, Selfdestruct]
+    - xy: [Aerial Ace, Air Cutter, Bounce, Defog, Focus Blast, Giga Impact, Icy Wind,
+        Knock Off, Leaf Storm, Leaf Tornado, Nasty Plot, Ominous Wind, Silver Wind,
+        Sucker Punch, Tailwind, Twister, Whirlwind, X-Scissor]
     stats:
     - [90, 100, 60, 90, 60, 80]
     tags:

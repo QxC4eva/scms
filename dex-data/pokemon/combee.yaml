@@ -11,6 +11,8 @@ pokemon:
     - bw: [Bug Bite, Bug Buzz, Endeavor, Gust, Snore, Sweet Scent, Tailwind]
     - dp: [Air Cutter, Bug Bite, Endeavor, Gust, Mud-Slap, Ominous Wind, Snore, String
           Shot, Sweet Scent, Swift, Tailwind]
+    - xy: [Air Cutter, Bug Bite, Bug Buzz, Endeavor, Gust, Mud-Slap, Ominous Wind,
+        Snore, String Shot, Sweet Scent, Swift, Tailwind]
     stats:
     - [30, 30, 42, 30, 42, 70]
     tags:
@@ -39,6 +41,14 @@ pokemon:
         Natural Gift, Poison Sting, Power Gem, Protect, Pursuit, Rain Dance, Rest,
         Return, Roost, Secret Power, Signal Beam, Silver Wind, Slash, Sleep Talk,
         Sludge Bomb, Substitute, Sunny Day, Swagger, Thief, Toxic, U-turn, X-scissor]
+    - xy: [Acrobatics, Aerial Ace, Air Slash, Attack Order, Attract, Captivate, Confuse
+          Ray, Cut, Defend Order, Defog, Destiny Bond, Double Team, Endure, Facade,
+        Flash, Fling, Frustration, Fury Cutter, Fury Swipes, Giga Impact, Heal Order,
+        Hidden Power, Hone Claws, Hyper Beam, Natural Gift, Poison Sting, Power Gem,
+        Protect, Pursuit, Quash, Rain Dance, Rest, Return, Roost, Round, Secret Power,
+        Signal Beam, Silver Wind, Slash, Sleep Talk, Sludge Bomb, Struggle Bug, Substitute,
+        Sunny Day, Swagger, Thief, Toxic, U-turn, Venoshock, X-Scissor, Fell Stinger,
+        Infestation, Confide]
     stats:
     - [70, 80, 102, 80, 102, 40]
     tags:

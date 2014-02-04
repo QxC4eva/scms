@@ -29,6 +29,13 @@ pokemon:
         Protect, Rest, Return, Sand-Attack, Sandstorm, Scratch, Secret Power, Shadow
           Ball, Silver Wind, Sleep Talk, Snore, Solarbeam, Substitute, Sunny Day,
         Swagger, Toxic, Double-Edge, Mimic]
+    - xy: [Aerial Ace, Bug Bite, Bug Buzz, Cut, Dig, Double-Edge, Double Team, Endure,
+        Facade, Feint Attack, False Swipe, Final Gambit, Flash, Frustration, Fury
+          Cutter, Fury Swipes, Giga Drain, Gust, Harden, Hidden Power, Hone Claws,
+        Leech Life, Metal Claw, Mimic, Mind Reader, Mud-Slap, Natural Gift, Night
+          Slash, Protect, Rest, Return, Round, Sand Attack, Sandstorm, Scratch, Secret
+          Power, Shadow Ball, Silver Wind, Sleep Talk, Snore, Solar Beam, Spite, String
+          Shot, Struggle Bug, Substitute, Sunny Day, Swagger, Toxic, X-Scissor, Confide]
     stats:
     - [31, 45, 90, 30, 30, 40]
     tags:
@@ -53,6 +60,9 @@ pokemon:
         U-turn, Uproar, Double-Edge, Mimic]
     - rs: [Agility, Attract, Baton Pass, Hyper Beam, Screech, Slash, Swift, Swords
           Dance, Thief, Double-Edge, Mimic]
+    - xy: [Agility, Air Cutter, Attract, Baton Pass, Captivate, Defog, Giga Impact,
+        Hyper Beam, Ominous Wind, Roost, Screech, Slash, Swift, Swords Dance, Thief,
+        Uproar, U-turn]
     stats:
     - [61, 90, 45, 50, 50, 160]
     tags:
@@ -77,6 +87,10 @@ pokemon:
         Sucker Punch, Trick, Will-O-Wisp, Double-Edge, Dream Eater, Mimic, Nightmare]
     - rs: [Confuse Ray, Dream Eater, Grudge, Nightmare, Spite, Double-Edge, Dream
           Eater, Mimic, Nightmare]
+    - xy: [Agility, Baton Pass, Confuse Ray, Dream Eater, Giga Impact, Grudge, Heal
+          Block, Hyper Beam, Nightmare, Screech, Shadow Claw, Shadow Sneak, Slash,
+        Sucker Punch, Swords Dance, Telekinesis, Thief, Trick, Will-O-Wisp, Phantom
+          Force]
     stats:
     - [1, 90, 45, 30, 30, 40]
     tags:

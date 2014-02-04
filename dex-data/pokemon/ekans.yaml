@@ -14,6 +14,8 @@ pokemon:
     - dp: [Crunch, Fire Fang, Giga Impact, Hyper Beam, Ice Fang, Thunder Fang]
     - rs: [Hyper Beam]
     - rb: [Hyper Beam]
+    - xy: [Crunch, Dragon Tail, Fire Fang, Giga Impact, Hyper Beam, Ice Fang, Refresh,
+        Thunder Fang]
     stats:
     - [60, 85, 69, 65, 65, 80]
     - gs: [60, 85, 69, 65, 79, 80]
@@ -63,6 +65,16 @@ pokemon:
     - rb: [Acid, Bide, Bite, Body Slam, Dig, Double-Edge, Double Team, Earthquake,
         Fissure, Glare, Leer, Mega Drain, Mimic, Poison Sting, Rage, Rest, Rock Slide,
         Screech, Skull Bash, Strength, Substitute, Take Down, Toxic, Wrap]
+    - xy: [Acid, Acid Spray, Aqua Tail, Attract, Beat Up, Bite, Body Slam, Bulldoze,
+        Captivate, Coil, Dark Pulse, Dig, Disable, Double-Edge, Double Team, Earthquake,
+        Endure, Facade, Frustration, Gastro Acid, Giga Drain, Glare, Gunk Shot, Haze,
+        Headbutt, Hidden Power, Iron Tail, Leer, Mimic, Mud Bomb, Natural Gift, Payback,
+        Poison Fang, Poison Jab, Poison Sting, Poison Tail, Protect, Pursuit, Rain
+          Dance, Rest, Return, Rock Slide, Rock Tomb, Round, Scary Face, Screech,
+        Secret Power, Seed Bomb, Slam, Sleep Talk, Sludge Bomb, Sludge Wave, Snatch,
+        Snore, Spite, Spit Up, Stockpile, Strength, Substitute, Sucker Punch, Sunny
+          Day, Swagger, Swallow, Switcheroo, Thief, Torment, Toxic, Venoshock, Wrap,
+        Bind, Belch, Infestation, Confide]
     stats:
     - [35, 60, 44, 40, 40, 55]
     - gs: [35, 60, 44, 40, 54, 55]

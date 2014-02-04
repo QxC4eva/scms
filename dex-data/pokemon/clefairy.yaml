@@ -14,6 +14,7 @@ pokemon:
     - dp: [Focus Blast, Giga Impact, Hyper Beam]
     - rs: [Hyper Beam]
     - rb: [Hyper Beam]
+    - xy: [Focus Blast, Giga Impact, Hyper Beam]
     stats:
     - [95, 70, 73, 85, 85, 60]
     - gs: [95, 70, 73, 85, 90, 60]
@@ -61,6 +62,12 @@ pokemon:
         Rage, Reflect, Rest, Seismic Toss, Sing, Skull Bash, Solarbeam, Strength,
         Submission, Substitute, Take Down, Teleport, Thunder, Thunder Wave, Thunderbolt,
         Toxic, Tri Attack, Water Gun, Dizzy Punch, Scary Face, Swift, Petal Dance]
+    - xy: [Bestow, Blizzard, Bounce, Brick Break, Calm Mind, Charge Beam, Cosmic Power,
+        Double Slap, Drain Punch, Dynamic Punch, Fire Punch, Focus Punch, Follow Me,
+        Growl, Heal Bell, Healing Wish, Ice Beam, Ice Punch, Knock Off, Lucky Chant,
+        Meteor Mash, Minimize, Moonlight, Retaliate, Rock Smash, Snatch, Stealth Rock,
+        Strength, Thunder, Thunderbolt, Thunder Punch, Wake-Up Slap, Disarming Voice,
+        Moonblast, Power-Up Punch, Dazzling Gleam]
     stats:
     - [70, 45, 48, 60, 60, 35]
     - gs: [70, 45, 48, 60, 65, 35]
@@ -115,6 +122,19 @@ pokemon:
         Rest, Return, Rollout, Safeguard, Secret Power, Seismic Toss, Shadow Ball,
         Shock Wave, Sing, Sleep Talk, Snore, Softboiled, Solarbeam, Splash, Substitute,
         Sunny Day, Swagger, Sweet Kiss, Thunder Wave, Toxic, Water Pulse, Wish]
+    - xy: [Amnesia, Aromatherapy, Attract, Belly Drum, Body Slam, Captivate, Charm,
+        Copycat, Counter, Covet, Defense Curl, Dig, Double-Edge, Double Team, Dream
+          Eater, Echoed Voice, Encore, Endeavor, Endure, Facade, Fake Tears, Fire
+          Blast, Flamethrower, Flash, Fling, Frustration, Grass Knot, Gravity, Headbutt,
+        Helping Hand, Hidden Power, Icy Wind, Incinerate, Iron Tail, Last Resort,
+        Light Screen, Magical Leaf, Magic Coat, Mega Kick, Mega Punch, Metronome,
+        Mimic, Mud-Slap, Natural Gift, Nightmare, Pound, Present, Protect, Psychic,
+        Psych Up, Psyshock, Rain Dance, Recycle, Reflect, Rest, Return, Role Play,
+        Rollout, Round, Safeguard, Secret Power, Seismic Toss, Shadow Ball, Shock
+          Wave, Signal Beam, Sing, Sleep Talk, Snore, Soft-Boiled, Solar Beam, Splash,
+        Stored Power, Substitute, Sunny Day, Swagger, Sweet Kiss, Telekinesis, Thunder
+          Wave, Tickle, Toxic, Trick, Uproar, Water Pulse, Wish, Work Up, Zen Headbutt,
+        Hyper Voice, After You, Wonder Room, Confide, Heal Pulse, Misty Terrain]
     stats:
     - [50, 25, 28, 45, 55, 15]
     tags:

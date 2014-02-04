@@ -39,6 +39,15 @@ pokemon:
           Drain, Mimic, Poisonpowder, Psybeam, Psychic, Psywave, Rage, Razor Wind,
         Reflect, Rest, Sleep Powder, Solarbeam, Stun Spore, Substitute, Supersonic,
         Swift, Take Down, Teleport, Toxic, Whirlwind]
+    - xy: [Acrobatics, Aerial Ace, Air Cutter, Attract, Bug Buzz, Captivate, Confusion,
+        Defog, Double-Edge, Double Team, Dream Eater, Endure, Energy Ball, Facade,
+        Flash, Frustration, Giga Drain, Giga Impact, Gust, Hidden Power, Hyper Beam,
+        Mimic, Morning Sun, Natural Gift, Nightmare, Ominous Wind, Poison Powder,
+        Protect, Psybeam, Psychic, Psych Up, Quiver Dance, Rage Powder, Rain Dance,
+        Rest, Return, Roost, Round, Safeguard, Secret Power, Shadow Ball, Signal Beam,
+        Silver Wind, Skill Swap, Sleep Powder, Sleep Talk, Snore, Solar Beam, Struggle
+          Bug, Stun Spore, Substitute, Sunny Day, Supersonic, Swagger, Swift, Tailwind,
+        Thief, Toxic, Twister, U-turn, Venoshock, Whirlwind, Infestation, Confide]
     stats:
     - [60, 45, 50, 80, 80, 70]
     - gs: [60, 45, 50, 80, 80, 70]
@@ -64,6 +73,7 @@ pokemon:
     - dp: [Bug Bite, Snore, String Shot, Tackle]
     - rs: [String Shot, Tackle]
     - rb: [String Shot, Tackle]
+    - xy: [Bug Bite, Snore, String Shot, Tackle, Electroweb]
     stats:
     - [45, 30, 35, 20, 20, 45]
     - gs: [45, 30, 35, 20, 20, 45]
@@ -87,6 +97,7 @@ pokemon:
     - dp: [Harden, Iron Defense]
     - rs: [Harden]
     - rb: [Harden]
+    - xy: [Harden, Iron Defense]
     stats:
     - [50, 20, 55, 25, 25, 30]
     - gs: [50, 20, 55, 25, 25, 30]

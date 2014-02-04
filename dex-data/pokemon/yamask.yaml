@@ -8,6 +8,7 @@ pokemon:
     introduction: bw
     moves:
     - bw: [Giga Impact, Grass Knot, Hyper Beam, Scary Face]
+    - xy: [Giga Impact, Grass Knot, Hyper Beam, Scary Face]
     stats:
     - [58, 50, 145, 95, 105, 30]
     tags:
@@ -33,6 +34,15 @@ pokemon:
         Round, Safeguard, Shadow Ball, Skill Swap, Sleep Talk, Snatch, Snore, Spite,
         Substitute, Swagger, Telekinesis, Thief, Toxic, Trick, Trick Room, Will-O-Wisp,
         Wonder Room]
+    - xy: [Astonish, Attract, Calm Mind, Curse, Destiny Bond, Disable, Double Team,
+        Dream Eater, Embargo, Endure, Energy Ball, Facade, Fake Tears, Flash, Frustration,
+        Grudge, Guard Split, Haze, Heal Block, Hex, Hidden Power, Imprison, Mean Look,
+        Memento, Nasty Plot, Nightmare, Night Shade, Ominous Wind, Payback, Power
+          Split, Protect, Psychic, Psych Up, Rain Dance, Rest, Return, Round, Safeguard,
+        Shadow Ball, Substitute, Swagger, Telekinesis, Thief, Toxic, Trick Room, Will-O-Wisp,
+        Magic Coat, Block, Iron Defense, Dark Pulse, Snore, Knock Off, Role Play,
+        Pain Split, Spite, After You, Trick, Wonder Room, Snatch, Sleep Talk, Skill
+          Swap, Infestation, Confide, Toxic Spikes, Ally Switch]
     stats:
     - [38, 30, 85, 55, 65, 30]
     tags:

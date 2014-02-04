@@ -31,6 +31,16 @@ pokemon:
         Return, Rock Blast, Rock Slide, Rock Smash, Rock Tomb, Sandstorm, Scratch,
         Secret Power, Slash, Sleep Talk, Snore, Substitute, Sunny Day, Swagger, Swords
           Dance, Toxic, Water Gun, Water Pulse]
+    - xy: [Aerial Ace, Ancient Power, Attract, Body Slam, Brick Break, Captivate,
+        Cross Poison, Crush Claw, Curse, Cut, Dig, Double-Edge, Double Team, Earth
+          Power, Endure, Facade, False Swipe, Frustration, Fury Cutter, Harden, Headbutt,
+        Hidden Power, Hone Claws, Iron Defense, Knock Off, Metal Claw, Mimic, Mud-Slap,
+        Mud Sport, Natural Gift, Protect, Rapid Spin, Rest, Return, Rock Blast, Rock
+          Polish, Rock Slide, Rock Smash, Rock Tomb, Round, Sand Attack, Sandstorm,
+        Scratch, Screech, Secret Power, Slash, Sleep Talk, Smack Down, Snore, Stealth
+          Rock, String Shot, Struggle Bug, Substitute, Sunny Day, Swagger, Swords
+          Dance, Toxic, Water Gun, Water Pulse, X-Scissor, Bug Bite, Confide, Aqua
+          Jet]
     stats:
     - [45, 95, 50, 40, 50, 75]
     tags:
@@ -53,6 +63,8 @@ pokemon:
     - dp: [Aqua Tail, Block, Earthquake, Flash Cannon, Giga Impact, Hyper Beam, Iron
           Tail, Low Kick, Stone Edge, Strength, Superpower]
     - rs: [Earthquake, Hyper Beam, Iron Tail, Seismic Toss, Strength]
+    - xy: [Aqua Tail, Block, Bulldoze, Earthquake, Flash Cannon, Giga Impact, Hyper
+          Beam, Iron Tail, Low Kick, Seismic Toss, Stone Edge, Strength, Superpower]
     stats:
     - [75, 125, 100, 70, 80, 45]
     tags:

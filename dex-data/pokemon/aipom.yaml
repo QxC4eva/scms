@@ -48,6 +48,20 @@ pokemon:
         Spite, Strength, Substitute, Sunny Day, Swagger, Swift, Tail Whip, Taunt,
         Thief, Thunder, Thunder Wave, Thunderbolt, Thunderpunch, Tickle, Toxic, Water
           Pulse]
+    - xy: [Acrobatics, Aerial Ace, Agility, Astonish, Attract, Baton Pass, Beat Up,
+        Body Slam, Bounce, Brick Break, Captivate, Counter, Covet, Cut, Defense Curl,
+        Dig, Double-Edge, Double Hit, Double Slap, Double Team, Dream Eater, Dynamic
+          Punch, Endure, Facade, Fake Out, Fire Punch, Fling, Focus Punch, Frustration,
+        Fury Cutter, Fury Swipes, Grass Knot, Gunk Shot, Headbutt, Hidden Power, Hone
+          Claws, Ice Punch, Iron Tail, Knock Off, Last Resort, Low Kick, Low Sweep,
+        Mega Kick, Mega Punch, Metronome, Mimic, Mud-Slap, Nasty Plot, Natural Gift,
+        Nightmare, Payback, Protect, Pursuit, Rain Dance, Rest, Retaliate, Return,
+        Revenge, Rock Smash, Role Play, Round, Sand Attack, Scratch, Screech, Secret
+          Power, Seed Bomb, Seismic Toss, Shadow Ball, Shadow Claw, Shock Wave, Slam,
+        Sleep Talk, Snatch, Snore, Solar Beam, Spite, Strength, Substitute, Sunny
+          Day, Swagger, Swift, Switcheroo, Tail Whip, Taunt, Thief, Thunder, Thunderbolt,
+        Thunder Punch, Thunder Wave, Tickle, Toxic, Uproar, U-turn, Water Pulse, Work
+          Up, Foul Play, Power-Up Punch, Confide, Quick Guard]
     stats:
     - [55, 70, 55, 40, 55, 85]
     tags:
@@ -67,6 +81,7 @@ pokemon:
     moves:
     - bw: [Giga Impact, Hyper Beam]
     - dp: [Giga Impact, Hyper Beam]
+    - xy: [Giga Impact, Hyper Beam]
     stats:
     - [75, 100, 66, 60, 66, 115]
     tags:

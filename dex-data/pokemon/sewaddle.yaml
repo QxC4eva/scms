@@ -10,6 +10,10 @@ pokemon:
     - bw: [Aerial Ace, Entrainment, False Swipe, Giga Impact, Heal Bell, Helping Hand,
         Hone Claws, Hyper Beam, Knock Off, Leaf Blade, Leaf Storm, Poison Jab, Reflect,
         Retaliate, Shadow Claw, Slash, Swords Dance, X-scissor]
+    - xy: [Aerial Ace, Entrainment, False Swipe, Giga Impact, Helping Hand, Hone Claws,
+        Hyper Beam, Leaf Blade, Leaf Storm, Poison Jab, Reflect, Retaliate, Shadow
+          Claw, Slash, Swords Dance, X-Scissor, Knock Off, Heal Bell, Fell Stinger,
+        Steel Wing]
     stats:
     - [75, 103, 80, 70, 70, 92]
     - xy: [75, 103, 80, 70, 80, 92]
@@ -34,6 +38,14 @@ pokemon:
         Razor Leaf, Razor Wind, Rest, Return, Round, Safeguard, Screech, Seed Bomb,
         Signal Beam, Silver Wind, Sleep Talk, Snore, Solarbeam, String Shot, Struggle
           Bug, Substitute, Sunny Day, Swagger, Synthesis, Tackle, Toxic, Worry Seed]
+    - xy: [Agility, Air Slash, Attract, Baton Pass, Bug Bite, Bug Buzz, Calm Mind,
+        Camouflage, Cut, Double Team, Dream Eater, Endure, Energy Ball, Facade, Flail,
+        Flash, Frustration, Grass Knot, Hidden Power, Light Screen, Me First, Mind
+          Reader, Payback, Protect, Razor Leaf, Razor Wind, Rest, Return, Round, Safeguard,
+        Screech, Silver Wind, Solar Beam, String Shot, Struggle Bug, Substitute, Sunny
+          Day, Swagger, Tackle, Toxic, Signal Beam, Seed Bomb, Magic Coat, Iron Defense,
+        Electroweb, Snore, Synthesis, Giga Drain, Worry Seed, Sleep Talk, Sticky Web,
+        Nature Power, Confide]
     stats:
     - [45, 53, 70, 40, 60, 42]
     tags:
@@ -51,6 +63,7 @@ pokemon:
     introduction: bw
     moves:
     - bw: [Grasswhistle]
+    - xy: [Grass Whistle]
     stats:
     - [55, 63, 90, 50, 80, 42]
     tags:

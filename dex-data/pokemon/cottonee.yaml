@@ -15,6 +15,14 @@ pokemon:
         Protect, Razor Leaf, Rest, Return, Round, Safeguard, Seed Bomb, Sleep Talk,
         Snore, Solarbeam, Stun Spore, Substitute, Sunny Day, Swagger, Switcheroo,
         Tailwind, Taunt, Tickle, Toxic, Worry Seed]
+    - xy: [Absorb, Attract, Beat Up, Charm, Cotton Guard, Cotton Spore, Double Team,
+        Dream Eater, Encore, Endeavor, Energy Ball, Facade, Fake Tears, Flash, Frustration,
+        Giga Drain, Grass Knot, Grass Whistle, Growth, Helping Hand, Hidden Power,
+        Leech Seed, Mega Drain, Memento, Natural Gift, Poison Powder, Protect, Razor
+          Leaf, Rest, Return, Round, Safeguard, Solar Beam, Stun Spore, Substitute,
+        Sunny Day, Swagger, Switcheroo, Taunt, Tickle, Toxic, Worry Seed, Covet, Seed
+          Bomb, Snore, Knock Off, Tailwind, Sleep Talk, Fairy Wind, Nature Power,
+        Dazzling Gleam, Confide, Captivate]
     stats:
     - [40, 27, 60, 37, 50, 66]
     tags:
@@ -33,6 +41,8 @@ pokemon:
     moves:
     - bw: [Fling, Giga Impact, Gust, Hurricane, Hyper Beam, Light Screen, Psychic,
         Shadow Ball, Thief, Trick Room, U-turn]
+    - xy: [Fling, Giga Impact, Gust, Hurricane, Hyper Beam, Light Screen, Psychic,
+        Shadow Ball, Thief, Trick Room, U-turn, Moonblast]
     stats:
     - [60, 67, 85, 77, 75, 116]
     tags:

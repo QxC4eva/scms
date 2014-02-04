@@ -7,6 +7,8 @@ pokemon:
     evolutions: [Samurott]
     height: [0.8]
     introduction: dp
+    moves:
+    - xy: []
     stats:
     - [75, 75, 60, 83, 60, 60]
     tags:
@@ -31,6 +33,14 @@ pokemon:
         Rock Smash, Round, Scald, Screech, Sleep Talk, Snore, Substitute, Surf, Swagger,
         Swords Dance, Tackle, Tail Whip, Taunt, Toxic, Trump Card, Water Gun, Water
           Pledge, Water Pulse, Water Sport, Waterfall, X-scissor]
+    - xy: [Aerial Ace, Air Slash, Aqua Jet, Aqua Tail, Assurance, Attract, Blizzard,
+        Brine, Copycat, Cut, Detect, Dig, Dive, Double Team, Encore, Facade, False
+          Swipe, Fling, Focus Energy, Frustration, Fury Cutter, Grass Knot, Hail,
+        Hidden Power, Hydro Pump, Ice Beam, Night Slash, Protect, Rain Dance, Razor
+          Shell, Rest, Retaliate, Return, Revenge, Rock Smash, Round, Scald, Screech,
+        Substitute, Surf, Swagger, Swords Dance, Tackle, Tail Whip, Taunt, Toxic,
+        Trump Card, Waterfall, Water Gun, Water Pledge, Water Pulse, Water Sport,
+        X-Scissor, Covet, Icy Wind, Iron Tail, Snore, Helping Hand, Sleep Talk, Confide]
     stats:
     - [55, 55, 45, 63, 45, 45]
     tags:
@@ -48,6 +58,8 @@ pokemon:
     moves:
     - bw: [Block, Dragon Tail, Giga Impact, Hydro Cannon, Hyper Beam, Knock Off, Megahorn,
         Slash, Strength, Superpower]
+    - xy: [Dragon Tail, Giga Impact, Hydro Cannon, Hyper Beam, Megahorn, Slash, Strength,
+        Block, Superpower, Knock Off]
     stats:
     - [95, 100, 85, 108, 70, 70]
     tags:

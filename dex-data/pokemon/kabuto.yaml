@@ -42,6 +42,16 @@ pokemon:
     - rb: [Absorb, Bide, Blizzard, Body Slam, Bubblebeam, Double-Edge, Double Team,
         Harden, Hydro Pump, Ice Beam, Leer, Mimic, Rage, Reflect, Rest, Scratch, Slash,
         Substitute, Surf, Take Down, Toxic, Water Gun]
+    - xy: [Absorb, Aerial Ace, Ancient Power, Aqua Jet, Attract, Aurora Beam, Blizzard,
+        Body Slam, Brine, Bubble Beam, Captivate, Confuse Ray, Dig, Double-Edge, Double
+          Team, Earth Power, Endure, Facade, Flail, Foresight, Frustration, Giga Drain,
+        Hail, Harden, Hidden Power, Hone Claws, Ice Beam, Icy Wind, Iron Defense,
+        Knock Off, Leer, Mega Drain, Metal Sound, Mimic, Mud Shot, Mud-Slap, Natural
+          Gift, Protect, Rain Dance, Rapid Spin, Rest, Return, Rock Polish, Rock Slide,
+        Rock Smash, Rock Tomb, Rollout, Round, Sand Attack, Sandstorm, Scald, Scratch,
+        Screech, Secret Power, Sleep Talk, Smack Down, Snore, Stealth Rock, Substitute,
+        Surf, Swagger, Thief, Toxic, Waterfall, Water Pulse, Whirlpool, Wring Out,
+        Confide, Take Down]
     stats:
     - [30, 80, 90, 45, 45, 55]
     - gs: [30, 80, 90, 55, 45, 55]
@@ -72,6 +82,9 @@ pokemon:
         Slash, Swords Dance, Body Slam, Double-Edge, Mimic, Seismic Toss]
     - rb: [Cut, Hyper Beam, Mega Kick, Razor Wind, Seismic Toss, Skull Bash, Submission,
         Swords Dance]
+    - xy: [Aqua Tail, Brick Break, Cut, Dive, Feint, Fury Cutter, Giga Impact, Headbutt,
+        Hyper Beam, Low Kick, Mega Kick, Night Slash, Rock Climb, Seismic Toss, Slash,
+        Stone Edge, Superpower, Swords Dance, X-Scissor, Nature Power]
     stats:
     - [60, 115, 105, 70, 70, 80]
     - gs: [60, 115, 105, 65, 70, 80]

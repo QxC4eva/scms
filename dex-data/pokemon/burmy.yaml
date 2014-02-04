@@ -10,6 +10,7 @@ pokemon:
     moves:
     - bw: [Bug Bite, Electroweb, Hidden Power, Protect, Snore, Tackle]
     - dp: [Bug Bite, Hidden Power, Protect, Snore, String Shot, Tackle]
+    - xy: [Bug Bite, Hidden Power, Protect, Snore, String Shot, Tackle, Electroweb]
     stats:
     - [40, 29, 45, 29, 45, 36]
     tags:
@@ -38,6 +39,14 @@ pokemon:
         Rest, Return, Roost, Safeguard, Secret Power, Shadow Ball, Signal Beam, Silver
           Wind, Skill Swap, Sleep Talk, Solarbeam, Substitute, Sunny Day, Swagger,
         Swift, Tailwind, Thief, Toxic, Twister, U-turn]
+    - xy: [Acrobatics, Aerial Ace, Air Cutter, Air Slash, Attract, Bug Buzz, Camouflage,
+        Captivate, Confusion, Defog, Double Team, Dream Eater, Endure, Energy Ball,
+        Facade, Flash, Frustration, Giga Drain, Giga Impact, Gust, Hyper Beam, Mud-Slap,
+        Natural Gift, Ominous Wind, Poison Powder, Psybeam, Psychic, Psych Up, Quiver
+          Dance, Rain Dance, Rest, Return, Roost, Round, Safeguard, Secret Power,
+        Shadow Ball, Signal Beam, Silver Wind, Skill Swap, Sleep Talk, Solar Beam,
+        Struggle Bug, Substitute, Sunny Day, Swagger, Swift, Tailwind, Thief, Toxic,
+        Twister, U-turn, Venoshock, Infestation, Confide]
     stats:
     - [70, 94, 50, 94, 50, 66]
     tags:
@@ -57,6 +66,13 @@ pokemon:
         Seed Bomb, Synthesis, Uproar, Worry Seed]
     - dp: [Bullet Seed, Endeavor, Flail, Grass Knot, Growth, Leaf Storm, Razor Leaf,
         Seed Bomb, Sucker Punch, Synthesis, Uproar, Worry Seed]
+    - xy: [Attract, Bullet Seed, Captivate, Confusion, Double Team, Dream Eater, Endeavor,
+        Endure, Energy Ball, Facade, Flail, Flash, Frustration, Giga Drain, Giga Impact,
+        Grass Knot, Growth, Hyper Beam, Leaf Storm, Natural Gift, Psybeam, Psychic,
+        Psych Up, Rain Dance, Razor Leaf, Rest, Return, Round, Safeguard, Secret Power,
+        Seed Bomb, Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Solar Beam, Struggle
+          Bug, Substitute, Sucker Punch, Sunny Day, Swagger, Synthesis, Thief, Toxic,
+        Uproar, Venoshock, Worry Seed, Infestation, Confide]
     stats:
     - [60, 59, 85, 79, 105, 36]
     tags:

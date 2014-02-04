@@ -14,6 +14,13 @@ pokemon:
           Chant, Me First, Mirror Move, Pluck, Protect, Rain Dance, Rest, Return,
         Roost, Round, Scald, Sleep Talk, Snore, Steel Wing, Substitute, Surf, Swagger,
         Tailwind, Toxic, Uproar, Water Gun, Water Pulse, Water Sport, Wing Attack]
+    - xy: [Aerial Ace, Air Cutter, Air Slash, Aqua Ring, Attract, Brave Bird, Brine,
+        Bubble Beam, Defog, Dive, Double Team, Facade, Feather Dance, Fly, Frustration,
+        Gust, Hail, Hidden Power, Hurricane, Ice Beam, Lucky Chant, Me First, Mirror
+          Move, Pluck, Protect, Rain Dance, Rest, Return, Roost, Round, Scald, Steel
+          Wing, Substitute, Surf, Swagger, Tailwind, Toxic, Water Gun, Water Pulse,
+        Water Sport, Wing Attack, Uproar, Icy Wind, Snore, Endeavor, Sleep Talk, Confide,
+        Mud Sport]
     stats:
     - [62, 44, 50, 44, 50, 55]
     tags:
@@ -30,6 +37,7 @@ pokemon:
     introduction: bw
     moves:
     - bw: [Giga Impact, Hyper Beam, Sky Attack]
+    - xy: [Giga Impact, Hyper Beam, Sky Attack]
     stats:
     - [75, 87, 63, 87, 63, 98]
     tags:

@@ -16,6 +16,9 @@ pokemon:
         Sky Attack]
     - rs: [Dragon Claw, Dragon Dance, Dragonbreath, Earthquake, Fire Blast, Flamethrower,
         Hyper Beam, Iron Tail, Roar, Rock Smash]
+    - xy: [Bulldoze, Draco Meteor, Dragon Breath, Dragon Claw, Dragon Dance, Earthquake,
+        Fire Blast, Flamethrower, Giga Impact, Hone Claws, Hyper Beam, Incinerate,
+        Iron Tail, Roar, Rock Smash, Wonder Room]
     stats:
     - [75, 70, 90, 70, 105, 80]
     tags:
@@ -58,6 +61,16 @@ pokemon:
         Safeguard, Secret Power, Sing, Sky Attack, Sleep Talk, Snore, Solarbeam, Steel
           Wing, Substitute, Sunny Day, Swagger, Swift, Take Down, Thief, Toxic, Body
           Slam, Double-Edge, Mimic, Sky Attack]
+    - xy: [Aerial Ace, Agility, Air Cutter, Astonish, Attract, Body Slam, Captivate,
+        Cotton Guard, Double-Edge, Double Team, Dragon Pulse, Dragon Rush, Dream Eater,
+        Echoed Voice, Endure, Facade, False Swipe, Feather Dance, Fly, Frustration,
+        Fury Attack, Growl, Haze, Heal Bell, Heat Wave, Hidden Power, Hyper Voice,
+        Ice Beam, Mimic, Mirror Move, Mist, Mud-Slap, Natural Gift, Ominous Wind,
+        Outrage, Peck, Perish Song, Pluck, Power Swap, Protect, Psych Up, Pursuit,
+        Rage, Rain Dance, Refresh, Rest, Return, Roost, Round, Safeguard, Secret Power,
+        Sing, Sky Attack, Sleep Talk, Snore, Solar Beam, Steel Wing, Substitute, Sunny
+          Day, Swagger, Swift, Tailwind, Take Down, Thief, Toxic, Twister, Uproar,
+        Moonblast, Dazzling Gleam, Confide]
     stats:
     - [45, 40, 60, 40, 75, 50]
     tags:

@@ -15,6 +15,7 @@ pokemon:
         Tri Attack, Baton Pass]
     - rs: [Hyper Beam, Taunt, Torment, Baton Pass]
     - rb: [Hyper Beam]
+    - xy: [Baton Pass, Giga Impact, Hyper Beam, Payback, Taunt, Torment]
     stats:
     - [60, 110, 70, 60, 60, 100]
     - gs: [60, 110, 70, 60, 60, 100]
@@ -62,6 +63,14 @@ pokemon:
     - rb: [Agility, Bide, Body Slam, Double-Edge, Double Team, Drill Peck, Fly, Fury
           Attack, Growl, Mimic, Peck, Rage, Reflect, Rest, Skull Bash, Sky Attack,
         Substitute, Take Down, Toxic, Tri Attack, Whirlwind, Low Kick]
+    - xy: [Acupressure, Aerial Ace, Agility, Air Cutter, Assurance, Attract, Body
+          Slam, Brave Bird, Captivate, Double-Edge, Double Hit, Double Team, Drill
+          Peck, Echoed Voice, Endeavor, Endure, Facade, Feint Attack, Flail, Fly,
+        Frustration, Fury Attack, Growl, Haze, Hidden Power, Knock Off, Mimic, Mirror
+          Move, Mud-Slap, Natural Gift, Peck, Pluck, Protect, Pursuit, Quick Attack,
+        Rage, Rest, Return, Roost, Round, Secret Power, Sky Attack, Sleep Talk, Snore,
+        Steel Wing, Substitute, Sunny Day, Supersonic, Swagger, Swift, Thief, Thrash,
+        Toxic, Tri Attack, Uproar, Work Up, Confide]
     stats:
     - [35, 85, 45, 35, 35, 75]
     tags:

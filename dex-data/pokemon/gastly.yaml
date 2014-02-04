@@ -43,6 +43,17 @@ pokemon:
     - rb: [Bide, Confuse Ray, Double Team, Dream Eater, Explosion, Hypnosis, Lick,
         Mega Drain, Mimic, Night Shade, Psychic, Psywave, Rage, Rest, Selfdestruct,
         Substitute, Thunder, Thunderbolt, Toxic]
+    - xy: [Astonish, Attract, Captivate, Clear Smog, Confuse Ray, Curse, Dark Pulse,
+        Destiny Bond, Disable, Double Team, Dream Eater, Embargo, Endure, Energy Ball,
+        Explosion, Facade, Fire Punch, Frustration, Giga Drain, Grudge, Haze, Hex,
+        Hidden Power, Hypnosis, Ice Punch, Icy Wind, Knock Off, Lick, Mean Look, Mimic,
+        Natural Gift, Nightmare, Night Shade, Ominous Wind, Pain Split, Payback, Perish
+          Song, Protect, Psychic, Psych Up, Psywave, Rain Dance, Rest, Return, Round,
+        Scary Face, Secret Power, Self-Destruct, Shadow Ball, Skill Swap, Sleep Talk,
+        Sludge Bomb, Sludge Wave, Smog, Snatch, Snore, Spite, Substitute, Sucker Punch,
+        Sunny Day, Swagger, Taunt, Telekinesis, Thief, Thunderbolt, Thunder Punch,
+        Torment, Toxic, Trick, Trick Room, Uproar, Venoshock, Will-O-Wisp, Foul Play,
+        Wonder Room, Infestation, Dazzling Gleam, Confide, Reflect Type]
     stats:
     - [30, 35, 30, 100, 100, 80]
     - gs: [30, 35, 30, 100, 35, 80]
@@ -75,6 +86,10 @@ pokemon:
         Mimic, Seismic Toss, Selfdestruct]
     - rb: [Body Slam, Counter, Double-Edge, Hyper Beam, Mega Kick, Mega Punch, Metronome,
         Seismic Toss, Skull Bash, Strength, Submission, Take Down]
+    - xy: [Body Slam, Brick Break, Counter, Double-Edge, Drain Punch, Dynamic Punch,
+        Focus Blast, Focus Punch, Giga Impact, Headbutt, Hyper Beam, Mega Kick, Mega
+          Punch, Metronome, Rock Smash, Role Play, Seismic Toss, Strength, Thunder,
+        Power-Up Punch]
     stats:
     - [60, 65, 60, 130, 130, 110]
     - gs: [60, 65, 60, 130, 75, 110]
@@ -96,6 +111,7 @@ pokemon:
     - bw: [Fling, Poison Jab, Shadow Claw, Shadow Punch, Double-Edge, Mimic, Selfdestruct]
     - dp: [Fling, Poison Jab, Shadow Claw, Shadow Punch, Double-Edge, Mimic, Selfdestruct]
     - rs: [Shadow Punch, Double-Edge, Mimic, Selfdestruct]
+    - xy: [Fling, Poison Jab, Shadow Claw, Shadow Punch]
     stats:
     - [45, 50, 45, 115, 115, 95]
     - gs: [45, 50, 45, 115, 55, 95]

@@ -29,6 +29,17 @@ pokemon:
         Substitute, Sunny Day, Superpower, Swagger, Swords Dance, Take Down, Thief,
         Thrash, Thunder, Thunderbolt, Thunderpunch, Toxic, Uproar, Whirlwind, Zen
           Headbutt]
+    - xy: [Ancient Power, Assurance, Attract, Blizzard, Bulldoze, Captivate, Chip
+          Away, Crunch, Curse, Dig, Double-Edge, Double Team, Dragon Pulse, Earth
+          Power, Earthquake, Endeavor, Endure, Facade, Fire Blast, Fire Punch, Flamethrower,
+        Fling, Focus Energy, Frustration, Hammer Arm, Headbutt, Head Smash, Hidden
+          Power, Ice Beam, Incinerate, Iron Head, Iron Tail, Leer, Mud-Slap, Natural
+          Gift, Payback, Protect, Pursuit, Rain Dance, Rest, Return, Roar, Rock Climb,
+        Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Round, Sandstorm, Scary Face,
+        Screech, Secret Power, Shock Wave, Slam, Sleep Talk, Smack Down, Snore, Spite,
+        Stealth Rock, Stomp, Stone Edge, Strength, Substitute, Sunny Day, Superpower,
+        Swagger, Swords Dance, Take Down, Thief, Thrash, Thunder, Thunderbolt, Thunder
+          Punch, Toxic, Uproar, Whirlwind, Zen Headbutt, Power-Up Punch, Confide]
     stats:
     - [67, 125, 40, 30, 30, 58]
     tags:
@@ -48,6 +59,8 @@ pokemon:
         Pain Split, Surf]
     - dp: [Avalanche, Brick Break, Cut, Focus Blast, Focus Punch, Giga Impact, Hyper
           Beam, Outrage, Pain Split, Surf, Whirlpool]
+    - xy: [Avalanche, Brick Break, Cut, Dragon Tail, Focus Blast, Focus Punch, Giga
+          Impact, Hyper Beam, Outrage, Pain Split, Surf, Whirlpool]
     stats:
     - [97, 165, 60, 65, 50, 58]
     tags:

@@ -18,6 +18,10 @@ pokemon:
     - rs: [Blast Burn, Earthquake, Fly, Heat Wave, Hyper Beam, Roar, Steel Wing, Wing
           Attack]
     - rb: [Earthquake, Fissure, Fly, Hyper Beam]
+    - xy: [Air Cutter, Air Slash, Blast Burn, Bulldoze, Defog, Dragon Pulse, Dragon
+          Tail, Earthquake, Flare Blitz, Fly, Focus Blast, Giga Impact, Hyper Beam,
+        Ominous Wind, Roar, Roost, Sky Drop, Solar Beam, Steel Wing, Tailwind, Twister,
+        Wing Attack]
     stats:
     - [78, 84, 78, 85, 85, 100]
     - gs: [78, 84, 78, 109, 85, 100]
@@ -76,6 +80,19 @@ pokemon:
         Ember, Fire Blast, Fire Spin, Flamethrower, Growl, Leer, Mega Kick, Mega Punch,
         Mimic, Rage, Reflect, Rest, Scratch, Seismic Toss, Skull Bash, Slash, Strength,
         Submission, Substitute, Swift, Swords Dance, Take Down, Toxic, Crunch]
+    - xy: [Acrobatics, Aerial Ace, Ancient Power, Attract, Beat Up, Belly Drum, Bite,
+        Blast Burn, Block, Body Slam, Brick Break, Captivate, Counter, Crunch, Cut,
+        Defense Curl, Dig, Double-Edge, Double Team, Dragon Claw, Dragon Dance, Dragon
+          Pulse, Dragon Rage, Dragon Rush, Dynamic Punch, Echoed Voice, Ember, Endure,
+        Facade, False Swipe, Fire Blast, Fire Fang, Fire Pledge, Fire Punch, Fire
+          Spin, Flame Burst, Flame Charge, Flamethrower, Flare Blitz, Fling, Focus
+          Punch, Frustration, Fury Cutter, Growl, Headbutt, Heat Wave, Hidden Power,
+        Hone Claws, Howl, Incinerate, Inferno, Iron Tail, Mega Kick, Mega Punch, Metal
+          Claw, Mimic, Mud-Slap, Natural Gift, Outrage, Overheat, Protect, Quick Attack,
+        Rage, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Round, Scary Face,
+        Scratch, Secret Power, Seismic Toss, Shadow Claw, Slash, Sleep Talk, Smokescreen,
+        Snore, Strength, Substitute, Sunny Day, Swagger, Swift, Swords Dance, Thunder
+          Punch, Toxic, Will-O-Wisp, Power-Up Punch, Confide, Air Cutter]
     stats:
     - [39, 52, 43, 50, 50, 65]
     - gs: [39, 52, 43, 60, 50, 65]
@@ -94,6 +111,8 @@ pokemon:
     evolutions: [Charizard]
     height: [1.1]
     introduction: rb
+    moves:
+    - xy: []
     stats:
     - [58, 64, 58, 65, 65, 80]
     - gs: [58, 64, 58, 80, 65, 80]

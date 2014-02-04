@@ -12,6 +12,8 @@ pokemon:
     - dp: [Block, Giga Impact, Hyper Beam, Punishment, Double-Edge, Icy Wind, Mimic,
         Seismic Toss]
     - rs: [Hyper Beam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+    - xy: [Amnesia, Block, Feint Attack, Flail, Giga Impact, Hammer Arm, Hyper Beam,
+        Punishment, Quash, Slack Off, Smack Down, Yawn]
     stats:
     - [150, 160, 100, 95, 65, 100]
     tags:
@@ -57,6 +59,18 @@ pokemon:
         Shadow Ball, Shock Wave, Slack Off, Slash, Sleep Talk, Snore, Solarbeam, Strength,
         Substitute, Sunny Day, Swagger, Thunder, Thunderbolt, Thunderpunch, Toxic,
         Water Pulse, Yawn, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+    - xy: [Aerial Ace, After You, Amnesia, Attract, Blizzard, Body Slam, Brick Break,
+        Bulk Up, Captivate, Chip Away, Counter, Covet, Crush Claw, Curse, Cut, Double-Edge,
+        Double Team, Dynamic Punch, Encore, Endure, Facade, Feint Attack, Fire Blast,
+        Fire Punch, Flail, Flamethrower, Fling, Focus Punch, Frustration, Fury Cutter,
+        Gunk Shot, Hammer Arm, Headbutt, Hidden Power, Hone Claws, Ice Beam, Ice Punch,
+        Icy Wind, Incinerate, Mega Kick, Mega Punch, Mimic, Mud-Slap, Natural Gift,
+        Night Slash, Protect, Pursuit, Rain Dance, Rest, Retaliate, Return, Rock Slide,
+        Rock Smash, Rock Tomb, Round, Scratch, Secret Power, Seismic Toss, Shadow
+          Ball, Shadow Claw, Shock Wave, Slack Off, Slash, Sleep Talk, Snore, Solar
+          Beam, Strength, Substitute, Sucker Punch, Sunny Day, Swagger, Thunder, Thunderbolt,
+        Thunder Punch, Tickle, Toxic, Water Pulse, Work Up, Yawn, Power-Up Punch,
+        Confide]
     stats:
     - [60, 60, 60, 35, 35, 30]
     tags:
@@ -82,6 +96,8 @@ pokemon:
         Roar, Rock Climb, Taunt, Uproar, Double-Edge, Icy Wind, Mimic, Seismic Toss]
     - rs: [Earthquake, Focus Energy, Fury Swipes, Reversal, Roar, Taunt, Uproar, Double-Edge,
         Icy Wind, Mimic, Seismic Toss]
+    - xy: [Bulldoze, Earthquake, Focus Blast, Focus Energy, Fury Swipes, Low Kick,
+        Low Sweep, Reversal, Roar, Rock Climb, Taunt, Uproar]
     stats:
     - [80, 80, 80, 55, 55, 90]
     tags:

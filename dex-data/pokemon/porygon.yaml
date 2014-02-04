@@ -44,6 +44,16 @@ pokemon:
           Beam, Ice Beam, Mimic, Psybeam, Psychic, Psywave, Rage, Recover, Reflect,
         Rest, Sharpen, Skull Bash, Substitute, Swift, Tackle, Take Down, Teleport,
         Thunder, Thunder Wave, Thunderbolt, Toxic, Tri Attack]
+    - xy: [Aerial Ace, Agility, Blizzard, Charge Beam, Conversion, Conversion 2, Discharge,
+        Double-Edge, Double Team, Dream Eater, Endure, Facade, Flash, Frustration,
+        Giga Impact, Gravity, Hidden Power, Hyper Beam, Ice Beam, Icy Wind, Iron Tail,
+        Last Resort, Lock-On, Magic Coat, Magnet Rise, Mimic, Natural Gift, Nightmare,
+        Pain Split, Protect, Psybeam, Psychic, Psych Up, Psyshock, Rain Dance, Recover,
+        Recycle, Rest, Return, Round, Secret Power, Shadow Ball, Sharpen, Shock Wave,
+        Signal Beam, Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day, Swagger,
+        Swift, Tackle, Thief, Thunder, Thunderbolt, Thunder Wave, Toxic, Tri Attack,
+        Trick, Trick Room, Zap Cannon, Zen Headbutt, Foul Play, Electroweb, Wonder
+          Room, Confide]
     stats:
     - [65, 60, 70, 75, 75, 40]
     - gs: [65, 60, 70, 85, 75, 40]
@@ -65,6 +75,7 @@ pokemon:
     moves:
     - bw: [Dark Pulse, Embargo, Nasty Plot, Uproar]
     - dp: [Dark Pulse, Embargo, Nasty Plot, Uproar]
+    - xy: [Dark Pulse, Embargo, Nasty Plot, Uproar]
     stats:
     - [85, 80, 70, 135, 75, 90]
     tags:
@@ -88,6 +99,7 @@ pokemon:
     - bw: [Defense Curl, Double-Edge, Icy Wind, Mimic, Nightmare]
     - dp: [Defense Curl, Double-Edge, Icy Wind, Mimic, Nightmare]
     - rs: [Defense Curl, Double-Edge, Icy Wind, Mimic, Nightmare]
+    - xy: [Defense Curl]
     stats:
     - [85, 80, 90, 105, 95, 60]
     tags:

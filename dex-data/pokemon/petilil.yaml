@@ -9,6 +9,8 @@ pokemon:
     moves:
     - bw: [Giga Impact, Hyper Beam, Light Screen, Petal Dance, Quiver Dance, Role
           Play, Swords Dance, Teeter Dance]
+    - xy: [Giga Impact, Hyper Beam, Light Screen, Petal Dance, Quiver Dance, Swords
+          Dance, Teeter Dance, Role Play, Petal Blizzard]
     stats:
     - [70, 60, 75, 110, 75, 90]
     tags:
@@ -32,6 +34,14 @@ pokemon:
           Drain, Natural Gift, Protect, Rest, Return, Round, Safeguard, Seed Bomb,
         Sleep Powder, Sleep Talk, Snore, Solarbeam, Stun Spore, Substitute, Sunny
           Day, Swagger, Sweet Scent, Synthesis, Toxic, Worry Seed]
+    - xy: [Absorb, After You, Aromatherapy, Attract, Bide, Charm, Cut, Double Team,
+        Dream Eater, Endure, Energy Ball, Entrainment, Facade, Flash, Frustration,
+        Giga Drain, Grass Knot, Grass Whistle, Growth, Healing Wish, Helping Hand,
+        Hidden Power, Ingrain, Leaf Storm, Leech Seed, Magical Leaf, Mega Drain, Natural
+          Gift, Protect, Rest, Return, Round, Safeguard, Sleep Powder, Solar Beam,
+        Stun Spore, Substitute, Sunny Day, Swagger, Sweet Scent, Synthesis, Toxic,
+        Worry Seed, Covet, Seed Bomb, Snore, Heal Bell, Sleep Talk, Nature Power,
+        Confide]
     stats:
     - [45, 35, 50, 70, 50, 30]
     tags:

@@ -17,6 +17,9 @@ pokemon:
     - rs: [Confuse Ray, Dream Eater, Hyper Beam, Nightmare, Skill Swap, Double-Edge,
         Icy Wind, Mimic, Nightmare, Refresh]
     - rb: [Hyper Beam]
+    - xy: [Avalanche, Confuse Ray, Dream Eater, Giga Impact, Grass Knot, Hyper Beam,
+        Nightmare, Psyshock, Refresh, Skill Swap, Telekinesis, Trick, Trick Room,
+        Wonder Room]
     stats:
     - [60, 75, 85, 100, 100, 115]
     - gs: [60, 75, 85, 100, 85, 115]
@@ -68,6 +71,15 @@ pokemon:
           Pump, Ice Beam, Light Screen, Mimic, Minimize, Psychic, Psywave, Rage, Recover,
         Reflect, Rest, Skull Bash, Substitute, Surf, Swift, Tackle, Take Down, Teleport,
         Thunder, Thunder Wave, Thunderbolt, Toxic, Tri Attack, Water Gun]
+    - xy: [Blizzard, Brine, Bubble Beam, Camouflage, Cosmic Power, Dive, Double-Edge,
+        Double Team, Endure, Facade, Flash, Flash Cannon, Frustration, Gravity, Gyro
+          Ball, Hail, Harden, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Light
+          Screen, Magic Coat, Mimic, Minimize, Natural Gift, Pain Split, Power Gem,
+        Protect, Psychic, Psych Up, Rain Dance, Rapid Spin, Recover, Recycle, Reflect,
+        Reflect Type, Rest, Return, Rollout, Round, Scald, Secret Power, Signal Beam,
+        Sleep Talk, Snore, Substitute, Surf, Swagger, Swift, Tackle, Thunder, Thunderbolt,
+        Thunder Wave, Toxic, Twister, Waterfall, Water Gun, Water Pulse, Whirlpool,
+        Dazzling Gleam, Confide]
     stats:
     - [30, 45, 55, 70, 70, 85]
     - gs: [30, 45, 55, 70, 55, 85]

@@ -9,6 +9,7 @@ pokemon:
     introduction: bw
     moves:
     - bw: [Power Gem]
+    - xy: [Power Gem]
     stats:
     - [70, 105, 105, 50, 40, 20]
     tags:
@@ -25,6 +26,7 @@ pokemon:
     introduction: bw
     moves:
     - bw: [Giga Impact, Hyper Beam, Iron Head, Solarbeam, Superpower]
+    - xy: [Giga Impact, Hyper Beam, Solar Beam, Iron Head, Superpower]
     stats:
     - [85, 135, 130, 60, 70, 25]
     - xy: [85, 135, 130, 60, 80, 25]
@@ -48,6 +50,13 @@ pokemon:
         Protect, Rest, Return, Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock
           Tomb, Round, Sand-Attack, Sandstorm, Sleep Talk, Smack Down, Snore, Stealth
           Rock, Stone Edge, Strength, Substitute, Swagger, Tackle, Take Down, Toxic]
+    - xy: [Attract, Autotomize, Bulldoze, Curse, Double Team, Earthquake, Explosion,
+        Facade, Flash Cannon, Frustration, Gravity, Harden, Headbutt, Heavy Slam,
+        Hidden Power, Iron Defense, Lock-On, Magnitude, Mud-Slap, Protect, Rest, Return,
+        Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Round, Sand Attack,
+        Sandstorm, Smack Down, Stealth Rock, Stone Edge, Strength, Substitute, Swagger,
+        Tackle, Take Down, Toxic, Block, Earth Power, Snore, Sleep Talk, Nature Power,
+        Confide, Wide Guard]
     stats:
     - [55, 75, 85, 25, 25, 15]
     tags:

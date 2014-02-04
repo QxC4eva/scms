@@ -12,6 +12,9 @@ pokemon:
     - dp: [Aqua Jet, Avalanche, Earthquake, Flash Cannon, Fury Cutter, Giga Impact,
         Hydro Cannon, Hyper Beam, Iron Defense, Knock Off, Roar, Rock Climb, Rock
           Slide, Steel Wing, Swords Dance]
+    - xy: [Aqua Jet, Avalanche, Bulldoze, Earthquake, Flash Cannon, Fury Cutter, Giga
+          Impact, Hydro Cannon, Hyper Beam, Iron Defense, Knock Off, Roar, Rock Climb,
+        Rock Slide, Steel Wing, Swords Dance]
     stats:
     - [84, 86, 88, 111, 101, 60]
     tags:
@@ -45,6 +48,15 @@ pokemon:
         Protect, Rain Dance, Rest, Return, Rock Tomb, Secret Power, Signal Beam, Sleep
           Talk, Snore, Stealth Rock, Substitute, Supersonic, Surf, Swagger, Toxic,
         Water Pulse, Water Sport, Waterfall, Whirlpool, Yawn]
+    - xy: [Aerial Ace, Agility, Aqua Ring, Attract, Bide, Blizzard, Brick Break, Brine,
+        Bubble, Bubble Beam, Captivate, Cut, Defog, Dig, Dive, Double Hit, Double
+          Team, Drill Peck, Echoed Voice, Endure, Facade, Feather Dance, Flail, Fling,
+        Frustration, Fury Attack, Grass Knot, Growl, Hail, Headbutt, Hidden Power,
+        Hydro Pump, Ice Beam, Icy Wind, Mist, Mud-Slap, Mud Sport, Natural Gift, Peck,
+        Pluck, Pound, Protect, Quash, Rain Dance, Rest, Return, Rock Tomb, Round,
+        Scald, Secret Power, Signal Beam, Sleep Talk, Snore, Stealth Rock, Substitute,
+        Supersonic, Surf, Swagger, Toxic, Waterfall, Water Pledge, Water Pulse, Water
+          Sport, Whirlpool, Yawn, Covet, Sing, Confide]
     stats:
     - [53, 51, 53, 61, 56, 40]
     tags:
@@ -63,6 +75,7 @@ pokemon:
     moves:
     - bw: [Hone Claws, Metal Claw, Rock Smash, Shadow Claw, Strength, Tackle]
     - dp: [Metal Claw, Rock Smash, Shadow Claw, Strength, Tackle]
+    - xy: [Hone Claws, Metal Claw, Rock Smash, Shadow Claw, Strength, Tackle]
     stats:
     - [64, 66, 68, 81, 76, 50]
     tags:

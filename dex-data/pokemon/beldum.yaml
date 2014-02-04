@@ -12,6 +12,7 @@ pokemon:
     - bw: [Iron Defense, Iron Head, Take Down, Zen Headbutt]
     - dp: [Headbutt, Iron Defense, Iron Head, Take Down, Zen Headbutt]
     - rs: [Take Down]
+    - xy: [Headbutt, Iron Defense, Iron Head, Take Down, Zen Headbutt]
     stats:
     - [40, 55, 80, 35, 60, 30]
     tags:
@@ -34,6 +35,7 @@ pokemon:
     - dp: [Block, Giga Impact, Hammer Arm, Body Slam, Body Slam, Double-Edge, Icy
           Wind, Mimic, Selfdestruct]
     - rs: [Body Slam, Double-Edge, Icy Wind, Mimic, Selfdestruct]
+    - xy: [Block, Giga Impact, Hammer Arm]
     stats:
     - [80, 135, 130, 95, 90, 70]
     tags:
@@ -79,6 +81,17 @@ pokemon:
         Selfdestruct, Shadow Ball, Sleep Talk, Sludge Bomb, Snore, Strength, Substitute,
         Sunny Day, Swagger, Swift, Thunderpunch, Toxic, Body Slam, Double-Edge, Icy
           Wind, Mimic, Selfdestruct]
+    - xy: [Aerial Ace, Agility, Body Slam, Brick Break, Bulldoze, Bullet Punch, Confusion,
+        Cut, Defense Curl, Double-Edge, Double Team, Dynamic Punch, Earthquake, Endure,
+        Explosion, Facade, Flash, Flash Cannon, Frustration, Fury Cutter, Grass Knot,
+        Gravity, Gyro Ball, Hidden Power, Hone Claws, Hyper Beam, Ice Punch, Icy Wind,
+        Light Screen, Magnet Rise, Metal Claw, Meteor Mash, Mimic, Miracle Eye, Mud-Slap,
+        Natural Gift, Protect, Psychic, Psych Up, Psyshock, Pursuit, Rain Dance, Reflect,
+        Refresh, Rest, Return, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Rollout,
+        Round, Sandstorm, Scary Face, Secret Power, Self-Destruct, Shadow Ball, Signal
+          Beam, Sleep Talk, Sludge Bomb, Snore, Stealth Rock, Strength, Substitute,
+        Sunny Day, Swagger, Swift, Telekinesis, Thunder Punch, Toxic, Trick, Power-Up
+          Punch, Confide]
     stats:
     - [60, 75, 100, 55, 80, 50]
     tags:

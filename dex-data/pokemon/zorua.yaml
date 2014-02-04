@@ -9,6 +9,8 @@ pokemon:
     moves:
     - bw: [Flamethrower, Focus Blast, Giga Impact, Hyper Beam, Low Kick, Low Sweep,
         Night Slash, Rock Smash, Shadow Claw]
+    - xy: [Flamethrower, Focus Blast, Giga Impact, Hyper Beam, Low Sweep, Night Slash,
+        Rock Smash, Shadow Claw, Low Kick]
     stats:
     - [60, 105, 60, 120, 60, 105]
     tags:
@@ -34,6 +36,15 @@ pokemon:
           Face, Scratch, Shadow Ball, Sleep Talk, Snarl, Snatch, Snore, Spite, Substitute,
         Sucker Punch, Sunny Day, Swagger, Swords Dance, Taunt, Thief, Torment, Toxic,
         Trick, U-turn, Uproar]
+    - xy: [Aerial Ace, Agility, Attract, Calm Mind, Captivate, Counter, Cut, Dark
+          Pulse, Detect, Dig, Double Team, Embargo, Extrasensory, Facade, Feint Attack,
+        Fake Tears, Fling, Foul Play, Frustration, Fury Swipes, Grass Knot, Hidden
+          Power, Hone Claws, Imprison, Incinerate, Leer, Memento, Nasty Plot, Night
+          Daze, Payback, Protect, Psych Up, Punishment, Pursuit, Rain Dance, Rest,
+        Retaliate, Return, Roar, Round, Scary Face, Scratch, Shadow Ball, Snarl, Snatch,
+        Substitute, Sucker Punch, Sunny Day, Swagger, Swords Dance, Taunt, Thief,
+        Torment, Toxic, U-turn, Covet, Bounce, Uproar, Hyper Voice, Snore, Knock Off,
+        Spite, Trick, Sleep Talk, Confide, Copycat]
     stats:
     - [40, 65, 40, 80, 40, 65]
     tags:

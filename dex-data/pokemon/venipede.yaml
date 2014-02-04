@@ -11,6 +11,9 @@ pokemon:
     - bw: [Aqua Tail, Baton Pass, Bulldoze, Cut, Dig, Earthquake, Giga Impact, Hyper
           Beam, Iron Tail, Megahorn, Rock Slide, Rock Tomb, Snatch, Strength, Superpower,
         Swords Dance, X-scissor]
+    - xy: [Baton Pass, Bulldoze, Cut, Dig, Earthquake, Giga Impact, Hyper Beam, Megahorn,
+        Rock Slide, Rock Tomb, Strength, Swords Dance, X-Scissor, Superpower, Aqua
+          Tail, Iron Tail, Snatch, Toxic Spikes]
     stats:
     - [60, 90, 89, 55, 69, 112]
     - xy: [60, 10, 89, 55, 69, 112]
@@ -35,6 +38,12 @@ pokemon:
           Climb, Rock Smash, Rollout, Round, Screech, Sleep Talk, Sludge Bomb, Snore,
         Solarbeam, Spikes, Steamroller, Struggle Bug, Substitute, Sunny Day, Swagger,
         Take Down, Toxic, Toxic Spikes, Twineedle, Venoshock]
+    - xy: [Agility, Attract, Bug Bite, Defense Curl, Double-Edge, Double Team, Facade,
+        Frustration, Gyro Ball, Hidden Power, Payback, Pin Missile, Poison Jab, Poison
+          Sting, Poison Tail, Protect, Pursuit, Rest, Return, Rock Climb, Rock Smash,
+        Rollout, Round, Screech, Sludge Bomb, Solar Beam, Spikes, Steamroller, Struggle
+          Bug, Substitute, Sunny Day, Swagger, Take Down, Toxic, Toxic Spikes, Twineedle,
+        Venoshock, Iron Defense, Snore, Endeavor, Sleep Talk, Infestation, Confide]
     stats:
     - [30, 45, 59, 30, 39, 57]
     tags:
@@ -51,6 +60,8 @@ pokemon:
     evolutions: [Scolipede]
     height: [1.2]
     introduction: bw
+    moves:
+    - xy: [Venom Drench]
     stats:
     - [40, 55, 99, 40, 79, 47]
     tags:

@@ -21,6 +21,13 @@ pokemon:
         Secret Power, Slack Off, Sleep Talk, Snore, Spit Up, Stealth Rock, Stockpile,
         Strength, Substitute, Sunny Day, Superpower, Swagger, Swallow, Tackle, Take
           Down, Toxic, Water Pulse, Yawn]
+    - xy: [Attract, Bite, Body Slam, Bulldoze, Captivate, Crunch, Curse, Dig, Double-Edge,
+        Double Team, Earth Power, Earthquake, Endure, Facade, Fissure, Frustration,
+        Headbutt, Hidden Power, Iron Tail, Mud-Slap, Natural Gift, Protect, Rest,
+        Return, Revenge, Roar, Rock Slide, Rock Smash, Rock Tomb, Round, Sand Attack,
+        Sandstorm, Sand Tomb, Secret Power, Slack Off, Sleep Talk, Snore, Spit Up,
+        Stealth Rock, Stockpile, Strength, Substitute, Sunny Day, Superpower, Swagger,
+        Swallow, Tackle, Take Down, Toxic, Water Pulse, Whirlwind, Yawn, Confide]
     stats:
     - [68, 72, 78, 38, 42, 32]
     tags:
@@ -40,6 +47,8 @@ pokemon:
     - bw: [Fire Fang, Giga Impact, Hyper Beam, Ice Fang, Iron Head, Stone Edge, Thunder
           Fang]
     - dp: [Fire Fang, Giga Impact, Hyper Beam, Ice Fang, Iron Head, Stone Edge, Thunder
+          Fang]
+    - xy: [Fire Fang, Giga Impact, Hyper Beam, Ice Fang, Iron Head, Stone Edge, Thunder
           Fang]
     stats:
     - [108, 112, 118, 68, 72, 47]

@@ -9,6 +9,7 @@ pokemon:
     moves:
     - bw: [Giga Impact, Hyper Beam, Incinerate, Nasty Plot, Night Slash, Superpower]
     - dp: [Giga Impact, Hyper Beam, Nasty Plot, Night Slash, Superpower]
+    - xy: [Giga Impact, Hyper Beam, Incinerate, Nasty Plot, Night Slash, Superpower]
     stats:
     - [100, 125, 52, 105, 52, 71]
     tags:
@@ -60,6 +61,17 @@ pokemon:
         Snatch, Snore, Steel Wing, Substitute, Sunny Day, Swagger, Swift, Taunt, Thief,
         Thunder Wave, Torment, Toxic, Whirlwind, Wing Attack, Double-Edge, Icy Wind,
         Mimic, Nightmare]
+    - xy: [Aerial Ace, Air Cutter, Assurance, Astonish, Attract, Brave Bird, Calm
+          Mind, Captivate, Confuse Ray, Dark Pulse, Defog, Double-Edge, Double Team,
+        Dream Eater, Drill Peck, Embargo, Endure, Facade, Feint Attack, Feather Dance,
+        Fly, Foul Play, Frustration, Haze, Heat Wave, Hidden Power, Icy Wind, Mean
+          Look, Mimic, Mirror Move, Mud-Slap, Natural Gift, Nightmare, Night Shade,
+        Ominous Wind, Payback, Peck, Perish Song, Pluck, Protect, Psychic, Psycho
+          Shift, Psych Up, Pursuit, Quash, Rain Dance, Rest, Retaliate, Return, Roost,
+        Round, Screech, Secret Power, Shadow Ball, Sky Attack, Sleep Talk, Snarl,
+        Snatch, Snore, Spite, Steel Wing, Substitute, Sucker Punch, Sunny Day, Swagger,
+        Swift, Tailwind, Taunt, Thief, Thunder Wave, Torment, Toxic, Twister, Uproar,
+        Whirlwind, Wing Attack, Confide, Flatter]
     stats:
     - [60, 85, 42, 85, 42, 91]
     tags:

@@ -38,6 +38,16 @@ pokemon:
           Ball, Sky Attack, Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day,
         Supersonic, Swagger, Swift, Tackle, Take Down, Thief, Toxic, Whirlwind, Wing
           Attack]
+    - xy: [Aerial Ace, Agility, Air Cutter, Air Slash, Attract, Captivate, Confusion,
+        Defog, Double-Edge, Double Team, Dream Eater, Echoed Voice, Endure, Extrasensory,
+        Facade, Feint Attack, Feather Dance, Flash, Fly, Foresight, Frustration, Growl,
+        Heat Wave, Hidden Power, Hypnosis, Magic Coat, Mimic, Mirror Move, Mud-Slap,
+        Natural Gift, Nightmare, Night Shade, Ominous Wind, Peck, Pluck, Protect,
+        Psychic, Psycho Shift, Psych Up, Rain Dance, Recycle, Reflect, Rest, Return,
+        Roost, Round, Secret Power, Shadow Ball, Silver Wind, Sky Attack, Sleep Talk,
+        Snore, Steel Wing, Substitute, Sunny Day, Supersonic, Swagger, Swift, Synchronoise,
+        Tackle, Tailwind, Take Down, Thief, Toxic, Twister, Uproar, Whirlwind, Wing
+          Attack, Work Up, Zen Headbutt, Hyper Voice, Confide]
     stats:
     - [60, 30, 30, 36, 56, 50]
     tags:
@@ -59,6 +69,7 @@ pokemon:
     - bw: [Giga Impact, Hyper Beam]
     - dp: [Giga Impact, Hyper Beam]
     - rs: [Hyper Beam]
+    - xy: [Giga Impact, Hyper Beam]
     stats:
     - [100, 50, 50, 76, 96, 70]
     tags:

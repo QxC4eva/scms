@@ -17,6 +17,15 @@ pokemon:
         Role Play, Round, Scratch, Shadow Claw, Sleep Talk, Snore, Solarbeam, Substitute,
         Sunny Day, Swagger, Taunt, Thief, Tickle, Torment, Toxic, Uproar, Will-O-Wisp,
         Work Up, Yawn]
+    - xy: [Acrobatics, Amnesia, Astonish, Attract, Bite, Covet, Crunch, Cut, Dig,
+        Double Team, Facade, Fire Blast, Fire Punch, Fire Spin, Flame Burst, Flame
+          Charge, Flamethrower, Fling, Frustration, Fury Swipes, Grass Knot, Heat
+          Wave, Hidden Power, Hone Claws, Incinerate, Leer, Lick, Low Kick, Low Sweep,
+        Nasty Plot, Natural Gift, Overheat, Payback, Protect, Recycle, Rest, Return,
+        Rock Smash, Rock Tomb, Role Play, Round, Scratch, Shadow Claw, Sleep Talk,
+        Solar Beam, Substitute, Sunny Day, Swagger, Taunt, Thief, Tickle, Torment,
+        Toxic, Will-O-Wisp, Work Up, Yawn, Gunk Shot, Uproar, Iron Tail, Snore, Knock
+          Off, Helping Hand, Endeavor, Play Nice, Confide, Disarming Voice]
     stats:
     - [50, 53, 48, 53, 48, 64]
     tags:
@@ -33,6 +42,8 @@ pokemon:
     introduction: dp
     moves:
     - bw: [Brick Break, Focus Blast, Giga Impact, Hyper Beam, Rock Slide, Superpower]
+    - xy: [Brick Break, Focus Blast, Giga Impact, Hyper Beam, Rock Slide, Superpower,
+        Power-Up Punch]
     stats:
     - [75, 98, 63, 98, 63, 101]
     tags:

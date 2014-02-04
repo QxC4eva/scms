@@ -16,6 +16,15 @@ pokemon:
         Safeguard, Scald, Shadow Ball, Sleep Talk, Sludge Bomb, Sludge Wave, Snore,
         Spite, Substitute, Surf, Swagger, Taunt, Toxic, Trick, Trick Room, Water Pulse,
         Water Sport, Water Spout, Waterfall, Will-O-Wisp, Wring Out]
+    - xy: [Absorb, Acid Armor, Attract, Blizzard, Brine, Bubble, Bubble Beam, Confuse
+          Ray, Constrict, Dive, Double Team, Dream Eater, Energy Ball, Facade, Flash,
+        Frustration, Hail, Hex, Hidden Power, Hydro Pump, Ice Beam, Mist, Night Shade,
+        Ominous Wind, Pain Split, Protect, Psychic, Psych Up, Rain Dance, Recover,
+        Rest, Return, Round, Safeguard, Scald, Shadow Ball, Sludge Bomb, Sludge Wave,
+        Substitute, Surf, Swagger, Taunt, Toxic, Trick Room, Waterfall, Water Pulse,
+        Water Sport, Water Spout, Will-O-Wisp, Wring Out, Magic Coat, Icy Wind, Dark
+          Pulse, Bind, Snore, Giga Drain, Spite, Trick, Sleep Talk, Dazzling Gleam,
+        Confide]
     stats:
     - [55, 40, 50, 65, 85, 40]
     tags:
@@ -32,6 +41,7 @@ pokemon:
     introduction: bw
     moves:
     - bw: [Giga Impact, Hyper Beam]
+    - xy: [Giga Impact, Hyper Beam]
     stats:
     - [100, 60, 70, 85, 105, 60]
     tags:

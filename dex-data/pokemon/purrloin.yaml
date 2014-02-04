@@ -8,6 +8,7 @@ pokemon:
     introduction: dp
     moves:
     - bw: [Giga Impact, Hyper Beam, Rock Smash]
+    - xy: [Giga Impact, Hyper Beam, Rock Smash]
     stats:
     - [64, 88, 50, 88, 50, 106]
     tags:
@@ -33,6 +34,15 @@ pokemon:
         Shadow Ball, Shadow Claw, Slash, Sleep Talk, Snarl, Snatch, Snore, Spite,
         Substitute, Sucker Punch, Sunny Day, Swagger, Taunt, Thief, Thunder Wave,
         Torment, Toxic, Trick, U-turn, Yawn]
+    - xy: [Aerial Ace, Assist, Assurance, Attract, Captivate, Charm, Covet, Cut, Double
+          Team, Dream Eater, Echoed Voice, Embargo, Encore, Facade, Feint Attack,
+        Fake Out, Fake Tears, Foul Play, Frustration, Fury Swipes, Grass Knot, Growl,
+        Hidden Power, Hone Claws, Nasty Plot, Night Slash, Payback, Pay Day, Protect,
+        Psych Up, Pursuit, Rain Dance, Rest, Return, Round, Sand Attack, Scratch,
+        Shadow Ball, Shadow Claw, Slash, Snarl, Snatch, Substitute, Sucker Punch,
+        Sunny Day, Swagger, Taunt, Thief, Thunder Wave, Torment, Toxic, U-turn, Yawn,
+        Seed Bomb, Gunk Shot, Dark Pulse, Hyper Voice, Iron Tail, Snore, Knock Off,
+        Role Play, Spite, Trick, Sleep Talk, Play Rough, Confide, Copycat]
     stats:
     - [41, 50, 37, 50, 37, 66]
     tags:

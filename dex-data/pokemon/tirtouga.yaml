@@ -8,6 +8,7 @@ pokemon:
     introduction: bw
     moves:
     - bw: [Focus Blast, Giga Impact, Hyper Beam, Iron Head, Low Kick, Superpower]
+    - xy: [Focus Blast, Giga Impact, Hyper Beam, Iron Head, Low Kick, Superpower]
     stats:
     - [74, 108, 133, 83, 65, 32]
     tags:
@@ -32,6 +33,15 @@ pokemon:
         Sandstorm, Scald, Shell Smash, Slam, Sleep Talk, Smack Down, Snore, Stealth
           Rock, Stone Edge, Strength, Substitute, Surf, Swagger, Toxic, Water Gun,
         Water Pulse, Waterfall, Whirlpool, Wide Guard, Withdraw]
+    - xy: [Ancient Power, Aqua Jet, Aqua Tail, Attract, Bide, Bite, Blizzard, Body
+          Slam, Brine, Bulldoze, Crunch, Curse, Dig, Dive, Double Team, Earthquake,
+        Facade, Flail, Frustration, Hidden Power, Hydro Pump, Ice Beam, Iron Defense,
+        Knock Off, Protect, Rain Dance, Rest, Return, Rock Polish, Rock Slide, Rock
+          Smash, Rock Throw, Rock Tomb, Rollout, Round, Sandstorm, Scald, Shell Smash,
+        Slam, Smack Down, Stone Edge, Strength, Substitute, Surf, Swagger, Toxic,
+        Waterfall, Water Gun, Water Pulse, Whirlpool, Wide Guard, Withdraw, Block,
+        Earth Power, Icy Wind, Iron Tail, Snore, Stealth Rock, Sleep Talk, Confide,
+        Guard Swap]
     stats:
     - [54, 78, 103, 53, 45, 22]
     tags:

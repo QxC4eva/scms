@@ -44,6 +44,17 @@ pokemon:
         Earthquake, Explosion, Fire Blast, Fissure, Harden, Mega Punch, Metronome,
         Mimic, Rage, Rest, Rock Slide, Rock Throw, Seismic Toss, Selfdestruct, Strength,
         Submission, Substitute, Tackle, Take Down, Toxic, Rapid Spin]
+    - xy: [Ancient Power, Attract, Autotomize, Block, Body Slam, Brick Break, Bulldoze,
+        Captivate, Counter, Curse, Defense Curl, Dig, Double-Edge, Double Team, Dynamic
+          Punch, Earth Power, Earthquake, Endure, Explosion, Facade, Fire Blast, Fire
+          Punch, Flail, Flamethrower, Fling, Focus Punch, Frustration, Gyro Ball,
+        Hammer Arm, Headbutt, Hidden Power, Incinerate, Magnitude, Mega Punch, Metronome,
+        Mimic, Mud-Slap, Mud Sport, Natural Gift, Protect, Rest, Return, Rock Blast,
+        Rock Climb, Rock Polish, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout,
+        Round, Sandstorm, Secret Power, Seismic Toss, Self-Destruct, Sleep Talk, Smack
+          Down, Snore, Stealth Rock, Stone Edge, Strength, Substitute, Sucker Punch,
+        Sunny Day, Superpower, Swagger, Tackle, Thunder Punch, Toxic, Iron Defense,
+        Nature Power, Power-Up Punch, Confide, Wide Guard]
     stats:
     - [40, 80, 100, 30, 30, 20]
     - gs: [40, 80, 100, 30, 30, 20]
@@ -69,6 +80,8 @@ pokemon:
           Slam, Mimic, Seismic Toss]
     - rs: [Fury Cutter, Hyper Beam, Mega Kick, Roar, Body Slam, Mimic, Seismic Toss]
     - rb: [Hyper Beam, Mega Kick]
+    - xy: [Focus Blast, Fury Cutter, Giga Impact, Heavy Slam, Hyper Beam, Iron Head,
+        Mega Kick, Roar, Steamroller]
     stats:
     - [80, 110, 130, 55, 55, 45]
     - gs: [80, 110, 130, 55, 65, 45]
@@ -96,6 +109,7 @@ pokemon:
     - dp: [Body Slam, Mimic, Seismic Toss]
     - rs: [Body Slam, Mimic, Seismic Toss]
     - rb: []
+    - xy: []
     stats:
     - [55, 95, 115, 45, 45, 35]
     - gs: [55, 95, 115, 45, 45, 35]

@@ -16,6 +16,8 @@ pokemon:
         Wring Out, Double-Edge, Mimic, Seismic Toss]
     - rs: [Bullet Seed, Constrict, Seismic Toss, Sludge Bomb, Double-Edge, Mimic,
         Seismic Toss]
+    - xy: [Constrict, Energy Ball, Flash Cannon, Giga Impact, Payback, Seismic Toss,
+        Sludge Bomb, Sludge Wave, Wring Out, Bind]
     stats:
     - [75, 105, 75, 105, 75, 45]
     tags:
@@ -63,6 +65,16 @@ pokemon:
         Secret Power, Sleep Talk, Snore, Substitute, Sunny Day, Supersonic, Surf,
         Swagger, Swift, Thief, Thunder Wave, Toxic, Water Gun, Water Pulse, Waterfall,
         Double-Edge, Mimic]
+    - xy: [Acid Spray, Attract, Aurora Beam, Blizzard, Bounce, Brine, Bubble Beam,
+        Bullet Seed, Captivate, Charge Beam, Defense Curl, Dive, Double-Edge, Double
+          Team, Endure, Facade, Fire Blast, Flail, Flamethrower, Focus Energy, Frustration,
+        Gunk Shot, Haze, Hidden Power, Hydro Pump, Hyper Beam, Ice Beam, Icy Wind,
+        Incinerate, Lock-On, Mimic, Mud Shot, Mud-Slap, Natural Gift, Octazooka, Protect,
+        Psybeam, Psychic, Rain Dance, Rest, Return, Rock Blast, Round, Scald, Screech,
+        Secret Power, Seed Bomb, Signal Beam, Sleep Talk, Smack Down, Snore, Soak,
+        String Shot, Substitute, Sunny Day, Supersonic, Surf, Swagger, Swift, Thief,
+        Thunder Wave, Toxic, Waterfall, Water Gun, Water Pulse, Water Spout, Whirlpool,
+        Confide, Entrainment]
     stats:
     - [35, 65, 35, 65, 35, 65]
     tags:

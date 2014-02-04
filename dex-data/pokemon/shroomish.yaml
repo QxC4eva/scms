@@ -6,19 +6,19 @@ pokemon:
     - bw: [Effect Spore, Poison Heal, Technician]
     egggroups:
     - [Fairy, Plant]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.2]
     introduction: rs
     moves:
-    - bw: [Brick Break, Bulk Up, Counter, Cut, Dynamic Punch, Fling, Focus Blast, Force
-          Palm, Giga Impact, Hyper Beam, Iron Tail, Low Sweep, Mach Punch, Mind Reader,
-        Retaliate, Rock Slide, Rock Smash, Rock Tomb, Sky Uppercut, Stone Edge, Strength,
-        Superpower, Thunder Punch, Work Up]
-    - dp: [Brick Break, Bulk Up, Counter, Cut, Drain Punch, Dynamic Punch, Fling, Focus
-          Blast, Focus Punch, Force Palm, Fury Cutter, Giga Impact, Hyper Beam, Iron
-          Tail, Mach Punch, Mind Reader, Mud-Slap, Rock Slide, Rock Smash, Rock Tomb,
-        Sky Uppercut, Stone Edge, Strength, Superpower, Thunder Punch, Vacuum Wave]
+    - bw: [Brick Break, Bulk Up, Counter, Cut, Dynamic Punch, Fling, Focus Blast,
+        Force Palm, Giga Impact, Hyper Beam, Iron Tail, Low Sweep, Mach Punch, Mind
+          Reader, Retaliate, Rock Slide, Rock Smash, Rock Tomb, Sky Uppercut, Stone
+          Edge, Strength, Superpower, Thunder Punch, Work Up]
+    - dp: [Brick Break, Bulk Up, Counter, Cut, Drain Punch, Dynamic Punch, Fling,
+        Focus Blast, Focus Punch, Force Palm, Fury Cutter, Giga Impact, Hyper Beam,
+        Iron Tail, Mach Punch, Mind Reader, Mud-Slap, Rock Slide, Rock Smash, Rock
+          Tomb, Sky Uppercut, Stone Edge, Strength, Superpower, Thunder Punch, Vacuum
+          Wave]
     - rs: [Brick Break, Bulk Up, Counter, Cut, Dynamic Punch, Focus Punch, Fury Cutter,
         Hyper Beam, Iron Tail, Mach Punch, Mega Kick, Mega Punch, Mind Reader, Mud-Slap,
         Rock Smash, Seismic Toss, Sky Uppercut, Strength, Thunder Punch]
@@ -63,10 +63,10 @@ pokemon:
         Toxic, Wake-Up Slap, Worry Seed, Body Slam, Double-Edge, Mimic, Refresh]
     - rs: [Absorb, Attract, Body Slam, Bullet Seed, Charm, Double-Edge, Double Team,
         Endure, Facade, Fake Tears, False Swipe, Flash, Frustration, Giga Drain, Growth,
-        Headbutt, Helping Hand, Hidden Power, Leech Seed, Mega Drain, Mimic, Poison Powder,
-        Protect, Rest, Return, Safeguard, Secret Power, Sleep Talk, Sludge Bomb, Snatch,
-        Snore, Solar Beam, Spore, Stun Spore, Substitute, Sunny Day, Swagger, Swords
-          Dance, Tackle, Toxic, Body Slam, Double-Edge, Mimic, Refresh]
+        Headbutt, Helping Hand, Hidden Power, Leech Seed, Mega Drain, Mimic, Poison
+          Powder, Protect, Rest, Return, Safeguard, Secret Power, Sleep Talk, Sludge
+          Bomb, Snatch, Snore, Solar Beam, Spore, Stun Spore, Substitute, Sunny Day,
+        Swagger, Swords Dance, Tackle, Toxic, Body Slam, Double-Edge, Mimic, Refresh]
     - xy: [Absorb, Attract, Body Slam, Bullet Seed, Captivate, Charm, Double-Edge,
         Double Team, Drain Punch, Endure, Energy Ball, Facade, Fake Tears, False Swipe,
         Flash, Focus Punch, Frustration, Giga Drain, Grass Knot, Growth, Headbutt,

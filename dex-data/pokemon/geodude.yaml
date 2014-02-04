@@ -21,17 +21,17 @@ pokemon:
         Mega Punch, Mud Sport, Protect, Rest, Return, Rock Blast, Rock Climb, Rock
           Polish, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Round, Sandstorm,
         Self-Destruct, Sleep Talk, Smack Down, Snore, Stealth Rock, Stone Edge, Strength,
-        Substitute, Sunny Day, Superpower, Swagger, Tackle, Thunder Punch, Toxic, Body
-          Slam, Double-Edge, Mimic, Seismic Toss, Self-Destruct]
+        Substitute, Sunny Day, Superpower, Swagger, Tackle, Thunder Punch, Toxic,
+        Body Slam, Double-Edge, Mimic, Seismic Toss, Self-Destruct]
     - dp: [Ancient Power, Attract, Block, Brick Break, Captivate, Curse, Defense Curl,
         Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endure, Explosion,
         Facade, Fire Blast, Fire Punch, Flail, Flamethrower, Fling, Focus Punch, Frustration,
         Gyro Ball, Hammer Arm, Headbutt, Hidden Power, Magnitude, Mega Punch, Mud-Slap,
         Mud Sport, Natural Gift, Protect, Rest, Return, Rock Blast, Rock Climb, Rock
           Polish, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Sandstorm,
-        Secret Power, Self-Destruct, Sleep Talk, Snore, Stealth Rock, Stone Edge, Strength,
-        Substitute, Sucker Punch, Sunny Day, Superpower, Swagger, Tackle, Thunder Punch,
-        Toxic, Body Slam, Double-Edge, Mimic, Seismic Toss, Self-Destruct]
+        Secret Power, Self-Destruct, Sleep Talk, Snore, Stealth Rock, Stone Edge,
+        Strength, Substitute, Sucker Punch, Sunny Day, Superpower, Swagger, Tackle,
+        Thunder Punch, Toxic, Body Slam, Double-Edge, Mimic, Seismic Toss, Self-Destruct]
     - rs: [Attract, Block, Body Slam, Brick Break, Counter, Defense Curl, Dig, Double-Edge,
         Double Team, Dynamic Punch, Earthquake, Endure, Explosion, Facade, Fire Blast,
         Fire Punch, Flamethrower, Focus Punch, Frustration, Hidden Power, Magnitude,
@@ -70,8 +70,7 @@ pokemon:
     - bw: [Rock Head, Sand Veil, Sturdy]
     egggroups:
     - [Mineral]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.4]
     introduction: rb
     moves:

@@ -6,8 +6,7 @@ pokemon:
       dp: [Shell Armor, Skill Link]
     egggroups:
     - [Water 3]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.5]
     introduction: rb
     moves:
@@ -45,13 +44,13 @@ pokemon:
           Team, Endure, Frustration, Hidden Power, Ice Beam, Icy Wind, Leer, Protect,
         Rain Dance, Rapid Spin, Rest, Return, Screech, Sleep Talk, Snore, Supersonic,
         Surf, Swagger, Swift, Tackle, Take Down, Toxic, Whirlpool, Withdraw]
-    - bw: [Aqua Ring, Attract, Aurora Beam, Avalanche, Barrier, Blizzard, Brine, Bubble Beam,
-        Clamp, Dive, Double Team, Explosion, Facade, Frustration, Hail, Hidden Power,
-        Hydro Pump, Ice Beam, Ice Shard, Icicle Spear, Icy Wind, Iron Defense, Leer,
-        Mud Shot, Payback, Protect, Rain Dance, Rapid Spin, Razor Shell, Rest, Return,
-        Rock Blast, Round, Screech, Shell Smash, Sleep Talk, Snore, Substitute, Supersonic,
-        Surf, Swagger, Tackle, Take Down, Toxic, Twineedle, Water Pulse, Whirlpool,
-        Withdraw, Double-Edge, Icy Wind, Mimic, Refresh, Self-Destruct]
+    - bw: [Aqua Ring, Attract, Aurora Beam, Avalanche, Barrier, Blizzard, Brine, Bubble
+          Beam, Clamp, Dive, Double Team, Explosion, Facade, Frustration, Hail, Hidden
+          Power, Hydro Pump, Ice Beam, Ice Shard, Icicle Spear, Icy Wind, Iron Defense,
+        Leer, Mud Shot, Payback, Protect, Rain Dance, Rapid Spin, Razor Shell, Rest,
+        Return, Rock Blast, Round, Screech, Shell Smash, Sleep Talk, Snore, Substitute,
+        Supersonic, Surf, Swagger, Tackle, Take Down, Toxic, Twineedle, Water Pulse,
+        Whirlpool, Withdraw, Double-Edge, Icy Wind, Mimic, Refresh, Self-Destruct]
     - dp: [Attract, Aurora Beam, Barrier, Blizzard, Brine, Bubble Beam, Captivate,
         Clamp, Dive, Double Team, Endure, Explosion, Facade, Frustration, Hail, Hidden
           Power, Ice Beam, Ice Shard, Icicle Spear, Icy Wind, Iron Defense, Leer,

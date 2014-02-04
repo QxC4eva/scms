@@ -9,23 +9,24 @@ pokemon:
     height: [0.3]
     introduction: gs
     moves:
-    - gs: [Attract, Bide, Charm, Curse, Defense Curl, Detect, Double Team, Double Slap,
-        Encore, Endure, Flash, Frustration, Headbutt, Hidden Power, Iron Tail, Mud-Slap,
-        Present, Protect, Rain Dance, Rest, Return, Reversal, Rollout, Sleep Talk,
-        Snore, Swagger, Sweet Kiss, Swift, Tail Whip, Thunder, Thunder Wave, Thunderbolt,
-        Thunder Shock, Toxic, Zap Cannon, Dizzy Punch, Petal Dance, Sing, Scary Face]
+    - gs: [Attract, Bide, Charm, Curse, Defense Curl, Detect, Double Team, Double
+          Slap, Encore, Endure, Flash, Frustration, Headbutt, Hidden Power, Iron Tail,
+        Mud-Slap, Present, Protect, Rain Dance, Rest, Return, Reversal, Rollout, Sleep
+          Talk, Snore, Swagger, Sweet Kiss, Swift, Tail Whip, Thunder, Thunder Wave,
+        Thunderbolt, Thunder Shock, Toxic, Zap Cannon, Dizzy Punch, Petal Dance, Sing,
+        Scary Face]
     - bw: [Attract, Bestow, Bide, Charge, Charge Beam, Charm, Covet, Double Team,
         Double Slap, Echoed Voice, Encore, Endure, Facade, Fake Out, Flail, Flash,
         Fling, Frustration, Grass Knot, Helping Hand, Hidden Power, Iron Tail, Light
           Screen, Lucky Chant, Magnet Rise, Nasty Plot, Present, Protect, Rain Dance,
         Rest, Return, Reversal, Round, Signal Beam, Sleep Talk, Snore, Substitute,
-        Swagger, Sweet Kiss, Tail Whip, Thunder, Thunder Wave, Thunderbolt, Thunder Punch,
-        Thunder Shock, Tickle, Toxic, Uproar, Volt Switch, Volt Tackle, Wild Charge,
-        Wish, Teeter Dance, Follow Me]
-    - dp: [Attract, Bide, Captivate, Charge, Charge Beam, Charm, Double Team, Double Slap,
-        Encore, Endure, Facade, Fake Out, Flail, Flash, Fling, Frustration, Grass
-          Knot, Headbutt, Helping Hand, Hidden Power, Iron Tail, Light Screen, Magnet
-          Rise, Mud-Slap, Nasty Plot, Natural Gift, Present, Protect, Rain Dance,
+        Swagger, Sweet Kiss, Tail Whip, Thunder, Thunder Wave, Thunderbolt, Thunder
+          Punch, Thunder Shock, Tickle, Toxic, Uproar, Volt Switch, Volt Tackle, Wild
+          Charge, Wish, Teeter Dance, Follow Me]
+    - dp: [Attract, Bide, Captivate, Charge, Charge Beam, Charm, Double Team, Double
+          Slap, Encore, Endure, Facade, Fake Out, Flail, Flash, Fling, Frustration,
+        Grass Knot, Headbutt, Helping Hand, Hidden Power, Iron Tail, Light Screen,
+        Magnet Rise, Mud-Slap, Nasty Plot, Natural Gift, Present, Protect, Rain Dance,
         Rest, Return, Reversal, Rollout, Secret Power, Shock Wave, Signal Beam, Sleep
           Talk, Snore, Substitute, Swagger, Sweet Kiss, Swift, Tail Whip, Thunder,
         Thunder Wave, Thunderbolt, Thunder Punch, Thunder Shock, Tickle, Toxic, Uproar,
@@ -104,8 +105,7 @@ pokemon:
     - bw: [Lightningrod, Static]
     egggroups:
     - [Fairy, Ground]
-    evolutions:
-    - []
+    evolutions: []
     height: [0.8]
     introduction: rb
     moves:

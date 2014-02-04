@@ -6,8 +6,7 @@ pokemon:
       dp: [Poison Point, Rivalry]
     egggroups:
     - [Ground, Monster]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.4]
     introduction: rb
     moves:
@@ -18,8 +17,9 @@ pokemon:
         Earthquake, Fire Blast, Fire Punch, Flamethrower, Fling, Focus Blast, Giga
           Impact, Hyper Beam, Ice Punch, Icy Wind, Incinerate, Megahorn, Outrage,
         Quash, Roar, Rock Slide, Rock Tomb, Sandstorm, Shadow Ball, Sludge Wave, Smack
-          Down, Stealth Rock, Stone Edge, Superpower, Surf, Taunt, Thrash, Thunder Punch,
-        Torment, Uproar, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+          Down, Stealth Rock, Stone Edge, Superpower, Surf, Taunt, Thrash, Thunder
+          Punch, Torment, Uproar, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic
+          Toss]
     - dp: [Aqua Tail, Avalanche, Brick Break, Dragon Pulse, Earth Power, Earthquake,
         Fire Blast, Fire Punch, Flamethrower, Fling, Focus Blast, Focus Punch, Fury
           Cutter, Giga Impact, Hyper Beam, Ice Punch, Icy Wind, Megahorn, Outrage,

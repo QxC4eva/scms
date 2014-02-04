@@ -36,10 +36,10 @@ pokemon:
     - rs: [Attract, Body Slam, Bullet Seed, Charm, Curse, Cut, Defense Curl, Double-Edge,
         Double Team, Endure, Facade, Flash, Frustration, Fury Cutter, Giga Drain,
         Grass Whistle, Growl, Growth, Hidden Power, Leech Seed, Light Screen, Magical
-          Leaf, Mimic, Mud-Slap, Petal Dance, Poison Powder, Protect, Razor Leaf, Rest,
-        Return, Rock Smash, Safeguard, Secret Power, Skull Bash, Sleep Powder, Sleep
-          Talk, Sludge Bomb, Snore, Solar Beam, Strength, Substitute, Sunny Day, Swagger,
-        Sweet Scent, Swords Dance, Synthesis, Tackle, Toxic, Vine Whip]
+          Leaf, Mimic, Mud-Slap, Petal Dance, Poison Powder, Protect, Razor Leaf,
+        Rest, Return, Rock Smash, Safeguard, Secret Power, Skull Bash, Sleep Powder,
+        Sleep Talk, Sludge Bomb, Snore, Solar Beam, Strength, Substitute, Sunny Day,
+        Swagger, Sweet Scent, Swords Dance, Synthesis, Tackle, Toxic, Vine Whip]
     - rb: [Bide, Body Slam, Cut, Double-Edge, Double Team, Growl, Growth, Leech Seed,
         Mega Drain, Mimic, Poison Powder, Rage, Razor Leaf, Reflect, Rest, Sleep Powder,
         Solar Beam, Substitute, Swords Dance, Tackle, Take Down, Toxic, Vine Whip,
@@ -118,8 +118,7 @@ pokemon:
     - [Thick Fat]
     egggroups:
     - [Monster, Grass]
-    evolutions:
-    - []
+    evolutions: []
     height: [2.4]
     introduction: xy
     moves:

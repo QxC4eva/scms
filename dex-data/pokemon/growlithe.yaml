@@ -5,8 +5,7 @@ pokemon:
     - bw: [Flash Fire, Intimidate, Justified]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.9]
     introduction: rb
     moves:
@@ -39,11 +38,11 @@ pokemon:
     height: [0.7]
     introduction: rb
     moves:
-    - gs: [Agility, Attract, Bite, Body Slam, Crunch, Curse, Dig, Double Team, Dragon Breath,
-        Ember, Endure, Fire Blast, Fire Spin, Flame Wheel, Flamethrower, Frustration,
-        Headbutt, Hidden Power, Iron Tail, Leer, Protect, Rest, Return, Roar, Rock
-          Smash, Safeguard, Sleep Talk, Snore, Sunny Day, Swagger, Swift, Take Down,
-        Thrash, Toxic]
+    - gs: [Agility, Attract, Bite, Body Slam, Crunch, Curse, Dig, Double Team, Dragon
+          Breath, Ember, Endure, Fire Blast, Fire Spin, Flame Wheel, Flamethrower,
+        Frustration, Headbutt, Hidden Power, Iron Tail, Leer, Protect, Rest, Return,
+        Roar, Rock Smash, Safeguard, Sleep Talk, Snore, Sunny Day, Swagger, Swift,
+        Take Down, Thrash, Toxic]
     - bw: [Aerial Ace, Agility, Attract, Bite, Body Slam, Close Combat, Covet, Crunch,
         Dig, Double-Edge, Double Kick, Double Team, Ember, Facade, Fire Blast, Fire
           Fang, Fire Spin, Flame Burst, Flame Charge, Flame Wheel, Flamethrower, Flare

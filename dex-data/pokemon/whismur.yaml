@@ -5,8 +5,7 @@ pokemon:
     - bw: [Scrappy, Soundproof]
     egggroups:
     - [Ground, Monster]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.5]
     introduction: rs
     moves:
@@ -77,18 +76,18 @@ pokemon:
         Hammer Arm, Headbutt, Hidden Power, Howl, Hyper Voice, Ice Beam, Ice Punch,
         Icy Wind, Mud-Slap, Natural Gift, Pound, Protect, Rain Dance, Rest, Return,
         Roar, Rollout, Screech, Secret Power, Shadow Ball, Shock Wave, Sleep Talk,
-        Smelling Salts, Smoke Screen, Snore, Solar Beam, Stomp, Substitute, Sunny Day,
-        Supersonic, Swagger, Take Down, Thunder Punch, Toxic, Uproar, Water Pulse,
-        Zen Headbutt, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+        Smelling Salts, Smoke Screen, Snore, Solar Beam, Stomp, Substitute, Sunny
+          Day, Supersonic, Swagger, Take Down, Thunder Punch, Toxic, Uproar, Water
+          Pulse, Zen Headbutt, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
     - rs: [Astonish, Attract, Blizzard, Body Slam, Counter, Defense Curl, Double-Edge,
         Double Team, Dynamic Punch, Endure, Extrasensory, Facade, Fire Blast, Fire
           Punch, Flamethrower, Frustration, Hidden Power, Howl, Hyper Voice, Ice Beam,
         Ice Punch, Icy Wind, Mega Kick, Mega Punch, Mimic, Mud-Slap, Pound, Protect,
         Psych Up, Rain Dance, Rest, Return, Roar, Rollout, Screech, Secret Power,
-        Seismic Toss, Shadow Ball, Shock Wave, Sleep Talk, Smelling Salts, Snore, Solar Beam,
-        Stomp, Substitute, Sunny Day, Supersonic, Swagger, Take Down, Thunder Punch,
-        Toxic, Uproar, Water Pulse, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic
-          Toss]
+        Seismic Toss, Shadow Ball, Shock Wave, Sleep Talk, Smelling Salts, Snore,
+        Solar Beam, Stomp, Substitute, Sunny Day, Supersonic, Swagger, Take Down,
+        Thunder Punch, Toxic, Uproar, Water Pulse, Body Slam, Double-Edge, Icy Wind,
+        Mimic, Seismic Toss]
     - xy: [Astonish, Attract, Blizzard, Body Slam, Captivate, Circle Throw, Counter,
         Defense Curl, Double-Edge, Double Team, Dynamic Punch, Echoed Voice, Endeavor,
         Endure, Extrasensory, Facade, Fake Tears, Fire Blast, Fire Punch, Flamethrower,

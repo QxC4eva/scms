@@ -61,8 +61,7 @@ pokemon:
     - bw: [Magic Bounce, Synchronize]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolutions: []
     height: [0.9]
     introduction: gs
     moves:
@@ -100,8 +99,7 @@ pokemon:
     - bw: [Flash Fire, Guts]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolutions: []
     height: [0.9]
     introduction: rb
     moves:
@@ -133,8 +131,7 @@ pokemon:
     - bw: [Ice Body, Snow Cloak]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolutions: []
     height: [0.8]
     introduction: dp
     moves:
@@ -158,8 +155,7 @@ pokemon:
     - bw: [Quick Feet, Volt Absorb]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolutions: []
     height: [0.8]
     introduction: rb
     moves:
@@ -193,14 +189,13 @@ pokemon:
     - [Chlorophyll, Leaf Guard]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolutions: []
     height: [1]
     introduction: dp
     moves:
     - bw: [Aerial Ace, Energy Ball, Giga Drain, Grass Whistle, Knock Off, Leaf Blade,
-        Magical Leaf, Razor Leaf, Seed Bomb, Solar Beam, Swords Dance, Synthesis, Worry
-          Seed, X-Scissor]
+        Magical Leaf, Razor Leaf, Seed Bomb, Solar Beam, Swords Dance, Synthesis,
+        Worry Seed, X-Scissor]
     - dp: [Aerial Ace, Bullet Seed, Energy Ball, Fury Cutter, Giga Drain, Grass Whistle,
         Knock Off, Leaf Blade, Magical Leaf, Razor Leaf, Seed Bomb, Solar Beam, Swords
           Dance, Synthesis, Worry Seed, X-Scissor]
@@ -221,8 +216,7 @@ pokemon:
     - [Cute Charm, Pixilate]
     egggroups:
     - [Field]
-    evolutions:
-    - []
+    evolutions: []
     height: [1]
     introduction: xy
     moves:
@@ -242,8 +236,7 @@ pokemon:
     - bw: [Inner Focus, Synchronize]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolutions: []
     height: [1]
     introduction: gs
     moves:
@@ -276,8 +269,7 @@ pokemon:
     - bw: [Hydration, Water Absorb]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolutions: []
     height: [1]
     introduction: rb
     moves:

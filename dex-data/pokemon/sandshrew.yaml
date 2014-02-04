@@ -9,10 +9,10 @@ pokemon:
     height: [0.6]
     introduction: rb
     moves:
-    - gs: [Attract, Counter, Curse, Cut, Defense Curl, Detect, Dig, Double Team, Dynamic Punch,
-        Earthquake, Endure, Flail, Frustration, Fury Cutter, Fury Swipes, Headbutt,
-        Hidden Power, Iron Tail, Metal Claw, Mud-Slap, Poison Sting, Protect, Rapid
-          Spin, Rest, Return, Rock Smash, Rollout, Safeguard, Sand Attack, Sandstorm,
+    - gs: [Attract, Counter, Curse, Cut, Defense Curl, Detect, Dig, Double Team, Dynamic
+          Punch, Earthquake, Endure, Flail, Frustration, Fury Cutter, Fury Swipes,
+        Headbutt, Hidden Power, Iron Tail, Metal Claw, Mud-Slap, Poison Sting, Protect,
+        Rapid Spin, Rest, Return, Rock Smash, Rollout, Safeguard, Sand Attack, Sandstorm,
         Scratch, Slash, Sleep Talk, Snore, Strength, Sunny Day, Swagger, Swift, Thief,
         Toxic]
     - bw: [Aerial Ace, Attract, Brick Break, Bulldoze, Chip Away, Counter, Covet,
@@ -73,8 +73,7 @@ pokemon:
     - bw: [Sand Rush, Sand Veil]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolutions: []
     height: [1]
     introduction: rb
     moves:

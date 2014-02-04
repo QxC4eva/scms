@@ -38,13 +38,12 @@ pokemon:
     - [Iron Fist, Klutz, No Guard]
     egggroups:
     - [Mineral]
-    evolutions:
-    - []
+    evolutions: []
     height: [2.8]
     introduction: bw
     moves:
-    - bw: [Charge Beam, Flash Cannon, Fly, Giga Impact, Heavy Slam, Hyper Beam, Solar Beam,
-        Stone Edge, Thunderbolt, Zen Headbutt]
+    - bw: [Charge Beam, Flash Cannon, Fly, Giga Impact, Heavy Slam, Hyper Beam, Solar
+          Beam, Stone Edge, Thunderbolt, Zen Headbutt]
     - xy: [Charge Beam, Flash Cannon, Fly, Giga Impact, Heavy Slam, Hyper Beam, Solar
           Beam, Stone Edge, Thunderbolt, Zen Headbutt, Phantom Force]
     stats:

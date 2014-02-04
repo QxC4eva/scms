@@ -32,8 +32,7 @@ pokemon:
     - [Speed Boost]
     egggroups:
     - [Field]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.9]
     introduction: xy
     moves:
@@ -59,8 +58,8 @@ pokemon:
         Fling, Focus Blast, Low Sweep, Poison Jab, Sky Uppercut, Thunder Punch, Work
           Up]
     - dp: [Brick Break, Bulk Up, Double Kick, Fire Punch, Flare Blitz, Fling, Focus
-          Blast, Focus Punch, Fury Cutter, Low Kick, Poison Jab, Sky Uppercut, Thunder Punch,
-        Vacuum Wave]
+          Blast, Focus Punch, Fury Cutter, Low Kick, Poison Jab, Sky Uppercut, Thunder
+          Punch, Vacuum Wave]
     - rs: [Brick Break, Bulk Up, Double Kick, Dynamic Punch, Fire Punch, Focus Punch,
         Fury Cutter, Sky Uppercut, Thunder Punch]
     - xy: [Brick Break, Bulk Up, Double Kick, Dynamic Punch, Fire Punch, Flare Blitz,
@@ -85,31 +84,32 @@ pokemon:
     introduction: rs
     moves:
     - bw: [Aerial Ace, Agility, Attract, Baton Pass, Bounce, Counter, Crush Claw,
-        Curse, Cut, Dig, Double Team, Echoed Voice, Ember, Endure, Facade, Feather Dance,
-        Feint, Fire Blast, Fire Pledge, Fire Spin, Flame Burst, Flame Charge, Flamethrower,
-        Focus Energy, Frustration, Growl, Heat Wave, Helping Hand, Hidden Power, Hone
-          Claws, Incinerate, Last Resort, Low Kick, Mirror Move, Night Slash, Overheat,
-        Peck, Protect, Quick Attack, Rest, Return, Reversal, Rock Slide, Rock Smash,
-        Rock Tomb, Round, Sand Attack, Scratch, Shadow Claw, Slash, Sleep Talk, Smelling Salts,
-        Snore, Strength, Substitute, Sunny Day, Swagger, Swords Dance, Toxic, Will-O-Wisp,
-        Body Slam, Double-Edge, Mimic, Seismic Toss]
+        Curse, Cut, Dig, Double Team, Echoed Voice, Ember, Endure, Facade, Feather
+          Dance, Feint, Fire Blast, Fire Pledge, Fire Spin, Flame Burst, Flame Charge,
+        Flamethrower, Focus Energy, Frustration, Growl, Heat Wave, Helping Hand, Hidden
+          Power, Hone Claws, Incinerate, Last Resort, Low Kick, Mirror Move, Night
+          Slash, Overheat, Peck, Protect, Quick Attack, Rest, Return, Reversal, Rock
+          Slide, Rock Smash, Rock Tomb, Round, Sand Attack, Scratch, Shadow Claw,
+        Slash, Sleep Talk, Smelling Salts, Snore, Strength, Substitute, Sunny Day,
+        Swagger, Swords Dance, Toxic, Will-O-Wisp, Body Slam, Double-Edge, Mimic,
+        Seismic Toss]
     - dp: [Aerial Ace, Agility, Attract, Baton Pass, Bounce, Captivate, Counter, Crush
           Claw, Cut, Dig, Double Team, Ember, Endure, Facade, Feather Dance, Feint,
         Fire Blast, Fire Spin, Flamethrower, Focus Energy, Frustration, Growl, Headbutt,
         Heat Wave, Helping Hand, Hidden Power, Last Resort, Mirror Move, Mud-Slap,
         Natural Gift, Night Slash, Overheat, Peck, Protect, Quick Attack, Rest, Return,
         Reversal, Rock Slide, Rock Smash, Rock Tomb, Sand Attack, Scratch, Secret
-          Power, Shadow Claw, Slash, Sleep Talk, Smelling Salts, Snore, Strength, Substitute,
-        Sunny Day, Swagger, Swift, Swords Dance, Toxic, Will-O-Wisp, Body Slam, Double-Edge,
-        Mimic, Seismic Toss]
+          Power, Shadow Claw, Slash, Sleep Talk, Smelling Salts, Snore, Strength,
+        Substitute, Sunny Day, Swagger, Swift, Swords Dance, Toxic, Will-O-Wisp, Body
+          Slam, Double-Edge, Mimic, Seismic Toss]
     - rs: [Aerial Ace, Attract, Body Slam, Counter, Cut, Dig, Double-Edge, Double
           Team, Ember, Endure, Facade, Fire Blast, Fire Spin, Flamethrower, Focus
           Energy, Frustration, Growl, Hidden Power, Mega Kick, Mega Punch, Mimic,
         Mirror Move, Mud-Slap, Overheat, Peck, Protect, Quick Attack, Rest, Return,
         Reversal, Rock Slide, Rock Smash, Rock Tomb, Sand Attack, Scratch, Secret
-          Power, Seismic Toss, Slash, Sleep Talk, Smelling Salts, Snore, Strength, Substitute,
-        Sunny Day, Swagger, Swift, Swords Dance, Toxic, Body Slam, Double-Edge, Mimic,
-        Seismic Toss]
+          Power, Seismic Toss, Slash, Sleep Talk, Smelling Salts, Snore, Strength,
+        Substitute, Sunny Day, Swagger, Swift, Swords Dance, Toxic, Body Slam, Double-Edge,
+        Mimic, Seismic Toss]
     - xy: [Aerial Ace, Agility, Attract, Baton Pass, Body Slam, Bounce, Captivate,
         Counter, Crush Claw, Curse, Cut, Dig, Double-Edge, Double Team, Echoed Voice,
         Ember, Endure, Facade, Feather Dance, Feint, Fire Blast, Fire Pledge, Fire

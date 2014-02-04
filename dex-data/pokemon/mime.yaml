@@ -19,12 +19,12 @@ pokemon:
         Taunt, Teeter Dance, Telekinesis, Thief, Thunder, Thunder Wave, Thunderbolt,
         Tickle, Torment, Toxic, Trick, Trick Room, Uproar, Wake-Up Slap, Wonder Room]
     - dp: [Attract, Barrier, Baton Pass, Brick Break, Calm Mind, Captivate, Charge
-          Beam, Charm, Confuse Ray, Confusion, Copycat, Double Team, Double Slap, Drain
-          Punch, Dream Eater, Encore, Endure, Facade, Fake Out, Flash, Fling, Focus
-          Punch, Frustration, Future Sight, Grass Knot, Headbutt, Healing Wish, Helping
-          Hand, Hidden Power, Hypnosis, Light Screen, Magic Coat, Meditate, Mimic,
-        Mud-Slap, Nasty Plot, Natural Gift, Protect, Psybeam, Psych Up, Psychic, Rain
-          Dance, Recycle, Reflect, Rest, Return, Role Play, Safeguard, Secret Power,
+          Beam, Charm, Confuse Ray, Confusion, Copycat, Double Team, Double Slap,
+        Drain Punch, Dream Eater, Encore, Endure, Facade, Fake Out, Flash, Fling,
+        Focus Punch, Frustration, Future Sight, Grass Knot, Headbutt, Healing Wish,
+        Helping Hand, Hidden Power, Hypnosis, Light Screen, Magic Coat, Meditate,
+        Mimic, Mud-Slap, Nasty Plot, Natural Gift, Protect, Psybeam, Psych Up, Psychic,
+        Rain Dance, Recycle, Reflect, Rest, Return, Role Play, Safeguard, Secret Power,
         Shadow Ball, Shock Wave, Signal Beam, Skill Swap, Sleep Talk, Snatch, Snore,
         Solar Beam, Substitute, Sunny Day, Swagger, Taunt, Teeter Dance, Thief, Thunder,
         Thunder Wave, Thunderbolt, Tickle, Torment, Toxic, Trick, Trick Room, Uproar,
@@ -56,8 +56,7 @@ pokemon:
       dp: [Filter, Soundproof]
     egggroups:
     - [Humanshape]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.3]
     introduction: rb
     moves:
@@ -66,16 +65,16 @@ pokemon:
         Future Sight, Headbutt, Hidden Power, Hyper Beam, Hypnosis, Ice Punch, Light
           Screen, Meditate, Mimic, Mud-Slap, Nightmare, Protect, Psybeam, Psych Up,
         Psychic, Reflect, Rest, Return, Safeguard, Shadow Ball, Sleep Talk, Snore,
-        Solar Beam, Substitute, Sunny Day, Swagger, Thief, Thunder, Thunderbolt, Thunder Punch,
-        Toxic, Zap Cannon]
+        Solar Beam, Substitute, Sunny Day, Swagger, Thief, Thunder, Thunderbolt, Thunder
+          Punch, Toxic, Zap Cannon]
     - bw: [Aerial Ace, Energy Ball, Fire Punch, Focus Blast, Foul Play, Giga Impact,
         Guard Swap, Hyper Beam, Ice Punch, Iron Defense, Magical Leaf, Payback, Power
           Swap, Psywave, Quick Guard, Thunder Punch, Wide Guard, Zen Headbutt, Body
           Slam, Double-Edge, Follow Me, Nightmare, Seismic Toss, Thunder Punch]
     - dp: [Aerial Ace, Energy Ball, Fire Punch, Focus Blast, Giga Impact, Guard Swap,
-        Hyper Beam, Ice Punch, Iron Defense, Magical Leaf, Payback, Power Swap, Thunder Punch,
-        Zen Headbutt, Body Slam, Double-Edge, Follow Me, Nightmare, Seismic Toss,
-        Thunder Punch]
+        Hyper Beam, Ice Punch, Iron Defense, Magical Leaf, Payback, Power Swap, Thunder
+          Punch, Zen Headbutt, Body Slam, Double-Edge, Follow Me, Nightmare, Seismic
+          Toss, Thunder Punch]
     - rs: [Attract, Barrier, Baton Pass, Body Slam, Brick Break, Calm Mind, Confusion,
         Counter, Double-Edge, Double Team, Double Slap, Dream Eater, Encore, Endure,
         Facade, Fake Out, Fire Punch, Flash, Focus Punch, Frustration, Future Sight,
@@ -84,13 +83,14 @@ pokemon:
         Psybeam, Psych Up, Psychic, Rain Dance, Recycle, Reflect, Rest, Return, Role
           Play, Safeguard, Secret Power, Seismic Toss, Shadow Ball, Shock Wave, Skill
           Swap, Sleep Talk, Snatch, Snore, Solar Beam, Substitute, Sunny Day, Swagger,
-        Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Torment, Toxic,
-        Trick, Body Slam, Double-Edge, Follow Me, Nightmare, Seismic Toss, Thunder Punch]
+        Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Torment,
+        Toxic, Trick, Body Slam, Double-Edge, Follow Me, Nightmare, Seismic Toss,
+        Thunder Punch]
     - rb: [Barrier, Bide, Body Slam, Confusion, Counter, Double-Edge, Double Team,
         Double Slap, Flash, Hyper Beam, Light Screen, Meditate, Mega Kick, Mega Punch,
         Metronome, Mimic, Psychic, Psywave, Rage, Reflect, Rest, Seismic Toss, Skull
-          Bash, Solar Beam, Submission, Substitute, Take Down, Teleport, Thunder, Thunder
-          Wave, Thunderbolt, Toxic]
+          Bash, Solar Beam, Submission, Substitute, Take Down, Teleport, Thunder,
+        Thunder Wave, Thunderbolt, Toxic]
     - xy: [Aerial Ace, Body Slam, Counter, Double-Edge, Energy Ball, Fire Punch, Focus
           Blast, Follow Me, Giga Impact, Guard Swap, Hyper Beam, Ice Punch, Iron Defense,
         Magical Leaf, Mega Kick, Mega Punch, Metronome, Nightmare, Payback, Power

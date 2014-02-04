@@ -29,9 +29,9 @@ pokemon:
           Seed, Captivate, Counter, Cross Poison, Cut, Dig, Double Team, Endure, Energy
           Ball, Facade, False Swipe, Flail, Flash, Frustration, Fury Cutter, Giga
           Drain, Grass Knot, Growth, Hidden Power, Knock Off, Leech Life, Light Screen,
-        Metal Claw, Natural Gift, Poison Powder, Protect, Psybeam, Pursuit, Rest, Return,
-        Rock Smash, Scratch, Screech, Secret Power, Seed Bomb, Slash, Sleep Talk,
-        Sludge Bomb, Snore, Solar Beam, Spore, String Shot, Stun Spore, Substitute,
+        Metal Claw, Natural Gift, Poison Powder, Protect, Psybeam, Pursuit, Rest,
+        Return, Rock Smash, Scratch, Screech, Secret Power, Seed Bomb, Slash, Sleep
+          Talk, Sludge Bomb, Snore, Solar Beam, Spore, String Shot, Stun Spore, Substitute,
         Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis, Thief, Toxic, Worry
           Seed, X-Scissor, Refresh, Body Slam, Double-Edge, Mimic, Refresh]
     - rs: [Aerial Ace, Aromatherapy, Attract, Body Slam, Bullet Seed, Counter, Cut,
@@ -42,8 +42,8 @@ pokemon:
         Solar Beam, Spore, Stun Spore, Substitute, Sunny Day, Swagger, Sweet Scent,
         Swords Dance, Thief, Toxic, Refresh, Body Slam, Double-Edge, Mimic, Refresh]
     - rb: [Bide, Body Slam, Cut, Dig, Double-Edge, Double Team, Growth, Leech Life,
-        Mega Drain, Mimic, Rage, Reflect, Rest, Scratch, Skull Bash, Slash, Solar Beam,
-        Spore, Stun Spore, Substitute, Swords Dance, Take Down, Toxic, Synthesis]
+        Mega Drain, Mimic, Rage, Reflect, Rest, Scratch, Skull Bash, Slash, Solar
+          Beam, Spore, Stun Spore, Substitute, Swords Dance, Take Down, Toxic, Synthesis]
     - xy: [Aerial Ace, Agility, Aromatherapy, Attract, Body Slam, Brick Break, Bug
           Bite, Bullet Seed, Captivate, Counter, Cross Poison, Cut, Dig, Double-Edge,
         Double Team, Endure, Energy Ball, Facade, False Swipe, Flail, Flash, Frustration,
@@ -71,8 +71,7 @@ pokemon:
     - bw: [Damp, Dry Skin, Effect Spore]
     egggroups:
     - [Bug, Plant]
-    evolutions:
-    - []
+    evolutions: []
     height: [1]
     introduction: rb
     moves:

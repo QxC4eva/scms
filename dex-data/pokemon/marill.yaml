@@ -5,8 +5,7 @@ pokemon:
     - bw: [Huge Power, Sap Sipper, Thick Fat]
     egggroups:
     - [Fairy, Water 1]
-    evolutions:
-    - []
+    evolutions: []
     height: [0.8]
     introduction: gs
     moves:
@@ -90,10 +89,10 @@ pokemon:
           Curl, Dig, Dive, Double-Edge, Fling, Future Sight, Grass Knot, Hydro Pump,
         Ice Punch, Perish Song, Present, Rock Smash, Rollout, Strength, Superpower,
         Supersonic, Tackle]
-    - dp: [Amnesia, Aqua Jet, Aqua Ring, Aqua Tail, Belly Drum, Brick Break, Bubble Beam,
-        Defense Curl, Dig, Dive, Double-Edge, Fling, Focus Punch, Future Sight, Grass
-          Knot, Hydro Pump, Ice Punch, Light Screen, Perish Song, Present, Rock Smash,
-        Strength, Superpower, Supersonic, Tackle]
+    - dp: [Amnesia, Aqua Jet, Aqua Ring, Aqua Tail, Belly Drum, Brick Break, Bubble
+          Beam, Defense Curl, Dig, Dive, Double-Edge, Fling, Focus Punch, Future Sight,
+        Grass Knot, Hydro Pump, Ice Punch, Light Screen, Perish Song, Present, Rock
+          Smash, Strength, Superpower, Supersonic, Tackle]
     - rs: [Amnesia, Belly Drum, Brick Break, Bubble Beam, Dig, Dive, Dynamic Punch,
         Focus Punch, Future Sight, Hydro Pump, Ice Punch, Light Screen, Mega Kick,
         Mega Punch, Perish Song, Present, Rock Smash, Seismic Toss, Strength, Supersonic,

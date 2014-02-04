@@ -4,8 +4,7 @@ pokemon:
     - [Heatproof, Heavy Metal, Levitate]
     egggroups:
     - [Mineral]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.3]
     introduction: dp
     moves:
@@ -47,9 +46,9 @@ pokemon:
           Block, Hidden Power, Hypnosis, Imprison, Iron Defense, Light Screen, Natural
           Gift, Payback, Protect, Psych Up, Psychic, Rain Dance, Recycle, Reflect,
         Rest, Return, Rock Polish, Rock Slide, Rock Tomb, Rollout, Safeguard, Sandstorm,
-        Secret Power, Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snore, Solar Beam,
-        Stealth Rock, Substitute, Sunny Day, Swagger, Tackle, Toxic, Trick, Trick
-          Room]
+        Secret Power, Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snore, Solar
+          Beam, Stealth Rock, Substitute, Sunny Day, Swagger, Tackle, Toxic, Trick,
+        Trick Room]
     - xy: [Ancient Power, Bulldoze, Calm Mind, Charge Beam, Confuse Ray, Confusion,
         Double Team, Dream Eater, Earthquake, Endure, Extrasensory, Facade, Feint
           Attack, Flash, Flash Cannon, Frustration, Future Sight, Grass Knot, Gravity,

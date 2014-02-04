@@ -5,8 +5,7 @@ pokemon:
     - bw: [Sand Veil, Sturdy]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.1]
     introduction: gs
     moves:
@@ -61,8 +60,8 @@ pokemon:
         Rock Tomb, Rollout, Sandstorm, Secret Power, Seed Bomb, Slam, Sleep Talk,
         Snore, Stealth Rock, Strength, Substitute, Sunny Day, Superpower, Swagger,
         Tackle, Take Down, Toxic, Mimic]
-    - rs: [Ancient Power, Attract, Body Slam, Counter, Defense Curl, Double-Edge, Double
-          Team, Earthquake, Endure, Facade, Fissure, Flail, Focus Energy, Frustration,
+    - rs: [Ancient Power, Attract, Body Slam, Counter, Defense Curl, Double-Edge,
+        Double Team, Earthquake, Endure, Facade, Fissure, Flail, Focus Energy, Frustration,
         Growl, Hidden Power, Iron Tail, Mimic, Mud-Slap, Odor Sleuth, Protect, Rest,
         Return, Roar, Rock Smash, Rock Tomb, Rollout, Sandstorm, Secret Power, Sleep
           Talk, Snore, Strength, Substitute, Sunny Day, Swagger, Tackle, Take Down,

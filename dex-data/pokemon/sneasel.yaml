@@ -40,9 +40,9 @@ pokemon:
         Taunt, Thief, Torment, Toxic, Whirlpool, X-Scissor, Double-Edge, Mimic, Nightmare]
     - rs: [Aerial Ace, Agility, Attract, Beat Up, Bite, Blizzard, Brick Break, Calm
           Mind, Counter, Crush Claw, Cut, Defense Curl, Dig, Double-Edge, Double Team,
-        Dream Eater, Dynamic Punch, Endure, Facade, Feint Attack, Fake Out, Focus Punch,
-        Foresight, Frustration, Fury Cutter, Fury Swipes, Hail, Hidden Power, Ice
-          Beam, Ice Punch, Icy Wind, Iron Tail, Leer, Metal Claw, Mimic, Mud-Slap,
+        Dream Eater, Dynamic Punch, Endure, Facade, Feint Attack, Fake Out, Focus
+          Punch, Foresight, Frustration, Fury Cutter, Fury Swipes, Hail, Hidden Power,
+        Ice Beam, Ice Punch, Icy Wind, Iron Tail, Leer, Metal Claw, Mimic, Mud-Slap,
         Nightmare, Protect, Psych Up, Quick Attack, Rain Dance, Reflect, Rest, Return,
         Rock Smash, Scratch, Screech, Secret Power, Shadow Ball, Slash, Sleep Talk,
         Snatch, Snore, Spite, Strength, Substitute, Sunny Day, Surf, Swagger, Swift,
@@ -73,8 +73,7 @@ pokemon:
     - [Pickpocket, Pressure]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.1]
     introduction: dp
     moves:

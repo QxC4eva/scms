@@ -20,22 +20,23 @@ pokemon:
         Endure, Energy Ball, Facade, Flash, Frustration, Giga Drain, Grass Knot, Helping
           Hand, Hidden Power, Leech Seed, Mega Drain, Memento, Poison Powder, Protect,
         Psych Up, Rage Powder, Reflect, Rest, Return, Round, Seed Bomb, Sleep Powder,
-        Sleep Talk, Snore, Solar Beam, Splash, Stun Spore, Substitute, Sunny Day, Swagger,
-        Swords Dance, Synthesis, Tackle, Tail Whip, Toxic, U-turn, Worry Seed, Mimic]
+        Sleep Talk, Snore, Solar Beam, Splash, Stun Spore, Substitute, Sunny Day,
+        Swagger, Swords Dance, Synthesis, Tackle, Tail Whip, Toxic, U-turn, Worry
+          Seed, Mimic]
     - dp: [Aerial Ace, Amnesia, Aromatherapy, Attract, Bounce, Bullet Seed, Captivate,
         Confusion, Cotton Spore, Double-Edge, Double Team, Encore, Endure, Energy
           Ball, Facade, Flash, Frustration, Giga Drain, Grass Knot, Headbutt, Helping
-          Hand, Hidden Power, Leech Seed, Mega Drain, Memento, Natural Gift, Poison Powder,
-        Protect, Psych Up, Reflect, Rest, Return, Secret Power, Seed Bomb, Silver
-          Wind, Sleep Powder, Sleep Talk, Snore, Solar Beam, Splash, Stun Spore, Substitute,
-        Sunny Day, Swagger, Swords Dance, Synthesis, Tackle, Tail Whip, Toxic, U-turn,
-        Worry Seed, Mimic]
+          Hand, Hidden Power, Leech Seed, Mega Drain, Memento, Natural Gift, Poison
+          Powder, Protect, Psych Up, Reflect, Rest, Return, Secret Power, Seed Bomb,
+        Silver Wind, Sleep Powder, Sleep Talk, Snore, Solar Beam, Splash, Stun Spore,
+        Substitute, Sunny Day, Swagger, Swords Dance, Synthesis, Tackle, Tail Whip,
+        Toxic, U-turn, Worry Seed, Mimic]
     - rs: [Aerial Ace, Amnesia, Attract, Bullet Seed, Confusion, Cotton Spore, Defense
           Curl, Double-Edge, Double Team, Encore, Endure, Facade, Flash, Frustration,
-        Giga Drain, Helping Hand, Hidden Power, Leech Seed, Mega Drain, Mimic, Poison Powder,
-        Protect, Psych Up, Reflect, Rest, Return, Secret Power, Sleep Powder, Sleep
-          Talk, Snore, Solar Beam, Splash, Stun Spore, Substitute, Sunny Day, Swagger,
-        Swords Dance, Synthesis, Tackle, Tail Whip, Toxic, Mimic]
+        Giga Drain, Helping Hand, Hidden Power, Leech Seed, Mega Drain, Mimic, Poison
+          Powder, Protect, Psych Up, Reflect, Rest, Return, Secret Power, Sleep Powder,
+        Sleep Talk, Snore, Solar Beam, Splash, Stun Spore, Substitute, Sunny Day,
+        Swagger, Swords Dance, Synthesis, Tackle, Tail Whip, Toxic, Mimic]
     - xy: [Acrobatics, Aerial Ace, Amnesia, Aromatherapy, Attract, Bounce, Bullet
           Seed, Captivate, Confusion, Cotton Guard, Cotton Spore, Defense Curl, Double-Edge,
         Double Team, Encore, Endure, Energy Ball, Facade, Flash, Frustration, Giga
@@ -60,8 +61,7 @@ pokemon:
       dp: [Chlorophyll, Leaf Guard]
     egggroups:
     - [Fairy, Plant]
-    evolutions:
-    - []
+    evolutions: []
     height: [0.8]
     introduction: gs
     moves:

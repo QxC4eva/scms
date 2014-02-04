@@ -74,19 +74,19 @@ pokemon:
     height: [0.5]
     introduction: rb
     moves:
-    - gs: [Blizzard, Body Slam, Disable, Double-Edge, Double Slap, Dynamic Punch, Fire
-          Punch, Ice Beam, Ice Punch, Strength, Thunder, Thunderbolt, Thunder Punch]
-    - bw: [Blizzard, Body Slam, Brick Break, Charge Beam, Disable, Double-Edge, Double Slap,
-        Drain Punch, Fire Punch, Gyro Ball, Ice Beam, Ice Punch, Knock Off, Mimic,
-        Retaliate, Rollout, Snatch, Stealth Rock, Strength, Thunder, Thunderbolt,
+    - gs: [Blizzard, Body Slam, Disable, Double-Edge, Double Slap, Dynamic Punch,
+        Fire Punch, Ice Beam, Ice Punch, Strength, Thunder, Thunderbolt, Thunder Punch]
+    - bw: [Blizzard, Body Slam, Brick Break, Charge Beam, Disable, Double-Edge, Double
+          Slap, Drain Punch, Fire Punch, Gyro Ball, Ice Beam, Ice Punch, Knock Off,
+        Mimic, Retaliate, Rollout, Snatch, Stealth Rock, Strength, Thunder, Thunderbolt,
         Thunder Punch, Wake-Up Slap, Icy Wind, Nightmare, Seismic Toss]
-    - dp: [Blizzard, Body Slam, Brick Break, Charge Beam, Disable, Double-Edge, Double Slap,
-        Drain Punch, Fire Punch, Focus Punch, Gyro Ball, Hyper Voice, Ice Beam, Ice
-          Punch, Knock Off, Mimic, Snatch, Stealth Rock, Strength, Thunder, Thunderbolt,
-        Thunder Punch, Wake-Up Slap, Icy Wind, Nightmare, Seismic Toss]
-    - rs: [Blizzard, Brick Break, Disable, Double Slap, Dynamic Punch, Fire Punch, Focus
-          Punch, Hyper Voice, Ice Beam, Ice Punch, Snatch, Strength, Thunder, Thunderbolt,
-        Thunder Punch, Icy Wind, Nightmare, Seismic Toss]
+    - dp: [Blizzard, Body Slam, Brick Break, Charge Beam, Disable, Double-Edge, Double
+          Slap, Drain Punch, Fire Punch, Focus Punch, Gyro Ball, Hyper Voice, Ice
+          Beam, Ice Punch, Knock Off, Mimic, Snatch, Stealth Rock, Strength, Thunder,
+        Thunderbolt, Thunder Punch, Wake-Up Slap, Icy Wind, Nightmare, Seismic Toss]
+    - rs: [Blizzard, Brick Break, Disable, Double Slap, Dynamic Punch, Fire Punch,
+        Focus Punch, Hyper Voice, Ice Beam, Ice Punch, Snatch, Strength, Thunder,
+        Thunderbolt, Thunder Punch, Icy Wind, Nightmare, Seismic Toss]
     - rb: [Bide, Blizzard, Body Slam, Bubble Beam, Counter, Defense Curl, Disable,
         Double-Edge, Double Team, Double Slap, Fire Blast, Flash, Ice Beam, Mega Kick,
         Mega Punch, Mimic, Pound, Psychic, Psywave, Rage, Reflect, Rest, Seismic Toss,
@@ -113,8 +113,7 @@ pokemon:
       xy: [Cute Charm, Friend Guard, Competitive]
     egggroups:
     - [Fairy]
-    evolutions:
-    - []
+    evolutions: []
     height: [1]
     introduction: rb
     moves:

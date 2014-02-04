@@ -25,8 +25,8 @@ pokemon:
           Team, Ember, Endure, Facade, Fire Blast, Fire Spin, Flame Wheel, Flamethrower,
         Flare Blitz, Frustration, Growl, Headbutt, Heat Wave, Hidden Power, Horn Drill,
         Hypnosis, Iron Tail, Morning Sun, Natural Gift, Overheat, Protect, Rest, Return,
-        Secret Power, Sleep Talk, Snore, Solar Beam, Stomp, Strength, Substitute, Sunny
-          Day, Swagger, Swift, Tackle, Tail Whip, Take Down, Thrash, Toxic, Will-O-Wisp,
+        Secret Power, Sleep Talk, Snore, Solar Beam, Stomp, Strength, Substitute,
+        Sunny Day, Swagger, Swift, Tackle, Tail Whip, Take Down, Thrash, Toxic, Will-O-Wisp,
         Body Slam, Mimic]
     - rs: [Agility, Attract, Body Slam, Bounce, Charm, Double-Edge, Double Kick, Double
           Team, Ember, Endure, Facade, Fire Blast, Fire Spin, Flame Wheel, Flamethrower,
@@ -61,8 +61,7 @@ pokemon:
     - bw: [Flame Body, Flash Fire, Run Away]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.7]
     introduction: rb
     moves:

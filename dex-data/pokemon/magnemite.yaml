@@ -10,17 +10,17 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Curse, Double Team, Endure, Flash, Frustration, Hidden Power, Lock-On,
-        Protect, Rain Dance, Rest, Return, Rollout, Screech, Sleep Talk, Snore, Sonic Boom,
-        Supersonic, Swagger, Swift, Tackle, Thunder, Thunder Wave, Thunderbolt, Thunder Shock,
-        Toxic, Zap Cannon, Agility]
+        Protect, Rain Dance, Rest, Return, Rollout, Screech, Sleep Talk, Snore, Sonic
+          Boom, Supersonic, Swagger, Swift, Tackle, Thunder, Thunder Wave, Thunderbolt,
+        Thunder Shock, Toxic, Zap Cannon, Agility]
     - bw: [Charge Beam, Discharge, Double Team, Electro Ball, Electroweb, Explosion,
         Facade, Flash, Flash Cannon, Frustration, Gravity, Gyro Ball, Hidden Power,
         Iron Defense, Light Screen, Lock-On, Magic Coat, Magnet Bomb, Magnet Rise,
         Metal Sound, Mirror Shot, Protect, Psych Up, Rain Dance, Recycle, Reflect,
-        Rest, Return, Round, Screech, Signal Beam, Sleep Talk, Snore, Sonic Boom, Spark,
-        Substitute, Sunny Day, Supersonic, Swagger, Tackle, Thunder, Thunder Wave,
-        Thunderbolt, Thunder Shock, Toxic, Volt Switch, Wild Charge, Zap Cannon, Double-Edge,
-        Mimic]
+        Rest, Return, Round, Screech, Signal Beam, Sleep Talk, Snore, Sonic Boom,
+        Spark, Substitute, Sunny Day, Supersonic, Swagger, Tackle, Thunder, Thunder
+          Wave, Thunderbolt, Thunder Shock, Toxic, Volt Switch, Wild Charge, Zap Cannon,
+        Double-Edge, Mimic]
     - dp: [Charge Beam, Discharge, Double Team, Endure, Explosion, Facade, Flash,
         Flash Cannon, Frustration, Gravity, Gyro Ball, Hidden Power, Iron Defense,
         Light Screen, Lock-On, Magic Coat, Magnet Bomb, Magnet Rise, Metal Sound,
@@ -89,8 +89,7 @@ pokemon:
     - [Analytic, Magnet Pull, Sturdy]
     egggroups:
     - [Mineral]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.2]
     introduction: dp
     moves:

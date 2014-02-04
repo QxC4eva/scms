@@ -13,8 +13,9 @@ pokemon:
         Facade, Feint Attack, Fake Tears, Flail, Foul Play, Frustration, Harden, Headbutt,
         Helping Hand, Hidden Power, Low Kick, Mimic, Protect, Psych Up, Rest, Return,
         Rock Polish, Rock Slide, Rock Throw, Rock Tomb, Role Play, Rollout, Round,
-        Sand Tomb, Sandstorm, Self-Destruct, Slam, Sleep Talk, Smack Down, Snore, Stealth
-          Rock, Substitute, Sucker Punch, Sunny Day, Swagger, Thief, Toxic, Uproar]
+        Sand Tomb, Sandstorm, Self-Destruct, Slam, Sleep Talk, Smack Down, Snore,
+        Stealth Rock, Substitute, Sucker Punch, Sunny Day, Swagger, Thief, Toxic,
+        Uproar]
     - dp: [Attract, Block, Brick Break, Calm Mind, Captivate, Copycat, Defense Curl,
         Dig, Double-Edge, Double Team, Earth Power, Endure, Explosion, Facade, Feint
           Attack, Fake Tears, Flail, Frustration, Harden, Headbutt, Helping Hand,
@@ -44,16 +45,15 @@ pokemon:
     - bw: [Rattled, Rock Head, Sturdy]
     egggroups:
     - [Mineral]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.2]
     introduction: gs
     moves:
     - gs: [Attract, Curse, Defense Curl, Dig, Double Team, Dynamic Punch, Earthquake,
         Endure, Feint Attack, Fire Punch, Flail, Frustration, Headbutt, Hidden Power,
         Ice Punch, Low Kick, Mimic, Mud-Slap, Protect, Psych Up, Rest, Return, Rock
-          Slide, Rock Smash, Rock Throw, Rollout, Sandstorm, Self-Destruct, Slam, Sleep
-          Talk, Snore, Strength, Sunny Day, Swagger, Thief, Thunder Punch, Toxic]
+          Slide, Rock Smash, Rock Throw, Rollout, Sandstorm, Self-Destruct, Slam,
+        Sleep Talk, Snore, Strength, Sunny Day, Swagger, Thief, Thunder Punch, Toxic]
     - bw: [Bulldoze, Counter, Earthquake, Fire Punch, Fling, Hammer Arm, Ice Punch,
         Rock Smash, Stone Edge, Strength, Taunt, Thunder Punch, Torment, Wood Hammer]
     - dp: [Earthquake, Fire Punch, Fling, Focus Punch, Hammer Arm, Ice Punch, Mud-Slap,

@@ -6,8 +6,7 @@ pokemon:
     - xy: [Static, Pressure]
     egggroups:
     - []
-    evolutions:
-    - []
+    evolutions: []
     height: [1.6]
     introduction: rb
     moves:
@@ -38,12 +37,12 @@ pokemon:
         Mimic, Mud-Slap, Peck, Protect, Rain Dance, Rest, Return, Roar, Rock Smash,
         Sandstorm, Secret Power, Shock Wave, Sky Attack, Sleep Talk, Snore, Steel
           Wing, Substitute, Sunny Day, Swagger, Swift, Thunder, Thunder Wave, Thunderbolt,
-        Thunder Shock, Toxic, Baton Pass, Double-Edge, Extrasensory, Metal Sound, Mimic,
-        Sky Attack]
+        Thunder Shock, Toxic, Baton Pass, Double-Edge, Extrasensory, Metal Sound,
+        Mimic, Sky Attack]
     - rb: [Agility, Bide, Double-Edge, Double Team, Drill Peck, Flash, Fly, Hyper
           Beam, Light Screen, Mimic, Rage, Razor Wind, Reflect, Rest, Sky Attack,
-        Substitute, Swift, Take Down, Thunder, Thunder Wave, Thunderbolt, Thunder Shock,
-        Toxic, Whirlwind]
+        Substitute, Swift, Take Down, Thunder, Thunder Wave, Thunderbolt, Thunder
+          Shock, Toxic, Whirlwind]
     - xy: [Aerial Ace, Agility, Air Cutter, Ancient Power, Baton Pass, Charge, Charge
           Beam, Defog, Detect, Discharge, Double-Edge, Double Team, Drill Peck, Endure,
         Extrasensory, Facade, Flash, Fly, Frustration, Giga Impact, Heat Wave, Hidden

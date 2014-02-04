@@ -5,8 +5,7 @@ pokemon:
     - bw: [Shell Armor, White Smoke]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolutions: []
     height: [0.5]
     introduction: rs
     moves:
@@ -16,9 +15,9 @@ pokemon:
         Frustration, Giga Impact, Gyro Ball, Heat Wave, Hidden Power, Hyper Beam,
         Incinerate, Inferno, Iron Defense, Iron Tail, Lava Plume, Overheat, Protect,
         Rapid Spin, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Round, Shell
-          Smash, Skull Bash, Sleep Talk, Sludge Bomb, Smog, Smoke Screen, Snore, Solar Beam,
-        Stealth Rock, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Toxic,
-        Will-O-Wisp, Withdraw, Yawn, Double-Edge, Mimic, Self-Destruct]
+          Smash, Skull Bash, Sleep Talk, Sludge Bomb, Smog, Smoke Screen, Snore, Solar
+          Beam, Stealth Rock, Stone Edge, Strength, Substitute, Sunny Day, Swagger,
+        Toxic, Will-O-Wisp, Withdraw, Yawn, Double-Edge, Mimic, Self-Destruct]
     - dp: [Amnesia, Attract, Body Slam, Captivate, Curse, Double Team, Earth Power,
         Earthquake, Ember, Endure, Eruption, Explosion, Facade, Fire Blast, Fire Spin,
         Fissure, Flail, Flamethrower, Frustration, Giga Impact, Gyro Ball, Headbutt,
@@ -32,8 +31,8 @@ pokemon:
         Eruption, Explosion, Facade, Fire Blast, Fire Spin, Flail, Flamethrower, Frustration,
         Heat Wave, Hidden Power, Iron Defense, Iron Tail, Mimic, Mud-Slap, Overheat,
         Protect, Rest, Return, Rock Slide, Rock Smash, Secret Power, Self-Destruct,
-        Sleep Talk, Sludge Bomb, Smog, Smoke Screen, Snore, Strength, Substitute, Sunny
-          Day, Swagger, Toxic, Yawn, Double-Edge, Mimic, Self-Destruct]
+        Sleep Talk, Sludge Bomb, Smog, Smoke Screen, Snore, Strength, Substitute,
+        Sunny Day, Swagger, Toxic, Yawn, Double-Edge, Mimic, Self-Destruct]
     - xy: [Amnesia, Attract, Body Slam, Bulldoze, Captivate, Clear Smog, Curse, Double-Edge,
         Double Team, Earth Power, Earthquake, Ember, Endure, Eruption, Explosion,
         Facade, Fire Blast, Fire Spin, Fissure, Flail, Flame Burst, Flame Charge,

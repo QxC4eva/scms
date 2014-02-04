@@ -28,8 +28,8 @@ pokemon:
         Sandstorm, Secret Power, Self-Destruct, Shadow Ball, Signal Beam, Skill Swap,
         Sleep Talk, Snore, Solar Beam, Stealth Rock, Substitute, Sunny Day, Swagger,
         Toxic, Trick, Trick Room, Zen Headbutt]
-    - rs: [Ancient Power, Confusion, Cosmic Power, Dig, Double-Edge, Double Team, Dream
-          Eater, Earthquake, Endure, Explosion, Facade, Flash, Frustration, Harden,
+    - rs: [Ancient Power, Confusion, Cosmic Power, Dig, Double-Edge, Double Team,
+        Dream Eater, Earthquake, Endure, Explosion, Facade, Flash, Frustration, Harden,
         Hidden Power, Ice Beam, Light Screen, Mimic, Mud-Slap, Protect, Psybeam, Psych
           Up, Psychic, Rain Dance, Rapid Spin, Reflect, Rest, Return, Rock Slide,
         Rock Tomb, Sandstorm, Secret Power, Self-Destruct, Shadow Ball, Skill Swap,
@@ -59,8 +59,7 @@ pokemon:
     - bw: [Levitate]
     egggroups:
     - [Mineral]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.5]
     introduction: rs
     moves:

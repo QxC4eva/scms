@@ -24,9 +24,9 @@ pokemon:
           Powder, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Stun Spore, Substitute,
         Sunny Day, Swagger, Swords Dance, Synthesis, Thief, Tickle, Toxic, Vine Whip,
         Worry Seed, Wring Out, Body Slam, Double-Edge, Mimic, Morning Sun]
-    - dp: [Absorb, Amnesia, Ancient Power, Attract, Bind, Bullet Seed, Captivate, Confusion,
-        Constrict, Cut, Double Team, Endeavor, Endure, Energy Ball, Facade, Flail,
-        Flash, Frustration, Giga Drain, Giga Impact, Grass Knot, Growth, Headbutt,
+    - dp: [Absorb, Amnesia, Ancient Power, Attract, Bind, Bullet Seed, Captivate,
+        Confusion, Constrict, Cut, Double Team, Endeavor, Endure, Energy Ball, Facade,
+        Flail, Flash, Frustration, Giga Drain, Giga Impact, Grass Knot, Growth, Headbutt,
         Hidden Power, Hyper Beam, Ingrain, Knock Off, Leaf Storm, Leech Seed, Mega
           Drain, Natural Gift, Nature Power, Pain Split, Poison Powder, Power Swap,
         Power Whip, Protect, Psych Up, Reflect, Rest, Return, Rock Smash, Secret Power,
@@ -70,8 +70,7 @@ pokemon:
     - [Chlorophyll, Leaf Guard, Regenerator]
     egggroups:
     - [Plant]
-    evolutions:
-    - []
+    evolutions: []
     height: [2]
     introduction: dp
     moves:

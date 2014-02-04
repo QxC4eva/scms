@@ -5,18 +5,17 @@ pokemon:
     - bw: [Multiscale, Pressure]
     egggroups:
     - []
-    evolutions:
-    - []
+    evolutions: []
     height: [5.2]
     introduction: gs
     moves:
-    - gs: [Aeroblast, Ancient Power, Blizzard, Curse, Detect, Double Team, Dragon Breath,
-        Dream Eater, Earthquake, Endure, Fly, Frustration, Future Sight, Giga Drain,
-        Gust, Headbutt, Hidden Power, Hydro Pump, Hyper Beam, Ice Beam, Icy Wind,
-        Iron Tail, Mud-Slap, Nightmare, Protect, Psych Up, Psychic, Rain Dance, Recover,
-        Rest, Return, Roar, Rock Smash, Safeguard, Sandstorm, Shadow Ball, Sleep Talk,
-        Snore, Steel Wing, Strength, Sunny Day, Surf, Swagger, Swift, Thunder, Thunderbolt,
-        Toxic, Waterfall, Whirlpool, Whirlwind, Zap Cannon]
+    - gs: [Aeroblast, Ancient Power, Blizzard, Curse, Detect, Double Team, Dragon
+          Breath, Dream Eater, Earthquake, Endure, Fly, Frustration, Future Sight,
+        Giga Drain, Gust, Headbutt, Hidden Power, Hydro Pump, Hyper Beam, Ice Beam,
+        Icy Wind, Iron Tail, Mud-Slap, Nightmare, Protect, Psych Up, Psychic, Rain
+          Dance, Recover, Rest, Return, Roar, Rock Smash, Safeguard, Sandstorm, Shadow
+          Ball, Sleep Talk, Snore, Steel Wing, Strength, Sunny Day, Surf, Swagger,
+        Swift, Thunder, Thunderbolt, Toxic, Waterfall, Whirlpool, Whirlwind, Zap Cannon]
     - bw: [Aerial Ace, Aeroblast, Ancient Power, Aqua Tail, Blizzard, Bulldoze, Calm
           Mind, Charge Beam, Dive, Double Team, Dragon Pulse, Dragon Rush, Dragon
           Tail, Dream Eater, Earth Power, Earthquake, Echoed Voice, Extrasensory,
@@ -28,7 +27,8 @@ pokemon:
           Swap, Sky Attack, Sky Drop, Sleep Talk, Snore, Strength, Substitute, Sunny
           Day, Surf, Swagger, Tailwind, Telekinesis, Thunder, Thunder Wave, Thunderbolt,
         Toxic, Trick, Waterfall, Weather Ball, Whirlwind, Wonder Room, Zen Headbutt,
-        Body Slam, Double-Edge, Feather Dance, Icy Wind, Mimic, Nightmare, Psycho Boost]
+        Body Slam, Double-Edge, Feather Dance, Icy Wind, Mimic, Nightmare, Psycho
+          Boost]
     - dp: [Aerial Ace, Aeroblast, Air Cutter, Ancient Power, Aqua Tail, Avalanche,
         Blizzard, Brine, Calm Mind, Charge Beam, Defog, Dive, Double Team, Dragon
           Pulse, Dragon Rush, Dream Eater, Earth Power, Earthquake, Endure, Extrasensory,

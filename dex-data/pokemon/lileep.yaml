@@ -5,8 +5,7 @@ pokemon:
     - bw: [Storm Drain, Suction Cups]
     egggroups:
     - [Water 3]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.5]
     introduction: rs
     moves:
@@ -43,14 +42,15 @@ pokemon:
         Sludge Bomb, Smack Down, Snore, Solar Beam, Spit Up, Stealth Rock, Stockpile,
         Substitute, Sunny Day, Swagger, Swallow, Swords Dance, Synthesis, Tickle,
         Toxic, Worry Seed, Wring Out, Body Slam, Double-Edge, Mimic]
-    - dp: [Acid, Amnesia, Ancient Power, Astonish, Attract, Barrier, Bullet Seed, Captivate,
-        Confuse Ray, Constrict, Curse, Double Team, Earth Power, Endure, Energy Ball,
-        Facade, Flash, Frustration, Gastro Acid, Giga Drain, Grass Knot, Hidden Power,
-        Ingrain, Mirror Coat, Mud-Slap, Natural Gift, Pain Split, Protect, Recover,
-        Rest, Return, Rock Polish, Rock Slide, Rock Tomb, Sandstorm, Secret Power,
-        Seed Bomb, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Spit Up, Stealth Rock,
-        Stockpile, String Shot, Substitute, Sunny Day, Swagger, Swallow, Swords Dance,
-        Synthesis, Tickle, Toxic, Worry Seed, Wring Out, Body Slam, Double-Edge, Mimic]
+    - dp: [Acid, Amnesia, Ancient Power, Astonish, Attract, Barrier, Bullet Seed,
+        Captivate, Confuse Ray, Constrict, Curse, Double Team, Earth Power, Endure,
+        Energy Ball, Facade, Flash, Frustration, Gastro Acid, Giga Drain, Grass Knot,
+        Hidden Power, Ingrain, Mirror Coat, Mud-Slap, Natural Gift, Pain Split, Protect,
+        Recover, Rest, Return, Rock Polish, Rock Slide, Rock Tomb, Sandstorm, Secret
+          Power, Seed Bomb, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Spit Up, Stealth
+          Rock, Stockpile, String Shot, Substitute, Sunny Day, Swagger, Swallow, Swords
+          Dance, Synthesis, Tickle, Toxic, Worry Seed, Wring Out, Body Slam, Double-Edge,
+        Mimic]
     - rs: [Acid, Amnesia, Ancient Power, Astonish, Attract, Barrier, Body Slam, Bullet
           Seed, Confuse Ray, Constrict, Double-Edge, Double Team, Endure, Facade,
         Frustration, Giga Drain, Hidden Power, Ingrain, Mimic, Mirror Coat, Mud-Slap,

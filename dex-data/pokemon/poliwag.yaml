@@ -5,8 +5,7 @@ pokemon:
     - bw: [Damp, Drizzle, Water Absorb]
     egggroups:
     - [Water 1]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.1]
     introduction: gs
     moves:
@@ -59,13 +58,13 @@ pokemon:
         Sleep Talk, Snore, Splash, Substitute, Surf, Swagger, Thief, Toxic, Wake-Up
           Slap, Water Gun, Water Pulse, Water Sport, Waterfall, Whirlpool, Double-Edge,
         Icy Wind, Mimic]
-    - rs: [Attract, Belly Drum, Blizzard, Body Slam, Bubble, Bubble Beam, Defense Curl,
-        Dig, Dive, Double-Edge, Double Team, Double Slap, Endure, Facade, Frustration,
-        Hail, Haze, Hidden Power, Hydro Pump, Hypnosis, Ice Ball, Ice Beam, Icy Wind,
-        Mimic, Mind Reader, Mist, Protect, Psychic, Rain Dance, Rest, Return, Secret
-          Power, Sleep Talk, Snore, Splash, Substitute, Surf, Swagger, Thief, Toxic,
-        Water Gun, Water Pulse, Water Sport, Waterfall, Sweet Kiss, Double-Edge, Icy
-          Wind, Mimic]
+    - rs: [Attract, Belly Drum, Blizzard, Body Slam, Bubble, Bubble Beam, Defense
+          Curl, Dig, Dive, Double-Edge, Double Team, Double Slap, Endure, Facade,
+        Frustration, Hail, Haze, Hidden Power, Hydro Pump, Hypnosis, Ice Ball, Ice
+          Beam, Icy Wind, Mimic, Mind Reader, Mist, Protect, Psychic, Rain Dance,
+        Rest, Return, Secret Power, Sleep Talk, Snore, Splash, Substitute, Surf, Swagger,
+        Thief, Toxic, Water Gun, Water Pulse, Water Sport, Waterfall, Sweet Kiss,
+        Double-Edge, Icy Wind, Mimic]
     - rb: [Amnesia, Bide, Blizzard, Body Slam, Bubble, Bubble Beam, Double-Edge, Double
           Team, Double Slap, Hydro Pump, Hypnosis, Ice Beam, Mimic, Psychic, Psywave,
         Rage, Rest, Skull Bash, Substitute, Surf, Take Down, Toxic, Water Gun, Growth,
@@ -124,8 +123,7 @@ pokemon:
     - bw: [Damp, Swift Swim, Water Absorb]
     egggroups:
     - [Water 1]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.3]
     introduction: rb
     moves:
@@ -133,8 +131,9 @@ pokemon:
     - bw: [Bulk Up, Circle Throw, Dynamic Punch, Low Sweep, Poison Jab, Rock Slide,
         Rock Tomb, Submission, Work Up, Double-Edge, Helping Hand, Icy Wind, Mimic,
         Seismic Toss]
-    - dp: [Bulk Up, Dynamic Punch, Poison Jab, Rock Climb, Rock Slide, Rock Tomb, Submission,
-        Vacuum Wave, Double-Edge, Helping Hand, Icy Wind, Mimic, Seismic Toss]
+    - dp: [Bulk Up, Dynamic Punch, Poison Jab, Rock Climb, Rock Slide, Rock Tomb,
+        Submission, Vacuum Wave, Double-Edge, Helping Hand, Icy Wind, Mimic, Seismic
+          Toss]
     - rs: [Bulk Up, Rock Tomb, Submission, Helping Hand, Double-Edge, Helping Hand,
         Icy Wind, Mimic, Seismic Toss]
     - rb: [Hyper Beam]

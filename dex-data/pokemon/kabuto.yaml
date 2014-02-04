@@ -14,14 +14,14 @@ pokemon:
         Ice Beam, Icy Wind, Leer, Mega Drain, Protect, Rain Dance, Rapid Spin, Rest,
         Return, Rock Smash, Rollout, Sand Attack, Sandstorm, Scratch, Sleep Talk,
         Snore, Swagger, Thief, Toxic]
-    - bw: [Absorb, Ancient Power, Aqua Jet, Attract, Aurora Beam, Blizzard, Bubble Beam,
-        Confuse Ray, Dig, Double Team, Earth Power, Endure, Facade, Flail, Foresight,
-        Frustration, Giga Drain, Hail, Harden, Hidden Power, Hone Claws, Ice Beam,
-        Icy Wind, Iron Defense, Knock Off, Leer, Mega Drain, Metal Sound, Mud Shot,
-        Protect, Rain Dance, Rapid Spin, Rest, Return, Rock Polish, Rock Slide, Rock
-          Smash, Rock Tomb, Round, Sand Attack, Sandstorm, Scald, Scratch, Screech,
-        Sleep Talk, Smack Down, Snore, Stealth Rock, Substitute, Surf, Swagger, Thief,
-        Toxic, Waterfall, Wring Out, Body Slam, Double-Edge, Mimic]
+    - bw: [Absorb, Ancient Power, Aqua Jet, Attract, Aurora Beam, Blizzard, Bubble
+          Beam, Confuse Ray, Dig, Double Team, Earth Power, Endure, Facade, Flail,
+        Foresight, Frustration, Giga Drain, Hail, Harden, Hidden Power, Hone Claws,
+        Ice Beam, Icy Wind, Iron Defense, Knock Off, Leer, Mega Drain, Metal Sound,
+        Mud Shot, Protect, Rain Dance, Rapid Spin, Rest, Return, Rock Polish, Rock
+          Slide, Rock Smash, Rock Tomb, Round, Sand Attack, Sandstorm, Scald, Scratch,
+        Screech, Sleep Talk, Smack Down, Snore, Stealth Rock, Substitute, Surf, Swagger,
+        Thief, Toxic, Waterfall, Wring Out, Body Slam, Double-Edge, Mimic]
     - dp: [Absorb, Ancient Power, Aqua Jet, Attract, Aurora Beam, Blizzard, Brine,
         Bubble Beam, Captivate, Confuse Ray, Dig, Double Team, Earth Power, Endure,
         Facade, Flail, Frustration, Giga Drain, Hail, Harden, Hidden Power, Ice Beam,
@@ -67,8 +67,7 @@ pokemon:
     - bw: [Battle Armor, Swift Swim, Weak Armor]
     egggroups:
     - [Water 1, Water 3]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.3]
     introduction: rb
     moves:

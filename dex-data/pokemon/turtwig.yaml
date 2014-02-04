@@ -21,8 +21,7 @@ pokemon:
     - [Overgrow, Shell Armor]
     egggroups:
     - [Monster, Plant]
-    evolutions:
-    - []
+    evolutions: []
     height: [2.2]
     introduction: dp
     moves:
@@ -55,10 +54,10 @@ pokemon:
         Double Team, Earth Power, Energy Ball, Facade, Flash, Frustration, Giga Drain,
         Grass Knot, Grass Pledge, Growth, Hidden Power, Iron Tail, Leaf Storm, Leech
           Seed, Light Screen, Mega Drain, Protect, Razor Leaf, Reflect, Rest, Return,
-        Rock Smash, Round, Safeguard, Sand Tomb, Seed Bomb, Sleep Talk, Snore, Solar Beam,
-        Spit Up, Stealth Rock, Stockpile, Strength, Substitute, Sunny Day, Superpower,
-        Swagger, Swallow, Swords Dance, Synthesis, Tackle, Thrash, Tickle, Toxic,
-        Wide Guard, Withdraw, Worry Seed]
+        Rock Smash, Round, Safeguard, Sand Tomb, Seed Bomb, Sleep Talk, Snore, Solar
+          Beam, Spit Up, Stealth Rock, Stockpile, Strength, Substitute, Sunny Day,
+        Superpower, Swagger, Swallow, Swords Dance, Synthesis, Tackle, Thrash, Tickle,
+        Toxic, Wide Guard, Withdraw, Worry Seed]
     - dp: [Absorb, Amnesia, Attract, Bite, Body Slam, Bullet Seed, Captivate, Crunch,
         Curse, Cut, Double-Edge, Double Team, Earth Power, Endure, Energy Ball, Facade,
         Flash, Frustration, Giga Drain, Grass Knot, Growth, Headbutt, Hidden Power,

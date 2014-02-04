@@ -9,14 +9,14 @@ pokemon:
     introduction: bw
     moves:
     - bw: [Acrobatics, Aerial Ace, Attract, Aura Sphere, Baton Pass, Bounce, Brick
-          Break, Bulk Up, Calm Mind, Detect, Dig, Double Team, Double Slap, Drain Punch,
-        Dual Chop, Endure, Facade, Fake Out, Feint, Fling, Focus Blast, Force Palm,
-        Frustration, Grass Knot, Helping Hand, High Jump Kick, Hidden Power, Jump Kick,
-        Knock Off, Low Kick, Low Sweep, Me First, Meditate, Payback, Poison Jab, Pound,
-        Protect, Psych Up, Quick Guard, Rain Dance, Reflect, Rest, Retaliate, Return,
-        Reversal, Rock Slide, Rock Smash, Rock Tomb, Role Play, Round, Sleep Talk,
-        Smelling Salts, Snore, Stone Edge, Strength, Substitute, Sunny Day, Swagger,
-        Swift, Swords Dance, Taunt, Toxic, U-turn, Vital Throw, Work Up]
+          Break, Bulk Up, Calm Mind, Detect, Dig, Double Team, Double Slap, Drain
+          Punch, Dual Chop, Endure, Facade, Fake Out, Feint, Fling, Focus Blast, Force
+          Palm, Frustration, Grass Knot, Helping Hand, High Jump Kick, Hidden Power,
+        Jump Kick, Knock Off, Low Kick, Low Sweep, Me First, Meditate, Payback, Poison
+          Jab, Pound, Protect, Psych Up, Quick Guard, Rain Dance, Reflect, Rest, Retaliate,
+        Return, Reversal, Rock Slide, Rock Smash, Rock Tomb, Role Play, Round, Sleep
+          Talk, Smelling Salts, Snore, Stone Edge, Strength, Substitute, Sunny Day,
+        Swagger, Swift, Swords Dance, Taunt, Toxic, U-turn, Vital Throw, Work Up]
     - xy: [Acrobatics, Aerial Ace, Attract, Aura Sphere, Baton Pass, Bounce, Brick
           Break, Bulk Up, Calm Mind, Detect, Dig, Double Slap, Double Team, Drain
           Punch, Endure, Facade, Fake Out, Feint, Fling, Focus Blast, Force Palm,
@@ -39,8 +39,7 @@ pokemon:
     - [Inner Focus, Reckless, Regenerator]
     egggroups:
     - [Ground, Humanshape]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.4]
     introduction: bw
     moves:

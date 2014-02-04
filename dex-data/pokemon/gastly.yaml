@@ -37,9 +37,9 @@ pokemon:
           Eater, Endure, Explosion, Facade, Frustration, Giga Drain, Grudge, Haze,
         Hidden Power, Hypnosis, Lick, Mean Look, Mimic, Night Shade, Nightmare, Perish
           Song, Protect, Psych Up, Psychic, Psywave, Rain Dance, Rest, Return, Secret
-          Power, Self-Destruct, Shadow Ball, Skill Swap, Sleep Talk, Sludge Bomb, Snatch,
-        Snore, Spite, Substitute, Sunny Day, Swagger, Taunt, Thief, Thunderbolt, Torment,
-        Toxic, Will-O-Wisp, Double-Edge, Mimic, Self-Destruct]
+          Power, Self-Destruct, Shadow Ball, Skill Swap, Sleep Talk, Sludge Bomb,
+        Snatch, Snore, Spite, Substitute, Sunny Day, Swagger, Taunt, Thief, Thunderbolt,
+        Torment, Toxic, Will-O-Wisp, Double-Edge, Mimic, Self-Destruct]
     - rb: [Bide, Confuse Ray, Double Team, Dream Eater, Explosion, Hypnosis, Lick,
         Mega Drain, Mimic, Night Shade, Psychic, Psywave, Rage, Rest, Self-Destruct,
         Substitute, Thunder, Thunderbolt, Toxic]
@@ -104,8 +104,7 @@ pokemon:
     - [Shadow Tag]
     egggroups:
     - [Amorphous]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.4]
     introduction: xy
     moves:

@@ -12,8 +12,8 @@ pokemon:
     - gs: [Attract, Barrier, Curse, Double Team, Dream Eater, Dynamic Punch, Encore,
         Endure, Fire Punch, Flash, Frustration, Headbutt, Hidden Power, Ice Punch,
         Light Screen, Nightmare, Protect, Psych Up, Psychic, Rain Dance, Rest, Return,
-        Shadow Ball, Sleep Talk, Snore, Sunny Day, Swagger, Teleport, Thief, Thunder Punch,
-        Toxic, Zap Cannon, Foresight]
+        Shadow Ball, Sleep Talk, Snore, Sunny Day, Swagger, Teleport, Thief, Thunder
+          Punch, Toxic, Zap Cannon, Foresight]
     - bw: [Ally Switch, Attract, Barrier, Body Slam, Calm Mind, Charge Beam, Double
           Team, Double-Edge, Drain Punch, Dream Eater, Embargo, Encore, Energy Ball,
         Facade, Fire Punch, Flash, Fling, Foul Play, Frustration, Grass Knot, Gravity,
@@ -39,8 +39,8 @@ pokemon:
           Screen, Mega Kick, Mega Punch, Metronome, Mimic, Nightmare, Protect, Psych
           Up, Psychic, Rain Dance, Reflect, Rest, Return, Safeguard, Secret Power,
         Seismic Toss, Shadow Ball, Shock Wave, Skill Swap, Sleep Talk, Snatch, Snore,
-        Substitute, Sunny Day, Swagger, Taunt, Teleport, Thief, Thunder Wave, Thunder Punch,
-        Torment, Toxic]
+        Substitute, Sunny Day, Swagger, Taunt, Teleport, Thief, Thunder Wave, Thunder
+          Punch, Torment, Toxic]
     - rb: [Bide, Body Slam, Counter, Double-Edge, Double Team, Flash, Mega Kick, Mega
           Punch, Metronome, Mimic, Psychic, Psywave, Rage, Reflect, Rest, Seismic
           Toss, Skull Bash, Submission, Substitute, Take Down, Teleport, Thunder Wave,
@@ -99,8 +99,7 @@ pokemon:
     - [Trace]
     egggroups:
     - [Human-Like]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.2]
     introduction: xy
     moves:

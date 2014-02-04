@@ -10,9 +10,9 @@ pokemon:
     height: [0.6]
     introduction: gs
     moves:
-    - gs: [Attract, Counter, Crunch, Curse, Cut, Defense Curl, Dig, Double Team, Dynamic Punch,
-        Earthquake, Endure, Feint Attack, Fire Punch, Focus Energy, Frustration, Fury
-          Cutter, Fury Swipes, Headbutt, Hidden Power, Ice Punch, Leer, Lick, Metal
+    - gs: [Attract, Counter, Crunch, Curse, Cut, Defense Curl, Dig, Double Team, Dynamic
+          Punch, Earthquake, Endure, Feint Attack, Fire Punch, Focus Energy, Frustration,
+        Fury Cutter, Fury Swipes, Headbutt, Hidden Power, Ice Punch, Leer, Lick, Metal
           Claw, Mud-Slap, Protect, Rest, Return, Roar, Rock Smash, Rollout, Scratch,
         Seismic Toss, Slash, Sleep Talk, Snore, Strength, Sunny Day, Swagger, Swift,
         Take Down, Thief, Thrash, Thunder Punch, Toxic, Zap Cannon]
@@ -74,8 +74,7 @@ pokemon:
     - bw: [Guts, Quick Feet, Unnerve]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.8]
     introduction: gs
     moves:

@@ -5,8 +5,7 @@ pokemon:
     - bw: [Cloud Nine, Damp, Swift Swim]
     egggroups:
     - [Ground, Water 1]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.7]
     introduction: rb
     moves:
@@ -41,12 +40,12 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Attract, Blizzard, Confusion, Cross Chop, Curse, Dig, Disable, Double Team,
-        Dynamic Punch, Endure, Flash, Foresight, Frustration, Fury Swipes, Future Sight,
-        Headbutt, Hidden Power, Hydro Pump, Hypnosis, Ice Beam, Ice Punch, Icy Wind,
-        Iron Tail, Light Screen, Mud-Slap, Protect, Psybeam, Psych Up, Psychic, Rain
-          Dance, Rest, Return, Rock Smash, Scratch, Screech, Sleep Talk, Snore, Strength,
-        Surf, Swagger, Swift, Tail Whip, Toxic, Waterfall, Whirlpool, Petal Dance,
-        Tri Attack]
+        Dynamic Punch, Endure, Flash, Foresight, Frustration, Fury Swipes, Future
+          Sight, Headbutt, Hidden Power, Hydro Pump, Hypnosis, Ice Beam, Ice Punch,
+        Icy Wind, Iron Tail, Light Screen, Mud-Slap, Protect, Psybeam, Psych Up, Psychic,
+        Rain Dance, Rest, Return, Rock Smash, Scratch, Screech, Sleep Talk, Snore,
+        Strength, Surf, Swagger, Swift, Tail Whip, Toxic, Waterfall, Whirlpool, Petal
+          Dance, Tri Attack]
     - bw: [Aerial Ace, Amnesia, Aqua Tail, Attract, Blizzard, Brick Break, Calm Mind,
         Confuse Ray, Confusion, Cross Chop, Dig, Disable, Dive, Double Team, Encore,
         Facade, Flash, Fling, Foresight, Frustration, Fury Swipes, Future Sight, Hail,
@@ -70,14 +69,15 @@ pokemon:
         Waterfall, Whirlpool, Worry Seed, Yawn, Zen Headbutt, Mud Sport, Body Slam,
         Double-Edge, Icy Wind, Mimic, Seismic Toss]
     - rs: [Aerial Ace, Attract, Blizzard, Body Slam, Brick Break, Calm Mind, Confusion,
-        Counter, Cross Chop, Dig, Disable, Dive, Double-Edge, Double Team, Dynamic Punch,
-        Endure, Facade, Flash, Focus Punch, Foresight, Frustration, Fury Swipes, Future
-          Sight, Hail, Hidden Power, Hydro Pump, Hypnosis, Ice Beam, Ice Punch, Icy
-          Wind, Iron Tail, Light Screen, Mega Kick, Mega Punch, Mimic, Mud-Slap, Protect,
-        Psybeam, Psych Up, Psychic, Rain Dance, Refresh, Rest, Return, Rock Smash,
-        Scratch, Screech, Secret Power, Seismic Toss, Sleep Talk, Snore, Strength,
-        Substitute, Surf, Swagger, Swift, Tail Whip, Toxic, Water Pulse, Water Sport,
-        Waterfall, Mud Sport, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+        Counter, Cross Chop, Dig, Disable, Dive, Double-Edge, Double Team, Dynamic
+          Punch, Endure, Facade, Flash, Focus Punch, Foresight, Frustration, Fury
+          Swipes, Future Sight, Hail, Hidden Power, Hydro Pump, Hypnosis, Ice Beam,
+        Ice Punch, Icy Wind, Iron Tail, Light Screen, Mega Kick, Mega Punch, Mimic,
+        Mud-Slap, Protect, Psybeam, Psych Up, Psychic, Rain Dance, Refresh, Rest,
+        Return, Rock Smash, Scratch, Screech, Secret Power, Seismic Toss, Sleep Talk,
+        Snore, Strength, Substitute, Surf, Swagger, Swift, Tail Whip, Toxic, Water
+          Pulse, Water Sport, Waterfall, Mud Sport, Body Slam, Double-Edge, Icy Wind,
+        Mimic, Seismic Toss]
     - rb: [Bide, Blizzard, Body Slam, Bubble Beam, Confusion, Counter, Dig, Disable,
         Double-Edge, Double Team, Fury Swipes, Hydro Pump, Ice Beam, Mega Kick, Mega
           Punch, Mimic, Pay Day, Rage, Rest, Scratch, Seismic Toss, Skull Bash, Strength,

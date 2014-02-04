@@ -55,8 +55,7 @@ pokemon:
     - bw: [Gluttony, Immunity, Thick Fat]
     egggroups:
     - [Monster]
-    evolutions:
-    - []
+    evolutions: []
     height: [2.1]
     introduction: rb
     moves:
@@ -73,8 +72,8 @@ pokemon:
     - dp: [Belly Drum, Block, Crunch, Fissure, Focus Blast, Giga Impact, Hyper Beam,
         Iron Head, Outrage, Yawn, Icy Wind, Icy Wind, Mimic, Refresh, Seismic Toss]
     - rs: [Amnesia, Attract, Belly Drum, Blizzard, Block, Body Slam, Brick Break,
-        Charm, Counter, Covet, Curse, Defense Curl, Double-Edge, Double Team, Dynamic Punch,
-        Earthquake, Endure, Facade, Fire Blast, Fire Punch, Fissure, Flamethrower,
+        Charm, Counter, Covet, Curse, Defense Curl, Double-Edge, Double Team, Dynamic
+          Punch, Earthquake, Endure, Facade, Fire Blast, Fire Punch, Fissure, Flamethrower,
         Focus Punch, Frustration, Headbutt, Hidden Power, Hyper Beam, Ice Beam, Ice
           Punch, Icy Wind, Lick, Mega Kick, Mega Punch, Metronome, Mimic, Mud-Slap,
         Protect, Psych Up, Psychic, Rain Dance, Rest, Return, Rock Slide, Rock Tomb,
@@ -82,12 +81,12 @@ pokemon:
         Shock Wave, Sleep Talk, Snore, Solar Beam, Strength, Substitute, Sunny Day,
         Surf, Swagger, Tackle, Thunder, Thunderbolt, Thunder Punch, Toxic, Water Pulse,
         Yawn, Icy Wind, Icy Wind, Mimic, Refresh, Seismic Toss]
-    - rb: [Amnesia, Bide, Blizzard, Body Slam, Bubble Beam, Counter, Double-Edge, Double
-          Team, Earthquake, Fire Blast, Fissure, Harden, Headbutt, Hyper Beam, Ice
-          Beam, Mega Kick, Mega Punch, Metronome, Mimic, Pay Day, Psychic, Psywave,
-        Rage, Reflect, Rest, Rock Slide, Seismic Toss, Self-Destruct, Skull Bash, Solar Beam,
-        Strength, Submission, Substitute, Surf, Take Down, Thunder, Thunderbolt, Toxic,
-        Water Gun]
+    - rb: [Amnesia, Bide, Blizzard, Body Slam, Bubble Beam, Counter, Double-Edge,
+        Double Team, Earthquake, Fire Blast, Fissure, Harden, Headbutt, Hyper Beam,
+        Ice Beam, Mega Kick, Mega Punch, Metronome, Mimic, Pay Day, Psychic, Psywave,
+        Rage, Reflect, Rest, Rock Slide, Seismic Toss, Self-Destruct, Skull Bash,
+        Solar Beam, Strength, Submission, Substitute, Surf, Take Down, Thunder, Thunderbolt,
+        Toxic, Water Gun]
     - xy: [Block, Crunch, Dynamic Punch, Fissure, Focus Blast, Giga Impact, Heavy
           Slam, Hyper Beam, Iron Head, Mega Kick, Mega Punch, Mimic, Psych Up, Refresh,
         Seismic Toss, Smack Down, Wild Charge, Yawn]

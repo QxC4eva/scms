@@ -51,9 +51,9 @@ pokemon:
     - bw: [Aromatherapy, Ingrain, Leech Seed, Magical Leaf, Petal Dance, Poison Jab,
         Poison Sting, Sweet Scent, Toxic Spikes, Double-Edge, Mimic, Nightmare, Sweet
           Kiss]
-    - dp: [Aromatherapy, Fury Cutter, Grass Whistle, Ingrain, Leech Seed, Magical Leaf,
-        Petal Dance, Poison Jab, Poison Sting, Sweet Scent, Toxic Spikes, Double-Edge,
-        Mimic, Nightmare, Sweet Kiss]
+    - dp: [Aromatherapy, Fury Cutter, Grass Whistle, Ingrain, Leech Seed, Magical
+          Leaf, Petal Dance, Poison Jab, Poison Sting, Sweet Scent, Toxic Spikes,
+        Double-Edge, Mimic, Nightmare, Sweet Kiss]
     - rs: [Absorb, Aromatherapy, Attract, Body Slam, Bullet Seed, Cotton Spore, Cut,
         Double-Edge, Double Team, Endure, Facade, Flash, Frustration, Fury Cutter,
         Giga Drain, Grass Whistle, Growth, Hidden Power, Ingrain, Leech Seed, Magical
@@ -77,8 +77,7 @@ pokemon:
     - [Natural Cure, Poison Point, Technician]
     egggroups:
     - [Fairy, Plant]
-    evolutions:
-    - []
+    evolutions: []
     height: [0.9]
     introduction: dp
     moves:

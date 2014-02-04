@@ -5,8 +5,7 @@ pokemon:
     - bw: [Rock Head, Sturdy, Swift Swim]
     egggroups:
     - [Water 1, Water 2]
-    evolutions:
-    - []
+    evolutions: []
     height: [1]
     introduction: rs
     moves:
@@ -28,13 +27,13 @@ pokemon:
         Secret Power, Skull Bash, Sleep Talk, Snore, Stealth Rock, Stone Edge, Substitute,
         Surf, Swagger, Tackle, Take Down, Toxic, Water Gun, Water Pulse, Water Sport,
         Waterfall, Whirlpool, Yawn, Body Slam, Icy Wind, Mimic]
-    - rs: [Amnesia, Ancient Power, Attract, Blizzard, Body Slam, Calm Mind, Dive, Double-Edge,
-        Double Team, Earthquake, Endure, Facade, Frustration, Hail, Harden, Hidden
-          Power, Hydro Pump, Hyper Beam, Ice Beam, Icy Wind, Magnitude, Mimic, Mud-Slap,
-        Mud Sport, Protect, Psych Up, Rain Dance, Rest, Return, Rock Slide, Rock Smash,
-        Rock Tomb, Safeguard, Sandstorm, Secret Power, Skull Bash, Sleep Talk, Snore,
-        Substitute, Surf, Swagger, Tackle, Take Down, Toxic, Water Gun, Water Pulse,
-        Water Sport, Waterfall, Yawn, Body Slam, Icy Wind, Mimic]
+    - rs: [Amnesia, Ancient Power, Attract, Blizzard, Body Slam, Calm Mind, Dive,
+        Double-Edge, Double Team, Earthquake, Endure, Facade, Frustration, Hail, Harden,
+        Hidden Power, Hydro Pump, Hyper Beam, Ice Beam, Icy Wind, Magnitude, Mimic,
+        Mud-Slap, Mud Sport, Protect, Psych Up, Rain Dance, Rest, Return, Rock Slide,
+        Rock Smash, Rock Tomb, Safeguard, Sandstorm, Secret Power, Skull Bash, Sleep
+          Talk, Snore, Substitute, Surf, Swagger, Tackle, Take Down, Toxic, Water
+          Gun, Water Pulse, Water Sport, Waterfall, Yawn, Body Slam, Icy Wind, Mimic]
     - xy: [Amnesia, Ancient Power, Aqua Tail, Attract, Blizzard, Body Slam, Bounce,
         Brine, Bulldoze, Calm Mind, Captivate, Dive, Double-Edge, Double Team, Earth
           Power, Earthquake, Endure, Facade, Frustration, Giga Impact, Hail, Harden,

@@ -20,9 +20,9 @@ pokemon:
         Feint Attack, False Swipe, Flash, Frustration, Fury Cutter, Fury Swipes, Giga
           Drain, Gust, Harden, Hidden Power, Leech Life, Metal Claw, Mind Reader,
         Mud-Slap, Natural Gift, Night Slash, Protect, Rest, Return, Sand Attack, Sandstorm,
-        Scratch, Secret Power, Shadow Ball, Silver Wind, Sleep Talk, Snore, Solar Beam,
-        Spite, String Shot, Substitute, Sunny Day, Swagger, Toxic, X-Scissor, Double-Edge,
-        Mimic]
+        Scratch, Secret Power, Shadow Ball, Silver Wind, Sleep Talk, Snore, Solar
+          Beam, Spite, String Shot, Substitute, Sunny Day, Swagger, Toxic, X-Scissor,
+        Double-Edge, Mimic]
     - rs: [Aerial Ace, Cut, Dig, Double-Edge, Double Team, Endure, Facade, Feint Attack,
         False Swipe, Flash, Frustration, Fury Cutter, Fury Swipes, Giga Drain, Gust,
         Harden, Hidden Power, Leech Life, Metal Claw, Mimic, Mind Reader, Mud-Slap,
@@ -50,8 +50,7 @@ pokemon:
     - bw: [Infiltrator, Speed Boost]
     egggroups:
     - [Bug]
-    evolutions:
-    - []
+    evolutions: []
     height: [0.8]
     introduction: rs
     moves:
@@ -80,8 +79,7 @@ pokemon:
     - bw: [Wonder Guard]
     egggroups:
     - [Mineral]
-    evolutions:
-    - []
+    evolutions: []
     height: [0.8]
     introduction: rs
     moves:

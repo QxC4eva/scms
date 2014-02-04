@@ -4,8 +4,7 @@ pokemon:
     - [Cloud Nine, Oblivious, Own Tempo]
     egggroups:
     - [Monster]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.7]
     introduction: dp
     moves:
@@ -44,11 +43,11 @@ pokemon:
           Beam, Ice Beam, Ice Punch, Icy Wind, Incinerate, Iron Tail, Knock Off, Lick,
         Magnitude, Me First, Muddy Water, Power Whip, Protect, Psych Up, Rain Dance,
         Refresh, Rest, Retaliate, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout,
-        Round, Sandstorm, Screech, Shadow Ball, Slam, Sleep Talk, Smelling Salts, Snore,
-        Solar Beam, Stomp, Strength, Substitute, Sunny Day, Supersonic, Surf, Swagger,
-        Swords Dance, Thief, Thunder, Thunderbolt, Thunder Punch, Toxic, Work Up, Wrap,
-        Wring Out, Zen Headbutt, Double-Edge, Double-Edge, Helping Hand, Icy Wind,
-        Mimic, Nightmare, Seismic Toss]
+        Round, Sandstorm, Screech, Shadow Ball, Slam, Sleep Talk, Smelling Salts,
+        Snore, Solar Beam, Stomp, Strength, Substitute, Sunny Day, Supersonic, Surf,
+        Swagger, Swords Dance, Thief, Thunder, Thunderbolt, Thunder Punch, Toxic,
+        Work Up, Wrap, Wring Out, Zen Headbutt, Double-Edge, Double-Edge, Helping
+          Hand, Icy Wind, Mimic, Nightmare, Seismic Toss]
     - dp: [Amnesia, Aqua Tail, Attract, Belly Drum, Blizzard, Body Slam, Brick Break,
         Captivate, Curse, Cut, Defense Curl, Dig, Disable, Double Team, Dream Eater,
         Earthquake, Endure, Facade, Fire Blast, Fire Punch, Flamethrower, Fling, Focus
@@ -63,17 +62,17 @@ pokemon:
         Double-Edge, Double-Edge, Helping Hand, Icy Wind, Mimic, Nightmare, Seismic
           Toss]
     - rs: [Attract, Belly Drum, Blizzard, Body Slam, Brick Break, Counter, Curse,
-        Cut, Defense Curl, Dig, Disable, Double-Edge, Double Team, Dream Eater, Dynamic Punch,
-        Earthquake, Endure, Facade, Fire Blast, Fire Punch, Flamethrower, Focus Punch,
-        Frustration, Hidden Power, Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Iron
-          Tail, Knock Off, Lick, Magnitude, Mega Kick, Mega Punch, Mimic, Mud-Slap,
-        Nightmare, Protect, Psych Up, Rain Dance, Refresh, Rest, Return, Rock Slide,
-        Rock Smash, Rock Tomb, Rollout, Sandstorm, Screech, Secret Power, Seismic
-          Toss, Shadow Ball, Shock Wave, Slam, Sleep Talk, Smelling Salts, Snore, Solar Beam,
-        Stomp, Strength, Substitute, Sunny Day, Supersonic, Surf, Swagger, Swords
-          Dance, Thief, Thunder, Thunderbolt, Thunder Punch, Toxic, Water Pulse, Wrap,
-        Double-Edge, Double-Edge, Helping Hand, Icy Wind, Mimic, Nightmare, Seismic
-          Toss]
+        Cut, Defense Curl, Dig, Disable, Double-Edge, Double Team, Dream Eater, Dynamic
+          Punch, Earthquake, Endure, Facade, Fire Blast, Fire Punch, Flamethrower,
+        Focus Punch, Frustration, Hidden Power, Hyper Beam, Ice Beam, Ice Punch, Icy
+          Wind, Iron Tail, Knock Off, Lick, Magnitude, Mega Kick, Mega Punch, Mimic,
+        Mud-Slap, Nightmare, Protect, Psych Up, Rain Dance, Refresh, Rest, Return,
+        Rock Slide, Rock Smash, Rock Tomb, Rollout, Sandstorm, Screech, Secret Power,
+        Seismic Toss, Shadow Ball, Shock Wave, Slam, Sleep Talk, Smelling Salts, Snore,
+        Solar Beam, Stomp, Strength, Substitute, Sunny Day, Supersonic, Surf, Swagger,
+        Swords Dance, Thief, Thunder, Thunderbolt, Thunder Punch, Toxic, Water Pulse,
+        Wrap, Double-Edge, Double-Edge, Helping Hand, Icy Wind, Mimic, Nightmare,
+        Seismic Toss]
     - rb: [Bide, Blizzard, Body Slam, Bubble Beam, Counter, Cut, Defense Curl, Disable,
         Double-Edge, Double Team, Earthquake, Fire Blast, Fissure, Hyper Beam, Ice
           Beam, Mega Kick, Mega Punch, Mimic, Rage, Rest, Screech, Seismic Toss, Skull

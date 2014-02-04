@@ -6,8 +6,7 @@ pokemon:
       dp: [Guts, No Guard]
     egggroups:
     - [Humanshape]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.6]
     introduction: rb
     moves:
@@ -81,8 +80,8 @@ pokemon:
         Meditate, Payback, Poison Jab, Power Trick, Protect, Rain Dance, Rest, Retaliate,
         Return, Revenge, Rock Slide, Rock Smash, Rock Tomb, Role Play, Rolling Kick,
         Round, Scary Face, Seismic Toss, Sleep Talk, Smack Down, Smelling Salts, Snore,
-        Strength, Submission, Substitute, Sunny Day, Superpower, Swagger, Thief, Thunder Punch,
-        Tickle, Toxic, Vital Throw, Wake-Up Slap, Work Up, Body Slam, Double-Edge,
+        Strength, Submission, Substitute, Sunny Day, Superpower, Swagger, Thief, Thunder
+          Punch, Tickle, Toxic, Vital Throw, Wake-Up Slap, Work Up, Body Slam, Double-Edge,
         Mimic]
     - dp: [Attract, Brick Break, Bulk Up, Bullet Punch, Captivate, Close Combat, Counter,
         Cross Chop, Dig, Double Team, Dynamic Punch, Earthquake, Encore, Endure, Facade,
@@ -102,8 +101,8 @@ pokemon:
         Mega Kick, Mega Punch, Metronome, Mimic, Mud-Slap, Protect, Rain Dance, Rest,
         Return, Revenge, Rock Slide, Rock Smash, Rock Tomb, Rolling Kick, Scary Face,
         Secret Power, Seismic Toss, Sleep Talk, Smelling Salts, Snore, Strength, Submission,
-        Substitute, Sunny Day, Swagger, Thief, Thunder Punch, Toxic, Vital Throw, Body
-          Slam, Double-Edge, Mimic]
+        Substitute, Sunny Day, Swagger, Thief, Thunder Punch, Toxic, Vital Throw,
+        Body Slam, Double-Edge, Mimic]
     - rb: [Bide, Body Slam, Counter, Dig, Double-Edge, Double Team, Earthquake, Fire
           Blast, Fissure, Focus Energy, Karate Chop, Leer, Low Kick, Mega Kick, Mega
           Punch, Metronome, Mimic, Rage, Rest, Rock Slide, Seismic Toss, Skull Bash,

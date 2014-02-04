@@ -26,17 +26,17 @@ pokemon:
     - bw: [Inner Focus, Multiscale]
     egggroups:
     - [Dragon, Water 1]
-    evolutions:
-    - []
+    evolutions: []
     height: [2.2]
     introduction: rb
     moves:
-    - gs: [Dynamic Punch, Fire Punch, Fly, Fury Cutter, Ice Punch, Mud-Slap, Rock Smash,
-        Sandstorm, Steel Wing, Strength, Thunder Punch, Whirlpool, Wing Attack]
+    - gs: [Dynamic Punch, Fire Punch, Fly, Fury Cutter, Ice Punch, Mud-Slap, Rock
+          Smash, Sandstorm, Steel Wing, Strength, Thunder Punch, Whirlpool, Wing Attack]
     - bw: [Aerial Ace, Brick Break, Bulldoze, Cut, Dive, Dragon Claw, Earthquake,
         Fire Punch, Fling, Fly, Focus Blast, Giga Impact, Heat Wave, Hone Claws, Hurricane,
         Ice Punch, Iron Head, Roar, Rock Slide, Rock Smash, Rock Tomb, Roost, Sandstorm,
-        Sky Drop, Stone Edge, Strength, Superpower, Tailwind, Thunder Punch, Wing Attack]
+        Sky Drop, Stone Edge, Strength, Superpower, Tailwind, Thunder Punch, Wing
+          Attack]
     - dp: [Aerial Ace, Air Cutter, Brick Break, Cut, Defog, Dive, Dragon Claw, Earthquake,
         Fire Punch, Fling, Fly, Focus Blast, Focus Punch, Fury Cutter, Giga Impact,
         Heat Wave, Ice Punch, Iron Head, Mud-Slap, Ominous Wind, Roar, Rock Slide,
@@ -73,12 +73,12 @@ pokemon:
     height: [1.8]
     introduction: rb
     moves:
-    - gs: [Agility, Attract, Blizzard, Curse, Detect, Double Team, Dragon Rage, Dragon Breath,
-        Endure, Fire Blast, Flamethrower, Frustration, Haze, Headbutt, Hidden Power,
-        Hyper Beam, Ice Beam, Icy Wind, Iron Tail, Leer, Light Screen, Mist, Outrage,
-        Protect, Rain Dance, Rest, Return, Safeguard, Slam, Sleep Talk, Snore, Supersonic,
-        Surf, Swagger, Swift, Thunder, Thunder Wave, Thunderbolt, Toxic, Twister,
-        Waterfall, Wrap, Zap Cannon]
+    - gs: [Agility, Attract, Blizzard, Curse, Detect, Double Team, Dragon Rage, Dragon
+          Breath, Endure, Fire Blast, Flamethrower, Frustration, Haze, Headbutt, Hidden
+          Power, Hyper Beam, Ice Beam, Icy Wind, Iron Tail, Leer, Light Screen, Mist,
+        Outrage, Protect, Rain Dance, Rest, Return, Safeguard, Slam, Sleep Talk, Snore,
+        Supersonic, Surf, Swagger, Swift, Thunder, Thunder Wave, Thunderbolt, Toxic,
+        Twister, Waterfall, Wrap, Zap Cannon]
     - bw: [Agility, Aqua Jet, Aqua Tail, Attract, Bind, Blizzard, Body Slam, Double-Edge,
         Double Team, Draco Meteor, Dragon Dance, Dragon Pulse, Dragon Rage, Dragon
           Rush, Dragon Tail, Dragon Breath, Extreme Speed, Facade, Fire Blast, Flamethrower,

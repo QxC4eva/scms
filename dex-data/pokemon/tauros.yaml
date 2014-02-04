@@ -6,8 +6,7 @@ pokemon:
       dp: [Anger Point, Intimidate]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.4]
     introduction: rb
     moves:
@@ -38,8 +37,8 @@ pokemon:
         Facade, Fire Blast, Flamethrower, Frustration, Hidden Power, Horn Attack,
         Hyper Beam, Ice Beam, Icy Wind, Iron Tail, Mimic, Protect, Pursuit, Rage,
         Rain Dance, Rest, Return, Rock Smash, Rock Tomb, Sandstorm, Scary Face, Secret
-          Power, Shock Wave, Sleep Talk, Snore, Solar Beam, Strength, Substitute, Sunny
-          Day, Surf, Swagger, Tackle, Tail Whip, Take Down, Thrash, Thunder, Thunderbolt,
+          Power, Shock Wave, Sleep Talk, Snore, Solar Beam, Strength, Substitute,
+        Sunny Day, Surf, Swagger, Tackle, Tail Whip, Take Down, Thrash, Thunder, Thunderbolt,
         Toxic, Water Pulse, Body Slam, Body Slam, Double-Edge, Icy Wind, Mimic, Refresh]
     - rb: [Bide, Blizzard, Body Slam, Double-Edge, Double Team, Earthquake, Fire Blast,
         Fissure, Horn Drill, Hyper Beam, Ice Beam, Leer, Mimic, Rage, Rest, Skull

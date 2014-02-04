@@ -5,8 +5,7 @@ pokemon:
     - bw: [Chlorophyll, Healer]
     egggroups:
     - [Plant]
-    evolutions:
-    - []
+    evolutions: []
     height: [0.4]
     introduction: gs
     moves:
@@ -70,18 +69,18 @@ pokemon:
         Facade, Flail, Flash, Frustration, Gastro Acid, Giga Drain, Grass Knot, Hidden
           Power, Ingrain, Lucky Chant, Mega Drain, Moonlight, Natural Gift, Nature
           Power, Petal Dance, Poison Powder, Protect, Razor Leaf, Rest, Return, Round,
-        Secret Power, Seed Bomb, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solar Beam,
-        Stun Spore, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis,
-        Teeter Dance, Tickle, Toxic, Venoshock, Worry Seed, Leech Seed, Body Slam,
-        Double-Edge, Mimic]
+        Secret Power, Seed Bomb, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solar
+          Beam, Stun Spore, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance,
+        Synthesis, Teeter Dance, Tickle, Toxic, Venoshock, Worry Seed, Leech Seed,
+        Body Slam, Double-Edge, Mimic]
     - dp: [Absorb, Acid, Attract, Bullet Seed, Captivate, Charm, Cut, Double Team,
         Endure, Energy Ball, Facade, Flail, Flash, Frustration, Gastro Acid, Giga
           Drain, Grass Knot, Hidden Power, Ingrain, Lucky Chant, Mega Drain, Moonlight,
         Natural Gift, Petal Dance, Poison Powder, Protect, Razor Leaf, Rest, Return,
-        Secret Power, Seed Bomb, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solar Beam,
-        Stun Spore, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis,
-        Teeter Dance, Tickle, Toxic, Worry Seed, Leech Seed, Body Slam, Double-Edge,
-        Mimic]
+        Secret Power, Seed Bomb, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solar
+          Beam, Stun Spore, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance,
+        Synthesis, Teeter Dance, Tickle, Toxic, Worry Seed, Leech Seed, Body Slam,
+        Double-Edge, Mimic]
     - rs: [Absorb, Acid, Attract, Bullet Seed, Charm, Cut, Double-Edge, Double Team,
         Endure, Facade, Flail, Flash, Frustration, Giga Drain, Hidden Power, Ingrain,
         Mimic, Moonlight, Petal Dance, Poison Powder, Protect, Razor Leaf, Rest, Return,
@@ -115,8 +114,7 @@ pokemon:
     - bw: [Chlorophyll, Effect Spore]
     egggroups:
     - [Plant]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.2]
     introduction: rb
     moves:

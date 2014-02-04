@@ -5,8 +5,7 @@ pokemon:
     - bw: [Hustle, Natural Cure, Regenerator]
     egggroups:
     - [Water 1, Water 3]
-    evolutions:
-    - []
+    evolutions: []
     height: [0.6]
     introduction: gs
     moves:
@@ -38,14 +37,15 @@ pokemon:
         Screech, Secret Power, Self-Destruct, Shadow Ball, Sleep Talk, Snore, Spike
           Cannon, Stealth Rock, Stone Edge, Strength, Substitute, Sucker Punch, Sunny
           Day, Surf, Swagger, Tackle, Toxic, Water Pulse, Whirlpool]
-    - rs: [Amnesia, Ancient Power, Attract, Barrier, Blizzard, Body Slam, Bubble, Bubble Beam,
-        Calm Mind, Confuse Ray, Defense Curl, Dig, Double-Edge, Double Team, Earthquake,
-        Endure, Explosion, Facade, Frustration, Hail, Harden, Hidden Power, Ice Beam,
-        Icicle Spear, Ingrain, Light Screen, Mimic, Mirror Coat, Mist, Mud-Slap, Protect,
-        Psychic, Rain Dance, Recover, Reflect, Refresh, Rest, Return, Rock Blast,
-        Rock Slide, Rock Smash, Rock Tomb, Rollout, Safeguard, Sandstorm, Screech,
-        Secret Power, Self-Destruct, Shadow Ball, Sleep Talk, Snore, Spike Cannon,
-        Strength, Substitute, Sunny Day, Surf, Swagger, Tackle, Toxic, Water Pulse]
+    - rs: [Amnesia, Ancient Power, Attract, Barrier, Blizzard, Body Slam, Bubble,
+        Bubble Beam, Calm Mind, Confuse Ray, Defense Curl, Dig, Double-Edge, Double
+          Team, Earthquake, Endure, Explosion, Facade, Frustration, Hail, Harden,
+        Hidden Power, Ice Beam, Icicle Spear, Ingrain, Light Screen, Mimic, Mirror
+          Coat, Mist, Mud-Slap, Protect, Psychic, Rain Dance, Recover, Reflect, Refresh,
+        Rest, Return, Rock Blast, Rock Slide, Rock Smash, Rock Tomb, Rollout, Safeguard,
+        Sandstorm, Screech, Secret Power, Self-Destruct, Shadow Ball, Sleep Talk,
+        Snore, Spike Cannon, Strength, Substitute, Sunny Day, Surf, Swagger, Tackle,
+        Toxic, Water Pulse]
     - xy: [Amnesia, Ancient Power, Aqua Ring, Attract, Barrier, Bide, Blizzard, Body
           Slam, Brine, Bubble, Bubble Beam, Bulldoze, Calm Mind, Captivate, Confuse
           Ray, Curse, Defense Curl, Dig, Double-Edge, Double Team, Earth Power, Earthquake,

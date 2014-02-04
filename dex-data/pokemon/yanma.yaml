@@ -17,17 +17,18 @@ pokemon:
         Double-Edge, Double Team, Dream Eater, Facade, Feint Attack, Feint, Flash,
         Foresight, Frustration, Giga Drain, Hidden Power, Hypnosis, Leech Life, Protect,
         Psychic, Pursuit, Quick Attack, Rest, Return, Reversal, Roost, Round, Screech,
-        Secret Power, Shadow Ball, Signal Beam, Silver Wind, Sleep Talk, Snore, Solar Beam,
-        Sonic Boom, Substitute, Sunny Day, Supersonic, Swagger, Tackle, Tailwind, Thief,
-        Toxic, U-turn, Uproar, Whirlwind, Wing Attack, Mimic]
+        Secret Power, Shadow Ball, Signal Beam, Silver Wind, Sleep Talk, Snore, Solar
+          Beam, Sonic Boom, Substitute, Sunny Day, Supersonic, Swagger, Tackle, Tailwind,
+        Thief, Toxic, U-turn, Uproar, Whirlwind, Wing Attack, Mimic]
     - dp: [Aerial Ace, Air Cutter, Air Slash, Ancient Power, Attract, Bug Bite, Bug
           Buzz, Captivate, Defog, Detect, Double Team, Dream Eater, Endure, Facade,
         Feint Attack, Feint, Flash, Foresight, Frustration, Giga Drain, Headbutt,
         Hidden Power, Hypnosis, Leech Life, Natural Gift, Ominous Wind, Protect, Psychic,
         Pursuit, Quick Attack, Rest, Return, Reversal, Roost, Screech, Secret Power,
-        Shadow Ball, Signal Beam, Silver Wind, Sleep Talk, Snore, Solar Beam, Sonic Boom,
-        Steel Wing, String Shot, Substitute, Sunny Day, Supersonic, Swagger, Swift,
-        Tackle, Tailwind, Thief, Toxic, U-turn, Uproar, Whirlwind, Wing Attack, Mimic]
+        Shadow Ball, Signal Beam, Silver Wind, Sleep Talk, Snore, Solar Beam, Sonic
+          Boom, Steel Wing, String Shot, Substitute, Sunny Day, Supersonic, Swagger,
+        Swift, Tackle, Tailwind, Thief, Toxic, U-turn, Uproar, Whirlwind, Wing Attack,
+        Mimic]
     - rs: [Aerial Ace, Attract, Detect, Double-Edge, Double Team, Dream Eater, Endure,
         Facade, Flash, Foresight, Frustration, Giga Drain, Hidden Power, Hypnosis,
         Leech Life, Mimic, Protect, Psychic, Quick Attack, Rest, Return, Reversal,
@@ -57,8 +58,7 @@ pokemon:
     - [Frisk, Speed Boost, Tinted Lens]
     egggroups:
     - [Bug]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.9]
     introduction: dp
     moves:

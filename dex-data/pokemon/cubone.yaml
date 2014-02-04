@@ -10,12 +10,12 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Ancient Power, Attract, Belly Drum, Blizzard, Bone Club, Bone Rush, Bonemerang,
-        Curse, Detect, Dig, Double Team, Dynamic Punch, Earthquake, Endure, False Swipe,
-        Fire Blast, Fire Punch, Flamethrower, Focus Energy, Frustration, Growl, Headbutt,
-        Hidden Power, Ice Beam, Icy Wind, Iron Tail, Leer, Mud-Slap, Perish Song,
-        Protect, Rage, Rest, Return, Rock Slide, Rock Smash, Sandstorm, Screech, Skull
-          Bash, Sleep Talk, Snore, Strength, Sunny Day, Swagger, Swords Dance, Tail
-          Whip, Thief, Thrash, Thunder Punch, Toxic]
+        Curse, Detect, Dig, Double Team, Dynamic Punch, Earthquake, Endure, False
+          Swipe, Fire Blast, Fire Punch, Flamethrower, Focus Energy, Frustration,
+        Growl, Headbutt, Hidden Power, Ice Beam, Icy Wind, Iron Tail, Leer, Mud-Slap,
+        Perish Song, Protect, Rage, Rest, Return, Rock Slide, Rock Smash, Sandstorm,
+        Screech, Skull Bash, Sleep Talk, Snore, Strength, Sunny Day, Swagger, Swords
+          Dance, Tail Whip, Thief, Thrash, Thunder Punch, Toxic]
     - bw: [Aerial Ace, Ancient Power, Attract, Belly Drum, Blizzard, Bone Club, Bone
           Rush, Bonemerang, Brick Break, Bulldoze, Chip Away, Detect, Dig, Double-Edge,
         Double Kick, Double Team, Earth Power, Earthquake, Echoed Voice, Endeavor,
@@ -79,8 +79,7 @@ pokemon:
     - bw: [Battle Armor, Lightningrod, Rock Head]
     egggroups:
     - [Monster]
-    evolutions:
-    - []
+    evolutions: []
     height: [1]
     introduction: rb
     moves:

@@ -10,14 +10,14 @@ pokemon:
     introduction: rs
     moves:
     - bw: [Brick Break, Dive, Drain Punch, Fake Out, Fire Punch, Fling, Fury Swipes,
-        Hone Claws, Hydro Pump, Hyper Voice, Ice Punch, Rock Smash, Strength, Thunder Punch,
-        Water Sport, Waterfall, Body Slam, Double-Edge, Icy Wind, Mimic]
+        Hone Claws, Hydro Pump, Hyper Voice, Ice Punch, Rock Smash, Strength, Thunder
+          Punch, Water Sport, Waterfall, Body Slam, Double-Edge, Icy Wind, Mimic]
     - dp: [Brick Break, Dive, Drain Punch, Fake Out, Fire Punch, Fling, Fury Swipes,
         Hydro Pump, Ice Punch, Mud-Slap, Rock Smash, Strength, Thunder Punch, Water
           Sport, Waterfall, Body Slam, Double-Edge, Icy Wind, Mimic]
     - rs: [Brick Break, Dive, Dynamic Punch, Fake Out, Fire Punch, Fury Swipes, Hydro
-          Pump, Ice Punch, Mud-Slap, Rock Smash, Strength, Thunder Punch, Uproar, Water
-          Sport, Waterfall, Body Slam, Double-Edge, Icy Wind, Mimic]
+          Pump, Ice Punch, Mud-Slap, Rock Smash, Strength, Thunder Punch, Uproar,
+        Water Sport, Waterfall, Body Slam, Double-Edge, Icy Wind, Mimic]
     - xy: [Brick Break, Dive, Drain Punch, Dynamic Punch, Fake Out, Fire Punch, Fling,
         Fury Swipes, Hone Claws, Hydro Pump, Ice Punch, Mud-Slap, Rock Smash, Strength,
         Thunder Punch, Waterfall, Water Sport, Hyper Voice, Power-Up Punch]
@@ -84,8 +84,7 @@ pokemon:
     - bw: [Own Tempo, Rain Dish, Swift Swim]
     egggroups:
     - [Plant, Water 1]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.5]
     introduction: rs
     moves:

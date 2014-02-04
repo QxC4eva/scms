@@ -4,8 +4,7 @@ pokemon:
     - [Pickup, Run Away, Volt Absorb]
     egggroups:
     - [Fairy, Ground]
-    evolutions:
-    - []
+    evolutions: []
     height: [0.4]
     introduction: dp
     moves:
@@ -23,8 +22,8 @@ pokemon:
           Hand, Hidden Power, Iron Tail, Last Resort, Light Screen, Magnet Rise, Mud-Slap,
         Natural Gift, Protect, Quick Attack, Rain Dance, Rest, Return, Rollout, Secret
           Power, Seed Bomb, Shock Wave, Sleep Talk, Snore, Spark, Substitute, Super
-          Fang, Swagger, Sweet Kiss, Swift, Thunder, Thunder Wave, Thunderbolt, Thunder Punch,
-        Toxic, U-turn, Uproar]
+          Fang, Swagger, Sweet Kiss, Swift, Thunder, Thunder Wave, Thunderbolt, Thunder
+          Punch, Toxic, U-turn, Uproar]
     - xy: [Attract, Bestow, Bide, Bite, Captivate, Charge, Charge Beam, Charm, Covet,
         Cut, Defense Curl, Dig, Discharge, Double Team, Echoed Voice, Electro Ball,
         Endure, Facade, Fake Tears, Flail, Flash, Flatter, Fling, Follow Me, Frustration,

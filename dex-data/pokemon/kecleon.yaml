@@ -6,8 +6,7 @@ pokemon:
     - xy: [Color Change, Protean]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolutions: []
     height: [1]
     introduction: rs
     moves:
@@ -22,8 +21,8 @@ pokemon:
         Shadow Ball, Shadow Claw, Shadow Sneak, Skill Swap, Slash, Sleep Talk, Snatch,
         Snore, Solar Beam, Stealth Rock, Strength, Substitute, Sucker Punch, Sunny
           Day, Swagger, Synchronoise, Tail Whip, Thief, Thunder, Thunder Wave, Thunderbolt,
-        Thunder Punch, Toxic, Trick, Trick Room, Wonder Room, Work Up, Body Slam, Double-Edge,
-        Icy Wind, Mimic, Seismic Toss]
+        Thunder Punch, Toxic, Trick, Trick Room, Wonder Room, Work Up, Body Slam,
+        Double-Edge, Icy Wind, Mimic, Seismic Toss]
     - dp: [Aerial Ace, Ancient Power, Aqua Tail, Astonish, Attract, Bind, Blizzard,
         Brick Break, Captivate, Charge Beam, Cut, Dig, Disable, Dizzy Punch, Double
           Team, Drain Punch, Endure, Facade, Feint Attack, Fake Out, Feint, Fire Blast,
@@ -33,10 +32,11 @@ pokemon:
         Nasty Plot, Natural Gift, Protect, Psybeam, Psych Up, Rain Dance, Recover,
         Recycle, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Role Play, Rollout,
         Scratch, Screech, Secret Power, Shadow Ball, Shadow Claw, Shadow Sneak, Shock
-          Wave, Skill Swap, Slash, Sleep Talk, Snatch, Snore, Solar Beam, Stealth Rock,
-        Strength, Substitute, Sucker Punch, Sunny Day, Swagger, Swift, Tail Whip,
-        Thief, Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Toxic, Trick, Trick
-          Room, Water Pulse, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+          Wave, Skill Swap, Slash, Sleep Talk, Snatch, Snore, Solar Beam, Stealth
+          Rock, Strength, Substitute, Sucker Punch, Sunny Day, Swagger, Swift, Tail
+          Whip, Thief, Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Toxic, Trick,
+        Trick Room, Water Pulse, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic
+          Toss]
     - rs: [Aerial Ace, Ancient Power, Astonish, Attract, Bind, Blizzard, Body Slam,
         Brick Break, Counter, Cut, Defense Curl, Dig, Disable, Double-Edge, Double
           Team, Dynamic Punch, Endure, Facade, Feint Attack, Fire Blast, Fire Punch,
@@ -45,10 +45,10 @@ pokemon:
           Kick, Mega Punch, Metronome, Mimic, Mud-Slap, Protect, Psybeam, Psych Up,
         Rain Dance, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout, Scratch,
         Screech, Secret Power, Seismic Toss, Shadow Ball, Shock Wave, Skill Swap,
-        Slash, Sleep Talk, Snatch, Snore, Solar Beam, Strength, Substitute, Sunny Day,
-        Swagger, Swift, Tail Whip, Thief, Thunder, Thunder Wave, Thunderbolt, Thunder Punch,
-        Toxic, Trick, Water Pulse, Body Slam, Double-Edge, Icy Wind, Mimic, Seismic
-          Toss]
+        Slash, Sleep Talk, Snatch, Snore, Solar Beam, Strength, Substitute, Sunny
+          Day, Swagger, Swift, Tail Whip, Thief, Thunder, Thunder Wave, Thunderbolt,
+        Thunder Punch, Toxic, Trick, Water Pulse, Body Slam, Double-Edge, Icy Wind,
+        Mimic, Seismic Toss]
     - xy: [Aerial Ace, Ancient Power, Aqua Tail, Astonish, Attract, Bind, Blizzard,
         Body Slam, Brick Break, Captivate, Charge Beam, Counter, Cut, Defense Curl,
         Dig, Disable, Dizzy Punch, Double-Edge, Double Team, Drain Punch, Dynamic

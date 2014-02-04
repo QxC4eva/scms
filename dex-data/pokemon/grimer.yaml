@@ -23,7 +23,8 @@ pokemon:
           Tomb, Round, Scary Face, Screech, Shadow Ball, Shadow Punch, Shadow Sneak,
         Sleep Talk, Sludge, Sludge Bomb, Sludge Wave, Snore, Spit Up, Stockpile, Strength,
         Substitute, Sunny Day, Swagger, Swallow, Taunt, Thief, Thunder, Thunderbolt,
-        Thunder Punch, Torment, Toxic, Venoshock, Body Slam, Helping Hand, Mimic, Self-Destruct]
+        Thunder Punch, Torment, Toxic, Venoshock, Body Slam, Helping Hand, Mimic,
+        Self-Destruct]
     - dp: [Acid Armor, Attract, Captivate, Curse, Dig, Disable, Double Team, Endure,
         Explosion, Facade, Fire Blast, Fire Punch, Flamethrower, Fling, Frustration,
         Giga Drain, Gunk Shot, Harden, Haze, Hidden Power, Ice Punch, Imprison, Lick,
@@ -34,14 +35,14 @@ pokemon:
         Strength, Substitute, Sunny Day, Swagger, Swallow, Taunt, Thief, Thunder,
         Thunderbolt, Thunder Punch, Torment, Toxic, Body Slam, Helping Hand, Mimic,
         Self-Destruct]
-    - rs: [Acid Armor, Attract, Body Slam, Curse, Dig, Disable, Double Team, Dynamic Punch,
-        Endure, Explosion, Facade, Fire Blast, Fire Punch, Flamethrower, Frustration,
-        Giga Drain, Harden, Haze, Hidden Power, Ice Punch, Imprison, Lick, Mean Look,
-        Memento, Mimic, Minimize, Mud-Slap, Poison Gas, Pound, Protect, Rain Dance,
-        Rest, Return, Rock Tomb, Screech, Secret Power, Self-Destruct, Shadow Punch,
-        Shock Wave, Sleep Talk, Sludge, Sludge Bomb, Snore, Substitute, Sunny Day,
-        Swagger, Taunt, Thief, Thunder, Thunderbolt, Thunder Punch, Torment, Toxic,
-        Body Slam, Helping Hand, Mimic, Self-Destruct]
+    - rs: [Acid Armor, Attract, Body Slam, Curse, Dig, Disable, Double Team, Dynamic
+          Punch, Endure, Explosion, Facade, Fire Blast, Fire Punch, Flamethrower,
+        Frustration, Giga Drain, Harden, Haze, Hidden Power, Ice Punch, Imprison,
+        Lick, Mean Look, Memento, Mimic, Minimize, Mud-Slap, Poison Gas, Pound, Protect,
+        Rain Dance, Rest, Return, Rock Tomb, Screech, Secret Power, Self-Destruct,
+        Shadow Punch, Shock Wave, Sleep Talk, Sludge, Sludge Bomb, Snore, Substitute,
+        Sunny Day, Swagger, Taunt, Thief, Thunder, Thunderbolt, Thunder Punch, Torment,
+        Toxic, Body Slam, Helping Hand, Mimic, Self-Destruct]
     - rb: [Acid Armor, Bide, Body Slam, Disable, Double Team, Explosion, Fire Blast,
         Harden, Mega Drain, Mimic, Minimize, Poison Gas, Pound, Rage, Rest, Screech,
         Self-Destruct, Sludge, Substitute, Thunder, Thunderbolt, Toxic]
@@ -71,8 +72,7 @@ pokemon:
     - bw: [Poison Touch, Stench, Sticky Hold]
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.2]
     introduction: rb
     moves:

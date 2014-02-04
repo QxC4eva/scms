@@ -5,8 +5,7 @@ pokemon:
     - bw: [Insomnia, Sniper, Swarm]
     egggroups:
     - [Bug]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.1]
     introduction: gs
     moves:
@@ -51,8 +50,8 @@ pokemon:
           Drain, Hidden Power, Leech Life, Natural Gift, Night Shade, Pin Missile,
         Poison Jab, Poison Sting, Protect, Psybeam, Psychic, Pursuit, Rest, Return,
         Scary Face, Secret Power, Shadow Sneak, Signal Beam, Sleep Talk, Sludge Bomb,
-        Solar Beam, Sonic Boom, Spider Web, String Shot, Substitute, Sucker Punch, Sunny
-          Day, Swagger, Thief, Toxic, Toxic Spikes, Refresh]
+        Solar Beam, Sonic Boom, Spider Web, String Shot, Substitute, Sucker Punch,
+        Sunny Day, Swagger, Thief, Toxic, Toxic Spikes, Refresh]
     - rs: [Agility, Attract, Baton Pass, Body Slam, Constrict, Dig, Disable, Double-Edge,
         Double Team, Endure, Facade, Flash, Frustration, Fury Swipes, Giga Drain,
         Hidden Power, Leech Life, Mimic, Night Shade, Poison Sting, Protect, Psybeam,

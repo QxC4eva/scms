@@ -9,11 +9,11 @@ pokemon:
     height: [0.6]
     introduction: gs
     moves:
-    - gs: [Ancient Power, Attract, Bite, Crunch, Curse, Detect, Dig, Double Team, Earthquake,
-        Endure, Focus Energy, Frustration, Headbutt, Hidden Power, Hyper Beam, Leer,
-        Mud-Slap, Outrage, Protect, Pursuit, Rain Dance, Rest, Return, Rock Slide,
-        Sandstorm, Scary Face, Screech, Sleep Talk, Snore, Stomp, Sunny Day, Swagger,
-        Thrash, Toxic]
+    - gs: [Ancient Power, Attract, Bite, Crunch, Curse, Detect, Dig, Double Team,
+        Earthquake, Endure, Focus Energy, Frustration, Headbutt, Hidden Power, Hyper
+          Beam, Leer, Mud-Slap, Outrage, Protect, Pursuit, Rain Dance, Rest, Return,
+        Rock Slide, Sandstorm, Scary Face, Screech, Sleep Talk, Snore, Stomp, Sunny
+          Day, Swagger, Thrash, Toxic]
     - bw: [Ancient Power, Assurance, Attract, Bite, Brick Break, Bulldoze, Chip Away,
         Crunch, Curse, Dark Pulse, Dig, Double Team, Dragon Dance, Earth Power, Earthquake,
         Facade, Focus Energy, Frustration, Hidden Power, Hyper Beam, Iron Defense,
@@ -92,8 +92,8 @@ pokemon:
         Dragon Tail, Fire Blast, Fire Fang, Fire Punch, Flamethrower, Fling, Focus
           Blast, Foul Play, Giga Impact, Hone Claws, Ice Beam, Ice Fang, Ice Punch,
         Incinerate, Low Kick, Roar, Shadow Claw, Strength, Surf, Thunder, Thunder
-          Fang, Thunder Wave, Thunderbolt, Thunder Punch, Body Slam, Double-Edge, Mimic,
-        Nightmare, Seismic Toss]
+          Fang, Thunder Wave, Thunderbolt, Thunder Punch, Body Slam, Double-Edge,
+        Mimic, Nightmare, Seismic Toss]
     - dp: [Aerial Ace, Aqua Tail, Avalanche, Blizzard, Block, Cut, Dragon Claw, Dragon
           Pulse, Fire Blast, Fire Fang, Fire Punch, Flamethrower, Fling, Focus Blast,
         Focus Punch, Fury Cutter, Giga Impact, Ice Beam, Ice Fang, Ice Punch, Iron
@@ -124,8 +124,7 @@ pokemon:
     - [Sand Stream]
     egggroups:
     - [Monster]
-    evolutions:
-    - []
+    evolutions: []
     height: [2.5]
     introduction: xy
     moves:

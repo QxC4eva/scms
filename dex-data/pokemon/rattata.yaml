@@ -5,8 +5,7 @@ pokemon:
     - bw: [Guts, Hustle, Run Away]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolutions: []
     height: [0.7]
     introduction: rb
     moves:
@@ -69,8 +68,8 @@ pokemon:
         Substitute, Sunny Day, Super Fang, Swagger, Swift, Tackle, Tail Whip, Taunt,
         Thief, Thunder, Thunder Wave, Thunderbolt, Toxic, Uproar, Body Slam, Icy Wind,
         Mimic]
-    - rb: [Bide, Blizzard, Body Slam, Bubble Beam, Dig, Double-Edge, Double Team, Focus
-          Energy, Hyper Fang, Mimic, Quick Attack, Rage, Rest, Skull Bash, Substitute,
+    - rb: [Bide, Blizzard, Body Slam, Bubble Beam, Dig, Double-Edge, Double Team,
+        Focus Energy, Hyper Fang, Mimic, Quick Attack, Rage, Rest, Skull Bash, Substitute,
         Super Fang, Swift, Tackle, Tail Whip, Take Down, Thunder, Thunderbolt, Toxic,
         Water Gun]
     - xy: [Assurance, Attract, Bite, Blizzard, Body Slam, Captivate, Charge Beam,

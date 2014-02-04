@@ -34,9 +34,9 @@ pokemon:
         Flamethrower, Flash, Frustration, Haze, Hidden Power, Memento, Mimic, Pain
           Split, Poison Gas, Protect, Psybeam, Psywave, Rain Dance, Rest, Return,
         Rollout, Screech, Secret Power, Self-Destruct, Shadow Ball, Shock Wave, Sleep
-          Talk, Sludge, Sludge Bomb, Smog, Smoke Screen, Snore, Substitute, Sunny Day,
-        Swagger, Tackle, Taunt, Thief, Thunder, Thunderbolt, Torment, Toxic, Will-O-Wisp,
-        Mimic]
+          Talk, Sludge, Sludge Bomb, Smog, Smoke Screen, Snore, Substitute, Sunny
+          Day, Swagger, Tackle, Taunt, Thief, Thunder, Thunderbolt, Torment, Toxic,
+        Will-O-Wisp, Mimic]
     - rb: [Bide, Double Team, Explosion, Fire Blast, Haze, Mimic, Rage, Rest, Self-Destruct,
         Sludge, Smog, Smoke Screen, Substitute, Tackle, Thunder, Thunderbolt, Toxic]
     - xy: [Assurance, Attract, Captivate, Clear Smog, Curse, Dark Pulse, Destiny Bond,
@@ -44,10 +44,10 @@ pokemon:
         Grudge, Gyro Ball, Haze, Hidden Power, Incinerate, Memento, Mimic, Natural
           Gift, Pain Split, Payback, Poison Gas, Protect, Psybeam, Psywave, Rain Dance,
         Rest, Return, Rollout, Round, Screech, Secret Power, Self-Destruct, Shadow
-          Ball, Shock Wave, Sleep Talk, Sludge, Sludge Bomb, Sludge Wave, Smog, Smoke Screen,
-        Snore, Spite, Spit Up, Stockpile, Substitute, Sunny Day, Swagger, Swallow,
-        Tackle, Taunt, Thief, Thunder, Thunderbolt, Torment, Toxic, Uproar, Venoshock,
-        Will-O-Wisp, Belch, Infestation, Confide, Toxic Spikes]
+          Ball, Shock Wave, Sleep Talk, Sludge, Sludge Bomb, Sludge Wave, Smog, Smoke
+          Screen, Snore, Spite, Spit Up, Stockpile, Substitute, Sunny Day, Swagger,
+        Swallow, Tackle, Taunt, Thief, Thunder, Thunderbolt, Torment, Toxic, Uproar,
+        Venoshock, Will-O-Wisp, Belch, Infestation, Confide, Toxic Spikes]
     stats:
     - [40, 65, 95, 60, 60, 35]
     - gs: [40, 65, 95, 60, 45, 35]
@@ -63,8 +63,7 @@ pokemon:
     - bw: [Levitate]
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.2]
     introduction: rb
     moves:

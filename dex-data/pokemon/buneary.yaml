@@ -16,8 +16,8 @@ pokemon:
         Ice Beam, Ice Punch, Iron Tail, Jump Kick, Last Resort, Low Kick, Magic Coat,
         Pound, Protect, Quick Attack, Rain Dance, Rest, Retaliate, Return, Rock Smash,
         Round, Shadow Ball, Sky Uppercut, Sleep Talk, Snore, Solar Beam, Splash, Substitute,
-        Sunny Day, Swagger, Sweet Kiss, Switcheroo, Thunder Wave, Thunderbolt, Thunder Punch,
-        Toxic, Uproar, Work Up]
+        Sunny Day, Swagger, Sweet Kiss, Switcheroo, Thunder Wave, Thunderbolt, Thunder
+          Punch, Toxic, Uproar, Work Up]
     - dp: [Agility, Attract, Baton Pass, Bounce, Captivate, Charge Beam, Charm, Cut,
         Defense Curl, Dig, Dizzy Punch, Double Hit, Double Team, Drain Punch, Encore,
         Endeavor, Endure, Facade, Fake Out, Fake Tears, Fire Punch, Flail, Fling,
@@ -52,8 +52,7 @@ pokemon:
     - [Cute Charm, Klutz, Limber]
     egggroups:
     - [Ground, Humanshape]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.2]
     introduction: dp
     moves:

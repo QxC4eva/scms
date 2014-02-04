@@ -5,8 +5,7 @@ pokemon:
     - bw: [Aftermath, Soundproof, Static]
     egggroups:
     - [Mineral]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.2]
     introduction: rb
     moves:
@@ -42,23 +41,23 @@ pokemon:
     - bw: [Charge, Charge Beam, Double Team, Electro Ball, Explosion, Facade, Flash,
         Foul Play, Frustration, Gyro Ball, Hidden Power, Light Screen, Magic Coat,
         Magnet Rise, Mirror Coat, Protect, Rain Dance, Rest, Return, Rollout, Round,
-        Screech, Self-Destruct, Signal Beam, Sleep Talk, Snore, Sonic Boom, Spark, Substitute,
-        Swagger, Swift, Tackle, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt,
+        Screech, Self-Destruct, Signal Beam, Sleep Talk, Snore, Sonic Boom, Spark,
+        Substitute, Swagger, Swift, Tackle, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt,
         Torment, Toxic, Volt Switch, Wild Charge, Mimic, Refresh]
     - dp: [Charge, Charge Beam, Double Team, Endure, Explosion, Facade, Flash, Frustration,
         Gyro Ball, Headbutt, Hidden Power, Light Screen, Magic Coat, Magnet Rise,
         Mirror Coat, Natural Gift, Protect, Rain Dance, Rest, Return, Rollout, Screech,
-        Secret Power, Self-Destruct, Shock Wave, Signal Beam, Sleep Talk, Snore, Sonic Boom,
-        Spark, Substitute, Sucker Punch, Swagger, Swift, Tackle, Taunt, Thief, Thunder,
-        Thunder Wave, Thunderbolt, Torment, Toxic, Mimic, Refresh]
+        Secret Power, Self-Destruct, Shock Wave, Signal Beam, Sleep Talk, Snore, Sonic
+          Boom, Spark, Substitute, Sucker Punch, Swagger, Swift, Tackle, Taunt, Thief,
+        Thunder, Thunder Wave, Thunderbolt, Torment, Toxic, Mimic, Refresh]
     - rs: [Charge, Double Team, Endure, Explosion, Facade, Flash, Frustration, Hidden
           Power, Light Screen, Mimic, Mirror Coat, Protect, Rain Dance, Rest, Return,
         Rollout, Screech, Secret Power, Self-Destruct, Shock Wave, Sleep Talk, Snore,
         Sonic Boom, Spark, Substitute, Swagger, Swift, Tackle, Taunt, Thief, Thunder,
         Thunder Wave, Thunderbolt, Torment, Toxic, Mimic, Refresh]
     - rb: [Bide, Double Team, Explosion, Flash, Light Screen, Mimic, Rage, Reflect,
-        Rest, Screech, Self-Destruct, Sonic Boom, Substitute, Swift, Tackle, Take Down,
-        Teleport, Thunder, Thunder Wave, Thunderbolt, Toxic]
+        Rest, Screech, Self-Destruct, Sonic Boom, Substitute, Swift, Tackle, Take
+          Down, Teleport, Thunder, Thunder Wave, Thunderbolt, Toxic]
     - xy: [Charge, Charge Beam, Double Team, Electro Ball, Endure, Explosion, Facade,
         Flash, Frustration, Gyro Ball, Headbutt, Hidden Power, Light Screen, Magic
           Coat, Magnet Rise, Mimic, Mirror Coat, Natural Gift, Protect, Rain Dance,

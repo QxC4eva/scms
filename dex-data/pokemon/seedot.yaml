@@ -45,10 +45,10 @@ pokemon:
         Energy Ball, Explosion, Facade, False Swipe, Flash, Foul Play, Frustration,
         Giga Drain, Grass Knot, Growth, Harden, Hidden Power, Leech Seed, Nasty Plot,
         Nature Power, Power Swap, Protect, Quick Attack, Razor Wind, Rest, Retaliate,
-        Return, Rock Smash, Round, Seed Bomb, Shadow Ball, Sleep Talk, Snore, Solar Beam,
-        Spite, Substitute, Sunny Day, Swagger, Swords Dance, Synthesis, Take Down,
-        Toxic, Worry Seed, Body Slam, Double-Edge, Giga Drain, Mimic, Refresh, Secret
-          Power, Self-Destruct]
+        Return, Rock Smash, Round, Seed Bomb, Shadow Ball, Sleep Talk, Snore, Solar
+          Beam, Spite, Substitute, Sunny Day, Swagger, Swords Dance, Synthesis, Take
+          Down, Toxic, Worry Seed, Body Slam, Double-Edge, Giga Drain, Mimic, Refresh,
+        Secret Power, Self-Destruct]
     - dp: [Amnesia, Attract, Bide, Bullet Seed, Captivate, Dig, Double Team, Endure,
         Energy Ball, Explosion, Facade, False Swipe, Flash, Frustration, Giga Drain,
         Grass Knot, Growth, Harden, Headbutt, Hidden Power, Leech Seed, Nasty Plot,
@@ -87,8 +87,7 @@ pokemon:
     - bw: [Chlorophyll, Early Bird, Pickpocket]
     egggroups:
     - [Ground, Plant]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.3]
     introduction: rs
     moves:

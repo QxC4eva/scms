@@ -4,8 +4,7 @@ pokemon:
     - [Hydration]
     egggroups:
     - [Fairy, Water 1]
-    evolutions:
-    - []
+    evolutions: []
     height: [0.4]
     introduction: dp
     moves:
@@ -15,11 +14,11 @@ pokemon:
         Psych Up, Rain Dance, Rest, Return, Round, Safeguard, Scald, Signal Beam,
         Sleep Talk, Snore, Substitute, Supersonic, Surf, Swagger, Toxic, U-turn, Uproar,
         Water Pulse, Water Sport, Waterfall, Whirlpool]
-    - dp: [Acid Armor, Ancient Power, Aqua Ring, Blizzard, Bounce, Brine, Bubble, Bubble Beam,
-        Charm, Dive, Double Team, Endure, Facade, Fling, Frustration, Grass Knot,
-        Hail, Heal Bell, Helping Hand, Hidden Power, Ice Beam, Icy Wind, Knock Off,
-        Last Resort, Mud-Slap, Natural Gift, Protect, Psych Up, Rain Dance, Rest,
-        Return, Safeguard, Secret Power, Signal Beam, Sleep Talk, Snore, Substitute,
+    - dp: [Acid Armor, Ancient Power, Aqua Ring, Blizzard, Bounce, Brine, Bubble,
+        Bubble Beam, Charm, Dive, Double Team, Endure, Facade, Fling, Frustration,
+        Grass Knot, Hail, Heal Bell, Helping Hand, Hidden Power, Ice Beam, Icy Wind,
+        Knock Off, Last Resort, Mud-Slap, Natural Gift, Protect, Psych Up, Rain Dance,
+        Rest, Return, Safeguard, Secret Power, Signal Beam, Sleep Talk, Snore, Substitute,
         Supersonic, Surf, Swagger, Swift, Toxic, U-turn, Uproar, Water Pulse, Water
           Sport, Waterfall, Whirlpool]
     - xy: [Acid Armor, Ancient Power, Aqua Ring, Blizzard, Bounce, Brine, Bubble,

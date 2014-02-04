@@ -5,8 +5,7 @@ pokemon:
     - bw: [Healer, Natural Cure, Serene Grace]
     egggroups:
     - [Fairy]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.5]
     introduction: gs
     moves:
@@ -31,20 +30,21 @@ pokemon:
     height: [1.1]
     introduction: rb
     moves:
-    - gs: [Attract, Blizzard, Curse, Defense Curl, Double-Edge, Double Team, Double Slap,
-        Dream Eater, Dynamic Punch, Egg Bomb, Endure, Fire Blast, Flamethrower, Flash,
-        Frustration, Growl, Headbutt, Heal Bell, Hidden Power, Hyper Beam, Ice Beam,
-        Icy Wind, Iron Tail, Light Screen, Metronome, Minimize, Mud-Slap, Pound, Present,
-        Protect, Psych Up, Psychic, Rain Dance, Rest, Return, Rock Smash, Rollout,
-        Sandstorm, Shadow Ball, Sing, Sleep Talk, Snore, Soft-Boiled, Solar Beam, Strength,
-        Sunny Day, Swagger, Tail Whip, Thunder, Thunderbolt, Toxic, Zap Cannon]
+    - gs: [Attract, Blizzard, Curse, Defense Curl, Double-Edge, Double Team, Double
+          Slap, Dream Eater, Dynamic Punch, Egg Bomb, Endure, Fire Blast, Flamethrower,
+        Flash, Frustration, Growl, Headbutt, Heal Bell, Hidden Power, Hyper Beam,
+        Ice Beam, Icy Wind, Iron Tail, Light Screen, Metronome, Minimize, Mud-Slap,
+        Pound, Present, Protect, Psych Up, Psychic, Rain Dance, Rest, Return, Rock
+          Smash, Rollout, Sandstorm, Shadow Ball, Sing, Sleep Talk, Snore, Soft-Boiled,
+        Solar Beam, Strength, Sunny Day, Swagger, Tail Whip, Thunder, Thunderbolt,
+        Toxic, Zap Cannon]
     - bw: [Bestow, Blizzard, Body Slam, Brick Break, Bulldoze, Calm Mind, Charge Beam,
-        Defense Curl, Double-Edge, Double Slap, Earthquake, Egg Bomb, Fire Punch, Giga
-          Impact, Growl, Heal Pulse, Healing Wish, Hyper Beam, Ice Beam, Ice Punch,
+        Defense Curl, Double-Edge, Double Slap, Earthquake, Egg Bomb, Fire Punch,
+        Giga Impact, Growl, Heal Pulse, Healing Wish, Hyper Beam, Ice Beam, Ice Punch,
         Icy Wind, Iron Tail, Mimic, Minimize, Retaliate, Rock Slide, Rock Smash, Rock
           Tomb, Sandstorm, Seismic Toss, Shock Wave, Sing, Skill Swap, Snatch, Soft-Boiled,
-        Stealth Rock, Strength, Tail Whip, Take Down, Thunder, Thunderbolt, Thunder Punch,
-        Wild Charge, Wish]
+        Stealth Rock, Strength, Tail Whip, Take Down, Thunder, Thunderbolt, Thunder
+          Punch, Wild Charge, Wish]
     - dp: [Blizzard, Body Slam, Brick Break, Calm Mind, Charge Beam, Defense Curl,
         Double-Edge, Double Slap, Earthquake, Egg Bomb, Fire Punch, Focus Punch, Giga
           Impact, Growl, Healing Wish, Hyper Beam, Ice Beam, Ice Punch, Icy Wind,
@@ -52,10 +52,10 @@ pokemon:
         Sandstorm, Seismic Toss, Sing, Skill Swap, Snatch, Soft-Boiled, Stealth Rock,
         Strength, Tail Whip, Thunder, Thunderbolt, Thunder Punch, Wish]
     - rs: [Aromatherapy, Attract, Blizzard, Body Slam, Brick Break, Calm Mind, Counter,
-        Defense Curl, Double-Edge, Double Team, Double Slap, Dream Eater, Dynamic Punch,
-        Earthquake, Egg Bomb, Endure, Facade, Fire Blast, Flamethrower, Flash, Focus
-          Punch, Frustration, Growl, Hail, Heal Bell, Hidden Power, Hyper Beam, Ice
-          Beam, Icy Wind, Iron Tail, Light Screen, Mega Kick, Mega Punch, Metronome,
+        Defense Curl, Double-Edge, Double Team, Double Slap, Dream Eater, Dynamic
+          Punch, Earthquake, Egg Bomb, Endure, Facade, Fire Blast, Flamethrower, Flash,
+        Focus Punch, Frustration, Growl, Hail, Heal Bell, Hidden Power, Hyper Beam,
+        Ice Beam, Icy Wind, Iron Tail, Light Screen, Mega Kick, Mega Punch, Metronome,
         Mimic, Minimize, Mud-Slap, Pound, Present, Protect, Psych Up, Psychic, Rain
           Dance, Refresh, Rest, Return, Rock Smash, Rock Tomb, Rollout, Safeguard,
         Sandstorm, Secret Power, Seismic Toss, Shadow Ball, Shock Wave, Sing, Skill
@@ -63,11 +63,12 @@ pokemon:
         Sunny Day, Swagger, Tail Whip, Thunder, Thunder Wave, Thunderbolt, Toxic,
         Water Pulse, Wish]
     - rb: [Bide, Blizzard, Body Slam, Bubble Beam, Counter, Defense Curl, Double-Edge,
-        Double Team, Double Slap, Egg Bomb, Fire Blast, Flash, Growl, Hyper Beam, Ice
-          Beam, Light Screen, Mega Kick, Mega Punch, Metronome, Mimic, Minimize, Pound,
-        Psychic, Psywave, Rage, Reflect, Rest, Seismic Toss, Sing, Skull Bash, Soft-Boiled,
-        Solar Beam, Strength, Submission, Substitute, Tail Whip, Take Down, Teleport,
-        Thunder, Thunder Wave, Thunderbolt, Toxic, Tri Attack, Water Gun]
+        Double Team, Double Slap, Egg Bomb, Fire Blast, Flash, Growl, Hyper Beam,
+        Ice Beam, Light Screen, Mega Kick, Mega Punch, Metronome, Mimic, Minimize,
+        Pound, Psychic, Psywave, Rage, Reflect, Rest, Seismic Toss, Sing, Skull Bash,
+        Soft-Boiled, Solar Beam, Strength, Submission, Substitute, Tail Whip, Take
+          Down, Teleport, Thunder, Thunder Wave, Thunderbolt, Toxic, Tri Attack, Water
+          Gun]
     - xy: [Bestow, Blizzard, Body Slam, Brick Break, Bulldoze, Calm Mind, Charge Beam,
         Defense Curl, Double-Edge, Double Slap, Dynamic Punch, Earthquake, Egg Bomb,
         Fire Punch, Focus Punch, Giga Impact, Growl, Healing Wish, Heal Pulse, Hyper

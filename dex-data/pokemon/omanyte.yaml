@@ -32,16 +32,16 @@ pokemon:
         Stealth Rock, Substitute, Supersonic, Surf, Swagger, Thief, Tickle, Toxic,
         Toxic Spikes, Water Gun, Water Pulse, Waterfall, Whirlpool, Withdraw, Wring
           Out, Body Slam, Double-Edge, Icy Wind, Mimic]
-    - rs: [Ancient Power, Attract, Aurora Beam, Bite, Blizzard, Body Slam, Bubble Beam,
-        Constrict, Dive, Double-Edge, Double Team, Endure, Facade, Frustration, Hail,
-        Haze, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Leer, Mimic, Mud Shot,
-        Protect, Rain Dance, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout,
-        Sandstorm, Secret Power, Slam, Sleep Talk, Snore, Spikes, Substitute, Supersonic,
-        Surf, Swagger, Thief, Tickle, Toxic, Water Gun, Water Pulse, Waterfall, Withdraw,
-        Body Slam, Double-Edge, Icy Wind, Mimic]
-    - rb: [Bide, Blizzard, Body Slam, Bubble Beam, Double-Edge, Double Team, Horn Attack,
-        Hydro Pump, Ice Beam, Leer, Mimic, Rage, Reflect, Rest, Spike Cannon, Substitute,
-        Surf, Take Down, Toxic, Water Gun, Withdraw]
+    - rs: [Ancient Power, Attract, Aurora Beam, Bite, Blizzard, Body Slam, Bubble
+          Beam, Constrict, Dive, Double-Edge, Double Team, Endure, Facade, Frustration,
+        Hail, Haze, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Leer, Mimic, Mud
+          Shot, Protect, Rain Dance, Rest, Return, Rock Slide, Rock Smash, Rock Tomb,
+        Rollout, Sandstorm, Secret Power, Slam, Sleep Talk, Snore, Spikes, Substitute,
+        Supersonic, Surf, Swagger, Thief, Tickle, Toxic, Water Gun, Water Pulse, Waterfall,
+        Withdraw, Body Slam, Double-Edge, Icy Wind, Mimic]
+    - rb: [Bide, Blizzard, Body Slam, Bubble Beam, Double-Edge, Double Team, Horn
+          Attack, Hydro Pump, Ice Beam, Leer, Mimic, Rage, Reflect, Rest, Spike Cannon,
+        Substitute, Surf, Take Down, Toxic, Water Gun, Withdraw]
     - xy: [Ancient Power, Attract, Aurora Beam, Bide, Bite, Blizzard, Body Slam, Brine,
         Bubble Beam, Captivate, Constrict, Dive, Double-Edge, Double Team, Earth Power,
         Endure, Facade, Frustration, Gyro Ball, Hail, Haze, Headbutt, Hidden Power,
@@ -67,8 +67,7 @@ pokemon:
     - bw: [Shell Armor, Swift Swim, Weak Armor]
     egggroups:
     - [Water 1, Water 3]
-    evolutions:
-    - []
+    evolutions: []
     height: [1]
     introduction: rb
     moves:

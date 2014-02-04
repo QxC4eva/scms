@@ -25,21 +25,21 @@ pokemon:
     - dp: [Acid, Attract, Bullet Seed, Captivate, Cut, Double Team, Encore, Endure,
         Energy Ball, Facade, Flash, Frustration, Gastro Acid, Giga Drain, Grass Knot,
         Growth, Hidden Power, Ingrain, Knock Off, Leech Life, Magical Leaf, Natural
-          Gift, Poison Powder, Protect, Razor Leaf, Reflect, Rest, Return, Secret Power,
-        Seed Bomb, Slam, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solar Beam,
-        Stun Spore, Substitute, Sucker Punch, Sunny Day, Swagger, Sweet Scent, Swords
-          Dance, Synthesis, Thief, Tickle, Toxic, Vine Whip, Weather Ball, Worry Seed,
-        Wrap, Wring Out, Teeter Dance]
+          Gift, Poison Powder, Protect, Razor Leaf, Reflect, Rest, Return, Secret
+          Power, Seed Bomb, Slam, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solar
+          Beam, Stun Spore, Substitute, Sucker Punch, Sunny Day, Swagger, Sweet Scent,
+        Swords Dance, Synthesis, Thief, Tickle, Toxic, Vine Whip, Weather Ball, Worry
+          Seed, Wrap, Wring Out, Teeter Dance]
     - rs: [Acid, Attract, Bullet Seed, Cut, Double-Edge, Double Team, Encore, Endure,
         Facade, Flash, Frustration, Giga Drain, Growth, Hidden Power, Ingrain, Leech
-          Life, Magical Leaf, Mimic, Poison Powder, Protect, Razor Leaf, Reflect, Rest,
-        Return, Secret Power, Slam, Sleep Powder, Sleep Talk, Sludge Bomb, Snore,
+          Life, Magical Leaf, Mimic, Poison Powder, Protect, Razor Leaf, Reflect,
+        Rest, Return, Secret Power, Slam, Sleep Powder, Sleep Talk, Sludge Bomb, Snore,
         Solar Beam, Stun Spore, Substitute, Sunny Day, Swagger, Sweet Scent, Swords
           Dance, Synthesis, Thief, Toxic, Vine Whip, Wrap, Teeter Dance]
-    - rb: [Acid, Bide, Cut, Double-Edge, Double Team, Growth, Mega Drain, Mimic, Poison Powder,
-        Rage, Razor Leaf, Reflect, Rest, Slam, Sleep Powder, Solar Beam, Stun Spore,
-        Substitute, Swords Dance, Take Down, Toxic, Vine Whip, Wrap, Lovely Kiss,
-        Sweet Kiss]
+    - rb: [Acid, Bide, Cut, Double-Edge, Double Team, Growth, Mega Drain, Mimic, Poison
+          Powder, Rage, Razor Leaf, Reflect, Rest, Slam, Sleep Powder, Solar Beam,
+        Stun Spore, Substitute, Swords Dance, Take Down, Toxic, Vine Whip, Wrap, Lovely
+          Kiss, Sweet Kiss]
     - xy: [Acid, Attract, Bullet Seed, Captivate, Clear Smog, Cut, Double-Edge, Double
           Team, Encore, Endure, Energy Ball, Facade, Flash, Frustration, Gastro Acid,
         Giga Drain, Grass Knot, Growth, Hidden Power, Ingrain, Knock Off, Leech Life,
@@ -64,8 +64,7 @@ pokemon:
     - bw: [Chlorophyll, Gluttony]
     egggroups:
     - [Plant]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.7]
     introduction: rb
     moves:

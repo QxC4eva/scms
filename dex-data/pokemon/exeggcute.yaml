@@ -35,10 +35,10 @@ pokemon:
     - rs: [Ancient Power, Attract, Barrage, Bullet Seed, Confusion, Curse, Double-Edge,
         Double Team, Dream Eater, Endure, Explosion, Facade, Flash, Frustration, Giga
           Drain, Hidden Power, Hypnosis, Ingrain, Leech Seed, Light Screen, Mimic,
-        Moonlight, Nightmare, Poison Powder, Protect, Psych Up, Psychic, Reflect, Rest,
-        Return, Rollout, Secret Power, Self-Destruct, Skill Swap, Sleep Powder, Sleep
-          Talk, Sludge Bomb, Snore, Solar Beam, Strength, Stun Spore, Substitute, Sunny
-          Day, Swagger, Synthesis, Thief, Toxic, Uproar, Double-Edge, Mimic, Nightmare,
+        Moonlight, Nightmare, Poison Powder, Protect, Psych Up, Psychic, Reflect,
+        Rest, Return, Rollout, Secret Power, Self-Destruct, Skill Swap, Sleep Powder,
+        Sleep Talk, Sludge Bomb, Snore, Solar Beam, Strength, Stun Spore, Substitute,
+        Sunny Day, Swagger, Synthesis, Thief, Toxic, Uproar, Double-Edge, Mimic, Nightmare,
         Self-Destruct, Swagger]
     - rb: [Barrage, Bide, Double-Edge, Double Team, Egg Bomb, Explosion, Hypnosis,
         Leech Seed, Mimic, Poison Powder, Psychic, Psywave, Rage, Reflect, Rest, Self-Destruct,
@@ -69,8 +69,7 @@ pokemon:
     - bw: [Chlorophyll, Harvest]
     egggroups:
     - [Plant]
-    evolutions:
-    - []
+    evolutions: []
     height: [2]
     introduction: rb
     moves:

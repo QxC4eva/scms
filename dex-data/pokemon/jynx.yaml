@@ -6,8 +6,7 @@ pokemon:
     - bw: [Dry Skin, Forewarn, Oblivious]
     egggroups:
     - [Humanshape]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.4]
     introduction: rb
     moves:
@@ -19,8 +18,8 @@ pokemon:
         Focus Punch, Giga Impact, Headbutt, Hyper Beam, Lovely Kiss, Taunt, Torment,
         Wake-Up Slap, Wring Out, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic
           Toss]
-    - rs: [Brick Break, Double Slap, Focus Punch, Hyper Beam, Lovely Kiss, Taunt, Torment,
-        Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss]
+    - rs: [Brick Break, Double Slap, Focus Punch, Hyper Beam, Lovely Kiss, Taunt,
+        Torment, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss]
     - rb: [Bide, Blizzard, Body Slam, Bubble Beam, Counter, Double-Edge, Double Team,
         Double Slap, Hyper Beam, Ice Beam, Ice Punch, Lick, Lovely Kiss, Mega Kick,
         Mega Punch, Metronome, Mimic, Pound, Psychic, Psywave, Rage, Reflect, Rest,
@@ -50,11 +49,12 @@ pokemon:
     height: [0.4]
     introduction: gs
     moves:
-    - gs: [Attract, Blizzard, Confusion, Curse, Double Team, Dream Eater, Dynamic Punch,
-        Endure, Frustration, Hidden Power, Ice Beam, Ice Punch, Icy Wind, Lick, Lovely
-          Kiss, Mean Look, Meditate, Mud-Slap, Nightmare, Perish Song, Pound, Powder
-          Snow, Protect, Psych Up, Psychic, Rain Dance, Rest, Return, Shadow Ball,
-        Sing, Sleep Talk, Snore, Swagger, Sweet Kiss, Sweet Scent, Thief, Toxic]
+    - gs: [Attract, Blizzard, Confusion, Curse, Double Team, Dream Eater, Dynamic
+          Punch, Endure, Frustration, Hidden Power, Ice Beam, Ice Punch, Icy Wind,
+        Lick, Lovely Kiss, Mean Look, Meditate, Mud-Slap, Nightmare, Perish Song,
+        Pound, Powder Snow, Protect, Psych Up, Psychic, Rain Dance, Rest, Return,
+        Shadow Ball, Sing, Sleep Talk, Snore, Swagger, Sweet Kiss, Sweet Scent, Thief,
+        Toxic]
     - bw: [Attract, Avalanche, Blizzard, Calm Mind, Captivate, Confusion, Copycat,
         Covet, Double Team, Dream Eater, Echoed Voice, Facade, Fake Out, Fake Tears,
         Flash, Fling, Frost Breath, Frustration, Grass Knot, Hail, Heal Bell, Heart

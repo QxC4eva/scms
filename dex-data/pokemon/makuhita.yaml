@@ -5,8 +5,7 @@ pokemon:
     - bw: [Guts, Sheer Force, Thick Fat]
     egggroups:
     - [Humanshape]
-    evolutions:
-    - []
+    evolutions: []
     height: [2.3]
     introduction: rs
     moves:
@@ -42,10 +41,10 @@ pokemon:
         Foresight, Frustration, Heavy Slam, Helping Hand, Hidden Power, Ice Punch,
         Knock Off, Low Kick, Low Sweep, Poison Jab, Protect, Rain Dance, Rest, Retaliate,
         Return, Revenge, Reversal, Rock Slide, Rock Smash, Rock Tomb, Role Play, Round,
-        Sand Attack, Seismic Toss, Sleep Talk, Smack Down, Smelling Salts, Snore, Strength,
-        Substitute, Sunny Day, Superpower, Surf, Swagger, Tackle, Thunder Punch, Toxic,
-        Vital Throw, Wake-Up Slap, Whirlwind, Wide Guard, Work Up, Body Slam, Double-Edge,
-        Mimic, Refresh]
+        Sand Attack, Seismic Toss, Sleep Talk, Smack Down, Smelling Salts, Snore,
+        Strength, Substitute, Sunny Day, Superpower, Surf, Swagger, Tackle, Thunder
+          Punch, Toxic, Vital Throw, Wake-Up Slap, Whirlwind, Wide Guard, Work Up,
+        Body Slam, Double-Edge, Mimic, Refresh]
     - dp: [Arm Thrust, Attract, Belly Drum, Brick Break, Bulk Up, Bullet Punch, Captivate,
         Close Combat, Counter, Cross Chop, Detect, Dig, Double Team, Dynamic Punch,
         Earthquake, Endure, Facade, Feint Attack, Fake Out, Feint, Fire Punch, Fling,

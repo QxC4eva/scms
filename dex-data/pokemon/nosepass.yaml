@@ -15,8 +15,9 @@ pokemon:
         Pain Split, Power Gem, Protect, Rest, Return, Rock Blast, Rock Polish, Rock
           Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Round, Sandstorm, Sleep
           Talk, Smack Down, Snore, Spark, Stealth Rock, Stone Edge, Strength, Substitute,
-        Sunny Day, Swagger, Tackle, Taunt, Thunder, Thunder Wave, Thunderbolt, Thunder Punch,
-        Torment, Toxic, Volt Switch, Zap Cannon, Body Slam, Helping Hand, Mimic, Self-Destruct]
+        Sunny Day, Swagger, Tackle, Taunt, Thunder, Thunder Wave, Thunderbolt, Thunder
+          Punch, Torment, Toxic, Volt Switch, Zap Cannon, Body Slam, Helping Hand,
+        Mimic, Self-Destruct]
     - dp: [Ancient Power, Attract, Block, Captivate, Discharge, Double-Edge, Double
           Team, Earth Power, Earthquake, Endure, Explosion, Facade, Fire Punch, Frustration,
         Gravity, Harden, Head Smash, Headbutt, Hidden Power, Ice Punch, Iron Defense,
@@ -26,13 +27,13 @@ pokemon:
           Talk, Snore, Stealth Rock, Stone Edge, Strength, Substitute, Sunny Day,
         Swagger, Tackle, Taunt, Thunder, Thunder Wave, Thunderbolt, Thunder Punch,
         Torment, Toxic, Zap Cannon, Body Slam, Helping Hand, Mimic, Self-Destruct]
-    - rs: [Attract, Block, Body Slam, Defense Curl, Double-Edge, Double Team, Dynamic Punch,
-        Earthquake, Endure, Explosion, Facade, Fire Punch, Frustration, Harden, Hidden
-          Power, Ice Punch, Lock-On, Magnitude, Mimic, Mud-Slap, Protect, Rest, Return,
-        Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Sandstorm, Secret
-          Power, Self-Destruct, Shock Wave, Sleep Talk, Snore, Strength, Substitute,
-        Sunny Day, Swagger, Tackle, Taunt, Thunder, Thunder Wave, Thunderbolt, Thunder Punch,
-        Torment, Toxic, Zap Cannon, Body Slam, Helping Hand, Mimic, Self-Destruct]
+    - rs: [Attract, Block, Body Slam, Defense Curl, Double-Edge, Double Team, Dynamic
+          Punch, Earthquake, Endure, Explosion, Facade, Fire Punch, Frustration, Harden,
+        Hidden Power, Ice Punch, Lock-On, Magnitude, Mimic, Mud-Slap, Protect, Rest,
+        Return, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Sandstorm,
+        Secret Power, Self-Destruct, Shock Wave, Sleep Talk, Snore, Strength, Substitute,
+        Sunny Day, Swagger, Tackle, Taunt, Thunder, Thunder Wave, Thunderbolt, Thunder
+          Punch, Torment, Toxic, Zap Cannon, Body Slam, Helping Hand, Mimic, Self-Destruct]
     - xy: [Ancient Power, Attract, Block, Body Slam, Bulldoze, Captivate, Defense
           Curl, Discharge, Double-Edge, Double Team, Dynamic Punch, Earth Power, Earthquake,
         Endure, Explosion, Facade, Fire Punch, Frustration, Gravity, Harden, Headbutt,
@@ -57,8 +58,7 @@ pokemon:
     - [Magnet Pull, Sand Force, Sturdy]
     egggroups:
     - [Mineral]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.4]
     introduction: dp
     moves:

@@ -6,8 +6,7 @@ pokemon:
     - bw: [Intimidate, Quick Feet, Rattled]
     egggroups:
     - [Fairy, Ground]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.4]
     introduction: gs
     moves:
@@ -43,8 +42,8 @@ pokemon:
           Bell, Hidden Power, Ice Punch, Leer, Lick, Metronome, Mud-Slap, Present,
         Protect, Rage, Rain Dance, Reflect, Rest, Return, Roar, Rock Smash, Scary
           Face, Shadow Ball, Sleep Talk, Sludge Bomb, Snore, Strength, Sunny Day,
-        Swagger, Tackle, Tail Whip, Take Down, Thief, Thunder, Thunderbolt, Thunder Punch,
-        Toxic, Zap Cannon]
+        Swagger, Tackle, Tail Whip, Take Down, Thief, Thunder, Thunderbolt, Thunder
+          Punch, Toxic, Zap Cannon]
     - bw: [Attract, Bite, Brick Break, Bulk Up, Bulldoze, Charm, Close Combat, Covet,
         Crunch, Dig, Double-Edge, Double Team, Earthquake, Facade, Feint Attack, Fire
           Blast, Fire Fang, Fire Punch, Flamethrower, Fling, Focus Punch, Frustration,
@@ -62,10 +61,11 @@ pokemon:
         Heal Bell, Hidden Power, Ice Fang, Ice Punch, Last Resort, Lick, Low Kick,
         Metronome, Mud-Slap, Natural Gift, Overheat, Payback, Present, Protect, Rage,
         Rain Dance, Reflect, Rest, Return, Roar, Rock Smash, Scary Face, Secret Power,
-        Shadow Ball, Shock Wave, Sleep Talk, Sludge Bomb, Smelling Salts, Snore, Solar Beam,
-        Strength, Substitute, Sunny Day, Super Fang, Superpower, Swagger, Tackle,
-        Tail Whip, Take Down, Taunt, Thief, Thunder, Thunder Fang, Thunder Wave, Thunderbolt,
-        Thunder Punch, Torment, Toxic, Water Pulse, Body Slam, Seismic Toss]
+        Shadow Ball, Shock Wave, Sleep Talk, Sludge Bomb, Smelling Salts, Snore, Solar
+          Beam, Strength, Substitute, Sunny Day, Super Fang, Superpower, Swagger,
+        Tackle, Tail Whip, Take Down, Taunt, Thief, Thunder, Thunder Fang, Thunder
+          Wave, Thunderbolt, Thunder Punch, Torment, Toxic, Water Pulse, Body Slam,
+        Seismic Toss]
     - rs: [Attract, Bite, Body Slam, Brick Break, Bulk Up, Charm, Counter, Crunch,
         Defense Curl, Dig, Double-Edge, Double Team, Dynamic Punch, Earthquake, Endure,
         Facade, Feint Attack, Fire Blast, Fire Punch, Flamethrower, Focus Punch, Frustration,

@@ -13,7 +13,8 @@ pokemon:
     - gs: [Attract, Bind, Curse, Cut, Double Team, Endure, Flail, Focus Energy, Frustration,
         Fury Attack, Fury Cutter, Guillotine, Harden, Headbutt, Hidden Power, Hyper
           Beam, Protect, Rest, Return, Rock Smash, Seismic Toss, Sleep Talk, Snore,
-        Strength, Submission, Sunny Day, Swagger, Swords Dance, Thief, Toxic, Vice Grip]
+        Strength, Submission, Sunny Day, Swagger, Swords Dance, Thief, Toxic, Vice
+          Grip]
     - bw: [Attract, Bind, Brick Break, Bug Bite, Bulk Up, Bulldoze, Close Combat,
         Cut, Dig, Double Team, Earthquake, Facade, Feint Attack, False Swipe, Feint,
         Flail, Fling, Focus Blast, Focus Energy, Frustration, Fury Attack, Giga Impact,
@@ -68,8 +69,7 @@ pokemon:
     - [Aerilate]
     egggroups:
     - [Bug]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.7]
     introduction: xy
     moves:

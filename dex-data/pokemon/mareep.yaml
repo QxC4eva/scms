@@ -30,8 +30,7 @@ pokemon:
     - [Mold Breaker]
     egggroups:
     - [Monster, Field]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.4]
     introduction: xy
     moves:
@@ -56,7 +55,8 @@ pokemon:
     - gs: [Dynamic Punch, Fire Punch, Rock Smash, Strength, Thunder Punch]
     - bw: [Brick Break, Fire Punch, Fling, Rock Smash, Strength, Thunder Punch, Volt
           Switch]
-    - dp: [Brick Break, Fire Punch, Fling, Focus Punch, Rock Smash, Strength, Thunder Punch]
+    - dp: [Brick Break, Fire Punch, Fling, Focus Punch, Rock Smash, Strength, Thunder
+          Punch]
     - rs: [Brick Break, Counter, Dynamic Punch, Fire Punch, Focus Punch, Mega Kick,
         Mega Punch, Rock Smash, Seismic Toss, Strength, Thunder Punch]
     - xy: [Brick Break, Counter, Dynamic Punch, Fire Punch, Fling, Focus Punch, Mega
@@ -102,8 +102,8 @@ pokemon:
           Team, Endure, Facade, Flash, Frustration, Growl, Hidden Power, Iron Tail,
         Light Screen, Mimic, Odor Sleuth, Protect, Rain Dance, Reflect, Rest, Return,
         Safeguard, Screech, Secret Power, Shock Wave, Sleep Talk, Snore, Substitute,
-        Swagger, Swift, Tackle, Take Down, Thunder, Thunder Wave, Thunderbolt, Thunder Shock,
-        Toxic, Heal Bell]
+        Swagger, Swift, Tackle, Take Down, Thunder, Thunder Wave, Thunderbolt, Thunder
+          Shock, Toxic, Heal Bell]
     - xy: [After You, Agility, Attract, Body Slam, Captivate, Charge, Charge Beam,
         Confuse Ray, Cotton Guard, Cotton Spore, Defense Curl, Discharge, Double-Edge,
         Double Team, Echoed Voice, Electro Ball, Endure, Facade, Flash, Flatter, Frustration,

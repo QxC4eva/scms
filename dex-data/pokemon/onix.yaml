@@ -31,9 +31,9 @@ pokemon:
         Sand Tomb, Sandstorm, Screech, Secret Power, Slam, Sleep Talk, Snore, Stealth
           Rock, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Tackle, Taunt,
         Torment, Toxic, Twister, Body Slam, Mimic, Self-Destruct]
-    - rs: [Attract, Bind, Block, Body Slam, Dig, Double-Edge, Double Team, Dragon Breath,
-        Earthquake, Endure, Explosion, Facade, Flail, Frustration, Harden, Hidden
-          Power, Iron Tail, Mimic, Mud-Slap, Protect, Psych Up, Rage, Rest, Return,
+    - rs: [Attract, Bind, Block, Body Slam, Dig, Double-Edge, Double Team, Dragon
+          Breath, Earthquake, Endure, Explosion, Facade, Flail, Frustration, Harden,
+        Hidden Power, Iron Tail, Mimic, Mud-Slap, Protect, Psych Up, Rage, Rest, Return,
         Roar, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Sand Tomb, Sandstorm,
         Screech, Secret Power, Self-Destruct, Slam, Sleep Talk, Snore, Strength, Substitute,
         Sunny Day, Swagger, Tackle, Taunt, Torment, Toxic, Body Slam, Mimic, Self-Destruct]
@@ -66,8 +66,7 @@ pokemon:
     - bw: [Rock Head, Sheer Force, Sturdy]
     egggroups:
     - [Mineral]
-    evolutions:
-    - []
+    evolutions: []
     height: [9.2]
     introduction: gs
     moves:

@@ -21,9 +21,9 @@ pokemon:
           Punch, Frustration, Fury Cutter, Fury Swipes, Growl, Hail, Headbutt, Hidden
           Power, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Mud-Slap, Natural Gift,
         Odor Sleuth, Protect, Pursuit, Quick Attack, Rain Dance, Razor Wind, Rest,
-        Return, Rock Smash, Rock Tomb, Secret Power, Slash, Sleep Talk, Snore, Sonic Boom,
-        Strength, Substitute, Surf, Swagger, Swift, Toxic, Water Gun, Water Pulse,
-        Water Sport, Waterfall, Whirlpool]
+        Return, Rock Smash, Rock Tomb, Secret Power, Slash, Sleep Talk, Snore, Sonic
+          Boom, Strength, Substitute, Surf, Swagger, Swift, Toxic, Water Gun, Water
+          Pulse, Water Sport, Waterfall, Whirlpool]
     - xy: [Agility, Aqua Jet, Aqua Ring, Aqua Tail, Attract, Baton Pass, Blizzard,
         Brick Break, Brine, Bulk Up, Captivate, Dig, Dive, Double Hit, Double Slap,
         Double Team, Echoed Voice, Endure, Facade, Focus Punch, Frustration, Fury
@@ -46,8 +46,7 @@ pokemon:
     - [Swift Swim, Water Veil]
     egggroups:
     - [Ground, Water 1]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.1]
     introduction: dp
     moves:

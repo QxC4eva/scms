@@ -4,8 +4,7 @@ pokemon:
     - [Oblivious, Snow Cloak, Thick Fat]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolutions: []
     height: [2.5]
     introduction: dp
     moves:
@@ -63,16 +62,16 @@ pokemon:
           Power, Ice Beam, Icy Wind, Mist, Mud-Slap, Powder Snow, Protect, Rain Dance,
         Rest, Return, Roar, Rock Slide, Rock Smash, Sleep Talk, Snore, Strength, Swagger,
         Tackle, Take Down, Toxic]
-    - bw: [Amnesia, Ancient Power, Attract, Avalanche, Bite, Blizzard, Body Slam, Bulldoze,
+    - bw: [Amnesia, Ancient Power, Attract, Avalanche, Bite, Blizzard, Body Slam,
+        Bulldoze, Curse, Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endeavor,
+        Endure, Facade, Fissure, Flail, Frustration, Hail, Hidden Power, Ice Beam,
+        Ice Shard, Icicle Crash, Icicle Spear, Icy Wind, Light Screen, Mist, Mud Bomb,
+        Mud Shot, Mud-Slap, Mud Sport, Odor Sleuth, Powder Snow, Protect, Rain Dance,
+        Reflect, Rest, Return, Roar, Rock Slide, Rock Smash, Rock Tomb, Round, Sandstorm,
+        Sleep Talk, Snore, Stealth Rock, Strength, Substitute, Superpower, Swagger,
+        Tackle, Take Down, Toxic, Charm, Mimic]
+    - dp: [Amnesia, Ancient Power, Attract, Bite, Blizzard, Body Slam, Captivate,
         Curse, Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endeavor, Endure,
-        Facade, Fissure, Flail, Frustration, Hail, Hidden Power, Ice Beam, Ice Shard,
-        Icicle Crash, Icicle Spear, Icy Wind, Light Screen, Mist, Mud Bomb, Mud Shot,
-        Mud-Slap, Mud Sport, Odor Sleuth, Powder Snow, Protect, Rain Dance, Reflect,
-        Rest, Return, Roar, Rock Slide, Rock Smash, Rock Tomb, Round, Sandstorm, Sleep
-          Talk, Snore, Stealth Rock, Strength, Substitute, Superpower, Swagger, Tackle,
-        Take Down, Toxic, Charm, Mimic]
-    - dp: [Amnesia, Ancient Power, Attract, Bite, Blizzard, Body Slam, Captivate, Curse,
-        Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endeavor, Endure,
         Facade, Fissure, Frustration, Hail, Headbutt, Hidden Power, Ice Beam, Ice
           Shard, Icicle Spear, Icy Wind, Light Screen, Mist, Mud Bomb, Mud Shot, Mud-Slap,
         Mud Sport, Natural Gift, Odor Sleuth, Powder Snow, Protect, Rain Dance, Reflect,

@@ -18,8 +18,8 @@ pokemon:
         Stomp, Stone Edge, Strength, Substitute, Sunny Day, Superpower, Swagger, Swords
           Dance, Take Down, Thief, Thrash, Thunder, Thunderbolt, Thunder Punch, Toxic,
         Uproar, Whirlwind, Zen Headbutt]
-    - dp: [Ancient Power, Assurance, Attract, Blizzard, Captivate, Crunch, Curse, Dig,
-        Double-Edge, Double Team, Dragon Pulse, Earth Power, Earthquake, Endeavor,
+    - dp: [Ancient Power, Assurance, Attract, Blizzard, Captivate, Crunch, Curse,
+        Dig, Double-Edge, Double Team, Dragon Pulse, Earth Power, Earthquake, Endeavor,
         Endure, Facade, Fire Blast, Fire Punch, Flamethrower, Fling, Focus Energy,
         Frustration, Hammer Arm, Head Smash, Headbutt, Hidden Power, Ice Beam, Iron
           Head, Iron Tail, Leer, Mud-Slap, Natural Gift, Payback, Protect, Pursuit,
@@ -52,8 +52,7 @@ pokemon:
     - [Mold Breaker, Sheer Force]
     egggroups:
     - [Monster]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.6]
     introduction: dp
     moves:

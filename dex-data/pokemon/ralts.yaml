@@ -4,8 +4,7 @@ pokemon:
     - [Justified, Steadfast]
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.6]
     introduction: dp
     moves:
@@ -64,8 +63,7 @@ pokemon:
     - [Pixilate]
     egggroups:
     - [Amorphous]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.6]
     introduction: xy
     moves:
@@ -138,9 +136,9 @@ pokemon:
         Imprison, Light Screen, Mean Look, Memento, Mimic, Mud-Slap, Nightmare, Protect,
         Psych Up, Psychic, Rain Dance, Reflect, Rest, Return, Safeguard, Secret Power,
         Shadow Ball, Shock Wave, Skill Swap, Sleep Talk, Snatch, Snore, Substitute,
-        Sunny Day, Swagger, Taunt, Teleport, Thief, Thunder Wave, Thunderbolt, Thunder Punch,
-        Torment, Toxic, Will-O-Wisp, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare,
-        Shock Wave, Sing]
+        Sunny Day, Swagger, Taunt, Teleport, Thief, Thunder Wave, Thunderbolt, Thunder
+          Punch, Torment, Toxic, Will-O-Wisp, Body Slam, Double-Edge, Icy Wind, Mimic,
+        Nightmare, Shock Wave, Sing]
     - xy: [Ally Switch, Attract, Body Slam, Calm Mind, Captivate, Charge Beam, Charm,
         Confuse Ray, Confusion, Defense Curl, Destiny Bond, Disable, Double-Edge,
         Double Team, Dream Eater, Echoed Voice, Encore, Endure, Facade, Fire Punch,

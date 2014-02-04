@@ -18,9 +18,9 @@ pokemon:
           Punch, Fury Cutter, Giga Impact, Hammer Arm, Hyper Beam, Ice Punch, Outrage,
         Shadow Claw, Surf, Thunder Punch, Whirlpool, Body Slam, Double-Edge, Helping
           Hand, Icy Wind, Mimic, Seismic Toss]
-    - rs: [Brick Break, Cut, Dynamic Punch, Fire Punch, Focus Punch, Fury Cutter, Hyper
-          Beam, Mega Kick, Mega Punch, Seismic Toss, Surf, Thunder Punch, Body Slam,
-        Double-Edge, Helping Hand, Icy Wind, Mimic, Seismic Toss]
+    - rs: [Brick Break, Cut, Dynamic Punch, Fire Punch, Focus Punch, Fury Cutter,
+        Hyper Beam, Mega Kick, Mega Punch, Seismic Toss, Surf, Thunder Punch, Body
+          Slam, Double-Edge, Helping Hand, Icy Wind, Mimic, Seismic Toss]
     - rb: [Blizzard, Bubble Beam, Counter, Hyper Beam, Ice Beam, Mega Kick, Mega Punch,
         Pay Day, Seismic Toss, Submission, Surf, Water Gun]
     - xy: [Avalanche, Block, Brick Break, Cut, Dragon Tail, Dynamic Punch, Fire Punch,
@@ -117,8 +117,7 @@ pokemon:
     - [Lightningrod, Reckless, Solid Rock]
     egggroups:
     - [Ground, Monster]
-    evolutions:
-    - []
+    evolutions: []
     height: [2.4]
     introduction: dp
     moves:

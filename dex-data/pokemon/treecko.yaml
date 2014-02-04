@@ -28,8 +28,7 @@ pokemon:
     - bw: [Overgrow, Unburden]
     egggroups:
     - [Dragon, Monster]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.7]
     introduction: rs
     moves:
@@ -83,14 +82,14 @@ pokemon:
         Substitute, Sunny Day, Swagger, Swift, Swords Dance, Synthesis, Thunder Punch,
         Toxic, Worry Seed, Body Slam, Double-Edge, Mimic, Seismic Toss]
     - rs: [Absorb, Aerial Ace, Agility, Attract, Body Slam, Brick Break, Bullet Seed,
-        Counter, Crunch, Crush Claw, Cut, Detect, Dig, Double-Edge, Double Team, Dragon Breath,
-        Dynamic Punch, Endeavor, Endure, Facade, Flash, Focus Punch, Frustration, Fury
-          Cutter, Giga Drain, Hidden Power, Iron Tail, Leech Seed, Leer, Mega Drain,
+        Counter, Crunch, Crush Claw, Cut, Detect, Dig, Double-Edge, Double Team, Dragon
+          Breath, Dynamic Punch, Endeavor, Endure, Facade, Flash, Focus Punch, Frustration,
+        Fury Cutter, Giga Drain, Hidden Power, Iron Tail, Leech Seed, Leer, Mega Drain,
         Mega Kick, Mega Punch, Mimic, Mud-Slap, Mud Sport, Pound, Protect, Pursuit,
         Quick Attack, Rest, Return, Rock Smash, Rock Tomb, Safeguard, Screech, Secret
           Power, Seismic Toss, Slam, Sleep Talk, Snore, Solar Beam, Strength, Substitute,
-        Sunny Day, Swagger, Swift, Swords Dance, Thunder Punch, Toxic, Body Slam, Double-Edge,
-        Mimic, Seismic Toss]
+        Sunny Day, Swagger, Swift, Swords Dance, Thunder Punch, Toxic, Body Slam,
+        Double-Edge, Mimic, Seismic Toss]
     - xy: [Absorb, Acrobatics, Aerial Ace, Agility, Attract, Body Slam, Brick Break,
         Bullet Seed, Captivate, Counter, Crunch, Crush Claw, Cut, Detect, Dig, Double-Edge,
         Double Kick, Double Team, Dragon Breath, Drain Punch, Dynamic Punch, Endeavor,

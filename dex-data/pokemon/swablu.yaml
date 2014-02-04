@@ -5,8 +5,7 @@ pokemon:
     - bw: [Cloud Nine, Natural Cure]
     egggroups:
     - [Dragon, Flying]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.1]
     introduction: rs
     moves:
@@ -60,9 +59,9 @@ pokemon:
           Team, Dream Eater, Endure, Facade, Fly, Frustration, Fury Attack, Growl,
         Haze, Hidden Power, Ice Beam, Mimic, Mirror Move, Mist, Mud-Slap, Peck, Perish
           Song, Protect, Psych Up, Pursuit, Rage, Rain Dance, Refresh, Rest, Return,
-        Safeguard, Secret Power, Sing, Sky Attack, Sleep Talk, Snore, Solar Beam, Steel
-          Wing, Substitute, Sunny Day, Swagger, Swift, Take Down, Thief, Toxic, Body
-          Slam, Double-Edge, Mimic, Sky Attack]
+        Safeguard, Secret Power, Sing, Sky Attack, Sleep Talk, Snore, Solar Beam,
+        Steel Wing, Substitute, Sunny Day, Swagger, Swift, Take Down, Thief, Toxic,
+        Body Slam, Double-Edge, Mimic, Sky Attack]
     - xy: [Aerial Ace, Agility, Air Cutter, Astonish, Attract, Body Slam, Captivate,
         Cotton Guard, Double-Edge, Double Team, Dragon Pulse, Dragon Rush, Dream Eater,
         Echoed Voice, Endure, Facade, False Swipe, Feather Dance, Fly, Frustration,

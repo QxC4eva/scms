@@ -25,9 +25,10 @@ pokemon:
           Tail, Karate Chop, Leer, Low Kick, Low Sweep, Meditate, Outrage, Overheat,
         Payback, Poison Jab, Protect, Punishment, Rain Dance, Rest, Retaliate, Return,
         Revenge, Reversal, Rock Slide, Rock Smash, Rock Tomb, Role Play, Round, Scratch,
-        Screech, Seed Bomb, Seismic Toss, Sleep Talk, Smack Down, Smelling Salts, Spite,
-        Strength, Substitute, Sunny Day, Swagger, Taunt, Thief, Thrash, Thunder, Thunderbolt,
-        Thunder Punch, Toxic, U-turn, Uproar, Work Up, Body Slam, Double-Edge, Mimic]
+        Screech, Seed Bomb, Seismic Toss, Sleep Talk, Smack Down, Smelling Salts,
+        Spite, Strength, Substitute, Sunny Day, Swagger, Taunt, Thief, Thrash, Thunder,
+        Thunderbolt, Thunder Punch, Toxic, U-turn, Uproar, Work Up, Body Slam, Double-Edge,
+        Mimic]
     - dp: [Aerial Ace, Assurance, Attract, Beat Up, Brick Break, Bulk Up, Captivate,
         Close Combat, Counter, Covet, Cross Chop, Dig, Double Team, Earthquake, Encore,
         Endeavor, Endure, Facade, Fire Punch, Fling, Focus Blast, Focus Energy, Focus
@@ -37,17 +38,18 @@ pokemon:
         Rain Dance, Rest, Return, Revenge, Reversal, Rock Climb, Rock Slide, Rock
           Smash, Rock Tomb, Role Play, Scratch, Screech, Secret Power, Seed Bomb,
         Seismic Toss, Sleep Talk, Smelling Salts, Spite, Strength, Substitute, Sunny
-          Day, Swagger, Swift, Taunt, Thief, Thrash, Thunder, Thunderbolt, Thunder Punch,
-        Toxic, U-turn, Uproar, Vacuum Wave, Body Slam, Double-Edge, Mimic]
+          Day, Swagger, Swift, Taunt, Thief, Thrash, Thunder, Thunderbolt, Thunder
+          Punch, Toxic, U-turn, Uproar, Vacuum Wave, Body Slam, Double-Edge, Mimic]
     - rs: [Aerial Ace, Attract, Beat Up, Body Slam, Brick Break, Bulk Up, Counter,
         Cross Chop, Defense Curl, Dig, Double-Edge, Double Team, Dynamic Punch, Earthquake,
         Endure, Facade, Fire Punch, Focus Energy, Focus Punch, Foresight, Frustration,
         Fury Swipes, Hidden Power, Ice Punch, Iron Tail, Karate Chop, Leer, Low Kick,
         Meditate, Mega Kick, Mega Punch, Metronome, Mimic, Mud-Slap, Overheat, Protect,
         Psych Up, Rain Dance, Rest, Return, Revenge, Reversal, Rock Slide, Rock Smash,
-        Rock Tomb, Scratch, Screech, Secret Power, Seismic Toss, Sleep Talk, Smelling Salts,
-        Snore, Strength, Substitute, Sunny Day, Swagger, Swift, Taunt, Thief, Thrash,
-        Thunder, Thunderbolt, Thunder Punch, Toxic, Body Slam, Double-Edge, Mimic]
+        Rock Tomb, Scratch, Screech, Secret Power, Seismic Toss, Sleep Talk, Smelling
+          Salts, Snore, Strength, Substitute, Sunny Day, Swagger, Swift, Taunt, Thief,
+        Thrash, Thunder, Thunderbolt, Thunder Punch, Toxic, Body Slam, Double-Edge,
+        Mimic]
     - rb: [Bide, Body Slam, Counter, Dig, Double-Edge, Double Team, Focus Energy,
         Fury Swipes, Karate Chop, Leer, Low Kick, Mega Kick, Mega Punch, Metronome,
         Mimic, Pay Day, Rage, Rest, Rock Slide, Scratch, Screech, Seismic Toss, Skull
@@ -83,8 +85,7 @@ pokemon:
       dp: [Anger Point, Vital Spirit]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolutions: []
     height: [1]
     introduction: rb
     moves:

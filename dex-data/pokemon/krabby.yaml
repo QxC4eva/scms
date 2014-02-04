@@ -5,8 +5,7 @@ pokemon:
     - bw: [Hyper Cutter, Sheer Force, Shell Armor]
     egggroups:
     - [Water 3]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.3]
     introduction: rb
     moves:
@@ -41,14 +40,15 @@ pokemon:
         Hidden Power, Ice Beam, Icy Wind, Leer, Mud-Slap, Protect, Rain Dance, Rest,
         Return, Rock Smash, Slam, Sleep Talk, Snore, Stomp, Strength, Surf, Swagger,
         Thief, Toxic, Vice Grip, Whirlpool]
-    - bw: [Agility, Amnesia, Ancient Power, Attract, Bide, Blizzard, Brick Break, Brine,
-        Bubble, Bubble Beam, Chip Away, Crabhammer, Cut, Dig, Dive, Double Team, Endure,
-        Facade, False Swipe, Flail, Fling, Frustration, Guillotine, Hail, Harden,
-        Haze, Hidden Power, Hone Claws, Ice Beam, Icy Wind, Iron Defense, Knock Off,
-        Leer, Metal Claw, Mud Shot, Mud Sport, Protect, Rain Dance, Rest, Return,
-        Rock Slide, Rock Smash, Rock Tomb, Round, Scald, Slam, Sleep Talk, Snore,
-        Stomp, Strength, Substitute, Superpower, Surf, Swagger, Swords Dance, Thief,
-        Tickle, Toxic, Vice Grip, X-Scissor, Body Slam, Double-Edge, Icy Wind, Mimic]
+    - bw: [Agility, Amnesia, Ancient Power, Attract, Bide, Blizzard, Brick Break,
+        Brine, Bubble, Bubble Beam, Chip Away, Crabhammer, Cut, Dig, Dive, Double
+          Team, Endure, Facade, False Swipe, Flail, Fling, Frustration, Guillotine,
+        Hail, Harden, Haze, Hidden Power, Hone Claws, Ice Beam, Icy Wind, Iron Defense,
+        Knock Off, Leer, Metal Claw, Mud Shot, Mud Sport, Protect, Rain Dance, Rest,
+        Return, Rock Slide, Rock Smash, Rock Tomb, Round, Scald, Slam, Sleep Talk,
+        Snore, Stomp, Strength, Substitute, Superpower, Surf, Swagger, Swords Dance,
+        Thief, Tickle, Toxic, Vice Grip, X-Scissor, Body Slam, Double-Edge, Icy Wind,
+        Mimic]
     - dp: [Agility, Amnesia, Ancient Power, Attract, Blizzard, Brick Break, Brine,
         Bubble, Bubble Beam, Captivate, Crabhammer, Cut, Dig, Dive, Double Team, Endure,
         Facade, False Swipe, Flail, Fling, Frustration, Fury Cutter, Guillotine, Hail,

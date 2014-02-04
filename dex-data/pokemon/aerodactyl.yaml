@@ -9,8 +9,8 @@ pokemon:
     height: [1.8]
     introduction: rb
     moves:
-    - gs: [Agility, Ancient Power, Attract, Bite, Curse, Detect, Double Team, Dragon Breath,
-        Earthquake, Endure, Fire Blast, Flamethrower, Fly, Foresight, Frustration,
+    - gs: [Agility, Ancient Power, Attract, Bite, Curse, Detect, Double Team, Dragon
+          Breath, Earthquake, Endure, Fire Blast, Flamethrower, Fly, Foresight, Frustration,
         Headbutt, Hidden Power, Hyper Beam, Iron Tail, Protect, Pursuit, Rain Dance,
         Rest, Return, Roar, Rock Smash, Sandstorm, Scary Face, Sleep Talk, Snore,
         Steel Wing, Supersonic, Swagger, Swift, Take Down, Toxic, Whirlwind, Wing
@@ -35,10 +35,10 @@ pokemon:
         Sky Attack, Sleep Talk, Snore, Stealth Rock, Steel Wing, Stone Edge, Strength,
         Substitute, Sunny Day, Supersonic, Swagger, Swift, Tailwind, Take Down, Taunt,
         Thief, Thunder Fang, Torment, Toxic, Twister, Whirlwind, Wing Attack]
-    - rs: [Aerial Ace, Agility, Ancient Power, Attract, Bite, Curse, Double-Edge, Double
-          Team, Dragon Claw, Dragon Breath, Earthquake, Endure, Facade, Fire Blast,
-        Flamethrower, Fly, Foresight, Frustration, Hidden Power, Hyper Beam, Iron
-          Tail, Mimic, Protect, Pursuit, Rain Dance, Rest, Return, Roar, Rock Slide,
+    - rs: [Aerial Ace, Agility, Ancient Power, Attract, Bite, Curse, Double-Edge,
+        Double Team, Dragon Claw, Dragon Breath, Earthquake, Endure, Facade, Fire
+          Blast, Flamethrower, Fly, Foresight, Frustration, Hidden Power, Hyper Beam,
+        Iron Tail, Mimic, Protect, Pursuit, Rain Dance, Rest, Return, Roar, Rock Slide,
         Rock Smash, Rock Tomb, Sandstorm, Scary Face, Secret Power, Sky Attack, Sleep
           Talk, Snore, Steel Wing, Strength, Substitute, Sunny Day, Supersonic, Swagger,
         Swift, Take Down, Taunt, Thief, Torment, Toxic, Whirlwind, Wing Attack]
@@ -73,8 +73,7 @@ pokemon:
     - [Tough Claws]
     egggroups:
     - [Flying]
-    evolutions:
-    - []
+    evolutions: []
     height: [2.1]
     introduction: xy
     moves:

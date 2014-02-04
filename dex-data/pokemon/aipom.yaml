@@ -10,11 +10,11 @@ pokemon:
     introduction: gs
     moves:
     - gs: [Agility, Attract, Baton Pass, Beat Up, Counter, Curse, Cut, Defense Curl,
-        Detect, Double Team, Double Slap, Dream Eater, Dynamic Punch, Endure, Fire Punch,
-        Frustration, Fury Cutter, Fury Swipes, Headbutt, Hidden Power, Ice Punch,
-        Iron Tail, Mud-Slap, Nightmare, Protect, Pursuit, Rest, Return, Rock Smash,
-        Sand Attack, Scratch, Screech, Shadow Ball, Slam, Sleep Talk, Snore, Spite,
-        Strength, Sunny Day, Swagger, Swift, Tail Whip, Thief, Thunder, Thunderbolt,
+        Detect, Double Team, Double Slap, Dream Eater, Dynamic Punch, Endure, Fire
+          Punch, Frustration, Fury Cutter, Fury Swipes, Headbutt, Hidden Power, Ice
+          Punch, Iron Tail, Mud-Slap, Nightmare, Protect, Pursuit, Rest, Return, Rock
+          Smash, Sand Attack, Scratch, Screech, Shadow Ball, Slam, Sleep Talk, Snore,
+        Spite, Strength, Sunny Day, Swagger, Swift, Tail Whip, Thief, Thunder, Thunderbolt,
         Thunder Punch, Toxic, Zap Cannon]
     - bw: [Acrobatics, Aerial Ace, Agility, Astonish, Attract, Baton Pass, Beat Up,
         Body Slam, Bounce, Brick Break, Counter, Covet, Cut, Dig, Double-Edge, Double
@@ -28,26 +28,26 @@ pokemon:
         Sunny Day, Swagger, Swift, Switcheroo, Tail Whip, Taunt, Thief, Thunder, Thunder
           Wave, Thunderbolt, Thunder Punch, Tickle, Toxic, U-turn, Uproar, Work Up]
     - dp: [Aerial Ace, Agility, Astonish, Attract, Baton Pass, Beat Up, Bounce, Brick
-          Break, Captivate, Counter, Covet, Cut, Dig, Double Hit, Double Team, Double Slap,
-        Dream Eater, Endure, Facade, Fake Out, Fire Punch, Fling, Focus Punch, Frustration,
-        Fury Cutter, Fury Swipes, Grass Knot, Gunk Shot, Headbutt, Hidden Power, Ice
-          Punch, Iron Tail, Knock Off, Last Resort, Low Kick, Mud-Slap, Nasty Plot,
-        Natural Gift, Payback, Protect, Pursuit, Rain Dance, Rest, Return, Rock Smash,
-        Role Play, Sand Attack, Scratch, Screech, Secret Power, Seed Bomb, Shadow
-          Ball, Shadow Claw, Shock Wave, Slam, Sleep Talk, Snatch, Snore, Solar Beam,
-        Spite, Strength, Substitute, Sunny Day, Swagger, Swift, Tail Whip, Taunt,
-        Thief, Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Tickle, Toxic, U-turn,
-        Uproar, Water Pulse]
+          Break, Captivate, Counter, Covet, Cut, Dig, Double Hit, Double Team, Double
+          Slap, Dream Eater, Endure, Facade, Fake Out, Fire Punch, Fling, Focus Punch,
+        Frustration, Fury Cutter, Fury Swipes, Grass Knot, Gunk Shot, Headbutt, Hidden
+          Power, Ice Punch, Iron Tail, Knock Off, Last Resort, Low Kick, Mud-Slap,
+        Nasty Plot, Natural Gift, Payback, Protect, Pursuit, Rain Dance, Rest, Return,
+        Rock Smash, Role Play, Sand Attack, Scratch, Screech, Secret Power, Seed Bomb,
+        Shadow Ball, Shadow Claw, Shock Wave, Slam, Sleep Talk, Snatch, Snore, Solar
+          Beam, Spite, Strength, Substitute, Sunny Day, Swagger, Swift, Tail Whip,
+        Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Tickle, Toxic,
+        U-turn, Uproar, Water Pulse]
     - rs: [Aerial Ace, Agility, Astonish, Attract, Baton Pass, Beat Up, Body Slam,
-        Brick Break, Counter, Cut, Defense Curl, Dig, Double-Edge, Double Team, Double Slap,
-        Dream Eater, Dynamic Punch, Endure, Facade, Fire Punch, Focus Punch, Frustration,
-        Fury Cutter, Fury Swipes, Hidden Power, Ice Punch, Iron Tail, Mega Kick, Mega
-          Punch, Metronome, Mimic, Mud-Slap, Nightmare, Protect, Pursuit, Rain Dance,
-        Rest, Return, Rock Smash, Sand Attack, Scratch, Screech, Secret Power, Seismic
-          Toss, Shadow Ball, Shock Wave, Slam, Sleep Talk, Snatch, Snore, Solar Beam,
-        Spite, Strength, Substitute, Sunny Day, Swagger, Swift, Tail Whip, Taunt,
-        Thief, Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Tickle, Toxic, Water
-          Pulse]
+        Brick Break, Counter, Cut, Defense Curl, Dig, Double-Edge, Double Team, Double
+          Slap, Dream Eater, Dynamic Punch, Endure, Facade, Fire Punch, Focus Punch,
+        Frustration, Fury Cutter, Fury Swipes, Hidden Power, Ice Punch, Iron Tail,
+        Mega Kick, Mega Punch, Metronome, Mimic, Mud-Slap, Nightmare, Protect, Pursuit,
+        Rain Dance, Rest, Return, Rock Smash, Sand Attack, Scratch, Screech, Secret
+          Power, Seismic Toss, Shadow Ball, Shock Wave, Slam, Sleep Talk, Snatch,
+        Snore, Solar Beam, Spite, Strength, Substitute, Sunny Day, Swagger, Swift,
+        Tail Whip, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Thunder Punch,
+        Tickle, Toxic, Water Pulse]
     - xy: [Acrobatics, Aerial Ace, Agility, Astonish, Attract, Baton Pass, Beat Up,
         Body Slam, Bounce, Brick Break, Captivate, Counter, Covet, Cut, Defense Curl,
         Dig, Double-Edge, Double Hit, Double Slap, Double Team, Dream Eater, Dynamic
@@ -76,8 +76,7 @@ pokemon:
     - [Pickup, Skill Link, Technician]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.2]
     introduction: dp
     moves:

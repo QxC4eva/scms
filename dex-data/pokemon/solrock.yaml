@@ -5,8 +5,7 @@ pokemon:
     - bw: [Levitate]
     egggroups:
     - [Mineral]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.2]
     introduction: rs
     moves:
@@ -21,10 +20,10 @@ pokemon:
         Sleep Talk, Smack Down, Snore, Solar Beam, Stealth Rock, Stone Edge, Substitute,
         Sunny Day, Swagger, Tackle, Telekinesis, Toxic, Trick Room, Will-O-Wisp, Wonder
           Room, Zen Headbutt, Baton Pass, Body Slam, Double-Edge, Mimic, Self-Destruct]
-    - dp: [Ancient Power, Calm Mind, Charge Beam, Confusion, Cosmic Power, Double Team,
-        Dream Eater, Earth Power, Earthquake, Embargo, Endure, Explosion, Facade,
-        Fire Blast, Fire Spin, Flamethrower, Flash, Frustration, Giga Impact, Grass
-          Knot, Gravity, Gyro Ball, Harden, Heal Block, Helping Hand, Hidden Power,
+    - dp: [Ancient Power, Calm Mind, Charge Beam, Confusion, Cosmic Power, Double
+          Team, Dream Eater, Earth Power, Earthquake, Embargo, Endure, Explosion,
+        Facade, Fire Blast, Fire Spin, Flamethrower, Flash, Frustration, Giga Impact,
+        Grass Knot, Gravity, Gyro Ball, Harden, Heal Block, Helping Hand, Hidden Power,
         Hyper Beam, Iron Defense, Iron Head, Light Screen, Magic Coat, Natural Gift,
         Overheat, Pain Split, Protect, Psych Up, Psychic, Psywave, Recycle, Reflect,
         Rest, Return, Rock Polish, Rock Slide, Rock Throw, Rock Tomb, Rollout, Safeguard,
@@ -37,9 +36,9 @@ pokemon:
         Fire Spin, Flamethrower, Flash, Frustration, Harden, Hidden Power, Hyper Beam,
         Light Screen, Mimic, Overheat, Protect, Psych Up, Psychic, Psywave, Reflect,
         Rest, Return, Rock Slide, Rock Throw, Rock Tomb, Rollout, Safeguard, Sandstorm,
-        Secret Power, Self-Destruct, Shadow Ball, Skill Swap, Sleep Talk, Snore, Solar Beam,
-        Substitute, Sunny Day, Swagger, Swift, Tackle, Toxic, Baton Pass, Body Slam,
-        Double-Edge, Mimic, Self-Destruct]
+        Secret Power, Self-Destruct, Shadow Ball, Skill Swap, Sleep Talk, Snore, Solar
+          Beam, Substitute, Sunny Day, Swagger, Swift, Tackle, Toxic, Baton Pass,
+        Body Slam, Double-Edge, Mimic, Self-Destruct]
     - xy: [Acrobatics, Ancient Power, Baton Pass, Body Slam, Bulldoze, Calm Mind,
         Charge Beam, Confusion, Cosmic Power, Defense Curl, Double-Edge, Double Team,
         Dream Eater, Earth Power, Earthquake, Embargo, Endure, Explosion, Facade,

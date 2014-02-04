@@ -23,17 +23,16 @@ pokemon:
     - [Swarm, Tinted Lens]
     egggroups:
     - [Bug]
-    evolutions:
-    - []
+    evolutions: []
     height: [0.9]
     introduction: dp
     moves:
     - bw: [Acrobatics, Aerial Ace, Air Slash, Attract, Bug Buzz, Camouflage, Confusion,
         Double Team, Dream Eater, Energy Ball, Facade, Flash, Frustration, Giga Drain,
-        Giga Impact, Gust, Hyper Beam, Poison Powder, Psybeam, Psych Up, Psychic, Quiver
-          Dance, Rain Dance, Rest, Return, Roost, Round, Safeguard, Shadow Ball, Signal
-          Beam, Silver Wind, Skill Swap, Sleep Talk, Solar Beam, Struggle Bug, Substitute,
-        Sunny Day, Swagger, Tailwind, Thief, Toxic, U-turn, Venoshock]
+        Giga Impact, Gust, Hyper Beam, Poison Powder, Psybeam, Psych Up, Psychic,
+        Quiver Dance, Rain Dance, Rest, Return, Roost, Round, Safeguard, Shadow Ball,
+        Signal Beam, Silver Wind, Skill Swap, Sleep Talk, Solar Beam, Struggle Bug,
+        Substitute, Sunny Day, Swagger, Tailwind, Thief, Toxic, U-turn, Venoshock]
     - dp: [Aerial Ace, Air Cutter, Air Slash, Attract, Bug Buzz, Camouflage, Captivate,
         Confusion, Defog, Double Team, Dream Eater, Endure, Energy Ball, Facade, Flash,
         Frustration, Giga Drain, Giga Impact, Gust, Hyper Beam, Mud-Slap, Natural
@@ -61,8 +60,7 @@ pokemon:
     - [Anticipation, Overcoat]
     egggroups:
     - [Bug]
-    evolutions:
-    - []
+    evolutions: []
     height: [0.5]
     introduction: dp
     moves:
@@ -89,8 +87,7 @@ pokemon:
     - [Anticipation, Overcoat]
     egggroups:
     - [Bug]
-    evolutions:
-    - []
+    evolutions: []
     height: [0.5]
     introduction: dp
     moves:
@@ -107,8 +104,7 @@ pokemon:
     - [Anticipation, Overcoat]
     egggroups:
     - [Bug]
-    evolutions:
-    - []
+    evolutions: []
     height: [0.5]
     introduction: dp
     moves:

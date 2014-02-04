@@ -5,8 +5,7 @@ pokemon:
     - bw: [Hydration, Shell Armor, Water Absorb]
     egggroups:
     - [Monster, Water 1]
-    evolutions:
-    - []
+    evolutions: []
     height: [2.5]
     introduction: rb
     moves:
@@ -46,9 +45,9 @@ pokemon:
         Double-Edge, Heal Bell, Icy Wind, Mimic, Nightmare]
     - rb: [Bide, Blizzard, Body Slam, Bubble Beam, Confuse Ray, Double-Edge, Double
           Team, Dragon Rage, Growl, Horn Drill, Hydro Pump, Hyper Beam, Ice Beam,
-        Mimic, Mist, Psychic, Psywave, Rage, Reflect, Rest, Sing, Skull Bash, Solar Beam,
-        Strength, Substitute, Surf, Take Down, Thunder, Thunderbolt, Toxic, Water
-          Gun]
+        Mimic, Mist, Psychic, Psywave, Rage, Reflect, Rest, Sing, Skull Bash, Solar
+          Beam, Strength, Substitute, Surf, Take Down, Thunder, Thunderbolt, Toxic,
+        Water Gun]
     - xy: [Ancient Power, Aqua Tail, Attract, Avalanche, Blizzard, Block, Body Slam,
         Brine, Bulldoze, Captivate, Confuse Ray, Curse, Dive, Double-Edge, Double
           Team, Dragon Dance, Dragon Pulse, Dream Eater, Echoed Voice, Endure, Facade,

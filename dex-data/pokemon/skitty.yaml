@@ -6,8 +6,7 @@ pokemon:
       dp: [Cute Charm, Normalize]
     egggroups:
     - [Fairy, Ground]
-    evolutions:
-    - []
+    evolutions: []
     height: [1.1]
     introduction: rs
     moves:
@@ -49,10 +48,10 @@ pokemon:
         Grass Knot, Growl, Headbutt, Heal Bell, Helping Hand, Hidden Power, Ice Beam,
         Icy Wind, Iron Tail, Last Resort, Mud Bomb, Mud-Slap, Natural Gift, Payback,
         Protect, Psych Up, Rain Dance, Rest, Return, Rollout, Safeguard, Secret Power,
-        Shadow Ball, Shock Wave, Sing, Sleep Talk, Snore, Solar Beam, Substitute, Sucker
-          Punch, Sunny Day, Swagger, Swift, Tackle, Tail Whip, Thunder, Thunder Wave,
-        Thunderbolt, Tickle, Toxic, Uproar, Wake-Up Slap, Water Pulse, Wish, Zen Headbutt,
-        Body Slam, Double-Edge, Icy Wind, Mimic]
+        Shadow Ball, Shock Wave, Sing, Sleep Talk, Snore, Solar Beam, Substitute,
+        Sucker Punch, Sunny Day, Swagger, Swift, Tackle, Tail Whip, Thunder, Thunder
+          Wave, Thunderbolt, Tickle, Toxic, Uproar, Wake-Up Slap, Water Pulse, Wish,
+        Zen Headbutt, Body Slam, Double-Edge, Icy Wind, Mimic]
     - rs: [Assist, Attract, Baton Pass, Blizzard, Body Slam, Calm Mind, Charm, Covet,
         Defense Curl, Dig, Double-Edge, Double Team, Double Slap, Dream Eater, Endure,
         Facade, Feint Attack, Fake Tears, Flash, Frustration, Growl, Heal Bell, Helping

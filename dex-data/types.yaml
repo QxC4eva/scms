@@ -3,10 +3,10 @@ types:
   Bug:
     introduction: rb
     effectiveness:
-      - {Bug: 1, Dragon: 1, Electric: 1, Fighting: 0.5, Fire: 0.5,
+      - rb: {Bug: 1, Dragon: 1, Electric: 1, Fighting: 0.5, Fire: 0.5,
            Flying: 0.5, Ghost: 1, Grass: 2, Ground: 1, Ice: 1, Normal: 1,
            Poison: 2, Psychic: 2, Rock: 1, Water: 1}
-      - gs: {Bug: 1, Dragon: 1, Dark: 1, Electric: 1, Fighting: 0.5,
+        gs: {Bug: 1, Dragon: 1, Dark: 1, Electric: 1, Fighting: 0.5,
            Fire: 0.5, Flying: 0.5, Ghost: 0.5, Grass: 2, Ground: 1,
            Ice: 1, Normal: 1, Poison: 0.5, Psychic: 2, Rock: 1,
            Steel: 0.5, Water: 1}
@@ -18,10 +18,10 @@ types:
   Dragon:
     introduction: rb
     effectiveness:
-      - {Bug: 1, Dragon: 2, Electric: 1, Fighting: 1, Fire: 1,
+      - rb: {Bug: 1, Dragon: 2, Electric: 1, Fighting: 1, Fire: 1,
          Flying: 1, Ghost: 1, Grass: 1, Ground: 1, Ice: 1, Normal: 1,
          Poison: 1, Psychic: 1, Rock: 1, Water: 1}
-      - gs: {Bug: 1, Dragon: 2, Dark: 1, Electric: 1, Fighting: 1,
+        gs: {Bug: 1, Dragon: 2, Dark: 1, Electric: 1, Fighting: 1,
              Fire: 1, Flying: 1, Ghost: 1, Grass: 1, Ground: 1, Ice: 1,
              Normal: 1, Poison: 1, Psychic: 1, Rock: 1, Steel: 0.5,
              Water: 1}
@@ -34,12 +34,12 @@ types:
   Dark:
     introduction: gs
     effectiveness:
-      - {Bug: 1, Dragon: 1, Dark: 0.5, Electric: 1, Fighting: 0.5,
+      - gs: {Bug: 1, Dragon: 1, Dark: 0.5, Electric: 1, Fighting: 0.5,
            Fire: 1, Flying: 1, Ghost: 1, Grass: 1, Ground: 1, Ice: 1,
            Normal: 1, Poison: 1, Psychic: 2, Rock: 1, Steel: 0.5,
            Water: 1}
 
-      - xy: {Bug: 1, Dragon: 1, Dark: 0.5, Electric: 1, Fighting: 0.5,
+        xy: {Bug: 1, Dragon: 1, Dark: 0.5, Electric: 1, Fighting: 0.5,
            Fire: 1, Flying: 1, Ghost: 1, Grass: 1, Ground: 1, Ice: 1,
            Normal: 1, Poison: 1, Psychic: 2, Rock: 1, Steel: 0.5,
            Water: 1, Fairy: 0.5}
@@ -47,11 +47,11 @@ types:
   Electric:
     introduction: rb
     effectiveness:
-      - {Bug: 1, Dragon: 0.5, Electric: 0.5, Fighting: 1, Fire: 1,
+      - rb: {Bug: 1, Dragon: 0.5, Electric: 0.5, Fighting: 1, Fire: 1,
            Flying: 2, Ghost: 1, Grass: 0.5, Ground: 0, Ice: 1, Normal: 1,
            Poison: 1, Psychic: 1, Rock: 1, Water: 2}
 
-      - gs: {Bug: 1, Dragon: 0.5, Dark: 1, Electric: 0.5, Fighting: 1,
+        gs: {Bug: 1, Dragon: 0.5, Dark: 1, Electric: 0.5, Fighting: 1,
            Fire: 1, Flying: 2, Ghost: 1, Grass: 0.5, Ground: 0,
            Ice: 1, Normal: 1, Poison: 1, Psychic: 1, Rock: 1,
            Steel: 1, Water: 2}
@@ -64,11 +64,11 @@ types:
   Fighting:
     introduction: rb
     effectiveness:
-      - {Bug: 0.5, Dragon: 1, Electric: 1, Fighting: 1, Fire: 1,
+      - rb: {Bug: 0.5, Dragon: 1, Electric: 1, Fighting: 1, Fire: 1,
            Flying: 0.5, Ghost: 0, Grass: 1, Ground: 1, Ice: 2, Normal: 2,
            Poison: 0.5, Psychic: 0.5, Rock: 2, Water: 1}
 
-      - gs: {Bug: 0.5, Dragon: 1, Dark: 2, Electric: 1, Fighting: 1,
+        gs: {Bug: 0.5, Dragon: 1, Dark: 2, Electric: 1, Fighting: 1,
            Fire: 1, Flying: 0.5, Ghost: 0, Grass: 1, Ground: 1,
            Ice: 2, Normal: 2, Poison: 0.5, Psychic: 0.5, Rock: 2,
            Steel: 2, Water: 1}
@@ -81,11 +81,11 @@ types:
   Fire:
     introduction: rb
     effectiveness:
-      - {Bug: 2, Dragon: 0.5, Electric: 1, Fighting: 1, Fire: 0.5,
+      - rb: {Bug: 2, Dragon: 0.5, Electric: 1, Fighting: 1, Fire: 0.5,
            Flying: 1, Ghost: 1, Grass: 2, Ground: 1, Ice: 2, Normal: 1,
            Poison: 1, Psychic: 1, Rock: 0.5, Water: 0.5}
 
-      - gs: {Bug: 2, Dragon: 0.5, Dark: 1, Electric: 1, Fighting: 1,
+        gs: {Bug: 2, Dragon: 0.5, Dark: 1, Electric: 1, Fighting: 1,
            Fire: 0.5, Flying: 1, Ghost: 1, Grass: 2, Ground: 1,
            Ice: 2, Normal: 1, Poison: 1, Psychic: 1, Rock: 0.5,
            Steel: 2, Water: 0.5}
@@ -98,11 +98,11 @@ types:
   Flying:
     introduction: rb
     effectiveness:
-      - {Bug: 2, Dragon: 1, Electric: 0.5, Fighting: 2, Fire: 1,
+      - rb: {Bug: 2, Dragon: 1, Electric: 0.5, Fighting: 2, Fire: 1,
            Flying: 1, Ghost: 1, Grass: 2, Ground: 1, Ice: 1, Normal: 1,
            Poison: 1, Psychic: 1, Rock: 0.5, Water: 1}
 
-      - gs: {Bug: 2, Dragon: 1, Dark: 1, Electric: 0.5, Fighting: 2,
+        gs: {Bug: 2, Dragon: 1, Dark: 1, Electric: 0.5, Fighting: 2,
            Fire: 1, Flying: 1, Ghost: 1, Grass: 2, Ground: 1, Ice: 1,
            Normal: 1, Poison: 1, Psychic: 1, Rock: 0.5, Steel: 0.5,
            Water: 1}
@@ -115,11 +115,11 @@ types:
   Ghost:
     introduction: rb
     effectiveness:
-      - {Bug: 1, Dragon: 1, Electric: 1, Fighting: 1, Fire: 1,
+      - rb: {Bug: 1, Dragon: 1, Electric: 1, Fighting: 1, Fire: 1,
            Flying: 1, Ghost: 2, Grass: 1, Ground: 1, Ice: 1, Normal: 0,
            Poison: 1, Psychic: 0, Rock: 1, Water: 1}
 
-      - gs: {Bug: 1, Dragon: 1, Dark: 1, Electric: 1, Fighting: 1,
+        gs: {Bug: 1, Dragon: 1, Dark: 1, Electric: 1, Fighting: 1,
            Fire: 1, Flying: 1, Ghost: 2, Grass: 1, Ground: 1, Ice: 1,
            Normal: 0, Poison: 1, Psychic: 2, Rock: 1, Steel: 0.5,
            Water: 1}
@@ -132,11 +132,11 @@ types:
   Grass:
     introduction: rb
     effectiveness:
-      - {Bug: 0.5, Dragon: 0.5, Electric: 1, Fighting: 1, Fire: 0.5,
+      - rb: {Bug: 0.5, Dragon: 0.5, Electric: 1, Fighting: 1, Fire: 0.5,
            Flying: 0.5, Ghost: 1, Grass: 0.5, Ground: 2, Ice: 1,
            Normal: 1, Poison: 0.5, Psychic: 1, Rock: 2, Water: 2}
 
-      - gs: {Bug: 0.5, Dragon: 0.5, Dark: 1, Electric: 1, Fighting: 1,
+        gs: {Bug: 0.5, Dragon: 0.5, Dark: 1, Electric: 1, Fighting: 1,
            Fire: 0.5, Flying: 0.5, Ghost: 1, Grass: 0.5, Ground: 2,
            Ice: 1, Normal: 1, Poison: 0.5, Psychic: 1, Rock: 2,
            Steel: 0.5, Water: 2}
@@ -149,11 +149,11 @@ types:
   Ground:
     introduction: rb
     effectiveness:
-      - {Bug: 0.5, Dragon: 1, Electric: 2, Fighting: 1, Fire: 2,
+      - rb: {Bug: 0.5, Dragon: 1, Electric: 2, Fighting: 1, Fire: 2,
            Flying: 0, Ghost: 1, Grass: 0.5, Ground: 1, Ice: 1, Normal: 1,
            Poison: 2, Psychic: 1, Rock: 2, Water: 1}
 
-      - gs: {Bug: 0.5, Dragon: 1, Dark: 1, Electric: 2, Fighting: 1,
+        gs: {Bug: 0.5, Dragon: 1, Dark: 1, Electric: 2, Fighting: 1,
            Fire: 2, Flying: 0, Ghost: 1, Grass: 0.5, Ground: 1,
            Ice: 1, Normal: 1, Poison: 2, Psychic: 1, Rock: 2,
            Steel: 2, Water: 1}
@@ -166,11 +166,11 @@ types:
   Ice:
     introduction: rb
     effectiveness:
-      - {Bug: 1, Dragon: 2, Electric: 1, Fighting: 1, Fire: 1,
+      - rb: {Bug: 1, Dragon: 2, Electric: 1, Fighting: 1, Fire: 1,
            Flying: 2, Ghost: 1, Grass: 2, Ground: 2, Ice: 0.5, Normal: 1,
            Poison: 1, Psychic: 1, Rock: 1, Water: 0.5}
 
-      - gs: {Bug: 1, Dragon: 2, Dark: 2, Electric: 1, Fighting: 1,
+        gs: {Bug: 1, Dragon: 2, Dark: 2, Electric: 1, Fighting: 1,
            Fire: 0.5, Flying: 2, Ghost: 1, Grass: 2, Ground: 2,
            Ice: 0.5, Normal: 1, Poison: 1, Psychic: 1, Rock: 1,
            Steel: 0.5, Water: 0.5}
@@ -183,11 +183,11 @@ types:
   Normal:
     introduction: rb
     effectiveness:
-      - {Bug: 1, Dragon: 1, Electric: 1, Fighting: 1, Fire: 1,
+      - rb: {Bug: 1, Dragon: 1, Electric: 1, Fighting: 1, Fire: 1,
            Flying: 1, Ghost: 0, Grass: 1, Ground: 1, Ice: 1, Normal: 1,
            Poison: 1, Psychic: 1, Rock: 0.5, Water: 1}
 
-      - gs: {Bug: 1, Dragon: 1, Dark: 1, Electric: 1, Fighting: 1,
+        gs: {Bug: 1, Dragon: 1, Dark: 1, Electric: 1, Fighting: 1,
            Fire: 1, Flying: 1, Ghost: 0, Grass: 1, Ground: 1, Ice: 1,
            Normal: 1, Poison: 1, Psychic: 1, Rock: 0.5, Steel: 0.5,
            Water: 1}
@@ -195,11 +195,11 @@ types:
   Poison:
     introduction: rb
     effectiveness:
-      - {Bug: 2, Dragon: 1, Electric: 1, Fighting: 1, Fire: 1,
+      - rb: {Bug: 2, Dragon: 1, Electric: 1, Fighting: 1, Fire: 1,
            Flying: 1, Ghost: 0.5, Grass: 2, Ground: 0.5, Ice: 1,
            Normal: 1, Poison: 0.5, Psychic: 1, Rock: 0.5, Water: 1}
 
-      - gs: {Bug: 1, Dragon: 1, Dark: 1, Electric: 1, Fighting: 1,
+        gs: {Bug: 1, Dragon: 1, Dark: 1, Electric: 1, Fighting: 1,
            Fire: 1, Flying: 1, Ghost: 0.5, Grass: 2, Ground: 0.5,
            Ice: 1, Normal: 1, Poison: 0.5, Psychic: 1, Rock: 0.5,
            Steel: 0, Water: 1}
@@ -212,11 +212,11 @@ types:
   Psychic:
     introduction: rb
     effectiveness:
-      - {Bug: 1, Dragon: 1, Electric: 1, Fighting: 2, Fire: 1,
+      - rb: {Bug: 1, Dragon: 1, Electric: 1, Fighting: 2, Fire: 1,
            Flying: 1, Ghost: 1, Grass: 1, Ground: 1, Ice: 1, Normal: 1,
            Poison: 2, Psychic: 0.5, Rock: 1, Water: 1}
 
-      - gs: {Bug: 1, Dragon: 1, Dark: 0, Electric: 1, Fighting: 2,
+        gs: {Bug: 1, Dragon: 1, Dark: 0, Electric: 1, Fighting: 2,
            Fire: 1, Flying: 1, Ghost: 1, Grass: 1, Ground: 1, Ice: 1,
            Normal: 1, Poison: 2, Psychic: 0.5, Rock: 1, Steel: 0.5,
            Water: 1}
@@ -228,11 +228,11 @@ types:
   Rock:
     introduction: rb
     effectiveness:
-      - {Bug: 2, Dragon: 1, Electric: 1, Fighting: 0.5, Fire: 2,
+      - rb: {Bug: 2, Dragon: 1, Electric: 1, Fighting: 0.5, Fire: 2,
            Flying: 2, Ghost: 1, Grass: 1, Ground: 0.5, Ice: 2,
            Normal: 1, Poison: 1, Psychic: 1, Rock: 1, Water: 1}
 
-      - gs: {Bug: 2, Dragon: 1, Dark: 1, Electric: 1, Fighting: 0.5,
+        gs: {Bug: 2, Dragon: 1, Dark: 1, Electric: 1, Fighting: 0.5,
            Fire: 2, Flying: 2, Ghost: 1, Grass: 1, Ground: 0.5,
            Ice: 2, Normal: 1, Poison: 1, Psychic: 1, Rock: 1,
            Steel: 0.5, Water: 1}
@@ -245,11 +245,11 @@ types:
   Steel:
     introduction: gs
     effectiveness:
-      - {Bug: 1, Dragon: 1, Dark: 1, Electric: 1, Fighting: 1,
-           Fire: 0.5, Flying: 1, Ghost: 1, Grass: 1, Ground: 1, Ice: 2,
+      - gs: {Bug: 1, Dragon: 1, Dark: 1, Electric: 1, Fighting: 1,
+            Fire: 0.5, Flying: 1, Ghost: 1, Grass: 1, Ground: 1, Ice: 2,
            Normal: 1, Poison: 1, Psychic: 1, Rock: 2, Steel: 0.5,
            Water: 0.5}
-      - xy: {Bug: 1, Dragon: 1, Dark: 1, Electric: 1, Fighting: 1,
+        xy: {Bug: 1, Dragon: 1, Dark: 1, Electric: 1, Fighting: 1,
            Fire: 0.5, Flying: 1, Ghost: 1, Grass: 1, Ground: 1, Ice: 2,
            Normal: 1, Poison: 1, Psychic: 1, Rock: 2, Steel: 0.5,
            Water: 0.5, Fairy: 2}
@@ -257,11 +257,11 @@ types:
   Water:
     introduction: rb
     effectiveness:
-      - {Bug: 1, Dragon: 0.5, Electric: 1, Fighting: 1, Fire: 2,
+      - rb: {Bug: 1, Dragon: 0.5, Electric: 1, Fighting: 1, Fire: 2,
            Flying: 1, Ghost: 1, Grass: 0.5, Ground: 2, Ice: 1,
            Normal: 1, Poison: 1, Psychic: 1, Rock: 2, Water: 0.5}
 
-      - gs: {Bug: 1, Dragon: 0.5, Dark: 1, Electric: 1, Fighting: 1,
+        gs: {Bug: 1, Dragon: 0.5, Dark: 1, Electric: 1, Fighting: 1,
            Fire: 2, Flying: 1, Ghost: 1, Grass: 0.5, Ground: 2,
            Ice: 1, Normal: 1, Poison: 1, Psychic: 1, Rock: 2,
            Steel: 1, Water: 0.5}
@@ -274,7 +274,7 @@ types:
   Fairy:
     introduction: xy
     effectiveness:
-    - {Bug: 1, Dragon: 2, Electric: 1, Fighting: 2, Fire: 0.5,
+    - xy: {Bug: 1, Dragon: 2, Electric: 1, Fighting: 2, Fire: 0.5,
        Flying: 1, Ghost: 1, Grass: 1, Ground: 2, Ice: 1,
        Normal: 1, Poison: 0.5, Psychic: 1, Rock: 1, Water: 1,
        Steel: 0.5, Dark: 2, Fairy: 1}

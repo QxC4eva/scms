@@ -4,7 +4,8 @@ pokemon:
     - [Defiant, Prankster]
     egggroups:
     - []
-    evolutions: [Tornadus-Therian]
+    evolutions:
+    - [Tornadus-Therian]
     height: [1.5]
     introduction: bw
     moves:
@@ -37,7 +38,8 @@ pokemon:
     - [Regenerator]
     egggroups:
     - []
-    evolutions: []
+    evolutions:
+    - []
     height: [1.4]
     introduction: bw
     moves:

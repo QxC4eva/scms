@@ -6,7 +6,9 @@ pokemon:
     - bw: [Light Metal, Swarm, Technician]
     egggroups:
     - [Bug]
-    evolutions: [Scizor-Mega]
+    evolutions:
+    - []
+    - xy: [Scizor-Mega]
     height: [1.8]
     introduction: gs
     moves:
@@ -31,7 +33,8 @@ pokemon:
     - [Technician]
     egggroups:
     - [Bug]
-    evolutions: []
+    evolutions:
+    - []
     height: [2]
     introduction: xy
     moves:
@@ -50,7 +53,9 @@ pokemon:
     - bw: [Steadfast, Swarm, Technician]
     egggroups:
     - [Bug]
-    evolutions: [Scizor]
+    evolutions:
+    - []
+    - gs: [Scizor]
     height: [1.5]
     introduction: rb
     moves:

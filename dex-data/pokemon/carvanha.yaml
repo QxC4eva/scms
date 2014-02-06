@@ -5,7 +5,8 @@ pokemon:
     - bw: [Rough Skin, Speed Boost]
     egggroups:
     - [Water 2]
-    evolutions: [Sharpedo]
+    evolutions:
+    - [Sharpedo]
     height: [0.8]
     introduction: rs
     moves:
@@ -54,7 +55,8 @@ pokemon:
     - bw: [Rough Skin, Speed Boost]
     egggroups:
     - [Water 2]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.8]
     introduction: rs
     moves:

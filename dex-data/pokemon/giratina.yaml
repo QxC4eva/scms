@@ -4,7 +4,8 @@ pokemon:
     - [Pressure, Telepathy]
     egggroups:
     - []
-    evolutions: [Giratina-Origin]
+    evolutions:
+    - [Giratina-Origin]
     height: [4.5]
     introduction: dp
     moves:
@@ -54,7 +55,8 @@ pokemon:
     - [Levitate]
     egggroups:
     - []
-    evolutions: []
+    evolutions:
+    - []
     height: [6.9]
     introduction: dp
     moves:

@@ -5,7 +5,9 @@ pokemon:
     - bw: [Plus, Static]
     egggroups:
     - [Ground, Monster]
-    evolutions: [Ampharos-Mega]
+    evolutions:
+    - []
+    - xy: [Ampharos-Mega]
     height: [1.4]
     introduction: gs
     moves:
@@ -30,7 +32,8 @@ pokemon:
     - [Mold Breaker]
     egggroups:
     - [Monster, Field]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.4]
     introduction: xy
     moves:
@@ -48,7 +51,8 @@ pokemon:
     - bw: [Plus, Static]
     egggroups:
     - [Ground, Monster]
-    evolutions: [Ampharos]
+    evolutions:
+    - [Ampharos]
     height: [0.8]
     introduction: gs
     moves:
@@ -75,7 +79,8 @@ pokemon:
     - bw: [Plus, Static]
     egggroups:
     - [Ground, Monster]
-    evolutions: [Flaaffy]
+    evolutions:
+    - [Flaaffy]
     height: [0.6]
     introduction: gs
     moves:

@@ -5,7 +5,8 @@ pokemon:
     - bw: [Oblivious, Own Tempo, Regenerator]
     egggroups:
     - [Monster, Water 1]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.6]
     introduction: rb
     moves:
@@ -41,7 +42,8 @@ pokemon:
     - bw: [Oblivious, Own Tempo, Regenerator]
     egggroups:
     - [Monster, Water 1]
-    evolutions: []
+    evolutions:
+    - []
     height: [2]
     introduction: gs
     moves:
@@ -70,7 +72,9 @@ pokemon:
     - bw: [Oblivious, Own Tempo, Regenerator]
     egggroups:
     - [Monster, Water 1]
-    evolutions: [Slowbro, Slowking]
+    evolutions:
+    - [Slowbro]
+    - gs: [Slowking]
     height: [1.2]
     introduction: rb
     moves:

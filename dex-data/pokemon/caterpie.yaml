@@ -5,7 +5,8 @@ pokemon:
     - bw: [Compound Eyes, Tinted Lens]
     egggroups:
     - [Bug]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.1]
     introduction: rb
     moves:
@@ -65,7 +66,8 @@ pokemon:
     - bw: [Run Away, Shield Dust]
     egggroups:
     - [Bug]
-    evolutions: [Metapod]
+    evolutions:
+    - [Metapod]
     height: [0.3]
     introduction: rb
     moves:
@@ -89,7 +91,8 @@ pokemon:
     - [Shed Skin]
     egggroups:
     - [Bug]
-    evolutions: [Butterfree]
+    evolutions:
+    - [Butterfree]
     height: [0.7]
     introduction: rb
     moves:

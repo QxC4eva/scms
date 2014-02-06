@@ -4,7 +4,8 @@ pokemon:
     - [Pickup, Frisk, Insomnia]
     egggroups:
     - [Amorphous]
-    evolutions: [Gourgeist-Small, Gourgeist-Large, Gourgeist-Super]
+    evolutions:
+    - [Gourgeist-Small, Gourgeist-Large, Gourgeist-Super]
     height: [0]
     introduction: xy
     moves:
@@ -21,7 +22,8 @@ pokemon:
     - [Pickup, Frisk, Insomnia]
     egggroups:
     - [Amorphous]
-    evolutions: []
+    evolutions:
+    - []
     height: [0]
     introduction: xy
     moves:
@@ -38,7 +40,8 @@ pokemon:
     - [Pickup, Frisk, Insomnia]
     egggroups:
     - [Amorphous]
-    evolutions: []
+    evolutions:
+    - []
     height: [0]
     introduction: xy
     moves:
@@ -55,7 +58,8 @@ pokemon:
     - [Pickup, Frisk, Insomnia]
     egggroups:
     - [Amorphous]
-    evolutions: []
+    evolutions:
+    - []
     height: [0]
     introduction: xy
     moves:
@@ -72,7 +76,8 @@ pokemon:
     - [Pickup, Frisk, Insomnia]
     egggroups:
     - [Amorphous]
-    evolutions: [Gourgeist, Pumpkaboo-Small, Pumpkaboo-Large, Pumpkaboo-Super]
+    evolutions:
+    - [Gourgeist, Pumpkaboo-Small, Pumpkaboo-Large, Pumpkaboo-Super]
     height: [0]
     introduction: xy
     moves:
@@ -97,7 +102,8 @@ pokemon:
     - [Pickup, Frisk, Insomnia]
     egggroups:
     - [Amorphous]
-    evolutions: [Gourgeist-Large]
+    evolutions:
+    - [Gourgeist-Large]
     height: [0]
     introduction: xy
     moves:
@@ -114,7 +120,8 @@ pokemon:
     - [Pickup, Frisk, Insomnia]
     egggroups:
     - [Amorphous]
-    evolutions: [Gourgeist-Small]
+    evolutions:
+    - [Gourgeist-Small]
     height: [0]
     introduction: xy
     moves:
@@ -131,7 +138,8 @@ pokemon:
     - [Pickup, Frisk, Insomnia]
     egggroups:
     - [Amorphous]
-    evolutions: [Gourgeist-Super]
+    evolutions:
+    - [Gourgeist-Super]
     height: [0]
     introduction: xy
     moves:

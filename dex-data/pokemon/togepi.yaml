@@ -4,7 +4,8 @@ pokemon:
     - [Hustle, Serene Grace, Super Luck]
     egggroups:
     - [Fairy, Flying]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.5]
     introduction: dp
     moves:
@@ -26,7 +27,8 @@ pokemon:
     - bw: [Hustle, Serene Grace, Super Luck]
     egggroups:
     - []
-    evolutions: [Togetic]
+    evolutions:
+    - [Togetic]
     height: [0.3]
     introduction: gs
     moves:
@@ -94,7 +96,9 @@ pokemon:
     - bw: [Hustle, Serene Grace, Super Luck]
     egggroups:
     - [Fairy, Flying]
-    evolutions: [Togekiss]
+    evolutions:
+    - []
+    - dp: [Togekiss]
     height: [0.6]
     introduction: gs
     moves:

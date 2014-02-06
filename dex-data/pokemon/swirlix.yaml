@@ -4,7 +4,8 @@ pokemon:
     - [Sweet Veil, Unburden]
     egggroups:
     - [Fairy]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.8]
     introduction: xy
     moves:
@@ -21,7 +22,8 @@ pokemon:
     - [Sweet Veil, Unburden]
     egggroups:
     - [Fairy]
-    evolutions: [Slurpuff]
+    evolutions:
+    - [Slurpuff]
     height: [0.4]
     introduction: xy
     moves:

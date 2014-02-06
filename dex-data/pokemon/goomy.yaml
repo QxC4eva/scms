@@ -4,7 +4,8 @@ pokemon:
     - [Sap Sipper, Hydration, Gooey]
     egggroups:
     - [Dragon]
-    evolutions: []
+    evolutions:
+    - []
     height: [2]
     introduction: xy
     moves:
@@ -23,7 +24,8 @@ pokemon:
     - [Sap Sipper, Hydration, Gooey]
     egggroups:
     - [Dragon]
-    evolutions: [Sliggoo]
+    evolutions:
+    - [Sliggoo]
     height: [0.3]
     introduction: xy
     moves:
@@ -45,7 +47,8 @@ pokemon:
     - [Sap Sipper, Hydration, Gooey]
     egggroups:
     - [Dragon]
-    evolutions: [Goodra]
+    evolutions:
+    - [Goodra]
     height: [0.8]
     introduction: xy
     moves:

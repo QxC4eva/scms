@@ -6,7 +6,8 @@ pokemon:
       dp: [Pickup, Technician]
     egggroups:
     - [Ground]
-    evolutions: [Persian]
+    evolutions:
+    - [Persian]
     height: [0.4]
     introduction: rb
     moves:
@@ -75,7 +76,8 @@ pokemon:
       dp: [Limber, Technician]
     egggroups:
     - [Ground]
-    evolutions: []
+    evolutions:
+    - []
     height: [1]
     introduction: rb
     moves:

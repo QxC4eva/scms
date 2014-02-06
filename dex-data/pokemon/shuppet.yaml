@@ -6,7 +6,9 @@ pokemon:
     - bw: [Cursed Body, Frisk, Insomnia]
     egggroups:
     - [Indeterminate]
-    evolutions: [Banette-Mega]
+    evolutions:
+    - []
+    - xy: [Banette-Mega]
     height: [1.1]
     introduction: rs
     moves:
@@ -28,7 +30,8 @@ pokemon:
     - [Prankster]
     egggroups:
     - [Amorphous]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.2]
     introduction: xy
     moves:
@@ -47,7 +50,8 @@ pokemon:
     - bw: [Cursed Body, Frisk, Insomnia]
     egggroups:
     - [Indeterminate]
-    evolutions: [Banette]
+    evolutions:
+    - [Banette]
     height: [0.6]
     introduction: rs
     moves:

@@ -5,7 +5,8 @@ pokemon:
     - bw: [Aftermath, Soundproof, Static]
     egggroups:
     - [Mineral]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.2]
     introduction: rb
     moves:
@@ -30,7 +31,8 @@ pokemon:
     - bw: [Aftermath, Soundproof, Static]
     egggroups:
     - [Mineral]
-    evolutions: [Electrode]
+    evolutions:
+    - [Electrode]
     height: [0.5]
     introduction: rb
     moves:

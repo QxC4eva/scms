@@ -6,7 +6,8 @@ pokemon:
     - bw: [Forewarn, Inner Focus, Insomnia]
     egggroups:
     - [Humanshape]
-    evolutions: [Hypno]
+    evolutions:
+    - [Hypno]
     height: [1]
     introduction: rb
     moves:
@@ -80,7 +81,8 @@ pokemon:
     - bw: [Forewarn, Inner Focus, Insomnia]
     egggroups:
     - [Humanshape]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.6]
     introduction: rb
     moves:

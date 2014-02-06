@@ -5,7 +5,8 @@ pokemon:
     - bw: [Analytic, Illuminate, Natural Cure]
     egggroups:
     - [Water 3]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.1]
     introduction: rb
     moves:
@@ -35,7 +36,8 @@ pokemon:
     - bw: [Analytic, Illuminate, Natural Cure]
     egggroups:
     - [Water 3]
-    evolutions: [Starmie]
+    evolutions:
+    - [Starmie]
     height: [0.8]
     introduction: rb
     moves:

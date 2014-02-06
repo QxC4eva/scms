@@ -4,7 +4,8 @@ pokemon:
     - [Overgrow, Bulletproof]
     egggroups:
     - [Field]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.6]
     introduction: xy
     moves:
@@ -22,7 +23,8 @@ pokemon:
     - [Overgrow, Bulletproof]
     egggroups:
     - [Field]
-    evolutions: [Quilladin]
+    evolutions:
+    - [Quilladin]
     height: [0.4]
     introduction: xy
     moves:
@@ -47,7 +49,8 @@ pokemon:
     - [Overgrow, Bulletproof]
     egggroups:
     - [Field]
-    evolutions: [Chesnaught]
+    evolutions:
+    - [Chesnaught]
     height: [0.7]
     introduction: xy
     moves:

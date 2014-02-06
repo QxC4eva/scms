@@ -6,7 +6,9 @@ pokemon:
       xy: [Pressure, Frisk]
     egggroups:
     - [Indeterminate]
-    evolutions: [Dusknoir]
+    evolutions:
+    - []
+    - dp: [Dusknoir]
     height: [1.6]
     introduction: rs
     moves:
@@ -41,7 +43,8 @@ pokemon:
     - xy: [Pressure, Frisk]
     egggroups:
     - [Indeterminate]
-    evolutions: []
+    evolutions:
+    - []
     height: [2.2]
     introduction: dp
     moves:
@@ -63,7 +66,8 @@ pokemon:
       xy: [Levitate, Frisk]
     egggroups:
     - [Indeterminate]
-    evolutions: [Dusclops]
+    evolutions:
+    - [Dusclops]
     height: [0.8]
     introduction: rs
     moves:

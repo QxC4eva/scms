@@ -4,7 +4,8 @@ pokemon:
     - [Big Pecks, Overcoat, Weak Armor]
     egggroups:
     - [Flying]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.2]
     introduction: bw
     moves:
@@ -22,7 +23,8 @@ pokemon:
     - [Big Pecks, Overcoat, Weak Armor]
     egggroups:
     - [Flying]
-    evolutions: [Mandibuzz]
+    evolutions:
+    - [Mandibuzz]
     height: [0.5]
     introduction: bw
     moves:

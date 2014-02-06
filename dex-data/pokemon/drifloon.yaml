@@ -4,7 +4,8 @@ pokemon:
     - [Aftermath, Flare Boost, Unburden]
     egggroups:
     - [Indeterminate]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.2]
     introduction: dp
     moves:
@@ -23,7 +24,8 @@ pokemon:
     - [Aftermath, Flare Boost, Unburden]
     egggroups:
     - [Indeterminate]
-    evolutions: [Drifblim]
+    evolutions:
+    - [Drifblim]
     height: [0.4]
     introduction: dp
     moves:

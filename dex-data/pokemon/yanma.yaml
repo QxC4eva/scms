@@ -5,7 +5,9 @@ pokemon:
     - bw: [Compound Eyes, Frisk, Speed Boost]
     egggroups:
     - [Bug]
-    evolutions: [Yanmega]
+    evolutions:
+    - []
+    - dp: [Yanmega]
     height: [1.2]
     introduction: gs
     moves:
@@ -58,7 +60,8 @@ pokemon:
     - [Frisk, Speed Boost, Tinted Lens]
     egggroups:
     - [Bug]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.9]
     introduction: dp
     moves:

@@ -6,7 +6,8 @@ pokemon:
     - bw: [Damp, Sniper, Swift Swim]
     egggroups:
     - [Dragon, Water 1]
-    evolutions: [Seadra]
+    evolutions:
+    - [Seadra]
     height: [0.4]
     introduction: rb
     moves:
@@ -65,7 +66,8 @@ pokemon:
     - bw: [Damp, Sniper, Swift Swim]
     egggroups:
     - [Dragon, Water 1]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.8]
     introduction: gs
     moves:
@@ -91,7 +93,9 @@ pokemon:
     - bw: [Damp, Poison Point, Sniper]
     egggroups:
     - [Dragon, Water 1]
-    evolutions: [Kingdra]
+    evolutions:
+    - []
+    - gs: [Kingdra]
     height: [1.2]
     introduction: rb
     moves:

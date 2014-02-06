@@ -4,7 +4,8 @@ pokemon:
     - [Sand Force, Sand Stream]
     egggroups:
     - [Ground]
-    evolutions: [Hippowdon]
+    evolutions:
+    - [Hippowdon]
     height: [0.8]
     introduction: dp
     moves:
@@ -41,7 +42,8 @@ pokemon:
     - [Sand Force, Sand Stream]
     egggroups:
     - [Ground]
-    evolutions: []
+    evolutions:
+    - []
     height: [2]
     introduction: dp
     moves:

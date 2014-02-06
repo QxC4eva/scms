@@ -4,7 +4,8 @@ pokemon:
     - [Big Pecks, Rivalry, Super Luck]
     egggroups:
     - [Flying]
-    evolutions: [Tranquill]
+    evolutions:
+    - [Tranquill]
     height: [0.3]
     introduction: dp
     moves:
@@ -33,7 +34,8 @@ pokemon:
     - [Big Pecks, Rivalry, Super Luck]
     egggroups:
     - [Flying]
-    evolutions: [Unfezant]
+    evolutions:
+    - [Unfezant]
     height: [0.6]
     introduction: dp
     moves:
@@ -50,7 +52,8 @@ pokemon:
     - [Big Pecks, Rivalry, Super Luck]
     egggroups:
     - [Flying]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.2]
     introduction: dp
     moves:

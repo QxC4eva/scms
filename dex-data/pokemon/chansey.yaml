@@ -5,7 +5,8 @@ pokemon:
     - bw: [Healer, Natural Cure, Serene Grace]
     egggroups:
     - [Fairy]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.5]
     introduction: gs
     moves:
@@ -26,7 +27,9 @@ pokemon:
     - bw: [Healer, Natural Cure, Serene Grace]
     egggroups:
     - [Fairy]
-    evolutions: [Blissey]
+    evolutions:
+    - []
+    - gs: [Blissey]
     height: [1.1]
     introduction: rb
     moves:
@@ -94,7 +97,8 @@ pokemon:
     - [Friend Guard, Natural Cure, Serene Grace]
     egggroups:
     - []
-    evolutions: [Chansey]
+    evolutions:
+    - [Chansey]
     height: [0.6]
     introduction: dp
     moves:

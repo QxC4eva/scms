@@ -5,7 +5,8 @@ pokemon:
     - bw: [Chlorophyll, Early Bird, Pickpocket]
     egggroups:
     - [Ground, Plant]
-    evolutions: [Shiftry]
+    evolutions:
+    - [Shiftry]
     height: [1]
     introduction: rs
     moves:
@@ -37,7 +38,8 @@ pokemon:
     - bw: [Chlorophyll, Early Bird, Pickpocket]
     egggroups:
     - [Ground, Plant]
-    evolutions: [Nuzleaf]
+    evolutions:
+    - [Nuzleaf]
     height: [0.5]
     introduction: rs
     moves:
@@ -87,7 +89,8 @@ pokemon:
     - bw: [Chlorophyll, Early Bird, Pickpocket]
     egggroups:
     - [Ground, Plant]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.3]
     introduction: rs
     moves:

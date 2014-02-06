@@ -6,7 +6,9 @@ pokemon:
     - bw: [Hyper Cutter, Mold Breaker, Moxie]
     egggroups:
     - [Bug]
-    evolutions: [Pinsir-Mega]
+    evolutions:
+    - []
+    - xy: [Pinsir-Mega]
     height: [1.5]
     introduction: rb
     moves:
@@ -69,7 +71,8 @@ pokemon:
     - [Aerilate]
     egggroups:
     - [Bug]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.7]
     introduction: xy
     moves:

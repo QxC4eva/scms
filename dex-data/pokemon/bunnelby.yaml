@@ -4,7 +4,8 @@ pokemon:
     - [Pickup, Cheek Pouch, Huge Power]
     egggroups:
     - [Field]
-    evolutions: [Diggersby]
+    evolutions:
+    - [Diggersby]
     height: [0.4]
     introduction: xy
     moves:
@@ -28,7 +29,8 @@ pokemon:
     - [Pickup, Cheek Pouch, Huge Power]
     egggroups:
     - [Field]
-    evolutions: []
+    evolutions:
+    - []
     height: [0]
     introduction: xy
     moves:

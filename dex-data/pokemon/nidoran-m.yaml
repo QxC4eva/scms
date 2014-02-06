@@ -6,7 +6,8 @@ pokemon:
       dp: [Poison Point, Rivalry]
     egggroups:
     - [Ground, Monster]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.4]
     introduction: rb
     moves:
@@ -58,7 +59,8 @@ pokemon:
       dp: [Poison Point, Rivalry]
     egggroups:
     - [Ground, Monster]
-    evolutions: [Nidorino]
+    evolutions:
+    - [Nidorino]
     height: [0.5]
     introduction: rb
     moves:
@@ -123,7 +125,8 @@ pokemon:
       dp: [Poison Point, Rivalry]
     egggroups:
     - [Ground, Monster]
-    evolutions: [Nidoking]
+    evolutions:
+    - [Nidoking]
     height: [0.9]
     introduction: rb
     moves:

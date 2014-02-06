@@ -6,7 +6,8 @@ pokemon:
       dp: [Anger Point, Vital Spirit]
     egggroups:
     - [Ground]
-    evolutions: [Primeape]
+    evolutions:
+    - [Primeape]
     height: [0.5]
     introduction: rb
     moves:
@@ -85,7 +86,8 @@ pokemon:
       dp: [Anger Point, Vital Spirit]
     egggroups:
     - [Ground]
-    evolutions: []
+    evolutions:
+    - []
     height: [1]
     introduction: rb
     moves:

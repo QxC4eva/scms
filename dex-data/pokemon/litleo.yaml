@@ -4,7 +4,8 @@ pokemon:
     - [Rivalry, Unnerve, Moxie]
     egggroups:
     - [Field]
-    evolutions: [Pyroar]
+    evolutions:
+    - [Pyroar]
     height: [0.6]
     introduction: xy
     moves:
@@ -27,7 +28,8 @@ pokemon:
     - [Rivalry, Unnerve, Moxie]
     egggroups:
     - [Field]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.5]
     introduction: xy
     moves:

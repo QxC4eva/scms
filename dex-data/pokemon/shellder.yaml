@@ -6,7 +6,8 @@ pokemon:
       dp: [Shell Armor, Skill Link]
     egggroups:
     - [Water 3]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.5]
     introduction: rb
     moves:
@@ -36,7 +37,8 @@ pokemon:
       dp: [Shell Armor, Skill Link]
     egggroups:
     - [Water 3]
-    evolutions: [Cloyster]
+    evolutions:
+    - [Cloyster]
     height: [0.3]
     introduction: rb
     moves:

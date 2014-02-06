@@ -4,7 +4,8 @@ pokemon:
     - [Insomnia, Moxie, Super Luck]
     egggroups:
     - [Flying]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.9]
     introduction: dp
     moves:
@@ -26,7 +27,9 @@ pokemon:
     - bw: [Insomnia, Prankster, Super Luck]
     egggroups:
     - [Flying]
-    evolutions: [Honchkrow]
+    evolutions:
+    - []
+    - dp: [Honchkrow]
     height: [0.5]
     introduction: gs
     moves:

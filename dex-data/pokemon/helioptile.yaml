@@ -4,7 +4,8 @@ pokemon:
     - [Dry Skin, Sand Veil, Solar Power]
     egggroups:
     - [Monster, Dragon]
-    evolutions: []
+    evolutions:
+    - []
     height: [1]
     introduction: xy
     moves:
@@ -21,7 +22,8 @@ pokemon:
     - [Dry Skin, Sand Veil, Solar Power]
     egggroups:
     - [Monster, Dragon]
-    evolutions: [Heliolisk]
+    evolutions:
+    - [Heliolisk]
     height: [0.5]
     introduction: xy
     moves:

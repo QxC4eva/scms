@@ -4,7 +4,8 @@ pokemon:
     - [Effect Spore, Regenerator]
     egggroups:
     - [Plant]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.6]
     introduction: bw
     moves:
@@ -22,7 +23,8 @@ pokemon:
     - [Effect Spore, Regenerator]
     egggroups:
     - [Plant]
-    evolutions: [Amoonguss]
+    evolutions:
+    - [Amoonguss]
     height: [0.2]
     introduction: bw
     moves:

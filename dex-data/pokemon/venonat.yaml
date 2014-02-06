@@ -6,7 +6,8 @@ pokemon:
     - bw: [Shield Dust, Tinted Lens, Wonder Skin]
     egggroups:
     - [Bug]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.5]
     introduction: rb
     moves:
@@ -39,7 +40,8 @@ pokemon:
     - bw: [Compound Eyes, Run Away, Tinted Lens]
     egggroups:
     - [Bug]
-    evolutions: [Venomoth]
+    evolutions:
+    - [Venomoth]
     height: [1]
     introduction: rb
     moves:

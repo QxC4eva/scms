@@ -4,7 +4,8 @@ pokemon:
     - [Overgrow, Shell Armor]
     egggroups:
     - [Monster, Plant]
-    evolutions: [Torterra]
+    evolutions:
+    - [Torterra]
     height: [1.1]
     introduction: dp
     moves:
@@ -21,7 +22,8 @@ pokemon:
     - [Overgrow, Shell Armor]
     egggroups:
     - [Monster, Plant]
-    evolutions: []
+    evolutions:
+    - []
     height: [2.2]
     introduction: dp
     moves:
@@ -46,7 +48,8 @@ pokemon:
     - [Overgrow, Shell Armor]
     egggroups:
     - [Monster, Plant]
-    evolutions: [Grotle]
+    evolutions:
+    - [Grotle]
     height: [0.4]
     introduction: dp
     moves:

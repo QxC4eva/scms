@@ -4,7 +4,8 @@ pokemon:
     - [Klutz, Simple, Unaware]
     egggroups:
     - [Flying, Ground]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.9]
     introduction: bw
     moves:
@@ -22,7 +23,8 @@ pokemon:
     - [Klutz, Simple, Unaware]
     egggroups:
     - [Flying, Ground]
-    evolutions: [Swoobat]
+    evolutions:
+    - [Swoobat]
     height: [0.4]
     introduction: bw
     moves:

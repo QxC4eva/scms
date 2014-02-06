@@ -4,7 +4,8 @@ pokemon:
     - [Justified, Steadfast]
     egggroups:
     - [Indeterminate]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.6]
     introduction: dp
     moves:
@@ -38,7 +39,9 @@ pokemon:
     - bw: [Synchronize, Telepathy, Trace]
     egggroups:
     - [Indeterminate]
-    evolutions: [Gardevoir-Mega]
+    evolutions:
+    - []
+    - xy: [Gardevoir-Mega]
     height: [1.6]
     introduction: rs
     moves:
@@ -63,7 +66,8 @@ pokemon:
     - [Pixilate]
     egggroups:
     - [Amorphous]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.6]
     introduction: xy
     moves:
@@ -81,7 +85,9 @@ pokemon:
     - bw: [Synchronize, Telepathy, Trace]
     egggroups:
     - [Indeterminate]
-    evolutions: [Gardevoir, Gallade]
+    evolutions:
+    - [Gardevoir]
+    - dp: [Gallade]
     height: [0.8]
     introduction: rs
     moves:
@@ -103,7 +109,8 @@ pokemon:
     - bw: [Synchronize, Telepathy, Trace]
     egggroups:
     - [Indeterminate]
-    evolutions: [Kirlia]
+    evolutions:
+    - [Kirlia]
     height: [0.4]
     introduction: rs
     moves:

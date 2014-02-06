@@ -4,7 +4,9 @@ pokemon:
     - [Snow Warning, Soundproof]
     egggroups:
     - [Monster, Plant]
-    evolutions: [Abomasnow-Mega]
+    evolutions:
+    - []
+    - xy: [Abomasnow-Mega]
     height: [2.2]
     introduction: dp
     moves:
@@ -28,7 +30,8 @@ pokemon:
     - [Snow Warning]
     egggroups:
     - [Monster, Grass]
-    evolutions: []
+    evolutions:
+    - []
     height: [2.7]
     introduction: xy
     moves:
@@ -45,7 +48,8 @@ pokemon:
     - [Snow Warning, Soundproof]
     egggroups:
     - [Monster, Plant]
-    evolutions: [Abomasnow]
+    evolutions:
+    - [Abomasnow]
     height: [1]
     introduction: dp
     moves:

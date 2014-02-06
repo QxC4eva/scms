@@ -5,7 +5,8 @@ pokemon:
     - bw: [Overcoat, Sturdy]
     egggroups:
     - [Bug]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.2]
     introduction: gs
     moves:
@@ -31,7 +32,8 @@ pokemon:
     - bw: [Overcoat, Sturdy]
     egggroups:
     - [Bug]
-    evolutions: [Forretress]
+    evolutions:
+    - [Forretress]
     height: [0.6]
     introduction: gs
     moves:

@@ -5,7 +5,8 @@ pokemon:
     - bw: [Chlorophyll, Overgrow]
     egggroups:
     - [Monster, Plant]
-    evolutions: [Ivysaur]
+    evolutions:
+    - [Ivysaur]
     height: [0.7]
     introduction: rb
     moves:
@@ -70,7 +71,8 @@ pokemon:
     - bw: [Chlorophyll, Overgrow]
     egggroups:
     - [Monster, Plant]
-    evolutions: [Venusaur]
+    evolutions:
+    - [Venusaur]
     height: [1]
     introduction: rb
     moves:
@@ -89,7 +91,9 @@ pokemon:
     - bw: [Chlorophyll, Overgrow]
     egggroups:
     - [Monster, Plant]
-    evolutions: [Venusaur-Mega]
+    evolutions:
+    - []
+    - xy: [Venusaur-Mega]
     height: [2]
     introduction: rb
     moves:
@@ -118,7 +122,8 @@ pokemon:
     - [Thick Fat]
     egggroups:
     - [Monster, Grass]
-    evolutions: []
+    evolutions:
+    - []
     height: [2.4]
     introduction: xy
     moves:

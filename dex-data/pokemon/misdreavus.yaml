@@ -5,7 +5,9 @@ pokemon:
     - bw: [Levitate]
     egggroups:
     - [Indeterminate]
-    evolutions: [Mismagius]
+    evolutions:
+    - []
+    - dp: [Mismagius]
     height: [0.7]
     introduction: gs
     moves:
@@ -69,7 +71,8 @@ pokemon:
     - [Levitate]
     egggroups:
     - [Indeterminate]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.9]
     introduction: dp
     moves:

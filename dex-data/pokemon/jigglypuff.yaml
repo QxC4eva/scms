@@ -6,7 +6,8 @@ pokemon:
       xy: [Cute Charm, Friend Guard, Competitive]
     egggroups:
     - []
-    evolutions: [Jigglypuff]
+    evolutions:
+    - [Jigglypuff]
     height: [0.3]
     introduction: gs
     moves:
@@ -70,7 +71,8 @@ pokemon:
       xy: [Cute Charm, Friend Guard, Competitive]
     egggroups:
     - [Fairy]
-    evolutions: [Wigglytuff]
+    evolutions:
+    - [Wigglytuff]
     height: [0.5]
     introduction: rb
     moves:
@@ -113,7 +115,8 @@ pokemon:
       xy: [Cute Charm, Friend Guard, Competitive]
     egggroups:
     - [Fairy]
-    evolutions: []
+    evolutions:
+    - []
     height: [1]
     introduction: rb
     moves:

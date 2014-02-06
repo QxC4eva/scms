@@ -6,7 +6,9 @@ pokemon:
       dp: [Pressure, Super Luck]
     egggroups:
     - [Ground]
-    evolutions: [Absol-Mega]
+    evolutions:
+    - []
+    - xy: [Absol-Mega]
     height: [1.2]
     introduction: rs
     moves:
@@ -73,7 +75,8 @@ pokemon:
     - [Magic Bounce]
     egggroups:
     - [Field]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.2]
     introduction: xy
     moves:

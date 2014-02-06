@@ -5,7 +5,8 @@ pokemon:
     - bw: [Compound Eyes, Run Away]
     egggroups:
     - [Bug]
-    evolutions: [Ninjask, Shedinja]
+    evolutions:
+    - [Ninjask, Shedinja]
     height: [0.5]
     introduction: rs
     moves:
@@ -50,7 +51,8 @@ pokemon:
     - bw: [Infiltrator, Speed Boost]
     egggroups:
     - [Bug]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.8]
     introduction: rs
     moves:
@@ -79,7 +81,8 @@ pokemon:
     - bw: [Wonder Guard]
     egggroups:
     - [Mineral]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.8]
     introduction: rs
     moves:

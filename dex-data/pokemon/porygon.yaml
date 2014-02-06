@@ -5,7 +5,9 @@ pokemon:
     - bw: [Analytic, Download, Trace]
     egggroups:
     - [Mineral]
-    evolutions: [Porygon2]
+    evolutions:
+    - []
+    - gs: [Porygon2]
     height: [0.8]
     introduction: rb
     moves:
@@ -71,7 +73,8 @@ pokemon:
     - bw: [Adaptability, Analytic, Download]
     egggroups:
     - [Mineral]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.9]
     introduction: dp
     moves:
@@ -93,7 +96,9 @@ pokemon:
     - bw: [Analytic, Download, Trace]
     egggroups:
     - [Mineral]
-    evolutions: [Porygon-Z]
+    evolutions:
+    - []
+    - dp: [Porygon-Z]
     height: [0.6]
     introduction: gs
     moves:

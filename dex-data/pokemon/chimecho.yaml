@@ -5,7 +5,8 @@ pokemon:
     - bw: [Levitate]
     egggroups:
     - [Indeterminate]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.6]
     introduction: rs
     moves:
@@ -34,7 +35,8 @@ pokemon:
     - [Levitate]
     egggroups:
     - []
-    evolutions: [Chimecho]
+    evolutions:
+    - [Chimecho]
     height: [0.2]
     introduction: dp
     moves:

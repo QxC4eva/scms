@@ -4,7 +4,8 @@ pokemon:
     - [Cute Charm, Skill Link, Technician]
     egggroups:
     - [Ground]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.5]
     introduction: bw
     moves:
@@ -24,7 +25,8 @@ pokemon:
     - [Cute Charm, Skill Link, Technician]
     egggroups:
     - [Ground]
-    evolutions: [Cinccino]
+    evolutions:
+    - [Cinccino]
     height: [0.4]
     introduction: bw
     moves:

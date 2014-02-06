@@ -4,7 +4,8 @@ pokemon:
     - [Chlorophyll, Overcoat, Swarm]
     egggroups:
     - [Bug]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.2]
     introduction: bw
     moves:
@@ -28,7 +29,8 @@ pokemon:
     - [Chlorophyll, Overcoat, Swarm]
     egggroups:
     - [Bug]
-    evolutions: [Swadloon]
+    evolutions:
+    - [Swadloon]
     height: [0.3]
     introduction: bw
     moves:
@@ -59,7 +61,8 @@ pokemon:
     - [Chlorophyll, Leaf Guard, Overcoat]
     egggroups:
     - [Bug]
-    evolutions: [Leavanny]
+    evolutions:
+    - [Leavanny]
     height: [0.5]
     introduction: bw
     moves:

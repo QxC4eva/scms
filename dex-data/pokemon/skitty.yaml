@@ -6,7 +6,8 @@ pokemon:
       dp: [Cute Charm, Normalize]
     egggroups:
     - [Fairy, Ground]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.1]
     introduction: rs
     moves:
@@ -28,7 +29,8 @@ pokemon:
       dp: [Cute Charm, Normalize]
     egggroups:
     - [Fairy, Ground]
-    evolutions: [Delcatty]
+    evolutions:
+    - [Delcatty]
     height: [0.6]
     introduction: rs
     moves:

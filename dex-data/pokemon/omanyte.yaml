@@ -5,7 +5,8 @@ pokemon:
     - bw: [Shell Armor, Swift Swim, Weak Armor]
     egggroups:
     - [Water 1, Water 3]
-    evolutions: [Omastar]
+    evolutions:
+    - [Omastar]
     height: [0.4]
     introduction: rb
     moves:
@@ -67,7 +68,8 @@ pokemon:
     - bw: [Shell Armor, Swift Swim, Weak Armor]
     egggroups:
     - [Water 1, Water 3]
-    evolutions: []
+    evolutions:
+    - []
     height: [1]
     introduction: rb
     moves:

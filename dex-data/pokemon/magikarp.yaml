@@ -5,7 +5,9 @@ pokemon:
     - bw: [Intimidate, Moxie]
     egggroups:
     - [Dragon, Water 2]
-    evolutions: [Gyarados-Mega]
+    evolutions:
+    - []
+    - xy: [Gyarados-Mega]
     height: [6.5]
     introduction: rb
     moves:
@@ -65,7 +67,8 @@ pokemon:
     - [Mold Breaker]
     egggroups:
     - [Water 2, Dragon]
-    evolutions: []
+    evolutions:
+    - []
     height: [6.5]
     introduction: xy
     moves:
@@ -83,7 +86,8 @@ pokemon:
     - bw: [Rattled, Swift Swim]
     egggroups:
     - [Dragon, Water 2]
-    evolutions: [Gyarados]
+    evolutions:
+    - [Gyarados]
     height: [0.9]
     introduction: rb
     moves:

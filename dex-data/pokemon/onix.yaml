@@ -5,7 +5,9 @@ pokemon:
     - bw: [Rock Head, Sturdy, Weak Armor]
     egggroups:
     - [Mineral]
-    evolutions: [Steelix]
+    evolutions:
+    - []
+    - gs: [Steelix]
     height: [8.8]
     introduction: rb
     moves:
@@ -66,7 +68,8 @@ pokemon:
     - bw: [Rock Head, Sheer Force, Sturdy]
     egggroups:
     - [Mineral]
-    evolutions: []
+    evolutions:
+    - []
     height: [9.2]
     introduction: gs
     moves:

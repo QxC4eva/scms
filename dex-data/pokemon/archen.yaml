@@ -4,7 +4,8 @@ pokemon:
     - [Defeatist]
     egggroups:
     - [Flying, Water 3]
-    evolutions: [Archeops]
+    evolutions:
+    - [Archeops]
     height: [0.5]
     introduction: bw
     moves:
@@ -39,7 +40,8 @@ pokemon:
     - [Defeatist]
     egggroups:
     - [Flying, Water 3]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.4]
     introduction: bw
     moves:

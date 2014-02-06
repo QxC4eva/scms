@@ -5,7 +5,8 @@ pokemon:
     - bw: [Chlorophyll, Healer]
     egggroups:
     - [Plant]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.4]
     introduction: gs
     moves:
@@ -32,7 +33,9 @@ pokemon:
     - bw: [Chlorophyll, Stench]
     egggroups:
     - [Plant]
-    evolutions: [Vileplume, Bellossom]
+    evolutions:
+    - [Vileplume]
+    - gs: [Bellossom]
     height: [0.8]
     introduction: rb
     moves:
@@ -56,7 +59,8 @@ pokemon:
     - bw: [Chlorophyll, Run Away]
     egggroups:
     - [Plant]
-    evolutions: [Gloom]
+    evolutions:
+    - [Gloom]
     height: [0.5]
     introduction: rb
     moves:
@@ -114,7 +118,8 @@ pokemon:
     - bw: [Chlorophyll, Effect Spore]
     egggroups:
     - [Plant]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.2]
     introduction: rb
     moves:

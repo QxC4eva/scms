@@ -4,7 +4,8 @@ pokemon:
     - [Stance Change]
     egggroups:
     - [Mineral]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.7]
     introduction: xy
     moves:
@@ -22,7 +23,8 @@ pokemon:
     - [No Guard]
     egggroups:
     - [Mineral]
-    evolutions: [Aegislash]
+    evolutions:
+    - [Aegislash]
     height: [0.8]
     introduction: xy
     moves:
@@ -39,7 +41,8 @@ pokemon:
     - [No Guard]
     egggroups:
     - [Mineral]
-    evolutions: [Doublade]
+    evolutions:
+    - [Doublade]
     height: [0.8]
     introduction: xy
     moves:

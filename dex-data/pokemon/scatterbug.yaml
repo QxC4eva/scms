@@ -4,7 +4,8 @@ pokemon:
     - [Shield Dust, Compound Eyes, Friend Guard]
     egggroups:
     - [Bug]
-    evolutions: [Spewpa]
+    evolutions:
+    - [Spewpa]
     height: [0.3]
     introduction: xy
     moves:
@@ -21,7 +22,8 @@ pokemon:
     - [Shed Skin, Friend Guard]
     egggroups:
     - [Bug]
-    evolutions: [Vivillon]
+    evolutions:
+    - [Vivillon]
     height: [0.3]
     introduction: xy
     moves:
@@ -38,7 +40,8 @@ pokemon:
     - [Shield Dust, Compound Eyes, Friend Guard]
     egggroups:
     - [Bug]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.2]
     introduction: xy
     moves:

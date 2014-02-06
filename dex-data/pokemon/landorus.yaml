@@ -4,7 +4,8 @@ pokemon:
     - [Sand Force, Sheer Force]
     egggroups:
     - []
-    evolutions: [Landorus-Therian]
+    evolutions:
+    - [Landorus-Therian]
     height: [1.5]
     introduction: bw
     moves:
@@ -36,7 +37,8 @@ pokemon:
     - [Intimidate]
     egggroups:
     - []
-    evolutions: []
+    evolutions:
+    - []
     height: [1.3]
     introduction: bw
     moves:

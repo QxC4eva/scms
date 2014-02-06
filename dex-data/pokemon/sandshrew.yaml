@@ -5,7 +5,8 @@ pokemon:
     - bw: [Sand Rush, Sand Veil]
     egggroups:
     - [Ground]
-    evolutions: [Sandslash]
+    evolutions:
+    - [Sandslash]
     height: [0.6]
     introduction: rb
     moves:
@@ -73,7 +74,8 @@ pokemon:
     - bw: [Sand Rush, Sand Veil]
     egggroups:
     - [Ground]
-    evolutions: []
+    evolutions:
+    - []
     height: [1]
     introduction: rb
     moves:

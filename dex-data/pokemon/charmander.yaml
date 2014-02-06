@@ -5,7 +5,8 @@ pokemon:
     - bw: [Blaze, Solar Power]
     egggroups:
     - [Dragon, Monster]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.7]
     introduction: rb
     moves:
@@ -38,7 +39,8 @@ pokemon:
     - bw: [Blaze, Solar Power]
     egggroups:
     - [Dragon, Monster]
-    evolutions: [Charmeleon]
+    evolutions:
+    - [Charmeleon]
     height: [0.6]
     introduction: rb
     moves:
@@ -110,7 +112,8 @@ pokemon:
     - bw: [Blaze, Solar Power]
     egggroups:
     - [Dragon, Monster]
-    evolutions: [Charizard]
+    evolutions:
+    - [Charizard]
     height: [1.1]
     introduction: rb
     moves:

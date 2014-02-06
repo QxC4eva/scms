@@ -5,7 +5,8 @@ pokemon:
     - bw: [Poison Touch, Stench, Sticky Hold]
     egggroups:
     - [Indeterminate]
-    evolutions: [Muk]
+    evolutions:
+    - [Muk]
     height: [0.9]
     introduction: rb
     moves:
@@ -72,7 +73,8 @@ pokemon:
     - bw: [Poison Touch, Stench, Sticky Hold]
     egggroups:
     - [Indeterminate]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.2]
     introduction: rb
     moves:

@@ -5,7 +5,8 @@ pokemon:
     - bw: [Lightningrod, Swift Swim, Water Veil]
     egggroups:
     - [Water 2]
-    evolutions: [Seaking]
+    evolutions:
+    - [Seaking]
     height: [0.6]
     introduction: rb
     moves:
@@ -59,7 +60,8 @@ pokemon:
     - bw: [Lightningrod, Swift Swim, Water Veil]
     egggroups:
     - [Water 2]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.3]
     introduction: rb
     moves:

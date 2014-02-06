@@ -4,7 +4,8 @@ pokemon:
     - [Heatproof, Heavy Metal, Levitate]
     egggroups:
     - [Mineral]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.3]
     introduction: dp
     moves:
@@ -27,7 +28,8 @@ pokemon:
     - [Heatproof, Heavy Metal, Levitate]
     egggroups:
     - [Mineral]
-    evolutions: [Bronzong]
+    evolutions:
+    - [Bronzong]
     height: [0.5]
     introduction: dp
     moves:

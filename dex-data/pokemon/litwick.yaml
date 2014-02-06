@@ -5,7 +5,8 @@ pokemon:
     - xy: [Flame Body, Flash Fire, Infiltrator]
     egggroups:
     - [Indeterminate]
-    evolutions: []
+    evolutions:
+    - []
     height: [1]
     introduction: bw
     moves:
@@ -24,7 +25,8 @@ pokemon:
     - xy: [Flame Body, Flash Fire, Infiltrator]
     egggroups:
     - [Indeterminate]
-    evolutions: [Chandelure]
+    evolutions:
+    - [Chandelure]
     height: [0.6]
     introduction: bw
     moves:
@@ -42,7 +44,8 @@ pokemon:
     - xy: [Flame Body, Flash Fire, Infiltrator]
     egggroups:
     - [Indeterminate]
-    evolutions: [Lampent]
+    evolutions:
+    - [Lampent]
     height: [0.3]
     introduction: bw
     moves:

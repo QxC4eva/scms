@@ -4,7 +4,8 @@ pokemon:
     - [Snow Cloak, Swift Swim]
     egggroups:
     - [Ground]
-    evolutions: []
+    evolutions:
+    - []
     height: [2.6]
     introduction: bw
     moves:
@@ -24,7 +25,8 @@ pokemon:
     - [Rattled, Snow Cloak]
     egggroups:
     - [Ground]
-    evolutions: [Beartic]
+    evolutions:
+    - [Beartic]
     height: [0.5]
     introduction: bw
     moves:

@@ -5,7 +5,8 @@ pokemon:
     - bw: [Arena Trap, Sand Force, Sand Veil]
     egggroups:
     - [Ground]
-    evolutions: [Dugtrio]
+    evolutions:
+    - [Dugtrio]
     height: [0.2]
     introduction: rb
     moves:
@@ -61,7 +62,8 @@ pokemon:
     - bw: [Arena Trap, Sand Force, Sand Veil]
     egggroups:
     - [Ground]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.7]
     introduction: rb
     moves:

@@ -5,7 +5,9 @@ pokemon:
     - bw: [Pickup, Run Away, Skill Link]
     egggroups:
     - [Ground]
-    evolutions: [Ambipom]
+    evolutions:
+    - []
+    - dp: [Ambipom]
     height: [0.8]
     introduction: gs
     moves:
@@ -76,7 +78,8 @@ pokemon:
     - [Pickup, Skill Link, Technician]
     egggroups:
     - [Ground]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.2]
     introduction: dp
     moves:

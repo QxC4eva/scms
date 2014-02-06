@@ -5,7 +5,8 @@ pokemon:
     - bw: [Lightningrod, Static]
     egggroups:
     - []
-    evolutions: [Pikachu]
+    evolutions:
+    - [Pikachu]
     height: [0.3]
     introduction: gs
     moves:
@@ -63,7 +64,8 @@ pokemon:
     - bw: [Lightningrod, Static]
     egggroups:
     - [Fairy, Ground]
-    evolutions: [Raichu]
+    evolutions:
+    - [Raichu]
     height: [0.4]
     introduction: rb
     moves:
@@ -105,7 +107,8 @@ pokemon:
     - bw: [Lightningrod, Static]
     egggroups:
     - [Fairy, Ground]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.8]
     introduction: rb
     moves:

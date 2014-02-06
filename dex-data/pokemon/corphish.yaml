@@ -5,7 +5,8 @@ pokemon:
     - bw: [Adaptability, Hyper Cutter, Shell Armor]
     egggroups:
     - [Water 1, Water 3]
-    evolutions: [Crawdaunt]
+    evolutions:
+    - [Crawdaunt]
     height: [0.6]
     introduction: rs
     moves:
@@ -58,7 +59,8 @@ pokemon:
     - bw: [Adaptability, Hyper Cutter, Shell Armor]
     egggroups:
     - [Water 1, Water 3]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.1]
     introduction: rs
     moves:

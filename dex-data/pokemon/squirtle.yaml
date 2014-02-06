@@ -5,7 +5,9 @@ pokemon:
     - bw: [Rain Dish, Torrent]
     egggroups:
     - [Monster, Water 1]
-    evolutions: [Blastoise-Mega]
+    evolutions:
+    - []
+    - xy: [Blastoise-Mega]
     height: [1.6]
     introduction: rb
     moves:
@@ -32,7 +34,8 @@ pokemon:
     - [Mega Launcher]
     egggroups:
     - [Monster, Water 1]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.6]
     introduction: xy
     moves:
@@ -50,7 +53,8 @@ pokemon:
     - bw: [Rain Dish, Torrent]
     egggroups:
     - [Monster, Water 1]
-    evolutions: [Wartortle]
+    evolutions:
+    - [Wartortle]
     height: [0.5]
     introduction: rb
     moves:
@@ -119,7 +123,8 @@ pokemon:
     - bw: [Rain Dish, Torrent]
     egggroups:
     - [Monster, Water 1]
-    evolutions: [Blastoise]
+    evolutions:
+    - [Blastoise]
     height: [1]
     introduction: rb
     moves:

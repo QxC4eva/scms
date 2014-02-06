@@ -4,7 +4,8 @@ pokemon:
     - [Intimidate, Sand Rush, Scrappy]
     egggroups:
     - [Ground]
-    evolutions: [Stoutland]
+    evolutions:
+    - [Stoutland]
     height: [0.9]
     introduction: dp
     moves:
@@ -23,7 +24,8 @@ pokemon:
     - [Pickup, Run Away, Vital Spirit]
     egggroups:
     - [Ground]
-    evolutions: [Herdier]
+    evolutions:
+    - [Herdier]
     height: [0.4]
     introduction: dp
     moves:
@@ -55,7 +57,8 @@ pokemon:
     - [Intimidate, Sand Rush, Scrappy]
     egggroups:
     - [Ground]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.2]
     introduction: dp
     moves:

@@ -5,7 +5,8 @@ pokemon:
     - bw: [Sniper, Swarm]
     egggroups:
     - [Bug]
-    evolutions: []
+    evolutions:
+    - []
     height: [1]
     introduction: rb
     moves:
@@ -62,7 +63,8 @@ pokemon:
     - [Shed Skin]
     egggroups:
     - [Bug]
-    evolutions: [Beedrill]
+    evolutions:
+    - [Beedrill]
     height: [0.6]
     introduction: rb
     moves:
@@ -86,7 +88,8 @@ pokemon:
     - bw: [Run Away, Shield Dust]
     egggroups:
     - [Bug]
-    evolutions: [Kakuna]
+    evolutions:
+    - [Kakuna]
     height: [0.3]
     introduction: rb
     moves:

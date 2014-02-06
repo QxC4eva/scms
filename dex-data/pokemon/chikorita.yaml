@@ -5,7 +5,8 @@ pokemon:
     - bw: [Leaf Guard, Overgrow]
     egggroups:
     - [Monster, Plant]
-    evolutions: [Meganium]
+    evolutions:
+    - [Meganium]
     height: [1.2]
     introduction: gs
     moves:
@@ -27,7 +28,8 @@ pokemon:
     - bw: [Leaf Guard, Overgrow]
     egggroups:
     - [Monster, Plant]
-    evolutions: [Bayleef]
+    evolutions:
+    - [Bayleef]
     height: [0.9]
     introduction: gs
     moves:
@@ -83,7 +85,8 @@ pokemon:
     - bw: [Leaf Guard, Overgrow]
     egggroups:
     - [Monster, Plant]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.8]
     introduction: gs
     moves:

@@ -4,7 +4,8 @@ pokemon:
     - [Limber, Prankster, Unburden]
     egggroups:
     - [Ground]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.1]
     introduction: dp
     moves:
@@ -23,7 +24,8 @@ pokemon:
     - [Limber, Prankster, Unburden]
     egggroups:
     - [Ground]
-    evolutions: [Liepard]
+    evolutions:
+    - [Liepard]
     height: [0.4]
     introduction: dp
     moves:

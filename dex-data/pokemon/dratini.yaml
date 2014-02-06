@@ -5,7 +5,8 @@ pokemon:
     - bw: [Marvel Scale, Shed Skin]
     egggroups:
     - [Dragon, Water 1]
-    evolutions: [Dragonite]
+    evolutions:
+    - [Dragonite]
     height: [4]
     introduction: rb
     moves:
@@ -26,7 +27,8 @@ pokemon:
     - bw: [Inner Focus, Multiscale]
     egggroups:
     - [Dragon, Water 1]
-    evolutions: []
+    evolutions:
+    - []
     height: [2.2]
     introduction: rb
     moves:
@@ -69,7 +71,8 @@ pokemon:
     - bw: [Marvel Scale, Shed Skin]
     egggroups:
     - [Dragon, Water 1]
-    evolutions: [Dragonair]
+    evolutions:
+    - [Dragonair]
     height: [1.8]
     introduction: rb
     moves:

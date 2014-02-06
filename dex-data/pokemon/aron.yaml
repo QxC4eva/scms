@@ -5,7 +5,9 @@ pokemon:
     - bw: [Heavy Metal, Rock Head, Sturdy]
     egggroups:
     - [Monster]
-    evolutions: [Aggron-Mega]
+    evolutions:
+    - []
+    - xy: [Aggron-Mega]
     height: [2.1]
     introduction: rs
     moves:
@@ -43,7 +45,8 @@ pokemon:
     - [Filter]
     egggroups:
     - [Monster]
-    evolutions: []
+    evolutions:
+    - []
     height: [2.2]
     introduction: xy
     moves:
@@ -61,7 +64,8 @@ pokemon:
     - bw: [Heavy Metal, Rock Head, Sturdy]
     egggroups:
     - [Monster]
-    evolutions: [Lairon]
+    evolutions:
+    - [Lairon]
     height: [0.4]
     introduction: rs
     moves:
@@ -114,7 +118,8 @@ pokemon:
     - bw: [Heavy Metal, Rock Head, Sturdy]
     egggroups:
     - [Monster]
-    evolutions: [Aggron]
+    evolutions:
+    - [Aggron]
     height: [0.9]
     introduction: rs
     moves:

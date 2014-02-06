@@ -6,7 +6,8 @@ pokemon:
     - bw: [Anticipation, Hydration, Oblivious]
     egggroups:
     - [Water 2]
-    evolutions: [Whiscash]
+    evolutions:
+    - [Whiscash]
     height: [0.4]
     introduction: rs
     moves:
@@ -53,7 +54,8 @@ pokemon:
     - bw: [Anticipation, Hydration, Oblivious]
     egggroups:
     - [Water 2]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.9]
     introduction: rs
     moves:

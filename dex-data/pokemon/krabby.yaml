@@ -5,7 +5,8 @@ pokemon:
     - bw: [Hyper Cutter, Sheer Force, Shell Armor]
     egggroups:
     - [Water 3]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.3]
     introduction: rb
     moves:
@@ -31,7 +32,8 @@ pokemon:
     - bw: [Hyper Cutter, Sheer Force, Shell Armor]
     egggroups:
     - [Water 3]
-    evolutions: [Kingler]
+    evolutions:
+    - [Kingler]
     height: [0.4]
     introduction: rb
     moves:

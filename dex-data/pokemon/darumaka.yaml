@@ -4,7 +4,8 @@ pokemon:
     - [Sheer Force, Zen Mode]
     egggroups:
     - [Ground]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.3]
     introduction: bw
     moves:
@@ -24,7 +25,8 @@ pokemon:
     - [Hustle, Inner Focus]
     egggroups:
     - [Ground]
-    evolutions: [Darmanitan]
+    evolutions:
+    - [Darmanitan]
     height: [0.6]
     introduction: bw
     moves:

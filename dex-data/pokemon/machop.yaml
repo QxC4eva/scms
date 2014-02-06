@@ -6,7 +6,8 @@ pokemon:
       dp: [Guts, No Guard]
     egggroups:
     - [Humanshape]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.6]
     introduction: rb
     moves:
@@ -36,7 +37,8 @@ pokemon:
       dp: [Guts, No Guard]
     egggroups:
     - [Humanshape]
-    evolutions: [Machamp]
+    evolutions:
+    - [Machamp]
     height: [1.5]
     introduction: rb
     moves:
@@ -62,7 +64,8 @@ pokemon:
       dp: [Guts, No Guard]
     egggroups:
     - [Humanshape]
-    evolutions: [Machoke]
+    evolutions:
+    - [Machoke]
     height: [0.8]
     introduction: rb
     moves:

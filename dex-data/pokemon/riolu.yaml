@@ -4,7 +4,9 @@ pokemon:
     - [Inner Focus, Justified, Steadfast]
     egggroups:
     - [Ground, Humanshape]
-    evolutions: [Lucario-Mega]
+    evolutions:
+    - []
+    - xy: [Lucario-Mega]
     height: [1.2]
     introduction: dp
     moves:
@@ -31,7 +33,8 @@ pokemon:
     - [Adaptability]
     egggroups:
     - [Field, Human-Like]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.3]
     introduction: xy
     moves:
@@ -48,7 +51,8 @@ pokemon:
     - [Inner Focus, Prankster, Steadfast]
     egggroups:
     - []
-    evolutions: [Lucario]
+    evolutions:
+    - [Lucario]
     height: [0.7]
     introduction: dp
     moves:

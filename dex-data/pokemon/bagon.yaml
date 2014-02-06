@@ -5,7 +5,8 @@ pokemon:
     - bw: [Rock Head, Sheer Force]
     egggroups:
     - [Dragon]
-    evolutions: [Shelgon]
+    evolutions:
+    - [Shelgon]
     height: [0.6]
     introduction: rs
     moves:
@@ -56,7 +57,8 @@ pokemon:
     - bw: [Intimidate, Moxie]
     egggroups:
     - [Dragon]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.5]
     introduction: rs
     moves:
@@ -87,7 +89,8 @@ pokemon:
     - bw: [Overcoat, Rock Head]
     egggroups:
     - [Dragon]
-    evolutions: [Salamence]
+    evolutions:
+    - [Salamence]
     height: [1.1]
     introduction: rs
     moves:

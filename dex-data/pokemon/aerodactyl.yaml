@@ -5,7 +5,9 @@ pokemon:
     - bw: [Pressure, Rock Head, Unnerve]
     egggroups:
     - [Flying]
-    evolutions: [Aerodactyl-Mega]
+    evolutions:
+    - []
+    - xy: [Aerodactyl-Mega]
     height: [1.8]
     introduction: rb
     moves:
@@ -73,7 +75,8 @@ pokemon:
     - [Tough Claws]
     egggroups:
     - [Flying]
-    evolutions: []
+    evolutions:
+    - []
     height: [2.1]
     introduction: xy
     moves:

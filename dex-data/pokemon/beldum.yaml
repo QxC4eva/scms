@@ -5,7 +5,8 @@ pokemon:
     - bw: [Clear Body, Light Metal]
     egggroups:
     - [Mineral]
-    evolutions: [Metang]
+    evolutions:
+    - [Metang]
     height: [0.6]
     introduction: rs
     moves:
@@ -27,7 +28,8 @@ pokemon:
     - bw: [Clear Body, Light Metal]
     egggroups:
     - [Mineral]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.6]
     introduction: rs
     moves:
@@ -50,7 +52,8 @@ pokemon:
     - bw: [Clear Body, Light Metal]
     egggroups:
     - [Mineral]
-    evolutions: [Metagross]
+    evolutions:
+    - [Metagross]
     height: [1.2]
     introduction: rs
     moves:

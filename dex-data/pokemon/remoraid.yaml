@@ -6,7 +6,8 @@ pokemon:
       dp: [Sniper, Suction Cups]
     egggroups:
     - [Water 1, Water 2]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.9]
     introduction: gs
     moves:
@@ -34,7 +35,8 @@ pokemon:
       dp: [Hustle, Sniper]
     egggroups:
     - [Water 1, Water 2]
-    evolutions: [Octillery]
+    evolutions:
+    - [Octillery]
     height: [0.6]
     introduction: gs
     moves:

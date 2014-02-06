@@ -5,7 +5,8 @@ pokemon:
     - bw: [Early Bird, Iron Fist, Swarm]
     egggroups:
     - [Bug]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.4]
     introduction: gs
     moves:
@@ -28,7 +29,8 @@ pokemon:
     - bw: [Early Bird, Rattled, Swarm]
     egggroups:
     - [Bug]
-    evolutions: [Ledian]
+    evolutions:
+    - [Ledian]
     height: [1]
     introduction: gs
     moves:

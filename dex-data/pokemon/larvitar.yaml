@@ -5,7 +5,8 @@ pokemon:
     - bw: [Guts, Sand Veil]
     egggroups:
     - [Monster]
-    evolutions: [Pupitar]
+    evolutions:
+    - [Pupitar]
     height: [0.6]
     introduction: gs
     moves:
@@ -59,7 +60,8 @@ pokemon:
     - [Shed Skin]
     egggroups:
     - [Monster]
-    evolutions: [Tyranitar]
+    evolutions:
+    - [Tyranitar]
     height: [1.2]
     introduction: gs
     moves:
@@ -81,7 +83,9 @@ pokemon:
     - bw: [Sand Stream, Unnerve]
     egggroups:
     - [Monster]
-    evolutions: [Tyranitar-Mega]
+    evolutions:
+    - []
+    - xy: [Tyranitar-Mega]
     height: [2]
     introduction: gs
     moves:
@@ -124,7 +128,8 @@ pokemon:
     - [Sand Stream]
     egggroups:
     - [Monster]
-    evolutions: []
+    evolutions:
+    - []
     height: [2.5]
     introduction: xy
     moves:

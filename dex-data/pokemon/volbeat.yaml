@@ -5,7 +5,8 @@ pokemon:
     - bw: [Illuminate, Prankster, Swarm]
     egggroups:
     - [Bug, Humanshape]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.7]
     introduction: rs
     moves:

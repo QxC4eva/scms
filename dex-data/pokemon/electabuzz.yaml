@@ -5,7 +5,9 @@ pokemon:
     - bw: [Static, Vital Spirit]
     egggroups:
     - [Humanshape]
-    evolutions: [Electivire]
+    evolutions:
+    - []
+    - dp: [Electivire]
     height: [1.1]
     introduction: rb
     moves:
@@ -37,7 +39,8 @@ pokemon:
     - [Motor Drive, Vital Spirit]
     egggroups:
     - [Humanshape]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.8]
     introduction: dp
     moves:
@@ -60,7 +63,8 @@ pokemon:
     - bw: [Static, Vital Spirit]
     egggroups:
     - []
-    evolutions: [Electabuzz]
+    evolutions:
+    - [Electabuzz]
     height: [0.6]
     introduction: gs
     moves:

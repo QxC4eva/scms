@@ -6,7 +6,8 @@ pokemon:
     - bw: [Poison Point, Rivalry, Sheer Force]
     egggroups:
     - []
-    evolutions: []
+    evolutions:
+    - []
     height: [1.3]
     introduction: rb
     moves:
@@ -57,7 +58,8 @@ pokemon:
     - bw: [Hustle, Poison Point, Rivalry]
     egggroups:
     - [Ground, Monster]
-    evolutions: [Nidorina]
+    evolutions:
+    - [Nidorina]
     height: [0.4]
     introduction: rb
     moves:
@@ -123,7 +125,8 @@ pokemon:
     - bw: [Hustle, Poison Point, Rivalry]
     egggroups:
     - []
-    evolutions: [Nidoqueen]
+    evolutions:
+    - [Nidoqueen]
     height: [0.8]
     introduction: rb
     moves:

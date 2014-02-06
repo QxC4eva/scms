@@ -5,7 +5,8 @@ pokemon:
     - bw: [Levitate]
     egggroups:
     - [Bug]
-    evolutions: []
+    evolutions:
+    - []
     height: [2]
     introduction: rs
     moves:
@@ -33,7 +34,8 @@ pokemon:
     - bw: [Arena Trap, Hyper Cutter, Sheer Force]
     egggroups:
     - [Bug]
-    evolutions: [Vibrava]
+    evolutions:
+    - [Vibrava]
     height: [0.7]
     introduction: rs
     moves:
@@ -79,7 +81,8 @@ pokemon:
     - bw: [Levitate]
     egggroups:
     - [Bug]
-    evolutions: [Flygon]
+    evolutions:
+    - [Flygon]
     height: [1.1]
     introduction: rs
     moves:

@@ -5,7 +5,8 @@ pokemon:
     - bw: [Levitate]
     egggroups:
     - [Indeterminate]
-    evolutions: [Weezing]
+    evolutions:
+    - [Weezing]
     height: [0.6]
     introduction: rb
     moves:
@@ -63,7 +64,8 @@ pokemon:
     - bw: [Levitate]
     egggroups:
     - [Indeterminate]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.2]
     introduction: rb
     moves:

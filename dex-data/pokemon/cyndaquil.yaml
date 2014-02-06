@@ -5,7 +5,8 @@ pokemon:
     - bw: [Blaze, Flash Fire]
     egggroups:
     - [Ground]
-    evolutions: [Quilava]
+    evolutions:
+    - [Quilava]
     height: [0.5]
     introduction: gs
     moves:
@@ -57,7 +58,8 @@ pokemon:
     - bw: [Blaze, Flash Fire]
     egggroups:
     - [Ground]
-    evolutions: [Typhlosion]
+    evolutions:
+    - [Typhlosion]
     height: [0.9]
     introduction: gs
     moves:
@@ -79,7 +81,8 @@ pokemon:
     - bw: [Blaze, Flash Fire]
     egggroups:
     - [Ground]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.7]
     introduction: gs
     moves:

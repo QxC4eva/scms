@@ -4,7 +4,8 @@ pokemon:
     - [Blaze, Iron Fist]
     egggroups:
     - [Ground, Humanshape]
-    evolutions: [Monferno]
+    evolutions:
+    - [Monferno]
     height: [0.5]
     introduction: dp
     moves:
@@ -52,7 +53,8 @@ pokemon:
     - [Blaze, Iron Fist]
     egggroups:
     - [Ground, Humanshape]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.2]
     introduction: dp
     moves:
@@ -74,7 +76,8 @@ pokemon:
     - [Blaze, Iron Fist]
     egggroups:
     - [Ground, Humanshape]
-    evolutions: [Infernape]
+    evolutions:
+    - [Infernape]
     height: [0.9]
     introduction: dp
     moves:

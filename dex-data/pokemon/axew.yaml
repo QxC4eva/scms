@@ -4,7 +4,8 @@ pokemon:
     - [Mold Breaker, Rivalry, Unnerve]
     egggroups:
     - [Dragon, Monster]
-    evolutions: [Fraxure]
+    evolutions:
+    - [Fraxure]
     height: [0.6]
     introduction: bw
     moves:
@@ -36,7 +37,8 @@ pokemon:
     - [Mold Breaker, Rivalry, Unnerve]
     egggroups:
     - [Dragon, Monster]
-    evolutions: [Haxorus]
+    evolutions:
+    - [Haxorus]
     height: [1]
     introduction: bw
     moves:
@@ -54,7 +56,8 @@ pokemon:
     - [Mold Breaker, Rivalry, Unnerve]
     egggroups:
     - [Dragon, Monster]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.8]
     introduction: bw
     moves:

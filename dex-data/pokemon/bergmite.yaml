@@ -4,7 +4,8 @@ pokemon:
     - [Own Tempo, Ice Body, Sturdy]
     egggroups:
     - [Monster]
-    evolutions: []
+    evolutions:
+    - []
     height: [2]
     introduction: xy
     moves:
@@ -22,7 +23,8 @@ pokemon:
     - [Own Tempo, Ice Body, Sturdy]
     egggroups:
     - [Monster]
-    evolutions: [Avalugg]
+    evolutions:
+    - [Avalugg]
     height: [1]
     introduction: xy
     moves:

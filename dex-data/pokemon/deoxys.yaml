@@ -5,7 +5,8 @@ pokemon:
     - bw: [Pressure]
     egggroups:
     - []
-    evolutions: [Deoxys-Attack, Deoxys-Defense, Deoxys-Speed]
+    evolutions:
+    - [Deoxys-Attack, Deoxys-Defense, Deoxys-Speed]
     height: [1.7]
     introduction: rs
     moves:
@@ -73,7 +74,8 @@ pokemon:
     - bw: [Pressure]
     egggroups:
     - []
-    evolutions: []
+    evolutions:
+    - []
     height: [1.7]
     introduction: rs
     moves:
@@ -91,7 +93,8 @@ pokemon:
     - bw: [Pressure]
     egggroups:
     - []
-    evolutions: []
+    evolutions:
+    - []
     height: [1.7]
     introduction: rs
     moves:
@@ -109,7 +112,8 @@ pokemon:
     - bw: [Pressure]
     egggroups:
     - []
-    evolutions: []
+    evolutions:
+    - []
     height: [1.7]
     introduction: rs
     moves:

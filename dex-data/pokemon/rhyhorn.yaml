@@ -5,7 +5,9 @@ pokemon:
     - bw: [Lightningrod, Reckless, Rock Head]
     egggroups:
     - [Ground, Monster]
-    evolutions: [Rhyperior]
+    evolutions:
+    - []
+    - dp: [Rhyperior]
     height: [1.9]
     introduction: rb
     moves:
@@ -44,7 +46,8 @@ pokemon:
     - bw: [Lightningrod, Reckless, Rock Head]
     egggroups:
     - [Ground, Monster]
-    evolutions: [Rhydon]
+    evolutions:
+    - [Rhydon]
     height: [1]
     introduction: rb
     moves:
@@ -117,7 +120,8 @@ pokemon:
     - [Lightningrod, Reckless, Solid Rock]
     egggroups:
     - [Ground, Monster]
-    evolutions: []
+    evolutions:
+    - []
     height: [2.4]
     introduction: dp
     moves:

@@ -6,7 +6,8 @@ pokemon:
     - bw: [Honey Gather, Pickup, Quick Feet]
     egggroups:
     - [Ground]
-    evolutions: [Ursaring]
+    evolutions:
+    - [Ursaring]
     height: [0.6]
     introduction: gs
     moves:
@@ -74,7 +75,8 @@ pokemon:
     - bw: [Guts, Quick Feet, Unnerve]
     egggroups:
     - [Ground]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.8]
     introduction: gs
     moves:

@@ -4,7 +4,8 @@ pokemon:
     - [Defiant, Inner Focus, Pressure]
     egggroups:
     - [Humanshape]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.6]
     introduction: bw
     moves:
@@ -22,7 +23,8 @@ pokemon:
     - [Defiant, Inner Focus, Pressure]
     egggroups:
     - [Humanshape]
-    evolutions: [Bisharp]
+    evolutions:
+    - [Bisharp]
     height: [0.5]
     introduction: bw
     moves:

@@ -4,7 +4,8 @@ pokemon:
     - [Flower Gift]
     egggroups:
     - [Fairy, Plant]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.5]
     introduction: dp
     moves:
@@ -23,7 +24,8 @@ pokemon:
     - [Chlorophyll]
     egggroups:
     - [Fairy, Plant]
-    evolutions: [Cherrim]
+    evolutions:
+    - [Cherrim]
     height: [0.4]
     introduction: dp
     moves:

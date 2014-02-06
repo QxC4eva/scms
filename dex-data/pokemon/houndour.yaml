@@ -5,7 +5,9 @@ pokemon:
     - bw: [Early Bird, Flash Fire, Unnerve]
     egggroups:
     - [Ground]
-    evolutions: [Houndoom-Mega]
+    evolutions:
+    - []
+    - xy: [Houndoom-Mega]
     height: [1.4]
     introduction: gs
     moves:
@@ -27,7 +29,8 @@ pokemon:
     - [Solar Power]
     egggroups:
     - [Field]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.9]
     introduction: xy
     moves:
@@ -45,7 +48,8 @@ pokemon:
     - bw: [Early Bird, Flash Fire, Unnerve]
     egggroups:
     - [Ground]
-    evolutions: [Houndoom]
+    evolutions:
+    - [Houndoom]
     height: [0.6]
     introduction: gs
     moves:

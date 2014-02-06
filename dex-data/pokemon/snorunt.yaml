@@ -4,7 +4,8 @@ pokemon:
     - [Cursed Body, Snow Cloak]
     egggroups:
     - [Fairy, Mineral]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.3]
     introduction: dp
     moves:
@@ -34,7 +35,8 @@ pokemon:
     - bw: [Ice Body, Inner Focus, Moody]
     egggroups:
     - [Fairy, Mineral]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.5]
     introduction: rs
     moves:
@@ -61,7 +63,9 @@ pokemon:
     - bw: [Ice Body, Inner Focus, Moody]
     egggroups:
     - [Fairy, Mineral]
-    evolutions: [Glalie, Froslass]
+    evolutions:
+    - [Glalie]
+    - dp: [Froslass]
     height: [0.7]
     introduction: rs
     moves:

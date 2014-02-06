@@ -5,7 +5,8 @@ pokemon:
     - bw: [Sheer Force, Torrent]
     egggroups:
     - [Monster, Water 1]
-    evolutions: [Feraligatr]
+    evolutions:
+    - [Feraligatr]
     height: [1.1]
     introduction: gs
     moves:
@@ -27,7 +28,8 @@ pokemon:
     - bw: [Sheer Force, Torrent]
     egggroups:
     - [Monster, Water 1]
-    evolutions: []
+    evolutions:
+    - []
     height: [2.3]
     introduction: gs
     moves:
@@ -53,7 +55,8 @@ pokemon:
     - bw: [Sheer Force, Torrent]
     egggroups:
     - [Monster, Water 1]
-    evolutions: [Croconaw]
+    evolutions:
+    - [Croconaw]
     height: [0.6]
     introduction: gs
     moves:

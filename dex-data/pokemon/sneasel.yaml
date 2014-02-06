@@ -5,7 +5,9 @@ pokemon:
     - bw: [Inner Focus, Keen Eye, Pickpocket]
     egggroups:
     - [Ground]
-    evolutions: [Weavile]
+    evolutions:
+    - []
+    - dp: [Weavile]
     height: [0.9]
     introduction: gs
     moves:
@@ -73,7 +75,8 @@ pokemon:
     - [Pickpocket, Pressure]
     egggroups:
     - [Ground]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.1]
     introduction: dp
     moves:

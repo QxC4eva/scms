@@ -5,7 +5,8 @@ pokemon:
     - bw: [Storm Drain, Suction Cups]
     egggroups:
     - [Water 3]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.5]
     introduction: rs
     moves:
@@ -30,7 +31,8 @@ pokemon:
     - bw: [Storm Drain, Suction Cups]
     egggroups:
     - [Water 3]
-    evolutions: [Cradily]
+    evolutions:
+    - [Cradily]
     height: [1]
     introduction: rs
     moves:

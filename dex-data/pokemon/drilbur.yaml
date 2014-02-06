@@ -4,7 +4,8 @@ pokemon:
     - [Mold Breaker, Sand Force, Sand Rush]
     egggroups:
     - [Ground]
-    evolutions: [Excadrill]
+    evolutions:
+    - [Excadrill]
     height: [0.3]
     introduction: bw
     moves:
@@ -34,7 +35,8 @@ pokemon:
     - [Mold Breaker, Sand Force, Sand Rush]
     egggroups:
     - [Ground]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.7]
     introduction: bw
     moves:

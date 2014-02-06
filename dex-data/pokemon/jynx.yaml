@@ -6,7 +6,8 @@ pokemon:
     - bw: [Dry Skin, Forewarn, Oblivious]
     egggroups:
     - [Humanshape]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.4]
     introduction: rb
     moves:
@@ -45,7 +46,8 @@ pokemon:
     - bw: [Forewarn, Hydration, Oblivious]
     egggroups:
     - []
-    evolutions: [Jynx]
+    evolutions:
+    - [Jynx]
     height: [0.4]
     introduction: gs
     moves:

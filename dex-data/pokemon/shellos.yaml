@@ -4,7 +4,8 @@ pokemon:
     - [Sand Force, Sticky Hold, Storm Drain]
     egggroups:
     - [Indeterminate, Water 1]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.9]
     introduction: dp
     moves:
@@ -29,7 +30,8 @@ pokemon:
     - [Sand Force, Sticky Hold, Storm Drain]
     egggroups:
     - [Indeterminate, Water 1]
-    evolutions: [Gastrodon]
+    evolutions:
+    - [Gastrodon]
     height: [0.3]
     introduction: dp
     moves:

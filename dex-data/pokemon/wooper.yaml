@@ -5,7 +5,8 @@ pokemon:
     - bw: [Damp, Unaware, Water Absorb]
     egggroups:
     - [Ground, Water 1]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.4]
     introduction: gs
     moves:
@@ -34,7 +35,8 @@ pokemon:
     - bw: [Damp, Unaware, Water Absorb]
     egggroups:
     - [Ground, Water 1]
-    evolutions: [Quagsire]
+    evolutions:
+    - [Quagsire]
     height: [0.4]
     introduction: gs
     moves:

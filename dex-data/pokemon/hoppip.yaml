@@ -6,7 +6,8 @@ pokemon:
       dp: [Chlorophyll, Leaf Guard]
     egggroups:
     - [Fairy, Plant]
-    evolutions: [Skiploom]
+    evolutions:
+    - [Skiploom]
     height: [0.4]
     introduction: gs
     moves:
@@ -61,7 +62,8 @@ pokemon:
       dp: [Chlorophyll, Leaf Guard]
     egggroups:
     - [Fairy, Plant]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.8]
     introduction: gs
     moves:
@@ -87,7 +89,8 @@ pokemon:
       dp: [Chlorophyll, Leaf Guard]
     egggroups:
     - [Fairy, Plant]
-    evolutions: [Jumpluff]
+    evolutions:
+    - [Jumpluff]
     height: [0.6]
     introduction: gs
     moves:

@@ -4,7 +4,8 @@ pokemon:
     - [Frisk, Infiltrator, Telepathy]
     egggroups:
     - [Flying]
-    evolutions: [Noivern]
+    evolutions:
+    - [Noivern]
     height: [0.5]
     introduction: xy
     moves:
@@ -28,7 +29,8 @@ pokemon:
     - [Frisk, Infiltrator, Telepathy]
     egggroups:
     - [Flying]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.5]
     introduction: xy
     moves:

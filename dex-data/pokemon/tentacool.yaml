@@ -5,7 +5,8 @@ pokemon:
     - bw: [Clear Body, Liquid Ooze, Rain Dish]
     egggroups:
     - [Water 3]
-    evolutions: [Tentacruel]
+    evolutions:
+    - [Tentacruel]
     height: [0.9]
     introduction: rb
     moves:
@@ -68,7 +69,8 @@ pokemon:
     - bw: [Clear Body, Liquid Ooze, Rain Dish]
     egggroups:
     - [Water 3]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.6]
     introduction: rb
     moves:

@@ -4,7 +4,8 @@ pokemon:
     - [Rattled, Rock Head, Sturdy]
     egggroups:
     - []
-    evolutions: [Sudowoodo]
+    evolutions:
+    - [Sudowoodo]
     height: [0.5]
     introduction: dp
     moves:
@@ -45,7 +46,8 @@ pokemon:
     - bw: [Rattled, Rock Head, Sturdy]
     egggroups:
     - [Mineral]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.2]
     introduction: gs
     moves:

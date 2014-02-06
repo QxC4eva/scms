@@ -5,7 +5,8 @@ pokemon:
     - bw: [Swift Swim, Water Absorb, Water Veil]
     egggroups:
     - [Water 1]
-    evolutions: []
+    evolutions:
+    - []
     height: [2.1]
     introduction: gs
     moves:
@@ -43,7 +44,8 @@ pokemon:
     - [Swift Swim, Water Absorb, Water Veil]
     egggroups:
     - []
-    evolutions: [Mantine]
+    evolutions:
+    - [Mantine]
     height: [1]
     introduction: dp
     moves:

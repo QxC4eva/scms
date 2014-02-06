@@ -5,7 +5,8 @@ pokemon:
     - bw: [Cloud Nine, Damp, Swift Swim]
     egggroups:
     - [Ground, Water 1]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.7]
     introduction: rb
     moves:
@@ -35,7 +36,8 @@ pokemon:
     - bw: [Cloud Nine, Damp, Swift Swim]
     egggroups:
     - [Ground, Water 1]
-    evolutions: [Golduck]
+    evolutions:
+    - [Golduck]
     height: [0.8]
     introduction: rb
     moves:

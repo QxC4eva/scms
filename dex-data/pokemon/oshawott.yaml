@@ -4,7 +4,8 @@ pokemon:
     - [Shell Armor, Torrent]
     egggroups:
     - [Ground]
-    evolutions: [Samurott]
+    evolutions:
+    - [Samurott]
     height: [0.8]
     introduction: dp
     moves:
@@ -21,7 +22,8 @@ pokemon:
     - [Shell Armor, Torrent]
     egggroups:
     - [Ground]
-    evolutions: [Dewott]
+    evolutions:
+    - [Dewott]
     height: [0.5]
     introduction: dp
     moves:
@@ -54,7 +56,8 @@ pokemon:
     - [Shell Armor, Torrent]
     egggroups:
     - [Ground]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.5]
     introduction: dp
     moves:

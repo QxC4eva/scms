@@ -5,7 +5,8 @@ pokemon:
     - bw: [Chlorophyll, Harvest]
     egggroups:
     - [Plant]
-    evolutions: [Exeggutor]
+    evolutions:
+    - [Exeggutor]
     height: [0.4]
     introduction: rb
     moves:
@@ -69,7 +70,8 @@ pokemon:
     - bw: [Chlorophyll, Harvest]
     egggroups:
     - [Plant]
-    evolutions: []
+    evolutions:
+    - []
     height: [2]
     introduction: rb
     moves:

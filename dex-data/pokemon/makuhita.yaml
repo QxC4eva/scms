@@ -5,7 +5,8 @@ pokemon:
     - bw: [Guts, Sheer Force, Thick Fat]
     egggroups:
     - [Humanshape]
-    evolutions: []
+    evolutions:
+    - []
     height: [2.3]
     introduction: rs
     moves:
@@ -30,7 +31,8 @@ pokemon:
     - bw: [Guts, Sheer Force, Thick Fat]
     egggroups:
     - [Humanshape]
-    evolutions: [Hariyama]
+    evolutions:
+    - [Hariyama]
     height: [1]
     introduction: rs
     moves:

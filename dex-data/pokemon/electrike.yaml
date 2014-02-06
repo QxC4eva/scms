@@ -5,7 +5,8 @@ pokemon:
     - bw: [Lightningrod, Minus, Static]
     egggroups:
     - [Ground]
-    evolutions: [Manectric]
+    evolutions:
+    - [Manectric]
     height: [0.6]
     introduction: rs
     moves:
@@ -54,7 +55,9 @@ pokemon:
     - bw: [Lightningrod, Minus, Static]
     egggroups:
     - [Ground]
-    evolutions: [Manectric-Mega]
+    evolutions:
+    - []
+    - xy: [Manectric-Mega]
     height: [1.5]
     introduction: rs
     moves:
@@ -76,7 +79,8 @@ pokemon:
     - [Intimidate]
     egggroups:
     - [Field]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.8]
     introduction: xy
     moves:

@@ -5,7 +5,8 @@ pokemon:
     - bw: [Flame Body, Magma Armor, Weak Armor]
     egggroups:
     - [Indeterminate]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.8]
     introduction: gs
     moves:
@@ -35,7 +36,8 @@ pokemon:
     - bw: [Flame Body, Magma Armor, Weak Armor]
     egggroups:
     - [Indeterminate]
-    evolutions: [Magcargo]
+    evolutions:
+    - [Magcargo]
     height: [0.7]
     introduction: gs
     moves:

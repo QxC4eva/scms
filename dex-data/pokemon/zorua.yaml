@@ -4,7 +4,8 @@ pokemon:
     - [Illusion]
     egggroups:
     - [Ground]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.6]
     introduction: bw
     moves:
@@ -24,7 +25,8 @@ pokemon:
     - [Illusion]
     egggroups:
     - [Ground]
-    evolutions: [Zoroark]
+    evolutions:
+    - [Zoroark]
     height: [0.7]
     introduction: bw
     moves:

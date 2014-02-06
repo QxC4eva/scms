@@ -6,7 +6,8 @@ pokemon:
     - bw: [Hydration, Ice Body, Thick Fat]
     egggroups:
     - [Ground, Water 1]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.7]
     introduction: rb
     moves:
@@ -32,7 +33,8 @@ pokemon:
     - bw: [Hydration, Ice Body, Thick Fat]
     egggroups:
     - [Ground, Water 1]
-    evolutions: [Dewgong]
+    evolutions:
+    - [Dewgong]
     height: [1.1]
     introduction: rb
     moves:

@@ -5,7 +5,8 @@ pokemon:
     - bw: [Rock Head, Sand Veil, Sturdy]
     egggroups:
     - [Mineral]
-    evolutions: [Graveler]
+    evolutions:
+    - [Graveler]
     height: [0.4]
     introduction: rb
     moves:
@@ -70,7 +71,8 @@ pokemon:
     - bw: [Rock Head, Sand Veil, Sturdy]
     egggroups:
     - [Mineral]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.4]
     introduction: rb
     moves:
@@ -101,7 +103,8 @@ pokemon:
     - bw: [Rock Head, Sand Veil, Sturdy]
     egggroups:
     - [Mineral]
-    evolutions: [Golem]
+    evolutions:
+    - [Golem]
     height: [1]
     introduction: rb
     moves:

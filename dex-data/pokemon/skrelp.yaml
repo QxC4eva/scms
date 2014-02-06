@@ -4,7 +4,8 @@ pokemon:
     - [Poison Point, Poison Touch, Adaptability]
     egggroups:
     - [Water 1, Dragon]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.8]
     introduction: xy
     moves:
@@ -22,7 +23,8 @@ pokemon:
     - [Poison Point, Poison Touch, Adaptability]
     egggroups:
     - [Water 1, Dragon]
-    evolutions: [Dragalge]
+    evolutions:
+    - [Dragalge]
     height: [0.5]
     introduction: xy
     moves:

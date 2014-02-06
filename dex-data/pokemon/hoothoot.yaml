@@ -5,7 +5,8 @@ pokemon:
     - bw: [Insomnia, Keen Eye, Tinted Lens]
     egggroups:
     - [Flying]
-    evolutions: [Noctowl]
+    evolutions:
+    - [Noctowl]
     height: [0.7]
     introduction: gs
     moves:
@@ -62,7 +63,8 @@ pokemon:
     - bw: [Insomnia, Keen Eye, Tinted Lens]
     egggroups:
     - [Flying]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.6]
     introduction: gs
     moves:

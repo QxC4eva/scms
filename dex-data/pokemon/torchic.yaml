@@ -5,7 +5,9 @@ pokemon:
     - bw: [Blaze, Speed Boost]
     egggroups:
     - [Ground]
-    evolutions: [Blaziken-Mega]
+    evolutions:
+    - []
+    - xy: [Blaziken-Mega]
     height: [1.9]
     introduction: rs
     moves:
@@ -32,7 +34,8 @@ pokemon:
     - [Speed Boost]
     egggroups:
     - [Field]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.9]
     introduction: xy
     moves:
@@ -50,7 +53,8 @@ pokemon:
     - bw: [Blaze, Speed Boost]
     egggroups:
     - [Ground]
-    evolutions: [Blaziken]
+    evolutions:
+    - [Blaziken]
     height: [0.9]
     introduction: rs
     moves:
@@ -79,7 +83,8 @@ pokemon:
     - bw: [Blaze, Speed Boost]
     egggroups:
     - [Ground]
-    evolutions: [Combusken]
+    evolutions:
+    - [Combusken]
     height: [0.4]
     introduction: rs
     moves:

@@ -5,7 +5,8 @@ pokemon:
     - xy: [Poison Point, Speed Boost, Swarm]
     egggroups:
     - [Bug]
-    evolutions: []
+    evolutions:
+    - []
     height: [2.5]
     introduction: bw
     moves:
@@ -29,7 +30,8 @@ pokemon:
     - xy: [Poison Point, Speed Boost, Swarm]
     egggroups:
     - [Bug]
-    evolutions: [Whirlipede]
+    evolutions:
+    - [Whirlipede]
     height: [0.4]
     introduction: bw
     moves:
@@ -58,7 +60,8 @@ pokemon:
     - xy: [Poison Point, Speed Boost, Swarm]
     egggroups:
     - [Bug]
-    evolutions: [Scolipede]
+    evolutions:
+    - [Scolipede]
     height: [1.2]
     introduction: bw
     moves:

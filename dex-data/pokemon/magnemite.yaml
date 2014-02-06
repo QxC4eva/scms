@@ -5,7 +5,8 @@ pokemon:
     - bw: [Analytic, Magnet Pull, Sturdy]
     egggroups:
     - [Mineral]
-    evolutions: [Magneton]
+    evolutions:
+    - [Magneton]
     height: [0.3]
     introduction: rb
     moves:
@@ -61,7 +62,9 @@ pokemon:
     - bw: [Analytic, Magnet Pull, Sturdy]
     egggroups:
     - [Mineral]
-    evolutions: [Magnezone]
+    evolutions:
+    - []
+    - dp: [Magnezone]
     height: [1]
     introduction: rb
     moves:
@@ -89,7 +92,8 @@ pokemon:
     - [Analytic, Magnet Pull, Sturdy]
     egggroups:
     - [Mineral]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.2]
     introduction: dp
     moves:

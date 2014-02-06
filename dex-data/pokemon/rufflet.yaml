@@ -4,7 +4,8 @@ pokemon:
     - [Defiant, Keen Eye, Sheer Force]
     egggroups:
     - [Flying]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.5]
     introduction: bw
     moves:
@@ -22,7 +23,8 @@ pokemon:
     - [Hustle, Keen Eye, Sheer Force]
     egggroups:
     - [Flying]
-    evolutions: [Braviary]
+    evolutions:
+    - [Braviary]
     height: [0.5]
     introduction: bw
     moves:

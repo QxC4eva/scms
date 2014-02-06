@@ -5,7 +5,8 @@ pokemon:
     - bw: [Huge Power, Sap Sipper, Thick Fat]
     egggroups:
     - [Fairy, Water 1]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.8]
     introduction: gs
     moves:
@@ -29,7 +30,8 @@ pokemon:
     - bw: [Huge Power, Sap Sipper, Thick Fat]
     egggroups:
     - []
-    evolutions: [Marill]
+    evolutions:
+    - [Marill]
     height: [0.2]
     introduction: rs
     moves:
@@ -75,7 +77,8 @@ pokemon:
     - bw: [Huge Power, Sap Sipper, Thick Fat]
     egggroups:
     - [Fairy, Water 1]
-    evolutions: [Azumarill]
+    evolutions:
+    - [Azumarill]
     height: [0.4]
     introduction: gs
     moves:

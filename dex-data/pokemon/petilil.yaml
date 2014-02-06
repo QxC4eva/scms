@@ -4,7 +4,8 @@ pokemon:
     - [Chlorophyll, Leaf Guard, Own Tempo]
     egggroups:
     - [Plant]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.1]
     introduction: bw
     moves:
@@ -24,7 +25,8 @@ pokemon:
     - [Chlorophyll, Leaf Guard, Own Tempo]
     egggroups:
     - [Plant]
-    evolutions: [Lilligant]
+    evolutions:
+    - [Lilligant]
     height: [0.5]
     introduction: bw
     moves:

@@ -4,7 +4,8 @@ pokemon:
     - [Flower Veil, Symbiosis]
     egggroups:
     - [Fairy]
-    evolutions: [Floette]
+    evolutions:
+    - [Floette]
     height: [0.1]
     introduction: xy
     moves:
@@ -27,7 +28,8 @@ pokemon:
     - [Flower Veil, Symbiosis]
     egggroups:
     - [Fairy]
-    evolutions: [Florges]
+    evolutions:
+    - [Florges]
     height: [0.2]
     introduction: xy
     moves:
@@ -44,7 +46,8 @@ pokemon:
     - [Flower Veil, Symbiosis]
     egggroups:
     - [Fairy]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.1]
     introduction: xy
     moves:

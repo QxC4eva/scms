@@ -4,7 +4,8 @@ pokemon:
     - [Truant]
     egggroups:
     - [Ground]
-    evolutions: []
+    evolutions:
+    - []
     height: [2]
     introduction: rs
     moves:
@@ -28,7 +29,8 @@ pokemon:
     - [Truant]
     egggroups:
     - [Ground]
-    evolutions: [Vigoroth]
+    evolutions:
+    - [Vigoroth]
     height: [0.8]
     introduction: rs
     moves:
@@ -86,7 +88,8 @@ pokemon:
     - bw: [Vital Spirit]
     egggroups:
     - [Ground]
-    evolutions: [Slaking]
+    evolutions:
+    - [Slaking]
     height: [1.4]
     introduction: rs
     moves:

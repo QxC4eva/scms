@@ -5,7 +5,8 @@ pokemon:
     - bw: [Flame Body, Vital Spirit]
     egggroups:
     - []
-    evolutions: [Magmar]
+    evolutions:
+    - [Magmar]
     height: [0.7]
     introduction: gs
     moves:
@@ -64,7 +65,9 @@ pokemon:
     - bw: [Flame Body, Vital Spirit]
     egggroups:
     - [Humanshape]
-    evolutions: [Magmortar]
+    evolutions:
+    - []
+    - dp: [Magmortar]
     height: [1.3]
     introduction: rb
     moves:
@@ -97,7 +100,8 @@ pokemon:
     - [Flame Body, Vital Spirit]
     egggroups:
     - [Humanshape]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.6]
     introduction: dp
     moves:

@@ -4,7 +4,8 @@ pokemon:
     - [Cloud Nine, Oblivious, Own Tempo]
     egggroups:
     - [Monster]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.7]
     introduction: dp
     moves:
@@ -24,7 +25,9 @@ pokemon:
     - bw: [Cloud Nine, Oblivious, Own Tempo]
     egggroups:
     - [Monster]
-    evolutions: [Lickilicky]
+    evolutions:
+    - []
+    - dp: [Lickilicky]
     height: [1.2]
     introduction: rb
     moves:

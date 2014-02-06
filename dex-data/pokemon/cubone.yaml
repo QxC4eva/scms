@@ -5,7 +5,8 @@ pokemon:
     - bw: [Battle Armor, Lightningrod, Rock Head]
     egggroups:
     - [Monster]
-    evolutions: [Marowak]
+    evolutions:
+    - [Marowak]
     height: [0.4]
     introduction: rb
     moves:
@@ -79,7 +80,8 @@ pokemon:
     - bw: [Battle Armor, Lightningrod, Rock Head]
     egggroups:
     - [Monster]
-    evolutions: []
+    evolutions:
+    - []
     height: [1]
     introduction: rb
     moves:

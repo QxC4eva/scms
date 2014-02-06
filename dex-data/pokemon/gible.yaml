@@ -4,7 +4,8 @@ pokemon:
     - [Rough Skin, Sand Veil]
     egggroups:
     - [Dragon, Monster]
-    evolutions: [Garchomp]
+    evolutions:
+    - [Garchomp]
     height: [1.4]
     introduction: dp
     moves:
@@ -23,7 +24,9 @@ pokemon:
     - [Rough Skin, Sand Veil]
     egggroups:
     - [Dragon, Monster]
-    evolutions: [Garchomp-Mega]
+    evolutions:
+    - []
+    - xy: [Garchomp-Mega]
     height: [1.9]
     introduction: dp
     moves:
@@ -46,7 +49,8 @@ pokemon:
     - [Sand Force]
     egggroups:
     - [Monster, Dragon]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.9]
     introduction: xy
     moves:
@@ -63,7 +67,8 @@ pokemon:
     - [Rough Skin, Sand Veil]
     egggroups:
     - [Dragon, Monster]
-    evolutions: [Gabite]
+    evolutions:
+    - [Gabite]
     height: [0.7]
     introduction: dp
     moves:

@@ -4,7 +4,8 @@ pokemon:
     - [Contrary, Overgrow]
     egggroups:
     - [Ground, Plant]
-    evolutions: []
+    evolutions:
+    - []
     height: [3.3]
     introduction: dp
     moves:
@@ -25,7 +26,8 @@ pokemon:
     - [Contrary, Overgrow]
     egggroups:
     - [Ground, Plant]
-    evolutions: [Serperior]
+    evolutions:
+    - [Serperior]
     height: [0.8]
     introduction: dp
     moves:
@@ -42,7 +44,8 @@ pokemon:
     - [Contrary, Overgrow]
     egggroups:
     - [Ground, Plant]
-    evolutions: [Servine]
+    evolutions:
+    - [Servine]
     height: [0.6]
     introduction: dp
     moves:

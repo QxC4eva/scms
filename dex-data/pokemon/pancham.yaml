@@ -4,7 +4,8 @@ pokemon:
     - [Iron Fist, Mold Breaker, Scrappy]
     egggroups:
     - [Field, Human-Like]
-    evolutions: [Pangoro]
+    evolutions:
+    - [Pangoro]
     height: [0.6]
     introduction: xy
     moves:
@@ -29,7 +30,8 @@ pokemon:
     - [Iron Fist, Mold Breaker, Scrappy]
     egggroups:
     - [Field, Human-Like]
-    evolutions: []
+    evolutions:
+    - []
     height: [2.1]
     introduction: xy
     moves:

@@ -5,7 +5,8 @@ pokemon:
     - xy: [Frisk, Shadow Tag, Competitive]
     egggroups:
     - [Humanshape]
-    evolutions: [Gothorita]
+    evolutions:
+    - [Gothorita]
     height: [0.4]
     introduction: bw
     moves:
@@ -43,7 +44,8 @@ pokemon:
     - xy: [Frisk, Shadow Tag, Competitive]
     egggroups:
     - [Humanshape]
-    evolutions: []
+    evolutions:
+    - []
     height: [1.5]
     introduction: bw
     moves:
@@ -62,7 +64,8 @@ pokemon:
     - xy: [Frisk, Shadow Tag, Competitive]
     egggroups:
     - [Humanshape]
-    evolutions: [Gothitelle]
+    evolutions:
+    - [Gothitelle]
     height: [0.7]
     introduction: bw
     moves:

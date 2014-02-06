@@ -4,7 +4,8 @@ pokemon:
     - [Defiant, Prankster]
     egggroups:
     - []
-    evolutions: [Thundurus-Therian]
+    evolutions:
+    - [Thundurus-Therian]
     height: [1.5]
     introduction: bw
     moves:
@@ -40,7 +41,8 @@ pokemon:
     - [Volt Absorb]
     egggroups:
     - []
-    evolutions: []
+    evolutions:
+    - []
     height: [3]
     introduction: bw
     moves:

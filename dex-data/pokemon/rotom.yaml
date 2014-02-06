@@ -4,7 +4,8 @@ pokemon:
     - [Levitate]
     egggroups:
     - [Indeterminate]
-    evolutions: [Rotom-Fan, Rotom-Frost, Rotom-Heat, Rotom-Mow, Rotom-Wash]
+    evolutions:
+    - [Rotom-Fan, Rotom-Frost, Rotom-Heat, Rotom-Mow, Rotom-Wash]
     height: [0.3]
     introduction: dp
     moves:
@@ -43,7 +44,8 @@ pokemon:
     - [Levitate]
     egggroups:
     - [Indeterminate]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.3]
     introduction: dp
     moves:
@@ -62,7 +64,8 @@ pokemon:
     - [Levitate]
     egggroups:
     - [Indeterminate]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.3]
     introduction: dp
     moves:
@@ -81,7 +84,8 @@ pokemon:
     - [Levitate]
     egggroups:
     - [Indeterminate]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.3]
     introduction: dp
     moves:
@@ -100,7 +104,8 @@ pokemon:
     - [Levitate]
     egggroups:
     - [Indeterminate]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.3]
     introduction: dp
     moves:
@@ -119,7 +124,8 @@ pokemon:
     - [Levitate]
     egggroups:
     - [Indeterminate]
-    evolutions: []
+    evolutions:
+    - []
     height: [0.3]
     introduction: dp
     moves:

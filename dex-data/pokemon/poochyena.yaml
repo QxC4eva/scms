@@ -6,7 +6,8 @@ pokemon:
       dp: [Intimidate, Quick Feet]
     egggroups:
     - [Ground]
-    evolutions: []
+    evolutions:
+    - []
     height: [1]
     introduction: rs
     moves:
@@ -28,7 +29,8 @@ pokemon:
       dp: [Quick Feet, Run Away]
     egggroups:
     - [Ground]
-    evolutions: [Mightyena]
+    evolutions:
+    - [Mightyena]
     height: [0.5]
     introduction: rs
     moves:

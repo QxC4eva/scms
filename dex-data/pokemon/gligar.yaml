@@ -5,7 +5,9 @@ pokemon:
     - bw: [Hyper Cutter, Immunity, Sand Veil]
     egggroups:
     - [Bug]
-    evolutions: [Gliscor]
+    evolutions:
+    - []
+    - dp: [Gliscor]
     height: [1.1]
     introduction: gs
     moves:
@@ -72,7 +74,8 @@ pokemon:
     - [Hyper Cutter, Poison Heal, Sand Veil]
     egggroups:
     - [Bug]
-    evolutions: []
+    evolutions:
+    - []
     height: [2]
     introduction: dp
     moves:

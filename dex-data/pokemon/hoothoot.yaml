@@ -1,8 +1,9 @@
 pokemon:
   Hoothoot:
     abilities:
-    - [Insomnia, Keen Eye]
     - bw: [Insomnia, Keen Eye, Tinted Lens]
+    - rs: [Insomnia, Keen Eye]
+    - []
     egggroups:
     - [Flying]
     evolutions:
@@ -59,8 +60,9 @@ pokemon:
     weight: [21.2]
   Noctowl:
     abilities:
-    - [Insomnia, Keen Eye]
     - bw: [Insomnia, Keen Eye, Tinted Lens]
+    - rs: [Insomnia, Keen Eye]
+    - []
     egggroups:
     - [Flying]
     evolutions:

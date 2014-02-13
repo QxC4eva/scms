@@ -1,9 +1,10 @@
 pokemon:
   Smeargle:
     abilities:
-    - [Own Tempo]
     - dp: [Own Tempo, Technician]
     - bw: [Moody, Own Tempo, Technician]
+    - rs: [Own Tempo]
+    - []
     egggroups:
     - [Ground]
     evolutions:

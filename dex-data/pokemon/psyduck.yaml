@@ -1,8 +1,9 @@
 pokemon:
   Golduck:
     abilities:
-    - [Cloud Nine, Damp]
     - bw: [Cloud Nine, Damp, Swift Swim]
+    - rs: [Cloud Nine, Damp]
+    - []
     egggroups:
     - [Ground, Water 1]
     evolutions:
@@ -32,8 +33,9 @@ pokemon:
     weight: [76.6]
   Psyduck:
     abilities:
-    - [Cloud Nine, Damp]
     - bw: [Cloud Nine, Damp, Swift Swim]
+    - rs: [Cloud Nine, Damp]
+    - []
     egggroups:
     - [Ground, Water 1]
     evolutions:

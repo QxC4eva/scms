@@ -1,8 +1,9 @@
 pokemon:
   Geodude:
     abilities:
-    - [Rock Head, Sturdy]
     - bw: [Rock Head, Sand Veil, Sturdy]
+    - rs: [Rock Head, Sturdy]
+    - []
     egggroups:
     - [Mineral]
     evolutions:
@@ -67,8 +68,9 @@ pokemon:
     weight: [20]
   Golem:
     abilities:
-    - [Rock Head, Sturdy]
     - bw: [Rock Head, Sand Veil, Sturdy]
+    - rs: [Rock Head, Sturdy]
+    - []
     egggroups:
     - [Mineral]
     evolutions:
@@ -99,8 +101,9 @@ pokemon:
     weight: [300]
   Graveler:
     abilities:
-    - [Rock Head, Sturdy]
     - bw: [Rock Head, Sand Veil, Sturdy]
+    - rs: [Rock Head, Sturdy]
+    - []
     egggroups:
     - [Mineral]
     evolutions:

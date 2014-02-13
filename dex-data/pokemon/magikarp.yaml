@@ -1,8 +1,9 @@
 pokemon:
   Gyarados:
     abilities:
-    - [Intimidate]
     - bw: [Intimidate, Moxie]
+    - rs: [Intimidate]
+    - []
     egggroups:
     - [Dragon, Water 2]
     evolutions:
@@ -82,8 +83,9 @@ pokemon:
     weight: [305]
   Magikarp:
     abilities:
-    - [Swift Swim]
     - bw: [Rattled, Swift Swim]
+    - rs: [Swift Swim]
+    - []
     egggroups:
     - [Dragon, Water 2]
     evolutions:

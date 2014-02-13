@@ -1,8 +1,9 @@
 pokemon:
   Natu:
     abilities:
-    - [Early Bird, Synchronize]
     - bw: [Early Bird, Magic Bounce, Synchronize]
+    - rs: [Early Bird, Synchronize]
+    - []
     egggroups:
     - [Flying]
     evolutions:
@@ -69,8 +70,9 @@ pokemon:
     weight: [2]
   Xatu:
     abilities:
-    - [Early Bird, Synchronize]
     - bw: [Early Bird, Magic Bounce, Synchronize]
+    - rs: [Early Bird, Synchronize]
+    - []
     egggroups:
     - [Flying]
     evolutions:

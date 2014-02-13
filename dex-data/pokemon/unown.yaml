@@ -1,8 +1,9 @@
 pokemon:
   Unown:
     abilities:
-    - [Levitate]
     - bw: [Levitate]
+    - rs: [Levitate]
+    - []
     egggroups:
     - []
     evolutions:

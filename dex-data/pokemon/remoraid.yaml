@@ -1,9 +1,10 @@
 pokemon:
   Octillery:
     abilities:
-    - [Suction Cups]
     - bw: [Moody, Sniper, Suction Cups]
       dp: [Sniper, Suction Cups]
+    - rs: [Suction Cups]
+    - []
     egggroups:
     - [Water 1, Water 2]
     evolutions:
@@ -30,9 +31,10 @@ pokemon:
     weight: [28.5]
   Remoraid:
     abilities:
-    - [Hustle]
     - bw: [Hustle, Moody, Sniper]
       dp: [Hustle, Sniper]
+    - rs: [Hustle]
+    - []
     egggroups:
     - [Water 1, Water 2]
     evolutions:

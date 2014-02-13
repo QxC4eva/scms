@@ -1,9 +1,10 @@
 pokemon:
   Hoppip:
     abilities:
-    - [Chlorophyll]
     - bw: [Chlorophyll, Infiltrator, Leaf Guard]
       dp: [Chlorophyll, Leaf Guard]
+    - rs: [Chlorophyll]
+    - []
     egggroups:
     - [Fairy, Plant]
     evolutions:
@@ -57,9 +58,10 @@ pokemon:
     weight: [0.5]
   Jumpluff:
     abilities:
-    - [Chlorophyll]
     - bw: [Chlorophyll, Infiltrator, Leaf Guard]
       dp: [Chlorophyll, Leaf Guard]
+    - rs: [Chlorophyll]
+    - []
     egggroups:
     - [Fairy, Plant]
     evolutions:
@@ -84,9 +86,10 @@ pokemon:
     weight: [3]
   Skiploom:
     abilities:
-    - [Chlorophyll]
     - bw: [Chlorophyll, Infiltrator, Leaf Guard]
       dp: [Chlorophyll, Leaf Guard]
+    - rs: [Chlorophyll]
+    - []
     egggroups:
     - [Fairy, Plant]
     evolutions:

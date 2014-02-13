@@ -1,8 +1,9 @@
 pokemon:
   Aerodactyl:
     abilities:
-    - [Pressure, Rock Head]
     - bw: [Pressure, Rock Head, Unnerve]
+    - rs: [Pressure, Rock Head]
+    - []
     egggroups:
     - [Flying]
     evolutions:

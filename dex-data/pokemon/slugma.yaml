@@ -1,8 +1,9 @@
 pokemon:
   Magcargo:
     abilities:
-    - [Flame Body, Magma Armor]
     - bw: [Flame Body, Magma Armor, Weak Armor]
+    - rs: [Flame Body, Magma Armor]
+    - []
     egggroups:
     - [Indeterminate]
     evolutions:
@@ -32,8 +33,9 @@ pokemon:
     weight: [55]
   Slugma:
     abilities:
-    - [Flame Body, Magma Armor]
     - bw: [Flame Body, Magma Armor, Weak Armor]
+    - rs: [Flame Body, Magma Armor]
+    - []
     egggroups:
     - [Indeterminate]
     evolutions:

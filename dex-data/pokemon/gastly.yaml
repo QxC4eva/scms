@@ -1,8 +1,9 @@
 pokemon:
   Gastly:
     abilities:
-    - [Levitate]
     - bw: [Levitate]
+    - rs: [Levitate]
+    - []
     egggroups:
     - [Indeterminate]
     evolutions:
@@ -66,8 +67,9 @@ pokemon:
     weight: [0.1]
   Gengar:
     abilities:
-    - [Levitate]
     - bw: [Levitate]
+    - rs: [Levitate]
+    - []
     egggroups:
     - [Indeterminate]
     evolutions:
@@ -122,8 +124,9 @@ pokemon:
     weight: [40.5]
   Haunter:
     abilities:
-    - [Levitate]
     - bw: [Levitate]
+    - rs: [Levitate]
+    - []
     egggroups:
     - [Indeterminate]
     evolutions:

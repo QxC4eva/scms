@@ -1,9 +1,10 @@
 pokemon:
   Jynx:
     abilities:
-    - [Oblivious]
     - dp: [Forewarn, Oblivious]
     - bw: [Dry Skin, Forewarn, Oblivious]
+    - rs: [Oblivious]
+    - []
     egggroups:
     - [Humanshape]
     evolutions:
@@ -41,9 +42,10 @@ pokemon:
     weight: [40.6]
   Smoochum:
     abilities:
-    - [Oblivious]
     - dp: [Forewarn, Oblivious]
     - bw: [Forewarn, Hydration, Oblivious]
+    - rs: [Oblivious]
+    - []
     egggroups:
     - []
     evolutions:

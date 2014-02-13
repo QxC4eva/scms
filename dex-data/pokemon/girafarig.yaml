@@ -1,8 +1,9 @@
 pokemon:
   Girafarig:
     abilities:
-    - [Early Bird, Inner Focus]
     - bw: [Early Bird, Inner Focus, Sap Sipper]
+    - rs: [Early Bird, Inner Focus]
+    - []
     egggroups:
     - [Ground]
     evolutions:

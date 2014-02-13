@@ -1,8 +1,9 @@
 pokemon:
   Dodrio:
     abilities:
-    - [Early Bird, Run Away]
     - bw: [Early Bird, Run Away, Tangled Feet]
+    - rs: [Early Bird, Run Away]
+    - []
     egggroups:
     - [Flying]
     evolutions:
@@ -29,8 +30,9 @@ pokemon:
     weight: [85.2]
   Doduo:
     abilities:
-    - [Early Bird, Run Away]
     - bw: [Early Bird, Run Away, Tangled Feet]
+    - rs: [Early Bird, Run Away]
+    - []
     egggroups:
     - [Flying]
     evolutions:

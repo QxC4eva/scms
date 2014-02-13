@@ -1,8 +1,9 @@
 pokemon:
   Delibird:
     abilities:
-    - [Hustle, Vital Spirit]
     - bw: [Hustle, Insomnia, Vital Spirit]
+    - rs: [Hustle, Vital Spirit]
+    - []
     egggroups:
     - [Ground, Water-1]
     evolutions:

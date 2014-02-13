@@ -1,8 +1,9 @@
 pokemon:
   Ninetales:
     abilities:
-    - [Flash Fire]
     - bw: [Drought, Flash Fire]
+    - rs: [Flash Fire]
+    - []
     egggroups:
     - [Ground]
     evolutions:
@@ -31,8 +32,9 @@ pokemon:
     weight: [19.9]
   Vulpix:
     abilities:
-    - [Flash Fire]
     - bw: [Drought, Flash Fire]
+    - rs: [Flash Fire]
+    - []
     egggroups:
     - [Ground]
     evolutions:

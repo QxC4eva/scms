@@ -1,8 +1,9 @@
 pokemon:
   Bulbasaur:
     abilities:
-    - [Overgrow]
     - bw: [Chlorophyll, Overgrow]
+    - rs: [Overgrow]
+    - []
     egggroups:
     - [Monster, Plant]
     evolutions:
@@ -67,8 +68,9 @@ pokemon:
     weight: [6.9]
   Ivysaur:
     abilities:
-    - [Overgrow]
     - bw: [Chlorophyll, Overgrow]
+    - rs: [Overgrow]
+    - []
     egggroups:
     - [Monster, Plant]
     evolutions:
@@ -87,8 +89,9 @@ pokemon:
     weight: [13]
   Venusaur:
     abilities:
-    - [Overgrow]
     - bw: [Chlorophyll, Overgrow]
+    - rs: [Overgrow]
+    - []
     egggroups:
     - [Monster, Plant]
     evolutions:

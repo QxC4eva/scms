@@ -1,8 +1,9 @@
 pokemon:
   Kingler:
     abilities:
-    - [Hyper Cutter, Shell Armor]
     - bw: [Hyper Cutter, Sheer Force, Shell Armor]
+    - rs: [Hyper Cutter, Shell Armor]
+    - []
     egggroups:
     - [Water 3]
     evolutions:
@@ -28,8 +29,9 @@ pokemon:
     weight: [60]
   Krabby:
     abilities:
-    - [Hyper Cutter, Shell Armor]
     - bw: [Hyper Cutter, Sheer Force, Shell Armor]
+    - rs: [Hyper Cutter, Shell Armor]
+    - []
     egggroups:
     - [Water 3]
     evolutions:

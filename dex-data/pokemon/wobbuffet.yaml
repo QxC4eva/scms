@@ -1,8 +1,9 @@
 pokemon:
   Wobbuffet:
     abilities:
-    - [Shadow Tag]
     - bw: [Shadow Tag, Telepathy]
+    - rs: [Shadow Tag]
+    - []
     egggroups:
     - [Indeterminate]
     evolutions:

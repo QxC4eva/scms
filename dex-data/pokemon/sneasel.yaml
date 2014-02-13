@@ -1,8 +1,9 @@
 pokemon:
   Sneasel:
     abilities:
-    - [Inner Focus, Keen Eye]
     - bw: [Inner Focus, Keen Eye, Pickpocket]
+    - rs: [Inner Focus, Keen Eye]
+    - []
     egggroups:
     - [Ground]
     evolutions:

@@ -1,8 +1,9 @@
 pokemon:
   Ledian:
     abilities:
-    - [Early Bird, Swarm]
     - bw: [Early Bird, Iron Fist, Swarm]
+    - rs: [Early Bird, Swarm]
+    - []
     egggroups:
     - [Bug]
     evolutions:
@@ -25,8 +26,9 @@ pokemon:
     weight: [35.6]
   Ledyba:
     abilities:
-    - [Early Bird, Swarm]
     - bw: [Early Bird, Rattled, Swarm]
+    - rs: [Early Bird, Swarm]
+    - []
     egggroups:
     - [Bug]
     evolutions:

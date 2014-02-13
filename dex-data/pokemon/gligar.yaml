@@ -1,8 +1,9 @@
 pokemon:
   Gligar:
     abilities:
-    - [Hyper Cutter, Sand Veil]
     - bw: [Hyper Cutter, Immunity, Sand Veil]
+    - rs: [Hyper Cutter, Sand Veil]
+    - []
     egggroups:
     - [Bug]
     evolutions:

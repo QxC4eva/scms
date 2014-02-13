@@ -1,8 +1,9 @@
 pokemon:
   Arbok:
     abilities:
-    - [Intimidate, Shed Skin]
     - bw: [Intimidate, Shed Skin, Unnerve]
+    - rs: [Intimidate, Shed Skin]
+    - []
     egggroups:
     - [Dragon, Ground]
     evolutions:
@@ -28,8 +29,9 @@ pokemon:
     weight: [65]
   Ekans:
     abilities:
-    - [Intimidate, Shed Skin]
     - bw: [Intimidate, Shed Skin, Unnerve]
+    - rs: [Intimidate, Shed Skin]
+    - []
     egggroups:
     - [Dragon, Ground]
     evolutions:

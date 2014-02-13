@@ -1,8 +1,9 @@
 pokemon:
   Sandshrew:
     abilities:
-    - [Sand Veil]
     - bw: [Sand Rush, Sand Veil]
+    - rs: [Sand Veil]
+    - []
     egggroups:
     - [Ground]
     evolutions:
@@ -70,8 +71,9 @@ pokemon:
     weight: [12]
   Sandslash:
     abilities:
-    - [Sand Veil]
     - bw: [Sand Rush, Sand Veil]
+    - rs: [Sand Veil]
+    - []
     egggroups:
     - [Ground]
     evolutions:

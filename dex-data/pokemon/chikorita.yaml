@@ -1,8 +1,9 @@
 pokemon:
   Bayleef:
     abilities:
-    - [Overgrow]
     - bw: [Leaf Guard, Overgrow]
+    - rs: [Overgrow]
+    - []
     egggroups:
     - [Monster, Plant]
     evolutions:
@@ -24,8 +25,9 @@ pokemon:
     weight: [15.8]
   Chikorita:
     abilities:
-    - [Overgrow]
     - bw: [Leaf Guard, Overgrow]
+    - rs: [Overgrow]
+    - []
     egggroups:
     - [Monster, Plant]
     evolutions:
@@ -81,8 +83,9 @@ pokemon:
     weight: [6.4]
   Meganium:
     abilities:
-    - [Overgrow]
     - bw: [Leaf Guard, Overgrow]
+    - rs: [Overgrow]
+    - []
     egggroups:
     - [Monster, Plant]
     evolutions:

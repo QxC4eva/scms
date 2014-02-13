@@ -1,8 +1,9 @@
 pokemon:
   Electrode:
     abilities:
-    - [Soundproof, Static]
     - bw: [Aftermath, Soundproof, Static]
+    - rs: [Soundproof, Static]
+    - []
     egggroups:
     - [Mineral]
     evolutions:
@@ -27,8 +28,9 @@ pokemon:
     weight: [66.6]
   Voltorb:
     abilities:
-    - [Soundproof, Static]
     - bw: [Aftermath, Soundproof, Static]
+    - rs: [Soundproof, Static]
+    - []
     egggroups:
     - [Mineral]
     evolutions:

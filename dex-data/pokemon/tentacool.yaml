@@ -1,8 +1,9 @@
 pokemon:
   Tentacool:
     abilities:
-    - [Clear Body, Liquid Ooze]
     - bw: [Clear Body, Liquid Ooze, Rain Dish]
+    - rs: [Clear Body, Liquid Ooze]
+    - []
     egggroups:
     - [Water 3]
     evolutions:
@@ -65,8 +66,9 @@ pokemon:
     weight: [45.5]
   Tentacruel:
     abilities:
-    - [Clear Body, Liquid Ooze]
     - bw: [Clear Body, Liquid Ooze, Rain Dish]
+    - rs: [Clear Body, Liquid Ooze]
+    - []
     egggroups:
     - [Water 3]
     evolutions:

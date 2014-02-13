@@ -1,8 +1,9 @@
 pokemon:
   Houndoom:
     abilities:
-    - [Early Bird, Flash Fire]
     - bw: [Early Bird, Flash Fire, Unnerve]
+    - rs: [Early Bird, Flash Fire]
+    - []
     egggroups:
     - [Ground]
     evolutions:
@@ -44,8 +45,9 @@ pokemon:
     weight: [49.5]
   Houndour:
     abilities:
-    - [Early Bird, Flash Fire]
     - bw: [Early Bird, Flash Fire, Unnerve]
+    - rs: [Early Bird, Flash Fire]
+    - []
     egggroups:
     - [Ground]
     evolutions:

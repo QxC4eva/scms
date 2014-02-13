@@ -1,8 +1,9 @@
 pokemon:
   Cubone:
     abilities:
-    - [Lightningrod, Rock Head]
     - bw: [Battle Armor, Lightningrod, Rock Head]
+    - rs: [Lightningrod, Rock Head]
+    - []
     egggroups:
     - [Monster]
     evolutions:
@@ -76,8 +77,9 @@ pokemon:
     weight: [6.5]
   Marowak:
     abilities:
-    - [Lightningrod, Rock Head]
     - bw: [Battle Armor, Lightningrod, Rock Head]
+    - rs: [Lightningrod, Rock Head]
+    - []
     egggroups:
     - [Monster]
     evolutions:

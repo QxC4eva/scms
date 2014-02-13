@@ -1,8 +1,9 @@
 pokemon:
   Furret:
     abilities:
-    - [Keen Eye, Run Away]
     - bw: [Frisk, Keen Eye, Run Away]
+    - rs: [Keen Eye, Run Away]
+    - []
     egggroups:
     - [Ground]
     evolutions:
@@ -25,8 +26,9 @@ pokemon:
     weight: [32.5]
   Sentret:
     abilities:
-    - [Keen Eye, Run Away]
     - bw: [Frisk, Keen Eye, Run Away]
+    - rs: [Keen Eye, Run Away]
+    - []
     egggroups:
     - [Ground]
     evolutions:

@@ -1,8 +1,9 @@
 pokemon:
   Crobat:
     abilities:
-    - [Inner Focus]
     - bw: [Infiltrator, Inner Focus]
+    - rs: [Inner Focus]
+    - []
     egggroups:
     - [Flying]
     evolutions:
@@ -26,8 +27,9 @@ pokemon:
     weight: [75]
   Golbat:
     abilities:
-    - [Inner Focus]
     - bw: [Infiltrator, Inner Focus]
+    - rs: [Inner Focus]
+    - []
     egggroups:
     - [Flying]
     evolutions:
@@ -54,8 +56,9 @@ pokemon:
     weight: [55]
   Zubat:
     abilities:
-    - [Inner Focus]
     - bw: [Infiltrator, Inner Focus]
+    - rs: [Inner Focus]
+    - []
     egggroups:
     - [Flying]
     evolutions:

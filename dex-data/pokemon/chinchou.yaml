@@ -1,8 +1,9 @@
 pokemon:
   Chinchou:
     abilities:
-    - [Illuminate, Volt Absorb]
     - bw: [Illuminate, Volt Absorb, Water Absorb]
+    - rs: [Illuminate, Volt Absorb]
+    - []
     egggroups:
     - [Water 2]
     evolutions:
@@ -56,8 +57,9 @@ pokemon:
     weight: [12]
   Lanturn:
     abilities:
-    - [Illuminate, Volt Absorb]
     - bw: [Illuminate, Volt Absorb, Water Absorb]
+    - rs: [Illuminate, Volt Absorb]
+    - []
     egggroups:
     - [Water 2]
     evolutions:

@@ -1,9 +1,10 @@
 pokemon:
   Nidoking:
     abilities:
-    - [Poison Point]
     - bw: [Poison Point, Rivalry, Sheer Force]
       dp: [Poison Point, Rivalry]
+    - rs: [Poison Point]
+    - []
     egggroups:
     - [Ground, Monster]
     evolutions:
@@ -54,9 +55,10 @@ pokemon:
     weight: [62]
   Nidoran-M:
     abilities:
-    - [Poison Point]
     - bw: [Hustle, Poison Point, Rivalry]
       dp: [Poison Point, Rivalry]
+    - rs: [Poison Point]
+    - []
     egggroups:
     - [Ground, Monster]
     evolutions:
@@ -120,9 +122,10 @@ pokemon:
     weight: [9]
   Nidorino:
     abilities:
-    - [Poison Point]
     - bw: [Hustle, Poison Point, Rivalry]
       dp: [Poison Point, Rivalry]
+    - rs: [Poison Point]
+    - []
     egggroups:
     - [Ground, Monster]
     evolutions:

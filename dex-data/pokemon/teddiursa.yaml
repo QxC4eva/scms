@@ -1,9 +1,10 @@
 pokemon:
   Teddiursa:
     abilities:
-    - [Pickup]
     - dp: [Pickup, Quick Feet]
     - bw: [Honey Gather, Pickup, Quick Feet]
+    - rs: [Pickup]
+    - []
     egggroups:
     - [Ground]
     evolutions:
@@ -70,9 +71,10 @@ pokemon:
     weight: [8.8]
   Ursaring:
     abilities:
-    - [Guts]
     - dp: [Guts, Quick Feet]
     - bw: [Guts, Quick Feet, Unnerve]
+    - rs: [Guts]
+    - []
     egggroups:
     - [Ground]
     evolutions:

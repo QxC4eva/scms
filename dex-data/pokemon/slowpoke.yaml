@@ -1,8 +1,9 @@
 pokemon:
   Slowbro:
     abilities:
-    - [Oblivious, Own Tempo]
     - bw: [Oblivious, Own Tempo, Regenerator]
+    - rs: [Oblivious, Own Tempo]
+    - []
     egggroups:
     - [Monster, Water 1]
     evolutions:
@@ -38,8 +39,9 @@ pokemon:
     weight: [78.5]
   Slowking:
     abilities:
-    - [Oblivious, Own Tempo]
     - bw: [Oblivious, Own Tempo, Regenerator]
+    - rs: [Oblivious, Own Tempo]
+    - []
     egggroups:
     - [Monster, Water 1]
     evolutions:
@@ -68,8 +70,9 @@ pokemon:
     weight: [79.5]
   Slowpoke:
     abilities:
-    - [Oblivious, Own Tempo]
     - bw: [Oblivious, Own Tempo, Regenerator]
+    - rs: [Oblivious, Own Tempo]
+    - []
     egggroups:
     - [Monster, Water 1]
     evolutions:

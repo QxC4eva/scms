@@ -1,8 +1,9 @@
 pokemon:
   Ho-Oh:
     abilities:
-    - [Pressure]
     - bw: [Pressure, Regenerator]
+    - rs: [Pressure]
+    - []
     egggroups:
     - []
     evolutions:

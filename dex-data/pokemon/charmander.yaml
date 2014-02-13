@@ -1,8 +1,9 @@
 pokemon:
   Charizard:
     abilities:
-    - [Blaze]
     - bw: [Blaze, Solar Power]
+    - rs: [Blaze]
+    - []
     egggroups:
     - [Dragon, Monster]
     evolutions:
@@ -35,8 +36,9 @@ pokemon:
     weight: [90.5]
   Charmander:
     abilities:
-    - [Blaze]
     - bw: [Blaze, Solar Power]
+    - rs: [Blaze]
+    - []
     egggroups:
     - [Dragon, Monster]
     evolutions:
@@ -108,8 +110,9 @@ pokemon:
     weight: [8.5]
   Charmeleon:
     abilities:
-    - [Blaze]
     - bw: [Blaze, Solar Power]
+    - rs: [Blaze]
+    - []
     egggroups:
     - [Dragon, Monster]
     evolutions:

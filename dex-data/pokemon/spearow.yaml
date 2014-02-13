@@ -1,8 +1,9 @@
 pokemon:
   Fearow:
     abilities:
-    - [Keen Eye]
     - bw: [Keen Eye, Sniper]
+    - rs: [Keen Eye]
+    - []
     egggroups:
     - [Flying]
     evolutions:
@@ -26,8 +27,9 @@ pokemon:
     weight: [38]
   Spearow:
     abilities:
-    - [Keen Eye]
     - bw: [Keen Eye, Sniper]
+    - rs: [Keen Eye]
+    - []
     egggroups:
     - [Flying]
     evolutions:

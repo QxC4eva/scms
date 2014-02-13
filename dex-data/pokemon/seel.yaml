@@ -1,9 +1,10 @@
 pokemon:
   Dewgong:
     abilities:
-    - [Thick Fat]
     - dp: [Hydration, Thick Fat]
     - bw: [Hydration, Ice Body, Thick Fat]
+    - rs: [Thick Fat]
+    - []
     egggroups:
     - [Ground, Water 1]
     evolutions:
@@ -28,9 +29,10 @@ pokemon:
     weight: [120]
   Seel:
     abilities:
-    - [Thick Fat]
     - dp: [Hydration, Thick Fat]
     - bw: [Hydration, Ice Body, Thick Fat]
+    - rs: [Thick Fat]
+    - []
     egggroups:
     - [Ground, Water 1]
     evolutions:

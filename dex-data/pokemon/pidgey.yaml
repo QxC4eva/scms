@@ -1,9 +1,10 @@
 pokemon:
   Pidgeot:
     abilities:
-    - [Keen Eye]
     - dp: [Keen Eye, Tangled Feet]
     - bw: [Big Pecks, Keen Eye, Tangled Feet]
+    - rs: [Keen Eye]
+    - []
     egggroups:
     - [Flying]
     evolutions:
@@ -29,9 +30,10 @@ pokemon:
     weight: [39.5]
   Pidgeotto:
     abilities:
-    - [Keen Eye]
     - dp: [Keen Eye, Tangled Feet]
     - bw: [Big Pecks, Keen Eye, Tangled Feet]
+    - rs: [Keen Eye]
+    - []
     egggroups:
     - [Flying]
     evolutions:
@@ -55,9 +57,10 @@ pokemon:
     weight: [30]
   Pidgey:
     abilities:
-    - [Keen Eye]
     - dp: [Keen Eye, Tangled Feet]
     - bw: [Big Pecks, Keen Eye, Tangled Feet]
+    - rs: [Keen Eye]
+    - []
     egggroups:
     - [Flying]
     evolutions:

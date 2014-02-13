@@ -1,8 +1,9 @@
 pokemon:
   Ampharos:
     abilities:
-    - [Static]
     - bw: [Plus, Static]
+    - rs: [Static]
+    - []
     egggroups:
     - [Ground, Monster]
     evolutions:
@@ -47,8 +48,9 @@ pokemon:
     weight: [61.5]
   Flaaffy:
     abilities:
-    - [Static]
     - bw: [Plus, Static]
+    - rs: [Static]
+    - []
     egggroups:
     - [Ground, Monster]
     evolutions:
@@ -75,8 +77,9 @@ pokemon:
     weight: [13.3]
   Mareep:
     abilities:
-    - [Static]
     - bw: [Plus, Static]
+    - rs: [Static]
+    - []
     egggroups:
     - [Ground, Monster]
     evolutions:

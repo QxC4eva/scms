@@ -1,8 +1,9 @@
 pokemon:
   Pichu:
     abilities:
-    - [Static]
     - bw: [Lightningrod, Static]
+    - rs: [Static]
+    - []
     egggroups:
     - []
     evolutions:
@@ -60,8 +61,9 @@ pokemon:
     weight: [2]
   Pikachu:
     abilities:
-    - [Static]
     - bw: [Lightningrod, Static]
+    - rs: [Static]
+    - []
     egggroups:
     - [Fairy, Ground]
     evolutions:
@@ -103,8 +105,9 @@ pokemon:
     weight: [6]
   Raichu:
     abilities:
-    - [Static]
     - bw: [Lightningrod, Static]
+    - rs: [Static]
+    - []
     egggroups:
     - [Fairy, Ground]
     evolutions:

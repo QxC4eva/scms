@@ -23,8 +23,9 @@ pokemon:
     weight: [38]
   Togepi:
     abilities:
-    - [Hustle, Serene Grace]
     - bw: [Hustle, Serene Grace, Super Luck]
+    - rs: [Hustle, Serene Grace]
+    - []
     egggroups:
     - []
     evolutions:
@@ -92,8 +93,9 @@ pokemon:
     weight: [1.5]
   Togetic:
     abilities:
-    - [Hustle, Serene Grace]
     - bw: [Hustle, Serene Grace, Super Luck]
+    - rs: [Hustle, Serene Grace]
+    - []
     egggroups:
     - [Fairy, Flying]
     evolutions:

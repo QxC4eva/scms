@@ -1,8 +1,9 @@
 pokemon:
   Arcanine:
     abilities:
-    - [Flash Fire, Intimidate]
     - bw: [Flash Fire, Intimidate, Justified]
+    - rs: [Flash Fire, Intimidate]
+    - []
     egggroups:
     - [Ground]
     evolutions:
@@ -31,8 +32,9 @@ pokemon:
     weight: [155]
   Growlithe:
     abilities:
-    - [Flash Fire, Intimidate]
     - bw: [Flash Fire, Intimidate, Justified]
+    - rs: [Flash Fire, Intimidate]
+    - []
     egggroups:
     - [Ground]
     evolutions:

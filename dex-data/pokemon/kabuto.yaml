@@ -1,8 +1,9 @@
 pokemon:
   Kabuto:
     abilities:
-    - [Battle Armor, Swift Swim]
     - bw: [Battle Armor, Swift Swim, Weak Armor]
+    - rs: [Battle Armor, Swift Swim]
+    - []
     egggroups:
     - [Water 1, Water 3]
     evolutions:
@@ -64,8 +65,9 @@ pokemon:
     weight: [11.5]
   Kabutops:
     abilities:
-    - [Battle Armor, Swift Swim]
     - bw: [Battle Armor, Swift Swim, Weak Armor]
+    - rs: [Battle Armor, Swift Swim]
+    - []
     egggroups:
     - [Water 1, Water 3]
     evolutions:

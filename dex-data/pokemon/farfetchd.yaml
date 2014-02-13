@@ -1,8 +1,9 @@
 pokemon:
   Farfetch'd:
     abilities:
-    - [Inner Focus, Keen Eye]
     - bw: [Defiant, Inner Focus, Keen Eye]
+    - rs: [Inner Focus, Keen Eye]
+    - []
     egggroups:
     - [Flying, Ground]
     evolutions:

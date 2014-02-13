@@ -1,9 +1,10 @@
 pokemon:
   Sunflora:
     abilities:
-    - [Chlorophyll]
     - bw: [Chlorophyll, Early Bird, Solar Power]
       dp: [Chlorophyll, Solar Power]
+    - rs: [Chlorophyll]
+    - []
     egggroups:
     - [Plant]
     evolutions:
@@ -28,9 +29,10 @@ pokemon:
     weight: [8.5]
   Sunkern:
     abilities:
-    - [Chlorophyll]
     - bw: [Chlorophyll, Early Bird, Solar Power]
       dp: [Chlorophyll, Solar Power]
+    - rs: [Chlorophyll]
+    - []
     egggroups:
     - [Plant]
     evolutions:

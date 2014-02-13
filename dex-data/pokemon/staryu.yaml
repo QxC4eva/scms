@@ -1,8 +1,9 @@
 pokemon:
   Starmie:
     abilities:
-    - [Illuminate, Natural Cure]
     - bw: [Analytic, Illuminate, Natural Cure]
+    - rs: [Illuminate, Natural Cure]
+    - []
     egggroups:
     - [Water 3]
     evolutions:
@@ -32,8 +33,9 @@ pokemon:
     weight: [80]
   Staryu:
     abilities:
-    - [Illuminate, Natural Cure]
     - bw: [Analytic, Illuminate, Natural Cure]
+    - rs: [Illuminate, Natural Cure]
+    - []
     egggroups:
     - [Water 3]
     evolutions:

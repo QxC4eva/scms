@@ -1,9 +1,10 @@
 pokemon:
   Cloyster:
     abilities:
-    - [Shell Armor]
     - bw: [Overcoat, Shell Armor, Skill Link]
       dp: [Shell Armor, Skill Link]
+    - rs: [Shell Armor]
+    - []
     egggroups:
     - [Water 3]
     evolutions:
@@ -32,9 +33,10 @@ pokemon:
     weight: [132.5]
   Shellder:
     abilities:
-    - [Shell Armor]
     - bw: [Overcoat, Shell Armor, Skill Link]
       dp: [Shell Armor, Skill Link]
+    - rs: [Shell Armor]
+    - []
     egggroups:
     - [Water 3]
     evolutions:

@@ -1,8 +1,9 @@
 pokemon:
   Raikou:
     abilities:
-    - [Pressure]
     - bw: [Pressure, Volt Absorb]
+    - rs: [Pressure]
+    - []
     egggroups:
     - []
     evolutions:

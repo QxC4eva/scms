@@ -1,8 +1,9 @@
 pokemon:
   Entei:
     abilities:
-    - [Pressure]
     - bw: [Flash Fire, Pressure]
+    - rs: [Pressure]
+    - []
     egggroups:
     - []
     evolutions:

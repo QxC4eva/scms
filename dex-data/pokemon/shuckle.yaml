@@ -1,9 +1,10 @@
 pokemon:
   Shuckle:
     abilities:
-    - [Sturdy]
     - bw: [Contrary, Gluttony, Sturdy]
       dp: [Gluttony, Sturdy]
+    - rs: [Sturdy]
+    - []
     egggroups:
     - [Bug]
     evolutions:

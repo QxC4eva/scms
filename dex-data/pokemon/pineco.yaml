@@ -1,8 +1,9 @@
 pokemon:
   Forretress:
     abilities:
-    - [Sturdy]
     - bw: [Overcoat, Sturdy]
+    - rs: [Sturdy]
+    - []
     egggroups:
     - [Bug]
     evolutions:
@@ -28,8 +29,9 @@ pokemon:
     weight: [125.8]
   Pineco:
     abilities:
-    - [Sturdy]
     - bw: [Overcoat, Sturdy]
+    - rs: [Sturdy]
+    - []
     egggroups:
     - [Bug]
     evolutions:

@@ -1,8 +1,9 @@
 pokemon:
   Lugia:
     abilities:
-    - [Pressure]
     - bw: [Multiscale, Pressure]
+    - rs: [Pressure]
+    - []
     egggroups:
     - []
     evolutions:

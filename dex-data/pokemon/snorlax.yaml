@@ -52,8 +52,9 @@ pokemon:
     weight: [105]
   Snorlax:
     abilities:
-    - [Immunity, Thick Fat]
     - bw: [Gluttony, Immunity, Thick Fat]
+    - rs: [Immunity, Thick Fat]
+    - []
     egggroups:
     - [Monster]
     evolutions:

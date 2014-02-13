@@ -1,8 +1,9 @@
 pokemon:
   Croconaw:
     abilities:
-    - [Torrent]
     - bw: [Sheer Force, Torrent]
+    - rs: [Torrent]
+    - []
     egggroups:
     - [Monster, Water 1]
     evolutions:
@@ -24,8 +25,9 @@ pokemon:
     weight: [25]
   Feraligatr:
     abilities:
-    - [Torrent]
     - bw: [Sheer Force, Torrent]
+    - rs: [Torrent]
+    - []
     egggroups:
     - [Monster, Water 1]
     evolutions:
@@ -51,8 +53,9 @@ pokemon:
     weight: [88.8]
   Totodile:
     abilities:
-    - [Torrent]
     - bw: [Sheer Force, Torrent]
+    - rs: [Torrent]
+    - []
     egggroups:
     - [Monster, Water 1]
     evolutions:

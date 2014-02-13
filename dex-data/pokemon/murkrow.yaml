@@ -22,9 +22,10 @@ pokemon:
     weight: [27.3]
   Murkrow:
     abilities:
-    - [Insomnia]
     - dp: [Insomnia, Super Luck]
     - bw: [Insomnia, Prankster, Super Luck]
+    - rs: [Insomnia]
+    - []
     egggroups:
     - [Flying]
     evolutions:

@@ -1,8 +1,9 @@
 pokemon:
   Bellsprout:
     abilities:
-    - [Chlorophyll]
     - bw: [Chlorophyll, Gluttony]
+    - rs: [Chlorophyll]
+    - []
     egggroups:
     - [Plant]
     evolutions:
@@ -61,8 +62,9 @@ pokemon:
     weight: [4]
   Victreebel:
     abilities:
-    - [Chlorophyll]
     - bw: [Chlorophyll, Gluttony]
+    - rs: [Chlorophyll]
+    - []
     egggroups:
     - [Plant]
     evolutions:
@@ -92,8 +94,9 @@ pokemon:
     weight: [15.5]
   Weepinbell:
     abilities:
-    - [Chlorophyll]
     - bw: [Chlorophyll, Gluttony]
+    - rs: [Chlorophyll]
+    - []
     egggroups:
     - [Plant]
     evolutions:

@@ -1,8 +1,9 @@
 pokemon:
   Mew:
     abilities:
-    - [Synchronize]
     - bw: [Synchronize]
+    - rs: [Synchronize]
+    - []
     egggroups:
     - []
     evolutions:

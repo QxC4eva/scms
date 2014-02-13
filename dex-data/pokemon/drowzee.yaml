@@ -1,9 +1,10 @@
 pokemon:
   Drowzee:
     abilities:
-    - [Insomnia]
     - dp: [Forewarn, Insomnia]
     - bw: [Forewarn, Inner Focus, Insomnia]
+    - rs: [Insomnia]
+    - []
     egggroups:
     - [Humanshape]
     evolutions:
@@ -76,9 +77,10 @@ pokemon:
     weight: [32.4]
   Hypno:
     abilities:
-    - [Insomnia]
     - dp: [Forewarn, Insomnia]
     - bw: [Forewarn, Inner Focus, Insomnia]
+    - rs: [Insomnia]
+    - []
     egggroups:
     - [Humanshape]
     evolutions:

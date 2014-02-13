@@ -42,8 +42,9 @@ pokemon:
     weight: [15]
   Sudowoodo:
     abilities:
-    - [Rock Head, Sturdy]
     - bw: [Rattled, Rock Head, Sturdy]
+    - rs: [Rock Head, Sturdy]
+    - []
     egggroups:
     - [Mineral]
     evolutions:

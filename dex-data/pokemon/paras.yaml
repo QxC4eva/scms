@@ -1,9 +1,10 @@
 pokemon:
   Paras:
     abilities:
-    - [Effect Spore]
     - dp: [Dry Skin, Effect Spore]
     - bw: [Damp, Dry Skin, Effect Spore]
+    - rs: [Effect Spore]
+    - []
     egggroups:
     - [Bug, Plant]
     evolutions:
@@ -67,9 +68,10 @@ pokemon:
     weight: [5.4]
   Parasect:
     abilities:
-    - [Effect Spore]
     - dp: [Dry Skin, Effect Spore]
     - bw: [Damp, Dry Skin, Effect Spore]
+    - rs: [Effect Spore]
+    - []
     egggroups:
     - [Bug, Plant]
     evolutions:

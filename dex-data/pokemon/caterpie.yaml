@@ -1,8 +1,9 @@
 pokemon:
   Butterfree:
     abilities:
-    - [Compound Eyes]
     - bw: [Compound Eyes, Tinted Lens]
+    - rs: [Compound Eyes]
+    - []
     egggroups:
     - [Bug]
     evolutions:
@@ -62,8 +63,9 @@ pokemon:
     weight: [32]
   Caterpie:
     abilities:
-    - [Shield Dust]
     - bw: [Run Away, Shield Dust]
+    - rs: [Shield Dust]
+    - []
     egggroups:
     - [Bug]
     evolutions:
@@ -88,7 +90,8 @@ pokemon:
     weight: [2.9]
   Metapod:
     abilities:
-    - [Shed Skin]
+    - rs: [Shed Skin]
+    - []
     egggroups:
     - [Bug]
     evolutions:

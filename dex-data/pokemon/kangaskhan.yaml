@@ -1,9 +1,10 @@
 pokemon:
   Kangaskhan:
     abilities:
-    - [Early Bird]
     - dp: [Early Bird, Scrappy]
     - bw: [Early Bird, Inner Focus, Scrappy]
+    - rs: [Early Bird]
+    - []
     egggroups:
     - [Monster]
     evolutions:

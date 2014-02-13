@@ -1,9 +1,10 @@
 pokemon:
   Venomoth:
     abilities:
-    - [Shield Dust]
     - dp: [Shield Dust, Tinted Lens]
     - bw: [Shield Dust, Tinted Lens, Wonder Skin]
+    - rs: [Shield Dust]
+    - []
     egggroups:
     - [Bug]
     evolutions:
@@ -35,9 +36,10 @@ pokemon:
     weight: [12.5]
   Venonat:
     abilities:
-    - [Compound Eyes]
     - dp: [Compound Eyes, Tinted Lens]
     - bw: [Compound Eyes, Run Away, Tinted Lens]
+    - rs: [Compound Eyes]
+    - []
     egggroups:
     - [Bug]
     evolutions:

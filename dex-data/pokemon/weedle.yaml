@@ -1,8 +1,9 @@
 pokemon:
   Beedrill:
     abilities:
-    - [Swarm]
     - bw: [Sniper, Swarm]
+    - rs: [Swarm]
+    - []
     egggroups:
     - [Bug]
     evolutions:
@@ -60,7 +61,8 @@ pokemon:
     weight: [29.5]
   Kakuna:
     abilities:
-    - [Shed Skin]
+    - rs: [Shed Skin]
+    - []
     egggroups:
     - [Bug]
     evolutions:
@@ -84,8 +86,9 @@ pokemon:
     weight: [10]
   Weedle:
     abilities:
-    - [Shield Dust]
     - bw: [Run Away, Shield Dust]
+    - rs: [Shield Dust]
+    - []
     egggroups:
     - [Bug]
     evolutions:

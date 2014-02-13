@@ -1,9 +1,10 @@
 pokemon:
   Hitmonchan:
     abilities:
-    - [Keen Eye]
     - dp: [Iron Fist, Keen Eye]
     - bw: [Inner Focus, Iron Fist, Keen Eye]
+    - rs: [Keen Eye]
+    - []
     egggroups:
     - [Humanshape]
     evolutions:
@@ -44,9 +45,10 @@ pokemon:
     weight: [50.2]
   Hitmonlee:
     abilities:
-    - [Limber]
     - dp: [Limber, Reckless]
     - bw: [Limber, Reckless, Unburden]
+    - rs: [Limber]
+    - []
     egggroups:
     - [Humanshape]
     evolutions:
@@ -81,9 +83,10 @@ pokemon:
     weight: [49.8]
   Hitmontop:
     abilities:
-    - [Intimidate]
     - dp: [Intimidate, Technician]
     - bw: [Intimidate, Steadfast, Technician]
+    - rs: [Intimidate]
+    - []
     egggroups:
     - [Humanshape]
     evolutions:
@@ -110,9 +113,10 @@ pokemon:
     weight: [48]
   Tyrogue:
     abilities:
-    - [Guts]
     - dp: [Guts, Steadfast]
     - bw: [Guts, Steadfast, Vital Spirit]
+    - rs: [Guts]
+    - []
     egggroups:
     - []
     evolutions:

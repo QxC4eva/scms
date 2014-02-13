@@ -1,9 +1,10 @@
 pokemon:
   Pinsir:
     abilities:
-    - [Hyper Cutter]
     - dp: [Hyper Cutter, Mold Breaker]
     - bw: [Hyper Cutter, Mold Breaker, Moxie]
+    - rs: [Hyper Cutter]
+    - []
     egggroups:
     - [Bug]
     evolutions:

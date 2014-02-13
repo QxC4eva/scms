@@ -1,9 +1,10 @@
 pokemon:
   Igglybuff:
     abilities:
-    - [Cute Charm]
     - bw: [Cute Charm, Friend Guard]
       xy: [Cute Charm, Friend Guard, Competitive]
+    - rs: [Cute Charm]
+    - []
     egggroups:
     - []
     evolutions:
@@ -66,9 +67,10 @@ pokemon:
     weight: [1]
   Jigglypuff:
     abilities:
-    - [Cute Charm]
     - bw: [Cute Charm, Friend Guard]
       xy: [Cute Charm, Friend Guard, Competitive]
+    - rs: [Cute Charm]
+    - []
     egggroups:
     - [Fairy]
     evolutions:
@@ -110,9 +112,10 @@ pokemon:
     weight: [5.5]
   Wigglytuff:
     abilities:
-    - [Cute Charm]
     - bw: [Cute Charm, Frisk]
       xy: [Cute Charm, Friend Guard, Competitive]
+    - rs: [Cute Charm]
+    - []
     egggroups:
     - [Fairy]
     evolutions:

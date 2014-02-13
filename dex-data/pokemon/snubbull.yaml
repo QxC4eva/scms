@@ -1,9 +1,10 @@
 pokemon:
   Granbull:
     abilities:
-    - [Intimidate]
     - dp: [Intimidate, Quick Feet]
     - bw: [Intimidate, Quick Feet, Rattled]
+    - rs: [Intimidate]
+    - []
     egggroups:
     - [Fairy, Ground]
     evolutions:
@@ -30,8 +31,9 @@ pokemon:
     weight: [48.7]
   Snubbull:
     abilities:
-    - [Intimidate, Run Away]
     - bw: [Intimidate, Rattled, Run Away]
+    - rs: [Intimidate, Run Away]
+    - []
     egggroups:
     - [Fairy, Ground]
     evolutions:

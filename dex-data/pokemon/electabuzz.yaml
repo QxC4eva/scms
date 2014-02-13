@@ -1,8 +1,9 @@
 pokemon:
   Electabuzz:
     abilities:
-    - [Static]
     - bw: [Static, Vital Spirit]
+    - rs: [Static]
+    - []
     egggroups:
     - [Humanshape]
     evolutions:
@@ -59,8 +60,9 @@ pokemon:
     weight: [138.6]
   Elekid:
     abilities:
-    - [Static]
     - bw: [Static, Vital Spirit]
+    - rs: [Static]
+    - []
     egggroups:
     - []
     evolutions:

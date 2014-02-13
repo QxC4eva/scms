@@ -1,9 +1,10 @@
 pokemon:
   Eevee:
     abilities:
-    - [Run Away]
     - bw: [Adaptability, Anticipation, Run Away]
       dp: [Adaptability, Run Away]
+    - rs: [Run Away]
+    - []
     egggroups:
     - [Ground]
     evolutions:
@@ -61,8 +62,9 @@ pokemon:
     weight: [6.5]
   Espeon:
     abilities:
-    - [Synchronize]
     - bw: [Magic Bounce, Synchronize]
+    - rs: [Synchronize]
+    - []
     egggroups:
     - [Ground]
     evolutions:
@@ -100,8 +102,9 @@ pokemon:
     weight: [26.5]
   Flareon:
     abilities:
-    - [Flash Fire]
     - bw: [Flash Fire, Guts]
+    - rs: [Flash Fire]
+    - []
     egggroups:
     - [Ground]
     evolutions:
@@ -158,8 +161,9 @@ pokemon:
     weight: [25.9]
   Jolteon:
     abilities:
-    - [Volt Absorb]
     - bw: [Quick Feet, Volt Absorb]
+    - rs: [Volt Absorb]
+    - []
     egggroups:
     - [Ground]
     evolutions:
@@ -242,8 +246,9 @@ pokemon:
     weight: [23.5]
   Umbreon:
     abilities:
-    - [Synchronize]
     - bw: [Inner Focus, Synchronize]
+    - rs: [Synchronize]
+    - []
     egggroups:
     - [Ground]
     evolutions:
@@ -276,8 +281,9 @@ pokemon:
     weight: [27]
   Vaporeon:
     abilities:
-    - [Water Absorb]
     - bw: [Hydration, Water Absorb]
+    - rs: [Water Absorb]
+    - []
     egggroups:
     - [Ground]
     evolutions:

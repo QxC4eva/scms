@@ -22,9 +22,10 @@ pokemon:
     weight: [291]
   Piloswine:
     abilities:
-    - [Oblivious]
     - dp: [Oblivious, Snow Cloak]
     - bw: [Oblivious, Snow Cloak, Thick Fat]
+    - rs: [Oblivious]
+    - []
     egggroups:
     - [Ground]
     evolutions:
@@ -51,9 +52,10 @@ pokemon:
     weight: [55.8]
   Swinub:
     abilities:
-    - [Oblivious]
     - dp: [Oblivious, Snow Cloak]
     - bw: [Oblivious, Snow Cloak, Thick Fat]
+    - rs: [Oblivious]
+    - []
     egggroups:
     - [Ground]
     evolutions:

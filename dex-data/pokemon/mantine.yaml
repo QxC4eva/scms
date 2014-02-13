@@ -1,8 +1,9 @@
 pokemon:
   Mantine:
     abilities:
-    - [Swift Swim, Water Absorb]
     - bw: [Swift Swim, Water Absorb, Water Veil]
+    - rs: [Swift Swim, Water Absorb]
+    - []
     egggroups:
     - [Water 1]
     evolutions:

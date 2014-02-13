@@ -1,8 +1,9 @@
 pokemon:
   Heracross:
     abilities:
-    - [Guts, Swarm]
     - bw: [Guts, Moxie, Swarm]
+    - rs: [Guts, Swarm]
+    - []
     egggroups:
     - [Bug]
     evolutions:

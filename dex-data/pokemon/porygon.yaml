@@ -1,8 +1,9 @@
 pokemon:
   Porygon:
     abilities:
-    - [Trace]
     - bw: [Analytic, Download, Trace]
+    - rs: [Trace]
+    - []
     egggroups:
     - [Mineral]
     evolutions:
@@ -91,9 +92,10 @@ pokemon:
     weight: [34]
   Porygon2:
     abilities:
-    - [Trace]
     - dp: [Download, Trace]
     - bw: [Analytic, Download, Trace]
+    - rs: [Trace]
+    - []
     egggroups:
     - [Mineral]
     evolutions:

@@ -1,8 +1,9 @@
 pokemon:
   Qwilfish:
     abilities:
-    - [Poison Point, Swift Swim]
     - bw: [Intimidate, Poison Point, Swift Swim]
+    - rs: [Poison Point, Swift Swim]
+    - []
     egggroups:
     - [Water 2]
     evolutions:

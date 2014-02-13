@@ -1,8 +1,9 @@
 pokemon:
   Corsola:
     abilities:
-    - [Hustle, Natural Cure]
     - bw: [Hustle, Natural Cure, Regenerator]
+    - rs: [Hustle, Natural Cure]
+    - []
     egggroups:
     - [Water 1, Water 3]
     evolutions:

@@ -1,8 +1,9 @@
 pokemon:
   Politoed:
     abilities:
-    - [Damp, Water Absorb]
     - bw: [Damp, Drizzle, Water Absorb]
+    - rs: [Damp, Water Absorb]
+    - []
     egggroups:
     - [Water 1]
     evolutions:
@@ -30,8 +31,9 @@ pokemon:
     weight: [33.9]
   Poliwag:
     abilities:
-    - [Damp, Water Absorb]
     - bw: [Damp, Swift Swim, Water Absorb]
+    - rs: [Damp, Water Absorb]
+    - []
     egggroups:
     - [Water 1]
     evolutions:
@@ -90,8 +92,9 @@ pokemon:
     weight: [12.4]
   Poliwhirl:
     abilities:
-    - [Damp, Water Absorb]
     - bw: [Damp, Swift Swim, Water Absorb]
+    - rs: [Damp, Water Absorb]
+    - []
     egggroups:
     - [Water 1]
     evolutions:
@@ -123,8 +126,9 @@ pokemon:
     weight: [20]
   Poliwrath:
     abilities:
-    - [Damp, Water Absorb]
     - bw: [Damp, Swift Swim, Water Absorb]
+    - rs: [Damp, Water Absorb]
+    - []
     egggroups:
     - [Water 1]
     evolutions:

@@ -1,8 +1,9 @@
 pokemon:
   Magnemite:
     abilities:
-    - [Magnet Pull, Sturdy]
     - bw: [Analytic, Magnet Pull, Sturdy]
+    - rs: [Magnet Pull, Sturdy]
+    - []
     egggroups:
     - [Mineral]
     evolutions:
@@ -58,8 +59,9 @@ pokemon:
     weight: [6]
   Magneton:
     abilities:
-    - [Magnet Pull, Sturdy]
     - bw: [Analytic, Magnet Pull, Sturdy]
+    - rs: [Magnet Pull, Sturdy]
+    - []
     egggroups:
     - [Mineral]
     evolutions:

@@ -1,8 +1,9 @@
 pokemon:
   Mewtwo:
     abilities:
-    - [Pressure]
     - bw: [Pressure, Unnerve]
+    - rs: [Pressure]
+    - []
     egggroups:
     - []
     evolutions:

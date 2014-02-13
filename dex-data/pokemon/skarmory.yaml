@@ -1,8 +1,9 @@
 pokemon:
   Skarmory:
     abilities:
-    - [Keen Eye, Sturdy]
     - bw: [Keen Eye, Sturdy, Weak Armor]
+    - rs: [Keen Eye, Sturdy]
+    - []
     egggroups:
     - [Flying]
     evolutions:

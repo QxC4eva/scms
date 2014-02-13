@@ -1,8 +1,9 @@
 pokemon:
   Blastoise:
     abilities:
-    - [Torrent]
     - bw: [Rain Dish, Torrent]
+    - rs: [Torrent]
+    - []
     egggroups:
     - [Monster, Water 1]
     evolutions:
@@ -49,8 +50,9 @@ pokemon:
     weight: [101.1]
   Squirtle:
     abilities:
-    - [Torrent]
     - bw: [Rain Dish, Torrent]
+    - rs: [Torrent]
+    - []
     egggroups:
     - [Monster, Water 1]
     evolutions:
@@ -119,8 +121,9 @@ pokemon:
     weight: [9]
   Wartortle:
     abilities:
-    - [Torrent]
     - bw: [Rain Dish, Torrent]
+    - rs: [Torrent]
+    - []
     egggroups:
     - [Monster, Water 1]
     evolutions:

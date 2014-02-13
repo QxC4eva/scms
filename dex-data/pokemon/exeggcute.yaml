@@ -1,8 +1,9 @@
 pokemon:
   Exeggcute:
     abilities:
-    - [Chlorophyll]
     - bw: [Chlorophyll, Harvest]
+    - rs: [Chlorophyll]
+    - []
     egggroups:
     - [Plant]
     evolutions:
@@ -66,8 +67,9 @@ pokemon:
     weight: [2.5]
   Exeggutor:
     abilities:
-    - [Chlorophyll]
     - bw: [Chlorophyll, Harvest]
+    - rs: [Chlorophyll]
+    - []
     egggroups:
     - [Plant]
     evolutions:

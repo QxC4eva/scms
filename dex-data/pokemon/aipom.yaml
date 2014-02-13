@@ -1,8 +1,9 @@
 pokemon:
   Aipom:
     abilities:
-    - [Pickup, Run Away]
     - bw: [Pickup, Run Away, Skill Link]
+    - rs: [Pickup, Run Away]
+    - []
     egggroups:
     - [Ground]
     evolutions:

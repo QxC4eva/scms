@@ -1,8 +1,9 @@
 pokemon:
   Ditto:
     abilities:
-    - [Limber]
     - bw: [Imposter, Limber]
+    - rs: [Limber]
+    - []
     egggroups:
     - [Ditto]
     evolutions:

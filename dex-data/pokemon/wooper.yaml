@@ -1,8 +1,9 @@
 pokemon:
   Quagsire:
     abilities:
-    - [Damp, Water Absorb]
     - bw: [Damp, Unaware, Water Absorb]
+    - rs: [Damp, Water Absorb]
+    - []
     egggroups:
     - [Ground, Water 1]
     evolutions:
@@ -31,8 +32,9 @@ pokemon:
     weight: [75]
   Wooper:
     abilities:
-    - [Damp, Water Absorb]
     - bw: [Damp, Unaware, Water Absorb]
+    - rs: [Damp, Water Absorb]
+    - []
     egggroups:
     - [Ground, Water 1]
     evolutions:

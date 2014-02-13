@@ -1,8 +1,9 @@
 pokemon:
   Diglett:
     abilities:
-    - [Arena Trap, Sand Veil]
     - bw: [Arena Trap, Sand Force, Sand Veil]
+    - rs: [Arena Trap, Sand Veil]
+    - []
     egggroups:
     - [Ground]
     evolutions:
@@ -58,8 +59,9 @@ pokemon:
     weight: [0.8]
   Dugtrio:
     abilities:
-    - [Arena Trap, Sand Veil]
     - bw: [Arena Trap, Sand Force, Sand Veil]
+    - rs: [Arena Trap, Sand Veil]
+    - []
     egggroups:
     - [Ground]
     evolutions:

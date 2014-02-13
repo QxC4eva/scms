@@ -1,9 +1,10 @@
 pokemon:
   Stantler:
     abilities:
-    - [Intimidate]
     - dp: [Frisk, Intimidate]
     - bw: [Frisk, Intimidate, Sap Sipper]
+    - rs: [Intimidate]
+    - []
     egggroups:
     - [Ground]
     evolutions:

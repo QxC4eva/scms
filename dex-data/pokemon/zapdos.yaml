@@ -1,9 +1,10 @@
 pokemon:
   Zapdos:
     abilities:
-    - [Pressure]
     - bw: [Lightningrod, Pressure]
     - xy: [Static, Pressure]
+    - rs: [Pressure]
+    - []
     egggroups:
     - []
     evolutions:

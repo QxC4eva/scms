@@ -1,9 +1,10 @@
 pokemon:
   Clefable:
     abilities:
-    - [Cute Charm]
     - dp: [Cute Charm, Magic Guard]
     - bw: [Cute Charm, Magic Guard, Unaware]
+    - rs: [Cute Charm]
+    - []
     egggroups:
     - [Fairy]
     evolutions:
@@ -32,9 +33,10 @@ pokemon:
     weight: [40]
   Clefairy:
     abilities:
-    - [Cute Charm]
     - dp: [Cute Charm, Magic Guard]
     - bw: [Cute Charm, Friend Guard, Magic Guard]
+    - rs: [Cute Charm]
+    - []
     egggroups:
     - [Fairy]
     evolutions:
@@ -84,9 +86,10 @@ pokemon:
     weight: [7.5]
   Cleffa:
     abilities:
-    - [Cute Charm]
     - dp: [Cute Charm, Magic Guard]
     - bw: [Cute Charm, Friend Guard, Magic Guard]
+    - rs: [Cute Charm]
+    - []
     egggroups:
     - []
     evolutions:

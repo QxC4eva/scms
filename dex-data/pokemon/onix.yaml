@@ -1,8 +1,9 @@
 pokemon:
   Onix:
     abilities:
-    - [Rock Head, Sturdy]
     - bw: [Rock Head, Sturdy, Weak Armor]
+    - rs: [Rock Head, Sturdy]
+    - []
     egggroups:
     - [Mineral]
     evolutions:
@@ -64,8 +65,9 @@ pokemon:
     weight: [210]
   Steelix:
     abilities:
-    - [Rock Head, Sturdy]
     - bw: [Rock Head, Sheer Force, Sturdy]
+    - rs: [Rock Head, Sturdy]
+    - []
     egggroups:
     - [Mineral]
     evolutions:

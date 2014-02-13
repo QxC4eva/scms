@@ -1,8 +1,9 @@
 pokemon:
   Raticate:
     abilities:
-    - [Guts, Run Away]
     - bw: [Guts, Hustle, Run Away]
+    - rs: [Guts, Run Away]
+    - []
     egggroups:
     - [Ground]
     evolutions:
@@ -29,8 +30,9 @@ pokemon:
     weight: [18.5]
   Rattata:
     abilities:
-    - [Guts, Run Away]
     - bw: [Guts, Hustle, Run Away]
+    - rs: [Guts, Run Away]
+    - []
     egggroups:
     - [Ground]
     evolutions:

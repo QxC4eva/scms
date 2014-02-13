@@ -1,8 +1,9 @@
 pokemon:
   Dragonair:
     abilities:
-    - [Shed Skin]
     - bw: [Marvel Scale, Shed Skin]
+    - rs: [Shed Skin]
+    - []
     egggroups:
     - [Dragon, Water 1]
     evolutions:
@@ -23,8 +24,9 @@ pokemon:
     weight: [16.5]
   Dragonite:
     abilities:
-    - [Inner Focus]
     - bw: [Inner Focus, Multiscale]
+    - rs: [Inner Focus]
+    - []
     egggroups:
     - [Dragon, Water 1]
     evolutions:
@@ -67,8 +69,9 @@ pokemon:
     weight: [210]
   Dratini:
     abilities:
-    - [Shed Skin]
     - bw: [Marvel Scale, Shed Skin]
+    - rs: [Shed Skin]
+    - []
     egggroups:
     - [Dragon, Water 1]
     evolutions:

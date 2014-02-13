@@ -1,8 +1,9 @@
 pokemon:
   Ponyta:
     abilities:
-    - [Flash Fire, Run Away]
     - bw: [Flame Body, Flash Fire, Run Away]
+    - rs: [Flash Fire, Run Away]
+    - []
     egggroups:
     - [Ground]
     evolutions:
@@ -58,8 +59,9 @@ pokemon:
     weight: [30]
   Rapidash:
     abilities:
-    - [Flash Fire, Run Away]
     - bw: [Flame Body, Flash Fire, Run Away]
+    - rs: [Flash Fire, Run Away]
+    - []
     egggroups:
     - [Ground]
     evolutions:

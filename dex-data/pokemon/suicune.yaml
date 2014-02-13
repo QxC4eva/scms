@@ -1,8 +1,9 @@
 pokemon:
   Suicune:
     abilities:
-    - [Pressure]
     - bw: [Pressure, Water Absorb]
+    - rs: [Pressure]
+    - []
     egggroups:
     - []
     evolutions:

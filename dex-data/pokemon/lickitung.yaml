@@ -21,8 +21,9 @@ pokemon:
     weight: [140]
   Lickitung:
     abilities:
-    - [Oblivious, Own Tempo]
     - bw: [Cloud Nine, Oblivious, Own Tempo]
+    - rs: [Oblivious, Own Tempo]
+    - []
     egggroups:
     - [Monster]
     evolutions:

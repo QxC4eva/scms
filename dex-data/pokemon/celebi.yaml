@@ -1,8 +1,9 @@
 pokemon:
   Celebi:
     abilities:
-    - [Natural Cure]
     - bw: [Natural Cure]
+    - rs: [Natural Cure]
+    - []
     egggroups:
     - []
     evolutions:

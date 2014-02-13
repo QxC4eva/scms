@@ -1,8 +1,9 @@
 pokemon:
   Larvitar:
     abilities:
-    - [Guts]
     - bw: [Guts, Sand Veil]
+    - rs: [Guts]
+    - []
     egggroups:
     - [Monster]
     evolutions:
@@ -57,7 +58,8 @@ pokemon:
     weight: [72]
   Pupitar:
     abilities:
-    - [Shed Skin]
+    - rs: [Shed Skin]
+    - []
     egggroups:
     - [Monster]
     evolutions:
@@ -79,8 +81,9 @@ pokemon:
     weight: [152]
   Tyranitar:
     abilities:
-    - [Sand Stream]
     - bw: [Sand Stream, Unnerve]
+    - rs: [Sand Stream]
+    - []
     egggroups:
     - [Monster]
     evolutions:

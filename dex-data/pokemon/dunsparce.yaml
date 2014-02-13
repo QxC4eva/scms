@@ -1,8 +1,9 @@
 pokemon:
   Dunsparce:
     abilities:
-    - [Run Away, Serene Grace]
     - bw: [Rattled, Run Away, Serene Grace]
+    - rs: [Run Away, Serene Grace]
+    - []
     egggroups:
     - [Ground]
     evolutions:

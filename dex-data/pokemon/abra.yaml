@@ -1,8 +1,9 @@
 pokemon:
   Abra:
     abilities:
-    - [Inner Focus, Synchronize]
     - bw: [Inner Focus, Magic Guard, Synchronize]
+    - rs: [Inner Focus, Synchronize]
+    - []
     egggroups:
     - [Humanshape]
     evolutions:
@@ -69,8 +70,9 @@ pokemon:
     weight: [19.5]
   Alakazam:
     abilities:
-    - [Inner Focus, Synchronize]
     - bw: [Inner Focus, Magic Guard, Synchronize]
+    - rs: [Inner Focus, Synchronize]
+    - []
     egggroups:
     - [Humanshape]
     evolutions:
@@ -117,8 +119,9 @@ pokemon:
     weight: [48]
   Kadabra:
     abilities:
-    - [Inner Focus, Synchronize]
     - bw: [Inner Focus, Magic Guard, Synchronize]
+    - rs: [Inner Focus, Synchronize]
+    - []
     egggroups:
     - [Humanshape]
     evolutions:

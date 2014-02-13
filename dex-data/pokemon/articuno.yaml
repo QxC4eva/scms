@@ -1,8 +1,9 @@
 pokemon:
   Articuno:
     abilities:
-    - [Pressure]
     - bw: [Pressure, Snow Cloak]
+    - rs: [Pressure]
+    - []
     egggroups:
     - []
     evolutions:

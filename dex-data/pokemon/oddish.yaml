@@ -1,8 +1,9 @@
 pokemon:
   Bellossom:
     abilities:
-    - [Chlorophyll]
     - bw: [Chlorophyll, Healer]
+    - rs: [Chlorophyll]
+    - []
     egggroups:
     - [Plant]
     evolutions:
@@ -29,8 +30,9 @@ pokemon:
     weight: [5.8]
   Gloom:
     abilities:
-    - [Chlorophyll]
     - bw: [Chlorophyll, Stench]
+    - rs: [Chlorophyll]
+    - []
     egggroups:
     - [Plant]
     evolutions:
@@ -55,8 +57,9 @@ pokemon:
     weight: [8.6]
   Oddish:
     abilities:
-    - [Chlorophyll]
     - bw: [Chlorophyll, Run Away]
+    - rs: [Chlorophyll]
+    - []
     egggroups:
     - [Plant]
     evolutions:
@@ -114,8 +117,9 @@ pokemon:
     weight: [5.4]
   Vileplume:
     abilities:
-    - [Chlorophyll]
     - bw: [Chlorophyll, Effect Spore]
+    - rs: [Chlorophyll]
+    - []
     egggroups:
     - [Plant]
     evolutions:

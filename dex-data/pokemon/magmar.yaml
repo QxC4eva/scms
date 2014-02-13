@@ -1,8 +1,9 @@
 pokemon:
   Magby:
     abilities:
-    - [Flame Body]
     - bw: [Flame Body, Vital Spirit]
+    - rs: [Flame Body]
+    - []
     egggroups:
     - []
     evolutions:
@@ -61,8 +62,9 @@ pokemon:
     weight: [21.4]
   Magmar:
     abilities:
-    - [Flame Body]
     - bw: [Flame Body, Vital Spirit]
+    - rs: [Flame Body]
+    - []
     egggroups:
     - [Humanshape]
     evolutions:

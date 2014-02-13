@@ -1,9 +1,10 @@
 pokemon:
   Machamp:
     abilities:
-    - [Guts]
     - bw: [Guts, No Guard, Steadfast]
       dp: [Guts, No Guard]
+    - rs: [Guts]
+    - []
     egggroups:
     - [Humanshape]
     evolutions:
@@ -32,9 +33,10 @@ pokemon:
     weight: [130]
   Machoke:
     abilities:
-    - [Guts]
     - bw: [Guts, No Guard, Steadfast]
       dp: [Guts, No Guard]
+    - rs: [Guts]
+    - []
     egggroups:
     - [Humanshape]
     evolutions:
@@ -59,9 +61,10 @@ pokemon:
     weight: [70.5]
   Machop:
     abilities:
-    - [Guts]
     - bw: [Guts, No Guard, Steadfast]
       dp: [Guts, No Guard]
+    - rs: [Guts]
+    - []
     egggroups:
     - [Humanshape]
     evolutions:

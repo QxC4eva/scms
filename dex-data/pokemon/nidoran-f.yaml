@@ -1,9 +1,10 @@
 pokemon:
   Nidoqueen:
     abilities:
-    - [Poison Point]
     - dp: [Poison Point, Rivalry]
     - bw: [Poison Point, Rivalry, Sheer Force]
+    - rs: [Poison Point]
+    - []
     egggroups:
     - []
     evolutions:
@@ -53,9 +54,10 @@ pokemon:
     weight: [60]
   Nidoran-F:
     abilities:
-    - [Poison Point]
     - dp: [Poison Point, Rivalry]
     - bw: [Hustle, Poison Point, Rivalry]
+    - rs: [Poison Point]
+    - []
     egggroups:
     - [Ground, Monster]
     evolutions:
@@ -120,9 +122,10 @@ pokemon:
     weight: [7]
   Nidorina:
     abilities:
-    - [Poison Point]
     - dp: [Poison Point, Rivalry]
     - bw: [Hustle, Poison Point, Rivalry]
+    - rs: [Poison Point]
+    - []
     egggroups:
     - []
     evolutions:

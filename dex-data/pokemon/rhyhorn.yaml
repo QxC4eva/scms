@@ -1,8 +1,9 @@
 pokemon:
   Rhydon:
     abilities:
-    - [Lightningrod, Rock Head]
     - bw: [Lightningrod, Reckless, Rock Head]
+    - rs: [Lightningrod, Rock Head]
+    - []
     egggroups:
     - [Ground, Monster]
     evolutions:
@@ -42,8 +43,9 @@ pokemon:
     weight: [120]
   Rhyhorn:
     abilities:
-    - [Lightningrod, Rock Head]
     - bw: [Lightningrod, Reckless, Rock Head]
+    - rs: [Lightningrod, Rock Head]
+    - []
     egggroups:
     - [Ground, Monster]
     evolutions:

@@ -1,9 +1,10 @@
 pokemon:
   Meowth:
     abilities:
-    - [Pickup]
     - bw: [Pickup, Technician, Unnerve]
       dp: [Pickup, Technician]
+    - rs: [Pickup]
+    - []
     egggroups:
     - [Ground]
     evolutions:
@@ -71,9 +72,10 @@ pokemon:
     weight: [4.2]
   Persian:
     abilities:
-    - [Limber]
     - bw: [Limber, Technician, Unnerve]
       dp: [Limber, Technician]
+    - rs: [Limber]
+    - []
     egggroups:
     - [Ground]
     evolutions:

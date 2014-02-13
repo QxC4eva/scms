@@ -1,8 +1,9 @@
 pokemon:
   Misdreavus:
     abilities:
-    - [Levitate]
     - bw: [Levitate]
+    - rs: [Levitate]
+    - []
     egggroups:
     - [Indeterminate]
     evolutions:

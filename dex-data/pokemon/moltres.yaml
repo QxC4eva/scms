@@ -1,8 +1,9 @@
 pokemon:
   Moltres:
     abilities:
-    - [Pressure]
     - bw: [Flame Body, Pressure]
+    - rs: [Pressure]
+    - []
     egggroups:
     - []
     evolutions:

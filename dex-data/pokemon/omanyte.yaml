@@ -1,8 +1,9 @@
 pokemon:
   Omanyte:
     abilities:
-    - [Shell Armor, Swift Swim]
     - bw: [Shell Armor, Swift Swim, Weak Armor]
+    - rs: [Shell Armor, Swift Swim]
+    - []
     egggroups:
     - [Water 1, Water 3]
     evolutions:
@@ -64,8 +65,9 @@ pokemon:
     weight: [7.5]
   Omastar:
     abilities:
-    - [Shell Armor, Swift Swim]
     - bw: [Shell Armor, Swift Swim, Weak Armor]
+    - rs: [Shell Armor, Swift Swim]
+    - []
     egggroups:
     - [Water 1, Water 3]
     evolutions:

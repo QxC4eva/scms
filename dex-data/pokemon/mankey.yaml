@@ -1,9 +1,10 @@
 pokemon:
   Mankey:
     abilities:
-    - [Vital Spirit]
     - bw: [Anger Point, Defiant, Vital Spirit]
       dp: [Anger Point, Vital Spirit]
+    - rs: [Vital Spirit]
+    - []
     egggroups:
     - [Ground]
     evolutions:
@@ -81,9 +82,10 @@ pokemon:
     weight: [28]
   Primeape:
     abilities:
-    - [Vital Spirit]
     - bw: [Anger Point, Defiant, Vital Spirit]
       dp: [Anger Point, Vital Spirit]
+    - rs: [Vital Spirit]
+    - []
     egggroups:
     - [Ground]
     evolutions:

@@ -1,9 +1,10 @@
 pokemon:
   Tauros:
     abilities:
-    - [Intimidate]
     - bw: [Anger Point, Intimidate, Sheer Force]
       dp: [Anger Point, Intimidate]
+    - rs: [Intimidate]
+    - []
     egggroups:
     - [Ground]
     evolutions:

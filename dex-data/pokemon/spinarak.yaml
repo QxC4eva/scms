@@ -1,8 +1,9 @@
 pokemon:
   Ariados:
     abilities:
-    - [Insomnia, Swarm]
     - bw: [Insomnia, Sniper, Swarm]
+    - rs: [Insomnia, Swarm]
+    - []
     egggroups:
     - [Bug]
     evolutions:
@@ -25,8 +26,9 @@ pokemon:
     weight: [33.5]
   Spinarak:
     abilities:
-    - [Insomnia, Swarm]
     - bw: [Insomnia, Sniper, Swarm]
+    - rs: [Insomnia, Swarm]
+    - []
     egggroups:
     - [Bug]
     evolutions:

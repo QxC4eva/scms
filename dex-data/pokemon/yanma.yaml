@@ -1,8 +1,9 @@
 pokemon:
   Yanma:
     abilities:
-    - [Compound Eyes, Speed Boost]
     - bw: [Compound Eyes, Frisk, Speed Boost]
+    - rs: [Compound Eyes, Speed Boost]
+    - []
     egggroups:
     - [Bug]
     evolutions:

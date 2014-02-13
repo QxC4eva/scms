@@ -1,8 +1,9 @@
 pokemon:
   Blissey:
     abilities:
-    - [Natural Cure, Serene Grace]
     - bw: [Healer, Natural Cure, Serene Grace]
+    - rs: [Natural Cure, Serene Grace]
+    - []
     egggroups:
     - [Fairy]
     evolutions:
@@ -23,8 +24,9 @@ pokemon:
     weight: [46.8]
   Chansey:
     abilities:
-    - [Natural Cure, Serene Grace]
     - bw: [Healer, Natural Cure, Serene Grace]
+    - rs: [Natural Cure, Serene Grace]
+    - []
     egggroups:
     - [Fairy]
     evolutions:

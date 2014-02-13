@@ -1,8 +1,9 @@
 pokemon:
   Grimer:
     abilities:
-    - [Stench, Sticky Hold]
     - bw: [Poison Touch, Stench, Sticky Hold]
+    - rs: [Stench, Sticky Hold]
+    - []
     egggroups:
     - [Indeterminate]
     evolutions:
@@ -69,8 +70,9 @@ pokemon:
     weight: [30]
   Muk:
     abilities:
-    - [Stench, Sticky Hold]
     - bw: [Poison Touch, Stench, Sticky Hold]
+    - rs: [Stench, Sticky Hold]
+    - []
     egggroups:
     - [Indeterminate]
     evolutions:

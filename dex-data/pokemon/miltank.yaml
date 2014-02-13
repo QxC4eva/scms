@@ -1,9 +1,10 @@
 pokemon:
   Miltank:
     abilities:
-    - [Thick Fat]
     - dp: [Scrappy, Thick Fat]
     - bw: [Sap Sipper, Scrappy, Thick Fat]
+    - rs: [Thick Fat]
+    - []
     egggroups:
     - [Ground]
     evolutions:

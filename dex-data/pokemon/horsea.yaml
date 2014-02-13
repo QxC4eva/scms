@@ -1,9 +1,10 @@
 pokemon:
   Horsea:
     abilities:
-    - [Swift Swim]
     - dp: [Sniper, Swift Swim]
     - bw: [Damp, Sniper, Swift Swim]
+    - rs: [Swift Swim]
+    - []
     egggroups:
     - [Dragon, Water 1]
     evolutions:
@@ -61,9 +62,10 @@ pokemon:
     weight: [8]
   Kingdra:
     abilities:
-    - [Swift Swim]
     - dp: [Sniper, Swift Swim]
     - bw: [Damp, Sniper, Swift Swim]
+    - rs: [Swift Swim]
+    - []
     egggroups:
     - [Dragon, Water 1]
     evolutions:
@@ -88,9 +90,10 @@ pokemon:
     weight: [152]
   Seadra:
     abilities:
-    - [Poison Point]
     - dp: [Poison Point, Sniper]
     - bw: [Damp, Poison Point, Sniper]
+    - rs: [Poison Point]
+    - []
     egggroups:
     - [Dragon, Water 1]
     evolutions:

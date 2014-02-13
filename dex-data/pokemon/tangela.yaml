@@ -1,9 +1,10 @@
 pokemon:
   Tangela:
     abilities:
-    - [Chlorophyll]
     - dp: [Chlorophyll, Leaf Guard]
     - bw: [Chlorophyll, Leaf Guard, Regenerator]
+    - rs: [Chlorophyll]
+    - []
     egggroups:
     - [Plant]
     evolutions:

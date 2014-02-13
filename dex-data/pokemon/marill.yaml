@@ -1,8 +1,9 @@
 pokemon:
   Azumarill:
     abilities:
-    - [Huge Power, Thick Fat]
     - bw: [Huge Power, Sap Sipper, Thick Fat]
+    - rs: [Huge Power, Thick Fat]
+    - []
     egggroups:
     - [Fairy, Water 1]
     evolutions:
@@ -73,8 +74,9 @@ pokemon:
     weight: [2]
   Marill:
     abilities:
-    - [Huge Power, Thick Fat]
     - bw: [Huge Power, Sap Sipper, Thick Fat]
+    - rs: [Huge Power, Thick Fat]
+    - []
     egggroups:
     - [Fairy, Water 1]
     evolutions:

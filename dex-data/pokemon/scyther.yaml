@@ -1,9 +1,10 @@
 pokemon:
   Scizor:
     abilities:
-    - [Swarm]
     - dp: [Swarm, Technician]
     - bw: [Light Metal, Swarm, Technician]
+    - rs: [Swarm]
+    - []
     egggroups:
     - [Bug]
     evolutions:
@@ -48,9 +49,10 @@ pokemon:
     weight: [125]
   Scyther:
     abilities:
-    - [Swarm]
     - dp: [Swarm, Technician]
     - bw: [Steadfast, Swarm, Technician]
+    - rs: [Swarm]
+    - []
     egggroups:
     - [Bug]
     evolutions:

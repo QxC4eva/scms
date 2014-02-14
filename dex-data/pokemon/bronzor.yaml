@@ -1,7 +1,8 @@
 pokemon:
   Bronzong:
     abilities:
-    - [Heatproof, Heavy Metal, Levitate]
+    - [Heatproof, Levitate]
+    - bw: [Heatproof, Heavy Metal, Levitate]
     egggroups:
     - [Mineral]
     evolutions:
@@ -25,7 +26,8 @@ pokemon:
     weight: [187]
   Bronzor:
     abilities:
-    - [Heatproof, Heavy Metal, Levitate]
+    - [Heatproof, Levitate]
+    - bw: [Heatproof, Heavy Metal, Levitate]
     egggroups:
     - [Mineral]
     evolutions:

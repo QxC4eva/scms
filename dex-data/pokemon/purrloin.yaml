@@ -1,7 +1,8 @@
 pokemon:
   Liepard:
     abilities:
-    - [Limber, Prankster, Unburden]
+    - [Limber, Unburden]
+    - bw: [Limber, Prankster, Unburden]
     egggroups:
     - [Ground]
     evolutions:
@@ -21,7 +22,8 @@ pokemon:
     weight: [37.5]
   Purrloin:
     abilities:
-    - [Limber, Prankster, Unburden]
+    - [Limber, Unburden]
+    - bw: [Limber, Prankster, Unburden]
     egggroups:
     - [Ground]
     evolutions:

@@ -1,7 +1,8 @@
 pokemon:
   Patrat:
     abilities:
-    - [Analytic, Keen Eye, Run Away]
+    - [Keen Eye, Run Away]
+    - bw: [Analytic, Keen Eye, Run Away]
     egggroups:
     - [Ground]
     evolutions:
@@ -34,7 +35,8 @@ pokemon:
     weight: [11.6]
   Watchog:
     abilities:
-    - [Analytic, Illuminate, Keen Eye]
+    - [Illuminate, Keen Eye]
+    - bw: [Analytic, Illuminate, Keen Eye]
     egggroups:
     - [Ground]
     evolutions:

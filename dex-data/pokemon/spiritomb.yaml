@@ -1,7 +1,8 @@
 pokemon:
   Spiritomb:
     abilities:
-    - [Infiltrator, Pressure]
+    - [Pressure]
+    - bw: [Infiltrator, Pressure]
     egggroups:
     - [Indeterminate]
     evolutions:

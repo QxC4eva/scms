@@ -1,7 +1,8 @@
 pokemon:
   Giratina:
     abilities:
-    - [Pressure, Telepathy]
+    - [Pressure]
+    - bw: [Pressure, Telepathy]
     egggroups:
     - []
     evolutions:

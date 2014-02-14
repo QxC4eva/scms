@@ -73,7 +73,8 @@ pokemon:
     weight: [28]
   Weavile:
     abilities:
-    - [Pickpocket, Pressure]
+    - [Pressure]
+    - bw: [Pickpocket, Pressure]
     egggroups:
     - [Ground]
     evolutions:

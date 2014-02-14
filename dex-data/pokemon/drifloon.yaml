@@ -1,7 +1,8 @@
 pokemon:
   Drifblim:
     abilities:
-    - [Aftermath, Flare Boost, Unburden]
+    - [Aftermath, Unburden]
+    - bw: [Aftermath, Flare Boost, Unburden]
     egggroups:
     - [Indeterminate]
     evolutions:
@@ -21,7 +22,8 @@ pokemon:
     weight: [15]
   Drifloon:
     abilities:
-    - [Aftermath, Flare Boost, Unburden]
+    - [Aftermath, Unburden]
+    - bw: [Aftermath, Flare Boost, Unburden]
     egggroups:
     - [Indeterminate]
     evolutions:

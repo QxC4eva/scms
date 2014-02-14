@@ -57,7 +57,8 @@ pokemon:
     weight: [97]
   Probopass:
     abilities:
-    - [Magnet Pull, Sand Force, Sturdy]
+    - [Magnet Pull, Sturdy]
+    - bw: [Magnet Pull, Sand Force, Sturdy]
     egggroups:
     - [Mineral]
     evolutions:

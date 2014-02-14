@@ -1,7 +1,8 @@
 pokemon:
   Hippopotas:
     abilities:
-    - [Sand Force, Sand Stream]
+    - [Sand Stream]
+    - bw: [Sand Force, Sand Stream]
     egggroups:
     - [Ground]
     evolutions:
@@ -39,7 +40,8 @@ pokemon:
     weight: [49.5]
   Hippowdon:
     abilities:
-    - [Sand Force, Sand Stream]
+    - [Sand Stream]
+    - bw: [Sand Force, Sand Stream]
     egggroups:
     - [Ground]
     evolutions:

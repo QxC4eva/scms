@@ -55,7 +55,8 @@ pokemon:
     - [nfe]
     - dp: [lc]
     types:
-    - [Electric, Steel]
+    - [Electric]
+    - gs: [Electric, Steel]
     weight: [6]
   Magneton:
     abilities:
@@ -87,11 +88,13 @@ pokemon:
     - dp: [nu]
     - rs: [ou]
     types:
-    - [Electric, Steel]
+    - [Electric]
+    - gs: [Electric, Steel]
     weight: [60]
   Magnezone:
     abilities:
-    - [Analytic, Magnet Pull, Sturdy]
+    - [Magnet Pull, Sturdy]
+    - bw: [Analytic, Magnet Pull, Sturdy]
     egggroups:
     - [Mineral]
     evolutions:

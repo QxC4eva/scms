@@ -70,7 +70,8 @@ pokemon:
     weight: [35]
   Tangrowth:
     abilities:
-    - [Chlorophyll, Leaf Guard, Regenerator]
+    - [Chlorophyll, Leaf Guard]
+    - bw: [Chlorophyll, Leaf Guard, Regenerator]
     egggroups:
     - [Plant]
     evolutions:

@@ -96,7 +96,8 @@ pokemon:
     weight: [34.6]
   Happiny:
     abilities:
-    - [Friend Guard, Natural Cure, Serene Grace]
+    - [Natural Cure, Serene Grace]
+    - bw: [Friend Guard, Natural Cure, Serene Grace]
     egggroups:
     - []
     evolutions:

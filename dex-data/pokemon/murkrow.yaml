@@ -1,7 +1,8 @@
 pokemon:
   Honchkrow:
     abilities:
-    - [Insomnia, Moxie, Super Luck]
+    - [Insomnia, Super Luck]
+    - bw: [Insomnia, Moxie, Super Luck]
     egggroups:
     - [Flying]
     evolutions:

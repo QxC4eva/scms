@@ -23,7 +23,8 @@ pokemon:
     weight: [5.5]
   Vespiquen:
     abilities:
-    - [Pressure, Unnerve]
+    - [Pressure]
+    - bw: [Pressure, Unnerve]
     egggroups:
     - [Bug]
     evolutions:

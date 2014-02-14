@@ -1,7 +1,8 @@
 pokemon:
   Froslass:
     abilities:
-    - [Cursed Body, Snow Cloak]
+    - [Snow Cloak]
+    - bw: [Cursed Body, Snow Cloak]
     egggroups:
     - [Fairy, Mineral]
     evolutions:

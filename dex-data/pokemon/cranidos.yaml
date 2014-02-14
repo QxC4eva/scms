@@ -1,7 +1,8 @@
 pokemon:
   Cranidos:
     abilities:
-    - [Mold Breaker, Sheer Force]
+    - [Mold Breaker]
+    - bw: [Mold Breaker, Sheer Force]
     egggroups:
     - [Monster]
     evolutions:
@@ -50,7 +51,8 @@ pokemon:
     weight: [31.5]
   Rampardos:
     abilities:
-    - [Mold Breaker, Sheer Force]
+    - [Mold Breaker]
+    - bw: [Mold Breaker, Sheer Force]
     egggroups:
     - [Monster]
     evolutions:

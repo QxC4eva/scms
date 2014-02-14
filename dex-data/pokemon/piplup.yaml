@@ -1,7 +1,8 @@
 pokemon:
   Empoleon:
     abilities:
-    - [Defiant, Torrent]
+    - [Torrent]
+    - bw: [Defiant, Torrent]
     egggroups:
     - [Ground, Water 1]
     evolutions:
@@ -27,7 +28,8 @@ pokemon:
     weight: [84.5]
   Piplup:
     abilities:
-    - [Defiant, Torrent]
+    - [Torrent]
+    - bw: [Defiant, Torrent]
     egggroups:
     - [Ground, Water 1]
     evolutions:
@@ -69,7 +71,8 @@ pokemon:
     weight: [5.2]
   Prinplup:
     abilities:
-    - [Defiant, Torrent]
+    - [Torrent]
+    - bw: [Defiant, Torrent]
     egggroups:
     - [Ground, Water 1]
     evolutions:

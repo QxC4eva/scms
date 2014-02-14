@@ -1,7 +1,8 @@
 pokemon:
   Munna:
     abilities:
-    - [Forewarn, Synchronize, Telepathy]
+    - [Forewarn, Synchronize]
+    - bw: [Forewarn, Synchronize, Telepathy]
     egggroups:
     - [Ground]
     evolutions:
@@ -38,7 +39,8 @@ pokemon:
     weight: [23.3]
   Musharna:
     abilities:
-    - [Forewarn, Synchronize, Telepathy]
+    - [Forewarn, Synchronize]
+    - bw: [Forewarn, Synchronize, Telepathy]
     egggroups:
     - [Ground]
     evolutions:

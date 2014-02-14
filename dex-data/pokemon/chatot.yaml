@@ -1,7 +1,8 @@
 pokemon:
   Chatot:
     abilities:
-    - [Big Pecks, Keen Eye, Tangled Feet]
+    - [Keen Eye, Tangled Feet]
+    - bw: [Big Pecks, Keen Eye, Tangled Feet]
     egggroups:
     - [Flying]
     evolutions:

@@ -1,7 +1,8 @@
 pokemon:
   Herdier:
     abilities:
-    - [Intimidate, Sand Rush, Scrappy]
+    - [Intimidate, Scrappy]
+    - bw: [Intimidate, Sand Rush, Scrappy]
     egggroups:
     - [Ground]
     evolutions:
@@ -54,7 +55,8 @@ pokemon:
     weight: [4.1]
   Stoutland:
     abilities:
-    - [Intimidate, Sand Rush, Scrappy]
+    - [Intimidate, Scrappy]
+    - bw: [Intimidate, Sand Rush, Scrappy]
     egggroups:
     - [Ground]
     evolutions:

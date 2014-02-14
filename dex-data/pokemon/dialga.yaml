@@ -1,7 +1,8 @@
 pokemon:
   Dialga:
     abilities:
-    - [Pressure, Telepathy]
+    - [Pressure]
+    - bw: [Pressure, Telepathy]
     egggroups:
     - []
     evolutions:

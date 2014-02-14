@@ -1,7 +1,8 @@
 pokemon:
   Gallade:
     abilities:
-    - [Justified, Steadfast]
+    - [Steadfast]
+    - bw: [Justified, Steadfast]
     egggroups:
     - [Indeterminate]
     evolutions:

@@ -1,7 +1,8 @@
 pokemon:
   Bibarel:
     abilities:
-    - [Moody, Simple, Unaware]
+    - [Simple, Unaware]
+    - bw: [Moody, Simple, Unaware]
     egggroups:
     - [Ground, Water 1]
     evolutions:
@@ -24,7 +25,8 @@ pokemon:
     weight: [31.5]
   Bidoof:
     abilities:
-    - [Moody, Simple, Unaware]
+    - [Simple, Unaware]
+    - bw: [Moody, Simple, Unaware]
     egggroups:
     - [Ground, Water 1]
     evolutions:

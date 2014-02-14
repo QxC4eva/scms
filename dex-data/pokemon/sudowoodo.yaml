@@ -1,7 +1,8 @@
 pokemon:
   Bonsly:
     abilities:
-    - [Rattled, Rock Head, Sturdy]
+    - [Rock Head, Sturdy]
+    - bw: [Rattled, Rock Head, Sturdy]
     egggroups:
     - []
     evolutions:

@@ -1,7 +1,8 @@
 pokemon:
   Burmy:
     abilities:
-    - [Overcoat, Shed Skin]
+    - [Shed Skin]
+    - bw: [Overcoat, Shed Skin]
     egggroups:
     - [Bug]
     evolutions:
@@ -59,7 +60,8 @@ pokemon:
     weight: [23.3]
   Wormadam:
     abilities:
-    - [Anticipation, Overcoat]
+    - [Anticipation]
+    - bw: [Anticipation, Overcoat]
     egggroups:
     - [Bug]
     evolutions:
@@ -87,7 +89,8 @@ pokemon:
     weight: [6.5]
   Wormadam-Sandy:
     abilities:
-    - [Anticipation, Overcoat]
+    - [Anticipation]
+    - bw: [Anticipation, Overcoat]
     egggroups:
     - [Bug]
     evolutions:
@@ -105,7 +108,8 @@ pokemon:
     weight: [6.5]
   Wormadam-Trash:
     abilities:
-    - [Anticipation, Overcoat]
+    - [Anticipation]
+    - bw: [Anticipation, Overcoat]
     egggroups:
     - [Bug]
     evolutions:

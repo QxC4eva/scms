@@ -46,7 +46,8 @@ pokemon:
     weight: [3.9]
   Purugly:
     abilities:
-    - [Defiant, Own Tempo, Thick Fat]
+    - [Own Tempo, Thick Fat]
+    - bw: [Defiant, Own Tempo, Thick Fat]
     egggroups:
     - [Ground]
     evolutions:

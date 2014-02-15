@@ -35,7 +35,7 @@ name: SubPunch
 move 1: Substitute
 move 2: Focus Punch
 move 3: Shadow Ball
-move 4: Ice Beam / Flamethrower / Thunder / Self Destruct
+move 4: Ice Beam / Flamethrower / Thunder / Self-Destruct
 item: Leftovers
 nature: Hasty
 evs: 204 HP / 208 Atk / 96 Spe
@@ -49,7 +49,7 @@ name: Bulk Up
 move 1: Bulk Up
 move 2: Shadow Ball
 move 3: Earthquake / Brick Break / Recover
-move 4: Taunt / Ice Beam / Recover / Self Destruct
+move 4: Taunt / Ice Beam / Recover / Self-Destruct
 item: Leftovers
 nature: Jolly / Hasty
 evs: 192 HP / 220 Atk / 96 Spe
@@ -62,7 +62,7 @@ evs: 192 HP / 220 Atk / 96 Spe
 name: Choice Band
 move 1: Shadow Ball
 move 2: Earthquake
-move 3: Self Destruct
+move 3: Self-Destruct
 move 4: Focus Punch / Brick Break / Flamethrower
 item: Choice Band
 nature: Jolly / Adamant
@@ -70,7 +70,7 @@ evs: 4 HP / 252 Atk / 252 Spe
 
 [SET COMMENTS]
 
-<p>Another physical Mewtwo, not much to explain here. Predict switches accordingly and you should have no trouble beating everything. Blend in Fire Blast or Flamethrower to hurt Groudon and Skarmory more, it will also do a number on Metagross. Self Destruct is great on here as well, it should kill anything that doesn't resist it, with the exception of Groudon.</p>
+<p>Another physical Mewtwo, not much to explain here. Predict switches accordingly and you should have no trouble beating everything. Blend in Fire Blast or Flamethrower to hurt Groudon and Skarmory more, it will also do a number on Metagross. Self-Destruct is great on here as well, it should kill anything that doesn't resist it, with the exception of Groudon.</p>
 
 [SET]
 name: Taunt
@@ -88,7 +88,7 @@ evs: 252 HP / 36 SpA / 220 Spe
 
 [SET]
 name: JAA Mewtwo
-move 1: Self Destruct
+move 1: Self-Destruct
 move 2: Shadow Ball
 move 3: Ice Beam
 move 4: Thunder / Thunderbolt
@@ -98,7 +98,7 @@ evs: 216 Atk / 252 Spe / 40 SpD
 
 [SET COMMENTS]
 
-<p>This Mewtwo is designed for Journey Across America, the 2v2 official Pokémon USA Tournament. The Special Defense EVs are to make it survive Kingdra's Hydro Pump guaranteed (barring a CH, of course). Shadow Ball is to hit Ghosts, Ice Beam is for Groudon and Thunder(bolt) is useful for stuff like Kyogre. Self Destruct when you're through. Be sure to pair this will an ally that knows Protect, or, even better, Endure. If your partner has Endure, then a great strategy is to send out a Pokémon that knows Fake Out (Obi used Jynx, skarm used Persian, and Aeolus used Sneasel). The ideal Pokémon to have Enduring is <a href="http://www.smogon.com/rs/pokemon/smeargle">Smeargle</a> (set 3), as it has Spore and Endeavor. Read <a href="http://www.smogon.com/forums/showthread.php?t=11086">this</a> for a more thorough explanation of the strategy.</p>
+<p>This Mewtwo is designed for Journey Across America, the 2v2 official Pokémon USA Tournament. The Special Defense EVs are to make it survive Kingdra's Hydro Pump guaranteed (barring a CH, of course). Shadow Ball is to hit Ghosts, Ice Beam is for Groudon and Thunder(bolt) is useful for stuff like Kyogre. Self-Destruct when you're through. Be sure to pair this will an ally that knows Protect, or, even better, Endure. If your partner has Endure, then a great strategy is to send out a Pokémon that knows Fake Out (Obi used Jynx, skarm used Persian, and Aeolus used Sneasel). The ideal Pokémon to have Enduring is <a href="http://www.smogon.com/rs/pokemon/smeargle">Smeargle</a> (set 3), as it has Spore and Endeavor. Read <a href="http://www.smogon.com/forums/showthread.php?t=11086">this</a> for a more thorough explanation of the strategy.</p>
 
 [SET]
 name: Stallbreaker
@@ -126,4 +126,4 @@ evs: 252 HP / 160 SpD / 96 Spe
 
 [Checks and Counters]
 
-<p>Honestly, it depends on the set your opponent is running. There is no counter that will work 100% of the time against Mewtwo. Deoxys-D is a safe bet, Blissey might have troubles. Both of those are good at discovering Mewtwo's moveset without instantly dying, unlike Pokémon like Metagross, who can't risk a fire move. Once you know Mewtwo's set, it's not nearly as dangerous (but still very deadly). Deoxys-A can switch into any non-attacking move but Substitute (even Psychic from a non-Modest Mewtwo OHKOs) and OHKO with Shadow Ball, but it needs a Choice Band to do it. It can survive an unboosted Brick Break, but that is extremely rarely used. Choice Band Ho-Oh survives all of Mewtwo's attacks except maybe Self Destruct, and can hit it hard with Choice Band Shadow Ball (potentially an OHKO), while Mewtwo's Thunderbolt is generally a 3HKO. At the very least, it can be used to scout out Mewtwo's set.</p>
+<p>Honestly, it depends on the set your opponent is running. There is no counter that will work 100% of the time against Mewtwo. Deoxys-D is a safe bet, Blissey might have troubles. Both of those are good at discovering Mewtwo's moveset without instantly dying, unlike Pokémon like Metagross, who can't risk a fire move. Once you know Mewtwo's set, it's not nearly as dangerous (but still very deadly). Deoxys-A can switch into any non-attacking move but Substitute (even Psychic from a non-Modest Mewtwo OHKOs) and OHKO with Shadow Ball, but it needs a Choice Band to do it. It can survive an unboosted Brick Break, but that is extremely rarely used. Choice Band Ho-Oh survives all of Mewtwo's attacks except maybe Self-Destruct, and can hit it hard with Choice Band Shadow Ball (potentially an OHKO), while Mewtwo's Thunderbolt is generally a 3HKO. At the very least, it can be used to scout out Mewtwo's set.</p>

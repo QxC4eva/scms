@@ -30,7 +30,7 @@ evs: 4 Def / 252 SpA / 252 Spe
 name: Sunny Day
 move 1: Sunny Day
 move 2: Fire Blast / Flamethrower
-move 3: SolarBeam
+move 3: Solar Beam
 move 4: Roost / Air Slash
 item: Life Orb / Heat Rock
 nature: Timid
@@ -38,7 +38,7 @@ evs: 4 Def / 252 SpA / 252 Spe
 
 [SET COMMENTS]
 
-<p>With this set, Charizard aims to defeat its bulky Water-type counters. Again, Moltres largely outclasses Charizard in such a role, but Charizard's higher Speed and rare ability in Blaze help it compete for a team spot. After using Sunny Day, Charizard's Fire-type STAB attacks are powered up to ridiculous levels. In the sun, SolarBeam does not require its charging turn, allowing Charizard to 2HKO Milotic and Slowking, its two biggest counters. The last slot depends on how offensively you want Charizard to operate. Roost allows Charizard to recover from Stealth Rock and Life Orb recoil, while Air Slash gives Charizard maximum coverage. Finally, Charizard's item choice depends on the type of team it is in. If Charizard is part of a Sunny Day team, Heat Rock should be considered so Charizard can support the team as well as itself. Life Orb is preferred in most other cases due to the higher damage output it provides.</p>
+<p>With this set, Charizard aims to defeat its bulky Water-type counters. Again, Moltres largely outclasses Charizard in such a role, but Charizard's higher Speed and rare ability in Blaze help it compete for a team spot. After using Sunny Day, Charizard's Fire-type STAB attacks are powered up to ridiculous levels. In the sun, Solar Beam does not require its charging turn, allowing Charizard to 2HKO Milotic and Slowking, its two biggest counters. The last slot depends on how offensively you want Charizard to operate. Roost allows Charizard to recover from Stealth Rock and Life Orb recoil, while Air Slash gives Charizard maximum coverage. Finally, Charizard's item choice depends on the type of team it is in. If Charizard is part of a Sunny Day team, Heat Rock should be considered so Charizard can support the team as well as itself. Life Orb is preferred in most other cases due to the higher damage output it provides.</p>
 
 [ADDITIONAL COMMENTS]
 
@@ -51,14 +51,14 @@ name: Dragon Dance
 move 1: Dragon Dance
 move 2: Flare Blitz
 move 3: Earthquake
-move 4: ThunderPunch
+move 4: Thunder Punch
 item: Life Orb
 nature: Jolly / Adamant
 evs: 252 Atk / 4 Def / 252 Spe
 
 [SET COMMENTS]
 
-<p>With usable Attack and Speed and a workable physical movepool, Dragon Dance Charizard can be very difficult to deal with late-game, especially if you're running an offensive team. With a single Dragon Dance under its belt, Charizard reaches 492 Speed, beating Choice Scarf Rotom and Hitmonlee, two of the fastest revenge killers commonly seen in UU. Flare Blitz is Charizard's main STAB move and is very powerful after a Dragon Dance. Even though Flare Blitz's recoil may be unappealing, Fire Punch is too weak at +1, and Charizard needs all the power it can get. Earthquake punishes Rock-types such as Rhyperior and Regirock, while ThunderPunch is Charizard's best answer to Water-types. Roost can used over Earthquake or ThunderPunch, but Charizard rarely finds opportunities to use both Roost and Dragon Dance.</p>
+<p>With usable Attack and Speed and a workable physical movepool, Dragon Dance Charizard can be very difficult to deal with late-game, especially if you're running an offensive team. With a single Dragon Dance under its belt, Charizard reaches 492 Speed, beating Choice Scarf Rotom and Hitmonlee, two of the fastest revenge killers commonly seen in UU. Flare Blitz is Charizard's main STAB move and is very powerful after a Dragon Dance. Even though Flare Blitz's recoil may be unappealing, Fire Punch is too weak at +1, and Charizard needs all the power it can get. Earthquake punishes Rock-types such as Rhyperior and Regirock, while Thunder Punch is Charizard's best answer to Water-types. Roost can used over Earthquake or Thunder Punch, but Charizard rarely finds opportunities to use both Roost and Dragon Dance.</p>
 
 [ADDITIONAL COMMENTS]
 
@@ -71,14 +71,14 @@ name: Swords Dance
 move 1: Swords Dance
 move 2: Flare Blitz / Fire Punch
 move 3: Earthquake
-move 4: ThunderPunch
+move 4: Thunder Punch
 item: Life Orb
 nature: Jolly
 evs: 252 Atk / 4 Def / 252 Spe
 
 [SET COMMENTS]
 
-<p>With Charizard's naturally high Speed, it can forego Dragon Dance to boost its attack even further with Swords Dance, allowing it to reach a very high 534 Attack after a boost. Again, Flare Blitz is Charizard's main STAB for its sheer power, but since Charizard is now at +2 after a boost instead of +1, Fire Punch is acceptable if you don't like the absurd amount of residual damage that Charizard would be taking from Flare Blitz. For Charizard's coverage options, Earthquake hits Rock-types and ThunderPunch hits Water-types for super effective damage. Like the Dragon Dance set, Roost can be used over Earthquake or ThunderPunch, though Charizard finds it hard to boost and heal at the same time. Similarly, if your team is having trouble with Altaria, Dragon Claw can be used.</p>
+<p>With Charizard's naturally high Speed, it can forego Dragon Dance to boost its attack even further with Swords Dance, allowing it to reach a very high 534 Attack after a boost. Again, Flare Blitz is Charizard's main STAB for its sheer power, but since Charizard is now at +2 after a boost instead of +1, Fire Punch is acceptable if you don't like the absurd amount of residual damage that Charizard would be taking from Flare Blitz. For Charizard's coverage options, Earthquake hits Rock-types and Thunder Punch hits Water-types for super effective damage. Like the Dragon Dance set, Roost can be used over Earthquake or Thunder Punch, though Charizard finds it hard to boost and heal at the same time. Similarly, if your team is having trouble with Altaria, Dragon Claw can be used.</p>
 
 [ADDITIONAL COMMENTS]
 
@@ -87,15 +87,15 @@ evs: 252 Atk / 4 Def / 252 Spe
 <ul class="damage_calculation">
 <li>+2 Flare Blitz vs 252 HP / 252 Def Bold Uxie: 64.41% - 75.71%</li>
 <li>+2 Flare Blitz vs 252 HP / 0 Def Mesprit: 100%</li>
-<li>+2 ThunderPunch vs 252 HP / 200 Def Milotic: 77.66% - 91.37</li>
-<li>+2 ThunderPunch vs 252 HP / 252 Def Bold Slowbro: 54.31% - 64.47%</li>
+<li>+2 Thunder Punch vs 252 HP / 200 Def Milotic: 77.66% - 91.37</li>
+<li>+2 Thunder Punch vs 252 HP / 252 Def Bold Slowbro: 54.31% - 64.47%</li>
 <li>+2 Earthquake vs 252 HP / 0 Def Regirock: 62.64% - 74.18%</li>
 <li>+2 Earthquake vs 140 HP / 32 Def Rhyperior: 60.59% - 71.18%</li>
 </ul>
 
-<p>Without the Speed boost from Dragon Dance, Charizard is revenge killed a lot more easily. Due to this, it is best to scout opposing revenge killers before attempting to set up a sweep. Swords Dance Charizard is especially good at luring out bulky Water-types that expect Charizard to be a special attacking variant (such as Milotic and Slowking) and deal a lot of damage to them with a +2 ThunderPunch. Due to this, Pokemon that can take advantage of a weakened bulky Water-type make excellent partners to Swords Dance Charizard. Dragon Dance Feraligatr and Rock Polish Rhyperior are especially dangerous when opposing Milotic are weakened.</p>
+<p>Without the Speed boost from Dragon Dance, Charizard is revenge killed a lot more easily. Due to this, it is best to scout opposing revenge killers before attempting to set up a sweep. Swords Dance Charizard is especially good at luring out bulky Water-types that expect Charizard to be a special attacking variant (such as Milotic and Slowking) and deal a lot of damage to them with a +2 Thunder Punch. Due to this, Pokemon that can take advantage of a weakened bulky Water-type make excellent partners to Swords Dance Charizard. Dragon Dance Feraligatr and Rock Polish Rhyperior are especially dangerous when opposing Milotic are weakened.</p>
 
-<p>Like all offensive Pokemon, Charizard appreciates entry hazard support to achieve some important KOs; for example, 252 HP / 200 Def Milotic is OHKOed by ThunderPunch after she switches into Stealth Rock and one layer of Spikes. Omastar can set up both Stealth Rock and Spikes while luring Grass-, Ground-, and Fighting-type attacks for Charizard to switch into. Cloyster can set up Spikes while using Rapid Spin to clear away Stealth Rock. On the topic of Stealth Rock, Rapid Spin support is, again, essential for Charizard's effectiveness. Hitmontop, Blastoise, and Donphan are good Rapid Spinners to run alongside Charizard.</p>
+<p>Like all offensive Pokemon, Charizard appreciates entry hazard support to achieve some important KOs; for example, 252 HP / 200 Def Milotic is OHKOed by Thunder Punch after she switches into Stealth Rock and one layer of Spikes. Omastar can set up both Stealth Rock and Spikes while luring Grass-, Ground-, and Fighting-type attacks for Charizard to switch into. Cloyster can set up Spikes while using Rapid Spin to clear away Stealth Rock. On the topic of Stealth Rock, Rapid Spin support is, again, essential for Charizard's effectiveness. Hitmontop, Blastoise, and Donphan are good Rapid Spinners to run alongside Charizard.</p>
 
 [SET]
 name: Belly Drum
@@ -110,13 +110,13 @@ ivs: 30 HP
 
 [SET COMMENTS]
 
-<p>Charizard is the only Pokemon in the game, apart from Smeargle, to learn the combination of Dragon Dance, Swords Dance, and Belly Drum. BellyZard, once the epitome of an offensive powerhouse, is now possibly one of the highest-risk, relatively-lowest-reward sets in the 4th generation. Still, it is still quite potent when used unexpectedly. Utilizing BellyZard follows quite a strict format. The first step is to switch into a Pokemon that cannot hurt Charizard and scare it out, allowing for Charizard to set up Substitute. Proceed to use Belly Drum to max out Charizard's Attack stat while simultaneously activating Salac Berry and Blaze. From there, Charizard (hopefully) proceeds to sweep with 1068 Attack and 492 Speed. Fire Punch is Charizard's main STAB, which is boosted to acceptable levels with Blaze. ThunderPunch takes out bulky Water-types, while Earthquake takes out Rock-types.</p>
+<p>Charizard is the only Pokemon in the game, apart from Smeargle, to learn the combination of Dragon Dance, Swords Dance, and Belly Drum. BellyZard, once the epitome of an offensive powerhouse, is now possibly one of the highest-risk, relatively-lowest-reward sets in the 4th generation. Still, it is still quite potent when used unexpectedly. Utilizing BellyZard follows quite a strict format. The first step is to switch into a Pokemon that cannot hurt Charizard and scare it out, allowing for Charizard to set up Substitute. Proceed to use Belly Drum to max out Charizard's Attack stat while simultaneously activating Salac Berry and Blaze. From there, Charizard (hopefully) proceeds to sweep with 1068 Attack and 492 Speed. Fire Punch is Charizard's main STAB, which is boosted to acceptable levels with Blaze. Thunder Punch takes out bulky Water-types, while Earthquake takes out Rock-types.</p>
 
 [ADDITIONAL COMMENTS]
 
 <p>If you are more daring, Double-Edge can be used over Substitute. The idea behind it is to use Belly Drum first, possibly luring out a bulky Water-type, which are then KOed with Double-Edge, which allows Charizard to reach Salac Berry and Blaze activation range. The EVs are simple: let Charizard be as fast as possible so it is as difficult to revenge-kill as possible. 30 HP IVs are used so Charizard's HP is divisible by 4, allowing Salac Berry to activate after Substitute and Belly Drum. Earthquake or Thunderpunch can replace Substitute if the coverage is more important to Charizard than the Speed boost.</p>
 
-<p>While BellyZard looks horrifically scary on paper, it is very easy to stop in practice. Firstly, if Stealth Rock is up, Charizard will be unable to pull off a successful Belly Drum. Physically defensive Hariyama with Thick Fat can take a hit from Charizard and KO it in return. If Charizard lacks ThunderPunch, bulky Water-types can stop him, while if he lacks Earthquake, Rhyperior and Regirock are hard stops to it. Priority attacks also cut Charizard's sweep very short. These include Aqua Jet Azumarill, ExtremeSpeed Arcanine, and Sucker Punch Toxicroak. Sand Stream and Snow Warning make Charizard sad as well, since they force it to sweep on a timer. Before bringing Charizard out, scouting the opponent's team is extremely important. Rapid Spinners can clear away Stealth Rock for Charizard, while anti-leads, such as Taunt Ambipom, Electrode, and Choice Scarf Venusaur can prevent them from going up in the first place. Spiritomb, Mesprit, and Uxie are good switch-ins to Hariyama. Claydol is great for switching into Hariyama and also has the ability to use Rapid Spin to clear away Stealth Rock.</p>
+<p>While BellyZard looks horrifically scary on paper, it is very easy to stop in practice. Firstly, if Stealth Rock is up, Charizard will be unable to pull off a successful Belly Drum. Physically defensive Hariyama with Thick Fat can take a hit from Charizard and KO it in return. If Charizard lacks Thunder Punch, bulky Water-types can stop him, while if he lacks Earthquake, Rhyperior and Regirock are hard stops to it. Priority attacks also cut Charizard's sweep very short. These include Aqua Jet Azumarill, Extreme Speed Arcanine, and Sucker Punch Toxicroak. Sand Stream and Snow Warning make Charizard sad as well, since they force it to sweep on a timer. Before bringing Charizard out, scouting the opponent's team is extremely important. Rapid Spinners can clear away Stealth Rock for Charizard, while anti-leads, such as Taunt Ambipom, Electrode, and Choice Scarf Venusaur can prevent them from going up in the first place. Spiritomb, Mesprit, and Uxie are good switch-ins to Hariyama. Claydol is great for switching into Hariyama and also has the ability to use Rapid Spin to clear away Stealth Rock.</p>
 
 [Other Options]
 

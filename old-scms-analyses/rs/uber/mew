@@ -1,11 +1,11 @@
 [Overview]
 
-<p>A lot of things can be said about Mew. First, you just can't know what it will do. With 100 on every stat and a great movepool, Mew is unpredictable. And in ADV, a wrong move could turn the tables, so Mew is a very useful Pokémon. Second, a physical Mew can counter Skarmory, a special Mew can beat Blissey easily. And 100 on every stat makes it able to use mixed sets effectively, making it harder to counter. It doesn't die with 100 on defenses, HP, and Softboiled. It often can't be phazed, and even the best walls can't block it. Of course, there's Mewtwo, which is way better than Mew in almost every way. If you're using Mew, be sure to take advantage of its unique movepool, because unless you're using one of those moves, Mewtwo can do just about anything Mew can do, but better. Mew can bluff Explosion sometimes, though, so a Calm Minder can work.</p>
+<p>A lot of things can be said about Mew. First, you just can't know what it will do. With 100 on every stat and a great movepool, Mew is unpredictable. And in ADV, a wrong move could turn the tables, so Mew is a very useful Pokémon. Second, a physical Mew can counter Skarmory, a special Mew can beat Blissey easily. And 100 on every stat makes it able to use mixed sets effectively, making it harder to counter. It doesn't die with 100 on defenses, HP, and Soft-Boiled. It often can't be phazed, and even the best walls can't block it. Of course, there's Mewtwo, which is way better than Mew in almost every way. If you're using Mew, be sure to take advantage of its unique movepool, because unless you're using one of those moves, Mewtwo can do just about anything Mew can do, but better. Mew can bluff Explosion sometimes, though, so a Calm Minder can work.</p>
 
 [SET]
 name: Calm Mind + BoltBeam
 move 1: Calm Mind
-move 2: Softboiled
+move 2: Soft-Boiled
 move 3: Thunderbolt
 move 4: Ice Beam
 item: Leftovers
@@ -19,7 +19,7 @@ evs: 36 HP / 252 SpA / 220 Spe
 [SET]
 name: Taunt
 move 1: Psychic / Ice Beam
-move 2: Softboiled / Thunderbolt
+move 2: Soft-Boiled / Thunderbolt
 move 3: Calm Mind
 move 4: Taunt
 item: Leftovers
@@ -28,12 +28,12 @@ evs: 36 HP / 252 SpA / 220 Spe
 
 [SET COMMENTS]
 
-<p>Taunt Mew. Mostly inferior to Mewtwo at this, especially since Mewtwo has the threat of Selfdestruct now, Mew can't even scare some things away like it could. If you're using this set, consider using Mewtwo instead. Only use Psychic if it's your only attack, Ice Beam can be paired with Thunderbolt or with Softboiled. Psychic is good to hit everything decently, and is primarily for having a recovery move and for hitting Kyogre. Ice Beam hits all physical attackers in uber harder (Groudon, Metagross, Tyranitar, Rayquaza) as you boost Special Defense with Calm Mind to save yourself from that threat. Softboiled is recommended over Boltbeam, but both work. </p>
+<p>Taunt Mew. Mostly inferior to Mewtwo at this, especially since Mewtwo has the threat of Self Destruct now, Mew can't even scare some things away like it could. If you're using this set, consider using Mewtwo instead. Only use Psychic if it's your only attack, Ice Beam can be paired with Thunderbolt or with Soft-Boiled. Psychic is good to hit everything decently, and is primarily for having a recovery move and for hitting Kyogre. Ice Beam hits all physical attackers in uber harder (Groudon, Metagross, Tyranitar, Rayquaza) as you boost Special Defense with Calm Mind to save yourself from that threat. Soft-Boiled is recommended over Boltbeam, but both work. </p>
 
 [SET]
 name: Support
 move 1: Toxic
-move 2: Softboiled
+move 2: Soft-Boiled
 move 3: Snatch
 move 4: Ice Beam / Thunder / Flamethrower
 item: Leftovers
@@ -49,14 +49,14 @@ name: Swords Dance
 move 1: Swords Dance
 move 2: Earthquake
 move 3: Shadow Ball
-move 4: Explosion / Softboiled / Taunt
+move 4: Explosion / Soft-Boiled / Taunt
 item: Leftovers
 nature: Jolly
 evs: 36 HP / 252 Atk / 220 Spe
 
 [SET COMMENTS]
 
-<p>Physical Mew, kind of good because most ubers are Special based, kind of not because of lack of STAB and Mew's mediocre stats. Those with Softboiled may want a more defensive spread.</p>
+<p>Physical Mew, kind of good because most ubers are Special based, kind of not because of lack of STAB and Mew's mediocre stats. Those with Soft-Boiled may want a more defensive spread.</p>
 
 [SET]
 name: SubPunch + BoltBeam
@@ -84,11 +84,11 @@ evs: 4 HP / 252 Atk / 252 Spe
 
 [SET COMMENTS]
 
-<p>Explosion is one of the few things Mew can do and the other ubers can't, if this means something. Unfortunately, Mewtwo stole some of Mew's thunder by learning the move Selfdestruct in XD, which is a slightly weaker Explosion. Ice Beam hits Groudon and Rayquaza harder than any of your other moves, except Explosion. Overheat for Forretress, Groudon, and Skarmory. Focus Punch hits Kyogre harder than any of your other moves, as well as possibly OHKOing Blissey that don't invest in Defense EVs, and still does a bit to Groudon (but not as much as Overheat or Ice Beam).</p>
+<p>Explosion is one of the few things Mew can do and the other ubers can't, if this means something. Unfortunately, Mewtwo stole some of Mew's thunder by learning the move Self Destruct in XD, which is a slightly weaker Explosion. Ice Beam hits Groudon and Rayquaza harder than any of your other moves, except Explosion. Overheat for Forretress, Groudon, and Skarmory. Focus Punch hits Kyogre harder than any of your other moves, as well as possibly OHKOing Blissey that don't invest in Defense EVs, and still does a bit to Groudon (but not as much as Overheat or Ice Beam).</p>
 
 [SET]
 name: Special Attacker
-move 1: Softboiled
+move 1: Soft-Boiled
 move 2: Flamethrower / Hidden Power Dark
 move 3: Thunder / Thunderbolt
 move 4: Ice Beam
@@ -103,7 +103,7 @@ evs: 80 HP / 252 SpA / 176 Spe
 [SET]
 name: Hypnosis + Calm Mind
 move 1: Hypnosis
-move 2: Softboiled
+move 2: Soft-Boiled
 move 3: Calm Mind
 move 4: Ice Beam / Psychic
 item: Leftovers
@@ -116,7 +116,7 @@ evs: 80 HP / 252 SpA / 176 Spe
 
 [SET]
 name: Transform
-move 1: Softboiled / Explosion
+move 1: Soft-Boiled / Explosion
 move 2: Transform
 move 3: Reflect / Light Screen
 move 4: Hypnosis

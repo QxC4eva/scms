@@ -1,0 +1,182 @@
+		[Title]
+		Awards Nomination Form
+
+		[Head]
+		<style type="text/css">
+			#nomination-form { max-width:512px; }
+			#nomination-form * { box-sizing:border-box; }
+			#nomination-form fieldset { padding:4px; }
+			#nomination-form legend { padding:4px; font-size:16px; }
+			#nomination-form label { display:block; padding-left:4px; font-size:11px; }
+			#nomination-form input { display:block; padding:4px 8px; width:100%; border-radius:3px; border:1px solid #CCC; }
+			#nomination-form div { padding:2px 8px; }
+			button { padding: 4px 8px; border-radius: 4px; border: 1px solid #848; background-color: #C8C; font-weight: bold; cursor: pointer; color: #fff; }
+			button:hover { background-color: #B7B; }
+		</style>
+		<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+		<script type="text/javascript" src="http://dl.dropboxusercontent.com/u/18231634/Smogon/Smog/Other/Awards/handlebars-v1.2.0.js"></script>
+		<script type="text/javascript" src="http://dl.dropboxusercontent.com/u/18231634/Smogon/Smog/Other/Awards/smogon-messager.js"></script>
+		<script type="text/javascript">
+			if(new Date() < new Date(2014,0,19)){
+			$(function(){
+				//edit stuff here
+				categories = [{ 
+						name:'Battling',
+						entries:[
+							{name:'Best Ubers Battler'},
+							{name:'Best OU Battler'},
+							{name:'Best UU Battler'},
+							{name:'Best RU Battler'},
+							{name:'Best NU Battler'},
+							{name:'Best VGC Battler'},
+							{name:'Best Smogon Doubles Battler'},
+							{name:'Best LC Battler'},
+							{name:'Best OM Battler'},
+							{name:'Best Tournament Player'},
+							{name:'Best Ladder Player'},
+							{name:'Best Team Builder'},
+							{name:'Best Old-School Player'},
+							{name:'Most Influential Player'},
+							{name:'Most Gimicky Player', hint:'spelling is a gimmick'},
+							{name:'Biggest Upset'},
+							{name:'Luckiest Player'},
+							{name:'Most Intimidating Player'},
+							{name:'Best New Player'},
+							{name:'Best Overall Player'},
+							{name:'Most Impressive Victory'},
+							{name:'Best Tournament'},
+							{name:'Best OM'}
+						]},{
+						name:'Users',
+						entries:[
+							{name:'Nicest User'},
+							{name:'Meanest User'},
+							{name:'Wittiest User'},
+							{name:'Cutest User'},
+							{name:'Most Improved User'},
+							{name:'Most Overlooked User'},
+							{name:'Most Persuasive User'},
+							{name:'Most Influential User'},
+							{name:'Most Promising New User'},
+							{name:'Most Awesome Veteran'},
+							{name:'Best Avatar'},
+							{name:'Best Signature'},
+							{name:'Best Custom Title'},
+							{name:'Best Name Change'},
+							{name:'Worst Name Change'},
+							{name:'Member of the Year'}
+						]},{
+						name:'Community',
+						entries:[
+							{name:'Best Forum Staff Member'},
+							{name:'Best Leader'},
+							{name:'Best Showdown! Staff'},
+							{name:'Best Discussion Sparker'},
+							{name:'Best Competitive Pokemon Poster'},
+							{name:'Best #pokemon IRC Presence'},
+							{name:'Best OI Poster'},
+							{name:'Best CAP Poster'},
+							{name:'Best A Forum Poster'},
+							{name:'Best Cong Poster'},
+							{name:'Best Firebot Poster'},
+							{name:'Best Mentor'},
+							{name:'Best Tutor'},
+							{name:'Best Circus Poster'},
+							{name:'Best Team Rater'},
+							{name:'Most Helpful Poster'},
+							{ name: 'Best RMT Thread', hint: 'url' },
+							{ name: 'Best Thread', hint: 'url' },
+							{ name: 'Best Post', hint: 'url' },
+							{name:'Best Poster'}
+						]},{
+						name:'Contributions',
+						entries:[
+							{name:'Best Analysis Writer'},
+							{name:'Best Set Poster'},
+							{name:'Best Editor'},
+							{name:'Best Quality Control Member'},
+							{name:'Best Contributor'},
+							{name:'Best Forum Project'},
+							{name:'Best Programmer'},
+							{name:'Best Researcher'},
+							{name:'Most Promising Artist'},
+							{name:'Most Improved Artist'},
+							{ name: 'Best Piece of Art', hint: 'url' },
+							{name:'Best Artist'},
+							{name:'Best Contribution'},
+							{name:'Best Spriter'},
+							{name:'Best Sprite'},
+							{ name: 'Best Video', hint: 'url' }
+						]},{
+						name:'The Smog',
+						entries:[
+							{name:'Best New Writer'},
+							{name:'Most Improved Writer'},
+							{ name: 'Best Smog Article', hint: 'title' },
+							{ name:'Best Battling Strategy Article', hint:'title'},
+							{ name: 'Best Metagame Article', hint: 'title' },
+							{ name: 'Best Entertainment Article', hint: 'title' },
+							{ name: 'Best "Other Features" Article', hint: 'title' },
+							{ name: 'Best Article Layout', hint: 'title' },
+							{ name: 'Best Art for an Article', hint: 'article title' }
+						]},{
+						name:'Just For Fun',
+						entries:[
+							{ name: 'Best Smogon Thread Not Posted on Smogon\'s Forums', hint: 'url' },
+							{name:'Best Under-the-Influence User'},
+							{name:'User Most Likely to Land a Helicopter'},
+							{name:'User Most Likely to Sell Smogon Out to Nintendo'}
+						]}
+					];
+				//do not edit below here
+
+				//apply template
+				var template = Handlebars.compile($('#nomination-template').html());
+				$('#nomination-form').html(template(categories));
+
+				//ready messager
+				var message = new Message({ to:'The Smog', title:'[No Reply] 2013 Smog Awards - R1', allowInvite:'0', noReply:'1' });
+				message.init(function(){
+					//attach submit handler
+					$('#submit').click(function(){
+						var nominations = [];
+
+						$('#nomination-form input').each(function(){
+							var $this = $(this);
+							if($this.val().length > 0){
+								nominations.push({'for':$this.attr('data-for'), 'name':$this.val()});
+							}
+						});
+
+						message.message = JSON.stringify(nominations);
+						message.send();
+					});
+				});
+				message.onSent = function(){
+					alert('Nominations Submitted!');
+					location = '/forums/';
+				};
+
+				$('#js-warning').hide();
+			});
+			}
+		</script>
+
+		[Page]
+		<div id="js-warning">This page requires JavaScript.</div>
+		<p>This is the nomination form for the 2013 Smog Awards! Please do not submit more than once as only the first submission will be counted. <strong>You should only nominate 1 user per category.</strong> Don't nominate yourself, either!</p>
+		<form id="nomination-form"></form>
+		<button id="submit">Submit!</button>
+		<script id="nomination-template" type="text/x-handlebars-template">
+			{{#each this}}
+			<fieldset class="section">
+				<legend>{{name}}</legend>
+				{{#each entries}}
+				<div>
+					<label>{{name}} {{#if hint}}({{hint}}){{/if}}</label>
+					<input type="text" data-for="{{name}}"/>
+				</div>
+				{{/each}}
+			</fieldset>
+			{{/each}}
+		</script>

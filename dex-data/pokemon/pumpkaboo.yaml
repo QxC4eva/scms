@@ -5,7 +5,7 @@ pokemon:
     egggroups:
     - [Amorphous]
     evolutions:
-    - [Gourgeist-Small, Gourgeist-Large, Gourgeist-Super]
+    - []
     height: [0]
     introduction: xy
     moves:
@@ -77,7 +77,7 @@ pokemon:
     egggroups:
     - [Amorphous]
     evolutions:
-    - [Gourgeist, Pumpkaboo-Small, Pumpkaboo-Large, Pumpkaboo-Super]
+    - [Gourgeist]
     height: [0]
     introduction: xy
     moves:

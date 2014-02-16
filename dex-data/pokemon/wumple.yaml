@@ -50,7 +50,7 @@ pokemon:
     egggroups:
     - [Bug]
     evolutions:
-    - []
+    - [Dustox]
     height: [0.7]
     introduction: rs
     moves:
@@ -100,7 +100,7 @@ pokemon:
     egggroups:
     - [Bug]
     evolutions:
-    - []
+    - [Beautifly]
     height: [0.6]
     introduction: rs
     moves:
@@ -120,7 +120,7 @@ pokemon:
     egggroups:
     - [Bug]
     evolutions:
-    - [Silcoon, Beautifly, Cascoon, Dustox]
+    - [Silcoon, Cascoon]
     height: [0.3]
     introduction: rs
     moves:

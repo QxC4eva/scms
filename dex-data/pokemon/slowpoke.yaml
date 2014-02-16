@@ -77,7 +77,7 @@ pokemon:
     - [Monster, Water 1]
     evolutions:
     - [Slowbro]
-    - gs: [Slowking]
+    - gs: [Slowbro, Slowking]
     height: [1.2]
     introduction: rb
     moves:

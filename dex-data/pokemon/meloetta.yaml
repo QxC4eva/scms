@@ -50,3 +50,12 @@ pokemon:
     types:
     - [Normal, Psychic]
     weight: [6.5]
+    alts:
+    - bw:
+        Meloetta-Pirouette:
+          stats: [100,128,90,77,77,128]
+          weight: 6.5
+          height: 0.6
+          types: [Normal, Fighting]
+          abilities: [Serene Grace]
+          

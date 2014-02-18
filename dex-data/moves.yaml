@@ -2469,11 +2469,9 @@ moves:
     accuracy: [100]
     description:
     - Has 30-70 power and can be any type but Normal, based on the user's IVs.
-    - {xy: 'Has 30-60 power and can be any type but Normal, based on the user''s IVs.'}
     introduction: xy
     power:
-    - 0
-    - {bw: 1}
+    - 1
     pp: [15]
     priority: [0]
     target: [enemy]

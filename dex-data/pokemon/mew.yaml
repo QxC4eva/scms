@@ -28,96 +28,72 @@ pokemon:
         Aqua Tail, Attract, Aura Sphere, Barrier, Baton Pass, Bind, Blizzard, Block,
         Bounce, Brick Break, Bug Bite, Bulk Up, Bulldoze, Calm Mind, Charge Beam,
         Covet, Cut, Dark Pulse, Dig, Dive, Double Team, Dragon Claw, Dragon Pulse,
-        Dragon Tail, Drain Punch, Dream Eater, Drill Run, Dual Chop, Earth Power,
-        Earthquake, Echoed Voice, Electroweb, Embargo, Endeavor, Energy Ball, Explosion,
-        Facade, False Swipe, Fire Blast, Fire Punch, Flame Charge, Flamethrower, Flash,
-        Flash Cannon, Fling, Fly, Focus Blast, Foul Play, Frost Breath, Frustration,
-        Gastro Acid, Giga Drain, Giga Impact, Grass Knot, Gravity, Gunk Shot, Gyro
-          Ball, Hail, Heal Bell, Heat Wave, Helping Hand, Hone Claws, Hyper Beam,
-        Hyper Voice, Ice Beam, Ice Punch, Icy Wind, Incinerate, Iron Defense, Iron
-          Head, Iron Tail, Knock Off, Last Resort, Light Screen, Low Kick, Low Sweep,
-        Magic Coat, Magic Room, Magnet Rise, Me First, Mega Punch, Metronome, Nasty
-          Plot, Outrage, Overheat, Pain Split, Payback, Pluck, Poison Jab, Pound,
-        Protect, Psych Up, Psychic, Psyshock, Quash, Rain Dance, Recycle, Reflect,
-        Reflect Type, Rest, Retaliate, Return, Roar, Rock Polish, Rock Slide, Rock
-          Smash, Rock Tomb, Role Play, Roost, Round, Safeguard, Sandstorm, Scald,
-        Seed Bomb, Shadow Ball, Shadow Claw, Signal Beam, Skill Swap, Sky Attack,
-        Sky Drop, Sleep Talk, Sludge Bomb, Sludge Wave, Smack Down, Snarl, Snatch,
-        Snore, Solar Beam, Spite, Stealth Rock, Stone Edge, Strength, Struggle Bug,
-        Substitute, Sunny Day, Super Fang, Superpower, Surf, Swagger, Swords Dance,
-        Synthesis, Tailwind, Taunt, Telekinesis, Thief, Thunder, Thunder Wave, Thunderbolt,
-        Thunder Punch, Torment, Toxic, Transform, Trick, Trick Room, U-turn, Uproar,
-        Venoshock, Volt Switch, Waterfall, Wild Charge, Will-O-Wisp, Wonder Room,
-        Work Up, Worry Seed, X-Scissor, Zen Headbutt, Body Slam, Bullet Seed, Counter,
-        Defense Curl, Double-Edge, Dream Eater, Dynamic Punch, Endure, Feint Attack,
-        Fake Out, Fire Punch, Focus Punch, Fury Cutter, Giga Drain, Hypnosis, Ice
-          Punch, Icy Wind, Iron Tail, Mega Kick, Mimic, Mud-Slap, Night Shade, Nightmare,
-        Psych Up, Role Play, Rollout, Secret Power, Seismic Toss, Self-Destruct, Shock
-          Wave, Skill Swap, Sky Attack, Sleep Talk, Snatch, Snore, Soft-Boiled, Steel
-          Wing, Swift, Thunder Punch, Water Pulse, Zap Cannon, Hidden Power Bug, Hidden
-          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
-        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
-        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
-        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+        Dragon Tail, Drain Punch, Drill Run, Dual Chop, Earth Power, Earthquake, Echoed
+          Voice, Electroweb, Embargo, Endeavor, Energy Ball, Explosion, Facade, False
+          Swipe, Fire Blast, Flame Charge, Flamethrower, Flash, Flash Cannon, Fling,
+        Fly, Focus Blast, Foul Play, Frost Breath, Frustration, Gastro Acid, Giga
+          Impact, Grass Knot, Gravity, Gunk Shot, Gyro Ball, Hail, Heal Bell, Heat
+          Wave, Helping Hand, Hone Claws, Hyper Beam, Hyper Voice, Ice Beam, Incinerate,
+        Iron Defense, Iron Head, Knock Off, Last Resort, Light Screen, Low Kick, Low
+          Sweep, Magic Coat, Magic Room, Magnet Rise, Me First, Mega Punch, Metronome,
+        Nasty Plot, Outrage, Overheat, Pain Split, Payback, Pluck, Poison Jab, Pound,
+        Protect, Psychic, Psyshock, Quash, Rain Dance, Recycle, Reflect, Reflect Type,
+        Rest, Retaliate, Return, Roar, Rock Polish, Rock Slide, Rock Smash, Rock Tomb,
+        Roost, Round, Safeguard, Sandstorm, Scald, Seed Bomb, Shadow Ball, Shadow
+          Claw, Signal Beam, Sky Drop, Sludge Bomb, Sludge Wave, Smack Down, Snarl,
+        Solar Beam, Spite, Stealth Rock, Stone Edge, Strength, Struggle Bug, Substitute,
+        Sunny Day, Super Fang, Superpower, Surf, Swagger, Swords Dance, Synthesis,
+        Tailwind, Taunt, Telekinesis, Thief, Thunder, Thunder Wave, Thunderbolt, Torment,
+        Toxic, Transform, Trick, Trick Room, U-turn, Uproar, Venoshock, Volt Switch,
+        Waterfall, Wild Charge, Will-O-Wisp, Wonder Room, Work Up, Worry Seed, X-Scissor,
+        Zen Headbutt, Body Slam, Bullet Seed, Counter, Defense Curl, Double-Edge,
+        Dynamic Punch, Endure, Feint Attack, Fake Out, Focus Punch, Fury Cutter, Hypnosis,
+        Mega Kick, Mimic, Mud-Slap, Night Shade, Nightmare, Rollout, Secret Power,
+        Seismic Toss, Self-Destruct, Shock Wave, Soft-Boiled, Steel Wing, Swift, Water
+          Pulse, Zap Cannon, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - dp: [Aerial Ace, Air Cutter, Amnesia, Ancient Power, Aqua Tail, Attract, Aura
           Sphere, Avalanche, Barrier, Baton Pass, Blizzard, Block, Bounce, Brick Break,
-        Brine, Bug Bite, Bulk Up, Bullet Seed, Calm Mind, Captivate, Charge Beam,
-        Cut, Dark Pulse, Defog, Dig, Dive, Double Team, Dragon Claw, Dragon Pulse,
-        Drain Punch, Dream Eater, Earth Power, Earthquake, Embargo, Endeavor, Endure,
-        Energy Ball, Explosion, Facade, False Swipe, Fire Blast, Fire Punch, Flamethrower,
-        Flash, Flash Cannon, Fling, Fly, Focus Blast, Focus Punch, Frustration, Fury
-          Cutter, Gastro Acid, Giga Drain, Giga Impact, Grass Knot, Gravity, Gunk
+        Brine, Bug Bite, Bulk Up, Calm Mind, Captivate, Charge Beam, Cut, Dark Pulse,
+        Defog, Dig, Dive, Double Team, Dragon Claw, Dragon Pulse, Drain Punch, Earth
+          Power, Earthquake, Embargo, Endeavor, Energy Ball, Explosion, Facade, False
+          Swipe, Fire Blast, Flamethrower, Flash, Flash Cannon, Fling, Fly, Focus
+          Blast, Frustration, Gastro Acid, Giga Impact, Grass Knot, Gravity, Gunk
           Shot, Gyro Ball, Hail, Headbutt, Heal Bell, Heat Wave, Helping Hand, Hyper
-          Beam, Ice Beam, Ice Punch, Icy Wind, Iron Defense, Iron Head, Iron Tail,
-        Knock Off, Last Resort, Light Screen, Low Kick, Magic Coat, Magnet Rise, Me
-          First, Mega Punch, Metronome, Mud-Slap, Nasty Plot, Natural Gift, Ominous
-          Wind, Outrage, Overheat, Pain Split, Payback, Pluck, Poison Jab, Pound,
-        Protect, Psych Up, Psychic, Rain Dance, Recycle, Reflect, Rest, Return, Roar,
-        Rock Climb, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Role Play, Rollout,
-        Roost, Safeguard, Sandstorm, Secret Power, Seed Bomb, Shadow Ball, Shadow
-          Claw, Shock Wave, Signal Beam, Silver Wind, Skill Swap, Sky Attack, Sleep
-          Talk, Sludge Bomb, Snatch, Snore, Solar Beam, Spite, Stealth Rock, Steel
-          Wing, Stone Edge, Strength, String Shot, Substitute, Sucker Punch, Sunny
-          Day, Super Fang, Superpower, Surf, Swagger, Swift, Swords Dance, Synthesis,
-        Tailwind, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Thunder Punch,
-        Torment, Toxic, Transform, Trick, Trick Room, Twister, U-turn, Uproar, Vacuum
-          Wave, Water Pulse, Waterfall, Whirlpool, Will-O-Wisp, Worry Seed, X-Scissor,
-        Zen Headbutt, Body Slam, Bullet Seed, Counter, Defense Curl, Double-Edge,
-        Dream Eater, Dynamic Punch, Endure, Feint Attack, Fake Out, Fire Punch, Focus
-          Punch, Fury Cutter, Giga Drain, Hypnosis, Ice Punch, Icy Wind, Iron Tail,
-        Mega Kick, Mimic, Mud-Slap, Night Shade, Nightmare, Psych Up, Role Play, Rollout,
-        Secret Power, Seismic Toss, Self-Destruct, Shock Wave, Skill Swap, Sky Attack,
-        Sleep Talk, Snatch, Snore, Soft-Boiled, Steel Wing, Swift, Thunder Punch,
-        Water Pulse, Zap Cannon, Hidden Power Bug, Hidden Power Dark, Hidden Power
-          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
-        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
-          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
-          Power Rock, Hidden Power Steel, Hidden Power Water]
-    - rs: [Aerial Ace, Ancient Power, Attract, Blizzard, Body Slam, Brick Break, Bulk
-          Up, Bullet Seed, Calm Mind, Counter, Cut, Defense Curl, Dig, Dive, Double-Edge,
-        Double Team, Dragon Claw, Dream Eater, Dynamic Punch, Earthquake, Endure,
-        Explosion, Facade, Feint Attack, Fake Out, Fire Blast, Fire Punch, Flamethrower,
-        Flash, Fly, Focus Punch, Frustration, Fury Cutter, Giga Drain, Hail, Hyper
-          Beam, Hypnosis, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Light Screen,
-        Mega Kick, Mega Punch, Metronome, Mimic, Mud-Slap, Night Shade, Nightmare,
-        Overheat, Pound, Protect, Psych Up, Psychic, Rain Dance, Reflect, Rest, Return,
-        Roar, Rock Slide, Rock Smash, Rock Tomb, Role Play, Rollout, Safeguard, Sandstorm,
-        Secret Power, Seismic Toss, Self-Destruct, Shadow Ball, Shock Wave, Skill
-          Swap, Sky Attack, Sleep Talk, Sludge Bomb, Snatch, Snore, Soft-Boiled, Solar
-          Beam, Steel Wing, Strength, Substitute, Sunny Day, Surf, Swagger, Swift,
-        Swords Dance, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Thunder Punch,
-        Torment, Toxic, Transform, Water Pulse, Waterfall, Zap Cannon, Body Slam,
-        Bullet Seed, Counter, Defense Curl, Double-Edge, Dream Eater, Dynamic Punch,
-        Endure, Feint Attack, Fake Out, Fire Punch, Focus Punch, Fury Cutter, Giga
-          Drain, Hypnosis, Ice Punch, Icy Wind, Iron Tail, Mega Kick, Mimic, Mud-Slap,
-        Night Shade, Nightmare, Psych Up, Role Play, Rollout, Secret Power, Seismic
-          Toss, Self-Destruct, Shock Wave, Skill Swap, Sky Attack, Sleep Talk, Snatch,
-        Snore, Soft-Boiled, Steel Wing, Swift, Thunder Punch, Water Pulse, Zap Cannon,
-        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
-        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
-          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
-          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
-        Hidden Power Water]
+          Beam, Ice Beam, Iron Defense, Iron Head, Knock Off, Last Resort, Light Screen,
+        Low Kick, Magic Coat, Magnet Rise, Me First, Mega Punch, Metronome, Nasty
+          Plot, Natural Gift, Ominous Wind, Outrage, Overheat, Pain Split, Payback,
+        Pluck, Poison Jab, Pound, Protect, Psychic, Rain Dance, Recycle, Reflect,
+        Rest, Return, Roar, Rock Climb, Rock Polish, Rock Slide, Rock Smash, Rock
+          Tomb, Roost, Safeguard, Sandstorm, Seed Bomb, Shadow Ball, Shadow Claw,
+        Signal Beam, Silver Wind, Sludge Bomb, Solar Beam, Spite, Stealth Rock, Stone
+          Edge, Strength, String Shot, Substitute, Sucker Punch, Sunny Day, Super
+          Fang, Superpower, Surf, Swagger, Swords Dance, Synthesis, Tailwind, Taunt,
+        Thief, Thunder, Thunder Wave, Thunderbolt, Torment, Toxic, Transform, Trick,
+        Trick Room, Twister, U-turn, Uproar, Vacuum Wave, Waterfall, Whirlpool, Will-O-Wisp,
+        Worry Seed, X-Scissor, Zen Headbutt, Body Slam, Counter, Defense Curl, Double-Edge,
+        Dynamic Punch, Feint Attack, Fake Out, Hypnosis, Mega Kick, Mimic, Night Shade,
+        Nightmare, Seismic Toss, Self-Destruct, Soft-Boiled, Zap Cannon, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - rs: [Aerial Ace, Ancient Power, Attract, Blizzard, Brick Break, Bulk Up, Calm
+          Mind, Cut, Dig, Dive, Double Team, Dragon Claw, Earthquake, Explosion, Facade,
+        Fire Blast, Flamethrower, Flash, Fly, Frustration, Hail, Hyper Beam, Ice Beam,
+        Light Screen, Mega Punch, Metronome, Overheat, Pound, Protect, Psychic, Rain
+          Dance, Reflect, Rest, Return, Roar, Rock Slide, Rock Smash, Rock Tomb, Safeguard,
+        Sandstorm, Shadow Ball, Sludge Bomb, Solar Beam, Strength, Substitute, Sunny
+          Day, Surf, Swagger, Swords Dance, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt,
+        Torment, Toxic, Transform, Waterfall, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rb: [Bide, Blizzard, Body Slam, Bubble Beam, Counter, Cut, Dig, Double-Edge,
         Double Team, Dragon Rage, Dream Eater, Earthquake, Egg Bomb, Explosion, Fire
           Blast, Fissure, Flash, Fly, Horn Drill, Hyper Beam, Ice Beam, Mega Drain,

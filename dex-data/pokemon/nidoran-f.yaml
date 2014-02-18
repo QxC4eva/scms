@@ -15,27 +15,25 @@ pokemon:
     - gs: [Body Slam, Dynamic Punch, Earthquake, Fire Blast, Fire Punch, Flamethrower,
         Fury Cutter, Hyper Beam, Ice Punch, Icy Wind, Roar, Sandstorm, Shadow Ball,
         Surf, Thunder Punch]
-    - bw: [Aqua Tail, Body Slam, Brick Break, Bulldoze, Dragon Pulse, Dragon Tail,
-        Earth Power, Earthquake, Fire Blast, Fire Punch, Flamethrower, Fling, Focus
-          Blast, Giga Impact, Hyper Beam, Ice Punch, Icy Wind, Incinerate, Outrage,
-        Quash, Roar, Rock Slide, Rock Tomb, Sandstorm, Shadow Ball, Sludge Wave, Smack
-          Down, Stealth Rock, Stone Edge, Superpower, Surf, Taunt, Thunder Punch,
-        Torment, Uproar, Double-Edge, Icy Wind, Mimic, Seismic Toss]
-    - dp: [Aqua Tail, Avalanche, Body Slam, Brick Break, Dragon Pulse, Earth Power,
-        Earthquake, Fire Blast, Fire Punch, Flamethrower, Fling, Focus Blast, Focus
-          Punch, Fury Cutter, Giga Impact, Hyper Beam, Ice Punch, Icy Wind, Outrage,
-        Roar, Rock Climb, Rock Slide, Rock Tomb, Sandstorm, Shadow Ball, Stealth Rock,
-        Stone Edge, Superpower, Surf, Taunt, Thunder Punch, Torment, Uproar, Whirlpool,
-        Double-Edge, Icy Wind, Mimic, Seismic Toss]
+    - bw: [Aqua Tail, Brick Break, Bulldoze, Dragon Pulse, Dragon Tail, Earth Power,
+        Earthquake, Fire Blast, Fire Punch, Flamethrower, Fling, Focus Blast, Giga
+          Impact, Hyper Beam, Ice Punch, Incinerate, Outrage, Quash, Roar, Rock Slide,
+        Rock Tomb, Sandstorm, Shadow Ball, Sludge Wave, Smack Down, Stealth Rock,
+        Stone Edge, Superpower, Surf, Taunt, Thunder Punch, Torment, Uproar, Seismic
+          Toss]
+    - dp: [Aqua Tail, Avalanche, Brick Break, Dragon Pulse, Earth Power, Earthquake,
+        Fire Blast, Fire Punch, Flamethrower, Fling, Focus Blast, Focus Punch, Fury
+          Cutter, Giga Impact, Hyper Beam, Ice Punch, Outrage, Roar, Rock Climb, Rock
+          Slide, Rock Tomb, Sandstorm, Shadow Ball, Stealth Rock, Stone Edge, Superpower,
+        Surf, Taunt, Thunder Punch, Torment, Uproar, Whirlpool, Seismic Toss]
     - rs: [Brick Break, Dynamic Punch, Earthquake, Fire Blast, Fire Punch, Flamethrower,
-        Focus Punch, Fury Cutter, Hyper Beam, Ice Punch, Icy Wind, Mega Kick, Mega
-          Punch, Roar, Rock Slide, Rock Tomb, Sandstorm, Seismic Toss, Shadow Ball,
-        Superpower, Surf, Taunt, Thunder Punch, Torment, Double-Edge, Icy Wind, Mimic,
-        Seismic Toss]
+        Focus Punch, Fury Cutter, Hyper Beam, Ice Punch, Mega Kick, Mega Punch, Roar,
+        Rock Slide, Rock Tomb, Sandstorm, Shadow Ball, Superpower, Surf, Taunt, Thunder
+          Punch, Torment]
     - rb: [Counter, Earthquake, Fire Blast, Fissure, Hyper Beam, Mega Kick, Mega Punch,
         Pay Day, Rock Slide, Seismic Toss, Strength, Submission, Surf]
-    - xy: [Aqua Tail, Avalanche, Brick Break, Bulldoze, Chip Away, Dragon Pulse, Dragon
-          Tail, Dynamic Punch, Earth Power, Earthquake, Fire Blast, Fire Punch, Flamethrower,
+    - xy: [Aqua Tail, Avalanche, Brick Break, Bulldoze, Dragon Pulse, Dragon Tail,
+        Dynamic Punch, Earth Power, Earthquake, Fire Blast, Fire Punch, Flamethrower,
         Fling, Focus Blast, Focus Punch, Fury Cutter, Giga Impact, Hyper Beam, Ice
           Punch, Icy Wind, Incinerate, Mega Kick, Mega Punch, Outrage, Quash, Roar,
         Rock Climb, Rock Slide, Rock Tomb, Sandstorm, Seismic Toss, Shadow Ball, Sludge
@@ -101,18 +99,17 @@ pokemon:
           Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
         Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
         Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
-    - rs: [Aerial Ace, Attract, Beat Up, Bite, Blizzard, Body Slam, Charm, Counter,
-        Crunch, Cut, Defense Curl, Dig, Disable, Double-Edge, Double Kick, Double
-          Team, Endure, Facade, Flatter, Focus Energy, Frustration, Fury Swipes, Growl,
-        Helping Hand, Ice Beam, Iron Tail, Mimic, Mud-Slap, Poison Sting, Protect,
-        Rain Dance, Rest, Return, Rock Smash, Scratch, Secret Power, Shock Wave, Sleep
-          Talk, Sludge Bomb, Snore, Strength, Substitute, Sunny Day, Supersonic, Swagger,
-        Tail Whip, Take Down, Thief, Thunder, Thunderbolt, Toxic, Water Pulse, Body
-          Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power
-          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
-        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
-          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
-          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Attract, Beat Up, Bite, Blizzard, Charm, Counter, Crunch, Cut,
+        Defense Curl, Dig, Disable, Double Kick, Double Team, Endure, Facade, Flatter,
+        Focus Energy, Frustration, Fury Swipes, Growl, Helping Hand, Ice Beam, Iron
+          Tail, Mud-Slap, Poison Sting, Protect, Rain Dance, Rest, Return, Rock Smash,
+        Scratch, Secret Power, Shock Wave, Sleep Talk, Sludge Bomb, Snore, Strength,
+        Substitute, Sunny Day, Supersonic, Swagger, Tail Whip, Take Down, Thief, Thunder,
+        Thunderbolt, Toxic, Water Pulse, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rb: [Bide, Bite, Blizzard, Body Slam, Double-Edge, Double Kick, Double Team,
         Fury Swipes, Growl, Mimic, Poison Sting, Rage, Reflect, Rest, Scratch, Skull
           Bash, Substitute, Tackle, Tail Whip, Take Down, Thunder, Thunderbolt, Toxic]
@@ -153,10 +150,9 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Ice Beam, Rock Smash, Strength]
-    - bw: [Echoed Voice, Body Slam, Body Slam, Body Slam, Body Slam, Double-Edge,
-        Mimic]
-    - dp: [Body Slam, Double-Edge, Mimic]
-    - rs: [Body Slam, Double-Edge, Mimic]
+    - bw: [Echoed Voice]
+    - dp: []
+    - rs: []
     - rb: [Bubble Beam, Horn Drill, Ice Beam, Water Gun]
     - xy: []
     stats:

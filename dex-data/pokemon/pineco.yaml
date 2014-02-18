@@ -13,11 +13,10 @@ pokemon:
     moves:
     - gs: [Hyper Beam, Sandstorm]
     - bw: [Autotomize, Block, Flash Cannon, Giga Impact, Heavy Slam, Hyper Beam, Magnet
-          Rise, Mirror Shot, Rock Polish, Signal Beam, Volt Switch, Zap Cannon, Body
-          Slam, Mimic]
+          Rise, Mirror Shot, Rock Polish, Signal Beam, Volt Switch, Zap Cannon]
     - dp: [Block, Flash Cannon, Giga Impact, Hyper Beam, Magnet Rise, Mirror Shot,
-        Rock Polish, Signal Beam, Zap Cannon, Body Slam, Mimic]
-    - rs: [Hyper Beam, Zap Cannon, Body Slam, Mimic]
+        Rock Polish, Signal Beam, Zap Cannon]
+    - rs: [Hyper Beam, Zap Cannon]
     - xy: [Autotomize, Block, Flash Cannon, Giga Impact, Heavy Slam, Hyper Beam, Magnet
           Rise, Mirror Shot, Rock Polish, Signal Beam, Volt Switch, Zap Cannon]
     stats:
@@ -74,17 +73,16 @@ pokemon:
           Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
         Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
           Water]
-    - rs: [Attract, Bide, Body Slam, Counter, Defense Curl, Dig, Double-Edge, Double
-          Team, Earthquake, Endure, Explosion, Facade, Flail, Frustration, Giga Drain,
-        Light Screen, Mimic, Pin Missile, Protect, Rapid Spin, Reflect, Rest, Return,
-        Rock Slide, Rock Smash, Rollout, Sand Tomb, Sandstorm, Secret Power, Self-Destruct,
-        Sleep Talk, Snore, Solar Beam, Spikes, Strength, Substitute, Sunny Day, Swagger,
-        Swift, Tackle, Take Down, Toxic, Body Slam, Mimic, Refresh, Hidden Power Bug,
-        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
-          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
-          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
-        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
-          Water]
+    - rs: [Attract, Bide, Counter, Defense Curl, Dig, Double-Edge, Double Team, Earthquake,
+        Endure, Explosion, Facade, Flail, Frustration, Giga Drain, Light Screen, Pin
+          Missile, Protect, Rapid Spin, Reflect, Rest, Return, Rock Slide, Rock Smash,
+        Rollout, Sand Tomb, Sandstorm, Secret Power, Self-Destruct, Sleep Talk, Snore,
+        Solar Beam, Spikes, Strength, Substitute, Sunny Day, Swagger, Swift, Tackle,
+        Take Down, Toxic, Refresh, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Attract, Bide, Body Slam, Bug Bite, Bulldoze, Captivate, Counter, Defense
           Curl, Dig, Double-Edge, Double Team, Earthquake, Endure, Explosion, Facade,
         Flail, Frustration, Giga Drain, Gravity, Gyro Ball, Headbutt, Iron Defense,

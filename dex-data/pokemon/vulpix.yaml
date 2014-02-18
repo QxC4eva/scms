@@ -13,10 +13,9 @@ pokemon:
     moves:
     - gs: [Hyper Beam]
     - bw: [Calm Mind, Dream Eater, Giga Impact, Hyper Beam, Nasty Plot, Psyshock,
-        Solar Beam, Body Slam, Double-Edge, Mimic]
-    - dp: [Calm Mind, Dream Eater, Giga Impact, Hyper Beam, Nasty Plot, Solar Beam,
-        Body Slam, Double-Edge, Mimic]
-    - rs: [Hyper Beam, Body Slam, Double-Edge, Mimic]
+        Solar Beam]
+    - dp: [Calm Mind, Dream Eater, Giga Impact, Hyper Beam, Nasty Plot, Solar Beam]
+    - rs: [Hyper Beam]
     - rb: [Hyper Beam]
     - xy: [Calm Mind, Dream Eater, Giga Impact, Hyper Beam, Nasty Plot, Psyshock,
         Solar Beam]
@@ -76,17 +75,16 @@ pokemon:
         Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
         Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
         Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
-    - rs: [Attract, Body Slam, Confuse Ray, Dig, Disable, Double-Edge, Double Team,
-        Ember, Endure, Facade, Feint Attack, Fire Blast, Fire Spin, Flail, Flamethrower,
-        Frustration, Grudge, Heat Wave, Howl, Hypnosis, Imprison, Iron Tail, Mimic,
-        Overheat, Protect, Psych Up, Quick Attack, Rest, Return, Roar, Safeguard,
-        Secret Power, Sleep Talk, Snore, Spite, Substitute, Sunny Day, Swagger, Swift,
-        Tail Whip, Toxic, Will-O-Wisp, Body Slam, Charm, Double-Edge, Mimic, Hidden
-          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
-        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
-          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
-          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
-        Hidden Power Water]
+    - rs: [Attract, Confuse Ray, Dig, Disable, Double Team, Ember, Endure, Facade,
+        Feint Attack, Fire Blast, Fire Spin, Flail, Flamethrower, Frustration, Grudge,
+        Heat Wave, Howl, Hypnosis, Imprison, Iron Tail, Overheat, Protect, Psych Up,
+        Quick Attack, Rest, Return, Roar, Safeguard, Secret Power, Sleep Talk, Snore,
+        Spite, Substitute, Sunny Day, Swagger, Swift, Tail Whip, Toxic, Will-O-Wisp,
+        Charm, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - rb: [Bide, Body Slam, Confuse Ray, Dig, Double-Edge, Double Team, Ember, Fire
           Blast, Fire Spin, Flamethrower, Mimic, Quick Attack, Rage, Reflect, Rest,
         Roar, Skull Bash, Substitute, Swift, Tail Whip, Take Down, Toxic]

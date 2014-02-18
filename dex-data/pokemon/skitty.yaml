@@ -35,42 +35,41 @@ pokemon:
     introduction: rs
     moves:
     - bw: [Assist, Attract, Baton Pass, Blizzard, Calm Mind, Captivate, Charge Beam,
-        Charm, Copycat, Covet, Dig, Double-Edge, Double Team, Double Slap, Dream Eater,
-        Echoed Voice, Facade, Feint Attack, Fake Out, Fake Tears, Flash, Foresight,
-        Frustration, Grass Knot, Growl, Heal Bell, Helping Hand, Hyper Voice, Ice
-          Beam, Icy Wind, Iron Tail, Last Resort, Mud Bomb, Payback, Protect, Psych
-          Up, Rain Dance, Rest, Retaliate, Return, Round, Safeguard, Shadow Ball,
-        Simple Beam, Sing, Sleep Talk, Snore, Solar Beam, Substitute, Sucker Punch,
-        Sunny Day, Swagger, Tackle, Tail Whip, Thunder, Thunder Wave, Thunderbolt,
-        Tickle, Toxic, Uproar, Wake-Up Slap, Wild Charge, Wish, Work Up, Zen Headbutt,
-        Body Slam, Double-Edge, Icy Wind, Mimic, Hidden Power Bug, Hidden Power Dark,
-        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
-          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
-        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
-        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+        Charm, Copycat, Covet, Dig, Double Team, Double Slap, Dream Eater, Echoed
+          Voice, Facade, Feint Attack, Fake Out, Fake Tears, Flash, Foresight, Frustration,
+        Grass Knot, Growl, Heal Bell, Helping Hand, Hyper Voice, Ice Beam, Iron Tail,
+        Last Resort, Mud Bomb, Payback, Protect, Psych Up, Rain Dance, Rest, Retaliate,
+        Return, Round, Safeguard, Shadow Ball, Simple Beam, Sing, Sleep Talk, Snore,
+        Solar Beam, Substitute, Sucker Punch, Sunny Day, Swagger, Tackle, Tail Whip,
+        Thunder, Thunder Wave, Thunderbolt, Tickle, Toxic, Uproar, Wake-Up Slap, Wild
+          Charge, Wish, Work Up, Zen Headbutt, Body Slam, Mimic, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - dp: [Assist, Attract, Baton Pass, Blizzard, Calm Mind, Captivate, Charge Beam,
-        Charm, Copycat, Covet, Dig, Double-Edge, Double Team, Double Slap, Dream Eater,
-        Endure, Facade, Feint Attack, Fake Out, Fake Tears, Flash, Foresight, Frustration,
-        Grass Knot, Growl, Headbutt, Heal Bell, Helping Hand, Ice Beam, Icy Wind,
-        Iron Tail, Last Resort, Mud Bomb, Mud-Slap, Natural Gift, Payback, Protect,
-        Psych Up, Rain Dance, Rest, Return, Rollout, Safeguard, Secret Power, Shadow
-          Ball, Shock Wave, Sing, Sleep Talk, Snore, Solar Beam, Substitute, Sucker
-          Punch, Sunny Day, Swagger, Swift, Tackle, Tail Whip, Thunder, Thunder Wave,
-        Thunderbolt, Tickle, Toxic, Uproar, Wake-Up Slap, Water Pulse, Wish, Zen Headbutt,
-        Body Slam, Double-Edge, Icy Wind, Mimic, Hidden Power Bug, Hidden Power Dark,
-        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
-          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
-        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
-        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
-    - rs: [Assist, Attract, Baton Pass, Blizzard, Body Slam, Calm Mind, Charm, Covet,
-        Defense Curl, Dig, Double-Edge, Double Team, Double Slap, Dream Eater, Endure,
-        Facade, Feint Attack, Fake Tears, Flash, Frustration, Growl, Heal Bell, Helping
-          Hand, Ice Beam, Icy Wind, Iron Tail, Mimic, Mud-Slap, Protect, Psych Up,
+        Charm, Copycat, Covet, Dig, Double Team, Double Slap, Dream Eater, Endure,
+        Facade, Feint Attack, Fake Out, Fake Tears, Flash, Foresight, Frustration,
+        Grass Knot, Growl, Headbutt, Heal Bell, Helping Hand, Ice Beam, Iron Tail,
+        Last Resort, Mud Bomb, Mud-Slap, Natural Gift, Payback, Protect, Psych Up,
         Rain Dance, Rest, Return, Rollout, Safeguard, Secret Power, Shadow Ball, Shock
-          Wave, Sing, Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day, Swagger,
-        Swift, Tackle, Tail Whip, Thunder, Thunder Wave, Thunderbolt, Tickle, Toxic,
-        Uproar, Water Pulse, Wish, Body Slam, Double-Edge, Icy Wind, Mimic, Hidden
-          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+          Wave, Sing, Sleep Talk, Snore, Solar Beam, Substitute, Sucker Punch, Sunny
+          Day, Swagger, Swift, Tackle, Tail Whip, Thunder, Thunder Wave, Thunderbolt,
+        Tickle, Toxic, Uproar, Wake-Up Slap, Water Pulse, Wish, Zen Headbutt, Body
+          Slam, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - rs: [Assist, Attract, Baton Pass, Blizzard, Calm Mind, Charm, Covet, Defense
+          Curl, Dig, Double Team, Double Slap, Dream Eater, Endure, Facade, Feint
+          Attack, Fake Tears, Flash, Frustration, Growl, Heal Bell, Helping Hand,
+        Ice Beam, Iron Tail, Mud-Slap, Protect, Psych Up, Rain Dance, Rest, Return,
+        Rollout, Safeguard, Secret Power, Shadow Ball, Shock Wave, Sing, Sleep Talk,
+        Snore, Solar Beam, Substitute, Sunny Day, Swagger, Swift, Tackle, Tail Whip,
+        Thunder, Thunder Wave, Thunderbolt, Tickle, Toxic, Uproar, Water Pulse, Wish,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
         Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
           Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
           Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,

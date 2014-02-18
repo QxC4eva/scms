@@ -35,11 +35,10 @@ pokemon:
     introduction: gs
     moves:
     - gs: [Fury Attack, Horn Attack, Hyper Beam]
-    - bw: [Fury Attack, Giga Impact, Hyper Beam, Ice Fang, Peck, Stone Edge, Thrash,
-        Mimic]
+    - bw: [Fury Attack, Giga Impact, Hyper Beam, Ice Fang, Peck, Stone Edge, Thrash]
     - dp: [Avalanche, Fury Attack, Giga Impact, Hyper Beam, Ice Fang, Peck, Stone
-          Edge, Mimic]
-    - rs: [Fury Attack, Horn Attack, Hyper Beam, Mimic]
+          Edge]
+    - rs: [Fury Attack, Horn Attack, Hyper Beam]
     - xy: [Fury Attack, Giga Impact, Horn Attack, Hyper Beam, Ice Fang, Peck, Stone
           Edge, Thrash]
     stats:
@@ -98,15 +97,15 @@ pokemon:
         Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rs: [Amnesia, Ancient Power, Attract, Bite, Blizzard, Body Slam, Defense Curl,
         Dig, Double-Edge, Double Team, Earthquake, Endure, Facade, Frustration, Hail,
-        Ice Beam, Icicle Spear, Icy Wind, Light Screen, Mimic, Mist, Mud Shot, Mud-Slap,
+        Ice Beam, Icicle Spear, Icy Wind, Light Screen, Mist, Mud Shot, Mud-Slap,
         Odor Sleuth, Powder Snow, Protect, Rain Dance, Reflect, Rest, Return, Roar,
         Rock Slide, Rock Smash, Rock Tomb, Sandstorm, Secret Power, Sleep Talk, Snore,
-        Strength, Substitute, Swagger, Tackle, Take Down, Toxic, Charm, Mimic, Hidden
-          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
-        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
-          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
-          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
-        Hidden Power Water]
+        Strength, Substitute, Swagger, Tackle, Take Down, Toxic, Charm, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - xy: [Amnesia, Ancient Power, Attract, Avalanche, Bite, Blizzard, Body Slam,
         Bulldoze, Captivate, Charm, Curse, Defense Curl, Dig, Double-Edge, Double
           Team, Earth Power, Earthquake, Endeavor, Endure, Facade, Fissure, Flail,

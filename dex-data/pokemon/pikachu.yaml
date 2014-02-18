@@ -50,12 +50,12 @@ pokemon:
           Tail, Light Screen, Mega Kick, Mega Punch, Mimic, Mud-Slap, Present, Protect,
         Rain Dance, Rest, Return, Reversal, Rollout, Secret Power, Seismic Toss, Shock
           Wave, Sleep Talk, Snore, Substitute, Swagger, Sweet Kiss, Swift, Tail Whip,
-        Thunder, Thunder Wave, Thunderbolt, Thunder Shock, Toxic, Volt Tackle, Wish,
-        Follow Me, Teeter Dance, Wish, Hidden Power Bug, Hidden Power Dark, Hidden
-          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
-          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
-          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
-        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+        Thunder, Thunder Wave, Thunderbolt, Thunder Shock, Toxic, Volt Tackle, Follow
+          Me, Teeter Dance, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - xy: [Attract, Bestow, Bide, Body Slam, Captivate, Charge, Charge Beam, Charm,
         Counter, Defense Curl, Double-Edge, Double Slap, Double Team, Echoed Voice,
         Encore, Endeavor, Endure, Facade, Fake Out, Flail, Flash, Fling, Follow Me,
@@ -100,8 +100,7 @@ pokemon:
           Off, Quick Attack, Rock Smash, Slam, Strength, Surf, Last Resort, Yawn,
         Fly, Body Slam, Double-Edge, Mimic, Seismic Toss]
     - rs: [Agility, Brick Break, Dig, Dynamic Punch, Focus Punch, Growl, Quick Attack,
-        Rock Smash, Slam, Strength, Thunder Punch, Fly, Body Slam, Double-Edge, Mimic,
-        Seismic Toss]
+        Rock Smash, Slam, Strength, Thunder Punch, Fly]
     - rb: [Agility, Bide, Body Slam, Double-Edge, Double Team, Flash, Growl, Light
           Screen, Mega Kick, Mega Punch, Mimic, Pay Day, Quick Attack, Rage, Reflect,
         Rest, Seismic Toss, Skull Bash, Slam, Submission, Substitute, Surf, Swift,
@@ -134,11 +133,9 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Hyper Beam, Thief]
-    - bw: [Focus Blast, Giga Impact, Hyper Beam, Thief, Body Slam, Double-Edge, Mimic,
-        Seismic Toss]
-    - dp: [Focus Blast, Giga Impact, Hyper Beam, Thief, Body Slam, Double-Edge, Mimic,
-        Seismic Toss]
-    - rs: [Hyper Beam, Thief, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    - bw: [Focus Blast, Giga Impact, Hyper Beam, Thief]
+    - dp: [Focus Blast, Giga Impact, Hyper Beam, Thief]
+    - rs: [Hyper Beam, Thief]
     - rb: [Hyper Beam]
     - xy: [Focus Blast, Giga Impact, Hyper Beam, Thief]
     stats:

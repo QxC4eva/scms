@@ -14,12 +14,10 @@ pokemon:
     - gs: [Earthquake, Hyper Beam, Strength]
     - bw: [Bulldoze, Earthquake, Explosion, Giga Impact, Gyro Ball, Hyper Beam, Rock
           Polish, Sandstorm, Shell Smash, Smack Down, Solar Beam, Stealth Rock, Stone
-          Edge, Strength, Double-Edge, Mimic, Refresh, Self-Destruct]
+          Edge, Strength, Refresh]
     - dp: [Earthquake, Explosion, Giga Impact, Gyro Ball, Hyper Beam, Rock Polish,
-        Sandstorm, Solar Beam, Stealth Rock, Stone Edge, Strength, Double-Edge, Mimic,
-        Refresh, Self-Destruct]
-    - rs: [Earthquake, Hyper Beam, Rock Tomb, Sandstorm, Strength, Double-Edge, Mimic,
-        Refresh, Self-Destruct]
+        Sandstorm, Solar Beam, Stealth Rock, Stone Edge, Strength, Refresh]
+    - rs: [Earthquake, Hyper Beam, Rock Tomb, Sandstorm, Strength, Refresh]
     - xy: [Bulldoze, Earthquake, Explosion, Giga Impact, Gyro Ball, Hyper Beam, Refresh,
         Rock Polish, Sandstorm, Shell Smash, Smack Down, Solar Beam, Stealth Rock,
         Stone Edge, Strength]
@@ -75,16 +73,15 @@ pokemon:
           Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
           Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
         Hidden Power Water]
-    - rs: [Acid Armor, Amnesia, Attract, Body Slam, Defense Curl, Double-Edge, Double
-          Team, Ember, Endure, Facade, Fire Blast, Flamethrower, Frustration, Harden,
-        Heat Wave, Light Screen, Mimic, Mud-Slap, Overheat, Protect, Reflect, Rest,
-        Return, Rock Slide, Rock Smash, Rock Throw, Rollout, Secret Power, Self-Destruct,
-        Sleep Talk, Smog, Snore, Substitute, Sunny Day, Swagger, Toxic, Yawn, Double-Edge,
-        Mimic, Self-Destruct, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
-        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
-          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
-          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
-        Hidden Power Steel, Hidden Power Water]
+    - rs: [Acid Armor, Amnesia, Attract, Body Slam, Defense Curl, Double Team, Ember,
+        Endure, Facade, Fire Blast, Flamethrower, Frustration, Harden, Heat Wave,
+        Light Screen, Mud-Slap, Overheat, Protect, Reflect, Rest, Return, Rock Slide,
+        Rock Smash, Rock Throw, Rollout, Secret Power, Sleep Talk, Smog, Snore, Substitute,
+        Sunny Day, Swagger, Toxic, Yawn, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Acid Armor, Amnesia, Ancient Power, Attract, Body Slam, Captivate, Curse,
         Defense Curl, Double-Edge, Double Team, Earth Power, Ember, Endure, Facade,
         Fire Blast, Flame Burst, Flame Charge, Flamethrower, Frustration, Harden,

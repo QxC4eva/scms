@@ -21,10 +21,9 @@ pokemon:
     - rs: [Blast Burn, Earthquake, Fly, Heat Wave, Hyper Beam, Roar, Steel Wing, Wing
           Attack]
     - rb: [Earthquake, Fissure, Fly, Hyper Beam]
-    - xy: [Air Cutter, Air Slash, Blast Burn, Bulldoze, Defog, Dragon Pulse, Dragon
-          Tail, Earthquake, Flare Blitz, Fly, Focus Blast, Giga Impact, Hyper Beam,
-        Ominous Wind, Roar, Roost, Sky Drop, Solar Beam, Steel Wing, Tailwind, Twister,
-        Wing Attack]
+    - xy: [Air Slash, Bulldoze, Defog, Dragon Tail, Earthquake, Fly, Focus Blast,
+        Giga Impact, Hyper Beam, Ominous Wind, Roar, Roost, Sky Drop, Solar Beam,
+        Steel Wing, Tailwind, Twister, Wing Attack]
     stats:
     - [78, 84, 78, 85, 85, 100]
     - gs: [78, 84, 78, 109, 85, 100]

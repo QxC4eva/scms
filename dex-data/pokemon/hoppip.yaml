@@ -48,12 +48,12 @@ pokemon:
         Hidden Power Steel, Hidden Power Water]
     - rs: [Aerial Ace, Amnesia, Attract, Bullet Seed, Confusion, Cotton Spore, Defense
           Curl, Double-Edge, Double Team, Encore, Endure, Facade, Flash, Frustration,
-        Giga Drain, Helping Hand, Leech Seed, Mega Drain, Mimic, Poison Powder, Protect,
+        Giga Drain, Helping Hand, Leech Seed, Mega Drain, Poison Powder, Protect,
         Psych Up, Reflect, Rest, Return, Secret Power, Sleep Powder, Sleep Talk, Snore,
         Solar Beam, Splash, Stun Spore, Substitute, Sunny Day, Swagger, Swords Dance,
-        Synthesis, Tackle, Tail Whip, Toxic, Mimic, Hidden Power Bug, Hidden Power
-          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
-        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Synthesis, Tackle, Tail Whip, Toxic, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
         Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
         Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Acrobatics, Aerial Ace, Amnesia, Aromatherapy, Attract, Bounce, Bullet
@@ -92,9 +92,9 @@ pokemon:
     introduction: gs
     moves:
     - gs: [Hyper Beam]
-    - bw: [Giga Impact, Hyper Beam, Mimic]
-    - dp: [Giga Impact, Hyper Beam, Mimic]
-    - rs: [Hyper Beam, Mimic]
+    - bw: [Giga Impact, Hyper Beam]
+    - dp: [Giga Impact, Hyper Beam]
+    - rs: [Hyper Beam]
     - xy: [False Swipe, Giga Impact, Hyper Beam]
     stats:
     - [75, 55, 70, 55, 85, 110]
@@ -120,9 +120,9 @@ pokemon:
     introduction: gs
     moves:
     - gs: []
-    - bw: [Mimic]
-    - dp: [Mimic]
-    - rs: [Mimic]
+    - bw: []
+    - dp: []
+    - rs: []
     - xy: []
     stats:
     - [55, 45, 50, 45, 65, 80]

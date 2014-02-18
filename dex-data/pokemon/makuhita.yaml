@@ -10,11 +10,9 @@ pokemon:
     height: [2.3]
     introduction: rs
     moves:
-    - bw: [Brine, Giga Impact, Hyper Beam, Iron Head, Payback, Stone Edge, Body Slam,
-        Double-Edge, Mimic]
-    - dp: [Brine, Giga Impact, Hyper Beam, Iron Head, Payback, Stone Edge, Body Slam,
-        Double-Edge, Mimic]
-    - rs: [Hyper Beam, Body Slam, Double-Edge, Mimic]
+    - bw: [Brine, Giga Impact, Hyper Beam, Iron Head, Payback, Stone Edge]
+    - dp: [Brine, Giga Impact, Hyper Beam, Iron Head, Payback, Stone Edge]
+    - rs: [Hyper Beam]
     - xy: [Brine, Giga Impact, Hyper Beam, Iron Head, Payback, Stone Edge]
     stats:
     - [144, 120, 60, 40, 60, 50]
@@ -66,15 +64,14 @@ pokemon:
           Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
           Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
         Hidden Power Steel, Hidden Power Water]
-    - rs: [Arm Thrust, Attract, Belly Drum, Body Slam, Brick Break, Bulk Up, Counter,
-        Cross Chop, Detect, Dig, Double-Edge, Double Team, Dynamic Punch, Earthquake,
-        Endure, Facade, Feint Attack, Fake Out, Fire Punch, Focus Energy, Focus Punch,
-        Foresight, Frustration, Helping Hand, Ice Punch, Knock Off, Mega Kick, Mega
-          Punch, Metronome, Mimic, Mud-Slap, Protect, Rain Dance, Rest, Return, Revenge,
-        Reversal, Rock Slide, Rock Smash, Rock Tomb, Sand Attack, Secret Power, Seismic
-          Toss, Sleep Talk, Smelling Salts, Snore, Strength, Substitute, Sunny Day,
-        Surf, Swagger, Tackle, Thunder Punch, Toxic, Vital Throw, Whirlwind, Body
-          Slam, Double-Edge, Mimic, Refresh, Hidden Power Bug, Hidden Power Dark,
+    - rs: [Arm Thrust, Attract, Belly Drum, Brick Break, Bulk Up, Counter, Cross Chop,
+        Detect, Dig, Double Team, Dynamic Punch, Earthquake, Endure, Facade, Feint
+          Attack, Fake Out, Fire Punch, Focus Energy, Focus Punch, Foresight, Frustration,
+        Helping Hand, Ice Punch, Knock Off, Mega Kick, Mega Punch, Metronome, Mud-Slap,
+        Protect, Rain Dance, Rest, Return, Revenge, Reversal, Rock Slide, Rock Smash,
+        Rock Tomb, Sand Attack, Secret Power, Seismic Toss, Sleep Talk, Smelling Salts,
+        Snore, Strength, Substitute, Sunny Day, Surf, Swagger, Tackle, Thunder Punch,
+        Toxic, Vital Throw, Whirlwind, Refresh, Hidden Power Bug, Hidden Power Dark,
         Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
           Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
         Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,

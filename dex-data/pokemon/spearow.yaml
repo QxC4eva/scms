@@ -12,9 +12,9 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Hyper Beam]
-    - bw: [Giga Impact, Hyper Beam, Double-Edge, Mimic]
-    - dp: [Giga Impact, Hyper Beam, Double-Edge, Mimic]
-    - rs: [Hyper Beam, Double-Edge, Mimic]
+    - bw: [Giga Impact, Hyper Beam]
+    - dp: [Giga Impact, Hyper Beam]
+    - rs: [Hyper Beam]
     - rb: [Hyper Beam]
     - xy: [Giga Impact, Hyper Beam]
     stats:
@@ -69,16 +69,16 @@ pokemon:
         Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
           Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
           Power Rock, Hidden Power Steel, Hidden Power Water]
-    - rs: [Aerial Ace, Agility, Astonish, Attract, Double-Edge, Double Team, Drill
-          Peck, Endure, Facade, Feint Attack, False Swipe, Fly, Frustration, Fury
-          Attack, Growl, Leer, Mimic, Mirror Move, Mud-Slap, Peck, Protect, Pursuit,
-        Quick Attack, Rain Dance, Rest, Return, Scary Face, Secret Power, Sky Attack,
-        Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day, Swagger, Swift, Thief,
-        Toxic, Tri Attack, Baton Pass, Double-Edge, Mimic, Hidden Power Bug, Hidden
-          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
-        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
-        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
-        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Agility, Astonish, Attract, Double Team, Drill Peck, Endure,
+        Facade, Feint Attack, False Swipe, Fly, Frustration, Fury Attack, Growl, Leer,
+        Mirror Move, Mud-Slap, Peck, Protect, Pursuit, Quick Attack, Rain Dance, Rest,
+        Return, Scary Face, Secret Power, Sky Attack, Sleep Talk, Snore, Steel Wing,
+        Substitute, Sunny Day, Swagger, Swift, Thief, Toxic, Tri Attack, Baton Pass,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rb: [Agility, Bide, Double-Edge, Double Team, Drill Peck, Fly, Fury Attack,
         Growl, Leer, Mimic, Mirror Move, Peck, Rage, Razor Wind, Rest, Sky Attack,
         Substitute, Swift, Take Down, Toxic, Whirlwind]

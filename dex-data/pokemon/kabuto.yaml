@@ -46,18 +46,17 @@ pokemon:
         Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
           Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
           Power Rock, Hidden Power Steel, Hidden Power Water]
-    - rs: [Absorb, Aerial Ace, Ancient Power, Attract, Aurora Beam, Blizzard, Body
-          Slam, Bubble Beam, Confuse Ray, Dig, Double-Edge, Double Team, Endure, Facade,
-        Flail, Frustration, Giga Drain, Hail, Harden, Ice Beam, Icy Wind, Knock Off,
-        Leer, Mega Drain, Metal Sound, Mimic, Mud Shot, Protect, Rain Dance, Rapid
-          Spin, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sand Attack,
-        Sandstorm, Scratch, Secret Power, Sleep Talk, Snore, Substitute, Surf, Swagger,
-        Thief, Toxic, Water Pulse, Waterfall, Body Slam, Double-Edge, Mimic, Hidden
-          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
-        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
-          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
-          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
-        Hidden Power Water]
+    - rs: [Absorb, Aerial Ace, Ancient Power, Attract, Aurora Beam, Blizzard, Bubble
+          Beam, Confuse Ray, Dig, Double Team, Endure, Facade, Flail, Frustration,
+        Giga Drain, Hail, Harden, Ice Beam, Icy Wind, Knock Off, Leer, Mega Drain,
+        Metal Sound, Mud Shot, Protect, Rain Dance, Rapid Spin, Rest, Return, Rock
+          Slide, Rock Smash, Rock Tomb, Rollout, Sand Attack, Sandstorm, Scratch,
+        Secret Power, Sleep Talk, Snore, Substitute, Surf, Swagger, Thief, Toxic,
+        Water Pulse, Waterfall, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
     - rb: [Absorb, Bide, Blizzard, Body Slam, Bubble Beam, Double-Edge, Double Team,
         Harden, Hydro Pump, Ice Beam, Leer, Mimic, Rage, Reflect, Rest, Scratch, Slash,
         Substitute, Surf, Take Down, Toxic, Water Gun]
@@ -99,13 +98,12 @@ pokemon:
     - gs: [Cut, Fury Cutter, Headbutt, Hyper Beam, Slash, Surf, Whirlpool]
     - bw: [Aerial Ace, Aqua Tail, Brick Break, Cut, Dive, Feint, Giga Impact, Hyper
           Beam, Low Kick, Night Slash, Slash, Stone Edge, Superpower, Swords Dance,
-        X-Scissor, Body Slam, Double-Edge, Mimic, Seismic Toss]
+        X-Scissor, Seismic Toss]
     - dp: [Aerial Ace, Aqua Tail, Brick Break, Cut, Dive, Feint, Fury Cutter, Giga
           Impact, Headbutt, Hyper Beam, Low Kick, Night Slash, Rock Climb, Slash,
-        Stone Edge, Superpower, Swords Dance, X-Scissor, Body Slam, Double-Edge, Mimic,
-        Seismic Toss]
-    - rs: [Brick Break, Cut, Dive, Fury Cutter, Hyper Beam, Mega Kick, Seismic Toss,
-        Slash, Swords Dance, Body Slam, Double-Edge, Mimic, Seismic Toss]
+        Stone Edge, Superpower, Swords Dance, X-Scissor, Seismic Toss]
+    - rs: [Brick Break, Cut, Dive, Fury Cutter, Hyper Beam, Mega Kick, Slash, Swords
+          Dance]
     - rb: [Cut, Hyper Beam, Mega Kick, Razor Wind, Seismic Toss, Skull Bash, Submission,
         Swords Dance]
     - xy: [Aqua Tail, Brick Break, Cut, Dive, Feint, Fury Cutter, Giga Impact, Headbutt,

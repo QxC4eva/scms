@@ -42,9 +42,9 @@ pokemon:
     introduction: rb
     moves:
     - gs: []
-    - bw: [Drain Punch, Fling, Double-Edge, Mimic]
-    - dp: [Drain Punch, Fling, Double-Edge, Mimic]
-    - rs: [Double-Edge, Mimic]
+    - bw: [Drain Punch, Fling]
+    - dp: [Drain Punch, Fling]
+    - rs: []
     - rb: []
     - xy: [Drain Punch, Fling, Petal Blizzard]
     stats:
@@ -100,16 +100,16 @@ pokemon:
         Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
           Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
           Power Steel, Hidden Power Water]
-    - rs: [Absorb, Acid, Attract, Bullet Seed, Charm, Cut, Double-Edge, Double Team,
-        Endure, Facade, Flail, Flash, Frustration, Giga Drain, Ingrain, Mimic, Moonlight,
-        Petal Dance, Poison Powder, Protect, Razor Leaf, Rest, Return, Secret Power,
-        Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Stun Spore, Substitute,
-        Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis, Toxic, Leech Seed,
-        Body Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden
-          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
-          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
-          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
-        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Absorb, Acid, Attract, Bullet Seed, Charm, Cut, Double Team, Endure, Facade,
+        Flail, Flash, Frustration, Giga Drain, Ingrain, Moonlight, Petal Dance, Poison
+          Powder, Protect, Razor Leaf, Rest, Return, Secret Power, Sleep Powder, Sleep
+          Talk, Sludge Bomb, Snore, Solar Beam, Stun Spore, Substitute, Sunny Day,
+        Swagger, Sweet Scent, Swords Dance, Synthesis, Toxic, Leech Seed, Body Slam,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rb: [Absorb, Acid, Bide, Cut, Double-Edge, Double Team, Mega Drain, Mimic, Petal
           Dance, Poison Powder, Rage, Reflect, Rest, Sleep Powder, Solar Beam, Stun
           Spore, Substitute, Swords Dance, Take Down, Toxic, Leech Seed]
@@ -150,7 +150,7 @@ pokemon:
     - gs: []
     - bw: [Aromatherapy, Body Slam, Double-Edge, Mimic]
     - dp: [Aromatherapy, Body Slam, Double-Edge, Mimic]
-    - rs: [Aromatherapy, Body Slam, Mega Drain, Body Slam, Double-Edge, Mimic]
+    - rs: [Aromatherapy, Mega Drain, Double-Edge, Mimic]
     - rb: [Body Slam, Hyper Beam]
     - xy: [Aromatherapy, Body Slam, Giga Impact, Hyper Beam, Safeguard]
     stats:

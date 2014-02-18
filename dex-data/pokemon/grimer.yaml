@@ -49,14 +49,13 @@ pokemon:
           Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
           Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
         Hidden Power Water]
-    - rs: [Acid Armor, Attract, Body Slam, Curse, Dig, Disable, Double Team, Dynamic
-          Punch, Endure, Explosion, Facade, Fire Blast, Fire Punch, Flamethrower,
-        Frustration, Giga Drain, Harden, Haze, Ice Punch, Imprison, Lick, Mean Look,
-        Memento, Mimic, Minimize, Mud-Slap, Poison Gas, Pound, Protect, Rain Dance,
-        Rest, Return, Rock Tomb, Screech, Secret Power, Self-Destruct, Shadow Punch,
-        Shock Wave, Sleep Talk, Sludge, Sludge Bomb, Snore, Substitute, Sunny Day,
-        Swagger, Taunt, Thief, Thunder, Thunderbolt, Thunder Punch, Torment, Toxic,
-        Body Slam, Helping Hand, Mimic, Self-Destruct, Hidden Power Bug, Hidden Power
+    - rs: [Acid Armor, Attract, Curse, Dig, Disable, Double Team, Dynamic Punch, Endure,
+        Explosion, Facade, Fire Blast, Fire Punch, Flamethrower, Frustration, Giga
+          Drain, Harden, Haze, Ice Punch, Imprison, Lick, Mean Look, Memento, Minimize,
+        Mud-Slap, Poison Gas, Pound, Protect, Rain Dance, Rest, Return, Rock Tomb,
+        Screech, Secret Power, Shadow Punch, Shock Wave, Sleep Talk, Sludge, Sludge
+          Bomb, Snore, Substitute, Sunny Day, Swagger, Taunt, Thief, Thunder, Thunderbolt,
+        Thunder Punch, Torment, Toxic, Helping Hand, Hidden Power Bug, Hidden Power
           Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
         Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
         Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
@@ -103,11 +102,10 @@ pokemon:
     moves:
     - gs: [Hyper Beam]
     - bw: [Block, Brick Break, Dark Pulse, Focus Blast, Giga Impact, Hyper Beam, Rock
-          Smash, Body Slam, Mimic, Self-Destruct]
+          Smash]
     - dp: [Block, Brick Break, Dark Pulse, Focus Blast, Focus Punch, Giga Impact,
-        Hyper Beam, Rock Smash, Body Slam, Mimic, Self-Destruct]
-    - rs: [Brick Break, Focus Punch, Hyper Beam, Rock Smash, Strength, Body Slam,
-        Mimic, Self-Destruct]
+        Hyper Beam, Rock Smash]
+    - rs: [Brick Break, Focus Punch, Hyper Beam, Rock Smash, Strength]
     - rb: [Hyper Beam]
     - xy: [Block, Brick Break, Dark Pulse, Focus Blast, Focus Punch, Giga Impact,
         Hyper Beam, Rock Smash]

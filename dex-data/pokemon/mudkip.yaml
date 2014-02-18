@@ -11,12 +11,11 @@ pokemon:
     introduction: rs
     moves:
     - bw: [Brick Break, Bulldoze, Earthquake, Fling, Ice Punch, Mud Shot, Muddy Water,
-        Stealth Rock, Body Slam, Icy Wind, Mimic, Seismic Toss]
+        Stealth Rock, Seismic Toss]
     - dp: [Brick Break, Earthquake, Fling, Ice Punch, Mud Shot, Muddy Water, Stealth
-          Rock, Body Slam, Icy Wind, Mimic, Seismic Toss]
+          Rock, Seismic Toss]
     - rs: [Counter, Dynamic Punch, Earthquake, Ice Punch, Mega Kick, Mega Punch, Mud
-          Shot, Muddy Water, Rock Slide, Seismic Toss, Body Slam, Icy Wind, Mimic,
-        Seismic Toss]
+          Shot, Muddy Water, Rock Slide]
     - xy: [Brick Break, Bulldoze, Dynamic Punch, Earthquake, Fling, Ice Punch, Mega
           Kick, Mega Punch, Muddy Water, Mud Shot, Seismic Toss, Stealth Rock, Power-Up
           Punch]
@@ -41,12 +40,12 @@ pokemon:
     - bw: [Ancient Power, Aqua Tail, Attract, Avalanche, Bide, Bite, Blizzard, Counter,
         Curse, Dig, Dive, Double-Edge, Double Team, Earth Power, Echoed Voice, Endeavor,
         Facade, Foresight, Frustration, Growl, Hail, Hydro Pump, Ice Ball, Ice Beam,
-        Icy Wind, Iron Tail, Low Kick, Mirror Coat, Mud Bomb, Mud-Slap, Mud Sport,
-        Protect, Rain Dance, Refresh, Rest, Return, Rock Slide, Rock Smash, Rock Tomb,
-        Round, Scald, Sleep Talk, Sludge, Sludge Wave, Snore, Stomp, Strength, Substitute,
+        Iron Tail, Low Kick, Mirror Coat, Mud Bomb, Mud-Slap, Mud Sport, Protect,
+        Rain Dance, Refresh, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Round,
+        Scald, Sleep Talk, Sludge, Sludge Wave, Snore, Stomp, Strength, Substitute,
         Superpower, Surf, Swagger, Tackle, Take Down, Toxic, Uproar, Water Gun, Water
-          Pledge, Waterfall, Whirlpool, Wide Guard, Yawn, Body Slam, Icy Wind, Mimic,
-        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+          Pledge, Waterfall, Whirlpool, Wide Guard, Yawn, Body Slam, Mimic, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
         Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
           Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
           Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
@@ -54,27 +53,27 @@ pokemon:
     - dp: [Ancient Power, Aqua Tail, Attract, Bide, Bite, Blizzard, Captivate, Counter,
         Curse, Dig, Dive, Double-Edge, Double Team, Earth Power, Endeavor, Endure,
         Facade, Foresight, Frustration, Growl, Hail, Headbutt, Hydro Pump, Ice Ball,
-        Ice Beam, Icy Wind, Iron Tail, Low Kick, Mirror Coat, Mud Bomb, Mud-Slap,
-        Mud Sport, Natural Gift, Protect, Rain Dance, Refresh, Rest, Return, Rock
-          Slide, Rock Smash, Rock Tomb, Rollout, Secret Power, Sleep Talk, Sludge,
-        Snore, Stomp, Strength, Substitute, Superpower, Surf, Swagger, Tackle, Take
-          Down, Toxic, Uproar, Water Gun, Water Pulse, Waterfall, Whirlpool, Yawn,
-        Body Slam, Icy Wind, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power
-          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
-        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
-          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
-          Power Rock, Hidden Power Steel, Hidden Power Water]
-    - rs: [Attract, Bide, Blizzard, Body Slam, Curse, Defense Curl, Dig, Dive, Double-Edge,
-        Double Team, Endeavor, Endure, Facade, Foresight, Frustration, Growl, Hail,
-        Hydro Pump, Ice Ball, Ice Beam, Icy Wind, Iron Tail, Mimic, Mirror Coat, Mud-Slap,
-        Mud Sport, Protect, Rain Dance, Refresh, Rest, Return, Rock Smash, Rock Tomb,
-        Rollout, Secret Power, Sleep Talk, Snore, Stomp, Strength, Substitute, Surf,
-        Swagger, Tackle, Take Down, Toxic, Uproar, Water Gun, Water Pulse, Waterfall,
-        Whirlpool, Body Slam, Icy Wind, Mimic, Hidden Power Bug, Hidden Power Dark,
-        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
-          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
-        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
-        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+        Ice Beam, Iron Tail, Low Kick, Mirror Coat, Mud Bomb, Mud-Slap, Mud Sport,
+        Natural Gift, Protect, Rain Dance, Refresh, Rest, Return, Rock Slide, Rock
+          Smash, Rock Tomb, Rollout, Secret Power, Sleep Talk, Sludge, Snore, Stomp,
+        Strength, Substitute, Superpower, Surf, Swagger, Tackle, Take Down, Toxic,
+        Uproar, Water Gun, Water Pulse, Waterfall, Whirlpool, Yawn, Body Slam, Mimic,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - rs: [Attract, Bide, Blizzard, Curse, Defense Curl, Dig, Dive, Double-Edge, Double
+          Team, Endeavor, Endure, Facade, Foresight, Frustration, Growl, Hail, Hydro
+          Pump, Ice Ball, Ice Beam, Iron Tail, Mirror Coat, Mud-Slap, Mud Sport, Protect,
+        Rain Dance, Refresh, Rest, Return, Rock Smash, Rock Tomb, Rollout, Secret
+          Power, Sleep Talk, Snore, Stomp, Strength, Substitute, Surf, Swagger, Tackle,
+        Take Down, Toxic, Uproar, Water Gun, Water Pulse, Waterfall, Whirlpool, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - xy: [Ancient Power, Aqua Tail, Attract, Avalanche, Bide, Bite, Blizzard, Body
           Slam, Captivate, Counter, Curse, Defense Curl, Dig, Dive, Double-Edge, Double
           Team, Echoed Voice, Endeavor, Endure, Facade, Foresight, Frustration, Growl,
@@ -109,14 +108,12 @@ pokemon:
     introduction: rs
     moves:
     - bw: [Focus Blast, Giga Impact, Hammer Arm, Hydro Cannon, Hyper Beam, Outrage,
-        Roar, Stone Edge, Body Slam, Icy Wind, Mimic, Seismic Toss]
+        Roar, Stone Edge]
     - dp: [Avalanche, Focus Blast, Focus Punch, Giga Impact, Hammer Arm, Hydro Cannon,
-        Hyper Beam, Outrage, Roar, Rock Climb, Stone Edge, Body Slam, Icy Wind, Mimic,
-        Seismic Toss]
-    - rs: [Brick Break, Focus Punch, Hyper Beam, Roar, Body Slam, Icy Wind, Mimic,
-        Seismic Toss]
-    - xy: [Avalanche, Focus Blast, Focus Punch, Giga Impact, Hammer Arm, Hydro Cannon,
-        Hydro Pump, Hyper Beam, Outrage, Roar, Rock Climb, Stone Edge]
+        Hyper Beam, Outrage, Roar, Rock Climb, Stone Edge]
+    - rs: [Brick Break, Focus Punch, Hyper Beam, Roar]
+    - xy: [Focus Blast, Focus Punch, Giga Impact, Hammer Arm, Hydro Cannon, Hyper
+          Beam, Outrage, Roar, Rock Climb, Stone Edge]
     stats:
     - [100, 110, 90, 85, 90, 60]
     tags:

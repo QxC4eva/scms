@@ -15,10 +15,10 @@ pokemon:
     moves:
     - gs: [Metal Claw, Sandstorm, Strength]
     - bw: [Acrobatics, Bullet Punch, Flash Cannon, Fling, Iron Defense, Iron Head,
-        Metal Claw, Sandstorm, Strength, Superpower, Venoshock, Double-Edge, Mimic]
+        Metal Claw, Sandstorm, Strength, Superpower, Venoshock]
     - dp: [Bullet Punch, Flash Cannon, Fling, Iron Defense, Iron Head, Metal Claw,
-        Sandstorm, Strength, Superpower, Double-Edge, Mimic]
-    - rs: [Iron Defense, Metal Claw, Sandstorm, Strength, Double-Edge, Mimic]
+        Sandstorm, Strength, Superpower]
+    - rs: [Iron Defense, Metal Claw, Sandstorm, Strength]
     - xy: [Acrobatics, Bullet Punch, Flash Cannon, Fling, Iron Defense, Iron Head,
         Metal Claw, Sandstorm, Strength, Superpower, Venoshock]
     stats:
@@ -97,17 +97,16 @@ pokemon:
           Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
           Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
         Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
-    - rs: [Aerial Ace, Agility, Attract, Baton Pass, Counter, Cut, Double-Edge, Double
-          Team, Endure, Facade, False Swipe, Focus Energy, Frustration, Fury Cutter,
-        Hyper Beam, Leer, Light Screen, Mimic, Protect, Pursuit, Quick Attack, Rain
-          Dance, Razor Wind, Rest, Return, Reversal, Rock Smash, Safeguard, Secret
-          Power, Silver Wind, Slash, Sleep Talk, Snore, Steel Wing, Substitute, Sunny
-          Day, Swagger, Swift, Swords Dance, Thief, Toxic, Wing Attack, Double-Edge,
-        Mimic, Morning Sun, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
-        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
-          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
-          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
-        Hidden Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Agility, Attract, Baton Pass, Counter, Cut, Double Team, Endure,
+        Facade, False Swipe, Focus Energy, Frustration, Fury Cutter, Hyper Beam, Leer,
+        Light Screen, Protect, Pursuit, Quick Attack, Rain Dance, Razor Wind, Rest,
+        Return, Reversal, Rock Smash, Safeguard, Secret Power, Silver Wind, Slash,
+        Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day, Swagger, Swift, Swords
+          Dance, Thief, Toxic, Wing Attack, Morning Sun, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rb: [Agility, Bide, Cut, Double-Edge, Double Team, Focus Energy, Hyper Beam,
         Leer, Mimic, Quick Attack, Rage, Rest, Skull Bash, Slash, Substitute, Swift,
         Swords Dance, Take Down, Toxic, Wing Attack]

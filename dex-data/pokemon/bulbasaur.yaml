@@ -127,11 +127,10 @@ pokemon:
         Body Slam, Mimic]
     - dp: [Block, Earthquake, Frenzy Plant, Giga Impact, Hyper Beam, Outrage, Roar,
         Rock Climb, Body Slam, Mimic]
-    - rs: [Body Slam, Earthquake, Frenzy Plant, Hyper Beam, Mimic, Roar, Body Slam,
-        Mimic]
+    - rs: [Earthquake, Frenzy Plant, Hyper Beam, Roar]
     - rb: [Hyper Beam]
-    - xy: [Block, Bulldoze, Earthquake, Frenzy Plant, Giga Impact, Hyper Beam, Outrage,
-        Petal Dance, Roar, Rock Climb, Petal Blizzard]
+    - xy: [Bulldoze, Earthquake, Giga Impact, Hyper Beam, Outrage, Roar, Rock Climb,
+        Petal Blizzard]
     stats:
     - [80, 82, 83, 100, 100, 80]
     - gs: [80, 82, 83, 100, 100, 80]

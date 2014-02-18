@@ -24,40 +24,38 @@ pokemon:
     - bw: [Acid, Acid Spray, Acupressure, Aqua Ring, Attract, Aurora Beam, Barrier,
         Bind, Blizzard, Bubble, Bubble Beam, Confuse Ray, Constrict, Cut, Dive, Double
           Team, Facade, Frustration, Giga Drain, Hail, Haze, Hex, Hydro Pump, Ice
-          Beam, Icy Wind, Knock Off, Magic Coat, Mirror Coat, Muddy Water, Payback,
-        Poison Jab, Poison Sting, Protect, Rain Dance, Rapid Spin, Rest, Return, Round,
-        Safeguard, Scald, Screech, Sleep Talk, Sludge Bomb, Sludge Wave, Snore, Substitute,
-        Supersonic, Surf, Swagger, Swords Dance, Thief, Tickle, Toxic, Toxic Spikes,
-        Venoshock, Water Pulse, Waterfall, Wrap, Wring Out, Double-Edge, Icy Wind,
-        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
-          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
-        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
-          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
-          Power Steel, Hidden Power Water]
-    - dp: [Acid, Acupressure, Attract, Aurora Beam, Barrier, Blizzard, Brine, Bubble
-          Beam, Captivate, Confuse Ray, Constrict, Cut, Dive, Double Team, Endure,
-        Facade, Frustration, Giga Drain, Hail, Haze, Hydro Pump, Ice Beam, Icy Wind,
-        Knock Off, Magic Coat, Mirror Coat, Muddy Water, Natural Gift, Payback, Poison
-          Jab, Poison Sting, Protect, Rain Dance, Rapid Spin, Rest, Return, Safeguard,
-        Screech, Secret Power, Sleep Talk, Sludge Bomb, Snore, Substitute, Supersonic,
-        Surf, Swagger, Swords Dance, Thief, Toxic, Toxic Spikes, Water Pulse, Waterfall,
-        Whirlpool, Wrap, Wring Out, Double-Edge, Icy Wind, Mimic, Hidden Power Bug,
-        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
-          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
-          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+          Beam, Knock Off, Magic Coat, Mirror Coat, Muddy Water, Payback, Poison Jab,
+        Poison Sting, Protect, Rain Dance, Rapid Spin, Rest, Return, Round, Safeguard,
+        Scald, Screech, Sleep Talk, Sludge Bomb, Sludge Wave, Snore, Substitute, Supersonic,
+        Surf, Swagger, Swords Dance, Thief, Tickle, Toxic, Toxic Spikes, Venoshock,
+        Water Pulse, Waterfall, Wrap, Wring Out, Double-Edge, Mimic, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
         Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
           Water]
-    - rs: [Acid, Attract, Aurora Beam, Barrier, Blizzard, Bubble Beam, Confuse Ray,
-        Constrict, Cut, Dive, Double-Edge, Double Team, Endure, Facade, Frustration,
-        Giga Drain, Hail, Haze, Hydro Pump, Ice Beam, Icy Wind, Mimic, Mirror Coat,
-        Poison Sting, Protect, Rain Dance, Rapid Spin, Rest, Return, Safeguard, Screech,
+    - dp: [Acid, Acupressure, Attract, Aurora Beam, Barrier, Blizzard, Brine, Bubble
+          Beam, Captivate, Confuse Ray, Constrict, Cut, Dive, Double Team, Endure,
+        Facade, Frustration, Giga Drain, Hail, Haze, Hydro Pump, Ice Beam, Knock Off,
+        Magic Coat, Mirror Coat, Muddy Water, Natural Gift, Payback, Poison Jab, Poison
+          Sting, Protect, Rain Dance, Rapid Spin, Rest, Return, Safeguard, Screech,
         Secret Power, Sleep Talk, Sludge Bomb, Snore, Substitute, Supersonic, Surf,
-        Swagger, Swords Dance, Thief, Toxic, Water Pulse, Waterfall, Wrap, Double-Edge,
-        Icy Wind, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
-        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
-          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
-          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
-        Hidden Power Steel, Hidden Power Water]
+        Swagger, Swords Dance, Thief, Toxic, Toxic Spikes, Water Pulse, Waterfall,
+        Whirlpool, Wrap, Wring Out, Double-Edge, Mimic, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Acid, Attract, Aurora Beam, Barrier, Blizzard, Bubble Beam, Confuse Ray,
+        Constrict, Cut, Dive, Double Team, Endure, Facade, Frustration, Giga Drain,
+        Hail, Haze, Hydro Pump, Ice Beam, Mirror Coat, Poison Sting, Protect, Rain
+          Dance, Rapid Spin, Rest, Return, Safeguard, Screech, Secret Power, Sleep
+          Talk, Sludge Bomb, Snore, Substitute, Supersonic, Surf, Swagger, Swords
+          Dance, Thief, Toxic, Water Pulse, Waterfall, Wrap, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rb: [Acid, Barrier, Bide, Blizzard, Bubble Beam, Constrict, Cut, Double-Edge,
         Double Team, Hydro Pump, Ice Beam, Mega Drain, Mimic, Poison Sting, Rage,
         Reflect, Rest, Screech, Skull Bash, Substitute, Supersonic, Surf, Swords Dance,
@@ -98,9 +96,9 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Hyper Beam]
-    - bw: [Giga Impact, Hyper Beam, Double-Edge, Icy Wind, Mimic]
-    - dp: [Giga Impact, Hyper Beam, Double-Edge, Icy Wind, Mimic]
-    - rs: [Hyper Beam, Double-Edge, Icy Wind, Mimic]
+    - bw: [Giga Impact, Hyper Beam]
+    - dp: [Giga Impact, Hyper Beam]
+    - rs: [Hyper Beam]
     - rb: [Hyper Beam]
     - xy: [Giga Impact, Hyper Beam, Reflect Type]
     stats:

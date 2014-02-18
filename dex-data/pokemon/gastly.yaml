@@ -50,15 +50,15 @@ pokemon:
         Hidden Power Water]
     - rs: [Astonish, Attract, Confuse Ray, Curse, Destiny Bond, Double Team, Dream
           Eater, Endure, Explosion, Facade, Frustration, Giga Drain, Grudge, Haze,
-        Hypnosis, Lick, Mean Look, Mimic, Night Shade, Nightmare, Perish Song, Protect,
-        Psych Up, Psychic, Psywave, Rain Dance, Rest, Return, Secret Power, Self-Destruct,
-        Shadow Ball, Skill Swap, Sleep Talk, Sludge Bomb, Snatch, Snore, Spite, Substitute,
-        Sunny Day, Swagger, Taunt, Thief, Thunderbolt, Torment, Toxic, Will-O-Wisp,
-        Double-Edge, Mimic, Self-Destruct, Hidden Power Bug, Hidden Power Dark, Hidden
-          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
-          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
-          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
-        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+        Hypnosis, Lick, Mean Look, Night Shade, Nightmare, Perish Song, Protect, Psych
+          Up, Psychic, Psywave, Rain Dance, Rest, Return, Secret Power, Shadow Ball,
+        Skill Swap, Sleep Talk, Sludge Bomb, Snatch, Snore, Spite, Substitute, Sunny
+          Day, Swagger, Taunt, Thief, Thunderbolt, Torment, Toxic, Will-O-Wisp, Double-Edge,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rb: [Bide, Confuse Ray, Double Team, Dream Eater, Explosion, Hypnosis, Lick,
         Mega Drain, Mimic, Night Shade, Psychic, Psywave, Rage, Rest, Self-Destruct,
         Substitute, Thunder, Thunderbolt, Toxic]
@@ -103,15 +103,12 @@ pokemon:
     - gs: [Dynamic Punch, Fire Punch, Headbutt, Hyper Beam, Ice Punch, Rock Smash,
         Strength, Thunder Punch]
     - bw: [Brick Break, Drain Punch, Focus Blast, Giga Impact, Hyper Beam, Rock Smash,
-        Role Play, Strength, Thunder, Body Slam, Double-Edge, Mimic, Seismic Toss,
-        Self-Destruct]
+        Role Play, Strength, Thunder, Body Slam, Seismic Toss]
     - dp: [Brick Break, Drain Punch, Focus Blast, Focus Punch, Giga Impact, Headbutt,
-        Hyper Beam, Rock Smash, Role Play, Strength, Thunder, Body Slam, Double-Edge,
-        Mimic, Seismic Toss, Self-Destruct]
-    - rs: [Body Slam, Brick Break, Counter, Double-Edge, Dynamic Punch, Fire Punch,
-        Focus Punch, Hyper Beam, Ice Punch, Mega Kick, Mega Punch, Metronome, Rock
-          Smash, Seismic Toss, Strength, Thunder, Thunder Punch, Body Slam, Double-Edge,
-        Mimic, Seismic Toss, Self-Destruct]
+        Hyper Beam, Rock Smash, Role Play, Strength, Thunder, Body Slam, Seismic Toss]
+    - rs: [Brick Break, Counter, Dynamic Punch, Fire Punch, Focus Punch, Hyper Beam,
+        Ice Punch, Mega Kick, Mega Punch, Metronome, Rock Smash, Strength, Thunder,
+        Thunder Punch]
     - rb: [Body Slam, Counter, Double-Edge, Hyper Beam, Mega Kick, Mega Punch, Metronome,
         Seismic Toss, Skull Bash, Strength, Submission, Take Down]
     - xy: [Body Slam, Brick Break, Counter, Double-Edge, Drain Punch, Dynamic Punch,
@@ -156,9 +153,9 @@ pokemon:
     height: [1.6]
     introduction: rb
     moves:
-    - bw: [Fling, Poison Jab, Shadow Claw, Shadow Punch, Double-Edge, Mimic, Self-Destruct]
-    - dp: [Fling, Poison Jab, Shadow Claw, Shadow Punch, Double-Edge, Mimic, Self-Destruct]
-    - rs: [Shadow Punch, Double-Edge, Mimic, Self-Destruct]
+    - bw: [Fling, Poison Jab, Shadow Claw, Shadow Punch]
+    - dp: [Fling, Poison Jab, Shadow Claw, Shadow Punch]
+    - rs: [Shadow Punch]
     - xy: [Fling, Poison Jab, Shadow Claw, Shadow Punch]
     - []
     stats:

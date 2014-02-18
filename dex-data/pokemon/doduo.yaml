@@ -12,10 +12,8 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Hyper Beam]
-    - bw: [Baton Pass, Giga Impact, Hyper Beam, Payback, Sky Attack, Taunt, Torment,
-        Tri Attack, Baton Pass]
-    - dp: [Baton Pass, Giga Impact, Hyper Beam, Payback, Sky Attack, Taunt, Torment,
-        Tri Attack, Baton Pass]
+    - bw: [Giga Impact, Hyper Beam, Payback, Taunt, Torment, Tri Attack]
+    - dp: [Giga Impact, Hyper Beam, Payback, Taunt, Torment, Tri Attack]
     - rs: [Hyper Beam, Taunt, Torment, Baton Pass]
     - rb: [Hyper Beam]
     - xy: [Baton Pass, Giga Impact, Hyper Beam, Payback, Taunt, Torment]

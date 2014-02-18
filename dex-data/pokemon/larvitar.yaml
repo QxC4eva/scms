@@ -46,17 +46,16 @@ pokemon:
         Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
         Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
           Water]
-    - rs: [Ancient Power, Attract, Bite, Body Slam, Brick Break, Crunch, Curse, Dig,
-        Double-Edge, Double Team, Dragon Dance, Earthquake, Endure, Facade, Focus
-          Energy, Frustration, Hyper Beam, Leer, Mimic, Mud-Slap, Outrage, Protect,
-        Pursuit, Rain Dance, Rest, Return, Rock Slide, Rock Smash, Sandstorm, Scary
-          Face, Screech, Secret Power, Sleep Talk, Snore, Stomp, Substitute, Sunny
-          Day, Swagger, Taunt, Thrash, Torment, Toxic, Body Slam, Double-Edge, Mimic,
-        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
-        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
-          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
-          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
-        Hidden Power Water]
+    - rs: [Ancient Power, Attract, Bite, Brick Break, Crunch, Curse, Dig, Double Team,
+        Dragon Dance, Earthquake, Endure, Facade, Focus Energy, Frustration, Hyper
+          Beam, Leer, Mud-Slap, Outrage, Protect, Pursuit, Rain Dance, Rest, Return,
+        Rock Slide, Rock Smash, Sandstorm, Scary Face, Screech, Secret Power, Sleep
+          Talk, Snore, Stomp, Substitute, Sunny Day, Swagger, Taunt, Thrash, Torment,
+        Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - xy: [Ancient Power, Assurance, Attract, Bite, Body Slam, Brick Break, Bulldoze,
         Captivate, Chip Away, Crunch, Curse, Dark Pulse, Dig, Double-Edge, Double
           Team, Dragon Dance, Earth Power, Earthquake, Endure, Facade, Focus Energy,
@@ -91,9 +90,9 @@ pokemon:
     introduction: gs
     moves:
     - gs: []
-    - bw: [Body Slam, Double-Edge, Mimic]
-    - dp: [Body Slam, Double-Edge, Mimic]
-    - rs: [Body Slam, Double-Edge, Mimic]
+    - bw: []
+    - dp: []
+    - rs: []
     - xy: []
     stats:
     - [70, 84, 70, 65, 70, 51]
@@ -122,19 +121,17 @@ pokemon:
         Dragon Tail, Fire Blast, Fire Fang, Fire Punch, Flamethrower, Fling, Focus
           Blast, Foul Play, Giga Impact, Hone Claws, Ice Beam, Ice Fang, Ice Punch,
         Incinerate, Low Kick, Roar, Shadow Claw, Strength, Surf, Thunder, Thunder
-          Fang, Thunder Wave, Thunderbolt, Thunder Punch, Body Slam, Double-Edge,
-        Mimic, Nightmare, Seismic Toss]
+          Fang, Thunder Wave, Thunderbolt, Thunder Punch, Nightmare, Seismic Toss]
     - dp: [Aerial Ace, Aqua Tail, Avalanche, Blizzard, Block, Cut, Dragon Claw, Dragon
           Pulse, Fire Blast, Fire Fang, Fire Punch, Flamethrower, Fling, Focus Blast,
         Focus Punch, Fury Cutter, Giga Impact, Ice Beam, Ice Fang, Ice Punch, Iron
           Tail, Low Kick, Roar, Rock Climb, Shadow Claw, Shock Wave, Strength, Surf,
         Thunder, Thunder Fang, Thunder Wave, Thunderbolt, Thunder Punch, Water Pulse,
-        Whirlpool, Body Slam, Double-Edge, Mimic, Nightmare, Seismic Toss]
+        Whirlpool, Nightmare, Seismic Toss]
     - rs: [Aerial Ace, Blizzard, Counter, Cut, Dragon Claw, Dynamic Punch, Fire Blast,
         Fire Punch, Flamethrower, Focus Punch, Fury Cutter, Ice Beam, Iron Tail, Mega
-          Kick, Mega Punch, Nightmare, Roar, Rock Tomb, Seismic Toss, Shock Wave,
-        Strength, Surf, Thunder, Thunder Wave, Thunderbolt, Water Pulse, Body Slam,
-        Double-Edge, Mimic, Nightmare, Seismic Toss]
+          Kick, Mega Punch, Roar, Rock Tomb, Shock Wave, Strength, Surf, Thunder,
+        Thunder Wave, Thunderbolt, Water Pulse]
     - xy: [Aerial Ace, Aqua Tail, Avalanche, Blizzard, Block, Counter, Cut, Dragon
           Claw, Dragon Pulse, Dragon Tail, Dynamic Punch, Fire Blast, Fire Fang, Fire
           Punch, Flamethrower, Fling, Focus Blast, Focus Punch, Fury Cutter, Giga

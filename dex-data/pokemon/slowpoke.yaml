@@ -13,14 +13,13 @@ pokemon:
     moves:
     - gs: [Dynamic Punch, Fury Cutter, Hyper Beam, Ice Punch, Rock Smash, Withdraw]
     - bw: [Aerial Ace, Brick Break, Drain Punch, Fling, Focus Blast, Foul Play, Giga
-          Impact, Hyper Beam, Ice Punch, Iron Defense, Rock Smash, Withdraw, Body
-          Slam, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss]
+          Impact, Hyper Beam, Ice Punch, Iron Defense, Rock Smash, Withdraw, Seismic
+          Toss]
     - dp: [Avalanche, Brick Break, Drain Punch, Fling, Focus Blast, Focus Punch, Fury
           Cutter, Giga Impact, Hyper Beam, Ice Punch, Iron Defense, Rock Smash, Withdraw,
-        Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss]
+        Seismic Toss]
     - rs: [Brick Break, Counter, Dynamic Punch, Focus Punch, Fury Cutter, Hyper Beam,
-        Ice Punch, Mega Kick, Mega Punch, Rock Smash, Seismic Toss, Withdraw, Body
-          Slam, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss]
+        Ice Punch, Mega Kick, Mega Punch, Rock Smash, Withdraw]
     - rb: [Counter, Hyper Beam, Mega Kick, Mega Punch, Seismic Toss, Submission, Withdraw]
     - xy: [Aerial Ace, Avalanche, Brick Break, Counter, Drain Punch, Dynamic Punch,
         Fling, Focus Blast, Focus Punch, Fury Cutter, Giga Impact, Hyper Beam, Ice
@@ -50,11 +49,9 @@ pokemon:
     introduction: gs
     moves:
     - gs: [Whirlpool]
-    - bw: [Dragon Tail, Nasty Plot, Power Gem, Quash, Trump Card, Body Slam, Double-Edge,
-        Icy Wind, Mimic, Nightmare, Seismic Toss]
-    - dp: [Nasty Plot, Power Gem, Trump Card, Body Slam, Body Slam, Double-Edge, Icy
-          Wind, Mimic, Nightmare, Seismic Toss]
-    - rs: [Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare, Seismic Toss]
+    - bw: [Dragon Tail, Nasty Plot, Power Gem, Quash, Trump Card, Seismic Toss]
+    - dp: [Nasty Plot, Power Gem, Trump Card, Seismic Toss]
+    - rs: [Seismic Toss]
     - xy: [Avalanche, Brick Break, Counter, Dragon Tail, Drain Punch, Dynamic Punch,
         Fling, Focus Blast, Focus Punch, Fury Cutter, Giga Impact, Hyper Beam, Ice
           Punch, Iron Defense, Mega Kick, Mega Punch, Nasty Plot, Power Gem, Quash,
@@ -94,46 +91,44 @@ pokemon:
     - bw: [After You, Amnesia, Aqua Tail, Attract, Belly Drum, Blizzard, Block, Bulldoze,
         Calm Mind, Confusion, Curse, Dig, Disable, Dive, Double Team, Dream Eater,
         Earthquake, Echoed Voice, Facade, Fire Blast, Flamethrower, Flash, Frustration,
-        Future Sight, Grass Knot, Growl, Hail, Headbutt, Heal Pulse, Ice Beam, Icy
-          Wind, Incinerate, Iron Tail, Light Screen, Magic Coat, Me First, Mud Sport,
-        Protect, Psych Up, Psychic, Psyshock, Rain Dance, Recycle, Rest, Return, Round,
-        Safeguard, Scald, Shadow Ball, Signal Beam, Skill Swap, Slack Off, Sleep Talk,
-        Snore, Stomp, Strength, Substitute, Sunny Day, Surf, Swagger, Tackle, Telekinesis,
-        Thunder Wave, Toxic, Trick, Trick Room, Water Gun, Water Pulse, Wonder Room,
-        Yawn, Zen Headbutt, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare, Hidden
-          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
-        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
-          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
-          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
-        Hidden Power Water]
+        Future Sight, Grass Knot, Growl, Hail, Headbutt, Heal Pulse, Ice Beam, Incinerate,
+        Iron Tail, Light Screen, Magic Coat, Me First, Mud Sport, Protect, Psych Up,
+        Psychic, Psyshock, Rain Dance, Recycle, Rest, Return, Round, Safeguard, Scald,
+        Shadow Ball, Signal Beam, Skill Swap, Slack Off, Sleep Talk, Snore, Stomp,
+        Strength, Substitute, Sunny Day, Surf, Swagger, Tackle, Telekinesis, Thunder
+          Wave, Toxic, Trick, Trick Room, Water Gun, Water Pulse, Wonder Room, Yawn,
+        Zen Headbutt, Body Slam, Double-Edge, Mimic, Nightmare, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - dp: [Amnesia, Aqua Tail, Attract, Belly Drum, Blizzard, Block, Brine, Calm Mind,
         Captivate, Confusion, Curse, Dig, Disable, Dive, Double Team, Dream Eater,
         Earthquake, Endure, Facade, Fire Blast, Flamethrower, Flash, Frustration,
-        Future Sight, Grass Knot, Growl, Hail, Headbutt, Ice Beam, Icy Wind, Iron
-          Tail, Light Screen, Magic Coat, Me First, Mud-Slap, Mud Sport, Natural Gift,
-        Protect, Psych Up, Psychic, Rain Dance, Recycle, Rest, Return, Safeguard,
-        Secret Power, Shadow Ball, Signal Beam, Skill Swap, Slack Off, Sleep Talk,
-        Snore, Stomp, Strength, Substitute, Sunny Day, Surf, Swagger, Swift, Tackle,
-        Thunder Wave, Toxic, Trick, Trick Room, Water Gun, Water Pulse, Whirlpool,
-        Yawn, Zen Headbutt, Body Slam, Double-Edge, Icy Wind, Mimic, Nightmare, Hidden
-          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
-        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
-          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
-          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
-        Hidden Power Water]
-    - rs: [Amnesia, Attract, Belly Drum, Blizzard, Body Slam, Calm Mind, Confusion,
-        Curse, Dig, Disable, Dive, Double-Edge, Double Team, Dream Eater, Earthquake,
-        Endure, Facade, Fire Blast, Flamethrower, Flash, Frustration, Future Sight,
-        Growl, Hail, Headbutt, Ice Beam, Icy Wind, Iron Tail, Mimic, Mud-Slap, Mud
-          Sport, Nightmare, Protect, Psych Up, Psychic, Rain Dance, Rest, Return,
-        Safeguard, Secret Power, Shadow Ball, Skill Swap, Sleep Talk, Snore, Stomp,
+        Future Sight, Grass Knot, Growl, Hail, Headbutt, Ice Beam, Iron Tail, Light
+          Screen, Magic Coat, Me First, Mud-Slap, Mud Sport, Natural Gift, Protect,
+        Psych Up, Psychic, Rain Dance, Recycle, Rest, Return, Safeguard, Secret Power,
+        Shadow Ball, Signal Beam, Skill Swap, Slack Off, Sleep Talk, Snore, Stomp,
         Strength, Substitute, Sunny Day, Surf, Swagger, Swift, Tackle, Thunder Wave,
-        Toxic, Water Gun, Water Pulse, Yawn, Body Slam, Double-Edge, Icy Wind, Mimic,
-        Nightmare, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
-          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
-        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
-          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
-          Power Steel, Hidden Power Water]
+        Toxic, Trick, Trick Room, Water Gun, Water Pulse, Whirlpool, Yawn, Zen Headbutt,
+        Body Slam, Double-Edge, Mimic, Nightmare, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Amnesia, Attract, Belly Drum, Blizzard, Calm Mind, Confusion, Curse, Dig,
+        Disable, Dive, Double Team, Dream Eater, Earthquake, Endure, Facade, Fire
+          Blast, Flamethrower, Flash, Frustration, Future Sight, Growl, Hail, Headbutt,
+        Ice Beam, Iron Tail, Mud-Slap, Mud Sport, Protect, Psych Up, Psychic, Rain
+          Dance, Rest, Return, Safeguard, Secret Power, Shadow Ball, Skill Swap, Sleep
+          Talk, Snore, Stomp, Strength, Substitute, Sunny Day, Surf, Swagger, Swift,
+        Tackle, Thunder Wave, Toxic, Water Gun, Water Pulse, Yawn, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - rb: [Amnesia, Bide, Blizzard, Body Slam, Bubble Beam, Confusion, Dig, Disable,
         Double-Edge, Double Team, Earthquake, Fire Blast, Fissure, Flash, Growl, Headbutt,
         Ice Beam, Mimic, Pay Day, Psychic, Psywave, Rage, Reflect, Rest, Skull Bash,

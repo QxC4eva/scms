@@ -32,16 +32,16 @@ pokemon:
         Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
           Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
           Power Steel, Hidden Power Water]
-    - rs: [Aerial Ace, Cut, Dig, Double-Edge, Double Team, Endure, Facade, Feint Attack,
-        False Swipe, Flash, Frustration, Fury Cutter, Fury Swipes, Giga Drain, Gust,
-        Harden, Leech Life, Metal Claw, Mimic, Mind Reader, Mud-Slap, Protect, Rest,
-        Return, Sand Attack, Sandstorm, Scratch, Secret Power, Shadow Ball, Silver
-          Wind, Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day, Swagger, Toxic,
-        Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
-        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
-          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
-          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
-        Hidden Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Cut, Dig, Double Team, Endure, Facade, Feint Attack, False
+          Swipe, Flash, Frustration, Fury Cutter, Fury Swipes, Giga Drain, Gust, Harden,
+        Leech Life, Metal Claw, Mind Reader, Mud-Slap, Protect, Rest, Return, Sand
+          Attack, Sandstorm, Scratch, Secret Power, Shadow Ball, Silver Wind, Sleep
+          Talk, Snore, Solar Beam, Substitute, Sunny Day, Swagger, Toxic, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - xy: [Aerial Ace, Bug Bite, Bug Buzz, Cut, Dig, Double-Edge, Double Team, Endure,
         Facade, Feint Attack, False Swipe, Final Gambit, Flash, Frustration, Fury
           Cutter, Fury Swipes, Giga Drain, Gust, Harden, Hone Claws, Leech Life, Metal
@@ -74,12 +74,12 @@ pokemon:
     introduction: rs
     moves:
     - bw: [Agility, Attract, Baton Pass, Fury Cutter, Giga Impact, Hyper Beam, Roost,
-        Screech, Slash, Swords Dance, Thief, U-turn, Uproar, Double-Edge, Mimic]
+        Screech, Slash, Swords Dance, Thief, U-turn, Uproar]
     - dp: [Agility, Air Cutter, Attract, Baton Pass, Captivate, Defog, Giga Impact,
         Hyper Beam, Ominous Wind, Roost, Screech, Slash, Swift, Swords Dance, Thief,
-        U-turn, Uproar, Double-Edge, Mimic]
+        U-turn, Uproar]
     - rs: [Agility, Attract, Baton Pass, Hyper Beam, Screech, Slash, Swift, Swords
-          Dance, Thief, Double-Edge, Mimic]
+          Dance, Thief]
     - xy: [Agility, Air Cutter, Attract, Baton Pass, Captivate, Defog, Giga Impact,
         Hyper Beam, Ominous Wind, Roost, Screech, Slash, Swift, Swords Dance, Thief,
         Uproar, U-turn]
@@ -103,12 +103,11 @@ pokemon:
     height: [0.8]
     introduction: rs
     moves:
-    - bw: [Confuse Ray, Dream Eater, Grudge, Heal Block, Shadow Claw, Shadow Sneak,
-        Telekinesis, Trick, Will-O-Wisp, Double-Edge, Dream Eater, Mimic, Nightmare]
-    - dp: [Confuse Ray, Dream Eater, Grudge, Heal Block, Shadow Claw, Shadow Sneak,
-        Sucker Punch, Trick, Will-O-Wisp, Double-Edge, Dream Eater, Mimic, Nightmare]
-    - rs: [Confuse Ray, Dream Eater, Grudge, Nightmare, Spite, Double-Edge, Dream
-          Eater, Mimic, Nightmare]
+    - bw: [Confuse Ray, Grudge, Heal Block, Shadow Claw, Shadow Sneak, Telekinesis,
+        Trick, Will-O-Wisp, Nightmare]
+    - dp: [Confuse Ray, Grudge, Heal Block, Shadow Claw, Shadow Sneak, Sucker Punch,
+        Trick, Will-O-Wisp, Nightmare]
+    - rs: [Confuse Ray, Grudge, Spite]
     - xy: [Agility, Baton Pass, Confuse Ray, Dream Eater, Giga Impact, Grudge, Heal
           Block, Hyper Beam, Nightmare, Screech, Shadow Claw, Shadow Sneak, Slash,
         Sucker Punch, Swords Dance, Telekinesis, Thief, Trick, Will-O-Wisp, Phantom

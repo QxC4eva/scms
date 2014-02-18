@@ -77,13 +77,11 @@ pokemon:
     introduction: rs
     moves:
     - bw: [Bulldoze, Earthquake, Feint, Giga Impact, Hyper Beam, Night Slash, Poison
-          Jab, Roar, Rock Smash, Rock Tomb, Skull Bash, Slash, Strength, Icy Wind,
-        Mimic]
+          Jab, Roar, Rock Smash, Rock Tomb, Skull Bash, Slash, Strength, Mimic]
     - dp: [Avalanche, Earthquake, Feint, Giga Impact, Hyper Beam, Night Slash, Poison
-          Jab, Roar, Rock Smash, Rock Tomb, Skull Bash, Slash, Strength, Icy Wind,
-        Mimic]
+          Jab, Roar, Rock Smash, Rock Tomb, Skull Bash, Slash, Strength, Mimic]
     - rs: [Earthquake, Hyper Beam, Roar, Rock Smash, Rock Tomb, Skull Bash, Slash,
-        Strength, Icy Wind, Mimic]
+        Strength]
     - xy: [Avalanche, Bulldoze, Earthquake, Feint, Giga Impact, Hyper Beam, Night
           Slash, Poison Jab, Roar, Rock Smash, Rock Tomb, Skull Bash, Slash, Strength]
     stats:

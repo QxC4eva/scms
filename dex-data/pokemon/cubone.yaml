@@ -109,11 +109,9 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Hyper Beam]
-    - bw: [Focus Blast, Giga Impact, Hyper Beam, Outrage, Sing, Stone Edge, Body Slam,
-        Icy Wind, Mimic, Seismic Toss, Sing]
-    - dp: [Focus Blast, Giga Impact, Hyper Beam, Outrage, Sing, Stone Edge, Body Slam,
-        Icy Wind, Mimic, Seismic Toss, Sing]
-    - rs: [Hyper Beam, Sing, Body Slam, Icy Wind, Mimic, Seismic Toss, Sing]
+    - bw: [Focus Blast, Giga Impact, Hyper Beam, Outrage, Stone Edge, Body Slam]
+    - dp: [Focus Blast, Giga Impact, Hyper Beam, Outrage, Stone Edge]
+    - rs: [Hyper Beam]
     - rb: [Hyper Beam]
     - xy: [Focus Blast, Giga Impact, Hyper Beam, Outrage, Sing, Stone Edge]
     stats:

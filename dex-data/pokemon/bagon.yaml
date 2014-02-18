@@ -79,17 +79,14 @@ pokemon:
     introduction: rs
     moves:
     - bw: [Aqua Tail, Bulldoze, Dragon Tail, Earthquake, Fly, Giga Impact, Heat Wave,
-        Hyper Beam, Iron Tail, Refresh, Roost, Stone Edge, Tailwind, Thunder Fang,
-        Body Slam, Mimic, Refresh]
+        Hyper Beam, Iron Tail, Roost, Stone Edge, Tailwind, Thunder Fang]
     - dp: [Air Cutter, Aqua Tail, Defog, Earthquake, Fly, Giga Impact, Heat Wave,
         Hyper Beam, Iron Tail, Ominous Wind, Roost, Steel Wing, Stone Edge, Swift,
-        Tailwind, Thunder Fang, Body Slam, Mimic, Refresh]
-    - rs: [Earthquake, Fly, Hyper Beam, Iron Tail, Steel Wing, Swift, Body Slam, Mimic,
-        Refresh]
-    - xy: [Air Cutter, Aqua Tail, Bulldoze, Defog, Dragon Dance, Dragon Tail, Earthquake,
-        Fire Fang, Fly, Giga Impact, Heat Wave, Hydro Pump, Hyper Beam, Iron Tail,
-        Ominous Wind, Refresh, Roost, Steel Wing, Stone Edge, Swift, Tailwind, Thunder
-          Fang]
+        Tailwind, Thunder Fang, Refresh]
+    - rs: [Earthquake, Fly, Hyper Beam, Iron Tail, Steel Wing, Swift, Refresh]
+    - xy: [Air Cutter, Aqua Tail, Bulldoze, Defog, Dragon Tail, Earthquake, Fly, Giga
+          Impact, Heat Wave, Hyper Beam, Iron Tail, Ominous Wind, Refresh, Roost,
+        Steel Wing, Stone Edge, Swift, Tailwind, Thunder Fang]
     stats:
     - [95, 135, 80, 110, 80, 100]
     tags:
@@ -110,9 +107,9 @@ pokemon:
     height: [1.1]
     introduction: rs
     moves:
-    - bw: [Iron Defense, Body Slam, Mimic]
+    - bw: [Iron Defense]
     - dp: [Iron Defense, Rollout, Body Slam, Mimic]
-    - rs: [Defense Curl, Rollout, Body Slam, Mimic]
+    - rs: [Defense Curl, Rollout]
     - xy: [Rollout]
     stats:
     - [65, 95, 100, 60, 50, 50]

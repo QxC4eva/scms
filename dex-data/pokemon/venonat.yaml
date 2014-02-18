@@ -14,12 +14,10 @@ pokemon:
     moves:
     - gs: [Flash, Gust, Hyper Beam]
     - bw: [Acrobatics, Aerial Ace, Bug Buzz, Energy Ball, Giga Impact, Gust, Hyper
-          Beam, Quiver Dance, Roost, Silver Wind, Tailwind, U-turn, Double-Edge, Mimic,
-        Refresh]
+          Beam, Quiver Dance, Roost, Silver Wind, Tailwind, U-turn, Refresh]
     - dp: [Aerial Ace, Air Cutter, Bug Buzz, Defog, Energy Ball, Giga Impact, Gust,
-        Hyper Beam, Ominous Wind, Roost, Silver Wind, Tailwind, Twister, U-turn, Double-Edge,
-        Mimic, Refresh]
-    - rs: [Aerial Ace, Gust, Hyper Beam, Silver Wind, Double-Edge, Mimic, Refresh]
+        Hyper Beam, Ominous Wind, Roost, Silver Wind, Tailwind, Twister, U-turn, Refresh]
+    - rs: [Aerial Ace, Gust, Hyper Beam, Silver Wind, Refresh]
     - rb: [Hyper Beam, Razor Wind, Swift, Teleport, Whirlwind]
     - xy: [Acrobatics, Aerial Ace, Air Cutter, Bug Buzz, Defog, Energy Ball, Giga
           Impact, Gust, Hyper Beam, Ominous Wind, Quiver Dance, Refresh, Roost, Silver
@@ -78,16 +76,16 @@ pokemon:
         Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
         Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
         Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
-    - rs: [Attract, Baton Pass, Confusion, Disable, Double-Edge, Double Team, Endure,
-        Facade, Flash, Foresight, Frustration, Giga Drain, Leech Life, Mimic, Poison
-          Powder, Protect, Psybeam, Psychic, Rest, Return, Screech, Secret Power,
-        Signal Beam, Skill Swap, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solar
-          Beam, Stun Spore, Substitute, Sunny Day, Supersonic, Swagger, Swift, Tackle,
-        Thief, Toxic, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden
-          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
-          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
-          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
-        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Attract, Baton Pass, Confusion, Disable, Double Team, Endure, Facade, Flash,
+        Foresight, Frustration, Giga Drain, Leech Life, Poison Powder, Protect, Psybeam,
+        Psychic, Rest, Return, Screech, Secret Power, Signal Beam, Skill Swap, Sleep
+          Powder, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Stun Spore, Substitute,
+        Sunny Day, Supersonic, Swagger, Swift, Tackle, Thief, Toxic, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - rb: [Bide, Confusion, Disable, Double-Edge, Double Team, Flash, Leech Life,
         Mega Drain, Mimic, Poison Powder, Psybeam, Psychic, Psywave, Rage, Reflect,
         Rest, Sleep Powder, Solar Beam, Stun Spore, Substitute, Supersonic, Tackle,

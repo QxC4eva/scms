@@ -47,17 +47,16 @@ pokemon:
         Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
         Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
         Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
-    - rs: [Attract, Bind, Block, Body Slam, Dig, Double-Edge, Double Team, Dragon
-          Breath, Earthquake, Endure, Explosion, Facade, Flail, Frustration, Harden,
-        Iron Tail, Mimic, Mud-Slap, Protect, Psych Up, Rage, Rest, Return, Roar, Rock
-          Slide, Rock Smash, Rock Throw, Rock Tomb, Sand Tomb, Sandstorm, Screech,
-        Secret Power, Self-Destruct, Slam, Sleep Talk, Snore, Strength, Substitute,
-        Sunny Day, Swagger, Tackle, Taunt, Torment, Toxic, Body Slam, Mimic, Self-Destruct,
-        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
-        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
-          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
-          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
-        Hidden Power Water]
+    - rs: [Attract, Bind, Block, Dig, Double-Edge, Double Team, Dragon Breath, Earthquake,
+        Endure, Explosion, Facade, Flail, Frustration, Harden, Iron Tail, Mud-Slap,
+        Protect, Psych Up, Rage, Rest, Return, Roar, Rock Slide, Rock Smash, Rock
+          Throw, Rock Tomb, Sand Tomb, Sandstorm, Screech, Secret Power, Slam, Sleep
+          Talk, Snore, Strength, Substitute, Sunny Day, Swagger, Tackle, Taunt, Torment,
+        Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - rb: [Bide, Bind, Body Slam, Dig, Double-Edge, Double Team, Earthquake, Explosion,
         Fissure, Harden, Mimic, Rage, Rest, Rock Slide, Rock Throw, Screech, Self-Destruct,
         Skull Bash, Slam, Strength, Substitute, Tackle, Take Down, Toxic, Sharpen]
@@ -100,10 +99,10 @@ pokemon:
     moves:
     - gs: [Crunch, Cut, Defense Curl, Dragon Breath, Hyper Beam, Rollout]
     - bw: [Aqua Tail, Autotomize, Crunch, Cut, Dark Pulse, Fire Fang, Giga Impact,
-        Hyper Beam, Ice Fang, Magnet Rise, Thunder Fang, Body Slam, Mimic, Self-Destruct]
+        Hyper Beam, Ice Fang, Magnet Rise, Thunder Fang]
     - dp: [Aqua Tail, Crunch, Cut, Dark Pulse, Fire Fang, Giga Impact, Hyper Beam,
-        Ice Fang, Magnet Rise, Thunder Fang, Body Slam, Mimic, Self-Destruct]
-    - rs: [Crunch, Cut, Defense Curl, Hyper Beam, Rollout, Body Slam, Mimic, Self-Destruct]
+        Ice Fang, Magnet Rise, Thunder Fang]
+    - rs: [Crunch, Cut, Defense Curl, Hyper Beam, Rollout]
     - xy: [Aqua Tail, Autotomize, Crunch, Cut, Dark Pulse, Fire Fang, Giga Impact,
         Hyper Beam, Ice Fang, Magnet Rise, Thunder Fang]
     stats:

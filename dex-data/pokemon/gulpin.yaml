@@ -26,28 +26,27 @@ pokemon:
         Double Team, Dream Eater, Encore, Endure, Explosion, Facade, Fire Punch, Frustration,
         Gastro Acid, Giga Drain, Gunk Shot, Headbutt, Ice Beam, Ice Punch, Mud-Slap,
         Natural Gift, Pain Split, Poison Gas, Pound, Protect, Rain Dance, Rest, Return,
-        Rock Smash, Rollout, Secret Power, Seed Bomb, Shadow Ball, Shock Wave, Sleep
-          Talk, Sludge, Sludge Bomb, Smog, Snatch, Snore, Solar Beam, Spit Up, Stockpile,
-        Strength, Substitute, Sunny Day, Swagger, Swallow, Thunder Punch, Toxic, Water
-          Pulse, Wring Out, Yawn, Body Slam, Double-Edge, Mimic, Nightmare, Self-Destruct,
-        Shock Wave, Sing, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
-        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
-          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
-          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
-        Hidden Power Steel, Hidden Power Water]
-    - rs: [Acid Armor, Amnesia, Attract, Body Slam, Bullet Seed, Counter, Defense
-          Curl, Double-Edge, Double Team, Dream Eater, Dynamic Punch, Encore, Endure,
-        Explosion, Facade, Fire Punch, Frustration, Giga Drain, Ice Beam, Ice Punch,
-        Mimic, Mud-Slap, Nightmare, Pain Split, Poison Gas, Pound, Protect, Rain Dance,
-        Rest, Return, Rock Smash, Rollout, Secret Power, Self-Destruct, Shadow Ball,
-        Shock Wave, Sleep Talk, Sludge, Sludge Bomb, Smog, Snatch, Snore, Solar Beam,
-        Spit Up, Stockpile, Strength, Substitute, Sunny Day, Swagger, Swallow, Thunder
-          Punch, Toxic, Water Pulse, Yawn, Body Slam, Double-Edge, Mimic, Nightmare,
-        Self-Destruct, Shock Wave, Sing, Hidden Power Bug, Hidden Power Dark, Hidden
-          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
-          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
-          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
-        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+        Rock Smash, Rollout, Secret Power, Seed Bomb, Shadow Ball, Sleep Talk, Sludge,
+        Sludge Bomb, Smog, Snatch, Snore, Solar Beam, Spit Up, Stockpile, Strength,
+        Substitute, Sunny Day, Swagger, Swallow, Thunder Punch, Toxic, Water Pulse,
+        Wring Out, Yawn, Body Slam, Double-Edge, Mimic, Nightmare, Self-Destruct,
+        Sing, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - rs: [Acid Armor, Amnesia, Attract, Bullet Seed, Counter, Defense Curl, Double
+          Team, Dream Eater, Dynamic Punch, Encore, Endure, Explosion, Facade, Fire
+          Punch, Frustration, Giga Drain, Ice Beam, Ice Punch, Mud-Slap, Pain Split,
+        Poison Gas, Pound, Protect, Rain Dance, Rest, Return, Rock Smash, Rollout,
+        Secret Power, Shadow Ball, Sleep Talk, Sludge, Sludge Bomb, Smog, Snatch,
+        Snore, Solar Beam, Spit Up, Stockpile, Strength, Substitute, Sunny Day, Swagger,
+        Swallow, Thunder Punch, Toxic, Water Pulse, Yawn, Sing, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - xy: [Acid Armor, Acid Spray, Amnesia, Attract, Body Slam, Bullet Seed, Captivate,
         Counter, Curse, Defense Curl, Destiny Bond, Double-Edge, Double Team, Dream
           Eater, Dynamic Punch, Encore, Endure, Explosion, Facade, Fire Punch, Frustration,
@@ -82,11 +81,9 @@ pokemon:
     height: [1.7]
     introduction: rs
     moves:
-    - bw: [Block, Body Slam, Bulldoze, Earthquake, Giga Impact, Hyper Beam, Double-Edge,
-        Mimic, Nightmare, Self-Destruct]
-    - dp: [Block, Body Slam, Earthquake, Giga Impact, Hyper Beam, Double-Edge, Mimic,
-        Nightmare, Self-Destruct]
-    - rs: [Hyper Beam, Double-Edge, Mimic, Nightmare, Self-Destruct]
+    - bw: [Block, Bulldoze, Earthquake, Giga Impact, Hyper Beam]
+    - dp: [Block, Earthquake, Giga Impact, Hyper Beam]
+    - rs: [Hyper Beam]
     - xy: [Block, Bulldoze, Earthquake, Giga Impact, Hyper Beam]
     stats:
     - [100, 73, 83, 73, 83, 55]

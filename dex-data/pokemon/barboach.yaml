@@ -76,11 +76,10 @@ pokemon:
     introduction: rs
     moves:
     - bw: [Giga Impact, Hyper Beam, Rock Slide, Rock Smash, Stone Edge, Strength,
-        Tickle, Zen Headbutt, Double-Edge, Icy Wind, Mimic]
+        Tickle, Zen Headbutt]
     - dp: [Giga Impact, Hyper Beam, Rock Slide, Rock Smash, Stone Edge, Strength,
-        Tickle, Zen Headbutt, Double-Edge, Icy Wind, Mimic]
-    - rs: [Hyper Beam, Rock Slide, Rock Smash, Strength, Tickle, Double-Edge, Icy
-          Wind, Mimic]
+        Tickle, Zen Headbutt, Double-Edge, Mimic]
+    - rs: [Hyper Beam, Rock Slide, Rock Smash, Strength, Tickle]
     - xy: [Giga Impact, Hyper Beam, Rock Slide, Rock Smash, Stone Edge, Strength,
         Tickle, Zen Headbutt]
     stats:

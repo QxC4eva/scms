@@ -13,12 +13,11 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Hyper Beam]
-    - bw: [Giga Impact, Hyper Beam, Stone Edge, Wide Guard, Body Slam, Double-Edge,
-        Mimic]
-    - dp: [Giga Impact, Hyper Beam, Stone Edge, Body Slam, Double-Edge, Mimic]
-    - rs: [Hyper Beam, Body Slam, Double-Edge, Mimic]
+    - bw: [Giga Impact, Hyper Beam, Stone Edge, Wide Guard]
+    - dp: [Giga Impact, Hyper Beam, Stone Edge]
+    - rs: [Hyper Beam]
     - rb: [Hyper Beam]
-    - xy: [Bullet Punch, Giga Impact, Hyper Beam, Stone Edge, Wide Guard]
+    - xy: [Giga Impact, Hyper Beam, Stone Edge, Wide Guard]
     stats:
     - [90, 130, 80, 65, 65, 55]
     - gs: [90, 130, 80, 65, 85, 55]
@@ -45,9 +44,9 @@ pokemon:
     introduction: rb
     moves:
     - gs: []
-    - bw: [Body Slam, Double-Edge, Mimic]
-    - dp: [Body Slam, Double-Edge, Mimic]
-    - rs: [Body Slam, Double-Edge, Mimic]
+    - bw: []
+    - dp: []
+    - rs: []
     - rb: []
     - xy: []
     stats:
@@ -113,18 +112,17 @@ pokemon:
           Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
           Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
         Hidden Power Water]
-    - rs: [Attract, Body Slam, Brick Break, Bulk Up, Counter, Cross Chop, Dig, Double-Edge,
-        Double Team, Dynamic Punch, Earthquake, Encore, Endure, Facade, Fire Blast,
-        Fire Punch, Flamethrower, Focus Energy, Focus Punch, Foresight, Frustration,
-        Ice Punch, Karate Chop, Leer, Light Screen, Low Kick, Meditate, Mega Kick,
-        Mega Punch, Metronome, Mimic, Mud-Slap, Protect, Rain Dance, Rest, Return,
-        Revenge, Rock Slide, Rock Smash, Rock Tomb, Rolling Kick, Scary Face, Secret
-          Power, Seismic Toss, Sleep Talk, Smelling Salts, Snore, Strength, Submission,
-        Substitute, Sunny Day, Swagger, Thief, Thunder Punch, Toxic, Vital Throw,
-        Body Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden
-          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
-          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
-          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+    - rs: [Attract, Brick Break, Bulk Up, Counter, Cross Chop, Dig, Double Team, Dynamic
+          Punch, Earthquake, Encore, Endure, Facade, Fire Blast, Fire Punch, Flamethrower,
+        Focus Energy, Focus Punch, Foresight, Frustration, Ice Punch, Karate Chop,
+        Leer, Light Screen, Low Kick, Meditate, Mega Kick, Mega Punch, Metronome,
+        Mud-Slap, Protect, Rain Dance, Rest, Return, Revenge, Rock Slide, Rock Smash,
+        Rock Tomb, Rolling Kick, Scary Face, Secret Power, Seismic Toss, Sleep Talk,
+        Smelling Salts, Snore, Strength, Submission, Substitute, Sunny Day, Swagger,
+        Thief, Thunder Punch, Toxic, Vital Throw, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
         Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rb: [Bide, Body Slam, Counter, Dig, Double-Edge, Double Team, Earthquake, Fire
           Blast, Fissure, Focus Energy, Karate Chop, Leer, Low Kick, Mega Kick, Mega

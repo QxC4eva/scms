@@ -11,9 +11,9 @@ pokemon:
     height: [1.1]
     introduction: rs
     moves:
-    - bw: [Roar, Double-Edge, Icy Wind, Mimic]
-    - dp: [Roar, Double-Edge, Icy Wind, Mimic]
-    - rs: [Roar, Double-Edge, Icy Wind, Mimic]
+    - bw: [Roar]
+    - dp: [Roar]
+    - rs: [Roar]
     - xy: [Roar]
     stats:
     - [90, 60, 70, 75, 70, 45]
@@ -37,40 +37,38 @@ pokemon:
     - bw: [Aqua Ring, Aqua Tail, Attract, Aurora Beam, Blizzard, Body Slam, Bulldoze,
         Curse, Defense Curl, Dive, Double Team, Earthquake, Echoed Voice, Encore,
         Facade, Fissure, Frost Breath, Frustration, Growl, Hail, Ice Ball, Ice Beam,
-        Icy Wind, Iron Tail, Powder Snow, Protect, Rain Dance, Rest, Return, Rock
-          Slide, Rock Smash, Rock Tomb, Rollout, Round, Sheer Cold, Signal Beam, Sleep
-          Talk, Snore, Spit Up, Stockpile, Strength, Substitute, Super Fang, Surf,
-        Swagger, Swallow, Toxic, Water Gun, Water Pulse, Water Sport, Waterfall, Yawn,
-        Charm, Double-Edge, Icy Wind, Mimic, Mud-Slap, Hidden Power Bug, Hidden Power
-          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Iron Tail, Powder Snow, Protect, Rain Dance, Rest, Return, Rock Slide, Rock
+          Smash, Rock Tomb, Rollout, Round, Sheer Cold, Signal Beam, Sleep Talk, Snore,
+        Spit Up, Stockpile, Strength, Substitute, Super Fang, Surf, Swagger, Swallow,
+        Toxic, Water Gun, Water Pulse, Water Sport, Waterfall, Yawn, Charm, Double-Edge,
+        Mimic, Mud-Slap, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - dp: [Aqua Ring, Aqua Tail, Attract, Aurora Beam, Blizzard, Body Slam, Brine,
+        Captivate, Curse, Defense Curl, Dive, Double Team, Earthquake, Encore, Endure,
+        Facade, Fissure, Frustration, Growl, Hail, Headbutt, Ice Ball, Ice Beam, Iron
+          Tail, Natural Gift, Powder Snow, Protect, Rain Dance, Rest, Return, Rock
+          Slide, Rock Smash, Rock Tomb, Rollout, Secret Power, Sheer Cold, Signal
+          Beam, Sleep Talk, Snore, Spit Up, Stockpile, Strength, Substitute, Super
+          Fang, Surf, Swagger, Swallow, Toxic, Water Gun, Water Pulse, Water Sport,
+        Waterfall, Whirlpool, Yawn, Charm, Double-Edge, Mimic, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
         Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
         Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
         Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
-    - dp: [Aqua Ring, Aqua Tail, Attract, Aurora Beam, Blizzard, Body Slam, Brine,
-        Captivate, Curse, Defense Curl, Dive, Double Team, Earthquake, Encore, Endure,
-        Facade, Fissure, Frustration, Growl, Hail, Headbutt, Ice Ball, Ice Beam, Icy
-          Wind, Iron Tail, Mud-Slap, Natural Gift, Powder Snow, Protect, Rain Dance,
-        Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout, Secret Power, Sheer
-          Cold, Signal Beam, Sleep Talk, Snore, Spit Up, Stockpile, Strength, Substitute,
-        Super Fang, Surf, Swagger, Swallow, Toxic, Water Gun, Water Pulse, Water Sport,
-        Waterfall, Whirlpool, Yawn, Charm, Double-Edge, Icy Wind, Mimic, Mud-Slap,
-        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+    - rs: [Attract, Aurora Beam, Blizzard, Body Slam, Curse, Defense Curl, Dive, Double
+          Team, Earthquake, Encore, Endure, Facade, Fissure, Frustration, Growl, Hail,
+        Ice Ball, Ice Beam, Iron Tail, Powder Snow, Protect, Rain Dance, Rest, Return,
+        Rock Slide, Rock Smash, Rock Tomb, Rollout, Secret Power, Sheer Cold, Sleep
+          Talk, Snore, Spit Up, Stockpile, Strength, Substitute, Surf, Swagger, Swallow,
+        Toxic, Water Gun, Water Pulse, Water Sport, Waterfall, Yawn, Charm, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
         Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
           Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
           Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
         Hidden Power Water]
-    - rs: [Attract, Aurora Beam, Blizzard, Body Slam, Curse, Defense Curl, Dive, Double-Edge,
-        Double Team, Earthquake, Encore, Endure, Facade, Fissure, Frustration, Growl,
-        Hail, Ice Ball, Ice Beam, Icy Wind, Iron Tail, Mimic, Mud-Slap, Powder Snow,
-        Protect, Rain Dance, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout,
-        Secret Power, Sheer Cold, Sleep Talk, Snore, Spit Up, Stockpile, Strength,
-        Substitute, Surf, Swagger, Swallow, Toxic, Water Gun, Water Pulse, Water Sport,
-        Waterfall, Yawn, Charm, Double-Edge, Icy Wind, Mimic, Mud-Slap, Hidden Power
-          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
-          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
-        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
-        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
-          Water]
     - xy: [Aqua Ring, Aqua Tail, Attract, Aurora Beam, Blizzard, Body Slam, Brine,
         Bulldoze, Captivate, Charm, Curse, Defense Curl, Dive, Double-Edge, Double
           Team, Earthquake, Echoed Voice, Encore, Endure, Facade, Fissure, Frost Breath,
@@ -104,11 +102,10 @@ pokemon:
     height: [1.4]
     introduction: rs
     moves:
-    - bw: [Block, Crunch, Giga Impact, Hyper Beam, Ice Fang, Iron Head, Double-Edge,
-        Icy Wind, Mimic]
+    - bw: [Block, Crunch, Giga Impact, Hyper Beam, Ice Fang, Iron Head]
     - dp: [Avalanche, Block, Crunch, Fury Cutter, Giga Impact, Hyper Beam, Ice Fang,
-        Iron Head, Double-Edge, Icy Wind, Mimic]
-    - rs: [Hyper Beam, Double-Edge, Icy Wind, Mimic]
+        Iron Head]
+    - rs: [Hyper Beam]
     - xy: [Avalanche, Block, Crunch, Fury Cutter, Giga Impact, Hyper Beam, Ice Fang,
         Iron Head]
     stats:

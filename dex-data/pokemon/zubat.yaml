@@ -39,9 +39,9 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Hyper Beam, Screech]
-    - bw: [Giga Impact, Hyper Beam, Screech, Double-Edge, Mimic]
-    - dp: [Giga Impact, Hyper Beam, Screech, Double-Edge, Mimic]
-    - rs: [Hyper Beam, Screech, Double-Edge, Mimic]
+    - bw: [Giga Impact, Hyper Beam, Screech]
+    - dp: [Giga Impact, Hyper Beam, Screech]
+    - rs: [Hyper Beam, Screech]
     - rb: [Hyper Beam, Screech]
     - xy: [Giga Impact, Hyper Beam, Screech]
     stats:
@@ -82,12 +82,12 @@ pokemon:
           Attack, Rain Dance, Rest, Return, Roost, Round, Shadow Ball, Sleep Talk,
         Sludge Bomb, Snatch, Snore, Steel Wing, Substitute, Sunny Day, Super Fang,
         Supersonic, Swagger, Swift, Tailwind, Taunt, Thief, Torment, Toxic, U-turn,
-        Uproar, Venoshock, Whirlwind, Wing Attack, Zen Headbutt, Double-Edge, Mimic,
-        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
-          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
-        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
-          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
-          Power Steel, Hidden Power Water]
+        Uproar, Venoshock, Whirlwind, Wing Attack, Zen Headbutt, Double-Edge, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - dp: [Aerial Ace, Air Cutter, Air Slash, Astonish, Attract, Bite, Brave Bird,
         Captivate, Confuse Ray, Curse, Defog, Double Team, Endure, Facade, Feint Attack,
         Fly, Frustration, Giga Drain, Gust, Haze, Heat Wave, Hypnosis, Leech Life,
@@ -96,22 +96,21 @@ pokemon:
           Power, Shadow Ball, Sleep Talk, Sludge Bomb, Snatch, Snore, Steel Wing,
         Substitute, Sunny Day, Super Fang, Supersonic, Swagger, Swift, Tailwind, Taunt,
         Thief, Torment, Toxic, Twister, U-turn, Uproar, Whirlwind, Wing Attack, Zen
-          Headbutt, Double-Edge, Mimic, Mimic, Hidden Power Bug, Hidden Power Dark,
-        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
-          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+          Headbutt, Double-Edge, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Air Cutter, Astonish, Attract, Bite, Confuse Ray, Curse, Double
+          Team, Endure, Facade, Feint Attack, Frustration, Giga Drain, Gust, Haze,
+        Leech Life, Mean Look, Poison Fang, Protect, Pursuit, Quick Attack, Rain Dance,
+        Rest, Return, Secret Power, Shadow Ball, Sleep Talk, Sludge Bomb, Snatch,
+        Snore, Steel Wing, Substitute, Sunny Day, Supersonic, Swagger, Swift, Taunt,
+        Thief, Torment, Toxic, Whirlwind, Wing Attack, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
         Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
         Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
-    - rs: [Aerial Ace, Air Cutter, Astonish, Attract, Bite, Confuse Ray, Curse, Double-Edge,
-        Double Team, Endure, Facade, Feint Attack, Frustration, Giga Drain, Gust,
-        Haze, Leech Life, Mean Look, Mimic, Poison Fang, Protect, Pursuit, Quick Attack,
-        Rain Dance, Rest, Return, Secret Power, Shadow Ball, Sleep Talk, Sludge Bomb,
-        Snatch, Snore, Steel Wing, Substitute, Sunny Day, Supersonic, Swagger, Swift,
-        Taunt, Thief, Torment, Toxic, Whirlwind, Wing Attack, Double-Edge, Mimic,
-        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
-          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
-        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
-          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
-          Power Steel, Hidden Power Water]
     - rb: [Bide, Bite, Confuse Ray, Double-Edge, Double Team, Haze, Leech Life, Mega
           Drain, Mimic, Rage, Razor Wind, Rest, Substitute, Supersonic, Swift, Take
           Down, Toxic, Whirlwind, Wing Attack]

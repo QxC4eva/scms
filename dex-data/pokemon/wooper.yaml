@@ -13,11 +13,11 @@ pokemon:
     moves:
     - gs: [Hyper Beam, Strength]
     - bw: [Brick Break, Fling, Focus Blast, Giga Impact, Hyper Beam, Rock Slide, Rock
-          Tomb, Stone Edge, Strength, Thief, Double-Edge, Mimic, Seismic Toss]
+          Tomb, Stone Edge, Strength, Thief, Seismic Toss]
     - dp: [Brick Break, Fling, Focus Blast, Focus Punch, Giga Impact, Hyper Beam,
-        Rock Slide, Rock Tomb, Stone Edge, Strength, Double-Edge, Mimic, Seismic Toss]
+        Rock Slide, Rock Tomb, Stone Edge, Strength, Seismic Toss]
     - rs: [Brick Break, Counter, Focus Punch, Hyper Beam, Mega Kick, Mega Punch, Rock
-          Tomb, Seismic Toss, Strength, Double-Edge, Mimic, Seismic Toss]
+          Tomb, Strength]
     - xy: [Brick Break, Fling, Focus Blast, Focus Punch, Giga Impact, Hyper Beam,
         Mega Kick, Mega Punch, Rock Slide, Rock Tomb, Seismic Toss, Stone Edge, Strength,
         Thief, Power-Up Punch]
@@ -78,17 +78,16 @@ pokemon:
           Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
           Power Steel, Hidden Power Water]
     - rs: [Amnesia, Ancient Power, Attract, Blizzard, Body Slam, Curse, Defense Curl,
-        Dig, Dive, Double-Edge, Double Team, Dynamic Punch, Earthquake, Endure, Facade,
-        Flash, Frustration, Hail, Haze, Ice Beam, Ice Punch, Iron Tail, Mimic, Mist,
-        Mud Shot, Mud-Slap, Mud Sport, Protect, Rain Dance, Rest, Return, Rock Smash,
-        Rollout, Safeguard, Sandstorm, Secret Power, Slam, Sleep Talk, Sludge Bomb,
-        Snore, Spit Up, Stockpile, Substitute, Surf, Swagger, Swallow, Tail Whip,
-        Toxic, Water Gun, Water Pulse, Waterfall, Yawn, Double-Edge, Mimic, Hidden
-          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
-        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
-          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
-          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
-        Hidden Power Water]
+        Dig, Dive, Double Team, Dynamic Punch, Earthquake, Endure, Facade, Flash,
+        Frustration, Hail, Haze, Ice Beam, Ice Punch, Iron Tail, Mist, Mud Shot, Mud-Slap,
+        Mud Sport, Protect, Rain Dance, Rest, Return, Rock Smash, Rollout, Safeguard,
+        Sandstorm, Secret Power, Slam, Sleep Talk, Sludge Bomb, Snore, Spit Up, Stockpile,
+        Substitute, Surf, Swagger, Swallow, Tail Whip, Toxic, Water Gun, Water Pulse,
+        Waterfall, Yawn, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - xy: [Acid Spray, After You, Amnesia, Ancient Power, Aqua Tail, Attract, Blizzard,
         Body Slam, Bulldoze, Captivate, Counter, Curse, Defense Curl, Dig, Dive, Double-Edge,
         Double Kick, Double Team, Dynamic Punch, Earth Power, Earthquake, Encore,

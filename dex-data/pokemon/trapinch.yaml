@@ -11,12 +11,10 @@ pokemon:
     introduction: rs
     moves:
     - bw: [Aerial Ace, Dragon Claw, Dragon Tail, Fire Blast, Fire Punch, Flamethrower,
-        Giga Impact, Hone Claws, Incinerate, Iron Tail, Stone Edge, Thunder Punch,
-        Body Slam, Double-Edge, Mimic]
+        Giga Impact, Hone Claws, Incinerate, Iron Tail, Stone Edge, Thunder Punch]
     - dp: [Aerial Ace, Dragon Claw, Fire Blast, Fire Punch, Flamethrower, Giga Impact,
-        Iron Tail, Stone Edge, Thunder Punch, Body Slam, Double-Edge, Mimic]
-    - rs: [Dragon Claw, Fire Blast, Fire Punch, Flamethrower, Fury Cutter, Iron Tail,
-        Body Slam, Double-Edge, Mimic]
+        Iron Tail, Stone Edge, Thunder Punch]
+    - rs: [Dragon Claw, Fire Blast, Fire Punch, Flamethrower, Fury Cutter, Iron Tail]
     - xy: [Aerial Ace, Dragon Claw, Dragon Tail, Fire Blast, Fire Punch, Flamethrower,
         Giga Impact, Hone Claws, Incinerate, Iron Tail, Stone Edge, Thunder Punch,
         Power-Up Punch]
@@ -61,15 +59,14 @@ pokemon:
           Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
           Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
         Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
-    - rs: [Attract, Bite, Body Slam, Crunch, Dig, Double-Edge, Double Team, Earthquake,
-        Endure, Facade, Feint Attack, Focus Energy, Frustration, Giga Drain, Gust,
-        Hyper Beam, Mimic, Mud-Slap, Protect, Quick Attack, Rest, Return, Rock Slide,
-        Rock Smash, Rock Tomb, Sand Attack, Sand Tomb, Sandstorm, Secret Power, Sleep
-          Talk, Snore, Solar Beam, Strength, Substitute, Sunny Day, Swagger, Toxic,
-        Body Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden
-          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
-          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
-          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+    - rs: [Attract, Bite, Crunch, Dig, Double Team, Earthquake, Endure, Facade, Feint
+          Attack, Focus Energy, Frustration, Giga Drain, Gust, Hyper Beam, Mud-Slap,
+        Protect, Quick Attack, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Sand
+          Attack, Sand Tomb, Sandstorm, Secret Power, Sleep Talk, Snore, Solar Beam,
+        Strength, Substitute, Sunny Day, Swagger, Toxic, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
         Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Attract, Bide, Bite, Body Slam, Bug Bite, Bulldoze, Captivate, Crunch,
         Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endure, Facade, Feint
@@ -103,14 +100,11 @@ pokemon:
     introduction: rs
     moves:
     - bw: [Draco Meteor, Dragon Pulse, Dragon Breath, Fly, Heat Wave, Outrage, Roost,
-        Screech, Sonic Boom, Supersonic, Tailwind, U-turn, Body Slam, Double-Edge,
-        Mimic]
+        Screech, Sonic Boom, Supersonic, Tailwind, U-turn]
     - dp: [Air Cutter, Defog, Draco Meteor, Dragon Pulse, Dragon Breath, Fly, Heat
           Wave, Ominous Wind, Outrage, Roost, Screech, Silver Wind, Sonic Boom, Steel
-          Wing, Supersonic, Swift, Tailwind, Twister, U-turn, Body Slam, Double-Edge,
-        Mimic]
-    - rs: [Dragon Breath, Fly, Screech, Steel Wing, Swift, Body Slam, Double-Edge,
-        Mimic]
+          Wing, Supersonic, Swift, Tailwind, Twister, U-turn]
+    - rs: [Dragon Breath, Fly, Screech, Steel Wing, Swift]
     - xy: [Air Cutter, Defog, Draco Meteor, Dragon Breath, Dragon Pulse, Fly, Heat
           Wave, Ominous Wind, Outrage, Roost, Screech, Silver Wind, Sonic Boom, Steel
           Wing, Supersonic, Swift, Twister, U-turn, Tailwind]

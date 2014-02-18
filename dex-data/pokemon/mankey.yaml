@@ -55,20 +55,19 @@ pokemon:
           Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
           Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
         Hidden Power Water]
-    - rs: [Aerial Ace, Attract, Beat Up, Body Slam, Brick Break, Bulk Up, Counter,
-        Cross Chop, Defense Curl, Dig, Double-Edge, Double Team, Dynamic Punch, Earthquake,
-        Endure, Facade, Fire Punch, Focus Energy, Focus Punch, Foresight, Frustration,
-        Fury Swipes, Ice Punch, Iron Tail, Karate Chop, Leer, Low Kick, Meditate,
-        Mega Kick, Mega Punch, Metronome, Mimic, Mud-Slap, Overheat, Protect, Psych
-          Up, Rain Dance, Rest, Return, Revenge, Reversal, Rock Slide, Rock Smash,
-        Rock Tomb, Scratch, Screech, Secret Power, Seismic Toss, Sleep Talk, Smelling
-          Salts, Snore, Strength, Substitute, Sunny Day, Swagger, Swift, Taunt, Thief,
-        Thrash, Thunder, Thunderbolt, Thunder Punch, Toxic, Body Slam, Double-Edge,
-        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
-          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
-        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
-          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
-          Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Attract, Beat Up, Brick Break, Bulk Up, Counter, Cross Chop,
+        Defense Curl, Dig, Double Team, Dynamic Punch, Earthquake, Endure, Facade,
+        Fire Punch, Focus Energy, Focus Punch, Foresight, Frustration, Fury Swipes,
+        Ice Punch, Iron Tail, Karate Chop, Leer, Low Kick, Meditate, Mega Kick, Mega
+          Punch, Metronome, Mud-Slap, Overheat, Protect, Psych Up, Rain Dance, Rest,
+        Return, Revenge, Reversal, Rock Slide, Rock Smash, Rock Tomb, Scratch, Screech,
+        Secret Power, Seismic Toss, Sleep Talk, Smelling Salts, Snore, Strength, Substitute,
+        Sunny Day, Swagger, Swift, Taunt, Thief, Thrash, Thunder, Thunderbolt, Thunder
+          Punch, Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - rb: [Bide, Body Slam, Counter, Dig, Double-Edge, Double Team, Focus Energy,
         Fury Swipes, Karate Chop, Leer, Low Kick, Mega Kick, Mega Punch, Metronome,
         Mimic, Pay Day, Rage, Rest, Rock Slide, Scratch, Screech, Seismic Toss, Skull
@@ -115,11 +114,9 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Hyper Beam, Rage]
-    - bw: [Giga Impact, Hyper Beam, Rage, Stone Edge, Body Slam, Double-Edge, Helping
-          Hand, Mimic]
-    - dp: [Giga Impact, Hyper Beam, Rage, Stone Edge, Body Slam, Double-Edge, Helping
-          Hand, Mimic]
-    - rs: [Hyper Beam, Rage, Body Slam, Double-Edge, Helping Hand, Mimic]
+    - bw: [Giga Impact, Hyper Beam, Rage, Stone Edge]
+    - dp: [Giga Impact, Hyper Beam, Rage, Stone Edge]
+    - rs: [Hyper Beam, Rage, Helping Hand]
     - rb: [Hyper Beam]
     - xy: [Giga Impact, Hyper Beam, Rage, Stone Edge]
     stats:

@@ -22,37 +22,36 @@ pokemon:
         Hidden Power Steel, Hidden Power Water]
     - bw: [Ancient Power, Attract, Aurora Beam, Bide, Bind, Bite, Blizzard, Brine,
         Bubble Beam, Constrict, Dive, Double Team, Earth Power, Facade, Frustration,
-        Gyro Ball, Hail, Haze, Hydro Pump, Ice Beam, Icy Wind, Iron Defense, Knock
-          Off, Leer, Mud Shot, Muddy Water, Protect, Rain Dance, Rest, Return, Rock
-          Blast, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Rollout, Round, Sandstorm,
-        Scald, Shell Smash, Slam, Sleep Talk, Smack Down, Snore, Spikes, Stealth Rock,
-        Substitute, Supersonic, Surf, Swagger, Thief, Tickle, Toxic, Toxic Spikes,
-        Water Gun, Water Pulse, Waterfall, Whirlpool, Withdraw, Wring Out, Body Slam,
-        Double-Edge, Icy Wind, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden
-          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
-          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
-          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
-        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+        Gyro Ball, Hail, Haze, Hydro Pump, Ice Beam, Iron Defense, Knock Off, Leer,
+        Mud Shot, Muddy Water, Protect, Rain Dance, Rest, Return, Rock Blast, Rock
+          Polish, Rock Slide, Rock Smash, Rock Tomb, Rollout, Round, Sandstorm, Scald,
+        Shell Smash, Slam, Sleep Talk, Smack Down, Snore, Spikes, Stealth Rock, Substitute,
+        Supersonic, Surf, Swagger, Thief, Tickle, Toxic, Toxic Spikes, Water Gun,
+        Water Pulse, Waterfall, Whirlpool, Withdraw, Wring Out, Body Slam, Double-Edge,
+        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - dp: [Ancient Power, Attract, Aurora Beam, Bite, Blizzard, Brine, Bubble Beam,
         Captivate, Constrict, Dive, Double Team, Earth Power, Endure, Facade, Frustration,
-        Gyro Ball, Hail, Haze, Headbutt, Hydro Pump, Ice Beam, Icy Wind, Iron Defense,
-        Knock Off, Leer, Mud Shot, Muddy Water, Natural Gift, Protect, Rain Dance,
-        Rest, Return, Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock Tomb,
-        Rollout, Sandstorm, Secret Power, Slam, Sleep Talk, Snore, Spikes, Stealth
-          Rock, Substitute, Supersonic, Surf, Swagger, Thief, Tickle, Toxic, Toxic
-          Spikes, Water Gun, Water Pulse, Waterfall, Whirlpool, Withdraw, Wring Out,
-        Body Slam, Double-Edge, Icy Wind, Mimic, Hidden Power Bug, Hidden Power Dark,
-        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
-          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
-        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
-        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
-    - rs: [Ancient Power, Attract, Aurora Beam, Bite, Blizzard, Body Slam, Bubble
-          Beam, Constrict, Dive, Double-Edge, Double Team, Endure, Facade, Frustration,
-        Hail, Haze, Hydro Pump, Ice Beam, Icy Wind, Leer, Mimic, Mud Shot, Protect,
-        Rain Dance, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sandstorm,
-        Secret Power, Slam, Sleep Talk, Snore, Spikes, Substitute, Supersonic, Surf,
-        Swagger, Thief, Tickle, Toxic, Water Gun, Water Pulse, Waterfall, Withdraw,
-        Body Slam, Double-Edge, Icy Wind, Mimic, Hidden Power Bug, Hidden Power Dark,
+        Gyro Ball, Hail, Haze, Headbutt, Hydro Pump, Ice Beam, Iron Defense, Knock
+          Off, Leer, Mud Shot, Muddy Water, Natural Gift, Protect, Rain Dance, Rest,
+        Return, Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Rollout,
+        Sandstorm, Secret Power, Slam, Sleep Talk, Snore, Spikes, Stealth Rock, Substitute,
+        Supersonic, Surf, Swagger, Thief, Tickle, Toxic, Toxic Spikes, Water Gun,
+        Water Pulse, Waterfall, Whirlpool, Withdraw, Wring Out, Body Slam, Double-Edge,
+        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - rs: [Ancient Power, Attract, Aurora Beam, Bite, Blizzard, Bubble Beam, Constrict,
+        Dive, Double Team, Endure, Facade, Frustration, Hail, Haze, Hydro Pump, Ice
+          Beam, Leer, Mud Shot, Protect, Rain Dance, Rest, Return, Rock Slide, Rock
+          Smash, Rock Tomb, Rollout, Sandstorm, Secret Power, Slam, Sleep Talk, Snore,
+        Spikes, Substitute, Supersonic, Surf, Swagger, Thief, Tickle, Toxic, Water
+          Gun, Water Pulse, Waterfall, Withdraw, Hidden Power Bug, Hidden Power Dark,
         Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
           Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
         Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
@@ -96,12 +95,10 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Hyper Beam, Spike Cannon]
-    - bw: [Giga Impact, Hyper Beam, Spike Cannon, Stone Edge, Body Slam, Double-Edge,
-        Icy Wind, Mimic, Seismic Toss]
-    - dp: [Giga Impact, Hyper Beam, Rock Climb, Spike Cannon, Stone Edge, Body Slam,
-        Double-Edge, Icy Wind, Mimic, Seismic Toss]
-    - rs: [Hyper Beam, Seismic Toss, Spike Cannon, Body Slam, Double-Edge, Icy Wind,
-        Mimic, Seismic Toss]
+    - bw: [Giga Impact, Hyper Beam, Spike Cannon, Stone Edge, Seismic Toss]
+    - dp: [Giga Impact, Hyper Beam, Rock Climb, Spike Cannon, Stone Edge, Seismic
+          Toss]
+    - rs: [Hyper Beam, Spike Cannon]
     - rb: [Horn Drill, Hyper Beam, Seismic Toss, Skull Bash, Submission]
     - xy: [Giga Impact, Hyper Beam, Mud-Slap, Rock Climb, Seismic Toss, Spike Cannon,
         Stone Edge]

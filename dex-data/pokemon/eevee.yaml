@@ -24,18 +24,17 @@ pokemon:
           Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
           Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
         Hidden Power Water]
-    - bw: [Attract, Baton Pass, Bite, Charm, Covet, Curse, Detect, Dig, Double-Edge,
-        Double Team, Echoed Voice, Endure, Facade, Fake Tears, Flail, Frustration,
-        Growl, Heal Bell, Helping Hand, Hyper Voice, Iron Tail, Last Resort, Natural
-          Gift, Protect, Quick Attack, Rain Dance, Rest, Retaliate, Return, Round,
-        Sand Attack, Shadow Ball, Sleep Talk, Snore, Stored Power, Substitute, Sunny
-          Day, Swagger, Synchronoise, Tackle, Tail Whip, Take Down, Tickle, Toxic,
-        Trump Card, Wish, Work Up, Yawn, Body Slam, Double-Edge, Mimic, Hidden Power
-          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
-          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
-        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
-        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
-          Water]
+    - bw: [Attract, Baton Pass, Bite, Charm, Covet, Curse, Detect, Dig, Double Team,
+        Echoed Voice, Endure, Facade, Fake Tears, Flail, Frustration, Growl, Heal
+          Bell, Helping Hand, Hyper Voice, Iron Tail, Last Resort, Natural Gift, Protect,
+        Quick Attack, Rain Dance, Rest, Retaliate, Return, Round, Sand Attack, Shadow
+          Ball, Sleep Talk, Snore, Stored Power, Substitute, Sunny Day, Swagger, Synchronoise,
+        Tackle, Tail Whip, Take Down, Tickle, Toxic, Trump Card, Wish, Work Up, Yawn,
+        Body Slam, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - dp: [Attract, Baton Pass, Bite, Captivate, Charm, Covet, Curse, Detect, Dig,
         Double Team, Endure, Facade, Fake Tears, Flail, Frustration, Growl, Headbutt,
         Heal Bell, Helping Hand, Iron Tail, Last Resort, Mud-Slap, Natural Gift, Protect,
@@ -47,16 +46,15 @@ pokemon:
         Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
           Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
           Power Steel, Hidden Power Water]
-    - rs: [Attract, Baton Pass, Bite, Body Slam, Charm, Curse, Dig, Double-Edge, Double
-          Team, Endure, Facade, Flail, Frustration, Growl, Helping Hand, Iron Tail,
-        Mimic, Mud-Slap, Protect, Quick Attack, Rain Dance, Rest, Return, Sand Attack,
-        Secret Power, Shadow Ball, Sleep Talk, Snore, Substitute, Sunny Day, Swagger,
-        Swift, Tackle, Tail Whip, Take Down, Tickle, Toxic, Wish, Body Slam, Double-Edge,
-        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
-          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
-        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
-          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
-          Power Steel, Hidden Power Water]
+    - rs: [Attract, Baton Pass, Bite, Charm, Curse, Dig, Double Team, Endure, Facade,
+        Flail, Frustration, Growl, Helping Hand, Iron Tail, Mud-Slap, Protect, Quick
+          Attack, Rain Dance, Rest, Return, Sand Attack, Secret Power, Shadow Ball,
+        Sleep Talk, Snore, Substitute, Sunny Day, Swagger, Swift, Tackle, Tail Whip,
+        Take Down, Tickle, Toxic, Wish, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rb: [Bide, Bite, Body Slam, Double-Edge, Double Team, Focus Energy, Growl, Mimic,
         Quick Attack, Rage, Reflect, Rest, Sand Attack, Skull Bash, Substitute, Swift,
         Tackle, Tail Whip, Take Down, Toxic]
@@ -105,8 +103,7 @@ pokemon:
         Psybeam, Psych Up, Psychic, Reflect, Signal Beam, Skill Swap, Trick, Trick
           Room, Zen Headbutt, Body Slam, Double-Edge, Mimic, Nightmare]
     - rs: [Calm Mind, Confusion, Cut, Dream Eater, Flash, Hyper Beam, Light Screen,
-        Morning Sun, Nightmare, Psybeam, Psych Up, Psychic, Reflect, Skill Swap, Body
-          Slam, Double-Edge, Mimic, Nightmare]
+        Morning Sun, Psybeam, Psych Up, Psychic, Reflect, Skill Swap]
     - xy: [Calm Mind, Confusion, Cut, Dream Eater, Flash, Future Sight, Giga Impact,
         Grass Knot, Hyper Beam, Light Screen, Magic Coat, Morning Sun, Nightmare,
         Power Swap, Psybeam, Psychic, Psych Up, Psyshock, Reflect, Signal Beam, Skill
@@ -285,7 +282,7 @@ pokemon:
         Moonlight, Payback, Pursuit, Screech, Snatch, Spite, Sucker Punch, Taunt,
         Torment, Body Slam, Double-Edge, Mimic, Nightmare]
     - rs: [Confuse Ray, Feint Attack, Mean Look, Moonlight, Pursuit, Screech, Snatch,
-        Taunt, Torment, Body Slam, Double-Edge, Mimic, Nightmare]
+        Taunt, Torment, Nightmare]
     - xy: [Assurance, Confuse Ray, Cut, Dark Pulse, Dream Eater, Feint Attack, Flash,
         Giga Impact, Guard Swap, Hyper Beam, Mean Look, Moonlight, Nightmare, Payback,
         Psychic, Psych Up, Pursuit, Screech, Snarl, Snatch, Spite, Sucker Punch, Taunt,
@@ -321,8 +318,7 @@ pokemon:
           Water, Surf, Water Gun, Waterfall, Whirlpool, Body Slam, Double-Edge, Icy
           Wind, Mimic]
     - rs: [Acid Armor, Aurora Beam, Blizzard, Dive, Hail, Haze, Hydro Pump, Ice Beam,
-        Icy Wind, Surf, Water Gun, Water Pulse, Waterfall, Body Slam, Double-Edge,
-        Icy Wind, Mimic]
+        Surf, Water Gun, Water Pulse, Waterfall, Body Slam, Double-Edge, Mimic]
     - rb: [Acid Armor, Aurora Beam, Blizzard, Bubble Beam, Haze, Hydro Pump, Ice Beam,
         Mist, Surf, Water Gun]
     - xy: [Acid Armor, Aqua Ring, Aqua Tail, Aurora Beam, Blizzard, Brine, Dive, Giga

@@ -13,12 +13,10 @@ pokemon:
     moves:
     - gs: [Confuse Ray, Dream Eater, Hyper Beam, Nightmare]
     - bw: [Confuse Ray, Dream Eater, Giga Impact, Grass Knot, Hyper Beam, Psyshock,
-        Skill Swap, Telekinesis, Trick, Trick Room, Wonder Room, Double-Edge, Icy
-          Wind, Mimic, Nightmare, Refresh]
+        Skill Swap, Telekinesis, Trick, Trick Room, Wonder Room, Nightmare, Refresh]
     - dp: [Avalanche, Confuse Ray, Dream Eater, Giga Impact, Grass Knot, Hyper Beam,
-        Skill Swap, Trick, Trick Room, Double-Edge, Icy Wind, Mimic, Nightmare, Refresh]
-    - rs: [Confuse Ray, Dream Eater, Hyper Beam, Nightmare, Skill Swap, Double-Edge,
-        Icy Wind, Mimic, Nightmare, Refresh]
+        Skill Swap, Trick, Trick Room, Nightmare, Refresh]
+    - rs: [Confuse Ray, Dream Eater, Hyper Beam, Skill Swap, Refresh]
     - rb: [Hyper Beam]
     - xy: [Avalanche, Confuse Ray, Dream Eater, Giga Impact, Grass Knot, Hyper Beam,
         Nightmare, Psyshock, Refresh, Skill Swap, Telekinesis, Trick, Trick Room,
@@ -55,35 +53,33 @@ pokemon:
         Hidden Power Water]
     - bw: [Blizzard, Brine, Bubble Beam, Camouflage, Cosmic Power, Dive, Double Team,
         Facade, Flash, Flash Cannon, Frustration, Gravity, Gyro Ball, Hail, Harden,
-        Hydro Pump, Ice Beam, Icy Wind, Light Screen, Magic Coat, Minimize, Pain Split,
-        Power Gem, Protect, Psych Up, Psychic, Rain Dance, Rapid Spin, Recover, Recycle,
+        Hydro Pump, Ice Beam, Light Screen, Magic Coat, Minimize, Pain Split, Power
+          Gem, Protect, Psych Up, Psychic, Rain Dance, Rapid Spin, Recover, Recycle,
         Reflect, Reflect Type, Rest, Return, Round, Scald, Signal Beam, Sleep Talk,
         Snore, Substitute, Surf, Swagger, Swift, Tackle, Thunder, Thunder Wave, Thunderbolt,
-        Toxic, Water Gun, Waterfall, Double-Edge, Icy Wind, Mimic, Hidden Power Bug,
-        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
-          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
-          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
-        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
-          Water]
-    - dp: [Blizzard, Brine, Bubble Beam, Camouflage, Cosmic Power, Dive, Double Team,
-        Endure, Facade, Flash, Flash Cannon, Frustration, Gravity, Gyro Ball, Hail,
-        Harden, Hydro Pump, Ice Beam, Icy Wind, Light Screen, Magic Coat, Minimize,
-        Natural Gift, Pain Split, Power Gem, Protect, Psych Up, Psychic, Rain Dance,
-        Rapid Spin, Recover, Recycle, Reflect, Rest, Return, Rollout, Secret Power,
-        Signal Beam, Sleep Talk, Snore, Substitute, Surf, Swagger, Swift, Tackle,
-        Thunder, Thunder Wave, Thunderbolt, Toxic, Twister, Water Gun, Water Pulse,
-        Waterfall, Whirlpool, Double-Edge, Icy Wind, Mimic, Hidden Power Bug, Hidden
+        Toxic, Water Gun, Waterfall, Double-Edge, Mimic, Hidden Power Bug, Hidden
           Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
         Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
         Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
         Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
-    - rs: [Blizzard, Bubble Beam, Camouflage, Cosmic Power, Dive, Double-Edge, Double
-          Team, Endure, Facade, Flash, Frustration, Hail, Harden, Hydro Pump, Ice
-          Beam, Icy Wind, Light Screen, Mimic, Minimize, Protect, Psych Up, Psychic,
-        Rain Dance, Rapid Spin, Recover, Reflect, Rest, Return, Secret Power, Sleep
-          Talk, Snore, Substitute, Surf, Swagger, Swift, Tackle, Thunder, Thunder
-          Wave, Thunderbolt, Toxic, Water Gun, Water Pulse, Waterfall, Double-Edge,
-        Icy Wind, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+    - dp: [Blizzard, Brine, Bubble Beam, Camouflage, Cosmic Power, Dive, Double Team,
+        Endure, Facade, Flash, Flash Cannon, Frustration, Gravity, Gyro Ball, Hail,
+        Harden, Hydro Pump, Ice Beam, Light Screen, Magic Coat, Minimize, Natural
+          Gift, Pain Split, Power Gem, Protect, Psych Up, Psychic, Rain Dance, Rapid
+          Spin, Recover, Recycle, Reflect, Rest, Return, Rollout, Secret Power, Signal
+          Beam, Sleep Talk, Snore, Substitute, Surf, Swagger, Swift, Tackle, Thunder,
+        Thunder Wave, Thunderbolt, Toxic, Twister, Water Gun, Water Pulse, Waterfall,
+        Whirlpool, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Blizzard, Bubble Beam, Camouflage, Cosmic Power, Dive, Double Team, Endure,
+        Facade, Flash, Frustration, Hail, Harden, Hydro Pump, Ice Beam, Light Screen,
+        Minimize, Protect, Psych Up, Psychic, Rain Dance, Rapid Spin, Recover, Reflect,
+        Rest, Return, Secret Power, Sleep Talk, Snore, Substitute, Surf, Swagger,
+        Swift, Tackle, Thunder, Thunder Wave, Thunderbolt, Toxic, Water Gun, Water
+          Pulse, Waterfall, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
         Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
           Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
           Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,

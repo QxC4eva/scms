@@ -13,9 +13,9 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Hyper Beam]
-    - bw: [Giga Impact, Hyper Beam, Sky Attack, Double-Edge, Mimic, Sky Attack]
-    - dp: [Giga Impact, Hyper Beam, Sky Attack, Double-Edge, Mimic, Sky Attack]
-    - rs: [Hyper Beam, Double-Edge, Mimic, Sky Attack]
+    - bw: [Giga Impact, Hyper Beam]
+    - dp: [Giga Impact, Hyper Beam]
+    - rs: [Hyper Beam]
     - rb: [Hyper Beam]
     - xy: [Giga Impact, Hyper Beam]
     stats:
@@ -42,9 +42,9 @@ pokemon:
     introduction: rb
     moves:
     - gs: []
-    - bw: [Double-Edge, Mimic, Refresh, Sky Attack]
-    - dp: [Double-Edge, Mimic, Refresh, Sky Attack]
-    - rs: [Double-Edge, Mimic, Refresh, Sky Attack]
+    - bw: [Refresh]
+    - dp: [Refresh]
+    - rs: [Refresh]
     - rb: []
     - xy: [Refresh]
     stats:
@@ -100,16 +100,15 @@ pokemon:
           Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
         Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
           Water]
-    - rs: [Aerial Ace, Agility, Air Cutter, Attract, Double-Edge, Double Team, Endure,
-        Facade, Feint Attack, Feather Dance, Fly, Foresight, Frustration, Gust, Mimic,
-        Mirror Move, Mud-Slap, Protect, Pursuit, Quick Attack, Rain Dance, Rest, Return,
-        Sand Attack, Secret Power, Sky Attack, Sleep Talk, Snore, Steel Wing, Substitute,
-        Sunny Day, Swagger, Swift, Tackle, Thief, Toxic, Whirlwind, Wing Attack, Double-Edge,
-        Mimic, Sky Attack, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
-        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
-          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
-          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
-        Hidden Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Agility, Air Cutter, Attract, Double Team, Endure, Facade,
+        Feint Attack, Feather Dance, Fly, Foresight, Frustration, Gust, Mirror Move,
+        Mud-Slap, Protect, Pursuit, Quick Attack, Rain Dance, Rest, Return, Sand Attack,
+        Secret Power, Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day, Swagger,
+        Swift, Tackle, Thief, Toxic, Whirlwind, Wing Attack, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rb: [Agility, Bide, Double-Edge, Double Team, Fly, Gust, Mimic, Mirror Move,
         Quick Attack, Rage, Razor Wind, Reflect, Rest, Sand Attack, Sky Attack, Substitute,
         Swift, Take Down, Toxic, Whirlwind, Wing Attack]

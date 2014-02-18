@@ -103,14 +103,14 @@ pokemon:
     - bw: [Blizzard, Body Slam, Brick Break, Charge Beam, Disable, Double-Edge, Double
           Slap, Drain Punch, Fire Punch, Gyro Ball, Ice Beam, Ice Punch, Knock Off,
         Mimic, Retaliate, Rollout, Snatch, Stealth Rock, Strength, Thunder, Thunderbolt,
-        Thunder Punch, Wake-Up Slap, Icy Wind, Nightmare, Seismic Toss]
+        Thunder Punch, Wake-Up Slap, Nightmare, Seismic Toss]
     - dp: [Blizzard, Body Slam, Brick Break, Charge Beam, Disable, Double-Edge, Double
           Slap, Drain Punch, Fire Punch, Focus Punch, Gyro Ball, Hyper Voice, Ice
           Beam, Ice Punch, Knock Off, Mimic, Snatch, Stealth Rock, Strength, Thunder,
-        Thunderbolt, Thunder Punch, Wake-Up Slap, Icy Wind, Nightmare, Seismic Toss]
+        Thunderbolt, Thunder Punch, Wake-Up Slap, Nightmare, Seismic Toss]
     - rs: [Blizzard, Brick Break, Disable, Double Slap, Dynamic Punch, Fire Punch,
         Focus Punch, Hyper Voice, Ice Beam, Ice Punch, Snatch, Strength, Thunder,
-        Thunderbolt, Thunder Punch, Icy Wind, Nightmare, Seismic Toss]
+        Thunderbolt, Thunder Punch]
     - rb: [Bide, Blizzard, Body Slam, Bubble Beam, Counter, Defense Curl, Disable,
         Double-Edge, Double Team, Double Slap, Fire Blast, Flash, Ice Beam, Mega Kick,
         Mega Punch, Mimic, Pound, Psychic, Psywave, Rage, Reflect, Rest, Seismic Toss,
@@ -144,10 +144,9 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Hyper Beam]
-    - bw: [Focus Blast, Giga Impact, Hyper Beam, Magic Room, Icy Wind, Nightmare,
-        Seismic Toss]
-    - dp: [Focus Blast, Giga Impact, Hyper Beam, Icy Wind, Nightmare, Seismic Toss]
-    - rs: [Hyper Beam, Icy Wind, Nightmare, Seismic Toss]
+    - bw: [Focus Blast, Giga Impact, Hyper Beam, Magic Room]
+    - dp: [Focus Blast, Giga Impact, Hyper Beam]
+    - rs: [Hyper Beam]
     - rb: [Hyper Beam]
     - xy: [Focus Blast, Giga Impact, Hyper Beam, Magic Room, Play Rough]
     stats:

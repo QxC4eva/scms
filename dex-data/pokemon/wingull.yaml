@@ -11,13 +11,10 @@ pokemon:
     introduction: rs
     moves:
     - bw: [Fling, Giga Impact, Gunk Shot, Hydro Pump, Hyper Beam, Payback, Seed Bomb,
-        Sky Attack, Sky Drop, Soak, Spit Up, Stockpile, Surf, Swallow, Double-Edge,
-        Icy Wind, Mimic, Sky Attack]
+        Sky Drop, Soak, Spit Up, Stockpile, Surf, Swallow]
     - dp: [Fling, Giga Impact, Gunk Shot, Hydro Pump, Hyper Beam, Payback, Seed Bomb,
-        Sky Attack, Spit Up, Stockpile, Surf, Swallow, Whirlpool, Double-Edge, Icy
-          Wind, Mimic, Sky Attack]
-    - rs: [Hydro Pump, Hyper Beam, Spit Up, Stockpile, Surf, Swallow, Double-Edge,
-        Icy Wind, Mimic, Sky Attack]
+        Spit Up, Stockpile, Surf, Swallow, Whirlpool]
+    - rs: [Hydro Pump, Hyper Beam, Spit Up, Stockpile, Surf, Swallow]
     - xy: [Fling, Giga Impact, Gunk Shot, Hydro Pump, Hyper Beam, Payback, Seed Bomb,
         Sky Drop, Spit Up, Stockpile, Surf, Swallow, Whirlpool]
     stats:
@@ -40,38 +37,36 @@ pokemon:
     moves:
     - bw: [Aerial Ace, Agility, Air Cutter, Air Slash, Aqua Ring, Attract, Blizzard,
         Brine, Double Team, Echoed Voice, Facade, Fly, Frustration, Growl, Gust, Hail,
-        Hurricane, Ice Beam, Icy Wind, Knock Off, Mist, Pluck, Protect, Pursuit, Quick
-          Attack, Rain Dance, Rest, Return, Roost, Round, Scald, Sleep Talk, Snore,
-        Substitute, Supersonic, Swagger, Tailwind, Thief, Toxic, Twister, U-turn,
-        Uproar, Water Gun, Water Pulse, Water Sport, Wing Attack, Double-Edge, Icy
-          Wind, Mimic, Sky Attack, Hidden Power Bug, Hidden Power Dark, Hidden Power
-          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
-        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
-          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
-          Power Rock, Hidden Power Steel, Hidden Power Water]
-    - dp: [Aerial Ace, Agility, Air Cutter, Air Slash, Aqua Ring, Attract, Blizzard,
-        Brine, Captivate, Defog, Double Team, Endure, Facade, Fly, Frustration, Growl,
-        Gust, Hail, Ice Beam, Icy Wind, Knock Off, Mist, Mud-Slap, Natural Gift, Ominous
-          Wind, Pluck, Protect, Pursuit, Quick Attack, Rain Dance, Rest, Return, Roost,
-        Secret Power, Shock Wave, Sleep Talk, Snore, Steel Wing, Substitute, Supersonic,
-        Swagger, Swift, Tailwind, Thief, Toxic, Twister, U-turn, Uproar, Water Gun,
-        Water Pulse, Water Sport, Wing Attack, Double-Edge, Icy Wind, Mimic, Sky Attack,
+        Hurricane, Ice Beam, Knock Off, Mist, Pluck, Protect, Pursuit, Quick Attack,
+        Rain Dance, Rest, Return, Roost, Round, Scald, Sleep Talk, Snore, Substitute,
+        Supersonic, Swagger, Tailwind, Thief, Toxic, Twister, U-turn, Uproar, Water
+          Gun, Water Pulse, Water Sport, Wing Attack, Double-Edge, Mimic, Sky Attack,
         Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
         Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
           Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
           Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
         Hidden Power Water]
-    - rs: [Aerial Ace, Agility, Attract, Blizzard, Double-Edge, Double Team, Endure,
-        Facade, Fly, Frustration, Growl, Gust, Hail, Ice Beam, Icy Wind, Mimic, Mist,
-        Mud-Slap, Protect, Pursuit, Quick Attack, Rain Dance, Rest, Return, Secret
-          Power, Shock Wave, Sky Attack, Sleep Talk, Snore, Steel Wing, Substitute,
-        Supersonic, Swagger, Swift, Thief, Toxic, Twister, Water Gun, Water Pulse,
-        Water Sport, Wing Attack, Double-Edge, Icy Wind, Mimic, Sky Attack, Hidden
+    - dp: [Aerial Ace, Agility, Air Cutter, Air Slash, Aqua Ring, Attract, Blizzard,
+        Brine, Captivate, Defog, Double Team, Endure, Facade, Fly, Frustration, Growl,
+        Gust, Hail, Ice Beam, Knock Off, Mist, Mud-Slap, Natural Gift, Ominous Wind,
+        Pluck, Protect, Pursuit, Quick Attack, Rain Dance, Rest, Return, Roost, Secret
+          Power, Shock Wave, Sleep Talk, Snore, Steel Wing, Substitute, Supersonic,
+        Swagger, Swift, Tailwind, Thief, Toxic, Twister, U-turn, Uproar, Water Gun,
+        Water Pulse, Water Sport, Wing Attack, Double-Edge, Mimic, Sky Attack, Hidden
           Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
         Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
           Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
           Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
         Hidden Power Water]
+    - rs: [Aerial Ace, Agility, Attract, Blizzard, Double Team, Endure, Facade, Fly,
+        Frustration, Growl, Gust, Hail, Ice Beam, Mist, Mud-Slap, Protect, Pursuit,
+        Quick Attack, Rain Dance, Rest, Return, Secret Power, Shock Wave, Sleep Talk,
+        Snore, Steel Wing, Substitute, Supersonic, Swagger, Swift, Thief, Toxic, Twister,
+        Water Gun, Water Pulse, Water Sport, Wing Attack, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Aerial Ace, Agility, Air Cutter, Air Slash, Aqua Ring, Attract, Blizzard,
         Brine, Captivate, Defog, Double-Edge, Double Team, Echoed Voice, Endure, Facade,
         Fly, Frustration, Growl, Gust, Hail, Hurricane, Ice Beam, Icy Wind, Knock

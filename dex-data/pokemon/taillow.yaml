@@ -10,9 +10,9 @@ pokemon:
     height: [0.7]
     introduction: rs
     moves:
-    - bw: [Giga Impact, Hyper Beam, Baton Pass, Double-Edge, Mimic]
-    - dp: [Giga Impact, Hyper Beam, Baton Pass, Double-Edge, Mimic]
-    - rs: [Hyper Beam, Baton Pass, Double-Edge, Mimic]
+    - bw: [Giga Impact, Hyper Beam, Baton Pass]
+    - dp: [Giga Impact, Hyper Beam, Baton Pass]
+    - rs: [Hyper Beam, Baton Pass]
     - xy: [Baton Pass, Giga Impact, Hyper Beam]
     stats:
     - [60, 85, 60, 50, 50, 125]
@@ -56,16 +56,15 @@ pokemon:
         Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
         Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
         Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
-    - rs: [Aerial Ace, Agility, Attract, Counter, Double-Edge, Double Team, Endeavor,
-        Endure, Facade, Fly, Focus Energy, Frustration, Growl, Mimic, Mirror Move,
-        Mud-Slap, Peck, Protect, Pursuit, Quick Attack, Rage, Rain Dance, Refresh,
-        Rest, Return, Secret Power, Sky Attack, Sleep Talk, Snore, Steel Wing, Substitute,
-        Sunny Day, Supersonic, Swagger, Swift, Thief, Toxic, Wing Attack, Double-Edge,
-        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
-          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
-        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
-          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
-          Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Agility, Attract, Counter, Double Team, Endeavor, Endure, Facade,
+        Fly, Focus Energy, Frustration, Growl, Mirror Move, Mud-Slap, Peck, Protect,
+        Pursuit, Quick Attack, Rage, Rain Dance, Refresh, Rest, Return, Secret Power,
+        Sky Attack, Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day, Supersonic,
+        Swagger, Swift, Thief, Toxic, Wing Attack, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Aerial Ace, Agility, Air Cutter, Air Slash, Attract, Brave Bird, Captivate,
         Counter, Defog, Double-Edge, Double Team, Echoed Voice, Endeavor, Endure,
         Facade, Feather Dance, Fly, Focus Energy, Frustration, Growl, Heat Wave, Mimic,

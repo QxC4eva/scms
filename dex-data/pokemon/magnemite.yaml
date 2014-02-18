@@ -43,15 +43,15 @@ pokemon:
         Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
           Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
           Power Steel, Hidden Power Water]
-    - rs: [Double-Edge, Double Team, Endure, Facade, Flash, Frustration, Lock-On,
-        Metal Sound, Mimic, Protect, Rain Dance, Reflect, Rest, Return, Rollout, Screech,
-        Secret Power, Shock Wave, Sleep Talk, Snore, Sonic Boom, Spark, Substitute,
-        Sunny Day, Supersonic, Swagger, Swift, Tackle, Thunder, Thunder Wave, Thunderbolt,
-        Thunder Shock, Toxic, Zap Cannon, Double-Edge, Mimic, Hidden Power Bug, Hidden
-          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
-        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
-        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
-        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Double Team, Endure, Facade, Flash, Frustration, Lock-On, Metal Sound,
+        Protect, Rain Dance, Reflect, Rest, Return, Rollout, Screech, Secret Power,
+        Shock Wave, Sleep Talk, Snore, Sonic Boom, Spark, Substitute, Sunny Day, Supersonic,
+        Swagger, Swift, Tackle, Thunder, Thunder Wave, Thunderbolt, Thunder Shock,
+        Toxic, Zap Cannon, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - rb: [Bide, Double-Edge, Double Team, Flash, Mimic, Rage, Reflect, Rest, Screech,
         Sonic Boom, Substitute, Supersonic, Swift, Tackle, Take Down, Teleport, Thunder,
         Thunder Wave, Thunderbolt, Thunder Shock, Toxic, Agility]
@@ -92,11 +92,9 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Hyper Beam, Tri Attack]
-    - bw: [Giga Impact, Hyper Beam, Tri Attack, Refresh, Double-Edge, Double-Edge,
-        Mimic, Refresh]
-    - dp: [Giga Impact, Hyper Beam, Tri Attack, Refresh, Double-Edge, Double-Edge,
-        Mimic, Refresh]
-    - rs: [Hyper Beam, Tri Attack, Refresh, Double-Edge, Double-Edge, Mimic, Refresh]
+    - bw: [Giga Impact, Hyper Beam, Tri Attack]
+    - dp: [Giga Impact, Hyper Beam, Tri Attack]
+    - rs: [Hyper Beam, Tri Attack]
     - rb: [Hyper Beam]
     - xy: [Giga Impact, Hyper Beam, Refresh, Tri Attack, Electric Terrain]
     stats:

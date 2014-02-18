@@ -13,34 +13,33 @@ pokemon:
     moves:
     - bw: [Attract, Blizzard, Brine, Captivate, Confuse Ray, Dive, Double Team, Dragon
           Pulse, Dragon Breath, Facade, Flail, Frustration, Hail, Haze, Hypnosis,
-        Ice Beam, Icy Wind, Iron Tail, Light Screen, Mirror Coat, Mist, Mud Sport,
-        Protect, Rain Dance, Rest, Return, Round, Scald, Sleep Talk, Snore, Splash,
-        Substitute, Surf, Swagger, Tackle, Tickle, Toxic, Waterfall, Double-Edge,
-        Icy Wind, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
-        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
-          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
-          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
-        Hidden Power Steel, Hidden Power Water]
-    - dp: [Attract, Blizzard, Captivate, Confuse Ray, Dive, Double Team, Dragon Breath,
-        Endure, Facade, Flail, Frustration, Hail, Haze, Hypnosis, Ice Beam, Icy Wind,
-        Light Screen, Mirror Coat, Mist, Mud Sport, Natural Gift, Protect, Rain Dance,
-        Rest, Return, Secret Power, Sleep Talk, Snore, Splash, Substitute, Surf, Swagger,
-        Swift, Tackle, Tickle, Toxic, Water Pulse, Waterfall, Whirlpool, Double-Edge,
-        Icy Wind, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
-        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
-          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
-          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
-        Hidden Power Steel, Hidden Power Water]
-    - rs: [Attract, Blizzard, Confuse Ray, Dive, Double-Edge, Double Team, Dragon
-          Breath, Endure, Facade, Flail, Frustration, Hail, Hypnosis, Ice Beam, Icy
-          Wind, Light Screen, Mimic, Mirror Coat, Mud Sport, Protect, Rain Dance,
-        Rest, Return, Secret Power, Sleep Talk, Snore, Splash, Substitute, Surf, Swagger,
-        Swift, Tackle, Toxic, Water Pulse, Waterfall, Double-Edge, Icy Wind, Mimic,
-        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Ice Beam, Iron Tail, Light Screen, Mirror Coat, Mist, Mud Sport, Protect,
+        Rain Dance, Rest, Return, Round, Scald, Sleep Talk, Snore, Splash, Substitute,
+        Surf, Swagger, Tackle, Tickle, Toxic, Waterfall, Double-Edge, Mimic, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
         Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
           Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
           Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
         Hidden Power Water]
+    - dp: [Attract, Blizzard, Captivate, Confuse Ray, Dive, Double Team, Dragon Breath,
+        Endure, Facade, Flail, Frustration, Hail, Haze, Hypnosis, Ice Beam, Light
+          Screen, Mirror Coat, Mist, Mud Sport, Natural Gift, Protect, Rain Dance,
+        Rest, Return, Secret Power, Sleep Talk, Snore, Splash, Substitute, Surf, Swagger,
+        Swift, Tackle, Tickle, Toxic, Water Pulse, Waterfall, Whirlpool, Double-Edge,
+        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - rs: [Attract, Blizzard, Confuse Ray, Dive, Double Team, Dragon Breath, Endure,
+        Facade, Flail, Frustration, Hail, Hypnosis, Ice Beam, Light Screen, Mirror
+          Coat, Mud Sport, Protect, Rain Dance, Rest, Return, Secret Power, Sleep
+          Talk, Snore, Splash, Substitute, Surf, Swagger, Swift, Tackle, Toxic, Water
+          Pulse, Waterfall, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - xy: [Attract, Blizzard, Brine, Captivate, Confuse Ray, Dive, Double-Edge, Double
           Team, Dragon Breath, Dragon Pulse, Endure, Facade, Flail, Frustration, Hail,
         Haze, Hypnosis, Ice Beam, Icy Wind, Iron Tail, Light Screen, Mimic, Mirror
@@ -74,15 +73,12 @@ pokemon:
     moves:
     - bw: [Aqua Ring, Aqua Tail, Bind, Bulldoze, Dragon Tail, Giga Impact, Hydro Pump,
         Hyper Beam, Iron Head, Magic Coat, Psych Up, Recover, Refresh, Safeguard,
-        Twister, Water Gun, Water Pulse, Water Sport, Wrap, Body Slam, Double-Edge,
-        Icy Wind, Mimic]
+        Twister, Water Gun, Water Pulse, Water Sport, Wrap, Body Slam]
     - dp: [Aqua Ring, Aqua Tail, Avalanche, Dragon Pulse, Giga Impact, Hydro Pump,
         Hyper Beam, Iron Head, Iron Tail, Magic Coat, Mud-Slap, Psych Up, Recover,
-        Refresh, Safeguard, Twister, Water Gun, Water Sport, Wrap, Body Slam, Double-Edge,
-        Icy Wind, Mimic]
-    - rs: [Body Slam, Hydro Pump, Hyper Beam, Iron Tail, Mud-Slap, Psych Up, Recover,
-        Refresh, Safeguard, Twister, Water Gun, Water Sport, Wrap, Body Slam, Double-Edge,
-        Icy Wind, Mimic]
+        Refresh, Safeguard, Twister, Water Gun, Water Sport, Wrap, Body Slam]
+    - rs: [Hydro Pump, Hyper Beam, Iron Tail, Mud-Slap, Psych Up, Recover, Refresh,
+        Safeguard, Twister, Water Gun, Water Sport, Wrap]
     - xy: [Aqua Ring, Aqua Tail, Avalanche, Body Slam, Bulldoze, Dragon Tail, Giga
           Impact, Hydro Pump, Hyper Beam, Iron Head, Magic Coat, Mud-Slap, Psych Up,
         Recover, Refresh, Safeguard, Twister, Water Gun, Water Sport, Wrap, Bind]

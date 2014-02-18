@@ -49,17 +49,16 @@ pokemon:
         Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
           Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
           Power Steel, Hidden Power Water]
-    - rs: [Aerial Ace, Attract, Body Slam, Brick Break, Counter, Crush Claw, Cut,
-        Defense Curl, Dig, Double-Edge, Double Team, Dynamic Punch, Earthquake, Endure,
-        Facade, Flail, Focus Punch, Frustration, Fury Cutter, Fury Swipes, Iron Tail,
-        Metal Claw, Mimic, Mud-Slap, Poison Sting, Protect, Rapid Spin, Rest, Return,
-        Rock Slide, Rock Smash, Rock Tomb, Rollout, Safeguard, Sand Attack, Sand Tomb,
-        Sandstorm, Scratch, Secret Power, Seismic Toss, Slash, Sleep Talk, Snore,
-        Strength, Substitute, Sunny Day, Swagger, Swift, Swords Dance, Thief, Toxic,
-        Body Slam, Double-Edge, Mimic, Seismic Toss, Hidden Power Bug, Hidden Power
-          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
-        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
-        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+    - rs: [Aerial Ace, Attract, Brick Break, Counter, Crush Claw, Cut, Defense Curl,
+        Dig, Double Team, Dynamic Punch, Earthquake, Endure, Facade, Flail, Focus
+          Punch, Frustration, Fury Cutter, Fury Swipes, Iron Tail, Metal Claw, Mud-Slap,
+        Poison Sting, Protect, Rapid Spin, Rest, Return, Rock Slide, Rock Smash, Rock
+          Tomb, Rollout, Safeguard, Sand Attack, Sand Tomb, Sandstorm, Scratch, Secret
+          Power, Slash, Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger,
+        Swift, Swords Dance, Thief, Toxic, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
         Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rb: [Bide, Body Slam, Cut, Dig, Double-Edge, Double Team, Earthquake, Fissure,
         Fury Swipes, Mimic, Poison Sting, Rage, Rest, Rock Slide, Sand Attack, Scratch,
@@ -102,11 +101,9 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Hyper Beam]
-    - bw: [Focus Blast, Giga Impact, Hyper Beam, Stone Edge, Body Slam, Double-Edge,
-        Mimic, Seismic Toss]
-    - dp: [Focus Blast, Giga Impact, Hyper Beam, Stone Edge, Body Slam, Double-Edge,
-        Mimic, Seismic Toss]
-    - rs: [Hyper Beam, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    - bw: [Focus Blast, Giga Impact, Hyper Beam, Stone Edge]
+    - dp: [Focus Blast, Giga Impact, Hyper Beam, Stone Edge]
+    - rs: [Hyper Beam]
     - rb: [Hyper Beam]
     - xy: [Focus Blast, Giga Impact, Hyper Beam, Stone Edge]
     stats:

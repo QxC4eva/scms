@@ -12,10 +12,9 @@ pokemon:
     moves:
     - bw: [Bulldoze, Draco Meteor, Dragon Claw, Dragon Dance, Dragon Breath, Earthquake,
         Fire Blast, Flamethrower, Giga Impact, Hone Claws, Hyper Beam, Incinerate,
-        Iron Tail, Roar, Rock Smash, Sky Attack, Wonder Room]
+        Iron Tail, Roar, Rock Smash, Wonder Room]
     - dp: [Draco Meteor, Dragon Claw, Dragon Dance, Dragon Breath, Earthquake, Fire
-          Blast, Flamethrower, Giga Impact, Hyper Beam, Iron Tail, Roar, Rock Smash,
-        Sky Attack]
+          Blast, Flamethrower, Giga Impact, Hyper Beam, Iron Tail, Roar, Rock Smash]
     - rs: [Dragon Claw, Dragon Dance, Dragon Breath, Earthquake, Fire Blast, Flamethrower,
         Hyper Beam, Iron Tail, Roar, Rock Smash]
     - xy: [Bulldoze, Draco Meteor, Dragon Breath, Dragon Claw, Dragon Dance, Earthquake,
@@ -65,13 +64,12 @@ pokemon:
         Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
           Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
           Power Steel, Hidden Power Water]
-    - rs: [Aerial Ace, Agility, Astonish, Attract, Body Slam, Double-Edge, Double
-          Team, Dream Eater, Endure, Facade, Fly, Frustration, Fury Attack, Growl,
-        Haze, Ice Beam, Mimic, Mirror Move, Mist, Mud-Slap, Peck, Perish Song, Protect,
-        Psych Up, Pursuit, Rage, Rain Dance, Refresh, Rest, Return, Safeguard, Secret
-          Power, Sing, Sky Attack, Sleep Talk, Snore, Solar Beam, Steel Wing, Substitute,
-        Sunny Day, Swagger, Swift, Take Down, Thief, Toxic, Body Slam, Double-Edge,
-        Mimic, Sky Attack, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+    - rs: [Aerial Ace, Agility, Astonish, Attract, Double Team, Dream Eater, Endure,
+        Facade, Fly, Frustration, Fury Attack, Growl, Haze, Ice Beam, Mirror Move,
+        Mist, Mud-Slap, Peck, Perish Song, Protect, Psych Up, Pursuit, Rage, Rain
+          Dance, Refresh, Rest, Return, Safeguard, Secret Power, Sing, Sleep Talk,
+        Snore, Solar Beam, Steel Wing, Substitute, Sunny Day, Swagger, Swift, Take
+          Down, Thief, Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
         Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
           Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
           Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,

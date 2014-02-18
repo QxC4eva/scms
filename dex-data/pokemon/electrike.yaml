@@ -34,14 +34,13 @@ pokemon:
           Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
           Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
         Hidden Power Water]
-    - rs: [Attract, Bite, Body Slam, Charge, Crunch, Curse, Double-Edge, Double Team,
-        Endure, Facade, Flash, Frustration, Headbutt, Howl, Iron Tail, Leer, Mimic,
-        Mud-Slap, Odor Sleuth, Protect, Quick Attack, Rain Dance, Rest, Return, Roar,
-        Secret Power, Shock Wave, Sleep Talk, Snore, Spark, Strength, Substitute,
-        Swagger, Swift, Tackle, Thief, Thunder, Thunder Wave, Thunderbolt, Toxic,
-        Uproar, Body Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark,
-        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
-          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+    - rs: [Attract, Bite, Charge, Crunch, Curse, Double Team, Endure, Facade, Flash,
+        Frustration, Headbutt, Howl, Iron Tail, Leer, Mud-Slap, Odor Sleuth, Protect,
+        Quick Attack, Rain Dance, Rest, Return, Roar, Secret Power, Shock Wave, Sleep
+          Talk, Snore, Spark, Strength, Substitute, Swagger, Swift, Tackle, Thief,
+        Thunder, Thunder Wave, Thunderbolt, Toxic, Uproar, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
         Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
         Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Attract, Bite, Body Slam, Captivate, Charge, Charge Beam, Crunch, Curse,
@@ -77,9 +76,9 @@ pokemon:
     height: [1.5]
     introduction: rs
     moves:
-    - bw: [Giga Impact, Hyper Beam, Overheat, Body Slam, Double-Edge, Mimic, Refresh]
-    - dp: [Giga Impact, Hyper Beam, Overheat, Body Slam, Double-Edge, Mimic, Refresh]
-    - rs: [Hyper Beam, Body Slam, Double-Edge, Mimic, Refresh]
+    - bw: [Giga Impact, Hyper Beam, Overheat, Refresh]
+    - dp: [Giga Impact, Hyper Beam, Overheat, Refresh]
+    - rs: [Hyper Beam, Refresh]
     - xy: [Giga Impact, Hyper Beam, Overheat, Refresh, Electric Terrain]
     stats:
     - [70, 75, 60, 105, 60, 105]

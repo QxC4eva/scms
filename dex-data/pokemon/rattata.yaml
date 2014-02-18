@@ -12,11 +12,9 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Cut, Hyper Beam, Ice Beam, Roar, Scary Face, Strength, Thunderbolt]
-    - bw: [Giga Impact, Hyper Beam, Roar, Scary Face, Strength, Swords Dance, Body
-          Slam, Icy Wind, Mimic, Refresh]
-    - dp: [Giga Impact, Hyper Beam, Roar, Scary Face, Strength, Swords Dance, Body
-          Slam, Icy Wind, Mimic, Refresh]
-    - rs: [Hyper Beam, Roar, Scary Face, Strength, Body Slam, Icy Wind, Mimic, Refresh]
+    - bw: [Giga Impact, Hyper Beam, Roar, Scary Face, Strength, Swords Dance, Refresh]
+    - dp: [Giga Impact, Hyper Beam, Roar, Scary Face, Strength, Swords Dance, Refresh]
+    - rs: [Hyper Beam, Roar, Scary Face, Strength, Refresh]
     - rb: [Hyper Beam, Ice Beam]
     - xy: [Giga Impact, Hyper Beam, Refresh, Roar, Scary Face, Strength, Swords Dance]
     stats:
@@ -53,41 +51,40 @@ pokemon:
     - bw: [Assurance, Attract, Bite, Blizzard, Charge Beam, Counter, Covet, Crunch,
         Cut, Dig, Double-Edge, Double Team, Endeavor, Facade, Final Gambit, Flame
           Wheel, Focus Energy, Frustration, Fury Swipes, Grass Knot, Hyper Fang, Ice
-          Beam, Icy Wind, Iron Tail, Last Resort, Me First, Pluck, Protect, Pursuit,
-        Quick Attack, Rain Dance, Rest, Retaliate, Return, Revenge, Reversal, Rock
-          Smash, Round, Screech, Shadow Ball, Sleep Talk, Snore, Substitute, Sucker
-          Punch, Sunny Day, Super Fang, Swagger, Tackle, Tail Whip, Taunt, Thief,
-        Thunder, Thunder Wave, Thunderbolt, Toxic, U-turn, Uproar, Wild Charge, Work
-          Up, Zen Headbutt, Body Slam, Icy Wind, Mimic, Hidden Power Bug, Hidden Power
-          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
-        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
-        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
-        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+          Beam, Iron Tail, Last Resort, Me First, Pluck, Protect, Pursuit, Quick Attack,
+        Rain Dance, Rest, Retaliate, Return, Revenge, Reversal, Rock Smash, Round,
+        Screech, Shadow Ball, Sleep Talk, Snore, Substitute, Sucker Punch, Sunny Day,
+        Super Fang, Swagger, Tackle, Tail Whip, Taunt, Thief, Thunder, Thunder Wave,
+        Thunderbolt, Toxic, U-turn, Uproar, Wild Charge, Work Up, Zen Headbutt, Body
+          Slam, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - dp: [Assurance, Attract, Bite, Blizzard, Captivate, Charge Beam, Counter, Crunch,
         Cut, Dig, Double-Edge, Double Team, Endeavor, Endure, Facade, Flame Wheel,
         Focus Energy, Frustration, Fury Swipes, Grass Knot, Headbutt, Hyper Fang,
-        Ice Beam, Icy Wind, Iron Tail, Last Resort, Me First, Mud-Slap, Natural Gift,
-        Pluck, Protect, Pursuit, Quick Attack, Rain Dance, Rest, Return, Reversal,
-        Rock Smash, Screech, Secret Power, Shadow Ball, Shock Wave, Sleep Talk, Snore,
-        Substitute, Sucker Punch, Sunny Day, Super Fang, Swagger, Swift, Tackle, Tail
-          Whip, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Toxic, U-turn, Uproar,
-        Zen Headbutt, Body Slam, Icy Wind, Mimic, Hidden Power Bug, Hidden Power Dark,
-        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
-          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
-        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
-        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
-    - rs: [Attract, Bite, Blizzard, Body Slam, Counter, Cut, Defense Curl, Dig, Double-Edge,
+        Ice Beam, Iron Tail, Last Resort, Me First, Mud-Slap, Natural Gift, Pluck,
+        Protect, Pursuit, Quick Attack, Rain Dance, Rest, Return, Reversal, Rock Smash,
+        Screech, Secret Power, Shadow Ball, Shock Wave, Sleep Talk, Snore, Substitute,
+        Sucker Punch, Sunny Day, Super Fang, Swagger, Swift, Tackle, Tail Whip, Taunt,
+        Thief, Thunder, Thunder Wave, Thunderbolt, Toxic, U-turn, Uproar, Zen Headbutt,
+        Body Slam, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - rs: [Attract, Bite, Blizzard, Counter, Cut, Defense Curl, Dig, Double-Edge,
         Double Team, Endeavor, Endure, Facade, Flame Wheel, Focus Energy, Frustration,
-        Fury Swipes, Hyper Fang, Ice Beam, Icy Wind, Iron Tail, Mimic, Mud-Slap, Protect,
-        Pursuit, Quick Attack, Rain Dance, Rest, Return, Reversal, Rock Smash, Screech,
-        Secret Power, Shadow Ball, Shock Wave, Sleep Talk, Snore, Substitute, Sunny
-          Day, Super Fang, Swagger, Swift, Tackle, Tail Whip, Taunt, Thief, Thunder,
-        Thunder Wave, Thunderbolt, Toxic, Uproar, Body Slam, Icy Wind, Mimic, Hidden
-          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
-        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
-          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
-          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
-        Hidden Power Water]
+        Fury Swipes, Hyper Fang, Ice Beam, Iron Tail, Mud-Slap, Protect, Pursuit,
+        Quick Attack, Rain Dance, Rest, Return, Reversal, Rock Smash, Screech, Secret
+          Power, Shadow Ball, Shock Wave, Sleep Talk, Snore, Substitute, Sunny Day,
+        Super Fang, Swagger, Swift, Tackle, Tail Whip, Taunt, Thief, Thunder, Thunder
+          Wave, Thunderbolt, Toxic, Uproar, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rb: [Bide, Blizzard, Body Slam, Bubble Beam, Dig, Double-Edge, Double Team,
         Focus Energy, Hyper Fang, Mimic, Quick Attack, Rage, Rest, Skull Bash, Substitute,
         Super Fang, Swift, Tackle, Tail Whip, Take Down, Thunder, Thunderbolt, Toxic,

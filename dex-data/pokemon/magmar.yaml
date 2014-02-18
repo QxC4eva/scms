@@ -46,17 +46,16 @@ pokemon:
           Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
           Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
         Hidden Power Water]
-    - rs: [Attract, Barrier, Body Slam, Brick Break, Confuse Ray, Counter, Cross Chop,
-        Double-Edge, Double Team, Dynamic Punch, Ember, Endure, Facade, Fire Blast,
-        Fire Punch, Flamethrower, Focus Punch, Frustration, Iron Tail, Karate Chop,
-        Leer, Mega Kick, Mega Punch, Mimic, Mud-Slap, Protect, Psychic, Rest, Return,
-        Rock Smash, Screech, Secret Power, Seismic Toss, Sleep Talk, Smog, Smoke Screen,
-        Snore, Substitute, Sunny Day, Swagger, Thief, Thunder Punch, Toxic, Body Slam,
-        Double-Edge, Mimic, Seismic Toss, Hidden Power Bug, Hidden Power Dark, Hidden
-          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
-          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
-          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
-        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Attract, Barrier, Brick Break, Confuse Ray, Counter, Cross Chop, Double
+          Team, Dynamic Punch, Ember, Endure, Facade, Fire Blast, Fire Punch, Flamethrower,
+        Focus Punch, Frustration, Iron Tail, Karate Chop, Leer, Mega Kick, Mega Punch,
+        Mud-Slap, Protect, Psychic, Rest, Return, Rock Smash, Screech, Secret Power,
+        Sleep Talk, Smog, Smoke Screen, Snore, Substitute, Sunny Day, Swagger, Thief,
+        Thunder Punch, Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - xy: [Attract, Barrier, Belly Drum, Body Slam, Brick Break, Captivate, Clear
           Smog, Confuse Ray, Counter, Cross Chop, Double-Edge, Double Team, Dynamic
           Punch, Ember, Endure, Facade, Feint Attack, Fire Blast, Fire Punch, Fire
@@ -94,12 +93,11 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Hyper Beam, Rock Smash, Strength]
-    - bw: [Focus Blast, Giga Impact, Hyper Beam, Low Kick, Low Sweep, Strength, Body
-          Slam, Double-Edge, Follow Me, Mimic, Seismic Toss]
-    - dp: [Focus Blast, Giga Impact, Hyper Beam, Low Kick, Rock Climb, Strength, Body
-          Slam, Double-Edge, Follow Me, Mimic, Seismic Toss]
-    - rs: [Hyper Beam, Strength, Body Slam, Double-Edge, Follow Me, Mimic, Seismic
-          Toss]
+    - bw: [Focus Blast, Giga Impact, Hyper Beam, Low Kick, Low Sweep, Strength, Follow
+          Me]
+    - dp: [Focus Blast, Giga Impact, Hyper Beam, Low Kick, Rock Climb, Strength, Follow
+          Me]
+    - rs: [Hyper Beam, Strength, Follow Me]
     - rb: [Bide, Body Slam, Confuse Ray, Counter, Double-Edge, Double Team, Ember,
         Fire Blast, Fire Punch, Flamethrower, Hyper Beam, Leer, Mega Kick, Mega Punch,
         Metronome, Mimic, Psychic, Psywave, Rage, Rest, Seismic Toss, Skull Bash,

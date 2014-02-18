@@ -139,9 +139,9 @@ pokemon:
     height: [0.9]
     introduction: rs
     moves:
-    - bw: [Stone Edge, Mimic]
+    - bw: [Stone Edge]
     - dp: [Stone Edge, Mimic]
-    - rs: [Mimic]
+    - rs: []
     - xy: [Stone Edge]
     stats:
     - [60, 90, 140, 50, 50, 40]

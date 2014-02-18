@@ -71,12 +71,12 @@ pokemon:
     moves:
     - bw: [Agility, Amnesia, Aqua Tail, Baton Pass, Bind, Bounce, Captivate, Confusion,
         Giga Impact, Hydro Pump, Hyper Beam, Psych Up, Psychic, Safeguard, Shadow
-          Ball, Signal Beam, Double-Edge, Icy Wind, Mimic]
+          Ball, Signal Beam, Double-Edge, Mimic]
     - dp: [Agility, Amnesia, Aqua Tail, Baton Pass, Bounce, Confusion, Giga Impact,
         Hydro Pump, Hyper Beam, Mud-Slap, Psych Up, Psychic, Safeguard, Shadow Ball,
-        Signal Beam, Swift, Double-Edge, Icy Wind, Mimic]
+        Signal Beam, Swift, Double-Edge, Mimic]
     - rs: [Agility, Amnesia, Baton Pass, Confusion, Hydro Pump, Hyper Beam, Mud-Slap,
-        Psychic, Safeguard, Shadow Ball, Swift, Double-Edge, Icy Wind, Mimic]
+        Psychic, Safeguard, Shadow Ball, Swift]
     - xy: [Agility, Amnesia, Aqua Tail, Baton Pass, Bounce, Confusion, Giga Impact,
         Hydro Pump, Hyper Beam, Mud-Slap, Psychic, Psych Up, Safeguard, Shadow Ball,
         Signal Beam, Swift, Bind, Infestation]
@@ -100,11 +100,10 @@ pokemon:
     introduction: rs
     moves:
     - bw: [Bite, Crunch, Ice Fang, Rock Tomb, Scary Face, Screech, Snatch, Super Fang,
-        Double-Edge, Icy Wind, Mimic]
+        Double-Edge, Mimic]
     - dp: [Bite, Crunch, Ice Fang, Rock Tomb, Scary Face, Screech, Snatch, Sucker
-          Punch, Super Fang, Double-Edge, Icy Wind, Mimic]
-    - rs: [Bite, Crunch, Rock Tomb, Scary Face, Screech, Snatch, Double-Edge, Icy
-          Wind, Mimic]
+          Punch, Super Fang, Double-Edge, Mimic]
+    - rs: [Bite, Crunch, Rock Tomb, Scary Face, Screech, Snatch]
     - xy: [Aqua Tail, Baton Pass, Bite, Bounce, Crunch, Giga Impact, Hydro Pump, Hyper
           Beam, Ice Fang, Mud-Slap, Rock Tomb, Scary Face, Screech, Snatch, Sucker
           Punch, Super Fang, Swift, Bind, Infestation]

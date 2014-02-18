@@ -30,12 +30,11 @@ pokemon:
         Rest, Return, Rock Smash, Round, Scratch, Screech, Seed Bomb, Slash, Sleep
           Talk, Sludge Bomb, Snore, Solar Beam, Spore, Struggle Bug, Stun Spore, Substitute,
         Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis, Thief, Toxic, Venoshock,
-        Worry Seed, X-Scissor, Refresh, Body Slam, Double-Edge, Mimic, Refresh, Hidden
-          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
-        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
-          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
-          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
-        Hidden Power Water]
+        Worry Seed, X-Scissor, Body Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Aerial Ace, Agility, Aromatherapy, Attract, Brick Break, Bug Bite, Bullet
           Seed, Captivate, Counter, Cross Poison, Cut, Dig, Double Team, Endure, Energy
           Ball, Facade, False Swipe, Flail, Flash, Frustration, Fury Cutter, Giga
@@ -44,19 +43,17 @@ pokemon:
           Smash, Scratch, Screech, Secret Power, Seed Bomb, Slash, Sleep Talk, Sludge
           Bomb, Snore, Solar Beam, Spore, String Shot, Stun Spore, Substitute, Sunny
           Day, Swagger, Sweet Scent, Swords Dance, Synthesis, Thief, Toxic, Worry
-          Seed, X-Scissor, Refresh, Body Slam, Double-Edge, Mimic, Refresh, Hidden
-          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
-        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
-          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
-          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
-        Hidden Power Water]
-    - rs: [Aerial Ace, Aromatherapy, Attract, Body Slam, Bullet Seed, Counter, Cut,
-        Dig, Double-Edge, Double Team, Endure, Facade, False Swipe, Flail, Flash,
-        Frustration, Fury Cutter, Giga Drain, Growth, Leech Life, Light Screen, Mimic,
-        Poison Powder, Protect, Psybeam, Pursuit, Rest, Return, Rock Smash, Scratch,
-        Screech, Secret Power, Slash, Sleep Talk, Sludge Bomb, Snore, Solar Beam,
-        Spore, Stun Spore, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance,
-        Thief, Toxic, Refresh, Body Slam, Double-Edge, Mimic, Refresh, Hidden Power
+          Seed, X-Scissor, Body Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Aromatherapy, Attract, Bullet Seed, Counter, Cut, Dig, Double
+          Team, Endure, Facade, False Swipe, Flail, Flash, Frustration, Fury Cutter,
+        Giga Drain, Growth, Leech Life, Light Screen, Poison Powder, Protect, Psybeam,
+        Pursuit, Rest, Return, Rock Smash, Scratch, Screech, Secret Power, Slash,
+        Sleep Talk, Sludge Bomb, Snore, Solar Beam, Spore, Stun Spore, Substitute,
+        Sunny Day, Swagger, Sweet Scent, Swords Dance, Thief, Toxic, Hidden Power
           Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
           Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
         Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
@@ -103,9 +100,9 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Hyper Beam]
-    - bw: [Giga Impact, Hyper Beam, Body Slam, Double-Edge, Mimic]
-    - dp: [Giga Impact, Hyper Beam, Body Slam, Double-Edge, Mimic]
-    - rs: [Hyper Beam, Body Slam, Double-Edge, Mimic]
+    - bw: [Giga Impact, Hyper Beam]
+    - dp: [Giga Impact, Hyper Beam]
+    - rs: [Hyper Beam]
     - rb: [Hyper Beam]
     - xy: [Giga Impact, Hyper Beam]
     stats:

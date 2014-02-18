@@ -45,8 +45,8 @@ pokemon:
           Cold, Super Fang, Body Slam, Double-Edge, Mimic, Self-Destruct]
     - dp: [Dark Pulse, Earthquake, Explosion, Gyro Ball, Iron Head, Sheer Cold, Super
           Fang, Body Slam, Double-Edge, Mimic, Self-Destruct]
-    - rs: [Defense Curl, Earthquake, Explosion, Hyper Beam, Rollout, Self-Destruct,
-        Sheer Cold, Taunt, Torment, Body Slam, Double-Edge, Mimic, Self-Destruct]
+    - rs: [Defense Curl, Earthquake, Explosion, Hyper Beam, Rollout, Sheer Cold, Taunt,
+        Torment]
     - xy: [Bulldoze, Dark Pulse, Defense Curl, Earthquake, Explosion, Giga Impact,
         Gyro Ball, Hyper Beam, Iron Head, Payback, Self-Destruct, Sheer Cold, Signal
           Beam, Super Fang, Taunt, Torment]
@@ -84,19 +84,17 @@ pokemon:
         Double Team, Endure, Facade, Flash, Frustration, Hail, Headbutt, Ice Beam,
         Ice Fang, Ice Shard, Icy Wind, Leer, Light Screen, Natural Gift, Powder Snow,
         Protect, Rain Dance, Rest, Return, Rollout, Safeguard, Secret Power, Shadow
-          Ball, Sleep Talk, Snore, Spikes, Spite, Substitute, Swagger, Toxic, Water
-          Pulse, Weather Ball, Body Slam, Double-Edge, Mimic, Sing, Water Pulse, Hidden
+          Ball, Sleep Talk, Snore, Spikes, Spite, Substitute, Swagger, Toxic, Weather
+          Ball, Body Slam, Double-Edge, Mimic, Sing, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Attract, Bite, Blizzard, Block, Crunch, Double Team, Endure, Facade, Flash,
+        Frustration, Hail, Headbutt, Ice Beam, Icy Wind, Leer, Light Screen, Powder
+          Snow, Protect, Rain Dance, Rest, Return, Safeguard, Secret Power, Shadow
+          Ball, Sleep Talk, Snore, Spikes, Substitute, Swagger, Toxic, Sing, Hidden
           Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
-        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
-          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
-          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
-        Hidden Power Water]
-    - rs: [Attract, Bite, Blizzard, Block, Body Slam, Crunch, Double-Edge, Double
-          Team, Endure, Facade, Flash, Frustration, Hail, Headbutt, Ice Beam, Icy
-          Wind, Leer, Light Screen, Mimic, Powder Snow, Protect, Rain Dance, Rest,
-        Return, Safeguard, Secret Power, Shadow Ball, Sleep Talk, Snore, Spikes, Substitute,
-        Swagger, Toxic, Water Pulse, Body Slam, Double-Edge, Mimic, Sing, Water Pulse,
-        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
         Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
           Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
           Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,

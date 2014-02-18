@@ -94,11 +94,10 @@ pokemon:
     moves:
     - gs: [Hyper Beam]
     - bw: [Giga Impact, Hyper Beam, Leaf Blade, Leaf Storm, Leaf Tornado, Spit Up,
-        Stockpile, Swallow, Body Slam, Double-Edge, Mimic]
+        Stockpile, Swallow]
     - dp: [Giga Impact, Hyper Beam, Leaf Blade, Leaf Storm, Spit Up, Stockpile, Swallow,
-        Body Slam, Double-Edge, Mimic]
-    - rs: [Body Slam, Hyper Beam, Spit Up, Stockpile, Swallow, Body Slam, Double-Edge,
-        Mimic]
+        Body Slam]
+    - rs: [Hyper Beam, Spit Up, Stockpile, Swallow]
     - rb: [Body Slam, Hyper Beam]
     - xy: [Body Slam, Giga Impact, Hyper Beam, Leaf Blade, Leaf Storm, Leaf Tornado,
         Spit Up, Stockpile, Swallow]
@@ -125,9 +124,9 @@ pokemon:
     introduction: rb
     moves:
     - gs: []
-    - bw: [Bug Bite, Morning Sun, Double-Edge, Double-Edge, Mimic, Morning Sun]
+    - bw: [Bug Bite]
     - dp: [Double-Edge, Mimic, Morning Sun]
-    - rs: [Double-Edge, Mimic, Morning Sun]
+    - rs: [Morning Sun]
     - rb: []
     - xy: [Morning Sun, Bug Bite]
     stats:

@@ -10,11 +10,9 @@ pokemon:
     height: [0.9]
     introduction: rs
     moves:
-    - bw: [False Swipe, Fury Cutter, Leaf Blade, Low Sweep, X-Scissor, Body Slam,
-        Double-Edge, Mimic, Seismic Toss]
-    - dp: [False Swipe, Leaf Blade, X-Scissor, Body Slam, Double-Edge, Mimic, Seismic
-          Toss]
-    - rs: [False Swipe, Leaf Blade, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    - bw: [False Swipe, Fury Cutter, Leaf Blade, Low Sweep, X-Scissor]
+    - dp: [False Swipe, Leaf Blade, X-Scissor]
+    - rs: [False Swipe, Leaf Blade]
     - xy: [False Swipe, Leaf Blade, Low Sweep, X-Scissor]
     stats:
     - [50, 65, 45, 85, 65, 95]
@@ -35,13 +33,10 @@ pokemon:
     introduction: rs
     moves:
     - bw: [Bulldoze, Dragon Claw, Dragon Pulse, Earthquake, Focus Blast, Frenzy Plant,
-        Giga Impact, Hone Claws, Hyper Beam, Night Slash, Outrage, Roar, Body Slam,
-        Double-Edge, Mimic, Seismic Toss]
+        Giga Impact, Hone Claws, Hyper Beam, Night Slash, Outrage, Roar]
     - dp: [Dragon Claw, Dragon Pulse, Earthquake, Focus Blast, Frenzy Plant, Giga
-          Impact, Hyper Beam, Night Slash, Outrage, Roar, Rock Climb, Body Slam, Double-Edge,
-        Mimic, Seismic Toss]
-    - rs: [Dragon Claw, Earthquake, Hyper Beam, Roar, Body Slam, Double-Edge, Mimic,
-        Seismic Toss]
+          Impact, Hyper Beam, Night Slash, Outrage, Roar, Rock Climb]
+    - rs: [Dragon Claw, Earthquake, Hyper Beam, Roar]
     - xy: [Bulldoze, Dragon Claw, Dragon Pulse, Earthquake, Focus Blast, Frenzy Plant,
         Giga Impact, Hone Claws, Hyper Beam, Night Slash, Outrage, Roar, Rock Climb]
     stats:
@@ -93,19 +88,18 @@ pokemon:
           Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
         Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
           Water]
-    - rs: [Absorb, Aerial Ace, Agility, Attract, Body Slam, Brick Break, Bullet Seed,
-        Counter, Crunch, Crush Claw, Cut, Detect, Dig, Double-Edge, Double Team, Dragon
-          Breath, Dynamic Punch, Endeavor, Endure, Facade, Flash, Focus Punch, Frustration,
-        Fury Cutter, Giga Drain, Iron Tail, Leech Seed, Leer, Mega Drain, Mega Kick,
-        Mega Punch, Mimic, Mud-Slap, Mud Sport, Pound, Protect, Pursuit, Quick Attack,
-        Rest, Return, Rock Smash, Rock Tomb, Safeguard, Screech, Secret Power, Seismic
-          Toss, Slam, Sleep Talk, Snore, Solar Beam, Strength, Substitute, Sunny Day,
-        Swagger, Swift, Swords Dance, Thunder Punch, Toxic, Body Slam, Double-Edge,
-        Mimic, Seismic Toss, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
-        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
-          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
-          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
-        Hidden Power Steel, Hidden Power Water]
+    - rs: [Absorb, Aerial Ace, Agility, Attract, Brick Break, Bullet Seed, Counter,
+        Crunch, Crush Claw, Cut, Detect, Dig, Double Team, Dragon Breath, Dynamic
+          Punch, Endeavor, Endure, Facade, Flash, Focus Punch, Frustration, Fury Cutter,
+        Giga Drain, Iron Tail, Leech Seed, Leer, Mega Drain, Mega Kick, Mega Punch,
+        Mud-Slap, Mud Sport, Pound, Protect, Pursuit, Quick Attack, Rest, Return,
+        Rock Smash, Rock Tomb, Safeguard, Screech, Secret Power, Slam, Sleep Talk,
+        Snore, Solar Beam, Strength, Substitute, Sunny Day, Swagger, Swift, Swords
+          Dance, Thunder Punch, Toxic, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Absorb, Acrobatics, Aerial Ace, Agility, Attract, Body Slam, Brick Break,
         Bullet Seed, Captivate, Counter, Crunch, Crush Claw, Cut, Detect, Dig, Double-Edge,
         Double Kick, Double Team, Dragon Breath, Drain Punch, Dynamic Punch, Endeavor,

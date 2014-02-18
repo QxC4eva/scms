@@ -51,19 +51,19 @@ pokemon:
         Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
         Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
           Water]
-    - rs: [Aerial Ace, Attract, Body Slam, Brick Break, Bulk Up, Counter, Crunch,
-        Cut, Defense Curl, Dig, Double-Edge, Double Team, Dynamic Punch, Earthquake,
-        Endure, Facade, Feint Attack, Fake Tears, Fire Punch, Focus Punch, Frustration,
-        Fury Cutter, Fury Swipes, Ice Punch, Leer, Lick, Mega Kick, Mega Punch, Metal
-          Claw, Metronome, Mimic, Mud-Slap, Protect, Rain Dance, Rest, Return, Roar,
-        Rock Smash, Rollout, Scratch, Secret Power, Seismic Toss, Slash, Sleep Talk,
+    - rs: [Aerial Ace, Attract, Brick Break, Bulk Up, Counter, Crunch, Cut, Defense
+          Curl, Dig, Double-Edge, Double Team, Dynamic Punch, Earthquake, Endure,
+        Facade, Feint Attack, Fake Tears, Fire Punch, Focus Punch, Frustration, Fury
+          Cutter, Fury Swipes, Ice Punch, Leer, Lick, Mega Kick, Mega Punch, Metal
+          Claw, Metronome, Mud-Slap, Protect, Rain Dance, Rest, Return, Roar, Rock
+          Smash, Rollout, Scratch, Secret Power, Seismic Toss, Slash, Sleep Talk,
         Snore, Strength, Substitute, Sunny Day, Swagger, Swift, Swords Dance, Take
-          Down, Taunt, Thief, Thrash, Thunder Punch, Torment, Toxic, Yawn, Body Slam,
-        Mimic, Refresh, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
-        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
-          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
-          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
-        Hidden Power Steel, Hidden Power Water]
+          Down, Taunt, Thief, Thrash, Thunder Punch, Torment, Toxic, Yawn, Refresh,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - xy: [Aerial Ace, Attract, Belly Drum, Body Slam, Brick Break, Bulk Up, Bulldoze,
         Captivate, Charm, Chip Away, Close Combat, Counter, Covet, Cross Chop, Crunch,
         Cut, Defense Curl, Dig, Double-Edge, Double Team, Dynamic Punch, Earthquake,
@@ -104,10 +104,10 @@ pokemon:
     moves:
     - gs: [Hyper Beam]
     - bw: [Focus Blast, Giga Impact, Hammer Arm, Hyper Beam, Low Kick, Scary Face,
-        Smack Down, Stone Edge, Uproar, Body Slam, Mimic]
+        Smack Down, Stone Edge, Uproar]
     - dp: [Avalanche, Focus Blast, Giga Impact, Hammer Arm, Hyper Beam, Low Kick,
-        Rock Climb, Scary Face, Stone Edge, Uproar, Body Slam, Mimic]
-    - rs: [Hyper Beam, Rock Slide, Rock Tomb, Body Slam, Mimic]
+        Rock Climb, Scary Face, Stone Edge, Uproar]
+    - rs: [Hyper Beam, Rock Slide, Rock Tomb]
     - xy: [Avalanche, Focus Blast, Giga Impact, Hammer Arm, Hyper Beam, Low Kick,
         Rock Climb, Scary Face, Smack Down, Stone Edge, Uproar]
     stats:

@@ -42,16 +42,16 @@ pokemon:
           Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
           Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
         Hidden Power Steel, Hidden Power Water]
-    - rs: [Agility, Attract, Body Slam, Bounce, Charm, Double-Edge, Double Kick, Double
-          Team, Ember, Endure, Facade, Fire Blast, Fire Spin, Flame Wheel, Flamethrower,
-        Frustration, Growl, Hypnosis, Iron Tail, Mimic, Overheat, Protect, Quick Attack,
-        Rest, Return, Secret Power, Sleep Talk, Snore, Solar Beam, Stomp, Strength,
-        Substitute, Sunny Day, Swagger, Swift, Tackle, Tail Whip, Take Down, Thrash,
-        Toxic, Body Slam, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power
-          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
-        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
-          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
-          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Agility, Attract, Bounce, Charm, Double-Edge, Double Kick, Double Team,
+        Ember, Endure, Facade, Fire Blast, Fire Spin, Flame Wheel, Flamethrower, Frustration,
+        Growl, Hypnosis, Iron Tail, Overheat, Protect, Quick Attack, Rest, Return,
+        Secret Power, Sleep Talk, Snore, Solar Beam, Stomp, Strength, Substitute,
+        Sunny Day, Swagger, Swift, Tackle, Tail Whip, Take Down, Thrash, Toxic, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rb: [Agility, Bide, Body Slam, Double-Edge, Double Team, Ember, Fire Blast,
         Fire Spin, Growl, Horn Drill, Mimic, Rage, Reflect, Rest, Skull Bash, Stomp,
         Substitute, Swift, Tail Whip, Take Down, Toxic, Low Kick]
@@ -91,10 +91,9 @@ pokemon:
     moves:
     - gs: [Fury Attack, Hyper Beam]
     - bw: [Drill Run, Fury Attack, Giga Impact, Hyper Beam, Megahorn, Poison Jab,
-        Quick Attack, Baton Pass, Baton Pass, Body Slam, Mimic]
-    - dp: [Fury Attack, Giga Impact, Hyper Beam, Megahorn, Poison Jab, Quick Attack,
-        Baton Pass, Baton Pass, Body Slam, Mimic]
-    - rs: [Fury Attack, Hyper Beam, Baton Pass, Baton Pass, Body Slam, Mimic]
+        Quick Attack]
+    - dp: [Fury Attack, Giga Impact, Hyper Beam, Megahorn, Poison Jab, Quick Attack]
+    - rs: [Fury Attack, Hyper Beam]
     - rb: [Hyper Beam]
     - xy: [Baton Pass, Fury Attack, Giga Impact, Hyper Beam, Megahorn, Poison Jab,
         Drill Run]

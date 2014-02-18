@@ -27,12 +27,12 @@ pokemon:
           Storm, Leech Seed, Light Screen, Lucky Chant, Moonlight, Natural Gift, Nature
           Power, Poison Powder, Power Swap, Protect, Psych Up, Psychic, Reflect, Rest,
         Return, Round, Seed Bomb, Skill Swap, Sleep Powder, Sleep Talk, Sludge Bomb,
-        Snore, Solar Beam, Strength, Stun Spore, Substitute, Sunny Day, Swagger, Swords
-          Dance, Synthesis, Telekinesis, Thief, Toxic, Trick Room, Uproar, Worry Seed,
-        Double-Edge, Mimic, Nightmare, Self-Destruct, Swagger, Hidden Power Bug, Hidden
-          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
-        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
-        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Snore, Solar Beam, Strength, Stun Spore, Substitute, Sunny Day, Swords Dance,
+        Synthesis, Telekinesis, Thief, Toxic, Trick Room, Uproar, Worry Seed, Double-Edge,
+        Mimic, Nightmare, Self-Destruct, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
         Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Ancient Power, Attract, Barrage, Bullet Seed, Captivate, Confusion, Curse,
         Double Team, Dream Eater, Endure, Energy Ball, Explosion, Facade, Flash, Frustration,
@@ -40,25 +40,24 @@ pokemon:
         Light Screen, Lucky Chant, Moonlight, Natural Gift, Nature Power, Poison Powder,
         Power Swap, Protect, Psych Up, Psychic, Reflect, Rest, Return, Rollout, Secret
           Power, Seed Bomb, Skill Swap, Sleep Powder, Sleep Talk, Sludge Bomb, Snore,
-        Solar Beam, Strength, Stun Spore, Substitute, Sunny Day, Swagger, Swords Dance,
-        Synthesis, Thief, Toxic, Trick Room, Uproar, Worry Seed, Double-Edge, Mimic,
-        Nightmare, Self-Destruct, Swagger, Hidden Power Bug, Hidden Power Dark, Hidden
-          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
-          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
-          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
-        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
-    - rs: [Ancient Power, Attract, Barrage, Bullet Seed, Confusion, Curse, Double-Edge,
-        Double Team, Dream Eater, Endure, Explosion, Facade, Flash, Frustration, Giga
-          Drain, Hypnosis, Ingrain, Leech Seed, Light Screen, Mimic, Moonlight, Nightmare,
-        Poison Powder, Protect, Psych Up, Psychic, Reflect, Rest, Return, Rollout,
-        Secret Power, Self-Destruct, Skill Swap, Sleep Powder, Sleep Talk, Sludge
-          Bomb, Snore, Solar Beam, Strength, Stun Spore, Substitute, Sunny Day, Swagger,
-        Synthesis, Thief, Toxic, Uproar, Double-Edge, Mimic, Nightmare, Self-Destruct,
-        Swagger, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+        Solar Beam, Strength, Stun Spore, Substitute, Sunny Day, Swords Dance, Synthesis,
+        Thief, Toxic, Trick Room, Uproar, Worry Seed, Double-Edge, Mimic, Nightmare,
+        Self-Destruct, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
           Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
         Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
           Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
           Power Steel, Hidden Power Water]
+    - rs: [Ancient Power, Attract, Barrage, Bullet Seed, Confusion, Curse, Double
+          Team, Dream Eater, Endure, Explosion, Facade, Flash, Frustration, Giga Drain,
+        Hypnosis, Ingrain, Leech Seed, Light Screen, Moonlight, Poison Powder, Protect,
+        Psych Up, Psychic, Reflect, Rest, Return, Rollout, Secret Power, Skill Swap,
+        Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Strength, Stun Spore,
+        Substitute, Sunny Day, Synthesis, Thief, Toxic, Uproar, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - rb: [Barrage, Bide, Double-Edge, Double Team, Egg Bomb, Explosion, Hypnosis,
         Leech Seed, Mimic, Poison Powder, Psychic, Psywave, Rage, Reflect, Rest, Self-Destruct,
         Sleep Powder, Solar Beam, Stun Spore, Substitute, Take Down, Teleport, Toxic]
@@ -100,11 +99,10 @@ pokemon:
     moves:
     - gs: [Egg Bomb, Headbutt, Hyper Beam, Stomp]
     - bw: [Egg Bomb, Giga Impact, Hyper Beam, Low Kick, Psyshock, Stomp, Wood Hammer,
-        Zen Headbutt, Double-Edge, Mimic, Nightmare, Refresh, Self-Destruct, Swagger]
+        Zen Headbutt, Refresh]
     - dp: [Egg Bomb, Giga Impact, Headbutt, Hyper Beam, Low Kick, Stomp, Wood Hammer,
-        Zen Headbutt, Double-Edge, Mimic, Nightmare, Refresh, Self-Destruct, Swagger]
-    - rs: [Egg Bomb, Hyper Beam, Stomp, Double-Edge, Mimic, Nightmare, Refresh, Self-Destruct,
-        Swagger]
+        Zen Headbutt, Refresh]
+    - rs: [Egg Bomb, Hyper Beam, Stomp, Refresh]
     - rb: [Hyper Beam, Mega Drain, Stomp, Strength]
     - xy: [Egg Bomb, Giga Impact, Headbutt, Hyper Beam, Low Kick, Psyshock, Refresh,
         Stomp, Wood Hammer, Zen Headbutt]

@@ -13,12 +13,11 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Hyper Beam, Iron Tail, Rock Smash, Strength]
-    - bw: [Focus Blast, Giga Impact, Hyper Beam, Iron Tail, Low Sweep, Strength, Body
-          Slam, Double-Edge, Follow Me, Mimic, Seismic Toss]
+    - bw: [Focus Blast, Giga Impact, Hyper Beam, Iron Tail, Low Sweep, Strength, Follow
+          Me]
     - dp: [Focus Blast, Giga Impact, Hyper Beam, Iron Tail, Rock Climb, Strength,
-        Body Slam, Double-Edge, Follow Me, Mimic, Seismic Toss]
-    - rs: [Hyper Beam, Iron Tail, Strength, Body Slam, Double-Edge, Follow Me, Mimic,
-        Seismic Toss]
+        Follow Me]
+    - rs: [Hyper Beam, Iron Tail, Strength, Follow Me]
     - rb: [Bide, Body Slam, Counter, Double-Edge, Double Team, Flash, Hyper Beam,
         Leer, Light Screen, Mega Kick, Mega Punch, Metronome, Mimic, Psychic, Psywave,
         Quick Attack, Rage, Reflect, Rest, Screech, Seismic Toss, Skull Bash, Strength,
@@ -106,15 +105,14 @@ pokemon:
         Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
           Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
           Power Steel, Hidden Power Water]
-    - rs: [Attract, Barrier, Body Slam, Brick Break, Counter, Cross Chop, Double-Edge,
-        Double Team, Dynamic Punch, Endure, Facade, Fire Punch, Flash, Focus Punch,
-        Frustration, Ice Punch, Karate Chop, Leer, Light Screen, Meditate, Mega Kick,
-        Mega Punch, Mimic, Mud-Slap, Protect, Psychic, Quick Attack, Rain Dance, Rest,
-        Return, Rock Smash, Rolling Kick, Screech, Secret Power, Seismic Toss, Shock
-          Wave, Sleep Talk, Snore, Substitute, Swagger, Swift, Thief, Thunder, Thunder
-          Wave, Thunderbolt, Thunder Punch, Toxic, Body Slam, Double-Edge, Mimic,
-        Seismic Toss, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
-          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+    - rs: [Attract, Barrier, Brick Break, Counter, Cross Chop, Double Team, Dynamic
+          Punch, Endure, Facade, Fire Punch, Flash, Focus Punch, Frustration, Ice
+          Punch, Karate Chop, Leer, Light Screen, Meditate, Mega Kick, Mega Punch,
+        Mud-Slap, Protect, Psychic, Quick Attack, Rain Dance, Rest, Return, Rock Smash,
+        Rolling Kick, Screech, Secret Power, Shock Wave, Sleep Talk, Snore, Substitute,
+        Swagger, Swift, Thief, Thunder, Thunder Wave, Thunderbolt, Thunder Punch,
+        Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
         Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
           Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
           Power Steel, Hidden Power Water]

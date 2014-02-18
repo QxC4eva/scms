@@ -24,42 +24,41 @@ pokemon:
         Hidden Power Water]
     - bw: [Aerial Ace, Agility, Blizzard, Charge Beam, Conversion, Conversion 2, Discharge,
         Double Team, Dream Eater, Electroweb, Facade, Flash, Foul Play, Frustration,
-        Giga Impact, Gravity, Hyper Beam, Ice Beam, Icy Wind, Iron Tail, Last Resort,
-        Lock-On, Magic Coat, Magnet Rise, Pain Split, Protect, Psybeam, Psych Up,
-        Psychic, Psyshock, Rain Dance, Recover, Recycle, Rest, Return, Round, Shadow
-          Ball, Sharpen, Signal Beam, Sleep Talk, Snore, Solar Beam, Substitute, Sunny
-          Day, Swagger, Tackle, Thief, Thunder, Thunder Wave, Thunderbolt, Toxic,
-        Tri Attack, Trick, Trick Room, Wonder Room, Zap Cannon, Zen Headbutt, Double-Edge,
-        Icy Wind, Mimic, Nightmare, Hidden Power Bug, Hidden Power Dark, Hidden Power
-          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
-        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
-          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
-          Power Rock, Hidden Power Steel, Hidden Power Water]
+        Giga Impact, Gravity, Hyper Beam, Ice Beam, Iron Tail, Last Resort, Lock-On,
+        Magic Coat, Magnet Rise, Pain Split, Protect, Psybeam, Psych Up, Psychic,
+        Psyshock, Rain Dance, Recover, Recycle, Rest, Return, Round, Shadow Ball,
+        Sharpen, Signal Beam, Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day,
+        Swagger, Tackle, Thief, Thunder, Thunder Wave, Thunderbolt, Toxic, Tri Attack,
+        Trick, Trick Room, Wonder Room, Zap Cannon, Zen Headbutt, Double-Edge, Mimic,
+        Nightmare, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - dp: [Aerial Ace, Agility, Blizzard, Charge Beam, Conversion, Conversion 2, Discharge,
         Double Team, Dream Eater, Endure, Facade, Flash, Frustration, Giga Impact,
-        Gravity, Hyper Beam, Ice Beam, Icy Wind, Iron Tail, Last Resort, Lock-On,
-        Magic Coat, Magnet Rise, Natural Gift, Pain Split, Protect, Psybeam, Psych
-          Up, Psychic, Rain Dance, Recover, Recycle, Rest, Return, Secret Power, Shadow
-          Ball, Sharpen, Shock Wave, Signal Beam, Sleep Talk, Snore, Solar Beam, Substitute,
-        Sunny Day, Swagger, Swift, Tackle, Thief, Thunder, Thunder Wave, Thunderbolt,
-        Toxic, Tri Attack, Trick, Trick Room, Zap Cannon, Zen Headbutt, Double-Edge,
-        Icy Wind, Mimic, Nightmare, Hidden Power Bug, Hidden Power Dark, Hidden Power
-          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
-        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
-          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
-          Power Rock, Hidden Power Steel, Hidden Power Water]
-    - rs: [Aerial Ace, Agility, Blizzard, Conversion, Conversion 2, Double-Edge, Double
-          Team, Dream Eater, Endure, Facade, Flash, Frustration, Hyper Beam, Ice Beam,
-        Icy Wind, Iron Tail, Lock-On, Mimic, Nightmare, Protect, Psybeam, Psych Up,
-        Psychic, Rain Dance, Recover, Recycle, Rest, Return, Secret Power, Shadow
-          Ball, Sharpen, Shock Wave, Sleep Talk, Snore, Solar Beam, Substitute, Sunny
+        Gravity, Hyper Beam, Ice Beam, Iron Tail, Last Resort, Lock-On, Magic Coat,
+        Magnet Rise, Natural Gift, Pain Split, Protect, Psybeam, Psych Up, Psychic,
+        Rain Dance, Recover, Recycle, Rest, Return, Secret Power, Shadow Ball, Sharpen,
+        Shock Wave, Signal Beam, Sleep Talk, Snore, Solar Beam, Substitute, Sunny
           Day, Swagger, Swift, Tackle, Thief, Thunder, Thunder Wave, Thunderbolt,
-        Toxic, Tri Attack, Zap Cannon, Double-Edge, Icy Wind, Mimic, Nightmare, Hidden
-          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
-        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
-          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
-          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
-        Hidden Power Water]
+        Toxic, Tri Attack, Trick, Trick Room, Zap Cannon, Zen Headbutt, Double-Edge,
+        Mimic, Nightmare, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Agility, Blizzard, Conversion, Conversion 2, Double Team, Dream
+          Eater, Endure, Facade, Flash, Frustration, Hyper Beam, Ice Beam, Iron Tail,
+        Lock-On, Protect, Psybeam, Psych Up, Psychic, Rain Dance, Recover, Recycle,
+        Rest, Return, Secret Power, Shadow Ball, Sharpen, Shock Wave, Sleep Talk,
+        Snore, Solar Beam, Substitute, Sunny Day, Swagger, Swift, Tackle, Thief, Thunder,
+        Thunder Wave, Thunderbolt, Toxic, Tri Attack, Zap Cannon, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - rb: [Agility, Bide, Blizzard, Conversion, Double-Edge, Double Team, Flash, Hyper
           Beam, Ice Beam, Mimic, Psybeam, Psychic, Psywave, Rage, Recover, Reflect,
         Rest, Sharpen, Skull Bash, Substitute, Swift, Tackle, Take Down, Teleport,
@@ -125,9 +124,9 @@ pokemon:
     introduction: gs
     moves:
     - gs: [Defense Curl]
-    - bw: [Defense Curl, Double-Edge, Icy Wind, Mimic, Nightmare]
-    - dp: [Defense Curl, Double-Edge, Icy Wind, Mimic, Nightmare]
-    - rs: [Defense Curl, Double-Edge, Icy Wind, Mimic, Nightmare]
+    - bw: [Defense Curl]
+    - dp: [Defense Curl]
+    - rs: [Defense Curl]
     - xy: [Defense Curl]
     stats:
     - [85, 80, 90, 105, 95, 60]

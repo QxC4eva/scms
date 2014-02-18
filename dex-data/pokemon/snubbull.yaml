@@ -14,10 +14,10 @@ pokemon:
     moves:
     - gs: [Hyper Beam]
     - bw: [Focus Blast, Giga Impact, Hyper Beam, Iron Tail, Outrage, Rock Slide, Rock
-          Tomb, Stone Edge, Body Slam, Seismic Toss]
+          Tomb, Stone Edge]
     - dp: [Focus Blast, Giga Impact, Hyper Beam, Iron Tail, Rock Climb, Rock Slide,
-        Rock Tomb, Stone Edge, Body Slam, Seismic Toss]
-    - rs: [Hyper Beam, Iron Tail, Rock Slide, Rock Tomb, Body Slam, Seismic Toss]
+        Rock Tomb, Stone Edge]
+    - rs: [Hyper Beam, Iron Tail, Rock Slide, Rock Tomb]
     - xy: [Focus Blast, Giga Impact, Hyper Beam, Iron Tail, Outrage, Rock Climb, Rock
           Slide, Rock Tomb, Stone Edge]
     stats:
@@ -82,20 +82,20 @@ pokemon:
           Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
           Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
         Hidden Power Water]
-    - rs: [Attract, Bite, Body Slam, Brick Break, Bulk Up, Charm, Counter, Crunch,
-        Defense Curl, Dig, Double-Edge, Double Team, Dynamic Punch, Earthquake, Endure,
-        Facade, Feint Attack, Fire Blast, Fire Punch, Flamethrower, Focus Punch, Frustration,
+    - rs: [Attract, Bite, Brick Break, Bulk Up, Charm, Counter, Crunch, Defense Curl,
+        Dig, Double-Edge, Double Team, Dynamic Punch, Earthquake, Endure, Facade,
+        Feint Attack, Fire Blast, Fire Punch, Flamethrower, Focus Punch, Frustration,
         Heal Bell, Ice Punch, Lick, Mega Kick, Mega Punch, Metronome, Mimic, Mud-Slap,
         Overheat, Present, Protect, Rage, Rain Dance, Reflect, Rest, Return, Roar,
-        Rock Smash, Scary Face, Secret Power, Seismic Toss, Shadow Ball, Shock Wave,
-        Sleep Talk, Sludge Bomb, Smelling Salts, Snore, Solar Beam, Strength, Substitute,
-        Sunny Day, Swagger, Tackle, Tail Whip, Take Down, Taunt, Thief, Thunder, Thunder
-          Wave, Thunderbolt, Thunder Punch, Torment, Toxic, Water Pulse, Body Slam,
-        Seismic Toss, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
-          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
-        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
-          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
-          Power Steel, Hidden Power Water]
+        Rock Smash, Scary Face, Secret Power, Shadow Ball, Shock Wave, Sleep Talk,
+        Sludge Bomb, Smelling Salts, Snore, Solar Beam, Strength, Substitute, Sunny
+          Day, Swagger, Tackle, Tail Whip, Take Down, Taunt, Thief, Thunder, Thunder
+          Wave, Thunderbolt, Thunder Punch, Torment, Toxic, Water Pulse, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - xy: [Attract, Bite, Body Slam, Brick Break, Bulk Up, Bulldoze, Captivate, Charm,
         Close Combat, Counter, Crunch, Defense Curl, Dig, Double-Edge, Double Team,
         Dynamic Punch, Earthquake, Endure, Facade, Feint Attack, Fire Blast, Fire

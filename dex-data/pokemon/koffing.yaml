@@ -45,16 +45,15 @@ pokemon:
           Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
           Power Steel, Hidden Power Water]
     - rs: [Attract, Destiny Bond, Double Team, Endure, Explosion, Facade, Fire Blast,
-        Flamethrower, Flash, Frustration, Haze, Memento, Mimic, Pain Split, Poison
-          Gas, Protect, Psybeam, Psywave, Rain Dance, Rest, Return, Rollout, Screech,
-        Secret Power, Self-Destruct, Shadow Ball, Shock Wave, Sleep Talk, Sludge,
-        Sludge Bomb, Smog, Smoke Screen, Snore, Substitute, Sunny Day, Swagger, Tackle,
-        Taunt, Thief, Thunder, Thunderbolt, Torment, Toxic, Will-O-Wisp, Mimic, Hidden
-          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
-        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
-          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
-          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
-        Hidden Power Water]
+        Flamethrower, Flash, Frustration, Haze, Memento, Pain Split, Poison Gas, Protect,
+        Psybeam, Psywave, Rain Dance, Rest, Return, Rollout, Screech, Secret Power,
+        Self-Destruct, Shadow Ball, Shock Wave, Sleep Talk, Sludge, Sludge Bomb, Smog,
+        Smoke Screen, Snore, Substitute, Sunny Day, Swagger, Tackle, Taunt, Thief,
+        Thunder, Thunderbolt, Torment, Toxic, Will-O-Wisp, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rb: [Bide, Double Team, Explosion, Fire Blast, Haze, Mimic, Rage, Rest, Self-Destruct,
         Sludge, Smog, Smoke Screen, Substitute, Tackle, Thunder, Thunderbolt, Toxic]
     - xy: [Assurance, Attract, Captivate, Clear Smog, Curse, Dark Pulse, Destiny Bond,
@@ -92,9 +91,9 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Hyper Beam]
-    - bw: [Double Hit, Giga Impact, Hyper Beam, Mimic]
-    - dp: [Double Hit, Giga Impact, Hyper Beam, Mimic]
-    - rs: [Hyper Beam, Mimic]
+    - bw: [Double Hit, Giga Impact, Hyper Beam]
+    - dp: [Double Hit, Giga Impact, Hyper Beam]
+    - rs: [Hyper Beam]
     - rb: [Hyper Beam]
     - xy: [Double Hit, Giga Impact, Hyper Beam, Mud-Slap]
     stats:

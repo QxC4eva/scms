@@ -12,10 +12,9 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Hyper Beam]
-    - bw: [Giga Impact, Hyper Beam, Quash, Wide Guard, Body Slam, Double-Edge, Icy
-          Wind, Mimic]
-    - dp: [Giga Impact, Hyper Beam, Body Slam, Double-Edge, Icy Wind, Mimic]
-    - rs: [Hyper Beam, Metal Claw, Body Slam, Double-Edge, Icy Wind, Mimic]
+    - bw: [Giga Impact, Hyper Beam, Quash, Wide Guard]
+    - dp: [Giga Impact, Hyper Beam]
+    - rs: [Hyper Beam, Metal Claw]
     - rb: [Hyper Beam]
     - xy: [Giga Impact, Hyper Beam, Quash, Wide Guard]
     stats:
@@ -51,40 +50,38 @@ pokemon:
     - bw: [Agility, Amnesia, Ancient Power, Attract, Bide, Blizzard, Brick Break,
         Brine, Bubble, Bubble Beam, Chip Away, Crabhammer, Cut, Dig, Dive, Double
           Team, Endure, Facade, False Swipe, Flail, Fling, Frustration, Guillotine,
-        Hail, Harden, Haze, Hone Claws, Ice Beam, Icy Wind, Iron Defense, Knock Off,
-        Leer, Metal Claw, Mud Shot, Mud Sport, Protect, Rain Dance, Rest, Return,
-        Rock Slide, Rock Smash, Rock Tomb, Round, Scald, Slam, Sleep Talk, Snore,
-        Stomp, Strength, Substitute, Superpower, Surf, Swagger, Swords Dance, Thief,
-        Tickle, Toxic, Vice Grip, X-Scissor, Body Slam, Double-Edge, Icy Wind, Mimic,
-        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
-        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
-          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
-          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
-        Hidden Power Water]
+        Hail, Harden, Haze, Hone Claws, Ice Beam, Iron Defense, Knock Off, Leer, Metal
+          Claw, Mud Shot, Mud Sport, Protect, Rain Dance, Rest, Return, Rock Slide,
+        Rock Smash, Rock Tomb, Round, Scald, Slam, Sleep Talk, Snore, Stomp, Strength,
+        Substitute, Superpower, Surf, Swagger, Swords Dance, Thief, Tickle, Toxic,
+        Vice Grip, X-Scissor, Body Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Agility, Amnesia, Ancient Power, Attract, Blizzard, Brick Break, Brine,
         Bubble, Bubble Beam, Captivate, Crabhammer, Cut, Dig, Dive, Double Team, Endure,
         Facade, False Swipe, Flail, Fling, Frustration, Fury Cutter, Guillotine, Hail,
-        Harden, Haze, Ice Beam, Icy Wind, Iron Defense, Knock Off, Leer, Metal Claw,
-        Mud Shot, Mud-Slap, Mud Sport, Natural Gift, Protect, Rain Dance, Rest, Return,
-        Rock Slide, Rock Smash, Rock Tomb, Secret Power, Slam, Sleep Talk, Snore,
-        Stomp, Strength, Substitute, Superpower, Surf, Swagger, Swords Dance, Thief,
-        Tickle, Toxic, Vice Grip, Water Pulse, Whirlpool, X-Scissor, Body Slam, Double-Edge,
-        Icy Wind, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
-        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
-          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
-          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
-        Hidden Power Steel, Hidden Power Water]
-    - rs: [Amnesia, Attract, Blizzard, Body Slam, Bubble, Crabhammer, Cut, Dig, Dive,
-        Double-Edge, Double Team, Endure, Facade, Flail, Frustration, Fury Cutter,
-        Guillotine, Hail, Harden, Haze, Ice Beam, Icy Wind, Knock Off, Leer, Mimic,
-        Mud Shot, Mud-Slap, Protect, Rain Dance, Rest, Return, Rock Smash, Rock Tomb,
-        Secret Power, Slam, Sleep Talk, Snore, Stomp, Strength, Substitute, Surf,
-        Swagger, Swords Dance, Thief, Toxic, Vice Grip, Water Pulse, Body Slam, Double-Edge,
-        Icy Wind, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
-        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
-          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
-          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
-        Hidden Power Steel, Hidden Power Water]
+        Harden, Haze, Ice Beam, Iron Defense, Knock Off, Leer, Metal Claw, Mud Shot,
+        Mud-Slap, Mud Sport, Natural Gift, Protect, Rain Dance, Rest, Return, Rock
+          Slide, Rock Smash, Rock Tomb, Secret Power, Slam, Sleep Talk, Snore, Stomp,
+        Strength, Substitute, Superpower, Surf, Swagger, Swords Dance, Thief, Tickle,
+        Toxic, Vice Grip, Water Pulse, Whirlpool, X-Scissor, Body Slam, Double-Edge,
+        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - rs: [Amnesia, Attract, Blizzard, Bubble, Crabhammer, Cut, Dig, Dive, Double
+          Team, Endure, Facade, Flail, Frustration, Fury Cutter, Guillotine, Hail,
+        Harden, Haze, Ice Beam, Knock Off, Leer, Mud Shot, Mud-Slap, Protect, Rain
+          Dance, Rest, Return, Rock Smash, Rock Tomb, Secret Power, Slam, Sleep Talk,
+        Snore, Stomp, Strength, Substitute, Surf, Swagger, Swords Dance, Thief, Toxic,
+        Vice Grip, Water Pulse, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
     - rb: [Bide, Blizzard, Body Slam, Bubble, Bubble Beam, Crabhammer, Cut, Double-Edge,
         Double Team, Guillotine, Harden, Ice Beam, Leer, Mimic, Rage, Rest, Stomp,
         Strength, Substitute, Surf, Swords Dance, Take Down, Toxic, Vice Grip, Water

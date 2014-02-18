@@ -22,44 +22,41 @@ pokemon:
         Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
           Water]
     - bw: [Attract, Autotomize, Block, Brick Break, Bulldoze, Curse, Defense Curl,
-        Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endure, Explosion,
-        Facade, Fire Blast, Fire Punch, Flail, Flamethrower, Fling, Focus Punch, Frustration,
+        Dig, Double Team, Earth Power, Earthquake, Endure, Explosion, Facade, Fire
+          Blast, Fire Punch, Flail, Flamethrower, Fling, Focus Punch, Frustration,
         Gyro Ball, Hammer Arm, Incinerate, Iron Defense, Magnitude, Mega Punch, Mud
           Sport, Protect, Rest, Return, Rock Blast, Rock Climb, Rock Polish, Rock
-          Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Round, Sandstorm, Self-Destruct,
-        Sleep Talk, Smack Down, Snore, Stealth Rock, Stone Edge, Strength, Substitute,
-        Sunny Day, Superpower, Swagger, Tackle, Thunder Punch, Toxic, Body Slam, Double-Edge,
-        Mimic, Seismic Toss, Self-Destruct, Hidden Power Bug, Hidden Power Dark, Hidden
+          Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Round, Sandstorm, Sleep
+          Talk, Smack Down, Snore, Stealth Rock, Stone Edge, Strength, Substitute,
+        Sunny Day, Superpower, Swagger, Tackle, Thunder Punch, Toxic, Body Slam, Mimic,
+        Seismic Toss, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - dp: [Ancient Power, Attract, Block, Brick Break, Captivate, Curse, Defense Curl,
+        Dig, Double Team, Earth Power, Earthquake, Endure, Explosion, Facade, Fire
+          Blast, Fire Punch, Flail, Flamethrower, Fling, Focus Punch, Frustration,
+        Gyro Ball, Hammer Arm, Headbutt, Magnitude, Mega Punch, Mud-Slap, Mud Sport,
+        Natural Gift, Protect, Rest, Return, Rock Blast, Rock Climb, Rock Polish,
+        Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Sandstorm, Secret
+          Power, Sleep Talk, Snore, Stealth Rock, Stone Edge, Strength, Substitute,
+        Sucker Punch, Sunny Day, Superpower, Swagger, Tackle, Thunder Punch, Toxic,
+        Body Slam, Mimic, Seismic Toss, Hidden Power Bug, Hidden Power Dark, Hidden
           Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
           Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
           Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
         Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
-    - dp: [Ancient Power, Attract, Block, Brick Break, Captivate, Curse, Defense Curl,
-        Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endure, Explosion,
-        Facade, Fire Blast, Fire Punch, Flail, Flamethrower, Fling, Focus Punch, Frustration,
-        Gyro Ball, Hammer Arm, Headbutt, Magnitude, Mega Punch, Mud-Slap, Mud Sport,
-        Natural Gift, Protect, Rest, Return, Rock Blast, Rock Climb, Rock Polish,
-        Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Sandstorm, Secret
-          Power, Self-Destruct, Sleep Talk, Snore, Stealth Rock, Stone Edge, Strength,
-        Substitute, Sucker Punch, Sunny Day, Superpower, Swagger, Tackle, Thunder
-          Punch, Toxic, Body Slam, Double-Edge, Mimic, Seismic Toss, Self-Destruct,
-        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
-        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
-          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
-          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
-        Hidden Power Water]
-    - rs: [Attract, Block, Body Slam, Brick Break, Counter, Defense Curl, Dig, Double-Edge,
-        Double Team, Dynamic Punch, Earthquake, Endure, Explosion, Facade, Fire Blast,
-        Fire Punch, Flamethrower, Focus Punch, Frustration, Magnitude, Mega Punch,
-        Metronome, Mimic, Mud-Slap, Mud Sport, Protect, Rest, Return, Rock Blast,
-        Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Sandstorm, Secret
-          Power, Seismic Toss, Self-Destruct, Sleep Talk, Snore, Strength, Substitute,
-        Sunny Day, Swagger, Tackle, Toxic, Body Slam, Double-Edge, Mimic, Seismic
-          Toss, Self-Destruct, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
-        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
-          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
-          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
-        Hidden Power Steel, Hidden Power Water]
+    - rs: [Attract, Block, Brick Break, Counter, Defense Curl, Dig, Double Team, Dynamic
+          Punch, Earthquake, Endure, Explosion, Facade, Fire Blast, Fire Punch, Flamethrower,
+        Focus Punch, Frustration, Magnitude, Mega Punch, Metronome, Mud-Slap, Mud
+          Sport, Protect, Rest, Return, Rock Blast, Rock Slide, Rock Smash, Rock Throw,
+        Rock Tomb, Rollout, Sandstorm, Secret Power, Sleep Talk, Snore, Strength,
+        Substitute, Sunny Day, Swagger, Tackle, Toxic, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rb: [Bide, Body Slam, Counter, Defense Curl, Dig, Double-Edge, Double Team,
         Earthquake, Explosion, Fire Blast, Fissure, Harden, Mega Punch, Metronome,
         Mimic, Rage, Rest, Rock Slide, Rock Throw, Seismic Toss, Self-Destruct, Strength,
@@ -101,11 +98,9 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Fury Cutter, Hyper Beam, Roar]
-    - bw: [Focus Blast, Giga Impact, Heavy Slam, Hyper Beam, Iron Head, Roar, Steamroller,
-        Body Slam, Mimic, Seismic Toss]
-    - dp: [Focus Blast, Fury Cutter, Giga Impact, Hyper Beam, Iron Head, Roar, Body
-          Slam, Mimic, Seismic Toss]
-    - rs: [Fury Cutter, Hyper Beam, Mega Kick, Roar, Body Slam, Mimic, Seismic Toss]
+    - bw: [Focus Blast, Giga Impact, Heavy Slam, Hyper Beam, Iron Head, Roar, Steamroller]
+    - dp: [Focus Blast, Fury Cutter, Giga Impact, Hyper Beam, Iron Head, Roar]
+    - rs: [Fury Cutter, Hyper Beam, Mega Kick, Roar]
     - rb: [Hyper Beam, Mega Kick]
     - xy: [Focus Blast, Fury Cutter, Giga Impact, Heavy Slam, Hyper Beam, Iron Head,
         Mega Kick, Roar, Steamroller]
@@ -134,9 +129,9 @@ pokemon:
     introduction: rb
     moves:
     - gs: []
-    - bw: [Body Slam, Mimic, Seismic Toss]
-    - dp: [Body Slam, Mimic, Seismic Toss]
-    - rs: [Body Slam, Mimic, Seismic Toss]
+    - bw: []
+    - dp: []
+    - rs: []
     - rb: []
     - xy: []
     stats:

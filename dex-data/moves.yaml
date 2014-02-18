@@ -2416,8 +2416,8 @@ moves:
   Hidden Power Bug:
     accuracy: [100]
     description:
-    - Has 30-70 power and can be any type but Normal, based on the user's IVs.
-    - {xy: 'Has 30-60 power and can be any type but Normal, based on the user''s IVs.'}
+    - Has 30-70 power based on the user's IVs.
+    - {xy: 'Has 30-60 power based on the user''s IVs.'}
     introduction: gs
     power:
     - 0
@@ -2429,8 +2429,8 @@ moves:
   Hidden Power Dark:
     accuracy: [100]
     description:
-    - Has 30-70 power and can be any type but Normal, based on the user's IVs.
-    - {xy: 'Has 30-60 power and can be any type but Normal, based on the user''s IVs.'}
+    - Has 30-70 power based on the user's IVs.
+    - {xy: 'Has 30-60 power based on the user''s IVs.'}
     introduction: gs
     power:
     - 0
@@ -2442,8 +2442,8 @@ moves:
   Hidden Power Dragon:
     accuracy: [100]
     description:
-    - Has 30-70 power and can be any type but Normal, based on the user's IVs.
-    - {xy: 'Has 30-60 power and can be any type but Normal, based on the user''s IVs.'}
+    - Has 30-70 power based on the user's IVs.
+    - {xy: 'Has 30-60 power based on the user''s IVs.'}
     introduction: gs
     power:
     - 0
@@ -2455,8 +2455,8 @@ moves:
   Hidden Power Electric:
     accuracy: [100]
     description:
-    - Has 30-70 power and can be any type but Normal, based on the user's IVs.
-    - {xy: 'Has 30-60 power and can be any type but Normal, based on the user''s IVs.'}
+    - Has 30-70 power based on the user's IVs.
+    - {xy: 'Has 30-60 power based on the user''s IVs.'}
     introduction: gs
     power:
     - 0
@@ -2468,7 +2468,7 @@ moves:
   Hidden Power Fairy:
     accuracy: [100]
     description:
-    - Has 30-70 power and can be any type but Normal, based on the user's IVs.
+    - Has 30-70 power based on the user's IVs.
     introduction: xy
     power:
     - 1
@@ -2479,8 +2479,8 @@ moves:
   Hidden Power Fighting:
     accuracy: [100]
     description:
-    - Has 30-70 power and can be any type but Normal, based on the user's IVs.
-    - {xy: 'Has 30-60 power and can be any type but Normal, based on the user''s IVs.'}
+    - Has 30-70 power based on the user's IVs.
+    - {xy: 'Has 30-60 power based on the user''s IVs.'}
     introduction: gs
     power:
     - 0
@@ -2492,8 +2492,8 @@ moves:
   Hidden Power Fire:
     accuracy: [100]
     description:
-    - Has 30-70 power and can be any type but Normal, based on the user's IVs.
-    - {xy: 'Has 30-60 power and can be any type but Normal, based on the user''s IVs.'}
+    - Has 30-70 power based on the user's IVs.
+    - {xy: 'Has 30-60 power based on the user''s IVs.'}
     introduction: gs
     power:
     - 0
@@ -2505,8 +2505,8 @@ moves:
   Hidden Power Flying:
     accuracy: [100]
     description:
-    - Has 30-70 power and can be any type but Normal, based on the user's IVs.
-    - {xy: 'Has 30-60 power and can be any type but Normal, based on the user''s IVs.'}
+    - Has 30-70 power based on the user's IVs.
+    - {xy: 'Has 30-60 power based on the user''s IVs.'}
     introduction: gs
     power:
     - 0
@@ -2518,8 +2518,8 @@ moves:
   Hidden Power Ghost:
     accuracy: [100]
     description:
-    - Has 30-70 power and can be any type but Normal, based on the user's IVs.
-    - {xy: 'Has 30-60 power and can be any type but Normal, based on the user''s IVs.'}
+    - Has 30-70 power based on the user's IVs.
+    - {xy: 'Has 30-60 power based on the user''s IVs.'}
     introduction: gs
     power:
     - 0
@@ -2531,8 +2531,8 @@ moves:
   Hidden Power Grass:
     accuracy: [100]
     description:
-    - Has 30-70 power and can be any type but Normal, based on the user's IVs.
-    - {xy: 'Has 30-60 power and can be any type but Normal, based on the user''s IVs.'}
+    - Has 30-70 power based on the user's IVs.
+    - {xy: 'Has 30-60 power based on the user''s IVs.'}
     introduction: gs
     power:
     - 0
@@ -2544,8 +2544,8 @@ moves:
   Hidden Power Ground:
     accuracy: [100]
     description:
-    - Has 30-70 power and can be any type but Normal, based on the user's IVs.
-    - {xy: 'Has 30-60 power and can be any type but Normal, based on the user''s IVs.'}
+    - Has 30-70 power based on the user's IVs.
+    - {xy: 'Has 30-60 power based on the user''s IVs.'}
     introduction: gs
     power:
     - 0
@@ -2557,8 +2557,8 @@ moves:
   Hidden Power Ice:
     accuracy: [100]
     description:
-    - Has 30-70 power and can be any type but Normal, based on the user's IVs.
-    - {xy: 'Has 30-60 power and can be any type but Normal, based on the user''s IVs.'}
+    - Has 30-70 power based on the user's IVs.
+    - {xy: 'Has 30-60 power based on the user''s IVs.'}
     introduction: gs
     power:
     - 0
@@ -2570,8 +2570,8 @@ moves:
   Hidden Power Poison:
     accuracy: [100]
     description:
-    - Has 30-70 power and can be any type but Normal, based on the user's IVs.
-    - {xy: 'Has 30-60 power and can be any type but Normal, based on the user''s IVs.'}
+    - Has 30-70 power based on the user's IVs.
+    - {xy: 'Has 30-60 power based on the user''s IVs.'}
     introduction: gs
     power:
     - 0
@@ -2583,8 +2583,8 @@ moves:
   Hidden Power Psychic:
     accuracy: [100]
     description:
-    - Has 30-70 power and can be any type but Normal, based on the user's IVs.
-    - {xy: 'Has 30-60 power and can be any type but Normal, based on the user''s IVs.'}
+    - Has 30-70 power based on the user's IVs.
+    - {xy: 'Has 30-60 power based on the user''s IVs.'}
     introduction: gs
     power:
     - 0
@@ -2596,8 +2596,8 @@ moves:
   Hidden Power Rock:
     accuracy: [100]
     description:
-    - Has 30-70 power and can be any type but Normal, based on the user's IVs.
-    - {xy: 'Has 30-60 power and can be any type but Normal, based on the user''s IVs.'}
+    - Has 30-70 power based on the user's IVs.
+    - {xy: 'Has 30-60 power based on the user''s IVs.'}
     introduction: gs
     power:
     - 0
@@ -2609,8 +2609,8 @@ moves:
   Hidden Power Steel:
     accuracy: [100]
     description:
-    - Has 30-70 power and can be any type but Normal, based on the user's IVs.
-    - {xy: 'Has 30-60 power and can be any type but Normal, based on the user''s IVs.'}
+    - Has 30-70 power based on the user's IVs.
+    - {xy: 'Has 30-60 power based on the user''s IVs.'}
     introduction: gs
     power:
     - 0
@@ -2622,8 +2622,8 @@ moves:
   Hidden Power Water:
     accuracy: [100]
     description:
-    - Has 30-70 power and can be any type but Normal, based on the user's IVs.
-    - {xy: 'Has 30-60 power and can be any type but Normal, based on the user''s IVs.'}
+    - Has 30-70 power based on the user's IVs.
+    - {xy: 'Has 30-60 power based on the user''s IVs.'}
     introduction: gs
     power:
     - 0

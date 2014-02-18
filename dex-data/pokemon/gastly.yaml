@@ -92,11 +92,19 @@ pokemon:
     - bw: [Levitate]
     - rs: [Levitate]
     - []
+    alts:
+    - xy:
+        Gengar-Mega:
+          abilities: [Shadow Tag]
+          height: 1.4
+          stats: [60, 65, 80, 170, 95, 130]
+          types: [Ghost, Poison]
+          weight: 40.5
     egggroups:
     - [Indeterminate]
     evolutions:
     - []
-    - xy: [Gengar-Mega]
+    - xy: []
     height: [1.5]
     introduction: rb
     moves:
@@ -120,24 +128,6 @@ pokemon:
     - gs: [60, 65, 60, 130, 75, 110]
     tags:
     - [ou]
-    types:
-    - [Ghost, Poison]
-    weight: [40.5]
-  Gengar-Mega:
-    abilities:
-    - [Shadow Tag]
-    egggroups:
-    - [Amorphous]
-    evolutions:
-    - []
-    height: [1.4]
-    introduction: xy
-    moves:
-    - []
-    stats:
-    - [60, 65, 80, 170, 95, 130]
-    tags:
-    - []
     types:
     - [Ghost, Poison]
     weight: [40.5]

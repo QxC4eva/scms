@@ -5,11 +5,19 @@ pokemon:
     - bw: [Hyper Cutter, Mold Breaker, Moxie]
     - rs: [Hyper Cutter]
     - []
+    alts:
+    - xy:
+        Pinsir-Mega:
+          abilities: [Aerilate]
+          height: 1.7
+          stats: [65, 155, 120, 65, 90, 105]
+          types: [Bug, Flying]
+          weight: 59
     egggroups:
     - [Bug]
     evolutions:
     - []
-    - xy: [Pinsir-Mega]
+    - xy: []
     height: [1.5]
     introduction: rb
     moves:
@@ -88,21 +96,3 @@ pokemon:
     types:
     - [Bug]
     weight: [55]
-  Pinsir-Mega:
-    abilities:
-    - [Aerilate]
-    egggroups:
-    - [Bug]
-    evolutions:
-    - []
-    height: [1.7]
-    introduction: xy
-    moves:
-    - []
-    stats:
-    - [65, 155, 120, 65, 90, 105]
-    tags:
-    - []
-    types:
-    - [Bug, Flying]
-    weight: [59]

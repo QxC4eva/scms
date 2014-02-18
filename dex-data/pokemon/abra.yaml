@@ -94,11 +94,19 @@ pokemon:
     - bw: [Inner Focus, Magic Guard, Synchronize]
     - rs: [Inner Focus, Synchronize]
     - []
+    alts:
+    - xy:
+        Alakazam-Mega:
+          abilities: [Trace]
+          height: 1.2
+          stats: [55, 50, 65, 175, 95, 150]
+          types: [Psychic]
+          weight: 48
     egggroups:
     - [Humanshape]
     evolutions:
     - []
-    - xy: [Alakazam-Mega]
+    - xy: []
     height: [1.5]
     introduction: rb
     moves:
@@ -117,24 +125,6 @@ pokemon:
     - bw: [ou]
       dp: [uu]
       gs: [bl]
-    types:
-    - [Psychic]
-    weight: [48]
-  Alakazam-Mega:
-    abilities:
-    - [Trace]
-    egggroups:
-    - [Human-Like]
-    evolutions:
-    - []
-    height: [1.2]
-    introduction: xy
-    moves:
-    - []
-    stats:
-    - [55, 50, 65, 175, 95, 150]
-    tags:
-    - []
     types:
     - [Psychic]
     weight: [48]

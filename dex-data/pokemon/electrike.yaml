@@ -68,11 +68,19 @@ pokemon:
     abilities:
     - [Lightningrod, Static]
     - bw: [Lightningrod, Minus, Static]
+    alts:
+    - xy:
+        Manectric-Mega:
+          abilities: [Intimidate]
+          height: 1.8
+          stats: [70, 75, 80, 135, 80, 135]
+          types: [Electric]
+          weight: 44
     egggroups:
     - [Ground]
     evolutions:
     - []
-    - xy: [Manectric-Mega]
+    - xy: []
     height: [1.5]
     introduction: rs
     moves:
@@ -89,21 +97,3 @@ pokemon:
     types:
     - [Electric]
     weight: [40.2]
-  Manectric-Mega:
-    abilities:
-    - [Intimidate]
-    egggroups:
-    - [Field]
-    evolutions:
-    - []
-    height: [1.8]
-    introduction: xy
-    moves:
-    - []
-    stats:
-    - [70, 75, 80, 135, 80, 135]
-    tags:
-    - []
-    types:
-    - [Electric]
-    weight: [44]

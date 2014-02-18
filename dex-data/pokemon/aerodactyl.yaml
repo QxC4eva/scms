@@ -4,11 +4,19 @@ pokemon:
     - bw: [Pressure, Rock Head, Unnerve]
     - rs: [Pressure, Rock Head]
     - []
+    alts:
+    - xy:
+        Aerodactyl-Mega:
+          abilities: [Tough Claws]
+          height: 2.1
+          stats: [80, 135, 85, 70, 95, 150]
+          types: [Rock, Flying]
+          weight: 79
     egggroups:
     - [Flying]
     evolutions:
     - []
-    - xy: [Aerodactyl-Mega]
+    - xy: []
     height: [1.8]
     introduction: rb
     moves:
@@ -93,21 +101,3 @@ pokemon:
     types:
     - [Flying, Rock]
     weight: [59]
-  Aerodactyl-Mega:
-    abilities:
-    - [Tough Claws]
-    egggroups:
-    - [Flying]
-    evolutions:
-    - []
-    height: [2.1]
-    introduction: xy
-    moves:
-    - []
-    stats:
-    - [80, 135, 85, 70, 95, 150]
-    tags:
-    - []
-    types:
-    - [Rock, Flying]
-    weight: [79]

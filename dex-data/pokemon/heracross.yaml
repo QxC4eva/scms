@@ -4,11 +4,19 @@ pokemon:
     - bw: [Guts, Moxie, Swarm]
     - rs: [Guts, Swarm]
     - []
+    alts:
+    - xy:
+        Heracross-Mega:
+          abilities: [Skill Link]
+          height: 1.7
+          stats: [80, 185, 115, 40, 105, 75]
+          types: [Bug, Fighting]
+          weight: 62.5
     egggroups:
     - [Bug]
     evolutions:
     - []
-    - xy: [Heracross-Mega]
+    - xy: []
     height: [1.5]
     introduction: gs
     moves:
@@ -85,21 +93,3 @@ pokemon:
     types:
     - [Bug, Fighting]
     weight: [54]
-  Heracross-Mega:
-    abilities:
-    - [Skill Link]
-    egggroups:
-    - [Bug]
-    evolutions:
-    - []
-    height: [1.7]
-    introduction: xy
-    moves:
-    - []
-    stats:
-    - [80, 185, 115, 40, 105, 75]
-    tags:
-    - []
-    types:
-    - [Bug, Fighting]
-    weight: [62.5]

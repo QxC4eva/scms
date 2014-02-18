@@ -114,11 +114,19 @@ pokemon:
     - bw: [Chlorophyll, Overgrow]
     - rs: [Overgrow]
     - []
+    alts:
+    - xy:
+        Venusaur-Mega:
+          abilities: [Thick Fat]
+          height: 2.4
+          stats: [80, 100, 123, 122, 120, 80]
+          types: [Grass, Poison]
+          weight: 155.5
     egggroups:
     - [Monster, Plant]
     evolutions:
     - []
-    - xy: [Venusaur-Mega]
+    - xy: []
     height: [2]
     introduction: rb
     moves:
@@ -141,21 +149,3 @@ pokemon:
     types:
     - [Grass, Poison]
     weight: [100]
-  Venusaur-Mega:
-    abilities:
-    - [Thick Fat]
-    egggroups:
-    - [Monster, Grass]
-    evolutions:
-    - []
-    height: [2.4]
-    introduction: xy
-    moves:
-    - []
-    stats:
-    - [80, 100, 123, 122, 120, 80]
-    tags:
-    - []
-    types:
-    - [Grass, Poison]
-    weight: [155.5]

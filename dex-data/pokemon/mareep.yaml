@@ -4,11 +4,19 @@ pokemon:
     - bw: [Plus, Static]
     - rs: [Static]
     - []
+    alts:
+    - xy:
+        Ampharos-Mega:
+          abilities: [Mold Breaker]
+          height: 1.4
+          stats: [90, 95, 105, 165, 110, 45]
+          types: [Electric, Dragon]
+          weight: 61.5
     egggroups:
     - [Ground, Monster]
     evolutions:
     - []
-    - xy: [Ampharos-Mega]
+    - xy: []
     height: [1.4]
     introduction: gs
     moves:
@@ -27,24 +35,6 @@ pokemon:
     - rs: [uu]
     types:
     - [Electric]
-    weight: [61.5]
-  Ampharos-Mega:
-    abilities:
-    - [Mold Breaker]
-    egggroups:
-    - [Monster, Field]
-    evolutions:
-    - []
-    height: [1.4]
-    introduction: xy
-    moves:
-    - []
-    stats:
-    - [90, 95, 105, 165, 110, 45]
-    tags:
-    - []
-    types:
-    - [Electric, Dragon]
     weight: [61.5]
   Flaaffy:
     abilities:

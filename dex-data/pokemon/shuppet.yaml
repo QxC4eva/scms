@@ -4,11 +4,19 @@ pokemon:
     - [Insomnia]
     - dp: [Frisk, Insomnia]
     - bw: [Cursed Body, Frisk, Insomnia]
+    alts:
+    - xy:
+        Banette-Mega:
+          abilities: [Prankster]
+          height: 1.2
+          stats: [64, 165, 75, 93, 83, 75]
+          types: [Ghost]
+          weight: 13
     egggroups:
     - [Indeterminate]
     evolutions:
     - []
-    - xy: [Banette-Mega]
+    - xy: []
     height: [1.1]
     introduction: rs
     moves:
@@ -25,24 +33,6 @@ pokemon:
     types:
     - [Ghost]
     weight: [12.5]
-  Banette-Mega:
-    abilities:
-    - [Prankster]
-    egggroups:
-    - [Amorphous]
-    evolutions:
-    - []
-    height: [1.2]
-    introduction: xy
-    moves:
-    - []
-    stats:
-    - [64, 165, 75, 93, 83, 75]
-    tags:
-    - []
-    types:
-    - [Ghost]
-    weight: [13]
   Shuppet:
     abilities:
     - [Insomnia]

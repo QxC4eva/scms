@@ -4,11 +4,19 @@ pokemon:
     - bw: [Rain Dish, Torrent]
     - rs: [Torrent]
     - []
+    alts:
+    - xy:
+        Blastoise-Mega:
+          abilities: [Mega Launcher]
+          height: 1.6
+          stats: [79, 103, 120, 135, 115, 78]
+          types: [Water]
+          weight: 101.1
     egggroups:
     - [Monster, Water 1]
     evolutions:
     - []
-    - xy: [Blastoise-Mega]
+    - xy: []
     height: [1.6]
     introduction: rb
     moves:
@@ -30,24 +38,6 @@ pokemon:
     types:
     - [Water]
     weight: [85.5]
-  Blastoise-Mega:
-    abilities:
-    - [Mega Launcher]
-    egggroups:
-    - [Monster, Water 1]
-    evolutions:
-    - []
-    height: [1.6]
-    introduction: xy
-    moves:
-    - []
-    stats:
-    - [79, 103, 120, 135, 115, 78]
-    tags:
-    - []
-    types:
-    - [Water]
-    weight: [101.1]
   Squirtle:
     abilities:
     - bw: [Rain Dish, Torrent]

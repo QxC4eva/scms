@@ -5,11 +5,19 @@ pokemon:
     - bw: [Early Bird, Inner Focus, Scrappy]
     - rs: [Early Bird]
     - []
+    alts:
+    - xy:
+        Kangaskhan-Mega:
+          abilities: [Parental Bond]
+          height: 2.2
+          stats: [105, 125, 100, 60, 100, 100]
+          types: [Normal]
+          weight: 100
     egggroups:
     - [Monster]
     evolutions:
     - []
-    - xy: [Kangaskhan-Mega]
+    - xy: []
     height: [2.2]
     introduction: rb
     moves:
@@ -108,21 +116,3 @@ pokemon:
     types:
     - [Normal]
     weight: [80]
-  Kangaskhan-Mega:
-    abilities:
-    - [Parental Bond]
-    egggroups:
-    - [Monster]
-    evolutions:
-    - []
-    height: [2.2]
-    introduction: xy
-    moves:
-    - []
-    stats:
-    - [105, 125, 100, 60, 100, 100]
-    tags:
-    - []
-    types:
-    - [Normal]
-    weight: [100]

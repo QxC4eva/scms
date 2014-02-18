@@ -4,11 +4,19 @@ pokemon:
     - bw: [Intimidate, Moxie]
     - rs: [Intimidate]
     - []
+    alts:
+    - xy:
+        Gyarados-Mega:
+          abilities: [Mold Breaker]
+          height: 6.5
+          stats: [95, 155, 109, 70, 130, 81]
+          types: [Water, Dark]
+          weight: 305
     egggroups:
     - [Dragon, Water 2]
     evolutions:
     - []
-    - xy: [Gyarados-Mega]
+    - xy: []
     height: [6.5]
     introduction: rb
     moves:
@@ -85,24 +93,6 @@ pokemon:
     types:
     - [Flying, Water]
     weight: [235]
-  Gyarados-Mega:
-    abilities:
-    - [Mold Breaker]
-    egggroups:
-    - [Water 2, Dragon]
-    evolutions:
-    - []
-    height: [6.5]
-    introduction: xy
-    moves:
-    - []
-    stats:
-    - [95, 155, 109, 70, 130, 81]
-    tags:
-    - []
-    types:
-    - [Water, Dark]
-    weight: [305]
   Magikarp:
     abilities:
     - bw: [Rattled, Swift Swim]

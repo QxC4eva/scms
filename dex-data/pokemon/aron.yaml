@@ -3,11 +3,19 @@ pokemon:
     abilities:
     - [Rock Head, Sturdy]
     - bw: [Heavy Metal, Rock Head, Sturdy]
+    alts:
+    - xy:
+        Aggron-Mega:
+          abilities: [Filter]
+          height: 2.2
+          stats: [70, 140, 230, 60, 80, 50]
+          types: [Steel]
+          weight: 395
     egggroups:
     - [Monster]
     evolutions:
     - []
-    - xy: [Aggron-Mega]
+    - xy: []
     height: [2.1]
     introduction: rs
     moves:
@@ -40,24 +48,6 @@ pokemon:
     types:
     - [Rock, Steel]
     weight: [360]
-  Aggron-Mega:
-    abilities:
-    - [Filter]
-    egggroups:
-    - [Monster]
-    evolutions:
-    - []
-    height: [2.2]
-    introduction: xy
-    moves:
-    - []
-    stats:
-    - [70, 140, 230, 60, 80, 50]
-    tags:
-    - []
-    types:
-    - [Steel]
-    weight: [395]
   Aron:
     abilities:
     - [Rock Head, Sturdy]

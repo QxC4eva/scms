@@ -5,11 +5,19 @@ pokemon:
     - bw: [Light Metal, Swarm, Technician]
     - rs: [Swarm]
     - []
+    alts:
+    - xy:
+        Scizor-Mega:
+          abilities: [Technician]
+          height: 2
+          stats: [70, 150, 140, 65, 100, 75]
+          types: [Bug, Steel]
+          weight: 125
     egggroups:
     - [Bug]
     evolutions:
     - []
-    - xy: [Scizor-Mega]
+    - xy: []
     height: [1.8]
     introduction: gs
     moves:
@@ -29,24 +37,6 @@ pokemon:
     types:
     - [Bug, Steel]
     weight: [118]
-  Scizor-Mega:
-    abilities:
-    - [Technician]
-    egggroups:
-    - [Bug]
-    evolutions:
-    - []
-    height: [2]
-    introduction: xy
-    moves:
-    - []
-    stats:
-    - [70, 150, 140, 65, 100, 75]
-    tags:
-    - []
-    types:
-    - [Bug, Steel]
-    weight: [125]
   Scyther:
     abilities:
     - dp: [Swarm, Technician]

@@ -3,11 +3,19 @@ pokemon:
     abilities:
     - [Blaze]
     - bw: [Blaze, Speed Boost]
+    alts:
+    - xy:
+        Blaziken-Mega:
+          abilities: [Speed Boost]
+          height: 1.9
+          stats: [80, 160, 80, 130, 80, 100]
+          types: [Fire, Fighting]
+          weight: 52
     egggroups:
     - [Ground]
     evolutions:
     - []
-    - xy: [Blaziken-Mega]
+    - xy: []
     height: [1.9]
     introduction: rs
     moves:
@@ -28,24 +36,6 @@ pokemon:
       dp: [uu]
     types:
     - [Fighting, Fire]
-    weight: [52]
-  Blaziken-Mega:
-    abilities:
-    - [Speed Boost]
-    egggroups:
-    - [Field]
-    evolutions:
-    - []
-    height: [1.9]
-    introduction: xy
-    moves:
-    - []
-    stats:
-    - [80, 160, 80, 130, 80, 100]
-    tags:
-    - []
-    types:
-    - [Fire, Fighting]
     weight: [52]
   Combusken:
     abilities:

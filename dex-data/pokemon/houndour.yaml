@@ -4,11 +4,19 @@ pokemon:
     - bw: [Early Bird, Flash Fire, Unnerve]
     - rs: [Early Bird, Flash Fire]
     - []
+    alts:
+    - xy:
+        Houndoom-Mega:
+          abilities: [Solar Power]
+          height: 1.9
+          stats: [75, 90, 90, 140, 90, 115]
+          types: [Dark, Fire]
+          weight: 49.5
     egggroups:
     - [Ground]
     evolutions:
     - []
-    - xy: [Houndoom-Mega]
+    - xy: []
     height: [1.4]
     introduction: gs
     moves:
@@ -25,24 +33,6 @@ pokemon:
     types:
     - [Dark, Fire]
     weight: [35]
-  Houndoom-Mega:
-    abilities:
-    - [Solar Power]
-    egggroups:
-    - [Field]
-    evolutions:
-    - []
-    height: [1.9]
-    introduction: xy
-    moves:
-    - []
-    stats:
-    - [75, 90, 90, 140, 90, 115]
-    tags:
-    - []
-    types:
-    - [Dark, Fire]
-    weight: [49.5]
   Houndour:
     abilities:
     - bw: [Early Bird, Flash Fire, Unnerve]

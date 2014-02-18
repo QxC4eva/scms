@@ -2,11 +2,19 @@ pokemon:
   Abomasnow:
     abilities:
     - [Snow Warning, Soundproof]
+    alts:
+    - xy:
+        Abomasnow-Mega:
+          abilities: [Snow Warning]
+          height: 2.7
+          stats: [90, 132, 105, 132, 105, 30]
+          types: [Grass, Ice]
+          weight: 185
     egggroups:
     - [Monster, Plant]
     evolutions:
     - []
-    - xy: [Abomasnow-Mega]
+    - xy: []
     height: [2.2]
     introduction: dp
     moves:
@@ -25,24 +33,6 @@ pokemon:
     types:
     - [Grass, Ice]
     weight: [135.5]
-  Abomasnow-Mega:
-    abilities:
-    - [Snow Warning]
-    egggroups:
-    - [Monster, Grass]
-    evolutions:
-    - []
-    height: [2.7]
-    introduction: xy
-    moves:
-    - []
-    stats:
-    - [90, 132, 105, 132, 105, 30]
-    tags:
-    - []
-    types:
-    - [Grass, Ice]
-    weight: [185]
   Snover:
     abilities:
     - [Snow Warning, Soundproof]

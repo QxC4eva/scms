@@ -4,11 +4,19 @@ pokemon:
     - [Pressure]
     - bw: [Justified, Pressure, Super Luck]
       dp: [Pressure, Super Luck]
+    alts:
+    - xy:
+        Absol-Mega:
+          abilities: [Magic Bounce]
+          height: 1.2
+          stats: [65, 150, 60, 115, 60, 115]
+          types: [Dark]
+          weight: 49
     egggroups:
     - [Ground]
     evolutions:
     - []
-    - xy: [Absol-Mega]
+    - xy: []
     height: [1.2]
     introduction: rs
     moves:
@@ -88,21 +96,3 @@ pokemon:
     types:
     - [Dark]
     weight: [47]
-  Absol-Mega:
-    abilities:
-    - [Magic Bounce]
-    egggroups:
-    - [Field]
-    evolutions:
-    - []
-    height: [1.2]
-    introduction: xy
-    moves:
-    - []
-    stats:
-    - [65, 150, 60, 115, 60, 115]
-    tags:
-    - []
-    types:
-    - [Dark]
-    weight: [49]

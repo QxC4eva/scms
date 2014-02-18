@@ -22,11 +22,19 @@ pokemon:
   Garchomp:
     abilities:
     - [Rough Skin, Sand Veil]
+    alts:
+    - xy:
+        Garchomp-Mega:
+          abilities: [Sand Force]
+          height: 1.9
+          stats: [108, 170, 115, 120, 95, 92]
+          types: [Dragon, Ground]
+          weight: 95
     egggroups:
     - [Dragon, Monster]
     evolutions:
     - []
-    - xy: [Garchomp-Mega]
+    - xy: []
     height: [1.9]
     introduction: dp
     moves:
@@ -41,24 +49,6 @@ pokemon:
     tags:
     - [uber]
     - bw: [ou]
-    types:
-    - [Dragon, Ground]
-    weight: [95]
-  Garchomp-Mega:
-    abilities:
-    - [Sand Force]
-    egggroups:
-    - [Monster, Dragon]
-    evolutions:
-    - []
-    height: [1.9]
-    introduction: xy
-    moves:
-    - []
-    stats:
-    - [108, 170, 115, 120, 95, 92]
-    tags:
-    - []
     types:
     - [Dragon, Ground]
     weight: [95]

@@ -110,3 +110,17 @@ pokemon:
     types:
     - [Psychic]
     weight: [122]
+    alts:
+    - xy:
+        Mewtwo-Mega-X:
+          types: [Psychic, Fighting]
+          abilities: [Steadfast]
+          weight: 127
+          height: 2.3
+          stats: [106, 190, 100, 154, 100, 130]
+        Mewtwo-Mega-Y:
+          types: [Psychic]
+          abilities: [Insomnia]
+          weight: 33
+          height: 1.5
+          stats: [106, 150, 70, 194, 120, 140]

@@ -9,9 +9,9 @@ pokemon:
     - [Ground]
     evolutions:
     - [Flareon, Jolteon, Vaporeon]
-    - dp: [Glaceon, Leafeon]
-      gs: [Umbreon, Espeon]
-      xy: [Sylveon]
+    - dp: [Flareon, Jolteon, Vaporeon, Glaceon, Leafeon]
+      gs: [Flareon, Jolteon, Vaporeon, Umbreon, Espeon]
+      xy: [Flareon, Jolteon, Vaporeon, Glaceon, Leafeon, Umbreon, Espeon, Sylveon]
     height: [0.3]
     introduction: rb
     moves:
@@ -133,10 +133,10 @@ pokemon:
     - gs: [Ember, Fire Blast, Fire Spin, Flamethrower, Leer, Roar, Smog]
     - bw: [Ember, Fire Blast, Fire Fang, Fire Spin, Flame Charge, Flamethrower, Heat
           Wave, Incinerate, Lava Plume, Overheat, Roar, Rock Smash, Scary Face, Smog,
-        Strength, Superpower, Will-O-Wisp, Body Slam, Double-Edge, Mimic]
+        Strength, Superpower, Will-O-Wisp]
     - dp: [Ember, Fire Blast, Fire Fang, Fire Spin, Flamethrower, Heat Wave, Lava
           Plume, Overheat, Roar, Rock Smash, Scary Face, Smog, Strength, Superpower,
-        Will-O-Wisp, Body Slam, Double-Edge, Mimic]
+        Will-O-Wisp]
     - rs: [Ember, Fire Blast, Fire Spin, Flamethrower, Leer, Overheat, Roar, Smog,
         Body Slam, Double-Edge, Mimic]
     - rb: [Ember, Fire Blast, Fire Spin, Flamethrower, Hyper Beam, Leer, Smog]
@@ -193,10 +193,10 @@ pokemon:
         Thunder Shock]
     - bw: [Agility, Charge Beam, Discharge, Double Kick, Magnet Rise, Pin Missile,
         Thunder, Thunder Fang, Thunder Wave, Thunderbolt, Thunder Shock, Volt Switch,
-        Wild Charge, Body Slam, Double-Edge, Mimic]
+        Wild Charge]
     - dp: [Agility, Charge Beam, Discharge, Double Kick, Magnet Rise, Pin Missile,
         Shock Wave, Thunder, Thunder Fang, Thunder Wave, Thunderbolt, Thunder Shock,
-        Body Slam, Double-Edge, Mimic]
+        ]
     - rs: [Agility, Double Kick, Pin Missile, Shock Wave, Thunder, Thunder Wave, Thunderbolt,
         Thunder Shock, Body Slam, Double-Edge, Mimic]
     - rb: [Agility, Double Kick, Flash, Pin Missile, Thunder, Thunder Wave, Thunderbolt,
@@ -312,11 +312,11 @@ pokemon:
     - gs: [Acid Armor, Aurora Beam, Blizzard, Haze, Hydro Pump, Ice Beam, Icy Wind,
         Surf, Water Gun, Waterfall, Whirlpool]
     - bw: [Acid Armor, Aqua Ring, Aurora Beam, Dive, Haze, Hydro Pump, Muddy Water,
-        Scald, Surf, Water Gun, Water Pulse, Waterfall, Body Slam, Double-Edge, Icy
-          Wind, Mimic]
+        Scald, Surf, Water Gun, Water Pulse, Waterfall, Double-Edge, Icy
+          Wind]
     - dp: [Acid Armor, Aqua Ring, Aurora Beam, Brine, Dive, Haze, Hydro Pump, Muddy
-          Water, Surf, Water Gun, Waterfall, Whirlpool, Body Slam, Double-Edge, Icy
-          Wind, Mimic]
+          Water, Surf, Water Gun, Waterfall, Whirlpool, Icy
+          Wind]
     - rs: [Acid Armor, Aurora Beam, Blizzard, Dive, Hail, Haze, Hydro Pump, Ice Beam,
         Surf, Water Gun, Water Pulse, Waterfall, Body Slam, Double-Edge, Mimic]
     - rb: [Acid Armor, Aurora Beam, Blizzard, Bubble Beam, Haze, Hydro Pump, Ice Beam,

@@ -2425,7 +2425,7 @@ moves:
     pp: [15]
     priority: [0]
     target: [enemy]
-    type: [Normal]
+    type: [Bug]
   Hidden Power Dark:
     accuracy: [100]
     description:
@@ -2438,7 +2438,7 @@ moves:
     pp: [15]
     priority: [0]
     target: [enemy]
-    type: [Normal]
+    type: [Dark]
   Hidden Power Dragon:
     accuracy: [100]
     description:
@@ -2451,7 +2451,7 @@ moves:
     pp: [15]
     priority: [0]
     target: [enemy]
-    type: [Normal]
+    type: [Dragon]
   Hidden Power Electric:
     accuracy: [100]
     description:
@@ -2464,7 +2464,7 @@ moves:
     pp: [15]
     priority: [0]
     target: [enemy]
-    type: [Normal]
+    type: [Electric]
   Hidden Power Fairy:
     accuracy: [100]
     description:
@@ -2475,7 +2475,7 @@ moves:
     pp: [15]
     priority: [0]
     target: [enemy]
-    type: [Normal]
+    type: [Fairy]
   Hidden Power Fighting:
     accuracy: [100]
     description:
@@ -2488,7 +2488,7 @@ moves:
     pp: [15]
     priority: [0]
     target: [enemy]
-    type: [Normal]
+    type: [Fighting]
   Hidden Power Fire:
     accuracy: [100]
     description:
@@ -2501,7 +2501,7 @@ moves:
     pp: [15]
     priority: [0]
     target: [enemy]
-    type: [Normal]
+    type: [Fire]
   Hidden Power Flying:
     accuracy: [100]
     description:
@@ -2514,7 +2514,7 @@ moves:
     pp: [15]
     priority: [0]
     target: [enemy]
-    type: [Normal]
+    type: [Flying]
   Hidden Power Ghost:
     accuracy: [100]
     description:
@@ -2527,7 +2527,7 @@ moves:
     pp: [15]
     priority: [0]
     target: [enemy]
-    type: [Normal]
+    type: [Ghost]
   Hidden Power Grass:
     accuracy: [100]
     description:
@@ -2540,7 +2540,7 @@ moves:
     pp: [15]
     priority: [0]
     target: [enemy]
-    type: [Normal]
+    type: [Grass]
   Hidden Power Ground:
     accuracy: [100]
     description:
@@ -2553,7 +2553,7 @@ moves:
     pp: [15]
     priority: [0]
     target: [enemy]
-    type: [Normal]
+    type: [Ground]
   Hidden Power Ice:
     accuracy: [100]
     description:
@@ -2566,7 +2566,7 @@ moves:
     pp: [15]
     priority: [0]
     target: [enemy]
-    type: [Normal]
+    type: [Ice]
   Hidden Power Poison:
     accuracy: [100]
     description:
@@ -2579,7 +2579,7 @@ moves:
     pp: [15]
     priority: [0]
     target: [enemy]
-    type: [Normal]
+    type: [Poison]
   Hidden Power Psychic:
     accuracy: [100]
     description:
@@ -2592,7 +2592,7 @@ moves:
     pp: [15]
     priority: [0]
     target: [enemy]
-    type: [Normal]
+    type: [Psychic]
   Hidden Power Rock:
     accuracy: [100]
     description:
@@ -2605,7 +2605,7 @@ moves:
     pp: [15]
     priority: [0]
     target: [enemy]
-    type: [Normal]
+    type: [Rock]
   Hidden Power Steel:
     accuracy: [100]
     description:
@@ -2618,7 +2618,7 @@ moves:
     pp: [15]
     priority: [0]
     target: [enemy]
-    type: [Normal]
+    type: [Steel]
   Hidden Power Water:
     accuracy: [100]
     description:
@@ -2631,7 +2631,7 @@ moves:
     pp: [15]
     priority: [0]
     target: [enemy]
-    type: [Normal]
+    type: [Water]
   High Jump Kick:
     accuracy: [90]
     description:

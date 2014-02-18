@@ -41,32 +41,48 @@ pokemon:
     moves:
     - bw: [Attract, Bide, Bite, Bug Bite, Bulldoze, Crunch, Dig, Double Team, Earth
           Power, Earthquake, Endure, Facade, Feint Attack, Feint, Fissure, Flail,
-        Focus Energy, Frustration, Fury Cutter, Giga Drain, Gust, Hidden Power, Hyper
-          Beam, Mud Shot, Mud-Slap, Protect, Quick Attack, Rest, Return, Rock Slide,
-        Rock Smash, Rock Tomb, Round, Sand Attack, Sand Tomb, Sandstorm, Signal Beam,
-        Sleep Talk, Snore, Solar Beam, Strength, Struggle Bug, Substitute, Sunny Day,
-        Superpower, Swagger, Toxic, Body Slam, Double-Edge, Mimic]
+        Focus Energy, Frustration, Fury Cutter, Giga Drain, Gust, Hyper Beam, Mud
+          Shot, Mud-Slap, Protect, Quick Attack, Rest, Return, Rock Slide, Rock Smash,
+        Rock Tomb, Round, Sand Attack, Sand Tomb, Sandstorm, Signal Beam, Sleep Talk,
+        Snore, Solar Beam, Strength, Struggle Bug, Substitute, Sunny Day, Superpower,
+        Swagger, Toxic, Body Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Attract, Bite, Bug Bite, Captivate, Crunch, Dig, Double Team, Earth Power,
         Earthquake, Endure, Facade, Feint Attack, Feint, Fissure, Flail, Focus Energy,
-        Frustration, Fury Cutter, Giga Drain, Gust, Headbutt, Hidden Power, Hyper
-          Beam, Mud Shot, Mud-Slap, Natural Gift, Protect, Quick Attack, Rest, Return,
-        Rock Slide, Rock Smash, Rock Tomb, Sand Attack, Sand Tomb, Sandstorm, Secret
-          Power, Sleep Talk, Snore, Solar Beam, Strength, Substitute, Sunny Day, Swagger,
-        Toxic, Body Slam, Double-Edge, Mimic]
+        Frustration, Fury Cutter, Giga Drain, Gust, Headbutt, Hyper Beam, Mud Shot,
+        Mud-Slap, Natural Gift, Protect, Quick Attack, Rest, Return, Rock Slide, Rock
+          Smash, Rock Tomb, Sand Attack, Sand Tomb, Sandstorm, Secret Power, Sleep
+          Talk, Snore, Solar Beam, Strength, Substitute, Sunny Day, Swagger, Toxic,
+        Body Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rs: [Attract, Bite, Body Slam, Crunch, Dig, Double-Edge, Double Team, Earthquake,
         Endure, Facade, Feint Attack, Focus Energy, Frustration, Giga Drain, Gust,
-        Hidden Power, Hyper Beam, Mimic, Mud-Slap, Protect, Quick Attack, Rest, Return,
-        Rock Slide, Rock Smash, Rock Tomb, Sand Attack, Sand Tomb, Sandstorm, Secret
-          Power, Sleep Talk, Snore, Solar Beam, Strength, Substitute, Sunny Day, Swagger,
-        Toxic, Body Slam, Double-Edge, Mimic]
+        Hyper Beam, Mimic, Mud-Slap, Protect, Quick Attack, Rest, Return, Rock Slide,
+        Rock Smash, Rock Tomb, Sand Attack, Sand Tomb, Sandstorm, Secret Power, Sleep
+          Talk, Snore, Solar Beam, Strength, Substitute, Sunny Day, Swagger, Toxic,
+        Body Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Attract, Bide, Bite, Body Slam, Bug Bite, Bulldoze, Captivate, Crunch,
         Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endure, Facade, Feint
           Attack, Feint, Fissure, Flail, Focus Energy, Frustration, Fury Cutter, Giga
-          Drain, Gust, Headbutt, Hidden Power, Hyper Beam, Mimic, Mud Shot, Mud-Slap,
-        Natural Gift, Protect, Quick Attack, Rest, Return, Rock Slide, Rock Smash,
-        Rock Tomb, Round, Sand Attack, Sandstorm, Sand Tomb, Secret Power, Signal
-          Beam, Sleep Talk, Snore, Superpower, Solar Beam, Strength, Struggle Bug,
-        Substitute, Sunny Day, Swagger, Toxic, Confide]
+          Drain, Gust, Headbutt, Hyper Beam, Mimic, Mud Shot, Mud-Slap, Natural Gift,
+        Protect, Quick Attack, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Round,
+        Sand Attack, Sandstorm, Sand Tomb, Secret Power, Signal Beam, Sleep Talk,
+        Snore, Superpower, Solar Beam, Strength, Struggle Bug, Substitute, Sunny Day,
+        Swagger, Toxic, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [45, 100, 45, 45, 45, 10]
     tags:

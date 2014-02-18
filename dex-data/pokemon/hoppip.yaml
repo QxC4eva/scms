@@ -14,40 +14,62 @@ pokemon:
     moves:
     - gs: [Amnesia, Attract, Confusion, Cotton Spore, Curse, Defense Curl, Double-Edge,
         Double Team, Encore, Endure, Flash, Frustration, Giga Drain, Growl, Headbutt,
-        Hidden Power, Leech Seed, Mega Drain, Pay Day, Poison Powder, Protect, Reflect,
-        Rest, Return, Sleep Powder, Sleep Talk, Snore, Solar Beam, Splash, Stun Spore,
-        Sunny Day, Swagger, Sweet Scent, Synthesis, Tackle, Tail Whip, Toxic]
+        Leech Seed, Mega Drain, Pay Day, Poison Powder, Protect, Reflect, Rest, Return,
+        Sleep Powder, Sleep Talk, Snore, Solar Beam, Splash, Stun Spore, Sunny Day,
+        Swagger, Sweet Scent, Synthesis, Tackle, Tail Whip, Toxic, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - bw: [Acrobatics, Aerial Ace, Amnesia, Aromatherapy, Attract, Bounce, Bullet
           Seed, Confusion, Cotton Guard, Cotton Spore, Double-Edge, Double Team, Encore,
         Endure, Energy Ball, Facade, Flash, Frustration, Giga Drain, Grass Knot, Helping
-          Hand, Hidden Power, Leech Seed, Mega Drain, Memento, Poison Powder, Protect,
-        Psych Up, Rage Powder, Reflect, Rest, Return, Round, Seed Bomb, Sleep Powder,
-        Sleep Talk, Snore, Solar Beam, Splash, Stun Spore, Substitute, Sunny Day,
-        Swagger, Swords Dance, Synthesis, Tackle, Tail Whip, Toxic, U-turn, Worry
-          Seed, Mimic]
+          Hand, Leech Seed, Mega Drain, Memento, Poison Powder, Protect, Psych Up,
+        Rage Powder, Reflect, Rest, Return, Round, Seed Bomb, Sleep Powder, Sleep
+          Talk, Snore, Solar Beam, Splash, Stun Spore, Substitute, Sunny Day, Swagger,
+        Swords Dance, Synthesis, Tackle, Tail Whip, Toxic, U-turn, Worry Seed, Mimic,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - dp: [Aerial Ace, Amnesia, Aromatherapy, Attract, Bounce, Bullet Seed, Captivate,
         Confusion, Cotton Spore, Double-Edge, Double Team, Encore, Endure, Energy
           Ball, Facade, Flash, Frustration, Giga Drain, Grass Knot, Headbutt, Helping
-          Hand, Hidden Power, Leech Seed, Mega Drain, Memento, Natural Gift, Poison
-          Powder, Protect, Psych Up, Reflect, Rest, Return, Secret Power, Seed Bomb,
-        Silver Wind, Sleep Powder, Sleep Talk, Snore, Solar Beam, Splash, Stun Spore,
-        Substitute, Sunny Day, Swagger, Swords Dance, Synthesis, Tackle, Tail Whip,
-        Toxic, U-turn, Worry Seed, Mimic]
+          Hand, Leech Seed, Mega Drain, Memento, Natural Gift, Poison Powder, Protect,
+        Psych Up, Reflect, Rest, Return, Secret Power, Seed Bomb, Silver Wind, Sleep
+          Powder, Sleep Talk, Snore, Solar Beam, Splash, Stun Spore, Substitute, Sunny
+          Day, Swagger, Swords Dance, Synthesis, Tackle, Tail Whip, Toxic, U-turn,
+        Worry Seed, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - rs: [Aerial Ace, Amnesia, Attract, Bullet Seed, Confusion, Cotton Spore, Defense
           Curl, Double-Edge, Double Team, Encore, Endure, Facade, Flash, Frustration,
-        Giga Drain, Helping Hand, Hidden Power, Leech Seed, Mega Drain, Mimic, Poison
-          Powder, Protect, Psych Up, Reflect, Rest, Return, Secret Power, Sleep Powder,
-        Sleep Talk, Snore, Solar Beam, Splash, Stun Spore, Substitute, Sunny Day,
-        Swagger, Swords Dance, Synthesis, Tackle, Tail Whip, Toxic, Mimic]
+        Giga Drain, Helping Hand, Leech Seed, Mega Drain, Mimic, Poison Powder, Protect,
+        Psych Up, Reflect, Rest, Return, Secret Power, Sleep Powder, Sleep Talk, Snore,
+        Solar Beam, Splash, Stun Spore, Substitute, Sunny Day, Swagger, Swords Dance,
+        Synthesis, Tackle, Tail Whip, Toxic, Mimic, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Acrobatics, Aerial Ace, Amnesia, Aromatherapy, Attract, Bounce, Bullet
           Seed, Captivate, Confusion, Cotton Guard, Cotton Spore, Defense Curl, Double-Edge,
         Double Team, Encore, Endure, Energy Ball, Facade, Flash, Frustration, Giga
-          Drain, Grass Knot, Headbutt, Helping Hand, Hidden Power, Leech Seed, Mega
-          Drain, Memento, Mimic, Natural Gift, Poison Powder, Protect, Psych Up, Rage
-          Powder, Reflect, Rest, Return, Round, Secret Power, Seed Bomb, Silver Wind,
-        Sleep Powder, Sleep Talk, Snore, Solar Beam, Splash, Stun Spore, Substitute,
-        Sunny Day, Swagger, Swords Dance, Synthesis, Tackle, Tail Whip, Toxic, U-turn,
-        Worry Seed, Fairy Wind, Infestation, Dazzling Gleam, Confide, Grassy Terrain]
+          Drain, Grass Knot, Headbutt, Helping Hand, Leech Seed, Mega Drain, Memento,
+        Mimic, Natural Gift, Poison Powder, Protect, Psych Up, Rage Powder, Reflect,
+        Rest, Return, Round, Secret Power, Seed Bomb, Silver Wind, Sleep Powder, Sleep
+          Talk, Snore, Solar Beam, Splash, Stun Spore, Substitute, Sunny Day, Swagger,
+        Swords Dance, Synthesis, Tackle, Tail Whip, Toxic, U-turn, Worry Seed, Fairy
+          Wind, Infestation, Dazzling Gleam, Confide, Grassy Terrain, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     stats:
     - [35, 35, 40, 35, 55, 50]
     tags:

@@ -33,21 +33,29 @@ pokemon:
     - bw: [Aerial Ace, Agility, Attract, Bounce, Calm Mind, Captivate, Counter, Covet,
         Cut, Dark Pulse, Detect, Dig, Double Team, Embargo, Extrasensory, Facade,
         Feint Attack, Fake Tears, Fling, Foul Play, Frustration, Fury Swipes, Grass
-          Knot, Hidden Power, Hone Claws, Hyper Voice, Imprison, Incinerate, Knock
-          Off, Leer, Memento, Nasty Plot, Night Daze, Payback, Protect, Psych Up,
-        Punishment, Pursuit, Rain Dance, Rest, Retaliate, Return, Roar, Round, Scary
-          Face, Scratch, Shadow Ball, Sleep Talk, Snarl, Snatch, Snore, Spite, Substitute,
-        Sucker Punch, Sunny Day, Swagger, Swords Dance, Taunt, Thief, Torment, Toxic,
-        Trick, U-turn, Uproar]
+          Knot, Hone Claws, Hyper Voice, Imprison, Incinerate, Knock Off, Leer, Memento,
+        Nasty Plot, Night Daze, Payback, Protect, Psych Up, Punishment, Pursuit, Rain
+          Dance, Rest, Retaliate, Return, Roar, Round, Scary Face, Scratch, Shadow
+          Ball, Sleep Talk, Snarl, Snatch, Snore, Spite, Substitute, Sucker Punch,
+        Sunny Day, Swagger, Swords Dance, Taunt, Thief, Torment, Toxic, Trick, U-turn,
+        Uproar, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - xy: [Aerial Ace, Agility, Attract, Calm Mind, Captivate, Counter, Cut, Dark
           Pulse, Detect, Dig, Double Team, Embargo, Extrasensory, Facade, Feint Attack,
-        Fake Tears, Fling, Foul Play, Frustration, Fury Swipes, Grass Knot, Hidden
-          Power, Hone Claws, Imprison, Incinerate, Leer, Memento, Nasty Plot, Night
-          Daze, Payback, Protect, Psych Up, Punishment, Pursuit, Rain Dance, Rest,
-        Retaliate, Return, Roar, Round, Scary Face, Scratch, Shadow Ball, Snarl, Snatch,
-        Substitute, Sucker Punch, Sunny Day, Swagger, Swords Dance, Taunt, Thief,
-        Torment, Toxic, U-turn, Covet, Bounce, Uproar, Hyper Voice, Snore, Knock Off,
-        Spite, Trick, Sleep Talk, Confide, Copycat]
+        Fake Tears, Fling, Foul Play, Frustration, Fury Swipes, Grass Knot, Hone Claws,
+        Imprison, Incinerate, Leer, Memento, Nasty Plot, Night Daze, Payback, Protect,
+        Psych Up, Punishment, Pursuit, Rain Dance, Rest, Retaliate, Return, Roar,
+        Round, Scary Face, Scratch, Shadow Ball, Snarl, Snatch, Substitute, Sucker
+          Punch, Sunny Day, Swagger, Swords Dance, Taunt, Thief, Torment, Toxic, U-turn,
+        Covet, Bounce, Uproar, Hyper Voice, Snore, Knock Off, Spite, Trick, Sleep
+          Talk, Confide, Copycat, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [40, 65, 40, 80, 40, 65]
     tags:

@@ -48,11 +48,15 @@ pokemon:
     moves:
     - xy: [Scratch, Tail Whip, Ember, Howl, Flame Charge, Psybeam, Fire Spin, Lucky
           Chant, Light Screen, Psyshock, Flamethrower, Will-O-Wisp, Psychic, Sunny
-          Day, Magic Room, Fire Blast, Toxic, Hidden Power, Protect, Rain Dance, Safeguard,
-        Frustration, Solar Beam, Return, Double Team, Facade, Rest, Attract, Thief,
-        Round, Echoed Voice, Overheat, Incinerate, Embargo, Psych Up, Dream Eater,
-        Grass Knot, Swagger, Sleep Talk, Substitute, Power-Up Punch, Confide, Cut,
-        Fire Pledge, Wish, Hypnosis, Heat Wave, Magic Coat]
+          Day, Magic Room, Fire Blast, Toxic, Protect, Rain Dance, Safeguard, Frustration,
+        Solar Beam, Return, Double Team, Facade, Rest, Attract, Thief, Round, Echoed
+          Voice, Overheat, Incinerate, Embargo, Psych Up, Dream Eater, Grass Knot,
+        Swagger, Sleep Talk, Substitute, Power-Up Punch, Confide, Cut, Fire Pledge,
+        Wish, Hypnosis, Heat Wave, Magic Coat, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [40, 45, 40, 62, 60, 60]
     tags:

@@ -12,48 +12,69 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Absorb, Ancient Power, Attract, Aurora Beam, Blizzard, Bubble Beam, Curse,
-        Dig, Double Team, Endure, Flail, Frustration, Giga Drain, Harden, Hidden Power,
-        Ice Beam, Icy Wind, Leer, Mega Drain, Protect, Rain Dance, Rapid Spin, Rest,
-        Return, Rock Smash, Rollout, Sand Attack, Sandstorm, Scratch, Sleep Talk,
-        Snore, Swagger, Thief, Toxic]
+        Dig, Double Team, Endure, Flail, Frustration, Giga Drain, Harden, Ice Beam,
+        Icy Wind, Leer, Mega Drain, Protect, Rain Dance, Rapid Spin, Rest, Return,
+        Rock Smash, Rollout, Sand Attack, Sandstorm, Scratch, Sleep Talk, Snore, Swagger,
+        Thief, Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - bw: [Absorb, Ancient Power, Aqua Jet, Attract, Aurora Beam, Blizzard, Bubble
           Beam, Confuse Ray, Dig, Double Team, Earth Power, Endure, Facade, Flail,
-        Foresight, Frustration, Giga Drain, Hail, Harden, Hidden Power, Hone Claws,
-        Ice Beam, Icy Wind, Iron Defense, Knock Off, Leer, Mega Drain, Metal Sound,
-        Mud Shot, Protect, Rain Dance, Rapid Spin, Rest, Return, Rock Polish, Rock
-          Slide, Rock Smash, Rock Tomb, Round, Sand Attack, Sandstorm, Scald, Scratch,
-        Screech, Sleep Talk, Smack Down, Snore, Stealth Rock, Substitute, Surf, Swagger,
-        Thief, Toxic, Waterfall, Wring Out, Body Slam, Double-Edge, Mimic]
+        Foresight, Frustration, Giga Drain, Hail, Harden, Hone Claws, Ice Beam, Icy
+          Wind, Iron Defense, Knock Off, Leer, Mega Drain, Metal Sound, Mud Shot,
+        Protect, Rain Dance, Rapid Spin, Rest, Return, Rock Polish, Rock Slide, Rock
+          Smash, Rock Tomb, Round, Sand Attack, Sandstorm, Scald, Scratch, Screech,
+        Sleep Talk, Smack Down, Snore, Stealth Rock, Substitute, Surf, Swagger, Thief,
+        Toxic, Waterfall, Wring Out, Body Slam, Double-Edge, Mimic, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - dp: [Absorb, Ancient Power, Aqua Jet, Attract, Aurora Beam, Blizzard, Brine,
         Bubble Beam, Captivate, Confuse Ray, Dig, Double Team, Earth Power, Endure,
-        Facade, Flail, Frustration, Giga Drain, Hail, Harden, Hidden Power, Ice Beam,
-        Icy Wind, Iron Defense, Knock Off, Leer, Mega Drain, Metal Sound, Mud Shot,
-        Mud-Slap, Natural Gift, Protect, Rain Dance, Rapid Spin, Rest, Return, Rock
-          Polish, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sand Attack, Sandstorm,
-        Scratch, Screech, Secret Power, Sleep Talk, Snore, Stealth Rock, Substitute,
-        Surf, Swagger, Thief, Toxic, Water Pulse, Waterfall, Whirlpool, Wring Out,
-        Body Slam, Double-Edge, Mimic]
+        Facade, Flail, Frustration, Giga Drain, Hail, Harden, Ice Beam, Icy Wind,
+        Iron Defense, Knock Off, Leer, Mega Drain, Metal Sound, Mud Shot, Mud-Slap,
+        Natural Gift, Protect, Rain Dance, Rapid Spin, Rest, Return, Rock Polish,
+        Rock Slide, Rock Smash, Rock Tomb, Rollout, Sand Attack, Sandstorm, Scratch,
+        Screech, Secret Power, Sleep Talk, Snore, Stealth Rock, Substitute, Surf,
+        Swagger, Thief, Toxic, Water Pulse, Waterfall, Whirlpool, Wring Out, Body
+          Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
     - rs: [Absorb, Aerial Ace, Ancient Power, Attract, Aurora Beam, Blizzard, Body
           Slam, Bubble Beam, Confuse Ray, Dig, Double-Edge, Double Team, Endure, Facade,
-        Flail, Frustration, Giga Drain, Hail, Harden, Hidden Power, Ice Beam, Icy
-          Wind, Knock Off, Leer, Mega Drain, Metal Sound, Mimic, Mud Shot, Protect,
-        Rain Dance, Rapid Spin, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout,
-        Sand Attack, Sandstorm, Scratch, Secret Power, Sleep Talk, Snore, Substitute,
-        Surf, Swagger, Thief, Toxic, Water Pulse, Waterfall, Body Slam, Double-Edge,
-        Mimic]
+        Flail, Frustration, Giga Drain, Hail, Harden, Ice Beam, Icy Wind, Knock Off,
+        Leer, Mega Drain, Metal Sound, Mimic, Mud Shot, Protect, Rain Dance, Rapid
+          Spin, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sand Attack,
+        Sandstorm, Scratch, Secret Power, Sleep Talk, Snore, Substitute, Surf, Swagger,
+        Thief, Toxic, Water Pulse, Waterfall, Body Slam, Double-Edge, Mimic, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rb: [Absorb, Bide, Blizzard, Body Slam, Bubble Beam, Double-Edge, Double Team,
         Harden, Hydro Pump, Ice Beam, Leer, Mimic, Rage, Reflect, Rest, Scratch, Slash,
         Substitute, Surf, Take Down, Toxic, Water Gun]
     - xy: [Absorb, Aerial Ace, Ancient Power, Aqua Jet, Attract, Aurora Beam, Blizzard,
         Body Slam, Brine, Bubble Beam, Captivate, Confuse Ray, Dig, Double-Edge, Double
           Team, Earth Power, Endure, Facade, Flail, Foresight, Frustration, Giga Drain,
-        Hail, Harden, Hidden Power, Hone Claws, Ice Beam, Icy Wind, Iron Defense,
-        Knock Off, Leer, Mega Drain, Metal Sound, Mimic, Mud Shot, Mud-Slap, Natural
-          Gift, Protect, Rain Dance, Rapid Spin, Rest, Return, Rock Polish, Rock Slide,
-        Rock Smash, Rock Tomb, Rollout, Round, Sand Attack, Sandstorm, Scald, Scratch,
-        Screech, Secret Power, Sleep Talk, Smack Down, Snore, Stealth Rock, Substitute,
-        Surf, Swagger, Thief, Toxic, Waterfall, Water Pulse, Whirlpool, Wring Out,
-        Confide, Take Down]
+        Hail, Harden, Hone Claws, Ice Beam, Icy Wind, Iron Defense, Knock Off, Leer,
+        Mega Drain, Metal Sound, Mimic, Mud Shot, Mud-Slap, Natural Gift, Protect,
+        Rain Dance, Rapid Spin, Rest, Return, Rock Polish, Rock Slide, Rock Smash,
+        Rock Tomb, Rollout, Round, Sand Attack, Sandstorm, Scald, Scratch, Screech,
+        Secret Power, Sleep Talk, Smack Down, Snore, Stealth Rock, Substitute, Surf,
+        Swagger, Thief, Toxic, Waterfall, Water Pulse, Whirlpool, Wring Out, Confide,
+        Take Down, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [30, 80, 90, 45, 45, 55]
     - gs: [30, 80, 90, 55, 45, 55]

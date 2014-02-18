@@ -43,43 +43,64 @@ pokemon:
     introduction: gs
     moves:
     - gs: [Attract, Aurora Beam, Bubble Beam, Curse, Defense Curl, Double Team, Endure,
-        Flamethrower, Focus Energy, Frustration, Haze, Hidden Power, Hyper Beam, Ice
-          Beam, Lock-On, Mud-Slap, Octazooka, Protect, Psybeam, Rain Dance, Rest,
-        Return, Screech, Sleep Talk, Snore, Supersonic, Surf, Swagger, Swift, Thief,
-        Toxic, Water Gun, Whirlpool]
+        Flamethrower, Focus Energy, Frustration, Haze, Hyper Beam, Ice Beam, Lock-On,
+        Mud-Slap, Octazooka, Protect, Psybeam, Rain Dance, Rest, Return, Screech,
+        Sleep Talk, Snore, Supersonic, Surf, Swagger, Swift, Thief, Toxic, Water Gun,
+        Whirlpool, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - bw: [Acid Spray, Attract, Aurora Beam, Blizzard, Bounce, Bubble Beam, Bullet
           Seed, Charge Beam, Dive, Double Team, Facade, Fire Blast, Flail, Flamethrower,
-        Focus Energy, Frustration, Gunk Shot, Haze, Hidden Power, Hydro Pump, Hyper
-          Beam, Ice Beam, Icy Wind, Incinerate, Lock-On, Mud Shot, Octazooka, Protect,
-        Psybeam, Psychic, Rain Dance, Rest, Return, Rock Blast, Round, Scald, Screech,
-        Seed Bomb, Signal Beam, Sleep Talk, Smack Down, Snore, Soak, Substitute, Sunny
-          Day, Supersonic, Surf, Swagger, Swift, Thief, Thunder Wave, Toxic, Water
-          Gun, Water Pulse, Water Spout, Waterfall, Double-Edge, Mimic]
+        Focus Energy, Frustration, Gunk Shot, Haze, Hydro Pump, Hyper Beam, Ice Beam,
+        Icy Wind, Incinerate, Lock-On, Mud Shot, Octazooka, Protect, Psybeam, Psychic,
+        Rain Dance, Rest, Return, Rock Blast, Round, Scald, Screech, Seed Bomb, Signal
+          Beam, Sleep Talk, Smack Down, Snore, Soak, Substitute, Sunny Day, Supersonic,
+        Surf, Swagger, Swift, Thief, Thunder Wave, Toxic, Water Gun, Water Pulse,
+        Water Spout, Waterfall, Double-Edge, Mimic, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Attract, Aurora Beam, Blizzard, Bounce, Brine, Bubble Beam, Bullet Seed,
         Captivate, Charge Beam, Dive, Double Team, Endure, Facade, Fire Blast, Flail,
-        Flamethrower, Focus Energy, Frustration, Gunk Shot, Haze, Hidden Power, Hyper
-          Beam, Ice Beam, Icy Wind, Lock-On, Mud-Slap, Natural Gift, Octazooka, Protect,
-        Psybeam, Psychic, Rain Dance, Rest, Return, Rock Blast, Screech, Secret Power,
-        Seed Bomb, Signal Beam, Sleep Talk, Snore, String Shot, Substitute, Sunny
-          Day, Supersonic, Surf, Swagger, Swift, Thief, Thunder Wave, Toxic, Water
-          Gun, Water Pulse, Water Spout, Waterfall, Whirlpool, Double-Edge, Mimic]
+        Flamethrower, Focus Energy, Frustration, Gunk Shot, Haze, Hyper Beam, Ice
+          Beam, Icy Wind, Lock-On, Mud-Slap, Natural Gift, Octazooka, Protect, Psybeam,
+        Psychic, Rain Dance, Rest, Return, Rock Blast, Screech, Secret Power, Seed
+          Bomb, Signal Beam, Sleep Talk, Snore, String Shot, Substitute, Sunny Day,
+        Supersonic, Surf, Swagger, Swift, Thief, Thunder Wave, Toxic, Water Gun, Water
+          Pulse, Water Spout, Waterfall, Whirlpool, Double-Edge, Mimic, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - rs: [Attract, Aurora Beam, Blizzard, Bubble Beam, Defense Curl, Dive, Double-Edge,
         Double Team, Endure, Facade, Fire Blast, Flamethrower, Focus Energy, Frustration,
-        Haze, Hidden Power, Hyper Beam, Ice Beam, Lock-On, Mimic, Mud-Slap, Octazooka,
-        Protect, Psybeam, Psychic, Rain Dance, Rest, Return, Rock Blast, Screech,
-        Secret Power, Sleep Talk, Snore, Substitute, Sunny Day, Supersonic, Surf,
-        Swagger, Swift, Thief, Thunder Wave, Toxic, Water Gun, Water Pulse, Waterfall,
-        Double-Edge, Mimic]
+        Haze, Hyper Beam, Ice Beam, Lock-On, Mimic, Mud-Slap, Octazooka, Protect,
+        Psybeam, Psychic, Rain Dance, Rest, Return, Rock Blast, Screech, Secret Power,
+        Sleep Talk, Snore, Substitute, Sunny Day, Supersonic, Surf, Swagger, Swift,
+        Thief, Thunder Wave, Toxic, Water Gun, Water Pulse, Waterfall, Double-Edge,
+        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - xy: [Acid Spray, Attract, Aurora Beam, Blizzard, Bounce, Brine, Bubble Beam,
         Bullet Seed, Captivate, Charge Beam, Defense Curl, Dive, Double-Edge, Double
           Team, Endure, Facade, Fire Blast, Flail, Flamethrower, Focus Energy, Frustration,
-        Gunk Shot, Haze, Hidden Power, Hydro Pump, Hyper Beam, Ice Beam, Icy Wind,
-        Incinerate, Lock-On, Mimic, Mud Shot, Mud-Slap, Natural Gift, Octazooka, Protect,
-        Psybeam, Psychic, Rain Dance, Rest, Return, Rock Blast, Round, Scald, Screech,
-        Secret Power, Seed Bomb, Signal Beam, Sleep Talk, Smack Down, Snore, Soak,
-        String Shot, Substitute, Sunny Day, Supersonic, Surf, Swagger, Swift, Thief,
-        Thunder Wave, Toxic, Waterfall, Water Gun, Water Pulse, Water Spout, Whirlpool,
-        Confide, Entrainment]
+        Gunk Shot, Haze, Hydro Pump, Hyper Beam, Ice Beam, Icy Wind, Incinerate, Lock-On,
+        Mimic, Mud Shot, Mud-Slap, Natural Gift, Octazooka, Protect, Psybeam, Psychic,
+        Rain Dance, Rest, Return, Rock Blast, Round, Scald, Screech, Secret Power,
+        Seed Bomb, Signal Beam, Sleep Talk, Smack Down, Snore, Soak, String Shot,
+        Substitute, Sunny Day, Supersonic, Surf, Swagger, Swift, Thief, Thunder Wave,
+        Toxic, Waterfall, Water Gun, Water Pulse, Water Spout, Whirlpool, Confide,
+        Entrainment, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [35, 65, 35, 65, 35, 65]
     tags:

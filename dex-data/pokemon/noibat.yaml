@@ -11,12 +11,16 @@ pokemon:
     moves:
     - xy: [Screech, Supersonic, Tackle, Leech Life, Gust, Bite, Wing Attack, Agility,
         Air Cutter, Roost, Razor Wind, Tailwind, Whirlwind, Super Fang, Air Slash,
-        Hurricane, Toxic, Hidden Power, Sunny Day, Taunt, Protect, Frustration, Solar
-          Beam, Return, Psychic, Shadow Ball, Brick Break, Double Team, Aerial Ace,
-        Torment, Facade, Rest, Attract, Thief, Round, Echoed Voice, Steel Wing, Acrobatics,
-        Shadow Claw, X-Scissor, Dream Eater, Swagger, Sleep Talk, U-turn, Substitute,
-        Wild Charge, Dark Pulse, Confide, Cut, Fly, Draco Meteor, Switcheroo, Snatch,
-        Outrage]
+        Hurricane, Toxic, Sunny Day, Taunt, Protect, Frustration, Solar Beam, Return,
+        Psychic, Shadow Ball, Brick Break, Double Team, Aerial Ace, Torment, Facade,
+        Rest, Attract, Thief, Round, Echoed Voice, Steel Wing, Acrobatics, Shadow
+          Claw, X-Scissor, Dream Eater, Swagger, Sleep Talk, U-turn, Substitute, Wild
+          Charge, Dark Pulse, Confide, Cut, Fly, Draco Meteor, Switcheroo, Snatch,
+        Outrage, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [40, 30, 35, 45, 40, 55]
     tags:

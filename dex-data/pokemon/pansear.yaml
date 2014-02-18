@@ -12,21 +12,29 @@ pokemon:
     - bw: [Acrobatics, Amnesia, Astonish, Attract, Bite, Covet, Crunch, Cut, Dig,
         Double Team, Endeavor, Facade, Fire Blast, Fire Punch, Fire Spin, Flame Burst,
         Flame Charge, Flamethrower, Fling, Frustration, Fury Swipes, Grass Knot, Gunk
-          Shot, Heat Wave, Helping Hand, Hidden Power, Hone Claws, Incinerate, Iron
-          Tail, Knock Off, Leer, Lick, Low Kick, Low Sweep, Nasty Plot, Natural Gift,
-        Overheat, Payback, Protect, Recycle, Rest, Return, Rock Smash, Rock Tomb,
-        Role Play, Round, Scratch, Shadow Claw, Sleep Talk, Snore, Solar Beam, Substitute,
-        Sunny Day, Swagger, Taunt, Thief, Tickle, Torment, Toxic, Uproar, Will-O-Wisp,
-        Work Up, Yawn]
+          Shot, Heat Wave, Helping Hand, Hone Claws, Incinerate, Iron Tail, Knock
+          Off, Leer, Lick, Low Kick, Low Sweep, Nasty Plot, Natural Gift, Overheat,
+        Payback, Protect, Recycle, Rest, Return, Rock Smash, Rock Tomb, Role Play,
+        Round, Scratch, Shadow Claw, Sleep Talk, Snore, Solar Beam, Substitute, Sunny
+          Day, Swagger, Taunt, Thief, Tickle, Torment, Toxic, Uproar, Will-O-Wisp,
+        Work Up, Yawn, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - xy: [Acrobatics, Amnesia, Astonish, Attract, Bite, Covet, Crunch, Cut, Dig,
         Double Team, Facade, Fire Blast, Fire Punch, Fire Spin, Flame Burst, Flame
           Charge, Flamethrower, Fling, Frustration, Fury Swipes, Grass Knot, Heat
-          Wave, Hidden Power, Hone Claws, Incinerate, Leer, Lick, Low Kick, Low Sweep,
-        Nasty Plot, Natural Gift, Overheat, Payback, Protect, Recycle, Rest, Return,
-        Rock Smash, Rock Tomb, Role Play, Round, Scratch, Shadow Claw, Sleep Talk,
-        Solar Beam, Substitute, Sunny Day, Swagger, Taunt, Thief, Tickle, Torment,
-        Toxic, Will-O-Wisp, Work Up, Yawn, Gunk Shot, Uproar, Iron Tail, Snore, Knock
-          Off, Helping Hand, Endeavor, Play Nice, Confide, Disarming Voice]
+          Wave, Hone Claws, Incinerate, Leer, Lick, Low Kick, Low Sweep, Nasty Plot,
+        Natural Gift, Overheat, Payback, Protect, Recycle, Rest, Return, Rock Smash,
+        Rock Tomb, Role Play, Round, Scratch, Shadow Claw, Sleep Talk, Solar Beam,
+        Substitute, Sunny Day, Swagger, Taunt, Thief, Tickle, Torment, Toxic, Will-O-Wisp,
+        Work Up, Yawn, Gunk Shot, Uproar, Iron Tail, Snore, Knock Off, Helping Hand,
+        Endeavor, Play Nice, Confide, Disarming Voice, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     - []
     stats:
     - [50, 53, 48, 53, 48, 64]

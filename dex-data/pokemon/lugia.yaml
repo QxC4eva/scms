@@ -13,62 +13,83 @@ pokemon:
     moves:
     - gs: [Aeroblast, Ancient Power, Blizzard, Curse, Detect, Double Team, Dragon
           Breath, Dream Eater, Earthquake, Endure, Fly, Frustration, Future Sight,
-        Giga Drain, Gust, Headbutt, Hidden Power, Hydro Pump, Hyper Beam, Ice Beam,
-        Icy Wind, Iron Tail, Mud-Slap, Nightmare, Protect, Psych Up, Psychic, Rain
-          Dance, Recover, Rest, Return, Roar, Rock Smash, Safeguard, Sandstorm, Shadow
-          Ball, Sleep Talk, Snore, Steel Wing, Strength, Sunny Day, Surf, Swagger,
-        Swift, Thunder, Thunderbolt, Toxic, Waterfall, Whirlpool, Whirlwind, Zap Cannon]
+        Giga Drain, Gust, Headbutt, Hydro Pump, Hyper Beam, Ice Beam, Icy Wind, Iron
+          Tail, Mud-Slap, Nightmare, Protect, Psych Up, Psychic, Rain Dance, Recover,
+        Rest, Return, Roar, Rock Smash, Safeguard, Sandstorm, Shadow Ball, Sleep Talk,
+        Snore, Steel Wing, Strength, Sunny Day, Surf, Swagger, Swift, Thunder, Thunderbolt,
+        Toxic, Waterfall, Whirlpool, Whirlwind, Zap Cannon, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - bw: [Aerial Ace, Aeroblast, Ancient Power, Aqua Tail, Blizzard, Bulldoze, Calm
           Mind, Charge Beam, Dive, Double Team, Dragon Pulse, Dragon Rush, Dragon
           Tail, Dream Eater, Earth Power, Earthquake, Echoed Voice, Extrasensory,
         Facade, Flash, Fly, Frustration, Future Sight, Giga Drain, Giga Impact, Gust,
-        Hail, Hidden Power, Hydro Pump, Hyper Beam, Hyper Voice, Ice Beam, Icy Wind,
-        Iron Head, Iron Tail, Light Screen, Natural Gift, Protect, Psych Up, Psychic,
-        Psyshock, Punishment, Rain Dance, Recover, Reflect, Rest, Return, Roar, Rock
-          Smash, Roost, Round, Safeguard, Sandstorm, Shadow Ball, Signal Beam, Skill
-          Swap, Sky Attack, Sky Drop, Sleep Talk, Snore, Strength, Substitute, Sunny
-          Day, Surf, Swagger, Tailwind, Telekinesis, Thunder, Thunder Wave, Thunderbolt,
+        Hail, Hydro Pump, Hyper Beam, Hyper Voice, Ice Beam, Icy Wind, Iron Head,
+        Iron Tail, Light Screen, Natural Gift, Protect, Psych Up, Psychic, Psyshock,
+        Punishment, Rain Dance, Recover, Reflect, Rest, Return, Roar, Rock Smash,
+        Roost, Round, Safeguard, Sandstorm, Shadow Ball, Signal Beam, Skill Swap,
+        Sky Attack, Sky Drop, Sleep Talk, Snore, Strength, Substitute, Sunny Day,
+        Surf, Swagger, Tailwind, Telekinesis, Thunder, Thunder Wave, Thunderbolt,
         Toxic, Trick, Waterfall, Weather Ball, Whirlwind, Wonder Room, Zen Headbutt,
         Body Slam, Double-Edge, Feather Dance, Icy Wind, Mimic, Nightmare, Psycho
-          Boost]
+          Boost, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - dp: [Aerial Ace, Aeroblast, Air Cutter, Ancient Power, Aqua Tail, Avalanche,
         Blizzard, Brine, Calm Mind, Charge Beam, Defog, Dive, Double Team, Dragon
           Pulse, Dragon Rush, Dream Eater, Earth Power, Earthquake, Endure, Extrasensory,
         Facade, Flash, Fly, Frustration, Future Sight, Giga Drain, Giga Impact, Gust,
-        Hail, Headbutt, Hidden Power, Hydro Pump, Hyper Beam, Ice Beam, Icy Wind,
-        Iron Head, Iron Tail, Light Screen, Mud-Slap, Natural Gift, Ominous Wind,
-        Protect, Psych Up, Psychic, Punishment, Rain Dance, Recover, Reflect, Rest,
-        Return, Roar, Rock Smash, Roost, Safeguard, Sandstorm, Secret Power, Shadow
-          Ball, Shock Wave, Signal Beam, Skill Swap, Sky Attack, Sleep Talk, Snore,
-        Steel Wing, Strength, Substitute, Sunny Day, Surf, Swagger, Swift, Tailwind,
-        Thunder, Thunder Wave, Thunderbolt, Toxic, Trick, Twister, Water Pulse, Waterfall,
+        Hail, Headbutt, Hydro Pump, Hyper Beam, Ice Beam, Icy Wind, Iron Head, Iron
+          Tail, Light Screen, Mud-Slap, Natural Gift, Ominous Wind, Protect, Psych
+          Up, Psychic, Punishment, Rain Dance, Recover, Reflect, Rest, Return, Roar,
+        Rock Smash, Roost, Safeguard, Sandstorm, Secret Power, Shadow Ball, Shock
+          Wave, Signal Beam, Skill Swap, Sky Attack, Sleep Talk, Snore, Steel Wing,
+        Strength, Substitute, Sunny Day, Surf, Swagger, Swift, Tailwind, Thunder,
+        Thunder Wave, Thunderbolt, Toxic, Trick, Twister, Water Pulse, Waterfall,
         Weather Ball, Whirlpool, Whirlwind, Zen Headbutt, Body Slam, Double-Edge,
-        Feather Dance, Icy Wind, Mimic, Nightmare, Psycho Boost]
+        Feather Dance, Icy Wind, Mimic, Nightmare, Psycho Boost, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - rs: [Aerial Ace, Aeroblast, Ancient Power, Blizzard, Body Slam, Calm Mind, Dive,
         Double-Edge, Double Team, Dream Eater, Earthquake, Endure, Facade, Fly, Frustration,
-        Future Sight, Giga Drain, Gust, Hail, Hidden Power, Hydro Pump, Hyper Beam,
-        Ice Beam, Icy Wind, Iron Tail, Light Screen, Mimic, Mud-Slap, Nightmare, Protect,
-        Psych Up, Psychic, Rain Dance, Recover, Reflect, Rest, Return, Roar, Rock
-          Smash, Safeguard, Sandstorm, Secret Power, Shadow Ball, Shock Wave, Skill
-          Swap, Sleep Talk, Snore, Steel Wing, Strength, Substitute, Sunny Day, Surf,
-        Swagger, Swift, Thunder, Thunder Wave, Thunderbolt, Toxic, Water Pulse, Waterfall,
+        Future Sight, Giga Drain, Gust, Hail, Hydro Pump, Hyper Beam, Ice Beam, Icy
+          Wind, Iron Tail, Light Screen, Mimic, Mud-Slap, Nightmare, Protect, Psych
+          Up, Psychic, Rain Dance, Recover, Reflect, Rest, Return, Roar, Rock Smash,
+        Safeguard, Sandstorm, Secret Power, Shadow Ball, Shock Wave, Skill Swap, Sleep
+          Talk, Snore, Steel Wing, Strength, Substitute, Sunny Day, Surf, Swagger,
+        Swift, Thunder, Thunder Wave, Thunderbolt, Toxic, Water Pulse, Waterfall,
         Whirlwind, Body Slam, Double-Edge, Feather Dance, Icy Wind, Mimic, Nightmare,
-        Psycho Boost]
+        Psycho Boost, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - xy: [Aerial Ace, Aeroblast, Air Cutter, Ancient Power, Aqua Tail, Avalanche,
         Blizzard, Body Slam, Brine, Bulldoze, Calm Mind, Charge Beam, Defog, Dive,
         Double-Edge, Double Team, Dragon Pulse, Dragon Rush, Dragon Tail, Dream Eater,
         Earth Power, Earthquake, Echoed Voice, Endure, Extrasensory, Facade, Feather
           Dance, Flash, Fly, Frustration, Future Sight, Giga Drain, Giga Impact, Gust,
-        Hail, Headbutt, Hidden Power, Hydro Pump, Hyper Beam, Ice Beam, Icy Wind,
-        Iron Head, Iron Tail, Light Screen, Mimic, Mud-Slap, Natural Gift, Nightmare,
-        Ominous Wind, Protect, Psychic, Psycho Boost, Psych Up, Psyshock, Punishment,
-        Rain Dance, Recover, Reflect, Rest, Return, Roar, Rock Smash, Roost, Round,
-        Safeguard, Sandstorm, Secret Power, Shadow Ball, Shock Wave, Signal Beam,
-        Skill Swap, Sky Attack, Sky Drop, Sleep Talk, Snore, Steel Wing, Strength,
-        Substitute, Sunny Day, Surf, Swagger, Swift, Tailwind, Telekinesis, Thunder,
-        Thunderbolt, Thunder Wave, Toxic, Trick, Twister, Waterfall, Water Pulse,
-        Weather Ball, Whirlpool, Whirlwind, Zen Headbutt, Hyper Voice, Wonder Room,
-        Confide]
+        Hail, Headbutt, Hydro Pump, Hyper Beam, Ice Beam, Icy Wind, Iron Head, Iron
+          Tail, Light Screen, Mimic, Mud-Slap, Natural Gift, Nightmare, Ominous Wind,
+        Protect, Psychic, Psycho Boost, Psych Up, Psyshock, Punishment, Rain Dance,
+        Recover, Reflect, Rest, Return, Roar, Rock Smash, Roost, Round, Safeguard,
+        Sandstorm, Secret Power, Shadow Ball, Shock Wave, Signal Beam, Skill Swap,
+        Sky Attack, Sky Drop, Sleep Talk, Snore, Steel Wing, Strength, Substitute,
+        Sunny Day, Surf, Swagger, Swift, Tailwind, Telekinesis, Thunder, Thunderbolt,
+        Thunder Wave, Toxic, Trick, Twister, Waterfall, Water Pulse, Weather Ball,
+        Whirlpool, Whirlwind, Zen Headbutt, Hyper Voice, Wonder Room, Confide, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     stats:
     - [106, 90, 130, 90, 154, 110]
     tags:

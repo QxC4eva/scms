@@ -50,17 +50,26 @@ pokemon:
     moves:
     - bw: [Attract, Autotomize, Block, Bulldoze, Curse, Double Team, Earth Power,
         Earthquake, Explosion, Facade, Flash Cannon, Frustration, Gravity, Harden,
-        Headbutt, Heavy Slam, Hidden Power, Iron Defense, Lock-On, Magnitude, Mud-Slap,
-        Protect, Rest, Return, Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock
-          Tomb, Round, Sand Attack, Sandstorm, Sleep Talk, Smack Down, Snore, Stealth
-          Rock, Stone Edge, Strength, Substitute, Swagger, Tackle, Take Down, Toxic]
+        Headbutt, Heavy Slam, Iron Defense, Lock-On, Magnitude, Mud-Slap, Protect,
+        Rest, Return, Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock Tomb,
+        Round, Sand Attack, Sandstorm, Sleep Talk, Smack Down, Snore, Stealth Rock,
+        Stone Edge, Strength, Substitute, Swagger, Tackle, Take Down, Toxic, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - xy: [Attract, Autotomize, Bulldoze, Curse, Double Team, Earthquake, Explosion,
         Facade, Flash Cannon, Frustration, Gravity, Harden, Headbutt, Heavy Slam,
-        Hidden Power, Iron Defense, Lock-On, Magnitude, Mud-Slap, Protect, Rest, Return,
-        Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Round, Sand Attack,
-        Sandstorm, Smack Down, Stealth Rock, Stone Edge, Strength, Substitute, Swagger,
-        Tackle, Take Down, Toxic, Block, Earth Power, Snore, Sleep Talk, Nature Power,
-        Confide, Wide Guard]
+        Iron Defense, Lock-On, Magnitude, Mud-Slap, Protect, Rest, Return, Rock Blast,
+        Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Round, Sand Attack, Sandstorm,
+        Smack Down, Stealth Rock, Stone Edge, Strength, Substitute, Swagger, Tackle,
+        Take Down, Toxic, Block, Earth Power, Snore, Sleep Talk, Nature Power, Confide,
+        Wide Guard, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [55, 75, 85, 25, 25, 15]
     tags:

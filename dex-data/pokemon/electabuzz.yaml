@@ -71,47 +71,68 @@ pokemon:
     introduction: gs
     moves:
     - gs: [Attract, Barrier, Cross Chop, Curse, Detect, Double Team, Dynamic Punch,
-        Endure, Fire Punch, Flash, Frustration, Headbutt, Hidden Power, Ice Punch,
-        Karate Chop, Leer, Light Screen, Meditate, Mud-Slap, Protect, Psychic, Quick
-          Attack, Rain Dance, Rest, Return, Rolling Kick, Screech, Sleep Talk, Snore,
-        Swagger, Swift, Thief, Thunder, Thunderbolt, Thunder Punch, Toxic, Zap Cannon]
+        Endure, Fire Punch, Flash, Frustration, Headbutt, Ice Punch, Karate Chop,
+        Leer, Light Screen, Meditate, Mud-Slap, Protect, Psychic, Quick Attack, Rain
+          Dance, Rest, Return, Rolling Kick, Screech, Sleep Talk, Snore, Swagger,
+        Swift, Thief, Thunder, Thunderbolt, Thunder Punch, Toxic, Zap Cannon, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - bw: [Attract, Barrier, Brick Break, Charge Beam, Covet, Cross Chop, Discharge,
         Double Team, Dual Chop, Dynamic Punch, Electro Ball, Electroweb, Facade, Feint,
         Fire Punch, Flash, Fling, Focus Punch, Frustration, Hammer Arm, Helping Hand,
-        Hidden Power, Ice Punch, Karate Chop, Leer, Light Screen, Low Kick, Magnet
-          Rise, Meditate, Protect, Psychic, Quick Attack, Rain Dance, Rest, Return,
-        Rock Smash, Rolling Kick, Round, Screech, Shock Wave, Signal Beam, Sleep Talk,
-        Snore, Substitute, Swagger, Swift, Thief, Thunder, Thunder Wave, Thunderbolt,
-        Thunder Punch, Thunder Shock, Toxic, Uproar, Volt Switch, Wild Charge, Body
-          Slam, Double-Edge, Mimic, Seismic Toss]
+        Ice Punch, Karate Chop, Leer, Light Screen, Low Kick, Magnet Rise, Meditate,
+        Protect, Psychic, Quick Attack, Rain Dance, Rest, Return, Rock Smash, Rolling
+          Kick, Round, Screech, Shock Wave, Signal Beam, Sleep Talk, Snore, Substitute,
+        Swagger, Swift, Thief, Thunder, Thunder Wave, Thunderbolt, Thunder Punch,
+        Thunder Shock, Toxic, Uproar, Volt Switch, Wild Charge, Body Slam, Double-Edge,
+        Mimic, Seismic Toss, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - dp: [Attract, Barrier, Brick Break, Captivate, Charge Beam, Cross Chop, Discharge,
         Double Team, Dynamic Punch, Endure, Facade, Feint, Fire Punch, Flash, Fling,
-        Focus Punch, Frustration, Headbutt, Helping Hand, Hidden Power, Ice Punch,
-        Karate Chop, Leer, Light Screen, Low Kick, Magnet Rise, Meditate, Mud-Slap,
-        Natural Gift, Protect, Psychic, Quick Attack, Rain Dance, Rest, Return, Rock
-          Smash, Rolling Kick, Screech, Secret Power, Shock Wave, Signal Beam, Sleep
-          Talk, Snore, Substitute, Swagger, Swift, Thief, Thunder, Thunder Wave, Thunderbolt,
-        Thunder Punch, Thunder Shock, Toxic, Uproar, Body Slam, Double-Edge, Mimic,
-        Seismic Toss]
+        Focus Punch, Frustration, Headbutt, Helping Hand, Ice Punch, Karate Chop,
+        Leer, Light Screen, Low Kick, Magnet Rise, Meditate, Mud-Slap, Natural Gift,
+        Protect, Psychic, Quick Attack, Rain Dance, Rest, Return, Rock Smash, Rolling
+          Kick, Screech, Secret Power, Shock Wave, Signal Beam, Sleep Talk, Snore,
+        Substitute, Swagger, Swift, Thief, Thunder, Thunder Wave, Thunderbolt, Thunder
+          Punch, Thunder Shock, Toxic, Uproar, Body Slam, Double-Edge, Mimic, Seismic
+          Toss, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - rs: [Attract, Barrier, Body Slam, Brick Break, Counter, Cross Chop, Double-Edge,
         Double Team, Dynamic Punch, Endure, Facade, Fire Punch, Flash, Focus Punch,
-        Frustration, Hidden Power, Ice Punch, Karate Chop, Leer, Light Screen, Meditate,
-        Mega Kick, Mega Punch, Mimic, Mud-Slap, Protect, Psychic, Quick Attack, Rain
-          Dance, Rest, Return, Rock Smash, Rolling Kick, Screech, Secret Power, Seismic
-          Toss, Shock Wave, Sleep Talk, Snore, Substitute, Swagger, Swift, Thief,
-        Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Toxic, Body Slam, Double-Edge,
-        Mimic, Seismic Toss]
+        Frustration, Ice Punch, Karate Chop, Leer, Light Screen, Meditate, Mega Kick,
+        Mega Punch, Mimic, Mud-Slap, Protect, Psychic, Quick Attack, Rain Dance, Rest,
+        Return, Rock Smash, Rolling Kick, Screech, Secret Power, Seismic Toss, Shock
+          Wave, Sleep Talk, Snore, Substitute, Swagger, Swift, Thief, Thunder, Thunder
+          Wave, Thunderbolt, Thunder Punch, Toxic, Body Slam, Double-Edge, Mimic,
+        Seismic Toss, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - xy: [Attract, Barrier, Body Slam, Brick Break, Captivate, Charge Beam, Counter,
         Cross Chop, Discharge, Double-Edge, Double Team, Dynamic Punch, Electro Ball,
         Endure, Facade, Feint, Fire Punch, Flash, Fling, Focus Punch, Frustration,
-        Hammer Arm, Headbutt, Helping Hand, Hidden Power, Ice Punch, Karate Chop,
-        Leer, Light Screen, Low Kick, Magnet Rise, Meditate, Mega Kick, Mega Punch,
-        Mimic, Mud-Slap, Natural Gift, Protect, Psychic, Quick Attack, Rain Dance,
-        Rest, Return, Rock Smash, Rolling Kick, Round, Screech, Secret Power, Seismic
-          Toss, Shock Wave, Signal Beam, Sleep Talk, Snore, Substitute, Swagger, Swift,
-        Thief, Thunder, Thunderbolt, Thunder Punch, Thunder Shock, Thunder Wave, Toxic,
-        Uproar, Volt Switch, Wild Charge, Covet, Dual Chop, Electroweb, Power-Up Punch,
-        Confide]
+        Hammer Arm, Headbutt, Helping Hand, Ice Punch, Karate Chop, Leer, Light Screen,
+        Low Kick, Magnet Rise, Meditate, Mega Kick, Mega Punch, Mimic, Mud-Slap, Natural
+          Gift, Protect, Psychic, Quick Attack, Rain Dance, Rest, Return, Rock Smash,
+        Rolling Kick, Round, Screech, Secret Power, Seismic Toss, Shock Wave, Signal
+          Beam, Sleep Talk, Snore, Substitute, Swagger, Swift, Thief, Thunder, Thunderbolt,
+        Thunder Punch, Thunder Shock, Thunder Wave, Toxic, Uproar, Volt Switch, Wild
+          Charge, Covet, Dual Chop, Electroweb, Power-Up Punch, Confide, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     stats:
     - [45, 63, 37, 65, 55, 95]
     tags:

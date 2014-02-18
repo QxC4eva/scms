@@ -12,37 +12,53 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Attract, Barrier, Curse, Double Team, Dream Eater, Dynamic Punch, Encore,
-        Endure, Fire Punch, Flash, Frustration, Headbutt, Hidden Power, Ice Punch,
-        Light Screen, Nightmare, Protect, Psych Up, Psychic, Rain Dance, Rest, Return,
-        Shadow Ball, Sleep Talk, Snore, Sunny Day, Swagger, Teleport, Thief, Thunder
-          Punch, Toxic, Zap Cannon, Foresight]
+        Endure, Fire Punch, Flash, Frustration, Headbutt, Ice Punch, Light Screen,
+        Nightmare, Protect, Psych Up, Psychic, Rain Dance, Rest, Return, Shadow Ball,
+        Sleep Talk, Snore, Sunny Day, Swagger, Teleport, Thief, Thunder Punch, Toxic,
+        Zap Cannon, Foresight, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - bw: [Ally Switch, Attract, Barrier, Body Slam, Calm Mind, Charge Beam, Double
           Team, Double-Edge, Drain Punch, Dream Eater, Embargo, Encore, Energy Ball,
         Facade, Fire Punch, Flash, Fling, Foul Play, Frustration, Grass Knot, Gravity,
-        Guard Split, Guard Swap, Hidden Power, Ice Punch, Iron Tail, Knock Off, Light
-          Screen, Magic Coat, Magic Room, Mimic, Nightmare, Power Trick, Protect,
-        Psych Up, Psychic, Psyshock, Rain Dance, Recycle, Reflect, Rest, Return, Role
-          Play, Round, Safeguard, Seismic Toss, Shadow Ball, Signal Beam, Skill Swap,
-        Sleep Talk, Snatch, Snore, Substitute, Sunny Day, Swagger, Taunt, Telekinesis,
-        Teleport, Thief, Thunder Wave, Thunder Punch, Torment, Toxic, Trick, Trick
-          Room, Wonder Room, Zen Headbutt]
+        Guard Split, Guard Swap, Ice Punch, Iron Tail, Knock Off, Light Screen, Magic
+          Coat, Magic Room, Mimic, Nightmare, Power Trick, Protect, Psych Up, Psychic,
+        Psyshock, Rain Dance, Recycle, Reflect, Rest, Return, Role Play, Round, Safeguard,
+        Seismic Toss, Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snatch, Snore,
+        Substitute, Sunny Day, Swagger, Taunt, Telekinesis, Teleport, Thief, Thunder
+          Wave, Thunder Punch, Torment, Toxic, Trick, Trick Room, Wonder Room, Zen
+          Headbutt, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - dp: [Attract, Barrier, Calm Mind, Captivate, Charge Beam, Double Team, Drain
           Punch, Dream Eater, Embargo, Encore, Endure, Energy Ball, Facade, Fire Punch,
         Flash, Fling, Focus Punch, Frustration, Grass Knot, Gravity, Guard Swap, Headbutt,
-        Hidden Power, Ice Punch, Iron Tail, Knock Off, Light Screen, Magic Coat, Natural
-          Gift, Power Trick, Protect, Psych Up, Psychic, Rain Dance, Recycle, Reflect,
-        Rest, Return, Role Play, Safeguard, Secret Power, Shadow Ball, Shock Wave,
-        Signal Beam, Skill Swap, Sleep Talk, Snatch, Snore, Substitute, Sunny Day,
-        Swagger, Taunt, Teleport, Thief, Thunder Wave, Thunder Punch, Torment, Toxic,
-        Trick, Trick Room, Zen Headbutt]
+        Ice Punch, Iron Tail, Knock Off, Light Screen, Magic Coat, Natural Gift, Power
+          Trick, Protect, Psych Up, Psychic, Rain Dance, Recycle, Reflect, Rest, Return,
+        Role Play, Safeguard, Secret Power, Shadow Ball, Shock Wave, Signal Beam,
+        Skill Swap, Sleep Talk, Snatch, Snore, Substitute, Sunny Day, Swagger, Taunt,
+        Teleport, Thief, Thunder Wave, Thunder Punch, Torment, Toxic, Trick, Trick
+          Room, Zen Headbutt, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - rs: [Attract, Barrier, Body Slam, Calm Mind, Counter, Double-Edge, Double Team,
         Dream Eater, Dynamic Punch, Encore, Endure, Facade, Fire Punch, Flash, Focus
-          Punch, Frustration, Hidden Power, Ice Punch, Iron Tail, Knock Off, Light
-          Screen, Mega Kick, Mega Punch, Metronome, Mimic, Nightmare, Protect, Psych
-          Up, Psychic, Rain Dance, Reflect, Rest, Return, Safeguard, Secret Power,
-        Seismic Toss, Shadow Ball, Shock Wave, Skill Swap, Sleep Talk, Snatch, Snore,
-        Substitute, Sunny Day, Swagger, Taunt, Teleport, Thief, Thunder Wave, Thunder
-          Punch, Torment, Toxic]
+          Punch, Frustration, Ice Punch, Iron Tail, Knock Off, Light Screen, Mega
+          Kick, Mega Punch, Metronome, Mimic, Nightmare, Protect, Psych Up, Psychic,
+        Rain Dance, Reflect, Rest, Return, Safeguard, Secret Power, Seismic Toss,
+        Shadow Ball, Shock Wave, Skill Swap, Sleep Talk, Snatch, Snore, Substitute,
+        Sunny Day, Swagger, Taunt, Teleport, Thief, Thunder Wave, Thunder Punch, Torment,
+        Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - rb: [Bide, Body Slam, Counter, Double-Edge, Double Team, Flash, Mega Kick, Mega
           Punch, Metronome, Mimic, Psychic, Psywave, Rage, Reflect, Rest, Seismic
           Toss, Skull Bash, Submission, Substitute, Take Down, Teleport, Thunder Wave,
@@ -51,14 +67,19 @@ pokemon:
           Beam, Counter, Double-Edge, Double Team, Drain Punch, Dream Eater, Dynamic
           Punch, Embargo, Encore, Endure, Energy Ball, Facade, Fire Punch, Flash,
         Fling, Focus Punch, Frustration, Grass Knot, Gravity, Guard Split, Guard Swap,
-        Headbutt, Hidden Power, Ice Punch, Iron Tail, Knock Off, Light Screen, Magic
-          Coat, Mega Kick, Mega Punch, Metronome, Mimic, Natural Gift, Nightmare,
-        Power Trick, Protect, Psychic, Psych Up, Psyshock, Rain Dance, Recycle, Reflect,
-        Rest, Return, Role Play, Round, Safeguard, Secret Power, Seismic Toss, Shadow
-          Ball, Shock Wave, Signal Beam, Skill Swap, Sleep Talk, Snatch, Snore, Substitute,
+        Headbutt, Ice Punch, Iron Tail, Knock Off, Light Screen, Magic Coat, Mega
+          Kick, Mega Punch, Metronome, Mimic, Natural Gift, Nightmare, Power Trick,
+        Protect, Psychic, Psych Up, Psyshock, Rain Dance, Recycle, Reflect, Rest,
+        Return, Role Play, Round, Safeguard, Secret Power, Seismic Toss, Shadow Ball,
+        Shock Wave, Signal Beam, Skill Swap, Sleep Talk, Snatch, Snore, Substitute,
         Sunny Day, Swagger, Taunt, Telekinesis, Teleport, Thief, Thunder Punch, Thunder
           Wave, Torment, Toxic, Trick, Trick Room, Zen Headbutt, Foul Play, Magic
-          Room, Wonder Room, Dazzling Gleam, Confide, Psycho Shift]
+          Room, Wonder Room, Dazzling Gleam, Confide, Psycho Shift, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     stats:
     - [25, 20, 15, 105, 105, 90]
     - gs: [25, 20, 15, 105, 55, 90]

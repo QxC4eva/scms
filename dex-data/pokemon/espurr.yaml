@@ -10,12 +10,16 @@ pokemon:
     introduction: xy
     moves:
     - xy: [Scratch, Leer, Covet, Confusion, Light Screen, Psybeam, Fake Out, Disarming
-          Voice, Psyshock, Calm Mind, Toxic, Hidden Power, Sunny Day, Protect, Rain
-          Dance, Safeguard, Frustration, Thunderbolt, Return, Psychic, Double Team,
-        Reflect, Torment, Facade, Rest, Attract, Round, Echoed Voice, Energy Ball,
-        Charge Beam, Payback, Flash, Thunder Wave, Psych Up, Dream Eater, Swagger,
-        Sleep Talk, Substitute, Trick Room, Dark Pulse, Confide, Cut, Trick, Yawn,
-        Assist, Barrier]
+          Voice, Psyshock, Calm Mind, Toxic, Sunny Day, Protect, Rain Dance, Safeguard,
+        Frustration, Thunderbolt, Return, Psychic, Double Team, Reflect, Torment,
+        Facade, Rest, Attract, Round, Echoed Voice, Energy Ball, Charge Beam, Payback,
+        Flash, Thunder Wave, Psych Up, Dream Eater, Swagger, Sleep Talk, Substitute,
+        Trick Room, Dark Pulse, Confide, Cut, Trick, Yawn, Assist, Barrier, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     stats:
     - [62, 48, 54, 63, 60, 68]
     tags:

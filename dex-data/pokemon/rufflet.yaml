@@ -29,18 +29,27 @@ pokemon:
     introduction: bw
     moves:
     - bw: [Aerial Ace, Air Slash, Attract, Brave Bird, Bulk Up, Crush Claw, Cut, Defog,
-        Double Team, Facade, Fly, Frustration, Fury Attack, Heat Wave, Hidden Power,
-        Hone Claws, Leer, Peck, Pluck, Protect, Rain Dance, Rest, Retaliate, Return,
-        Rock Slide, Rock Smash, Rock Tomb, Roost, Round, Scary Face, Shadow Claw,
-        Sky Drop, Slash, Sleep Talk, Snore, Strength, Substitute, Sunny Day, Superpower,
-        Swagger, Tailwind, Thrash, Toxic, U-turn, Whirlwind, Wing Attack, Work Up]
-    - xy: [Aerial Ace, Air Slash, Attract, Brave Bird, Bulk Up, Crush Claw, Cut, Defog,
-        Double Team, Facade, Fly, Frustration, Fury Attack, Hidden Power, Hone Claws,
+        Double Team, Facade, Fly, Frustration, Fury Attack, Heat Wave, Hone Claws,
         Leer, Peck, Pluck, Protect, Rain Dance, Rest, Retaliate, Return, Rock Slide,
-        Rock Smash, Rock Tomb, Round, Scary Face, Shadow Claw, Sky Drop, Slash, Strength,
-        Substitute, Sunny Day, Swagger, Tailwind, Thrash, Toxic, U-turn, Whirlwind,
-        Wing Attack, Work Up, Superpower, Snore, Heat Wave, Roost, Sleep Talk, Steel
-          Wing, Confide]
+        Rock Smash, Rock Tomb, Roost, Round, Scary Face, Shadow Claw, Sky Drop, Slash,
+        Sleep Talk, Snore, Strength, Substitute, Sunny Day, Superpower, Swagger, Tailwind,
+        Thrash, Toxic, U-turn, Whirlwind, Wing Attack, Work Up, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - xy: [Aerial Ace, Air Slash, Attract, Brave Bird, Bulk Up, Crush Claw, Cut, Defog,
+        Double Team, Facade, Fly, Frustration, Fury Attack, Hone Claws, Leer, Peck,
+        Pluck, Protect, Rain Dance, Rest, Retaliate, Return, Rock Slide, Rock Smash,
+        Rock Tomb, Round, Scary Face, Shadow Claw, Sky Drop, Slash, Strength, Substitute,
+        Sunny Day, Swagger, Tailwind, Thrash, Toxic, U-turn, Whirlwind, Wing Attack,
+        Work Up, Superpower, Snore, Heat Wave, Roost, Sleep Talk, Steel Wing, Confide,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     stats:
     - [70, 83, 50, 37, 50, 60]
     tags:

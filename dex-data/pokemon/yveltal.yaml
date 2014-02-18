@@ -12,10 +12,14 @@ pokemon:
     - xy: [Hurricane, Razor Wind, Taunt, Roost, Double Team, Air Slash, Snarl, Oblivion
           Wing, Disable, Dark Pulse, Foul Play, Phantom Force, Psychic, Dragon Rush,
         Focus Blast, Sucker Punch, Hyper Beam, Sky Attack, Hone Claws, Dragon Claw,
-        Toxic, Hidden Power, Sunny Day, Protect, Rain Dance, Frustration, Return,
-        Shadow Ball, Aerial Ace, Torment, Facade, Rest, Thief, Round, Steel Wing,
-        Sky Drop, Acrobatics, Embargo, Shadow Claw, Giga Impact, Rock Slide, Dream
-          Eater, Swagger, Sleep Talk, U-turn, Substitute, Confide, Cut, Fly]
+        Toxic, Sunny Day, Protect, Rain Dance, Frustration, Return, Shadow Ball, Aerial
+          Ace, Torment, Facade, Rest, Thief, Round, Steel Wing, Sky Drop, Acrobatics,
+        Embargo, Shadow Claw, Giga Impact, Rock Slide, Dream Eater, Swagger, Sleep
+          Talk, U-turn, Substitute, Confide, Cut, Fly, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [126, 131, 95, 131, 98, 99]
     tags:

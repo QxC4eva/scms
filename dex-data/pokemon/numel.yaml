@@ -41,36 +41,52 @@ pokemon:
     - bw: [After You, Amnesia, Ancient Power, Attract, Body Slam, Bulldoze, Curse,
         Defense Curl, Dig, Double-Edge, Double Team, Earth Power, Earthquake, Echoed
           Voice, Ember, Endure, Facade, Fire Blast, Flame Burst, Flame Charge, Flamethrower,
-        Focus Energy, Frustration, Growl, Heat Wave, Hidden Power, Howl, Incinerate,
-        Iron Head, Lava Plume, Magnitude, Mud Bomb, Overheat, Protect, Rest, Return,
-        Rock Slide, Rock Smash, Rock Tomb, Rollout, Round, Sandstorm, Scary Face,
-        Sleep Talk, Snore, Spit Up, Stealth Rock, Stockpile, Stomp, Strength, Substitute,
-        Sunny Day, Swagger, Swallow, Tackle, Take Down, Toxic, Will-O-Wisp, Yawn,
-        Charm, Mimic]
+        Focus Energy, Frustration, Growl, Heat Wave, Howl, Incinerate, Iron Head,
+        Lava Plume, Magnitude, Mud Bomb, Overheat, Protect, Rest, Return, Rock Slide,
+        Rock Smash, Rock Tomb, Rollout, Round, Sandstorm, Scary Face, Sleep Talk,
+        Snore, Spit Up, Stealth Rock, Stockpile, Stomp, Strength, Substitute, Sunny
+          Day, Swagger, Swallow, Tackle, Take Down, Toxic, Will-O-Wisp, Yawn, Charm,
+        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - dp: [Amnesia, Ancient Power, Attract, Body Slam, Captivate, Defense Curl, Dig,
         Double-Edge, Double Team, Earth Power, Earthquake, Ember, Endure, Facade,
         Fire Blast, Flamethrower, Focus Energy, Frustration, Growl, Headbutt, Heat
-          Wave, Hidden Power, Howl, Lava Plume, Magnitude, Mud Bomb, Mud-Slap, Natural
-          Gift, Overheat, Protect, Rest, Return, Rock Slide, Rock Smash, Rock Tomb,
-        Rollout, Sandstorm, Scary Face, Secret Power, Sleep Talk, Snore, Spit Up,
-        Stealth Rock, Stockpile, Stomp, Strength, Substitute, Sunny Day, Swagger,
-        Swallow, Tackle, Take Down, Toxic, Will-O-Wisp, Yawn, Charm, Mimic]
+          Wave, Howl, Lava Plume, Magnitude, Mud Bomb, Mud-Slap, Natural Gift, Overheat,
+        Protect, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sandstorm,
+        Scary Face, Secret Power, Sleep Talk, Snore, Spit Up, Stealth Rock, Stockpile,
+        Stomp, Strength, Substitute, Sunny Day, Swagger, Swallow, Tackle, Take Down,
+        Toxic, Will-O-Wisp, Yawn, Charm, Mimic, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rs: [Amnesia, Attract, Body Slam, Defense Curl, Dig, Double-Edge, Double Team,
         Earthquake, Ember, Endure, Facade, Fire Blast, Flamethrower, Focus Energy,
-        Frustration, Growl, Hidden Power, Howl, Magnitude, Mimic, Mud-Slap, Overheat,
-        Protect, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sandstorm,
-        Scary Face, Secret Power, Sleep Talk, Snore, Stomp, Strength, Substitute,
-        Sunny Day, Swagger, Tackle, Take Down, Toxic, Charm, Mimic]
+        Frustration, Growl, Howl, Magnitude, Mimic, Mud-Slap, Overheat, Protect, Rest,
+        Return, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sandstorm, Scary Face,
+        Secret Power, Sleep Talk, Snore, Stomp, Strength, Substitute, Sunny Day, Swagger,
+        Tackle, Take Down, Toxic, Charm, Mimic, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Amnesia, Ancient Power, Attract, Body Slam, Bulldoze, Captivate, Charm,
         Curse, Defense Curl, Dig, Double-Edge, Double Team, Earth Power, Earthquake,
         Echoed Voice, Ember, Endure, Facade, Fire Blast, Flame Burst, Flame Charge,
-        Flamethrower, Focus Energy, Frustration, Growl, Headbutt, Heat Wave, Hidden
-          Power, Howl, Incinerate, Iron Head, Lava Plume, Magnitude, Mimic, Mud Bomb,
-        Mud-Slap, Natural Gift, Overheat, Protect, Rest, Return, Rock Slide, Rock
-          Smash, Rock Tomb, Rollout, Round, Sandstorm, Scary Face, Secret Power, Sleep
-          Talk, Snore, Spit Up, Stealth Rock, Stockpile, Stomp, Strength, Substitute,
-        Sunny Day, Swagger, Swallow, Tackle, Take Down, Toxic, Will-O-Wisp, Yawn,
-        After You, Nature Power, Confide, Growth]
+        Flamethrower, Focus Energy, Frustration, Growl, Headbutt, Heat Wave, Howl,
+        Incinerate, Iron Head, Lava Plume, Magnitude, Mimic, Mud Bomb, Mud-Slap, Natural
+          Gift, Overheat, Protect, Rest, Return, Rock Slide, Rock Smash, Rock Tomb,
+        Rollout, Round, Sandstorm, Scary Face, Secret Power, Sleep Talk, Snore, Spit
+          Up, Stealth Rock, Stockpile, Stomp, Strength, Substitute, Sunny Day, Swagger,
+        Swallow, Tackle, Take Down, Toxic, Will-O-Wisp, Yawn, After You, Nature Power,
+        Confide, Growth, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [60, 60, 40, 65, 45, 35]
     tags:

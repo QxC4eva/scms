@@ -16,41 +16,62 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Attract, Baton Pass, Bite, Charm, Curse, Detect, Double Team, Endure, Flail,
-        Focus Energy, Frustration, Growl, Headbutt, Hidden Power, Iron Tail, Mud-Slap,
-        Protect, Quick Attack, Rain Dance, Rest, Return, Sand Attack, Shadow Ball,
-        Sleep Talk, Snore, Sunny Day, Swagger, Swift, Tackle, Tail Whip, Take Down,
-        Toxic]
+        Focus Energy, Frustration, Growl, Headbutt, Iron Tail, Mud-Slap, Protect,
+        Quick Attack, Rain Dance, Rest, Return, Sand Attack, Shadow Ball, Sleep Talk,
+        Snore, Sunny Day, Swagger, Swift, Tackle, Tail Whip, Take Down, Toxic, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - bw: [Attract, Baton Pass, Bite, Charm, Covet, Curse, Detect, Dig, Double-Edge,
         Double Team, Echoed Voice, Endure, Facade, Fake Tears, Flail, Frustration,
-        Growl, Heal Bell, Helping Hand, Hidden Power, Hyper Voice, Iron Tail, Last
-          Resort, Natural Gift, Protect, Quick Attack, Rain Dance, Rest, Retaliate,
-        Return, Round, Sand Attack, Shadow Ball, Sleep Talk, Snore, Stored Power,
-        Substitute, Sunny Day, Swagger, Synchronoise, Tackle, Tail Whip, Take Down,
-        Tickle, Toxic, Trump Card, Wish, Work Up, Yawn, Body Slam, Double-Edge, Mimic]
+        Growl, Heal Bell, Helping Hand, Hyper Voice, Iron Tail, Last Resort, Natural
+          Gift, Protect, Quick Attack, Rain Dance, Rest, Retaliate, Return, Round,
+        Sand Attack, Shadow Ball, Sleep Talk, Snore, Stored Power, Substitute, Sunny
+          Day, Swagger, Synchronoise, Tackle, Tail Whip, Take Down, Tickle, Toxic,
+        Trump Card, Wish, Work Up, Yawn, Body Slam, Double-Edge, Mimic, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - dp: [Attract, Baton Pass, Bite, Captivate, Charm, Covet, Curse, Detect, Dig,
         Double Team, Endure, Facade, Fake Tears, Flail, Frustration, Growl, Headbutt,
-        Heal Bell, Helping Hand, Hidden Power, Iron Tail, Last Resort, Mud-Slap, Natural
-          Gift, Protect, Quick Attack, Rain Dance, Rest, Return, Sand Attack, Secret
-          Power, Shadow Ball, Sleep Talk, Snore, Substitute, Sunny Day, Swagger, Swift,
-        Tackle, Tail Whip, Take Down, Tickle, Toxic, Trump Card, Wish, Yawn, Body
-          Slam, Double-Edge, Mimic]
+        Heal Bell, Helping Hand, Iron Tail, Last Resort, Mud-Slap, Natural Gift, Protect,
+        Quick Attack, Rain Dance, Rest, Return, Sand Attack, Secret Power, Shadow
+          Ball, Sleep Talk, Snore, Substitute, Sunny Day, Swagger, Swift, Tackle,
+        Tail Whip, Take Down, Tickle, Toxic, Trump Card, Wish, Yawn, Body Slam, Double-Edge,
+        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - rs: [Attract, Baton Pass, Bite, Body Slam, Charm, Curse, Dig, Double-Edge, Double
-          Team, Endure, Facade, Flail, Frustration, Growl, Helping Hand, Hidden Power,
-        Iron Tail, Mimic, Mud-Slap, Protect, Quick Attack, Rain Dance, Rest, Return,
-        Sand Attack, Secret Power, Shadow Ball, Sleep Talk, Snore, Substitute, Sunny
-          Day, Swagger, Swift, Tackle, Tail Whip, Take Down, Tickle, Toxic, Wish,
-        Body Slam, Double-Edge, Mimic]
+          Team, Endure, Facade, Flail, Frustration, Growl, Helping Hand, Iron Tail,
+        Mimic, Mud-Slap, Protect, Quick Attack, Rain Dance, Rest, Return, Sand Attack,
+        Secret Power, Shadow Ball, Sleep Talk, Snore, Substitute, Sunny Day, Swagger,
+        Swift, Tackle, Tail Whip, Take Down, Tickle, Toxic, Wish, Body Slam, Double-Edge,
+        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - rb: [Bide, Bite, Body Slam, Double-Edge, Double Team, Focus Energy, Growl, Mimic,
         Quick Attack, Rage, Reflect, Rest, Sand Attack, Skull Bash, Substitute, Swift,
         Tackle, Tail Whip, Take Down, Toxic]
     - xy: [Attract, Baton Pass, Bite, Body Slam, Captivate, Charm, Covet, Curse, Detect,
         Dig, Double-Edge, Double Team, Echoed Voice, Endure, Facade, Fake Tears, Flail,
-        Frustration, Growl, Headbutt, Heal Bell, Helping Hand, Hidden Power, Hyper
-          Voice, Iron Tail, Last Resort, Mimic, Mud-Slap, Natural Gift, Protect, Quick
-          Attack, Rain Dance, Rest, Retaliate, Return, Round, Sand Attack, Secret
-          Power, Shadow Ball, Sing, Sleep Talk, Snore, Stored Power, Substitute, Sunny
-          Day, Swagger, Swift, Synchronoise, Tackle, Tail Whip, Take Down, Tickle,
-        Toxic, Trump Card, Wish, Work Up, Yawn, Baby-Doll Eyes, Refresh, Confide]
+        Frustration, Growl, Headbutt, Heal Bell, Helping Hand, Hyper Voice, Iron Tail,
+        Last Resort, Mimic, Mud-Slap, Natural Gift, Protect, Quick Attack, Rain Dance,
+        Rest, Retaliate, Return, Round, Sand Attack, Secret Power, Shadow Ball, Sing,
+        Sleep Talk, Snore, Stored Power, Substitute, Sunny Day, Swagger, Swift, Synchronoise,
+        Tackle, Tail Whip, Take Down, Tickle, Toxic, Trump Card, Wish, Work Up, Yawn,
+        Baby-Doll Eyes, Refresh, Confide, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [55, 55, 50, 65, 65, 55]
     - gs: [55, 55, 50, 45, 65, 55]

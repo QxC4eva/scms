@@ -12,20 +12,29 @@ pokemon:
     - bw: [Attract, Bide, Bind, Block, Body Slam, Brick Break, Bulk Up, Bulldoze,
         Circle Throw, Dig, Double Team, Earthquake, Endure, Facade, Fire Punch, Fling,
         Focus Blast, Focus Energy, Frustration, Giga Impact, Grass Knot, Helping Hand,
-        Hidden Power, Ice Punch, Knock Off, Leer, Low Kick, Low Sweep, Pain Split,
-        Payback, Poison Jab, Protect, Rain Dance, Rest, Retaliate, Return, Revenge,
-        Reversal, Rock Slide, Rock Smash, Rock Tomb, Round, Seismic Toss, Sleep Talk,
-        Snore, Stone Edge, Storm Throw, Strength, Substitute, Sunny Day, Superpower,
-        Swagger, Taunt, Thunder Punch, Toxic, Vital Throw, Wide Guard, Work Up]
+        Ice Punch, Knock Off, Leer, Low Kick, Low Sweep, Pain Split, Payback, Poison
+          Jab, Protect, Rain Dance, Rest, Retaliate, Return, Revenge, Reversal, Rock
+          Slide, Rock Smash, Rock Tomb, Round, Seismic Toss, Sleep Talk, Snore, Stone
+          Edge, Storm Throw, Strength, Substitute, Sunny Day, Superpower, Swagger,
+        Taunt, Thunder Punch, Toxic, Vital Throw, Wide Guard, Work Up, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - xy: [Attract, Bide, Bind, Body Slam, Brick Break, Bulk Up, Bulldoze, Circle
           Throw, Dig, Double Team, Earthquake, Endure, Facade, Fling, Focus Blast,
-        Focus Energy, Frustration, Giga Impact, Grass Knot, Hidden Power, Leer, Low
-          Sweep, Payback, Poison Jab, Protect, Rain Dance, Rest, Retaliate, Return,
-        Revenge, Reversal, Rock Slide, Rock Smash, Rock Tomb, Round, Seismic Toss,
-        Stone Edge, Storm Throw, Strength, Substitute, Sunny Day, Superpower, Swagger,
-        Taunt, Toxic, Vital Throw, Wide Guard, Work Up, Low Kick, Thunder Punch, Fire
-          Punch, Ice Punch, Block, Snore, Knock Off, Pain Split, Helping Hand, Sleep
-          Talk, Power-Up Punch, Confide]
+        Focus Energy, Frustration, Giga Impact, Grass Knot, Leer, Low Sweep, Payback,
+        Poison Jab, Protect, Rain Dance, Rest, Retaliate, Return, Revenge, Reversal,
+        Rock Slide, Rock Smash, Rock Tomb, Round, Seismic Toss, Stone Edge, Storm
+          Throw, Strength, Substitute, Sunny Day, Superpower, Swagger, Taunt, Toxic,
+        Vital Throw, Wide Guard, Work Up, Low Kick, Thunder Punch, Fire Punch, Ice
+          Punch, Block, Snore, Knock Off, Pain Split, Helping Hand, Sleep Talk, Power-Up
+          Punch, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [120, 100, 85, 30, 85, 45]
     tags:

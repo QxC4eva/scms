@@ -30,19 +30,28 @@ pokemon:
     - bw: [Aerial Ace, Air Slash, Aqua Jet, Aqua Tail, Assurance, Attract, Blizzard,
         Brine, Copycat, Covet, Cut, Detect, Dig, Dive, Double Team, Encore, Facade,
         False Swipe, Fling, Focus Energy, Frustration, Fury Cutter, Grass Knot, Hail,
-        Helping Hand, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Iron Tail, Night
-          Slash, Protect, Rain Dance, Razor Shell, Rest, Retaliate, Return, Revenge,
-        Rock Smash, Round, Scald, Screech, Sleep Talk, Snore, Substitute, Surf, Swagger,
-        Swords Dance, Tackle, Tail Whip, Taunt, Toxic, Trump Card, Water Gun, Water
-          Pledge, Water Pulse, Water Sport, Waterfall, X-Scissor]
+        Helping Hand, Hydro Pump, Ice Beam, Icy Wind, Iron Tail, Night Slash, Protect,
+        Rain Dance, Razor Shell, Rest, Retaliate, Return, Revenge, Rock Smash, Round,
+        Scald, Screech, Sleep Talk, Snore, Substitute, Surf, Swagger, Swords Dance,
+        Tackle, Tail Whip, Taunt, Toxic, Trump Card, Water Gun, Water Pledge, Water
+          Pulse, Water Sport, Waterfall, X-Scissor, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Aerial Ace, Air Slash, Aqua Jet, Aqua Tail, Assurance, Attract, Blizzard,
         Brine, Copycat, Cut, Detect, Dig, Dive, Double Team, Encore, Facade, False
           Swipe, Fling, Focus Energy, Frustration, Fury Cutter, Grass Knot, Hail,
-        Hidden Power, Hydro Pump, Ice Beam, Night Slash, Protect, Rain Dance, Razor
-          Shell, Rest, Retaliate, Return, Revenge, Rock Smash, Round, Scald, Screech,
-        Substitute, Surf, Swagger, Swords Dance, Tackle, Tail Whip, Taunt, Toxic,
-        Trump Card, Waterfall, Water Gun, Water Pledge, Water Pulse, Water Sport,
-        X-Scissor, Covet, Icy Wind, Iron Tail, Snore, Helping Hand, Sleep Talk, Confide]
+        Hydro Pump, Ice Beam, Night Slash, Protect, Rain Dance, Razor Shell, Rest,
+        Retaliate, Return, Revenge, Rock Smash, Round, Scald, Screech, Substitute,
+        Surf, Swagger, Swords Dance, Tackle, Tail Whip, Taunt, Toxic, Trump Card,
+        Waterfall, Water Gun, Water Pledge, Water Pulse, Water Sport, X-Scissor, Covet,
+        Icy Wind, Iron Tail, Snore, Helping Hand, Sleep Talk, Confide, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     - []
     stats:
     - [55, 55, 45, 63, 45, 45]

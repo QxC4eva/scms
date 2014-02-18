@@ -11,31 +11,43 @@ pokemon:
     moves:
     - bw: [Attract, Aurora Beam, Calm Mind, Charge Beam, Confusion, Double Team, Dream
           Eater, Energy Ball, Facade, Flash, Frustration, Future Sight, Giga Impact,
-        Grass Knot, Gravity, Helping Hand, Hidden Power, Hyper Beam, Ice Beam, Icy
-          Wind, Light Screen, Lunar Dance, Magic Coat, Magic Room, Mist, Moonlight,
-        Protect, Psych Up, Psychic, Psycho Cut, Psycho Shift, Psyshock, Rain Dance,
-        Recycle, Reflect, Rest, Return, Round, Safeguard, Shadow Ball, Signal Beam,
-        Skill Swap, Slash, Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day, Swagger,
-        Telekinesis, Thunder Wave, Toxic, Trick, Trick Room, Zen Headbutt]
+        Grass Knot, Gravity, Helping Hand, Hyper Beam, Ice Beam, Icy Wind, Light Screen,
+        Lunar Dance, Magic Coat, Magic Room, Mist, Moonlight, Protect, Psych Up, Psychic,
+        Psycho Cut, Psycho Shift, Psyshock, Rain Dance, Recycle, Reflect, Rest, Return,
+        Round, Safeguard, Shadow Ball, Signal Beam, Skill Swap, Slash, Sleep Talk,
+        Snore, Solar Beam, Substitute, Sunny Day, Swagger, Telekinesis, Thunder Wave,
+        Toxic, Trick, Trick Room, Zen Headbutt, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Attract, Aurora Beam, Calm Mind, Captivate, Charge Beam, Confusion, Double
           Team, Dream Eater, Endure, Energy Ball, Facade, Flash, Frustration, Fury
-          Cutter, Future Sight, Giga Impact, Grass Knot, Gravity, Helping Hand, Hidden
-          Power, Hyper Beam, Ice Beam, Icy Wind, Light Screen, Lunar Dance, Magic
-          Coat, Mist, Moonlight, Mud-Slap, Natural Gift, Protect, Psych Up, Psychic,
-        Psycho Cut, Psycho Shift, Rain Dance, Recycle, Reflect, Rest, Return, Safeguard,
-        Secret Power, Shadow Ball, Signal Beam, Skill Swap, Slash, Sleep Talk, Snore,
-        Solar Beam, Substitute, Sunny Day, Swagger, Swift, Thunder Wave, Toxic, Trick,
-        Trick Room, Zen Headbutt]
+          Cutter, Future Sight, Giga Impact, Grass Knot, Gravity, Helping Hand, Hyper
+          Beam, Ice Beam, Icy Wind, Light Screen, Lunar Dance, Magic Coat, Mist, Moonlight,
+        Mud-Slap, Natural Gift, Protect, Psych Up, Psychic, Psycho Cut, Psycho Shift,
+        Rain Dance, Recycle, Reflect, Rest, Return, Safeguard, Secret Power, Shadow
+          Ball, Signal Beam, Skill Swap, Slash, Sleep Talk, Snore, Solar Beam, Substitute,
+        Sunny Day, Swagger, Swift, Thunder Wave, Toxic, Trick, Trick Room, Zen Headbutt,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - xy: [Attract, Aurora Beam, Calm Mind, Captivate, Charge Beam, Confusion, Double
           Team, Dream Eater, Endure, Energy Ball, Facade, Flash, Frustration, Fury
-          Cutter, Future Sight, Giga Impact, Grass Knot, Gravity, Helping Hand, Hidden
-          Power, Hyper Beam, Ice Beam, Icy Wind, Light Screen, Lunar Dance, Magic
-          Coat, Mist, Moonlight, Mud-Slap, Natural Gift, Protect, Psychic, Psycho
-          Cut, Psycho Shift, Psych Up, Psyshock, Rain Dance, Recycle, Reflect, Rest,
-        Return, Round, Safeguard, Secret Power, Shadow Ball, Signal Beam, Skill Swap,
-        Slash, Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day, Swagger, Swift,
-        Telekinesis, Thunder Wave, Toxic, Trick, Trick Room, Zen Headbutt, Magic Room,
-        Moonblast, Confide]
+          Cutter, Future Sight, Giga Impact, Grass Knot, Gravity, Helping Hand, Hyper
+          Beam, Ice Beam, Icy Wind, Light Screen, Lunar Dance, Magic Coat, Mist, Moonlight,
+        Mud-Slap, Natural Gift, Protect, Psychic, Psycho Cut, Psycho Shift, Psych
+          Up, Psyshock, Rain Dance, Recycle, Reflect, Rest, Return, Round, Safeguard,
+        Secret Power, Shadow Ball, Signal Beam, Skill Swap, Slash, Sleep Talk, Snore,
+        Solar Beam, Substitute, Sunny Day, Swagger, Swift, Telekinesis, Thunder Wave,
+        Toxic, Trick, Trick Room, Zen Headbutt, Magic Room, Moonblast, Confide, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     stats:
     - [120, 70, 120, 75, 130, 85]
     tags:

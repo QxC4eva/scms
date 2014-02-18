@@ -12,16 +12,24 @@ pokemon:
     moves:
     - bw: [Aerial Ace, Air Cutter, Air Slash, Attract, Bestow, Detect, Double Team,
         Echoed Voice, Facade, Feather Dance, Fly, Frustration, Growl, Gust, Heat Wave,
-        Hidden Power, Hypnosis, Leer, Lucky Chant, Morning Sun, Pluck, Protect, Quick
-          Attack, Rain Dance, Razor Wind, Rest, Return, Roost, Round, Sky Attack,
-        Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day, Swagger, Tailwind, Taunt,
-        Toxic, U-turn, Uproar, Wish, Work Up]
+        Hypnosis, Leer, Lucky Chant, Morning Sun, Pluck, Protect, Quick Attack, Rain
+          Dance, Razor Wind, Rest, Return, Roost, Round, Sky Attack, Sleep Talk, Snore,
+        Steel Wing, Substitute, Sunny Day, Swagger, Tailwind, Taunt, Toxic, U-turn,
+        Uproar, Wish, Work Up, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - xy: [Aerial Ace, Air Cutter, Air Slash, Attract, Bestow, Detect, Double Team,
-        Echoed Voice, Facade, Feather Dance, Fly, Frustration, Growl, Gust, Hidden
-          Power, Hypnosis, Leer, Lucky Chant, Morning Sun, Pluck, Protect, Quick Attack,
-        Rain Dance, Razor Wind, Rest, Return, Roost, Round, Sky Attack, Steel Wing,
-        Substitute, Sunny Day, Swagger, Tailwind, Taunt, Toxic, Uproar, U-turn, Wish,
-        Work Up, Snore, Heat Wave, Sleep Talk, Confide, Night Slash]
+        Echoed Voice, Facade, Feather Dance, Fly, Frustration, Growl, Gust, Hypnosis,
+        Leer, Lucky Chant, Morning Sun, Pluck, Protect, Quick Attack, Rain Dance,
+        Razor Wind, Rest, Return, Roost, Round, Sky Attack, Steel Wing, Substitute,
+        Sunny Day, Swagger, Tailwind, Taunt, Toxic, Uproar, U-turn, Wish, Work Up,
+        Snore, Heat Wave, Sleep Talk, Confide, Night Slash, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     - []
     stats:
     - [50, 55, 50, 36, 30, 43]

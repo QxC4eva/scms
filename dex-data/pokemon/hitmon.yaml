@@ -125,37 +125,58 @@ pokemon:
     introduction: gs
     moves:
     - gs: [Attract, Curse, Detect, Double Team, Endure, Frustration, Headbutt, High
-          Jump Kick, Hidden Power, Mach Punch, Mind Reader, Mud-Slap, Protect, Rapid
-          Spin, Rest, Return, Rock Smash, Sleep Talk, Snore, Strength, Sunny Day,
-        Swagger, Swift, Tackle, Thief, Toxic]
+          Jump Kick, Mach Punch, Mind Reader, Mud-Slap, Protect, Rapid Spin, Rest,
+        Return, Rock Smash, Sleep Talk, Snore, Strength, Sunny Day, Swagger, Swift,
+        Tackle, Thief, Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - bw: [Attract, Brick Break, Bulk Up, Bulldoze, Bullet Punch, Counter, Covet,
         Double Team, Earthquake, Endure, Facade, Fake Out, Feint, Foresight, Frustration,
-        Helping Hand, High Jump Kick, Hidden Power, Low Kick, Low Sweep, Mach Punch,
-        Mind Reader, Protect, Pursuit, Rain Dance, Rapid Spin, Rest, Retaliate, Return,
-        Rock Slide, Rock Smash, Role Play, Round, Sleep Talk, Snore, Strength, Substitute,
-        Sunny Day, Swagger, Tackle, Thief, Toxic, Uproar, Vacuum Wave, Work Up, Body
-          Slam, Double-Edge, Mimic, Seismic Toss]
+        Helping Hand, High Jump Kick, Low Kick, Low Sweep, Mach Punch, Mind Reader,
+        Protect, Pursuit, Rain Dance, Rapid Spin, Rest, Retaliate, Return, Rock Slide,
+        Rock Smash, Role Play, Round, Sleep Talk, Snore, Strength, Substitute, Sunny
+          Day, Swagger, Tackle, Thief, Toxic, Uproar, Vacuum Wave, Work Up, Body Slam,
+        Double-Edge, Mimic, Seismic Toss, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Attract, Brick Break, Bulk Up, Bullet Punch, Captivate, Counter, Double
           Team, Earthquake, Endure, Facade, Fake Out, Foresight, Frustration, Headbutt,
-        Helping Hand, High Jump Kick, Hidden Power, Low Kick, Mach Punch, Mind Reader,
-        Mud-Slap, Natural Gift, Protect, Rain Dance, Rapid Spin, Rest, Return, Rock
-          Slide, Rock Smash, Role Play, Secret Power, Sleep Talk, Snore, Strength,
-        Substitute, Sunny Day, Swagger, Swift, Tackle, Thief, Toxic, Uproar, Vacuum
-          Wave, Body Slam, Double-Edge, Mimic, Seismic Toss]
+        Helping Hand, High Jump Kick, Low Kick, Mach Punch, Mind Reader, Mud-Slap,
+        Natural Gift, Protect, Rain Dance, Rapid Spin, Rest, Return, Rock Slide, Rock
+          Smash, Role Play, Secret Power, Sleep Talk, Snore, Strength, Substitute,
+        Sunny Day, Swagger, Swift, Tackle, Thief, Toxic, Uproar, Vacuum Wave, Body
+          Slam, Double-Edge, Mimic, Seismic Toss, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rs: [Attract, Body Slam, Brick Break, Bulk Up, Counter, Double-Edge, Double
           Team, Earthquake, Endure, Facade, Frustration, Helping Hand, High Jump Kick,
-        Hidden Power, Mach Punch, Mega Kick, Mimic, Mind Reader, Mud-Slap, Protect,
-        Rain Dance, Rapid Spin, Rest, Return, Rock Slide, Rock Smash, Secret Power,
-        Seismic Toss, Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger,
-        Swift, Tackle, Thief, Toxic, Body Slam, Double-Edge, Mimic, Seismic Toss]
+        Mach Punch, Mega Kick, Mimic, Mind Reader, Mud-Slap, Protect, Rain Dance,
+        Rapid Spin, Rest, Return, Rock Slide, Rock Smash, Secret Power, Seismic Toss,
+        Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger, Swift, Tackle,
+        Thief, Toxic, Body Slam, Double-Edge, Mimic, Seismic Toss, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - xy: [Attract, Body Slam, Brick Break, Bulk Up, Bulldoze, Bullet Punch, Captivate,
         Counter, Double-Edge, Double Team, Earthquake, Endure, Facade, Fake Out, Feint,
-        Foresight, Frustration, Headbutt, Helping Hand, Hidden Power, High Jump Kick,
-        Low Kick, Low Sweep, Mach Punch, Mega Kick, Mimic, Mind Reader, Mud-Slap,
-        Natural Gift, Protect, Pursuit, Rain Dance, Rapid Spin, Rest, Retaliate, Return,
-        Rock Slide, Rock Smash, Role Play, Round, Secret Power, Seismic Toss, Sleep
-          Talk, Snore, Strength, Substitute, Sunny Day, Swagger, Swift, Tackle, Thief,
-        Toxic, Uproar, Vacuum Wave, Work Up, Covet, Confide]
+        Foresight, Frustration, Headbutt, Helping Hand, High Jump Kick, Low Kick,
+        Low Sweep, Mach Punch, Mega Kick, Mimic, Mind Reader, Mud-Slap, Natural Gift,
+        Protect, Pursuit, Rain Dance, Rapid Spin, Rest, Retaliate, Return, Rock Slide,
+        Rock Smash, Role Play, Round, Secret Power, Seismic Toss, Sleep Talk, Snore,
+        Strength, Substitute, Sunny Day, Swagger, Swift, Tackle, Thief, Toxic, Uproar,
+        Vacuum Wave, Work Up, Covet, Confide, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [35, 35, 35, 35, 35, 35]
     tags:

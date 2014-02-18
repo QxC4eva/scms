@@ -11,11 +11,15 @@ pokemon:
     moves:
     - xy: [Tackle, Leer, Ember, Work Up, Headbutt, Noble Roar, Take Down, Fire Fang,
         Endeavor, Echoed Voice, Flamethrower, Crunch, Hyper Voice, Incinerate, Overheat,
-        Roar, Toxic, Hidden Power, Sunny Day, Taunt, Protect, Rain Dance, Frustration,
-        Solar Beam, Return, Dig, Double Team, Fire Blast, Facade, Flame Charge, Rest,
-        Attract, Thief, Round, Will-O-Wisp, Payback, Retaliate, Bulldoze, Swagger,
-        Sleep Talk, Substitute, Wild Charge, Rock Smash, Snarl, Dark Pulse, Confide,
-        Strength, Yawn, Entrainment, Snatch, Fire Spin]
+        Roar, Toxic, Sunny Day, Taunt, Protect, Rain Dance, Frustration, Solar Beam,
+        Return, Dig, Double Team, Fire Blast, Facade, Flame Charge, Rest, Attract,
+        Thief, Round, Will-O-Wisp, Payback, Retaliate, Bulldoze, Swagger, Sleep Talk,
+        Substitute, Wild Charge, Rock Smash, Snarl, Dark Pulse, Confide, Strength,
+        Yawn, Entrainment, Snatch, Fire Spin, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [62, 50, 58, 73, 54, 72]
     tags:

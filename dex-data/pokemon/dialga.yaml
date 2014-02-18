@@ -14,36 +14,48 @@ pokemon:
         Bulldoze, Cut, Double Team, Draco Meteor, Dragon Claw, Dragon Pulse, Dragon
           Tail, Dragon Breath, Earth Power, Earthquake, Echoed Voice, Facade, Fire
           Blast, Flamethrower, Flash, Flash Cannon, Frustration, Giga Impact, Gravity,
-        Hidden Power, Hone Claws, Hyper Beam, Hyper Voice, Ice Beam, Incinerate, Iron
-          Defense, Iron Head, Iron Tail, Magnet Rise, Metal Burst, Metal Claw, Outrage,
-        Overheat, Power Gem, Protect, Psych Up, Rain Dance, Rest, Return, Roar, Roar
-          of Time, Rock Slide, Rock Smash, Rock Tomb, Round, Safeguard, Sandstorm,
-        Scary Face, Shadow Claw, Slash, Sleep Talk, Snore, Stealth Rock, Stone Edge,
-        Strength, Substitute, Sunny Day, Swagger, Thunder, Thunder Wave, Thunderbolt,
-        Toxic, Trick Room]
+        Hone Claws, Hyper Beam, Hyper Voice, Ice Beam, Incinerate, Iron Defense, Iron
+          Head, Iron Tail, Magnet Rise, Metal Burst, Metal Claw, Outrage, Overheat,
+        Power Gem, Protect, Psych Up, Rain Dance, Rest, Return, Roar, Roar of Time,
+        Rock Slide, Rock Smash, Rock Tomb, Round, Safeguard, Sandstorm, Scary Face,
+        Shadow Claw, Slash, Sleep Talk, Snore, Stealth Rock, Stone Edge, Strength,
+        Substitute, Sunny Day, Swagger, Thunder, Thunder Wave, Thunderbolt, Toxic,
+        Trick Room, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - dp: [Aerial Ace, Ancient Power, Aura Sphere, Blizzard, Brick Break, Bulk Up,
         Cut, Double Team, Draco Meteor, Dragon Claw, Dragon Pulse, Dragon Breath,
         Earth Power, Earthquake, Endure, Facade, Fire Blast, Flamethrower, Flash,
         Flash Cannon, Frustration, Fury Cutter, Giga Impact, Gravity, Headbutt, Heal
-          Block, Hidden Power, Hyper Beam, Ice Beam, Iron Defense, Iron Head, Iron
-          Tail, Magnet Rise, Metal Burst, Metal Claw, Mud-Slap, Natural Gift, Outrage,
-        Overheat, Power Gem, Protect, Psych Up, Rain Dance, Rest, Return, Roar, Roar
-          of Time, Rock Slide, Rock Smash, Rock Tomb, Safeguard, Sandstorm, Scary
-          Face, Secret Power, Shadow Claw, Shock Wave, Slash, Sleep Talk, Snore, Stealth
-          Rock, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Swift, Thunder,
-        Thunder Wave, Thunderbolt, Toxic, Trick Room, Twister]
+          Block, Hyper Beam, Ice Beam, Iron Defense, Iron Head, Iron Tail, Magnet
+          Rise, Metal Burst, Metal Claw, Mud-Slap, Natural Gift, Outrage, Overheat,
+        Power Gem, Protect, Psych Up, Rain Dance, Rest, Return, Roar, Roar of Time,
+        Rock Slide, Rock Smash, Rock Tomb, Safeguard, Sandstorm, Scary Face, Secret
+          Power, Shadow Claw, Shock Wave, Slash, Sleep Talk, Snore, Stealth Rock,
+        Stone Edge, Strength, Substitute, Sunny Day, Swagger, Swift, Thunder, Thunder
+          Wave, Thunderbolt, Toxic, Trick Room, Twister, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Aerial Ace, Ancient Power, Aura Sphere, Blizzard, Brick Break, Bulk Up,
         Bulldoze, Cut, Double Team, Draco Meteor, Dragon Breath, Dragon Claw, Dragon
           Pulse, Dragon Tail, Earth Power, Earthquake, Echoed Voice, Endure, Facade,
         Fire Blast, Flamethrower, Flash, Flash Cannon, Frustration, Fury Cutter, Giga
-          Impact, Gravity, Headbutt, Heal Block, Hidden Power, Hone Claws, Hyper Beam,
-        Ice Beam, Incinerate, Iron Defense, Iron Head, Iron Tail, Magnet Rise, Metal
-          Burst, Metal Claw, Mud-Slap, Natural Gift, Outrage, Overheat, Power Gem,
-        Protect, Psych Up, Rain Dance, Rest, Return, Roar, Roar of Time, Rock Slide,
-        Rock Smash, Rock Tomb, Round, Safeguard, Sandstorm, Scary Face, Secret Power,
-        Shadow Claw, Shock Wave, Slash, Sleep Talk, Snore, Stealth Rock, Stone Edge,
-        Strength, Substitute, Sunny Day, Swagger, Swift, Thunder, Thunderbolt, Thunder
-          Wave, Toxic, Trick Room, Twister, Hyper Voice, Confide]
+          Impact, Gravity, Headbutt, Heal Block, Hone Claws, Hyper Beam, Ice Beam,
+        Incinerate, Iron Defense, Iron Head, Iron Tail, Magnet Rise, Metal Burst,
+        Metal Claw, Mud-Slap, Natural Gift, Outrage, Overheat, Power Gem, Protect,
+        Psych Up, Rain Dance, Rest, Return, Roar, Roar of Time, Rock Slide, Rock Smash,
+        Rock Tomb, Round, Safeguard, Sandstorm, Scary Face, Secret Power, Shadow Claw,
+        Shock Wave, Slash, Sleep Talk, Snore, Stealth Rock, Stone Edge, Strength,
+        Substitute, Sunny Day, Swagger, Swift, Thunder, Thunderbolt, Thunder Wave,
+        Toxic, Trick Room, Twister, Hyper Voice, Confide, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [100, 120, 120, 150, 100, 90]
     tags:

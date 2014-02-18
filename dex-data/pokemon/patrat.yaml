@@ -12,19 +12,28 @@ pokemon:
     moves:
     - bw: [After You, Aqua Tail, Assurance, Attract, Baton Pass, Bide, Bite, Covet,
         Crunch, Cut, Detect, Dig, Double Team, Endeavor, Facade, Flail, Fling, Foresight,
-        Frustration, Grass Knot, Gunk Shot, Helping Hand, Hidden Power, Hyper Fang,
-        Hypnosis, Iron Tail, Last Resort, Leer, Low Kick, Mean Look, Protect, Pursuit,
-        Rain Dance, Rest, Retaliate, Return, Revenge, Round, Sand Attack, Screech,
-        Seed Bomb, Shadow Ball, Slam, Sleep Talk, Snore, Substitute, Sunny Day, Super
-          Fang, Swagger, Swords Dance, Tackle, Thunderbolt, Toxic, Work Up, Zen Headbutt]
+        Frustration, Grass Knot, Gunk Shot, Helping Hand, Hyper Fang, Hypnosis, Iron
+          Tail, Last Resort, Leer, Low Kick, Mean Look, Protect, Pursuit, Rain Dance,
+        Rest, Retaliate, Return, Revenge, Round, Sand Attack, Screech, Seed Bomb,
+        Shadow Ball, Slam, Sleep Talk, Snore, Substitute, Sunny Day, Super Fang, Swagger,
+        Swords Dance, Tackle, Thunderbolt, Toxic, Work Up, Zen Headbutt, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - xy: [After You, Assurance, Attract, Baton Pass, Bide, Bite, Crunch, Cut, Detect,
         Dig, Double Team, Facade, Flail, Fling, Foresight, Frustration, Grass Knot,
-        Hidden Power, Hyper Fang, Hypnosis, Iron Tail, Leer, Mean Look, Protect, Pursuit,
-        Rain Dance, Rest, Retaliate, Return, Revenge, Round, Sand Attack, Screech,
-        Shadow Ball, Slam, Substitute, Sunny Day, Super Fang, Swagger, Swords Dance,
-        Tackle, Thunderbolt, Toxic, Work Up, Covet, Seed Bomb, Low Kick, Gunk Shot,
-        Last Resort, Aqua Tail, Zen Headbutt, Snore, Helping Hand, Endeavor, Sleep
-          Talk, Confide]
+        Hyper Fang, Hypnosis, Iron Tail, Leer, Mean Look, Protect, Pursuit, Rain Dance,
+        Rest, Retaliate, Return, Revenge, Round, Sand Attack, Screech, Shadow Ball,
+        Slam, Substitute, Sunny Day, Super Fang, Swagger, Swords Dance, Tackle, Thunderbolt,
+        Toxic, Work Up, Covet, Seed Bomb, Low Kick, Gunk Shot, Last Resort, Aqua Tail,
+        Zen Headbutt, Snore, Helping Hand, Endeavor, Sleep Talk, Confide, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     - []
     stats:
     - [45, 55, 39, 35, 39, 42]

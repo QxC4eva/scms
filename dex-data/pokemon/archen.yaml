@@ -12,22 +12,29 @@ pokemon:
     - bw: [Acrobatics, Aerial Ace, Agility, Ancient Power, Aqua Tail, Attract, Bite,
         Bounce, Bulldoze, Crunch, Cut, Defog, Dig, Double Team, Dragon Claw, Dragon
           Pulse, Dragon Breath, Earth Power, Earthquake, Endeavor, Facade, Frustration,
-        Head Smash, Heat Wave, Hidden Power, Hone Claws, Iron Defense, Iron Tail,
-        Knock Off, Leer, Pluck, Protect, Quick Attack, Quick Guard, Rest, Return,
-        Roar, Rock Polish, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Roost, Round,
-        Sandstorm, Scary Face, Shadow Claw, Sleep Talk, Smack Down, Snore, Stealth
-          Rock, Steel Wing, Stone Edge, Substitute, Swagger, Tailwind, Taunt, Thrash,
-        Torment, Toxic, U-turn, Uproar, Wing Attack]
+        Head Smash, Heat Wave, Hone Claws, Iron Defense, Iron Tail, Knock Off, Leer,
+        Pluck, Protect, Quick Attack, Quick Guard, Rest, Return, Roar, Rock Polish,
+        Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Roost, Round, Sandstorm, Scary
+          Face, Shadow Claw, Sleep Talk, Smack Down, Snore, Stealth Rock, Steel Wing,
+        Stone Edge, Substitute, Swagger, Tailwind, Taunt, Thrash, Torment, Toxic,
+        U-turn, Uproar, Wing Attack, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Acrobatics, Aerial Ace, Agility, Ancient Power, Attract, Bite, Bulldoze,
         Crunch, Cut, Defog, Dig, Double Team, Dragon Breath, Dragon Claw, Dragon Pulse,
-        Earth Power, Earthquake, Endeavor, Facade, Frustration, Head Smash, Hidden
-          Power, Hone Claws, Knock Off, Leer, Pluck, Protect, Quick Attack, Quick
-          Guard, Rest, Return, Roar, Rock Polish, Rock Slide, Rock Smash, Rock Throw,
-        Rock Tomb, Round, Sandstorm, Scary Face, Shadow Claw, Smack Down, Steel Wing,
-        Stone Edge, Substitute, Swagger, Taunt, Thrash, Torment, Toxic, U-turn, Wing
-          Attack, Bounce, Uproar, Iron Defense, Aqua Tail, Iron Tail, Snore, Heat
-          Wave, Tailwind, Roost, Stealth Rock, Sleep Talk, Confide, Switcheroo, Ally
-          Switch]
+        Earth Power, Earthquake, Endeavor, Facade, Frustration, Head Smash, Hone Claws,
+        Knock Off, Leer, Pluck, Protect, Quick Attack, Quick Guard, Rest, Return,
+        Roar, Rock Polish, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Round, Sandstorm,
+        Scary Face, Shadow Claw, Smack Down, Steel Wing, Stone Edge, Substitute, Swagger,
+        Taunt, Thrash, Torment, Toxic, U-turn, Wing Attack, Bounce, Uproar, Iron Defense,
+        Aqua Tail, Iron Tail, Snore, Heat Wave, Tailwind, Roost, Stealth Rock, Sleep
+          Talk, Confide, Switcheroo, Ally Switch, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [55, 112, 45, 74, 45, 70]
     tags:

@@ -40,46 +40,68 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Acid, Attract, Beat Up, Bite, Crunch, Curse, Dig, Double Team, Earthquake,
-        Endure, Frustration, Giga Drain, Glare, Haze, Headbutt, Hidden Power, Leer,
-        Poison Sting, Protect, Pursuit, Rest, Return, Screech, Slam, Sleep Talk, Sludge
-          Bomb, Snore, Spite, Strength, Sunny Day, Swagger, Thief, Toxic, Wrap]
+        Endure, Frustration, Giga Drain, Glare, Haze, Headbutt, Leer, Poison Sting,
+        Protect, Pursuit, Rest, Return, Screech, Slam, Sleep Talk, Sludge Bomb, Snore,
+        Spite, Strength, Sunny Day, Swagger, Thief, Toxic, Wrap, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - bw: [Acid, Acid Spray, Aqua Tail, Attract, Beat Up, Bind, Bite, Bulldoze, Coil,
         Dark Pulse, Dig, Disable, Double Team, Earthquake, Facade, Frustration, Gastro
-          Acid, Giga Drain, Glare, Gunk Shot, Haze, Hidden Power, Iron Tail, Leer,
-        Mud Bomb, Payback, Poison Fang, Poison Jab, Poison Sting, Poison Tail, Protect,
-        Pursuit, Rain Dance, Rest, Return, Rock Slide, Rock Tomb, Round, Scary Face,
-        Screech, Seed Bomb, Slam, Sleep Talk, Sludge Bomb, Sludge Wave, Snatch, Snore,
-        Spit Up, Spite, Stockpile, Strength, Substitute, Sucker Punch, Sunny Day,
-        Swagger, Swallow, Switcheroo, Thief, Torment, Toxic, Venoshock, Wrap, Body
-          Slam, Double-Edge, Mimic]
+          Acid, Giga Drain, Glare, Gunk Shot, Haze, Iron Tail, Leer, Mud Bomb, Payback,
+        Poison Fang, Poison Jab, Poison Sting, Poison Tail, Protect, Pursuit, Rain
+          Dance, Rest, Return, Rock Slide, Rock Tomb, Round, Scary Face, Screech,
+        Seed Bomb, Slam, Sleep Talk, Sludge Bomb, Sludge Wave, Snatch, Snore, Spit
+          Up, Spite, Stockpile, Strength, Substitute, Sucker Punch, Sunny Day, Swagger,
+        Swallow, Switcheroo, Thief, Torment, Toxic, Venoshock, Wrap, Body Slam, Double-Edge,
+        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - dp: [Acid, Aqua Tail, Attract, Beat Up, Bite, Captivate, Dark Pulse, Dig, Disable,
         Double Team, Earthquake, Endure, Facade, Frustration, Gastro Acid, Giga Drain,
-        Glare, Gunk Shot, Haze, Headbutt, Hidden Power, Iron Tail, Leer, Mud Bomb,
-        Natural Gift, Payback, Poison Fang, Poison Jab, Poison Sting, Poison Tail,
-        Protect, Pursuit, Rain Dance, Rest, Return, Rock Slide, Rock Tomb, Scary Face,
-        Screech, Secret Power, Seed Bomb, Slam, Sleep Talk, Sludge Bomb, Snatch, Snore,
-        Spit Up, Spite, Stockpile, Strength, Substitute, Sunny Day, Swagger, Swallow,
-        Switcheroo, Thief, Torment, Toxic, Wrap, Body Slam, Double-Edge, Mimic]
+        Glare, Gunk Shot, Haze, Headbutt, Iron Tail, Leer, Mud Bomb, Natural Gift,
+        Payback, Poison Fang, Poison Jab, Poison Sting, Poison Tail, Protect, Pursuit,
+        Rain Dance, Rest, Return, Rock Slide, Rock Tomb, Scary Face, Screech, Secret
+          Power, Seed Bomb, Slam, Sleep Talk, Sludge Bomb, Snatch, Snore, Spit Up,
+        Spite, Stockpile, Strength, Substitute, Sunny Day, Swagger, Swallow, Switcheroo,
+        Thief, Torment, Toxic, Wrap, Body Slam, Double-Edge, Mimic, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - rs: [Acid, Attract, Beat Up, Bite, Body Slam, Dig, Double-Edge, Double Team,
-        Earthquake, Endure, Facade, Frustration, Giga Drain, Glare, Haze, Hidden Power,
-        Iron Tail, Leer, Mimic, Poison Fang, Poison Sting, Protect, Pursuit, Rain
-          Dance, Rest, Return, Rock Slide, Screech, Secret Power, Slam, Sleep Talk,
-        Sludge Bomb, Snatch, Snore, Spit Up, Spite, Stockpile, Strength, Substitute,
-        Sunny Day, Swagger, Swallow, Thief, Torment, Toxic, Wrap, Body Slam, Double-Edge,
-        Mimic]
+        Earthquake, Endure, Facade, Frustration, Giga Drain, Glare, Haze, Iron Tail,
+        Leer, Mimic, Poison Fang, Poison Sting, Protect, Pursuit, Rain Dance, Rest,
+        Return, Rock Slide, Screech, Secret Power, Slam, Sleep Talk, Sludge Bomb,
+        Snatch, Snore, Spit Up, Spite, Stockpile, Strength, Substitute, Sunny Day,
+        Swagger, Swallow, Thief, Torment, Toxic, Wrap, Body Slam, Double-Edge, Mimic,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rb: [Acid, Bide, Bite, Body Slam, Dig, Double-Edge, Double Team, Earthquake,
         Fissure, Glare, Leer, Mega Drain, Mimic, Poison Sting, Rage, Rest, Rock Slide,
         Screech, Skull Bash, Strength, Substitute, Take Down, Toxic, Wrap]
     - xy: [Acid, Acid Spray, Aqua Tail, Attract, Beat Up, Bite, Body Slam, Bulldoze,
         Captivate, Coil, Dark Pulse, Dig, Disable, Double-Edge, Double Team, Earthquake,
         Endure, Facade, Frustration, Gastro Acid, Giga Drain, Glare, Gunk Shot, Haze,
-        Headbutt, Hidden Power, Iron Tail, Leer, Mimic, Mud Bomb, Natural Gift, Payback,
-        Poison Fang, Poison Jab, Poison Sting, Poison Tail, Protect, Pursuit, Rain
-          Dance, Rest, Return, Rock Slide, Rock Tomb, Round, Scary Face, Screech,
-        Secret Power, Seed Bomb, Slam, Sleep Talk, Sludge Bomb, Sludge Wave, Snatch,
-        Snore, Spite, Spit Up, Stockpile, Strength, Substitute, Sucker Punch, Sunny
-          Day, Swagger, Swallow, Switcheroo, Thief, Torment, Toxic, Venoshock, Wrap,
-        Bind, Belch, Infestation, Confide]
+        Headbutt, Iron Tail, Leer, Mimic, Mud Bomb, Natural Gift, Payback, Poison
+          Fang, Poison Jab, Poison Sting, Poison Tail, Protect, Pursuit, Rain Dance,
+        Rest, Return, Rock Slide, Rock Tomb, Round, Scary Face, Screech, Secret Power,
+        Seed Bomb, Slam, Sleep Talk, Sludge Bomb, Sludge Wave, Snatch, Snore, Spite,
+        Spit Up, Stockpile, Strength, Substitute, Sucker Punch, Sunny Day, Swagger,
+        Swallow, Switcheroo, Thief, Torment, Toxic, Venoshock, Wrap, Bind, Belch,
+        Infestation, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [35, 60, 44, 40, 40, 55]
     - gs: [35, 60, 44, 40, 54, 55]

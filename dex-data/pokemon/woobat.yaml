@@ -32,23 +32,31 @@ pokemon:
         Attract, Calm Mind, Charge Beam, Charm, Confusion, Double Team, Dream Eater,
         Embargo, Endeavor, Energy Ball, Facade, Fake Tears, Flash, Flatter, Fly, Frustration,
         Future Sight, Giga Drain, Gust, Gyro Ball, Heart Stamp, Heat Wave, Helping
-          Hand, Hidden Power, Imprison, Knock Off, Light Screen, Magic Coat, Odor
-          Sleuth, Pluck, Protect, Psych Up, Psychic, Psyshock, Rain Dance, Reflect,
-        Rest, Return, Roost, Round, Safeguard, Shadow Ball, Signal Beam, Skill Swap,
-        Sleep Talk, Snore, Stored Power, Substitute, Super Fang, Supersonic, Swagger,
-        Synchronoise, Tailwind, Taunt, Telekinesis, Thief, Thunder Wave, Torment,
-        Toxic, Trick, Trick Room, U-turn, Uproar, Zen Headbutt]
+          Hand, Imprison, Knock Off, Light Screen, Magic Coat, Odor Sleuth, Pluck,
+        Protect, Psych Up, Psychic, Psyshock, Rain Dance, Reflect, Rest, Return, Roost,
+        Round, Safeguard, Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snore,
+        Stored Power, Substitute, Super Fang, Supersonic, Swagger, Synchronoise, Tailwind,
+        Taunt, Telekinesis, Thief, Thunder Wave, Torment, Toxic, Trick, Trick Room,
+        U-turn, Uproar, Zen Headbutt, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Acrobatics, Aerial Ace, Air Cutter, Air Slash, Amnesia, Assurance, Attract,
         Calm Mind, Charge Beam, Charm, Confusion, Double Team, Dream Eater, Embargo,
         Endeavor, Energy Ball, Facade, Fake Tears, Flash, Flatter, Fly, Frustration,
-        Future Sight, Gust, Gyro Ball, Heart Stamp, Helping Hand, Hidden Power, Imprison,
-        Knock Off, Light Screen, Odor Sleuth, Pluck, Protect, Psychic, Psych Up, Psyshock,
+        Future Sight, Gust, Gyro Ball, Heart Stamp, Helping Hand, Imprison, Knock
+          Off, Light Screen, Odor Sleuth, Pluck, Protect, Psychic, Psych Up, Psyshock,
         Rain Dance, Reflect, Rest, Return, Roost, Round, Safeguard, Shadow Ball, Stored
           Power, Substitute, Supersonic, Swagger, Synchronoise, Taunt, Telekinesis,
         Thief, Thunder Wave, Torment, Toxic, Trick Room, U-turn, Super Fang, Signal
           Beam, Uproar, Magic Coat, Zen Headbutt, Snore, Heat Wave, Tailwind, Giga
           Drain, After You, Trick, Sleep Talk, Skill Swap, Steel Wing, Confide, Psycho
-          Shift, Venom Drench, Captivate]
+          Shift, Venom Drench, Captivate, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [55, 45, 43, 55, 43, 72]
     tags:

@@ -12,36 +12,52 @@ pokemon:
     moves:
     - bw: [Aerial Ace, Ancient Power, Attract, Body Slam, Brick Break, Bug Bite, Cross
           Poison, Crush Claw, Curse, Cut, Dig, Double-Edge, Double Team, Earth Power,
-        Facade, False Swipe, Frustration, Fury Cutter, Harden, Hidden Power, Hone
-          Claws, Iron Defense, Knock Off, Metal Claw, Mimic, Mud Sport, Protect, Rapid
-          Spin, Rest, Return, Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock
-          Tomb, Round, Sand Attack, Sandstorm, Scratch, Screech, Slash, Sleep Talk,
-        Smack Down, Snore, Stealth Rock, Struggle Bug, Substitute, Sunny Day, Swagger,
-        Swords Dance, Toxic, Water Gun, Water Pulse, X-Scissor]
+        Facade, False Swipe, Frustration, Fury Cutter, Harden, Hone Claws, Iron Defense,
+        Knock Off, Metal Claw, Mimic, Mud Sport, Protect, Rapid Spin, Rest, Return,
+        Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Round, Sand Attack,
+        Sandstorm, Scratch, Screech, Slash, Sleep Talk, Smack Down, Snore, Stealth
+          Rock, Struggle Bug, Substitute, Sunny Day, Swagger, Swords Dance, Toxic,
+        Water Gun, Water Pulse, X-Scissor, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Aerial Ace, Ancient Power, Attract, Brick Break, Captivate, Cross Poison,
         Crush Claw, Curse, Cut, Dig, Double Team, Earth Power, Endure, Facade, False
-          Swipe, Frustration, Fury Cutter, Harden, Headbutt, Hidden Power, Iron Defense,
-        Knock Off, Metal Claw, Mud-Slap, Mud Sport, Natural Gift, Protect, Rapid Spin,
-        Rest, Return, Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock Tomb,
-        Sand Attack, Sandstorm, Scratch, Screech, Secret Power, Slash, Sleep Talk,
-        Snore, Stealth Rock, String Shot, Substitute, Sunny Day, Swagger, Swords Dance,
-        Toxic, Water Gun, Water Pulse, X-Scissor]
+          Swipe, Frustration, Fury Cutter, Harden, Headbutt, Iron Defense, Knock Off,
+        Metal Claw, Mud-Slap, Mud Sport, Natural Gift, Protect, Rapid Spin, Rest,
+        Return, Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Sand Attack,
+        Sandstorm, Scratch, Screech, Secret Power, Slash, Sleep Talk, Snore, Stealth
+          Rock, String Shot, Substitute, Sunny Day, Swagger, Swords Dance, Toxic,
+        Water Gun, Water Pulse, X-Scissor, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rs: [Aerial Ace, Ancient Power, Attract, Body Slam, Brick Break, Cut, Dig, Double-Edge,
-        Double Team, Endure, Facade, Frustration, Fury Cutter, Harden, Hidden Power,
-        Knock Off, Metal Claw, Mimic, Mud-Slap, Mud Sport, Protect, Rapid Spin, Rest,
-        Return, Rock Blast, Rock Slide, Rock Smash, Rock Tomb, Sandstorm, Scratch,
-        Secret Power, Slash, Sleep Talk, Snore, Substitute, Sunny Day, Swagger, Swords
-          Dance, Toxic, Water Gun, Water Pulse]
+        Double Team, Endure, Facade, Frustration, Fury Cutter, Harden, Knock Off,
+        Metal Claw, Mimic, Mud-Slap, Mud Sport, Protect, Rapid Spin, Rest, Return,
+        Rock Blast, Rock Slide, Rock Smash, Rock Tomb, Sandstorm, Scratch, Secret
+          Power, Slash, Sleep Talk, Snore, Substitute, Sunny Day, Swagger, Swords
+          Dance, Toxic, Water Gun, Water Pulse, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Aerial Ace, Ancient Power, Attract, Body Slam, Brick Break, Captivate,
         Cross Poison, Crush Claw, Curse, Cut, Dig, Double-Edge, Double Team, Earth
           Power, Endure, Facade, False Swipe, Frustration, Fury Cutter, Harden, Headbutt,
-        Hidden Power, Hone Claws, Iron Defense, Knock Off, Metal Claw, Mimic, Mud-Slap,
-        Mud Sport, Natural Gift, Protect, Rapid Spin, Rest, Return, Rock Blast, Rock
-          Polish, Rock Slide, Rock Smash, Rock Tomb, Round, Sand Attack, Sandstorm,
-        Scratch, Screech, Secret Power, Slash, Sleep Talk, Smack Down, Snore, Stealth
-          Rock, String Shot, Struggle Bug, Substitute, Sunny Day, Swagger, Swords
-          Dance, Toxic, Water Gun, Water Pulse, X-Scissor, Bug Bite, Confide, Aqua
-          Jet]
+        Hone Claws, Iron Defense, Knock Off, Metal Claw, Mimic, Mud-Slap, Mud Sport,
+        Natural Gift, Protect, Rapid Spin, Rest, Return, Rock Blast, Rock Polish,
+        Rock Slide, Rock Smash, Rock Tomb, Round, Sand Attack, Sandstorm, Scratch,
+        Screech, Secret Power, Slash, Sleep Talk, Smack Down, Snore, Stealth Rock,
+        String Shot, Struggle Bug, Substitute, Sunny Day, Swagger, Swords Dance, Toxic,
+        Water Gun, Water Pulse, X-Scissor, Bug Bite, Confide, Aqua Jet, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     stats:
     - [45, 95, 50, 40, 50, 75]
     tags:

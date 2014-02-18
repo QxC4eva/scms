@@ -12,45 +12,65 @@ pokemon:
     introduction: gs
     moves:
     - gs: [Attract, Bide, Charm, Curse, Defense Curl, Detect, Double Team, Double
-          Slap, Encore, Endure, Flash, Frustration, Headbutt, Hidden Power, Iron Tail,
-        Mud-Slap, Present, Protect, Rain Dance, Rest, Return, Reversal, Rollout, Sleep
-          Talk, Snore, Swagger, Sweet Kiss, Swift, Tail Whip, Thunder, Thunder Wave,
-        Thunderbolt, Thunder Shock, Toxic, Zap Cannon, Dizzy Punch, Petal Dance, Sing,
-        Scary Face]
+          Slap, Encore, Endure, Flash, Frustration, Headbutt, Iron Tail, Mud-Slap,
+        Present, Protect, Rain Dance, Rest, Return, Reversal, Rollout, Sleep Talk,
+        Snore, Swagger, Sweet Kiss, Swift, Tail Whip, Thunder, Thunder Wave, Thunderbolt,
+        Thunder Shock, Toxic, Zap Cannon, Dizzy Punch, Petal Dance, Sing, Scary Face,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - bw: [Attract, Bestow, Bide, Charge, Charge Beam, Charm, Covet, Double Team,
         Double Slap, Echoed Voice, Encore, Endure, Facade, Fake Out, Flail, Flash,
-        Fling, Frustration, Grass Knot, Helping Hand, Hidden Power, Iron Tail, Light
-          Screen, Lucky Chant, Magnet Rise, Nasty Plot, Present, Protect, Rain Dance,
-        Rest, Return, Reversal, Round, Signal Beam, Sleep Talk, Snore, Substitute,
-        Swagger, Sweet Kiss, Tail Whip, Thunder, Thunder Wave, Thunderbolt, Thunder
-          Punch, Thunder Shock, Tickle, Toxic, Uproar, Volt Switch, Volt Tackle, Wild
-          Charge, Wish, Teeter Dance, Follow Me]
+        Fling, Frustration, Grass Knot, Helping Hand, Iron Tail, Light Screen, Lucky
+          Chant, Magnet Rise, Nasty Plot, Present, Protect, Rain Dance, Rest, Return,
+        Reversal, Round, Signal Beam, Sleep Talk, Snore, Substitute, Swagger, Sweet
+          Kiss, Tail Whip, Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Thunder
+          Shock, Tickle, Toxic, Uproar, Volt Switch, Volt Tackle, Wild Charge, Wish,
+        Teeter Dance, Follow Me, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Attract, Bide, Captivate, Charge, Charge Beam, Charm, Double Team, Double
           Slap, Encore, Endure, Facade, Fake Out, Flail, Flash, Fling, Frustration,
-        Grass Knot, Headbutt, Helping Hand, Hidden Power, Iron Tail, Light Screen,
-        Magnet Rise, Mud-Slap, Nasty Plot, Natural Gift, Present, Protect, Rain Dance,
-        Rest, Return, Reversal, Rollout, Secret Power, Shock Wave, Signal Beam, Sleep
-          Talk, Snore, Substitute, Swagger, Sweet Kiss, Swift, Tail Whip, Thunder,
-        Thunder Wave, Thunderbolt, Thunder Punch, Thunder Shock, Tickle, Toxic, Uproar,
-        Volt Tackle, Wish, Teeter Dance, Follow Me]
+        Grass Knot, Headbutt, Helping Hand, Iron Tail, Light Screen, Magnet Rise,
+        Mud-Slap, Nasty Plot, Natural Gift, Present, Protect, Rain Dance, Rest, Return,
+        Reversal, Rollout, Secret Power, Shock Wave, Signal Beam, Sleep Talk, Snore,
+        Substitute, Swagger, Sweet Kiss, Swift, Tail Whip, Thunder, Thunder Wave,
+        Thunderbolt, Thunder Punch, Thunder Shock, Tickle, Toxic, Uproar, Volt Tackle,
+        Wish, Teeter Dance, Follow Me, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rs: [Attract, Bide, Body Slam, Charge, Charm, Counter, Defense Curl, Double-Edge,
-        Double Team, Double Slap, Encore, Endure, Facade, Flash, Frustration, Hidden
-          Power, Iron Tail, Light Screen, Mega Kick, Mega Punch, Mimic, Mud-Slap,
-        Present, Protect, Rain Dance, Rest, Return, Reversal, Rollout, Secret Power,
-        Seismic Toss, Shock Wave, Sleep Talk, Snore, Substitute, Swagger, Sweet Kiss,
-        Swift, Tail Whip, Thunder, Thunder Wave, Thunderbolt, Thunder Shock, Toxic,
-        Volt Tackle, Wish, Follow Me, Teeter Dance, Wish]
+        Double Team, Double Slap, Encore, Endure, Facade, Flash, Frustration, Iron
+          Tail, Light Screen, Mega Kick, Mega Punch, Mimic, Mud-Slap, Present, Protect,
+        Rain Dance, Rest, Return, Reversal, Rollout, Secret Power, Seismic Toss, Shock
+          Wave, Sleep Talk, Snore, Substitute, Swagger, Sweet Kiss, Swift, Tail Whip,
+        Thunder, Thunder Wave, Thunderbolt, Thunder Shock, Toxic, Volt Tackle, Wish,
+        Follow Me, Teeter Dance, Wish, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Attract, Bestow, Bide, Body Slam, Captivate, Charge, Charge Beam, Charm,
         Counter, Defense Curl, Double-Edge, Double Slap, Double Team, Echoed Voice,
         Encore, Endeavor, Endure, Facade, Fake Out, Flail, Flash, Fling, Follow Me,
-        Frustration, Grass Knot, Headbutt, Helping Hand, Hidden Power, Iron Tail,
-        Light Screen, Lucky Chant, Magnet Rise, Mega Kick, Mega Punch, Mimic, Mud-Slap,
-        Nasty Plot, Natural Gift, Present, Protect, Rain Dance, Rest, Return, Reversal,
-        Rollout, Round, Secret Power, Seismic Toss, Shock Wave, Signal Beam, Sleep
-          Talk, Snore, Substitute, Surf, Swagger, Sweet Kiss, Swift, Tail Whip, Teeter
-          Dance, Thunder, Thunderbolt, Thunder Punch, Thunder Shock, Thunder Wave,
-        Tickle, Toxic, Uproar, Volt Switch, Volt Tackle, Wild Charge, Wish, Covet,
-        Confide, Disarming Voice]
+        Frustration, Grass Knot, Headbutt, Helping Hand, Iron Tail, Light Screen,
+        Lucky Chant, Magnet Rise, Mega Kick, Mega Punch, Mimic, Mud-Slap, Nasty Plot,
+        Natural Gift, Present, Protect, Rain Dance, Rest, Return, Reversal, Rollout,
+        Round, Secret Power, Seismic Toss, Shock Wave, Signal Beam, Sleep Talk, Snore,
+        Substitute, Surf, Swagger, Sweet Kiss, Swift, Tail Whip, Teeter Dance, Thunder,
+        Thunderbolt, Thunder Punch, Thunder Shock, Thunder Wave, Tickle, Toxic, Uproar,
+        Volt Switch, Volt Tackle, Wild Charge, Wish, Covet, Confide, Disarming Voice,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     stats:
     - [20, 40, 15, 35, 35, 60]
     tags:

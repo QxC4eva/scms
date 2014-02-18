@@ -12,35 +12,51 @@ pokemon:
     moves:
     - bw: [Attract, Bite, Charge, Charge Beam, Crunch, Curse, Discharge, Double Team,
         Electro Ball, Facade, Fire Fang, Flame Burst, Flamethrower, Flash, Frustration,
-        Headbutt, Hidden Power, Howl, Ice Fang, Iron Tail, Leer, Light Screen, Magnet
-          Rise, Odor Sleuth, Protect, Quick Attack, Rain Dance, Rest, Return, Roar,
-        Round, Shock Wave, Signal Beam, Sleep Talk, Snarl, Snore, Spark, Strength,
-        Substitute, Swagger, Swift, Switcheroo, Tackle, Thief, Thunder, Thunder Fang,
-        Thunder Wave, Thunderbolt, Toxic, Uproar, Volt Switch, Wild Charge, Body Slam,
-        Double-Edge, Mimic]
+        Headbutt, Howl, Ice Fang, Iron Tail, Leer, Light Screen, Magnet Rise, Odor
+          Sleuth, Protect, Quick Attack, Rain Dance, Rest, Return, Roar, Round, Shock
+          Wave, Signal Beam, Sleep Talk, Snarl, Snore, Spark, Strength, Substitute,
+        Swagger, Swift, Switcheroo, Tackle, Thief, Thunder, Thunder Fang, Thunder
+          Wave, Thunderbolt, Toxic, Uproar, Volt Switch, Wild Charge, Body Slam, Double-Edge,
+        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - dp: [Attract, Bite, Captivate, Charge, Charge Beam, Crunch, Curse, Discharge,
         Double Team, Endure, Facade, Fire Fang, Flamethrower, Flash, Frustration,
-        Headbutt, Hidden Power, Howl, Ice Fang, Iron Tail, Leer, Light Screen, Magnet
-          Rise, Mud-Slap, Natural Gift, Odor Sleuth, Protect, Quick Attack, Rain Dance,
-        Rest, Return, Roar, Secret Power, Shock Wave, Signal Beam, Sleep Talk, Snore,
-        Spark, Strength, Substitute, Swagger, Swift, Switcheroo, Tackle, Thief, Thunder,
-        Thunder Fang, Thunder Wave, Thunderbolt, Toxic, Uproar, Body Slam, Double-Edge,
-        Mimic]
+        Headbutt, Howl, Ice Fang, Iron Tail, Leer, Light Screen, Magnet Rise, Mud-Slap,
+        Natural Gift, Odor Sleuth, Protect, Quick Attack, Rain Dance, Rest, Return,
+        Roar, Secret Power, Shock Wave, Signal Beam, Sleep Talk, Snore, Spark, Strength,
+        Substitute, Swagger, Swift, Switcheroo, Tackle, Thief, Thunder, Thunder Fang,
+        Thunder Wave, Thunderbolt, Toxic, Uproar, Body Slam, Double-Edge, Mimic, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rs: [Attract, Bite, Body Slam, Charge, Crunch, Curse, Double-Edge, Double Team,
-        Endure, Facade, Flash, Frustration, Headbutt, Hidden Power, Howl, Iron Tail,
-        Leer, Mimic, Mud-Slap, Odor Sleuth, Protect, Quick Attack, Rain Dance, Rest,
-        Return, Roar, Secret Power, Shock Wave, Sleep Talk, Snore, Spark, Strength,
-        Substitute, Swagger, Swift, Tackle, Thief, Thunder, Thunder Wave, Thunderbolt,
-        Toxic, Uproar, Body Slam, Double-Edge, Mimic]
+        Endure, Facade, Flash, Frustration, Headbutt, Howl, Iron Tail, Leer, Mimic,
+        Mud-Slap, Odor Sleuth, Protect, Quick Attack, Rain Dance, Rest, Return, Roar,
+        Secret Power, Shock Wave, Sleep Talk, Snore, Spark, Strength, Substitute,
+        Swagger, Swift, Tackle, Thief, Thunder, Thunder Wave, Thunderbolt, Toxic,
+        Uproar, Body Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Attract, Bite, Body Slam, Captivate, Charge, Charge Beam, Crunch, Curse,
         Discharge, Double-Edge, Double Team, Electro Ball, Endure, Facade, Fire Fang,
-        Flame Burst, Flamethrower, Flash, Frustration, Headbutt, Hidden Power, Howl,
-        Ice Fang, Iron Tail, Leer, Light Screen, Magnet Rise, Mimic, Mud-Slap, Natural
-          Gift, Odor Sleuth, Protect, Quick Attack, Rain Dance, Rest, Return, Roar,
-        Round, Secret Power, Shock Wave, Signal Beam, Sleep Talk, Snarl, Snore, Spark,
-        Strength, Substitute, Swagger, Swift, Switcheroo, Tackle, Thief, Thunder,
-        Thunderbolt, Thunder Fang, Thunder Wave, Toxic, Uproar, Volt Switch, Wild
-          Charge, Confide, Eerie Impulse]
+        Flame Burst, Flamethrower, Flash, Frustration, Headbutt, Howl, Ice Fang, Iron
+          Tail, Leer, Light Screen, Magnet Rise, Mimic, Mud-Slap, Natural Gift, Odor
+          Sleuth, Protect, Quick Attack, Rain Dance, Rest, Return, Roar, Round, Secret
+          Power, Shock Wave, Signal Beam, Sleep Talk, Snarl, Snore, Spark, Strength,
+        Substitute, Swagger, Swift, Switcheroo, Tackle, Thief, Thunder, Thunderbolt,
+        Thunder Fang, Thunder Wave, Toxic, Uproar, Volt Switch, Wild Charge, Confide,
+        Eerie Impulse, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [40, 45, 40, 65, 40, 65]
     tags:

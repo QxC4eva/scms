@@ -43,57 +43,77 @@ pokemon:
     moves:
     - gs: [Attract, Bite, Charm, Crunch, Curse, Defense Curl, Detect, Double Team,
         Dynamic Punch, Endure, Feint Attack, Fire Punch, Frustration, Headbutt, Heal
-          Bell, Hidden Power, Ice Punch, Leer, Lick, Metronome, Mud-Slap, Present,
-        Protect, Rage, Rain Dance, Reflect, Rest, Return, Roar, Rock Smash, Scary
-          Face, Shadow Ball, Sleep Talk, Sludge Bomb, Snore, Strength, Sunny Day,
-        Swagger, Tackle, Tail Whip, Take Down, Thief, Thunder, Thunderbolt, Thunder
-          Punch, Toxic, Zap Cannon]
+          Bell, Ice Punch, Leer, Lick, Metronome, Mud-Slap, Present, Protect, Rage,
+        Rain Dance, Reflect, Rest, Return, Roar, Rock Smash, Scary Face, Shadow Ball,
+        Sleep Talk, Sludge Bomb, Snore, Strength, Sunny Day, Swagger, Tackle, Tail
+          Whip, Take Down, Thief, Thunder, Thunderbolt, Thunder Punch, Toxic, Zap
+          Cannon, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - bw: [Attract, Bite, Brick Break, Bulk Up, Bulldoze, Charm, Close Combat, Covet,
         Crunch, Dig, Double-Edge, Double Team, Earthquake, Facade, Feint Attack, Fire
           Blast, Fire Fang, Fire Punch, Flamethrower, Fling, Focus Punch, Frustration,
-        Headbutt, Heal Bell, Hidden Power, Hyper Voice, Ice Fang, Ice Punch, Incinerate,
-        Last Resort, Lick, Low Kick, Metronome, Mimic, Overheat, Payback, Present,
-        Protect, Rage, Rain Dance, Reflect, Rest, Retaliate, Return, Roar, Rock Smash,
-        Round, Scary Face, Shadow Ball, Sleep Talk, Sludge Bomb, Smelling Salts, Snarl,
-        Snore, Solar Beam, Strength, Substitute, Sunny Day, Super Fang, Superpower,
-        Swagger, Tackle, Tail Whip, Take Down, Taunt, Thief, Thunder, Thunder Fang,
-        Thunder Wave, Thunderbolt, Thunder Punch, Torment, Toxic, Wild Charge, Work
-          Up, Body Slam, Seismic Toss]
+        Headbutt, Heal Bell, Hyper Voice, Ice Fang, Ice Punch, Incinerate, Last Resort,
+        Lick, Low Kick, Metronome, Mimic, Overheat, Payback, Present, Protect, Rage,
+        Rain Dance, Reflect, Rest, Retaliate, Return, Roar, Rock Smash, Round, Scary
+          Face, Shadow Ball, Sleep Talk, Sludge Bomb, Smelling Salts, Snarl, Snore,
+        Solar Beam, Strength, Substitute, Sunny Day, Super Fang, Superpower, Swagger,
+        Tackle, Tail Whip, Take Down, Taunt, Thief, Thunder, Thunder Fang, Thunder
+          Wave, Thunderbolt, Thunder Punch, Torment, Toxic, Wild Charge, Work Up,
+        Body Slam, Seismic Toss, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Attract, Bite, Brick Break, Bulk Up, Captivate, Charm, Close Combat, Crunch,
         Dig, Double Team, Earthquake, Endure, Facade, Feint Attack, Fire Blast, Fire
           Fang, Fire Punch, Flamethrower, Fling, Focus Punch, Frustration, Headbutt,
-        Heal Bell, Hidden Power, Ice Fang, Ice Punch, Last Resort, Lick, Low Kick,
-        Metronome, Mud-Slap, Natural Gift, Overheat, Payback, Present, Protect, Rage,
-        Rain Dance, Reflect, Rest, Return, Roar, Rock Smash, Scary Face, Secret Power,
-        Shadow Ball, Shock Wave, Sleep Talk, Sludge Bomb, Smelling Salts, Snore, Solar
-          Beam, Strength, Substitute, Sunny Day, Super Fang, Superpower, Swagger,
-        Tackle, Tail Whip, Take Down, Taunt, Thief, Thunder, Thunder Fang, Thunder
-          Wave, Thunderbolt, Thunder Punch, Torment, Toxic, Water Pulse, Body Slam,
-        Seismic Toss]
+        Heal Bell, Ice Fang, Ice Punch, Last Resort, Lick, Low Kick, Metronome, Mud-Slap,
+        Natural Gift, Overheat, Payback, Present, Protect, Rage, Rain Dance, Reflect,
+        Rest, Return, Roar, Rock Smash, Scary Face, Secret Power, Shadow Ball, Shock
+          Wave, Sleep Talk, Sludge Bomb, Smelling Salts, Snore, Solar Beam, Strength,
+        Substitute, Sunny Day, Super Fang, Superpower, Swagger, Tackle, Tail Whip,
+        Take Down, Taunt, Thief, Thunder, Thunder Fang, Thunder Wave, Thunderbolt,
+        Thunder Punch, Torment, Toxic, Water Pulse, Body Slam, Seismic Toss, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rs: [Attract, Bite, Body Slam, Brick Break, Bulk Up, Charm, Counter, Crunch,
         Defense Curl, Dig, Double-Edge, Double Team, Dynamic Punch, Earthquake, Endure,
         Facade, Feint Attack, Fire Blast, Fire Punch, Flamethrower, Focus Punch, Frustration,
-        Heal Bell, Hidden Power, Ice Punch, Lick, Mega Kick, Mega Punch, Metronome,
-        Mimic, Mud-Slap, Overheat, Present, Protect, Rage, Rain Dance, Reflect, Rest,
-        Return, Roar, Rock Smash, Scary Face, Secret Power, Seismic Toss, Shadow Ball,
-        Shock Wave, Sleep Talk, Sludge Bomb, Smelling Salts, Snore, Solar Beam, Strength,
-        Substitute, Sunny Day, Swagger, Tackle, Tail Whip, Take Down, Taunt, Thief,
-        Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Torment, Toxic, Water Pulse,
-        Body Slam, Seismic Toss]
+        Heal Bell, Ice Punch, Lick, Mega Kick, Mega Punch, Metronome, Mimic, Mud-Slap,
+        Overheat, Present, Protect, Rage, Rain Dance, Reflect, Rest, Return, Roar,
+        Rock Smash, Scary Face, Secret Power, Seismic Toss, Shadow Ball, Shock Wave,
+        Sleep Talk, Sludge Bomb, Smelling Salts, Snore, Solar Beam, Strength, Substitute,
+        Sunny Day, Swagger, Tackle, Tail Whip, Take Down, Taunt, Thief, Thunder, Thunder
+          Wave, Thunderbolt, Thunder Punch, Torment, Toxic, Water Pulse, Body Slam,
+        Seismic Toss, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - xy: [Attract, Bite, Body Slam, Brick Break, Bulk Up, Bulldoze, Captivate, Charm,
         Close Combat, Counter, Crunch, Defense Curl, Dig, Double-Edge, Double Team,
         Dynamic Punch, Earthquake, Endure, Facade, Feint Attack, Fire Blast, Fire
           Fang, Fire Punch, Flamethrower, Fling, Focus Punch, Frustration, Headbutt,
-        Heal Bell, Hidden Power, Ice Fang, Ice Punch, Incinerate, Last Resort, Lick,
-        Low Kick, Mega Kick, Mega Punch, Metronome, Mimic, Mud-Slap, Natural Gift,
-        Overheat, Payback, Present, Protect, Rage, Rain Dance, Reflect, Rest, Retaliate,
-        Return, Roar, Rock Smash, Round, Scary Face, Secret Power, Seismic Toss, Shadow
-          Ball, Shock Wave, Sleep Talk, Sludge Bomb, Smelling Salts, Snarl, Snore,
-        Solar Beam, Strength, Substitute, Sunny Day, Super Fang, Superpower, Swagger,
-        Tackle, Tail Whip, Take Down, Taunt, Thief, Thunder, Thunderbolt, Thunder
-          Fang, Thunder Punch, Thunder Wave, Torment, Toxic, Water Pulse, Wild Charge,
-        Work Up, Covet, Hyper Voice, Play Rough, Power-Up Punch, Dazzling Gleam, Confide,
-        Fake Tears]
+        Heal Bell, Ice Fang, Ice Punch, Incinerate, Last Resort, Lick, Low Kick, Mega
+          Kick, Mega Punch, Metronome, Mimic, Mud-Slap, Natural Gift, Overheat, Payback,
+        Present, Protect, Rage, Rain Dance, Reflect, Rest, Retaliate, Return, Roar,
+        Rock Smash, Round, Scary Face, Secret Power, Seismic Toss, Shadow Ball, Shock
+          Wave, Sleep Talk, Sludge Bomb, Smelling Salts, Snarl, Snore, Solar Beam,
+        Strength, Substitute, Sunny Day, Super Fang, Superpower, Swagger, Tackle,
+        Tail Whip, Take Down, Taunt, Thief, Thunder, Thunderbolt, Thunder Fang, Thunder
+          Punch, Thunder Wave, Torment, Toxic, Water Pulse, Wild Charge, Work Up,
+        Covet, Hyper Voice, Play Rough, Power-Up Punch, Dazzling Gleam, Confide, Fake
+          Tears, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [60, 80, 50, 40, 40, 30]
     tags:

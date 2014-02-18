@@ -44,40 +44,61 @@ pokemon:
     introduction: gs
     moves:
     - gs: [Acid Armor, Amnesia, Attract, Body Slam, Curse, Defense Curl, Double Team,
-        Ember, Endure, Fire Blast, Flamethrower, Frustration, Harden, Hidden Power,
-        Mud-Slap, Protect, Rest, Return, Rock Slide, Rock Smash, Rock Throw, Rollout,
-        Sleep Talk, Smog, Snore, Sunny Day, Swagger, Toxic]
+        Ember, Endure, Fire Blast, Flamethrower, Frustration, Harden, Mud-Slap, Protect,
+        Rest, Return, Rock Slide, Rock Smash, Rock Throw, Rollout, Sleep Talk, Smog,
+        Snore, Sunny Day, Swagger, Toxic, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - bw: [Acid Armor, After You, Amnesia, Ancient Power, Attract, Body Slam, Curse,
         Double Team, Earth Power, Ember, Facade, Fire Blast, Flame Burst, Flame Charge,
-        Flamethrower, Frustration, Harden, Heat Wave, Hidden Power, Incinerate, Inferno,
-        Iron Defense, Lava Plume, Light Screen, Memento, Overheat, Pain Split, Protect,
-        Recover, Reflect, Rest, Return, Rock Slide, Rock Smash, Rock Throw, Rock Tomb,
-        Rollout, Round, Sleep Talk, Smog, Smoke Screen, Snore, Spit Up, Stockpile,
-        Substitute, Sunny Day, Swagger, Swallow, Toxic, Will-O-Wisp, Yawn, Double-Edge,
-        Mimic, Self-Destruct]
+        Flamethrower, Frustration, Harden, Heat Wave, Incinerate, Inferno, Iron Defense,
+        Lava Plume, Light Screen, Memento, Overheat, Pain Split, Protect, Recover,
+        Reflect, Rest, Return, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout,
+        Round, Sleep Talk, Smog, Smoke Screen, Snore, Spit Up, Stockpile, Substitute,
+        Sunny Day, Swagger, Swallow, Toxic, Will-O-Wisp, Yawn, Double-Edge, Mimic,
+        Self-Destruct, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - dp: [Acid Armor, Amnesia, Ancient Power, Attract, Body Slam, Captivate, Curse,
         Double Team, Earth Power, Ember, Endure, Facade, Fire Blast, Flamethrower,
-        Frustration, Harden, Heat Wave, Hidden Power, Iron Defense, Lava Plume, Light
-          Screen, Memento, Mud-Slap, Natural Gift, Overheat, Pain Split, Protect,
-        Recover, Reflect, Rest, Return, Rock Slide, Rock Smash, Rock Throw, Rock Tomb,
-        Rollout, Secret Power, Sleep Talk, Smog, Smoke Screen, Snore, Spit Up, Stockpile,
-        Substitute, Sunny Day, Swagger, Swallow, Toxic, Will-O-Wisp, Yawn, Double-Edge,
-        Mimic, Self-Destruct]
+        Frustration, Harden, Heat Wave, Iron Defense, Lava Plume, Light Screen, Memento,
+        Mud-Slap, Natural Gift, Overheat, Pain Split, Protect, Recover, Reflect, Rest,
+        Return, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Secret Power,
+        Sleep Talk, Smog, Smoke Screen, Snore, Spit Up, Stockpile, Substitute, Sunny
+          Day, Swagger, Swallow, Toxic, Will-O-Wisp, Yawn, Double-Edge, Mimic, Self-Destruct,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rs: [Acid Armor, Amnesia, Attract, Body Slam, Defense Curl, Double-Edge, Double
           Team, Ember, Endure, Facade, Fire Blast, Flamethrower, Frustration, Harden,
-        Heat Wave, Hidden Power, Light Screen, Mimic, Mud-Slap, Overheat, Protect,
-        Reflect, Rest, Return, Rock Slide, Rock Smash, Rock Throw, Rollout, Secret
-          Power, Self-Destruct, Sleep Talk, Smog, Snore, Substitute, Sunny Day, Swagger,
-        Toxic, Yawn, Double-Edge, Mimic, Self-Destruct]
+        Heat Wave, Light Screen, Mimic, Mud-Slap, Overheat, Protect, Reflect, Rest,
+        Return, Rock Slide, Rock Smash, Rock Throw, Rollout, Secret Power, Self-Destruct,
+        Sleep Talk, Smog, Snore, Substitute, Sunny Day, Swagger, Toxic, Yawn, Double-Edge,
+        Mimic, Self-Destruct, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - xy: [Acid Armor, Amnesia, Ancient Power, Attract, Body Slam, Captivate, Curse,
         Defense Curl, Double-Edge, Double Team, Earth Power, Ember, Endure, Facade,
         Fire Blast, Flame Burst, Flame Charge, Flamethrower, Frustration, Harden,
-        Heat Wave, Hidden Power, Incinerate, Inferno, Iron Defense, Lava Plume, Light
-          Screen, Memento, Mimic, Mud-Slap, Natural Gift, Overheat, Pain Split, Protect,
-        Recover, Reflect, Rest, Return, Rock Slide, Rock Smash, Rock Throw, Rock Tomb,
-        Rollout, Round, Secret Power, Self-Destruct, Sleep Talk, Smog, Smoke Screen,
-        Snore, Spit Up, Stockpile, Substitute, Sunny Day, Swagger, Swallow, Toxic,
-        Will-O-Wisp, Yawn, After You, Infestation, Nature Power, Confide, Guard Swap]
+        Heat Wave, Incinerate, Inferno, Iron Defense, Lava Plume, Light Screen, Memento,
+        Mimic, Mud-Slap, Natural Gift, Overheat, Pain Split, Protect, Recover, Reflect,
+        Rest, Return, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Round,
+        Secret Power, Self-Destruct, Sleep Talk, Smog, Smoke Screen, Snore, Spit Up,
+        Stockpile, Substitute, Sunny Day, Swagger, Swallow, Toxic, Will-O-Wisp, Yawn,
+        After You, Infestation, Nature Power, Confide, Guard Swap, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     stats:
     - [40, 40, 40, 70, 40, 20]
     tags:

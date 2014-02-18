@@ -39,25 +39,37 @@ pokemon:
     moves:
     - bw: [Amnesia, Attract, Blizzard, Body Slam, Brine, Clear Smog, Counter, Curse,
         Dive, Double Team, Earth Power, Facade, Fissure, Frustration, Hail, Harden,
-        Hidden Power, Ice Beam, Icy Wind, Memento, Mirror Coat, Mist, Mud Bomb, Mud-Slap,
-        Mud Sport, Muddy Water, Pain Split, Protect, Rain Dance, Recover, Rest, Return,
-        Round, Scald, Sleep Talk, Sludge, Snore, Spit Up, Stockpile, Substitute, Surf,
-        Swagger, Swallow, Toxic, Trump Card, Water Pulse, Yawn]
+        Ice Beam, Icy Wind, Memento, Mirror Coat, Mist, Mud Bomb, Mud-Slap, Mud Sport,
+        Muddy Water, Pain Split, Protect, Rain Dance, Recover, Rest, Return, Round,
+        Scald, Sleep Talk, Sludge, Snore, Spit Up, Stockpile, Substitute, Surf, Swagger,
+        Swallow, Toxic, Trump Card, Water Pulse, Yawn, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Amnesia, Ancient Power, Attract, Blizzard, Body Slam, Brine, Captivate,
         Counter, Curse, Dive, Double Team, Earth Power, Endure, Facade, Fissure, Frustration,
-        Hail, Harden, Headbutt, Hidden Power, Ice Beam, Icy Wind, Memento, Mirror
-          Coat, Mud Bomb, Mud-Slap, Mud Sport, Muddy Water, Natural Gift, Pain Split,
-        Protect, Rain Dance, Recover, Rest, Return, Secret Power, Sleep Talk, Sludge,
-        Snore, Spit Up, Stockpile, String Shot, Substitute, Surf, Swagger, Swallow,
-        Toxic, Trump Card, Water Pulse, Whirlpool, Yawn]
+        Hail, Harden, Headbutt, Ice Beam, Icy Wind, Memento, Mirror Coat, Mud Bomb,
+        Mud-Slap, Mud Sport, Muddy Water, Natural Gift, Pain Split, Protect, Rain
+          Dance, Recover, Rest, Return, Secret Power, Sleep Talk, Sludge, Snore, Spit
+          Up, Stockpile, String Shot, Substitute, Surf, Swagger, Swallow, Toxic, Trump
+          Card, Water Pulse, Whirlpool, Yawn, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Amnesia, Ancient Power, Attract, Blizzard, Body Slam, Brine, Captivate,
         Clear Smog, Counter, Curse, Dive, Double Team, Earth Power, Endure, Facade,
-        Fissure, Frustration, Hail, Harden, Headbutt, Hidden Power, Ice Beam, Icy
-          Wind, Memento, Mirror Coat, Mist, Mud Bomb, Muddy Water, Mud-Slap, Mud Sport,
-        Natural Gift, Pain Split, Protect, Rain Dance, Recover, Rest, Return, Round,
-        Scald, Secret Power, Sleep Talk, Sludge, Snore, Spit Up, Stockpile, String
-          Shot, Substitute, Surf, Swagger, Swallow, Toxic, Trump Card, Water Pulse,
-        Whirlpool, Yawn, Infestation, Confide, Acid Armor]
+        Fissure, Frustration, Hail, Harden, Headbutt, Ice Beam, Icy Wind, Memento,
+        Mirror Coat, Mist, Mud Bomb, Muddy Water, Mud-Slap, Mud Sport, Natural Gift,
+        Pain Split, Protect, Rain Dance, Recover, Rest, Return, Round, Scald, Secret
+          Power, Sleep Talk, Sludge, Snore, Spit Up, Stockpile, String Shot, Substitute,
+        Surf, Swagger, Swallow, Toxic, Trump Card, Water Pulse, Whirlpool, Yawn, Infestation,
+        Confide, Acid Armor, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [76, 48, 48, 57, 62, 34]
     tags:

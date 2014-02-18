@@ -13,34 +13,46 @@ pokemon:
           Up, Counter, Covet, Cut, Dig, Double Kick, Double Team, Ember, Encore, Endeavor,
         Facade, Fake Out, Fire Blast, Fire Pledge, Fire Punch, Fire Spin, Flame Charge,
         Flame Wheel, Flamethrower, Fling, Focus Energy, Focus Punch, Frustration,
-        Fury Swipes, Grass Knot, Gunk Shot, Heat Wave, Helping Hand, Hidden Power,
-        Hone Claws, Incinerate, Iron Tail, Leer, Low Kick, Low Sweep, Nasty Plot,
-        Overheat, Protect, Quick Guard, Rest, Return, Rock Smash, Role Play, Round,
-        Scratch, Shadow Claw, Slack Off, Sleep Talk, Snore, Stealth Rock, Strength,
-        Submission, Substitute, Sunny Day, Swagger, Swords Dance, Taunt, Thunder Punch,
-        Torment, Toxic, U-turn, Uproar, Will-O-Wisp]
+        Fury Swipes, Grass Knot, Gunk Shot, Heat Wave, Helping Hand, Hone Claws, Incinerate,
+        Iron Tail, Leer, Low Kick, Low Sweep, Nasty Plot, Overheat, Protect, Quick
+          Guard, Rest, Return, Rock Smash, Role Play, Round, Scratch, Shadow Claw,
+        Slack Off, Sleep Talk, Snore, Stealth Rock, Strength, Submission, Substitute,
+        Sunny Day, Swagger, Swords Dance, Taunt, Thunder Punch, Torment, Toxic, U-turn,
+        Uproar, Will-O-Wisp, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - dp: [Aerial Ace, Assist, Attract, Blaze Kick, Brick Break, Bulk Up, Captivate,
         Counter, Cut, Dig, Double Kick, Double Team, Ember, Encore, Endeavor, Endure,
         Facade, Fake Out, Fire Blast, Fire Punch, Fire Spin, Flame Wheel, Flamethrower,
         Fling, Focus Energy, Focus Punch, Frustration, Fury Swipes, Grass Knot, Gunk
-          Shot, Headbutt, Heat Wave, Helping Hand, Hidden Power, Iron Tail, Leer,
-        Low Kick, Mud-Slap, Nasty Plot, Natural Gift, Overheat, Protect, Rest, Return,
-        Rock Climb, Rock Smash, Role Play, Rollout, Scratch, Secret Power, Shadow
-          Claw, Slack Off, Sleep Talk, Snore, Stealth Rock, Strength, Substitute,
-        Sunny Day, Swagger, Swift, Swords Dance, Taunt, Thunder Punch, Torment, Toxic,
-        U-turn, Uproar, Vacuum Wave, Will-O-Wisp]
+          Shot, Headbutt, Heat Wave, Helping Hand, Iron Tail, Leer, Low Kick, Mud-Slap,
+        Nasty Plot, Natural Gift, Overheat, Protect, Rest, Return, Rock Climb, Rock
+          Smash, Role Play, Rollout, Scratch, Secret Power, Shadow Claw, Slack Off,
+        Sleep Talk, Snore, Stealth Rock, Strength, Substitute, Sunny Day, Swagger,
+        Swift, Swords Dance, Taunt, Thunder Punch, Torment, Toxic, U-turn, Uproar,
+        Vacuum Wave, Will-O-Wisp, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Acrobatics, Aerial Ace, Assist, Attract, Blaze Kick, Brick Break, Bulk
           Up, Captivate, Counter, Cut, Dig, Double Kick, Double Team, Ember, Encore,
         Endeavor, Endure, Facade, Fake Out, Fire Blast, Fire Pledge, Fire Punch, Fire
           Spin, Flame Charge, Flamethrower, Flame Wheel, Fling, Focus Energy, Focus
           Punch, Frustration, Fury Swipes, Grass Knot, Headbutt, Heat Wave, Helping
-          Hand, Hidden Power, Hone Claws, Incinerate, Iron Tail, Leer, Low Kick, Low
-          Sweep, Mud-Slap, Nasty Plot, Natural Gift, Overheat, Protect, Quick Guard,
-        Rest, Return, Rock Climb, Rock Smash, Role Play, Rollout, Round, Scratch,
-        Secret Power, Shadow Claw, Slack Off, Sleep Talk, Snore, Stealth Rock, Strength,
-        Submission, Substitute, Sunny Day, Swagger, Swift, Swords Dance, Taunt, Thunder
-          Punch, Torment, Toxic, Uproar, U-turn, Vacuum Wave, Will-O-Wisp, Covet,
-        Gunk Shot, Power-Up Punch, Confide]
+          Hand, Hone Claws, Incinerate, Iron Tail, Leer, Low Kick, Low Sweep, Mud-Slap,
+        Nasty Plot, Natural Gift, Overheat, Protect, Quick Guard, Rest, Return, Rock
+          Climb, Rock Smash, Role Play, Rollout, Round, Scratch, Secret Power, Shadow
+          Claw, Slack Off, Sleep Talk, Snore, Stealth Rock, Strength, Submission,
+        Substitute, Sunny Day, Swagger, Swift, Swords Dance, Taunt, Thunder Punch,
+        Torment, Toxic, Uproar, U-turn, Vacuum Wave, Will-O-Wisp, Covet, Gunk Shot,
+        Power-Up Punch, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [44, 58, 44, 58, 44, 61]
     tags:

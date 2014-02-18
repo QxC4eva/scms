@@ -54,22 +54,31 @@ pokemon:
     moves:
     - bw: [Aerial Ace, Aqua Tail, Attract, Bind, Calm Mind, Captivate, Coil, Cut,
         Double Team, Energy Ball, Facade, Flash, Frustration, Gastro Acid, Giga Drain,
-        Glare, Grass Knot, Grass Pledge, Growth, Hidden Power, Iron Tail, Knock Off,
-        Leaf Blade, Leaf Storm, Leaf Tornado, Leech Seed, Leer, Light Screen, Magical
-          Leaf, Mean Look, Mega Drain, Mirror Coat, Natural Gift, Protect, Pursuit,
-        Reflect, Rest, Return, Round, Safeguard, Seed Bomb, Slam, Sleep Talk, Snatch,
-        Snore, Solar Beam, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance,
-        Synthesis, Tackle, Taunt, Torment, Toxic, Twister, Vine Whip, Worry Seed,
-        Wrap, Wring Out]
-    - xy: [Aerial Ace, Aromatherapy, Attract, Calm Mind, Captivate, Coil, Cut, Double
-          Team, Energy Ball, Facade, Flash, Frustration, Gastro Acid, Giga Drain,
-        Glare, Grass Knot, Grass Pledge, Growth, Hidden Power, Iron Tail, Leaf Blade,
+        Glare, Grass Knot, Grass Pledge, Growth, Iron Tail, Knock Off, Leaf Blade,
         Leaf Storm, Leaf Tornado, Leech Seed, Leer, Light Screen, Magical Leaf, Mean
           Look, Mega Drain, Mirror Coat, Natural Gift, Protect, Pursuit, Reflect,
-        Rest, Return, Round, Safeguard, Slam, Solar Beam, Substitute, Sunny Day, Swagger,
-        Sweet Scent, Swords Dance, Synthesis, Tackle, Taunt, Torment, Toxic, Twister,
+        Rest, Return, Round, Safeguard, Seed Bomb, Slam, Sleep Talk, Snatch, Snore,
+        Solar Beam, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis,
+        Tackle, Taunt, Torment, Toxic, Twister, Vine Whip, Worry Seed, Wrap, Wring
+          Out, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - xy: [Aerial Ace, Aromatherapy, Attract, Calm Mind, Captivate, Coil, Cut, Double
+          Team, Energy Ball, Facade, Flash, Frustration, Gastro Acid, Giga Drain,
+        Glare, Grass Knot, Grass Pledge, Growth, Iron Tail, Leaf Blade, Leaf Storm,
+        Leaf Tornado, Leech Seed, Leer, Light Screen, Magical Leaf, Mean Look, Mega
+          Drain, Mirror Coat, Natural Gift, Protect, Pursuit, Reflect, Rest, Return,
+        Round, Safeguard, Slam, Solar Beam, Substitute, Sunny Day, Swagger, Sweet
+          Scent, Swords Dance, Synthesis, Tackle, Taunt, Torment, Toxic, Twister,
         Vine Whip, Wrap, Wring Out, Seed Bomb, Aqua Tail, Bind, Snore, Knock Off,
-        Worry Seed, Snatch, Sleep Talk, Nature Power, Confide, Grassy Terrain]
+        Worry Seed, Snatch, Sleep Talk, Nature Power, Confide, Grassy Terrain, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     - []
     stats:
     - [45, 45, 55, 45, 55, 63]

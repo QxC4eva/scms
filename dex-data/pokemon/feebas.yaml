@@ -12,30 +12,46 @@ pokemon:
     introduction: rs
     moves:
     - bw: [Attract, Blizzard, Brine, Captivate, Confuse Ray, Dive, Double Team, Dragon
-          Pulse, Dragon Breath, Facade, Flail, Frustration, Hail, Haze, Hidden Power,
-        Hypnosis, Ice Beam, Icy Wind, Iron Tail, Light Screen, Mirror Coat, Mist,
-        Mud Sport, Protect, Rain Dance, Rest, Return, Round, Scald, Sleep Talk, Snore,
-        Splash, Substitute, Surf, Swagger, Tackle, Tickle, Toxic, Waterfall, Double-Edge,
-        Icy Wind, Mimic]
+          Pulse, Dragon Breath, Facade, Flail, Frustration, Hail, Haze, Hypnosis,
+        Ice Beam, Icy Wind, Iron Tail, Light Screen, Mirror Coat, Mist, Mud Sport,
+        Protect, Rain Dance, Rest, Return, Round, Scald, Sleep Talk, Snore, Splash,
+        Substitute, Surf, Swagger, Tackle, Tickle, Toxic, Waterfall, Double-Edge,
+        Icy Wind, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - dp: [Attract, Blizzard, Captivate, Confuse Ray, Dive, Double Team, Dragon Breath,
-        Endure, Facade, Flail, Frustration, Hail, Haze, Hidden Power, Hypnosis, Ice
-          Beam, Icy Wind, Light Screen, Mirror Coat, Mist, Mud Sport, Natural Gift,
-        Protect, Rain Dance, Rest, Return, Secret Power, Sleep Talk, Snore, Splash,
-        Substitute, Surf, Swagger, Swift, Tackle, Tickle, Toxic, Water Pulse, Waterfall,
-        Whirlpool, Double-Edge, Icy Wind, Mimic]
+        Endure, Facade, Flail, Frustration, Hail, Haze, Hypnosis, Ice Beam, Icy Wind,
+        Light Screen, Mirror Coat, Mist, Mud Sport, Natural Gift, Protect, Rain Dance,
+        Rest, Return, Secret Power, Sleep Talk, Snore, Splash, Substitute, Surf, Swagger,
+        Swift, Tackle, Tickle, Toxic, Water Pulse, Waterfall, Whirlpool, Double-Edge,
+        Icy Wind, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - rs: [Attract, Blizzard, Confuse Ray, Dive, Double-Edge, Double Team, Dragon
-          Breath, Endure, Facade, Flail, Frustration, Hail, Hidden Power, Hypnosis,
-        Ice Beam, Icy Wind, Light Screen, Mimic, Mirror Coat, Mud Sport, Protect,
-        Rain Dance, Rest, Return, Secret Power, Sleep Talk, Snore, Splash, Substitute,
-        Surf, Swagger, Swift, Tackle, Toxic, Water Pulse, Waterfall, Double-Edge,
-        Icy Wind, Mimic]
+          Breath, Endure, Facade, Flail, Frustration, Hail, Hypnosis, Ice Beam, Icy
+          Wind, Light Screen, Mimic, Mirror Coat, Mud Sport, Protect, Rain Dance,
+        Rest, Return, Secret Power, Sleep Talk, Snore, Splash, Substitute, Surf, Swagger,
+        Swift, Tackle, Toxic, Water Pulse, Waterfall, Double-Edge, Icy Wind, Mimic,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - xy: [Attract, Blizzard, Brine, Captivate, Confuse Ray, Dive, Double-Edge, Double
           Team, Dragon Breath, Dragon Pulse, Endure, Facade, Flail, Frustration, Hail,
-        Haze, Hidden Power, Hypnosis, Ice Beam, Icy Wind, Iron Tail, Light Screen,
-        Mimic, Mirror Coat, Mist, Mud Sport, Natural Gift, Protect, Rain Dance, Rest,
-        Return, Round, Scald, Secret Power, Sleep Talk, Snore, Splash, Substitute,
-        Surf, Swagger, Swift, Tackle, Tickle, Toxic, Waterfall, Water Pulse, Whirlpool,
-        Confide]
+        Haze, Hypnosis, Ice Beam, Icy Wind, Iron Tail, Light Screen, Mimic, Mirror
+          Coat, Mist, Mud Sport, Natural Gift, Protect, Rain Dance, Rest, Return,
+        Round, Scald, Secret Power, Sleep Talk, Snore, Splash, Substitute, Surf, Swagger,
+        Swift, Tackle, Tickle, Toxic, Waterfall, Water Pulse, Whirlpool, Confide,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     stats:
     - [20, 15, 20, 10, 55, 80]
     tags:

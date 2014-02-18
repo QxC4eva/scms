@@ -28,19 +28,27 @@ pokemon:
     introduction: bw
     moves:
     - bw: [Autotomize, Bind, Charge, Charge Beam, Discharge, Double Team, Facade,
-        Flash Cannon, Frustration, Gear Grind, Gravity, Hidden Power, Hyper Beam,
-        Iron Defense, Lock-On, Magic Coat, Magnet Rise, Metal Sound, Mirror Shot,
-        Protect, Recycle, Rest, Return, Rock Polish, Rock Smash, Round, Sandstorm,
-        Screech, Shift Gear, Signal Beam, Sleep Talk, Snore, Substitute, Swagger,
-        Thunder Wave, Thunderbolt, Thunder Shock, Toxic, Uproar, Vice Grip, Volt Switch,
-        Wild Charge, Zap Cannon]
+        Flash Cannon, Frustration, Gear Grind, Gravity, Hyper Beam, Iron Defense,
+        Lock-On, Magic Coat, Magnet Rise, Metal Sound, Mirror Shot, Protect, Recycle,
+        Rest, Return, Rock Polish, Rock Smash, Round, Sandstorm, Screech, Shift Gear,
+        Signal Beam, Sleep Talk, Snore, Substitute, Swagger, Thunder Wave, Thunderbolt,
+        Thunder Shock, Toxic, Uproar, Vice Grip, Volt Switch, Wild Charge, Zap Cannon,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - xy: [Autotomize, Bind, Charge, Charge Beam, Discharge, Double Team, Facade,
-        Flash Cannon, Frustration, Gear Grind, Hidden Power, Hyper Beam, Lock-On,
-        Metal Sound, Mirror Shot, Protect, Rest, Return, Rock Polish, Rock Smash,
-        Round, Sandstorm, Screech, Shift Gear, Substitute, Swagger, Thunderbolt, Thunder
-          Shock, Thunder Wave, Toxic, Vice Grip, Volt Switch, Wild Charge, Zap Cannon,
-        Signal Beam, Uproar, Magic Coat, Gravity, Magnet Rise, Iron Defense, Snore,
-        Recycle, Sleep Talk, Confide]
+        Flash Cannon, Frustration, Gear Grind, Hyper Beam, Lock-On, Metal Sound, Mirror
+          Shot, Protect, Rest, Return, Rock Polish, Rock Smash, Round, Sandstorm,
+        Screech, Shift Gear, Substitute, Swagger, Thunderbolt, Thunder Shock, Thunder
+          Wave, Toxic, Vice Grip, Volt Switch, Wild Charge, Zap Cannon, Signal Beam,
+        Uproar, Magic Coat, Gravity, Magnet Rise, Iron Defense, Snore, Recycle, Sleep
+          Talk, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [40, 55, 70, 45, 60, 30]
     tags:

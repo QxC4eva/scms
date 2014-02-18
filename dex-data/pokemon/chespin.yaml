@@ -30,13 +30,18 @@ pokemon:
     moves:
     - xy: [Tackle, Growl, Vine Whip, Rollout, Bite, Leech Seed, Pin Missile, Take
           Down, Seed Bomb, Mud Shot, Bulk Up, Body Slam, Pain Split, Wood Hammer,
-        Roar, Toxic, Hidden Power, Sunny Day, Taunt, Protect, Frustration, Solar Beam,
-        Smack Down, Return, Dig, Brick Break, Double Team, Reflect, Sludge Bomb, Rock
-          Tomb, Aerial Ace, Facade, Rest, Attract, Low Sweep, Round, Energy Ball,
-        Fling, Shadow Claw, Payback, Retaliate, Flash, Stone Edge, Gyro Ball, Swords
-          Dance, Bulldoze, Rock Slide, Poison Jab, Grass Knot, Swagger, Sleep Talk,
-        Substitute, Rock Smash, Nature Power, Power-Up Punch, Confide, Cut, Strength,
-        Grass Pledge, Quick Guard, Curse, Spikes, Synthesis, Belly Drum, Defense Curl]
+        Roar, Toxic, Sunny Day, Taunt, Protect, Frustration, Solar Beam, Smack Down,
+        Return, Dig, Brick Break, Double Team, Reflect, Sludge Bomb, Rock Tomb, Aerial
+          Ace, Facade, Rest, Attract, Low Sweep, Round, Energy Ball, Fling, Shadow
+          Claw, Payback, Retaliate, Flash, Stone Edge, Gyro Ball, Swords Dance, Bulldoze,
+        Rock Slide, Poison Jab, Grass Knot, Swagger, Sleep Talk, Substitute, Rock
+          Smash, Nature Power, Power-Up Punch, Confide, Cut, Strength, Grass Pledge,
+        Quick Guard, Curse, Spikes, Synthesis, Belly Drum, Defense Curl, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     stats:
     - [56, 61, 65, 48, 45, 38]
     tags:

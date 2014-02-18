@@ -13,51 +13,71 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Agility, Blizzard, Conversion, Conversion 2, Curse, Double Team, Dream
-          Eater, Endure, Flash, Frustration, Hidden Power, Hyper Beam, Ice Beam, Icy
-          Wind, Iron Tail, Lock-On, Nightmare, Protect, Psybeam, Psych Up, Psychic,
-        Rain Dance, Recover, Rest, Return, Sharpen, Sleep Talk, Snore, Sunny Day,
-        Swagger, Swift, Tackle, Thief, Thunder, Thunderbolt, Toxic, Tri Attack, Zap
-          Cannon]
+          Eater, Endure, Flash, Frustration, Hyper Beam, Ice Beam, Icy Wind, Iron
+          Tail, Lock-On, Nightmare, Protect, Psybeam, Psych Up, Psychic, Rain Dance,
+        Recover, Rest, Return, Sharpen, Sleep Talk, Snore, Sunny Day, Swagger, Swift,
+        Tackle, Thief, Thunder, Thunderbolt, Toxic, Tri Attack, Zap Cannon, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - bw: [Aerial Ace, Agility, Blizzard, Charge Beam, Conversion, Conversion 2, Discharge,
         Double Team, Dream Eater, Electroweb, Facade, Flash, Foul Play, Frustration,
-        Giga Impact, Gravity, Hidden Power, Hyper Beam, Ice Beam, Icy Wind, Iron Tail,
-        Last Resort, Lock-On, Magic Coat, Magnet Rise, Pain Split, Protect, Psybeam,
-        Psych Up, Psychic, Psyshock, Rain Dance, Recover, Recycle, Rest, Return, Round,
-        Shadow Ball, Sharpen, Signal Beam, Sleep Talk, Snore, Solar Beam, Substitute,
-        Sunny Day, Swagger, Tackle, Thief, Thunder, Thunder Wave, Thunderbolt, Toxic,
+        Giga Impact, Gravity, Hyper Beam, Ice Beam, Icy Wind, Iron Tail, Last Resort,
+        Lock-On, Magic Coat, Magnet Rise, Pain Split, Protect, Psybeam, Psych Up,
+        Psychic, Psyshock, Rain Dance, Recover, Recycle, Rest, Return, Round, Shadow
+          Ball, Sharpen, Signal Beam, Sleep Talk, Snore, Solar Beam, Substitute, Sunny
+          Day, Swagger, Tackle, Thief, Thunder, Thunder Wave, Thunderbolt, Toxic,
         Tri Attack, Trick, Trick Room, Wonder Room, Zap Cannon, Zen Headbutt, Double-Edge,
-        Icy Wind, Mimic, Nightmare]
+        Icy Wind, Mimic, Nightmare, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Aerial Ace, Agility, Blizzard, Charge Beam, Conversion, Conversion 2, Discharge,
         Double Team, Dream Eater, Endure, Facade, Flash, Frustration, Giga Impact,
-        Gravity, Hidden Power, Hyper Beam, Ice Beam, Icy Wind, Iron Tail, Last Resort,
-        Lock-On, Magic Coat, Magnet Rise, Natural Gift, Pain Split, Protect, Psybeam,
-        Psych Up, Psychic, Rain Dance, Recover, Recycle, Rest, Return, Secret Power,
-        Shadow Ball, Sharpen, Shock Wave, Signal Beam, Sleep Talk, Snore, Solar Beam,
-        Substitute, Sunny Day, Swagger, Swift, Tackle, Thief, Thunder, Thunder Wave,
-        Thunderbolt, Toxic, Tri Attack, Trick, Trick Room, Zap Cannon, Zen Headbutt,
-        Double-Edge, Icy Wind, Mimic, Nightmare]
+        Gravity, Hyper Beam, Ice Beam, Icy Wind, Iron Tail, Last Resort, Lock-On,
+        Magic Coat, Magnet Rise, Natural Gift, Pain Split, Protect, Psybeam, Psych
+          Up, Psychic, Rain Dance, Recover, Recycle, Rest, Return, Secret Power, Shadow
+          Ball, Sharpen, Shock Wave, Signal Beam, Sleep Talk, Snore, Solar Beam, Substitute,
+        Sunny Day, Swagger, Swift, Tackle, Thief, Thunder, Thunder Wave, Thunderbolt,
+        Toxic, Tri Attack, Trick, Trick Room, Zap Cannon, Zen Headbutt, Double-Edge,
+        Icy Wind, Mimic, Nightmare, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
     - rs: [Aerial Ace, Agility, Blizzard, Conversion, Conversion 2, Double-Edge, Double
-          Team, Dream Eater, Endure, Facade, Flash, Frustration, Hidden Power, Hyper
-          Beam, Ice Beam, Icy Wind, Iron Tail, Lock-On, Mimic, Nightmare, Protect,
-        Psybeam, Psych Up, Psychic, Rain Dance, Recover, Recycle, Rest, Return, Secret
-          Power, Shadow Ball, Sharpen, Shock Wave, Sleep Talk, Snore, Solar Beam,
-        Substitute, Sunny Day, Swagger, Swift, Tackle, Thief, Thunder, Thunder Wave,
-        Thunderbolt, Toxic, Tri Attack, Zap Cannon, Double-Edge, Icy Wind, Mimic,
-        Nightmare]
+          Team, Dream Eater, Endure, Facade, Flash, Frustration, Hyper Beam, Ice Beam,
+        Icy Wind, Iron Tail, Lock-On, Mimic, Nightmare, Protect, Psybeam, Psych Up,
+        Psychic, Rain Dance, Recover, Recycle, Rest, Return, Secret Power, Shadow
+          Ball, Sharpen, Shock Wave, Sleep Talk, Snore, Solar Beam, Substitute, Sunny
+          Day, Swagger, Swift, Tackle, Thief, Thunder, Thunder Wave, Thunderbolt,
+        Toxic, Tri Attack, Zap Cannon, Double-Edge, Icy Wind, Mimic, Nightmare, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rb: [Agility, Bide, Blizzard, Conversion, Double-Edge, Double Team, Flash, Hyper
           Beam, Ice Beam, Mimic, Psybeam, Psychic, Psywave, Rage, Recover, Reflect,
         Rest, Sharpen, Skull Bash, Substitute, Swift, Tackle, Take Down, Teleport,
         Thunder, Thunder Wave, Thunderbolt, Toxic, Tri Attack]
     - xy: [Aerial Ace, Agility, Blizzard, Charge Beam, Conversion, Conversion 2, Discharge,
         Double-Edge, Double Team, Dream Eater, Endure, Facade, Flash, Frustration,
-        Giga Impact, Gravity, Hidden Power, Hyper Beam, Ice Beam, Icy Wind, Iron Tail,
-        Last Resort, Lock-On, Magic Coat, Magnet Rise, Mimic, Natural Gift, Nightmare,
-        Pain Split, Protect, Psybeam, Psychic, Psych Up, Psyshock, Rain Dance, Recover,
-        Recycle, Rest, Return, Round, Secret Power, Shadow Ball, Sharpen, Shock Wave,
-        Signal Beam, Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day, Swagger,
-        Swift, Tackle, Thief, Thunder, Thunderbolt, Thunder Wave, Toxic, Tri Attack,
-        Trick, Trick Room, Zap Cannon, Zen Headbutt, Foul Play, Electroweb, Wonder
-          Room, Confide]
+        Giga Impact, Gravity, Hyper Beam, Ice Beam, Icy Wind, Iron Tail, Last Resort,
+        Lock-On, Magic Coat, Magnet Rise, Mimic, Natural Gift, Nightmare, Pain Split,
+        Protect, Psybeam, Psychic, Psych Up, Psyshock, Rain Dance, Recover, Recycle,
+        Rest, Return, Round, Secret Power, Shadow Ball, Sharpen, Shock Wave, Signal
+          Beam, Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day, Swagger, Swift,
+        Tackle, Thief, Thunder, Thunderbolt, Thunder Wave, Toxic, Tri Attack, Trick,
+        Trick Room, Zap Cannon, Zen Headbutt, Foul Play, Electroweb, Wonder Room,
+        Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [65, 60, 70, 75, 75, 40]
     - gs: [65, 60, 70, 85, 75, 40]

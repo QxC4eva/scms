@@ -29,11 +29,15 @@ pokemon:
     moves:
     - xy: [Sweet Scent, Tackle, Fairy Wind, Play Nice, Fake Tears, Round, Cotton Spore,
         Endeavor, Aromatherapy, Draining Kiss, Energy Ball, Cotton Guard, Wish, Play
-          Rough, Light Screen, Safeguard, Calm Mind, Toxic, Hidden Power, Sunny Day,
-        Protect, Rain Dance, Frustration, Thunderbolt, Return, Psychic, Double Team,
-        Flamethrower, Facade, Rest, Attract, Thief, Flash, Psych Up, Dream Eater,
-        Swagger, Sleep Talk, Substitute, Dazzling Gleam, Confide, Surf, Yawn, After
-          You, Copycat, Belly Drum]
+          Rough, Light Screen, Safeguard, Calm Mind, Toxic, Sunny Day, Protect, Rain
+          Dance, Frustration, Thunderbolt, Return, Psychic, Double Team, Flamethrower,
+        Facade, Rest, Attract, Thief, Flash, Psych Up, Dream Eater, Swagger, Sleep
+          Talk, Substitute, Dazzling Gleam, Confide, Surf, Yawn, After You, Copycat,
+        Belly Drum, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [62, 48, 66, 59, 57, 49]
     tags:

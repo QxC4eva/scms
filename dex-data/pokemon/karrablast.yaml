@@ -32,17 +32,26 @@ pokemon:
     moves:
     - bw: [Aerial Ace, Attract, Bug Bite, Bug Buzz, Counter, Cut, Double-Edge, Double
           Team, Endure, Energy Ball, Facade, Feint Attack, False Swipe, Flail, Frustration,
-        Fury Attack, Fury Cutter, Giga Drain, Headbutt, Hidden Power, Horn Attack,
-        Iron Defense, Knock Off, Leer, Megahorn, Peck, Poison Jab, Protect, Pursuit,
-        Rain Dance, Rest, Return, Round, Scary Face, Screech, Slash, Sleep Talk, Snore,
-        Struggle Bug, Substitute, Swagger, Swords Dance, Take Down, Toxic, X-Scissor]
+        Fury Attack, Fury Cutter, Giga Drain, Headbutt, Horn Attack, Iron Defense,
+        Knock Off, Leer, Megahorn, Peck, Poison Jab, Protect, Pursuit, Rain Dance,
+        Rest, Return, Round, Scary Face, Screech, Slash, Sleep Talk, Snore, Struggle
+          Bug, Substitute, Swagger, Swords Dance, Take Down, Toxic, X-Scissor, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - xy: [Aerial Ace, Attract, Bug Bite, Bug Buzz, Counter, Cut, Double-Edge, Double
           Team, Endure, Energy Ball, Facade, Feint Attack, False Swipe, Flail, Frustration,
-        Fury Attack, Fury Cutter, Headbutt, Hidden Power, Horn Attack, Knock Off,
-        Leer, Megahorn, Peck, Poison Jab, Protect, Pursuit, Rain Dance, Rest, Return,
-        Round, Scary Face, Screech, Slash, Struggle Bug, Substitute, Swagger, Swords
-          Dance, Take Down, Toxic, X-Scissor, Iron Defense, Snore, Giga Drain, Sleep
-          Talk, Infestation, Confide, Drill Run]
+        Fury Attack, Fury Cutter, Headbutt, Horn Attack, Knock Off, Leer, Megahorn,
+        Peck, Poison Jab, Protect, Pursuit, Rain Dance, Rest, Return, Round, Scary
+          Face, Screech, Slash, Struggle Bug, Substitute, Swagger, Swords Dance, Take
+          Down, Toxic, X-Scissor, Iron Defense, Snore, Giga Drain, Sleep Talk, Infestation,
+        Confide, Drill Run, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [50, 75, 45, 40, 45, 60]
     tags:

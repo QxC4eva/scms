@@ -11,11 +11,15 @@ pokemon:
     moves:
     - xy: [Tackle, Tail Whip, Thunder Shock, Charge, Charm, Parabolic Charge, Nuzzle,
         Thunder Wave, Volt Switch, Rest, Snore, Charge Beam, Entrainment, Play Rough,
-        Thunder, Discharge, Toxic, Hidden Power, Sunny Day, Protect, Rain Dance, Frustration,
-        Thunderbolt, Return, Dig, Double Team, Aerial Ace, Facade, Attract, Thief,
-        Round, Fling, Retaliate, Giga Impact, Flash, Grass Knot, Swagger, Sleep Talk,
-        U-turn, Substitute, Wild Charge, Confide, Cut, Helping Hand, Covet, Eerie
-          Impulse, Natural Gift]
+        Thunder, Discharge, Toxic, Sunny Day, Protect, Rain Dance, Frustration, Thunderbolt,
+        Return, Dig, Double Team, Aerial Ace, Facade, Attract, Thief, Round, Fling,
+        Retaliate, Giga Impact, Flash, Grass Knot, Swagger, Sleep Talk, U-turn, Substitute,
+        Wild Charge, Confide, Cut, Helping Hand, Covet, Eerie Impulse, Natural Gift,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     stats:
     - [67, 58, 57, 81, 67, 101]
     tags:

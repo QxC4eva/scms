@@ -12,28 +12,37 @@ pokemon:
     - bw: [Acrobatics, Brick Break, Calm Mind, Charge Beam, Close Combat, Confusion,
         Covet, Double Team, Drain Punch, Dream Eater, Dual Chop, Echoed Voice, Embargo,
         Energy Ball, Facade, Fire Punch, Flash, Fling, Focus Blast, Frustration, Giga
-          Impact, Grass Knot, Gravity, Heal Bell, Helping Hand, Hidden Power, Hone
-          Claws, Hyper Beam, Hyper Voice, Ice Punch, Knock Off, Last Resort, Light
-          Screen, Low Kick, Low Sweep, Magic Coat, Magic Room, Payback, Perish Song,
-        Protect, Psybeam, Psych Up, Psychic, Psyshock, Quick Attack, Rain Dance, Recycle,
-        Relic Song, Rest, Retaliate, Return, Rock Smash, Role Play, Round, Safeguard,
+          Impact, Grass Knot, Gravity, Heal Bell, Helping Hand, Hone Claws, Hyper
+          Beam, Hyper Voice, Ice Punch, Knock Off, Last Resort, Light Screen, Low
+          Kick, Low Sweep, Magic Coat, Magic Room, Payback, Perish Song, Protect,
+        Psybeam, Psych Up, Psychic, Psyshock, Quick Attack, Rain Dance, Recycle, Relic
+          Song, Rest, Retaliate, Return, Rock Smash, Role Play, Round, Safeguard,
         Shadow Ball, Shadow Claw, Signal Beam, Sing, Skill Swap, Sleep Talk, Snatch,
         Snore, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Teeter Dance,
         Telekinesis, Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Toxic, Trick,
-        Trick Room, U-turn, Uproar, Wake-Up Slap, Wonder Room, Work Up, Zen Headbutt]
+        Trick Room, U-turn, Uproar, Wake-Up Slap, Wonder Room, Work Up, Zen Headbutt,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - xy: [Acrobatics, Brick Break, Calm Mind, Charge Beam, Close Combat, Confusion,
         Double Team, Dream Eater, Echoed Voice, Embargo, Energy Ball, Facade, Flash,
-        Fling, Focus Blast, Frustration, Giga Impact, Grass Knot, Hidden Power, Hone
-          Claws, Hyper Beam, Hyper Voice, Light Screen, Low Sweep, Payback, Perish
-          Song, Protect, Psybeam, Psychic, Psych Up, Psyshock, Quick Attack, Rain
-          Dance, Relic Song, Rest, Retaliate, Return, Rock Smash, Role Play, Round,
-        Safeguard, Shadow Ball, Shadow Claw, Sing, Stone Edge, Strength, Substitute,
-        Sunny Day, Swagger, Teeter Dance, Telekinesis, Thunder, Thunderbolt, Thunder
-          Wave, Toxic, Trick Room, U-turn, Wake-Up Slap, Work Up, Covet, Dual Chop,
-        Signal Beam, Low Kick, Uproar, Thunder Punch, Fire Punch, Ice Punch, Magic
-          Coat, Gravity, Last Resort, Zen Headbutt, Snore, Knock Off, Heal Bell, Drain
-          Punch, Helping Hand, Trick, Magic Room, Wonder Room, Recycle, Snatch, Sleep
-          Talk, Skill Swap, Power-Up Punch, Dazzling Gleam, Confide]
+        Fling, Focus Blast, Frustration, Giga Impact, Grass Knot, Hone Claws, Hyper
+          Beam, Hyper Voice, Light Screen, Low Sweep, Payback, Perish Song, Protect,
+        Psybeam, Psychic, Psych Up, Psyshock, Quick Attack, Rain Dance, Relic Song,
+        Rest, Retaliate, Return, Rock Smash, Role Play, Round, Safeguard, Shadow Ball,
+        Shadow Claw, Sing, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Teeter
+          Dance, Telekinesis, Thunder, Thunderbolt, Thunder Wave, Toxic, Trick Room,
+        U-turn, Wake-Up Slap, Work Up, Covet, Dual Chop, Signal Beam, Low Kick, Uproar,
+        Thunder Punch, Fire Punch, Ice Punch, Magic Coat, Gravity, Last Resort, Zen
+          Headbutt, Snore, Knock Off, Heal Bell, Drain Punch, Helping Hand, Trick,
+        Magic Room, Wonder Room, Recycle, Snatch, Sleep Talk, Skill Swap, Power-Up
+          Punch, Dazzling Gleam, Confide, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [100, 77, 77, 128, 128, 90]
     tags:

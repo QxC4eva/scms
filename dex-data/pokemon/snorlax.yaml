@@ -12,36 +12,50 @@ pokemon:
     - bw: [After You, Amnesia, Attract, Blizzard, Body Slam, Brick Break, Bulldoze,
         Charm, Chip Away, Counter, Covet, Curse, Defense Curl, Double-Edge, Double
           Team, Earthquake, Facade, Fire Blast, Fire Punch, Flamethrower, Fling, Frustration,
-        Gunk Shot, Hidden Power, Hyper Voice, Ice Beam, Ice Punch, Icy Wind, Incinerate,
-        Last Resort, Lick, Metronome, Natural Gift, Odor Sleuth, Protect, Psychic,
-        Pursuit, Rain Dance, Recycle, Rest, Retaliate, Return, Rock Slide, Rock Smash,
-        Rock Tomb, Rollout, Round, Sandstorm, Screech, Seed Bomb, Self-Destruct, Shadow
-          Ball, Sleep Talk, Snatch, Snore, Solar Beam, Stockpile, Strength, Substitute,
-        Sunny Day, Superpower, Surf, Swagger, Swallow, Tackle, Thunder, Thunderbolt,
-        Thunder Punch, Toxic, Uproar, Whirlwind, Work Up, Zen Headbutt]
+        Gunk Shot, Hyper Voice, Ice Beam, Ice Punch, Icy Wind, Incinerate, Last Resort,
+        Lick, Metronome, Natural Gift, Odor Sleuth, Protect, Psychic, Pursuit, Rain
+          Dance, Recycle, Rest, Retaliate, Return, Rock Slide, Rock Smash, Rock Tomb,
+        Rollout, Round, Sandstorm, Screech, Seed Bomb, Self-Destruct, Shadow Ball,
+        Sleep Talk, Snatch, Snore, Solar Beam, Stockpile, Strength, Substitute, Sunny
+          Day, Superpower, Surf, Swagger, Swallow, Tackle, Thunder, Thunderbolt, Thunder
+          Punch, Toxic, Uproar, Whirlwind, Work Up, Zen Headbutt, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - dp: [Amnesia, Attract, Blizzard, Body Slam, Brick Break, Captivate, Charm, Counter,
         Curse, Defense Curl, Double-Edge, Double Team, Earthquake, Endure, Facade,
         Fire Blast, Fire Punch, Flamethrower, Fling, Focus Punch, Frustration, Gunk
-          Shot, Headbutt, Hidden Power, Ice Beam, Ice Punch, Icy Wind, Last Resort,
-        Lick, Metronome, Mud-Slap, Natural Gift, Odor Sleuth, Protect, Psychic, Pursuit,
-        Rain Dance, Recycle, Rest, Return, Rock Climb, Rock Slide, Rock Smash, Rock
-          Tomb, Rollout, Sandstorm, Screech, Secret Power, Seed Bomb, Shadow Ball,
-        Shock Wave, Sleep Talk, Snore, Solar Beam, Stockpile, Strength, Substitute,
-        Sunny Day, Superpower, Surf, Swagger, Swallow, Tackle, Thunder, Thunderbolt,
-        Thunder Punch, Toxic, Uproar, Water Pulse, Whirlpool, Whirlwind, Zen Headbutt]
+          Shot, Headbutt, Ice Beam, Ice Punch, Icy Wind, Last Resort, Lick, Metronome,
+        Mud-Slap, Natural Gift, Odor Sleuth, Protect, Psychic, Pursuit, Rain Dance,
+        Recycle, Rest, Return, Rock Climb, Rock Slide, Rock Smash, Rock Tomb, Rollout,
+        Sandstorm, Screech, Secret Power, Seed Bomb, Shadow Ball, Shock Wave, Sleep
+          Talk, Snore, Solar Beam, Stockpile, Strength, Substitute, Sunny Day, Superpower,
+        Surf, Swagger, Swallow, Tackle, Thunder, Thunderbolt, Thunder Punch, Toxic,
+        Uproar, Water Pulse, Whirlpool, Whirlwind, Zen Headbutt, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - xy: [After You, Amnesia, Attract, Blizzard, Body Slam, Brick Break, Bulldoze,
         Captivate, Charm, Chip Away, Counter, Curse, Defense Curl, Double-Edge, Double
           Team, Earthquake, Endure, Facade, Fire Blast, Fire Punch, Flamethrower,
-        Fling, Focus Punch, Frustration, Gunk Shot, Headbutt, Hidden Power, Ice Beam,
-        Ice Punch, Icy Wind, Incinerate, Last Resort, Lick, Metronome, Mud-Slap, Natural
-          Gift, Odor Sleuth, Outrage, Protect, Psychic, Pursuit, Rain Dance, Recycle,
-        Rest, Retaliate, Return, Rock Climb, Rock Slide, Rock Smash, Rock Tomb, Rollout,
+        Fling, Focus Punch, Frustration, Gunk Shot, Headbutt, Ice Beam, Ice Punch,
+        Icy Wind, Incinerate, Last Resort, Lick, Metronome, Mud-Slap, Natural Gift,
+        Odor Sleuth, Outrage, Protect, Psychic, Pursuit, Rain Dance, Recycle, Rest,
+        Retaliate, Return, Rock Climb, Rock Slide, Rock Smash, Rock Tomb, Rollout,
         Round, Sandstorm, Screech, Secret Power, Seed Bomb, Self-Destruct, Shadow
           Ball, Shock Wave, Sleep Talk, Snatch, Snore, Solar Beam, Stockpile, Strength,
         Substitute, Sunny Day, Surf, Swagger, Swallow, Tackle, Thunder, Thunderbolt,
         Thunder Punch, Toxic, Uproar, Water Pulse, Whirlpool, Whirlwind, Work Up,
         Zen Headbutt, Covet, Superpower, Hyper Voice, Belly Drum, Power-Up Punch,
-        Confide, Belch]
+        Confide, Belch, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [135, 85, 40, 40, 85, 5]
     tags:
@@ -64,11 +78,15 @@ pokemon:
     moves:
     - gs: [Amnesia, Attract, Belly Drum, Blizzard, Body Slam, Charm, Curse, Defense
           Curl, Double Team, Dynamic Punch, Earthquake, Endure, Fire Blast, Fire Punch,
-        Flamethrower, Frustration, Headbutt, Hidden Power, Hyper Beam, Ice Beam, Ice
-          Punch, Icy Wind, Lick, Mud-Slap, Protect, Psych Up, Psychic, Rain Dance,
-        Rest, Return, Rock Smash, Rollout, Sandstorm, Shadow Ball, Sleep Talk, Snore,
-        Solar Beam, Strength, Sunny Day, Surf, Swagger, Tackle, Thunder, Thunderbolt,
-        Thunder Punch, Toxic, Zap Cannon]
+        Flamethrower, Frustration, Headbutt, Hyper Beam, Ice Beam, Ice Punch, Icy
+          Wind, Lick, Mud-Slap, Protect, Psych Up, Psychic, Rain Dance, Rest, Return,
+        Rock Smash, Rollout, Sandstorm, Shadow Ball, Sleep Talk, Snore, Solar Beam,
+        Strength, Sunny Day, Surf, Swagger, Tackle, Thunder, Thunderbolt, Thunder
+          Punch, Toxic, Zap Cannon, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
     - bw: [Belly Drum, Block, Crunch, Fissure, Focus Blast, Giga Impact, Heavy Slam,
         Hyper Beam, Iron Head, Outrage, Smack Down, Wild Charge, Yawn, Icy Wind, Mimic,
         Refresh, Seismic Toss]
@@ -77,13 +95,17 @@ pokemon:
     - rs: [Amnesia, Attract, Belly Drum, Blizzard, Block, Body Slam, Brick Break,
         Charm, Counter, Covet, Curse, Defense Curl, Double-Edge, Double Team, Dynamic
           Punch, Earthquake, Endure, Facade, Fire Blast, Fire Punch, Fissure, Flamethrower,
-        Focus Punch, Frustration, Headbutt, Hidden Power, Hyper Beam, Ice Beam, Ice
-          Punch, Icy Wind, Lick, Mega Kick, Mega Punch, Metronome, Mimic, Mud-Slap,
-        Protect, Psych Up, Psychic, Rain Dance, Rest, Return, Rock Slide, Rock Tomb,
-        Rollout, Sandstorm, Secret Power, Seismic Toss, Self-Destruct, Shadow Ball,
-        Shock Wave, Sleep Talk, Snore, Solar Beam, Strength, Substitute, Sunny Day,
-        Surf, Swagger, Tackle, Thunder, Thunderbolt, Thunder Punch, Toxic, Water Pulse,
-        Yawn, Icy Wind, Icy Wind, Mimic, Refresh, Seismic Toss]
+        Focus Punch, Frustration, Headbutt, Hyper Beam, Ice Beam, Ice Punch, Icy Wind,
+        Lick, Mega Kick, Mega Punch, Metronome, Mimic, Mud-Slap, Protect, Psych Up,
+        Psychic, Rain Dance, Rest, Return, Rock Slide, Rock Tomb, Rollout, Sandstorm,
+        Secret Power, Seismic Toss, Self-Destruct, Shadow Ball, Shock Wave, Sleep
+          Talk, Snore, Solar Beam, Strength, Substitute, Sunny Day, Surf, Swagger,
+        Tackle, Thunder, Thunderbolt, Thunder Punch, Toxic, Water Pulse, Yawn, Icy
+          Wind, Icy Wind, Mimic, Refresh, Seismic Toss, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rb: [Amnesia, Bide, Blizzard, Body Slam, Bubble Beam, Counter, Double-Edge,
         Double Team, Earthquake, Fire Blast, Fissure, Harden, Headbutt, Hyper Beam,
         Ice Beam, Mega Kick, Mega Punch, Metronome, Mimic, Pay Day, Psychic, Psywave,

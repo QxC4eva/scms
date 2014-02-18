@@ -13,41 +13,61 @@ pokemon:
     moves:
     - gs: [Agility, Attract, Charm, Curse, Double Kick, Double Team, Ember, Endure,
         Fire Blast, Fire Spin, Flame Wheel, Flamethrower, Frustration, Growl, Headbutt,
-        Hidden Power, Hypnosis, Iron Tail, Protect, Quick Attack, Rest, Return, Sleep
-          Talk, Snore, Stomp, Sunny Day, Swagger, Swift, Tackle, Tail Whip, Take Down,
-        Thrash, Toxic, Low Kick]
+        Hypnosis, Iron Tail, Protect, Quick Attack, Rest, Return, Sleep Talk, Snore,
+        Stomp, Sunny Day, Swagger, Swift, Tackle, Tail Whip, Take Down, Thrash, Toxic,
+        Low Kick, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - bw: [Agility, Attract, Bounce, Captivate, Charm, Double-Edge, Double Kick, Double
           Team, Echoed Voice, Ember, Facade, Fire Blast, Fire Spin, Flame Charge,
-        Flame Wheel, Flamethrower, Flare Blitz, Frustration, Growl, Heat Wave, Hidden
-          Power, Horn Drill, Hypnosis, Incinerate, Inferno, Iron Tail, Low Kick, Morning
-          Sun, Overheat, Protect, Rest, Return, Round, Sleep Talk, Snore, Solar Beam,
-        Stomp, Strength, Substitute, Sunny Day, Swagger, Tackle, Tail Whip, Take Down,
-        Thrash, Toxic, Wild Charge, Will-O-Wisp, Body Slam, Mimic]
+        Flame Wheel, Flamethrower, Flare Blitz, Frustration, Growl, Heat Wave, Horn
+          Drill, Hypnosis, Incinerate, Inferno, Iron Tail, Low Kick, Morning Sun,
+        Overheat, Protect, Rest, Return, Round, Sleep Talk, Snore, Solar Beam, Stomp,
+        Strength, Substitute, Sunny Day, Swagger, Tackle, Tail Whip, Take Down, Thrash,
+        Toxic, Wild Charge, Will-O-Wisp, Body Slam, Mimic, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Agility, Attract, Bounce, Captivate, Charm, Double-Edge, Double Kick, Double
           Team, Ember, Endure, Facade, Fire Blast, Fire Spin, Flame Wheel, Flamethrower,
-        Flare Blitz, Frustration, Growl, Headbutt, Heat Wave, Hidden Power, Horn Drill,
-        Hypnosis, Iron Tail, Morning Sun, Natural Gift, Overheat, Protect, Rest, Return,
-        Secret Power, Sleep Talk, Snore, Solar Beam, Stomp, Strength, Substitute,
-        Sunny Day, Swagger, Swift, Tackle, Tail Whip, Take Down, Thrash, Toxic, Will-O-Wisp,
-        Body Slam, Mimic]
+        Flare Blitz, Frustration, Growl, Headbutt, Heat Wave, Horn Drill, Hypnosis,
+        Iron Tail, Morning Sun, Natural Gift, Overheat, Protect, Rest, Return, Secret
+          Power, Sleep Talk, Snore, Solar Beam, Stomp, Strength, Substitute, Sunny
+          Day, Swagger, Swift, Tackle, Tail Whip, Take Down, Thrash, Toxic, Will-O-Wisp,
+        Body Slam, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - rs: [Agility, Attract, Body Slam, Bounce, Charm, Double-Edge, Double Kick, Double
           Team, Ember, Endure, Facade, Fire Blast, Fire Spin, Flame Wheel, Flamethrower,
-        Frustration, Growl, Hidden Power, Hypnosis, Iron Tail, Mimic, Overheat, Protect,
-        Quick Attack, Rest, Return, Secret Power, Sleep Talk, Snore, Solar Beam, Stomp,
-        Strength, Substitute, Sunny Day, Swagger, Swift, Tackle, Tail Whip, Take Down,
-        Thrash, Toxic, Body Slam, Mimic]
+        Frustration, Growl, Hypnosis, Iron Tail, Mimic, Overheat, Protect, Quick Attack,
+        Rest, Return, Secret Power, Sleep Talk, Snore, Solar Beam, Stomp, Strength,
+        Substitute, Sunny Day, Swagger, Swift, Tackle, Tail Whip, Take Down, Thrash,
+        Toxic, Body Slam, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
     - rb: [Agility, Bide, Body Slam, Double-Edge, Double Team, Ember, Fire Blast,
         Fire Spin, Growl, Horn Drill, Mimic, Rage, Reflect, Rest, Skull Bash, Stomp,
         Substitute, Swift, Tail Whip, Take Down, Toxic, Low Kick]
     - xy: [Agility, Attract, Body Slam, Bounce, Captivate, Charm, Double-Edge, Double
           Kick, Double Team, Echoed Voice, Ember, Endure, Facade, Fire Blast, Fire
           Spin, Flame Charge, Flamethrower, Flame Wheel, Flare Blitz, Frustration,
-        Growl, Headbutt, Heat Wave, Hidden Power, Horn Drill, Hypnosis, Incinerate,
-        Inferno, Iron Tail, Low Kick, Mimic, Morning Sun, Natural Gift, Overheat,
-        Protect, Quick Attack, Rest, Return, Round, Secret Power, Sleep Talk, Snore,
-        Solar Beam, Stomp, Strength, Substitute, Sunny Day, Swagger, Swift, Tackle,
-        Tail Whip, Take Down, Thrash, Toxic, Wild Charge, Will-O-Wisp, Confide, Ally
-          Switch]
+        Growl, Headbutt, Heat Wave, Horn Drill, Hypnosis, Incinerate, Inferno, Iron
+          Tail, Low Kick, Mimic, Morning Sun, Natural Gift, Overheat, Protect, Quick
+          Attack, Rest, Return, Round, Secret Power, Sleep Talk, Snore, Solar Beam,
+        Stomp, Strength, Substitute, Sunny Day, Swagger, Swift, Tackle, Tail Whip,
+        Take Down, Thrash, Toxic, Wild Charge, Will-O-Wisp, Confide, Ally Switch,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     stats:
     - [50, 85, 55, 65, 65, 90]
     - gs: [50, 85, 55, 65, 65, 90]

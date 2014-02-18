@@ -33,18 +33,26 @@ pokemon:
     - bw: [Absorb, After You, Aromatherapy, Attract, Bide, Charm, Covet, Cut, Double
           Team, Dream Eater, Endure, Energy Ball, Entrainment, Facade, Flash, Frustration,
         Giga Drain, Grass Knot, Grass Whistle, Growth, Heal Bell, Healing Wish, Helping
-          Hand, Hidden Power, Ingrain, Leaf Storm, Leech Seed, Magical Leaf, Mega
-          Drain, Natural Gift, Protect, Rest, Return, Round, Safeguard, Seed Bomb,
-        Sleep Powder, Sleep Talk, Snore, Solar Beam, Stun Spore, Substitute, Sunny
-          Day, Swagger, Sweet Scent, Synthesis, Toxic, Worry Seed]
+          Hand, Ingrain, Leaf Storm, Leech Seed, Magical Leaf, Mega Drain, Natural
+          Gift, Protect, Rest, Return, Round, Safeguard, Seed Bomb, Sleep Powder,
+        Sleep Talk, Snore, Solar Beam, Stun Spore, Substitute, Sunny Day, Swagger,
+        Sweet Scent, Synthesis, Toxic, Worry Seed, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Absorb, After You, Aromatherapy, Attract, Bide, Charm, Cut, Double Team,
         Dream Eater, Endure, Energy Ball, Entrainment, Facade, Flash, Frustration,
         Giga Drain, Grass Knot, Grass Whistle, Growth, Healing Wish, Helping Hand,
-        Hidden Power, Ingrain, Leaf Storm, Leech Seed, Magical Leaf, Mega Drain, Natural
-          Gift, Protect, Rest, Return, Round, Safeguard, Sleep Powder, Solar Beam,
-        Stun Spore, Substitute, Sunny Day, Swagger, Sweet Scent, Synthesis, Toxic,
-        Worry Seed, Covet, Seed Bomb, Snore, Heal Bell, Sleep Talk, Nature Power,
-        Confide]
+        Ingrain, Leaf Storm, Leech Seed, Magical Leaf, Mega Drain, Natural Gift, Protect,
+        Rest, Return, Round, Safeguard, Sleep Powder, Solar Beam, Stun Spore, Substitute,
+        Sunny Day, Swagger, Sweet Scent, Synthesis, Toxic, Worry Seed, Covet, Seed
+          Bomb, Snore, Heal Bell, Sleep Talk, Nature Power, Confide, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     stats:
     - [45, 35, 50, 70, 50, 30]
     tags:

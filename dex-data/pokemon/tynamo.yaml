@@ -11,16 +11,24 @@ pokemon:
     moves:
     - bw: [Acid, Acid Spray, Acrobatics, Aqua Tail, Attract, Bind, Bounce, Coil, Crunch,
         Discharge, Double Team, Facade, Flash, Flash Cannon, Frustration, Gastro Acid,
-        Giga Drain, Headbutt, Hidden Power, Iron Tail, Knock Off, Light Screen, Protect,
-        Rain Dance, Rest, Return, Round, Signal Beam, Sleep Talk, Snore, Substitute,
-        Super Fang, Swagger, Thrash, Thunder, Thunderbolt, Toxic, U-turn, Volt Switch,
-        Wild Charge, Zap Cannon]
-    - xy: [Acid, Acid Spray, Acrobatics, Attract, Bind, Coil, Crunch, Discharge, Double
-          Team, Facade, Flash, Flash Cannon, Frustration, Gastro Acid, Headbutt, Hidden
-          Power, Light Screen, Protect, Rain Dance, Rest, Return, Round, Substitute,
+        Giga Drain, Headbutt, Iron Tail, Knock Off, Light Screen, Protect, Rain Dance,
+        Rest, Return, Round, Signal Beam, Sleep Talk, Snore, Substitute, Super Fang,
         Swagger, Thrash, Thunder, Thunderbolt, Toxic, U-turn, Volt Switch, Wild Charge,
-        Zap Cannon, Super Fang, Signal Beam, Bounce, Aqua Tail, Iron Tail, Snore,
-        Knock Off, Giga Drain, Sleep Talk, Confide]
+        Zap Cannon, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - xy: [Acid, Acid Spray, Acrobatics, Attract, Bind, Coil, Crunch, Discharge, Double
+          Team, Facade, Flash, Flash Cannon, Frustration, Gastro Acid, Headbutt, Light
+          Screen, Protect, Rain Dance, Rest, Return, Round, Substitute, Swagger, Thrash,
+        Thunder, Thunderbolt, Toxic, U-turn, Volt Switch, Wild Charge, Zap Cannon,
+        Super Fang, Signal Beam, Bounce, Aqua Tail, Iron Tail, Snore, Knock Off, Giga
+          Drain, Sleep Talk, Confide, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [65, 85, 70, 75, 70, 40]
     tags:

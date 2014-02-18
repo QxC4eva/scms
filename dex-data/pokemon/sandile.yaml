@@ -55,21 +55,29 @@ pokemon:
     moves:
     - bw: [Aqua Tail, Assurance, Attract, Beat Up, Bite, Bulldoze, Counter, Crunch,
         Cut, Dark Pulse, Dig, Double-Edge, Double Team, Earth Power, Earthquake, Embargo,
-        Facade, Fire Fang, Focus Energy, Foul Play, Frustration, Hidden Power, Hone
-          Claws, Incinerate, Iron Tail, Leer, Mean Look, Mud-Slap, Payback, Protect,
-        Pursuit, Rage, Rest, Retaliate, Return, Roar, Rock Climb, Rock Slide, Rock
-          Tomb, Round, Sand Attack, Sand Tomb, Sandstorm, Scary Face, Sleep Talk,
-        Sludge Bomb, Snarl, Snatch, Snore, Spite, Stealth Rock, Stone Edge, Substitute,
-        Swagger, Taunt, Thief, Thrash, Thunder Fang, Torment, Toxic, Uproar]
+        Facade, Fire Fang, Focus Energy, Foul Play, Frustration, Hone Claws, Incinerate,
+        Iron Tail, Leer, Mean Look, Mud-Slap, Payback, Protect, Pursuit, Rage, Rest,
+        Retaliate, Return, Roar, Rock Climb, Rock Slide, Rock Tomb, Round, Sand Attack,
+        Sand Tomb, Sandstorm, Scary Face, Sleep Talk, Sludge Bomb, Snarl, Snatch,
+        Snore, Spite, Stealth Rock, Stone Edge, Substitute, Swagger, Taunt, Thief,
+        Thrash, Thunder Fang, Torment, Toxic, Uproar, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Assurance, Attract, Beat Up, Bite, Bulldoze, Counter, Crunch, Cut, Dig,
         Double-Edge, Double Team, Earthquake, Embargo, Facade, Fire Fang, Focus Energy,
-        Foul Play, Frustration, Hidden Power, Hone Claws, Incinerate, Leer, Mean Look,
-        Mud-Slap, Payback, Protect, Pursuit, Rage, Rest, Retaliate, Return, Roar,
-        Rock Climb, Rock Slide, Rock Tomb, Round, Sand Attack, Sandstorm, Sand Tomb,
-        Scary Face, Sludge Bomb, Snarl, Stone Edge, Substitute, Swagger, Taunt, Thief,
-        Thrash, Thunder Fang, Torment, Toxic, Uproar, Aqua Tail, Dark Pulse, Earth
-          Power, Iron Tail, Sleep Talk, Snatch, Snore, Spite, Stealth Rock, Confide,
-        Me First]
+        Foul Play, Frustration, Hone Claws, Incinerate, Leer, Mean Look, Mud-Slap,
+        Payback, Protect, Pursuit, Rage, Rest, Retaliate, Return, Roar, Rock Climb,
+        Rock Slide, Rock Tomb, Round, Sand Attack, Sandstorm, Sand Tomb, Scary Face,
+        Sludge Bomb, Snarl, Stone Edge, Substitute, Swagger, Taunt, Thief, Thrash,
+        Thunder Fang, Torment, Toxic, Uproar, Aqua Tail, Dark Pulse, Earth Power,
+        Iron Tail, Sleep Talk, Snatch, Snore, Spite, Stealth Rock, Confide, Me First,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     stats:
     - [50, 72, 35, 35, 35, 65]
     tags:

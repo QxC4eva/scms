@@ -12,43 +12,64 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Ancient Power, Attract, Beat Up, Curse, Cut, Dig, Double Team, Earthquake,
-        Endure, Feint Attack, Fissure, Frustration, Growl, Hidden Power, Magnitude,
-        Mud-Slap, Protect, Pursuit, Rest, Return, Rock Smash, Sand Attack, Scratch,
-        Screech, Slash, Sleep Talk, Sludge Bomb, Snore, Sunny Day, Swagger, Thief,
-        Toxic]
+        Endure, Feint Attack, Fissure, Frustration, Growl, Magnitude, Mud-Slap, Protect,
+        Pursuit, Rest, Return, Rock Smash, Sand Attack, Scratch, Screech, Slash, Sleep
+          Talk, Sludge Bomb, Snore, Sunny Day, Swagger, Thief, Toxic, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - bw: [Aerial Ace, Ancient Power, Astonish, Attract, Beat Up, Bulldoze, Cut, Dig,
         Double-Edge, Double Team, Earth Power, Earthquake, Echoed Voice, Endure, Facade,
         Feint Attack, Final Gambit, Fissure, Frustration, Fury Cutter, Growl, Headbutt,
-        Hidden Power, Hone Claws, Magnitude, Memento, Mimic, Mud Bomb, Mud-Slap, Protect,
-        Pursuit, Rest, Return, Reversal, Rock Slide, Rock Smash, Rock Tomb, Round,
-        Sand Attack, Sandstorm, Scratch, Screech, Shadow Claw, Slash, Sleep Talk,
-        Sludge Bomb, Snore, Stealth Rock, Substitute, Sucker Punch, Sunny Day, Swagger,
-        Thief, Toxic, Uproar]
+        Hone Claws, Magnitude, Memento, Mimic, Mud Bomb, Mud-Slap, Protect, Pursuit,
+        Rest, Return, Reversal, Rock Slide, Rock Smash, Rock Tomb, Round, Sand Attack,
+        Sandstorm, Scratch, Screech, Shadow Claw, Slash, Sleep Talk, Sludge Bomb,
+        Snore, Stealth Rock, Substitute, Sucker Punch, Sunny Day, Swagger, Thief,
+        Toxic, Uproar, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - dp: [Aerial Ace, Ancient Power, Astonish, Attract, Beat Up, Body Slam, Captivate,
         Cut, Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endure, Facade,
-        Feint Attack, Fissure, Frustration, Fury Cutter, Growl, Hidden Power, Magnitude,
-        Mimic, Mud Bomb, Mud-Slap, Natural Gift, Protect, Pursuit, Rest, Return, Reversal,
+        Feint Attack, Fissure, Frustration, Fury Cutter, Growl, Magnitude, Mimic,
+        Mud Bomb, Mud-Slap, Natural Gift, Protect, Pursuit, Rest, Return, Reversal,
         Rock Slide, Rock Smash, Rock Tomb, Sand Attack, Sandstorm, Scratch, Screech,
         Secret Power, Shadow Claw, Slash, Sleep Talk, Sludge Bomb, Snore, Stealth
-          Rock, Substitute, Sucker Punch, Sunny Day, Swagger, Thief, Toxic, Uproar]
+          Rock, Substitute, Sucker Punch, Sunny Day, Swagger, Thief, Toxic, Uproar,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rs: [Aerial Ace, Ancient Power, Attract, Beat Up, Body Slam, Cut, Dig, Double-Edge,
         Double Team, Earthquake, Endure, Facade, Feint Attack, Fissure, Frustration,
-        Fury Cutter, Fury Swipes, Growl, Hidden Power, Magnitude, Mimic, Mud-Slap,
-        Protect, Pursuit, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Sand Attack,
-        Scratch, Screech, Secret Power, Slash, Sleep Talk, Sludge Bomb, Snore, Substitute,
-        Sunny Day, Swagger, Thief, Toxic, Uproar]
+        Fury Cutter, Fury Swipes, Growl, Magnitude, Mimic, Mud-Slap, Protect, Pursuit,
+        Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Sand Attack, Scratch, Screech,
+        Secret Power, Slash, Sleep Talk, Sludge Bomb, Snore, Substitute, Sunny Day,
+        Swagger, Thief, Toxic, Uproar, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rb: [Bide, Body Slam, Cut, Dig, Double-Edge, Double Team, Earthquake, Fissure,
         Growl, Mimic, Rage, Rest, Rock Slide, Sand Attack, Scratch, Slash, Substitute,
         Take Down, Toxic]
     - xy: [Aerial Ace, Ancient Power, Astonish, Attract, Beat Up, Body Slam, Bulldoze,
         Captivate, Cut, Dig, Double-Edge, Double Team, Earth Power, Earthquake, Echoed
           Voice, Endure, Facade, Feint Attack, Final Gambit, Fissure, Frustration,
-        Fury Swipes, Growl, Headbutt, Hidden Power, Hone Claws, Magnitude, Memento,
-        Mimic, Mud Bomb, Mud-Slap, Natural Gift, Protect, Pursuit, Rest, Return, Reversal,
-        Rock Slide, Rock Smash, Rock Tomb, Round, Sand Attack, Sandstorm, Scratch,
-        Screech, Secret Power, Shadow Claw, Slash, Sleep Talk, Sludge Bomb, Snore,
-        Stealth Rock, Substitute, Sucker Punch, Sunny Day, Swagger, Thief, Toxic,
-        Uproar, Confide]
+        Fury Swipes, Growl, Headbutt, Hone Claws, Magnitude, Memento, Mimic, Mud Bomb,
+        Mud-Slap, Natural Gift, Protect, Pursuit, Rest, Return, Reversal, Rock Slide,
+        Rock Smash, Rock Tomb, Round, Sand Attack, Sandstorm, Scratch, Screech, Secret
+          Power, Shadow Claw, Slash, Sleep Talk, Sludge Bomb, Snore, Stealth Rock,
+        Substitute, Sucker Punch, Sunny Day, Swagger, Thief, Toxic, Uproar, Confide,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     stats:
     - [10, 55, 25, 45, 45, 95]
     - gs: [10, 55, 25, 35, 45, 95]

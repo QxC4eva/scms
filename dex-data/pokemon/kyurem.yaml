@@ -12,21 +12,29 @@ pokemon:
     - bw: [Ancient Power, Blizzard, Cut, Double Team, Draco Meteor, Dragon Claw, Dragon
           Pulse, Dragon Rage, Dragon Tail, Dragon Breath, Earth Power, Echoed Voice,
         Endeavor, Facade, Flash Cannon, Fling, Fly, Focus Blast, Frustration, Giga
-          Impact, Glaciate, Hail, Hidden Power, Hone Claws, Hyper Beam, Hyper Voice,
-        Ice Beam, Icy Wind, Imprison, Iron Head, Light Screen, Outrage, Payback, Protect,
-        Psychic, Rain Dance, Reflect, Rest, Return, Rock Slide, Rock Smash, Rock Tomb,
-        Roost, Round, Safeguard, Scary Face, Shadow Ball, Shadow Claw, Signal Beam,
-        Slash, Sleep Talk, Snore, Stone Edge, Strength, Substitute, Sunny Day, Swagger,
-        Toxic, Zen Headbutt]
+          Impact, Glaciate, Hail, Hone Claws, Hyper Beam, Hyper Voice, Ice Beam, Icy
+          Wind, Imprison, Iron Head, Light Screen, Outrage, Payback, Protect, Psychic,
+        Rain Dance, Reflect, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Roost,
+        Round, Safeguard, Scary Face, Shadow Ball, Shadow Claw, Signal Beam, Slash,
+        Sleep Talk, Snore, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Toxic,
+        Zen Headbutt, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - xy: [Ancient Power, Blizzard, Cut, Double Team, Draco Meteor, Dragon Breath,
         Dragon Claw, Dragon Pulse, Dragon Rage, Dragon Tail, Echoed Voice, Endeavor,
         Facade, Flash Cannon, Fling, Fly, Focus Blast, Frustration, Giga Impact, Glaciate,
-        Hail, Hidden Power, Hone Claws, Hyper Beam, Hyper Voice, Ice Beam, Icy Wind,
-        Imprison, Light Screen, Outrage, Payback, Protect, Psychic, Rain Dance, Reflect,
-        Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Round, Safeguard, Scary Face,
-        Shadow Ball, Shadow Claw, Slash, Stone Edge, Strength, Substitute, Sunny Day,
-        Swagger, Toxic, Signal Beam, Iron Head, Earth Power, Zen Headbutt, Snore,
-        Roost, Sleep Talk, Steel Wing, Confide]
+        Hail, Hone Claws, Hyper Beam, Hyper Voice, Ice Beam, Icy Wind, Imprison, Light
+          Screen, Outrage, Payback, Protect, Psychic, Rain Dance, Reflect, Rest, Return,
+        Rock Slide, Rock Smash, Rock Tomb, Round, Safeguard, Scary Face, Shadow Ball,
+        Shadow Claw, Slash, Stone Edge, Strength, Substitute, Sunny Day, Swagger,
+        Toxic, Signal Beam, Iron Head, Earth Power, Zen Headbutt, Snore, Roost, Sleep
+          Talk, Steel Wing, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [125, 130, 90, 130, 90, 95]
     tags:

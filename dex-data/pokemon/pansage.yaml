@@ -12,21 +12,30 @@ pokemon:
     - bw: [Acrobatics, Astonish, Attract, Bite, Bullet Seed, Covet, Crunch, Cut, Dig,
         Double Team, Endeavor, Energy Ball, Facade, Flash, Fling, Frustration, Fury
           Swipes, Giga Drain, Grass Knot, Grass Whistle, Gunk Shot, Helping Hand,
-        Hidden Power, Hone Claws, Iron Tail, Knock Off, Leaf Storm, Leech Seed, Leer,
-        Lick, Low Kick, Low Sweep, Magical Leaf, Nasty Plot, Natural Gift, Payback,
-        Protect, Recycle, Rest, Return, Rock Smash, Rock Tomb, Role Play, Round, Scratch,
-        Seed Bomb, Shadow Claw, Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day,
+        Hone Claws, Iron Tail, Knock Off, Leaf Storm, Leech Seed, Leer, Lick, Low
+          Kick, Low Sweep, Magical Leaf, Nasty Plot, Natural Gift, Payback, Protect,
+        Recycle, Rest, Return, Rock Smash, Rock Tomb, Role Play, Round, Scratch, Seed
+          Bomb, Shadow Claw, Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day,
         Swagger, Synthesis, Taunt, Thief, Tickle, Torment, Toxic, Uproar, Vine Whip,
-        Work Up, Worry Seed]
+        Work Up, Worry Seed, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - xy: [Acrobatics, Astonish, Attract, Bite, Bullet Seed, Covet, Crunch, Cut, Dig,
         Double Team, Energy Ball, Facade, Flash, Fling, Frustration, Fury Swipes,
-        Grass Knot, Grass Whistle, Hidden Power, Hone Claws, Leaf Storm, Leech Seed,
-        Leer, Lick, Low Kick, Low Sweep, Magical Leaf, Nasty Plot, Natural Gift, Payback,
-        Protect, Recycle, Rest, Return, Rock Smash, Rock Tomb, Role Play, Round, Scratch,
-        Seed Bomb, Shadow Claw, Solar Beam, Substitute, Sunny Day, Swagger, Taunt,
-        Thief, Tickle, Torment, Toxic, Vine Whip, Work Up, Gunk Shot, Uproar, Iron
-          Tail, Snore, Knock Off, Synthesis, Giga Drain, Worry Seed, Helping Hand,
-        Endeavor, Sleep Talk, Play Nice, Nature Power, Confide, Disarming Voice]
+        Grass Knot, Grass Whistle, Hone Claws, Leaf Storm, Leech Seed, Leer, Lick,
+        Low Kick, Low Sweep, Magical Leaf, Nasty Plot, Natural Gift, Payback, Protect,
+        Recycle, Rest, Return, Rock Smash, Rock Tomb, Role Play, Round, Scratch, Seed
+          Bomb, Shadow Claw, Solar Beam, Substitute, Sunny Day, Swagger, Taunt, Thief,
+        Tickle, Torment, Toxic, Vine Whip, Work Up, Gunk Shot, Uproar, Iron Tail,
+        Snore, Knock Off, Synthesis, Giga Drain, Worry Seed, Helping Hand, Endeavor,
+        Sleep Talk, Play Nice, Nature Power, Confide, Disarming Voice, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     - []
     stats:
     - [50, 53, 48, 53, 48, 64]

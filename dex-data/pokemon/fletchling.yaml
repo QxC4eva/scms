@@ -28,10 +28,14 @@ pokemon:
     introduction: xy
     moves:
     - xy: [Tackle, Growl, Quick Attack, Peck, Agility, Flail, Roost, Razor Wind, Natural
-          Gift, Flame Charge, Acrobatics, Me First, Tailwind, Steel Wing, Toxic, Hidden
-          Power, Sunny Day, Taunt, Protect, Frustration, Return, Double Team, Aerial
-          Ace, Facade, Rest, Attract, Thief, Round, Overheat, Swords Dance, Swagger,
-        Sleep Talk, U-turn, Substitute, Confide, Fly, Quick Guard, Snatch]
+          Gift, Flame Charge, Acrobatics, Me First, Tailwind, Steel Wing, Toxic, Sunny
+          Day, Taunt, Protect, Frustration, Return, Double Team, Aerial Ace, Facade,
+        Rest, Attract, Thief, Round, Overheat, Swords Dance, Swagger, Sleep Talk,
+        U-turn, Substitute, Confide, Fly, Quick Guard, Snatch, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [45, 50, 43, 40, 38, 62]
     tags:

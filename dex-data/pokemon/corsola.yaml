@@ -12,54 +12,75 @@ pokemon:
     introduction: gs
     moves:
     - gs: [Amnesia, Ancient Power, Attract, Bubble, Bubble Beam, Curse, Defense Curl,
-        Double Team, Earthquake, Endure, Frustration, Harden, Headbutt, Hidden Power,
-        Ice Beam, Mirror Coat, Mist, Mud-Slap, Protect, Psychic, Rain Dance, Recover,
-        Rest, Return, Rock Slide, Rock Smash, Rollout, Safeguard, Sandstorm, Screech,
-        Sleep Talk, Snore, Spike Cannon, Strength, Sunny Day, Surf, Swagger, Tackle,
-        Toxic, Whirlpool]
+        Double Team, Earthquake, Endure, Frustration, Harden, Headbutt, Ice Beam,
+        Mirror Coat, Mist, Mud-Slap, Protect, Psychic, Rain Dance, Recover, Rest,
+        Return, Rock Slide, Rock Smash, Rollout, Safeguard, Sandstorm, Screech, Sleep
+          Talk, Snore, Spike Cannon, Strength, Sunny Day, Surf, Swagger, Tackle, Toxic,
+        Whirlpool, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - bw: [Amnesia, Ancient Power, Aqua Ring, Attract, Barrier, Bide, Blizzard, Body
           Slam, Bubble, Bubble Beam, Bulldoze, Calm Mind, Confuse Ray, Curse, Dig,
         Double-Edge, Double Team, Earth Power, Earthquake, Endeavor, Endure, Explosion,
-        Facade, Flail, Frustration, Hail, Harden, Head Smash, Hidden Power, Ice Beam,
-        Icicle Spear, Icy Wind, Ingrain, Iron Defense, Light Screen, Lucky Chant,
-        Magic Coat, Mimic, Mirror Coat, Mist, Nature Power, Power Gem, Protect, Psychic,
-        Rain Dance, Recover, Reflect, Refresh, Rest, Return, Rock Blast, Rock Polish,
-        Rock Slide, Rock Smash, Rock Tomb, Round, Safeguard, Sandstorm, Scald, Screech,
-        Self-Destruct, Shadow Ball, Sleep Talk, Snore, Spike Cannon, Stealth Rock,
-        Stone Edge, Strength, Substitute, Sunny Day, Surf, Swagger, Tackle, Toxic,
-        Water Pulse]
+        Facade, Flail, Frustration, Hail, Harden, Head Smash, Ice Beam, Icicle Spear,
+        Icy Wind, Ingrain, Iron Defense, Light Screen, Lucky Chant, Magic Coat, Mimic,
+        Mirror Coat, Mist, Nature Power, Power Gem, Protect, Psychic, Rain Dance,
+        Recover, Reflect, Refresh, Rest, Return, Rock Blast, Rock Polish, Rock Slide,
+        Rock Smash, Rock Tomb, Round, Safeguard, Sandstorm, Scald, Screech, Self-Destruct,
+        Shadow Ball, Sleep Talk, Snore, Spike Cannon, Stealth Rock, Stone Edge, Strength,
+        Substitute, Sunny Day, Surf, Swagger, Tackle, Toxic, Water Pulse, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - dp: [Amnesia, Ancient Power, Aqua Ring, Attract, Barrier, Blizzard, Body Slam,
         Brine, Bubble, Bubble Beam, Calm Mind, Captivate, Confuse Ray, Curse, Dig,
         Double-Edge, Double Team, Earth Power, Earthquake, Endeavor, Endure, Explosion,
-        Facade, Frustration, Hail, Harden, Headbutt, Hidden Power, Ice Beam, Icicle
-          Spear, Icy Wind, Ingrain, Light Screen, Lucky Chant, Magic Coat, Mimic,
-        Mirror Coat, Mist, Mud-Slap, Natural Gift, Nature Power, Power Gem, Protect,
-        Psychic, Rain Dance, Recover, Reflect, Refresh, Rest, Return, Rock Blast,
-        Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Rollout, Safeguard, Sandstorm,
-        Screech, Secret Power, Self-Destruct, Shadow Ball, Sleep Talk, Snore, Spike
-          Cannon, Stealth Rock, Stone Edge, Strength, Substitute, Sucker Punch, Sunny
-          Day, Surf, Swagger, Tackle, Toxic, Water Pulse, Whirlpool]
+        Facade, Frustration, Hail, Harden, Headbutt, Ice Beam, Icicle Spear, Icy Wind,
+        Ingrain, Light Screen, Lucky Chant, Magic Coat, Mimic, Mirror Coat, Mist,
+        Mud-Slap, Natural Gift, Nature Power, Power Gem, Protect, Psychic, Rain Dance,
+        Recover, Reflect, Refresh, Rest, Return, Rock Blast, Rock Polish, Rock Slide,
+        Rock Smash, Rock Tomb, Rollout, Safeguard, Sandstorm, Screech, Secret Power,
+        Self-Destruct, Shadow Ball, Sleep Talk, Snore, Spike Cannon, Stealth Rock,
+        Stone Edge, Strength, Substitute, Sucker Punch, Sunny Day, Surf, Swagger,
+        Tackle, Toxic, Water Pulse, Whirlpool, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rs: [Amnesia, Ancient Power, Attract, Barrier, Blizzard, Body Slam, Bubble,
         Bubble Beam, Calm Mind, Confuse Ray, Defense Curl, Dig, Double-Edge, Double
           Team, Earthquake, Endure, Explosion, Facade, Frustration, Hail, Harden,
-        Hidden Power, Ice Beam, Icicle Spear, Ingrain, Light Screen, Mimic, Mirror
-          Coat, Mist, Mud-Slap, Protect, Psychic, Rain Dance, Recover, Reflect, Refresh,
-        Rest, Return, Rock Blast, Rock Slide, Rock Smash, Rock Tomb, Rollout, Safeguard,
-        Sandstorm, Screech, Secret Power, Self-Destruct, Shadow Ball, Sleep Talk,
-        Snore, Spike Cannon, Strength, Substitute, Sunny Day, Surf, Swagger, Tackle,
-        Toxic, Water Pulse]
+        Ice Beam, Icicle Spear, Ingrain, Light Screen, Mimic, Mirror Coat, Mist, Mud-Slap,
+        Protect, Psychic, Rain Dance, Recover, Reflect, Refresh, Rest, Return, Rock
+          Blast, Rock Slide, Rock Smash, Rock Tomb, Rollout, Safeguard, Sandstorm,
+        Screech, Secret Power, Self-Destruct, Shadow Ball, Sleep Talk, Snore, Spike
+          Cannon, Strength, Substitute, Sunny Day, Surf, Swagger, Tackle, Toxic, Water
+          Pulse, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - xy: [Amnesia, Ancient Power, Aqua Ring, Attract, Barrier, Bide, Blizzard, Body
           Slam, Brine, Bubble, Bubble Beam, Bulldoze, Calm Mind, Captivate, Confuse
           Ray, Curse, Defense Curl, Dig, Double-Edge, Double Team, Earth Power, Earthquake,
         Endeavor, Endure, Explosion, Facade, Flail, Frustration, Hail, Harden, Headbutt,
-        Head Smash, Hidden Power, Ice Beam, Icicle Spear, Icy Wind, Ingrain, Iron
-          Defense, Light Screen, Lucky Chant, Magic Coat, Mimic, Mirror Coat, Mist,
-        Mud-Slap, Mud Sport, Natural Gift, Nature Power, Power Gem, Protect, Psychic,
-        Rain Dance, Recover, Reflect, Refresh, Rest, Return, Rock Blast, Rock Polish,
-        Rock Slide, Rock Smash, Rock Tomb, Rollout, Round, Safeguard, Sandstorm, Scald,
-        Screech, Secret Power, Self-Destruct, Shadow Ball, Sleep Talk, Snore, Spike
-          Cannon, Stealth Rock, Stone Edge, Strength, Substitute, Sucker Punch, Sunny
-          Day, Surf, Swagger, Tackle, Toxic, Water Pulse, Whirlpool, Confide, Camouflage]
+        Head Smash, Ice Beam, Icicle Spear, Icy Wind, Ingrain, Iron Defense, Light
+          Screen, Lucky Chant, Magic Coat, Mimic, Mirror Coat, Mist, Mud-Slap, Mud
+          Sport, Natural Gift, Nature Power, Power Gem, Protect, Psychic, Rain Dance,
+        Recover, Reflect, Refresh, Rest, Return, Rock Blast, Rock Polish, Rock Slide,
+        Rock Smash, Rock Tomb, Rollout, Round, Safeguard, Sandstorm, Scald, Screech,
+        Secret Power, Self-Destruct, Shadow Ball, Sleep Talk, Snore, Spike Cannon,
+        Stealth Rock, Stone Edge, Strength, Substitute, Sucker Punch, Sunny Day, Surf,
+        Swagger, Tackle, Toxic, Water Pulse, Whirlpool, Confide, Camouflage, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     stats:
     - [55, 55, 85, 65, 85, 35]
     tags:

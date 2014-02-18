@@ -29,14 +29,18 @@ pokemon:
     moves:
     - xy: [Shell Smash, Scratch, Sand Attack, Water Gun, Withdraw, Fury Swipes, Slash,
         Mud-Slap, Clamp, Rock Polish, Ancient Power, Hone Claws, Fury Cutter, Night
-          Slash, Razor Shell, Cross Chop, Toxic, Hidden Power, Taunt, Ice Beam, Blizzard,
-        Protect, Rain Dance, Safeguard, Frustration, Smack Down, Earthquake, Return,
-        Dig, Brick Break, Double Team, Sludge Wave, Sludge Bomb, Sandstorm, Rock Tomb,
-        Aerial Ace, Torment, Facade, Rest, Attract, Thief, Round, False Swipe, Scald,
-        Fling, Embargo, Shadow Claw, Payback, Stone Edge, Swords Dance, Bulldoze,
-        Rock Slide, X-Scissor, Infestation, Poison Jab, Grass Knot, Swagger, Sleep
-          Talk, Substitute, Rock Smash, Nature Power, Power-Up Punch, Confide, Cut,
-        Surf, Strength, Tickle, Switcheroo, Water Sport, Helping Hand]
+          Slash, Razor Shell, Cross Chop, Toxic, Taunt, Ice Beam, Blizzard, Protect,
+        Rain Dance, Safeguard, Frustration, Smack Down, Earthquake, Return, Dig, Brick
+          Break, Double Team, Sludge Wave, Sludge Bomb, Sandstorm, Rock Tomb, Aerial
+          Ace, Torment, Facade, Rest, Attract, Thief, Round, False Swipe, Scald, Fling,
+        Embargo, Shadow Claw, Payback, Stone Edge, Swords Dance, Bulldoze, Rock Slide,
+        X-Scissor, Infestation, Poison Jab, Grass Knot, Swagger, Sleep Talk, Substitute,
+        Rock Smash, Nature Power, Power-Up Punch, Confide, Cut, Surf, Strength, Tickle,
+        Switcheroo, Water Sport, Helping Hand, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [42, 52, 67, 39, 56, 50]
     tags:

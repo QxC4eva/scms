@@ -12,19 +12,27 @@ pokemon:
     - bw: [Aerial Ace, Aqua Tail, Assurance, Attract, Counter, Cut, Dig, Double Team,
         Draco Meteor, Dragon Claw, Dragon Dance, Dragon Pulse, Dragon Rage, Dual Chop,
         Endeavor, Endure, Facade, False Swipe, Fling, Focus Energy, Frustration, Giga
-          Impact, Guillotine, Harden, Hidden Power, Hone Claws, Incinerate, Iron Tail,
-        Leer, Night Slash, Outrage, Payback, Poison Jab, Protect, Rain Dance, Razor
-          Wind, Rest, Return, Reversal, Roar, Rock Smash, Rock Tomb, Round, Scary
-          Face, Scratch, Slash, Sleep Talk, Snore, Strength, Substitute, Sunny Day,
-        Superpower, Swagger, Swords Dance, Taunt, Toxic, X-Scissor]
+          Impact, Guillotine, Harden, Hone Claws, Incinerate, Iron Tail, Leer, Night
+          Slash, Outrage, Payback, Poison Jab, Protect, Rain Dance, Razor Wind, Rest,
+        Return, Reversal, Roar, Rock Smash, Rock Tomb, Round, Scary Face, Scratch,
+        Slash, Sleep Talk, Snore, Strength, Substitute, Sunny Day, Superpower, Swagger,
+        Swords Dance, Taunt, Toxic, X-Scissor, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Aerial Ace, Assurance, Attract, Counter, Cut, Dig, Double Team, Draco Meteor,
         Dragon Claw, Dragon Dance, Dragon Pulse, Dragon Rage, Dual Chop, Endeavor,
         Endure, Facade, False Swipe, Fling, Focus Energy, Frustration, Giga Impact,
-        Guillotine, Harden, Hidden Power, Hone Claws, Incinerate, Iron Tail, Leer,
-        Night Slash, Outrage, Payback, Poison Jab, Protect, Rain Dance, Razor Wind,
-        Rest, Return, Reversal, Roar, Rock Smash, Rock Tomb, Round, Scary Face, Scratch,
-        Slash, Strength, Substitute, Sunny Day, Swagger, Swords Dance, Taunt, Toxic,
-        X-Scissor, Superpower, Aqua Tail, Snore, Sleep Talk, Confide]
+        Guillotine, Harden, Hone Claws, Incinerate, Iron Tail, Leer, Night Slash,
+        Outrage, Payback, Poison Jab, Protect, Rain Dance, Razor Wind, Rest, Return,
+        Reversal, Roar, Rock Smash, Rock Tomb, Round, Scary Face, Scratch, Slash,
+        Strength, Substitute, Sunny Day, Swagger, Swords Dance, Taunt, Toxic, X-Scissor,
+        Superpower, Aqua Tail, Snore, Sleep Talk, Confide, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [46, 87, 60, 30, 40, 57]
     tags:

@@ -12,35 +12,52 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Acid, Attract, Aurora Beam, Barrier, Blizzard, Bubble Beam, Constrict,
-        Curse, Cut, Double Team, Endure, Frustration, Giga Drain, Haze, Hidden Power,
-        Hydro Pump, Ice Beam, Icy Wind, Mirror Coat, Poison Sting, Protect, Rain Dance,
-        Rapid Spin, Rest, Return, Safeguard, Screech, Sleep Talk, Sludge Bomb, Snore,
-        Supersonic, Surf, Swagger, Toxic, Whirlpool, Wrap, Confuse Ray]
+        Curse, Cut, Double Team, Endure, Frustration, Giga Drain, Haze, Hydro Pump,
+        Ice Beam, Icy Wind, Mirror Coat, Poison Sting, Protect, Rain Dance, Rapid
+          Spin, Rest, Return, Safeguard, Screech, Sleep Talk, Sludge Bomb, Snore,
+        Supersonic, Surf, Swagger, Toxic, Whirlpool, Wrap, Confuse Ray, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - bw: [Acid, Acid Spray, Acupressure, Aqua Ring, Attract, Aurora Beam, Barrier,
         Bind, Blizzard, Bubble, Bubble Beam, Confuse Ray, Constrict, Cut, Dive, Double
-          Team, Facade, Frustration, Giga Drain, Hail, Haze, Hex, Hidden Power, Hydro
-          Pump, Ice Beam, Icy Wind, Knock Off, Magic Coat, Mirror Coat, Muddy Water,
-        Payback, Poison Jab, Poison Sting, Protect, Rain Dance, Rapid Spin, Rest,
-        Return, Round, Safeguard, Scald, Screech, Sleep Talk, Sludge Bomb, Sludge
-          Wave, Snore, Substitute, Supersonic, Surf, Swagger, Swords Dance, Thief,
-        Tickle, Toxic, Toxic Spikes, Venoshock, Water Pulse, Waterfall, Wrap, Wring
-          Out, Double-Edge, Icy Wind, Mimic]
+          Team, Facade, Frustration, Giga Drain, Hail, Haze, Hex, Hydro Pump, Ice
+          Beam, Icy Wind, Knock Off, Magic Coat, Mirror Coat, Muddy Water, Payback,
+        Poison Jab, Poison Sting, Protect, Rain Dance, Rapid Spin, Rest, Return, Round,
+        Safeguard, Scald, Screech, Sleep Talk, Sludge Bomb, Sludge Wave, Snore, Substitute,
+        Supersonic, Surf, Swagger, Swords Dance, Thief, Tickle, Toxic, Toxic Spikes,
+        Venoshock, Water Pulse, Waterfall, Wrap, Wring Out, Double-Edge, Icy Wind,
+        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - dp: [Acid, Acupressure, Attract, Aurora Beam, Barrier, Blizzard, Brine, Bubble
           Beam, Captivate, Confuse Ray, Constrict, Cut, Dive, Double Team, Endure,
-        Facade, Frustration, Giga Drain, Hail, Haze, Hidden Power, Hydro Pump, Ice
-          Beam, Icy Wind, Knock Off, Magic Coat, Mirror Coat, Muddy Water, Natural
-          Gift, Payback, Poison Jab, Poison Sting, Protect, Rain Dance, Rapid Spin,
-        Rest, Return, Safeguard, Screech, Secret Power, Sleep Talk, Sludge Bomb, Snore,
-        Substitute, Supersonic, Surf, Swagger, Swords Dance, Thief, Toxic, Toxic Spikes,
-        Water Pulse, Waterfall, Whirlpool, Wrap, Wring Out, Double-Edge, Icy Wind,
-        Mimic]
+        Facade, Frustration, Giga Drain, Hail, Haze, Hydro Pump, Ice Beam, Icy Wind,
+        Knock Off, Magic Coat, Mirror Coat, Muddy Water, Natural Gift, Payback, Poison
+          Jab, Poison Sting, Protect, Rain Dance, Rapid Spin, Rest, Return, Safeguard,
+        Screech, Secret Power, Sleep Talk, Sludge Bomb, Snore, Substitute, Supersonic,
+        Surf, Swagger, Swords Dance, Thief, Toxic, Toxic Spikes, Water Pulse, Waterfall,
+        Whirlpool, Wrap, Wring Out, Double-Edge, Icy Wind, Mimic, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - rs: [Acid, Attract, Aurora Beam, Barrier, Blizzard, Bubble Beam, Confuse Ray,
         Constrict, Cut, Dive, Double-Edge, Double Team, Endure, Facade, Frustration,
-        Giga Drain, Hail, Haze, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Mimic,
-        Mirror Coat, Poison Sting, Protect, Rain Dance, Rapid Spin, Rest, Return,
-        Safeguard, Screech, Secret Power, Sleep Talk, Sludge Bomb, Snore, Substitute,
-        Supersonic, Surf, Swagger, Swords Dance, Thief, Toxic, Water Pulse, Waterfall,
-        Wrap, Double-Edge, Icy Wind, Mimic]
+        Giga Drain, Hail, Haze, Hydro Pump, Ice Beam, Icy Wind, Mimic, Mirror Coat,
+        Poison Sting, Protect, Rain Dance, Rapid Spin, Rest, Return, Safeguard, Screech,
+        Secret Power, Sleep Talk, Sludge Bomb, Snore, Substitute, Supersonic, Surf,
+        Swagger, Swords Dance, Thief, Toxic, Water Pulse, Waterfall, Wrap, Double-Edge,
+        Icy Wind, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - rb: [Acid, Barrier, Bide, Blizzard, Bubble Beam, Constrict, Cut, Double-Edge,
         Double Team, Hydro Pump, Ice Beam, Mega Drain, Mimic, Poison Sting, Rage,
         Reflect, Rest, Screech, Skull Bash, Substitute, Supersonic, Surf, Swords Dance,
@@ -48,13 +65,17 @@ pokemon:
     - xy: [Acid, Acid Spray, Acupressure, Aqua Ring, Attract, Aurora Beam, Barrier,
         Blizzard, Brine, Bubble, Bubble Beam, Captivate, Confuse Ray, Constrict, Cut,
         Dive, Double-Edge, Double Team, Endure, Facade, Frustration, Giga Drain, Hail,
-        Haze, Hex, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Knock Off, Magic
-          Coat, Mimic, Mirror Coat, Muddy Water, Natural Gift, Payback, Poison Jab,
-        Poison Sting, Protect, Rain Dance, Rapid Spin, Rest, Return, Round, Safeguard,
-        Scald, Screech, Secret Power, Sleep Talk, Sludge Bomb, Sludge Wave, Snore,
-        Substitute, Supersonic, Surf, Swagger, Swords Dance, Thief, Tickle, Toxic,
-        Toxic Spikes, Venoshock, Waterfall, Water Pulse, Whirlpool, Wrap, Wring Out,
-        Bind, Infestation, Dazzling Gleam, Confide]
+        Haze, Hex, Hydro Pump, Ice Beam, Icy Wind, Knock Off, Magic Coat, Mimic, Mirror
+          Coat, Muddy Water, Natural Gift, Payback, Poison Jab, Poison Sting, Protect,
+        Rain Dance, Rapid Spin, Rest, Return, Round, Safeguard, Scald, Screech, Secret
+          Power, Sleep Talk, Sludge Bomb, Sludge Wave, Snore, Substitute, Supersonic,
+        Surf, Swagger, Swords Dance, Thief, Tickle, Toxic, Toxic Spikes, Venoshock,
+        Waterfall, Water Pulse, Whirlpool, Wrap, Wring Out, Bind, Infestation, Dazzling
+          Gleam, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [40, 40, 35, 100, 100, 70]
     - gs: [40, 40, 35, 50, 100, 70]

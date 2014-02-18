@@ -12,37 +12,53 @@ pokemon:
     moves:
     - bw: [Amnesia, Attract, Blizzard, Clear Smog, Disable, Double Team, Ember, Energy
           Ball, Facade, Fire Blast, Flamethrower, Flash, Frustration, Future Sight,
-        Hail, Headbutt, Hex, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Incinerate,
-        Last Resort, Lucky Chant, Ominous Wind, Powder Snow, Protect, Psych Up, Rain
-          Dance, Rest, Retaliate, Return, Round, Sandstorm, Scald, Shadow Ball, Sleep
-          Talk, Snore, Solar Beam, Substitute, Sunny Day, Swagger, Tackle, Tailwind,
-        Thief, Thunder, Thunder Wave, Thunderbolt, Toxic, Water Gun, Weather Ball,
-        Work Up]
+        Hail, Headbutt, Hex, Hydro Pump, Ice Beam, Icy Wind, Incinerate, Last Resort,
+        Lucky Chant, Ominous Wind, Powder Snow, Protect, Psych Up, Rain Dance, Rest,
+        Retaliate, Return, Round, Sandstorm, Scald, Shadow Ball, Sleep Talk, Snore,
+        Solar Beam, Substitute, Sunny Day, Swagger, Tackle, Tailwind, Thief, Thunder,
+        Thunder Wave, Thunderbolt, Toxic, Water Gun, Weather Ball, Work Up, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - dp: [Amnesia, Attract, Avalanche, Blizzard, Captivate, Disable, Double Team,
         Ember, Endure, Energy Ball, Facade, Fire Blast, Flamethrower, Flash, Frustration,
-        Future Sight, Hail, Hidden Power, Ice Beam, Icy Wind, Last Resort, Lucky Chant,
-        Natural Gift, Ominous Wind, Powder Snow, Protect, Psych Up, Rain Dance, Rest,
-        Return, Sandstorm, Secret Power, Shadow Ball, Shock Wave, Sleep Talk, Snore,
-        Solar Beam, Substitute, Sunny Day, Swagger, Swift, Tackle, Tailwind, Thief,
-        Thunder, Thunder Wave, Thunderbolt, Toxic, Water Gun, Water Pulse, Weather
-          Ball]
+        Future Sight, Hail, Ice Beam, Icy Wind, Last Resort, Lucky Chant, Natural
+          Gift, Ominous Wind, Powder Snow, Protect, Psych Up, Rain Dance, Rest, Return,
+        Sandstorm, Secret Power, Shadow Ball, Shock Wave, Sleep Talk, Snore, Solar
+          Beam, Substitute, Sunny Day, Swagger, Swift, Tackle, Tailwind, Thief, Thunder,
+        Thunder Wave, Thunderbolt, Toxic, Water Gun, Water Pulse, Weather Ball, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rs: [Attract, Blizzard, Body Slam, Defense Curl, Double-Edge, Double Team, Ember,
         Endure, Facade, Fire Blast, Flamethrower, Flash, Frustration, Future Sight,
-        Hail, Hidden Power, Ice Beam, Icy Wind, Mimic, Powder Snow, Protect, Psych
-          Up, Rain Dance, Rest, Return, Sandstorm, Secret Power, Shadow Ball, Shock
-          Wave, Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day, Swagger, Swift,
-        Tackle, Thief, Thunder, Thunder Wave, Thunderbolt, Toxic, Water Gun, Water
-          Pulse, Weather Ball]
+        Hail, Ice Beam, Icy Wind, Mimic, Powder Snow, Protect, Psych Up, Rain Dance,
+        Rest, Return, Sandstorm, Secret Power, Shadow Ball, Shock Wave, Sleep Talk,
+        Snore, Solar Beam, Substitute, Sunny Day, Swagger, Swift, Tackle, Thief, Thunder,
+        Thunder Wave, Thunderbolt, Toxic, Water Gun, Water Pulse, Weather Ball, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - xy: [Amnesia, Attract, Avalanche, Blizzard, Body Slam, Captivate, Clear Smog,
         Defense Curl, Disable, Double-Edge, Double Team, Ember, Endure, Energy Ball,
         Facade, Fire Blast, Flamethrower, Flash, Frustration, Future Sight, Hail,
-        Headbutt, Hex, Hidden Power, Hydro Pump, Ice Beam, Icy Wind, Incinerate, Last
-          Resort, Lucky Chant, Mimic, Natural Gift, Ominous Wind, Powder Snow, Protect,
-        Psych Up, Rain Dance, Rest, Retaliate, Return, Round, Sandstorm, Scald, Secret
-          Power, Shadow Ball, Shock Wave, Sleep Talk, Snore, Solar Beam, Substitute,
-        Sunny Day, Swagger, Swift, Tackle, Tailwind, Thief, Thunder, Thunderbolt,
-        Thunder Wave, Toxic, Water Gun, Water Pulse, Weather Ball, Work Up, Confide,
-        Cosmic Power, Guard Swap, Reflect Type]
+        Headbutt, Hex, Hydro Pump, Ice Beam, Icy Wind, Incinerate, Last Resort, Lucky
+          Chant, Mimic, Natural Gift, Ominous Wind, Powder Snow, Protect, Psych Up,
+        Rain Dance, Rest, Retaliate, Return, Round, Sandstorm, Scald, Secret Power,
+        Shadow Ball, Shock Wave, Sleep Talk, Snore, Solar Beam, Substitute, Sunny
+          Day, Swagger, Swift, Tackle, Tailwind, Thief, Thunder, Thunderbolt, Thunder
+          Wave, Toxic, Water Gun, Water Pulse, Weather Ball, Work Up, Confide, Cosmic
+          Power, Guard Swap, Reflect Type, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [70, 70, 70, 70, 70, 70]
     tags:

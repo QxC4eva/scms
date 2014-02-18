@@ -31,24 +31,32 @@ pokemon:
     - bw: [After You, Ally Switch, Astonish, Attract, Barrier, Calm Mind, Charge Beam,
         Confusion, Dark Pulse, Disable, Double Team, Dream Eater, Echoed Voice, Embargo,
         Energy Ball, Facade, Flash, Frustration, Gravity, Growl, Guard Split, Guard
-          Swap, Headbutt, Heal Block, Hidden Power, Imprison, Light Screen, Magic
-          Coat, Miracle Eye, Nasty Plot, Pain Split, Power Split, Power Swap, Protect,
-        Psybeam, Psych Up, Psychic, Psyshock, Rain Dance, Recover, Recycle, Reflect,
-        Rest, Return, Rock Slide, Rock Tomb, Role Play, Round, Safeguard, Shadow Ball,
-        Signal Beam, Simple Beam, Skill Swap, Sleep Talk, Snatch, Snore, Substitute,
-        Swagger, Synchronoise, Telekinesis, Teleport, Thief, Thunder Wave, Thunderbolt,
-        Toxic, Trick, Trick Room, Uproar, Wonder Room, Zen Headbutt]
+          Swap, Headbutt, Heal Block, Imprison, Light Screen, Magic Coat, Miracle
+          Eye, Nasty Plot, Pain Split, Power Split, Power Swap, Protect, Psybeam,
+        Psych Up, Psychic, Psyshock, Rain Dance, Recover, Recycle, Reflect, Rest,
+        Return, Rock Slide, Rock Tomb, Role Play, Round, Safeguard, Shadow Ball, Signal
+          Beam, Simple Beam, Skill Swap, Sleep Talk, Snatch, Snore, Substitute, Swagger,
+        Synchronoise, Telekinesis, Teleport, Thief, Thunder Wave, Thunderbolt, Toxic,
+        Trick, Trick Room, Uproar, Wonder Room, Zen Headbutt, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Ally Switch, Astonish, Attract, Barrier, Calm Mind, Charge Beam, Confusion,
         Disable, Double Team, Dream Eater, Echoed Voice, Embargo, Energy Ball, Facade,
         Flash, Frustration, Growl, Guard Split, Guard Swap, Headbutt, Heal Block,
-        Hidden Power, Imprison, Light Screen, Miracle Eye, Nasty Plot, Power Split,
-        Power Swap, Protect, Psybeam, Psychic, Psych Up, Psyshock, Rain Dance, Recover,
-        Reflect, Rest, Return, Rock Slide, Rock Tomb, Round, Safeguard, Shadow Ball,
-        Simple Beam, Skill Swap, Substitute, Swagger, Synchronoise, Telekinesis, Teleport,
+        Imprison, Light Screen, Miracle Eye, Nasty Plot, Power Split, Power Swap,
+        Protect, Psybeam, Psychic, Psych Up, Psyshock, Rain Dance, Recover, Reflect,
+        Rest, Return, Rock Slide, Rock Tomb, Round, Safeguard, Shadow Ball, Simple
+          Beam, Skill Swap, Substitute, Swagger, Synchronoise, Telekinesis, Teleport,
         Thief, Thunderbolt, Thunder Wave, Toxic, Trick Room, Wonder Room, Zen Headbutt,
         Signal Beam, Uproar, Magic Coat, Gravity, Dark Pulse, Snore, Role Play, Pain
           Split, After You, Trick, Recycle, Snatch, Sleep Talk, Steel Wing, Confide,
-        Cosmic Power]
+        Cosmic Power, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [55, 55, 55, 85, 55, 30]
     tags:

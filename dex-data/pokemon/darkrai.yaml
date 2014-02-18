@@ -12,37 +12,49 @@ pokemon:
     - bw: [Aerial Ace, Blizzard, Brick Break, Calm Mind, Charge Beam, Cut, Dark Pulse,
         Dark Void, Disable, Double Team, Drain Punch, Dream Eater, Embargo, Facade,
         Feint Attack, Flash, Fling, Focus Blast, Foul Play, Frustration, Giga Impact,
-        Haze, Hidden Power, Hyper Beam, Hypnosis, Ice Beam, Icy Wind, Incinerate,
-        Knock Off, Last Resort, Nasty Plot, Nightmare, Ominous Wind, Payback, Poison
-          Jab, Protect, Psych Up, Psychic, Quick Attack, Rain Dance, Rest, Retaliate,
-        Return, Rock Slide, Rock Smash, Rock Tomb, Round, Shadow Ball, Shadow Claw,
-        Sleep Talk, Sludge Bomb, Snarl, Snatch, Snore, Spite, Strength, Substitute,
-        Sunny Day, Swagger, Swords Dance, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt,
-        Torment, Toxic, Trick, Will-O-Wisp, Wonder Room, X-Scissor]
+        Haze, Hyper Beam, Hypnosis, Ice Beam, Icy Wind, Incinerate, Knock Off, Last
+          Resort, Nasty Plot, Nightmare, Ominous Wind, Payback, Poison Jab, Protect,
+        Psych Up, Psychic, Quick Attack, Rain Dance, Rest, Retaliate, Return, Rock
+          Slide, Rock Smash, Rock Tomb, Round, Shadow Ball, Shadow Claw, Sleep Talk,
+        Sludge Bomb, Snarl, Snatch, Snore, Spite, Strength, Substitute, Sunny Day,
+        Swagger, Swords Dance, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Torment,
+        Toxic, Trick, Will-O-Wisp, Wonder Room, X-Scissor, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Aerial Ace, Blizzard, Brick Break, Calm Mind, Charge Beam, Cut, Dark Pulse,
         Dark Void, Disable, Double Team, Drain Punch, Dream Eater, Embargo, Endure,
         Facade, Feint Attack, Flash, Fling, Focus Blast, Focus Punch, Frustration,
-        Giga Impact, Haze, Headbutt, Hidden Power, Hyper Beam, Hypnosis, Ice Beam,
-        Icy Wind, Knock Off, Last Resort, Mud-Slap, Nasty Plot, Natural Gift, Night
-          Shade, Nightmare, Ominous Wind, Payback, Poison Jab, Protect, Psych Up,
-        Psychic, Pursuit, Quick Attack, Rain Dance, Rest, Return, Rock Climb, Rock
-          Slide, Rock Smash, Rock Tomb, Secret Power, Shadow Ball, Shadow Claw, Shock
-          Wave, Sleep Talk, Sludge Bomb, Snatch, Snore, Spite, Strength, Substitute,
-        Sucker Punch, Sunny Day, Swagger, Swift, Swords Dance, Taunt, Thief, Thunder,
-        Thunder Wave, Thunderbolt, Torment, Toxic, Trick, Will-O-Wisp, X-Scissor]
+        Giga Impact, Haze, Headbutt, Hyper Beam, Hypnosis, Ice Beam, Icy Wind, Knock
+          Off, Last Resort, Mud-Slap, Nasty Plot, Natural Gift, Night Shade, Nightmare,
+        Ominous Wind, Payback, Poison Jab, Protect, Psych Up, Psychic, Pursuit, Quick
+          Attack, Rain Dance, Rest, Return, Rock Climb, Rock Slide, Rock Smash, Rock
+          Tomb, Secret Power, Shadow Ball, Shadow Claw, Shock Wave, Sleep Talk, Sludge
+          Bomb, Snatch, Snore, Spite, Strength, Substitute, Sucker Punch, Sunny Day,
+        Swagger, Swift, Swords Dance, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt,
+        Torment, Toxic, Trick, Will-O-Wisp, X-Scissor, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Aerial Ace, Blizzard, Brick Break, Calm Mind, Charge Beam, Cut, Dark Pulse,
         Dark Void, Disable, Double Team, Drain Punch, Dream Eater, Embargo, Endure,
         Facade, Feint Attack, Flash, Fling, Focus Blast, Focus Punch, Frustration,
-        Giga Impact, Haze, Headbutt, Hidden Power, Hyper Beam, Hypnosis, Ice Beam,
-        Icy Wind, Incinerate, Knock Off, Last Resort, Mud-Slap, Nasty Plot, Natural
-          Gift, Nightmare, Night Shade, Ominous Wind, Payback, Poison Jab, Protect,
-        Psychic, Psych Up, Pursuit, Quick Attack, Rain Dance, Rest, Retaliate, Return,
-        Roar of Time, Rock Climb, Rock Slide, Rock Smash, Rock Tomb, Round, Secret
-          Power, Shadow Ball, Shadow Claw, Shock Wave, Sleep Talk, Sludge Bomb, Snarl,
-        Snatch, Snore, Spacial Rend, Spite, Strength, Substitute, Sucker Punch, Sunny
-          Day, Swagger, Swift, Swords Dance, Taunt, Thief, Thunder, Thunderbolt, Thunder
-          Wave, Torment, Toxic, Trick, Will-O-Wisp, X-Scissor, Foul Play, Wonder Room,
-        Power-Up Punch, Confide]
+        Giga Impact, Haze, Headbutt, Hyper Beam, Hypnosis, Ice Beam, Icy Wind, Incinerate,
+        Knock Off, Last Resort, Mud-Slap, Nasty Plot, Natural Gift, Nightmare, Night
+          Shade, Ominous Wind, Payback, Poison Jab, Protect, Psychic, Psych Up, Pursuit,
+        Quick Attack, Rain Dance, Rest, Retaliate, Return, Roar of Time, Rock Climb,
+        Rock Slide, Rock Smash, Rock Tomb, Round, Secret Power, Shadow Ball, Shadow
+          Claw, Shock Wave, Sleep Talk, Sludge Bomb, Snarl, Snatch, Snore, Spacial
+          Rend, Spite, Strength, Substitute, Sucker Punch, Sunny Day, Swagger, Swift,
+        Swords Dance, Taunt, Thief, Thunder, Thunderbolt, Thunder Wave, Torment, Toxic,
+        Trick, Will-O-Wisp, X-Scissor, Foul Play, Wonder Room, Power-Up Punch, Confide,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     stats:
     - [70, 90, 90, 135, 90, 125]
     tags:

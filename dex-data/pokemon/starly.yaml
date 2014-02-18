@@ -52,26 +52,38 @@ pokemon:
     moves:
     - bw: [Aerial Ace, Agility, Astonish, Attract, Brave Bird, Detect, Double-Edge,
         Double Team, Echoed Voice, Endeavor, Facade, Feather Dance, Final Gambit,
-        Fly, Foresight, Frustration, Fury Attack, Growl, Heat Wave, Hidden Power,
-        Pluck, Protect, Pursuit, Quick Attack, Rain Dance, Rest, Return, Revenge,
-        Roost, Round, Sand Attack, Sleep Talk, Snore, Steel Wing, Substitute, Sunny
-          Day, Swagger, Tackle, Tailwind, Take Down, Thief, Toxic, U-turn, Uproar,
-        Whirlwind, Wing Attack, Work Up]
+        Fly, Foresight, Frustration, Fury Attack, Growl, Heat Wave, Pluck, Protect,
+        Pursuit, Quick Attack, Rain Dance, Rest, Return, Revenge, Roost, Round, Sand
+          Attack, Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day, Swagger, Tackle,
+        Tailwind, Take Down, Thief, Toxic, U-turn, Uproar, Whirlwind, Wing Attack,
+        Work Up, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - dp: [Aerial Ace, Agility, Air Cutter, Astonish, Attract, Brave Bird, Captivate,
         Defog, Double-Edge, Double Team, Endeavor, Endure, Facade, Feather Dance,
-        Fly, Foresight, Frustration, Fury Attack, Growl, Heat Wave, Hidden Power,
-        Mud-Slap, Natural Gift, Ominous Wind, Pluck, Protect, Pursuit, Quick Attack,
-        Rain Dance, Rest, Return, Roost, Sand Attack, Secret Power, Sleep Talk, Snore,
-        Steel Wing, Substitute, Sunny Day, Swagger, Swift, Tackle, Tailwind, Take
-          Down, Thief, Toxic, Twister, U-turn, Whirlwind, Wing Attack]
+        Fly, Foresight, Frustration, Fury Attack, Growl, Heat Wave, Mud-Slap, Natural
+          Gift, Ominous Wind, Pluck, Protect, Pursuit, Quick Attack, Rain Dance, Rest,
+        Return, Roost, Sand Attack, Secret Power, Sleep Talk, Snore, Steel Wing, Substitute,
+        Sunny Day, Swagger, Swift, Tackle, Tailwind, Take Down, Thief, Toxic, Twister,
+        U-turn, Whirlwind, Wing Attack, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Aerial Ace, Agility, Air Cutter, Astonish, Attract, Brave Bird, Captivate,
         Defog, Detect, Double-Edge, Double Team, Echoed Voice, Endeavor, Endure, Facade,
         Feather Dance, Final Gambit, Fly, Foresight, Frustration, Fury Attack, Growl,
-        Heat Wave, Hidden Power, Mud-Slap, Natural Gift, Ominous Wind, Pluck, Protect,
-        Pursuit, Quick Attack, Rain Dance, Rest, Return, Revenge, Roost, Round, Sand
-          Attack, Secret Power, Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day,
-        Swagger, Swift, Tackle, Tailwind, Take Down, Thief, Toxic, Twister, Uproar,
-        U-turn, Whirlwind, Wing Attack, Work Up, Confide, Mirror Move]
+        Heat Wave, Mud-Slap, Natural Gift, Ominous Wind, Pluck, Protect, Pursuit,
+        Quick Attack, Rain Dance, Rest, Return, Revenge, Roost, Round, Sand Attack,
+        Secret Power, Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day, Swagger,
+        Swift, Tackle, Tailwind, Take Down, Thief, Toxic, Twister, Uproar, U-turn,
+        Whirlwind, Wing Attack, Work Up, Confide, Mirror Move, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [40, 55, 30, 30, 30, 60]
     tags:

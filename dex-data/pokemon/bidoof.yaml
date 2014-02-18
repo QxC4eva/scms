@@ -36,32 +36,44 @@ pokemon:
     moves:
     - bw: [Amnesia, Aqua Tail, Attract, Blizzard, Charge Beam, Covet, Curse, Cut,
         Defense Curl, Dig, Double-Edge, Double Team, Echoed Voice, Endure, Facade,
-        Frustration, Fury Swipes, Grass Knot, Growl, Headbutt, Hidden Power, Hyper
-          Fang, Ice Beam, Icy Wind, Iron Tail, Last Resort, Odor Sleuth, Pluck, Protect,
-        Quick Attack, Rain Dance, Rest, Retaliate, Return, Rock Climb, Rock Smash,
-        Rollout, Round, Shadow Ball, Skull Bash, Sleep Talk, Snore, Stealth Rock,
-        Substitute, Sunny Day, Super Fang, Superpower, Swagger, Tackle, Take Down,
-        Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Toxic, Water Sport, Work
-          Up, Yawn]
+        Frustration, Fury Swipes, Grass Knot, Growl, Headbutt, Hyper Fang, Ice Beam,
+        Icy Wind, Iron Tail, Last Resort, Odor Sleuth, Pluck, Protect, Quick Attack,
+        Rain Dance, Rest, Retaliate, Return, Rock Climb, Rock Smash, Rollout, Round,
+        Shadow Ball, Skull Bash, Sleep Talk, Snore, Stealth Rock, Substitute, Sunny
+          Day, Super Fang, Superpower, Swagger, Tackle, Take Down, Taunt, Thief, Thunder,
+        Thunder Wave, Thunderbolt, Toxic, Water Sport, Work Up, Yawn, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - dp: [Amnesia, Aqua Tail, Attract, Blizzard, Captivate, Charge Beam, Curse, Cut,
         Defense Curl, Dig, Double-Edge, Double Team, Endure, Facade, Frustration,
-        Fury Cutter, Fury Swipes, Grass Knot, Growl, Headbutt, Hidden Power, Hyper
-          Fang, Ice Beam, Icy Wind, Iron Tail, Last Resort, Mud-Slap, Natural Gift,
-        Odor Sleuth, Pluck, Protect, Quick Attack, Rain Dance, Rest, Return, Rock
-          Smash, Rollout, Secret Power, Shadow Ball, Shock Wave, Sleep Talk, Snore,
-        Stealth Rock, Substitute, Sunny Day, Super Fang, Superpower, Swagger, Swift,
-        Tackle, Take Down, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Toxic,
-        Water Sport, Yawn]
+        Fury Cutter, Fury Swipes, Grass Knot, Growl, Headbutt, Hyper Fang, Ice Beam,
+        Icy Wind, Iron Tail, Last Resort, Mud-Slap, Natural Gift, Odor Sleuth, Pluck,
+        Protect, Quick Attack, Rain Dance, Rest, Return, Rock Smash, Rollout, Secret
+          Power, Shadow Ball, Shock Wave, Sleep Talk, Snore, Stealth Rock, Substitute,
+        Sunny Day, Super Fang, Superpower, Swagger, Swift, Tackle, Take Down, Taunt,
+        Thief, Thunder, Thunder Wave, Thunderbolt, Toxic, Water Sport, Yawn, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - xy: [Amnesia, Aqua Tail, Attract, Blizzard, Captivate, Charge Beam, Curse, Cut,
         Defense Curl, Dig, Double-Edge, Double Team, Echoed Voice, Endure, Facade,
-        Frustration, Fury Cutter, Fury Swipes, Grass Knot, Growl, Headbutt, Hidden
-          Power, Hyper Fang, Ice Beam, Icy Wind, Iron Tail, Last Resort, Mud-Slap,
-        Natural Gift, Odor Sleuth, Pluck, Protect, Quick Attack, Rain Dance, Rest,
-        Retaliate, Return, Rock Climb, Rock Smash, Rollout, Round, Secret Power, Shadow
-          Ball, Shock Wave, Skull Bash, Sleep Talk, Snore, Stealth Rock, Substitute,
-        Sunny Day, Super Fang, Superpower, Swagger, Swift, Tackle, Take Down, Taunt,
-        Thief, Thunder, Thunderbolt, Thunder Wave, Toxic, Water Sport, Work Up, Yawn,
-        Covet, Confide]
+        Frustration, Fury Cutter, Fury Swipes, Grass Knot, Growl, Headbutt, Hyper
+          Fang, Ice Beam, Icy Wind, Iron Tail, Last Resort, Mud-Slap, Natural Gift,
+        Odor Sleuth, Pluck, Protect, Quick Attack, Rain Dance, Rest, Retaliate, Return,
+        Rock Climb, Rock Smash, Rollout, Round, Secret Power, Shadow Ball, Shock Wave,
+        Skull Bash, Sleep Talk, Snore, Stealth Rock, Substitute, Sunny Day, Super
+          Fang, Superpower, Swagger, Swift, Tackle, Take Down, Taunt, Thief, Thunder,
+        Thunderbolt, Thunder Wave, Toxic, Water Sport, Work Up, Yawn, Covet, Confide,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     stats:
     - [59, 45, 40, 35, 40, 31]
     tags:

@@ -31,30 +31,43 @@ pokemon:
     moves:
     - bw: [Acid Spray, Astonish, Attract, Crunch, Cut, Dark Pulse, Dig, Double-Edge,
         Double Team, Explosion, Facade, Feint, Fire Blast, Flame Burst, Flamethrower,
-        Focus Energy, Foul Play, Frustration, Fury Swipes, Haze, Hidden Power, Hone
-          Claws, Incinerate, Iron Tail, Leer, Memento, Night Slash, Payback, Poison
-          Gas, Protect, Punishment, Pursuit, Rain Dance, Rest, Return, Roar, Rock
-          Smash, Round, Scary Face, Scratch, Screech, Shadow Ball, Shadow Claw, Slash,
-        Sleep Talk, Sludge Bomb, Smog, Smoke Screen, Snarl, Snatch, Snore, Substitute,
-        Sunny Day, Swagger, Taunt, Thief, Torment, Toxic, Venoshock]
+        Focus Energy, Foul Play, Frustration, Fury Swipes, Haze, Hone Claws, Incinerate,
+        Iron Tail, Leer, Memento, Night Slash, Payback, Poison Gas, Protect, Punishment,
+        Pursuit, Rain Dance, Rest, Return, Roar, Rock Smash, Round, Scary Face, Scratch,
+        Screech, Shadow Ball, Shadow Claw, Slash, Sleep Talk, Sludge Bomb, Smog, Smoke
+          Screen, Snarl, Snatch, Snore, Substitute, Sunny Day, Swagger, Taunt, Thief,
+        Torment, Toxic, Venoshock, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Astonish, Attract, Captivate, Crunch, Cut, Dark Pulse, Defog, Dig, Double-Edge,
         Double Team, Endure, Explosion, Facade, Feint, Fire Blast, Flamethrower, Focus
-          Energy, Frustration, Fury Cutter, Fury Swipes, Haze, Headbutt, Hidden Power,
-        Iron Tail, Leer, Memento, Mud-Slap, Natural Gift, Night Slash, Payback, Poison
-          Gas, Protect, Punishment, Pursuit, Rain Dance, Rest, Return, Roar, Rock
-          Smash, Scary Face, Scratch, Screech, Secret Power, Shadow Ball, Shadow Claw,
-        Slash, Sleep Talk, Sludge Bomb, Smog, Smoke Screen, Snatch, Snore, Substitute,
-        Sucker Punch, Sunny Day, Swagger, Swift, Taunt, Thief, Torment, Toxic]
+          Energy, Frustration, Fury Cutter, Fury Swipes, Haze, Headbutt, Iron Tail,
+        Leer, Memento, Mud-Slap, Natural Gift, Night Slash, Payback, Poison Gas, Protect,
+        Punishment, Pursuit, Rain Dance, Rest, Return, Roar, Rock Smash, Scary Face,
+        Scratch, Screech, Secret Power, Shadow Ball, Shadow Claw, Slash, Sleep Talk,
+        Sludge Bomb, Smog, Smoke Screen, Snatch, Snore, Substitute, Sucker Punch,
+        Sunny Day, Swagger, Swift, Taunt, Thief, Torment, Toxic, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - xy: [Acid Spray, Astonish, Attract, Captivate, Crunch, Cut, Dark Pulse, Defog,
         Dig, Double-Edge, Double Team, Endure, Explosion, Facade, Feint, Fire Blast,
         Flame Burst, Flamethrower, Focus Energy, Foul Play, Frustration, Fury Cutter,
-        Fury Swipes, Haze, Headbutt, Hidden Power, Hone Claws, Incinerate, Iron Tail,
-        Leer, Memento, Mud-Slap, Natural Gift, Night Slash, Payback, Poison Gas, Protect,
-        Punishment, Pursuit, Rain Dance, Rest, Return, Roar, Rock Smash, Round, Scary
-          Face, Scratch, Screech, Secret Power, Shadow Ball, Shadow Claw, Slash, Sleep
-          Talk, Sludge Bomb, Smog, Smoke Screen, Snarl, Snatch, Snore, Substitute,
-        Sucker Punch, Sunny Day, Swagger, Swift, Taunt, Thief, Torment, Toxic, Venoshock,
-        Belch, Confide, Play Rough]
+        Fury Swipes, Haze, Headbutt, Hone Claws, Incinerate, Iron Tail, Leer, Memento,
+        Mud-Slap, Natural Gift, Night Slash, Payback, Poison Gas, Protect, Punishment,
+        Pursuit, Rain Dance, Rest, Return, Roar, Rock Smash, Round, Scary Face, Scratch,
+        Screech, Secret Power, Shadow Ball, Shadow Claw, Slash, Sleep Talk, Sludge
+          Bomb, Smog, Smoke Screen, Snarl, Snatch, Snore, Substitute, Sucker Punch,
+        Sunny Day, Swagger, Swift, Taunt, Thief, Torment, Toxic, Venoshock, Belch,
+        Confide, Play Rough, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [63, 63, 47, 41, 41, 74]
     tags:

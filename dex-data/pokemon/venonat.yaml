@@ -48,42 +48,62 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Attract, Baton Pass, Confusion, Curse, Disable, Double Team, Endure, Foresight,
-        Frustration, Giga Drain, Hidden Power, Leech Life, Poison Powder, Protect,
-        Psybeam, Psychic, Rest, Return, Screech, Sleep Powder, Sleep Talk, Sludge
-          Bomb, Snore, Solar Beam, Stun Spore, Sunny Day, Supersonic, Swagger, Sweet
-          Scent, Swift, Tackle, Thief, Toxic]
+        Frustration, Giga Drain, Leech Life, Poison Powder, Protect, Psybeam, Psychic,
+        Rest, Return, Screech, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solar
+          Beam, Stun Spore, Sunny Day, Supersonic, Swagger, Sweet Scent, Swift, Tackle,
+        Thief, Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - bw: [Agility, Attract, Baton Pass, Bug Bite, Confusion, Disable, Double Team,
-        Facade, Flash, Foresight, Frustration, Giga Drain, Hidden Power, Leech Life,
-        Morning Sun, Poison Fang, Poison Powder, Protect, Psybeam, Psychic, Rage Powder,
-        Rest, Return, Round, Screech, Secret Power, Signal Beam, Skill Swap, Sleep
-          Powder, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Struggle Bug, Stun Spore,
-        Substitute, Sunny Day, Supersonic, Swagger, Tackle, Thief, Toxic, Toxic Spikes,
-        Venoshock, Zen Headbutt, Double-Edge, Mimic]
+        Facade, Flash, Foresight, Frustration, Giga Drain, Leech Life, Morning Sun,
+        Poison Fang, Poison Powder, Protect, Psybeam, Psychic, Rage Powder, Rest,
+        Return, Round, Screech, Secret Power, Signal Beam, Skill Swap, Sleep Powder,
+        Sleep Talk, Sludge Bomb, Snore, Solar Beam, Struggle Bug, Stun Spore, Substitute,
+        Sunny Day, Supersonic, Swagger, Tackle, Thief, Toxic, Toxic Spikes, Venoshock,
+        Zen Headbutt, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Agility, Attract, Baton Pass, Bug Bite, Captivate, Confusion, Disable,
-        Double Team, Endure, Facade, Flash, Foresight, Frustration, Giga Drain, Hidden
-          Power, Leech Life, Morning Sun, Natural Gift, Poison Fang, Poison Powder,
-        Protect, Psybeam, Psychic, Rest, Return, Screech, Secret Power, Signal Beam,
-        Skill Swap, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solar Beam, String
-          Shot, Stun Spore, Substitute, Sunny Day, Supersonic, Swagger, Swift, Tackle,
-        Thief, Toxic, Toxic Spikes, Zen Headbutt, Double-Edge, Mimic]
+        Double Team, Endure, Facade, Flash, Foresight, Frustration, Giga Drain, Leech
+          Life, Morning Sun, Natural Gift, Poison Fang, Poison Powder, Protect, Psybeam,
+        Psychic, Rest, Return, Screech, Secret Power, Signal Beam, Skill Swap, Sleep
+          Powder, Sleep Talk, Sludge Bomb, Snore, Solar Beam, String Shot, Stun Spore,
+        Substitute, Sunny Day, Supersonic, Swagger, Swift, Tackle, Thief, Toxic, Toxic
+          Spikes, Zen Headbutt, Double-Edge, Mimic, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rs: [Attract, Baton Pass, Confusion, Disable, Double-Edge, Double Team, Endure,
-        Facade, Flash, Foresight, Frustration, Giga Drain, Hidden Power, Leech Life,
-        Mimic, Poison Powder, Protect, Psybeam, Psychic, Rest, Return, Screech, Secret
-          Power, Signal Beam, Skill Swap, Sleep Powder, Sleep Talk, Sludge Bomb, Snore,
-        Solar Beam, Stun Spore, Substitute, Sunny Day, Supersonic, Swagger, Swift,
-        Tackle, Thief, Toxic, Double-Edge, Mimic]
+        Facade, Flash, Foresight, Frustration, Giga Drain, Leech Life, Mimic, Poison
+          Powder, Protect, Psybeam, Psychic, Rest, Return, Screech, Secret Power,
+        Signal Beam, Skill Swap, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solar
+          Beam, Stun Spore, Substitute, Sunny Day, Supersonic, Swagger, Swift, Tackle,
+        Thief, Toxic, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rb: [Bide, Confusion, Disable, Double-Edge, Double Team, Flash, Leech Life,
         Mega Drain, Mimic, Poison Powder, Psybeam, Psychic, Psywave, Rage, Reflect,
         Rest, Sleep Powder, Solar Beam, Stun Spore, Substitute, Supersonic, Tackle,
         Take Down, Toxic]
     - xy: [Agility, Attract, Baton Pass, Bug Bite, Captivate, Confusion, Disable,
         Double-Edge, Double Team, Endure, Facade, Flash, Foresight, Frustration, Giga
-          Drain, Hidden Power, Leech Life, Mimic, Morning Sun, Natural Gift, Poison
-          Fang, Poison Powder, Protect, Psybeam, Psychic, Rage Powder, Rest, Return,
-        Round, Screech, Secret Power, Signal Beam, Skill Swap, Sleep Powder, Sleep
-          Talk, Sludge Bomb, Snore, Solar Beam, String Shot, Struggle Bug, Stun Spore,
-        Substitute, Sunny Day, Supersonic, Swagger, Swift, Tackle, Thief, Toxic, Toxic
-          Spikes, Venoshock, Zen Headbutt, Infestation, Confide]
+          Drain, Leech Life, Mimic, Morning Sun, Natural Gift, Poison Fang, Poison
+          Powder, Protect, Psybeam, Psychic, Rage Powder, Rest, Return, Round, Screech,
+        Secret Power, Signal Beam, Skill Swap, Sleep Powder, Sleep Talk, Sludge Bomb,
+        Snore, Solar Beam, String Shot, Struggle Bug, Stun Spore, Substitute, Sunny
+          Day, Supersonic, Swagger, Swift, Tackle, Thief, Toxic, Toxic Spikes, Venoshock,
+        Zen Headbutt, Infestation, Confide, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [60, 55, 50, 40, 40, 45]
     - gs: [60, 55, 50, 40, 55, 45]

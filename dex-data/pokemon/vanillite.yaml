@@ -29,18 +29,26 @@ pokemon:
     moves:
     - bw: [Acid Armor, Astonish, Attract, Autotomize, Avalanche, Blizzard, Double
           Team, Explosion, Facade, Flash Cannon, Frost Breath, Frustration, Hail,
-        Harden, Hidden Power, Ice Beam, Ice Shard, Icicle Spear, Icy Wind, Imprison,
-        Iron Defense, Light Screen, Magic Coat, Magnet Rise, Mirror Coat, Mirror Shot,
-        Mist, Natural Gift, Powder Snow, Protect, Rain Dance, Rest, Return, Round,
-        Sheer Cold, Signal Beam, Sleep Talk, Snore, Substitute, Swagger, Taunt, Toxic,
-        Uproar, Water Pulse]
+        Harden, Ice Beam, Ice Shard, Icicle Spear, Icy Wind, Imprison, Iron Defense,
+        Light Screen, Magic Coat, Magnet Rise, Mirror Coat, Mirror Shot, Mist, Natural
+          Gift, Powder Snow, Protect, Rain Dance, Rest, Return, Round, Sheer Cold,
+        Signal Beam, Sleep Talk, Snore, Substitute, Swagger, Taunt, Toxic, Uproar,
+        Water Pulse, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - xy: [Acid Armor, Astonish, Attract, Autotomize, Avalanche, Blizzard, Double
           Team, Explosion, Facade, Flash Cannon, Frost Breath, Frustration, Hail,
-        Harden, Hidden Power, Ice Beam, Ice Shard, Icicle Spear, Icy Wind, Imprison,
-        Iron Defense, Light Screen, Magnet Rise, Mirror Coat, Mirror Shot, Mist, Natural
-          Gift, Powder Snow, Protect, Rain Dance, Rest, Return, Round, Sheer Cold,
-        Substitute, Swagger, Taunt, Toxic, Uproar, Water Pulse, Signal Beam, Magic
-          Coat, Snore, Sleep Talk, Confide]
+        Harden, Ice Beam, Ice Shard, Icicle Spear, Icy Wind, Imprison, Iron Defense,
+        Light Screen, Magnet Rise, Mirror Coat, Mirror Shot, Mist, Natural Gift, Powder
+          Snow, Protect, Rain Dance, Rest, Return, Round, Sheer Cold, Substitute,
+        Swagger, Taunt, Toxic, Uproar, Water Pulse, Signal Beam, Magic Coat, Snore,
+        Sleep Talk, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [36, 50, 50, 65, 60, 44]
     tags:

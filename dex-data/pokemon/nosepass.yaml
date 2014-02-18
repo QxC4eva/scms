@@ -13,40 +13,58 @@ pokemon:
     moves:
     - bw: [Attract, Block, Bulldoze, Discharge, Double-Edge, Double Team, Earth Power,
         Earthquake, Endure, Explosion, Facade, Fire Punch, Frustration, Gravity, Harden,
-        Hidden Power, Ice Punch, Iron Defense, Lock-On, Magic Coat, Magnet Rise, Magnitude,
-        Pain Split, Power Gem, Protect, Rest, Return, Rock Blast, Rock Polish, Rock
-          Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Round, Sandstorm, Sleep
-          Talk, Smack Down, Snore, Spark, Stealth Rock, Stone Edge, Strength, Substitute,
+        Ice Punch, Iron Defense, Lock-On, Magic Coat, Magnet Rise, Magnitude, Pain
+          Split, Power Gem, Protect, Rest, Return, Rock Blast, Rock Polish, Rock Slide,
+        Rock Smash, Rock Throw, Rock Tomb, Rollout, Round, Sandstorm, Sleep Talk,
+        Smack Down, Snore, Spark, Stealth Rock, Stone Edge, Strength, Substitute,
         Sunny Day, Swagger, Tackle, Taunt, Thunder, Thunder Wave, Thunderbolt, Thunder
           Punch, Torment, Toxic, Volt Switch, Zap Cannon, Body Slam, Helping Hand,
-        Mimic, Self-Destruct]
+        Mimic, Self-Destruct, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - dp: [Ancient Power, Attract, Block, Captivate, Discharge, Double-Edge, Double
           Team, Earth Power, Earthquake, Endure, Explosion, Facade, Fire Punch, Frustration,
-        Gravity, Harden, Head Smash, Headbutt, Hidden Power, Ice Punch, Iron Defense,
-        Lock-On, Magic Coat, Magnet Rise, Magnitude, Mud-Slap, Natural Gift, Pain
-          Split, Power Gem, Protect, Rest, Return, Rock Polish, Rock Slide, Rock Smash,
-        Rock Throw, Rock Tomb, Rollout, Sandstorm, Secret Power, Shock Wave, Sleep
-          Talk, Snore, Stealth Rock, Stone Edge, Strength, Substitute, Sunny Day,
-        Swagger, Tackle, Taunt, Thunder, Thunder Wave, Thunderbolt, Thunder Punch,
-        Torment, Toxic, Zap Cannon, Body Slam, Helping Hand, Mimic, Self-Destruct]
+        Gravity, Harden, Head Smash, Headbutt, Ice Punch, Iron Defense, Lock-On, Magic
+          Coat, Magnet Rise, Magnitude, Mud-Slap, Natural Gift, Pain Split, Power
+          Gem, Protect, Rest, Return, Rock Polish, Rock Slide, Rock Smash, Rock Throw,
+        Rock Tomb, Rollout, Sandstorm, Secret Power, Shock Wave, Sleep Talk, Snore,
+        Stealth Rock, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Tackle,
+        Taunt, Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Torment, Toxic,
+        Zap Cannon, Body Slam, Helping Hand, Mimic, Self-Destruct, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - rs: [Attract, Block, Body Slam, Defense Curl, Double-Edge, Double Team, Dynamic
           Punch, Earthquake, Endure, Explosion, Facade, Fire Punch, Frustration, Harden,
-        Hidden Power, Ice Punch, Lock-On, Magnitude, Mimic, Mud-Slap, Protect, Rest,
-        Return, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Sandstorm,
-        Secret Power, Self-Destruct, Shock Wave, Sleep Talk, Snore, Strength, Substitute,
-        Sunny Day, Swagger, Tackle, Taunt, Thunder, Thunder Wave, Thunderbolt, Thunder
-          Punch, Torment, Toxic, Zap Cannon, Body Slam, Helping Hand, Mimic, Self-Destruct]
+        Ice Punch, Lock-On, Magnitude, Mimic, Mud-Slap, Protect, Rest, Return, Rock
+          Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Sandstorm, Secret Power,
+        Self-Destruct, Shock Wave, Sleep Talk, Snore, Strength, Substitute, Sunny
+          Day, Swagger, Tackle, Taunt, Thunder, Thunder Wave, Thunderbolt, Thunder
+          Punch, Torment, Toxic, Zap Cannon, Body Slam, Helping Hand, Mimic, Self-Destruct,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - xy: [Ancient Power, Attract, Block, Body Slam, Bulldoze, Captivate, Defense
           Curl, Discharge, Double-Edge, Double Team, Dynamic Punch, Earth Power, Earthquake,
         Endure, Explosion, Facade, Fire Punch, Frustration, Gravity, Harden, Headbutt,
-        Helping Hand, Hidden Power, Ice Punch, Iron Defense, Lock-On, Magic Coat,
-        Magnet Rise, Magnitude, Mimic, Mud-Slap, Natural Gift, Pain Split, Power Gem,
-        Protect, Rest, Return, Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock
-          Throw, Rock Tomb, Rollout, Round, Sandstorm, Secret Power, Self-Destruct,
-        Shock Wave, Sleep Talk, Smack Down, Snore, Spark, Stealth Rock, Stone Edge,
-        Strength, Substitute, Sunny Day, Swagger, Tackle, Taunt, Thunder, Thunderbolt,
-        Thunder Punch, Thunder Wave, Torment, Toxic, Volt Switch, Zap Cannon, Dazzling
-          Gleam, Confide, Wide Guard]
+        Helping Hand, Ice Punch, Iron Defense, Lock-On, Magic Coat, Magnet Rise, Magnitude,
+        Mimic, Mud-Slap, Natural Gift, Pain Split, Power Gem, Protect, Rest, Return,
+        Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout,
+        Round, Sandstorm, Secret Power, Self-Destruct, Shock Wave, Sleep Talk, Smack
+          Down, Snore, Spark, Stealth Rock, Stone Edge, Strength, Substitute, Sunny
+          Day, Swagger, Tackle, Taunt, Thunder, Thunderbolt, Thunder Punch, Thunder
+          Wave, Torment, Toxic, Volt Switch, Zap Cannon, Dazzling Gleam, Confide,
+        Wide Guard, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [30, 45, 135, 45, 90, 30]
     tags:

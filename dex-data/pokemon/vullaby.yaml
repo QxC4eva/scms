@@ -30,20 +30,28 @@ pokemon:
     moves:
     - bw: [Aerial Ace, Air Slash, Attract, Block, Brave Bird, Cut, Dark Pulse, Defog,
         Double Team, Embargo, Facade, Feint Attack, Fake Tears, Flatter, Fly, Foul
-          Play, Frustration, Fury Attack, Gust, Heat Wave, Hidden Power, Incinerate,
-        Iron Defense, Knock Off, Leer, Mean Look, Mirror Move, Nasty Plot, Payback,
-        Pluck, Protect, Psych Up, Punishment, Rain Dance, Rest, Retaliate, Return,
-        Rock Smash, Rock Tomb, Roost, Round, Scary Face, Shadow Ball, Sleep Talk,
-        Snarl, Snatch, Snore, Steel Wing, Substitute, Sunny Day, Swagger, Tailwind,
-        Taunt, Thief, Torment, Toxic, U-turn, Whirlwind]
+          Play, Frustration, Fury Attack, Gust, Heat Wave, Incinerate, Iron Defense,
+        Knock Off, Leer, Mean Look, Mirror Move, Nasty Plot, Payback, Pluck, Protect,
+        Psych Up, Punishment, Rain Dance, Rest, Retaliate, Return, Rock Smash, Rock
+          Tomb, Roost, Round, Scary Face, Shadow Ball, Sleep Talk, Snarl, Snatch,
+        Snore, Steel Wing, Substitute, Sunny Day, Swagger, Tailwind, Taunt, Thief,
+        Torment, Toxic, U-turn, Whirlwind, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Aerial Ace, Air Slash, Attract, Brave Bird, Cut, Dark Pulse, Defog, Double
           Team, Embargo, Facade, Feint Attack, Fake Tears, Flatter, Fly, Frustration,
-        Fury Attack, Gust, Hidden Power, Incinerate, Knock Off, Leer, Mean Look, Mirror
-          Move, Nasty Plot, Payback, Pluck, Protect, Psych Up, Punishment, Rain Dance,
-        Rest, Retaliate, Return, Rock Smash, Rock Tomb, Roost, Round, Scary Face,
-        Shadow Ball, Snarl, Steel Wing, Substitute, Sunny Day, Swagger, Tailwind,
-        Taunt, Thief, Torment, Toxic, U-turn, Whirlwind, Block, Foul Play, Iron Defense,
-        Snore, Heat Wave, Snatch, Sleep Talk, Confide]
+        Fury Attack, Gust, Incinerate, Knock Off, Leer, Mean Look, Mirror Move, Nasty
+          Plot, Payback, Pluck, Protect, Psych Up, Punishment, Rain Dance, Rest, Retaliate,
+        Return, Rock Smash, Rock Tomb, Roost, Round, Scary Face, Shadow Ball, Snarl,
+        Steel Wing, Substitute, Sunny Day, Swagger, Tailwind, Taunt, Thief, Torment,
+        Toxic, U-turn, Whirlwind, Block, Foul Play, Iron Defense, Snore, Heat Wave,
+        Snatch, Sleep Talk, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [70, 55, 75, 45, 65, 60]
     tags:

@@ -11,24 +11,33 @@ pokemon:
     moves:
     - bw: [Aerial Ace, Air Cutter, Air Slash, Ancient Power, Attract, Calm Mind, Charge
           Beam, Cosmic Power, Dark Pulse, Double Team, Dream Eater, Energy Ball, Facade,
-        Flash, Flash Cannon, Fly, Frustration, Gravity, Gust, Heat Wave, Hidden Power,
-        Hyper Beam, Hypnosis, Ice Beam, Icy Wind, Light Screen, Magic Coat, Magic
-          Room, Miracle Eye, Mirror Move, Pluck, Protect, Psybeam, Psych Up, Psychic,
-        Psycho Shift, Psyshock, Psywave, Rain Dance, Reflect, Rest, Return, Roost,
-        Round, Safeguard, Shadow Ball, Signal Beam, Skill Swap, Sky Attack, Sleep
-          Talk, Smack Down, Snore, Solar Beam, Steel Wing, Stored Power, Substitute,
-        Swagger, Synchronoise, Tailwind, Telekinesis, Thief, Thunder Wave, Toxic,
-        Trick, Trick Room, Whirlwind, Zen Headbutt]
+        Flash, Flash Cannon, Fly, Frustration, Gravity, Gust, Heat Wave, Hyper Beam,
+        Hypnosis, Ice Beam, Icy Wind, Light Screen, Magic Coat, Magic Room, Miracle
+          Eye, Mirror Move, Pluck, Protect, Psybeam, Psych Up, Psychic, Psycho Shift,
+        Psyshock, Psywave, Rain Dance, Reflect, Rest, Return, Roost, Round, Safeguard,
+        Shadow Ball, Signal Beam, Skill Swap, Sky Attack, Sleep Talk, Smack Down,
+        Snore, Solar Beam, Steel Wing, Stored Power, Substitute, Swagger, Synchronoise,
+        Tailwind, Telekinesis, Thief, Thunder Wave, Toxic, Trick, Trick Room, Whirlwind,
+        Zen Headbutt, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - xy: [Aerial Ace, Air Cutter, Air Slash, Ancient Power, Attract, Calm Mind, Charge
           Beam, Cosmic Power, Double Team, Dream Eater, Energy Ball, Facade, Flash,
-        Flash Cannon, Fly, Frustration, Gravity, Gust, Hidden Power, Hyper Beam, Hypnosis,
-        Ice Beam, Light Screen, Miracle Eye, Mirror Move, Pluck, Protect, Psybeam,
-        Psychic, Psycho Shift, Psych Up, Psyshock, Psywave, Rain Dance, Reflect, Rest,
-        Return, Roost, Round, Safeguard, Shadow Ball, Skill Swap, Sky Attack, Smack
-          Down, Solar Beam, Steel Wing, Stored Power, Substitute, Swagger, Synchronoise,
-        Tailwind, Telekinesis, Thief, Thunder Wave, Toxic, Trick Room, Whirlwind,
-        Signal Beam, Magic Coat, Icy Wind, Dark Pulse, Zen Headbutt, Snore, Heat Wave,
-        Trick, Magic Room, Sleep Talk, Dazzling Gleam, Confide, Future Sight]
+        Flash Cannon, Fly, Frustration, Gravity, Gust, Hyper Beam, Hypnosis, Ice Beam,
+        Light Screen, Miracle Eye, Mirror Move, Pluck, Protect, Psybeam, Psychic,
+        Psycho Shift, Psych Up, Psyshock, Psywave, Rain Dance, Reflect, Rest, Return,
+        Roost, Round, Safeguard, Shadow Ball, Skill Swap, Sky Attack, Smack Down,
+        Solar Beam, Steel Wing, Stored Power, Substitute, Swagger, Synchronoise, Tailwind,
+        Telekinesis, Thief, Thunder Wave, Toxic, Trick Room, Whirlwind, Signal Beam,
+        Magic Coat, Icy Wind, Dark Pulse, Zen Headbutt, Snore, Heat Wave, Trick, Magic
+          Room, Sleep Talk, Dazzling Gleam, Confide, Future Sight, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     stats:
     - [72, 58, 80, 103, 80, 97]
     tags:

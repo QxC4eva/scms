@@ -36,17 +36,26 @@ pokemon:
     introduction: bw
     moves:
     - bw: [Agility, Attract, Bug Bite, Defense Curl, Double-Edge, Double Team, Endeavor,
-        Facade, Frustration, Gyro Ball, Hidden Power, Iron Defense, Payback, Pin Missile,
-        Poison Jab, Poison Sting, Poison Tail, Protect, Pursuit, Rest, Return, Rock
-          Climb, Rock Smash, Rollout, Round, Screech, Sleep Talk, Sludge Bomb, Snore,
-        Solar Beam, Spikes, Steamroller, Struggle Bug, Substitute, Sunny Day, Swagger,
-        Take Down, Toxic, Toxic Spikes, Twineedle, Venoshock]
+        Facade, Frustration, Gyro Ball, Iron Defense, Payback, Pin Missile, Poison
+          Jab, Poison Sting, Poison Tail, Protect, Pursuit, Rest, Return, Rock Climb,
+        Rock Smash, Rollout, Round, Screech, Sleep Talk, Sludge Bomb, Snore, Solar
+          Beam, Spikes, Steamroller, Struggle Bug, Substitute, Sunny Day, Swagger,
+        Take Down, Toxic, Toxic Spikes, Twineedle, Venoshock, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Agility, Attract, Bug Bite, Defense Curl, Double-Edge, Double Team, Facade,
-        Frustration, Gyro Ball, Hidden Power, Payback, Pin Missile, Poison Jab, Poison
-          Sting, Poison Tail, Protect, Pursuit, Rest, Return, Rock Climb, Rock Smash,
-        Rollout, Round, Screech, Sludge Bomb, Solar Beam, Spikes, Steamroller, Struggle
-          Bug, Substitute, Sunny Day, Swagger, Take Down, Toxic, Toxic Spikes, Twineedle,
-        Venoshock, Iron Defense, Snore, Endeavor, Sleep Talk, Infestation, Confide]
+        Frustration, Gyro Ball, Payback, Pin Missile, Poison Jab, Poison Sting, Poison
+          Tail, Protect, Pursuit, Rest, Return, Rock Climb, Rock Smash, Rollout, Round,
+        Screech, Sludge Bomb, Solar Beam, Spikes, Steamroller, Struggle Bug, Substitute,
+        Sunny Day, Swagger, Take Down, Toxic, Toxic Spikes, Twineedle, Venoshock,
+        Iron Defense, Snore, Endeavor, Sleep Talk, Infestation, Confide, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     stats:
     - [30, 45, 59, 30, 39, 57]
     tags:

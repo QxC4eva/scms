@@ -12,50 +12,72 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Attract, Confuse Ray, Curse, Destiny Bond, Double Team, Dream Eater, Endure,
-        Frustration, Giga Drain, Haze, Hidden Power, Hypnosis, Lick, Mean Look, Night
-          Shade, Nightmare, Perish Song, Protect, Psych Up, Psychic, Psywave, Rain
-          Dance, Rest, Return, Shadow Ball, Sleep Talk, Snore, Spite, Sunny Day, Swagger,
-        Thief, Thunder, Thunderbolt, Toxic, Zap Cannon]
+        Frustration, Giga Drain, Haze, Hypnosis, Lick, Mean Look, Night Shade, Nightmare,
+        Perish Song, Protect, Psych Up, Psychic, Psywave, Rain Dance, Rest, Return,
+        Shadow Ball, Sleep Talk, Snore, Spite, Sunny Day, Swagger, Thief, Thunder,
+        Thunderbolt, Toxic, Zap Cannon, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - bw: [Astonish, Attract, Clear Smog, Confuse Ray, Curse, Dark Pulse, Destiny
           Bond, Disable, Double Team, Dream Eater, Embargo, Energy Ball, Explosion,
         Facade, Fire Punch, Foul Play, Frustration, Giga Drain, Grudge, Haze, Hex,
-        Hidden Power, Hypnosis, Ice Punch, Icy Wind, Knock Off, Lick, Mean Look, Night
-          Shade, Nightmare, Pain Split, Payback, Perish Song, Protect, Psych Up, Psychic,
-        Psywave, Rain Dance, Rest, Return, Round, Scary Face, Shadow Ball, Skill Swap,
-        Sleep Talk, Sludge Bomb, Smog, Snatch, Snore, Spite, Substitute, Sucker Punch,
-        Sunny Day, Swagger, Taunt, Telekinesis, Thief, Thunderbolt, Thunder Punch,
-        Torment, Toxic, Trick, Trick Room, Uproar, Venoshock, Will-O-Wisp, Wonder
-          Room, Double-Edge, Mimic, Self-Destruct]
+        Hypnosis, Ice Punch, Icy Wind, Knock Off, Lick, Mean Look, Night Shade, Nightmare,
+        Pain Split, Payback, Perish Song, Protect, Psych Up, Psychic, Psywave, Rain
+          Dance, Rest, Return, Round, Scary Face, Shadow Ball, Skill Swap, Sleep Talk,
+        Sludge Bomb, Smog, Snatch, Snore, Spite, Substitute, Sucker Punch, Sunny Day,
+        Swagger, Taunt, Telekinesis, Thief, Thunderbolt, Thunder Punch, Torment, Toxic,
+        Trick, Trick Room, Uproar, Venoshock, Will-O-Wisp, Wonder Room, Double-Edge,
+        Mimic, Self-Destruct, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - dp: [Astonish, Attract, Captivate, Confuse Ray, Curse, Dark Pulse, Destiny Bond,
         Disable, Double Team, Dream Eater, Embargo, Endure, Energy Ball, Explosion,
-        Facade, Fire Punch, Frustration, Giga Drain, Grudge, Haze, Hidden Power, Hypnosis,
-        Ice Punch, Icy Wind, Knock Off, Lick, Mean Look, Natural Gift, Night Shade,
-        Nightmare, Ominous Wind, Pain Split, Payback, Perish Song, Protect, Psych
-          Up, Psychic, Psywave, Rain Dance, Rest, Return, Secret Power, Shadow Ball,
-        Skill Swap, Sleep Talk, Sludge Bomb, Snatch, Snore, Spite, Substitute, Sucker
-          Punch, Sunny Day, Swagger, Taunt, Thief, Thunderbolt, Thunder Punch, Torment,
-        Toxic, Trick, Trick Room, Uproar, Will-O-Wisp, Double-Edge, Mimic, Self-Destruct]
+        Facade, Fire Punch, Frustration, Giga Drain, Grudge, Haze, Hypnosis, Ice Punch,
+        Icy Wind, Knock Off, Lick, Mean Look, Natural Gift, Night Shade, Nightmare,
+        Ominous Wind, Pain Split, Payback, Perish Song, Protect, Psych Up, Psychic,
+        Psywave, Rain Dance, Rest, Return, Secret Power, Shadow Ball, Skill Swap,
+        Sleep Talk, Sludge Bomb, Snatch, Snore, Spite, Substitute, Sucker Punch, Sunny
+          Day, Swagger, Taunt, Thief, Thunderbolt, Thunder Punch, Torment, Toxic,
+        Trick, Trick Room, Uproar, Will-O-Wisp, Double-Edge, Mimic, Self-Destruct,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rs: [Astonish, Attract, Confuse Ray, Curse, Destiny Bond, Double Team, Dream
           Eater, Endure, Explosion, Facade, Frustration, Giga Drain, Grudge, Haze,
-        Hidden Power, Hypnosis, Lick, Mean Look, Mimic, Night Shade, Nightmare, Perish
-          Song, Protect, Psych Up, Psychic, Psywave, Rain Dance, Rest, Return, Secret
-          Power, Self-Destruct, Shadow Ball, Skill Swap, Sleep Talk, Sludge Bomb,
-        Snatch, Snore, Spite, Substitute, Sunny Day, Swagger, Taunt, Thief, Thunderbolt,
-        Torment, Toxic, Will-O-Wisp, Double-Edge, Mimic, Self-Destruct]
+        Hypnosis, Lick, Mean Look, Mimic, Night Shade, Nightmare, Perish Song, Protect,
+        Psych Up, Psychic, Psywave, Rain Dance, Rest, Return, Secret Power, Self-Destruct,
+        Shadow Ball, Skill Swap, Sleep Talk, Sludge Bomb, Snatch, Snore, Spite, Substitute,
+        Sunny Day, Swagger, Taunt, Thief, Thunderbolt, Torment, Toxic, Will-O-Wisp,
+        Double-Edge, Mimic, Self-Destruct, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rb: [Bide, Confuse Ray, Double Team, Dream Eater, Explosion, Hypnosis, Lick,
         Mega Drain, Mimic, Night Shade, Psychic, Psywave, Rage, Rest, Self-Destruct,
         Substitute, Thunder, Thunderbolt, Toxic]
     - xy: [Astonish, Attract, Captivate, Clear Smog, Confuse Ray, Curse, Dark Pulse,
         Destiny Bond, Disable, Double Team, Dream Eater, Embargo, Endure, Energy Ball,
         Explosion, Facade, Fire Punch, Frustration, Giga Drain, Grudge, Haze, Hex,
-        Hidden Power, Hypnosis, Ice Punch, Icy Wind, Knock Off, Lick, Mean Look, Mimic,
-        Natural Gift, Nightmare, Night Shade, Ominous Wind, Pain Split, Payback, Perish
+        Hypnosis, Ice Punch, Icy Wind, Knock Off, Lick, Mean Look, Mimic, Natural
+          Gift, Nightmare, Night Shade, Ominous Wind, Pain Split, Payback, Perish
           Song, Protect, Psychic, Psych Up, Psywave, Rain Dance, Rest, Return, Round,
         Scary Face, Secret Power, Self-Destruct, Shadow Ball, Skill Swap, Sleep Talk,
         Sludge Bomb, Sludge Wave, Smog, Snatch, Snore, Spite, Substitute, Sucker Punch,
         Sunny Day, Swagger, Taunt, Telekinesis, Thief, Thunderbolt, Thunder Punch,
         Torment, Toxic, Trick, Trick Room, Uproar, Venoshock, Will-O-Wisp, Foul Play,
-        Wonder Room, Infestation, Dazzling Gleam, Confide, Reflect Type]
+        Wonder Room, Infestation, Dazzling Gleam, Confide, Reflect Type, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     stats:
     - [30, 35, 30, 100, 100, 80]
     - gs: [30, 35, 30, 100, 35, 80]

@@ -11,12 +11,16 @@ pokemon:
     moves:
     - xy: [Tackle, Agility, Leer, Quick Attack, Double Slap, Mud-Slap, Take Down,
         Mud Shot, Double Kick, Odor Sleuth, Flail, Dig, Bounce, Super Fang, Facade,
-        Earthquake, Toxic, Bulk Up, Hidden Power, Protect, Frustration, Smack Down,
-        Return, Brick Break, Double Team, Sludge Bomb, Sandstorm, Rock Tomb, Torment,
-        Rest, Attract, Thief, Round, Fling, Payback, Stone Edge, Bulldoze, Rock Slide,
-        Grass Knot, Swagger, Sleep Talk, U-turn, Substitute, Wild Charge, Rock Smash,
-        Nature Power, Power-Up Punch, Confide, Cut, Surf, Strength, Defense Curl,
-        Rollout, Spikes]
+        Earthquake, Toxic, Bulk Up, Protect, Frustration, Smack Down, Return, Brick
+          Break, Double Team, Sludge Bomb, Sandstorm, Rock Tomb, Torment, Rest, Attract,
+        Thief, Round, Fling, Payback, Stone Edge, Bulldoze, Rock Slide, Grass Knot,
+        Swagger, Sleep Talk, U-turn, Substitute, Wild Charge, Rock Smash, Nature Power,
+        Power-Up Punch, Confide, Cut, Surf, Strength, Defense Curl, Rollout, Spikes,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     stats:
     - [38, 36, 38, 32, 36, 57]
     tags:

@@ -13,48 +13,69 @@ pokemon:
     introduction: gs
     moves:
     - gs: [Attract, Bide, Counter, Curse, Cut, Detect, Double Team, Earthquake, Endure,
-        Flail, Frustration, Fury Attack, Fury Cutter, Harden, Headbutt, Hidden Power,
-        Horn Attack, Leer, Megahorn, Protect, Rest, Return, Reversal, Rock Smash,
-        Sleep Talk, Snore, Strength, Sunny Day, Swagger, Tackle, Take Down, Thief,
-        Toxic]
+        Flail, Frustration, Fury Attack, Fury Cutter, Harden, Headbutt, Horn Attack,
+        Leer, Megahorn, Protect, Rest, Return, Reversal, Rock Smash, Sleep Talk, Snore,
+        Strength, Sunny Day, Swagger, Tackle, Take Down, Thief, Toxic, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - bw: [Aerial Ace, Attract, Bide, Brick Break, Bug Bite, Bulk Up, Bulldoze, Chip
           Away, Close Combat, Counter, Cut, Dig, Double-Edge, Double Team, Earthquake,
         Endure, Facade, False Swipe, Feint, Flail, Fling, Focus Blast, Focus Punch,
-        Frustration, Fury Attack, Giga Impact, Harden, Helping Hand, Hidden Power,
-        Horn Attack, Hyper Beam, Iron Defense, Knock Off, Leer, Low Kick, Megahorn,
-        Night Slash, Protect, Pursuit, Rain Dance, Rest, Retaliate, Return, Revenge,
-        Reversal, Rock Slide, Rock Smash, Rock Tomb, Round, Seismic Toss, Shadow Claw,
-        Sleep Talk, Smack Down, Snore, Stone Edge, Strength, Struggle Bug, Substitute,
+        Frustration, Fury Attack, Giga Impact, Harden, Helping Hand, Horn Attack,
+        Hyper Beam, Iron Defense, Knock Off, Leer, Low Kick, Megahorn, Night Slash,
+        Protect, Pursuit, Rain Dance, Rest, Retaliate, Return, Revenge, Reversal,
+        Rock Slide, Rock Smash, Rock Tomb, Round, Seismic Toss, Shadow Claw, Sleep
+          Talk, Smack Down, Snore, Stone Edge, Strength, Struggle Bug, Substitute,
         Sunny Day, Swagger, Swords Dance, Tackle, Take Down, Thief, Toxic, Venoshock,
-        Work Up, Body Slam, Mimic]
+        Work Up, Body Slam, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Aerial Ace, Attract, Bide, Brick Break, Bug Bite, Bulk Up, Captivate, Close
           Combat, Counter, Cut, Dig, Double-Edge, Double Team, Earthquake, Endure,
         Facade, False Swipe, Feint, Flail, Fling, Focus Blast, Focus Punch, Frustration,
-        Fury Attack, Fury Cutter, Giga Impact, Harden, Headbutt, Helping Hand, Hidden
-          Power, Horn Attack, Hyper Beam, Iron Defense, Knock Off, Leer, Low Kick,
-        Megahorn, Natural Gift, Night Slash, Protect, Pursuit, Rain Dance, Rest, Return,
-        Revenge, Reversal, Rock Slide, Rock Smash, Rock Tomb, Secret Power, Shadow
-          Claw, Sleep Talk, Snore, Stone Edge, Strength, Substitute, Sunny Day, Swagger,
-        Swords Dance, Tackle, Take Down, Thief, Toxic, Vacuum Wave, Body Slam, Mimic]
+        Fury Attack, Fury Cutter, Giga Impact, Harden, Headbutt, Helping Hand, Horn
+          Attack, Hyper Beam, Iron Defense, Knock Off, Leer, Low Kick, Megahorn, Natural
+          Gift, Night Slash, Protect, Pursuit, Rain Dance, Rest, Return, Revenge,
+        Reversal, Rock Slide, Rock Smash, Rock Tomb, Secret Power, Shadow Claw, Sleep
+          Talk, Snore, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Swords
+          Dance, Tackle, Take Down, Thief, Toxic, Vacuum Wave, Body Slam, Mimic, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rs: [Attract, Bide, Body Slam, Brick Break, Bulk Up, Counter, Cut, Dig, Double-Edge,
         Double Team, Earthquake, Endure, Facade, False Swipe, Flail, Focus Punch,
-        Frustration, Fury Attack, Fury Cutter, Harden, Hidden Power, Horn Attack,
-        Hyper Beam, Leer, Megahorn, Mimic, Protect, Rain Dance, Rest, Return, Reversal,
-        Rock Slide, Rock Smash, Rock Tomb, Secret Power, Seismic Toss, Sleep Talk,
-        Snore, Strength, Substitute, Sunny Day, Swagger, Swords Dance, Tackle, Take
-          Down, Thief, Toxic, Body Slam, Mimic]
+        Frustration, Fury Attack, Fury Cutter, Harden, Horn Attack, Hyper Beam, Leer,
+        Megahorn, Mimic, Protect, Rain Dance, Rest, Return, Reversal, Rock Slide,
+        Rock Smash, Rock Tomb, Secret Power, Seismic Toss, Sleep Talk, Snore, Strength,
+        Substitute, Sunny Day, Swagger, Swords Dance, Tackle, Take Down, Thief, Toxic,
+        Body Slam, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - xy: [Aerial Ace, Attract, Bide, Body Slam, Brick Break, Bug Bite, Bulk Up, Bulldoze,
         Captivate, Chip Away, Close Combat, Counter, Cut, Dig, Double-Edge, Double
           Team, Earthquake, Endure, Facade, False Swipe, Feint, Flail, Fling, Focus
           Blast, Focus Punch, Frustration, Fury Attack, Fury Cutter, Giga Impact,
-        Harden, Headbutt, Helping Hand, Hidden Power, Horn Attack, Hyper Beam, Iron
-          Defense, Knock Off, Leer, Low Kick, Megahorn, Mimic, Natural Gift, Night
-          Slash, Protect, Pursuit, Rain Dance, Rest, Retaliate, Return, Revenge, Reversal,
-        Rock Slide, Rock Smash, Rock Tomb, Round, Secret Power, Seismic Toss, Shadow
-          Claw, Sleep Talk, Smack Down, Snore, Stone Edge, Strength, Struggle Bug,
-        Substitute, Sunny Day, Swagger, Swords Dance, Tackle, Take Down, Thief, Toxic,
-        Vacuum Wave, Venoshock, Work Up, Arm Thrust, Bullet Seed, Pin Missile, Confide,
-        Rock Blast]
+        Harden, Headbutt, Helping Hand, Horn Attack, Hyper Beam, Iron Defense, Knock
+          Off, Leer, Low Kick, Megahorn, Mimic, Natural Gift, Night Slash, Protect,
+        Pursuit, Rain Dance, Rest, Retaliate, Return, Revenge, Reversal, Rock Slide,
+        Rock Smash, Rock Tomb, Round, Secret Power, Seismic Toss, Shadow Claw, Sleep
+          Talk, Smack Down, Snore, Stone Edge, Strength, Struggle Bug, Substitute,
+        Sunny Day, Swagger, Swords Dance, Tackle, Take Down, Thief, Toxic, Vacuum
+          Wave, Venoshock, Work Up, Arm Thrust, Bullet Seed, Pin Missile, Confide,
+        Rock Blast, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [80, 125, 75, 40, 95, 85]
     tags:

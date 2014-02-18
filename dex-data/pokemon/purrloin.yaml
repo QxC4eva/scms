@@ -34,21 +34,29 @@ pokemon:
     - bw: [Aerial Ace, Assist, Assurance, Attract, Captivate, Charm, Covet, Cut, Dark
           Pulse, Double Team, Dream Eater, Echoed Voice, Embargo, Encore, Facade,
         Feint Attack, Fake Out, Fake Tears, Foul Play, Frustration, Fury Swipes, Grass
-          Knot, Growl, Gunk Shot, Hidden Power, Hone Claws, Hyper Voice, Iron Tail,
-        Knock Off, Nasty Plot, Night Slash, Pay Day, Payback, Protect, Psych Up, Pursuit,
-        Rain Dance, Rest, Return, Role Play, Round, Sand Attack, Scratch, Seed Bomb,
-        Shadow Ball, Shadow Claw, Slash, Sleep Talk, Snarl, Snatch, Snore, Spite,
-        Substitute, Sucker Punch, Sunny Day, Swagger, Taunt, Thief, Thunder Wave,
-        Torment, Toxic, Trick, U-turn, Yawn]
+          Knot, Growl, Gunk Shot, Hone Claws, Hyper Voice, Iron Tail, Knock Off, Nasty
+          Plot, Night Slash, Pay Day, Payback, Protect, Psych Up, Pursuit, Rain Dance,
+        Rest, Return, Role Play, Round, Sand Attack, Scratch, Seed Bomb, Shadow Ball,
+        Shadow Claw, Slash, Sleep Talk, Snarl, Snatch, Snore, Spite, Substitute, Sucker
+          Punch, Sunny Day, Swagger, Taunt, Thief, Thunder Wave, Torment, Toxic, Trick,
+        U-turn, Yawn, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - xy: [Aerial Ace, Assist, Assurance, Attract, Captivate, Charm, Covet, Cut, Double
           Team, Dream Eater, Echoed Voice, Embargo, Encore, Facade, Feint Attack,
         Fake Out, Fake Tears, Foul Play, Frustration, Fury Swipes, Grass Knot, Growl,
-        Hidden Power, Hone Claws, Nasty Plot, Night Slash, Payback, Pay Day, Protect,
-        Psych Up, Pursuit, Rain Dance, Rest, Return, Round, Sand Attack, Scratch,
-        Shadow Ball, Shadow Claw, Slash, Snarl, Snatch, Substitute, Sucker Punch,
-        Sunny Day, Swagger, Taunt, Thief, Thunder Wave, Torment, Toxic, U-turn, Yawn,
-        Seed Bomb, Gunk Shot, Dark Pulse, Hyper Voice, Iron Tail, Snore, Knock Off,
-        Role Play, Spite, Trick, Sleep Talk, Play Rough, Confide, Copycat]
+        Hone Claws, Nasty Plot, Night Slash, Payback, Pay Day, Protect, Psych Up,
+        Pursuit, Rain Dance, Rest, Return, Round, Sand Attack, Scratch, Shadow Ball,
+        Shadow Claw, Slash, Snarl, Snatch, Substitute, Sucker Punch, Sunny Day, Swagger,
+        Taunt, Thief, Thunder Wave, Torment, Toxic, U-turn, Yawn, Seed Bomb, Gunk
+          Shot, Dark Pulse, Hyper Voice, Iron Tail, Snore, Knock Off, Role Play, Spite,
+        Trick, Sleep Talk, Play Rough, Confide, Copycat, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     - []
     stats:
     - [41, 50, 37, 50, 37, 66]

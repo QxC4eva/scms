@@ -11,18 +11,26 @@ pokemon:
     moves:
     - bw: [Agility, Aqua Jet, Aqua Tail, Attract, Bite, Bounce, Brine, Bubble Beam,
         Chip Away, Crunch, Cut, Dive, Double-Edge, Double Team, Endeavor, Facade,
-        Final Gambit, Flail, Frustration, Hail, Headbutt, Hidden Power, Ice Beam,
-        Icy Wind, Mud Shot, Muddy Water, Protect, Rage, Rain Dance, Rest, Return,
-        Revenge, Round, Scald, Scary Face, Sleep Talk, Snore, Soak, Substitute, Superpower,
-        Surf, Swagger, Swift, Tackle, Take Down, Taunt, Thrash, Toxic, Uproar, Water
-          Gun, Waterfall, Whirlpool, Zen Headbutt]
+        Final Gambit, Flail, Frustration, Hail, Headbutt, Ice Beam, Icy Wind, Mud
+          Shot, Muddy Water, Protect, Rage, Rain Dance, Rest, Return, Revenge, Round,
+        Scald, Scary Face, Sleep Talk, Snore, Soak, Substitute, Superpower, Surf,
+        Swagger, Swift, Tackle, Take Down, Taunt, Thrash, Toxic, Uproar, Water Gun,
+        Waterfall, Whirlpool, Zen Headbutt, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Agility, Aqua Jet, Aqua Tail, Attract, Bite, Brine, Bubble Beam, Chip Away,
         Crunch, Cut, Dive, Double-Edge, Double Team, Facade, Final Gambit, Flail,
-        Frustration, Hail, Headbutt, Hidden Power, Ice Beam, Muddy Water, Mud Shot,
-        Protect, Rage, Rain Dance, Rest, Return, Revenge, Round, Scald, Scary Face,
-        Soak, Substitute, Surf, Swagger, Swift, Tackle, Take Down, Taunt, Thrash,
-        Toxic, Uproar, Waterfall, Water Gun, Whirlpool, Bounce, Superpower, Icy Wind,
-        Zen Headbutt, Snore, Endeavor, Sleep Talk, Tail Whip, Confide]
+        Frustration, Hail, Headbutt, Ice Beam, Muddy Water, Mud Shot, Protect, Rage,
+        Rain Dance, Rest, Return, Revenge, Round, Scald, Scary Face, Soak, Substitute,
+        Surf, Swagger, Swift, Tackle, Take Down, Taunt, Thrash, Toxic, Uproar, Waterfall,
+        Water Gun, Whirlpool, Bounce, Superpower, Icy Wind, Zen Headbutt, Snore, Endeavor,
+        Sleep Talk, Tail Whip, Confide, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [70, 92, 65, 80, 55, 98]
     tags:

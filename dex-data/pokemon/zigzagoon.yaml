@@ -40,41 +40,58 @@ pokemon:
     moves:
     - bw: [Attract, Belly Drum, Bestow, Blizzard, Charge Beam, Charm, Covet, Cut,
         Dig, Double Team, Echoed Voice, Facade, Flail, Fling, Frustration, Grass Knot,
-        Growl, Gunk Shot, Headbutt, Helping Hand, Hidden Power, Hone Claws, Hyper
-          Voice, Ice Beam, Icy Wind, Iron Tail, Last Resort, Mud-Slap, Mud Sport,
-        Odor Sleuth, Pin Missile, Protect, Pursuit, Rain Dance, Rest, Retaliate, Return,
-        Rock Climb, Rock Smash, Round, Sand Attack, Seed Bomb, Shadow Ball, Simple
-          Beam, Sleep Talk, Snore, Substitute, Sunny Day, Super Fang, Surf, Swagger,
-        Tackle, Tail Whip, Thief, Thunder, Thunder Wave, Thunderbolt, Tickle, Toxic,
-        Trick, Work Up, Body Slam, Double-Edge, Icy Wind, Mimic]
+        Growl, Gunk Shot, Headbutt, Helping Hand, Hone Claws, Hyper Voice, Ice Beam,
+        Icy Wind, Iron Tail, Last Resort, Mud-Slap, Mud Sport, Odor Sleuth, Pin Missile,
+        Protect, Pursuit, Rain Dance, Rest, Retaliate, Return, Rock Climb, Rock Smash,
+        Round, Sand Attack, Seed Bomb, Shadow Ball, Simple Beam, Sleep Talk, Snore,
+        Substitute, Sunny Day, Super Fang, Surf, Swagger, Tackle, Tail Whip, Thief,
+        Thunder, Thunder Wave, Thunderbolt, Tickle, Toxic, Trick, Work Up, Body Slam,
+        Double-Edge, Icy Wind, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Attract, Belly Drum, Blizzard, Captivate, Charge Beam, Charm, Covet, Cut,
         Dig, Double Team, Endure, Facade, Flail, Fling, Frustration, Fury Cutter,
-        Grass Knot, Growl, Gunk Shot, Headbutt, Helping Hand, Hidden Power, Ice Beam,
-        Icy Wind, Iron Tail, Last Resort, Mud-Slap, Mud Sport, Natural Gift, Odor
-          Sleuth, Pin Missile, Protect, Pursuit, Rain Dance, Rest, Return, Rock Smash,
-        Rollout, Sand Attack, Secret Power, Seed Bomb, Shadow Ball, Shock Wave, Sleep
-          Talk, Snore, Substitute, Sunny Day, Super Fang, Surf, Swagger, Swift, Tackle,
-        Tail Whip, Thief, Thunder, Thunder Wave, Thunderbolt, Tickle, Toxic, Trick,
-        Water Pulse, Whirlpool, Body Slam, Double-Edge, Icy Wind, Mimic]
+        Grass Knot, Growl, Gunk Shot, Headbutt, Helping Hand, Ice Beam, Icy Wind,
+        Iron Tail, Last Resort, Mud-Slap, Mud Sport, Natural Gift, Odor Sleuth, Pin
+          Missile, Protect, Pursuit, Rain Dance, Rest, Return, Rock Smash, Rollout,
+        Sand Attack, Secret Power, Seed Bomb, Shadow Ball, Shock Wave, Sleep Talk,
+        Snore, Substitute, Sunny Day, Super Fang, Surf, Swagger, Swift, Tackle, Tail
+          Whip, Thief, Thunder, Thunder Wave, Thunderbolt, Tickle, Toxic, Trick, Water
+          Pulse, Whirlpool, Body Slam, Double-Edge, Icy Wind, Mimic, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - rs: [Attract, Belly Drum, Blizzard, Body Slam, Charm, Covet, Cut, Defense Curl,
         Dig, Double-Edge, Double Team, Endure, Facade, Flail, Frustration, Fury Cutter,
-        Growl, Headbutt, Hidden Power, Ice Beam, Icy Wind, Iron Tail, Mimic, Mud-Slap,
-        Mud Sport, Odor Sleuth, Pin Missile, Protect, Pursuit, Rain Dance, Rest, Return,
-        Rock Smash, Rollout, Sand Attack, Secret Power, Shadow Ball, Shock Wave, Sleep
+        Growl, Headbutt, Ice Beam, Icy Wind, Iron Tail, Mimic, Mud-Slap, Mud Sport,
+        Odor Sleuth, Pin Missile, Protect, Pursuit, Rain Dance, Rest, Return, Rock
+          Smash, Rollout, Sand Attack, Secret Power, Shadow Ball, Shock Wave, Sleep
           Talk, Snore, Substitute, Sunny Day, Surf, Swagger, Swift, Tackle, Tail Whip,
         Thief, Thunder, Thunder Wave, Thunderbolt, Tickle, Toxic, Trick, Water Pulse,
-        Body Slam, Double-Edge, Icy Wind, Mimic]
+        Body Slam, Double-Edge, Icy Wind, Mimic, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Attract, Belly Drum, Bestow, Blizzard, Body Slam, Captivate, Charge Beam,
         Charm, Covet, Cut, Defense Curl, Dig, Double-Edge, Double Team, Echoed Voice,
         Endure, Extreme Speed, Facade, Flail, Fling, Frustration, Fury Cutter, Grass
-          Knot, Growl, Gunk Shot, Headbutt, Helping Hand, Hidden Power, Hone Claws,
-        Ice Beam, Icy Wind, Iron Tail, Last Resort, Mimic, Mud-Slap, Mud Sport, Natural
-          Gift, Odor Sleuth, Pin Missile, Protect, Pursuit, Rain Dance, Rest, Retaliate,
-        Return, Rock Climb, Rock Smash, Rollout, Round, Sand Attack, Secret Power,
-        Seed Bomb, Shadow Ball, Shock Wave, Simple Beam, Sleep Talk, Snore, Substitute,
-        Sunny Day, Super Fang, Surf, Swagger, Swift, Tackle, Tail Whip, Thief, Thunder,
+          Knot, Growl, Gunk Shot, Headbutt, Helping Hand, Hone Claws, Ice Beam, Icy
+          Wind, Iron Tail, Last Resort, Mimic, Mud-Slap, Mud Sport, Natural Gift,
+        Odor Sleuth, Pin Missile, Protect, Pursuit, Rain Dance, Rest, Retaliate, Return,
+        Rock Climb, Rock Smash, Rollout, Round, Sand Attack, Secret Power, Seed Bomb,
+        Shadow Ball, Shock Wave, Simple Beam, Sleep Talk, Snore, Substitute, Sunny
+          Day, Super Fang, Surf, Swagger, Swift, Tackle, Tail Whip, Thief, Thunder,
         Thunderbolt, Thunder Wave, Tickle, Toxic, Trick, Water Pulse, Whirlpool, Work
-          Up, Hyper Voice, Baby-Doll Eyes, Confide]
+          Up, Hyper Voice, Baby-Doll Eyes, Confide, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [38, 30, 41, 30, 41, 60]
     tags:

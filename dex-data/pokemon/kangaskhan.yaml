@@ -15,48 +15,66 @@ pokemon:
     moves:
     - gs: [Attract, Bite, Blizzard, Comet Punch, Curse, Disable, Dizzy Punch, Double
           Team, Dynamic Punch, Earthquake, Endure, Fire Blast, Fire Punch, Flamethrower,
-        Focus Energy, Foresight, Frustration, Fury Cutter, Headbutt, Hidden Power,
-        Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Leer, Mega Punch, Mud-Slap,
-        Protect, Rage, Rain Dance, Rest, Return, Reversal, Roar, Rock Smash, Safeguard,
-        Sandstorm, Shadow Ball, Sleep Talk, Snore, Stomp, Strength, Sunny Day, Surf,
-        Swagger, Tail Whip, Thunder, Thunderbolt, Thunder Punch, Toxic, Zap Cannon]
+        Focus Energy, Foresight, Frustration, Fury Cutter, Headbutt, Hyper Beam, Ice
+          Beam, Ice Punch, Icy Wind, Iron Tail, Leer, Mega Punch, Mud-Slap, Protect,
+        Rage, Rain Dance, Rest, Return, Reversal, Roar, Rock Smash, Safeguard, Sandstorm,
+        Shadow Ball, Sleep Talk, Snore, Stomp, Strength, Sunny Day, Surf, Swagger,
+        Tail Whip, Thunder, Thunderbolt, Thunder Punch, Toxic, Zap Cannon, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - bw: [Aerial Ace, Aqua Tail, Attract, Bite, Blizzard, Brick Break, Bulldoze,
         Chip Away, Circle Throw, Comet Punch, Counter, Covet, Crunch, Crush Claw,
         Cut, Dig, Disable, Dizzy Punch, Double-Edge, Double Hit, Double Team, Drain
           Punch, Earthquake, Endeavor, Endure, Facade, Fake Out, Fire Blast, Fire
           Punch, Flamethrower, Fling, Focus Blast, Focus Energy, Focus Punch, Foresight,
-        Frustration, Giga Impact, Hail, Hammer Arm, Helping Hand, Hidden Power, Hyper
-          Beam, Ice Beam, Ice Punch, Icy Wind, Incinerate, Iron Tail, Leer, Low Kick,
-        Mega Punch, Outrage, Protect, Rage, Rain Dance, Rest, Retaliate, Return, Reversal,
-        Roar, Rock Slide, Rock Smash, Rock Tomb, Round, Safeguard, Sandstorm, Shadow
-          Ball, Shadow Claw, Sleep Talk, Snore, Solar Beam, Spite, Stomp, Strength,
-        Substitute, Sucker Punch, Sunny Day, Surf, Swagger, Tail Whip, Thief, Thunder,
-        Thunderbolt, Thunder Punch, Toxic, Trump Card, Uproar, Work Up, Body Slam,
-        Icy Wind, Mimic, Seismic Toss, Sing]
+        Frustration, Giga Impact, Hail, Hammer Arm, Helping Hand, Hyper Beam, Ice
+          Beam, Ice Punch, Icy Wind, Incinerate, Iron Tail, Leer, Low Kick, Mega Punch,
+        Outrage, Protect, Rage, Rain Dance, Rest, Retaliate, Return, Reversal, Roar,
+        Rock Slide, Rock Smash, Rock Tomb, Round, Safeguard, Sandstorm, Shadow Ball,
+        Shadow Claw, Sleep Talk, Snore, Solar Beam, Spite, Stomp, Strength, Substitute,
+        Sucker Punch, Sunny Day, Surf, Swagger, Tail Whip, Thief, Thunder, Thunderbolt,
+        Thunder Punch, Toxic, Trump Card, Uproar, Work Up, Body Slam, Icy Wind, Mimic,
+        Seismic Toss, Sing, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - dp: [Aerial Ace, Aqua Tail, Attract, Avalanche, Bite, Blizzard, Brick Break,
         Captivate, Comet Punch, Counter, Crunch, Crush Claw, Cut, Dig, Disable, Dizzy
           Punch, Double-Edge, Double Hit, Double Team, Drain Punch, Earthquake, Endeavor,
         Endure, Facade, Fake Out, Fire Blast, Fire Punch, Flamethrower, Fling, Focus
           Blast, Focus Energy, Focus Punch, Foresight, Frustration, Fury Cutter, Giga
-          Impact, Hail, Hammer Arm, Headbutt, Helping Hand, Hidden Power, Hyper Beam,
-        Ice Beam, Ice Punch, Icy Wind, Iron Tail, Leer, Low Kick, Mega Punch, Mud-Slap,
-        Natural Gift, Outrage, Protect, Rage, Rain Dance, Rest, Return, Reversal,
-        Roar, Rock Climb, Rock Slide, Rock Smash, Rock Tomb, Safeguard, Sandstorm,
-        Secret Power, Shadow Ball, Shadow Claw, Shock Wave, Sleep Talk, Snore, Solar
-          Beam, Spite, Stomp, Strength, Substitute, Sucker Punch, Sunny Day, Surf,
-        Swagger, Tail Whip, Thief, Thunder, Thunderbolt, Thunder Punch, Toxic, Uproar,
-        Water Pulse, Whirlpool, Body Slam, Icy Wind, Mimic, Seismic Toss, Sing]
+          Impact, Hail, Hammer Arm, Headbutt, Helping Hand, Hyper Beam, Ice Beam,
+        Ice Punch, Icy Wind, Iron Tail, Leer, Low Kick, Mega Punch, Mud-Slap, Natural
+          Gift, Outrage, Protect, Rage, Rain Dance, Rest, Return, Reversal, Roar,
+        Rock Climb, Rock Slide, Rock Smash, Rock Tomb, Safeguard, Sandstorm, Secret
+          Power, Shadow Ball, Shadow Claw, Shock Wave, Sleep Talk, Snore, Solar Beam,
+        Spite, Stomp, Strength, Substitute, Sucker Punch, Sunny Day, Surf, Swagger,
+        Tail Whip, Thief, Thunder, Thunderbolt, Thunder Punch, Toxic, Uproar, Water
+          Pulse, Whirlpool, Body Slam, Icy Wind, Mimic, Seismic Toss, Sing, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rs: [Aerial Ace, Attract, Bite, Blizzard, Body Slam, Brick Break, Comet Punch,
         Counter, Crush Claw, Cut, Dig, Disable, Dizzy Punch, Double-Edge, Double Team,
         Dynamic Punch, Earthquake, Endure, Facade, Fake Out, Fire Blast, Fire Punch,
         Flamethrower, Focus Energy, Focus Punch, Foresight, Frustration, Fury Cutter,
-        Hail, Hidden Power, Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Iron Tail,
-        Leer, Mega Kick, Mega Punch, Mimic, Mud-Slap, Protect, Rage, Rain Dance, Rest,
-        Return, Reversal, Roar, Rock Slide, Rock Smash, Rock Tomb, Safeguard, Sandstorm,
-        Secret Power, Seismic Toss, Shadow Ball, Shock Wave, Sleep Talk, Snore, Solar
-          Beam, Stomp, Strength, Substitute, Sunny Day, Surf, Swagger, Tail Whip,
-        Thief, Thunder, Thunderbolt, Thunder Punch, Toxic, Water Pulse, Body Slam,
-        Icy Wind, Mimic, Seismic Toss, Sing]
+        Hail, Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Leer, Mega Kick,
+        Mega Punch, Mimic, Mud-Slap, Protect, Rage, Rain Dance, Rest, Return, Reversal,
+        Roar, Rock Slide, Rock Smash, Rock Tomb, Safeguard, Sandstorm, Secret Power,
+        Seismic Toss, Shadow Ball, Shock Wave, Sleep Talk, Snore, Solar Beam, Stomp,
+        Strength, Substitute, Sunny Day, Surf, Swagger, Tail Whip, Thief, Thunder,
+        Thunderbolt, Thunder Punch, Toxic, Water Pulse, Body Slam, Icy Wind, Mimic,
+        Seismic Toss, Sing, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - rb: [Bide, Bite, Blizzard, Body Slam, Bubble Beam, Comet Punch, Counter, Dizzy
           Punch, Double-Edge, Double Team, Earthquake, Fire Blast, Fissure, Hyper
           Beam, Ice Beam, Leer, Mega Kick, Mega Punch, Mimic, Rage, Rest, Rock Slide,
@@ -68,16 +86,19 @@ pokemon:
         Double Team, Drain Punch, Dynamic Punch, Earthquake, Endeavor, Endure, Facade,
         Fake Out, Fire Blast, Fire Punch, Flamethrower, Fling, Focus Blast, Focus
           Energy, Focus Punch, Foresight, Frustration, Fury Cutter, Giga Impact, Hail,
-        Hammer Arm, Headbutt, Helping Hand, Hidden Power, Hyper Beam, Ice Beam, Ice
-          Punch, Icy Wind, Incinerate, Iron Tail, Knock Off, Leer, Low Kick, Mega
-          Kick, Mega Punch, Mimic, Mud-Slap, Natural Gift, Outrage, Protect, Rage,
-        Rain Dance, Rest, Retaliate, Return, Reversal, Roar, Rock Climb, Rock Slide,
-        Rock Smash, Rock Tomb, Round, Safeguard, Sandstorm, Secret Power, Seismic
-          Toss, Shadow Ball, Shadow Claw, Shock Wave, Sing, Sleep Talk, Snore, Solar
-          Beam, Spite, Stomp, Strength, Substitute, Sucker Punch, Sunny Day, Surf,
-        Swagger, Tail Whip, Thief, Thunder, Thunderbolt, Thunder Punch, Toxic, Trump
-          Card, Uproar, Water Pulse, Whirlpool, Wish, Work Up, Yawn, Covet, Power-Up
-          Punch, Confide]
+        Hammer Arm, Headbutt, Helping Hand, Hyper Beam, Ice Beam, Ice Punch, Icy Wind,
+        Incinerate, Iron Tail, Knock Off, Leer, Low Kick, Mega Kick, Mega Punch, Mimic,
+        Mud-Slap, Natural Gift, Outrage, Protect, Rage, Rain Dance, Rest, Retaliate,
+        Return, Reversal, Roar, Rock Climb, Rock Slide, Rock Smash, Rock Tomb, Round,
+        Safeguard, Sandstorm, Secret Power, Seismic Toss, Shadow Ball, Shadow Claw,
+        Shock Wave, Sing, Sleep Talk, Snore, Solar Beam, Spite, Stomp, Strength, Substitute,
+        Sucker Punch, Sunny Day, Surf, Swagger, Tail Whip, Thief, Thunder, Thunderbolt,
+        Thunder Punch, Toxic, Trump Card, Uproar, Water Pulse, Whirlpool, Wish, Work
+          Up, Yawn, Covet, Power-Up Punch, Confide, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [105, 95, 80, 40, 40, 90]
     - gs: [105, 95, 80, 40, 80, 90]

@@ -12,19 +12,28 @@ pokemon:
     - bw: [Absorb, Acupressure, Aerial Ace, After You, Attract, Bounce, Bullet Seed,
         Cotton Guard, Cotton Spore, Double Team, Drain Punch, Endeavor, Energy Ball,
         Facade, Frustration, Giga Drain, Grass Knot, Grass Whistle, Growth, Helping
-          Hand, Hidden Power, Hyper Voice, Ingrain, Knock Off, Leech Seed, Mega Drain,
-        Needle Arm, Peck, Petal Dance, Pin Missile, Poison Jab, Protect, Rest, Return,
-        Round, Safeguard, Seed Bomb, Sleep Talk, Snore, Solar Beam, Spikes, Substitute,
-        Sucker Punch, Sunny Day, Swagger, Sweet Scent, Synthesis, Toxic, Uproar, Wood
-          Hammer, Worry Seed]
+          Hand, Hyper Voice, Ingrain, Knock Off, Leech Seed, Mega Drain, Needle Arm,
+        Peck, Petal Dance, Pin Missile, Poison Jab, Protect, Rest, Return, Round,
+        Safeguard, Seed Bomb, Sleep Talk, Snore, Solar Beam, Spikes, Substitute, Sucker
+          Punch, Sunny Day, Swagger, Sweet Scent, Synthesis, Toxic, Uproar, Wood Hammer,
+        Worry Seed, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - xy: [Absorb, Acupressure, Aerial Ace, After You, Attract, Bounce, Bullet Seed,
         Cotton Guard, Cotton Spore, Double Team, Energy Ball, Facade, Frustration,
-        Giga Drain, Grass Knot, Grass Whistle, Growth, Hidden Power, Ingrain, Leech
-          Seed, Mega Drain, Needle Arm, Peck, Petal Dance, Pin Missile, Poison Jab,
-        Protect, Rest, Return, Round, Safeguard, Seed Bomb, Solar Beam, Spikes, Substitute,
-        Sucker Punch, Sunny Day, Swagger, Sweet Scent, Synthesis, Toxic, Wood Hammer,
-        Worry Seed, Uproar, Hyper Voice, Snore, Knock Off, Drain Punch, Helping Hand,
-        Endeavor, Sleep Talk, Petal Blizzard, Nature Power, Confide, Grassy Terrain]
+        Giga Drain, Grass Knot, Grass Whistle, Growth, Ingrain, Leech Seed, Mega Drain,
+        Needle Arm, Peck, Petal Dance, Pin Missile, Poison Jab, Protect, Rest, Return,
+        Round, Safeguard, Seed Bomb, Solar Beam, Spikes, Substitute, Sucker Punch,
+        Sunny Day, Swagger, Sweet Scent, Synthesis, Toxic, Wood Hammer, Worry Seed,
+        Uproar, Hyper Voice, Snore, Knock Off, Drain Punch, Helping Hand, Endeavor,
+        Sleep Talk, Petal Blizzard, Nature Power, Confide, Grassy Terrain, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     stats:
     - [75, 86, 67, 106, 67, 60]
     tags:

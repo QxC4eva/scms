@@ -64,42 +64,63 @@ pokemon:
     introduction: gs
     moves:
     - gs: [Amnesia, Ancient Power, Attract, Bite, Blizzard, Body Slam, Curse, Defense
-          Curl, Detect, Double Team, Earthquake, Endure, Frustration, Headbutt, Hidden
-          Power, Ice Beam, Icy Wind, Mist, Mud-Slap, Powder Snow, Protect, Rain Dance,
-        Rest, Return, Roar, Rock Slide, Rock Smash, Sleep Talk, Snore, Strength, Swagger,
-        Tackle, Take Down, Toxic]
+          Curl, Detect, Double Team, Earthquake, Endure, Frustration, Headbutt, Ice
+          Beam, Icy Wind, Mist, Mud-Slap, Powder Snow, Protect, Rain Dance, Rest,
+        Return, Roar, Rock Slide, Rock Smash, Sleep Talk, Snore, Strength, Swagger,
+        Tackle, Take Down, Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
     - bw: [Amnesia, Ancient Power, Attract, Avalanche, Bite, Blizzard, Body Slam,
         Bulldoze, Curse, Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endeavor,
-        Endure, Facade, Fissure, Flail, Frustration, Hail, Hidden Power, Ice Beam,
-        Ice Shard, Icicle Crash, Icicle Spear, Icy Wind, Light Screen, Mist, Mud Bomb,
-        Mud Shot, Mud-Slap, Mud Sport, Odor Sleuth, Powder Snow, Protect, Rain Dance,
-        Reflect, Rest, Return, Roar, Rock Slide, Rock Smash, Rock Tomb, Round, Sandstorm,
-        Sleep Talk, Snore, Stealth Rock, Strength, Substitute, Superpower, Swagger,
-        Tackle, Take Down, Toxic, Charm, Mimic]
+        Endure, Facade, Fissure, Flail, Frustration, Hail, Ice Beam, Ice Shard, Icicle
+          Crash, Icicle Spear, Icy Wind, Light Screen, Mist, Mud Bomb, Mud Shot, Mud-Slap,
+        Mud Sport, Odor Sleuth, Powder Snow, Protect, Rain Dance, Reflect, Rest, Return,
+        Roar, Rock Slide, Rock Smash, Rock Tomb, Round, Sandstorm, Sleep Talk, Snore,
+        Stealth Rock, Strength, Substitute, Superpower, Swagger, Tackle, Take Down,
+        Toxic, Charm, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - dp: [Amnesia, Ancient Power, Attract, Bite, Blizzard, Body Slam, Captivate,
         Curse, Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endeavor, Endure,
-        Facade, Fissure, Frustration, Hail, Headbutt, Hidden Power, Ice Beam, Ice
-          Shard, Icicle Spear, Icy Wind, Light Screen, Mist, Mud Bomb, Mud Shot, Mud-Slap,
-        Mud Sport, Natural Gift, Odor Sleuth, Powder Snow, Protect, Rain Dance, Reflect,
-        Rest, Return, Roar, Rock Slide, Rock Smash, Rock Tomb, Sandstorm, Secret Power,
+        Facade, Fissure, Frustration, Hail, Headbutt, Ice Beam, Ice Shard, Icicle
+          Spear, Icy Wind, Light Screen, Mist, Mud Bomb, Mud Shot, Mud-Slap, Mud Sport,
+        Natural Gift, Odor Sleuth, Powder Snow, Protect, Rain Dance, Reflect, Rest,
+        Return, Roar, Rock Slide, Rock Smash, Rock Tomb, Sandstorm, Secret Power,
         Sleep Talk, Snore, Stealth Rock, Strength, Substitute, Superpower, Swagger,
-        Tackle, Take Down, Toxic, Charm, Mimic]
+        Tackle, Take Down, Toxic, Charm, Mimic, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rs: [Amnesia, Ancient Power, Attract, Bite, Blizzard, Body Slam, Defense Curl,
         Dig, Double-Edge, Double Team, Earthquake, Endure, Facade, Frustration, Hail,
-        Hidden Power, Ice Beam, Icicle Spear, Icy Wind, Light Screen, Mimic, Mist,
-        Mud Shot, Mud-Slap, Odor Sleuth, Powder Snow, Protect, Rain Dance, Reflect,
-        Rest, Return, Roar, Rock Slide, Rock Smash, Rock Tomb, Sandstorm, Secret Power,
-        Sleep Talk, Snore, Strength, Substitute, Swagger, Tackle, Take Down, Toxic,
-        Charm, Mimic]
+        Ice Beam, Icicle Spear, Icy Wind, Light Screen, Mimic, Mist, Mud Shot, Mud-Slap,
+        Odor Sleuth, Powder Snow, Protect, Rain Dance, Reflect, Rest, Return, Roar,
+        Rock Slide, Rock Smash, Rock Tomb, Sandstorm, Secret Power, Sleep Talk, Snore,
+        Strength, Substitute, Swagger, Tackle, Take Down, Toxic, Charm, Mimic, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - xy: [Amnesia, Ancient Power, Attract, Avalanche, Bite, Blizzard, Body Slam,
         Bulldoze, Captivate, Charm, Curse, Defense Curl, Dig, Double-Edge, Double
           Team, Earth Power, Earthquake, Endeavor, Endure, Facade, Fissure, Flail,
-        Frustration, Hail, Headbutt, Hidden Power, Ice Beam, Ice Shard, Icicle Crash,
-        Icicle Spear, Icy Wind, Light Screen, Mimic, Mist, Mud Bomb, Mud Shot, Mud-Slap,
-        Mud Sport, Natural Gift, Odor Sleuth, Powder Snow, Protect, Rain Dance, Reflect,
-        Rest, Return, Roar, Rock Slide, Rock Smash, Rock Tomb, Round, Sandstorm, Secret
+        Frustration, Hail, Headbutt, Ice Beam, Ice Shard, Icicle Crash, Icicle Spear,
+        Icy Wind, Light Screen, Mimic, Mist, Mud Bomb, Mud Shot, Mud-Slap, Mud Sport,
+        Natural Gift, Odor Sleuth, Powder Snow, Protect, Rain Dance, Reflect, Rest,
+        Return, Roar, Rock Slide, Rock Smash, Rock Tomb, Round, Sandstorm, Secret
           Power, Sleep Talk, Snore, Stealth Rock, Strength, Substitute, Superpower,
-        Swagger, Tackle, Take Down, Toxic, Confide, Freeze-Dry]
+        Swagger, Tackle, Take Down, Toxic, Confide, Freeze-Dry, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     stats:
     - [50, 50, 40, 30, 30, 50]
     tags:

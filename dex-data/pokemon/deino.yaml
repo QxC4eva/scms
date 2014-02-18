@@ -12,19 +12,27 @@ pokemon:
     - bw: [Aqua Tail, Assurance, Astonish, Attract, Bite, Body Slam, Crunch, Dark
           Pulse, Double Hit, Double Team, Draco Meteor, Dragon Pulse, Dragon Rage,
         Dragon Rush, Dragon Tail, Dragon Breath, Earth Power, Facade, Fire Fang, Focus
-          Energy, Frustration, Head Smash, Headbutt, Hidden Power, Hyper Voice, Ice
-          Fang, Incinerate, Outrage, Protect, Psych Up, Rain Dance, Rest, Return,
-        Roar, Rock Smash, Round, Scary Face, Screech, Slam, Sleep Talk, Snore, Spite,
-        Strength, Substitute, Sunny Day, Superpower, Swagger, Tackle, Taunt, Thief,
-        Thunder Fang, Thunder Wave, Torment, Toxic, Uproar, Work Up, Zen Headbutt]
+          Energy, Frustration, Head Smash, Headbutt, Hyper Voice, Ice Fang, Incinerate,
+        Outrage, Protect, Psych Up, Rain Dance, Rest, Return, Roar, Rock Smash, Round,
+        Scary Face, Screech, Slam, Sleep Talk, Snore, Spite, Strength, Substitute,
+        Sunny Day, Superpower, Swagger, Tackle, Taunt, Thief, Thunder Fang, Thunder
+          Wave, Torment, Toxic, Uproar, Work Up, Zen Headbutt, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Assurance, Astonish, Attract, Bite, Body Slam, Crunch, Dark Pulse, Double
           Hit, Double Team, Draco Meteor, Dragon Breath, Dragon Pulse, Dragon Rage,
         Dragon Rush, Dragon Tail, Earth Power, Facade, Fire Fang, Focus Energy, Frustration,
-        Headbutt, Head Smash, Hidden Power, Hyper Voice, Ice Fang, Incinerate, Outrage,
-        Protect, Psych Up, Rain Dance, Rest, Return, Roar, Rock Smash, Round, Scary
-          Face, Screech, Slam, Strength, Substitute, Sunny Day, Swagger, Tackle, Taunt,
-        Thief, Thunder Fang, Thunder Wave, Torment, Toxic, Work Up, Uproar, Superpower,
-        Aqua Tail, Zen Headbutt, Snore, Spite, Sleep Talk, Confide]
+        Headbutt, Head Smash, Hyper Voice, Ice Fang, Incinerate, Outrage, Protect,
+        Psych Up, Rain Dance, Rest, Return, Roar, Rock Smash, Round, Scary Face, Screech,
+        Slam, Strength, Substitute, Sunny Day, Swagger, Tackle, Taunt, Thief, Thunder
+          Fang, Thunder Wave, Torment, Toxic, Work Up, Uproar, Superpower, Aqua Tail,
+        Zen Headbutt, Snore, Spite, Sleep Talk, Confide, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [52, 65, 50, 45, 50, 38]
     tags:

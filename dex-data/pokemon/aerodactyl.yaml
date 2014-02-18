@@ -14,37 +14,55 @@ pokemon:
     moves:
     - gs: [Agility, Ancient Power, Attract, Bite, Curse, Detect, Double Team, Dragon
           Breath, Earthquake, Endure, Fire Blast, Flamethrower, Fly, Foresight, Frustration,
-        Headbutt, Hidden Power, Hyper Beam, Iron Tail, Protect, Pursuit, Rain Dance,
-        Rest, Return, Roar, Rock Smash, Sandstorm, Scary Face, Sleep Talk, Snore,
-        Steel Wing, Supersonic, Swagger, Swift, Take Down, Toxic, Whirlwind, Wing
-          Attack]
+        Headbutt, Hyper Beam, Iron Tail, Protect, Pursuit, Rain Dance, Rest, Return,
+        Roar, Rock Smash, Sandstorm, Scary Face, Sleep Talk, Snore, Steel Wing, Supersonic,
+        Swagger, Swift, Take Down, Toxic, Whirlwind, Wing Attack, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - bw: [Aerial Ace, Agility, Ancient Power, Aqua Tail, Assurance, Attract, Bite,
         Bulldoze, Crunch, Curse, Double Team, Dragon Claw, Dragon Pulse, Dragon Breath,
         Earth Power, Earthquake, Facade, Fire Blast, Fire Fang, Flamethrower, Fly,
-        Foresight, Frustration, Giga Impact, Heat Wave, Hidden Power, Hone Claws,
-        Hyper Beam, Ice Fang, Incinerate, Iron Head, Iron Tail, Payback, Protect,
-        Pursuit, Rain Dance, Rest, Return, Roar, Rock Polish, Rock Slide, Rock Smash,
-        Rock Tomb, Roost, Round, Sandstorm, Scary Face, Sky Attack, Sky Drop, Sleep
-          Talk, Smack Down, Snore, Stealth Rock, Steel Wing, Stone Edge, Strength,
-        Substitute, Sunny Day, Supersonic, Swagger, Tailwind, Take Down, Taunt, Thief,
-        Thunder Fang, Torment, Toxic, Whirlwind, Wing Attack]
+        Foresight, Frustration, Giga Impact, Heat Wave, Hone Claws, Hyper Beam, Ice
+          Fang, Incinerate, Iron Head, Iron Tail, Payback, Protect, Pursuit, Rain
+          Dance, Rest, Return, Roar, Rock Polish, Rock Slide, Rock Smash, Rock Tomb,
+        Roost, Round, Sandstorm, Scary Face, Sky Attack, Sky Drop, Sleep Talk, Smack
+          Down, Snore, Stealth Rock, Steel Wing, Stone Edge, Strength, Substitute,
+        Sunny Day, Supersonic, Swagger, Tailwind, Take Down, Taunt, Thief, Thunder
+          Fang, Torment, Toxic, Whirlwind, Wing Attack, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Aerial Ace, Agility, Air Cutter, Ancient Power, Aqua Tail, Assurance, Attract,
         Bite, Captivate, Crunch, Curse, Defog, Double Team, Dragon Claw, Dragon Pulse,
         Dragon Breath, Earth Power, Earthquake, Endure, Facade, Fire Blast, Fire Fang,
         Flamethrower, Fly, Foresight, Frustration, Giga Impact, Headbutt, Heat Wave,
-        Hidden Power, Hyper Beam, Ice Fang, Iron Head, Iron Tail, Natural Gift, Ominous
-          Wind, Payback, Protect, Pursuit, Rain Dance, Rest, Return, Roar, Rock Polish,
-        Rock Slide, Rock Smash, Rock Tomb, Roost, Sandstorm, Scary Face, Secret Power,
-        Sky Attack, Sleep Talk, Snore, Stealth Rock, Steel Wing, Stone Edge, Strength,
-        Substitute, Sunny Day, Supersonic, Swagger, Swift, Tailwind, Take Down, Taunt,
-        Thief, Thunder Fang, Torment, Toxic, Twister, Whirlwind, Wing Attack]
+        Hyper Beam, Ice Fang, Iron Head, Iron Tail, Natural Gift, Ominous Wind, Payback,
+        Protect, Pursuit, Rain Dance, Rest, Return, Roar, Rock Polish, Rock Slide,
+        Rock Smash, Rock Tomb, Roost, Sandstorm, Scary Face, Secret Power, Sky Attack,
+        Sleep Talk, Snore, Stealth Rock, Steel Wing, Stone Edge, Strength, Substitute,
+        Sunny Day, Supersonic, Swagger, Swift, Tailwind, Take Down, Taunt, Thief,
+        Thunder Fang, Torment, Toxic, Twister, Whirlwind, Wing Attack, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - rs: [Aerial Ace, Agility, Ancient Power, Attract, Bite, Curse, Double-Edge,
         Double Team, Dragon Claw, Dragon Breath, Earthquake, Endure, Facade, Fire
-          Blast, Flamethrower, Fly, Foresight, Frustration, Hidden Power, Hyper Beam,
-        Iron Tail, Mimic, Protect, Pursuit, Rain Dance, Rest, Return, Roar, Rock Slide,
-        Rock Smash, Rock Tomb, Sandstorm, Scary Face, Secret Power, Sky Attack, Sleep
+          Blast, Flamethrower, Fly, Foresight, Frustration, Hyper Beam, Iron Tail,
+        Mimic, Protect, Pursuit, Rain Dance, Rest, Return, Roar, Rock Slide, Rock
+          Smash, Rock Tomb, Sandstorm, Scary Face, Secret Power, Sky Attack, Sleep
           Talk, Snore, Steel Wing, Strength, Substitute, Sunny Day, Supersonic, Swagger,
-        Swift, Take Down, Taunt, Thief, Torment, Toxic, Whirlwind, Wing Attack]
+        Swift, Take Down, Taunt, Thief, Torment, Toxic, Whirlwind, Wing Attack, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rb: [Agility, Bide, Bite, Double-Edge, Double Team, Dragon Rage, Fire Blast,
         Fly, Hyper Beam, Mimic, Rage, Razor Wind, Reflect, Rest, Sky Attack, Substitute,
         Supersonic, Swift, Take Down, Toxic, Whirlwind, Wing Attack]
@@ -52,14 +70,18 @@ pokemon:
         Bite, Bulldoze, Captivate, Crunch, Curse, Defog, Double-Edge, Double Team,
         Dragon Breath, Dragon Claw, Dragon Pulse, Earth Power, Earthquake, Endure,
         Facade, Fire Blast, Fire Fang, Flamethrower, Fly, Foresight, Frustration,
-        Giga Impact, Headbutt, Heat Wave, Hidden Power, Hone Claws, Hyper Beam, Ice
-          Fang, Incinerate, Iron Head, Iron Tail, Mimic, Natural Gift, Ominous Wind,
-        Payback, Protect, Pursuit, Rain Dance, Rest, Return, Roar, Rock Polish, Rock
-          Slide, Rock Smash, Rock Tomb, Roost, Round, Sandstorm, Scary Face, Secret
-          Power, Sky Attack, Sky Drop, Sleep Talk, Smack Down, Snore, Stealth Rock,
-        Steel Wing, Stone Edge, Strength, Substitute, Sunny Day, Supersonic, Swagger,
-        Swift, Tailwind, Take Down, Taunt, Thief, Thunder Fang, Torment, Toxic, Twister,
-        Whirlwind, Wing Attack, Confide, Wide Guard]
+        Giga Impact, Headbutt, Heat Wave, Hone Claws, Hyper Beam, Ice Fang, Incinerate,
+        Iron Head, Iron Tail, Mimic, Natural Gift, Ominous Wind, Payback, Protect,
+        Pursuit, Rain Dance, Rest, Return, Roar, Rock Polish, Rock Slide, Rock Smash,
+        Rock Tomb, Roost, Round, Sandstorm, Scary Face, Secret Power, Sky Attack,
+        Sky Drop, Sleep Talk, Smack Down, Snore, Stealth Rock, Steel Wing, Stone Edge,
+        Strength, Substitute, Sunny Day, Supersonic, Swagger, Swift, Tailwind, Take
+          Down, Taunt, Thief, Thunder Fang, Torment, Toxic, Twister, Whirlwind, Wing
+          Attack, Confide, Wide Guard, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [80, 105, 65, 60, 60, 130]
     - gs: [80, 105, 65, 60, 75, 130]

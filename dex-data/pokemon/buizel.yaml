@@ -12,29 +12,41 @@ pokemon:
     - bw: [Agility, Aqua Jet, Aqua Ring, Aqua Tail, Attract, Baton Pass, Blizzard,
         Brick Break, Bulk Up, Dig, Dive, Double Hit, Double Team, Double Slap, Echoed
           Voice, Facade, Frustration, Fury Cutter, Fury Swipes, Growl, Hail, Headbutt,
-        Hidden Power, Hydro Pump, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Me First,
-        Mud-Slap, Odor Sleuth, Protect, Pursuit, Quick Attack, Rain Dance, Razor Wind,
-        Rest, Return, Rock Smash, Rock Tomb, Round, Scald, Slash, Sleep Talk, Snore,
-        Sonic Boom, Strength, Substitute, Surf, Swagger, Swift, Switcheroo, Tail Slap,
-        Toxic, Water Gun, Water Sport, Waterfall, Whirlpool]
+        Hydro Pump, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Me First, Mud-Slap,
+        Odor Sleuth, Protect, Pursuit, Quick Attack, Rain Dance, Razor Wind, Rest,
+        Return, Rock Smash, Rock Tomb, Round, Scald, Slash, Sleep Talk, Snore, Sonic
+          Boom, Strength, Substitute, Surf, Swagger, Swift, Switcheroo, Tail Slap,
+        Toxic, Water Gun, Water Sport, Waterfall, Whirlpool, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Agility, Aqua Jet, Attract, Baton Pass, Blizzard, Brick Break, Brine, Bulk
           Up, Captivate, Dig, Dive, Double Team, Double Slap, Endure, Facade, Focus
-          Punch, Frustration, Fury Cutter, Fury Swipes, Growl, Hail, Headbutt, Hidden
-          Power, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Mud-Slap, Natural Gift,
-        Odor Sleuth, Protect, Pursuit, Quick Attack, Rain Dance, Razor Wind, Rest,
-        Return, Rock Smash, Rock Tomb, Secret Power, Slash, Sleep Talk, Snore, Sonic
-          Boom, Strength, Substitute, Surf, Swagger, Swift, Toxic, Water Gun, Water
-          Pulse, Water Sport, Waterfall, Whirlpool]
+          Punch, Frustration, Fury Cutter, Fury Swipes, Growl, Hail, Headbutt, Ice
+          Beam, Ice Punch, Icy Wind, Iron Tail, Mud-Slap, Natural Gift, Odor Sleuth,
+        Protect, Pursuit, Quick Attack, Rain Dance, Razor Wind, Rest, Return, Rock
+          Smash, Rock Tomb, Secret Power, Slash, Sleep Talk, Snore, Sonic Boom, Strength,
+        Substitute, Surf, Swagger, Swift, Toxic, Water Gun, Water Pulse, Water Sport,
+        Waterfall, Whirlpool, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - xy: [Agility, Aqua Jet, Aqua Ring, Aqua Tail, Attract, Baton Pass, Blizzard,
         Brick Break, Brine, Bulk Up, Captivate, Dig, Dive, Double Hit, Double Slap,
         Double Team, Echoed Voice, Endure, Facade, Focus Punch, Frustration, Fury
-          Cutter, Fury Swipes, Growl, Hail, Headbutt, Hidden Power, Hydro Pump, Ice
-          Beam, Ice Punch, Icy Wind, Iron Tail, Me First, Mud-Slap, Natural Gift,
-        Odor Sleuth, Protect, Pursuit, Quick Attack, Rain Dance, Razor Wind, Rest,
-        Return, Rock Smash, Rock Tomb, Round, Scald, Secret Power, Slash, Sleep Talk,
-        Snore, Sonic Boom, Strength, Substitute, Surf, Swagger, Swift, Switcheroo,
-        Tail Slap, Toxic, Waterfall, Water Gun, Water Pulse, Water Sport, Whirlpool,
-        Power-Up Punch, Confide, Soak]
+          Cutter, Fury Swipes, Growl, Hail, Headbutt, Hydro Pump, Ice Beam, Ice Punch,
+        Icy Wind, Iron Tail, Me First, Mud-Slap, Natural Gift, Odor Sleuth, Protect,
+        Pursuit, Quick Attack, Rain Dance, Razor Wind, Rest, Return, Rock Smash, Rock
+          Tomb, Round, Scald, Secret Power, Slash, Sleep Talk, Snore, Sonic Boom,
+        Strength, Substitute, Surf, Swagger, Swift, Switcheroo, Tail Slap, Toxic,
+        Waterfall, Water Gun, Water Pulse, Water Sport, Whirlpool, Power-Up Punch,
+        Confide, Soak, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [55, 65, 35, 60, 30, 85]
     tags:

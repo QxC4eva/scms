@@ -64,49 +64,69 @@ pokemon:
     introduction: gs
     moves:
     - gs: [Ancient Power, Attract, Bite, Blizzard, Crunch, Curse, Cut, Detect, Dig,
-        Double Team, Dynamic Punch, Endure, Frustration, Headbutt, Hidden Power, Hydro
-          Pump, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Leer, Mud-Slap, Protect,
-        Rage, Rain Dance, Razor Wind, Rest, Return, Rock Slide, Scary Face, Scratch,
-        Screech, Slash, Sleep Talk, Snore, Surf, Swagger, Thrash, Toxic, Water Gun,
-        Whirlpool]
+        Double Team, Dynamic Punch, Endure, Frustration, Headbutt, Hydro Pump, Ice
+          Beam, Ice Punch, Icy Wind, Iron Tail, Leer, Mud-Slap, Protect, Rage, Rain
+          Dance, Razor Wind, Rest, Return, Rock Slide, Scary Face, Scratch, Screech,
+        Slash, Sleep Talk, Snore, Surf, Swagger, Thrash, Toxic, Water Gun, Whirlpool,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - bw: [Aerial Ace, Ancient Power, Aqua Jet, Aqua Tail, Attract, Bite, Blizzard,
         Block, Brick Break, Chip Away, Crunch, Cut, Dig, Dive, Double Team, Dragon
           Claw, Dragon Dance, Facade, Fake Tears, Flail, Fling, Frustration, Hail,
-        Hidden Power, Hone Claws, Hydro Pump, Ice Beam, Ice Fang, Ice Punch, Icy Wind,
-        Iron Tail, Leer, Low Kick, Metal Claw, Mud Sport, Protect, Rage, Rain Dance,
-        Rest, Return, Rock Slide, Rock Tomb, Round, Scald, Scary Face, Scratch, Screech,
-        Shadow Claw, Slash, Sleep Talk, Snore, Spite, Substitute, Superpower, Surf,
-        Swagger, Swords Dance, Thrash, Toxic, Uproar, Water Gun, Water Pledge, Water
-          Pulse, Water Sport, Waterfall]
+        Hone Claws, Hydro Pump, Ice Beam, Ice Fang, Ice Punch, Icy Wind, Iron Tail,
+        Leer, Low Kick, Metal Claw, Mud Sport, Protect, Rage, Rain Dance, Rest, Return,
+        Rock Slide, Rock Tomb, Round, Scald, Scary Face, Scratch, Screech, Shadow
+          Claw, Slash, Sleep Talk, Snore, Spite, Substitute, Superpower, Surf, Swagger,
+        Swords Dance, Thrash, Toxic, Uproar, Water Gun, Water Pledge, Water Pulse,
+        Water Sport, Waterfall, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Aerial Ace, Ancient Power, Aqua Jet, Aqua Tail, Attract, Bite, Blizzard,
         Brick Break, Captivate, Crunch, Cut, Dig, Dive, Double Team, Dragon Claw,
         Dragon Dance, Endure, Facade, Flail, Fling, Focus Punch, Frustration, Hail,
-        Headbutt, Hidden Power, Hydro Pump, Ice Beam, Ice Fang, Ice Punch, Icy Wind,
-        Iron Tail, Leer, Low Kick, Metal Claw, Mud-Slap, Mud Sport, Natural Gift,
-        Protect, Rage, Rain Dance, Rest, Return, Rock Slide, Rock Tomb, Scary Face,
-        Scratch, Screech, Secret Power, Shadow Claw, Slash, Sleep Talk, Snore, Spite,
-        Substitute, Superpower, Surf, Swagger, Swords Dance, Thrash, Toxic, Uproar,
-        Water Gun, Water Pulse, Water Sport, Waterfall, Whirlpool]
+        Headbutt, Hydro Pump, Ice Beam, Ice Fang, Ice Punch, Icy Wind, Iron Tail,
+        Leer, Low Kick, Metal Claw, Mud-Slap, Mud Sport, Natural Gift, Protect, Rage,
+        Rain Dance, Rest, Return, Rock Slide, Rock Tomb, Scary Face, Scratch, Screech,
+        Secret Power, Shadow Claw, Slash, Sleep Talk, Snore, Spite, Substitute, Superpower,
+        Surf, Swagger, Swords Dance, Thrash, Toxic, Uproar, Water Gun, Water Pulse,
+        Water Sport, Waterfall, Whirlpool, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rs: [Aerial Ace, Ancient Power, Attract, Bite, Blizzard, Body Slam, Brick Break,
         Counter, Crunch, Cut, Dig, Dive, Double-Edge, Double Team, Dragon Claw, Dynamic
-          Punch, Endure, Facade, Focus Punch, Frustration, Hail, Hidden Power, Hydro
-          Pump, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Leer, Mega Kick, Mega Punch,
-        Mimic, Mud-Slap, Mud Sport, Protect, Rage, Rain Dance, Rest, Return, Rock
-          Slide, Scary Face, Scratch, Screech, Secret Power, Seismic Toss, Slash,
-        Sleep Talk, Snore, Substitute, Surf, Swagger, Swords Dance, Thrash, Toxic,
-        Water Gun, Water Pulse, Water Sport, Waterfall]
+          Punch, Endure, Facade, Focus Punch, Frustration, Hail, Hydro Pump, Ice Beam,
+        Ice Punch, Icy Wind, Iron Tail, Leer, Mega Kick, Mega Punch, Mimic, Mud-Slap,
+        Mud Sport, Protect, Rage, Rain Dance, Rest, Return, Rock Slide, Scary Face,
+        Scratch, Screech, Secret Power, Seismic Toss, Slash, Sleep Talk, Snore, Substitute,
+        Surf, Swagger, Swords Dance, Thrash, Toxic, Water Gun, Water Pulse, Water
+          Sport, Waterfall, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - xy: [Aerial Ace, Ancient Power, Aqua Jet, Aqua Tail, Attract, Bite, Blizzard,
         Block, Body Slam, Brick Break, Captivate, Chip Away, Counter, Crunch, Cut,
         Dig, Dive, Double-Edge, Double Team, Dragon Claw, Dragon Dance, Dynamic Punch,
         Endure, Facade, Fake Tears, Flail, Fling, Focus Punch, Frustration, Hail,
-        Headbutt, Hidden Power, Hone Claws, Hydro Pump, Ice Beam, Ice Fang, Ice Punch,
-        Icy Wind, Iron Tail, Leer, Low Kick, Mega Kick, Mega Punch, Metal Claw, Mimic,
-        Mud-Slap, Mud Sport, Natural Gift, Protect, Rage, Rain Dance, Rest, Return,
-        Rock Slide, Rock Tomb, Round, Scald, Scary Face, Scratch, Screech, Secret
-          Power, Seismic Toss, Shadow Claw, Slash, Sleep Talk, Snore, Spite, Substitute,
-        Superpower, Surf, Swagger, Swords Dance, Thrash, Toxic, Uproar, Waterfall,
-        Water Gun, Water Pledge, Water Pulse, Water Sport, Whirlpool, Power-Up Punch,
-        Confide, Flatter]
+        Headbutt, Hone Claws, Hydro Pump, Ice Beam, Ice Fang, Ice Punch, Icy Wind,
+        Iron Tail, Leer, Low Kick, Mega Kick, Mega Punch, Metal Claw, Mimic, Mud-Slap,
+        Mud Sport, Natural Gift, Protect, Rage, Rain Dance, Rest, Return, Rock Slide,
+        Rock Tomb, Round, Scald, Scary Face, Scratch, Screech, Secret Power, Seismic
+          Toss, Shadow Claw, Slash, Sleep Talk, Snore, Spite, Substitute, Superpower,
+        Surf, Swagger, Swords Dance, Thrash, Toxic, Uproar, Waterfall, Water Gun,
+        Water Pledge, Water Pulse, Water Sport, Whirlpool, Power-Up Punch, Confide,
+        Flatter, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [50, 65, 64, 44, 48, 43]
     tags:

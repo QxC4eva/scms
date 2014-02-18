@@ -12,36 +12,55 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Attract, Charm, Curse, Cut, Defense Curl, Double Team, Endure, Flash, Frustration,
-        Fury Cutter, Giga Drain, Growl, Growth, Headbutt, Hidden Power, Leech Seed,
-        Light Screen, Mud-Slap, Petal Dance, Poison Powder, Protect, Razor Leaf, Razor
-          Wind, Rest, Return, Safeguard, Skull Bash, Sleep Powder, Sleep Talk, Snore,
-        Solar Beam, Sunny Day, Swagger, Sweet Scent, Synthesis, Tackle, Toxic, Vine
-          Whip, Ancient Power, Rock Throw]
+        Fury Cutter, Giga Drain, Growl, Growth, Headbutt, Leech Seed, Light Screen,
+        Mud-Slap, Petal Dance, Poison Powder, Protect, Razor Leaf, Razor Wind, Rest,
+        Return, Safeguard, Skull Bash, Sleep Powder, Sleep Talk, Snore, Solar Beam,
+        Sunny Day, Swagger, Sweet Scent, Synthesis, Tackle, Toxic, Vine Whip, Ancient
+          Power, Rock Throw, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - bw: [Amnesia, Attract, Bind, Charm, Curse, Cut, Double-Edge, Double Team, Echoed
           Voice, Endure, Energy Ball, Facade, Flash, Frustration, Giga Drain, Grass
-          Knot, Grass Pledge, Grass Whistle, Growl, Growth, Hidden Power, Ingrain,
-        Knock Off, Leaf Storm, Leech Seed, Light Screen, Magical Leaf, Nature Power,
-        Petal Dance, Poison Powder, Power Whip, Protect, Razor Leaf, Rest, Return,
-        Rock Smash, Round, Safeguard, Seed Bomb, Skull Bash, Sleep Powder, Sleep Talk,
-        Sludge, Sludge Bomb, Snore, Solar Beam, Strength, Substitute, Sunny Day, Swagger,
+          Knot, Grass Pledge, Grass Whistle, Growl, Growth, Ingrain, Knock Off, Leaf
+          Storm, Leech Seed, Light Screen, Magical Leaf, Nature Power, Petal Dance,
+        Poison Powder, Power Whip, Protect, Razor Leaf, Rest, Return, Rock Smash,
+        Round, Safeguard, Seed Bomb, Skull Bash, Sleep Powder, Sleep Talk, Sludge,
+        Sludge Bomb, Snore, Solar Beam, Strength, Substitute, Sunny Day, Swagger,
         Sweet Scent, Swords Dance, Synthesis, Tackle, Take Down, Toxic, Venoshock,
-        Vine Whip, Worry Seed, Block, Weather Ball, False Swipe]
+        Vine Whip, Worry Seed, Block, Weather Ball, False Swipe, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - dp: [Amnesia, Attract, Bullet Seed, Captivate, Charm, Curse, Cut, Double-Edge,
         Double Team, Endure, Energy Ball, Facade, Flash, Frustration, Fury Cutter,
-        Giga Drain, Grass Knot, Grass Whistle, Growl, Growth, Headbutt, Hidden Power,
-        Ingrain, Knock Off, Leaf Storm, Leech Seed, Light Screen, Magical Leaf, Mud-Slap,
-        Natural Gift, Nature Power, Petal Dance, Poison Powder, Power Whip, Protect,
-        Razor Leaf, Rest, Return, Rock Smash, Safeguard, Secret Power, Seed Bomb,
-        Skull Bash, Sleep Powder, Sleep Talk, Sludge, Sludge Bomb, Snore, Solar Beam,
+        Giga Drain, Grass Knot, Grass Whistle, Growl, Growth, Headbutt, Ingrain, Knock
+          Off, Leaf Storm, Leech Seed, Light Screen, Magical Leaf, Mud-Slap, Natural
+          Gift, Nature Power, Petal Dance, Poison Powder, Power Whip, Protect, Razor
+          Leaf, Rest, Return, Rock Smash, Safeguard, Secret Power, Seed Bomb, Skull
+          Bash, Sleep Powder, Sleep Talk, Sludge, Sludge Bomb, Snore, Solar Beam,
         Strength, String Shot, Substitute, Sunny Day, Swagger, Sweet Scent, Swords
-          Dance, Synthesis, Tackle, Take Down, Toxic, Vine Whip, Worry Seed]
+          Dance, Synthesis, Tackle, Take Down, Toxic, Vine Whip, Worry Seed, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rs: [Attract, Body Slam, Bullet Seed, Charm, Curse, Cut, Defense Curl, Double-Edge,
         Double Team, Endure, Facade, Flash, Frustration, Fury Cutter, Giga Drain,
-        Grass Whistle, Growl, Growth, Hidden Power, Leech Seed, Light Screen, Magical
-          Leaf, Mimic, Mud-Slap, Petal Dance, Poison Powder, Protect, Razor Leaf,
-        Rest, Return, Rock Smash, Safeguard, Secret Power, Skull Bash, Sleep Powder,
-        Sleep Talk, Sludge Bomb, Snore, Solar Beam, Strength, Substitute, Sunny Day,
-        Swagger, Sweet Scent, Swords Dance, Synthesis, Tackle, Toxic, Vine Whip]
+        Grass Whistle, Growl, Growth, Leech Seed, Light Screen, Magical Leaf, Mimic,
+        Mud-Slap, Petal Dance, Poison Powder, Protect, Razor Leaf, Rest, Return, Rock
+          Smash, Safeguard, Secret Power, Skull Bash, Sleep Powder, Sleep Talk, Sludge
+          Bomb, Snore, Solar Beam, Strength, Substitute, Sunny Day, Swagger, Sweet
+          Scent, Swords Dance, Synthesis, Tackle, Toxic, Vine Whip, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - rb: [Bide, Body Slam, Cut, Double-Edge, Double Team, Growl, Growth, Leech Seed,
         Mega Drain, Mimic, Poison Powder, Rage, Razor Leaf, Reflect, Rest, Sleep Powder,
         Solar Beam, Substitute, Swords Dance, Tackle, Take Down, Toxic, Vine Whip]
@@ -49,13 +68,17 @@ pokemon:
         Cut, Defense Curl, Double-Edge, Double Team, Echoed Voice, Endure, Energy
           Ball, Facade, False Swipe, Flash, Frenzy Plant, Frustration, Fury Cutter,
         Giga Drain, Grass Knot, Grass Pledge, Grass Whistle, Growl, Growth, Headbutt,
-        Hidden Power, Ingrain, Knock Off, Leaf Storm, Leech Seed, Light Screen, Magical
-          Leaf, Mimic, Mud-Slap, Natural Gift, Nature Power, Petal Dance, Poison Powder,
-        Power Whip, Protect, Razor Leaf, Rest, Return, Rock Smash, Round, Safeguard,
-        Secret Power, Seed Bomb, Skull Bash, Sleep Powder, Sleep Talk, Sludge, Sludge
-          Bomb, Snore, Solar Beam, Strength, String Shot, Substitute, Sunny Day, Swagger,
-        Sweet Scent, Swords Dance, Synthesis, Tackle, Take Down, Toxic, Venoshock,
-        Vine Whip, Weather Ball, Worry Seed, Bind, Confide, Grassy Terrain]
+        Ingrain, Knock Off, Leaf Storm, Leech Seed, Light Screen, Magical Leaf, Mimic,
+        Mud-Slap, Natural Gift, Nature Power, Petal Dance, Poison Powder, Power Whip,
+        Protect, Razor Leaf, Rest, Return, Rock Smash, Round, Safeguard, Secret Power,
+        Seed Bomb, Skull Bash, Sleep Powder, Sleep Talk, Sludge, Sludge Bomb, Snore,
+        Solar Beam, Strength, String Shot, Substitute, Sunny Day, Swagger, Sweet Scent,
+        Swords Dance, Synthesis, Tackle, Take Down, Toxic, Venoshock, Vine Whip, Weather
+          Ball, Worry Seed, Bind, Confide, Grassy Terrain, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [45, 49, 49, 65, 65, 45]
     - gs: [45, 49, 49, 65, 65, 45]

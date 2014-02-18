@@ -33,17 +33,25 @@ pokemon:
     - bw: [Acid, Acid Armor, Attract, Baton Pass, Bide, Body Slam, Bug Bite, Bug Buzz,
         Curse, Double-Edge, Double Team, Encore, Endure, Energy Ball, Facade, Feint,
         Final Gambit, Frustration, Gastro Acid, Giga Drain, Guard Split, Guard Swap,
-        Hidden Power, Leech Life, Mega Drain, Mind Reader, Mud-Slap, Protect, Pursuit,
-        Rain Dance, Recover, Rest, Return, Round, Signal Beam, Sleep Talk, Sludge
-          Bomb, Snore, Spikes, Struggle Bug, Substitute, Swagger, Toxic, Venoshock,
-        Yawn]
+        Leech Life, Mega Drain, Mind Reader, Mud-Slap, Protect, Pursuit, Rain Dance,
+        Recover, Rest, Return, Round, Signal Beam, Sleep Talk, Sludge Bomb, Snore,
+        Spikes, Struggle Bug, Substitute, Swagger, Toxic, Venoshock, Yawn, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - xy: [Acid, Acid Armor, Attract, Baton Pass, Bide, Body Slam, Bug Buzz, Curse,
         Double-Edge, Double Team, Encore, Endure, Energy Ball, Facade, Feint, Final
-          Gambit, Frustration, Giga Drain, Guard Split, Guard Swap, Hidden Power,
-        Leech Life, Mega Drain, Mind Reader, Mud-Slap, Protect, Pursuit, Rain Dance,
-        Recover, Rest, Return, Round, Sludge Bomb, Spikes, Struggle Bug, Substitute,
-        Swagger, Toxic, Venoshock, Yawn, Bug Bite, Signal Beam, Snore, Gastro Acid,
-        Sleep Talk, Infestation, Confide]
+          Gambit, Frustration, Giga Drain, Guard Split, Guard Swap, Leech Life, Mega
+          Drain, Mind Reader, Mud-Slap, Protect, Pursuit, Rain Dance, Recover, Rest,
+        Return, Round, Sludge Bomb, Spikes, Struggle Bug, Substitute, Swagger, Toxic,
+        Venoshock, Yawn, Bug Bite, Signal Beam, Snore, Gastro Acid, Sleep Talk, Infestation,
+        Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [50, 40, 85, 40, 65, 25]
     tags:

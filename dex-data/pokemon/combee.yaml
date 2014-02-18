@@ -34,25 +34,37 @@ pokemon:
     moves:
     - bw: [Acrobatics, Aerial Ace, Air Slash, Attack Order, Attract, Captivate, Confuse
           Ray, Cut, Defend Order, Destiny Bond, Double Team, Facade, Flash, Fling,
-        Frustration, Fury Cutter, Fury Swipes, Giga Impact, Heal Order, Hidden Power,
-        Hone Claws, Hyper Beam, Poison Sting, Power Gem, Protect, Pursuit, Quash,
-        Rain Dance, Rest, Return, Roost, Round, Signal Beam, Slash, Sleep Talk, Sludge
-          Bomb, Struggle Bug, Substitute, Sunny Day, Swagger, Thief, Toxic, U-turn,
-        Venoshock, X-Scissor]
+        Frustration, Fury Cutter, Fury Swipes, Giga Impact, Heal Order, Hone Claws,
+        Hyper Beam, Poison Sting, Power Gem, Protect, Pursuit, Quash, Rain Dance,
+        Rest, Return, Roost, Round, Signal Beam, Slash, Sleep Talk, Sludge Bomb, Struggle
+          Bug, Substitute, Sunny Day, Swagger, Thief, Toxic, U-turn, Venoshock, X-Scissor,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - dp: [Aerial Ace, Attack Order, Attract, Captivate, Confuse Ray, Cut, Defend
           Order, Defog, Destiny Bond, Double Team, Endure, Facade, Flash, Fling, Frustration,
-        Fury Cutter, Fury Swipes, Giga Impact, Heal Order, Hidden Power, Hyper Beam,
-        Natural Gift, Poison Sting, Power Gem, Protect, Pursuit, Rain Dance, Rest,
-        Return, Roost, Secret Power, Signal Beam, Silver Wind, Slash, Sleep Talk,
-        Sludge Bomb, Substitute, Sunny Day, Swagger, Thief, Toxic, U-turn, X-Scissor]
+        Fury Cutter, Fury Swipes, Giga Impact, Heal Order, Hyper Beam, Natural Gift,
+        Poison Sting, Power Gem, Protect, Pursuit, Rain Dance, Rest, Return, Roost,
+        Secret Power, Signal Beam, Silver Wind, Slash, Sleep Talk, Sludge Bomb, Substitute,
+        Sunny Day, Swagger, Thief, Toxic, U-turn, X-Scissor, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Acrobatics, Aerial Ace, Air Slash, Attack Order, Attract, Captivate, Confuse
           Ray, Cut, Defend Order, Defog, Destiny Bond, Double Team, Endure, Facade,
         Flash, Fling, Frustration, Fury Cutter, Fury Swipes, Giga Impact, Heal Order,
-        Hidden Power, Hone Claws, Hyper Beam, Natural Gift, Poison Sting, Power Gem,
-        Protect, Pursuit, Quash, Rain Dance, Rest, Return, Roost, Round, Secret Power,
-        Signal Beam, Silver Wind, Slash, Sleep Talk, Sludge Bomb, Struggle Bug, Substitute,
-        Sunny Day, Swagger, Thief, Toxic, U-turn, Venoshock, X-Scissor, Fell Stinger,
-        Infestation, Confide]
+        Hone Claws, Hyper Beam, Natural Gift, Poison Sting, Power Gem, Protect, Pursuit,
+        Quash, Rain Dance, Rest, Return, Roost, Round, Secret Power, Signal Beam,
+        Silver Wind, Slash, Sleep Talk, Sludge Bomb, Struggle Bug, Substitute, Sunny
+          Day, Swagger, Thief, Toxic, U-turn, Venoshock, X-Scissor, Fell Stinger,
+        Infestation, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [70, 80, 102, 80, 102, 40]
     tags:

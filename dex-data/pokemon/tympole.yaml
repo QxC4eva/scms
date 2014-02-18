@@ -53,17 +53,25 @@ pokemon:
     introduction: bw
     moves:
     - bw: [Aqua Ring, Attract, Bounce, Bubble, Bubble Beam, Double Team, Earth Power,
-        Echoed Voice, Endeavor, Facade, Flail, Frustration, Growl, Hail, Hidden Power,
-        Hydro Pump, Hyper Voice, Icy Wind, Mist, Mud Bomb, Mud Shot, Mud Sport, Muddy
-          Water, Protect, Rain Dance, Refresh, Rest, Return, Round, Scald, Sleep Talk,
-        Sludge Bomb, Sludge Wave, Snore, Substitute, Supersonic, Surf, Swagger, Toxic,
-        Uproar, Water Pulse]
+        Echoed Voice, Endeavor, Facade, Flail, Frustration, Growl, Hail, Hydro Pump,
+        Hyper Voice, Icy Wind, Mist, Mud Bomb, Mud Shot, Mud Sport, Muddy Water, Protect,
+        Rain Dance, Refresh, Rest, Return, Round, Scald, Sleep Talk, Sludge Bomb,
+        Sludge Wave, Snore, Substitute, Supersonic, Surf, Swagger, Toxic, Uproar,
+        Water Pulse, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - xy: [Aqua Ring, Attract, Bubble, Bubble Beam, Double Team, Earth Power, Echoed
-          Voice, Facade, Flail, Frustration, Growl, Hail, Hidden Power, Hydro Pump,
-        Hyper Voice, Mist, Mud Bomb, Muddy Water, Mud Shot, Mud Sport, Protect, Rain
-          Dance, Refresh, Rest, Return, Round, Scald, Sleep Talk, Sludge Bomb, Sludge
-          Wave, Snore, Substitute, Supersonic, Surf, Swagger, Toxic, Uproar, Water
-          Pulse, Bounce, Icy Wind, Endeavor, Infestation, Confide, After You]
+          Voice, Facade, Flail, Frustration, Growl, Hail, Hydro Pump, Hyper Voice,
+        Mist, Mud Bomb, Muddy Water, Mud Shot, Mud Sport, Protect, Rain Dance, Refresh,
+        Rest, Return, Round, Scald, Sleep Talk, Sludge Bomb, Sludge Wave, Snore, Substitute,
+        Supersonic, Surf, Swagger, Toxic, Uproar, Water Pulse, Bounce, Icy Wind, Endeavor,
+        Infestation, Confide, After You, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [50, 50, 40, 50, 40, 64]
     tags:

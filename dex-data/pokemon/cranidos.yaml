@@ -13,35 +13,47 @@ pokemon:
     - bw: [Ancient Power, Assurance, Attract, Blizzard, Bulldoze, Chip Away, Crunch,
         Curse, Dig, Double-Edge, Double Team, Dragon Pulse, Earth Power, Earthquake,
         Endeavor, Facade, Fire Blast, Fire Punch, Flamethrower, Fling, Focus Energy,
-        Frustration, Hammer Arm, Head Smash, Headbutt, Hidden Power, Ice Beam, Incinerate,
-        Iron Head, Iron Tail, Leer, Payback, Protect, Pursuit, Rain Dance, Rest, Return,
+        Frustration, Hammer Arm, Head Smash, Headbutt, Ice Beam, Incinerate, Iron
+          Head, Iron Tail, Leer, Payback, Protect, Pursuit, Rain Dance, Rest, Return,
         Roar, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Round, Sandstorm, Scary
           Face, Screech, Slam, Sleep Talk, Smack Down, Snore, Spite, Stealth Rock,
         Stomp, Stone Edge, Strength, Substitute, Sunny Day, Superpower, Swagger, Swords
           Dance, Take Down, Thief, Thrash, Thunder, Thunderbolt, Thunder Punch, Toxic,
-        Uproar, Whirlwind, Zen Headbutt]
+        Uproar, Whirlwind, Zen Headbutt, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Ancient Power, Assurance, Attract, Blizzard, Captivate, Crunch, Curse,
         Dig, Double-Edge, Double Team, Dragon Pulse, Earth Power, Earthquake, Endeavor,
         Endure, Facade, Fire Blast, Fire Punch, Flamethrower, Fling, Focus Energy,
-        Frustration, Hammer Arm, Head Smash, Headbutt, Hidden Power, Ice Beam, Iron
-          Head, Iron Tail, Leer, Mud-Slap, Natural Gift, Payback, Protect, Pursuit,
-        Rain Dance, Rest, Return, Roar, Rock Climb, Rock Polish, Rock Slide, Rock
-          Smash, Rock Tomb, Sandstorm, Scary Face, Screech, Secret Power, Shock Wave,
-        Slam, Sleep Talk, Snore, Spite, Stealth Rock, Stomp, Stone Edge, Strength,
-        Substitute, Sunny Day, Superpower, Swagger, Swords Dance, Take Down, Thief,
-        Thrash, Thunder, Thunderbolt, Thunder Punch, Toxic, Uproar, Whirlwind, Zen
-          Headbutt]
+        Frustration, Hammer Arm, Head Smash, Headbutt, Ice Beam, Iron Head, Iron Tail,
+        Leer, Mud-Slap, Natural Gift, Payback, Protect, Pursuit, Rain Dance, Rest,
+        Return, Roar, Rock Climb, Rock Polish, Rock Slide, Rock Smash, Rock Tomb,
+        Sandstorm, Scary Face, Screech, Secret Power, Shock Wave, Slam, Sleep Talk,
+        Snore, Spite, Stealth Rock, Stomp, Stone Edge, Strength, Substitute, Sunny
+          Day, Superpower, Swagger, Swords Dance, Take Down, Thief, Thrash, Thunder,
+        Thunderbolt, Thunder Punch, Toxic, Uproar, Whirlwind, Zen Headbutt, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - xy: [Ancient Power, Assurance, Attract, Blizzard, Bulldoze, Captivate, Chip
           Away, Crunch, Curse, Dig, Double-Edge, Double Team, Dragon Pulse, Earth
           Power, Earthquake, Endeavor, Endure, Facade, Fire Blast, Fire Punch, Flamethrower,
-        Fling, Focus Energy, Frustration, Hammer Arm, Headbutt, Head Smash, Hidden
-          Power, Ice Beam, Incinerate, Iron Head, Iron Tail, Leer, Mud-Slap, Natural
-          Gift, Payback, Protect, Pursuit, Rain Dance, Rest, Return, Roar, Rock Climb,
-        Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Round, Sandstorm, Scary Face,
-        Screech, Secret Power, Shock Wave, Slam, Sleep Talk, Smack Down, Snore, Spite,
-        Stealth Rock, Stomp, Stone Edge, Strength, Substitute, Sunny Day, Superpower,
-        Swagger, Swords Dance, Take Down, Thief, Thrash, Thunder, Thunderbolt, Thunder
-          Punch, Toxic, Uproar, Whirlwind, Zen Headbutt, Power-Up Punch, Confide]
+        Fling, Focus Energy, Frustration, Hammer Arm, Headbutt, Head Smash, Ice Beam,
+        Incinerate, Iron Head, Iron Tail, Leer, Mud-Slap, Natural Gift, Payback, Protect,
+        Pursuit, Rain Dance, Rest, Return, Roar, Rock Climb, Rock Polish, Rock Slide,
+        Rock Smash, Rock Tomb, Round, Sandstorm, Scary Face, Screech, Secret Power,
+        Shock Wave, Slam, Sleep Talk, Smack Down, Snore, Spite, Stealth Rock, Stomp,
+        Stone Edge, Strength, Substitute, Sunny Day, Superpower, Swagger, Swords Dance,
+        Take Down, Thief, Thrash, Thunder, Thunderbolt, Thunder Punch, Toxic, Uproar,
+        Whirlwind, Zen Headbutt, Power-Up Punch, Confide, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [67, 125, 40, 30, 30, 58]
     tags:

@@ -75,31 +75,43 @@ pokemon:
     - bw: [Aerial Ace, Attract, Body Slam, Bulldoze, Cut, Dig, Double-Edge, Double
           Team, Draco Meteor, Dragon Claw, Dragon Pulse, Dragon Rage, Dragon Rush,
         Dragon Breath, Earth Power, Earthquake, Facade, Fire Blast, Flamethrower,
-        Frustration, Hidden Power, Hone Claws, Incinerate, Iron Head, Iron Tail, Metal
-          Claw, Mud Shot, Outrage, Protect, Rain Dance, Rest, Return, Roar, Rock Climb,
-        Rock Slide, Rock Smash, Rock Tomb, Round, Sand Attack, Sand Tomb, Sandstorm,
+        Frustration, Hone Claws, Incinerate, Iron Head, Iron Tail, Metal Claw, Mud
+          Shot, Outrage, Protect, Rain Dance, Rest, Return, Roar, Rock Climb, Rock
+          Slide, Rock Smash, Rock Tomb, Round, Sand Attack, Sand Tomb, Sandstorm,
         Scary Face, Shadow Claw, Slash, Sleep Talk, Snore, Stealth Rock, Stone Edge,
         Strength, Substitute, Sunny Day, Swagger, Tackle, Take Down, Thrash, Toxic,
-        Twister]
+        Twister, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - dp: [Aerial Ace, Attract, Body Slam, Captivate, Cut, Dig, Double-Edge, Double
           Team, Draco Meteor, Dragon Claw, Dragon Pulse, Dragon Rage, Dragon Rush,
         Dragon Breath, Earth Power, Earthquake, Endure, Facade, Fire Blast, Flamethrower,
-        Frustration, Fury Cutter, Headbutt, Hidden Power, Iron Head, Metal Claw, Mud
-          Shot, Mud-Slap, Natural Gift, Outrage, Protect, Rain Dance, Rest, Return,
-        Roar, Rock Climb, Rock Slide, Rock Smash, Rock Tomb, Sand Attack, Sand Tomb,
-        Sandstorm, Scary Face, Secret Power, Shadow Claw, Slash, Sleep Talk, Snore,
-        Stealth Rock, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Swift,
-        Tackle, Take Down, Thrash, Toxic, Twister]
+        Frustration, Fury Cutter, Headbutt, Iron Head, Metal Claw, Mud Shot, Mud-Slap,
+        Natural Gift, Outrage, Protect, Rain Dance, Rest, Return, Roar, Rock Climb,
+        Rock Slide, Rock Smash, Rock Tomb, Sand Attack, Sand Tomb, Sandstorm, Scary
+          Face, Secret Power, Shadow Claw, Slash, Sleep Talk, Snore, Stealth Rock,
+        Stone Edge, Strength, Substitute, Sunny Day, Swagger, Swift, Tackle, Take
+          Down, Thrash, Toxic, Twister, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Aerial Ace, Attract, Body Slam, Bulldoze, Captivate, Cut, Dig, Double-Edge,
         Double Team, Draco Meteor, Dragon Breath, Dragon Claw, Dragon Pulse, Dragon
           Rage, Dragon Rush, Earth Power, Earthquake, Endure, Facade, Fire Blast,
-        Flamethrower, Frustration, Fury Cutter, Headbutt, Hidden Power, Hone Claws,
-        Incinerate, Iron Head, Iron Tail, Metal Claw, Mud Shot, Mud-Slap, Natural
-          Gift, Outrage, Protect, Rain Dance, Rest, Return, Roar, Rock Climb, Rock
-          Slide, Rock Smash, Rock Tomb, Round, Sand Attack, Sandstorm, Sand Tomb,
-        Scary Face, Secret Power, Shadow Claw, Slash, Sleep Talk, Snore, Stealth Rock,
-        Stone Edge, Strength, Substitute, Sunny Day, Swagger, Swift, Tackle, Take
-          Down, Thrash, Toxic, Twister, Confide]
+        Flamethrower, Frustration, Fury Cutter, Headbutt, Hone Claws, Incinerate,
+        Iron Head, Iron Tail, Metal Claw, Mud Shot, Mud-Slap, Natural Gift, Outrage,
+        Protect, Rain Dance, Rest, Return, Roar, Rock Climb, Rock Slide, Rock Smash,
+        Rock Tomb, Round, Sand Attack, Sandstorm, Sand Tomb, Scary Face, Secret Power,
+        Shadow Claw, Slash, Sleep Talk, Snore, Stealth Rock, Stone Edge, Strength,
+        Substitute, Sunny Day, Swagger, Swift, Tackle, Take Down, Thrash, Toxic, Twister,
+        Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [58, 70, 45, 40, 45, 42]
     tags:

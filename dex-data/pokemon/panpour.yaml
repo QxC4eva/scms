@@ -11,22 +11,30 @@ pokemon:
     moves:
     - bw: [Acrobatics, Aqua Ring, Aqua Tail, Astonish, Attract, Bite, Blizzard, Brine,
         Covet, Crunch, Cut, Dig, Dive, Double Team, Endeavor, Facade, Fling, Frustration,
-        Fury Swipes, Grass Knot, Gunk Shot, Hail, Helping Hand, Hidden Power, Hone
-          Claws, Hydro Pump, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Knock Off,
-        Leer, Lick, Low Kick, Low Sweep, Mud Sport, Nasty Plot, Natural Gift, Payback,
-        Protect, Rain Dance, Recycle, Rest, Return, Rock Smash, Rock Tomb, Role Play,
-        Round, Scald, Scratch, Shadow Claw, Sleep Talk, Snore, Substitute, Surf, Swagger,
+        Fury Swipes, Grass Knot, Gunk Shot, Hail, Helping Hand, Hone Claws, Hydro
+          Pump, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Knock Off, Leer, Lick, Low
+          Kick, Low Sweep, Mud Sport, Nasty Plot, Natural Gift, Payback, Protect,
+        Rain Dance, Recycle, Rest, Return, Rock Smash, Rock Tomb, Role Play, Round,
+        Scald, Scratch, Shadow Claw, Sleep Talk, Snore, Substitute, Surf, Swagger,
         Taunt, Thief, Tickle, Torment, Toxic, Uproar, Water Gun, Water Sport, Waterfall,
-        Work Up]
+        Work Up, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - xy: [Acrobatics, Aqua Ring, Aqua Tail, Astonish, Attract, Bite, Blizzard, Brine,
         Covet, Crunch, Cut, Dig, Dive, Double Team, Facade, Fling, Frustration, Fury
-          Swipes, Grass Knot, Hail, Hidden Power, Hone Claws, Hydro Pump, Ice Beam,
-        Leer, Lick, Low Kick, Low Sweep, Mud Sport, Nasty Plot, Natural Gift, Payback,
-        Protect, Rain Dance, Recycle, Rest, Return, Rock Smash, Rock Tomb, Role Play,
-        Round, Scald, Scratch, Shadow Claw, Substitute, Surf, Swagger, Taunt, Thief,
-        Tickle, Torment, Toxic, Waterfall, Water Gun, Water Sport, Work Up, Gunk Shot,
-        Uproar, Ice Punch, Icy Wind, Iron Tail, Snore, Knock Off, Helping Hand, Endeavor,
-        Sleep Talk, Play Nice, Confide, Disarming Voice]
+          Swipes, Grass Knot, Hail, Hone Claws, Hydro Pump, Ice Beam, Leer, Lick,
+        Low Kick, Low Sweep, Mud Sport, Nasty Plot, Natural Gift, Payback, Protect,
+        Rain Dance, Recycle, Rest, Return, Rock Smash, Rock Tomb, Role Play, Round,
+        Scald, Scratch, Shadow Claw, Substitute, Surf, Swagger, Taunt, Thief, Tickle,
+        Torment, Toxic, Waterfall, Water Gun, Water Sport, Work Up, Gunk Shot, Uproar,
+        Ice Punch, Icy Wind, Iron Tail, Snore, Knock Off, Helping Hand, Endeavor,
+        Sleep Talk, Play Nice, Confide, Disarming Voice, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     - []
     stats:
     - [50, 53, 48, 53, 48, 64]

@@ -13,47 +13,67 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Agility, Curse, Detect, Double Team, Drill Peck, Endure, Flash, Fly, Frustration,
-        Hidden Power, Hyper Beam, Light Screen, Mud-Slap, Peck, Protect, Rain Dance,
-        Rest, Return, Roar, Rock Smash, Sandstorm, Sleep Talk, Snore, Steel Wing,
-        Sunny Day, Swagger, Swift, Thunder, Thunder Wave, Thunderbolt, Thunder Shock,
-        Toxic, Zap Cannon]
+        Hyper Beam, Light Screen, Mud-Slap, Peck, Protect, Rain Dance, Rest, Return,
+        Roar, Rock Smash, Sandstorm, Sleep Talk, Snore, Steel Wing, Sunny Day, Swagger,
+        Swift, Thunder, Thunder Wave, Thunderbolt, Thunder Shock, Toxic, Zap Cannon,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - bw: [Aerial Ace, Agility, Ancient Power, Charge, Charge Beam, Detect, Discharge,
         Double Team, Drill Peck, Facade, Flash, Fly, Frustration, Giga Impact, Heat
-          Wave, Hidden Power, Hyper Beam, Light Screen, Peck, Pluck, Protect, Rain
-          Dance, Rest, Return, Roar, Rock Smash, Roost, Round, Sandstorm, Signal Beam,
-        Sky Attack, Sky Drop, Sleep Talk, Snore, Substitute, Sunny Day, Swagger, Tailwind,
-        Thunder, Thunder Wave, Thunderbolt, Thunder Shock, Toxic, U-turn, Volt Switch,
-        Wild Charge, Zap Cannon, Baton Pass, Double-Edge, Extrasensory, Metal Sound,
-        Mimic, Sky Attack]
+          Wave, Hyper Beam, Light Screen, Peck, Pluck, Protect, Rain Dance, Rest,
+        Return, Roar, Rock Smash, Roost, Round, Sandstorm, Signal Beam, Sky Attack,
+        Sky Drop, Sleep Talk, Snore, Substitute, Sunny Day, Swagger, Tailwind, Thunder,
+        Thunder Wave, Thunderbolt, Thunder Shock, Toxic, U-turn, Volt Switch, Wild
+          Charge, Zap Cannon, Baton Pass, Double-Edge, Extrasensory, Metal Sound,
+        Mimic, Sky Attack, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - dp: [Aerial Ace, Agility, Air Cutter, Ancient Power, Charge, Charge Beam, Defog,
         Detect, Discharge, Double Team, Drill Peck, Endure, Facade, Flash, Fly, Frustration,
-        Giga Impact, Heat Wave, Hidden Power, Hyper Beam, Light Screen, Mud-Slap,
-        Natural Gift, Ominous Wind, Peck, Pluck, Protect, Rain Dance, Rest, Return,
-        Roar, Rock Smash, Roost, Sandstorm, Secret Power, Shock Wave, Signal Beam,
-        Sky Attack, Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day, Swagger,
-        Swift, Tailwind, Thunder, Thunder Wave, Thunderbolt, Thunder Shock, Toxic,
-        Twister, U-turn, Baton Pass, Double-Edge, Extrasensory, Metal Sound, Mimic,
-        Sky Attack]
+        Giga Impact, Heat Wave, Hyper Beam, Light Screen, Mud-Slap, Natural Gift,
+        Ominous Wind, Peck, Pluck, Protect, Rain Dance, Rest, Return, Roar, Rock Smash,
+        Roost, Sandstorm, Secret Power, Shock Wave, Signal Beam, Sky Attack, Sleep
+          Talk, Snore, Steel Wing, Substitute, Sunny Day, Swagger, Swift, Tailwind,
+        Thunder, Thunder Wave, Thunderbolt, Thunder Shock, Toxic, Twister, U-turn,
+        Baton Pass, Double-Edge, Extrasensory, Metal Sound, Mimic, Sky Attack, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rs: [Aerial Ace, Agility, Charge, Detect, Double-Edge, Double Team, Drill Peck,
-        Endure, Facade, Flash, Fly, Frustration, Hidden Power, Hyper Beam, Light Screen,
-        Mimic, Mud-Slap, Peck, Protect, Rain Dance, Rest, Return, Roar, Rock Smash,
-        Sandstorm, Secret Power, Shock Wave, Sky Attack, Sleep Talk, Snore, Steel
-          Wing, Substitute, Sunny Day, Swagger, Swift, Thunder, Thunder Wave, Thunderbolt,
-        Thunder Shock, Toxic, Baton Pass, Double-Edge, Extrasensory, Metal Sound,
-        Mimic, Sky Attack]
+        Endure, Facade, Flash, Fly, Frustration, Hyper Beam, Light Screen, Mimic,
+        Mud-Slap, Peck, Protect, Rain Dance, Rest, Return, Roar, Rock Smash, Sandstorm,
+        Secret Power, Shock Wave, Sky Attack, Sleep Talk, Snore, Steel Wing, Substitute,
+        Sunny Day, Swagger, Swift, Thunder, Thunder Wave, Thunderbolt, Thunder Shock,
+        Toxic, Baton Pass, Double-Edge, Extrasensory, Metal Sound, Mimic, Sky Attack,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rb: [Agility, Bide, Double-Edge, Double Team, Drill Peck, Flash, Fly, Hyper
           Beam, Light Screen, Mimic, Rage, Razor Wind, Reflect, Rest, Sky Attack,
         Substitute, Swift, Take Down, Thunder, Thunder Wave, Thunderbolt, Thunder
           Shock, Toxic, Whirlwind]
     - xy: [Aerial Ace, Agility, Air Cutter, Ancient Power, Baton Pass, Charge, Charge
           Beam, Defog, Detect, Discharge, Double-Edge, Double Team, Drill Peck, Endure,
-        Extrasensory, Facade, Flash, Fly, Frustration, Giga Impact, Heat Wave, Hidden
-          Power, Hyper Beam, Light Screen, Metal Sound, Mimic, Mud-Slap, Natural Gift,
-        Ominous Wind, Peck, Pluck, Protect, Rain Dance, Rest, Return, Roar, Rock Smash,
+        Extrasensory, Facade, Flash, Fly, Frustration, Giga Impact, Heat Wave, Hyper
+          Beam, Light Screen, Metal Sound, Mimic, Mud-Slap, Natural Gift, Ominous
+          Wind, Peck, Pluck, Protect, Rain Dance, Rest, Return, Roar, Rock Smash,
         Roost, Round, Sandstorm, Secret Power, Shock Wave, Signal Beam, Sky Attack,
         Sky Drop, Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day, Swagger, Swift,
         Tailwind, Thunder, Thunderbolt, Thunder Shock, Thunder Wave, Toxic, Twister,
-        U-turn, Volt Switch, Wild Charge, Zap Cannon, Confide]
+        U-turn, Volt Switch, Wild Charge, Zap Cannon, Confide, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [90, 90, 85, 125, 125, 100]
     - gs: [90, 90, 85, 125, 90, 100]

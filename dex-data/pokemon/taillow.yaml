@@ -36,31 +36,48 @@ pokemon:
     moves:
     - bw: [Aerial Ace, Agility, Air Slash, Attract, Brave Bird, Defog, Double Team,
         Echoed Voice, Endeavor, Facade, Fly, Focus Energy, Frustration, Growl, Heat
-          Wave, Hidden Power, Mirror Move, Peck, Pluck, Protect, Pursuit, Quick Attack,
-        Rage, Rain Dance, Refresh, Rest, Return, Roost, Round, Sky Attack, Sleep Talk,
-        Snore, Steel Wing, Substitute, Sunny Day, Supersonic, Swagger, Tailwind, Thief,
-        Toxic, U-turn, Whirlwind, Wing Attack, Work Up, Double-Edge, Mimic]
+          Wave, Mirror Move, Peck, Pluck, Protect, Pursuit, Quick Attack, Rage, Rain
+          Dance, Refresh, Rest, Return, Roost, Round, Sky Attack, Sleep Talk, Snore,
+        Steel Wing, Substitute, Sunny Day, Supersonic, Swagger, Tailwind, Thief, Toxic,
+        U-turn, Whirlwind, Wing Attack, Work Up, Double-Edge, Mimic, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - dp: [Aerial Ace, Agility, Air Cutter, Air Slash, Attract, Brave Bird, Captivate,
         Defog, Double Team, Endeavor, Endure, Facade, Fly, Focus Energy, Frustration,
-        Growl, Heat Wave, Hidden Power, Mirror Move, Mud-Slap, Natural Gift, Ominous
-          Wind, Peck, Pluck, Protect, Pursuit, Quick Attack, Rage, Rain Dance, Refresh,
-        Rest, Return, Roost, Secret Power, Sky Attack, Sleep Talk, Snore, Steel Wing,
-        Substitute, Sunny Day, Supersonic, Swagger, Swift, Tailwind, Thief, Toxic,
-        Twister, U-turn, Whirlwind, Wing Attack, Double-Edge, Mimic]
+        Growl, Heat Wave, Mirror Move, Mud-Slap, Natural Gift, Ominous Wind, Peck,
+        Pluck, Protect, Pursuit, Quick Attack, Rage, Rain Dance, Refresh, Rest, Return,
+        Roost, Secret Power, Sky Attack, Sleep Talk, Snore, Steel Wing, Substitute,
+        Sunny Day, Supersonic, Swagger, Swift, Tailwind, Thief, Toxic, Twister, U-turn,
+        Whirlwind, Wing Attack, Double-Edge, Mimic, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rs: [Aerial Ace, Agility, Attract, Counter, Double-Edge, Double Team, Endeavor,
-        Endure, Facade, Fly, Focus Energy, Frustration, Growl, Hidden Power, Mimic,
-        Mirror Move, Mud-Slap, Peck, Protect, Pursuit, Quick Attack, Rage, Rain Dance,
-        Refresh, Rest, Return, Secret Power, Sky Attack, Sleep Talk, Snore, Steel
-          Wing, Substitute, Sunny Day, Supersonic, Swagger, Swift, Thief, Toxic, Wing
-          Attack, Double-Edge, Mimic]
+        Endure, Facade, Fly, Focus Energy, Frustration, Growl, Mimic, Mirror Move,
+        Mud-Slap, Peck, Protect, Pursuit, Quick Attack, Rage, Rain Dance, Refresh,
+        Rest, Return, Secret Power, Sky Attack, Sleep Talk, Snore, Steel Wing, Substitute,
+        Sunny Day, Supersonic, Swagger, Swift, Thief, Toxic, Wing Attack, Double-Edge,
+        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - xy: [Aerial Ace, Agility, Air Cutter, Air Slash, Attract, Brave Bird, Captivate,
         Counter, Defog, Double-Edge, Double Team, Echoed Voice, Endeavor, Endure,
-        Facade, Feather Dance, Fly, Focus Energy, Frustration, Growl, Heat Wave, Hidden
-          Power, Mimic, Mirror Move, Mud-Slap, Natural Gift, Ominous Wind, Peck, Pluck,
-        Protect, Pursuit, Quick Attack, Rage, Rain Dance, Refresh, Rest, Return, Roost,
-        Round, Secret Power, Sky Attack, Sleep Talk, Snore, Steel Wing, Substitute,
-        Sunny Day, Supersonic, Swagger, Swift, Tailwind, Thief, Toxic, Twister, U-turn,
-        Whirlwind, Wing Attack, Work Up, Confide, Boomburst]
+        Facade, Feather Dance, Fly, Focus Energy, Frustration, Growl, Heat Wave, Mimic,
+        Mirror Move, Mud-Slap, Natural Gift, Ominous Wind, Peck, Pluck, Protect, Pursuit,
+        Quick Attack, Rage, Rain Dance, Refresh, Rest, Return, Roost, Round, Secret
+          Power, Sky Attack, Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day,
+        Supersonic, Swagger, Swift, Tailwind, Thief, Toxic, Twister, U-turn, Whirlwind,
+        Wing Attack, Work Up, Confide, Boomburst, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [40, 55, 30, 30, 30, 85]
     tags:

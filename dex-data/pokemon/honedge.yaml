@@ -48,10 +48,14 @@ pokemon:
     moves:
     - xy: [Tackle, Swords Dance, Fury Cutter, Metal Sound, Pursuit, Autotomize, Shadow
           Sneak, Aerial Ace, Retaliate, Slash, Iron Defense, Night Slash, Power Trick,
-        Iron Head, Sacred Sword, Toxic, Hidden Power, Protect, Rain Dance, Frustration,
-        Return, Brick Break, Double Team, Reflect, Facade, Rest, Attract, False Swipe,
-        Shadow Claw, Gyro Ball, Rock Slide, Swagger, Sleep Talk, Substitute, Flash
-          Cannon, Rock Smash, Confide, Cut, Wide Guard, Destiny Bond]
+        Iron Head, Sacred Sword, Toxic, Protect, Rain Dance, Frustration, Return,
+        Brick Break, Double Team, Reflect, Facade, Rest, Attract, False Swipe, Shadow
+          Claw, Gyro Ball, Rock Slide, Swagger, Sleep Talk, Substitute, Flash Cannon,
+        Rock Smash, Confide, Cut, Wide Guard, Destiny Bond, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [45, 80, 100, 35, 37, 28]
     tags:

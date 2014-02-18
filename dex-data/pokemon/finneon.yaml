@@ -11,26 +11,38 @@ pokemon:
     moves:
     - bw: [Agility, Aqua Ring, Aqua Tail, Attract, Aurora Beam, Blizzard, Bounce,
         Brine, Captivate, Charm, Dive, Double Team, Facade, Flail, Flash, Frustration,
-        Gust, Hail, Hidden Power, Ice Beam, Icy Wind, Payback, Pound, Protect, Psybeam,
-        Psych Up, Rain Dance, Rest, Return, Round, Safeguard, Scald, Signal Beam,
-        Silver Wind, Sleep Talk, Snore, Soak, Splash, Substitute, Surf, Swagger, Sweet
-          Kiss, Tailwind, Tickle, Toxic, U-turn, Water Gun, Water Pulse, Waterfall,
-        Whirlpool]
+        Gust, Hail, Ice Beam, Icy Wind, Payback, Pound, Protect, Psybeam, Psych Up,
+        Rain Dance, Rest, Return, Round, Safeguard, Scald, Signal Beam, Silver Wind,
+        Sleep Talk, Snore, Soak, Splash, Substitute, Surf, Swagger, Sweet Kiss, Tailwind,
+        Tickle, Toxic, U-turn, Water Gun, Water Pulse, Waterfall, Whirlpool, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - dp: [Agility, Air Cutter, Aqua Ring, Aqua Tail, Attract, Blizzard, Bounce, Brine,
         Captivate, Charm, Defog, Dive, Double Team, Endure, Facade, Flail, Flash,
-        Frustration, Gust, Hail, Hidden Power, Ice Beam, Icy Wind, Natural Gift, Ominous
-          Wind, Payback, Pound, Protect, Psybeam, Psych Up, Rain Dance, Rest, Return,
-        Safeguard, Secret Power, Silver Wind, Sleep Talk, Snore, Splash, Substitute,
-        Surf, Swagger, Sweet Kiss, Swift, Tailwind, Tickle, Toxic, Twister, U-turn,
-        Water Gun, Water Pulse, Waterfall, Whirlpool]
+        Frustration, Gust, Hail, Ice Beam, Icy Wind, Natural Gift, Ominous Wind, Payback,
+        Pound, Protect, Psybeam, Psych Up, Rain Dance, Rest, Return, Safeguard, Secret
+          Power, Silver Wind, Sleep Talk, Snore, Splash, Substitute, Surf, Swagger,
+        Sweet Kiss, Swift, Tailwind, Tickle, Toxic, Twister, U-turn, Water Gun, Water
+          Pulse, Waterfall, Whirlpool, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Agility, Air Cutter, Aqua Ring, Aqua Tail, Attract, Aurora Beam, Blizzard,
         Bounce, Brine, Captivate, Charm, Defog, Dive, Double Team, Endure, Facade,
-        Flail, Flash, Frustration, Gust, Hail, Hidden Power, Ice Beam, Icy Wind, Natural
-          Gift, Ominous Wind, Payback, Pound, Protect, Psybeam, Psych Up, Rain Dance,
-        Rest, Return, Round, Safeguard, Scald, Secret Power, Signal Beam, Silver Wind,
-        Sleep Talk, Snore, Soak, Splash, Substitute, Surf, Swagger, Sweet Kiss, Swift,
-        Tailwind, Tickle, Toxic, Twister, U-turn, Waterfall, Water Gun, Water Pulse,
-        Whirlpool, Nature Power, Confide]
+        Flail, Flash, Frustration, Gust, Hail, Ice Beam, Icy Wind, Natural Gift, Ominous
+          Wind, Payback, Pound, Protect, Psybeam, Psych Up, Rain Dance, Rest, Return,
+        Round, Safeguard, Scald, Secret Power, Signal Beam, Silver Wind, Sleep Talk,
+        Snore, Soak, Splash, Substitute, Surf, Swagger, Sweet Kiss, Swift, Tailwind,
+        Tickle, Toxic, Twister, U-turn, Waterfall, Water Gun, Water Pulse, Whirlpool,
+        Nature Power, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [49, 49, 56, 49, 61, 66]
     tags:

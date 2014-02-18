@@ -11,26 +11,40 @@ pokemon:
     moves:
     - bw: [Aromatherapy, Covet, Double Team, Earth Power, Endeavor, Energy Ball, Facade,
         Flash, Frustration, Giga Drain, Giga Impact, Grass Knot, Growth, Healing Wish,
-        Hidden Power, Hyper Beam, Last Resort, Leech Seed, Magical Leaf, Natural Gift,
-        Protect, Psych Up, Psychic, Rest, Return, Round, Safeguard, Seed Bomb, Seed
-          Flare, Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day, Swagger, Sweet
-          Kiss, Sweet Scent, Swords Dance, Synthesis, Toxic, Worry Seed, Zen Headbutt]
+        Hyper Beam, Last Resort, Leech Seed, Magical Leaf, Natural Gift, Protect,
+        Psych Up, Psychic, Rest, Return, Round, Safeguard, Seed Bomb, Seed Flare,
+        Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day, Swagger, Sweet Kiss,
+        Sweet Scent, Swords Dance, Synthesis, Toxic, Worry Seed, Zen Headbutt, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - dp: [Aromatherapy, Bullet Seed, Defense Curl, Double Team, Earth Power, Endeavor,
         Endure, Energy Ball, Facade, Flash, Frustration, Giga Drain, Giga Impact,
-        Grass Knot, Grass Whistle, Growth, Headbutt, Healing Wish, Hidden Power, Hyper
-          Beam, Last Resort, Leech Seed, Lucky Chant, Magical Leaf, Mud-Slap, Natural
-          Gift, Protect, Psych Up, Psychic, Rest, Return, Safeguard, Secret Power,
-        Seed Bomb, Seed Flare, Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day,
-        Swagger, Sweet Kiss, Sweet Scent, Swift, Swords Dance, Synthesis, Toxic, Worry
-          Seed, Zen Headbutt]
+        Grass Knot, Grass Whistle, Growth, Headbutt, Healing Wish, Hyper Beam, Last
+          Resort, Leech Seed, Lucky Chant, Magical Leaf, Mud-Slap, Natural Gift, Protect,
+        Psych Up, Psychic, Rest, Return, Safeguard, Secret Power, Seed Bomb, Seed
+          Flare, Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day, Swagger, Sweet
+          Kiss, Sweet Scent, Swift, Swords Dance, Synthesis, Toxic, Worry Seed, Zen
+          Headbutt, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - xy: [Aromatherapy, Bullet Seed, Defense Curl, Double Team, Earth Power, Endeavor,
         Endure, Energy Ball, Facade, Flash, Frustration, Giga Drain, Giga Impact,
-        Grass Knot, Grass Whistle, Growth, Headbutt, Healing Wish, Hidden Power, Hyper
-          Beam, Last Resort, Leech Seed, Lucky Chant, Magical Leaf, Mud-Slap, Natural
-          Gift, Protect, Psychic, Psych Up, Rest, Return, Round, Safeguard, Secret
-          Power, Seed Bomb, Seed Flare, Sleep Talk, Snore, Solar Beam, Substitute,
-        Sunny Day, Swagger, Sweet Kiss, Sweet Scent, Swift, Swords Dance, Synthesis,
-        Toxic, Worry Seed, Zen Headbutt, Covet, Nature Power, Dazzling Gleam, Confide]
+        Grass Knot, Grass Whistle, Growth, Headbutt, Healing Wish, Hyper Beam, Last
+          Resort, Leech Seed, Lucky Chant, Magical Leaf, Mud-Slap, Natural Gift, Protect,
+        Psychic, Psych Up, Rest, Return, Round, Safeguard, Secret Power, Seed Bomb,
+        Seed Flare, Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day, Swagger,
+        Sweet Kiss, Sweet Scent, Swift, Swords Dance, Synthesis, Toxic, Worry Seed,
+        Zen Headbutt, Covet, Nature Power, Dazzling Gleam, Confide, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     stats:
     - [100, 100, 100, 100, 100, 100]
     tags:

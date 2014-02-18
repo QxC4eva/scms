@@ -10,9 +10,22 @@ pokemon:
     height: [0.2]
     introduction: dp
     moves:
-    - bw: [Bug Bite, Electroweb, Hidden Power, Protect, Snore, Tackle]
-    - dp: [Bug Bite, Hidden Power, Protect, Snore, String Shot, Tackle]
-    - xy: [Bug Bite, Hidden Power, Protect, Snore, String Shot, Tackle, Electroweb]
+    - bw: [Bug Bite, Electroweb, Protect, Snore, Tackle, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Bug Bite, Protect, Snore, String Shot, Tackle, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Bug Bite, Protect, Snore, String Shot, Tackle, Electroweb, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     stats:
     - [40, 29, 45, 29, 45, 36]
     tags:

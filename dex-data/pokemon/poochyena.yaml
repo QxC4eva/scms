@@ -35,37 +35,54 @@ pokemon:
     introduction: rs
     moves:
     - bw: [Assurance, Astonish, Attract, Bite, Covet, Crunch, Dark Pulse, Dig, Double
-          Team, Embargo, Facade, Fire Fang, Foul Play, Frustration, Hidden Power,
-        Howl, Hyper Voice, Ice Fang, Incinerate, Iron Tail, Leer, Me First, Odor Sleuth,
-        Payback, Poison Fang, Protect, Rain Dance, Rest, Retaliate, Return, Roar,
-        Rock Smash, Round, Sand Attack, Scary Face, Shadow Ball, Sleep Talk, Snarl,
-        Snatch, Snore, Spite, Substitute, Sucker Punch, Sunny Day, Super Fang, Swagger,
-        Tackle, Take Down, Taunt, Thief, Thunder Fang, Torment, Toxic, Uproar, Yawn,
-        Body Slam, Double-Edge, Heal Bell, Mimic]
+          Team, Embargo, Facade, Fire Fang, Foul Play, Frustration, Howl, Hyper Voice,
+        Ice Fang, Incinerate, Iron Tail, Leer, Me First, Odor Sleuth, Payback, Poison
+          Fang, Protect, Rain Dance, Rest, Retaliate, Return, Roar, Rock Smash, Round,
+        Sand Attack, Scary Face, Shadow Ball, Sleep Talk, Snarl, Snatch, Snore, Spite,
+        Substitute, Sucker Punch, Sunny Day, Super Fang, Swagger, Tackle, Take Down,
+        Taunt, Thief, Thunder Fang, Torment, Toxic, Uproar, Yawn, Body Slam, Double-Edge,
+        Heal Bell, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - dp: [Assurance, Astonish, Attract, Bite, Captivate, Covet, Crunch, Dark Pulse,
         Dig, Double Team, Embargo, Endure, Facade, Fire Fang, Frustration, Headbutt,
-        Hidden Power, Howl, Ice Fang, Iron Tail, Leer, Me First, Mud-Slap, Natural
-          Gift, Odor Sleuth, Payback, Poison Fang, Protect, Rain Dance, Rest, Return,
-        Roar, Rock Smash, Sand Attack, Scary Face, Secret Power, Shadow Ball, Sleep
-          Talk, Snatch, Snore, Spite, Substitute, Sucker Punch, Sunny Day, Super Fang,
-        Swagger, Tackle, Take Down, Taunt, Thief, Thunder Fang, Torment, Toxic, Uproar,
-        Yawn, Body Slam, Double-Edge, Heal Bell, Mimic]
+        Howl, Ice Fang, Iron Tail, Leer, Me First, Mud-Slap, Natural Gift, Odor Sleuth,
+        Payback, Poison Fang, Protect, Rain Dance, Rest, Return, Roar, Rock Smash,
+        Sand Attack, Scary Face, Secret Power, Shadow Ball, Sleep Talk, Snatch, Snore,
+        Spite, Substitute, Sucker Punch, Sunny Day, Super Fang, Swagger, Tackle, Take
+          Down, Taunt, Thief, Thunder Fang, Torment, Toxic, Uproar, Yawn, Body Slam,
+        Double-Edge, Heal Bell, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rs: [Astonish, Attract, Bite, Body Slam, Counter, Covet, Crunch, Dig, Double-Edge,
-        Double Team, Endure, Facade, Frustration, Hidden Power, Howl, Iron Tail, Leer,
-        Mimic, Mud-Slap, Odor Sleuth, Poison Fang, Protect, Psych Up, Rain Dance,
-        Rest, Return, Roar, Rock Smash, Sand Attack, Scary Face, Secret Power, Shadow
-          Ball, Sleep Talk, Snatch, Snore, Substitute, Sunny Day, Swagger, Tackle,
-        Take Down, Taunt, Thief, Torment, Toxic, Yawn, Body Slam, Double-Edge, Heal
-          Bell, Mimic]
+        Double Team, Endure, Facade, Frustration, Howl, Iron Tail, Leer, Mimic, Mud-Slap,
+        Odor Sleuth, Poison Fang, Protect, Psych Up, Rain Dance, Rest, Return, Roar,
+        Rock Smash, Sand Attack, Scary Face, Secret Power, Shadow Ball, Sleep Talk,
+        Snatch, Snore, Substitute, Sunny Day, Swagger, Tackle, Take Down, Taunt, Thief,
+        Torment, Toxic, Yawn, Body Slam, Double-Edge, Heal Bell, Mimic, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - xy: [Assurance, Astonish, Attract, Bite, Body Slam, Captivate, Counter, Covet,
         Crunch, Dark Pulse, Dig, Double-Edge, Double Team, Embargo, Endure, Facade,
-        Fire Fang, Frustration, Headbutt, Heal Bell, Hidden Power, Howl, Ice Fang,
-        Incinerate, Iron Tail, Leer, Me First, Mimic, Mud-Slap, Natural Gift, Odor
-          Sleuth, Payback, Poison Fang, Protect, Psych Up, Rain Dance, Rest, Retaliate,
-        Return, Roar, Rock Smash, Round, Sand Attack, Scary Face, Secret Power, Shadow
-          Ball, Sleep Talk, Snarl, Snatch, Snore, Spite, Substitute, Sucker Punch,
-        Sunny Day, Super Fang, Swagger, Tackle, Take Down, Taunt, Thief, Thunder Fang,
-        Torment, Toxic, Uproar, Yawn, Foul Play, Hyper Voice, Confide, Play Rough]
+        Fire Fang, Frustration, Headbutt, Heal Bell, Howl, Ice Fang, Incinerate, Iron
+          Tail, Leer, Me First, Mimic, Mud-Slap, Natural Gift, Odor Sleuth, Payback,
+        Poison Fang, Protect, Psych Up, Rain Dance, Rest, Retaliate, Return, Roar,
+        Rock Smash, Round, Sand Attack, Scary Face, Secret Power, Shadow Ball, Sleep
+          Talk, Snarl, Snatch, Snore, Spite, Substitute, Sucker Punch, Sunny Day,
+        Super Fang, Swagger, Tackle, Take Down, Taunt, Thief, Thunder Fang, Torment,
+        Toxic, Uproar, Yawn, Foul Play, Hyper Voice, Confide, Play Rough, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     stats:
     - [35, 55, 35, 30, 30, 35]
     tags:

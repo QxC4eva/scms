@@ -13,46 +13,69 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Attract, Bind, Curse, Dig, Double Team, Earthquake, Endure, Flail, Frustration,
-        Harden, Headbutt, Hidden Power, Iron Tail, Mud-Slap, Protect, Rage, Rest,
-        Return, Roar, Rock Slide, Rock Smash, Rock Throw, Sandstorm, Screech, Slam,
-        Sleep Talk, Snore, Strength, Sunny Day, Swagger, Tackle, Toxic, Sharpen]
+        Harden, Headbutt, Iron Tail, Mud-Slap, Protect, Rage, Rest, Return, Roar,
+        Rock Slide, Rock Smash, Rock Throw, Sandstorm, Screech, Slam, Sleep Talk,
+        Snore, Strength, Sunny Day, Swagger, Tackle, Toxic, Sharpen, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - bw: [Attract, Bind, Block, Bulldoze, Curse, Defense Curl, Dig, Double-Edge,
         Double Team, Dragon Pulse, Dragon Tail, Dragon Breath, Earth Power, Earthquake,
         Explosion, Facade, Flail, Flash Cannon, Frustration, Gyro Ball, Harden, Heavy
-          Slam, Hidden Power, Iron Head, Iron Tail, Mud Sport, Payback, Protect, Psych
-          Up, Rage, Rest, Return, Roar, Rock Blast, Rock Climb, Rock Polish, Rock
-          Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Round, Sand Tomb, Sandstorm,
-        Screech, Slam, Sleep Talk, Smack Down, Snore, Stealth Rock, Stone Edge, Strength,
-        Substitute, Sunny Day, Swagger, Tackle, Taunt, Torment, Toxic, Body Slam,
-        Mimic, Self-Destruct]
+          Slam, Iron Head, Iron Tail, Mud Sport, Payback, Protect, Psych Up, Rage,
+        Rest, Return, Roar, Rock Blast, Rock Climb, Rock Polish, Rock Slide, Rock
+          Smash, Rock Throw, Rock Tomb, Rollout, Round, Sand Tomb, Sandstorm, Screech,
+        Slam, Sleep Talk, Smack Down, Snore, Stealth Rock, Stone Edge, Strength, Substitute,
+        Sunny Day, Swagger, Tackle, Taunt, Torment, Toxic, Body Slam, Mimic, Self-Destruct,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - dp: [Ancient Power, Attract, Bind, Block, Captivate, Curse, Defense Curl, Dig,
         Double-Edge, Double Team, Dragon Pulse, Dragon Breath, Earth Power, Earthquake,
         Endure, Explosion, Facade, Flail, Flash Cannon, Frustration, Gyro Ball, Harden,
-        Headbutt, Hidden Power, Iron Head, Iron Tail, Mud-Slap, Mud Sport, Natural
-          Gift, Payback, Protect, Psych Up, Rage, Rest, Return, Roar, Rock Blast,
-        Rock Climb, Rock Polish, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout,
-        Sand Tomb, Sandstorm, Screech, Secret Power, Slam, Sleep Talk, Snore, Stealth
-          Rock, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Tackle, Taunt,
-        Torment, Toxic, Twister, Body Slam, Mimic, Self-Destruct]
+        Headbutt, Iron Head, Iron Tail, Mud-Slap, Mud Sport, Natural Gift, Payback,
+        Protect, Psych Up, Rage, Rest, Return, Roar, Rock Blast, Rock Climb, Rock
+          Polish, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Sand Tomb,
+        Sandstorm, Screech, Secret Power, Slam, Sleep Talk, Snore, Stealth Rock, Stone
+          Edge, Strength, Substitute, Sunny Day, Swagger, Tackle, Taunt, Torment,
+        Toxic, Twister, Body Slam, Mimic, Self-Destruct, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rs: [Attract, Bind, Block, Body Slam, Dig, Double-Edge, Double Team, Dragon
           Breath, Earthquake, Endure, Explosion, Facade, Flail, Frustration, Harden,
-        Hidden Power, Iron Tail, Mimic, Mud-Slap, Protect, Psych Up, Rage, Rest, Return,
-        Roar, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Sand Tomb, Sandstorm,
-        Screech, Secret Power, Self-Destruct, Slam, Sleep Talk, Snore, Strength, Substitute,
-        Sunny Day, Swagger, Tackle, Taunt, Torment, Toxic, Body Slam, Mimic, Self-Destruct]
+        Iron Tail, Mimic, Mud-Slap, Protect, Psych Up, Rage, Rest, Return, Roar, Rock
+          Slide, Rock Smash, Rock Throw, Rock Tomb, Sand Tomb, Sandstorm, Screech,
+        Secret Power, Self-Destruct, Slam, Sleep Talk, Snore, Strength, Substitute,
+        Sunny Day, Swagger, Tackle, Taunt, Torment, Toxic, Body Slam, Mimic, Self-Destruct,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rb: [Bide, Bind, Body Slam, Dig, Double-Edge, Double Team, Earthquake, Explosion,
         Fissure, Harden, Mimic, Rage, Rest, Rock Slide, Rock Throw, Screech, Self-Destruct,
         Skull Bash, Slam, Strength, Substitute, Tackle, Take Down, Toxic, Sharpen]
     - xy: [Ancient Power, Attract, Bind, Block, Body Slam, Bulldoze, Captivate, Curse,
         Defense Curl, Dig, Double-Edge, Double Team, Dragon Breath, Dragon Pulse,
         Dragon Tail, Earth Power, Earthquake, Endure, Explosion, Facade, Flail, Flash
-          Cannon, Frustration, Gyro Ball, Harden, Headbutt, Heavy Slam, Hidden Power,
-        Iron Head, Iron Tail, Mimic, Mud-Slap, Mud Sport, Natural Gift, Payback, Protect,
-        Psych Up, Rage, Rest, Return, Roar, Rock Blast, Rock Climb, Rock Polish, Rock
+          Cannon, Frustration, Gyro Ball, Harden, Headbutt, Heavy Slam, Iron Head,
+        Iron Tail, Mimic, Mud-Slap, Mud Sport, Natural Gift, Payback, Protect, Psych
+          Up, Rage, Rest, Return, Roar, Rock Blast, Rock Climb, Rock Polish, Rock
           Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Round, Sandstorm, Sand
           Tomb, Screech, Secret Power, Self-Destruct, Slam, Sleep Talk, Smack Down,
         Snore, Stealth Rock, Stone Edge, Strength, Substitute, Sunny Day, Swagger,
-        Tackle, Taunt, Torment, Toxic, Twister, Nature Power, Confide, Rototiller]
+        Tackle, Taunt, Torment, Toxic, Twister, Nature Power, Confide, Rototiller,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     stats:
     - [35, 45, 160, 30, 30, 70]
     - gs: [35, 45, 160, 30, 45, 70]

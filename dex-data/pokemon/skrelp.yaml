@@ -30,10 +30,14 @@ pokemon:
     moves:
     - xy: [Tackle, Smoke Screen, Water Gun, Feint Attack, Tail Whip, Bubble, Acid,
         Camouflage, Poison Tail, Water Pulse, Double Team, Toxic, Aqua Tail, Sludge
-          Bomb, Hydro Pump, Dragon Pulse, Hail, Venoshock, Hidden Power, Protect,
-        Rain Dance, Frustration, Thunderbolt, Return, Shadow Ball, Sludge Wave, Facade,
-        Rest, Attract, Round, Scald, Swagger, Sleep Talk, Substitute, Confide, Surf,
-        Waterfall, Toxic Spikes, Haze, Venom Drench, Play Rough, Acid Armor]
+          Bomb, Hydro Pump, Dragon Pulse, Hail, Venoshock, Protect, Rain Dance, Frustration,
+        Thunderbolt, Return, Shadow Ball, Sludge Wave, Facade, Rest, Attract, Round,
+        Scald, Swagger, Sleep Talk, Substitute, Confide, Surf, Waterfall, Toxic Spikes,
+        Haze, Venom Drench, Play Rough, Acid Armor, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [50, 60, 60, 60, 60, 30]
     tags:

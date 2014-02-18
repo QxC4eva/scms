@@ -41,41 +41,61 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Agility, Attract, Curse, Double Team, Drill Peck, Endure, Feint Attack,
-        Flail, Fly, Frustration, Fury Attack, Growl, Haze, Hidden Power, Mud-Slap,
-        Peck, Protect, Pursuit, Quick Attack, Rage, Rest, Return, Sleep Talk, Snore,
-        Steel Wing, Sunny Day, Supersonic, Swagger, Swift, Thief, Toxic, Tri Attack,
-        Low Kick]
+        Flail, Fly, Frustration, Fury Attack, Growl, Haze, Mud-Slap, Peck, Protect,
+        Pursuit, Quick Attack, Rage, Rest, Return, Sleep Talk, Snore, Steel Wing,
+        Sunny Day, Supersonic, Swagger, Swift, Thief, Toxic, Tri Attack, Low Kick,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - bw: [Acupressure, Aerial Ace, Agility, Assurance, Attract, Body Slam, Brave
           Bird, Double-Edge, Double Hit, Double Team, Drill Peck, Echoed Voice, Endeavor,
         Endure, Facade, Feint Attack, Flail, Fly, Frustration, Fury Attack, Growl,
-        Haze, Hidden Power, Knock Off, Mimic, Mirror Move, Natural Gift, Peck, Pluck,
-        Protect, Pursuit, Quick Attack, Rage, Rest, Return, Roost, Round, Sky Attack,
-        Sleep Talk, Snore, Substitute, Sunny Day, Supersonic, Swagger, Thief, Thrash,
-        Toxic, Uproar, Work Up]
+        Haze, Knock Off, Mimic, Mirror Move, Natural Gift, Peck, Pluck, Protect, Pursuit,
+        Quick Attack, Rage, Rest, Return, Roost, Round, Sky Attack, Sleep Talk, Snore,
+        Substitute, Sunny Day, Supersonic, Swagger, Thief, Thrash, Toxic, Uproar,
+        Work Up, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - dp: [Acupressure, Aerial Ace, Agility, Air Cutter, Attract, Body Slam, Brave
           Bird, Captivate, Double Hit, Double Team, Drill Peck, Endeavor, Endure,
-        Facade, Feint Attack, Flail, Fly, Frustration, Fury Attack, Growl, Haze, Hidden
-          Power, Knock Off, Mimic, Mirror Move, Mud-Slap, Natural Gift, Peck, Pluck,
-        Protect, Pursuit, Quick Attack, Rage, Rest, Return, Roost, Secret Power, Sky
-          Attack, Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day, Supersonic,
-        Swagger, Swift, Thief, Toxic, Uproar]
+        Facade, Feint Attack, Flail, Fly, Frustration, Fury Attack, Growl, Haze, Knock
+          Off, Mimic, Mirror Move, Mud-Slap, Natural Gift, Peck, Pluck, Protect, Pursuit,
+        Quick Attack, Rage, Rest, Return, Roost, Secret Power, Sky Attack, Sleep Talk,
+        Snore, Steel Wing, Substitute, Sunny Day, Supersonic, Swagger, Swift, Thief,
+        Toxic, Uproar, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - rs: [Aerial Ace, Agility, Attract, Body Slam, Double-Edge, Double Team, Drill
           Peck, Endeavor, Endure, Facade, Feint Attack, Flail, Fly, Frustration, Fury
-          Attack, Growl, Haze, Hidden Power, Mimic, Mud-Slap, Peck, Protect, Pursuit,
-        Quick Attack, Rage, Rest, Return, Secret Power, Sky Attack, Sleep Talk, Snore,
-        Steel Wing, Substitute, Sunny Day, Supersonic, Swagger, Swift, Thief, Toxic,
-        Tri Attack, Uproar]
+          Attack, Growl, Haze, Mimic, Mud-Slap, Peck, Protect, Pursuit, Quick Attack,
+        Rage, Rest, Return, Secret Power, Sky Attack, Sleep Talk, Snore, Steel Wing,
+        Substitute, Sunny Day, Supersonic, Swagger, Swift, Thief, Toxic, Tri Attack,
+        Uproar, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - rb: [Agility, Bide, Body Slam, Double-Edge, Double Team, Drill Peck, Fly, Fury
           Attack, Growl, Mimic, Peck, Rage, Reflect, Rest, Skull Bash, Sky Attack,
         Substitute, Take Down, Toxic, Tri Attack, Whirlwind, Low Kick]
     - xy: [Acupressure, Aerial Ace, Agility, Air Cutter, Assurance, Attract, Body
           Slam, Brave Bird, Captivate, Double-Edge, Double Hit, Double Team, Drill
           Peck, Echoed Voice, Endeavor, Endure, Facade, Feint Attack, Flail, Fly,
-        Frustration, Fury Attack, Growl, Haze, Hidden Power, Knock Off, Mimic, Mirror
-          Move, Mud-Slap, Natural Gift, Peck, Pluck, Protect, Pursuit, Quick Attack,
-        Rage, Rest, Return, Roost, Round, Secret Power, Sky Attack, Sleep Talk, Snore,
-        Steel Wing, Substitute, Sunny Day, Supersonic, Swagger, Swift, Thief, Thrash,
-        Toxic, Tri Attack, Uproar, Work Up, Confide]
+        Frustration, Fury Attack, Growl, Haze, Knock Off, Mimic, Mirror Move, Mud-Slap,
+        Natural Gift, Peck, Pluck, Protect, Pursuit, Quick Attack, Rage, Rest, Return,
+        Roost, Round, Secret Power, Sky Attack, Sleep Talk, Snore, Steel Wing, Substitute,
+        Sunny Day, Supersonic, Swagger, Swift, Thief, Thrash, Toxic, Tri Attack, Uproar,
+        Work Up, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [35, 85, 45, 35, 35, 75]
     tags:

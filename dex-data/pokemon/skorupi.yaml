@@ -35,33 +35,47 @@ pokemon:
     moves:
     - bw: [Acupressure, Aerial Ace, Agility, Aqua Tail, Attract, Bite, Brick Break,
         Bug Bite, Confuse Ray, Cross Poison, Crunch, Cut, Dark Pulse, Dig, Double
-          Team, Facade, Feint Attack, False Swipe, Flash, Fling, Frustration, Hidden
-          Power, Hone Claws, Iron Tail, Knock Off, Leer, Night Slash, Payback, Pin
-          Missile, Poison Fang, Poison Jab, Poison Sting, Poison Tail, Protect, Pursuit,
-        Rain Dance, Rest, Return, Rock Smash, Rock Tomb, Round, Sand Attack, Scary
-          Face, Screech, Shadow Ball, Slash, Sleep Talk, Sludge Bomb, Snore, Strength,
-        Struggle Bug, Substitute, Sunny Day, Swagger, Swords Dance, Taunt, Thief,
-        Torment, Toxic, Toxic Spikes, Twineedle, Venoshock, Whirlwind, X-Scissor]
+          Team, Facade, Feint Attack, False Swipe, Flash, Fling, Frustration, Hone
+          Claws, Iron Tail, Knock Off, Leer, Night Slash, Payback, Pin Missile, Poison
+          Fang, Poison Jab, Poison Sting, Poison Tail, Protect, Pursuit, Rain Dance,
+        Rest, Return, Rock Smash, Rock Tomb, Round, Sand Attack, Scary Face, Screech,
+        Shadow Ball, Slash, Sleep Talk, Sludge Bomb, Snore, Strength, Struggle Bug,
+        Substitute, Sunny Day, Swagger, Swords Dance, Taunt, Thief, Torment, Toxic,
+        Toxic Spikes, Twineedle, Venoshock, Whirlwind, X-Scissor, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - dp: [Acupressure, Aerial Ace, Agility, Aqua Tail, Attract, Bite, Brick Break,
         Bug Bite, Captivate, Confuse Ray, Cross Poison, Crunch, Cut, Dark Pulse, Dig,
         Double Team, Endure, Facade, Feint Attack, False Swipe, Flash, Fling, Frustration,
-        Fury Cutter, Headbutt, Hidden Power, Iron Tail, Knock Off, Leer, Mud-Slap,
-        Natural Gift, Night Slash, Payback, Pin Missile, Poison Fang, Poison Jab,
-        Poison Sting, Protect, Pursuit, Rain Dance, Rest, Return, Rock Smash, Rock
-          Tomb, Sand Attack, Scary Face, Screech, Secret Power, Shadow Ball, Slash,
-        Sleep Talk, Sludge Bomb, Snore, Strength, Substitute, Sunny Day, Swagger,
-        Swords Dance, Taunt, Thief, Torment, Toxic, Toxic Spikes, Whirlwind, X-Scissor]
+        Fury Cutter, Headbutt, Iron Tail, Knock Off, Leer, Mud-Slap, Natural Gift,
+        Night Slash, Payback, Pin Missile, Poison Fang, Poison Jab, Poison Sting,
+        Protect, Pursuit, Rain Dance, Rest, Return, Rock Smash, Rock Tomb, Sand Attack,
+        Scary Face, Screech, Secret Power, Shadow Ball, Slash, Sleep Talk, Sludge
+          Bomb, Snore, Strength, Substitute, Sunny Day, Swagger, Swords Dance, Taunt,
+        Thief, Torment, Toxic, Toxic Spikes, Whirlwind, X-Scissor, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - xy: [Acupressure, Aerial Ace, Agility, Aqua Tail, Attract, Bite, Brick Break,
         Bug Bite, Captivate, Confuse Ray, Cross Poison, Crunch, Cut, Dark Pulse, Dig,
         Double Team, Endure, Facade, Feint Attack, False Swipe, Flash, Fling, Frustration,
-        Fury Cutter, Headbutt, Hidden Power, Hone Claws, Iron Tail, Knock Off, Leer,
-        Mud-Slap, Natural Gift, Night Slash, Payback, Pin Missile, Poison Fang, Poison
-          Jab, Poison Sting, Poison Tail, Protect, Pursuit, Rain Dance, Rest, Return,
-        Rock Smash, Rock Tomb, Round, Sand Attack, Scary Face, Screech, Secret Power,
-        Shadow Ball, Slash, Sleep Talk, Sludge Bomb, Snore, Strength, Struggle Bug,
-        Substitute, Sunny Day, Swagger, Swords Dance, Taunt, Thief, Torment, Toxic,
-        Toxic Spikes, Twineedle, Venoshock, Whirlwind, X-Scissor, Fell Stinger, Infestation,
-        Confide]
+        Fury Cutter, Headbutt, Hone Claws, Iron Tail, Knock Off, Leer, Mud-Slap, Natural
+          Gift, Night Slash, Payback, Pin Missile, Poison Fang, Poison Jab, Poison
+          Sting, Poison Tail, Protect, Pursuit, Rain Dance, Rest, Return, Rock Smash,
+        Rock Tomb, Round, Sand Attack, Scary Face, Screech, Secret Power, Shadow Ball,
+        Slash, Sleep Talk, Sludge Bomb, Snore, Strength, Struggle Bug, Substitute,
+        Sunny Day, Swagger, Swords Dance, Taunt, Thief, Torment, Toxic, Toxic Spikes,
+        Twineedle, Venoshock, Whirlwind, X-Scissor, Fell Stinger, Infestation, Confide,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     stats:
     - [40, 50, 90, 30, 55, 65]
     tags:

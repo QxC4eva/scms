@@ -40,42 +40,65 @@ pokemon:
     introduction: gs
     moves:
     - gs: [Attract, Bide, Curse, Defense Curl, Double-Edge, Double Team, Endure, Explosion,
-        Flail, Frustration, Giga Drain, Headbutt, Hidden Power, Pin Missile, Protect,
-        Rapid Spin, Reflect, Rest, Return, Rock Smash, Rollout, Self-Destruct, Sleep
-          Talk, Snore, Solar Beam, Spikes, Strength, Sunny Day, Swagger, Sweet Scent,
-        Swift, Tackle, Take Down, Toxic]
+        Flail, Frustration, Giga Drain, Headbutt, Pin Missile, Protect, Rapid Spin,
+        Reflect, Rest, Return, Rock Smash, Rollout, Self-Destruct, Sleep Talk, Snore,
+        Solar Beam, Spikes, Strength, Sunny Day, Swagger, Sweet Scent, Swift, Tackle,
+        Take Down, Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - bw: [Attract, Bide, Bug Bite, Bulldoze, Counter, Dig, Double-Edge, Double Team,
         Drill Run, Earthquake, Endure, Explosion, Facade, Flail, Frustration, Giga
-          Drain, Gravity, Gyro Ball, Hidden Power, Iron Defense, Light Screen, Natural
-          Gift, Pain Split, Payback, Pin Missile, Power Trick, Protect, Rapid Spin,
-        Reflect, Rest, Return, Revenge, Rock Slide, Rock Smash, Rock Tomb, Round,
-        Sand Tomb, Sandstorm, Self-Destruct, Sleep Talk, Snore, Solar Beam, Spikes,
-        Stealth Rock, Strength, Struggle Bug, Substitute, Sunny Day, Swagger, Swift,
-        Tackle, Take Down, Toxic, Toxic Spikes, Venoshock, Body Slam, Mimic, Refresh]
+          Drain, Gravity, Gyro Ball, Iron Defense, Light Screen, Natural Gift, Pain
+          Split, Payback, Pin Missile, Power Trick, Protect, Rapid Spin, Reflect,
+        Rest, Return, Revenge, Rock Slide, Rock Smash, Rock Tomb, Round, Sand Tomb,
+        Sandstorm, Self-Destruct, Sleep Talk, Snore, Solar Beam, Spikes, Stealth Rock,
+        Strength, Struggle Bug, Substitute, Sunny Day, Swagger, Swift, Tackle, Take
+          Down, Toxic, Toxic Spikes, Venoshock, Body Slam, Mimic, Refresh, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - dp: [Attract, Bide, Bug Bite, Captivate, Counter, Dig, Double-Edge, Double Team,
         Earthquake, Endure, Explosion, Facade, Flail, Frustration, Giga Drain, Gravity,
-        Gyro Ball, Headbutt, Hidden Power, Iron Defense, Light Screen, Natural Gift,
-        Pain Split, Payback, Pin Missile, Power Trick, Protect, Rapid Spin, Reflect,
-        Rest, Return, Revenge, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sand Tomb,
-        Sandstorm, Secret Power, Self-Destruct, Sleep Talk, Snore, Solar Beam, Spikes,
-        Stealth Rock, Strength, String Shot, Substitute, Sunny Day, Swagger, Swift,
-        Tackle, Take Down, Toxic, Toxic Spikes, Body Slam, Mimic, Refresh]
+        Gyro Ball, Headbutt, Iron Defense, Light Screen, Natural Gift, Pain Split,
+        Payback, Pin Missile, Power Trick, Protect, Rapid Spin, Reflect, Rest, Return,
+        Revenge, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sand Tomb, Sandstorm,
+        Secret Power, Self-Destruct, Sleep Talk, Snore, Solar Beam, Spikes, Stealth
+          Rock, Strength, String Shot, Substitute, Sunny Day, Swagger, Swift, Tackle,
+        Take Down, Toxic, Toxic Spikes, Body Slam, Mimic, Refresh, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - rs: [Attract, Bide, Body Slam, Counter, Defense Curl, Dig, Double-Edge, Double
           Team, Earthquake, Endure, Explosion, Facade, Flail, Frustration, Giga Drain,
-        Hidden Power, Light Screen, Mimic, Pin Missile, Protect, Rapid Spin, Reflect,
-        Rest, Return, Rock Slide, Rock Smash, Rollout, Sand Tomb, Sandstorm, Secret
-          Power, Self-Destruct, Sleep Talk, Snore, Solar Beam, Spikes, Strength, Substitute,
-        Sunny Day, Swagger, Swift, Tackle, Take Down, Toxic, Body Slam, Mimic, Refresh]
+        Light Screen, Mimic, Pin Missile, Protect, Rapid Spin, Reflect, Rest, Return,
+        Rock Slide, Rock Smash, Rollout, Sand Tomb, Sandstorm, Secret Power, Self-Destruct,
+        Sleep Talk, Snore, Solar Beam, Spikes, Strength, Substitute, Sunny Day, Swagger,
+        Swift, Tackle, Take Down, Toxic, Body Slam, Mimic, Refresh, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - xy: [Attract, Bide, Body Slam, Bug Bite, Bulldoze, Captivate, Counter, Defense
           Curl, Dig, Double-Edge, Double Team, Earthquake, Endure, Explosion, Facade,
-        Flail, Frustration, Giga Drain, Gravity, Gyro Ball, Headbutt, Hidden Power,
-        Iron Defense, Light Screen, Mimic, Natural Gift, Pain Split, Payback, Pin
-          Missile, Power Trick, Protect, Rapid Spin, Reflect, Refresh, Rest, Return,
-        Revenge, Rock Slide, Rock Smash, Rock Tomb, Rollout, Round, Sandstorm, Sand
-          Tomb, Secret Power, Self-Destruct, Sleep Talk, Snore, Solar Beam, Spikes,
-        Stealth Rock, Strength, String Shot, Struggle Bug, Substitute, Sunny Day,
-        Swagger, Swift, Tackle, Take Down, Toxic, Toxic Spikes, Venoshock, Drill Run,
-        Confide]
+        Flail, Frustration, Giga Drain, Gravity, Gyro Ball, Headbutt, Iron Defense,
+        Light Screen, Mimic, Natural Gift, Pain Split, Payback, Pin Missile, Power
+          Trick, Protect, Rapid Spin, Reflect, Refresh, Rest, Return, Revenge, Rock
+          Slide, Rock Smash, Rock Tomb, Rollout, Round, Sandstorm, Sand Tomb, Secret
+          Power, Self-Destruct, Sleep Talk, Snore, Solar Beam, Spikes, Stealth Rock,
+        Strength, String Shot, Struggle Bug, Substitute, Sunny Day, Swagger, Swift,
+        Tackle, Take Down, Toxic, Toxic Spikes, Venoshock, Drill Run, Confide, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     stats:
     - [50, 65, 90, 35, 35, 15]
     tags:

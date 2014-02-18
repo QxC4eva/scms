@@ -13,52 +13,73 @@ pokemon:
     moves:
     - gs: [Acid Armor, Attract, Curse, Disable, Double Team, Dynamic Punch, Endure,
         Fire Blast, Fire Punch, Flamethrower, Frustration, Giga Drain, Harden, Haze,
-        Hidden Power, Ice Punch, Lick, Mean Look, Minimize, Mud-Slap, Poison Gas,
-        Pound, Protect, Rest, Return, Screech, Sleep Talk, Sludge, Sludge Bomb, Snore,
-        Sunny Day, Swagger, Thief, Thunder, Thunderbolt, Thunder Punch, Toxic, Zap
-          Cannon]
+        Ice Punch, Lick, Mean Look, Minimize, Mud-Slap, Poison Gas, Pound, Protect,
+        Rest, Return, Screech, Sleep Talk, Sludge, Sludge Bomb, Snore, Sunny Day,
+        Swagger, Thief, Thunder, Thunderbolt, Thunder Punch, Toxic, Zap Cannon, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - bw: [Acid Armor, Acid Spray, Attract, Curse, Dig, Disable, Double Team, Explosion,
         Facade, Fire Blast, Fire Punch, Flamethrower, Fling, Frustration, Giga Drain,
-        Gunk Shot, Harden, Haze, Hidden Power, Ice Punch, Imprison, Incinerate, Lick,
-        Mean Look, Memento, Minimize, Mud Bomb, Mud-Slap, Pain Split, Payback, Poison
-          Gas, Poison Jab, Pound, Protect, Rain Dance, Rest, Return, Rock Slide, Rock
-          Tomb, Round, Scary Face, Screech, Shadow Ball, Shadow Punch, Shadow Sneak,
-        Sleep Talk, Sludge, Sludge Bomb, Sludge Wave, Snore, Spit Up, Stockpile, Strength,
-        Substitute, Sunny Day, Swagger, Swallow, Taunt, Thief, Thunder, Thunderbolt,
-        Thunder Punch, Torment, Toxic, Venoshock, Body Slam, Helping Hand, Mimic,
-        Self-Destruct]
+        Gunk Shot, Harden, Haze, Ice Punch, Imprison, Incinerate, Lick, Mean Look,
+        Memento, Minimize, Mud Bomb, Mud-Slap, Pain Split, Payback, Poison Gas, Poison
+          Jab, Pound, Protect, Rain Dance, Rest, Return, Rock Slide, Rock Tomb, Round,
+        Scary Face, Screech, Shadow Ball, Shadow Punch, Shadow Sneak, Sleep Talk,
+        Sludge, Sludge Bomb, Sludge Wave, Snore, Spit Up, Stockpile, Strength, Substitute,
+        Sunny Day, Swagger, Swallow, Taunt, Thief, Thunder, Thunderbolt, Thunder Punch,
+        Torment, Toxic, Venoshock, Body Slam, Helping Hand, Mimic, Self-Destruct,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - dp: [Acid Armor, Attract, Captivate, Curse, Dig, Disable, Double Team, Endure,
         Explosion, Facade, Fire Blast, Fire Punch, Flamethrower, Fling, Frustration,
-        Giga Drain, Gunk Shot, Harden, Haze, Hidden Power, Ice Punch, Imprison, Lick,
-        Mean Look, Memento, Minimize, Mud Bomb, Mud-Slap, Natural Gift, Pain Split,
-        Payback, Poison Gas, Poison Jab, Pound, Protect, Rain Dance, Rest, Return,
-        Rock Slide, Rock Tomb, Screech, Secret Power, Shadow Ball, Shadow Punch, Shadow
-          Sneak, Shock Wave, Sleep Talk, Sludge, Sludge Bomb, Snore, Spit Up, Stockpile,
-        Strength, Substitute, Sunny Day, Swagger, Swallow, Taunt, Thief, Thunder,
-        Thunderbolt, Thunder Punch, Torment, Toxic, Body Slam, Helping Hand, Mimic,
-        Self-Destruct]
+        Giga Drain, Gunk Shot, Harden, Haze, Ice Punch, Imprison, Lick, Mean Look,
+        Memento, Minimize, Mud Bomb, Mud-Slap, Natural Gift, Pain Split, Payback,
+        Poison Gas, Poison Jab, Pound, Protect, Rain Dance, Rest, Return, Rock Slide,
+        Rock Tomb, Screech, Secret Power, Shadow Ball, Shadow Punch, Shadow Sneak,
+        Shock Wave, Sleep Talk, Sludge, Sludge Bomb, Snore, Spit Up, Stockpile, Strength,
+        Substitute, Sunny Day, Swagger, Swallow, Taunt, Thief, Thunder, Thunderbolt,
+        Thunder Punch, Torment, Toxic, Body Slam, Helping Hand, Mimic, Self-Destruct,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rs: [Acid Armor, Attract, Body Slam, Curse, Dig, Disable, Double Team, Dynamic
           Punch, Endure, Explosion, Facade, Fire Blast, Fire Punch, Flamethrower,
-        Frustration, Giga Drain, Harden, Haze, Hidden Power, Ice Punch, Imprison,
-        Lick, Mean Look, Memento, Mimic, Minimize, Mud-Slap, Poison Gas, Pound, Protect,
-        Rain Dance, Rest, Return, Rock Tomb, Screech, Secret Power, Self-Destruct,
-        Shadow Punch, Shock Wave, Sleep Talk, Sludge, Sludge Bomb, Snore, Substitute,
-        Sunny Day, Swagger, Taunt, Thief, Thunder, Thunderbolt, Thunder Punch, Torment,
-        Toxic, Body Slam, Helping Hand, Mimic, Self-Destruct]
+        Frustration, Giga Drain, Harden, Haze, Ice Punch, Imprison, Lick, Mean Look,
+        Memento, Mimic, Minimize, Mud-Slap, Poison Gas, Pound, Protect, Rain Dance,
+        Rest, Return, Rock Tomb, Screech, Secret Power, Self-Destruct, Shadow Punch,
+        Shock Wave, Sleep Talk, Sludge, Sludge Bomb, Snore, Substitute, Sunny Day,
+        Swagger, Taunt, Thief, Thunder, Thunderbolt, Thunder Punch, Torment, Toxic,
+        Body Slam, Helping Hand, Mimic, Self-Destruct, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rb: [Acid Armor, Bide, Body Slam, Disable, Double Team, Explosion, Fire Blast,
         Harden, Mega Drain, Mimic, Minimize, Poison Gas, Pound, Rage, Rest, Screech,
         Self-Destruct, Sludge, Substitute, Thunder, Thunderbolt, Toxic]
     - xy: [Acid Armor, Acid Spray, Attract, Body Slam, Captivate, Curse, Dig, Disable,
         Double Team, Dynamic Punch, Endure, Explosion, Facade, Fire Blast, Fire Punch,
         Flamethrower, Fling, Frustration, Giga Drain, Gunk Shot, Harden, Haze, Helping
-          Hand, Hidden Power, Ice Punch, Imprison, Incinerate, Lick, Mean Look, Memento,
-        Mimic, Minimize, Mud Bomb, Mud-Slap, Natural Gift, Pain Split, Payback, Poison
-          Gas, Poison Jab, Pound, Protect, Rain Dance, Rest, Return, Rock Slide, Rock
-          Tomb, Round, Scary Face, Screech, Secret Power, Self-Destruct, Shadow Ball,
-        Shadow Punch, Shadow Sneak, Shock Wave, Sleep Talk, Sludge, Sludge Bomb, Sludge
+          Hand, Ice Punch, Imprison, Incinerate, Lick, Mean Look, Memento, Mimic,
+        Minimize, Mud Bomb, Mud-Slap, Natural Gift, Pain Split, Payback, Poison Gas,
+        Poison Jab, Pound, Protect, Rain Dance, Rest, Return, Rock Slide, Rock Tomb,
+        Round, Scary Face, Screech, Secret Power, Self-Destruct, Shadow Ball, Shadow
+          Punch, Shadow Sneak, Shock Wave, Sleep Talk, Sludge, Sludge Bomb, Sludge
           Wave, Snore, Spit Up, Stockpile, Strength, Substitute, Sunny Day, Swagger,
         Swallow, Taunt, Thief, Thunder, Thunderbolt, Thunder Punch, Torment, Toxic,
-        Venoshock, Belch, Infestation, Power-Up Punch, Confide]
+        Venoshock, Belch, Infestation, Power-Up Punch, Confide, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     stats:
     - [80, 80, 50, 40, 40, 25]
     - gs: [80, 80, 50, 40, 50, 25]

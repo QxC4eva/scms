@@ -11,13 +11,17 @@ pokemon:
     moves:
     - xy: [Growl, Powder Snow, Thunder Wave, Rock Throw, Icy Wind, Take Down, Mist,
         Aurora Beam, Ancient Power, Round, Avalanche, Hail, Nature Power, Encore,
-        Light Screen, Ice Beam, Hyper Beam, Blizzard, Calm Mind, Roar, Toxic, Hidden
-          Power, Protect, Rain Dance, Safeguard, Frustration, Thunderbolt, Return,
-        Double Team, Reflect, Sandstorm, Rock Tomb, Facade, Rest, Attract, Echoed
-          Voice, Charge Beam, Rock Polish, Flash, Stone Edge, Psych Up, Bulldoze,
-        Frost Breath, Rock Slide, Dragon Tail, Dream Eater, Swagger, Sleep Talk, Substitute,
-        Flash Cannon, Rock Smash, Dark Pulse, Confide, Discharge, Mirror Coat, Haze,
-        Barrier, Magnet Rise]
+        Light Screen, Ice Beam, Hyper Beam, Blizzard, Calm Mind, Roar, Toxic, Protect,
+        Rain Dance, Safeguard, Frustration, Thunderbolt, Return, Double Team, Reflect,
+        Sandstorm, Rock Tomb, Facade, Rest, Attract, Echoed Voice, Charge Beam, Rock
+          Polish, Flash, Stone Edge, Psych Up, Bulldoze, Frost Breath, Rock Slide,
+        Dragon Tail, Dream Eater, Swagger, Sleep Talk, Substitute, Flash Cannon, Rock
+          Smash, Dark Pulse, Confide, Discharge, Mirror Coat, Haze, Barrier, Magnet
+          Rise, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [77, 59, 50, 67, 63, 46]
     tags:

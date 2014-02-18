@@ -44,46 +44,66 @@ pokemon:
     moves:
     - gs: [Attract, Confuse Ray, Curse, Dig, Disable, Double Team, Ember, Endure,
         Feint Attack, Fire Blast, Fire Spin, Flail, Flamethrower, Frustration, Headbutt,
-        Hidden Power, Hypnosis, Iron Tail, Protect, Quick Attack, Rest, Return, Roar,
-        Safeguard, Sleep Talk, Snore, Spite, Sunny Day, Swagger, Swift, Tail Whip,
-        Toxic]
+        Hypnosis, Iron Tail, Protect, Quick Attack, Rest, Return, Roar, Safeguard,
+        Sleep Talk, Snore, Spite, Sunny Day, Swagger, Swift, Tail Whip, Toxic, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - bw: [Attract, Captivate, Confuse Ray, Covet, Dark Pulse, Dig, Disable, Double
           Team, Ember, Energy Ball, Extrasensory, Facade, Feint Attack, Fire Blast,
         Fire Spin, Flail, Flame Burst, Flame Charge, Flamethrower, Flare Blitz, Foul
-          Play, Frustration, Grudge, Heat Wave, Hex, Hidden Power, Howl, Hypnosis,
-        Imprison, Incinerate, Inferno, Iron Tail, Overheat, Pain Split, Payback, Power
-          Swap, Protect, Psych Up, Quick Attack, Rest, Return, Roar, Role Play, Round,
-        Safeguard, Secret Power, Sleep Talk, Snore, Spite, Substitute, Sunny Day,
-        Swagger, Tail Slap, Tail Whip, Toxic, Will-O-Wisp, Zen Headbutt, Body Slam,
-        Charm, Double-Edge, Mimic]
+          Play, Frustration, Grudge, Heat Wave, Hex, Howl, Hypnosis, Imprison, Incinerate,
+        Inferno, Iron Tail, Overheat, Pain Split, Payback, Power Swap, Protect, Psych
+          Up, Quick Attack, Rest, Return, Roar, Role Play, Round, Safeguard, Secret
+          Power, Sleep Talk, Snore, Spite, Substitute, Sunny Day, Swagger, Tail Slap,
+        Tail Whip, Toxic, Will-O-Wisp, Zen Headbutt, Body Slam, Charm, Double-Edge,
+        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - dp: [Attract, Captivate, Confuse Ray, Dark Pulse, Dig, Disable, Double Team,
         Ember, Endure, Energy Ball, Extrasensory, Facade, Feint Attack, Fire Blast,
         Fire Spin, Flail, Flamethrower, Flare Blitz, Frustration, Grudge, Headbutt,
-        Heat Wave, Hidden Power, Howl, Hypnosis, Imprison, Iron Tail, Natural Gift,
-        Ominous Wind, Overheat, Pain Split, Payback, Power Swap, Protect, Psych Up,
-        Quick Attack, Rest, Return, Roar, Role Play, Safeguard, Secret Power, Sleep
-          Talk, Snore, Spite, Substitute, Sunny Day, Swagger, Swift, Tail Whip, Toxic,
-        Will-O-Wisp, Zen Headbutt, Body Slam, Charm, Double-Edge, Mimic]
+        Heat Wave, Howl, Hypnosis, Imprison, Iron Tail, Natural Gift, Ominous Wind,
+        Overheat, Pain Split, Payback, Power Swap, Protect, Psych Up, Quick Attack,
+        Rest, Return, Roar, Role Play, Safeguard, Secret Power, Sleep Talk, Snore,
+        Spite, Substitute, Sunny Day, Swagger, Swift, Tail Whip, Toxic, Will-O-Wisp,
+        Zen Headbutt, Body Slam, Charm, Double-Edge, Mimic, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rs: [Attract, Body Slam, Confuse Ray, Dig, Disable, Double-Edge, Double Team,
         Ember, Endure, Facade, Feint Attack, Fire Blast, Fire Spin, Flail, Flamethrower,
-        Frustration, Grudge, Heat Wave, Hidden Power, Howl, Hypnosis, Imprison, Iron
-          Tail, Mimic, Overheat, Protect, Psych Up, Quick Attack, Rest, Return, Roar,
-        Safeguard, Secret Power, Sleep Talk, Snore, Spite, Substitute, Sunny Day,
-        Swagger, Swift, Tail Whip, Toxic, Will-O-Wisp, Body Slam, Charm, Double-Edge,
-        Mimic]
+        Frustration, Grudge, Heat Wave, Howl, Hypnosis, Imprison, Iron Tail, Mimic,
+        Overheat, Protect, Psych Up, Quick Attack, Rest, Return, Roar, Safeguard,
+        Secret Power, Sleep Talk, Snore, Spite, Substitute, Sunny Day, Swagger, Swift,
+        Tail Whip, Toxic, Will-O-Wisp, Body Slam, Charm, Double-Edge, Mimic, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rb: [Bide, Body Slam, Confuse Ray, Dig, Double-Edge, Double Team, Ember, Fire
           Blast, Fire Spin, Flamethrower, Mimic, Quick Attack, Rage, Reflect, Rest,
         Roar, Skull Bash, Substitute, Swift, Tail Whip, Take Down, Toxic]
     - xy: [Attract, Body Slam, Captivate, Charm, Confuse Ray, Dark Pulse, Dig, Disable,
         Double-Edge, Double Team, Ember, Endure, Energy Ball, Extrasensory, Facade,
         Feint Attack, Fire Blast, Fire Spin, Flail, Flame Burst, Flame Charge, Flamethrower,
-        Flare Blitz, Frustration, Grudge, Headbutt, Heat Wave, Hex, Hidden Power,
-        Howl, Hypnosis, Imprison, Incinerate, Inferno, Iron Tail, Mimic, Natural Gift,
-        Ominous Wind, Overheat, Pain Split, Payback, Power Swap, Protect, Psych Up,
-        Quick Attack, Rest, Return, Roar, Role Play, Round, Safeguard, Secret Power,
-        Sleep Talk, Snore, Spite, Substitute, Sunny Day, Swagger, Swift, Tail Slap,
-        Tail Whip, Toxic, Will-O-Wisp, Zen Headbutt, Covet, Foul Play, Baby-Doll Eyes,
-        Confide]
+        Flare Blitz, Frustration, Grudge, Headbutt, Heat Wave, Hex, Howl, Hypnosis,
+        Imprison, Incinerate, Inferno, Iron Tail, Mimic, Natural Gift, Ominous Wind,
+        Overheat, Pain Split, Payback, Power Swap, Protect, Psych Up, Quick Attack,
+        Rest, Return, Roar, Role Play, Round, Safeguard, Secret Power, Sleep Talk,
+        Snore, Spite, Substitute, Sunny Day, Swagger, Swift, Tail Slap, Tail Whip,
+        Toxic, Will-O-Wisp, Zen Headbutt, Covet, Foul Play, Baby-Doll Eyes, Confide,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     stats:
     - [38, 41, 40, 65, 65, 65]
     - gs: [38, 41, 40, 50, 65, 65]

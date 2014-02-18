@@ -12,21 +12,29 @@ pokemon:
     - bw: [Astonish, Block, Brick Break, Bulldoze, Curse, Defense Curl, Double Team,
         Drain Punch, Dynamic Punch, Earth Power, Earthquake, Facade, Fire Punch, Flash,
         Fling, Focus Blast, Focus Punch, Frustration, Grass Knot, Gravity, Gyro Ball,
-        Hammer Arm, Hidden Power, Ice Beam, Ice Punch, Icy Wind, Iron Defense, Low
-          Kick, Low Sweep, Magic Coat, Magnitude, Mega Punch, Mud-Slap, Night Shade,
-        Pound, Protect, Psychic, Rain Dance, Rest, Return, Rock Polish, Rock Slide,
-        Rock Smash, Rock Tomb, Rollout, Round, Safeguard, Shadow Ball, Shadow Punch,
-        Signal Beam, Sleep Talk, Snore, Stealth Rock, Strength, Substitute, Superpower,
-        Swagger, Telekinesis, Thief, Thunder Punch, Toxic]
+        Hammer Arm, Ice Beam, Ice Punch, Icy Wind, Iron Defense, Low Kick, Low Sweep,
+        Magic Coat, Magnitude, Mega Punch, Mud-Slap, Night Shade, Pound, Protect,
+        Psychic, Rain Dance, Rest, Return, Rock Polish, Rock Slide, Rock Smash, Rock
+          Tomb, Rollout, Round, Safeguard, Shadow Ball, Shadow Punch, Signal Beam,
+        Sleep Talk, Snore, Stealth Rock, Strength, Substitute, Superpower, Swagger,
+        Telekinesis, Thief, Thunder Punch, Toxic, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Astonish, Brick Break, Bulldoze, Curse, Defense Curl, Double Team, Dynamic
           Punch, Earthquake, Facade, Flash, Fling, Focus Blast, Focus Punch, Frustration,
-        Grass Knot, Gyro Ball, Hammer Arm, Hidden Power, Ice Beam, Iron Defense, Low
-          Sweep, Magnitude, Mega Punch, Mud-Slap, Night Shade, Pound, Protect, Psychic,
-        Rain Dance, Rest, Return, Rock Polish, Rock Slide, Rock Smash, Rock Tomb,
-        Rollout, Round, Safeguard, Shadow Ball, Shadow Punch, Strength, Substitute,
-        Swagger, Telekinesis, Thief, Toxic, Signal Beam, Low Kick, Thunder Punch,
-        Fire Punch, Ice Punch, Magic Coat, Block, Earth Power, Gravity, Superpower,
-        Icy Wind, Snore, Drain Punch, Stealth Rock, Sleep Talk, Power-Up Punch, Confide]
+        Grass Knot, Gyro Ball, Hammer Arm, Ice Beam, Iron Defense, Low Sweep, Magnitude,
+        Mega Punch, Mud-Slap, Night Shade, Pound, Protect, Psychic, Rain Dance, Rest,
+        Return, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Rollout, Round, Safeguard,
+        Shadow Ball, Shadow Punch, Strength, Substitute, Swagger, Telekinesis, Thief,
+        Toxic, Signal Beam, Low Kick, Thunder Punch, Fire Punch, Ice Punch, Magic
+          Coat, Block, Earth Power, Gravity, Superpower, Icy Wind, Snore, Drain Punch,
+        Stealth Rock, Sleep Talk, Power-Up Punch, Confide, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [59, 74, 50, 35, 50, 35]
     tags:

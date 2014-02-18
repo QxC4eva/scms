@@ -49,22 +49,30 @@ pokemon:
     - bw: [Attract, Bide, Block, Brick Break, Bulk Up, Chip Away, Comet Punch, Counter,
         Detect, Dig, Double Team, Drain Punch, Dynamic Punch, Endure, Facade, Fire
           Punch, Fling, Focus Blast, Focus Energy, Focus Punch, Force Palm, Foresight,
-        Frustration, Grass Knot, Hammer Arm, Helping Hand, Hidden Power, Ice Punch,
-        Knock Off, Leer, Low Kick, Low Sweep, Mach Punch, Payback, Poison Jab, Pound,
-        Protect, Rain Dance, Rest, Retaliate, Return, Reversal, Rock Slide, Rock Smash,
-        Rock Throw, Rock Tomb, Round, Scary Face, Sleep Talk, Smack Down, Smelling
-          Salts, Snore, Stone Edge, Strength, Substitute, Sunny Day, Superpower, Swagger,
-        Taunt, Thunder Punch, Toxic, Wake-Up Slap, Wide Guard, Work Up]
+        Frustration, Grass Knot, Hammer Arm, Helping Hand, Ice Punch, Knock Off, Leer,
+        Low Kick, Low Sweep, Mach Punch, Payback, Poison Jab, Pound, Protect, Rain
+          Dance, Rest, Retaliate, Return, Reversal, Rock Slide, Rock Smash, Rock Throw,
+        Rock Tomb, Round, Scary Face, Sleep Talk, Smack Down, Smelling Salts, Snore,
+        Stone Edge, Strength, Substitute, Sunny Day, Superpower, Swagger, Taunt, Thunder
+          Punch, Toxic, Wake-Up Slap, Wide Guard, Work Up, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Attract, Bide, Brick Break, Bulk Up, Chip Away, Comet Punch, Counter, Detect,
         Dig, Double Team, Drain Punch, Dynamic Punch, Endure, Facade, Fling, Focus
           Blast, Focus Energy, Focus Punch, Force Palm, Foresight, Frustration, Grass
-          Knot, Hammer Arm, Hidden Power, Leer, Low Kick, Low Sweep, Mach Punch, Payback,
-        Poison Jab, Pound, Protect, Rain Dance, Rest, Retaliate, Return, Reversal,
-        Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Round, Scary Face, Smack Down,
+          Knot, Hammer Arm, Leer, Low Kick, Low Sweep, Mach Punch, Payback, Poison
+          Jab, Pound, Protect, Rain Dance, Rest, Retaliate, Return, Reversal, Rock
+          Slide, Rock Smash, Rock Throw, Rock Tomb, Round, Scary Face, Smack Down,
         Smelling Salts, Stone Edge, Strength, Substitute, Sunny Day, Superpower, Swagger,
         Taunt, Toxic, Wake-Up Slap, Wide Guard, Work Up, Thunder Punch, Fire Punch,
         Ice Punch, Block, Snore, Knock Off, Helping Hand, Sleep Talk, Power-Up Punch,
-        Confide, Cross Chop]
+        Confide, Cross Chop, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [75, 80, 55, 25, 35, 35]
     tags:

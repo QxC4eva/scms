@@ -13,44 +13,64 @@ pokemon:
     introduction: gs
     moves:
     - gs: [Attract, Bide, Constrict, Curse, Defense Curl, Dig, Double Team, Earthquake,
-        Encore, Endure, Flash, Frustration, Headbutt, Hidden Power, Mud-Slap, Protect,
-        Rest, Return, Rock Smash, Rollout, Safeguard, Sandstorm, Sleep Talk, Sludge
-          Bomb, Snore, Strength, Sunny Day, Swagger, Sweet Scent, Toxic, Withdraw,
-        Wrap]
+        Encore, Endure, Flash, Frustration, Headbutt, Mud-Slap, Protect, Rest, Return,
+        Rock Smash, Rollout, Safeguard, Sandstorm, Sleep Talk, Sludge Bomb, Snore,
+        Strength, Sunny Day, Swagger, Sweet Scent, Toxic, Withdraw, Wrap, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - bw: [Acid, Acupressure, After You, Attract, Bide, Bind, Bug Bite, Bulldoze,
         Constrict, Dig, Double Team, Earth Power, Earthquake, Encore, Facade, Final
           Gambit, Flash, Frustration, Gastro Acid, Guard Split, Gyro Ball, Helping
-          Hand, Hidden Power, Knock Off, Mud-Slap, Power Split, Power Trick, Protect,
-        Rest, Return, Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock Throw,
-        Rock Tomb, Rollout, Round, Safeguard, Sand Tomb, Sandstorm, Shell Smash, Sleep
-          Talk, Sludge Bomb, Sludge Wave, Smack Down, Snore, Stealth Rock, Stone Edge,
-        Strength, Struggle Bug, Substitute, Sunny Day, Swagger, Sweet Scent, Toxic,
-        Venoshock, Withdraw, Wrap, Body Slam, Double-Edge, Mimic]
+          Hand, Knock Off, Mud-Slap, Power Split, Power Trick, Protect, Rest, Return,
+        Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout,
+        Round, Safeguard, Sand Tomb, Sandstorm, Shell Smash, Sleep Talk, Sludge Bomb,
+        Sludge Wave, Smack Down, Snore, Stealth Rock, Stone Edge, Strength, Struggle
+          Bug, Substitute, Sunny Day, Swagger, Sweet Scent, Toxic, Venoshock, Withdraw,
+        Wrap, Body Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Acupressure, Ancient Power, Attract, Bide, Bug Bite, Captivate, Constrict,
         Dig, Double Team, Earth Power, Earthquake, Encore, Endure, Facade, Flash,
-        Frustration, Gastro Acid, Gyro Ball, Headbutt, Helping Hand, Hidden Power,
-        Knock Off, Mud-Slap, Natural Gift, Power Trick, Protect, Rest, Return, Rock
-          Polish, Rock Slide, Rock Smash, Rock Tomb, Rollout, Safeguard, Sand Tomb,
-        Sandstorm, Secret Power, Sleep Talk, Sludge Bomb, Snore, Stealth Rock, Stone
-          Edge, Strength, String Shot, Substitute, Sunny Day, Swagger, Sweet Scent,
-        Toxic, Withdraw, Wrap, Body Slam, Double-Edge, Mimic]
+        Frustration, Gastro Acid, Gyro Ball, Headbutt, Helping Hand, Knock Off, Mud-Slap,
+        Natural Gift, Power Trick, Protect, Rest, Return, Rock Polish, Rock Slide,
+        Rock Smash, Rock Tomb, Rollout, Safeguard, Sand Tomb, Sandstorm, Secret Power,
+        Sleep Talk, Sludge Bomb, Snore, Stealth Rock, Stone Edge, Strength, String
+          Shot, Substitute, Sunny Day, Swagger, Sweet Scent, Toxic, Withdraw, Wrap,
+        Body Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rs: [Attract, Bide, Body Slam, Constrict, Defense Curl, Dig, Double-Edge, Double
-          Team, Earthquake, Encore, Endure, Facade, Flash, Frustration, Hidden Power,
-        Mimic, Mud-Slap, Protect, Rest, Return, Rock Slide, Rock Smash, Rock Tomb,
-        Rollout, Safeguard, Sandstorm, Secret Power, Sleep Talk, Sludge Bomb, Snore,
-        Strength, Substitute, Sunny Day, Swagger, Sweet Scent, Toxic, Withdraw, Wrap,
-        Body Slam, Double-Edge, Mimic]
+          Team, Earthquake, Encore, Endure, Facade, Flash, Frustration, Mimic, Mud-Slap,
+        Protect, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout, Safeguard,
+        Sandstorm, Secret Power, Sleep Talk, Sludge Bomb, Snore, Strength, Substitute,
+        Sunny Day, Swagger, Sweet Scent, Toxic, Withdraw, Wrap, Body Slam, Double-Edge,
+        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - xy: [Acid, Acupressure, Ancient Power, Attract, Bide, Body Slam, Bug Bite, Bulldoze,
         Captivate, Constrict, Defense Curl, Dig, Double-Edge, Double Team, Earth Power,
         Earthquake, Encore, Endure, Facade, Final Gambit, Flash, Frustration, Gastro
-          Acid, Guard Split, Gyro Ball, Headbutt, Helping Hand, Hidden Power, Knock
-          Off, Mimic, Mud-Slap, Natural Gift, Power Split, Power Trick, Protect, Rest,
-        Return, Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock Throw, Rock
-          Tomb, Rollout, Round, Safeguard, Sandstorm, Sand Tomb, Secret Power, Shell
-          Smash, Sleep Talk, Sludge Bomb, Sludge Wave, Smack Down, Snore, Stealth
-          Rock, Stone Edge, Strength, String Shot, Struggle Bug, Substitute, Sunny
-          Day, Swagger, Sweet Scent, Toxic, Venoshock, Withdraw, Wrap, Bind, After
-          You, Sticky Web, Infestation, Confide]
+          Acid, Guard Split, Gyro Ball, Headbutt, Helping Hand, Knock Off, Mimic,
+        Mud-Slap, Natural Gift, Power Split, Power Trick, Protect, Rest, Return, Rock
+          Blast, Rock Polish, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout,
+        Round, Safeguard, Sandstorm, Sand Tomb, Secret Power, Shell Smash, Sleep Talk,
+        Sludge Bomb, Sludge Wave, Smack Down, Snore, Stealth Rock, Stone Edge, Strength,
+        String Shot, Struggle Bug, Substitute, Sunny Day, Swagger, Sweet Scent, Toxic,
+        Venoshock, Withdraw, Wrap, Bind, After You, Sticky Web, Infestation, Confide,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     stats:
     - [20, 10, 230, 10, 230, 5]
     tags:

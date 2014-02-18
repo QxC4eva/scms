@@ -10,12 +10,17 @@ pokemon:
     introduction: xy
     moves:
     - xy: [Pound, Growl, Bubble, Quick Attack, Lick, Water Pulse, Smoke Screen, Round,
-        Fling, Smack Down, Substitute, Bounce, Double Team, Hydro Pump, Toxic, Hidden
-          Power, Taunt, Ice Beam, Blizzard, Protect, Rain Dance, Frustration, Return,
-        Dig, Rock Tomb, Aerial Ace, Facade, Rest, Attract, Thief, Echoed Voice, Scald,
-        Acrobatics, Rock Slide, Grass Knot, Swagger, Sleep Talk, U-turn, Rock Smash,
-        Power-Up Punch, Confide, Cut, Surf, Strength, Waterfall, Water Pledge, Toxic
-          Spikes, Water Sport, Camouflage, Mud Sport, Mind Reader, Bestow]
+        Fling, Smack Down, Substitute, Bounce, Double Team, Hydro Pump, Toxic, Taunt,
+        Ice Beam, Blizzard, Protect, Rain Dance, Frustration, Return, Dig, Rock Tomb,
+        Aerial Ace, Facade, Rest, Attract, Thief, Echoed Voice, Scald, Acrobatics,
+        Rock Slide, Grass Knot, Swagger, Sleep Talk, U-turn, Rock Smash, Power-Up
+          Punch, Confide, Cut, Surf, Strength, Waterfall, Water Pledge, Toxic Spikes,
+        Water Sport, Camouflage, Mud Sport, Mind Reader, Bestow, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     stats:
     - [41, 56, 41, 62, 44, 71]
     tags:

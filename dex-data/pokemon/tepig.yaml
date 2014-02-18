@@ -58,20 +58,28 @@ pokemon:
     - bw: [Assurance, Attract, Body Slam, Covet, Curse, Defense Curl, Double Team,
         Echoed Voice, Ember, Endeavor, Facade, Fire Blast, Fire Pledge, Flame Charge,
         Flamethrower, Flare Blitz, Frustration, Grass Knot, Gyro Ball, Head Smash,
-        Heat Crash, Heat Wave, Heavy Slam, Helping Hand, Hidden Power, Incinerate,
-        Iron Tail, Magnitude, Odor Sleuth, Overheat, Protect, Rest, Return, Roar,
-        Rock Smash, Rock Tomb, Rollout, Round, Sleep Talk, Smog, Snore, Solar Beam,
-        Strength, Substitute, Sunny Day, Superpower, Swagger, Tackle, Tail Whip, Take
-          Down, Taunt, Thrash, Toxic, Wild Charge, Will-O-Wisp, Yawn]
+        Heat Crash, Heat Wave, Heavy Slam, Helping Hand, Incinerate, Iron Tail, Magnitude,
+        Odor Sleuth, Overheat, Protect, Rest, Return, Roar, Rock Smash, Rock Tomb,
+        Rollout, Round, Sleep Talk, Smog, Snore, Solar Beam, Strength, Substitute,
+        Sunny Day, Superpower, Swagger, Tackle, Tail Whip, Take Down, Taunt, Thrash,
+        Toxic, Wild Charge, Will-O-Wisp, Yawn, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Assurance, Attract, Body Slam, Covet, Curse, Defense Curl, Double Team,
         Echoed Voice, Ember, Endeavor, Facade, Fire Blast, Fire Pledge, Flame Charge,
         Flamethrower, Flare Blitz, Frustration, Grass Knot, Gyro Ball, Head Smash,
-        Heat Crash, Heavy Slam, Hidden Power, Incinerate, Magnitude, Odor Sleuth,
-        Overheat, Protect, Rest, Return, Roar, Rock Smash, Rock Tomb, Rollout, Round,
-        Sleep Talk, Smog, Solar Beam, Strength, Substitute, Sunny Day, Superpower,
-        Swagger, Tackle, Tail Whip, Take Down, Taunt, Thrash, Toxic, Wild Charge,
-        Will-O-Wisp, Yawn, Iron Tail, Snore, Heat Wave, Helping Hand, Dig, Confide,
-        Sucker Punch]
+        Heat Crash, Heavy Slam, Incinerate, Magnitude, Odor Sleuth, Overheat, Protect,
+        Rest, Return, Roar, Rock Smash, Rock Tomb, Rollout, Round, Sleep Talk, Smog,
+        Solar Beam, Strength, Substitute, Sunny Day, Superpower, Swagger, Tackle,
+        Tail Whip, Take Down, Taunt, Thrash, Toxic, Wild Charge, Will-O-Wisp, Yawn,
+        Iron Tail, Snore, Heat Wave, Helping Hand, Dig, Confide, Sucker Punch, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     - []
     stats:
     - [65, 63, 45, 45, 45, 45]

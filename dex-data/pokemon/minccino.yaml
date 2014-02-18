@@ -32,20 +32,28 @@ pokemon:
     moves:
     - bw: [After You, Aqua Tail, Attract, Calm Mind, Captivate, Charm, Covet, Dig,
         Double Team, Double Slap, Echoed Voice, Encore, Endure, Facade, Fake Tears,
-        Flail, Fling, Frustration, Grass Knot, Growl, Gunk Shot, Helping Hand, Hidden
-          Power, Hyper Voice, Iron Tail, Knock Off, Last Resort, Mud-Slap, Pound,
-        Protect, Rain Dance, Rest, Retaliate, Return, Round, Safeguard, Seed Bomb,
-        Sing, Slam, Sleep Talk, Snore, Substitute, Sunny Day, Swagger, Swift, Tail
-          Slap, Tail Whip, Thief, Thunder Wave, Thunderbolt, Tickle, Toxic, U-turn,
-        Uproar, Wake-Up Slap, Work Up]
+        Flail, Fling, Frustration, Grass Knot, Growl, Gunk Shot, Helping Hand, Hyper
+          Voice, Iron Tail, Knock Off, Last Resort, Mud-Slap, Pound, Protect, Rain
+          Dance, Rest, Retaliate, Return, Round, Safeguard, Seed Bomb, Sing, Slam,
+        Sleep Talk, Snore, Substitute, Sunny Day, Swagger, Swift, Tail Slap, Tail
+          Whip, Thief, Thunder Wave, Thunderbolt, Tickle, Toxic, U-turn, Uproar, Wake-Up
+          Slap, Work Up, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - xy: [After You, Aqua Tail, Attract, Calm Mind, Captivate, Charm, Dig, Double
           Slap, Double Team, Echoed Voice, Encore, Endure, Facade, Fake Tears, Flail,
-        Fling, Frustration, Grass Knot, Growl, Helping Hand, Hidden Power, Hyper Voice,
-        Iron Tail, Knock Off, Last Resort, Mud-Slap, Pound, Protect, Rain Dance, Rest,
-        Retaliate, Return, Round, Safeguard, Sing, Slam, Sleep Talk, Substitute, Sunny
-          Day, Swagger, Swift, Tail Slap, Tail Whip, Thief, Thunderbolt, Thunder Wave,
-        Tickle, Toxic, U-turn, Wake-Up Slap, Work Up, Covet, Seed Bomb, Gunk Shot,
-        Uproar, Snore, Baby-Doll Eyes, Dazzling Gleam, Confide]
+        Fling, Frustration, Grass Knot, Growl, Helping Hand, Hyper Voice, Iron Tail,
+        Knock Off, Last Resort, Mud-Slap, Pound, Protect, Rain Dance, Rest, Retaliate,
+        Return, Round, Safeguard, Sing, Slam, Sleep Talk, Substitute, Sunny Day, Swagger,
+        Swift, Tail Slap, Tail Whip, Thief, Thunderbolt, Thunder Wave, Tickle, Toxic,
+        U-turn, Wake-Up Slap, Work Up, Covet, Seed Bomb, Gunk Shot, Uproar, Snore,
+        Baby-Doll Eyes, Dazzling Gleam, Confide, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [55, 50, 40, 40, 40, 75]
     tags:

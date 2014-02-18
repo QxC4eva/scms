@@ -80,35 +80,51 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Agility, Attract, Blizzard, Curse, Detect, Double Team, Dragon Rage, Dragon
-          Breath, Endure, Fire Blast, Flamethrower, Frustration, Haze, Headbutt, Hidden
-          Power, Hyper Beam, Ice Beam, Icy Wind, Iron Tail, Leer, Light Screen, Mist,
-        Outrage, Protect, Rain Dance, Rest, Return, Safeguard, Slam, Sleep Talk, Snore,
-        Supersonic, Surf, Swagger, Swift, Thunder, Thunder Wave, Thunderbolt, Toxic,
-        Twister, Waterfall, Wrap, Zap Cannon]
+          Breath, Endure, Fire Blast, Flamethrower, Frustration, Haze, Headbutt, Hyper
+          Beam, Ice Beam, Icy Wind, Iron Tail, Leer, Light Screen, Mist, Outrage,
+        Protect, Rain Dance, Rest, Return, Safeguard, Slam, Sleep Talk, Snore, Supersonic,
+        Surf, Swagger, Swift, Thunder, Thunder Wave, Thunderbolt, Toxic, Twister,
+        Waterfall, Wrap, Zap Cannon, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
     - bw: [Agility, Aqua Jet, Aqua Tail, Attract, Bind, Blizzard, Body Slam, Double-Edge,
         Double Team, Draco Meteor, Dragon Dance, Dragon Pulse, Dragon Rage, Dragon
           Rush, Dragon Tail, Dragon Breath, Extreme Speed, Facade, Fire Blast, Flamethrower,
-        Frustration, Hail, Haze, Hidden Power, Hyper Beam, Ice Beam, Icy Wind, Incinerate,
-        Iron Tail, Leer, Light Screen, Mimic, Mist, Outrage, Protect, Rain Dance,
-        Rest, Return, Round, Safeguard, Slam, Shock Wave, Sleep Talk, Snore, Substitute,
+        Frustration, Hail, Haze, Hyper Beam, Ice Beam, Icy Wind, Incinerate, Iron
+          Tail, Leer, Light Screen, Mimic, Mist, Outrage, Protect, Rain Dance, Rest,
+        Return, Round, Safeguard, Slam, Shock Wave, Sleep Talk, Snore, Substitute,
         Sunny Day, Supersonic, Surf, Swagger, Thunder, Thunder Wave, Thunderbolt,
-        Toxic, Twister, Water Pulse, Waterfall, Wrap]
+        Toxic, Twister, Water Pulse, Waterfall, Wrap, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Agility, Aqua Tail, Attract, Blizzard, Body Slam, Captivate, Double-Edge,
         Double Team, Draco Meteor, Dragon Dance, Dragon Pulse, Dragon Rage, Dragon
           Rush, Dragon Breath, Endure, Extreme Speed, Facade, Fire Blast, Flamethrower,
-        Frustration, Hail, Haze, Headbutt, Hidden Power, Hyper Beam, Ice Beam, Icy
-          Wind, Iron Tail, Leer, Light Screen, Mimic, Mist, Natural Gift, Outrage,
-        Protect, Rain Dance, Rest, Return, Safeguard, Secret Power, Shock Wave, Slam,
-        Sleep Talk, Snore, Substitute, Sunny Day, Supersonic, Surf, Swagger, Swift,
-        Thunder, Thunder Wave, Thunderbolt, Toxic, Twister, Water Pulse, Waterfall,
-        Whirlpool, Wrap]
+        Frustration, Hail, Haze, Headbutt, Hyper Beam, Ice Beam, Icy Wind, Iron Tail,
+        Leer, Light Screen, Mimic, Mist, Natural Gift, Outrage, Protect, Rain Dance,
+        Rest, Return, Safeguard, Secret Power, Shock Wave, Slam, Sleep Talk, Snore,
+        Substitute, Sunny Day, Supersonic, Surf, Swagger, Swift, Thunder, Thunder
+          Wave, Thunderbolt, Toxic, Twister, Water Pulse, Waterfall, Whirlpool, Wrap,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rs: [Agility, Attract, Blizzard, Body Slam, Double-Edge, Double Team, Dragon
           Dance, Dragon Rage, Dragon Breath, Endure, Facade, Fire Blast, Flamethrower,
-        Frustration, Hail, Haze, Hidden Power, Hyper Beam, Ice Beam, Icy Wind, Iron
-          Tail, Leer, Light Screen, Mimic, Mist, Outrage, Protect, Rain Dance, Rest,
-        Return, Safeguard, Secret Power, Shock Wave, Slam, Sleep Talk, Snore, Substitute,
-        Sunny Day, Supersonic, Surf, Swagger, Swift, Thunder, Thunder Wave, Thunderbolt,
-        Toxic, Twister, Water Pulse, Waterfall, Wrap]
+        Frustration, Hail, Haze, Hyper Beam, Ice Beam, Icy Wind, Iron Tail, Leer,
+        Light Screen, Mimic, Mist, Outrage, Protect, Rain Dance, Rest, Return, Safeguard,
+        Secret Power, Shock Wave, Slam, Sleep Talk, Snore, Substitute, Sunny Day,
+        Supersonic, Surf, Swagger, Swift, Thunder, Thunder Wave, Thunderbolt, Toxic,
+        Twister, Water Pulse, Waterfall, Wrap, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rb: [Agility, Bide, Blizzard, Body Slam, Bubble Beam, Double-Edge, Double Team,
         Dragon Rage, Fire Blast, Hyper Beam, Ice Beam, Leer, Mimic, Rage, Reflect,
         Rest, Skull Bash, Slam, Substitute, Surf, Swift, Take Down, Thunder, Thunder
@@ -116,12 +132,17 @@ pokemon:
     - xy: [Agility, Aqua Jet, Aqua Tail, Attract, Blizzard, Body Slam, Captivate,
         Double-Edge, Double Team, Draco Meteor, Dragon Breath, Dragon Dance, Dragon
           Pulse, Dragon Rage, Dragon Rush, Dragon Tail, Endure, Extreme Speed, Facade,
-        Fire Blast, Flamethrower, Frustration, Hail, Haze, Headbutt, Hidden Power,
-        Hyper Beam, Ice Beam, Icy Wind, Incinerate, Iron Tail, Leer, Light Screen,
-        Mimic, Mist, Natural Gift, Outrage, Protect, Rain Dance, Rest, Return, Round,
-        Safeguard, Secret Power, Shock Wave, Slam, Sleep Talk, Snore, Substitute,
-        Sunny Day, Supersonic, Surf, Swagger, Swift, Thunder, Thunderbolt, Thunder
-          Wave, Toxic, Twister, Waterfall, Water Pulse, Whirlpool, Wrap, Bind, Confide]
+        Fire Blast, Flamethrower, Frustration, Hail, Haze, Headbutt, Hyper Beam, Ice
+          Beam, Icy Wind, Incinerate, Iron Tail, Leer, Light Screen, Mimic, Mist,
+        Natural Gift, Outrage, Protect, Rain Dance, Rest, Return, Round, Safeguard,
+        Secret Power, Shock Wave, Slam, Sleep Talk, Snore, Substitute, Sunny Day,
+        Supersonic, Surf, Swagger, Swift, Thunder, Thunderbolt, Thunder Wave, Toxic,
+        Twister, Waterfall, Water Pulse, Whirlpool, Wrap, Bind, Confide, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     stats:
     - [41, 64, 45, 50, 50, 50]
     - gs: [41, 64, 45, 50, 50, 50]

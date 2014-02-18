@@ -13,34 +13,46 @@ pokemon:
           Throw, Copycat, Covet, Cut, Defense Curl, Dig, Dizzy Punch, Double Hit,
         Double Team, Drain Punch, Encore, Endeavor, Endure, Entrainment, Facade, Fake
           Out, Fake Tears, Fire Punch, Flail, Fling, Focus Punch, Foresight, Frustration,
-        Grass Knot, Heal Bell, Healing Wish, Helping Hand, Hidden Power, Hyper Voice,
-        Ice Beam, Ice Punch, Iron Tail, Jump Kick, Last Resort, Low Kick, Magic Coat,
-        Pound, Protect, Quick Attack, Rain Dance, Rest, Retaliate, Return, Rock Smash,
-        Round, Shadow Ball, Sky Uppercut, Sleep Talk, Snore, Solar Beam, Splash, Substitute,
+        Grass Knot, Heal Bell, Healing Wish, Helping Hand, Hyper Voice, Ice Beam,
+        Ice Punch, Iron Tail, Jump Kick, Last Resort, Low Kick, Magic Coat, Pound,
+        Protect, Quick Attack, Rain Dance, Rest, Retaliate, Return, Rock Smash, Round,
+        Shadow Ball, Sky Uppercut, Sleep Talk, Snore, Solar Beam, Splash, Substitute,
         Sunny Day, Swagger, Sweet Kiss, Switcheroo, Thunder Wave, Thunderbolt, Thunder
-          Punch, Toxic, Uproar, Work Up]
+          Punch, Toxic, Uproar, Work Up, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Agility, Attract, Baton Pass, Bounce, Captivate, Charge Beam, Charm, Cut,
         Defense Curl, Dig, Dizzy Punch, Double Hit, Double Team, Drain Punch, Encore,
         Endeavor, Endure, Facade, Fake Out, Fake Tears, Fire Punch, Flail, Fling,
         Focus Punch, Foresight, Frustration, Grass Knot, Headbutt, Heal Bell, Healing
-          Wish, Helping Hand, Hidden Power, Ice Beam, Ice Punch, Iron Tail, Jump Kick,
-        Last Resort, Low Kick, Magic Coat, Mud-Slap, Natural Gift, Pound, Protect,
-        Quick Attack, Rain Dance, Rest, Return, Rock Smash, Secret Power, Shadow Ball,
-        Shock Wave, Sky Uppercut, Sleep Talk, Snore, Solar Beam, Splash, Substitute,
-        Sunny Day, Swagger, Sweet Kiss, Swift, Switcheroo, Thunder Wave, Thunderbolt,
-        Thunder Punch, Toxic, Uproar, Water Pulse]
+          Wish, Helping Hand, Ice Beam, Ice Punch, Iron Tail, Jump Kick, Last Resort,
+        Low Kick, Magic Coat, Mud-Slap, Natural Gift, Pound, Protect, Quick Attack,
+        Rain Dance, Rest, Return, Rock Smash, Secret Power, Shadow Ball, Shock Wave,
+        Sky Uppercut, Sleep Talk, Snore, Solar Beam, Splash, Substitute, Sunny Day,
+        Swagger, Sweet Kiss, Swift, Switcheroo, Thunder Wave, Thunderbolt, Thunder
+          Punch, Toxic, Uproar, Water Pulse, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [After You, Agility, Attract, Baton Pass, Bounce, Captivate, Charge Beam,
         Charm, Circle Throw, Copycat, Cut, Defense Curl, Dig, Dizzy Punch, Double
           Hit, Double Team, Drain Punch, Encore, Endeavor, Endure, Entrainment, Facade,
         Fake Out, Fake Tears, Fire Punch, Flail, Fling, Focus Punch, Foresight, Frustration,
-        Grass Knot, Headbutt, Heal Bell, Healing Wish, Helping Hand, Hidden Power,
-        Ice Beam, Ice Punch, Iron Tail, Jump Kick, Last Resort, Low Kick, Magic Coat,
-        Mud-Slap, Natural Gift, Pound, Protect, Quick Attack, Rain Dance, Rest, Retaliate,
-        Return, Rock Smash, Round, Secret Power, Shadow Ball, Shock Wave, Sky Uppercut,
-        Sleep Talk, Snore, Solar Beam, Splash, Substitute, Sunny Day, Swagger, Sweet
-          Kiss, Swift, Switcheroo, Thunderbolt, Thunder Punch, Thunder Wave, Toxic,
-        Uproar, Water Pulse, Work Up, Covet, Hyper Voice, Baby-Doll Eyes, Power-Up
-          Punch, Confide, Mud Sport, Cosmic Power, Teeter Dance]
+        Grass Knot, Headbutt, Heal Bell, Healing Wish, Helping Hand, Ice Beam, Ice
+          Punch, Iron Tail, Jump Kick, Last Resort, Low Kick, Magic Coat, Mud-Slap,
+        Natural Gift, Pound, Protect, Quick Attack, Rain Dance, Rest, Retaliate, Return,
+        Rock Smash, Round, Secret Power, Shadow Ball, Shock Wave, Sky Uppercut, Sleep
+          Talk, Snore, Solar Beam, Splash, Substitute, Sunny Day, Swagger, Sweet Kiss,
+        Swift, Switcheroo, Thunderbolt, Thunder Punch, Thunder Wave, Toxic, Uproar,
+        Water Pulse, Work Up, Covet, Hyper Voice, Baby-Doll Eyes, Power-Up Punch,
+        Confide, Mud Sport, Cosmic Power, Teeter Dance, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [55, 66, 44, 44, 56, 85]
     tags:

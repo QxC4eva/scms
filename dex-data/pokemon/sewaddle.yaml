@@ -36,19 +36,28 @@ pokemon:
     moves:
     - bw: [Agility, Air Slash, Attract, Baton Pass, Bug Bite, Bug Buzz, Calm Mind,
         Camouflage, Cut, Double Team, Dream Eater, Electroweb, Endure, Energy Ball,
-        Facade, Flail, Flash, Frustration, Giga Drain, Grass Knot, Hidden Power, Iron
-          Defense, Light Screen, Magic Coat, Me First, Mind Reader, Payback, Protect,
-        Razor Leaf, Razor Wind, Rest, Return, Round, Safeguard, Screech, Seed Bomb,
-        Signal Beam, Silver Wind, Sleep Talk, Snore, Solar Beam, String Shot, Struggle
-          Bug, Substitute, Sunny Day, Swagger, Synthesis, Tackle, Toxic, Worry Seed]
+        Facade, Flail, Flash, Frustration, Giga Drain, Grass Knot, Iron Defense, Light
+          Screen, Magic Coat, Me First, Mind Reader, Payback, Protect, Razor Leaf,
+        Razor Wind, Rest, Return, Round, Safeguard, Screech, Seed Bomb, Signal Beam,
+        Silver Wind, Sleep Talk, Snore, Solar Beam, String Shot, Struggle Bug, Substitute,
+        Sunny Day, Swagger, Synthesis, Tackle, Toxic, Worry Seed, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - xy: [Agility, Air Slash, Attract, Baton Pass, Bug Bite, Bug Buzz, Calm Mind,
         Camouflage, Cut, Double Team, Dream Eater, Endure, Energy Ball, Facade, Flail,
-        Flash, Frustration, Grass Knot, Hidden Power, Light Screen, Me First, Mind
-          Reader, Payback, Protect, Razor Leaf, Razor Wind, Rest, Return, Round, Safeguard,
-        Screech, Silver Wind, Solar Beam, String Shot, Struggle Bug, Substitute, Sunny
-          Day, Swagger, Tackle, Toxic, Signal Beam, Seed Bomb, Magic Coat, Iron Defense,
+        Flash, Frustration, Grass Knot, Light Screen, Me First, Mind Reader, Payback,
+        Protect, Razor Leaf, Razor Wind, Rest, Return, Round, Safeguard, Screech,
+        Silver Wind, Solar Beam, String Shot, Struggle Bug, Substitute, Sunny Day,
+        Swagger, Tackle, Toxic, Signal Beam, Seed Bomb, Magic Coat, Iron Defense,
         Electroweb, Snore, Synthesis, Giga Drain, Worry Seed, Sleep Talk, Sticky Web,
-        Nature Power, Confide]
+        Nature Power, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [45, 53, 70, 40, 60, 42]
     tags:

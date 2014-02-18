@@ -45,36 +45,52 @@ pokemon:
     moves:
     - bw: [Amnesia, Attract, Beat Up, Bide, Bullet Seed, Defog, Dig, Double Team,
         Energy Ball, Explosion, Facade, False Swipe, Flash, Foul Play, Frustration,
-        Giga Drain, Grass Knot, Growth, Harden, Hidden Power, Leech Seed, Nasty Plot,
-        Nature Power, Power Swap, Protect, Quick Attack, Razor Wind, Rest, Retaliate,
-        Return, Rock Smash, Round, Seed Bomb, Shadow Ball, Sleep Talk, Snore, Solar
-          Beam, Spite, Substitute, Sunny Day, Swagger, Swords Dance, Synthesis, Take
-          Down, Toxic, Worry Seed, Body Slam, Double-Edge, Giga Drain, Mimic, Refresh,
-        Secret Power, Self-Destruct]
+        Giga Drain, Grass Knot, Growth, Harden, Leech Seed, Nasty Plot, Nature Power,
+        Power Swap, Protect, Quick Attack, Razor Wind, Rest, Retaliate, Return, Rock
+          Smash, Round, Seed Bomb, Shadow Ball, Sleep Talk, Snore, Solar Beam, Spite,
+        Substitute, Sunny Day, Swagger, Swords Dance, Synthesis, Take Down, Toxic,
+        Worry Seed, Body Slam, Double-Edge, Giga Drain, Mimic, Refresh, Secret Power,
+        Self-Destruct, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - dp: [Amnesia, Attract, Bide, Bullet Seed, Captivate, Dig, Double Team, Endure,
         Energy Ball, Explosion, Facade, False Swipe, Flash, Frustration, Giga Drain,
-        Grass Knot, Growth, Harden, Headbutt, Hidden Power, Leech Seed, Nasty Plot,
-        Natural Gift, Nature Power, Power Swap, Protect, Quick Attack, Razor Wind,
-        Rest, Return, Rock Smash, Rollout, Secret Power, Seed Bomb, Shadow Ball, Sleep
-          Talk, Snore, Solar Beam, Spite, Substitute, Sunny Day, Swagger, Swords Dance,
-        Synthesis, Take Down, Toxic, Worry Seed, Body Slam, Double-Edge, Giga Drain,
-        Mimic, Refresh, Secret Power, Self-Destruct]
+        Grass Knot, Growth, Harden, Headbutt, Leech Seed, Nasty Plot, Natural Gift,
+        Nature Power, Power Swap, Protect, Quick Attack, Razor Wind, Rest, Return,
+        Rock Smash, Rollout, Secret Power, Seed Bomb, Shadow Ball, Sleep Talk, Snore,
+        Solar Beam, Spite, Substitute, Sunny Day, Swagger, Swords Dance, Synthesis,
+        Take Down, Toxic, Worry Seed, Body Slam, Double-Edge, Giga Drain, Mimic, Refresh,
+        Secret Power, Self-Destruct, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
     - rs: [Amnesia, Attract, Bide, Body Slam, Bullet Seed, Defense Curl, Dig, Double-Edge,
         Double Team, Endure, Explosion, Facade, False Swipe, Flash, Frustration, Giga
-          Drain, Growth, Harden, Hidden Power, Leech Seed, Mimic, Nature Power, Protect,
-        Quick Attack, Razor Wind, Rest, Return, Rock Smash, Rollout, Secret Power,
-        Self-Destruct, Shadow Ball, Sleep Talk, Snore, Solar Beam, Substitute, Sunny
-          Day, Swagger, Swords Dance, Synthesis, Take Down, Toxic, Body Slam, Double-Edge,
-        Giga Drain, Mimic, Refresh, Secret Power, Self-Destruct]
+          Drain, Growth, Harden, Leech Seed, Mimic, Nature Power, Protect, Quick Attack,
+        Razor Wind, Rest, Return, Rock Smash, Rollout, Secret Power, Self-Destruct,
+        Shadow Ball, Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day, Swagger,
+        Swords Dance, Synthesis, Take Down, Toxic, Body Slam, Double-Edge, Giga Drain,
+        Mimic, Refresh, Secret Power, Self-Destruct, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Amnesia, Attract, Beat Up, Bide, Body Slam, Bullet Seed, Captivate, Defense
           Curl, Defog, Dig, Double-Edge, Double Team, Endure, Energy Ball, Explosion,
         Facade, False Swipe, Flash, Foul Play, Frustration, Giga Drain, Grass Knot,
-        Growth, Harden, Headbutt, Hidden Power, Leech Seed, Mimic, Nasty Plot, Natural
-          Gift, Nature Power, Power Swap, Protect, Quick Attack, Razor Wind, Refresh,
-        Rest, Retaliate, Return, Rock Smash, Rollout, Round, Secret Power, Seed Bomb,
-        Self-Destruct, Shadow Ball, Sleep Talk, Snore, Solar Beam, Spite, Substitute,
-        Sunny Day, Swagger, Swords Dance, Synthesis, Take Down, Toxic, Worry Seed,
-        Confide, Grassy Terrain]
+        Growth, Harden, Headbutt, Leech Seed, Mimic, Nasty Plot, Natural Gift, Nature
+          Power, Power Swap, Protect, Quick Attack, Razor Wind, Refresh, Rest, Retaliate,
+        Return, Rock Smash, Rollout, Round, Secret Power, Seed Bomb, Self-Destruct,
+        Shadow Ball, Sleep Talk, Snore, Solar Beam, Spite, Substitute, Sunny Day,
+        Swagger, Swords Dance, Synthesis, Take Down, Toxic, Worry Seed, Confide, Grassy
+          Terrain, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [40, 40, 50, 30, 30, 30]
     tags:

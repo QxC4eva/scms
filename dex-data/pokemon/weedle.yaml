@@ -12,43 +12,63 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Agility, Attract, Curse, Cut, Double Team, Endure, Focus Energy, Frustration,
-        Fury Attack, Fury Cutter, Giga Drain, Hidden Power, Hyper Beam, Pin Missile,
-        Protect, Pursuit, Rage, Rest, Return, Sleep Talk, Sludge Bomb, Snore, Sunny
-          Day, Swagger, Sweet Scent, Swift, Toxic, Twineedle]
+        Fury Attack, Fury Cutter, Giga Drain, Hyper Beam, Pin Missile, Protect, Pursuit,
+        Rage, Rest, Return, Sleep Talk, Sludge Bomb, Snore, Sunny Day, Swagger, Sweet
+          Scent, Swift, Toxic, Twineedle, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - bw: [Acrobatics, Aerial Ace, Agility, Assurance, Attract, Brick Break, Cut,
         Double Team, Drill Run, Endeavor, Facade, False Swipe, Flash, Focus Energy,
-        Frustration, Fury Attack, Giga Drain, Giga Impact, Hidden Power, Hyper Beam,
-        Knock Off, Payback, Pin Missile, Poison Jab, Protect, Pursuit, Rage, Rest,
-        Return, Rock Smash, Roost, Round, Sleep Talk, Sludge Bomb, Snore, Solar Beam,
-        Struggle Bug, Substitute, Sunny Day, Swagger, Swords Dance, Tailwind, Thief,
-        Toxic, Toxic Spikes, Twineedle, U-turn, Venoshock, X-Scissor]
+        Frustration, Fury Attack, Giga Drain, Giga Impact, Hyper Beam, Knock Off,
+        Payback, Pin Missile, Poison Jab, Protect, Pursuit, Rage, Rest, Return, Rock
+          Smash, Roost, Round, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Struggle
+          Bug, Substitute, Sunny Day, Swagger, Swords Dance, Tailwind, Thief, Toxic,
+        Toxic Spikes, Twineedle, U-turn, Venoshock, X-Scissor, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Aerial Ace, Agility, Air Cutter, Assurance, Attract, Brick Break, Captivate,
         Cut, Defog, Double Team, Endeavor, Endure, Facade, False Swipe, Flash, Focus
           Energy, Frustration, Fury Attack, Fury Cutter, Giga Drain, Giga Impact,
-        Hidden Power, Hyper Beam, Knock Off, Natural Gift, Ominous Wind, Payback,
-        Pin Missile, Poison Jab, Protect, Pursuit, Rage, Rest, Return, Rock Smash,
-        Roost, Secret Power, Silver Wind, Sleep Talk, Sludge Bomb, Snore, Solar Beam,
-        Substitute, Sunny Day, Swagger, Swift, Swords Dance, Tailwind, Thief, Toxic,
-        Toxic Spikes, Twineedle, U-turn, X-Scissor]
+        Hyper Beam, Knock Off, Natural Gift, Ominous Wind, Payback, Pin Missile, Poison
+          Jab, Protect, Pursuit, Rage, Rest, Return, Rock Smash, Roost, Secret Power,
+        Silver Wind, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Substitute, Sunny
+          Day, Swagger, Swift, Swords Dance, Tailwind, Thief, Toxic, Toxic Spikes,
+        Twineedle, U-turn, X-Scissor, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rs: [Aerial Ace, Agility, Attract, Brick Break, Cut, Double-Edge, Double Team,
         Endeavor, Endure, Facade, Focus Energy, Frustration, Fury Attack, Fury Cutter,
-        Giga Drain, Hidden Power, Hyper Beam, Mimic, Pin Missile, Protect, Pursuit,
-        Rage, Rest, Return, Rock Smash, Secret Power, Sleep Talk, Sludge Bomb, Snore,
-        Solar Beam, Substitute, Sunny Day, Swagger, Swift, Swords Dance, Thief, Toxic,
-        Twineedle]
+        Giga Drain, Hyper Beam, Mimic, Pin Missile, Protect, Pursuit, Rage, Rest,
+        Return, Rock Smash, Secret Power, Sleep Talk, Sludge Bomb, Snore, Solar Beam,
+        Substitute, Sunny Day, Swagger, Swift, Swords Dance, Thief, Toxic, Twineedle,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rb: [Agility, Bide, Cut, Double-Edge, Double Team, Focus Energy, Fury Attack,
         Hyper Beam, Mega Drain, Mimic, Pin Missile, Rage, Reflect, Rest, Skull Bash,
         Substitute, Swift, Swords Dance, Take Down, Toxic, Twineedle]
     - xy: [Acrobatics, Aerial Ace, Agility, Air Cutter, Assurance, Attract, Baton
           Pass, Brick Break, Captivate, Cut, Defog, Double-Edge, Double Team, Endeavor,
         Endure, Facade, False Swipe, Flash, Focus Energy, Frustration, Fury Attack,
-        Fury Cutter, Giga Drain, Giga Impact, Hidden Power, Hyper Beam, Knock Off,
-        Mimic, Natural Gift, Ominous Wind, Payback, Pin Missile, Poison Jab, Protect,
-        Pursuit, Rage, Rest, Return, Rock Smash, Roost, Round, Secret Power, Silver
-          Wind, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Struggle Bug, Substitute,
-        Sunny Day, Swagger, Swift, Swords Dance, Tailwind, Thief, Toxic, Toxic Spikes,
-        Twineedle, U-turn, Venoshock, X-Scissor, Drill Run, Fell Stinger, Infestation,
-        Confide]
+        Fury Cutter, Giga Drain, Giga Impact, Hyper Beam, Knock Off, Mimic, Natural
+          Gift, Ominous Wind, Payback, Pin Missile, Poison Jab, Protect, Pursuit,
+        Rage, Rest, Return, Rock Smash, Roost, Round, Secret Power, Silver Wind, Sleep
+          Talk, Sludge Bomb, Snore, Solar Beam, Struggle Bug, Substitute, Sunny Day,
+        Swagger, Swift, Swords Dance, Tailwind, Thief, Toxic, Toxic Spikes, Twineedle,
+        U-turn, Venoshock, X-Scissor, Drill Run, Fell Stinger, Infestation, Confide,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     stats:
     - [65, 80, 40, 45, 45, 75]
     - gs: [65, 80, 40, 45, 80, 75]

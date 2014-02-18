@@ -13,45 +13,65 @@ pokemon:
     moves:
     - gs: [Attract, Barrier, Confuse Ray, Cross Chop, Curse, Detect, Double Team,
         Dynamic Punch, Ember, Endure, Fire Blast, Fire Punch, Flamethrower, Frustration,
-        Headbutt, Hidden Power, Iron Tail, Karate Chop, Leer, Mega Punch, Mud-Slap,
-        Protect, Psychic, Rest, Return, Screech, Sleep Talk, Smog, Smoke Screen, Snore,
-        Sunny Day, Swagger, Thief, Thunder Punch, Toxic]
+        Headbutt, Iron Tail, Karate Chop, Leer, Mega Punch, Mud-Slap, Protect, Psychic,
+        Rest, Return, Screech, Sleep Talk, Smog, Smoke Screen, Snore, Sunny Day, Swagger,
+        Thief, Thunder Punch, Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
     - bw: [Attract, Barrier, Belly Drum, Brick Break, Clear Smog, Confuse Ray, Covet,
         Cross Chop, Double Team, Dual Chop, Dynamic Punch, Ember, Facade, Feint Attack,
         Fire Blast, Fire Punch, Fire Spin, Flame Burst, Flame Charge, Flamethrower,
-        Flare Blitz, Fling, Focus Energy, Frustration, Heat Wave, Helping Hand, Hidden
-          Power, Incinerate, Iron Tail, Karate Chop, Lava Plume, Leer, Mach Punch,
-        Mega Punch, Overheat, Protect, Psychic, Rest, Return, Rock Smash, Round, Screech,
-        Sleep Talk, Smog, Smoke Screen, Snore, Substitute, Sunny Day, Swagger, Thief,
-        Thunder Punch, Toxic, Uproar, Will-O-Wisp, Body Slam, Double-Edge, Mimic,
-        Seismic Toss]
+        Flare Blitz, Fling, Focus Energy, Frustration, Heat Wave, Helping Hand, Incinerate,
+        Iron Tail, Karate Chop, Lava Plume, Leer, Mach Punch, Mega Punch, Overheat,
+        Protect, Psychic, Rest, Return, Rock Smash, Round, Screech, Sleep Talk, Smog,
+        Smoke Screen, Snore, Substitute, Sunny Day, Swagger, Thief, Thunder Punch,
+        Toxic, Uproar, Will-O-Wisp, Body Slam, Double-Edge, Mimic, Seismic Toss, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - dp: [Attract, Barrier, Belly Drum, Brick Break, Captivate, Confuse Ray, Cross
           Chop, Double Team, Dynamic Punch, Ember, Endure, Facade, Feint Attack, Fire
           Blast, Fire Punch, Fire Spin, Flamethrower, Flare Blitz, Fling, Focus Punch,
-        Frustration, Headbutt, Heat Wave, Helping Hand, Hidden Power, Iron Tail, Karate
-          Chop, Lava Plume, Leer, Mach Punch, Mega Punch, Mud-Slap, Natural Gift,
-        Overheat, Protect, Psychic, Rest, Return, Rock Smash, Screech, Secret Power,
-        Sleep Talk, Smog, Smoke Screen, Snore, Substitute, Sunny Day, Swagger, Thief,
-        Thunder Punch, Toxic, Uproar, Will-O-Wisp, Body Slam, Double-Edge, Mimic,
-        Seismic Toss]
+        Frustration, Headbutt, Heat Wave, Helping Hand, Iron Tail, Karate Chop, Lava
+          Plume, Leer, Mach Punch, Mega Punch, Mud-Slap, Natural Gift, Overheat, Protect,
+        Psychic, Rest, Return, Rock Smash, Screech, Secret Power, Sleep Talk, Smog,
+        Smoke Screen, Snore, Substitute, Sunny Day, Swagger, Thief, Thunder Punch,
+        Toxic, Uproar, Will-O-Wisp, Body Slam, Double-Edge, Mimic, Seismic Toss, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rs: [Attract, Barrier, Body Slam, Brick Break, Confuse Ray, Counter, Cross Chop,
         Double-Edge, Double Team, Dynamic Punch, Ember, Endure, Facade, Fire Blast,
-        Fire Punch, Flamethrower, Focus Punch, Frustration, Hidden Power, Iron Tail,
-        Karate Chop, Leer, Mega Kick, Mega Punch, Mimic, Mud-Slap, Protect, Psychic,
-        Rest, Return, Rock Smash, Screech, Secret Power, Seismic Toss, Sleep Talk,
-        Smog, Smoke Screen, Snore, Substitute, Sunny Day, Swagger, Thief, Thunder
-          Punch, Toxic, Body Slam, Double-Edge, Mimic, Seismic Toss]
+        Fire Punch, Flamethrower, Focus Punch, Frustration, Iron Tail, Karate Chop,
+        Leer, Mega Kick, Mega Punch, Mimic, Mud-Slap, Protect, Psychic, Rest, Return,
+        Rock Smash, Screech, Secret Power, Seismic Toss, Sleep Talk, Smog, Smoke Screen,
+        Snore, Substitute, Sunny Day, Swagger, Thief, Thunder Punch, Toxic, Body Slam,
+        Double-Edge, Mimic, Seismic Toss, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Attract, Barrier, Belly Drum, Body Slam, Brick Break, Captivate, Clear
           Smog, Confuse Ray, Counter, Cross Chop, Double-Edge, Double Team, Dynamic
           Punch, Ember, Endure, Facade, Feint Attack, Fire Blast, Fire Punch, Fire
           Spin, Flame Burst, Flame Charge, Flamethrower, Flare Blitz, Fling, Focus
-          Energy, Focus Punch, Frustration, Headbutt, Heat Wave, Helping Hand, Hidden
-          Power, Incinerate, Iron Tail, Karate Chop, Lava Plume, Leer, Mach Punch,
-        Mega Kick, Mega Punch, Mimic, Mud-Slap, Natural Gift, Overheat, Protect, Psychic,
-        Rest, Return, Rock Smash, Round, Screech, Secret Power, Seismic Toss, Sleep
-          Talk, Smog, Smoke Screen, Snore, Substitute, Sunny Day, Swagger, Thief,
-        Thunder Punch, Toxic, Uproar, Will-O-Wisp, Covet, Dual Chop, Power-Up Punch,
-        Confide, Power Swap, Belch]
+          Energy, Focus Punch, Frustration, Headbutt, Heat Wave, Helping Hand, Incinerate,
+        Iron Tail, Karate Chop, Lava Plume, Leer, Mach Punch, Mega Kick, Mega Punch,
+        Mimic, Mud-Slap, Natural Gift, Overheat, Protect, Psychic, Rest, Return, Rock
+          Smash, Round, Screech, Secret Power, Seismic Toss, Sleep Talk, Smog, Smoke
+          Screen, Snore, Substitute, Sunny Day, Swagger, Thief, Thunder Punch, Toxic,
+        Uproar, Will-O-Wisp, Covet, Dual Chop, Power-Up Punch, Confide, Power Swap,
+        Belch, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [45, 75, 37, 70, 55, 83]
     tags:

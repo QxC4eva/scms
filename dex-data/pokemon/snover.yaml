@@ -55,30 +55,42 @@ pokemon:
     moves:
     - bw: [Attract, Avalanche, Blizzard, Bullet Seed, Double-Edge, Double Team, Energy
           Ball, Facade, Flash, Frost Breath, Frustration, Giga Drain, Grass Knot,
-        Grass Whistle, Growth, Hail, Hidden Power, Ice Beam, Ice Punch, Ice Shard,
-        Icy Wind, Ingrain, Iron Tail, Leech Seed, Leer, Light Screen, Magical Leaf,
-        Mist, Natural Gift, Powder Snow, Protect, Rain Dance, Razor Leaf, Rest, Return,
-        Role Play, Round, Safeguard, Seed Bomb, Shadow Ball, Sheer Cold, Skull Bash,
-        Sleep Talk, Snore, Solar Beam, Stomp, Substitute, Swagger, Swords Dance, Synthesis,
-        Toxic, Wood Hammer, Worry Seed]
+        Grass Whistle, Growth, Hail, Ice Beam, Ice Punch, Ice Shard, Icy Wind, Ingrain,
+        Iron Tail, Leech Seed, Leer, Light Screen, Magical Leaf, Mist, Natural Gift,
+        Powder Snow, Protect, Rain Dance, Razor Leaf, Rest, Return, Role Play, Round,
+        Safeguard, Seed Bomb, Shadow Ball, Sheer Cold, Skull Bash, Sleep Talk, Snore,
+        Solar Beam, Stomp, Substitute, Swagger, Swords Dance, Synthesis, Toxic, Wood
+          Hammer, Worry Seed, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - dp: [Attract, Avalanche, Blizzard, Bullet Seed, Captivate, Double-Edge, Double
           Team, Endure, Energy Ball, Facade, Flash, Frustration, Giga Drain, Grass
-          Knot, Grass Whistle, Growth, Hail, Headbutt, Hidden Power, Ice Beam, Ice
-          Punch, Ice Shard, Icy Wind, Ingrain, Iron Tail, Leech Seed, Leer, Light
-          Screen, Magical Leaf, Mist, Mud-Slap, Natural Gift, Powder Snow, Protect,
-        Rain Dance, Razor Leaf, Rest, Return, Role Play, Safeguard, Secret Power,
-        Seed Bomb, Shadow Ball, Sheer Cold, Skull Bash, Sleep Talk, Snore, Solar Beam,
-        Stomp, Substitute, Swagger, Swords Dance, Synthesis, Toxic, Water Pulse, Wood
-          Hammer, Worry Seed]
+          Knot, Grass Whistle, Growth, Hail, Headbutt, Ice Beam, Ice Punch, Ice Shard,
+        Icy Wind, Ingrain, Iron Tail, Leech Seed, Leer, Light Screen, Magical Leaf,
+        Mist, Mud-Slap, Natural Gift, Powder Snow, Protect, Rain Dance, Razor Leaf,
+        Rest, Return, Role Play, Safeguard, Secret Power, Seed Bomb, Shadow Ball,
+        Sheer Cold, Skull Bash, Sleep Talk, Snore, Solar Beam, Stomp, Substitute,
+        Swagger, Swords Dance, Synthesis, Toxic, Water Pulse, Wood Hammer, Worry Seed,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - xy: [Attract, Avalanche, Blizzard, Bullet Seed, Captivate, Double-Edge, Double
           Team, Endure, Energy Ball, Facade, Flash, Frost Breath, Frustration, Giga
-          Drain, Grass Knot, Grass Whistle, Growth, Hail, Headbutt, Hidden Power,
-        Ice Beam, Ice Punch, Ice Shard, Icy Wind, Ingrain, Iron Tail, Leech Seed,
-        Leer, Light Screen, Magical Leaf, Mist, Mud-Slap, Natural Gift, Powder Snow,
-        Protect, Rain Dance, Razor Leaf, Rest, Return, Role Play, Round, Safeguard,
-        Secret Power, Seed Bomb, Shadow Ball, Sheer Cold, Skull Bash, Sleep Talk,
-        Snore, Solar Beam, Stomp, Substitute, Swagger, Swords Dance, Synthesis, Toxic,
-        Water Pulse, Wood Hammer, Worry Seed, Confide]
+          Drain, Grass Knot, Grass Whistle, Growth, Hail, Headbutt, Ice Beam, Ice
+          Punch, Ice Shard, Icy Wind, Ingrain, Iron Tail, Leech Seed, Leer, Light
+          Screen, Magical Leaf, Mist, Mud-Slap, Natural Gift, Powder Snow, Protect,
+        Rain Dance, Razor Leaf, Rest, Return, Role Play, Round, Safeguard, Secret
+          Power, Seed Bomb, Shadow Ball, Sheer Cold, Skull Bash, Sleep Talk, Snore,
+        Solar Beam, Stomp, Substitute, Swagger, Swords Dance, Synthesis, Toxic, Water
+          Pulse, Wood Hammer, Worry Seed, Confide, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [60, 62, 50, 62, 60, 40]
     tags:

@@ -12,31 +12,48 @@ pokemon:
     moves:
     - bw: [Aerial Ace, Bug Bite, Bug Buzz, Cut, Dig, Double Team, Endure, Facade,
         Feint Attack, False Swipe, Final Gambit, Flash, Frustration, Fury Swipes,
-        Giga Drain, Gust, Harden, Hidden Power, Hone Claws, Leech Life, Metal Claw,
-        Mind Reader, Mud-Slap, Night Slash, Protect, Rest, Return, Round, Sand Attack,
-        Sandstorm, Scratch, Shadow Ball, Silver Wind, Sleep Talk, Snore, Solar Beam,
-        Spite, Struggle Bug, Substitute, Sunny Day, Swagger, Toxic, X-Scissor, Double-Edge,
-        Mimic]
+        Giga Drain, Gust, Harden, Hone Claws, Leech Life, Metal Claw, Mind Reader,
+        Mud-Slap, Night Slash, Protect, Rest, Return, Round, Sand Attack, Sandstorm,
+        Scratch, Shadow Ball, Silver Wind, Sleep Talk, Snore, Solar Beam, Spite, Struggle
+          Bug, Substitute, Sunny Day, Swagger, Toxic, X-Scissor, Double-Edge, Mimic,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - dp: [Aerial Ace, Bug Bite, Bug Buzz, Cut, Dig, Double Team, Endure, Facade,
         Feint Attack, False Swipe, Flash, Frustration, Fury Cutter, Fury Swipes, Giga
-          Drain, Gust, Harden, Hidden Power, Leech Life, Metal Claw, Mind Reader,
-        Mud-Slap, Natural Gift, Night Slash, Protect, Rest, Return, Sand Attack, Sandstorm,
-        Scratch, Secret Power, Shadow Ball, Silver Wind, Sleep Talk, Snore, Solar
-          Beam, Spite, String Shot, Substitute, Sunny Day, Swagger, Toxic, X-Scissor,
-        Double-Edge, Mimic]
+          Drain, Gust, Harden, Leech Life, Metal Claw, Mind Reader, Mud-Slap, Natural
+          Gift, Night Slash, Protect, Rest, Return, Sand Attack, Sandstorm, Scratch,
+        Secret Power, Shadow Ball, Silver Wind, Sleep Talk, Snore, Solar Beam, Spite,
+        String Shot, Substitute, Sunny Day, Swagger, Toxic, X-Scissor, Double-Edge,
+        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - rs: [Aerial Ace, Cut, Dig, Double-Edge, Double Team, Endure, Facade, Feint Attack,
         False Swipe, Flash, Frustration, Fury Cutter, Fury Swipes, Giga Drain, Gust,
-        Harden, Hidden Power, Leech Life, Metal Claw, Mimic, Mind Reader, Mud-Slap,
-        Protect, Rest, Return, Sand Attack, Sandstorm, Scratch, Secret Power, Shadow
-          Ball, Silver Wind, Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day,
-        Swagger, Toxic, Double-Edge, Mimic]
+        Harden, Leech Life, Metal Claw, Mimic, Mind Reader, Mud-Slap, Protect, Rest,
+        Return, Sand Attack, Sandstorm, Scratch, Secret Power, Shadow Ball, Silver
+          Wind, Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day, Swagger, Toxic,
+        Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - xy: [Aerial Ace, Bug Bite, Bug Buzz, Cut, Dig, Double-Edge, Double Team, Endure,
         Facade, Feint Attack, False Swipe, Final Gambit, Flash, Frustration, Fury
-          Cutter, Fury Swipes, Giga Drain, Gust, Harden, Hidden Power, Hone Claws,
-        Leech Life, Metal Claw, Mimic, Mind Reader, Mud-Slap, Natural Gift, Night
-          Slash, Protect, Rest, Return, Round, Sand Attack, Sandstorm, Scratch, Secret
-          Power, Shadow Ball, Silver Wind, Sleep Talk, Snore, Solar Beam, Spite, String
-          Shot, Struggle Bug, Substitute, Sunny Day, Swagger, Toxic, X-Scissor, Confide]
+          Cutter, Fury Swipes, Giga Drain, Gust, Harden, Hone Claws, Leech Life, Metal
+          Claw, Mimic, Mind Reader, Mud-Slap, Natural Gift, Night Slash, Protect,
+        Rest, Return, Round, Sand Attack, Sandstorm, Scratch, Secret Power, Shadow
+          Ball, Silver Wind, Sleep Talk, Snore, Solar Beam, Spite, String Shot, Struggle
+          Bug, Substitute, Sunny Day, Swagger, Toxic, X-Scissor, Confide, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     stats:
     - [31, 45, 90, 30, 30, 40]
     tags:

@@ -11,27 +11,40 @@ pokemon:
     moves:
     - bw: [Absorb, Attract, Cotton Spore, Covet, Cut, Double Team, Energy Ball, Extrasensory,
         Facade, Flash, Frustration, Giga Drain, Grass Knot, Grass Whistle, Growth,
-        Hidden Power, Leaf Storm, Mega Drain, Mind Reader, Natural Gift, Pin Missile,
-        Protect, Psych Up, Rain Dance, Razor Leaf, Rest, Return, Round, Seed Bomb,
-        Shadow Ball, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Spikes,
-        Stun Spore, Substitute, Sunny Day, Swagger, Swords Dance, Synthesis, Toxic,
-        Uproar, Venoshock, Water Sport, Worry Seed]
+        Leaf Storm, Mega Drain, Mind Reader, Natural Gift, Pin Missile, Protect, Psych
+          Up, Rain Dance, Razor Leaf, Rest, Return, Round, Seed Bomb, Shadow Ball,
+        Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Spikes, Stun Spore,
+        Substitute, Sunny Day, Swagger, Swords Dance, Synthesis, Toxic, Uproar, Venoshock,
+        Water Sport, Worry Seed, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Absorb, Attract, Bullet Seed, Captivate, Cotton Spore, Cut, Double Team,
         Endure, Energy Ball, Extrasensory, Facade, Flash, Frustration, Giga Drain,
-        Grass Knot, Growth, Hidden Power, Leaf Storm, Mega Drain, Mind Reader, Mud-Slap,
-        Natural Gift, Pin Missile, Protect, Psych Up, Rain Dance, Razor Leaf, Rest,
-        Return, Secret Power, Seed Bomb, Shadow Ball, Sleep Powder, Sleep Talk, Sludge
-          Bomb, Snore, Solar Beam, Spikes, Stun Spore, Substitute, Sunny Day, Swagger,
-        Swift, Swords Dance, Synthesis, Toxic, Uproar, Water Sport, Worry Seed]
+        Grass Knot, Growth, Leaf Storm, Mega Drain, Mind Reader, Mud-Slap, Natural
+          Gift, Pin Missile, Protect, Psych Up, Rain Dance, Razor Leaf, Rest, Return,
+        Secret Power, Seed Bomb, Shadow Ball, Sleep Powder, Sleep Talk, Sludge Bomb,
+        Snore, Solar Beam, Spikes, Stun Spore, Substitute, Sunny Day, Swagger, Swift,
+        Swords Dance, Synthesis, Toxic, Uproar, Water Sport, Worry Seed, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - xy: [Absorb, Attract, Bullet Seed, Captivate, Cotton Spore, Covet, Cut, Double
           Team, Endure, Energy Ball, Extrasensory, Facade, Flash, Frustration, Giga
-          Drain, Grass Knot, Grass Whistle, Growth, Hidden Power, Leaf Storm, Mega
-          Drain, Mind Reader, Mud-Slap, Natural Gift, Pin Missile, Protect, Psych
-          Up, Rain Dance, Razor Leaf, Rest, Return, Round, Secret Power, Seed Bomb,
-        Shadow Ball, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Spikes,
-        Stun Spore, Substitute, Sunny Day, Swagger, Swift, Swords Dance, Synthesis,
-        Toxic, Uproar, Venoshock, Water Sport, Worry Seed, Nature Power, Dazzling
-          Gleam, Confide]
+          Drain, Grass Knot, Grass Whistle, Growth, Leaf Storm, Mega Drain, Mind Reader,
+        Mud-Slap, Natural Gift, Pin Missile, Protect, Psych Up, Rain Dance, Razor
+          Leaf, Rest, Return, Round, Secret Power, Seed Bomb, Shadow Ball, Sleep Powder,
+        Sleep Talk, Sludge Bomb, Snore, Solar Beam, Spikes, Stun Spore, Substitute,
+        Sunny Day, Swagger, Swift, Swords Dance, Synthesis, Toxic, Uproar, Venoshock,
+        Water Sport, Worry Seed, Nature Power, Dazzling Gleam, Confide, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     stats:
     - [40, 30, 35, 50, 70, 55]
     tags:
@@ -59,12 +72,16 @@ pokemon:
         Double-Edge, Mimic, Nightmare, Sweet Kiss]
     - rs: [Absorb, Aromatherapy, Attract, Body Slam, Bullet Seed, Cotton Spore, Cut,
         Double-Edge, Double Team, Endure, Facade, Flash, Frustration, Fury Cutter,
-        Giga Drain, Grass Whistle, Growth, Hidden Power, Ingrain, Leech Seed, Magical
-          Leaf, Mega Drain, Mimic, Mud-Slap, Nightmare, Petal Dance, Pin Missile,
-        Poison Sting, Protect, Psych Up, Rest, Return, Secret Power, Shadow Ball,
-        Sleep Talk, Sludge Bomb, Snore, Solar Beam, Spikes, Stun Spore, Substitute,
-        Sunny Day, Swagger, Sweet Scent, Swift, Swords Dance, Synthesis, Toxic, Double-Edge,
-        Mimic, Nightmare, Sweet Kiss]
+        Giga Drain, Grass Whistle, Growth, Ingrain, Leech Seed, Magical Leaf, Mega
+          Drain, Mimic, Mud-Slap, Nightmare, Petal Dance, Pin Missile, Poison Sting,
+        Protect, Psych Up, Rest, Return, Secret Power, Shadow Ball, Sleep Talk, Sludge
+          Bomb, Snore, Solar Beam, Spikes, Stun Spore, Substitute, Sunny Day, Swagger,
+        Sweet Scent, Swift, Swords Dance, Synthesis, Toxic, Double-Edge, Mimic, Nightmare,
+        Sweet Kiss, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - xy: [Aromatherapy, Body Slam, Double-Edge, Fury Cutter, Ingrain, Leech Seed,
         Magical Leaf, Mimic, Nightmare, Petal Dance, Poison Jab, Poison Sting, Sweet
           Kiss, Sweet Scent, Toxic Spikes, Petal Blizzard]

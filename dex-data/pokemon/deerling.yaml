@@ -12,19 +12,28 @@ pokemon:
     - bw: [Agility, Aromatherapy, Attract, Baton Pass, Bounce, Camouflage, Charm,
         Double-Edge, Double Kick, Double Team, Echoed Voice, Energy Ball, Facade,
         Feint Attack, Fake Tears, Flash, Frustration, Giga Drain, Grass Knot, Grass
-          Whistle, Growl, Hidden Power, Jump Kick, Last Resort, Leech Seed, Light
-          Screen, Natural Gift, Nature Power, Odor Sleuth, Protect, Rain Dance, Rest,
-        Retaliate, Return, Round, Safeguard, Sand Attack, Seed Bomb, Shadow Ball,
-        Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day, Swagger, Synthesis,
-        Tackle, Take Down, Thunder Wave, Toxic, Wild Charge, Work Up, Worry Seed]
+          Whistle, Growl, Jump Kick, Last Resort, Leech Seed, Light Screen, Natural
+          Gift, Nature Power, Odor Sleuth, Protect, Rain Dance, Rest, Retaliate, Return,
+        Round, Safeguard, Sand Attack, Seed Bomb, Shadow Ball, Sleep Talk, Snore,
+        Solar Beam, Substitute, Sunny Day, Swagger, Synthesis, Tackle, Take Down,
+        Thunder Wave, Toxic, Wild Charge, Work Up, Worry Seed, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Agility, Aromatherapy, Attract, Baton Pass, Camouflage, Charm, Double-Edge,
         Double Kick, Double Team, Echoed Voice, Energy Ball, Facade, Feint Attack,
-        Fake Tears, Flash, Frustration, Grass Knot, Grass Whistle, Growl, Hidden Power,
-        Jump Kick, Leech Seed, Light Screen, Natural Gift, Nature Power, Odor Sleuth,
-        Protect, Rain Dance, Rest, Retaliate, Return, Round, Safeguard, Sand Attack,
-        Shadow Ball, Sleep Talk, Solar Beam, Substitute, Sunny Day, Swagger, Synthesis,
+        Fake Tears, Flash, Frustration, Grass Knot, Grass Whistle, Growl, Jump Kick,
+        Leech Seed, Light Screen, Natural Gift, Nature Power, Odor Sleuth, Protect,
+        Rain Dance, Rest, Retaliate, Return, Round, Safeguard, Sand Attack, Shadow
+          Ball, Sleep Talk, Solar Beam, Substitute, Sunny Day, Swagger, Synthesis,
         Tackle, Take Down, Thunder Wave, Toxic, Wild Charge, Work Up, Worry Seed,
-        Seed Bomb, Bounce, Last Resort, Snore, Giga Drain, Confide]
+        Seed Bomb, Bounce, Last Resort, Snore, Giga Drain, Confide, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     stats:
     - [60, 60, 50, 40, 50, 75]
     tags:

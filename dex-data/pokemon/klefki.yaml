@@ -11,11 +11,16 @@ pokemon:
     moves:
     - xy: [Fairy Lock, Tackle, Fairy Wind, Astonish, Metal Sound, Spikes, Draining
           Kiss, Crafty Shield, Foul Play, Torment, Mirror Shot, Imprison, Recycle,
-        Play Rough, Magic Room, Heal Block, Psyshock, Calm Mind, Toxic, Hidden Power,
-        Sunny Day, Hyper Beam, Light Screen, Protect, Rain Dance, Safeguard, Frustration,
-        Return, Psychic, Double Team, Reflect, Facade, Rest, Attract, Thief, Round,
-        Giga Impact, Thunder Wave, Psych Up, Swagger, Sleep Talk, Substitute, Flash
-          Cannon, Dazzling Gleam, Confide, Cut, Iron Defense, Lock-On, Switcheroo]
+        Play Rough, Magic Room, Heal Block, Psyshock, Calm Mind, Toxic, Sunny Day,
+        Hyper Beam, Light Screen, Protect, Rain Dance, Safeguard, Frustration, Return,
+        Psychic, Double Team, Reflect, Facade, Rest, Attract, Thief, Round, Giga Impact,
+        Thunder Wave, Psych Up, Swagger, Sleep Talk, Substitute, Flash Cannon, Dazzling
+          Gleam, Confide, Cut, Iron Defense, Lock-On, Switcheroo, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     stats:
     - [57, 80, 91, 80, 87, 75]
     tags:

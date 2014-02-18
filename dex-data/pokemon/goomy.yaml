@@ -30,11 +30,15 @@ pokemon:
     introduction: xy
     moves:
     - xy: [Tackle, Bubble, Absorb, Protect, Bide, Dragon Breath, Rain Dance, Flail,
-        Body Slam, Muddy Water, Dragon Pulse, Toxic, Hidden Power, Sunny Day, Frustration,
-        Thunderbolt, Return, Double Team, Sludge Wave, Sludge Bomb, Facade, Rest,
-        Attract, Round, Rock Slide, Infestation, Swagger, Sleep Talk, Substitute,
-        Confide, Draco Meteor, Poison Tail, Iron Tail, Curse, Acid Armor, Counter,
-        Endure]
+        Body Slam, Muddy Water, Dragon Pulse, Toxic, Sunny Day, Frustration, Thunderbolt,
+        Return, Double Team, Sludge Wave, Sludge Bomb, Facade, Rest, Attract, Round,
+        Rock Slide, Infestation, Swagger, Sleep Talk, Substitute, Confide, Draco Meteor,
+        Poison Tail, Iron Tail, Curse, Acid Armor, Counter, Endure, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     stats:
     - [45, 50, 35, 55, 75, 40]
     tags:

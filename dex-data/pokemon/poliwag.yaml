@@ -42,44 +42,64 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Attract, Belly Drum, Blizzard, Body Slam, Bubble, Bubble Beam, Curse, Defense
-          Curl, Double Team, Double Slap, Endure, Frustration, Haze, Headbutt, Hidden
-          Power, Hydro Pump, Hypnosis, Ice Beam, Icy Wind, Mind Reader, Mist, Protect,
-        Psychic, Rain Dance, Rest, Return, Sleep Talk, Snore, Splash, Surf, Swagger,
-        Thief, Toxic, Water Gun, Waterfall, Whirlpool, Growth, Lovely Kiss, Sweet
-          Kiss]
+          Curl, Double Team, Double Slap, Endure, Frustration, Haze, Headbutt, Hydro
+          Pump, Hypnosis, Ice Beam, Icy Wind, Mind Reader, Mist, Protect, Psychic,
+        Rain Dance, Rest, Return, Sleep Talk, Snore, Splash, Surf, Swagger, Thief,
+        Toxic, Water Gun, Waterfall, Whirlpool, Growth, Lovely Kiss, Sweet Kiss, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - bw: [Attract, Belly Drum, Blizzard, Body Slam, Bubble, Bubble Beam, Dig, Dive,
         Double Team, Double Slap, Encore, Endeavor, Endure, Facade, Frustration, Hail,
-        Haze, Helping Hand, Hidden Power, Hydro Pump, Hypnosis, Ice Ball, Ice Beam,
-        Icy Wind, Mind Reader, Mist, Mud Bomb, Mud Shot, Protect, Psychic, Rain Dance,
-        Refresh, Rest, Return, Round, Scald, Sleep Talk, Snore, Splash, Substitute,
-        Surf, Swagger, Thief, Toxic, Wake-Up Slap, Water Gun, Water Pulse, Water Sport,
-        Waterfall, Double-Edge, Icy Wind, Mimic]
+        Haze, Helping Hand, Hydro Pump, Hypnosis, Ice Ball, Ice Beam, Icy Wind, Mind
+          Reader, Mist, Mud Bomb, Mud Shot, Protect, Psychic, Rain Dance, Refresh,
+        Rest, Return, Round, Scald, Sleep Talk, Snore, Splash, Substitute, Surf, Swagger,
+        Thief, Toxic, Wake-Up Slap, Water Gun, Water Pulse, Water Sport, Waterfall,
+        Double-Edge, Icy Wind, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Attract, Belly Drum, Blizzard, Body Slam, Bubble, Bubble Beam, Captivate,
         Dig, Dive, Double Team, Double Slap, Encore, Endeavor, Endure, Facade, Frustration,
-        Hail, Haze, Headbutt, Helping Hand, Hidden Power, Hydro Pump, Hypnosis, Ice
-          Ball, Ice Beam, Icy Wind, Mind Reader, Mist, Mud Bomb, Mud Shot, Natural
-          Gift, Protect, Psychic, Rain Dance, Refresh, Rest, Return, Secret Power,
-        Sleep Talk, Snore, Splash, Substitute, Surf, Swagger, Thief, Toxic, Wake-Up
-          Slap, Water Gun, Water Pulse, Water Sport, Waterfall, Whirlpool, Double-Edge,
-        Icy Wind, Mimic]
+        Hail, Haze, Headbutt, Helping Hand, Hydro Pump, Hypnosis, Ice Ball, Ice Beam,
+        Icy Wind, Mind Reader, Mist, Mud Bomb, Mud Shot, Natural Gift, Protect, Psychic,
+        Rain Dance, Refresh, Rest, Return, Secret Power, Sleep Talk, Snore, Splash,
+        Substitute, Surf, Swagger, Thief, Toxic, Wake-Up Slap, Water Gun, Water Pulse,
+        Water Sport, Waterfall, Whirlpool, Double-Edge, Icy Wind, Mimic, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - rs: [Attract, Belly Drum, Blizzard, Body Slam, Bubble, Bubble Beam, Defense
           Curl, Dig, Dive, Double-Edge, Double Team, Double Slap, Endure, Facade,
-        Frustration, Hail, Haze, Hidden Power, Hydro Pump, Hypnosis, Ice Ball, Ice
-          Beam, Icy Wind, Mimic, Mind Reader, Mist, Protect, Psychic, Rain Dance,
-        Rest, Return, Secret Power, Sleep Talk, Snore, Splash, Substitute, Surf, Swagger,
-        Thief, Toxic, Water Gun, Water Pulse, Water Sport, Waterfall, Sweet Kiss,
-        Double-Edge, Icy Wind, Mimic]
+        Frustration, Hail, Haze, Hydro Pump, Hypnosis, Ice Ball, Ice Beam, Icy Wind,
+        Mimic, Mind Reader, Mist, Protect, Psychic, Rain Dance, Rest, Return, Secret
+          Power, Sleep Talk, Snore, Splash, Substitute, Surf, Swagger, Thief, Toxic,
+        Water Gun, Water Pulse, Water Sport, Waterfall, Sweet Kiss, Double-Edge, Icy
+          Wind, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - rb: [Amnesia, Bide, Blizzard, Body Slam, Bubble, Bubble Beam, Double-Edge, Double
           Team, Double Slap, Hydro Pump, Hypnosis, Ice Beam, Mimic, Psychic, Psywave,
         Rage, Rest, Skull Bash, Substitute, Surf, Take Down, Toxic, Water Gun]
     - xy: [Attract, Belly Drum, Blizzard, Body Slam, Bubble, Bubble Beam, Captivate,
         Defense Curl, Dig, Dive, Double-Edge, Double Slap, Double Team, Encore, Endeavor,
-        Endure, Facade, Frustration, Hail, Haze, Headbutt, Hidden Power, Hydro Pump,
-        Hypnosis, Ice Ball, Ice Beam, Icy Wind, Mimic, Mind Reader, Mist, Mud Bomb,
-        Mud Shot, Natural Gift, Protect, Psychic, Rain Dance, Refresh, Rest, Return,
-        Round, Scald, Secret Power, Sleep Talk, Snore, Splash, Substitute, Surf, Swagger,
+        Endure, Facade, Frustration, Hail, Haze, Headbutt, Hydro Pump, Hypnosis, Ice
+          Ball, Ice Beam, Icy Wind, Mimic, Mind Reader, Mist, Mud Bomb, Mud Shot,
+        Natural Gift, Protect, Psychic, Rain Dance, Refresh, Rest, Return, Round,
+        Scald, Secret Power, Sleep Talk, Snore, Splash, Substitute, Surf, Swagger,
         Sweet Kiss, Thief, Toxic, Wake-Up Slap, Waterfall, Water Gun, Water Pulse,
-        Water Sport, Whirlpool, Helping Hand, Confide]
+        Water Sport, Whirlpool, Helping Hand, Confide, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [40, 50, 40, 40, 40, 90]
     - gs: [40, 50, 40, 40, 40, 90]

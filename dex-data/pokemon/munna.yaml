@@ -12,23 +12,32 @@ pokemon:
     moves:
     - bw: [After You, Attract, Barrier, Baton Pass, Calm Mind, Charge Beam, Curse,
         Defense Curl, Double Team, Dream Eater, Energy Ball, Facade, Flash, Frustration,
-        Future Sight, Gravity, Gyro Ball, Heal Bell, Helping Hand, Hidden Power, Hypnosis,
-        Imprison, Light Screen, Lucky Chant, Magic Coat, Moonlight, Nightmare, Pain
-          Split, Protect, Psybeam, Psych Up, Psychic, Psyshock, Psywave, Rain Dance,
-        Reflect, Rest, Return, Rock Slide, Rock Tomb, Round, Safeguard, Secret Power,
-        Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snore, Sonic Boom, Stored
-          Power, Substitute, Swagger, Swift, Synchronoise, Telekinesis, Thunder Wave,
-        Torment, Toxic, Trick, Trick Room, Wonder Room, Worry Seed, Yawn, Zen Headbutt]
+        Future Sight, Gravity, Gyro Ball, Heal Bell, Helping Hand, Hypnosis, Imprison,
+        Light Screen, Lucky Chant, Magic Coat, Moonlight, Nightmare, Pain Split, Protect,
+        Psybeam, Psych Up, Psychic, Psyshock, Psywave, Rain Dance, Reflect, Rest,
+        Return, Rock Slide, Rock Tomb, Round, Safeguard, Secret Power, Shadow Ball,
+        Signal Beam, Skill Swap, Sleep Talk, Snore, Sonic Boom, Stored Power, Substitute,
+        Swagger, Swift, Synchronoise, Telekinesis, Thunder Wave, Torment, Toxic, Trick,
+        Trick Room, Wonder Room, Worry Seed, Yawn, Zen Headbutt, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - xy: [Attract, Barrier, Baton Pass, Calm Mind, Charge Beam, Curse, Defense Curl,
         Double Team, Dream Eater, Energy Ball, Facade, Flash, Frustration, Future
-          Sight, Gyro Ball, Helping Hand, Hidden Power, Hypnosis, Imprison, Light
-          Screen, Lucky Chant, Magic Coat, Moonlight, Nightmare, Protect, Psybeam,
-        Psychic, Psych Up, Psyshock, Psywave, Rain Dance, Reflect, Rest, Return, Rock
-          Slide, Rock Tomb, Round, Safeguard, Secret Power, Shadow Ball, Sleep Talk,
-        Sonic Boom, Stored Power, Substitute, Swagger, Swift, Synchronoise, Telekinesis,
-        Thunder Wave, Torment, Toxic, Trick Room, Yawn, Zen Headbutt, Signal Beam,
-        Gravity, Snore, Heal Bell, Pain Split, Worry Seed, After You, Trick, Wonder
-          Room, Skill Swap, Dazzling Gleam, Confide, Healing Wish]
+          Sight, Gyro Ball, Helping Hand, Hypnosis, Imprison, Light Screen, Lucky
+          Chant, Magic Coat, Moonlight, Nightmare, Protect, Psybeam, Psychic, Psych
+          Up, Psyshock, Psywave, Rain Dance, Reflect, Rest, Return, Rock Slide, Rock
+          Tomb, Round, Safeguard, Secret Power, Shadow Ball, Sleep Talk, Sonic Boom,
+        Stored Power, Substitute, Swagger, Swift, Synchronoise, Telekinesis, Thunder
+          Wave, Torment, Toxic, Trick Room, Yawn, Zen Headbutt, Signal Beam, Gravity,
+        Snore, Heal Bell, Pain Split, Worry Seed, After You, Trick, Wonder Room, Skill
+          Swap, Dazzling Gleam, Confide, Healing Wish, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     - []
     stats:
     - [76, 25, 45, 67, 55, 24]

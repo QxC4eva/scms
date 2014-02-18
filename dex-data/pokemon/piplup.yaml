@@ -40,28 +40,40 @@ pokemon:
     - bw: [Aerial Ace, Agility, Aqua Ring, Attract, Bide, Blizzard, Brick Break, Brine,
         Bubble, Bubble Beam, Covet, Cut, Dig, Dive, Double Hit, Double Team, Drill
           Peck, Echoed Voice, Facade, Feather Dance, Flail, Fling, Frustration, Fury
-          Attack, Grass Knot, Growl, Hail, Hidden Power, Hydro Pump, Ice Beam, Icy
-          Wind, Mist, Mud-Slap, Mud Sport, Peck, Pluck, Pound, Protect, Quash, Rain
-          Dance, Rest, Return, Rock Tomb, Round, Scald, Signal Beam, Sleep Talk, Snore,
-        Stealth Rock, Substitute, Supersonic, Surf, Swagger, Toxic, Water Pledge,
-        Water Sport, Waterfall, Whirlpool, Yawn, Sing]
+          Attack, Grass Knot, Growl, Hail, Hydro Pump, Ice Beam, Icy Wind, Mist, Mud-Slap,
+        Mud Sport, Peck, Pluck, Pound, Protect, Quash, Rain Dance, Rest, Return, Rock
+          Tomb, Round, Scald, Signal Beam, Sleep Talk, Snore, Stealth Rock, Substitute,
+        Supersonic, Surf, Swagger, Toxic, Water Pledge, Water Sport, Waterfall, Whirlpool,
+        Yawn, Sing, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - dp: [Aerial Ace, Agility, Aqua Ring, Attract, Bide, Blizzard, Brick Break, Brine,
         Bubble, Bubble Beam, Captivate, Cut, Defog, Dig, Dive, Double Hit, Double
           Team, Drill Peck, Endure, Facade, Feather Dance, Flail, Fling, Frustration,
-        Fury Attack, Grass Knot, Growl, Hail, Headbutt, Hidden Power, Hydro Pump,
-        Ice Beam, Icy Wind, Mist, Mud-Slap, Mud Sport, Natural Gift, Peck, Pluck,
-        Pound, Protect, Rain Dance, Rest, Return, Rock Tomb, Secret Power, Signal
-          Beam, Sleep Talk, Snore, Stealth Rock, Substitute, Supersonic, Surf, Swagger,
-        Toxic, Water Pulse, Water Sport, Waterfall, Whirlpool, Yawn]
+        Fury Attack, Grass Knot, Growl, Hail, Headbutt, Hydro Pump, Ice Beam, Icy
+          Wind, Mist, Mud-Slap, Mud Sport, Natural Gift, Peck, Pluck, Pound, Protect,
+        Rain Dance, Rest, Return, Rock Tomb, Secret Power, Signal Beam, Sleep Talk,
+        Snore, Stealth Rock, Substitute, Supersonic, Surf, Swagger, Toxic, Water Pulse,
+        Water Sport, Waterfall, Whirlpool, Yawn, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Aerial Ace, Agility, Aqua Ring, Attract, Bide, Blizzard, Brick Break, Brine,
         Bubble, Bubble Beam, Captivate, Cut, Defog, Dig, Dive, Double Hit, Double
           Team, Drill Peck, Echoed Voice, Endure, Facade, Feather Dance, Flail, Fling,
-        Frustration, Fury Attack, Grass Knot, Growl, Hail, Headbutt, Hidden Power,
-        Hydro Pump, Ice Beam, Icy Wind, Mist, Mud-Slap, Mud Sport, Natural Gift, Peck,
-        Pluck, Pound, Protect, Quash, Rain Dance, Rest, Return, Rock Tomb, Round,
-        Scald, Secret Power, Signal Beam, Sleep Talk, Snore, Stealth Rock, Substitute,
-        Supersonic, Surf, Swagger, Toxic, Waterfall, Water Pledge, Water Pulse, Water
-          Sport, Whirlpool, Yawn, Covet, Sing, Confide]
+        Frustration, Fury Attack, Grass Knot, Growl, Hail, Headbutt, Hydro Pump, Ice
+          Beam, Icy Wind, Mist, Mud-Slap, Mud Sport, Natural Gift, Peck, Pluck, Pound,
+        Protect, Quash, Rain Dance, Rest, Return, Rock Tomb, Round, Scald, Secret
+          Power, Signal Beam, Sleep Talk, Snore, Stealth Rock, Substitute, Supersonic,
+        Surf, Swagger, Toxic, Waterfall, Water Pledge, Water Pulse, Water Sport, Whirlpool,
+        Yawn, Covet, Sing, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [53, 51, 53, 61, 56, 40]
     tags:

@@ -14,48 +14,68 @@ pokemon:
     moves:
     - gs: [Attract, Charm, Curse, Defense Curl, Detect, Double Team, Dream Eater,
         Endure, Feint Attack, Fire Blast, Flamethrower, Flash, Frustration, Headbutt,
-        Hidden Power, Icy Wind, Mud-Slap, Nightmare, Perish Song, Pound, Present,
-        Protect, Psych Up, Psychic, Rain Dance, Rest, Return, Rollout, Shadow Ball,
-        Sing, Sleep Talk, Snore, Solar Beam, Sunny Day, Swagger, Sweet Kiss, Toxic,
-        Zap Cannon]
+        Icy Wind, Mud-Slap, Nightmare, Perish Song, Pound, Present, Protect, Psych
+          Up, Psychic, Rain Dance, Rest, Return, Rollout, Shadow Ball, Sing, Sleep
+          Talk, Snore, Solar Beam, Sunny Day, Swagger, Sweet Kiss, Toxic, Zap Cannon,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - bw: [Attract, Bounce, Captivate, Charm, Copycat, Covet, Defense Curl, Dig, Double
           Team, Dream Eater, Echoed Voice, Endeavor, Facade, Feint Attack, Fake Tears,
         Fire Blast, Flamethrower, Flash, Fling, Frustration, Grass Knot, Gravity,
-        Heal Bell, Helping Hand, Hidden Power, Hyper Voice, Icy Wind, Incinerate,
-        Last Resort, Light Screen, Magic Coat, Pain Split, Perish Song, Pound, Present,
-        Protect, Psych Up, Psychic, Punishment, Rain Dance, Recycle, Reflect, Rest,
-        Return, Role Play, Round, Safeguard, Shadow Ball, Sing, Sleep Talk, Snore,
-        Solar Beam, Substitute, Sunny Day, Swagger, Sweet Kiss, Thunder Wave, Toxic,
-        Uproar, Wild Charge, Wish, Work Up]
+        Heal Bell, Helping Hand, Hyper Voice, Icy Wind, Incinerate, Last Resort, Light
+          Screen, Magic Coat, Pain Split, Perish Song, Pound, Present, Protect, Psych
+          Up, Psychic, Punishment, Rain Dance, Recycle, Reflect, Rest, Return, Role
+          Play, Round, Safeguard, Shadow Ball, Sing, Sleep Talk, Snore, Solar Beam,
+        Substitute, Sunny Day, Swagger, Sweet Kiss, Thunder Wave, Toxic, Uproar, Wild
+          Charge, Wish, Work Up, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
     - dp: [Attract, Bounce, Captivate, Charm, Copycat, Covet, Defense Curl, Dig, Double
           Team, Dream Eater, Endeavor, Endure, Facade, Feint Attack, Fake Tears, Fire
           Blast, Flamethrower, Flash, Fling, Frustration, Grass Knot, Gravity, Headbutt,
-        Heal Bell, Helping Hand, Hidden Power, Icy Wind, Last Resort, Light Screen,
-        Magic Coat, Mud-Slap, Natural Gift, Pain Split, Perish Song, Pound, Present,
-        Protect, Psych Up, Psychic, Rain Dance, Recycle, Reflect, Rest, Return, Role
-          Play, Rollout, Safeguard, Secret Power, Shadow Ball, Shock Wave, Sing, Sleep
-          Talk, Snore, Solar Beam, Substitute, Sunny Day, Swagger, Sweet Kiss, Thunder
-          Wave, Toxic, Uproar, Water Pulse, Wish]
+        Heal Bell, Helping Hand, Icy Wind, Last Resort, Light Screen, Magic Coat,
+        Mud-Slap, Natural Gift, Pain Split, Perish Song, Pound, Present, Protect,
+        Psych Up, Psychic, Rain Dance, Recycle, Reflect, Rest, Return, Role Play,
+        Rollout, Safeguard, Secret Power, Shadow Ball, Shock Wave, Sing, Sleep Talk,
+        Snore, Solar Beam, Substitute, Sunny Day, Swagger, Sweet Kiss, Thunder Wave,
+        Toxic, Uproar, Water Pulse, Wish, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - rs: [Attract, Body Slam, Charm, Counter, Defense Curl, Dig, Double-Edge, Double
           Team, Dream Eater, Endure, Facade, Feint Attack, Fake Tears, Fire Blast,
-        Flamethrower, Flash, Frustration, Hidden Power, Icy Wind, Light Screen, Mega
-          Kick, Mega Punch, Mimic, Mud-Slap, Nightmare, Perish Song, Pound, Present,
-        Protect, Psych Up, Psychic, Rain Dance, Reflect, Rest, Return, Rollout, Safeguard,
+        Flamethrower, Flash, Frustration, Icy Wind, Light Screen, Mega Kick, Mega
+          Punch, Mimic, Mud-Slap, Nightmare, Perish Song, Pound, Present, Protect,
+        Psych Up, Psychic, Rain Dance, Reflect, Rest, Return, Rollout, Safeguard,
         Secret Power, Seismic Toss, Shadow Ball, Shock Wave, Sing, Sleep Talk, Snore,
         Solar Beam, Substitute, Sunny Day, Swagger, Sweet Kiss, Thunder Wave, Toxic,
-        Water Pulse, Wish]
+        Water Pulse, Wish, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
     - xy: [Attract, Body Slam, Bounce, Captivate, Charm, Copycat, Counter, Covet,
         Defense Curl, Dig, Double-Edge, Double Team, Dream Eater, Echoed Voice, Endeavor,
         Endure, Facade, Feint Attack, Fake Tears, Fire Blast, Flamethrower, Flash,
         Fling, Frustration, Grass Knot, Gravity, Headbutt, Heal Bell, Helping Hand,
-        Hidden Power, Icy Wind, Incinerate, Last Resort, Light Screen, Magic Coat,
-        Mega Kick, Mega Punch, Mimic, Mud-Slap, Natural Gift, Nightmare, Pain Split,
-        Perish Song, Pound, Present, Protect, Psychic, Psych Up, Punishment, Rain
-          Dance, Recycle, Reflect, Rest, Return, Role Play, Rollout, Round, Safeguard,
-        Secret Power, Seismic Toss, Shadow Ball, Shock Wave, Sing, Sleep Talk, Snore,
-        Solar Beam, Substitute, Sunny Day, Swagger, Sweet Kiss, Thunder Wave, Tickle,
-        Toxic, Uproar, Water Pulse, Wild Charge, Wish, Work Up, Hyper Voice, Confide,
-        Misty Terrain, Heal Pulse]
+        Icy Wind, Incinerate, Last Resort, Light Screen, Magic Coat, Mega Kick, Mega
+          Punch, Mimic, Mud-Slap, Natural Gift, Nightmare, Pain Split, Perish Song,
+        Pound, Present, Protect, Psychic, Psych Up, Punishment, Rain Dance, Recycle,
+        Reflect, Rest, Return, Role Play, Rollout, Round, Safeguard, Secret Power,
+        Seismic Toss, Shadow Ball, Shock Wave, Sing, Sleep Talk, Snore, Solar Beam,
+        Substitute, Sunny Day, Swagger, Sweet Kiss, Thunder Wave, Tickle, Toxic, Uproar,
+        Water Pulse, Wild Charge, Wish, Work Up, Hyper Voice, Confide, Misty Terrain,
+        Heal Pulse, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [90, 30, 15, 40, 20, 15]
     tags:

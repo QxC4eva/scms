@@ -31,20 +31,28 @@ pokemon:
     introduction: dp
     moves:
     - bw: [Aerial Ace, Attract, Bite, Charm, Covet, Crunch, Dig, Double Team, Endure,
-        Facade, Fire Fang, Frustration, Giga Impact, Helping Hand, Hidden Power, Howl,
-        Hyper Voice, Ice Fang, Last Resort, Leer, Lick, Mud-Slap, Odor Sleuth, Protect,
-        Pursuit, Rain Dance, Rest, Retaliate, Return, Reversal, Roar, Rock Smash,
-        Rock Tomb, Round, Sand Attack, Shadow Ball, Sleep Talk, Snarl, Snore, Substitute,
-        Sunny Day, Swagger, Tackle, Take Down, Thunder Fang, Thunder Wave, Thunderbolt,
-        Toxic, Uproar, Wild Charge, Work Up, Yawn]
-    - xy: [Aerial Ace, Attract, Bite, Charm, Crunch, Dig, Double Team, Endure, Facade,
-        Fire Fang, Frustration, Giga Impact, Helping Hand, Hidden Power, Howl, Ice
-          Fang, Last Resort, Leer, Lick, Mud-Slap, Odor Sleuth, Protect, Pursuit,
+        Facade, Fire Fang, Frustration, Giga Impact, Helping Hand, Howl, Hyper Voice,
+        Ice Fang, Last Resort, Leer, Lick, Mud-Slap, Odor Sleuth, Protect, Pursuit,
         Rain Dance, Rest, Retaliate, Return, Reversal, Roar, Rock Smash, Rock Tomb,
-        Round, Sand Attack, Shadow Ball, Snarl, Substitute, Sunny Day, Swagger, Tackle,
-        Take Down, Thunderbolt, Thunder Fang, Thunder Wave, Toxic, Wild Charge, Work
-          Up, Yawn, Covet, Uproar, Hyper Voice, Snore, Sleep Talk, Baby-Doll Eyes,
-        Play Rough, Confide, After You]
+        Round, Sand Attack, Shadow Ball, Sleep Talk, Snarl, Snore, Substitute, Sunny
+          Day, Swagger, Tackle, Take Down, Thunder Fang, Thunder Wave, Thunderbolt,
+        Toxic, Uproar, Wild Charge, Work Up, Yawn, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Aerial Ace, Attract, Bite, Charm, Crunch, Dig, Double Team, Endure, Facade,
+        Fire Fang, Frustration, Giga Impact, Helping Hand, Howl, Ice Fang, Last Resort,
+        Leer, Lick, Mud-Slap, Odor Sleuth, Protect, Pursuit, Rain Dance, Rest, Retaliate,
+        Return, Reversal, Roar, Rock Smash, Rock Tomb, Round, Sand Attack, Shadow
+          Ball, Snarl, Substitute, Sunny Day, Swagger, Tackle, Take Down, Thunderbolt,
+        Thunder Fang, Thunder Wave, Toxic, Wild Charge, Work Up, Yawn, Covet, Uproar,
+        Hyper Voice, Snore, Sleep Talk, Baby-Doll Eyes, Play Rough, Confide, After
+          You, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water, Hidden Power Fairy]
     - []
     stats:
     - [45, 60, 45, 25, 45, 55]

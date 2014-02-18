@@ -83,13 +83,17 @@ pokemon:
     moves:
     - xy: [Trick, Astonish, Confuse Ray, Scary Face, Trick-or-Treat, Worry Seed, Razor
           Leaf, Leech Seed, Bullet Seed, Shadow Sneak, Shadow Ball, Pain Split, Seed
-          Bomb, Toxic, Hidden Power, Sunny Day, Light Screen, Protect, Safeguard,
-        Frustration, Solar Beam, Return, Psychic, Double Team, Flamethrower, Sludge
-          Bomb, Fire Blast, Facade, Flame Charge, Rest, Attract, Thief, Round, Energy
-          Ball, Charge Beam, Incinerate, Will-O-Wisp, Explosion, Flash, Gyro Ball,
-        Rock Slide, Dream Eater, Grass Knot, Swagger, Sleep Talk, Substitute, Trick
-          Room, Rock Smash, Nature Power, Dark Pulse, Confide, Destiny Bond, Disable,
-        Bestow]
+          Bomb, Toxic, Sunny Day, Light Screen, Protect, Safeguard, Frustration, Solar
+          Beam, Return, Psychic, Double Team, Flamethrower, Sludge Bomb, Fire Blast,
+        Facade, Flame Charge, Rest, Attract, Thief, Round, Energy Ball, Charge Beam,
+        Incinerate, Will-O-Wisp, Explosion, Flash, Gyro Ball, Rock Slide, Dream Eater,
+        Grass Knot, Swagger, Sleep Talk, Substitute, Trick Room, Rock Smash, Nature
+          Power, Dark Pulse, Confide, Destiny Bond, Disable, Bestow, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water, Hidden Power Fairy]
     stats:
     - [49, 66, 70, 44, 55, 51]
     tags:

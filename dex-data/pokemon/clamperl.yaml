@@ -11,27 +11,44 @@ pokemon:
     introduction: rs
     moves:
     - bw: [Aqua Ring, Attract, Barrier, Blizzard, Body Slam, Brine, Clamp, Confuse
-          Ray, Dive, Double Team, Endure, Facade, Frustration, Hail, Hidden Power,
-        Ice Beam, Icy Wind, Iron Defense, Mud Sport, Muddy Water, Protect, Rain Dance,
-        Refresh, Rest, Return, Round, Scald, Shell Smash, Sleep Talk, Snore, Substitute,
-        Supersonic, Surf, Swagger, Toxic, Water Gun, Water Pulse, Waterfall, Whirlpool]
+          Ray, Dive, Double Team, Endure, Facade, Frustration, Hail, Ice Beam, Icy
+          Wind, Iron Defense, Mud Sport, Muddy Water, Protect, Rain Dance, Refresh,
+        Rest, Return, Round, Scald, Shell Smash, Sleep Talk, Snore, Substitute, Supersonic,
+        Surf, Swagger, Toxic, Water Gun, Water Pulse, Waterfall, Whirlpool, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - dp: [Aqua Ring, Attract, Barrier, Blizzard, Body Slam, Brine, Captivate, Clamp,
-        Confuse Ray, Dive, Double Team, Endure, Facade, Frustration, Hail, Hidden
-          Power, Ice Beam, Icy Wind, Iron Defense, Mud Sport, Muddy Water, Natural
-          Gift, Protect, Rain Dance, Refresh, Rest, Return, Secret Power, Sleep Talk,
-        Snore, Substitute, Supersonic, Surf, Swagger, Toxic, Water Gun, Water Pulse,
-        Waterfall, Whirlpool]
+        Confuse Ray, Dive, Double Team, Endure, Facade, Frustration, Hail, Ice Beam,
+        Icy Wind, Iron Defense, Mud Sport, Muddy Water, Natural Gift, Protect, Rain
+          Dance, Refresh, Rest, Return, Secret Power, Sleep Talk, Snore, Substitute,
+        Supersonic, Surf, Swagger, Toxic, Water Gun, Water Pulse, Waterfall, Whirlpool,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - rs: [Attract, Barrier, Blizzard, Body Slam, Clamp, Confuse Ray, Dive, Double-Edge,
-        Double Team, Endure, Facade, Frustration, Hail, Hidden Power, Ice Beam, Icy
-          Wind, Iron Defense, Mimic, Mud Sport, Protect, Rain Dance, Refresh, Rest,
-        Return, Secret Power, Sleep Talk, Snore, Substitute, Supersonic, Surf, Swagger,
-        Toxic, Water Gun, Water Pulse, Waterfall, Whirlpool]
+        Double Team, Endure, Facade, Frustration, Hail, Ice Beam, Icy Wind, Iron Defense,
+        Mimic, Mud Sport, Protect, Rain Dance, Refresh, Rest, Return, Secret Power,
+        Sleep Talk, Snore, Substitute, Supersonic, Surf, Swagger, Toxic, Water Gun,
+        Water Pulse, Waterfall, Whirlpool, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
     - xy: [Aqua Ring, Attract, Barrier, Blizzard, Body Slam, Brine, Captivate, Clamp,
         Confuse Ray, Dive, Double-Edge, Double Team, Endure, Facade, Frustration,
-        Hail, Hidden Power, Ice Beam, Icy Wind, Iron Defense, Mimic, Muddy Water,
-        Mud Sport, Natural Gift, Protect, Rain Dance, Refresh, Rest, Return, Round,
-        Scald, Secret Power, Shell Smash, Sleep Talk, Snore, Substitute, Supersonic,
-        Surf, Swagger, Toxic, Waterfall, Water Gun, Water Pulse, Whirlpool, Confide]
+        Hail, Ice Beam, Icy Wind, Iron Defense, Mimic, Muddy Water, Mud Sport, Natural
+          Gift, Protect, Rain Dance, Refresh, Rest, Return, Round, Scald, Secret Power,
+        Shell Smash, Sleep Talk, Snore, Substitute, Supersonic, Surf, Swagger, Toxic,
+        Waterfall, Water Gun, Water Pulse, Whirlpool, Confide, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [35, 64, 85, 74, 55, 32]
     tags:

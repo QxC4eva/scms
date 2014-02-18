@@ -12,37 +12,49 @@ pokemon:
     - bw: [Acrobatics, Calm Mind, Charge Beam, Confusion, Detect, Double Team, Dream
           Eater, Energy Ball, Explosion, Extrasensory, Facade, Fire Blast, Fire Punch,
         Flamethrower, Flash, Fling, Frustration, Future Sight, Giga Impact, Grass
-          Knot, Helping Hand, Hidden Power, Hyper Beam, Ice Punch, Imprison, Incinerate,
-        Iron Tail, Knock Off, Last Resort, Light Screen, Magic Coat, Magic Room, Nasty
-          Plot, Natural Gift, Payback, Protect, Psych Up, Psychic, Psyshock, Rain
-          Dance, Recycle, Reflect, Rest, Return, Role Play, Round, Safeguard, Sandstorm,
-        Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snore, Stealth Rock, Substitute,
-        Sunny Day, Swagger, Swift, Taunt, Telekinesis, Thunder, Thunder Wave, Thunderbolt,
+          Knot, Helping Hand, Hyper Beam, Ice Punch, Imprison, Incinerate, Iron Tail,
+        Knock Off, Last Resort, Light Screen, Magic Coat, Magic Room, Nasty Plot,
+        Natural Gift, Payback, Protect, Psych Up, Psychic, Psyshock, Rain Dance, Recycle,
+        Reflect, Rest, Return, Role Play, Round, Safeguard, Sandstorm, Shadow Ball,
+        Signal Beam, Skill Swap, Sleep Talk, Snore, Stealth Rock, Substitute, Sunny
+          Day, Swagger, Swift, Taunt, Telekinesis, Thunder, Thunder Wave, Thunderbolt,
         Thunder Punch, Torment, Toxic, Trick, Trick Room, U-turn, Uproar, Wonder Room,
-        Zen Headbutt]
+        Zen Headbutt, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
     - dp: [Calm Mind, Charge Beam, Confusion, Detect, Double Team, Dream Eater, Endure,
         Energy Ball, Explosion, Extrasensory, Facade, Fire Blast, Fire Punch, Flamethrower,
         Flash, Fling, Frustration, Future Sight, Giga Impact, Grass Knot, Headbutt,
-        Helping Hand, Hidden Power, Hyper Beam, Ice Punch, Imprison, Iron Tail, Knock
-          Off, Last Resort, Light Screen, Magic Coat, Mud-Slap, Nasty Plot, Natural
-          Gift, Payback, Protect, Psych Up, Psychic, Rain Dance, Recycle, Reflect,
-        Rest, Return, Role Play, Safeguard, Sandstorm, Secret Power, Shadow Ball,
-        Shock Wave, Signal Beam, Skill Swap, Sleep Talk, Snore, Stealth Rock, Substitute,
-        Sunny Day, Swagger, Swift, Taunt, Thunder, Thunder Wave, Thunderbolt, Thunder
-          Punch, Torment, Toxic, Trick, Trick Room, U-turn, Uproar, Water Pulse, Zen
-          Headbutt]
+        Helping Hand, Hyper Beam, Ice Punch, Imprison, Iron Tail, Knock Off, Last
+          Resort, Light Screen, Magic Coat, Mud-Slap, Nasty Plot, Natural Gift, Payback,
+        Protect, Psych Up, Psychic, Rain Dance, Recycle, Reflect, Rest, Return, Role
+          Play, Safeguard, Sandstorm, Secret Power, Shadow Ball, Shock Wave, Signal
+          Beam, Skill Swap, Sleep Talk, Snore, Stealth Rock, Substitute, Sunny Day,
+        Swagger, Swift, Taunt, Thunder, Thunder Wave, Thunderbolt, Thunder Punch,
+        Torment, Toxic, Trick, Trick Room, U-turn, Uproar, Water Pulse, Zen Headbutt,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
     - xy: [Acrobatics, Calm Mind, Charge Beam, Confusion, Detect, Double Team, Dream
           Eater, Endure, Energy Ball, Explosion, Extrasensory, Facade, Fire Blast,
         Fire Punch, Flamethrower, Flash, Fling, Frustration, Future Sight, Giga Impact,
-        Grass Knot, Headbutt, Helping Hand, Hidden Power, Hyper Beam, Ice Punch, Imprison,
-        Incinerate, Iron Tail, Knock Off, Last Resort, Light Screen, Magic Coat, Mud-Slap,
-        Nasty Plot, Natural Gift, Payback, Protect, Psychic, Psych Up, Psyshock, Rain
+        Grass Knot, Headbutt, Helping Hand, Hyper Beam, Ice Punch, Imprison, Incinerate,
+        Iron Tail, Knock Off, Last Resort, Light Screen, Magic Coat, Mud-Slap, Nasty
+          Plot, Natural Gift, Payback, Protect, Psychic, Psych Up, Psyshock, Rain
           Dance, Recycle, Reflect, Rest, Return, Role Play, Round, Safeguard, Sandstorm,
         Secret Power, Shadow Ball, Shock Wave, Signal Beam, Skill Swap, Sleep Talk,
         Snore, Stealth Rock, Substitute, Sunny Day, Swagger, Swift, Taunt, Telekinesis,
         Thunder, Thunderbolt, Thunder Punch, Thunder Wave, Torment, Toxic, Trick,
         Trick Room, Uproar, U-turn, Water Pulse, Zen Headbutt, Magic Room, Wonder
-          Room, Power-Up Punch, Dazzling Gleam, Confide]
+          Room, Power-Up Punch, Dazzling Gleam, Confide, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [75, 125, 70, 125, 70, 115]
     tags:

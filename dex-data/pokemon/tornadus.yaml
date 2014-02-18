@@ -12,20 +12,29 @@ pokemon:
     - bw: [Acrobatics, Aerial Ace, Agility, Air Cutter, Air Slash, Astonish, Attract,
         Bite, Brick Break, Bulk Up, Crunch, Dark Pulse, Double Team, Embargo, Extrasensory,
         Facade, Fling, Fly, Focus Blast, Foul Play, Frustration, Giga Impact, Grass
-          Knot, Gust, Hammer Arm, Heat Wave, Hidden Power, Hurricane, Hyper Beam,
-        Icy Wind, Incinerate, Iron Tail, Knock Off, Payback, Protect, Psychic, Rain
-          Dance, Rest, Return, Revenge, Rock Smash, Role Play, Round, Sky Drop, Sleep
-          Talk, Sludge Bomb, Sludge Wave, Smack Down, Snore, Strength, Substitute,
-        Superpower, Swagger, Tailwind, Taunt, Thief, Thrash, Torment, Toxic, U-turn,
-        Uproar]
+          Knot, Gust, Hammer Arm, Heat Wave, Hurricane, Hyper Beam, Icy Wind, Incinerate,
+        Iron Tail, Knock Off, Payback, Protect, Psychic, Rain Dance, Rest, Return,
+        Revenge, Rock Smash, Role Play, Round, Sky Drop, Sleep Talk, Sludge Bomb,
+        Sludge Wave, Smack Down, Snore, Strength, Substitute, Superpower, Swagger,
+        Tailwind, Taunt, Thief, Thrash, Torment, Toxic, U-turn, Uproar, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - xy: [Acrobatics, Aerial Ace, Agility, Air Cutter, Air Slash, Astonish, Attract,
         Bite, Brick Break, Bulk Up, Crunch, Dark Pulse, Double Team, Embargo, Extrasensory,
         Facade, Fling, Fly, Focus Blast, Frustration, Giga Impact, Grass Knot, Gust,
-        Hammer Arm, Hidden Power, Hurricane, Hyper Beam, Incinerate, Payback, Protect,
-        Psychic, Rain Dance, Rest, Return, Revenge, Rock Smash, Round, Sky Drop, Sludge
-          Bomb, Sludge Wave, Smack Down, Strength, Substitute, Swagger, Tailwind,
-        Taunt, Thief, Thrash, Torment, Toxic, Uproar, U-turn, Foul Play, Superpower,
-        Icy Wind, Iron Tail, Snore, Knock Off, Heat Wave, Role Play, Sleep Talk, Confide]
+        Hammer Arm, Hurricane, Hyper Beam, Incinerate, Payback, Protect, Psychic,
+        Rain Dance, Rest, Return, Revenge, Rock Smash, Round, Sky Drop, Sludge Bomb,
+        Sludge Wave, Smack Down, Strength, Substitute, Swagger, Tailwind, Taunt, Thief,
+        Thrash, Torment, Toxic, Uproar, U-turn, Foul Play, Superpower, Icy Wind, Iron
+          Tail, Snore, Knock Off, Heat Wave, Role Play, Sleep Talk, Confide, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     stats:
     - [79, 115, 70, 125, 80, 111]
     tags:

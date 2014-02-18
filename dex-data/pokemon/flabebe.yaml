@@ -11,11 +11,15 @@ pokemon:
     moves:
     - xy: [Tackle, Vine Whip, Fairy Wind, Lucky Chant, Razor Leaf, Wish, Magical Leaf,
         Grassy Terrain, Petal Blizzard, Aromatherapy, Misty Terrain, Moonblast, Petal
-          Dance, Solar Beam, Calm Mind, Toxic, Hidden Power, Sunny Day, Protect, Rain
-          Dance, Safeguard, Frustration, Return, Psychic, Double Team, Facade, Rest,
-        Attract, Round, Echoed Voice, Energy Ball, Flash, Grass Knot, Swagger, Sleep
-          Talk, Substitute, Nature Power, Dazzling Gleam, Confide, Copycat, Captivate,
-        Camouflage]
+          Dance, Solar Beam, Calm Mind, Toxic, Sunny Day, Protect, Rain Dance, Safeguard,
+        Frustration, Return, Psychic, Double Team, Facade, Rest, Attract, Round, Echoed
+          Voice, Energy Ball, Flash, Grass Knot, Swagger, Sleep Talk, Substitute,
+        Nature Power, Dazzling Gleam, Confide, Copycat, Captivate, Camouflage, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     stats:
     - [44, 38, 39, 61, 79, 42]
     tags:

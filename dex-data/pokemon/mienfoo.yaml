@@ -12,22 +12,31 @@ pokemon:
     - bw: [Acrobatics, Aerial Ace, Attract, Aura Sphere, Baton Pass, Bounce, Brick
           Break, Bulk Up, Calm Mind, Detect, Dig, Double Team, Double Slap, Drain
           Punch, Dual Chop, Endure, Facade, Fake Out, Feint, Fling, Focus Blast, Force
-          Palm, Frustration, Grass Knot, Helping Hand, High Jump Kick, Hidden Power,
-        Jump Kick, Knock Off, Low Kick, Low Sweep, Me First, Meditate, Payback, Poison
-          Jab, Pound, Protect, Psych Up, Quick Guard, Rain Dance, Reflect, Rest, Retaliate,
-        Return, Reversal, Rock Slide, Rock Smash, Rock Tomb, Role Play, Round, Sleep
-          Talk, Smelling Salts, Snore, Stone Edge, Strength, Substitute, Sunny Day,
-        Swagger, Swift, Swords Dance, Taunt, Toxic, U-turn, Vital Throw, Work Up]
+          Palm, Frustration, Grass Knot, Helping Hand, High Jump Kick, Jump Kick,
+        Knock Off, Low Kick, Low Sweep, Me First, Meditate, Payback, Poison Jab, Pound,
+        Protect, Psych Up, Quick Guard, Rain Dance, Reflect, Rest, Retaliate, Return,
+        Reversal, Rock Slide, Rock Smash, Rock Tomb, Role Play, Round, Sleep Talk,
+        Smelling Salts, Snore, Stone Edge, Strength, Substitute, Sunny Day, Swagger,
+        Swift, Swords Dance, Taunt, Toxic, U-turn, Vital Throw, Work Up, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
     - xy: [Acrobatics, Aerial Ace, Attract, Aura Sphere, Baton Pass, Bounce, Brick
           Break, Bulk Up, Calm Mind, Detect, Dig, Double Slap, Double Team, Drain
           Punch, Endure, Facade, Fake Out, Feint, Fling, Focus Blast, Force Palm,
-        Frustration, Grass Knot, Hidden Power, High Jump Kick, Jump Kick, Knock Off,
-        Low Kick, Low Sweep, Meditate, Me First, Payback, Poison Jab, Pound, Protect,
-        Psych Up, Quick Guard, Rain Dance, Reflect, Rest, Retaliate, Return, Reversal,
-        Rock Slide, Rock Smash, Rock Tomb, Round, Smelling Salts, Stone Edge, Strength,
+        Frustration, Grass Knot, High Jump Kick, Jump Kick, Knock Off, Low Kick, Low
+          Sweep, Meditate, Me First, Payback, Poison Jab, Pound, Protect, Psych Up,
+        Quick Guard, Rain Dance, Reflect, Rest, Retaliate, Return, Reversal, Rock
+          Slide, Rock Smash, Rock Tomb, Round, Smelling Salts, Stone Edge, Strength,
         Substitute, Sunny Day, Swagger, Swift, Swords Dance, Taunt, Toxic, U-turn,
         Vital Throw, Work Up, Dual Chop, Snore, Role Play, Helping Hand, Sleep Talk,
-        Power-Up Punch, Confide, Ally Switch]
+        Power-Up Punch, Confide, Ally Switch, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water, Hidden Power Fairy]
     stats:
     - [45, 85, 50, 55, 50, 65]
     tags:

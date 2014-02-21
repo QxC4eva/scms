@@ -1,2 +1,2 @@
 
-: | xyicons/* |> glue xyicons sheets |> sheets/xyicons.png sheets/xyicons.css
+: | xyicons/* |> glue xyicons sheets; sed -i "s/xyicons\.png/`stat -c xyicons.png.m.%%Y sheets/xyicons.png`/" sheets/xyicons.css  |> sheets/xyicons.png sheets/xyicons.css

@@ -21,3 +21,9 @@ $RECYCLE.BIN/
 
 # tup bullshit
 .tup
+
+# SQLite
+*.db
+
+# sprite sheets
+sprites/sheets/

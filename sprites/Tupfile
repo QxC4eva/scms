@@ -1,0 +1,2 @@
+
+: | xyicons/* |> glue xyicons sheets |> sheets/xyicons.png sheets/xyicons.css

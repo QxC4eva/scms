@@ -84,8 +84,8 @@ pokemon:
     stats:
     - [60, 80, 50, 50, 50, 40]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Normal]
     weight: [8.8]
@@ -113,9 +113,9 @@ pokemon:
     stats:
     - [90, 130, 75, 75, 75, 55]
     tags:
-    - [bl]
-    - bw: [nu]
-    - dp: [uu]
+    - [BL]
+    - bw: [NU]
+    - dp: [UU]
     types:
     - [Normal]
     weight: [125.8]

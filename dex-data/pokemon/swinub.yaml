@@ -16,7 +16,7 @@ pokemon:
     stats:
     - [110, 130, 80, 70, 60, 80]
     tags:
-    - [ou]
+    - [OU]
     types:
     - [Ground, Ice]
     weight: [291]
@@ -44,8 +44,8 @@ pokemon:
     stats:
     - [100, 100, 80, 60, 60, 50]
     tags:
-    - [uu]
-    - rs: [nu]
+    - [UU]
+    - rs: [NU]
     types:
     - [Ground, Ice]
     weight: [55.8]
@@ -123,8 +123,8 @@ pokemon:
     stats:
     - [50, 50, 40, 30, 30, 50]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Ground, Ice]
     weight: [6.5]

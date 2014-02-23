@@ -44,9 +44,9 @@ pokemon:
     - gs: [90, 82, 87, 75, 85, 76]
     - xy: [90, 92, 87, 75, 85, 76]
     tags:
-    - [uu]
-    - dp: [nu]
-    - bw: [uu]
+    - [UU]
+    - dp: [NU]
+    - bw: [UU]
     types:
     - [Ground, Poison]
     weight: [60]
@@ -132,7 +132,7 @@ pokemon:
     - [55, 47, 52, 40, 40, 41]
     - gs: [55, 47, 52, 40, 40, 41]
     tags:
-    - [nfe]
+    - [NFE]
     types:
     - [Poison]
     weight: [7]
@@ -159,7 +159,7 @@ pokemon:
     - [70, 62, 67, 55, 55, 56]
     - gs: [70, 62, 67, 55, 55, 56]
     tags:
-    - [nfe]
+    - [NFE]
     types:
     - [Poison]
     weight: [20]

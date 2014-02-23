@@ -15,8 +15,8 @@ pokemon:
     stats:
     - [85, 50, 95, 120, 115, 80]
     tags:
-    - [ou]
-    - bw: [uu]
+    - [OU]
+    - bw: [UU]
     types:
     - [Flying, Normal]
     - xy: [Flying, Fairy]
@@ -107,8 +107,8 @@ pokemon:
     stats:
     - [35, 20, 65, 40, 65, 20]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Normal]
     - xy: [Fairy]
@@ -140,8 +140,8 @@ pokemon:
     stats:
     - [55, 40, 85, 80, 105, 40]
     tags:
-    - [uu]
-    - rs: [nu]
+    - [UU]
+    - rs: [NU]
     types:
     - [Flying, Normal]
     - xy: [Fairy, Flying]

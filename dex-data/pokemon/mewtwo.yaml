@@ -4,6 +4,20 @@ pokemon:
     - bw: [Pressure, Unnerve]
     - rs: [Pressure]
     - []
+    alts:
+    - xy:
+        Mega Mewtwo-X:
+          abilities: [Steadfast]
+          height: 2.3
+          stats: [106, 190, 100, 154, 100, 130]
+          types: [Psychic, Fighting]
+          weight: 127
+        Mega Mewtwo-Y:
+          abilities: [Insomnia]
+          height: 1.5
+          stats: [106, 150, 70, 194, 120, 140]
+          types: [Psychic]
+          weight: 33
     egggroups:
     - []
     evolutions:
@@ -106,21 +120,7 @@ pokemon:
     - [106, 110, 90, 154, 154, 130]
     - gs: [106, 110, 90, 154, 90, 130]
     tags:
-    - [uber]
+    - [Uber]
     types:
     - [Psychic]
     weight: [122]
-    alts:
-    - xy:
-        Mega Mewtwo-X:
-          types: [Psychic, Fighting]
-          abilities: [Steadfast]
-          weight: 127
-          height: 2.3
-          stats: [106, 190, 100, 154, 100, 130]
-        Mega Mewtwo-Y:
-          types: [Psychic]
-          abilities: [Insomnia]
-          weight: 33
-          height: 1.5
-          stats: [106, 150, 70, 194, 120, 140]

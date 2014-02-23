@@ -59,8 +59,8 @@ pokemon:
     stats:
     - [40, 45, 40, 65, 40, 65]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Electric]
     weight: [15.2]
@@ -91,9 +91,9 @@ pokemon:
     stats:
     - [70, 75, 60, 105, 60, 105]
     tags:
-    - [uu]
-    - bw: [ru]
-    - dp: [nu]
+    - [UU]
+    - bw: [RU]
+    - dp: [NU]
     types:
     - [Electric]
     weight: [40.2]

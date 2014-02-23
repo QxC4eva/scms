@@ -25,7 +25,7 @@ pokemon:
     stats:
     - [70, 80, 70, 80, 70, 110]
     tags:
-    - [bl]
+    - [BL]
     types:
     - [Ghost, Ice]
     weight: [26.6]
@@ -53,7 +53,7 @@ pokemon:
     stats:
     - [80, 80, 80, 80, 80, 80]
     tags:
-    - [nu]
+    - [NU]
     types:
     - [Ice]
     weight: [256.5]
@@ -113,8 +113,8 @@ pokemon:
     stats:
     - [50, 50, 50, 50, 50, 50]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Ice]
     weight: [16.8]

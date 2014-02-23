@@ -32,9 +32,9 @@ pokemon:
     - [65, 50, 35, 95, 95, 95]
     - gs: [65, 50, 35, 115, 95, 95]
     tags:
-    - [ou]
-    - dp: [nu]
-    - gs: [bl]
+    - [OU]
+    - dp: [NU]
+    - gs: [BL]
     types:
     - [Ice, Psychic]
     weight: [40.6]
@@ -119,8 +119,8 @@ pokemon:
     stats:
     - [45, 30, 15, 85, 65, 65]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Ice, Psychic]
     weight: [6]

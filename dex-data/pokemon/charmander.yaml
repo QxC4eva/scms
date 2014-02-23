@@ -4,6 +4,20 @@ pokemon:
     - bw: [Blaze, Solar Power]
     - rs: [Blaze]
     - []
+    alts:
+    - xy:
+        Mega Charizard-X:
+          abilities: [Tough Claws]
+          height: 1.7
+          stats: [78, 130, 111, 130, 85, 100]
+          types: [Fire, Dragon]
+          weight: 110.5
+        Mega Charizard-Y:
+          abilities: [Drought]
+          height: 1.7
+          stats: [78, 104, 78, 159, 115, 100]
+          types: [Fire, Flying]
+          weight: 110.5
     egggroups:
     - [Dragon, Monster]
     evolutions:
@@ -28,25 +42,11 @@ pokemon:
     - [78, 84, 78, 85, 85, 100]
     - gs: [78, 84, 78, 109, 85, 100]
     tags:
-    - [uu]
-    - gs: [bl]
+    - [UU]
+    - gs: [BL]
     types:
     - [Fire, Flying]
     weight: [90.5]
-    alts:
-    - xy:
-        Mega Charizard-X:
-          types: [Fire, Dragon]
-          abilities: [Tough Claws]
-          weight: 110.5
-          height: 1.7
-          stats: [78, 130, 111, 130, 85, 100]
-        Mega Charizard-Y:
-          types: [Fire, Flying]
-          abilities: [Drought]
-          weight: 110.5
-          height: 1.7
-          stats: [78, 104, 78, 159, 115, 100]
   Charmander:
     abilities:
     - bw: [Blaze, Solar Power]
@@ -138,8 +138,8 @@ pokemon:
     - [39, 52, 43, 50, 50, 65]
     - gs: [39, 52, 43, 60, 50, 65]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Fire]
     weight: [8.5]
@@ -160,7 +160,7 @@ pokemon:
     - [58, 64, 58, 65, 65, 80]
     - gs: [58, 64, 58, 80, 65, 80]
     tags:
-    - [nfe]
+    - [NFE]
     types:
     - [Fire]
     weight: [19]

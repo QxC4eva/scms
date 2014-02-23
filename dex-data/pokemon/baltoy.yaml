@@ -66,8 +66,8 @@ pokemon:
     stats:
     - [40, 40, 55, 40, 70, 55]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Ground, Psychic]
     weight: [21.5]
@@ -89,8 +89,8 @@ pokemon:
     stats:
     - [60, 70, 105, 70, 120, 75]
     tags:
-    - [ou]
-    - dp: [uu]
+    - [OU]
+    - dp: [UU]
     types:
     - [Ground, Psychic]
     weight: [108]

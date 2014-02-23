@@ -79,8 +79,8 @@ pokemon:
     stats:
     - [90, 30, 15, 40, 20, 15]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Normal]
     - xy: [Fairy]
@@ -125,7 +125,7 @@ pokemon:
     - [115, 45, 20, 25, 25, 20]
     - gs: [115, 45, 20, 45, 25, 20]
     tags:
-    - [nfe]
+    - [NFE]
     types:
     - [Normal]
     - xy: [Fairy]
@@ -154,8 +154,8 @@ pokemon:
     - gs: [140, 70, 45, 75, 50, 45]
       xy: [140, 70, 45, 85, 50, 45]
     tags:
-    - [uu]
-    - rs: [nu]
+    - [UU]
+    - rs: [NU]
     types:
     - [Normal]
     - xy: [Fairy]

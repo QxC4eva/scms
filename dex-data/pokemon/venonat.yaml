@@ -26,9 +26,9 @@ pokemon:
     - [70, 65, 60, 90, 90, 90]
     - gs: [70, 65, 60, 90, 75, 90]
     tags:
-    - [uu]
-    - bw: [bl2]
-    - rs: [nu]
+    - [UU]
+    - bw: [BL2]
+    - rs: [NU]
     types:
     - [Bug, Poison]
     weight: [12.5]
@@ -106,8 +106,8 @@ pokemon:
     - [60, 55, 50, 40, 40, 45]
     - gs: [60, 55, 50, 40, 55, 45]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Bug, Poison]
     weight: [30]

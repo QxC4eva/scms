@@ -13,7 +13,7 @@ pokemon:
     stats:
     - [75, 89, 85, 55, 65, 36]
     tags:
-    - [nfe]
+    - [NFE]
     types:
     - [Grass]
     weight: [97]
@@ -38,8 +38,8 @@ pokemon:
     stats:
     - [95, 109, 105, 75, 85, 56]
     tags:
-    - [uu]
-    - bw: [nu]
+    - [UU]
+    - bw: [NU]
     types:
     - [Grass, Ground]
     weight: [310]
@@ -95,7 +95,7 @@ pokemon:
     stats:
     - [55, 68, 64, 45, 55, 31]
     tags:
-    - [lc]
+    - [LC]
     types:
     - [Grass]
     weight: [10.2]

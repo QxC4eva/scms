@@ -31,8 +31,8 @@ pokemon:
     stats:
     - [60, 130, 80, 60, 60, 70]
     tags:
-    - [bl]
-    - dp: [ou]
+    - [BL]
+    - dp: [OU]
     types:
     - [Fighting, Grass]
     weight: [39.2]
@@ -96,8 +96,8 @@ pokemon:
     stats:
     - [60, 40, 60, 40, 60, 35]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Grass]
     weight: [4.5]

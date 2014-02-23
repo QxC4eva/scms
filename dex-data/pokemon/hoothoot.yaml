@@ -73,8 +73,8 @@ pokemon:
     stats:
     - [60, 30, 30, 36, 56, 50]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Flying, Normal]
     weight: [21.2]
@@ -98,8 +98,8 @@ pokemon:
     stats:
     - [100, 50, 50, 76, 96, 70]
     tags:
-    - [uu]
-    - rs: [nu]
+    - [UU]
+    - rs: [NU]
     types:
     - [Flying, Normal]
     weight: [40.8]

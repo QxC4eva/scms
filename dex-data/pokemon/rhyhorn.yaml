@@ -31,10 +31,10 @@ pokemon:
     - [105, 130, 120, 45, 45, 40]
     - gs: [105, 130, 120, 45, 45, 40]
     tags:
-    - [ou]
-    - bw: [ru]
-      dp: [nfe]
-      rs: [bl]
+    - [OU]
+    - bw: [RU]
+      dp: [NFE]
+      rs: [BL]
     types:
     - [Ground, Rock]
     weight: [120]
@@ -129,8 +129,8 @@ pokemon:
     - [80, 85, 95, 30, 30, 25]
     - gs: [80, 85, 95, 30, 30, 25]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Ground, Rock]
     weight: [115]
@@ -150,7 +150,7 @@ pokemon:
     stats:
     - [115, 140, 130, 55, 55, 40]
     tags:
-    - [uu]
+    - [UU]
     types:
     - [Ground, Rock]
     weight: [282.8]

@@ -29,8 +29,8 @@ pokemon:
     stats:
     - [68, 125, 65, 65, 115, 80]
     tags:
-    - [bl]
-    - bw: [ru]
+    - [BL]
+    - bw: [RU]
     types:
     - [Fighting, Psychic]
     weight: [52]
@@ -64,8 +64,8 @@ pokemon:
     stats:
     - [68, 65, 65, 125, 115, 80]
     tags:
-    - [bl]
-    - dp: [nu]
+    - [BL]
+    - dp: [NU]
     types:
     - [Psychic]
     - xy: [Psychic, Fairy]
@@ -89,7 +89,7 @@ pokemon:
     stats:
     - [38, 35, 35, 65, 55, 50]
     tags:
-    - [nfe]
+    - [NFE]
     types:
     - [Psychic]
     - xy: [Psychic, Fairy]
@@ -168,8 +168,8 @@ pokemon:
     stats:
     - [28, 25, 25, 45, 35, 40]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Psychic]
     - xy: [Psychic, Fairy]

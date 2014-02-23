@@ -1,62 +1,62 @@
 
 tags:
-  uber:
+  Uber:
     name: Uber
     introduction: rb
     successors:
     - []
     
-  ou:
+  OU:
     name: Overused
     introduction: rb
     successors:
-    - [uber]
+    - [Uber]
     
-  bl:
+  BL:
     name: Borderline
     introduction: gs
     successors:
-    - [ou]
+    - [OU]
     
-  uu:
+  UU:
     name: Underused
     introduction: rb
     successors:
-    - [ou]
-    - gs: [bl]
+    - [OU]
+    - gs: [BL]
     
-  bl2:
+  BL2:
     name: Borderline 2
     introduction: bw
     successors:
-    - [uu]
+    - [UU]
     
-  ru:
+  RU:
     name: Rarelyused
     introduction: bw
     successors:
-    - [bl2]
+    - [BL2]
     
-  nu:
+  NU:
     name: Neverused
     introduction: rs
     successors:
-    - [uu]
-    - bw: [ru]
+    - [UU]
+    - bw: [RU]
     
-  lc:
+  LC:
     name: Little Cup
     introduction: dp
     successors:
     - []
     
-  limbo:
+  Limbo:
     name: Limbo
     introduction: rb
     successors:
     - []
     
-  nfe:
+  NFE:
     name: Not Fully Evolved
     introduction: rb
     successors:

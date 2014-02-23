@@ -74,8 +74,8 @@ pokemon:
     - gs: [65, 80, 40, 45, 80, 75]
     - xy: [65, 90, 40, 45, 80, 75]
     tags:
-    - [uu]
-    - rs: [nu]
+    - [UU]
+    - rs: [NU]
     types:
     - [Bug, Poison]
     weight: [29.5]
@@ -100,7 +100,7 @@ pokemon:
     - [45, 25, 50, 25, 25, 35]
     - gs: [45, 25, 50, 25, 25, 35]
     tags:
-    - [nfe]
+    - [NFE]
     types:
     - [Bug, Poison]
     weight: [10]
@@ -126,8 +126,8 @@ pokemon:
     - [40, 35, 30, 20, 20, 50]
     - gs: [40, 35, 30, 20, 20, 50]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Bug, Poison]
     weight: [3.2]

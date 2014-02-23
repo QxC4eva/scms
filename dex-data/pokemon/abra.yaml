@@ -84,8 +84,8 @@ pokemon:
     - [25, 20, 15, 105, 105, 90]
     - gs: [25, 20, 15, 105, 55, 90]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Psychic]
     weight: [19.5]
@@ -121,10 +121,10 @@ pokemon:
     - gs: [55, 50, 45, 135, 85, 120]
       xy: [55, 50, 45, 135, 95, 120]
     tags:
-    - [ou]
-    - bw: [ou]
-      dp: [uu]
-      gs: [bl]
+    - [OU]
+    - bw: [OU]
+      dp: [UU]
+      gs: [BL]
     types:
     - [Psychic]
     weight: [48]
@@ -154,10 +154,10 @@ pokemon:
     - [40, 35, 30, 120, 120, 105]
     - gs: [40, 35, 30, 120, 70, 105]
     tags:
-    - [nfe]
-    - bw: [nu]
-      dp: [nfe]
-      rs: [bl]
+    - [NFE]
+    - bw: [NU]
+      dp: [NFE]
+      rs: [BL]
     types:
     - [Psychic]
     weight: [56.5]

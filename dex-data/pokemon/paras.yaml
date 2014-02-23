@@ -81,8 +81,8 @@ pokemon:
     - [35, 70, 55, 55, 55, 25]
     - gs: [35, 70, 55, 45, 55, 25]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Bug, Grass]
     weight: [5.4]
@@ -109,8 +109,8 @@ pokemon:
     - [60, 95, 80, 80, 80, 30]
     - gs: [60, 95, 80, 60, 80, 30]
     tags:
-    - [uu]
-    - rs: [nu]
+    - [UU]
+    - rs: [NU]
     types:
     - [Bug, Grass]
     weight: [29.5]

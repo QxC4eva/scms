@@ -76,8 +76,8 @@ pokemon:
     - gs: [60, 45, 50, 80, 80, 70]
       xy: [60, 45, 50, 90, 80, 70]
     tags:
-    - [uu]
-    - rs: [nu]
+    - [UU]
+    - rs: [NU]
     types:
     - [Bug, Flying]
     weight: [32]
@@ -103,8 +103,8 @@ pokemon:
     - [45, 30, 35, 20, 20, 45]
     - gs: [45, 30, 35, 20, 20, 45]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Bug]
     weight: [2.9]
@@ -129,7 +129,7 @@ pokemon:
     - [50, 20, 55, 25, 25, 30]
     - gs: [50, 20, 55, 25, 25, 30]
     tags:
-    - [nfe]
+    - [NFE]
     types:
     - [Bug]
     weight: [9.9]

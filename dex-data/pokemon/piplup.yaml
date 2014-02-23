@@ -21,8 +21,8 @@ pokemon:
     stats:
     - [84, 86, 88, 111, 101, 60]
     tags:
-    - [ou]
-    - bw: [uu]
+    - [OU]
+    - bw: [UU]
     types:
     - [Steel, Water]
     weight: [84.5]
@@ -77,7 +77,7 @@ pokemon:
     stats:
     - [53, 51, 53, 61, 56, 40]
     tags:
-    - [lc]
+    - [LC]
     types:
     - [Water]
     weight: [5.2]
@@ -98,7 +98,7 @@ pokemon:
     stats:
     - [64, 66, 68, 81, 76, 50]
     tags:
-    - [nfe]
+    - [NFE]
     types:
     - [Water]
     weight: [23]

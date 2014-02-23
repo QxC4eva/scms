@@ -65,8 +65,8 @@ pokemon:
     stats:
     - [43, 80, 65, 50, 35, 35]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Water]
     weight: [11.5]
@@ -90,8 +90,8 @@ pokemon:
     stats:
     - [63, 120, 85, 90, 55, 55]
     tags:
-    - [nu]
-    - bw: [ru]
+    - [NU]
+    - bw: [RU]
     types:
     - [Dark, Water]
     weight: [32.8]

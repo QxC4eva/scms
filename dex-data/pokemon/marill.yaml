@@ -20,7 +20,7 @@ pokemon:
     - [100, 50, 80, 50, 80, 50]
     - xy: [100, 50, 80, 60, 80, 50]
     tags:
-    - [uu]
+    - [UU]
     types:
     - [Water]
     - xy: [Water, Fairy]
@@ -83,8 +83,8 @@ pokemon:
     stats:
     - [50, 20, 40, 20, 40, 20]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Normal]
     - xy: [Normal, Fairy]
@@ -131,7 +131,7 @@ pokemon:
     stats:
     - [70, 20, 50, 20, 50, 40]
     tags:
-    - [nfe]
+    - [NFE]
     types:
     - [Water]
     - xy: [Water, Fairy]

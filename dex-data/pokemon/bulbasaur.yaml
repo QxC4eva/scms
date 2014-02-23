@@ -83,8 +83,8 @@ pokemon:
     - [45, 49, 49, 65, 65, 45]
     - gs: [45, 49, 49, 65, 65, 45]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Grass, Poison]
     weight: [6.9]
@@ -105,7 +105,7 @@ pokemon:
     - [60, 62, 63, 80, 80, 60]
     - gs: [60, 62, 63, 80, 80, 60]
     tags:
-    - [nfe]
+    - [NFE]
     types:
     - [Grass, Poison]
     weight: [13]
@@ -143,9 +143,9 @@ pokemon:
     - [80, 82, 83, 100, 100, 80]
     - gs: [80, 82, 83, 100, 100, 80]
     tags:
-    - [uu]
-    - bw: [ou]
-    - rs: [bl]
+    - [UU]
+    - bw: [OU]
+    - rs: [BL]
     types:
     - [Grass, Poison]
     weight: [100]

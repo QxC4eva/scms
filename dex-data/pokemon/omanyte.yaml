@@ -77,8 +77,8 @@ pokemon:
     - [35, 40, 100, 90, 90, 35]
     - gs: [35, 40, 100, 90, 55, 35]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Rock, Water]
     weight: [7.5]
@@ -107,7 +107,7 @@ pokemon:
     - gs: [70, 60, 125, 115, 70, 55]
     tags:
     - []
-    - bw: [ru]
+    - bw: [RU]
     types:
     - [Rock, Water]
     weight: [35]

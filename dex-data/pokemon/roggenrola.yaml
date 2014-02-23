@@ -14,7 +14,7 @@ pokemon:
     stats:
     - [70, 105, 105, 50, 40, 20]
     tags:
-    - [nfe]
+    - [NFE]
     types:
     - [Rock]
     weight: [102]
@@ -34,7 +34,7 @@ pokemon:
     - [85, 135, 130, 60, 70, 25]
     - xy: [85, 135, 130, 60, 80, 25]
     tags:
-    - [nu]
+    - [NU]
     types:
     - [Rock]
     weight: [260]
@@ -73,7 +73,7 @@ pokemon:
     stats:
     - [55, 75, 85, 25, 25, 15]
     tags:
-    - [lc]
+    - [LC]
     types:
     - [Rock]
     weight: [18]

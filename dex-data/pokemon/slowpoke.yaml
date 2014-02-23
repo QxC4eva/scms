@@ -29,10 +29,10 @@ pokemon:
     - [95, 75, 110, 80, 80, 30]
     - gs: [95, 75, 110, 100, 80, 30]
     tags:
-    - [ou]
-    - dp: [uu]
-    - rs: [bl]
-    - gs: [uu]
+    - [OU]
+    - dp: [UU]
+    - rs: [BL]
+    - gs: [UU]
     types:
     - [Psychic, Water]
     weight: [78.5]
@@ -59,9 +59,9 @@ pokemon:
     stats:
     - [95, 75, 80, 100, 110, 30]
     tags:
-    - [uu]
-    - bw: [ru]
-    - dp: [nu]
+    - [UU]
+    - bw: [RU]
+    - dp: [NU]
     types:
     - [Psychic, Water]
     weight: [79.5]
@@ -154,8 +154,8 @@ pokemon:
     - [90, 65, 65, 40, 40, 15]
     - gs: [90, 65, 65, 40, 40, 15]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Psychic, Water]
     weight: [36]

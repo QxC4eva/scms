@@ -2,6 +2,14 @@ pokemon:
   Aegislash:
     abilities:
     - [Stance Change]
+    alts:
+    - xy:
+        Aegislash-Blade:
+          abilities: [Stance Change]
+          height: 1.7
+          stats: [60, 150, 50, 150, 50, 60]
+          types: [Steel, Ghost]
+          weight: 52
     egggroups:
     - [Mineral]
     evolutions:
@@ -18,14 +26,6 @@ pokemon:
     types:
     - [Steel, Ghost]
     weight: [52]
-    alts:
-    - xy:
-        Aegislash-Blade:
-          abilities: [Stance Change]
-          height: 1.7
-          weight: 52
-          stats: [60, 150, 50, 150, 50, 60]
-          types: [Steel, Ghost]
   Doublade:
     abilities:
     - [No Guard]

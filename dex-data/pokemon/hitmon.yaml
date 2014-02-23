@@ -35,9 +35,9 @@ pokemon:
     - [50, 105, 79, 35, 35, 76]
     - gs: [50, 105, 79, 35, 110, 76]
     tags:
-    - [uu]
-    - bw: [ru]
-    - dp: [nu]
+    - [UU]
+    - bw: [RU]
+    - dp: [NU]
     types:
     - [Fighting]
     weight: [50.2]
@@ -72,8 +72,8 @@ pokemon:
     - [50, 120, 53, 35, 35, 87]
     - gs: [50, 120, 53, 35, 110, 87]
     tags:
-    - [uu]
-    - bw: [ru]
+    - [UU]
+    - bw: [RU]
     types:
     - [Fighting]
     weight: [49.8]
@@ -102,7 +102,7 @@ pokemon:
     stats:
     - [50, 95, 95, 35, 110, 70]
     tags:
-    - [uu]
+    - [UU]
     types:
     - [Fighting]
     weight: [48]
@@ -173,8 +173,8 @@ pokemon:
     stats:
     - [35, 35, 35, 35, 35, 35]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Fighting]
     weight: [21]

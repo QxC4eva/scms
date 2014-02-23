@@ -82,9 +82,9 @@ pokemon:
     stats:
     - [40, 50, 45, 70, 45, 70]
     tags:
-    - [nfe]
-    - bw: [nu]
-      dp: [lc]
+    - [NFE]
+    - bw: [NU]
+      dp: [LC]
     types:
     - [Flying, Psychic]
     weight: [2]
@@ -108,9 +108,9 @@ pokemon:
     stats:
     - [65, 75, 70, 95, 70, 95]
     tags:
-    - [uu]
-    - bw: [uu]
-      dp: [nu]
+    - [UU]
+    - bw: [UU]
+      dp: [NU]
     types:
     - [Flying, Psychic]
     weight: [15]

@@ -19,9 +19,9 @@ pokemon:
     stats:
     - [85, 90, 80, 70, 80, 130]
     tags:
-    - [uu]
-    - bw: [uu]
-    - rs: [bl]
+    - [UU]
+    - bw: [UU]
+    - rs: [BL]
     types:
     - [Flying, Poison]
     weight: [75]
@@ -48,9 +48,9 @@ pokemon:
     - [75, 80, 70, 75, 75, 90]
     - gs: [75, 80, 70, 65, 75, 90]
     tags:
-    - [uu]
-    - dp: [nu]
-    - gs: [nfe]
+    - [UU]
+    - dp: [NU]
+    - gs: [NFE]
     types:
     - [Flying, Poison]
     weight: [55]
@@ -132,8 +132,8 @@ pokemon:
     - [40, 45, 35, 40, 40, 55]
     - gs: [40, 45, 35, 30, 40, 55]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Flying, Poison]
     weight: [7.5]

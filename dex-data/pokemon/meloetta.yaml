@@ -2,6 +2,14 @@ pokemon:
   Meloetta:
     abilities:
     - [Serene Grace]
+    alts:
+    - bw:
+        Meloetta-Pirouette:
+          abilities: [Serene Grace]
+          height: 0.6
+          stats: [100, 128, 90, 77, 77, 128]
+          types: [Normal, Fighting]
+          weight: 6.5
     egggroups:
     - []
     evolutions:
@@ -46,16 +54,7 @@ pokemon:
     stats:
     - [100, 77, 77, 128, 128, 90]
     tags:
-    - [uu]
+    - [UU]
     types:
     - [Normal, Psychic]
     weight: [6.5]
-    alts:
-    - bw:
-        Meloetta-Pirouette:
-          stats: [100,128,90,77,77,128]
-          weight: 6.5
-          height: 0.6
-          types: [Normal, Fighting]
-          abilities: [Serene Grace]
-          

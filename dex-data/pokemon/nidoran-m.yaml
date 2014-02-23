@@ -46,8 +46,8 @@ pokemon:
       xy: [81, 102, 77, 85, 75, 85]
     tags:
     - []
-    - gs: [ou]
-      rs: [uu]
+    - gs: [OU]
+      rs: [UU]
     types:
     - [Ground, Poison]
     weight: [62]
@@ -162,7 +162,7 @@ pokemon:
     - [61, 72, 57, 55, 55, 65]
     - gs: [61, 72, 57, 55, 55, 65]
     tags:
-    - [nfe]
+    - [NFE]
     types:
     - [Poison]
     weight: [19.5]

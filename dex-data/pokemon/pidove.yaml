@@ -34,7 +34,7 @@ pokemon:
     stats:
     - [50, 55, 50, 36, 30, 43]
     tags:
-    - [lc]
+    - [LC]
     types:
     - [Flying, Normal]
     weight: [2.1]
@@ -53,7 +53,7 @@ pokemon:
     stats:
     - [62, 77, 62, 50, 42, 65]
     tags:
-    - [nfe]
+    - [NFE]
     types:
     - [Flying, Normal]
     weight: [15]
@@ -75,7 +75,7 @@ pokemon:
     - [80, 105, 80, 65, 55, 93]
     - xy: [80, 115, 80, 65, 55, 93]
     tags:
-    - [nu]
+    - [NU]
     types:
     - [Flying, Normal]
     weight: [29]

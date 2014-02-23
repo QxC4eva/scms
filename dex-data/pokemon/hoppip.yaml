@@ -73,8 +73,8 @@ pokemon:
     stats:
     - [35, 35, 40, 35, 55, 50]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Flying, Grass]
     weight: [0.5]
@@ -100,9 +100,9 @@ pokemon:
     - [75, 55, 70, 55, 85, 110]
     - xy: [75, 55, 70, 55, 95, 110]
     tags:
-    - [uu]
-    - dp: [nu]
-      rs: [bl]
+    - [UU]
+    - dp: [NU]
+      rs: [BL]
     types:
     - [Flying, Grass]
     weight: [3]
@@ -127,7 +127,7 @@ pokemon:
     stats:
     - [55, 45, 50, 45, 65, 80]
     tags:
-    - [nfe]
+    - [NFE]
     types:
     - [Flying, Grass]
     weight: [1]

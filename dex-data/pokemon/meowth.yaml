@@ -84,8 +84,8 @@ pokemon:
     - [40, 45, 35, 40, 40, 90]
     - gs: [40, 45, 35, 40, 40, 90]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Normal]
     weight: [4.2]
@@ -112,9 +112,9 @@ pokemon:
     - [65, 70, 60, 65, 65, 115]
     - gs: [65, 70, 60, 65, 65, 115]
     tags:
-    - [ou]
-    - dp: [nu]
-      gs: [uu]
+    - [OU]
+    - dp: [NU]
+      gs: [UU]
     types:
     - [Normal]
     weight: [32]

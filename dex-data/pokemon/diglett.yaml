@@ -74,7 +74,7 @@ pokemon:
     - [10, 55, 25, 45, 45, 95]
     - gs: [10, 55, 25, 35, 45, 95]
     tags:
-    - [nfe]
+    - [NFE]
     types:
     - [Ground]
     weight: [0.8]
@@ -103,10 +103,10 @@ pokemon:
     - [35, 80, 50, 70, 70, 120]
     - gs: [35, 80, 50, 50, 70, 120]
     tags:
-    - [uu]
-    - bw: [ou]
-    - dp: [uu]
-    - rs: [ou]
+    - [UU]
+    - bw: [OU]
+    - dp: [UU]
+    - rs: [OU]
     types:
     - [Ground]
     weight: [33.3]

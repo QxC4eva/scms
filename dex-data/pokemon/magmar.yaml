@@ -74,8 +74,8 @@ pokemon:
     stats:
     - [45, 75, 37, 70, 55, 83]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Fire]
     weight: [21.4]
@@ -109,9 +109,9 @@ pokemon:
     - [65, 95, 57, 85, 85, 93]
     - gs: [65, 95, 57, 100, 85, 93]
     tags:
-    - [uu]
-    - bw: [nu]
-      dp: [nfe]
+    - [UU]
+    - bw: [NU]
+      dp: [NFE]
     types:
     - [Fire]
     weight: [44.5]
@@ -133,8 +133,8 @@ pokemon:
     stats:
     - [75, 95, 67, 125, 95, 83]
     tags:
-    - [nu]
-    - bw: [ru]
+    - [NU]
+    - bw: [RU]
     types:
     - [Fire]
     weight: [68]

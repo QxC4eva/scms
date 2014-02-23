@@ -74,8 +74,8 @@ pokemon:
     - [30, 40, 70, 70, 70, 60]
     - gs: [30, 40, 70, 70, 25, 60]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Water]
     weight: [8]
@@ -100,9 +100,9 @@ pokemon:
     stats:
     - [75, 95, 95, 95, 95, 85]
     tags:
-    - [bl]
-    - bw: [uu]
-    - dp: [ou]
+    - [BL]
+    - bw: [UU]
+    - dp: [OU]
     types:
     - [Dragon, Water]
     weight: [152]
@@ -130,9 +130,9 @@ pokemon:
     - [55, 65, 95, 95, 95, 85]
     - gs: [55, 65, 95, 95, 45, 85]
     tags:
-    - [uu]
-    - bw: [nu]
-    - gs: [nfe]
+    - [UU]
+    - bw: [NU]
+    - gs: [NFE]
     types:
     - [Water]
     weight: [25]

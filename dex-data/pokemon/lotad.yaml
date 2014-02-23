@@ -25,7 +25,7 @@ pokemon:
     stats:
     - [60, 50, 50, 60, 70, 50]
     tags:
-    - [nfe]
+    - [NFE]
     types:
     - [Grass, Water]
     weight: [32.5]
@@ -90,8 +90,8 @@ pokemon:
     stats:
     - [40, 30, 30, 40, 50, 30]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Grass, Water]
     weight: [2.6]
@@ -115,9 +115,9 @@ pokemon:
     stats:
     - [80, 70, 70, 90, 100, 70]
     tags:
-    - [bl]
-    - bw: [nu]
-      dp: [uu]
+    - [BL]
+    - bw: [NU]
+      dp: [UU]
     types:
     - [Grass, Water]
     weight: [55]

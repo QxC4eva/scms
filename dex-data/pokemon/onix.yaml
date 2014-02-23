@@ -80,8 +80,8 @@ pokemon:
     - gs: [35, 45, 160, 30, 45, 70]
     tags:
     - []
-    - dp: [lc]
-      gs: [nfe]
+    - dp: [LC]
+      gs: [NFE]
     types:
     - [Ground, Rock]
     weight: [210]
@@ -108,10 +108,10 @@ pokemon:
     stats:
     - [75, 85, 200, 55, 65, 30]
     tags:
-    - [ou]
-    - bw: [ru]
-      dp: [uu]
-      rs: [bl]
+    - [OU]
+    - bw: [RU]
+      dp: [UU]
+      rs: [BL]
     types:
     - [Ground, Steel]
     weight: [400]

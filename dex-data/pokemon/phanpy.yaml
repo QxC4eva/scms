@@ -25,9 +25,9 @@ pokemon:
     stats:
     - [90, 120, 120, 60, 60, 50]
     tags:
-    - [bl]
-    - bw: [ou]
-    - dp: [uu]
+    - [BL]
+    - bw: [OU]
+    - dp: [UU]
     types:
     - [Ground]
     weight: [120]
@@ -102,8 +102,8 @@ pokemon:
     stats:
     - [90, 60, 60, 40, 40, 40]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Ground]
     weight: [33.5]

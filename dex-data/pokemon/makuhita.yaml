@@ -17,9 +17,9 @@ pokemon:
     stats:
     - [144, 120, 60, 40, 60, 50]
     tags:
-    - [bl]
-    - bw: [ru]
-      dp: [uu]
+    - [BL]
+    - bw: [RU]
+      dp: [UU]
     types:
     - [Fighting]
     weight: [253.8]
@@ -96,8 +96,8 @@ pokemon:
     stats:
     - [72, 60, 30, 20, 30, 25]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Fighting]
     weight: [86.4]

@@ -95,8 +95,8 @@ pokemon:
     - [40, 80, 35, 35, 35, 70]
     - gs: [40, 80, 35, 35, 45, 70]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Fighting]
     weight: [28]
@@ -124,7 +124,7 @@ pokemon:
     - gs: [65, 105, 60, 60, 70, 95]
     tags:
     - []
-    - bw: [nu]
+    - bw: [NU]
     types:
     - [Fighting]
     weight: [32]

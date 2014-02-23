@@ -74,8 +74,8 @@ pokemon:
     - [55, 55, 50, 65, 65, 55]
     - gs: [55, 55, 50, 45, 65, 55]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Normal]
     weight: [6.5]
@@ -112,9 +112,9 @@ pokemon:
     stats:
     - [65, 65, 60, 130, 95, 110]
     tags:
-    - [bl]
-    - bw: [ou]
-      dp: [nu]
+    - [BL]
+    - bw: [OU]
+      dp: [NU]
     types:
     - [Psychic]
     weight: [26.5]
@@ -147,8 +147,8 @@ pokemon:
     - [65, 130, 60, 110, 110, 65]
     - gs: [65, 130, 60, 95, 110, 65]
     tags:
-    - [uu]
-    - dp: [nu]
+    - [UU]
+    - dp: [NU]
     types:
     - [Fire]
     weight: [25]
@@ -173,7 +173,7 @@ pokemon:
     stats:
     - [65, 60, 110, 130, 95, 65]
     tags:
-    - [nu]
+    - [NU]
     types:
     - [Ice]
     weight: [25.9]
@@ -208,8 +208,8 @@ pokemon:
     - [65, 65, 60, 110, 110, 130]
     - gs: [65, 65, 60, 110, 95, 130]
     tags:
-    - [uu]
-    - gs: [ou]
+    - [UU]
+    - gs: [OU]
     types:
     - [Electric]
     weight: [24.5]
@@ -236,8 +236,8 @@ pokemon:
     stats:
     - [65, 110, 130, 60, 65, 95]
     tags:
-    - [uu]
-    - bw: [nu]
+    - [UU]
+    - bw: [NU]
     types:
     - [Grass]
     weight: [25.5]
@@ -289,10 +289,10 @@ pokemon:
     stats:
     - [95, 65, 110, 60, 130, 65]
     tags:
-    - [ou]
-    - bw: [uu]
-      dp: [ou]
-      rs: [bl]
+    - [OU]
+    - bw: [UU]
+      dp: [OU]
+      rs: [BL]
     types:
     - [Dark]
     weight: [27]
@@ -326,10 +326,10 @@ pokemon:
     - [130, 65, 60, 110, 110, 65]
     - gs: [130, 65, 60, 110, 95, 65]
     tags:
-    - [uu]
-    - dp: [ou]
-      gs: [ou]
-      rs: [bl]
+    - [UU]
+    - dp: [OU]
+      gs: [OU]
+      rs: [BL]
     types:
     - [Water]
     weight: [29]

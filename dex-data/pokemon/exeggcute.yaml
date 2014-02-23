@@ -80,8 +80,8 @@ pokemon:
     - [60, 40, 80, 60, 60, 40]
     - gs: [60, 40, 80, 60, 45, 40]
     tags:
-    - [nfe, uu]
-    - dp: [lc]
+    - [NFE, UU]
+    - dp: [LC]
     types:
     - [Grass, Psychic]
     weight: [2.5]
@@ -110,10 +110,10 @@ pokemon:
     - [95, 95, 85, 125, 125, 55]
     - gs: [95, 95, 85, 125, 65, 55]
     tags:
-    - [ou]
-    - bw: [nu]
-    - dp: [uu]
-    - rs: [bl]
+    - [OU]
+    - bw: [NU]
+    - dp: [UU]
+    - rs: [BL]
     types:
     - [Grass, Psychic]
     weight: [120]

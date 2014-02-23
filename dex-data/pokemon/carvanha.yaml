@@ -59,9 +59,9 @@ pokemon:
     stats:
     - [45, 90, 20, 65, 20, 65]
     tags:
-    - [nfe]
-    - bw: [nfe]
-      dp: [lc]
+    - [NFE]
+    - bw: [NFE]
+      dp: [LC]
     types:
     - [Dark, Water]
     weight: [20.8]
@@ -87,9 +87,9 @@ pokemon:
     stats:
     - [70, 120, 40, 95, 40, 95]
     tags:
-    - [uu]
-    - bw: [uu]
-      dp: [nu]
+    - [UU]
+    - bw: [UU]
+      dp: [NU]
     types:
     - [Dark, Water]
     weight: [88.8]

@@ -24,7 +24,7 @@ pokemon:
     - xy: [83, 80, 75, 70, 70, 101]
     tags:
     - []
-    - rs: [nu]
+    - rs: [NU]
     types:
     - [Flying, Normal]
     weight: [39.5]
@@ -51,7 +51,7 @@ pokemon:
     - [63, 60, 55, 50, 50, 71]
     - gs: [63, 60, 55, 50, 50, 71]
     tags:
-    - [nfe]
+    - [NFE]
     types:
     - [Flying, Normal]
     weight: [30]
@@ -128,8 +128,8 @@ pokemon:
     - [40, 45, 40, 35, 35, 56]
     - gs: [40, 45, 40, 35, 35, 56]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Flying, Normal]
     weight: [1.8]

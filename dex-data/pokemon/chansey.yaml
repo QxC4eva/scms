@@ -18,7 +18,7 @@ pokemon:
     stats:
     - [255, 10, 10, 75, 135, 55]
     tags:
-    - [ou]
+    - [OU]
     types:
     - [Normal]
     weight: [46.8]
@@ -94,11 +94,11 @@ pokemon:
     - [250, 5, 5, 105, 105, 50]
     - gs: [250, 5, 5, 35, 105, 50]
     tags:
-    - [ou]
-    - bw: [bl]
-      dp: [uu]
-      gs: [uu]
-      rs: [bl]
+    - [OU]
+    - bw: [BL]
+      dp: [UU]
+      gs: [UU]
+      rs: [BL]
     types:
     - [Normal]
     weight: [34.6]
@@ -155,7 +155,7 @@ pokemon:
     stats:
     - [100, 5, 5, 15, 65, 30]
     tags:
-    - [lc]
+    - [LC]
     types:
     - [Normal]
     weight: [24.4]

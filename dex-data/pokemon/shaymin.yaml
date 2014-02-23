@@ -48,8 +48,8 @@ pokemon:
     stats:
     - [100, 100, 100, 100, 100, 100]
     tags:
-    - [ou]
-    - bw: [uu]
+    - [OU]
+    - bw: [UU]
     types:
     - [Grass]
     weight: [2.1]
@@ -67,7 +67,7 @@ pokemon:
     stats:
     - [100, 103, 75, 120, 75, 127]
     tags:
-    - [uber]
+    - [Uber]
     types:
     - [Flying, Grass]
     weight: [5.2]

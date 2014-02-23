@@ -46,8 +46,8 @@ pokemon:
     stats:
     - [50, 50, 77, 95, 77, 91]
     tags:
-    - [uu]
-    - bw: [ru]
+    - [UU]
+    - bw: [RU]
     types:
     - [Electric, Ghost]
     weight: [0.3]
@@ -65,8 +65,8 @@ pokemon:
     stats:
     - [50, 65, 107, 105, 107, 86]
     tags:
-    - [ou]
-    - bw: [nu]
+    - [OU]
+    - bw: [NU]
     types:
     - [Electric, Ghost]
     - bw: [Electric, Flying]
@@ -85,8 +85,8 @@ pokemon:
     stats:
     - [50, 65, 107, 105, 107, 86]
     tags:
-    - [ou]
-    - bw: [nu]
+    - [OU]
+    - bw: [NU]
     types:
     - [Electric, Ghost]
     - bw: [Electric, Ice]
@@ -105,8 +105,8 @@ pokemon:
     stats:
     - [50, 65, 107, 105, 107, 86]
     tags:
-    - [ou]
-    - bw: [uu]
+    - [OU]
+    - bw: [UU]
     types:
     - [Electric, Ghost]
     - bw: [Electric, Fire]
@@ -125,8 +125,8 @@ pokemon:
     stats:
     - [50, 65, 107, 105, 107, 86]
     tags:
-    - [ou]
-    - bw: [ru]
+    - [OU]
+    - bw: [RU]
     types:
     - [Electric, Ghost]
     - bw: [Electric, Grass]
@@ -145,7 +145,7 @@ pokemon:
     stats:
     - [50, 65, 107, 105, 107, 86]
     tags:
-    - [ou]
+    - [OU]
     types:
     - [Electric, Ghost]
     - bw: [Electric, Water]

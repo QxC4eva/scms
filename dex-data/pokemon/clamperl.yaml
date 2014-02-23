@@ -52,9 +52,9 @@ pokemon:
     stats:
     - [35, 64, 85, 74, 55, 32]
     tags:
-    - [nfe]
-    - bw: [lc]
-      dp: [nu]
+    - [NFE]
+    - bw: [LC]
+      dp: [NU]
     types:
     - [Water]
     weight: [52.5]
@@ -83,8 +83,8 @@ pokemon:
     stats:
     - [55, 84, 105, 114, 75, 52]
     tags:
-    - [uu]
-    - dp: [nu]
+    - [UU]
+    - dp: [NU]
     types:
     - [Water]
     weight: [22.6]
@@ -110,7 +110,7 @@ pokemon:
     stats:
     - [55, 104, 105, 94, 75, 52]
     tags:
-    - [nu]
+    - [NU]
     types:
     - [Water]
     weight: [27]

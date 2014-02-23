@@ -61,8 +61,8 @@ pokemon:
     stats:
     - [45, 95, 50, 40, 50, 75]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Bug, Rock]
     weight: [12.5]
@@ -87,8 +87,8 @@ pokemon:
     stats:
     - [75, 125, 100, 70, 80, 45]
     tags:
-    - [bl]
-    - dp: [nu]
+    - [BL]
+    - dp: [NU]
     types:
     - [Bug, Rock]
     weight: [68.2]

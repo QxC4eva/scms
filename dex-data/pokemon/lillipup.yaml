@@ -16,7 +16,7 @@ pokemon:
     stats:
     - [65, 80, 65, 35, 65, 60]
     tags:
-    - [nfe]
+    - [NFE]
     types:
     - [Normal]
     weight: [14.7]
@@ -57,7 +57,7 @@ pokemon:
     stats:
     - [45, 60, 45, 25, 45, 55]
     tags:
-    - [lc]
+    - [LC]
     types:
     - [Normal]
     weight: [4.1]
@@ -79,7 +79,7 @@ pokemon:
     - [85, 100, 90, 45, 90, 80]
     - xy: [85, 110, 90, 45, 90, 80]
     tags:
-    - [nu]
+    - [NU]
     types:
     - [Normal]
     weight: [61]

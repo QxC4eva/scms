@@ -72,8 +72,8 @@ pokemon:
     - [25, 35, 70, 95, 95, 45]
     - gs: [25, 35, 70, 95, 55, 45]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Electric]
     - gs: [Electric, Steel]
@@ -101,10 +101,10 @@ pokemon:
     - [50, 60, 95, 120, 120, 70]
     - gs: [50, 60, 95, 120, 70, 70]
     tags:
-    - [uu]
-    - bw: [ru]
-    - dp: [nu]
-    - rs: [ou]
+    - [UU]
+    - bw: [RU]
+    - dp: [NU]
+    - rs: [OU]
     types:
     - [Electric]
     - gs: [Electric, Steel]
@@ -126,7 +126,7 @@ pokemon:
     stats:
     - [70, 70, 115, 130, 90, 60]
     tags:
-    - [ou]
+    - [OU]
     types:
     - [Electric, Steel]
     weight: [180]

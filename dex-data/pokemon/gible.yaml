@@ -15,7 +15,7 @@ pokemon:
     stats:
     - [68, 90, 65, 50, 55, 82]
     tags:
-    - [nu]
+    - [NU]
     types:
     - [Dragon, Ground]
     weight: [56]
@@ -47,8 +47,8 @@ pokemon:
     stats:
     - [108, 130, 95, 80, 85, 102]
     tags:
-    - [uber]
-    - bw: [ou]
+    - [Uber]
+    - bw: [OU]
     types:
     - [Dragon, Ground]
     weight: [95]
@@ -105,7 +105,7 @@ pokemon:
     stats:
     - [58, 70, 45, 40, 45, 42]
     tags:
-    - [lc]
+    - [LC]
     types:
     - [Dragon, Ground]
     weight: [20.5]

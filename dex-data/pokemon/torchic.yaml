@@ -31,9 +31,9 @@ pokemon:
     stats:
     - [80, 120, 70, 110, 70, 80]
     tags:
-    - [bl]
-    - bw: [uber]
-      dp: [uu]
+    - [BL]
+    - bw: [Uber]
+      dp: [UU]
     types:
     - [Fighting, Fire]
     weight: [52]
@@ -62,8 +62,8 @@ pokemon:
     stats:
     - [60, 85, 60, 85, 60, 55]
     tags:
-    - [nfe]
-    - bw: [nu]
+    - [NFE]
+    - bw: [NU]
     types:
     - [Fighting, Fire]
     weight: [19.5]
@@ -134,8 +134,8 @@ pokemon:
     stats:
     - [45, 60, 40, 70, 50, 45]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Fire]
     weight: [2.5]

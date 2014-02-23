@@ -83,8 +83,8 @@ pokemon:
     - [80, 80, 50, 40, 40, 25]
     - gs: [80, 80, 50, 40, 50, 25]
     tags:
-    - [nfe]
-    - dp: [lc]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Poison]
     weight: [30]
@@ -114,9 +114,9 @@ pokemon:
     - gs: [105, 105, 75, 65, 100, 50]
     tags:
     - []
-    - dp: [nu]
-    - rs: [uu]
-    - gs: [bl]
+    - dp: [NU]
+    - rs: [UU]
+    - gs: [BL]
     types:
     - [Poison]
     weight: [30]

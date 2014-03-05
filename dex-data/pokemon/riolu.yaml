@@ -13,9 +13,7 @@ pokemon:
           weight: 57.5
     egggroups:
     - [Ground, Humanshape]
-    evolutions:
-    - []
-    - xy: []
+    evolvesFrom: [Riolu]
     height: [1.2]
     introduction: dp
     moves:
@@ -43,8 +41,6 @@ pokemon:
     - bw: [Inner Focus, Prankster, Steadfast]
     egggroups:
     - []
-    evolutions:
-    - [Lucario]
     height: [0.7]
     introduction: dp
     moves:

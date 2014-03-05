@@ -5,8 +5,8 @@ pokemon:
     - bw: [Levitate]
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - []
+    evolvesFrom:
+    - {dp: Chingling}
     height: [0.6]
     introduction: rs
     moves:
@@ -39,8 +39,6 @@ pokemon:
     - [Levitate]
     egggroups:
     - []
-    evolutions:
-    - [Chimecho]
     height: [0.2]
     introduction: dp
     moves:

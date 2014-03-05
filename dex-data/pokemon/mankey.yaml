@@ -7,8 +7,6 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - [Primeape]
     height: [0.5]
     introduction: rb
     moves:
@@ -108,8 +106,7 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Mankey]
     height: [1]
     introduction: rb
     moves:

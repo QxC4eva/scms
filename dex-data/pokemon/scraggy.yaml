@@ -4,8 +4,7 @@ pokemon:
     - [Intimidate, Moxie, Shed Skin]
     egggroups:
     - [Dragon, Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Scraggy]
     height: [1.1]
     introduction: bw
     moves:
@@ -23,8 +22,6 @@ pokemon:
     - [Intimidate, Moxie, Shed Skin]
     egggroups:
     - [Dragon, Ground]
-    evolutions:
-    - [Scrafty]
     height: [0.6]
     introduction: bw
     moves:

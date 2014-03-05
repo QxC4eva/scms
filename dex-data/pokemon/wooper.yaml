@@ -6,8 +6,7 @@ pokemon:
     - []
     egggroups:
     - [Ground, Water 1]
-    evolutions:
-    - []
+    evolvesFrom: [Wooper]
     height: [1.4]
     introduction: gs
     moves:
@@ -37,8 +36,6 @@ pokemon:
     - []
     egggroups:
     - [Ground, Water 1]
-    evolutions:
-    - [Quagsire]
     height: [0.4]
     introduction: gs
     moves:

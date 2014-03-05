@@ -4,8 +4,7 @@ pokemon:
     - [Soundproof, Sturdy]
     egggroups:
     - [Monster]
-    evolutions:
-    - []
+    evolvesFrom: [Shieldon]
     height: [1.3]
     introduction: dp
     moves:
@@ -24,8 +23,6 @@ pokemon:
     - [Soundproof, Sturdy]
     egggroups:
     - [Monster]
-    evolutions:
-    - [Bastiodon]
     height: [0.5]
     introduction: dp
     moves:

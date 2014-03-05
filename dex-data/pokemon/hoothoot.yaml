@@ -6,8 +6,6 @@ pokemon:
     - []
     egggroups:
     - [Flying]
-    evolutions:
-    - [Noctowl]
     height: [0.7]
     introduction: gs
     moves:
@@ -85,8 +83,7 @@ pokemon:
     - []
     egggroups:
     - [Flying]
-    evolutions:
-    - []
+    evolvesFrom: [Hoothoot]
     height: [1.6]
     introduction: gs
     moves:

@@ -6,9 +6,6 @@ pokemon:
     - []
     egggroups:
     - [Bug]
-    evolutions:
-    - []
-    - dp: [Gliscor]
     height: [1.1]
     introduction: gs
     moves:
@@ -94,8 +91,7 @@ pokemon:
     - [Hyper Cutter, Poison Heal, Sand Veil]
     egggroups:
     - [Bug]
-    evolutions:
-    - []
+    evolvesFrom: [Gligar]
     height: [2]
     introduction: dp
     moves:

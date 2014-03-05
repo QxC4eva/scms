@@ -4,8 +4,7 @@ pokemon:
     - [Ice Body, Weak Armor]
     egggroups:
     - [Mineral]
-    evolutions:
-    - [Vanilluxe]
+    evolvesFrom: [Vanillite]
     height: [1.1]
     introduction: bw
     moves:
@@ -22,8 +21,6 @@ pokemon:
     - [Ice Body, Weak Armor]
     egggroups:
     - [Mineral]
-    evolutions:
-    - [Vanillish]
     height: [0.4]
     introduction: bw
     moves:
@@ -61,8 +58,7 @@ pokemon:
     - [Ice Body, Weak Armor]
     egggroups:
     - [Mineral]
-    evolutions:
-    - []
+    evolvesFrom: [Vanillish]
     height: [1.3]
     introduction: bw
     moves:

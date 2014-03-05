@@ -14,9 +14,7 @@ pokemon:
           weight: 305
     egggroups:
     - [Dragon, Water 2]
-    evolutions:
-    - []
-    - xy: []
+    evolvesFrom: [Magikarp]
     height: [6.5]
     introduction: rb
     moves:
@@ -100,8 +98,6 @@ pokemon:
     - []
     egggroups:
     - [Dragon, Water 2]
-    evolutions:
-    - [Gyarados]
     height: [0.9]
     introduction: rb
     moves:

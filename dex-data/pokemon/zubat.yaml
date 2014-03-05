@@ -6,8 +6,7 @@ pokemon:
     - []
     egggroups:
     - [Flying]
-    evolutions:
-    - []
+    evolvesFrom: [Golbat]
     height: [1.8]
     introduction: gs
     moves:
@@ -32,9 +31,7 @@ pokemon:
     - []
     egggroups:
     - [Flying]
-    evolutions:
-    - []
-    - gs: [Crobat]
+    evolvesFrom: [Zubat]
     height: [1.6]
     introduction: rb
     moves:
@@ -61,8 +58,6 @@ pokemon:
     - []
     egggroups:
     - [Flying]
-    evolutions:
-    - [Golbat]
     height: [0.8]
     introduction: rb
     moves:

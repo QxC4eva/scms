@@ -4,8 +4,7 @@ pokemon:
     - [Poison Point, Poison Touch, Adaptability]
     egggroups:
     - [Water 1, Dragon]
-    evolutions:
-    - []
+    evolvesFrom: [Skrelp]
     height: [1.8]
     introduction: xy
     moves:
@@ -23,8 +22,6 @@ pokemon:
     - [Poison Point, Poison Touch, Adaptability]
     egggroups:
     - [Water 1, Dragon]
-    evolutions:
-    - [Dragalge]
     height: [0.5]
     introduction: xy
     moves:

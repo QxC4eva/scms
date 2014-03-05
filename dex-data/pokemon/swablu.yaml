@@ -5,8 +5,7 @@ pokemon:
     - bw: [Cloud Nine, Natural Cure]
     egggroups:
     - [Dragon, Flying]
-    evolutions:
-    - []
+    evolvesFrom: [Swablu]
     height: [1.1]
     introduction: rs
     moves:
@@ -34,8 +33,6 @@ pokemon:
     - bw: [Cloud Nine, Natural Cure]
     egggroups:
     - [Dragon, Flying]
-    evolutions:
-    - [Altaria]
     height: [0.4]
     introduction: rs
     moves:

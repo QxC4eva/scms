@@ -4,8 +4,6 @@ pokemon:
     - [Chlorophyll, Sap Sipper, Serene Grace]
     egggroups:
     - [Ground]
-    evolutions:
-    - [Sawsbuck]
     height: [0.6]
     introduction: bw
     moves:
@@ -46,8 +44,7 @@ pokemon:
     - [Chlorophyll, Sap Sipper, Serene Grace]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Deerling]
     height: [1.9]
     introduction: bw
     moves:

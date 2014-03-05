@@ -15,9 +15,7 @@ pokemon:
           weight: 125
     egggroups:
     - [Bug]
-    evolutions:
-    - []
-    - xy: []
+    evolvesFrom: [Scyther]
     height: [1.8]
     introduction: gs
     moves:
@@ -45,9 +43,6 @@ pokemon:
     - []
     egggroups:
     - [Bug]
-    evolutions:
-    - []
-    - gs: [Scizor]
     height: [1.5]
     introduction: rb
     moves:

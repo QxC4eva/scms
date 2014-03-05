@@ -4,8 +4,6 @@ pokemon:
     - [Iron Fist, Klutz, No Guard]
     egggroups:
     - [Mineral]
-    evolutions:
-    - [Golurk]
     height: [1]
     introduction: bw
     moves:
@@ -47,8 +45,7 @@ pokemon:
     - [Iron Fist, Klutz, No Guard]
     egggroups:
     - [Mineral]
-    evolutions:
-    - []
+    evolvesFrom: [Golett]
     height: [2.8]
     introduction: bw
     moves:

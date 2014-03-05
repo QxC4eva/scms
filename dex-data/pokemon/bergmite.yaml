@@ -4,8 +4,7 @@ pokemon:
     - [Own Tempo, Ice Body, Sturdy]
     egggroups:
     - [Monster]
-    evolutions:
-    - []
+    evolvesFrom: [Bergmite]
     height: [2]
     introduction: xy
     moves:
@@ -23,8 +22,6 @@ pokemon:
     - [Own Tempo, Ice Body, Sturdy]
     egggroups:
     - [Monster]
-    evolutions:
-    - [Avalugg]
     height: [1]
     introduction: xy
     moves:

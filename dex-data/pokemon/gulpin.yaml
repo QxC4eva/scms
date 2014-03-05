@@ -5,8 +5,6 @@ pokemon:
     - bw: [Gluttony, Liquid Ooze, Sticky Hold]
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - [Swalot]
     height: [0.4]
     introduction: rs
     moves:
@@ -76,8 +74,7 @@ pokemon:
     - bw: [Gluttony, Liquid Ooze, Sticky Hold]
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - []
+    evolvesFrom: [Gulpin]
     height: [1.7]
     introduction: rs
     moves:

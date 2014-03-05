@@ -6,8 +6,7 @@ pokemon:
     - []
     egggroups:
     - [Water 1]
-    evolutions:
-    - []
+    evolvesFrom: [Poliwhirl]
     height: [1.1]
     introduction: gs
     moves:
@@ -35,8 +34,6 @@ pokemon:
     - []
     egggroups:
     - [Water 1]
-    evolutions:
-    - [Poliwhirl]
     height: [0.6]
     introduction: rb
     moves:
@@ -113,9 +110,7 @@ pokemon:
     - []
     egggroups:
     - [Water 1]
-    evolutions:
-    - [Poliwrath]
-    - gs: [Politoed]
+    evolvesFrom: [Poliwag]
     height: [1]
     introduction: rb
     moves:
@@ -146,8 +141,7 @@ pokemon:
     - []
     egggroups:
     - [Water 1]
-    evolutions:
-    - []
+    evolvesFrom: [Poliwhirl]
     height: [1.3]
     introduction: rb
     moves:

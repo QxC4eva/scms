@@ -4,8 +4,6 @@ pokemon:
     - [Klutz, Limber, Run Away]
     egggroups:
     - [Ground, Humanshape]
-    evolutions:
-    - [Lopunny]
     height: [0.4]
     introduction: dp
     moves:
@@ -65,8 +63,7 @@ pokemon:
     - [Cute Charm, Klutz, Limber]
     egggroups:
     - [Ground, Humanshape]
-    evolutions:
-    - []
+    evolvesFrom: [Buneary]
     height: [1.2]
     introduction: dp
     moves:

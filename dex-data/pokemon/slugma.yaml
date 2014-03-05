@@ -6,8 +6,7 @@ pokemon:
     - []
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - []
+    evolvesFrom: [Slugma]
     height: [0.8]
     introduction: gs
     moves:
@@ -36,8 +35,6 @@ pokemon:
     - []
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - [Magcargo]
     height: [0.7]
     introduction: gs
     moves:

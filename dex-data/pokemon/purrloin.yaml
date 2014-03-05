@@ -5,8 +5,7 @@ pokemon:
     - bw: [Limber, Prankster, Unburden]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Purrloin]
     height: [1.1]
     introduction: dp
     moves:
@@ -26,8 +25,6 @@ pokemon:
     - bw: [Limber, Prankster, Unburden]
     egggroups:
     - [Ground]
-    evolutions:
-    - [Liepard]
     height: [0.4]
     introduction: dp
     moves:

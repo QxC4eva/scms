@@ -4,8 +4,7 @@ pokemon:
     - [Oblivious, Snow Cloak, Thick Fat]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Piloswine]
     height: [2.5]
     introduction: dp
     moves:
@@ -28,9 +27,7 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - []
-    - dp: [Mamoswine]
+    evolvesFrom: [Swinub]
     height: [1.1]
     introduction: gs
     moves:
@@ -57,8 +54,6 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - [Piloswine]
     height: [0.4]
     introduction: gs
     moves:

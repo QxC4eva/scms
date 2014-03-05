@@ -4,8 +4,7 @@ pokemon:
     - [Solid Rock, Sturdy, Swift Swim]
     egggroups:
     - [Water 1, Water 3]
-    evolutions:
-    - []
+    evolvesFrom: [Tirtouga]
     height: [1.2]
     introduction: bw
     moves:
@@ -23,8 +22,6 @@ pokemon:
     - [Solid Rock, Sturdy, Swift Swim]
     egggroups:
     - [Water 1, Water 3]
-    evolutions:
-    - [Carracosta]
     height: [0.7]
     introduction: bw
     moves:

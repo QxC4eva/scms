@@ -7,8 +7,6 @@ pokemon:
     - []
     egggroups:
     - [Bug, Plant]
-    evolutions:
-    - [Parasect]
     height: [0.3]
     introduction: rb
     moves:
@@ -94,8 +92,7 @@ pokemon:
     - []
     egggroups:
     - [Bug, Plant]
-    evolutions:
-    - []
+    evolvesFrom: [Paras]
     height: [1]
     introduction: rb
     moves:

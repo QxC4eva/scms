@@ -4,8 +4,7 @@ pokemon:
     - [Hydration, Swift Swim, Water Absorb]
     egggroups:
     - [Water 1]
-    evolutions:
-    - [Seismitoad]
+    evolvesFrom: [Tympole]
     height: [0.8]
     introduction: bw
     moves:
@@ -23,8 +22,7 @@ pokemon:
     - [Poison Touch, Swift Swim, Water Absorb]
     egggroups:
     - [Water 1]
-    evolutions:
-    - []
+    evolvesFrom: [Palpitoad]
     height: [1.5]
     introduction: bw
     moves:
@@ -47,8 +45,6 @@ pokemon:
     - [Hydration, Swift Swim, Water Absorb]
     egggroups:
     - [Water 1]
-    evolutions:
-    - [Palpitoad]
     height: [0.5]
     introduction: bw
     moves:

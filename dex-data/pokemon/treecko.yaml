@@ -5,8 +5,7 @@ pokemon:
     - bw: [Overgrow, Unburden]
     egggroups:
     - [Dragon, Monster]
-    evolutions:
-    - [Sceptile]
+    evolvesFrom: [Treecko]
     height: [0.9]
     introduction: rs
     moves:
@@ -27,8 +26,7 @@ pokemon:
     - bw: [Overgrow, Unburden]
     egggroups:
     - [Dragon, Monster]
-    evolutions:
-    - []
+    evolvesFrom: [Grovyle]
     height: [1.7]
     introduction: rs
     moves:
@@ -54,8 +52,6 @@ pokemon:
     - bw: [Overgrow, Unburden]
     egggroups:
     - [Dragon, Monster]
-    evolutions:
-    - [Grovyle]
     height: [0.5]
     introduction: rs
     moves:

@@ -4,8 +4,7 @@ pokemon:
     - [Battle Armor, Keen Eye, Sniper]
     egggroups:
     - [Bug, Water 3]
-    evolutions:
-    - []
+    evolvesFrom: [Skorupi]
     height: [1.3]
     introduction: dp
     moves:
@@ -28,8 +27,6 @@ pokemon:
     - [Battle Armor, Keen Eye, Sniper]
     egggroups:
     - [Bug, Water 3]
-    evolutions:
-    - [Drapion]
     height: [0.8]
     introduction: dp
     moves:

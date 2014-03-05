@@ -4,8 +4,6 @@ pokemon:
     - [Leaf Guard, Natural Cure, Poison Point]
     egggroups:
     - []
-    evolutions:
-    - [Roselia]
     height: [0.2]
     introduction: dp
     moves:
@@ -58,9 +56,8 @@ pokemon:
     - bw: [Leaf Guard, Natural Cure, Poison Point]
     egggroups:
     - [Fairy, Plant]
-    evolutions:
-    - []
-    - dp: [Roserade]
+    evolvesFrom:
+    - {dp: Budew}
     height: [0.3]
     introduction: rs
     moves:
@@ -96,8 +93,7 @@ pokemon:
     - [Natural Cure, Poison Point, Technician]
     egggroups:
     - [Fairy, Plant]
-    evolutions:
-    - []
+    evolvesFrom: [Roselia]
     height: [0.9]
     introduction: dp
     moves:

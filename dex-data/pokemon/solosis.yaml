@@ -4,8 +4,7 @@ pokemon:
     - [Magic Guard, Overcoat, Regenerator]
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - [Reuniclus]
+    evolvesFrom: [Solosis]
     height: [0.6]
     introduction: bw
     moves:
@@ -22,8 +21,7 @@ pokemon:
     - [Magic Guard, Overcoat, Regenerator]
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - []
+    evolvesFrom: [Duosion]
     height: [1]
     introduction: bw
     moves:
@@ -45,8 +43,6 @@ pokemon:
     - [Magic Guard, Overcoat, Regenerator]
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - [Duosion]
     height: [0.3]
     introduction: bw
     moves:

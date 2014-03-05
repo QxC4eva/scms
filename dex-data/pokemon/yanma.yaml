@@ -6,9 +6,6 @@ pokemon:
     - []
     egggroups:
     - [Bug]
-    evolutions:
-    - []
-    - dp: [Yanmega]
     height: [1.2]
     introduction: gs
     moves:
@@ -83,8 +80,7 @@ pokemon:
     - [Frisk, Speed Boost, Tinted Lens]
     egggroups:
     - [Bug]
-    evolutions:
-    - []
+    evolvesFrom: [Yanma]
     height: [1.9]
     introduction: dp
     moves:

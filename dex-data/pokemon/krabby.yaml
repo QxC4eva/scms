@@ -6,8 +6,7 @@ pokemon:
     - []
     egggroups:
     - [Water 3]
-    evolutions:
-    - []
+    evolvesFrom: [Krabby]
     height: [1.3]
     introduction: rb
     moves:
@@ -33,8 +32,6 @@ pokemon:
     - []
     egggroups:
     - [Water 3]
-    evolutions:
-    - [Kingler]
     height: [0.4]
     introduction: rb
     moves:

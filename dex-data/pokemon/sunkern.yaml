@@ -7,8 +7,7 @@ pokemon:
     - []
     egggroups:
     - [Plant]
-    evolutions:
-    - []
+    evolvesFrom: [Sunkern]
     height: [0.8]
     introduction: gs
     moves:
@@ -34,8 +33,6 @@ pokemon:
     - []
     egggroups:
     - [Plant]
-    evolutions:
-    - [Sunflora]
     height: [0.3]
     introduction: gs
     moves:

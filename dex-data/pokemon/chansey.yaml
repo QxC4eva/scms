@@ -6,8 +6,7 @@ pokemon:
     - []
     egggroups:
     - [Fairy]
-    evolutions:
-    - []
+    evolvesFrom: [Chansey]
     height: [1.5]
     introduction: gs
     moves:
@@ -29,9 +28,8 @@ pokemon:
     - []
     egggroups:
     - [Fairy]
-    evolutions:
-    - []
-    - gs: [Blissey]
+    evolvesFrom:
+    - {dp: Happiny}
     height: [1.1]
     introduction: rb
     moves:
@@ -108,8 +106,6 @@ pokemon:
     - bw: [Friend Guard, Natural Cure, Serene Grace]
     egggroups:
     - []
-    evolutions:
-    - [Chansey]
     height: [0.6]
     introduction: dp
     moves:

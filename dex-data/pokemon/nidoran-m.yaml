@@ -7,8 +7,7 @@ pokemon:
     - []
     egggroups:
     - [Ground, Monster]
-    evolutions:
-    - []
+    evolvesFrom: [Nidorino]
     height: [1.4]
     introduction: rb
     moves:
@@ -59,8 +58,6 @@ pokemon:
     - []
     egggroups:
     - [Ground, Monster]
-    evolutions:
-    - [Nidorino]
     height: [0.5]
     introduction: rb
     moves:
@@ -147,8 +144,7 @@ pokemon:
     - []
     egggroups:
     - [Ground, Monster]
-    evolutions:
-    - [Nidoking]
+    evolvesFrom: [Nidoran-M]
     height: [0.9]
     introduction: rb
     moves:

@@ -4,8 +4,7 @@ pokemon:
     - [Guts, Intimidate, Rivalry]
     egggroups:
     - [Ground]
-    evolutions:
-    - [Luxray]
+    evolvesFrom: [Shinx]
     height: [0.9]
     introduction: dp
     moves:
@@ -22,8 +21,7 @@ pokemon:
     - [Guts, Intimidate, Rivalry]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Luxio]
     height: [1.4]
     introduction: dp
     moves:
@@ -42,8 +40,6 @@ pokemon:
     - [Guts, Intimidate, Rivalry]
     egggroups:
     - [Ground]
-    evolutions:
-    - [Luxio]
     height: [0.5]
     introduction: dp
     moves:

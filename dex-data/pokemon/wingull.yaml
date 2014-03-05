@@ -5,8 +5,7 @@ pokemon:
     - bw: [Keen Eye, Rain Dish]
     egggroups:
     - [Flying, Water 1]
-    evolutions:
-    - []
+    evolvesFrom: [Wingull]
     height: [1.2]
     introduction: rs
     moves:
@@ -30,8 +29,6 @@ pokemon:
     - bw: [Keen Eye, Rain Dish]
     egggroups:
     - [Flying, Water 1]
-    evolutions:
-    - [Pelipper]
     height: [0.6]
     introduction: rs
     moves:

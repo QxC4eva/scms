@@ -5,8 +5,6 @@ pokemon:
     - bw: [Battle Armor, Swift Swim]
     egggroups:
     - [Water 3]
-    evolutions:
-    - [Armaldo]
     height: [0.7]
     introduction: rs
     moves:
@@ -72,8 +70,7 @@ pokemon:
     - bw: [Battle Armor, Swift Swim]
     egggroups:
     - [Water 3]
-    evolutions:
-    - []
+    evolvesFrom: [Anorith]
     height: [1.5]
     introduction: rs
     moves:

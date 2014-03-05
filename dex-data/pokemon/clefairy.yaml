@@ -7,8 +7,7 @@ pokemon:
     - []
     egggroups:
     - [Fairy]
-    evolutions:
-    - []
+    evolvesFrom: [Clefairy]
     height: [1.3]
     introduction: rb
     moves:
@@ -39,8 +38,8 @@ pokemon:
     - []
     egggroups:
     - [Fairy]
-    evolutions:
-    - [Clefable]
+    evolvesFrom:
+    - {gs: Cleffa}
     height: [0.6]
     introduction: rb
     moves:
@@ -91,8 +90,6 @@ pokemon:
     - []
     egggroups:
     - []
-    evolutions:
-    - [Clefairy]
     height: [0.3]
     introduction: gs
     moves:

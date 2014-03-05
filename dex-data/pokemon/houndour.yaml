@@ -14,9 +14,7 @@ pokemon:
           weight: 49.5
     egggroups:
     - [Ground]
-    evolutions:
-    - []
-    - xy: []
+    evolvesFrom: [Houndour]
     height: [1.4]
     introduction: gs
     moves:
@@ -40,8 +38,6 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - [Houndoom]
     height: [0.6]
     introduction: gs
     moves:

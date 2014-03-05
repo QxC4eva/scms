@@ -6,8 +6,6 @@ pokemon:
     - []
     egggroups:
     - [Monster]
-    evolutions:
-    - [Pupitar]
     height: [0.6]
     introduction: gs
     moves:
@@ -84,8 +82,7 @@ pokemon:
     - []
     egggroups:
     - [Monster]
-    evolutions:
-    - [Tyranitar]
+    evolvesFrom: [Larvitar]
     height: [1.2]
     introduction: gs
     moves:
@@ -116,9 +113,7 @@ pokemon:
           weight: 255
     egggroups:
     - [Monster]
-    evolutions:
-    - []
-    - xy: []
+    evolvesFrom: [Pupitar]
     height: [2]
     introduction: gs
     moves:

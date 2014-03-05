@@ -4,8 +4,6 @@ pokemon:
     - [Torrent, Protean]
     egggroups:
     - [Water 1]
-    evolutions:
-    - [Frogadier]
     height: [0.3]
     introduction: xy
     moves:
@@ -33,8 +31,7 @@ pokemon:
     - [Torrent, Protean]
     egggroups:
     - [Water 1]
-    evolutions:
-    - [Greninja]
+    evolvesFrom: [Froakie]
     height: [0.6]
     introduction: xy
     moves:
@@ -51,8 +48,7 @@ pokemon:
     - [Torrent, Protean]
     egggroups:
     - [Water 1]
-    evolutions:
-    - []
+    evolvesFrom: [Frogadier]
     height: [1.5]
     introduction: xy
     moves:

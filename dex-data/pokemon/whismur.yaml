@@ -5,8 +5,7 @@ pokemon:
     - bw: [Scrappy, Soundproof]
     egggroups:
     - [Ground, Monster]
-    evolutions:
-    - []
+    evolvesFrom: [Loudred]
     height: [1.5]
     introduction: rs
     moves:
@@ -32,8 +31,7 @@ pokemon:
     - bw: [Scrappy, Soundproof]
     egggroups:
     - [Ground, Monster]
-    evolutions:
-    - [Exploud]
+    evolvesFrom: [Whismur]
     height: [1]
     introduction: rs
     moves:
@@ -58,8 +56,6 @@ pokemon:
     - bw: [Rattled, Soundproof]
     egggroups:
     - [Ground, Monster]
-    evolutions:
-    - [Loudred]
     height: [0.6]
     introduction: rs
     moves:

@@ -4,8 +4,6 @@ pokemon:
     - [Mega Launcher]
     egggroups:
     - [Water 1, Water 3]
-    evolutions:
-    - [Clawitzer]
     height: [0.5]
     introduction: xy
     moves:
@@ -31,8 +29,7 @@ pokemon:
     - [Mega Launcher]
     egggroups:
     - [Water 1, Water 3]
-    evolutions:
-    - []
+    evolvesFrom: [Clauncher]
     height: [1.3]
     introduction: xy
     moves:

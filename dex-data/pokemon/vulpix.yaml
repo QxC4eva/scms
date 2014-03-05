@@ -6,8 +6,7 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Vulpix]
     height: [1.1]
     introduction: rb
     moves:
@@ -36,8 +35,6 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - [Ninetales]
     height: [0.6]
     introduction: rb
     moves:

@@ -4,8 +4,6 @@ pokemon:
     - [Swift Swim, Water Veil]
     egggroups:
     - [Ground, Water 1]
-    evolutions:
-    - [Floatzel]
     height: [0.7]
     introduction: dp
     moves:
@@ -59,8 +57,7 @@ pokemon:
     - [Swift Swim, Water Veil]
     egggroups:
     - [Ground, Water 1]
-    evolutions:
-    - []
+    evolvesFrom: [Buizel]
     height: [1.1]
     introduction: dp
     moves:

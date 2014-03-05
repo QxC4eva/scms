@@ -5,8 +5,7 @@ pokemon:
     - bw: [Justified, Steadfast]
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - []
+    evolvesFrom: [Kirlia]
     height: [1.6]
     introduction: dp
     moves:
@@ -48,9 +47,7 @@ pokemon:
           weight: 48.4
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - []
-    - xy: []
+    evolvesFrom: [Kirlia]
     height: [1.6]
     introduction: rs
     moves:
@@ -76,9 +73,7 @@ pokemon:
     - bw: [Synchronize, Telepathy, Trace]
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - [Gardevoir]
-    - dp: [Gallade]
+    evolvesFrom: [Ralts]
     height: [0.8]
     introduction: rs
     moves:
@@ -100,8 +95,6 @@ pokemon:
     - bw: [Synchronize, Telepathy, Trace]
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - [Kirlia]
     height: [0.4]
     introduction: rs
     moves:

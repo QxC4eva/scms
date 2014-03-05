@@ -5,8 +5,7 @@ pokemon:
     - bw: [Contrary, Overgrow]
     egggroups:
     - [Ground, Plant]
-    evolutions:
-    - []
+    evolvesFrom: [Servine]
     height: [3.3]
     introduction: dp
     moves:
@@ -28,8 +27,7 @@ pokemon:
     - bw: [Contrary, Overgrow]
     egggroups:
     - [Ground, Plant]
-    evolutions:
-    - [Serperior]
+    evolvesFrom: [Snivy]
     height: [0.8]
     introduction: dp
     moves:
@@ -47,8 +45,6 @@ pokemon:
     - bw: [Contrary, Overgrow]
     egggroups:
     - [Ground, Plant]
-    evolutions:
-    - [Servine]
     height: [0.6]
     introduction: dp
     moves:

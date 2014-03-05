@@ -6,8 +6,7 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Growlithe]
     height: [1.9]
     introduction: rb
     moves:
@@ -37,8 +36,6 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - [Arcanine]
     height: [0.7]
     introduction: rb
     moves:

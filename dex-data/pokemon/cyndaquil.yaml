@@ -6,8 +6,6 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - [Quilava]
     height: [0.5]
     introduction: gs
     moves:
@@ -81,8 +79,7 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - [Typhlosion]
+    evolvesFrom: [Cyndaquil]
     height: [0.9]
     introduction: gs
     moves:
@@ -105,8 +102,7 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Quilava]
     height: [1.7]
     introduction: gs
     moves:

@@ -4,8 +4,6 @@ pokemon:
     - [Run Away, Shed Skin]
     egggroups:
     - [Bug]
-    evolutions:
-    - [Kricketune]
     height: [0.3]
     introduction: dp
     moves:
@@ -25,8 +23,7 @@ pokemon:
     - [Swarm, Technician]
     egggroups:
     - [Bug]
-    evolutions:
-    - []
+    evolvesFrom: [Kricketot]
     height: [1]
     introduction: dp
     moves:

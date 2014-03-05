@@ -6,8 +6,6 @@ pokemon:
     - []
     egggroups:
     - [Mineral]
-    evolutions:
-    - [Graveler]
     height: [0.4]
     introduction: rb
     moves:
@@ -92,8 +90,7 @@ pokemon:
     - []
     egggroups:
     - [Mineral]
-    evolutions:
-    - []
+    evolvesFrom: [Graveler]
     height: [1.4]
     introduction: rb
     moves:
@@ -123,8 +120,7 @@ pokemon:
     - []
     egggroups:
     - [Mineral]
-    evolutions:
-    - [Golem]
+    evolvesFrom: [Geodude]
     height: [1]
     introduction: rb
     moves:

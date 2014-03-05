@@ -7,8 +7,6 @@ pokemon:
     - []
     egggroups:
     - [Fairy, Plant]
-    evolutions:
-    - [Skiploom]
     height: [0.4]
     introduction: gs
     moves:
@@ -86,8 +84,7 @@ pokemon:
     - []
     egggroups:
     - [Fairy, Plant]
-    evolutions:
-    - []
+    evolvesFrom: [Skiploom]
     height: [0.8]
     introduction: gs
     moves:
@@ -114,8 +111,7 @@ pokemon:
     - []
     egggroups:
     - [Fairy, Plant]
-    evolutions:
-    - [Jumpluff]
+    evolvesFrom: [Hoppip]
     height: [0.6]
     introduction: gs
     moves:

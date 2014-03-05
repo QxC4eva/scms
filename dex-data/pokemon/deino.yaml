@@ -4,8 +4,6 @@ pokemon:
     - [Hustle]
     egggroups:
     - [Dragon]
-    evolutions:
-    - [Zweilous]
     height: [0.8]
     introduction: bw
     moves:
@@ -45,8 +43,7 @@ pokemon:
     - [Levitate]
     egggroups:
     - [Dragon]
-    evolutions:
-    - []
+    evolvesFrom: [Zweilous]
     height: [1.8]
     introduction: bw
     moves:
@@ -70,8 +67,7 @@ pokemon:
     - [Hustle]
     egggroups:
     - [Dragon]
-    evolutions:
-    - [Hydreigon]
+    evolvesFrom: [Deino]
     height: [1.4]
     introduction: bw
     moves:

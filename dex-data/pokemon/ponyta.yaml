@@ -6,8 +6,6 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - [Rapidash]
     height: [1]
     introduction: rb
     moves:
@@ -84,8 +82,7 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Ponyta]
     height: [1.7]
     introduction: rb
     moves:

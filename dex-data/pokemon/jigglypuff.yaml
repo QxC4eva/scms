@@ -7,8 +7,6 @@ pokemon:
     - []
     egggroups:
     - []
-    evolutions:
-    - [Jigglypuff]
     height: [0.3]
     introduction: gs
     moves:
@@ -93,8 +91,8 @@ pokemon:
     - []
     egggroups:
     - [Fairy]
-    evolutions:
-    - [Wigglytuff]
+    evolvesFrom:
+    - {gs: Igglybuff}
     height: [0.5]
     introduction: rb
     moves:
@@ -138,8 +136,7 @@ pokemon:
     - []
     egggroups:
     - [Fairy]
-    evolutions:
-    - []
+    evolvesFrom: [Jigglypuff]
     height: [1]
     introduction: rb
     moves:

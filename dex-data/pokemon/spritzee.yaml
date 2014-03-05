@@ -4,8 +4,7 @@ pokemon:
     - [Healer, Aroma Veil]
     egggroups:
     - [Fairy]
-    evolutions:
-    - []
+    evolvesFrom: [Spritzee]
     height: [0.8]
     introduction: xy
     moves:
@@ -22,8 +21,6 @@ pokemon:
     - [Healer, Aroma Veil]
     egggroups:
     - [Fairy]
-    evolutions:
-    - [Aromatisse]
     height: [0.2]
     introduction: xy
     moves:

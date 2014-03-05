@@ -13,9 +13,7 @@ pokemon:
           weight: 395
     egggroups:
     - [Monster]
-    evolutions:
-    - []
-    - xy: []
+    evolvesFrom: [Lairon]
     height: [2.1]
     introduction: rs
     moves:
@@ -54,8 +52,6 @@ pokemon:
     - bw: [Heavy Metal, Rock Head, Sturdy]
     egggroups:
     - [Monster]
-    evolutions:
-    - [Lairon]
     height: [0.4]
     introduction: rs
     moves:
@@ -124,8 +120,7 @@ pokemon:
     - bw: [Heavy Metal, Rock Head, Sturdy]
     egggroups:
     - [Monster]
-    evolutions:
-    - [Aggron]
+    evolvesFrom: [Aron]
     height: [0.9]
     introduction: rs
     moves:

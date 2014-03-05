@@ -6,8 +6,6 @@ pokemon:
     - []
     egggroups:
     - [Water 3]
-    evolutions:
-    - [Tentacruel]
     height: [0.9]
     introduction: rb
     moves:
@@ -90,8 +88,7 @@ pokemon:
     - []
     egggroups:
     - [Water 3]
-    evolutions:
-    - []
+    evolvesFrom: [Tentacool]
     height: [1.6]
     introduction: rb
     moves:

@@ -4,8 +4,7 @@ pokemon:
     - [Flame Body, Gale Wings]
     egggroups:
     - [Flying]
-    evolutions:
-    - [Talonflame]
+    evolvesFrom: [Fletchling]
     height: [0]
     introduction: xy
     moves:
@@ -22,8 +21,6 @@ pokemon:
     - [Big Pecks, Gale Wings]
     egggroups:
     - [Flying]
-    evolutions:
-    - [Fletchinder]
     height: [0.3]
     introduction: xy
     moves:
@@ -48,8 +45,7 @@ pokemon:
     - [Flame Body, Gale Wings]
     egggroups:
     - [Flying]
-    evolutions:
-    - []
+    evolvesFrom: [Fletchinder]
     height: [1.2]
     introduction: xy
     moves:

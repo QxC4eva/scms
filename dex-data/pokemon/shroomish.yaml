@@ -6,8 +6,7 @@ pokemon:
     - bw: [Effect Spore, Poison Heal, Technician]
     egggroups:
     - [Fairy, Plant]
-    evolutions:
-    - []
+    evolvesFrom: [Shroomish]
     height: [1.2]
     introduction: rs
     moves:
@@ -43,8 +42,6 @@ pokemon:
     - bw: [Effect Spore, Poison Heal, Quick Feet]
     egggroups:
     - [Fairy, Plant]
-    evolutions:
-    - [Breloom]
     height: [0.4]
     introduction: rs
     moves:

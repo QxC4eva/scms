@@ -5,8 +5,7 @@ pokemon:
     - bw: [Damp, Torrent]
     egggroups:
     - [Monster, Water 1]
-    evolutions:
-    - [Swampert]
+    evolvesFrom: [Mudkip]
     height: [0.7]
     introduction: rs
     moves:
@@ -32,8 +31,6 @@ pokemon:
     - bw: [Damp, Torrent]
     egggroups:
     - [Monster, Water 1]
-    evolutions:
-    - [Marshtomp]
     height: [0.4]
     introduction: rs
     moves:
@@ -102,8 +99,7 @@ pokemon:
     - bw: [Damp, Torrent]
     egggroups:
     - [Monster, Water 1]
-    evolutions:
-    - []
+    evolvesFrom: [Marshtomp]
     height: [1.5]
     introduction: rs
     moves:

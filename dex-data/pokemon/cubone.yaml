@@ -6,8 +6,6 @@ pokemon:
     - []
     egggroups:
     - [Monster]
-    evolutions:
-    - [Marowak]
     height: [0.4]
     introduction: rb
     moves:
@@ -103,8 +101,7 @@ pokemon:
     - []
     egggroups:
     - [Monster]
-    evolutions:
-    - []
+    evolvesFrom: [Cubone]
     height: [1]
     introduction: rb
     moves:

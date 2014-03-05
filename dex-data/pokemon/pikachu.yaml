@@ -6,8 +6,6 @@ pokemon:
     - []
     egggroups:
     - []
-    evolutions:
-    - [Pikachu]
     height: [0.3]
     introduction: gs
     moves:
@@ -86,8 +84,8 @@ pokemon:
     - []
     egggroups:
     - [Fairy, Ground]
-    evolutions:
-    - [Raichu]
+    evolvesFrom:
+    - {gs: Pichu}
     height: [0.4]
     introduction: rb
     moves:
@@ -127,8 +125,7 @@ pokemon:
     - []
     egggroups:
     - [Fairy, Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Pikachu]
     height: [0.8]
     introduction: rb
     moves:

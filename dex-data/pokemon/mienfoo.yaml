@@ -4,8 +4,6 @@ pokemon:
     - [Inner Focus, Reckless, Regenerator]
     egggroups:
     - [Ground, Humanshape]
-    evolutions:
-    - [Mienshao]
     height: [0.9]
     introduction: bw
     moves:
@@ -49,8 +47,7 @@ pokemon:
     - [Inner Focus, Reckless, Regenerator]
     egggroups:
     - [Ground, Humanshape]
-    evolutions:
-    - []
+    evolvesFrom: [Mienfoo]
     height: [1.4]
     introduction: bw
     moves:

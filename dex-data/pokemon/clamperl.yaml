@@ -5,8 +5,6 @@ pokemon:
     - bw: [Rattled, Shell Armor]
     egggroups:
     - [Water 1]
-    evolutions:
-    - [Huntail, Gorebyss]
     height: [0.4]
     introduction: rs
     moves:
@@ -64,8 +62,7 @@ pokemon:
     - bw: [Hydration, Swift Swim]
     egggroups:
     - [Water 1]
-    evolutions:
-    - []
+    evolvesFrom: [Clamperl]
     height: [1.8]
     introduction: rs
     moves:
@@ -94,8 +91,7 @@ pokemon:
     - bw: [Swift Swim, Water Veil]
     egggroups:
     - [Water 1]
-    evolutions:
-    - []
+    evolvesFrom: [Clamperl]
     height: [1.7]
     introduction: rs
     moves:

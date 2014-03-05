@@ -4,8 +4,6 @@ pokemon:
     - [Filter, Soundproof, Technician]
     egggroups:
     - []
-    evolutions:
-    - [Mr. Mime]
     height: [0.6]
     introduction: dp
     moves:
@@ -71,8 +69,8 @@ pokemon:
     - []
     egggroups:
     - [Humanshape]
-    evolutions:
-    - []
+    evolvesFrom:
+    - {dp: Mime Jr.}
     height: [1.3]
     introduction: rb
     moves:

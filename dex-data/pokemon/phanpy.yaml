@@ -6,8 +6,7 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Phanpy]
     height: [1.1]
     introduction: gs
     moves:
@@ -38,8 +37,6 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - [Donphan]
     height: [0.5]
     introduction: gs
     moves:

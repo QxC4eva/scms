@@ -6,9 +6,6 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - []
-    - dp: [Weavile]
     height: [0.9]
     introduction: gs
     moves:
@@ -97,8 +94,7 @@ pokemon:
     - bw: [Pickpocket, Pressure]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Sneasel]
     height: [1.1]
     introduction: dp
     moves:

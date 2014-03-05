@@ -4,8 +4,6 @@ pokemon:
     - [Keen Eye, Limber, Own Tempo]
     egggroups:
     - [Ground]
-    evolutions:
-    - [Purugly]
     height: [0.5]
     introduction: dp
     moves:
@@ -62,8 +60,7 @@ pokemon:
     - bw: [Defiant, Own Tempo, Thick Fat]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Glameow]
     height: [1]
     introduction: dp
     moves:

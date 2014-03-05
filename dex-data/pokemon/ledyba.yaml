@@ -6,8 +6,7 @@ pokemon:
     - []
     egggroups:
     - [Bug]
-    evolutions:
-    - []
+    evolvesFrom: [Ledyba]
     height: [1.4]
     introduction: gs
     moves:
@@ -31,8 +30,6 @@ pokemon:
     - []
     egggroups:
     - [Bug]
-    evolutions:
-    - [Ledian]
     height: [1]
     introduction: gs
     moves:

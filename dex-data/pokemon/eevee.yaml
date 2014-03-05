@@ -7,11 +7,6 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - [Flareon, Jolteon, Vaporeon]
-    - dp: [Flareon, Jolteon, Vaporeon, Glaceon, Leafeon]
-      gs: [Flareon, Jolteon, Vaporeon, Umbreon, Espeon]
-      xy: [Flareon, Jolteon, Vaporeon, Glaceon, Leafeon, Umbreon, Espeon, Sylveon]
     height: [0.3]
     introduction: rb
     moves:
@@ -86,8 +81,9 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom:
+    - Eevee
+    - {xy: Eevee}
     height: [0.9]
     introduction: gs
     moves:
@@ -125,8 +121,8 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom:
+    - {dp: Eevee, gs: Eevee, xy: Eevee}
     height: [0.9]
     introduction: rb
     moves:
@@ -158,8 +154,9 @@ pokemon:
     - bw: [Ice Body, Snow Cloak]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom:
+    - Eevee
+    - {xy: Eevee}
     height: [0.8]
     introduction: dp
     moves:
@@ -184,8 +181,8 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom:
+    - {dp: Eevee, gs: Eevee, xy: Eevee}
     height: [0.8]
     introduction: rb
     moves:
@@ -218,8 +215,9 @@ pokemon:
     - [Chlorophyll, Leaf Guard]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom:
+    - Eevee
+    - {xy: Eevee}
     height: [1]
     introduction: dp
     moves:
@@ -246,8 +244,7 @@ pokemon:
     - [Cute Charm, Pixilate]
     egggroups:
     - [Field]
-    evolutions:
-    - []
+    evolvesFrom: [Eevee]
     height: [1]
     introduction: xy
     moves:
@@ -268,8 +265,9 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom:
+    - Eevee
+    - {xy: Eevee}
     height: [1]
     introduction: gs
     moves:
@@ -303,8 +301,8 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom:
+    - {dp: Eevee, gs: Eevee, xy: Eevee}
     height: [1]
     introduction: rb
     moves:

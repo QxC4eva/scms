@@ -6,8 +6,7 @@ pokemon:
     - []
     egggroups:
     - [Flying]
-    evolutions:
-    - []
+    evolvesFrom: [Spearow]
     height: [1.2]
     introduction: rb
     moves:
@@ -32,8 +31,6 @@ pokemon:
     - []
     egggroups:
     - [Flying]
-    evolutions:
-    - [Fearow]
     height: [0.3]
     introduction: rb
     moves:

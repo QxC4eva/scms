@@ -4,8 +4,6 @@ pokemon:
     - [Keen Eye, Infiltrator, Own Tempo]
     egggroups:
     - [Field]
-    evolutions:
-    - [Meowstic]
     height: [0.3]
     introduction: xy
     moves:
@@ -32,8 +30,7 @@ pokemon:
     - [Keen Eye, Infiltrator, Prankster, Competitive]
     egggroups:
     - [Field]
-    evolutions:
-    - []
+    evolvesFrom: [Espurr]
     height: [0.6]
     introduction: xy
     moves:

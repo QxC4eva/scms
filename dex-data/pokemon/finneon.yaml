@@ -4,8 +4,6 @@ pokemon:
     - [Storm Drain, Swift Swim, Water Veil]
     egggroups:
     - [Water 2]
-    evolutions:
-    - [Lumineon]
     height: [0.4]
     introduction: dp
     moves:
@@ -55,8 +53,7 @@ pokemon:
     - [Storm Drain, Swift Swim, Water Veil]
     egggroups:
     - [Water 2]
-    evolutions:
-    - []
+    evolvesFrom: [Finneon]
     height: [1.2]
     introduction: dp
     moves:

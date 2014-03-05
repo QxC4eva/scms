@@ -6,8 +6,7 @@ pokemon:
     - []
     egggroups:
     - [Bug]
-    evolutions:
-    - []
+    evolvesFrom: [Kakuna]
     height: [1]
     introduction: rb
     moves:
@@ -85,8 +84,7 @@ pokemon:
     - []
     egggroups:
     - [Bug]
-    evolutions:
-    - [Beedrill]
+    evolvesFrom: [Weedle]
     height: [0.6]
     introduction: rb
     moves:
@@ -111,8 +109,6 @@ pokemon:
     - []
     egggroups:
     - [Bug]
-    evolutions:
-    - [Kakuna]
     height: [0.3]
     introduction: rb
     moves:

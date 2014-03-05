@@ -4,8 +4,7 @@ pokemon:
     - [Aftermath, Stench, Weak Armor]
     egggroups:
     - [Mineral]
-    evolutions:
-    - []
+    evolvesFrom: [Trubbish]
     height: [1.9]
     introduction: bw
     moves:
@@ -25,8 +24,6 @@ pokemon:
     - [Aftermath, Stench, Sticky Hold]
     egggroups:
     - [Mineral]
-    evolutions:
-    - [Garbodor]
     height: [0.6]
     introduction: bw
     moves:

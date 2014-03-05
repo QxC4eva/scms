@@ -20,8 +20,7 @@ pokemon:
           weight: 110.5
     egggroups:
     - [Dragon, Monster]
-    evolutions:
-    - []
+    evolvesFrom: [Charmeleon]
     height: [1.7]
     introduction: rb
     moves:
@@ -54,8 +53,6 @@ pokemon:
     - []
     egggroups:
     - [Dragon, Monster]
-    evolutions:
-    - [Charmeleon]
     height: [0.6]
     introduction: rb
     moves:
@@ -150,8 +147,7 @@ pokemon:
     - []
     egggroups:
     - [Dragon, Monster]
-    evolutions:
-    - [Charizard]
+    evolvesFrom: [Charmander]
     height: [1.1]
     introduction: rb
     moves:

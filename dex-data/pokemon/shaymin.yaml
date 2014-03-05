@@ -4,8 +4,6 @@ pokemon:
     - [Natural Cure]
     egggroups:
     - []
-    evolutions:
-    - [Shaymin-Sky]
     height: [0.2]
     introduction: dp
     moves:
@@ -58,8 +56,7 @@ pokemon:
     - [Serene Grace]
     egggroups:
     - []
-    evolutions:
-    - []
+    evolvesFrom: [Shaymin]
     height: [0.4]
     introduction: dp
     moves:

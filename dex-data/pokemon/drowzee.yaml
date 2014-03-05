@@ -7,8 +7,6 @@ pokemon:
     - []
     egggroups:
     - [Humanshape]
-    evolutions:
-    - [Hypno]
     height: [1]
     introduction: rb
     moves:
@@ -101,8 +99,7 @@ pokemon:
     - []
     egggroups:
     - [Humanshape]
-    evolutions:
-    - []
+    evolvesFrom: [Drowzee]
     height: [1.6]
     introduction: rb
     moves:

@@ -6,9 +6,8 @@ pokemon:
     - []
     egggroups:
     - [Humanshape]
-    evolutions:
-    - []
-    - dp: [Electivire]
+    evolvesFrom:
+    - {gs: Elekid}
     height: [1.1]
     introduction: rb
     moves:
@@ -39,8 +38,7 @@ pokemon:
     - [Motor Drive, Vital Spirit]
     egggroups:
     - [Humanshape]
-    evolutions:
-    - []
+    evolvesFrom: [Electabuzz]
     height: [1.8]
     introduction: dp
     moves:
@@ -64,8 +62,6 @@ pokemon:
     - []
     egggroups:
     - []
-    evolutions:
-    - [Electabuzz]
     height: [0.6]
     introduction: gs
     moves:

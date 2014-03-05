@@ -6,8 +6,7 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Sentret]
     height: [1.8]
     introduction: gs
     moves:
@@ -31,8 +30,6 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - [Furret]
     height: [0.8]
     introduction: gs
     moves:

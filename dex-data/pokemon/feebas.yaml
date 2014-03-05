@@ -6,8 +6,6 @@ pokemon:
     - xy: [Adaptability, Swift Swim, Oblivious]
     egggroups:
     - [Dragon, Water 1]
-    evolutions:
-    - [Milotic]
     height: [0.6]
     introduction: rs
     moves:
@@ -66,8 +64,7 @@ pokemon:
     - xy: [Cute Charm, Marvel Scale, Competitive]
     egggroups:
     - [Dragon, Water 1]
-    evolutions:
-    - []
+    evolvesFrom: [Feebas]
     height: [6.2]
     introduction: rs
     moves:

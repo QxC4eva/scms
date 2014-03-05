@@ -6,8 +6,7 @@ pokemon:
     - bw: [Gluttony, Pickup, Quick Feet]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Zigzagoon]
     height: [0.5]
     introduction: rs
     moves:
@@ -32,8 +31,6 @@ pokemon:
     - bw: [Gluttony, Pickup, Quick Feet]
     egggroups:
     - [Ground]
-    evolutions:
-    - [Linoone]
     height: [0.4]
     introduction: rs
     moves:

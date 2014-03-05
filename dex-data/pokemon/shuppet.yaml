@@ -14,9 +14,7 @@ pokemon:
           weight: 13
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - []
-    - xy: []
+    evolvesFrom: [Shuppet]
     height: [1.1]
     introduction: rs
     moves:
@@ -40,8 +38,6 @@ pokemon:
     - bw: [Cursed Body, Frisk, Insomnia]
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - [Banette]
     height: [0.6]
     introduction: rs
     moves:

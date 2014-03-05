@@ -4,8 +4,7 @@ pokemon:
     - [Sap Sipper, Grass Pelt]
     egggroups:
     - [Field]
-    evolutions:
-    - []
+    evolvesFrom: [Skiddo]
     height: [1.7]
     introduction: xy
     moves:
@@ -22,8 +21,6 @@ pokemon:
     - [Sap Sipper, Grass Pelt]
     egggroups:
     - [Field]
-    evolutions:
-    - [Gogoat]
     height: [0.9]
     introduction: xy
     moves:

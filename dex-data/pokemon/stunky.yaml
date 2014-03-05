@@ -4,8 +4,7 @@ pokemon:
     - [Aftermath, Keen Eye, Stench]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Stunky]
     height: [1]
     introduction: dp
     moves:
@@ -24,8 +23,6 @@ pokemon:
     - [Aftermath, Keen Eye, Stench]
     egggroups:
     - [Ground]
-    evolutions:
-    - [Skuntank]
     height: [0.4]
     introduction: dp
     moves:

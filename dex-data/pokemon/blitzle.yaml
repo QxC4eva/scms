@@ -4,8 +4,6 @@ pokemon:
     - [Lightningrod, Motor Drive, Sap Sipper]
     egggroups:
     - [Ground]
-    evolutions:
-    - [Zebstrika]
     height: [0.8]
     introduction: bw
     moves:
@@ -43,8 +41,7 @@ pokemon:
     - [Lightningrod, Motor Drive, Sap Sipper]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Blitzle]
     height: [1.6]
     introduction: bw
     moves:

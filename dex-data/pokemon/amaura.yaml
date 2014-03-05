@@ -4,8 +4,6 @@ pokemon:
     - [Refrigerate, Snow Warning]
     egggroups:
     - [Monster]
-    evolutions:
-    - [Aurorus]
     height: [1.3]
     introduction: xy
     moves:
@@ -34,8 +32,7 @@ pokemon:
     - [Refrigerate, Snow Warning]
     egggroups:
     - [Monster]
-    evolutions:
-    - []
+    evolvesFrom: [Amaura]
     height: [2.7]
     introduction: xy
     moves:

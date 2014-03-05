@@ -4,8 +4,6 @@ pokemon:
     - [Gluttony, Overgrow]
     egggroups:
     - [Ground]
-    evolutions:
-    - [Simisage]
     height: [0.6]
     introduction: dp
     moves:
@@ -49,8 +47,7 @@ pokemon:
     - [Gluttony, Overgrow]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Pansage]
     height: [1.1]
     introduction: dp
     moves:

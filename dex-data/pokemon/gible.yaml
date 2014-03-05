@@ -4,8 +4,7 @@ pokemon:
     - [Rough Skin, Sand Veil]
     egggroups:
     - [Dragon, Monster]
-    evolutions:
-    - [Garchomp]
+    evolvesFrom: [Gible]
     height: [1.4]
     introduction: dp
     moves:
@@ -32,9 +31,7 @@ pokemon:
           weight: 95
     egggroups:
     - [Dragon, Monster]
-    evolutions:
-    - []
-    - xy: []
+    evolvesFrom: [Gabite]
     height: [1.9]
     introduction: dp
     moves:
@@ -57,8 +54,6 @@ pokemon:
     - [Rough Skin, Sand Veil]
     egggroups:
     - [Dragon, Monster]
-    evolutions:
-    - [Gabite]
     height: [0.7]
     introduction: dp
     moves:

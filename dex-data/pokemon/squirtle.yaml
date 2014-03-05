@@ -14,9 +14,7 @@ pokemon:
           weight: 101.1
     egggroups:
     - [Monster, Water 1]
-    evolutions:
-    - []
-    - xy: []
+    evolvesFrom: [Wartortle]
     height: [1.6]
     introduction: rb
     moves:
@@ -45,8 +43,6 @@ pokemon:
     - []
     egggroups:
     - [Monster, Water 1]
-    evolutions:
-    - [Wartortle]
     height: [0.5]
     introduction: rb
     moves:
@@ -135,8 +131,7 @@ pokemon:
     - []
     egggroups:
     - [Monster, Water 1]
-    evolutions:
-    - [Blastoise]
+    evolvesFrom: [Squirtle]
     height: [1]
     introduction: rb
     moves:

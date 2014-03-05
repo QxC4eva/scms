@@ -7,8 +7,7 @@ pokemon:
     - []
     egggroups:
     - [Bug]
-    evolutions:
-    - []
+    evolvesFrom: [Venonat]
     height: [1.5]
     introduction: rb
     moves:
@@ -40,8 +39,6 @@ pokemon:
     - []
     egggroups:
     - [Bug]
-    evolutions:
-    - [Venomoth]
     height: [1]
     introduction: rb
     moves:

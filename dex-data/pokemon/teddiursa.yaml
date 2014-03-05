@@ -7,8 +7,6 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - [Ursaring]
     height: [0.6]
     introduction: gs
     moves:
@@ -97,8 +95,7 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Teddiursa]
     height: [1.8]
     introduction: gs
     moves:

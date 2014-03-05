@@ -6,8 +6,8 @@ pokemon:
     - []
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - []
+    evolvesFrom:
+    - {rs: Wynaut}
     height: [1.3]
     introduction: gs
     moves:
@@ -28,8 +28,6 @@ pokemon:
     - bw: [Shadow Tag, Telepathy]
     egggroups:
     - []
-    evolutions:
-    - [Wobbuffet]
     height: [0.6]
     introduction: rs
     moves:

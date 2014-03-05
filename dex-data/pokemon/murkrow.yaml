@@ -5,8 +5,7 @@ pokemon:
     - bw: [Insomnia, Moxie, Super Luck]
     egggroups:
     - [Flying]
-    evolutions:
-    - []
+    evolvesFrom: [Murkrow]
     height: [0.9]
     introduction: dp
     moves:
@@ -29,9 +28,6 @@ pokemon:
     - []
     egggroups:
     - [Flying]
-    evolutions:
-    - []
-    - dp: [Honchkrow]
     height: [0.5]
     introduction: gs
     moves:

@@ -4,8 +4,7 @@ pokemon:
     - [Intimidate, Reckless]
     egggroups:
     - [Flying]
-    evolutions:
-    - []
+    evolvesFrom: [Staravia]
     height: [1.2]
     introduction: dp
     moves:
@@ -25,8 +24,7 @@ pokemon:
     - [Intimidate, Reckless]
     egggroups:
     - [Flying]
-    evolutions:
-    - [Staraptor]
+    evolvesFrom: [Starly]
     height: [0.6]
     introduction: dp
     moves:
@@ -45,8 +43,6 @@ pokemon:
     - [Keen Eye]
     egggroups:
     - [Flying]
-    evolutions:
-    - [Staravia]
     height: [0.3]
     introduction: dp
     moves:

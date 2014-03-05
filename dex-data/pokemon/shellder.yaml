@@ -7,8 +7,7 @@ pokemon:
     - []
     egggroups:
     - [Water 3]
-    evolutions:
-    - []
+    evolvesFrom: [Shellder]
     height: [1.5]
     introduction: rb
     moves:
@@ -39,8 +38,6 @@ pokemon:
     - []
     egggroups:
     - [Water 3]
-    evolutions:
-    - [Cloyster]
     height: [0.3]
     introduction: rb
     moves:

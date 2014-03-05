@@ -4,8 +4,7 @@ pokemon:
     - [Overcoat, Shell Armor, Swarm]
     egggroups:
     - [Bug]
-    evolutions:
-    - []
+    evolvesFrom: [Karrablast]
     height: [1]
     introduction: bw
     moves:
@@ -25,8 +24,6 @@ pokemon:
     - [No Guard, Shed Skin, Swarm]
     egggroups:
     - [Bug]
-    evolutions:
-    - [Escavalier]
     height: [0.5]
     introduction: bw
     moves:

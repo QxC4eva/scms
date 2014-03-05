@@ -7,8 +7,8 @@ pokemon:
     - []
     egggroups:
     - [Humanshape]
-    evolutions:
-    - []
+    evolvesFrom:
+    - {gs: Smoochum}
     height: [1.4]
     introduction: rb
     moves:
@@ -46,8 +46,6 @@ pokemon:
     - []
     egggroups:
     - []
-    evolutions:
-    - [Jynx]
     height: [0.4]
     introduction: gs
     moves:

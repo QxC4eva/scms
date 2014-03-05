@@ -4,8 +4,6 @@ pokemon:
     - [Big Pecks, Hydration, Keen Eye]
     egggroups:
     - [Flying, Water 1]
-    evolutions:
-    - [Swanna]
     height: [0.5]
     introduction: bw
     moves:
@@ -43,8 +41,7 @@ pokemon:
     - [Big Pecks, Hydration, Keen Eye]
     egggroups:
     - [Flying, Water 1]
-    evolutions:
-    - []
+    evolvesFrom: [Ducklett]
     height: [1.3]
     introduction: bw
     moves:

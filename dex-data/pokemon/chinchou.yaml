@@ -6,8 +6,6 @@ pokemon:
     - []
     egggroups:
     - [Water 2]
-    evolutions:
-    - [Lanturn]
     height: [0.5]
     introduction: gs
     moves:
@@ -83,8 +81,7 @@ pokemon:
     - []
     egggroups:
     - [Water 2]
-    evolutions:
-    - []
+    evolvesFrom: [Chinchou]
     height: [1.2]
     introduction: gs
     moves:

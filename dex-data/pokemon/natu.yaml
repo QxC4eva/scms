@@ -6,8 +6,6 @@ pokemon:
     - []
     egggroups:
     - [Flying]
-    evolutions:
-    - [Xatu]
     height: [0.2]
     introduction: gs
     moves:
@@ -95,8 +93,7 @@ pokemon:
     - []
     egggroups:
     - [Flying]
-    evolutions:
-    - []
+    evolvesFrom: [Natu]
     height: [1.5]
     introduction: gs
     moves:

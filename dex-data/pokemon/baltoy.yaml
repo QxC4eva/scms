@@ -5,8 +5,6 @@ pokemon:
     - bw: [Levitate]
     egggroups:
     - [Mineral]
-    evolutions:
-    - [Claydol]
     height: [0.5]
     introduction: rs
     moves:
@@ -77,8 +75,7 @@ pokemon:
     - bw: [Levitate]
     egggroups:
     - [Mineral]
-    evolutions:
-    - []
+    evolvesFrom: [Baltoy]
     height: [1.5]
     introduction: rs
     moves:

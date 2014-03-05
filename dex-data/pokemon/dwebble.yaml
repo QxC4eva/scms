@@ -4,8 +4,7 @@ pokemon:
     - [Shell Armor, Sturdy, Weak Armor]
     egggroups:
     - [Bug, Mineral]
-    evolutions:
-    - []
+    evolvesFrom: [Dwebble]
     height: [1.4]
     introduction: bw
     moves:
@@ -23,8 +22,6 @@ pokemon:
     - [Shell Armor, Sturdy, Weak Armor]
     egggroups:
     - [Bug, Mineral]
-    evolutions:
-    - [Crustle]
     height: [0.3]
     introduction: bw
     moves:

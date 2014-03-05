@@ -7,8 +7,6 @@ pokemon:
     - []
     egggroups:
     - [Dragon, Water 1]
-    evolutions:
-    - [Seadra]
     height: [0.4]
     introduction: rb
     moves:
@@ -87,8 +85,7 @@ pokemon:
     - []
     egggroups:
     - [Dragon, Water 1]
-    evolutions:
-    - []
+    evolvesFrom: [Seadra]
     height: [1.8]
     introduction: gs
     moves:
@@ -114,9 +111,7 @@ pokemon:
     - []
     egggroups:
     - [Dragon, Water 1]
-    evolutions:
-    - []
-    - gs: [Kingdra]
+    evolvesFrom: [Horsea]
     height: [1.2]
     introduction: rb
     moves:

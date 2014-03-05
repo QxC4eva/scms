@@ -4,8 +4,7 @@ pokemon:
     - [Blaze, Magician]
     egggroups:
     - [Field]
-    evolutions:
-    - [Delphox]
+    evolvesFrom: [Fennekin]
     height: [1]
     introduction: xy
     moves:
@@ -22,8 +21,7 @@ pokemon:
     - [Blaze, Magician]
     egggroups:
     - [Field]
-    evolutions:
-    - []
+    evolvesFrom: [Braixen]
     height: [1.5]
     introduction: xy
     moves:
@@ -41,8 +39,6 @@ pokemon:
     - [Blaze, Magician]
     egggroups:
     - [Field]
-    evolutions:
-    - [Braixen]
     height: [0.4]
     introduction: xy
     moves:

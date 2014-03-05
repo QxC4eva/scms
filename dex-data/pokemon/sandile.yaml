@@ -4,8 +4,7 @@ pokemon:
     - [Anger Point, Intimidate, Moxie]
     egggroups:
     - [Ground]
-    evolutions:
-    - [Krookodile]
+    evolvesFrom: [Sandile]
     height: [1]
     introduction: bw
     moves:
@@ -25,8 +24,7 @@ pokemon:
     - [Anger Point, Intimidate, Moxie]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Krokorok]
     height: [1.5]
     introduction: bw
     moves:
@@ -47,8 +45,6 @@ pokemon:
     - [Anger Point, Intimidate, Moxie]
     egggroups:
     - [Ground]
-    evolutions:
-    - [Krokorok]
     height: [0.7]
     introduction: bw
     moves:

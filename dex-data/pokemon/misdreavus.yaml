@@ -6,9 +6,6 @@ pokemon:
     - []
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - []
-    - dp: [Mismagius]
     height: [0.7]
     introduction: gs
     moves:
@@ -92,8 +89,7 @@ pokemon:
     - [Levitate]
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - []
+    evolvesFrom: [Misdreavus]
     height: [0.9]
     introduction: dp
     moves:

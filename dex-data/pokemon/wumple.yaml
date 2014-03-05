@@ -5,8 +5,7 @@ pokemon:
     - bw: [Rivalry, Swarm]
     egggroups:
     - [Bug]
-    evolutions:
-    - []
+    evolvesFrom: [Silcoon]
     height: [1]
     introduction: rs
     moves:
@@ -65,8 +64,7 @@ pokemon:
     - [Shed Skin]
     egggroups:
     - [Bug]
-    evolutions:
-    - [Dustox]
+    evolvesFrom: [Wurmple]
     height: [0.7]
     introduction: rs
     moves:
@@ -87,8 +85,7 @@ pokemon:
     - bw: [Compound Eyes, Shield Dust]
     egggroups:
     - [Bug]
-    evolutions:
-    - []
+    evolvesFrom: [Cascoon]
     height: [1.2]
     introduction: rs
     moves:
@@ -119,8 +116,7 @@ pokemon:
     - [Shed Skin]
     egggroups:
     - [Bug]
-    evolutions:
-    - [Beautifly]
+    evolvesFrom: [Wurmple]
     height: [0.6]
     introduction: rs
     moves:
@@ -139,8 +135,6 @@ pokemon:
     - bw: [Run Away, Shield Dust]
     egggroups:
     - [Bug]
-    evolutions:
-    - [Silcoon, Cascoon]
     height: [0.3]
     introduction: rs
     moves:

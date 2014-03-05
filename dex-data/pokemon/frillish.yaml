@@ -4,8 +4,6 @@ pokemon:
     - [Cursed Body, Damp, Water Absorb]
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - [Jellicent]
     height: [1.2]
     introduction: bw
     moves:
@@ -46,8 +44,7 @@ pokemon:
     - [Cursed Body, Damp, Water Absorb]
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - []
+    evolvesFrom: [Frillish]
     height: [2.2]
     introduction: bw
     moves:

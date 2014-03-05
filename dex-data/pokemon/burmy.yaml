@@ -5,8 +5,6 @@ pokemon:
     - bw: [Overcoat, Shed Skin]
     egggroups:
     - [Bug]
-    evolutions:
-    - [Wormadam, Mothim]
     height: [0.2]
     introduction: dp
     moves:
@@ -38,8 +36,7 @@ pokemon:
     - [Swarm, Tinted Lens]
     egggroups:
     - [Bug]
-    evolutions:
-    - []
+    evolvesFrom: [Burmy]
     height: [0.9]
     introduction: dp
     moves:
@@ -77,8 +74,7 @@ pokemon:
     - bw: [Anticipation, Overcoat]
     egggroups:
     - [Bug]
-    evolutions:
-    - []
+    evolvesFrom: [Burmy]
     height: [0.5]
     introduction: dp
     moves:
@@ -106,8 +102,6 @@ pokemon:
     - bw: [Anticipation, Overcoat]
     egggroups:
     - [Bug]
-    evolutions:
-    - []
     height: [0.5]
     introduction: dp
     moves:
@@ -125,8 +119,6 @@ pokemon:
     - bw: [Anticipation, Overcoat]
     egggroups:
     - [Bug]
-    evolutions:
-    - []
     height: [0.5]
     introduction: dp
     moves:

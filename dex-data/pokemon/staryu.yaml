@@ -6,8 +6,7 @@ pokemon:
     - []
     egggroups:
     - [Water 3]
-    evolutions:
-    - []
+    evolvesFrom: [Staryu]
     height: [1.1]
     introduction: rb
     moves:
@@ -36,8 +35,6 @@ pokemon:
     - []
     egggroups:
     - [Water 3]
-    evolutions:
-    - [Starmie]
     height: [0.8]
     introduction: rb
     moves:

@@ -5,8 +5,6 @@ pokemon:
     - bw: [Sand Force, Sand Stream]
     egggroups:
     - [Ground]
-    evolutions:
-    - [Hippowdon]
     height: [0.8]
     introduction: dp
     moves:
@@ -57,8 +55,7 @@ pokemon:
     - bw: [Sand Force, Sand Stream]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Hippopotas]
     height: [2]
     introduction: dp
     moves:

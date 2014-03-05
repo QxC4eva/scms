@@ -4,8 +4,7 @@ pokemon:
     - [Clear Body, Minus, Plus]
     egggroups:
     - [Mineral]
-    evolutions:
-    - [Klinklang]
+    evolvesFrom: [Klink]
     height: [0.6]
     introduction: bw
     moves:
@@ -22,8 +21,6 @@ pokemon:
     - [Clear Body, Minus, Plus]
     egggroups:
     - [Mineral]
-    evolutions:
-    - [Klang]
     height: [0.3]
     introduction: bw
     moves:
@@ -61,8 +58,7 @@ pokemon:
     - [Clear Body, Minus, Plus]
     egggroups:
     - [Mineral]
-    evolutions:
-    - []
+    evolvesFrom: [Klang]
     height: [0.6]
     introduction: bw
     moves:

@@ -6,8 +6,6 @@ pokemon:
     - []
     egggroups:
     - []
-    evolutions:
-    - [Magmar]
     height: [0.7]
     introduction: gs
     moves:
@@ -86,9 +84,8 @@ pokemon:
     - []
     egggroups:
     - [Humanshape]
-    evolutions:
-    - []
-    - dp: [Magmortar]
+    evolvesFrom:
+    - {gs: Magby}
     height: [1.3]
     introduction: rb
     moves:
@@ -120,8 +117,7 @@ pokemon:
     - [Flame Body, Vital Spirit]
     egggroups:
     - [Humanshape]
-    evolutions:
-    - []
+    evolvesFrom: [Magmar]
     height: [1.6]
     introduction: dp
     moves:

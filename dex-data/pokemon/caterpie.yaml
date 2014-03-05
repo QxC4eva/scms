@@ -6,8 +6,7 @@ pokemon:
     - []
     egggroups:
     - [Bug]
-    evolutions:
-    - []
+    evolvesFrom: [Metapod]
     height: [1.1]
     introduction: rb
     moves:
@@ -88,8 +87,6 @@ pokemon:
     - []
     egggroups:
     - [Bug]
-    evolutions:
-    - [Metapod]
     height: [0.3]
     introduction: rb
     moves:
@@ -114,8 +111,7 @@ pokemon:
     - []
     egggroups:
     - [Bug]
-    evolutions:
-    - [Butterfree]
+    evolvesFrom: [Caterpie]
     height: [0.7]
     introduction: rb
     moves:

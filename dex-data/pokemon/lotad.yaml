@@ -5,8 +5,7 @@ pokemon:
     - bw: [Own Tempo, Rain Dish, Swift Swim]
     egggroups:
     - [Plant, Water 1]
-    evolutions:
-    - [Ludicolo]
+    evolvesFrom: [Lotad]
     height: [1.2]
     introduction: rs
     moves:
@@ -35,8 +34,6 @@ pokemon:
     - bw: [Own Tempo, Rain Dish, Swift Swim]
     egggroups:
     - [Plant, Water 1]
-    evolutions:
-    - [Lombre]
     height: [0.5]
     introduction: rs
     moves:
@@ -101,8 +98,7 @@ pokemon:
     - bw: [Own Tempo, Rain Dish, Swift Swim]
     egggroups:
     - [Plant, Water 1]
-    evolutions:
-    - []
+    evolvesFrom: [Lombre]
     height: [1.5]
     introduction: rs
     moves:

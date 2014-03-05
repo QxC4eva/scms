@@ -5,8 +5,7 @@ pokemon:
     - bw: [Moody, Simple, Unaware]
     egggroups:
     - [Ground, Water 1]
-    evolutions:
-    - []
+    evolvesFrom: [Bidoof]
     height: [1]
     introduction: dp
     moves:
@@ -29,8 +28,6 @@ pokemon:
     - bw: [Moody, Simple, Unaware]
     egggroups:
     - [Ground, Water 1]
-    evolutions:
-    - [Bibarel]
     height: [0.5]
     introduction: dp
     moves:

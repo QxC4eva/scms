@@ -4,8 +4,6 @@ pokemon:
     - [Iron Barbs]
     egggroups:
     - [Mineral, Plant]
-    evolutions:
-    - [Ferrothorn]
     height: [0.6]
     introduction: bw
     moves:
@@ -46,8 +44,7 @@ pokemon:
     - xy: [Iron Barbs, Anticipation]
     egggroups:
     - [Mineral, Plant]
-    evolutions:
-    - []
+    evolvesFrom: [Ferroseed]
     height: [1]
     introduction: bw
     moves:

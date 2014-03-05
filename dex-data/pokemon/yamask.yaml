@@ -4,8 +4,7 @@ pokemon:
     - [Mummy]
     egggroups:
     - [Indeterminate, Mineral]
-    evolutions:
-    - []
+    evolvesFrom: [Yamask]
     height: [1.7]
     introduction: bw
     moves:
@@ -23,8 +22,6 @@ pokemon:
     - [Mummy]
     egggroups:
     - [Indeterminate, Mineral]
-    evolutions:
-    - [Cofagrigus]
     height: [0.5]
     introduction: bw
     moves:

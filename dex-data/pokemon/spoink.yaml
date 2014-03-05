@@ -5,8 +5,7 @@ pokemon:
     - bw: [Gluttony, Own Tempo, Thick Fat]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Spoink]
     height: [0.9]
     introduction: rs
     moves:
@@ -35,8 +34,6 @@ pokemon:
     - bw: [Gluttony, Own Tempo, Thick Fat]
     egggroups:
     - [Ground]
-    evolutions:
-    - [Grumpig]
     height: [0.7]
     introduction: rs
     moves:

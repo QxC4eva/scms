@@ -13,9 +13,7 @@ pokemon:
           weight: 52
     egggroups:
     - [Ground]
-    evolutions:
-    - []
-    - xy: []
+    evolvesFrom: [Combusken]
     height: [1.9]
     introduction: rs
     moves:
@@ -43,8 +41,7 @@ pokemon:
     - bw: [Blaze, Speed Boost]
     egggroups:
     - [Ground]
-    evolutions:
-    - [Blaziken]
+    evolvesFrom: [Torchic]
     height: [0.9]
     introduction: rs
     moves:
@@ -73,8 +70,6 @@ pokemon:
     - bw: [Blaze, Speed Boost]
     egggroups:
     - [Ground]
-    evolutions:
-    - [Combusken]
     height: [0.4]
     introduction: rs
     moves:

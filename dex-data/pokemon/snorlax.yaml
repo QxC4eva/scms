@@ -4,8 +4,6 @@ pokemon:
     - [Gluttony, Pickup, Thick Fat]
     egggroups:
     - []
-    evolutions:
-    - [Snorlax]
     height: [0.6]
     introduction: dp
     moves:
@@ -71,8 +69,8 @@ pokemon:
     - []
     egggroups:
     - [Monster]
-    evolutions:
-    - []
+    evolvesFrom:
+    - {dp: Munchlax}
     height: [2.1]
     introduction: rb
     moves:

@@ -6,8 +6,6 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - [Sandslash]
     height: [0.6]
     introduction: rb
     moves:
@@ -95,8 +93,7 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Sandshrew]
     height: [1]
     introduction: rb
     moves:

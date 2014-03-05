@@ -6,8 +6,6 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - [Dugtrio]
     height: [0.2]
     introduction: rb
     moves:
@@ -85,8 +83,7 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Diglett]
     height: [0.7]
     introduction: rb
     moves:

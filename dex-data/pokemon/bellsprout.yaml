@@ -6,8 +6,6 @@ pokemon:
     - []
     egggroups:
     - [Plant]
-    evolutions:
-    - [Weepinbell]
     height: [0.7]
     introduction: rb
     moves:
@@ -87,8 +85,7 @@ pokemon:
     - []
     egggroups:
     - [Plant]
-    evolutions:
-    - []
+    evolvesFrom: [Weepinbell]
     height: [1.7]
     introduction: rb
     moves:
@@ -118,8 +115,7 @@ pokemon:
     - []
     egggroups:
     - [Plant]
-    evolutions:
-    - [Victreebel]
+    evolvesFrom: [Bellsprout]
     height: [1]
     introduction: rb
     moves:

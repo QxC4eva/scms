@@ -12,9 +12,7 @@ pokemon:
           weight: 185
     egggroups:
     - [Monster, Plant]
-    evolutions:
-    - []
-    - xy: []
+    evolvesFrom: [Snover]
     height: [2.2]
     introduction: dp
     moves:
@@ -38,8 +36,6 @@ pokemon:
     - [Snow Warning, Soundproof]
     egggroups:
     - [Monster, Plant]
-    evolutions:
-    - [Abomasnow]
     height: [1]
     introduction: dp
     moves:

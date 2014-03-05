@@ -6,8 +6,7 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Rattata]
     height: [0.7]
     introduction: rb
     moves:
@@ -33,8 +32,6 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - [Raticate]
     height: [0.3]
     introduction: rb
     moves:

@@ -4,8 +4,7 @@ pokemon:
     - [Strong Jaw, Rock Head]
     egggroups:
     - [Monster, Dragon]
-    evolutions:
-    - []
+    evolvesFrom: [Tyrunt]
     height: [2.5]
     introduction: xy
     moves:
@@ -22,8 +21,6 @@ pokemon:
     - [Strong Jaw, Rock Head]
     egggroups:
     - [Monster, Dragon]
-    evolutions:
-    - [Tyrantrum]
     height: [0.8]
     introduction: xy
     moves:

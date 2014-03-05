@@ -4,8 +4,7 @@ pokemon:
     - [Snow Cloak, Swift Swim]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Cubchoo]
     height: [2.6]
     introduction: bw
     moves:
@@ -25,8 +24,6 @@ pokemon:
     - [Rattled, Snow Cloak]
     egggroups:
     - [Ground]
-    evolutions:
-    - [Beartic]
     height: [0.5]
     introduction: bw
     moves:

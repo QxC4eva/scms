@@ -6,8 +6,6 @@ pokemon:
     - []
     egggroups:
     - [Monster, Plant]
-    evolutions:
-    - [Ivysaur]
     height: [0.7]
     introduction: rb
     moves:
@@ -95,8 +93,7 @@ pokemon:
     - []
     egggroups:
     - [Monster, Plant]
-    evolutions:
-    - [Venusaur]
+    evolvesFrom: [Bulbasaur]
     height: [1]
     introduction: rb
     moves:
@@ -124,9 +121,7 @@ pokemon:
           weight: 155.5
     egggroups:
     - [Monster, Plant]
-    evolutions:
-    - []
-    - xy: []
+    evolvesFrom: [Ivysaur]
     height: [2]
     introduction: rb
     moves:

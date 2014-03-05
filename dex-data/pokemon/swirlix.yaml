@@ -4,8 +4,7 @@ pokemon:
     - [Sweet Veil, Unburden]
     egggroups:
     - [Fairy]
-    evolutions:
-    - []
+    evolvesFrom: [Swirlix]
     height: [0.8]
     introduction: xy
     moves:
@@ -22,8 +21,6 @@ pokemon:
     - [Sweet Veil, Unburden]
     egggroups:
     - [Fairy]
-    evolutions:
-    - [Slurpuff]
     height: [0.4]
     introduction: xy
     moves:

@@ -5,8 +5,6 @@ pokemon:
     - bw: [Mold Breaker, Sheer Force]
     egggroups:
     - [Monster]
-    evolutions:
-    - [Rampardos]
     height: [0.9]
     introduction: dp
     moves:
@@ -67,8 +65,7 @@ pokemon:
     - bw: [Mold Breaker, Sheer Force]
     egggroups:
     - [Monster]
-    evolutions:
-    - []
+    evolvesFrom: [Cranidos]
     height: [1.6]
     introduction: dp
     moves:

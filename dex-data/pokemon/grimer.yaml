@@ -6,8 +6,6 @@ pokemon:
     - []
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - [Muk]
     height: [0.9]
     introduction: rb
     moves:
@@ -95,8 +93,7 @@ pokemon:
     - []
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - []
+    evolvesFrom: [Grimer]
     height: [1.2]
     introduction: rb
     moves:

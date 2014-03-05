@@ -6,8 +6,6 @@ pokemon:
     - []
     egggroups:
     - [Plant]
-    evolutions:
-    - [Exeggutor]
     height: [0.4]
     introduction: rb
     moves:
@@ -92,8 +90,7 @@ pokemon:
     - []
     egggroups:
     - [Plant]
-    evolutions:
-    - []
+    evolvesFrom: [Exeggcute]
     height: [2]
     introduction: rb
     moves:

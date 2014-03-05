@@ -4,8 +4,7 @@ pokemon:
     - [Sand Force, Sturdy]
     egggroups:
     - [Mineral]
-    evolutions:
-    - [Gigalith]
+    evolvesFrom: [Roggenrola]
     height: [0.9]
     introduction: bw
     moves:
@@ -23,8 +22,7 @@ pokemon:
     - [Sand Force, Sturdy]
     egggroups:
     - [Mineral]
-    evolutions:
-    - []
+    evolvesFrom: [Boldore]
     height: [1.7]
     introduction: bw
     moves:
@@ -43,8 +41,6 @@ pokemon:
     - [Sand Force, Sturdy]
     egggroups:
     - [Mineral]
-    evolutions:
-    - [Boldore]
     height: [0.4]
     introduction: bw
     moves:

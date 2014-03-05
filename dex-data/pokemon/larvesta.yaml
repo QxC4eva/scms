@@ -4,8 +4,6 @@ pokemon:
     - [Flame Body, Swarm]
     egggroups:
     - [Bug]
-    evolutions:
-    - [Volcarona]
     height: [1.1]
     introduction: bw
     moves:
@@ -44,8 +42,7 @@ pokemon:
     - [Flame Body, Swarm]
     egggroups:
     - [Bug]
-    evolutions:
-    - []
+    evolvesFrom: [Larvesta]
     height: [1.6]
     introduction: bw
     moves:

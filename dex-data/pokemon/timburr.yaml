@@ -4,8 +4,7 @@ pokemon:
     - [Guts, Iron Fist, Sheer Force]
     egggroups:
     - [Humanshape]
-    evolutions:
-    - []
+    evolvesFrom: [Gurdurr]
     height: [1.4]
     introduction: bw
     moves:
@@ -23,8 +22,7 @@ pokemon:
     - [Guts, Iron Fist, Sheer Force]
     egggroups:
     - [Humanshape]
-    evolutions:
-    - [Conkeldurr]
+    evolvesFrom: [Timburr]
     height: [1.2]
     introduction: bw
     moves:
@@ -41,8 +39,6 @@ pokemon:
     - [Guts, Iron Fist, Sheer Force]
     egggroups:
     - [Humanshape]
-    evolutions:
-    - [Gurdurr]
     height: [0.6]
     introduction: bw
     moves:

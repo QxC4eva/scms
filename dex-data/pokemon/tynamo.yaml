@@ -4,8 +4,7 @@ pokemon:
     - [Levitate]
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - [Eelektross]
+    evolvesFrom: [Tynamo]
     height: [1.2]
     introduction: bw
     moves:
@@ -41,8 +40,7 @@ pokemon:
     - [Levitate]
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - []
+    evolvesFrom: [Eelektrik]
     height: [2.1]
     introduction: bw
     moves:
@@ -65,8 +63,6 @@ pokemon:
     - [Levitate]
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - [Eelektrik]
     height: [0.2]
     introduction: bw
     moves:

@@ -7,8 +7,7 @@ pokemon:
     - []
     egggroups:
     - [Water 1, Water 2]
-    evolutions:
-    - []
+    evolvesFrom: [Remoraid]
     height: [0.9]
     introduction: gs
     moves:
@@ -36,8 +35,6 @@ pokemon:
     - []
     egggroups:
     - [Water 1, Water 2]
-    evolutions:
-    - [Octillery]
     height: [0.6]
     introduction: gs
     moves:

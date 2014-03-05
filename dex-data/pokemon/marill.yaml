@@ -6,8 +6,7 @@ pokemon:
     - []
     egggroups:
     - [Fairy, Water 1]
-    evolutions:
-    - []
+    evolvesFrom: [Marill]
     height: [0.8]
     introduction: gs
     moves:
@@ -31,8 +30,6 @@ pokemon:
     - bw: [Huge Power, Sap Sipper, Thick Fat]
     egggroups:
     - []
-    evolutions:
-    - [Marill]
     height: [0.2]
     introduction: rs
     moves:
@@ -96,8 +93,8 @@ pokemon:
     - []
     egggroups:
     - [Fairy, Water 1]
-    evolutions:
-    - [Azumarill]
+    evolvesFrom:
+    - {rs: Azurill}
     height: [0.4]
     introduction: gs
     moves:

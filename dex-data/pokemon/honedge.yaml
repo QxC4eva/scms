@@ -12,8 +12,7 @@ pokemon:
           weight: 52
     egggroups:
     - [Mineral]
-    evolutions:
-    - []
+    evolvesFrom: [Doublade]
     height: [1.7]
     introduction: xy
     moves:
@@ -31,8 +30,7 @@ pokemon:
     - [No Guard]
     egggroups:
     - [Mineral]
-    evolutions:
-    - [Aegislash]
+    evolvesFrom: [Honedge]
     height: [0.8]
     introduction: xy
     moves:
@@ -49,8 +47,6 @@ pokemon:
     - [No Guard]
     egggroups:
     - [Mineral]
-    evolutions:
-    - [Doublade]
     height: [0.8]
     introduction: xy
     moves:

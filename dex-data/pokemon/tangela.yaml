@@ -7,9 +7,6 @@ pokemon:
     - []
     egggroups:
     - [Plant]
-    evolutions:
-    - []
-    - dp: [Tangrowth]
     height: [1]
     introduction: rb
     moves:
@@ -95,8 +92,7 @@ pokemon:
     - bw: [Chlorophyll, Leaf Guard, Regenerator]
     egggroups:
     - [Plant]
-    evolutions:
-    - []
+    evolvesFrom: [Tangela]
     height: [2]
     introduction: dp
     moves:

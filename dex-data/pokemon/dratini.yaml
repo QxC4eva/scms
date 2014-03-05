@@ -6,8 +6,7 @@ pokemon:
     - []
     egggroups:
     - [Dragon, Water 1]
-    evolutions:
-    - [Dragonite]
+    evolvesFrom: [Dratini]
     height: [4]
     introduction: rb
     moves:
@@ -29,8 +28,7 @@ pokemon:
     - []
     egggroups:
     - [Dragon, Water 1]
-    evolutions:
-    - []
+    evolvesFrom: [Dragonair]
     height: [2.2]
     introduction: rb
     moves:
@@ -73,8 +71,6 @@ pokemon:
     - []
     egggroups:
     - [Dragon, Water 1]
-    evolutions:
-    - [Dragonair]
     height: [1.8]
     introduction: rb
     moves:

@@ -6,8 +6,7 @@ pokemon:
     - []
     egggroups:
     - [Monster, Water 1]
-    evolutions:
-    - [Feraligatr]
+    evolvesFrom: [Totodile]
     height: [1.1]
     introduction: gs
     moves:
@@ -30,8 +29,7 @@ pokemon:
     - []
     egggroups:
     - [Monster, Water 1]
-    evolutions:
-    - []
+    evolvesFrom: [Croconaw]
     height: [2.3]
     introduction: gs
     moves:
@@ -58,8 +56,6 @@ pokemon:
     - []
     egggroups:
     - [Monster, Water 1]
-    evolutions:
-    - [Croconaw]
     height: [0.6]
     introduction: gs
     moves:

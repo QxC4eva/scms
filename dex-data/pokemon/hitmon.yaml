@@ -7,8 +7,8 @@ pokemon:
     - []
     egggroups:
     - [Humanshape]
-    evolutions:
-    - []
+    evolvesFrom:
+    - {gs: Tyrogue}
     height: [1.4]
     introduction: rb
     moves:
@@ -49,8 +49,8 @@ pokemon:
     - []
     egggroups:
     - [Humanshape]
-    evolutions:
-    - []
+    evolvesFrom:
+    - {gs: Tyrogue}
     height: [1.5]
     introduction: rb
     moves:
@@ -85,8 +85,7 @@ pokemon:
     - []
     egggroups:
     - [Humanshape]
-    evolutions:
-    - []
+    evolvesFrom: [Tyrogue]
     height: [1.4]
     introduction: gs
     moves:
@@ -114,8 +113,6 @@ pokemon:
     - []
     egggroups:
     - []
-    evolutions:
-    - [Hitmonlee, Hitmonchan, Hitmontop]
     height: [0.7]
     introduction: gs
     moves:

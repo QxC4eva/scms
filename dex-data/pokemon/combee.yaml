@@ -4,8 +4,6 @@ pokemon:
     - [Honey Gather, Hustle]
     egggroups:
     - [Bug]
-    evolutions:
-    - [Vespiquen]
     height: [0.3]
     introduction: dp
     moves:
@@ -27,8 +25,7 @@ pokemon:
     - bw: [Pressure, Unnerve]
     egggroups:
     - [Bug]
-    evolutions:
-    - []
+    evolvesFrom: [Combee]
     height: [1.2]
     introduction: dp
     moves:

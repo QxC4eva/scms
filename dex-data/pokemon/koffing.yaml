@@ -6,8 +6,6 @@ pokemon:
     - []
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - [Weezing]
     height: [0.6]
     introduction: rb
     moves:
@@ -85,8 +83,7 @@ pokemon:
     - []
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - []
+    evolvesFrom: [Koffing]
     height: [1.2]
     introduction: rb
     moves:

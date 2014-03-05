@@ -6,9 +6,6 @@ pokemon:
     - []
     egggroups:
     - [Mineral]
-    evolutions:
-    - []
-    - gs: [Steelix]
     height: [8.8]
     introduction: rb
     moves:
@@ -92,8 +89,7 @@ pokemon:
     - []
     egggroups:
     - [Mineral]
-    evolutions:
-    - []
+    evolvesFrom: [Onix]
     height: [9.2]
     introduction: gs
     moves:

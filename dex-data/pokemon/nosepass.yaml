@@ -5,9 +5,6 @@ pokemon:
     - bw: [Magnet Pull, Sand Force, Sturdy]
     egggroups:
     - [Mineral]
-    evolutions:
-    - []
-    - dp: [Probopass]
     height: [1]
     introduction: rs
     moves:
@@ -78,8 +75,7 @@ pokemon:
     - bw: [Magnet Pull, Sand Force, Sturdy]
     egggroups:
     - [Mineral]
-    evolutions:
-    - []
+    evolvesFrom: [Nosepass]
     height: [1.4]
     introduction: dp
     moves:

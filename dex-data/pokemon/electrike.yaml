@@ -5,8 +5,6 @@ pokemon:
     - bw: [Lightningrod, Minus, Static]
     egggroups:
     - [Ground]
-    evolutions:
-    - [Manectric]
     height: [0.6]
     introduction: rs
     moves:
@@ -78,9 +76,7 @@ pokemon:
           weight: 44
     egggroups:
     - [Ground]
-    evolutions:
-    - []
-    - xy: []
+    evolvesFrom: [Electrike]
     height: [1.5]
     introduction: rs
     moves:

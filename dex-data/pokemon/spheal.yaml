@@ -6,8 +6,7 @@ pokemon:
     - bw: [Ice Body, Oblivious, Thick Fat]
     egggroups:
     - [Ground, Water 1]
-    evolutions:
-    - [Walrein]
+    evolvesFrom: [Spheal]
     height: [1.1]
     introduction: rs
     moves:
@@ -29,8 +28,6 @@ pokemon:
     - bw: [Ice Body, Oblivious, Thick Fat]
     egggroups:
     - [Ground, Water 1]
-    evolutions:
-    - [Sealeo]
     height: [0.8]
     introduction: rs
     moves:
@@ -97,8 +94,7 @@ pokemon:
     - bw: [Ice Body, Oblivious, Thick Fat]
     egggroups:
     - [Ground, Water 1]
-    evolutions:
-    - []
+    evolvesFrom: [Sealeo]
     height: [1.4]
     introduction: rs
     moves:

@@ -6,8 +6,7 @@ pokemon:
     - []
     egggroups:
     - [Dragon, Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Ekans]
     height: [3.5]
     introduction: rb
     moves:
@@ -34,8 +33,6 @@ pokemon:
     - []
     egggroups:
     - [Dragon, Ground]
-    evolutions:
-    - [Arbok]
     height: [2]
     introduction: rb
     moves:

@@ -6,9 +6,7 @@ pokemon:
     - []
     egggroups:
     - [Ground, Monster]
-    evolutions:
-    - []
-    - dp: [Rhyperior]
+    evolvesFrom: [Rhyhorn]
     height: [1.9]
     introduction: rb
     moves:
@@ -45,8 +43,6 @@ pokemon:
     - []
     egggroups:
     - [Ground, Monster]
-    evolutions:
-    - [Rhydon]
     height: [1]
     introduction: rb
     moves:
@@ -139,8 +135,7 @@ pokemon:
     - [Lightningrod, Reckless, Solid Rock]
     egggroups:
     - [Ground, Monster]
-    evolutions:
-    - []
+    evolvesFrom: [Rhydon]
     height: [2.4]
     introduction: dp
     moves:

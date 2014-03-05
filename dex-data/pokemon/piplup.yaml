@@ -5,8 +5,7 @@ pokemon:
     - bw: [Defiant, Torrent]
     egggroups:
     - [Ground, Water 1]
-    evolutions:
-    - []
+    evolvesFrom: [Prinplup]
     height: [1.7]
     introduction: dp
     moves:
@@ -32,8 +31,6 @@ pokemon:
     - bw: [Defiant, Torrent]
     egggroups:
     - [Ground, Water 1]
-    evolutions:
-    - [Prinplup]
     height: [0.4]
     introduction: dp
     moves:
@@ -87,8 +84,7 @@ pokemon:
     - bw: [Defiant, Torrent]
     egggroups:
     - [Ground, Water 1]
-    evolutions:
-    - [Empoleon]
+    evolvesFrom: [Piplup]
     height: [0.8]
     introduction: dp
     moves:

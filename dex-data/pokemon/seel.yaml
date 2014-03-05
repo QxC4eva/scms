@@ -7,8 +7,7 @@ pokemon:
     - []
     egggroups:
     - [Ground, Water 1]
-    evolutions:
-    - []
+    evolvesFrom: [Seel]
     height: [1.7]
     introduction: rb
     moves:
@@ -35,8 +34,6 @@ pokemon:
     - []
     egggroups:
     - [Ground, Water 1]
-    evolutions:
-    - [Dewgong]
     height: [1.1]
     introduction: rb
     moves:

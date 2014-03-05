@@ -5,8 +5,7 @@ pokemon:
     - bw: [Aftermath, Flare Boost, Unburden]
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - []
+    evolvesFrom: [Drifloon]
     height: [1.2]
     introduction: dp
     moves:
@@ -26,8 +25,6 @@ pokemon:
     - bw: [Aftermath, Flare Boost, Unburden]
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - [Drifblim]
     height: [0.4]
     introduction: dp
     moves:

@@ -4,8 +4,7 @@ pokemon:
     - [Analytic, Synchronize, Telepathy]
     egggroups:
     - [Humanshape]
-    evolutions:
-    - []
+    evolvesFrom: [Elgyem]
     height: [1]
     introduction: bw
     moves:
@@ -23,8 +22,6 @@ pokemon:
     - [Analytic, Synchronize, Telepathy]
     egggroups:
     - [Humanshape]
-    evolutions:
-    - [Beheeyem]
     height: [0.5]
     introduction: bw
     moves:

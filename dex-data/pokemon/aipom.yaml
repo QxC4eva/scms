@@ -6,9 +6,6 @@ pokemon:
     - []
     egggroups:
     - [Ground]
-    evolutions:
-    - []
-    - dp: [Ambipom]
     height: [0.8]
     introduction: gs
     moves:
@@ -100,8 +97,7 @@ pokemon:
     - [Pickup, Skill Link, Technician]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Aipom]
     height: [1.2]
     introduction: dp
     moves:

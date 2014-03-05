@@ -5,8 +5,7 @@ pokemon:
     - bw: [Guts, Scrappy]
     egggroups:
     - [Flying]
-    evolutions:
-    - []
+    evolvesFrom: [Taillow]
     height: [0.7]
     introduction: rs
     moves:
@@ -29,8 +28,6 @@ pokemon:
     - bw: [Guts, Scrappy]
     egggroups:
     - [Flying]
-    evolutions:
-    - [Swellow]
     height: [0.3]
     introduction: rs
     moves:

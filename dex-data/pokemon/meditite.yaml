@@ -13,9 +13,7 @@ pokemon:
           weight: 31.5
     egggroups:
     - [Humanshape]
-    evolutions:
-    - []
-    - xy: []
+    evolvesFrom: [Meditite]
     height: [1.3]
     introduction: rs
     moves:
@@ -38,8 +36,6 @@ pokemon:
     - bw: [Pure Power, Telepathy]
     egggroups:
     - [Humanshape]
-    evolutions:
-    - [Medicham]
     height: [0.6]
     introduction: rs
     moves:

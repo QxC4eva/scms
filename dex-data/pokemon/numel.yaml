@@ -6,8 +6,7 @@ pokemon:
     - bw: [Anger Point, Magma Armor, Solid Rock]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Numel]
     height: [1.9]
     introduction: rs
     moves:
@@ -33,8 +32,6 @@ pokemon:
     - bw: [Oblivious, Own Tempo, Simple]
     egggroups:
     - [Ground]
-    evolutions:
-    - [Camerupt]
     height: [0.7]
     introduction: rs
     moves:

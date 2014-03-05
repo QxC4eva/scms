@@ -6,8 +6,7 @@ pokemon:
     - []
     egggroups:
     - [Plant]
-    evolutions:
-    - []
+    evolvesFrom: [Gloom]
     height: [0.4]
     introduction: gs
     moves:
@@ -35,9 +34,7 @@ pokemon:
     - []
     egggroups:
     - [Plant]
-    evolutions:
-    - [Vileplume]
-    - gs: [Bellossom]
+    evolvesFrom: [Oddish]
     height: [0.8]
     introduction: rb
     moves:
@@ -62,8 +59,6 @@ pokemon:
     - []
     egggroups:
     - [Plant]
-    evolutions:
-    - [Gloom]
     height: [0.5]
     introduction: rb
     moves:
@@ -142,8 +137,7 @@ pokemon:
     - []
     egggroups:
     - [Plant]
-    evolutions:
-    - []
+    evolvesFrom: [Gloom]
     height: [1.2]
     introduction: rb
     moves:

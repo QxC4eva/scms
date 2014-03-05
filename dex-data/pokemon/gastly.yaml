@@ -6,8 +6,6 @@ pokemon:
     - []
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - [Haunter]
     height: [1.3]
     introduction: rb
     moves:
@@ -102,9 +100,7 @@ pokemon:
           weight: 40.5
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - []
-    - xy: []
+    evolvesFrom: [Haunter]
     height: [1.5]
     introduction: rb
     moves:
@@ -138,8 +134,7 @@ pokemon:
     - []
     egggroups:
     - [Indeterminate]
-    evolutions:
-    - [Gengar]
+    evolvesFrom: [Gastly]
     height: [1.6]
     introduction: rb
     moves:

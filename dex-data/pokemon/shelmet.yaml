@@ -4,8 +4,7 @@ pokemon:
     - [Hydration, Sticky Hold, Unburden]
     egggroups:
     - [Bug]
-    evolutions:
-    - []
+    evolvesFrom: [Shelmet]
     height: [0.8]
     introduction: bw
     moves:
@@ -25,8 +24,6 @@ pokemon:
     - [Hydration, Overcoat, Shell Armor]
     egggroups:
     - [Bug]
-    evolutions:
-    - [Accelgor]
     height: [0.4]
     introduction: bw
     moves:

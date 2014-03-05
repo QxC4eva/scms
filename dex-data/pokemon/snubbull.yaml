@@ -7,8 +7,7 @@ pokemon:
     - []
     egggroups:
     - [Fairy, Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Snubbull]
     height: [1.4]
     introduction: gs
     moves:
@@ -36,8 +35,6 @@ pokemon:
     - []
     egggroups:
     - [Fairy, Ground]
-    evolutions:
-    - [Granbull]
     height: [0.6]
     introduction: gs
     moves:

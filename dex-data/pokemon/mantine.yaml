@@ -6,8 +6,8 @@ pokemon:
     - []
     egggroups:
     - [Water 1]
-    evolutions:
-    - []
+    evolvesFrom:
+    - {dp: Mantyke}
     height: [2.1]
     introduction: gs
     moves:
@@ -51,8 +51,6 @@ pokemon:
     - [Swift Swim, Water Absorb, Water Veil]
     egggroups:
     - []
-    evolutions:
-    - [Mantine]
     height: [1]
     introduction: dp
     moves:

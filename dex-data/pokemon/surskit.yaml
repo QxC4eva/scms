@@ -5,8 +5,7 @@ pokemon:
     - bw: [Intimidate, Unnerve]
     egggroups:
     - [Bug, Water 1]
-    evolutions:
-    - []
+    evolvesFrom: [Surskit]
     height: [0.8]
     introduction: rs
     moves:
@@ -33,8 +32,6 @@ pokemon:
     - bw: [Rain Dish, Swift Swim]
     egggroups:
     - [Bug, Water 1]
-    evolutions:
-    - [Masquerain]
     height: [0.5]
     introduction: rs
     moves:

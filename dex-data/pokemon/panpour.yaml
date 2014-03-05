@@ -4,8 +4,6 @@ pokemon:
     - [Gluttony, Torrent]
     egggroups:
     - [Ground]
-    evolutions:
-    - [Simipour]
     height: [0.6]
     introduction: dp
     moves:
@@ -48,8 +46,7 @@ pokemon:
     - [Gluttony, Torrent]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Panpour]
     height: [1]
     introduction: dp
     moves:

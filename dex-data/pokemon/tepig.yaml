@@ -4,8 +4,7 @@ pokemon:
     - [Blaze, Reckless]
     egggroups:
     - [Ground]
-    evolutions:
-    - []
+    evolvesFrom: [Pignite]
     height: [1.6]
     introduction: bw
     moves:
@@ -26,8 +25,7 @@ pokemon:
     - [Blaze, Thick Fat]
     egggroups:
     - [Ground]
-    evolutions:
-    - [Emboar]
+    evolvesFrom: [Tepig]
     height: [1]
     introduction: bw
     moves:
@@ -50,8 +48,6 @@ pokemon:
     - [Blaze, Thick Fat]
     egggroups:
     - [Ground]
-    evolutions:
-    - [Pignite]
     height: [0.5]
     introduction: bw
     moves:

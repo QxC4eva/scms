@@ -147,16 +147,14 @@ pokemon:
     moves:
     - gs: [Submission]
     - bw: [Bulk Up, Circle Throw, Dynamic Punch, Low Sweep, Poison Jab, Rock Slide,
-        Rock Tomb, Submission, Work Up, Double-Edge, Helping Hand, Icy Wind, Mimic,
-        Seismic Toss]
+        Rock Tomb, Submission, Work Up, Icy Wind]
     - dp: [Bulk Up, Dynamic Punch, Poison Jab, Rock Climb, Rock Slide, Rock Tomb,
-        Submission, Vacuum Wave, Double-Edge, Helping Hand, Icy Wind, Mimic, Seismic
-          Toss]
+        Submission, Vacuum Wave, Icy Wind]
     - rs: [Bulk Up, Rock Tomb, Submission, Double-Edge, Icy Wind, Mimic, Seismic Toss]
     - rb: [Hyper Beam]
     - xy: [Bulk Up, Circle Throw, Dynamic Punch, Focus Blast, Giga Impact, Hyper Beam,
-        Low Sweep, Mind Reader, Payback, Poison Jab, Rock Climb, Rock Slide, Rock
-          Tomb, Submission, Vacuum Wave, Work Up]
+        Low Sweep, Payback, Poison Jab, Rock Climb, Rock Slide, Rock Tomb, Submission,
+        Vacuum Wave, Work Up]
     stats:
     - [90, 85, 95, 70, 70, 70]
     - gs: [90, 85, 95, 70, 90, 70]

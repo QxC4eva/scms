@@ -51,13 +51,11 @@ pokemon:
     height: [1.6]
     introduction: rs
     moves:
-    - bw: [Captivate, Energy Ball, Heal Bell, Healing Wish, Wish, Body Slam, Double-Edge,
-        Icy Wind, Mimic, Nightmare]
-    - dp: [Energy Ball, Heal Bell, Healing Wish, Wish, Body Slam, Double-Edge, Icy
-          Wind, Mimic, Nightmare]
+    - bw: [Captivate, Energy Ball, Heal Bell, Healing Wish, Wish, Icy Wind]
+    - dp: [Energy Ball, Heal Bell, Healing Wish, Wish, Icy Wind]
     - rs: [Hyper Beam]
     - xy: [Energy Ball, Focus Blast, Giga Impact, Heal Bell, Healing Wish, Hyper Beam,
-        Wish, Moonblast, Misty Terrain]
+        Moonblast]
     stats:
     - [68, 65, 65, 125, 115, 80]
     tags:

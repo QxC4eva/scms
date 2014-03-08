@@ -1,0 +1,83 @@
+[title]
+Cawmodore
+[head]
+<link rel="stylesheet" type="text/css" href="/media/dex/dex.css" />
+<script language="JavaScript" src="http://cap.smogon.com/web/cap_template.js"></script>
+<script language="JavaScript" src="http://cap.smogon.com/web/cap_database.js"></script>
+[header]
+[page]
+<script language="JavaScript">
+var cap = Cawmodore();
+
+cap.movesLevel[0] = ["Leer", "Peck"];
+cap.movesLevel[5] = "Growl";
+cap.movesLevel[9] = "Swift";
+cap.movesLevel[13] = "Metal Claw";
+cap.movesLevel[18] = "Screech";
+cap.movesLevel[22] = "Wing Attack";
+cap.movesLevel[26] = "Detect";
+cap.movesLevel[31] = "Steel Wing";
+cap.movesLevel[35] = "Belly Drum";
+cap.movesLevel[39] = "Bullet Punch";
+cap.movesLevel[44] = "Brine";
+cap.movesLevel[48] = "Tailwind";
+cap.movesLevel[52] = "Flash Cannon";
+cap.movesLevel[58] = "Hurricane";
+
+cap.movesTM[06] = "Toxic";
+cap.movesTM[10] = "Hidden Power";
+cap.movesTM[15] = "Hyper Beam";
+cap.movesTM[17] = "Protect";
+cap.movesTM[18] = "Rain Dance";
+cap.movesTM[21] = "Frustration";
+cap.movesTM[23] = "Smack Down";
+cap.movesTM[27] = "Return";
+cap.movesTM[31] = "Brick Break";
+cap.movesTM[32] = "Double Team";
+cap.movesTM[40] = "Aerial Ace";
+cap.movesTM[42] = "Facade";
+cap.movesTM[44] = "Rest";
+cap.movesTM[45] = "Attract";
+cap.movesTM[48] = "Round";
+cap.movesTM[58] = "Sky Drop";
+cap.movesTM[62] = "Acrobatics";
+cap.movesTM[67] = "Retaliate";
+cap.movesTM[68] = "Giga Impact";
+cap.movesTM[77] = "Psych Up";
+cap.movesTM[87] = "Swagger";
+cap.movesTM[88] = "Pluck";
+cap.movesTM[90] = "Substitute";
+cap.movesTM[91] = "Flash Cannon";
+cap.movesTM[94] = "Rock Smash";
+
+cap.movesHM[02] = "Fly";
+cap.movesHM[03] = "Surf";
+cap.movesHM[04] = "Strength";
+
+cap.movesEgg = [
+        "Air Slash",
+        "Drill Peck",
+        "Metal Sound",
+        "Mirror Move",
+        "Pursuit",
+        "Quick Attack",
+        "Quick Guard",
+        "Razor Wind",
+        "Water Sport",
+];
+
+cap.movesTutor = [
+        "Block",
+        "Drain Punch",
+        "Endeavor",
+        "Iron Head",
+        "Knock Off",
+        "Sky Attack",
+        "Sleep Talk",
+        "Snatch",
+        "Snore",
+        "Tailwind",
+];
+
+document.write(composeMovesPage(cap));
+</script>

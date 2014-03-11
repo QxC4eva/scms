@@ -192,6 +192,11 @@ types:
            Normal: 1, Poison: 1, Psychic: 1, Rock: 0.5, Steel: 0.5,
            Water: 1}
 
+        xy: {Bug: 1, Dragon: 1, Dark: 1, Electric: 1, Fighting: 1,
+           Fire: 1, Flying: 1, Ghost: 0, Grass: 1, Ground: 1, Ice: 1,
+           Normal: 1, Poison: 1, Psychic: 1, Rock: 0.5, Steel: 0.5,
+           Water: 1, Fairy: 1}
+           
   Poison:
     introduction: rb
     effectiveness:

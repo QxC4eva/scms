@@ -1,952 +1,629 @@
-
 abilities:
   Adaptability:
+    description: [The Pokemon's STAB modifier becomes 2x.]
     introduction: dp
-    description:
-      - The Pokemon's STAB modifier becomes 2x.
-
-  Aftermath:
-    introduction: dp
-    description:
-      - Deals 25% damage when KOed by contact damage.
-
-  Air Lock:
-    introduction: rs
-    description:
-      - Blocks the effects of weather.
-
-  Analytic:
-    introduction: bw
-    description:
-      - Raises the power of all moves by 30% if the wielder moves last.
-
-  Anger Point:
-    introduction: dp
-    description:
-      - Raises Atk to +6 if struck by a critical hit.
-
-  Anticipation:
-    introduction: dp
-    description:
-      - Alerts the Pokemon of certain dangerous moves.
-
-  Arena Trap:
-    introduction: rs
-    description:
-      - Prevents switching and increases wild encounter rate.
-
-  Bad Dreams:
-    introduction: dp
-    description:
-      - Deals 12.5% damage to sleeping opponents per turn.
-
-  Battle Armor:
-    introduction: rs
-    description:
-      - Prevents critical hits.
-
-  Big Pecks:
-    introduction: bw
-    description:
-      - The wielder's Defense cannot be lowered.
-
-  Blaze:
-    introduction: rs
-    description:
-      - Boosts power of Fire-type moves 50% when at 1/3 HP or less.
-
-  Chlorophyll:
-    introduction: rs
-    description:
-      - Speed doubles in sun.
-
-  Clear Body:
-    introduction: rs
-    description:
-      - Stops the enemy from lowering this Pokemon's stats.
-
-  Cloud Nine:
-    introduction: rs
-    description:
-      - Blocks the effects of weather.
-
-  Color Change:
-    introduction: rs
-    description:
-      - Changes user's type to type of last attack that hit this Pokemon.
-
-  Compound Eyes:
-    introduction: rs
-    description:
-      - Raises accuracy by 30% and increases the probability of wild Pokemon holding items.
-
-  Contrary:
-    introduction: bw
-    description:
-      - The wielder's stat changes are reversed.
-
-  Cursed Body:
-    introduction: bw
-    description:
-      - The wielder has a 30% chance to disable any move that hits it.
-
-  Cute Charm:
-    introduction: rs
-    description:
-      - Can infatuate Pokemon of opposite gender when struck and increases their wild encounter rate.
-
-  Damp:
-    introduction: rs
-    description:
-      - Prevents the use of Self-Destruct or Explosion.
-
-  Defeatist:
-    introduction: bw
-    description:
-      - Halves the wielder's Attack and Special Attack if its HP drops below 50%.
-
-  Defiant:
-    introduction: bw
-    description:
-      - Boosts Attack by two stages for every stat drop.
-
-  Download:
-    introduction: dp
-    description:
-      - User gets a stat boost depending on its opponent's stats.
-
-  Drizzle:
-    introduction: rs
-    description:
-      - Summons permanent rain.
-      - xy: Summons rain.
-
-  Drought:
-    introduction: rs
-    description:
-      - Summons permanent sun.
-      - xy: Summons sun.
-
-  Dry Skin:
-    introduction: dp
-    description:
-      - User absorbs Water-type attacks and has a weakness to Fire-type moves. Heals in rain and is damaged by sun.
-
-  Early Bird:
-    introduction: rs
-    description:
-      - Reduces sleep time by 50%.
-
-  Effect Spore:
-    introduction: rs
-    description:
-      - Induces paralysis, poison, or sleep on contact.
-
-  Filter:
-    introduction: dp
-    description:
-      - Reduces damage from super effective hits by 1/4.
-
-  Flame Body:
-    introduction: rs
-    description:
-      - Enemies' contact moves have a 30% chance to burn them. Halves the amount of steps required to hatch Eggs.
-
-  Flare Boost:
-    introduction: bw
-    description:
-      - Special Attack is increased by 50% when burned.
-
-  Flash Fire:
-    introduction: rs
-    description:
-      - Grants immunity to Fire and increases Fire's power 50% when hit by a Fire move.
-
-  Flower Gift:
-    introduction: dp
-    description:
-      - Raises stats of this Pokemon and its partner in sun.
-
-  Forecast:
-    introduction: rs
-    description:
-      - Changes type according to weather.
-
-  Forewarn:
-    introduction: dp
-    description:
-      - Tells which of the opponent's moves has the highest Base Power.
-
-  Friend Guard:
-    introduction: bw
-    description:
-      - Reduces damage done to a teammate by 25%.
-
-  Frisk:
-    introduction: dp
-    description:
-      - Reveals the foe's item.
-
-  Gluttony:
-    introduction: dp
-    description:
-      - Consumes pinch Berries at 50% HP or less.
-
-  Guts:
-    introduction: rs
-    description:
-      - Attack is increased 50% when hit with a status move.
-
-  Harvest:
-    introduction: bw
-    description:
-      - After each turn, the wielder may receive the Berry it used at a 50% chance (100% if in sun).
-
-  Healer:
-    introduction: bw
-    description:
-      - 30% chance to heal an adjacent teammate of a status condition every turn.
-
-  Heatproof:
-    introduction: dp
-    description:
-      - Reduces Fire damage 50%.
-
-  Heavy Metal:
-    introduction: bw
-    description:
-      - The wielder's weight is doubled.
-
-  Honey Gather:
-    introduction: dp
-    description:
-      - Adds a chance of finding Honey after each in-game battle.
-
-  Huge Power:
-    introduction: rs
-    description:
-      - Doubles Attack.
-
-  Hustle:
-    introduction: rs
-    description:
-      - Physical moves do 50% more damage at the cost of 20% accuracy. Increases wild encounter rate with higher level Pokemon.
-
-  Hydration:
-    introduction: dp
-    description:
-      - Heals status effects in rain.
-
-  Hyper Cutter:
-    introduction: rs
-    description:
-      - Prevents the enemy from lowering this Pokemon's Attack. Increases Cut's area of effect.
-
-  Ice Body:
-    introduction: dp
-    description:
-      - Heals 1/16 max HP in hail.
-
-  Illuminate:
-    introduction: rs
-    description:
-      - Increases wild encounter rate (no effect in battles).
-
-  Illusion:
-    introduction: bw
-    description:
-      - The wielder appears as the last Pokemon in the party to the opponent.
-
-  Immunity:
-    introduction: rs
-    description:
-      - This Pokemon cannot be poisoned.
-
-  Imposter:
-    introduction: bw
-    description:
-      - The wielder transforms into the opponent when it switches in.
-
-  Infiltrator:
-    introduction: bw
-    description:
-      - The wielder bypasses the foe's Light Screen, Reflect, Mist, and Safeguard.
-      - xy: The wielder bypasses the foe's Light Screen, Reflect, Mist, Safeguard, and Substitute.
-
-  Inner Focus:
-    introduction: rs
-    description:
-      - Prevents flinching.
-
-  Insomnia:
-    introduction: rs
-    description:
-      - Prevents sleep.
-
-  Intimidate:
-    introduction: rs
-    description:
-      - Lowers the foe's Attack 1 stage. Decreases wild encounter rate.
-
-  Iron Barbs:
-    introduction: bw
-    description:
-      - Deals 1/8% damage when the opponent makes contact.
-
-  Iron Fist:
-    introduction: dp
-    description:
-      - Increases the power of punching moves by 20%.
-
-  Justified:
-    introduction: bw
-    description:
-      - Raises Attack one stage when hit by a Dark-type move.
-
-  Keen Eye:
-    introduction: rs
-    description:
-      - Pokemon's accuracy cannot be lowered. Decreases wild encounter rate.
-      - xy: Pokemon's accuracy cannot be lowered. Decreases wild encounter rate.
-
-  Klutz:
-    introduction: dp
-    description:
-      - This Pokemon both is unaffected by and will not utilize held items.
-
-  Leaf Guard:
-    introduction: dp
-    description:
-      - Prevents status effects in sun.
-
-  Levitate:
-    introduction: rs
-    description:
-      - This Pokemon is immune to Ground-type moves.
-
-  Light Metal:
-    introduction: bw
-    description:
-      - The wielder's weight is halved.
-
-  Lightningrod:
-    introduction: rs
-    description:
-      - All Electric-type attacks hit this Pokemon.
-
-  Limber:
-    introduction: rs
-    description:
-      - Blocks paralysis.
-
-  Liquid Ooze:
-    introduction: rs
-    description:
-      - Leeching moves cause the enemy to lose HP instead.
-
-  Magic Bounce:
-    introduction: bw
-    description:
-      - Bounces back certain non-damaging moves.
-
-  Magic Guard:
-    introduction: dp
-    description:
-      - Prevents indirect damage.
-
-  Magma Armor:
-    introduction: rs
-    description:
-      - Cannot be frozen. Halves the amount of steps required to hatch Eggs.
-
-  Magnet Pull:
-    introduction: rs
-    description:
-      - Prevents Steel-type Pokemon from switching. Increases the chance of encountering a Steel-type Pokemon in the wild.
-
-  Marvel Scale:
-    introduction: rs
-    description:
-      - Boosts Defense 50% when hit with a status move.
-
-  Minus:
-    introduction: rs
-    description:
-      - If allied with a Pokemon with Plus, its Special Attack increases 50%.
-
-  Mold Breaker:
-    introduction: dp
-    description:
-      - Abilities that hinder attacks are nullified.
-
-  Moody:
-    introduction: bw
-    description:
-      - A random stat is lowered by 1 stage and another is boosted by 2 stages every turn.
-
-  Motor Drive:
-    introduction: dp
-    description:
-      - When hit with an Electric-type move, Speed is boosted 1 stage.
-
-  Moxie:
-    introduction: bw
-    description:
-      - Boosts Attack by one stage if the wielder knocks out another Pokemon.
-
-  Multiscale:
-    introduction: bw
-    description:
-      - Reduces damage by 50% if the wielder is at full health.
-
-  Multitype:
-    introduction: dp
-    description:
-      - Type changes depending on the held plate. Prevents item loss.
-
-  Mummy:
-    introduction: bw
-    description:
-      - The opponent's ability becomes Mummy when it hits the wielder with a contact move.
-
-  Natural Cure:
-    introduction: rs
-    description:
-      - Cures status on switching out.
-
-  No Guard:
-    introduction: dp
-    description:
-      - All attacks used by and used on this Pokemon will never miss.
-
-  Normalize:
-    introduction: dp
-    description:
-      - All moves used by this Pokemon are Normal-type.
-
-  Oblivious:
-    introduction: rs
-    description:
-      - Grants immunity to infatuation.
-      - dp: Grants immunity to infatuation and Captivate.
-        xy: Grants immunity to infatuation, Captivate, and taunt.
-
-  Overcoat:
-    introduction: bw
-    description:
-      - Grants immunity to damage from weather effects.
-      - xy: Grants immunity to damage from weather effects and powder moves.
-
-  Overgrow:
-    introduction: rs
-    description:
-      - Raises the power of Grass-type moves 50% when at 1/3 HP or less.
-
-  Own Tempo:
-    introduction: rs
-    description:
-      - Cannot be confused.
-
-  Pickpocket:
-    introduction: bw
-    description:
-      - The wielder immediately steals an item from an attacker using a contact move.
-
-  Pickup:
-    introduction: rs
-    description:
-      - Adds a chance of finding an item after each battle (no effect in battles).
-
-  Plus:
-    introduction: rs
-    description:
-      - If allied with a Pokemon with Minus, its Special Attack increases 50%.
-
-  Poison Heal:
-    introduction: dp
-    description:
-      - Heals 1/8 HP per turn when poisoned.
-
-  Poison Point:
-    introduction: rs
-    description:
-      - Enemies' contact moves have a 30% chance of poisoning them.
-
-  Poison Touch:
-    introduction: bw
-    description:
-      - The wielder has a 30% chance to poison the opponent when it uses a contact move.
-
-  Prankster:
-    introduction: bw
-    description:
-      - Moves that do not deal direct damage have their priority increased by one level.
-
-  Pressure:
-    introduction: rs
-    description:
-      - Enemy attacks lose 1 extra PP. Increases wild encounter rate.
-
-  Pure Power:
-    introduction: rs
-    description:
-      - Doubles Attack.
-
-  Quick Feet:
-    introduction: dp
-    description:
-      - Increases Speed by 50% when afflicted with a status condition.
-
-  Rain Dish:
-    introduction: rs
-    description:
-      - Heals 1/16 max HP in rain.
-
-  Rattled:
-    introduction: bw
-    description:
-      - Raises Speed one stage when hit by a Bug-, Dark-, or Ghost-type move.
-
-  Reckless:
-    introduction: dp
-    description:
-      - Increases the power of recoil moves by 20%.
-
-  Regenerator:
-    introduction: bw
-    description:
-      - Wielder heals 1/3 of its maximum HP on switching out.
-
-  Rivalry:
-    introduction: dp
-    description:
-      - Move power depends on gender of the opponent.
-
-  Rock Head:
-    introduction: rs
-    description:
-      - Recoil moves have no recoil.
-
-  Rough Skin:
-    introduction: rs
-    description:
-      - Deals 12.5% damage when the opponent makes contact.
-
-  Run Away:
-    introduction: rs
-    description:
-      - Increases the chance of successfully escaping battle with a wild Pokemon.
-
-  Sand Force:
-    introduction: bw
-    description:
-      - Increases power of Ground-, Rock-, and Steel-type attacks by 30% in a sandstorm.
-
-  Sand Rush:
-    introduction: bw
-    description:
-      - Speed doubles in sandstorm.
-
-  Sand Stream:
-    introduction: rs
-    description:
-      - Summons permanent sandstorm.
-      - xy: Summons sandstorm.
-
-  Sand Veil:
-    introduction: rs
-    description:
-      - Evasion increases by 20% in a sandstorm.
-
-  Sap Sipper:
-    introduction: bw
-    description:
-      - Grants immunity to Grass-type moves and boosts Attack by 1 stage when hit by a Grass-type move.
-
-  Scrappy:
-    introduction: dp
-    description:
-      - Can hit Ghost-types with Fighting- and Normal-type moves.
-
-  Serene Grace:
-    introduction: rs
-    description:
-      - This Pokemon's secondary effect chances are doubled.
-
-  Shadow Tag:
-    introduction: rs
-    description:
-      - Prevents switching.
-
-  Shed Skin:
-    introduction: rs
-    description:
-      - 30% chance to heal status.
-
-  Sheer Force:
-    introduction: bw
-    description:
-      - Increases power of moves with secondary effects by 30%, but removes the effects.
-
-  Shell Armor:
-    introduction: rs
-    description:
-      - Prevents critical hits.
-
-  Shield Dust:
-    introduction: rs
-    description:
-      - Secondary effects won't occur.
-
-  Simple:
-    introduction: dp
-    description:
-      - Doubles the effect of status boosts and drops.
-
-  Skill Link:
-    introduction: dp
-    description:
-      - Multi-hit moves will always hit the maximum number of times.
-
-  Slow Start:
-    introduction: dp
-    description:
-      - Attack and Speed are halved for 5 turns.
-
-  Sniper:
-    introduction: dp
-    description:
-      - Critical hits do 3x damage instead of 2x.
-
-  Snow Cloak:
-    introduction: dp
-    description:
-      - Evasion increases 20% in hail.
-
-  Snow Warning:
-    introduction: dp
-    description:
-      - Summons permanent hail.
-      - xy: Summons hail.
-
-  Solar Power:
-    introduction: dp
-    description:
-      - Loses HP in sun. Special Attack increases 50%.
-
-  Solid Rock:
-    introduction: dp
-    description:
-      - Reduces damage from super effective hits by 1/4.
-
-  Soundproof:
-    introduction: rs
-    description:
-      - Unaffected by sound moves.
-
-  Speed Boost:
-    introduction: rs
-    description:
-      - Speed raises at end of turn.
-
-  Stall:
-    introduction: dp
-    description:
-      - This Pokemon moves last.
-
-  Static:
-    introduction: rs
-    description:
-      - Enemies' contact moves can paralyze them.
-
-  Steadfast:
-    introduction: dp
-    description:
-      - Speed is boosted one stage when flinched.
-
-  Stench:
-    introduction: rs
-    description:
-      - Decreases wild encounter rate (no effect in battles).
-
-  Sticky Hold:
-    introduction: rs
-    description:
-      - This Pokemon's item cannot be removed. Increases the chance of encountering Pokemon while fishing.
-
-  Storm Drain:
-    introduction: dp
-    description:
-      - All Water-type attacks hit this Pokemon.
-
-  Sturdy:
-    introduction: rs
-    description:
-      - OHKO moves will fail.
-
-  Suction Cups:
-    introduction: rs
-    description:
-      - Cannot be forced to switch. Increases chance of encountering Pokemon while fishing.
-
-  Super Luck:
-    introduction: dp
-    description:
-      - Critical hit rate increases one stage.
-
-  Swarm:
-    introduction: rs
-    description:
-      - Boosts power of Bug-type moves 50% when at 1/3 HP or less.
-
-  Swift Swim:
-    introduction: rs
-    description:
-      - Speed doubles in rain.
-
-  Synchronize:
-    introduction: rs
-    description:
-      - When statused, the enemy is also statused. Can pass nature to wild Pokemon.
-
-  Tangled Feet:
-    introduction: dp
-    description:
-      - Evasion increases when confused.
-
-  Technician:
-    introduction: dp
-    description:
-      - Moves with 60 Base Power or less do 50% more damage.
-
-  Telepathy:
-    introduction: bw
-    description:
-      - Does not take damage from allies' attacks.
-
-  Teravolt:
-    introduction: bw
-    description:
-      - Abilities that hinder attacks are nullified.
-
-  Thick Fat:
-    introduction: rs
-    description:
-      - Halves Ice- and Fire-type damage.
-
-  Tinted Lens:
-    introduction: dp
-    description:
-      - Doubles damage on resisted hits.
-
-  Torrent:
-    introduction: rs
-    description:
-      - Boosts power of Water-type moves 50% when at 1/3 HP or less.
-
-  Toxic Boost:
-    introduction: bw
-    description:
-      - Attack is increased by 50% when poisoned.
-
-  Trace:
-    introduction: rs
-    description:
-      - Copies foe's ability.
-
-  Truant:
-    introduction: rs
-    description:
-      - This Pokemon does nothing every other turn.
-
-  Turboblaze:
-    introduction: bw
-    description:
-      - Abilities that hinder attacks are nullified.
-
-  Unaware:
-    introduction: dp
-    description:
-      - Ignores stat boosts and debuffs on other Pokemon.
-
-  Unburden:
-    introduction: dp
-    description:
-      - Speed increases when an item is used or lost.
-
-  Unnerve:
-    introduction: bw
-    description:
-      - Prevents the foe from consuming its held Berry item.
-
-  Victory Star:
-    introduction: bw
-    description:
-      - Increases the accuracy of the wielder and allies on its side of the field by 10%.
-
-  Vital Spirit:
-    introduction: rs
-    description:
-      - Prevents sleep. Increases wild encounters with higher level Pokemon.
-
-  Volt Absorb:
-    introduction: rs
-    description:
-      - Heals 25% HP when hit by an Electric-type attack.
-
-  Water Absorb:
-    introduction: rs
-    description:
-      - Heals 25% HP when hit by a Water-type attack.
-
-  Water Veil:
-    introduction: rs
-    description:
-      - Prevents burn.
-
-  Weak Armor:
-    introduction: bw
-    description:
-      - Boosts Speed by 1 stage and lowers Defense by 1 stage when hit by a physical move.
-
-  White Smoke:
-    introduction: rs
-    description:
-      - Prevents the enemy from lowering this Pokemon's stats and decreases wild encounter rate.
-
-  Wonder Guard:
-    introduction: rs
-    description:
-      - Only super effective attacks harm this Pokemon.
-
-  Wonder Skin:
-    introduction: bw
-    description:
-      - Reduces the accuracy of a status move to 50%.
-
-  Zen Mode:
-    introduction: bw
-    description:
-      - The wielder changes forme when below 50% of its max HP.
-
-  # Gen 6 abilities, sort at some point
-  
   Aerilate:
+    description: [Turns all of this Pokemon's Normal-typed attacks into Flying-type
+        and deal 1.3x damage. Does not affect Hidden Power.]
     introduction: xy
-    description:
-    - Turns all of this Pokemon's Normal-typed attacks into Flying-type and deal 1.3x damage. Does not affect Hidden Power.
-
+  Aftermath:
+    description: [Deals 25% damage when KOed by contact damage.]
+    introduction: dp
+  Air Lock:
+    description: [Blocks the effects of weather.]
+    introduction: rs
+  Analytic:
+    description: [Raises the power of all moves by 30% if the wielder moves last.]
+    introduction: bw
+  Anger Point:
+    description: [Raises Atk to +6 if struck by a critical hit.]
+    introduction: dp
+  Anticipation:
+    description: [Alerts the Pokemon of certain dangerous moves.]
+    introduction: dp
+  Arena Trap:
+    description: [Prevents switching and increases wild encounter rate.]
+    introduction: rs
   Aroma Veil:
+    description: [Protects allies from attacks that limit their move choices.]
     introduction: xy
-    description:
-    - Protects allies from attacks that limit their move choices.
-
   Aura Break:
+    description: [Reverses the effect of Dark Aura and Fairy Aura.]
     introduction: xy
-    description:
-    - Reverses the effect of Dark Aura and Fairy Aura.
-
+  Bad Dreams:
+    description: [Deals 12.5% damage to sleeping opponents per turn.]
+    introduction: dp
+  Battle Armor:
+    description: [Prevents critical hits.]
+    introduction: rs
+  Big Pecks:
+    description: [The wielder's Defense cannot be lowered.]
+    introduction: bw
+  Blaze:
+    description: [Boosts power of Fire-type moves 50% when at 1/3 HP or less.]
+    introduction: rs
   Bulletproof:
+    description: [This Pokemon is protected from some Ball and Bomb moves.]
     introduction: xy
-    description:
-    - This Pokemon is protected from some Ball and Bomb moves.
-
   Cheek Pouch:
+    description: [Increases HP when this Pokemon consumes a berry.]
     introduction: xy
-    description:
-    - Increases HP when this Pokemon consumes a berry.
-
+  Chlorophyll:
+    description: [Speed doubles in sun.]
+    introduction: rs
+  Clear Body:
+    description: [Stops the enemy from lowering this Pokemon's stats.]
+    introduction: rs
+  Cloud Nine:
+    description: [Blocks the effects of weather.]
+    introduction: rs
+  Color Change:
+    description: [Changes user's type to type of last attack that hit this Pokemon.]
+    introduction: rs
   Competitive:
+    description: ['Raises the user''s Special Attack stat by two stages when a stat
+        is lowered, including the Special Attack stat. This does not include self-induced
+        stat drops like those from Close Combat.']
     introduction: xy
-    description:
-    - Raises the user's Special Attack stat by two stages when a stat is lowered, including the Special Attack stat. This does not include self-induced stat drops like those from Close Combat.
-
+  Compound Eyes:
+    description: [Raises accuracy by 30% and increases the probability of wild Pokemon
+        holding items.]
+    introduction: rs
+  Contrary:
+    description: [The wielder's stat changes are reversed.]
+    introduction: bw
+  Cursed Body:
+    description: [The wielder has a 30% chance to disable any move that hits it.]
+    introduction: bw
+  Cute Charm:
+    description: [Can infatuate Pokemon of opposite gender when struck and increases
+        their wild encounter rate.]
+    introduction: rs
+  Damp:
+    description: [Prevents the use of Self-Destruct or Explosion.]
+    introduction: rs
   Dark Aura:
+    description: [Increases the power of all Dark-type moves in battle to 1.3x.]
     introduction: xy
+  Defeatist:
+    description: [Halves the wielder's Attack and Special Attack if its HP drops below
+        50%.]
+    introduction: bw
+  Defiant:
+    description: [Boosts Attack by two stages for every stat drop.]
+    introduction: bw
+  Download:
+    description: [User gets a stat boost depending on its opponent's stats.]
+    introduction: dp
+  Drizzle:
     description:
-    - Increases the power of all Dark-type moves in battle to 1.3x.
-
+    - Summons permanent rain.
+    - {xy: Summons rain.}
+    introduction: rs
+  Drought:
+    description:
+    - Summons permanent sun.
+    - {xy: Summons sun.}
+    introduction: rs
+  Dry Skin:
+    description: [User absorbs Water-type attacks and has a weakness to Fire-type
+        moves. Heals in rain and is damaged by sun.]
+    introduction: dp
+  Early Bird:
+    description: [Reduces sleep time by 50%.]
+    introduction: rs
+  Effect Spore:
+    description: ['Induces paralysis, poison, or sleep on contact.']
+    introduction: rs
   Fairy Aura:
+    description: [Increases the power of all Fairy-type moves in battle to 1.3x.]
     introduction: xy
-    description:
-    - Increases the power of all Fairy-type moves in battle to 1.3x.
-
+  Filter:
+    description: [Reduces damage from super effective hits by 1/4.]
+    introduction: dp
+  Flame Body:
+    description: [Enemies' contact moves have a 30% chance to burn them. Halves the
+        amount of steps required to hatch Eggs.]
+    introduction: rs
+  Flare Boost:
+    description: [Special Attack is increased by 50% when burned.]
+    introduction: bw
+  Flash Fire:
+    description: [Grants immunity to Fire and increases Fire's power 50% when hit
+        by a Fire move.]
+    introduction: rs
+  Flower Gift:
+    description: [Raises stats of this Pokemon and its partner in sun.]
+    introduction: dp
   Flower Veil:
+    description: [Prevents lowering of ally Grass-type Pokemon's stats.]
     introduction: xy
-    description:
-    - Prevents lowering of ally Grass-type Pokemon's stats.
-
+  Forecast:
+    description: [Changes type according to weather.]
+    introduction: rs
+  Forewarn:
+    description: [Tells which of the opponent's moves has the highest Base Power.]
+    introduction: dp
+  Friend Guard:
+    description: [Reduces damage done to a teammate by 25%.]
+    introduction: bw
+  Frisk:
+    description: [Reveals the foe's item.]
+    introduction: dp
   Fur Coat:
+    description: [Halves the damage done to this Pokemon by physical attacks.]
     introduction: xy
-    description:
-    - Halves the damage done to this Pokemon by physical attacks.
-
   Gale Wings:
+    description: [This Pokemon's Flying-type moves have their priority increased by
+        1.]
     introduction: xy
-    description:
-    - This Pokemon's Flying-type moves have their priority increased by 1.
-
+  Gluttony:
+    description: [Consumes pinch Berries at 50% HP or less.]
+    introduction: dp
   Gooey:
+    description: [Contact with this Pokemon lowers the attacker's Speed stat by 1.]
     introduction: xy
-    description:
-    - Contact with this Pokemon lowers the attacker's Speed stat by 1.
-
   Grass Pelt:
+    description: [This Pokemon's Defense is boosted in Grassy Terrain]
     introduction: xy
+  Guts:
+    description: [Attack is increased 50% when hit with a status move.]
+    introduction: rs
+  Harvest:
+    description: ['After each turn, the wielder may receive the Berry it used at a
+        50% chance (100% if in sun).']
+    introduction: bw
+  Healer:
+    description: [30% chance to heal an adjacent teammate of a status condition every
+        turn.]
+    introduction: bw
+  Heatproof:
+    description: [Reduces Fire damage 50%.]
+    introduction: dp
+  Heavy Metal:
+    description: [The wielder's weight is doubled.]
+    introduction: bw
+  Honey Gather:
+    description: [Adds a chance of finding Honey after each in-game battle.]
+    introduction: dp
+  Huge Power:
+    description: [Doubles Attack.]
+    introduction: rs
+  Hustle:
+    description: [Physical moves do 50% more damage at the cost of 20% accuracy. Increases
+        wild encounter rate with higher level Pokemon.]
+    introduction: rs
+  Hydration:
+    description: [Heals status effects in rain.]
+    introduction: dp
+  Hyper Cutter:
+    description: [Prevents the enemy from lowering this Pokemon's Attack. Increases
+        Cut's area of effect.]
+    introduction: rs
+  Ice Body:
+    description: [Heals 1/16 max HP in hail.]
+    introduction: dp
+  Illuminate:
+    description: [Increases wild encounter rate (no effect in battles).]
+    introduction: rs
+  Illusion:
+    description: [The wielder appears as the last Pokemon in the party to the opponent.]
+    introduction: bw
+  Immunity:
+    description: [This Pokemon cannot be poisoned.]
+    introduction: rs
+  Imposter:
+    description: [The wielder transforms into the opponent when it switches in.]
+    introduction: bw
+  Infiltrator:
     description:
-    - This Pokemon's Defense is boosted in Grassy Terrain
-
+    - The wielder bypasses the foe's Light Screen, Reflect, Mist, and Safeguard.
+    - {xy: 'The wielder bypasses the foe''s Light Screen, Reflect, Mist, Safeguard,
+        and Substitute.'}
+    introduction: bw
+  Inner Focus:
+    description: [Prevents flinching.]
+    introduction: rs
+  Insomnia:
+    description: [Prevents sleep.]
+    introduction: rs
+  Intimidate:
+    description: [Lowers the foe's Attack 1 stage. Decreases wild encounter rate.]
+    introduction: rs
+  Iron Barbs:
+    description: [Deals 1/8% damage when the opponent makes contact.]
+    introduction: bw
+  Iron Fist:
+    description: [Increases the power of punching moves by 20%.]
+    introduction: dp
+  Justified:
+    description: [Raises Attack one stage when hit by a Dark-type move.]
+    introduction: bw
+  Keen Eye:
+    description:
+    - Pokemon's accuracy cannot be lowered. Decreases wild encounter rate.
+    - {xy: Pokemon's accuracy cannot be lowered. Decreases wild encounter rate.}
+    introduction: rs
+  Klutz:
+    description: [This Pokemon both is unaffected by and will not utilize held items.]
+    introduction: dp
+  Leaf Guard:
+    description: [Prevents status effects in sun.]
+    introduction: dp
+  Levitate:
+    description: [This Pokemon is immune to Ground-type moves.]
+    introduction: rs
+  Light Metal:
+    description: [The wielder's weight is halved.]
+    introduction: bw
+  Lightningrod:
+    description: [All Electric-type attacks hit this Pokemon.]
+    introduction: rs
+  Limber:
+    description: [Blocks paralysis.]
+    introduction: rs
+  Liquid Ooze:
+    description: [Leeching moves cause the enemy to lose HP instead.]
+    introduction: rs
+  Magic Bounce:
+    description: [Bounces back certain non-damaging moves.]
+    introduction: bw
+  Magic Guard:
+    description: [Prevents indirect damage.]
+    introduction: dp
   Magician:
+    description: ['If this Pokemon is not holding an item, it steals the held item
+        of a target it hits with a move.']
     introduction: xy
-    description:
-    - If this Pokemon is not holding an item, it steals the held item of a target it hits with a move.
-
+  Magma Armor:
+    description: [Cannot be frozen. Halves the amount of steps required to hatch Eggs.]
+    introduction: rs
+  Magnet Pull:
+    description: [Prevents Steel-type Pokemon from switching. Increases the chance
+        of encountering a Steel-type Pokemon in the wild.]
+    introduction: rs
+  Marvel Scale:
+    description: [Boosts Defense 50% when hit with a status move.]
+    introduction: rs
   Mega Launcher:
+    description: ['Boosts the power of Aura and Pulse moves, such as Aura Sphere and
+        Dark Pulse, by 50%.']
     introduction: xy
+  Minus:
+    description: ['If allied with a Pokemon with Plus, its Special Attack increases
+        50%.']
+    introduction: rs
+  Mold Breaker:
+    description: [Abilities that hinder attacks are nullified.]
+    introduction: dp
+  Moody:
+    description: [A random stat is lowered by 1 stage and another is boosted by 2
+        stages every turn.]
+    introduction: bw
+  Motor Drive:
+    description: ['When hit with an Electric-type move, Speed is boosted 1 stage.']
+    introduction: dp
+  Moxie:
+    description: [Boosts Attack by one stage if the wielder knocks out another Pokemon.]
+    introduction: bw
+  Multiscale:
+    description: [Reduces damage by 50% if the wielder is at full health.]
+    introduction: bw
+  Multitype:
+    description: [Type changes depending on the held plate. Prevents item loss.]
+    introduction: dp
+  Mummy:
+    description: [The opponent's ability becomes Mummy when it hits the wielder with
+        a contact move.]
+    introduction: bw
+  Natural Cure:
+    description: [Cures status on switching out.]
+    introduction: rs
+  No Guard:
+    description: [All attacks used by and used on this Pokemon will never miss.]
+    introduction: dp
+  Normalize:
+    description: [All moves used by this Pokemon are Normal-type.]
+    introduction: dp
+  Oblivious:
     description:
-    - Boosts the power of Aura and Pulse moves, such as Aura Sphere and Dark Pulse, by 50%.
-
+    - Grants immunity to infatuation.
+    - {dp: Grants immunity to infatuation and Captivate., xy: 'Grants immunity to
+        infatuation, Captivate, and taunt.'}
+    introduction: rs
+  Overcoat:
+    description:
+    - Grants immunity to damage from weather effects.
+    - {xy: Grants immunity to damage from weather effects and powder moves.}
+    introduction: bw
+  Overgrow:
+    description: [Raises the power of Grass-type moves 50% when at 1/3 HP or less.]
+    introduction: rs
+  Own Tempo:
+    description: [Cannot be confused.]
+    introduction: rs
   Parental Bond:
+    description: ['Allows the Pokemon to hit twice with the same move in one turn.
+        Second hit has 0.5x base power. Does not affect Status, multihit, or spread
+        moves (in doubles).']
     introduction: xy
-    description:
-    - Allows the Pokemon to hit twice with the same move in one turn. Second hit has 0.5x base power. Does not affect Status, multihit, or spread moves (in doubles).
-
+  Pickpocket:
+    description: [The wielder immediately steals an item from an attacker using a
+        contact move.]
+    introduction: bw
+  Pickup:
+    description: [Adds a chance of finding an item after each battle (no effect in
+        battles).]
+    introduction: rs
   Pixilate:
+    description: [Turns all of this Pokemon's Normal-typed attacks into Fairy-type
+        and deal 1.3x damage. Does not affect Hidden Power.]
     introduction: xy
-    description:
-    - Turns all of this Pokemon's Normal-typed attacks into Fairy-type and deal 1.3x damage. Does not affect Hidden Power.
-
+  Plus:
+    description: ['If allied with a Pokemon with Minus, its Special Attack increases
+        50%.']
+    introduction: rs
+  Poison Heal:
+    description: [Heals 1/8 HP per turn when poisoned.]
+    introduction: dp
+  Poison Point:
+    description: [Enemies' contact moves have a 30% chance of poisoning them.]
+    introduction: rs
+  Poison Touch:
+    description: [The wielder has a 30% chance to poison the opponent when it uses
+        a contact move.]
+    introduction: bw
+  Prankster:
+    description: [Moves that do not deal direct damage have their priority increased
+        by one level.]
+    introduction: bw
+  Pressure:
+    description: [Enemy attacks lose 1 extra PP. Increases wild encounter rate.]
+    introduction: rs
   Protean:
+    description: ['Right before this Pokemon uses a move, it changes its type to match
+        that move. Hidden Power is interpreted as its Hidden Power type, rather than
+        Normal.']
     introduction: xy
-    description:
-    - Right before this Pokemon uses a move, it changes its type to match that move. Hidden Power is interpreted as its Hidden Power type, rather than Normal.
-
+  Pure Power:
+    description: [Doubles Attack.]
+    introduction: rs
+  Quick Feet:
+    description: [Increases Speed by 50% when afflicted with a status condition.]
+    introduction: dp
+  Rain Dish:
+    description: [Heals 1/16 max HP in rain.]
+    introduction: rs
+  Rattled:
+    description: ['Raises Speed one stage when hit by a Bug-, Dark-, or Ghost-type
+        move.']
+    introduction: bw
+  Reckless:
+    description: [Increases the power of recoil moves by 20%.]
+    introduction: dp
   Refrigerate:
+    description: [Turns all of this Pokemon's Normal-typed attacks into Ice-typed
+        and deal 1.3x damage. Does not affect Hidden Power.]
     introduction: xy
+  Regenerator:
+    description: [Wielder heals 1/3 of its maximum HP on switching out.]
+    introduction: bw
+  Rivalry:
+    description: [Move power depends on gender of the opponent.]
+    introduction: dp
+  Rock Head:
+    description: [Recoil moves have no recoil.]
+    introduction: rs
+  Rough Skin:
+    description: [Deals 12.5% damage when the opponent makes contact.]
+    introduction: rs
+  Run Away:
+    description: [Increases the chance of successfully escaping battle with a wild
+        Pokemon.]
+    introduction: rs
+  Sand Force:
+    description: ['Increases power of Ground-, Rock-, and Steel-type attacks by 30%
+        in a sandstorm.']
+    introduction: bw
+  Sand Rush:
+    description: [Speed doubles in sandstorm.]
+    introduction: bw
+  Sand Stream:
     description:
-    - Turns all of this Pokemon's Normal-typed attacks into Ice-typed and deal 1.3x damage. Does not affect Hidden Power.
-
+    - Summons permanent sandstorm.
+    - {xy: Summons sandstorm.}
+    introduction: rs
+  Sand Veil:
+    description: [Evasion increases by 20% in a sandstorm.]
+    introduction: rs
+  Sap Sipper:
+    description: [Grants immunity to Grass-type moves and boosts Attack by 1 stage
+        when hit by a Grass-type move.]
+    introduction: bw
+  Scrappy:
+    description: [Can hit Ghost-types with Fighting- and Normal-type moves.]
+    introduction: dp
+  Serene Grace:
+    description: [This Pokemon's secondary effect chances are doubled.]
+    introduction: rs
+  Shadow Tag:
+    description: [Prevents switching.]
+    introduction: rs
+  Shed Skin:
+    description: [30% chance to heal status.]
+    introduction: rs
+  Sheer Force:
+    description: ['Increases power of moves with secondary effects by 30%, but removes
+        the effects.']
+    introduction: bw
+  Shell Armor:
+    description: [Prevents critical hits.]
+    introduction: rs
+  Shield Dust:
+    description: [Secondary effects won't occur.]
+    introduction: rs
+  Simple:
+    description: [Doubles the effect of status boosts and drops.]
+    introduction: dp
+  Skill Link:
+    description: [Multi-hit moves will always hit the maximum number of times.]
+    introduction: dp
+  Slow Start:
+    description: [Attack and Speed are halved for 5 turns.]
+    introduction: dp
+  Sniper:
+    description: [Critical hits do 3x damage instead of 2x.]
+    introduction: dp
+  Snow Cloak:
+    description: [Evasion increases 20% in hail.]
+    introduction: dp
+  Snow Warning:
+    description:
+    - Summons permanent hail.
+    - {xy: Summons hail.}
+    introduction: dp
+  Solar Power:
+    description: [Loses HP in sun. Special Attack increases 50%.]
+    introduction: dp
+  Solid Rock:
+    description: [Reduces damage from super effective hits by 1/4.]
+    introduction: dp
+  Soundproof:
+    description: [Unaffected by sound moves.]
+    introduction: rs
+  Speed Boost:
+    description: [Speed raises at end of turn.]
+    introduction: rs
+  Stall:
+    description: [This Pokemon moves last.]
+    introduction: dp
   Stance Change:
+    description: ['Only affects Aegislash. If this Pokemon uses a Physical or Special
+        move, it changes to Blade forme. If this Pokemon uses King''s Shield, it changes
+        to Shield forme.']
     introduction: xy
-    description:
-    - Only affects Aegislash. If this Pokemon uses a Physical or Special move, it changes to Blade forme. If this Pokemon uses King's Shield, it changes to Shield forme.
-
+  Static:
+    description: [Enemies' contact moves can paralyze them.]
+    introduction: rs
+  Steadfast:
+    description: [Speed is boosted one stage when flinched.]
+    introduction: dp
+  Stench:
+    description: [Decreases wild encounter rate (no effect in battles).]
+    introduction: rs
+  Sticky Hold:
+    description: [This Pokemon's item cannot be removed. Increases the chance of encountering
+        Pokemon while fishing.]
+    introduction: rs
+  Storm Drain:
+    description: [All Water-type attacks hit this Pokemon.]
+    introduction: dp
   Strong Jaw:
+    description: [This Pokemon receives a 50% power boost for jaw attacks such as
+        Bite and Crunch.]
     introduction: xy
-    description:
-    - This Pokemon receives a 50% power boost for jaw attacks such as Bite and Crunch.
-
+  Sturdy:
+    description: [OHKO moves will fail.]
+    introduction: rs
+  Suction Cups:
+    description: [Cannot be forced to switch. Increases chance of encountering Pokemon
+        while fishing.]
+    introduction: rs
+  Super Luck:
+    description: [Critical hit rate increases one stage.]
+    introduction: dp
+  Swarm:
+    description: [Boosts power of Bug-type moves 50% when at 1/3 HP or less.]
+    introduction: rs
   Sweet Veil:
+    description: [Prevents allies from being put to Sleep.]
     introduction: xy
-    description:
-    - Prevents allies from being put to Sleep.
-
+  Swift Swim:
+    description: [Speed doubles in rain.]
+    introduction: rs
   Symbiosis:
+    description: [This Pokemon immediately passes its item to an ally after their
+        item is consumed.]
     introduction: xy
-    description:
-    - This Pokemon immediately passes its item to an ally after their item is consumed.
-
+  Synchronize:
+    description: ['When statused, the enemy is also statused. Can pass nature to wild
+        Pokemon.']
+    introduction: rs
+  Tangled Feet:
+    description: [Evasion increases when confused.]
+    introduction: dp
+  Technician:
+    description: [Moves with 60 Base Power or less do 50% more damage.]
+    introduction: dp
+  Telepathy:
+    description: [Does not take damage from allies' attacks.]
+    introduction: bw
+  Teravolt:
+    description: [Abilities that hinder attacks are nullified.]
+    introduction: bw
+  Thick Fat:
+    description: [Halves Ice- and Fire-type damage.]
+    introduction: rs
+  Tinted Lens:
+    description: [Doubles damage on resisted hits.]
+    introduction: dp
+  Torrent:
+    description: [Boosts power of Water-type moves 50% when at 1/3 HP or less.]
+    introduction: rs
   Tough Claws:
+    description: [This Pokemon's contact attacks do 1.33x damage.]
     introduction: xy
-    description:
-    - This Pokemon's contact attacks do 1.33x damage.
+  Toxic Boost:
+    description: [Attack is increased by 50% when poisoned.]
+    introduction: bw
+  Trace:
+    description: [Copies foe's ability.]
+    introduction: rs
+  Truant:
+    description: [This Pokemon does nothing every other turn.]
+    introduction: rs
+  Turboblaze:
+    description: [Abilities that hinder attacks are nullified.]
+    introduction: bw
+  Unaware:
+    description: [Ignores stat boosts and debuffs on other Pokemon.]
+    introduction: dp
+  Unburden:
+    description: [Speed increases when an item is used or lost.]
+    introduction: dp
+  Unnerve:
+    description: [Prevents the foe from consuming its held Berry item.]
+    introduction: bw
+  Victory Star:
+    description: [Increases the accuracy of the wielder and allies on its side of
+        the field by 10%.]
+    introduction: bw
+  Vital Spirit:
+    description: [Prevents sleep. Increases wild encounters with higher level Pokemon.]
+    introduction: rs
+  Volt Absorb:
+    description: [Heals 25% HP when hit by an Electric-type attack.]
+    introduction: rs
+  Water Absorb:
+    description: [Heals 25% HP when hit by a Water-type attack.]
+    introduction: rs
+  Water Veil:
+    description: [Prevents burn.]
+    introduction: rs
+  Weak Armor:
+    description: [Boosts Speed by 1 stage and lowers Defense by 1 stage when hit by
+        a physical move.]
+    introduction: bw
+  White Smoke:
+    description: [Prevents the enemy from lowering this Pokemon's stats and decreases
+        wild encounter rate.]
+    introduction: rs
+  Wonder Guard:
+    description: [Only super effective attacks harm this Pokemon.]
+    introduction: rs
+  Wonder Skin:
+    description: [Reduces the accuracy of a status move to 50%.]
+    introduction: bw
+  Zen Mode:
+    description: [The wielder changes forme when below 50% of its max HP.]
+    introduction: bw

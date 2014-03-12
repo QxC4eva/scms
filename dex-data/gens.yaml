@@ -1,27 +1,22 @@
-
-# Official generations
-
 gens:
-  rb:
-    name: Red/Blue
-    successors: [gs]
-  gs:
-    name: Gold/Silver
-    successors: [rs]
-  rs:
-    name: Ruby/Sapphire
-    successors: [dp]
-  dp:
-    name: Diamond/Pearl
-    successors: [bw]
   bw:
     name: Black/White
     successors: [xy]
-  xy:
-    name: X/Y
-    successors: []
-
   cap4:
     name: CAP 4
     successors: []
-
+  dp:
+    name: Diamond/Pearl
+    successors: [bw]
+  gs:
+    name: Gold/Silver
+    successors: [rs]
+  rb:
+    name: Red/Blue
+    successors: [gs]
+  rs:
+    name: Ruby/Sapphire
+    successors: [dp]
+  xy:
+    name: X/Y
+    successors: []

@@ -3169,15 +3169,6 @@ moves:
     priority: [0]
     target: [enemy]
     type: [Electric]
-  Hidden Power Fairy:
-    accuracy: [100]
-    description: [Has 30-70 power based on the user's IVs.]
-    introduction: xy
-    power: [60]
-    pp: [15]
-    priority: [0]
-    target: [enemy]
-    type: [Fairy]
   Hidden Power Fighting:
     accuracy: [100]
     category:

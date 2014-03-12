@@ -836,7 +836,7 @@ moves:
     target: [enemies]
     type: [Normal]
   Celebrate:
-    accuracy: [true]
+    accuracy: [0]
     category: [Status]
     description: [No in-game effect.]
     introduction: xy
@@ -984,7 +984,7 @@ moves:
     target: [enemy]
     type: [Normal]
   Confide:
-    accuracy: [true]
+    accuracy: [0]
     category: [Status]
     description: [Lowers the target's Special Attack stat by 1.]
     introduction: xy
@@ -1157,7 +1157,7 @@ moves:
     target: [enemy]
     type: [Water]
   Crafty Shield:
-    accuracy: [true]
+    accuracy: [0]
     category: [Status]
     description: [Protects the user and allies from status moves. Priority +4.]
     introduction: xy
@@ -1380,7 +1380,7 @@ moves:
     target: [enemy]
     type: [Normal]
   Disarming Voice:
-    accuracy: [true]
+    accuracy: [0]
     category: [Special]
     description: [This attack never misses.]
     introduction: xy
@@ -1760,7 +1760,7 @@ moves:
     target: [enemy]
     type: [Normal]
   Electric Terrain:
-    accuracy: [true]
+    accuracy: [0]
     category: [Status]
     description: ['For five turns, Pokemon on the ground cannot fall asleep, and will
         be woken up if already sleeping. Their Electric-type moves are powered up
@@ -1772,7 +1772,7 @@ moves:
     target: [all]
     type: [Electric]
   Electrify:
-    accuracy: [true]
+    accuracy: [0]
     category: [Status]
     description: ['If the target is electrified before it uses a move during that
         turn, the target''s move becomes Electric type.']
@@ -1965,7 +1965,7 @@ moves:
     target: [enemy]
     type: [Normal]
   Fairy Lock:
-    accuracy: [true]
+    accuracy: [0]
     category: [Status]
     description: [Keeps all Pokemon from fleeing during the next turn.]
     introduction: xy
@@ -2312,7 +2312,7 @@ moves:
     target: [enemy]
     type: [Dark]
   Flower Shield:
-    accuracy: [true]
+    accuracy: [0]
     category: [Status]
     description: [The user raises the Defense stat of all Grass-type Pokemon in battle.]
     introduction: xy
@@ -2617,7 +2617,7 @@ moves:
     target: [enemy]
     type: [Steel]
   Geomancy:
-    accuracy: [true]
+    accuracy: [0]
     category: [Status]
     description: ['The user charges turn one, then sharply raise Special Attack, Special
         Defense, and Speed the next turn.']
@@ -2722,7 +2722,7 @@ moves:
     target: [enemy]
     type: [Grass]
   Grassy Terrain:
-    accuracy: [true]
+    accuracy: [0]
     category: [Status]
     description: ['For five turns, Pokemon on the ground restore 1/16 of their HP
         each turn. Their Grass-type moves are powered up by 50%.']
@@ -2886,7 +2886,7 @@ moves:
     target: [enemy]
     type: [Fighting]
   Happy Hour:
-    accuracy: [true]
+    accuracy: [0]
     category: [Status]
     description: [No competitive effect. (Doubles the prize money received after battle.)]
     introduction: xy
@@ -3724,7 +3724,7 @@ moves:
     target: [user]
     type: [Grass]
   Ion Deluge:
-    accuracy: [true]
+    accuracy: [0]
     category: [Status]
     description: [Changes Normal-type moves to Electric-type moves.]
     introduction: xy
@@ -3825,7 +3825,7 @@ moves:
     target: [enemy]
     type: [Psychic]
   King's Shield:
-    accuracy: [true]
+    accuracy: [0]
     category: [Status]
     description: [Protects the user from attacks. Contactors get their Attack lowered
         by 2 stages. Priority +4]
@@ -4177,7 +4177,7 @@ moves:
     target: [user]
     type: [Electric]
   Magnetic Flux:
-    accuracy: [true]
+    accuracy: [0]
     category: [Status]
     description: ["Raises the Defense and Sp. Def stats of ally Pok\xC3\xA9mon with
         the Plus or Minus Ability."]
@@ -4202,7 +4202,7 @@ moves:
     target: [others]
     type: [Ground]
   Mat Block:
-    accuracy: [true]
+    accuracy: [0]
     category: [Status]
     description: [The user protects itself and its allies from damaging moves. Only
         works first turn out.]
@@ -4513,7 +4513,7 @@ moves:
     target: [enemy]
     type: [Psychic]
   Misty Terrain:
-    accuracy: [true]
+    accuracy: [0]
     category: [Status]
     description: ['For five turns, Grounded Pokemon cannot have major status problems
         or confusion inflicted on them by other Pokemon. Their Dragon-type moves are
@@ -4972,7 +4972,7 @@ moves:
     target: [enemy]
     type: [Bug]
   Play Nice:
-    accuracy: [true]
+    accuracy: [0]
     category: [Status]
     description: [Lowers the target's Attack by 1 stage. Ignores Protect.]
     introduction: xy
@@ -5821,7 +5821,7 @@ moves:
     target: [user]
     type: [Flying]
   Rototiller:
-    accuracy: [true]
+    accuracy: [0]
     category: [Status]
     description: [Raises the Attack and Sp. Atk stats of Grass-type Pokemon.]
     introduction: xy
@@ -6610,7 +6610,7 @@ moves:
     target: [enemyfield]
     type: [Ground]
   Spiky Shield:
-    accuracy: [true]
+    accuracy: [0]
     category: [Status]
     description: ['In addition to protecting the user from attacks, this move also
         damages any attacker who makes direct contact by 1/8 of their maximum HP.']
@@ -6707,7 +6707,7 @@ moves:
     target: [enemy]
     type: [Steel]
   Sticky Web:
-    accuracy: [true]
+    accuracy: [0]
     category: [Status]
     description: [Lowers the Speed stat of the opposing team's Pokemon upon switching
         into battle.]
@@ -7324,7 +7324,7 @@ moves:
     target: [enemy]
     type: [Normal]
   Topsy-Turvy:
-    accuracy: [true]
+    accuracy: [0]
     category: [Status]
     description: [Inverts target's stat stages.]
     introduction: xy

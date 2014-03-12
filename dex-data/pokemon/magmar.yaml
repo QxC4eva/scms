@@ -12,7 +12,7 @@ pokemon:
     - gs: [Attract, Barrier, Confuse Ray, Cross Chop, Curse, Detect, Double Team,
         Dynamic Punch, Ember, Endure, Fire Blast, Fire Punch, Flamethrower, Frustration,
         Headbutt, Iron Tail, Karate Chop, Leer, Mega Punch, Mud-Slap, Protect, Psychic,
-        Rest, Return, Screech, Sleep Talk, Smog, Smoke Screen, Snore, Sunny Day, Swagger,
+        Rest, Return, Screech, Sleep Talk, Smog, Smokescreen, Snore, Sunny Day, Swagger,
         Thief, Thunder Punch, Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power
           Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
         Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
@@ -24,7 +24,7 @@ pokemon:
         Flare Blitz, Fling, Focus Energy, Frustration, Heat Wave, Helping Hand, Incinerate,
         Iron Tail, Karate Chop, Lava Plume, Leer, Mach Punch, Mega Punch, Overheat,
         Protect, Psychic, Rest, Return, Rock Smash, Round, Screech, Sleep Talk, Smog,
-        Smoke Screen, Snore, Substitute, Sunny Day, Swagger, Thief, Thunder Punch,
+        Smokescreen, Snore, Substitute, Sunny Day, Swagger, Thief, Thunder Punch,
         Toxic, Uproar, Will-O-Wisp, Body Slam, Double-Edge, Mimic, Seismic Toss, Hidden
           Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
         Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
@@ -37,7 +37,7 @@ pokemon:
         Frustration, Headbutt, Heat Wave, Helping Hand, Iron Tail, Karate Chop, Lava
           Plume, Leer, Mach Punch, Mega Punch, Mud-Slap, Natural Gift, Overheat, Protect,
         Psychic, Rest, Return, Rock Smash, Screech, Secret Power, Sleep Talk, Smog,
-        Smoke Screen, Snore, Substitute, Sunny Day, Swagger, Thief, Thunder Punch,
+        Smokescreen, Snore, Substitute, Sunny Day, Swagger, Thief, Thunder Punch,
         Toxic, Uproar, Will-O-Wisp, Body Slam, Double-Edge, Mimic, Seismic Toss, Hidden
           Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
         Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
@@ -48,7 +48,7 @@ pokemon:
           Team, Dynamic Punch, Ember, Endure, Facade, Fire Blast, Fire Punch, Flamethrower,
         Focus Punch, Frustration, Iron Tail, Karate Chop, Leer, Mega Kick, Mega Punch,
         Mud-Slap, Protect, Psychic, Rest, Return, Rock Smash, Screech, Secret Power,
-        Sleep Talk, Smog, Smoke Screen, Snore, Substitute, Sunny Day, Swagger, Thief,
+        Sleep Talk, Smog, Smokescreen, Snore, Substitute, Sunny Day, Swagger, Thief,
         Thunder Punch, Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
         Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
           Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
@@ -61,14 +61,14 @@ pokemon:
           Energy, Focus Punch, Frustration, Headbutt, Heat Wave, Helping Hand, Incinerate,
         Iron Tail, Karate Chop, Lava Plume, Leer, Mach Punch, Mega Kick, Mega Punch,
         Mimic, Mud-Slap, Natural Gift, Overheat, Protect, Psychic, Rest, Return, Rock
-          Smash, Round, Screech, Secret Power, Seismic Toss, Sleep Talk, Smog, Smoke
-          Screen, Snore, Substitute, Sunny Day, Swagger, Thief, Thunder Punch, Toxic,
-        Uproar, Will-O-Wisp, Covet, Dual Chop, Power-Up Punch, Confide, Power Swap,
-        Belch, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
-          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
-        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
-          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
-          Power Steel, Hidden Power Water, Hidden Power Fairy]
+          Smash, Round, Screech, Secret Power, Seismic Toss, Sleep Talk, Smog, Smokescreen,
+        Snore, Substitute, Sunny Day, Swagger, Thief, Thunder Punch, Toxic, Uproar,
+        Will-O-Wisp, Covet, Dual Chop, Power-Up Punch, Confide, Power Swap, Belch,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water, Hidden Power Fairy]
     stats:
     - [45, 75, 37, 70, 55, 83]
     tags:
@@ -98,7 +98,7 @@ pokemon:
     - rb: [Bide, Body Slam, Confuse Ray, Counter, Double-Edge, Double Team, Ember,
         Fire Blast, Fire Punch, Flamethrower, Hyper Beam, Leer, Mega Kick, Mega Punch,
         Metronome, Mimic, Psychic, Psywave, Rage, Rest, Seismic Toss, Skull Bash,
-        Smog, Smoke Screen, Strength, Submission, Substitute, Take Down, Teleport,
+        Smog, Smokescreen, Strength, Submission, Substitute, Take Down, Teleport,
         Toxic]
     - xy: [Focus Blast, Follow Me, Giga Impact, Hyper Beam, Low Kick, Low Sweep, Rock
           Climb, Strength]

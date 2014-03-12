@@ -432,7 +432,7 @@ moves:
     introduction: gs
     power:
     - 10
-    - {bw: 1}
+    - {bw: 0}
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -481,7 +481,7 @@ moves:
     introduction: rb
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [10]
     priority:
     - 0
@@ -1117,7 +1117,7 @@ moves:
     introduction: rb
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [20]
     priority:
     - -1
@@ -1223,7 +1223,7 @@ moves:
     introduction: dp
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -1582,7 +1582,7 @@ moves:
     introduction: rb
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -1789,7 +1789,7 @@ moves:
     - {xy: Special}
     description: [Inflicts more damage the faster the user is compared to the target.]
     introduction: bw
-    power: [1]
+    power: [0]
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -1851,7 +1851,7 @@ moves:
     introduction: rs
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -2093,7 +2093,7 @@ moves:
     description: [Faints the user. Target takes damage equal to the user's HP at the
         time of use.]
     introduction: bw
-    power: [1]
+    power: [0]
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -2177,7 +2177,7 @@ moves:
     introduction: rb
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -2191,7 +2191,7 @@ moves:
     introduction: gs
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [15]
     priority: [0]
     target: [enemy]
@@ -2306,7 +2306,7 @@ moves:
     introduction: dp
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -2507,7 +2507,7 @@ moves:
     introduction: gs
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [20]
     priority: [0]
     target: [enemy]
@@ -2690,7 +2690,7 @@ moves:
     introduction: dp
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [20]
     priority: [0]
     target: [enemy]
@@ -2814,7 +2814,7 @@ moves:
     introduction: rb
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -2856,7 +2856,7 @@ moves:
     introduction: dp
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -3046,7 +3046,7 @@ moves:
     - {xy: Physical}
     description: [Deals damage based on both the user's and the target's weight.]
     introduction: bw
-    power: [1]
+    power: [0]
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -3072,7 +3072,7 @@ moves:
     - {xy: Physical}
     description: [Deals damage based on both the user's and the target's weight.]
     introduction: bw
-    power: [1]
+    power: [0]
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -3424,7 +3424,7 @@ moves:
     introduction: rb
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -4031,7 +4031,7 @@ moves:
     introduction: rb
     power:
     - 50
-    - {bw: 1, gs: 0}
+    - {bw: 0, gs: 0}
     pp: [20]
     priority: [0]
     target: [enemy]
@@ -4196,7 +4196,7 @@ moves:
     introduction: gs
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [30]
     priority: [0]
     target: [others]
@@ -4221,7 +4221,7 @@ moves:
     introduction: dp
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [20]
     priority: [0]
     target: [unique2]
@@ -4323,7 +4323,7 @@ moves:
     introduction: dp
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [10]
     priority: [0]
     target: [lastenemy]
@@ -4455,7 +4455,7 @@ moves:
     introduction: gs
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [20]
     priority:
     - -1
@@ -4655,7 +4655,7 @@ moves:
     introduction: dp
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [15]
     priority: [0]
     target: [enemy]
@@ -4705,7 +4705,7 @@ moves:
     introduction: rb
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [15]
     priority: [0]
     target: [enemy]
@@ -5195,7 +5195,7 @@ moves:
     introduction: gs
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [15]
     priority: [0]
     target: [enemy]
@@ -5323,7 +5323,7 @@ moves:
     introduction: rb
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [15]
     priority: [0]
     target: [enemy]
@@ -5337,7 +5337,7 @@ moves:
     introduction: dp
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -5605,7 +5605,7 @@ moves:
     introduction: gs
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [20]
     priority: [0]
     target: [enemy]
@@ -5633,7 +5633,7 @@ moves:
     introduction: gs
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [15]
     priority: [0]
     target: [enemy]
@@ -6037,7 +6037,7 @@ moves:
     introduction: rb
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [20]
     priority: [0]
     target: [enemy]
@@ -6138,7 +6138,7 @@ moves:
     introduction: rs
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -6544,7 +6544,7 @@ moves:
     introduction: rb
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [20]
     priority: [0]
     target: [enemy]
@@ -6629,7 +6629,7 @@ moves:
     introduction: rs
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -6903,7 +6903,7 @@ moves:
     introduction: rb
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [10]
     priority: [0]
     target: [enemy]
@@ -7453,7 +7453,7 @@ moves:
     introduction: dp
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [5]
     priority: [0]
     target: [enemy]
@@ -7913,7 +7913,7 @@ moves:
     introduction: dp
     power:
     - 0
-    - {bw: 1}
+    - {bw: 0}
     pp: [5]
     priority: [0]
     target: [enemy]

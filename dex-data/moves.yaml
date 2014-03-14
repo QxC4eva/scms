@@ -28,8 +28,8 @@ moves:
   Acid Armor:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Boosts Def 2 stages.]
     introduction: rb
     power: [0]
@@ -66,8 +66,8 @@ moves:
   Acupressure:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Boosts a random stat 2 stages.]
     introduction: dp
     power: [0]
@@ -102,8 +102,8 @@ moves:
   After You:
     accuracy: [0]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: [The target will attack immediately after the user in the same turn.]
     introduction: bw
     power: [0]
@@ -114,8 +114,8 @@ moves:
   Agility:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
     - Boosts Spe 2 stages. Negates speed drop of paralysis.
     - {gs: Boosts Spe 2 stages.}
@@ -154,8 +154,8 @@ moves:
   Ally Switch:
     accuracy: [0]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: [Switches position with another Pokemon on user's side of the field.]
     introduction: bw
     power: [0]
@@ -166,8 +166,8 @@ moves:
   Amnesia:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
     - Boosts Spc 2 stages.
     - {gs: Boosts SpD 2 stages.}
@@ -204,8 +204,8 @@ moves:
   Aqua Ring:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [User recovers 1/16th max HP each turn.]
     introduction: dp
     power: [0]
@@ -240,8 +240,8 @@ moves:
   Aromatherapy:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Cures status on the user's team.]
     introduction: rs
     power: [0]
@@ -251,7 +251,7 @@ moves:
     type: [Grass]
   Aromatic Mist:
     accuracy: [100]
-    category: [Status]
+    category: [Non-Damaging]
     description: [The user raises the Special Defense stat of itself and ally Pokemon
         by 1.]
     introduction: xy
@@ -263,8 +263,8 @@ moves:
   Assist:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Uses a random move from the user's team.]
     introduction: rs
     power: [0]
@@ -314,8 +314,8 @@ moves:
   Attract:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Targets of the opposite gender are infatuated and have a 50% chance
         to do nothing.]
     introduction: gs
@@ -353,8 +353,8 @@ moves:
   Autotomize:
     accuracy: [0]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: [Boosts user's Speed by 2 stages. Reduces user's weight.]
     introduction: bw
     power: [0]
@@ -376,7 +376,7 @@ moves:
     type: [Ice]
   Baby-Doll Eyes:
     accuracy: [100]
-    category: [Status]
+    category: [Non-Damaging]
     description: [Lowers the target's Attack by 1 stage. Priority +1.]
     introduction: xy
     power: [0]
@@ -399,8 +399,8 @@ moves:
   Barrier:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Boosts Def 2 stages.]
     introduction: rb
     power: [0]
@@ -413,8 +413,8 @@ moves:
   Baton Pass:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: ['User switches, but passes on all stat changes and some special
         conditions.']
     introduction: gs
@@ -450,8 +450,8 @@ moves:
   Belly Drum:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [User loses 50% max HP. Maximizes Atk.]
     introduction: gs
     power: [0]
@@ -462,8 +462,8 @@ moves:
   Bestow:
     accuracy: [0]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: [User passes its held item to the target.]
     introduction: bw
     power: [0]
@@ -559,8 +559,8 @@ moves:
   Block:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [The target cannot switch out.]
     introduction: rs
     power: [0]
@@ -752,8 +752,8 @@ moves:
   Bulk Up:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Boosts Atk and Def 1 stage.]
     introduction: rs
     power: [0]
@@ -802,8 +802,8 @@ moves:
   Calm Mind:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Boosts SpA and SpD 1 stage.]
     introduction: rs
     power: [0]
@@ -814,8 +814,8 @@ moves:
   Camouflage:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Changes user's type to Normal in link battles.]
     introduction: rs
     power: [0]
@@ -826,8 +826,8 @@ moves:
   Captivate:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Lowers an opposite gender foe's SpA 2 stages.]
     introduction: dp
     power: [0]
@@ -837,7 +837,7 @@ moves:
     type: [Normal]
   Celebrate:
     accuracy: [0]
-    category: [Status]
+    category: [Non-Damaging]
     description: [No in-game effect.]
     introduction: xy
     power: [0]
@@ -848,8 +848,8 @@ moves:
   Charge:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Doubles power of an Electric-type move used next turn.]
     introduction: rs
     power: [0]
@@ -872,8 +872,8 @@ moves:
   Charm:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Lowers foe's Atk 2 stages.]
     introduction: gs
     power: [0]
@@ -962,8 +962,8 @@ moves:
   Coil:
     accuracy: [0]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: ['Boosts user''s Attack, Defense, and accuracy by 1 stage.']
     introduction: bw
     power: [0]
@@ -985,7 +985,7 @@ moves:
     type: [Normal]
   Confide:
     accuracy: [0]
-    category: [Status]
+    category: [Non-Damaging]
     description: [Lowers the target's Special Attack stat by 1.]
     introduction: xy
     power: [0]
@@ -996,8 +996,8 @@ moves:
   Confuse Ray:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Confuses the target.]
     introduction: rb
     power: [0]
@@ -1032,8 +1032,8 @@ moves:
   Conversion:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
     - Changes user into opponent's type.
     - {gs: Changes user into a new type based on the user's moves.}
@@ -1046,8 +1046,8 @@ moves:
   Conversion 2:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Changes user into a new type that resists the last attack to hit
         the user.]
     introduction: gs
@@ -1059,8 +1059,8 @@ moves:
   Copycat:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Uses the last move used in the battle.]
     introduction: dp
     power: [0]
@@ -1071,8 +1071,8 @@ moves:
   Cosmic Power:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Boosts Def and SpD 1 stage.]
     introduction: rs
     power: [0]
@@ -1083,8 +1083,8 @@ moves:
   Cotton Guard:
     accuracy: [0]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: [Boosts user's Defense by 3 stages.]
     introduction: bw
     power: [0]
@@ -1097,8 +1097,8 @@ moves:
     - 85
     - {bw: 100}
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Lowers foe's Spe 2 stages.]
     introduction: gs
     power: [0]
@@ -1158,7 +1158,7 @@ moves:
     type: [Water]
   Crafty Shield:
     accuracy: [0]
-    category: [Status]
+    category: [Non-Damaging]
     description: [Protects the user and allies from status moves. Priority +4.]
     introduction: xy
     power: [0]
@@ -1231,8 +1231,8 @@ moves:
   Curse:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Does 1/4 damage per turn at the cost of half the user's max HP if
         the user is a Ghost. Boosts Atk and Def and lowers Spe 1 stage otherwise.]
     introduction: gs
@@ -1268,8 +1268,8 @@ moves:
   Dark Void:
     accuracy: [80]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Induces sleep.]
     introduction: dp
     power: [0]
@@ -1290,8 +1290,8 @@ moves:
   Defend Order:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Boosts Def and SpD 1 stage.]
     introduction: dp
     power: [0]
@@ -1302,8 +1302,8 @@ moves:
   Defense Curl:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Boosts Def 1 stage.]
     introduction: rb
     power: [0]
@@ -1314,8 +1314,8 @@ moves:
   Defog:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Lowers target's evasion 1 stage. Removes various field effects.]
     introduction: dp
     power: [0]
@@ -1326,8 +1326,8 @@ moves:
   Destiny Bond:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: ['If the user faints, the foe faints.']
     introduction: gs
     power: [0]
@@ -1338,8 +1338,8 @@ moves:
   Detect:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Prevents anything from working on the user that turn.]
     introduction: gs
     power: [0]
@@ -1368,8 +1368,8 @@ moves:
     - 55
     - {bw: 100, dp: 80}
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
     - Randomly disables an opponent's move for 0-6 turns.
     - {gs: Prevents the last move used from being used again for 2-5 turns.}
@@ -1484,8 +1484,8 @@ moves:
   Double Team:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Boosts evasion 1 stage.]
     introduction: rb
     power: [0]
@@ -1550,8 +1550,8 @@ moves:
   Dragon Dance:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Boosts Atk and Spe 1 stage.]
     introduction: rs
     power: [0]
@@ -1739,7 +1739,7 @@ moves:
     type: [Normal]
   Eerie Impulse:
     accuracy: [100]
-    category: [Status]
+    category: [Non-Damaging]
     description: [Harshly lowers the target's Special Attack stat.]
     introduction: xy
     power: [0]
@@ -1761,7 +1761,7 @@ moves:
     type: [Normal]
   Electric Terrain:
     accuracy: [0]
-    category: [Status]
+    category: [Non-Damaging]
     description: ['For five turns, Pokemon on the ground cannot fall asleep, and will
         be woken up if already sleeping. Their Electric-type moves are powered up
         by 50%.']
@@ -1773,7 +1773,7 @@ moves:
     type: [Electric]
   Electrify:
     accuracy: [0]
-    category: [Status]
+    category: [Non-Damaging]
     description: ['If the target is electrified before it uses a move during that
         turn, the target''s move becomes Electric type.']
     introduction: xy
@@ -1809,8 +1809,8 @@ moves:
   Embargo:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Item use is prevented for five turns.]
     introduction: dp
     power: [0]
@@ -1833,8 +1833,8 @@ moves:
   Encore:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Causes the target to repeat the move 2-5 turns.]
     introduction: gs
     power: [0]
@@ -1859,8 +1859,8 @@ moves:
   Endure:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [The user always survives with at least 1 HP.]
     introduction: gs
     power: [0]
@@ -1887,8 +1887,8 @@ moves:
   Entrainment:
     accuracy: [100]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: [Changes the target's ability to that of the user.]
     introduction: bw
     power: [0]
@@ -1966,7 +1966,7 @@ moves:
     type: [Normal]
   Fairy Lock:
     accuracy: [0]
-    category: [Status]
+    category: [Non-Damaging]
     description: [Keeps all Pokemon from fleeing during the next turn.]
     introduction: xy
     power: [0]
@@ -2002,8 +2002,8 @@ moves:
   Fake Tears:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Lowers SpD 2 stages.]
     introduction: rs
     power: [0]
@@ -2026,8 +2026,8 @@ moves:
   Feather Dance:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Lowers Atk 2 stages.]
     introduction: rs
     power: [0]
@@ -2263,8 +2263,8 @@ moves:
     - 70
     - {dp: 100}
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Lowers foe's accuracy 1 stage.]
     introduction: rb
     power: [0]
@@ -2287,8 +2287,8 @@ moves:
   Flatter:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Confuses the foe. Boosts the foe's SpA 1 stage.]
     introduction: rs
     power: [0]
@@ -2313,7 +2313,7 @@ moves:
     type: [Dark]
   Flower Shield:
     accuracy: [0]
-    category: [Status]
+    category: [Non-Damaging]
     description: [The user raises the Defense stat of all Grass-type Pokemon in battle.]
     introduction: xy
     power: [0]
@@ -2360,8 +2360,8 @@ moves:
   Focus Energy:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
     - Reduces user's critical hit rate.
     - {gs: Boosts critical hit rate 1 stage.}
@@ -2388,8 +2388,8 @@ moves:
   Follow Me:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [All moves target the user.]
     introduction: rs
     power: [0]
@@ -2414,8 +2414,8 @@ moves:
   Foresight:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Blocks evasion modifiers. Allows Fighting- and Normal-type moves
         to hit Ghost-types.]
     introduction: gs
@@ -2428,7 +2428,7 @@ moves:
     type: [Normal]
   Forest's Curse:
     accuracy: [100]
-    category: [Status]
+    category: [Non-Damaging]
     description: ['Adds Grass to the target''s type(s). If the target already has
         three types, the third is replaced.']
     introduction: xy
@@ -2595,8 +2595,8 @@ moves:
   Gastro Acid:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Nullifies the foe's ability.]
     introduction: dp
     power: [0]
@@ -2618,7 +2618,7 @@ moves:
     type: [Steel]
   Geomancy:
     accuracy: [0]
-    category: [Status]
+    category: [Non-Damaging]
     description: ['The user charges turn one, then sharply raise Special Attack, Special
         Defense, and Speed the next turn.']
     introduction: xy
@@ -2672,8 +2672,8 @@ moves:
     - 75
     - {bw: 90, xy: 100}
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Paralyzes the target.]
     introduction: rb
     power: [0]
@@ -2712,8 +2712,8 @@ moves:
   Grass Whistle:
     accuracy: [55]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Puts the foe to sleep.]
     introduction: rs
     power: [0]
@@ -2723,7 +2723,7 @@ moves:
     type: [Grass]
   Grassy Terrain:
     accuracy: [0]
-    category: [Status]
+    category: [Non-Damaging]
     description: ['For five turns, Pokemon on the ground restore 1/16 of their HP
         each turn. Their Grass-type moves are powered up by 50%.']
     introduction: xy
@@ -2735,8 +2735,8 @@ moves:
   Gravity:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: ['For 5 turns, prevents flying or jumping; also disables Ground immunities.']
     introduction: dp
     power: [0]
@@ -2747,8 +2747,8 @@ moves:
   Growl:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Lowers target's Attack by 1 stage.]
     introduction: rb
     power: [0]
@@ -2759,8 +2759,8 @@ moves:
   Growth:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Boosts Special one stage.]
     introduction: rb
     power: [0]
@@ -2771,8 +2771,8 @@ moves:
   Grudge:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: ['If the user faints, the foe''s attack loses all of its PP.']
     introduction: rs
     power: [0]
@@ -2783,8 +2783,8 @@ moves:
   Guard Split:
     accuracy: [0]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: [Averages Defense and Special Defense stats of the user with the
         target.]
     introduction: bw
@@ -2796,8 +2796,8 @@ moves:
   Guard Swap:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Swaps Def and SpD boosts and drops.]
     introduction: dp
     power: [0]
@@ -2864,8 +2864,8 @@ moves:
   Hail:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Summons hail for 5 turns.]
     introduction: rs
     power: [0]
@@ -2887,7 +2887,7 @@ moves:
     type: [Fighting]
   Happy Hour:
     accuracy: [0]
-    category: [Status]
+    category: [Non-Damaging]
     description: [No competitive effect. (Doubles the prize money received after battle.)]
     introduction: xy
     power: [0]
@@ -2898,8 +2898,8 @@ moves:
   Harden:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Boosts user's Defense one stage.]
     introduction: rb
     power: [0]
@@ -2910,8 +2910,8 @@ moves:
   Haze:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Eliminates all stat changes.]
     introduction: rb
     power: [0]
@@ -2958,8 +2958,8 @@ moves:
   Heal Bell:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Cures status on the user's team.]
     introduction: gs
     power: [0]
@@ -2970,8 +2970,8 @@ moves:
   Heal Block:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Prevents the foes from using healing moves for 5 turns.]
     introduction: dp
     power: [0]
@@ -2982,8 +2982,8 @@ moves:
   Heal Order:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Heals 50% max HP.]
     introduction: dp
     power: [0]
@@ -2994,8 +2994,8 @@ moves:
   Heal Pulse:
     accuracy: [0]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: [Heals the target by 50% its max HP.]
     introduction: bw
     power: [0]
@@ -3006,8 +3006,8 @@ moves:
   Healing Wish:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: ["KOs the user and heals the next Pok\xC3\xA9mon in."]
     introduction: dp
     power: [0]
@@ -3030,8 +3030,8 @@ moves:
   Heart Swap:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Swaps stat boosts and drops.]
     introduction: dp
     power: [0]
@@ -3080,8 +3080,8 @@ moves:
   Helping Hand:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Increases power of ally's moves 50%.]
     introduction: rs
     power: [0]
@@ -3394,8 +3394,8 @@ moves:
   Hone Claws:
     accuracy: [0]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: [Boosts Attack and accuracy one stage.]
     introduction: bw
     power: [0]
@@ -3444,8 +3444,8 @@ moves:
   Howl:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Boosts Atk 1 stage.]
     introduction: rs
     power: [0]
@@ -3534,8 +3534,8 @@ moves:
   Hypnosis:
     accuracy: [60]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Puts the foe to sleep.]
     introduction: rb
     power: [0]
@@ -3658,8 +3658,8 @@ moves:
   Imprison:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [No foe can use any of the user's moves.]
     introduction: rs
     power: [0]
@@ -3713,8 +3713,8 @@ moves:
   Ingrain:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Heals the user 1/16 its max HP each turn. Prevents the user from
         switching.]
     introduction: rs
@@ -3725,7 +3725,7 @@ moves:
     type: [Grass]
   Ion Deluge:
     accuracy: [0]
-    category: [Status]
+    category: [Non-Damaging]
     description: [Changes Normal-type moves to Electric-type moves.]
     introduction: xy
     power: [0]
@@ -3736,8 +3736,8 @@ moves:
   Iron Defense:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Boosts Def 2 stages.]
     introduction: rs
     power: [0]
@@ -3815,8 +3815,8 @@ moves:
   Kinesis:
     accuracy: [80]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Lowers target's accuracy 1 stage.]
     introduction: rb
     power: [0]
@@ -3826,7 +3826,7 @@ moves:
     type: [Psychic]
   King's Shield:
     accuracy: [0]
-    category: [Status]
+    category: [Non-Damaging]
     description: [Protects the user from attacks. Contactors get their Attack lowered
         by 2 stages. Priority +4]
     introduction: xy
@@ -3943,8 +3943,8 @@ moves:
   Leech Seed:
     accuracy: [90]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
     - Leeches 1/16 of the target's HP each turn.
     - {gs: Leeches 1/8 of the target's HP each turn.}
@@ -3957,8 +3957,8 @@ moves:
   Leer:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Lowers target's Defense by 1 stage.]
     introduction: rb
     power: [0]
@@ -3983,8 +3983,8 @@ moves:
   Light Screen:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
     - Halves Special damage done to user.
     - {gs: Lowers damage from special attacks for 5 turns.}
@@ -3997,8 +3997,8 @@ moves:
   Lock-On:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [The next move used will always hit.]
     introduction: gs
     power: [0]
@@ -4009,8 +4009,8 @@ moves:
   Lovely Kiss:
     accuracy: [75]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Puts the target to sleep.]
     introduction: rb
     power: [0]
@@ -4053,8 +4053,8 @@ moves:
   Lucky Chant:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Blocks critical hits for 5 turns.]
     introduction: dp
     power: [0]
@@ -4065,8 +4065,8 @@ moves:
   Lunar Dance:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: ["KOs the user, then heals the next Pok\xC3\xA9mon in."]
     introduction: dp
     power: [0]
@@ -4101,8 +4101,8 @@ moves:
   Magic Coat:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Bounces back certain non-damaging moves.]
     introduction: rs
     power: [0]
@@ -4115,8 +4115,8 @@ moves:
   Magic Room:
     accuracy: [0]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: [Held items have no effect for 5 turns.]
     introduction: bw
     power: [0]
@@ -4167,8 +4167,8 @@ moves:
   Magnet Rise:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [User becomes immune to Ground moves for 5 turns.]
     introduction: dp
     power: [0]
@@ -4178,7 +4178,7 @@ moves:
     type: [Electric]
   Magnetic Flux:
     accuracy: [0]
-    category: [Status]
+    category: [Non-Damaging]
     description: ["Raises the Defense and Sp. Def stats of ally Pok\xC3\xA9mon with
         the Plus or Minus Ability."]
     introduction: xy
@@ -4203,7 +4203,7 @@ moves:
     type: [Ground]
   Mat Block:
     accuracy: [0]
-    category: [Status]
+    category: [Non-Damaging]
     description: [The user protects itself and its allies from damaging moves. Only
         works first turn out.]
     introduction: xy
@@ -4215,8 +4215,8 @@ moves:
   Me First:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Uses the foe's attack at 1.5x power. Must be faster to work.]
     introduction: dp
     power:
@@ -4229,8 +4229,8 @@ moves:
   Mean Look:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [The target cannot switch out.]
     introduction: gs
     power: [0]
@@ -4241,8 +4241,8 @@ moves:
   Meditate:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Boosts user's Attack by 1 stage.]
     introduction: rb
     power: [0]
@@ -4305,8 +4305,8 @@ moves:
     - 0
     - {dp: 100}
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [User faints. Lowers foe's Atk and SpA 2 stages.]
     introduction: rs
     power: [0]
@@ -4343,8 +4343,8 @@ moves:
   Metal Sound:
     accuracy: [85]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Lower's SpD 2 stages.]
     introduction: rs
     power: [0]
@@ -4371,8 +4371,8 @@ moves:
   Metronome:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Picks a random move.]
     introduction: rb
     power: [0]
@@ -4383,8 +4383,8 @@ moves:
   Milk Drink:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Heals 50% max HP.]
     introduction: gs
     power: [0]
@@ -4395,8 +4395,8 @@ moves:
   Mimic:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
     - Copies a random move the foe knows.
     - {gs: Copies the last move used by the target.}
@@ -4409,8 +4409,8 @@ moves:
   Mind Reader:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [The next move used will always hit.]
     introduction: gs
     power: [0]
@@ -4423,8 +4423,8 @@ moves:
   Minimize:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Boosts evasion 1 stage.]
     introduction: rb
     power: [0]
@@ -4437,8 +4437,8 @@ moves:
   Miracle Eye:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Nullifies evasion. Allows Psychic-type moves to hit Darks.]
     introduction: dp
     power: [0]
@@ -4465,8 +4465,8 @@ moves:
   Mirror Move:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
     - Use the attack that your opponent just used.
     - {gs: Uses the last move that hit the user.}
@@ -4491,8 +4491,8 @@ moves:
   Mist:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Prevents moves that lower stats from working for 5 turns.]
     introduction: rb
     power: [0]
@@ -4514,7 +4514,7 @@ moves:
     type: [Psychic]
   Misty Terrain:
     accuracy: [0]
-    category: [Status]
+    category: [Non-Damaging]
     description: ['For five turns, Grounded Pokemon cannot have major status problems
         or confusion inflicted on them by other Pokemon. Their Dragon-type moves are
         weakened by 50%.']
@@ -4538,8 +4538,8 @@ moves:
   Moonlight:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Heals variably depending on the weather.]
     introduction: gs
     power: [0]
@@ -4552,8 +4552,8 @@ moves:
   Morning Sun:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Heals variably depending on the weather.]
     introduction: gs
     power: [0]
@@ -4588,8 +4588,8 @@ moves:
   Mud Sport:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Electric-type attacks do 50% damage.]
     introduction: rs
     power: [0]
@@ -4637,8 +4637,8 @@ moves:
   Nasty Plot:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Boosts SpA 2 stages.]
     introduction: dp
     power: [0]
@@ -4663,8 +4663,8 @@ moves:
   Nature Power:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Attack changes based on terrain.]
     introduction: rs
     power: [0]
@@ -4725,8 +4725,8 @@ moves:
   Nightmare:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Does 1/4 of the target's max HP per turn to a sleeping target.]
     introduction: gs
     power: [0]
@@ -4736,7 +4736,7 @@ moves:
     type: [Ghost]
   Noble Roar:
     accuracy: [100]
-    category: [Status]
+    category: [Non-Damaging]
     description: [Lowers the target's Attack and Special Attack by 1 stage. Pokemon
         protected by Magic Coat or the Ability Magic Bounce are unaffected and instead
         use this move themselves.]
@@ -4782,8 +4782,8 @@ moves:
   Odor Sleuth:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Blocks evasion modifiers. Allows Fighting- and Normal-type moves
         to hit Ghosts.]
     introduction: rs
@@ -4835,8 +4835,8 @@ moves:
   Pain Split:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: ["Averages both Pok\xC3\xA9mon's HP."]
     introduction: gs
     power: [0]
@@ -4857,7 +4857,7 @@ moves:
     type: [Electric]
   Parting Shot:
     accuracy: [100]
-    category: [Status]
+    category: [Non-Damaging]
     description: ['Lowers all adjacent foes'' Attack and Special Attack by 1 stage,
         then the user switches out.']
     introduction: xy
@@ -4905,8 +4905,8 @@ moves:
   Perish Song:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: ["All active Pok\xC3\xA9mon faint after 3 turns."]
     introduction: gs
     power: [0]
@@ -4973,7 +4973,7 @@ moves:
     type: [Bug]
   Play Nice:
     accuracy: [0]
-    category: [Status]
+    category: [Non-Damaging]
     description: [Lowers the target's Attack by 1 stage. Ignores Protect.]
     introduction: xy
     power: [0]
@@ -5020,8 +5020,8 @@ moves:
     - 55
     - {bw: 90, xy: 80}
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Poisons the target.]
     introduction: rb
     power: [0]
@@ -5044,8 +5044,8 @@ moves:
   Poison Powder:
     accuracy: [75]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Poisons the target.]
     introduction: rb
     power: [0]
@@ -5093,7 +5093,7 @@ moves:
     type: [Normal]
   Powder:
     accuracy: [100]
-    category: [Status]
+    category: [Non-Damaging]
     description: [Covers the target in powder that explodes if the target uses a Fire-type
         move. +1 Priority.]
     introduction: xy
@@ -5131,8 +5131,8 @@ moves:
   Power Split:
     accuracy: [0]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: [Averages Attack and Special Attack with the target.]
     introduction: bw
     power: [0]
@@ -5143,8 +5143,8 @@ moves:
   Power Swap:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Swaps Atk and SpA boosts and drops with the foe.]
     introduction: dp
     power: [0]
@@ -5155,8 +5155,8 @@ moves:
   Power Trick:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Swaps user's Atk and Def stats.]
     introduction: dp
     power: [0]
@@ -5203,8 +5203,8 @@ moves:
   Protect:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Prevents anything from working on the user that turn.]
     introduction: gs
     power: [0]
@@ -5229,8 +5229,8 @@ moves:
   Psych Up:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Copies the foe's stat changes.]
     introduction: gs
     power: [0]
@@ -5281,8 +5281,8 @@ moves:
     - 90
     - {xy: 100}
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Shifts the user's status effect to the foe.]
     introduction: dp
     power: [0]
@@ -5358,8 +5358,8 @@ moves:
   Quash:
     accuracy: [100]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: [Forces the target to move last.]
     introduction: bw
     power: [0]
@@ -5382,8 +5382,8 @@ moves:
   Quick Guard:
     accuracy: [0]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: [Protects user and allies from priority attacks.]
     introduction: bw
     power: [0]
@@ -5394,8 +5394,8 @@ moves:
   Quiver Dance:
     accuracy: [0]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: ['Boosts the user''s Special Attack, Special Defense, and Speed by
         1 stage.']
     introduction: bw
@@ -5421,8 +5421,8 @@ moves:
   Rage Powder:
     accuracy: [0]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: [All moves target the user.]
     introduction: bw
     power: [0]
@@ -5433,8 +5433,8 @@ moves:
   Rain Dance:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Summons rain for 5 turns.]
     introduction: gs
     power: [0]
@@ -5498,8 +5498,8 @@ moves:
   Recover:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Heals 50% of user's max HP.]
     introduction: rb
     power: [0]
@@ -5512,8 +5512,8 @@ moves:
   Recycle:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Restores a used up item.]
     introduction: rs
     power: [0]
@@ -5524,8 +5524,8 @@ moves:
   Reflect:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
     - Lowers physical damage done to user.
     - {gs: Lowers damage from physical attacks for 5 turns.}
@@ -5538,8 +5538,8 @@ moves:
   Reflect Type:
     accuracy: [0]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: [User becomes the same type as the target.]
     introduction: bw
     power: [0]
@@ -5550,8 +5550,8 @@ moves:
   Refresh:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Removes status.]
     introduction: rs
     power: [0]
@@ -5575,8 +5575,8 @@ moves:
   Rest:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [The user goes to sleep for two turns and restores all HP.]
     introduction: rb
     power: [0]
@@ -5641,8 +5641,8 @@ moves:
   Roar:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
     - Has no effect.
     - {gs: Forces a switch to a random Pokemon.}
@@ -5695,8 +5695,8 @@ moves:
   Rock Polish:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Boosts Spe 2 stages.]
     introduction: dp
     power: [0]
@@ -5775,8 +5775,8 @@ moves:
   Role Play:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Copies the foe's ability and overwrites the user's ability.]
     introduction: rs
     power: [0]
@@ -5811,8 +5811,8 @@ moves:
   Roost:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Heals 50% HP. Temporarily removes the user's Flying-type.]
     introduction: dp
     power: [0]
@@ -5822,7 +5822,7 @@ moves:
     type: [Flying]
   Rototiller:
     accuracy: [0]
-    category: [Status]
+    category: [Non-Damaging]
     description: [Raises the Attack and Sp. Atk stats of Grass-type Pokemon.]
     introduction: xy
     power: [0]
@@ -5871,8 +5871,8 @@ moves:
   Safeguard:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Blocks status conditions for 5 turns.]
     introduction: gs
     power: [0]
@@ -5883,8 +5883,8 @@ moves:
   Sand Attack:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Lowers foe's accuracy 1 stage.]
     introduction: rb
     power: [0]
@@ -5911,8 +5911,8 @@ moves:
   Sandstorm:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Summons a sandstorm for 5 turns.]
     introduction: gs
     power: [0]
@@ -5935,8 +5935,8 @@ moves:
   Scary Face:
     accuracy: [90]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Lowers Spe 2 stages.]
     introduction: gs
     power: [0]
@@ -5959,8 +5959,8 @@ moves:
   Screech:
     accuracy: [85]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Lowers foe's Defense 2 stages.]
     introduction: rb
     power: [0]
@@ -6120,8 +6120,8 @@ moves:
   Sharpen:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Boosts Attack 1 stage.]
     introduction: rb
     power: [0]
@@ -6146,8 +6146,8 @@ moves:
   Shell Smash:
     accuracy: [0]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: ['Boosts user''s Attack, Special Attack, and Speed by 2 stages and
         lowers user''s Defense and Special Defense by 1 stage.']
     introduction: bw
@@ -6159,8 +6159,8 @@ moves:
   Shift Gear:
     accuracy: [0]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: [Boosts Speed by 2 stages and Attack by 1 stage.]
     introduction: bw
     power: [0]
@@ -6207,8 +6207,8 @@ moves:
   Simple Beam:
     accuracy: [100]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: [Changes the target's ability to Simple.]
     introduction: bw
     power: [0]
@@ -6219,8 +6219,8 @@ moves:
   Sing:
     accuracy: [55]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Puts the target to sleep.]
     introduction: rb
     power: [0]
@@ -6231,8 +6231,8 @@ moves:
   Sketch:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Permanently copies the last move used by the target.]
     introduction: gs
     power: [0]
@@ -6243,8 +6243,8 @@ moves:
   Skill Swap:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [The user and the target trade abilities.]
     introduction: rs
     power: [0]
@@ -6308,8 +6308,8 @@ moves:
   Slack Off:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Heals 50% max HP.]
     introduction: rs
     power: [0]
@@ -6344,8 +6344,8 @@ moves:
   Sleep Powder:
     accuracy: [75]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Puts the target to sleep.]
     introduction: rb
     power: [0]
@@ -6356,8 +6356,8 @@ moves:
   Sleep Talk:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Picks one of the user's moves at random. Can only be used while
         sleeping.]
     introduction: gs
@@ -6448,8 +6448,8 @@ moves:
   Smokescreen:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Lowers foe's accuracy 1 stage.]
     introduction: rb
     power: [0]
@@ -6472,8 +6472,8 @@ moves:
   Snatch:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: ['If certain moves are used, the user of Snatch uses the moves instead.']
     introduction: rs
     power: [0]
@@ -6500,8 +6500,8 @@ moves:
   Soak:
     accuracy: [100]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: [Changes the target's type to Water.]
     introduction: bw
     power: [0]
@@ -6512,8 +6512,8 @@ moves:
   Soft-Boiled:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Heals 50% max HP.]
     introduction: rb
     power: [0]
@@ -6576,8 +6576,8 @@ moves:
   Spider Web:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [The target cannot switch out.]
     introduction: gs
     power: [0]
@@ -6600,8 +6600,8 @@ moves:
   Spikes:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Causes damage to the enemy whenever they switch.]
     introduction: gs
     power: [0]
@@ -6611,7 +6611,7 @@ moves:
     type: [Ground]
   Spiky Shield:
     accuracy: [0]
-    category: [Status]
+    category: [Non-Damaging]
     description: ['In addition to protecting the user from attacks, this move also
         damages any attacker who makes direct contact by 1/8 of their maximum HP.']
     introduction: xy
@@ -6637,8 +6637,8 @@ moves:
   Spite:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Lowers the PP of the move used last by 1-5.]
     introduction: gs
     power: [0]
@@ -6649,8 +6649,8 @@ moves:
   Splash:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [No effect whatsoever.]
     introduction: rb
     power: [0]
@@ -6661,8 +6661,8 @@ moves:
   Spore:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Puts the target to sleep.]
     introduction: rb
     power: [0]
@@ -6673,8 +6673,8 @@ moves:
   Stealth Rock:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Damages foe's switch-ins.]
     introduction: dp
     power: [0]
@@ -6708,7 +6708,7 @@ moves:
     type: [Steel]
   Sticky Web:
     accuracy: [0]
-    category: [Status]
+    category: [Non-Damaging]
     description: [Lowers the Speed stat of the opposing team's Pokemon upon switching
         into battle.]
     introduction: xy
@@ -6720,8 +6720,8 @@ moves:
   Stockpile:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Sets the user up to use Spit Up and Swallow.]
     introduction: rs
     power: [0]
@@ -6796,8 +6796,8 @@ moves:
   String Shot:
     accuracy: [95]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Lowers foe's Speed 1 stage.]
     introduction: rb
     power: [0]
@@ -6836,8 +6836,8 @@ moves:
   Stun Spore:
     accuracy: [75]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Paralyzes the target.]
     introduction: rb
     power: [0]
@@ -6860,8 +6860,8 @@ moves:
   Substitute:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Takes 1/4 the user's max HP to create a Substitute that takes damage
         for the user.]
     introduction: rb
@@ -6885,8 +6885,8 @@ moves:
   Sunny Day:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Summons sun for 5 turns.]
     introduction: gs
     power: [0]
@@ -6923,8 +6923,8 @@ moves:
   Supersonic:
     accuracy: [55]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Confuses the foe.]
     introduction: rb
     power: [0]
@@ -6949,8 +6949,8 @@ moves:
   Swagger:
     accuracy: [90]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Confuses the target. Boosts its Atk 2 stages.]
     introduction: gs
     power: [0]
@@ -6961,8 +6961,8 @@ moves:
   Swallow:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Healing varies based on the number of uses of Stockpile.]
     introduction: rs
     power: [0]
@@ -6973,8 +6973,8 @@ moves:
   Sweet Kiss:
     accuracy: [75]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Confuses the target.]
     introduction: gs
     power: [0]
@@ -6987,8 +6987,8 @@ moves:
   Sweet Scent:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Lowers evasion 1 stage.]
     introduction: gs
     power: [0]
@@ -7011,8 +7011,8 @@ moves:
   Switcheroo:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Switches items with the target.]
     introduction: dp
     power: [0]
@@ -7023,8 +7023,8 @@ moves:
   Swords Dance:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Boosts Attack 2 stages.]
     introduction: rb
     power: [0]
@@ -7051,8 +7051,8 @@ moves:
   Synthesis:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Heals variably depending on the weather.]
     introduction: gs
     power: [0]
@@ -7079,8 +7079,8 @@ moves:
   Tail Glow:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Boosts SpA 2 stages.]
     introduction: rs
     power: [0]
@@ -7103,8 +7103,8 @@ moves:
   Tail Whip:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Lowers foe's Defense by 1 stage.]
     introduction: rb
     power: [0]
@@ -7115,8 +7115,8 @@ moves:
   Tailwind:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Doubles Spe for 3 turns.]
     introduction: dp
     power: [0]
@@ -7139,8 +7139,8 @@ moves:
   Taunt:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Forces the foe to use damaging moves for 2 turns.]
     introduction: rs
     power: [0]
@@ -7165,8 +7165,8 @@ moves:
   Teeter Dance:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: ["Confuses all other active Pok\xC3\xA9mon."]
     introduction: rs
     power: [0]
@@ -7177,8 +7177,8 @@ moves:
   Telekinesis:
     accuracy: [0]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: [Lasts 3 turns and makes all moves hit the target.  Makes target
         immune to Ground-type moves.]
     introduction: bw
@@ -7190,8 +7190,8 @@ moves:
   Teleport:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Has no effect.]
     introduction: rb
     power: [0]
@@ -7288,8 +7288,8 @@ moves:
   Thunder Wave:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Paralyzes the foe.]
     introduction: rb
     power: [0]
@@ -7314,8 +7314,8 @@ moves:
   Tickle:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Lowers Atk and Def 1 stage.]
     introduction: rs
     power: [0]
@@ -7325,7 +7325,7 @@ moves:
     type: [Normal]
   Topsy-Turvy:
     accuracy: [0]
-    category: [Status]
+    category: [Non-Damaging]
     description: [Inverts target's stat stages.]
     introduction: xy
     power: [0]
@@ -7336,8 +7336,8 @@ moves:
   Torment:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Prevents the target from using the same move twice in a row.]
     introduction: rs
     power: [0]
@@ -7350,8 +7350,8 @@ moves:
     - 85
     - {bw: 90}
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Inflicts intensifying poison on the target.]
     introduction: rb
     power: [0]
@@ -7362,8 +7362,8 @@ moves:
   Toxic Spikes:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Poisons opponents as they switch switch in.]
     introduction: dp
     power: [0]
@@ -7374,8 +7374,8 @@ moves:
   Transform:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Transforms into the foe.]
     introduction: rb
     power: [0]
@@ -7400,8 +7400,8 @@ moves:
   Trick:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Switches items with the foe.]
     introduction: rs
     power: [0]
@@ -7412,8 +7412,8 @@ moves:
   Trick Room:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: ["Slower Pok\xC3\xA9mon move first for 5 turns."]
     introduction: dp
     power: [0]
@@ -7423,7 +7423,7 @@ moves:
     type: [Psychic]
   Trick-or-Treat:
     accuracy: [100]
-    category: [Status]
+    category: [Non-Damaging]
     description: ['Adds Ghost to the target''s type(s). If the target already has
         three types, the third is replaced.']
     introduction: xy
@@ -7535,7 +7535,7 @@ moves:
     type: [Fighting]
   Venom Drench:
     accuracy: [100]
-    category: [Status]
+    category: [Non-Damaging]
     description: ['Lowers the Attack, Special Attack, and Speed stats of a poisoned
         target.']
     introduction: xy
@@ -7689,8 +7689,8 @@ moves:
   Water Sport:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Fire-type attacks do 50% damage.]
     introduction: rs
     power: [0]
@@ -7753,8 +7753,8 @@ moves:
   Whirlwind:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
     - Has no effect.
     - {gs: Forces the target to switch to a random Pokemon.}
@@ -7769,8 +7769,8 @@ moves:
   Wide Guard:
     accuracy: [0]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: [Protects user and allies from multi-target attacks.]
     introduction: bw
     power: [0]
@@ -7795,8 +7795,8 @@ moves:
     - 75
     - {xy: 85}
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Burns the foe.]
     introduction: rs
     power: [0]
@@ -7821,8 +7821,8 @@ moves:
   Wish:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Heals 50% max HP after 2 turns.]
     introduction: rs
     power: [0]
@@ -7833,8 +7833,8 @@ moves:
   Withdraw:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, gs: Status, rs: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Boosts Defense 1 stage.]
     introduction: rb
     power: [0]
@@ -7845,8 +7845,8 @@ moves:
   Wonder Room:
     accuracy: [0]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: [Swaps Defense and Special Defense of all Pokemon.]
     introduction: bw
     power: [0]
@@ -7869,8 +7869,8 @@ moves:
   Work Up:
     accuracy: [0]
     category:
-    - Status
-    - {xy: Status}
+    - Non-Damaging
+    - {xy: Non-Damaging}
     description: [Boosts user's Attack and Special Attack by 1 stage.]
     introduction: bw
     power: [0]
@@ -7881,8 +7881,8 @@ moves:
   Worry Seed:
     accuracy: [100]
     category:
-    - Status
-    - {bw: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
     description: [Changes the foe's ability to Insomnia.]
     introduction: dp
     power: [0]
@@ -7933,8 +7933,8 @@ moves:
   Yawn:
     accuracy: [0]
     category:
-    - Status
-    - {bw: Status, dp: Status, xy: Status}
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: [Puts the target to sleep after 2 turns.]
     introduction: rs
     power: [0]

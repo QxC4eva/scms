@@ -83,3 +83,291 @@ pokemon:
     types:
     - [Normal]
     weight: [320]
+
+  Arceus-Fire:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Fire]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Water:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Water]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Ice:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Ice]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Fairy:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: xy
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Fairy]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Grass:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Grass]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Ground:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Ground]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Fighting:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Fighting]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Dark:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Dark]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Bug:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Bug]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Steel:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Steel]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Electric:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Electric]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Psychic:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Psychic]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Ghost:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Ghost]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Flying:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Flying]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Poison:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Poison]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Rock:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Rock]
+    weight: [320]
+    evolvesFrom: [Arceus]

@@ -81,9 +81,9 @@ types:
       rb: {Bug: 2, Dragon: 1, Electric: 0.5, Fighting: 2, Fire: 1, Flying: 1, Ghost: 1,
         Grass: 2, Ground: 1, Ice: 1, Normal: 1, Poison: 1, Psychic: 1, Rock: 0.5,
         Water: 1}
-      xy: {Bug: 1, Dark: 1, Dragon: 1, Electric: 1, Fairy: 1, Fighting: 1, Fire: 1,
-        Flying: 1, Ghost: 2, Grass: 1, Ground: 1, Ice: 1, Normal: 0, Poison: 1, Psychic: 2,
-        Rock: 1, Steel: 0.5, Water: 1}
+      xy: {Bug: 2, Dark: 1, Dragon: 1, Electric: 0.5, Fairy: 1, Fighting: 2, Fire: 1,
+        Flying: 1, Ghost: 1, Grass: 2, Ground: 1, Ice: 1, Normal: 1, Poison: 1, Psychic: 1,
+        Rock: 0.5, Steel: 0.5, Water: 1}
     introduction: rb
   Ghost:
     effectiveness:

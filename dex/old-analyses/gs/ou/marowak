@@ -16,27 +16,27 @@ ivs: 13 Atk / 13 Def
 <p>Marowak is the hardest hitter in the game, and this set takes a very basic approach toward maximizing Marowak's wallbreaking capabilities. Earthquake is the STAB move that guarantees a 3HKO against everything that doesn't resist it. This doesn't sound terribly impressive at first; given how frail Marowak is, you'd expect at least 2HKOs all over the place. However, Marowak doesn't just 3HKO foes, it comes very close to 2HKOs, as illustrated by the following damage calculations. Note that, for these calculations, Marowak's Attack stat is set to 254 (508 after the Thick Club boost) by lowering the Attack DV to 13. Also, be aware that defending Pokemon have maximum values (without a nature boost) for all stats in GSC.</p>
 
 <ul class="damage_calculation">
-<li>Earthquake vs. +0 Def Snorlax 46.08% – 54.01% – 4.47% chance to 2HKO with Leftovers</li>
-<li>Earthquake vs. +1 Def Snorlax 32.01% – 37.77% – 0.12% chance to 3HKO with Leftovers</li>
-<li>Earthquake vs. +0 Def Miltank 45.55% – 53.44% – 1.12% chance to 2HKO with Leftovers</li>
-<li>Earthquake vs. +0 Def Suicune 41.69% – 49.13% – guaranteed 3HKO with Leftovers</li>
-<li>Earthquake vs. +0 Def Cloyster 39.93% – 46.86% – guaranteed 3HKO with Leftovers</li>
-<li>Earthquake vs. +0 Def Umbreon 44.02% – 51.91% – guaranteed 3HKO with Leftovers</li>
-<li>Earthquake vs. +0 Def Tyranitar 86.10% – 101.24% – 10.26% chance to OHKO</li>
-<li>Earthquake vs. +0 Def Steelix 63.17% – 74.50% – guaranteed 2HKO with Leftovers</li>
-<li>Earthquake vs. +1 Def Steelix 42.49% – 50.14% – guaranteed 3HKO with Leftovers</li>
+<li>Earthquake vs. +0 Def Snorlax 46.08% -- 54.01% -- 4.47% chance to 2HKO with Leftovers</li>
+<li>Earthquake vs. +1 Def Snorlax 32.01% -- 37.77% -- 0.12% chance to 3HKO with Leftovers</li>
+<li>Earthquake vs. +0 Def Miltank 45.55% -- 53.44% -- 1.12% chance to 2HKO with Leftovers</li>
+<li>Earthquake vs. +0 Def Suicune 41.69% -- 49.13% -- guaranteed 3HKO with Leftovers</li>
+<li>Earthquake vs. +0 Def Cloyster 39.93% -- 46.86% -- guaranteed 3HKO with Leftovers</li>
+<li>Earthquake vs. +0 Def Umbreon 44.02% -- 51.91% -- guaranteed 3HKO with Leftovers</li>
+<li>Earthquake vs. +0 Def Tyranitar 86.10% -- 101.24% -- 10.26% chance to OHKO</li>
+<li>Earthquake vs. +0 Def Steelix 63.17% -- 74.50% -- guaranteed 2HKO with Leftovers</li>
+<li>Earthquake vs. +1 Def Steelix 42.49% -- 50.14% -- guaranteed 3HKO with Leftovers</li>
 </ul>
 
 <p>Of course, being close to 2HKOs is not ideal, but with some team support and a little bit of residual damage, these KOs can become a reality. Additionally, Marowak runs Rock Slide to 2HKO Zapdos. Hidden Power Bug is the final coverage move, and it allows Marowak to OHKO Exeggutor as it switches in (although it is just short of being a guaranteed KO). However, if Marowak is paired up with Heal Bell support, Hidden Power can be forgone for Rest to allow Marowak the ability to heal off damage and make a second attempt at wallbreaking. Finally, Swords Dance is the move that allows Marowak to transform from an instant offensive threat to a hole-punching wallbreaker by raising its Attack to the 999 cap. However, Swords Dance can be very difficult to set up, and even after a Swords Dance boost, Marowak can miss out on guaranteed OHKOs against important foes, as illustrated in the damage calculations to follow. Note that, in the following damage calculations, Marowak has used Swords Dance to boost its Attack two stages to reach the maximum possible Attack stat of 999.</p>
 
 <ul class="damage_calculation">
-<li>Earthquake vs. +0 Def Snorlax 90.25% – 106.12% – 38.46% chance to OHKO</li>
-<li>Earthquake vs. +1 Def Snorlax 60.23% – 70.94% – guaranteed 2HKO with Leftovers</li>
-<li>Earthquake vs. +0 Def Miltank 89.06% – 104.58% – 30.77% chance to OHKO</li>
-<li>Earthquake vs. +0 Def Suicune 81.64% – 95.78% – guaranteed 2HKO with Leftovers</li>
-<li>Earthquake vs. +0 Def Cloyster 77.89% – 91.42% – guaranteed 2HKO with Leftovers</li>
-<li>Earthquake vs. +0 Def Umbreon 86.26% – 101.27% – 10.26% chance to OHKO</li>
-<li>Earthquake vs. +1 Def Steelix 82.44% – 97.17% – guaranteed 2HKO with Leftovers</li>
+<li>Earthquake vs. +0 Def Snorlax 90.25% -- 106.12% -- 38.46% chance to OHKO</li>
+<li>Earthquake vs. +1 Def Snorlax 60.23% -- 70.94% -- guaranteed 2HKO with Leftovers</li>
+<li>Earthquake vs. +0 Def Miltank 89.06% -- 104.58% -- 30.77% chance to OHKO</li>
+<li>Earthquake vs. +0 Def Suicune 81.64% -- 95.78% -- guaranteed 2HKO with Leftovers</li>
+<li>Earthquake vs. +0 Def Cloyster 77.89% -- 91.42% -- guaranteed 2HKO with Leftovers</li>
+<li>Earthquake vs. +0 Def Umbreon 86.26% -- 101.27% -- 10.26% chance to OHKO</li>
+<li>Earthquake vs. +1 Def Steelix 82.44% -- 97.17% -- guaranteed 2HKO with Leftovers</li>
 </ul>
 
 <p>Thus, the secret to using Swords Dance is to first put the appropriate support in place; a defensive landscape with a lot of paralysis and residual damage allows Marowak to easily clean up, as do dual screens and passing Agility boosts. However, one crucial moment to consider using Swords Dance without a huge amount of support is when you believe the opponent will be switching to Skarmory. Skarmory takes very little damage from any of Marowak's unboosted attacks, but after Swords Dance boosting Marowak's Attack to 999, Rock Slide does 43%-50% to Skarmory, which is a solid 3HKO. Even if Skarmory tries to use Whirlwind to phaze or Curse to reduce Rock Slide's damage to below the 3HKO threshold (29%-34%), the 27% flinch rate (factoring in accuracy) makes KOing Skarmory possible. However, unless you use Swords Dance on the switch, Skarmory can easily tank whatever Marowak has to dish out while whittling away its health with Drill Pecks, and attempting to play for the flinch against a +1 Skarmory can be risky thanks to its boosted Drill Peck.</p>

@@ -1,0 +1,997 @@
+[title]
+Guide to Creating a CAP Movepool in X/Y
+[page]
+<div class="author">Written by <a href="/forums/member.php?u=43161">Rising_Dusk</a> with research by <a href="/forums/member.php?u=2412">X-Act</a>. Updated for X/Y by <a href="/forums/member.php?u=25105">bugmaniacbob</a> with research by <a href="/forums/member.php?u=57019">paintseagull</a> and <a href="/forums/member.php?u=63551">jas61292</a>.</div>
+
+<ol class="toc">
+<li><a href="#intro">Introduction</a></li>
+<li><a href="#restrict">Movepool Restrictions</a></li>
+<li><a href="#require">Movepool Requirements</a></li>
+<li><a href="#tm">Technical Machine Moves</a>
+<ul>
+<li><a href="#tmlist">TM Move List</a></li>
+</ul>
+</li>
+<li><a href="#levelup">Level-Up Moves</a></li>
+<li><a href="#egg">Egg Moves</a></li>
+<li><a href="#tutor">Move Tutor Moves</a>
+<ul>
+<li><a href="#tutorlist">Move Tutor Move List</a></li>
+</ul>
+</li>
+<li><a href="#event">Event Moves</a></li>
+<li><a href="#flavour">Flavour Notes</a>
+<ul>
+<li><a href="#type">Type-Move Guidelines</a></li>
+<li><a href="#move">Move-Move Guidelines</a></li>
+</ul>
+</li>
+<li><a href="#example">Example</a>
+<ul>
+<li><a href="#talonflame">Talonflame's Movepool</a></li>
+</ul>
+</li>
+</ol>
+
+<h2><a name="intro">Introduction</a></h2>
+
+<p>Movepools are largely considered the single most important competitive aspect of a Pok&eacute;mon. The reasoning for this is that a movepool defines a Pok&eacute;mon's diversity, what they can and cannot beat, and what functionality they can provide for their team. Some movepools, such as those of Tyranitar and Genesect, are enormous and provide nearly limitless options, while others, like that of Talonflame, are just big enough to make the Pok&eacute;mon worth using. Both of these types of movepools have their respective places with different CAPs, but there's a lot to movepools that might not be apparent at first glance. This article's focus is to make sure that you have all the information and all the resources you need in order to understand how to go about building a movepool and how movepools interlink with the CAP process.</p>
+
+<h2><a name="restrict">Movepool Restrictions</a></h2>
+
+<p>In the past, many CAP movepools have tended to creep in power toward being bloated with as many legal moves as possible. In order to address these issues, as well as bring CAP Pok&eacute;mon movepools back in line with the movepools of common OU Pok&eacute;mon, some limitations and restrictions were placed upon the movepool stage of the CAP process. As described in <a href="/cap/process/events/movepool_submissions#size">this</a> process guide article, the size of a Pok&eacute;mon's movepool is limited by its Base Stat Rating (a measure of how good the stat spread is relative to all other Pok&eacute;mon), such that the greater the BSR, the lower total number of moves, and number of Restricted Moves, are allowed in the movepool. A Restricted Move is defined as "A move that is considered by the combination of its power, accuracy, effect chance, move priority, power points, and overall type coverage to be of distinct individual competitive advantage in any given movepool", and a list of them can be found <a href="/cap/process/events/movepool_submissions#restricted">here</a>. Note, however, that there are lots of rules governing what is and isn't a Restricted Move based on different situations - for example, a Pok&eacute;mon with Zap Cannon would have it classed as a RM if it had No Guard as well, but not if it had a different ability. The article provided goes into more detail about these restrictions and exemptions. A complete list of Restricted Moves can also be found in that article, but you can also refer to <a href="/cap/articles/restricted_moves">this</a> article for a list of these moves split up into categories, thus making them a lot easier to deal with. Once these restrictions are set, you as a movepool creator must adhere to them strictly.</p>
+
+<h2><a name="require">Movepool Requirements</a></h2>
+
+<p>While the raw limit placed on the number of Restricted Moves and total number of moves that may be in your CAP Pok&eacute;mon's movepool is generally the only specific requirement placed, there exist some other requirements that need to be adhered to. Certain moves that all Pok&eacute;mon get, such as Toxic, Round, and Protect, are required on all movepools, unless the Movepool Leader specifies otherwise. All of these are Technical Machines, and are highlighted on the list of TM moves below. In addition, the Restricted Moves that are and are not allowed on your movepools will be specified during the <a href="/cap/process/events/move_discussion">Move Discussion</a> stages, such that all moves that are too strong or otherwise undesirable for that particular CAP will be made illegal. You should be aware that the default position on any particular move is that they are illegal - if they are not specifically listed in the Move Discussion as allowed, then they are disallowed. If there's a particular move you want to add to your movepool for flavour reasons, but which is not brought up for discussion during this time, then make sure that you bring it up yourself so that the Movepool Leader can declare it allowed. You should also take note that Legendary Signature moves (a list of which can be found <a href="/cap/process/events/movepool_submissions#exemption">here</a>) are automatically disallowed for all CAPs.</p>
+
+<h2><a name="tm">Technical Machine Moves</a></h2>
+
+<p>There are 100 TM moves available to all Pok&eacute;mon, plus 5 HM moves. Existing fully-evolved Gen VI Pok&eacute;mon have anywhere between 22 and 59 TM moves in their movepool, with an overall average of 37 moves. It should be noted that, with some exceptions, Fire- and Grass-type Pok&eacute;mon tend not to learn any Ice-type moves, while Ice- and Grass-type Pok&eacute;mon tend not to learn any Fire-type moves.</p>
+
+<p>Be aware, again, that the moves in bold in the table below <strong>must be present</strong> on all movepools if they are to be considered legal; the reason for this is that all fully-evolved Pok&eacute;mon (with certain exceptions, such as Wobbuffet and Regigigas) obtain them. The sole exception to this is where the CAP is genderless (and hence has no egg moves), in which case you may forgo Attract. It is also the case that Sunny Day tends to be present on all Pok&eacute;mon bar those of the Water or Ice typing, while Rain Dance tends to be present on all Pok&eacute;mon bar those of the Fire typing. These are not required on CAP movepools, however.</p>
+
+<h3><a name ="tmlist">TM Move List</a></h3>
+<table class="sortable">
+<thead>
+<tr>
+<th colspan="5" style="text-align: center;">TM Moves</th>
+</tr>
+</thead>
+<tbody>
+    <tr>
+        <td>TM01 Hone Claws</td>
+        <td>TM26 Earthquake</td>
+        <td>TM51 Steel Wing</td>
+        <td>TM76 Struggle Bug</td>
+        <td>HM01 Cut</td>
+    </tr><tr class="a">
+    <td>TM02 Dragon Claw</td>
+        <td><strong>TM27 Return</strong></td>
+        <td>TM52 Focus Blast</td>
+        <td>TM77 Psych Up</td>
+        <td>HM02 Fly</td>
+    </tr><tr>
+    <td>TM03 Psyshock</td>
+        <td>TM28 Dig</td>
+        <td>TM53 Energy Ball</td>
+        <td>TM78 Bulldoze</td>
+        <td>HM03 Surf</td>
+    </tr><tr class="a">
+    <td>TM04 Calm Mind</td>
+        <td>TM29 Psychic</td>
+        <td>TM54 False Swipe</td>
+        <td>TM79 Frost Breath</td>
+        <td>HM04 Strength</td>
+    </tr><tr>
+    <td>TM05 Roar</td>
+        <td>TM30 Shadow Ball</td>
+        <td>TM55 Scald</td>
+        <td>TM80 Rock Slide</td>
+        <td>HM05 Waterfall</td>
+    </tr><tr class="a">
+    <td><strong>TM06 Toxic</strong></td>
+        <td>TM31 Brick Break</td>
+        <td>TM56 Fling</td>
+        <td>TM81 X-Scissor</td>
+        <td></td>
+    </tr><tr>
+    <td>TM07 Hail</td>
+        <td><strong>TM32 Double Team</strong></td>
+        <td>TM57 Charge Beam</td>
+        <td>TM82 Dragon Tail</td>
+        <td></td>
+    </tr><tr class="a">
+    <td>TM08 Bulk Up</td>
+        <td>TM33 Reflect</td>
+        <td>TM58 Sky Drop</td>
+        <td>TM83 Infestation</td>
+        <td></td>
+    </tr><tr>
+    <td>TM09 Venoshock</td>
+        <td>TM34 Sludge Wave</td>
+        <td>TM59 Incinerate</td>
+        <td>TM84 Poison Jab</td>
+        <td></td>
+    </tr><tr class="a">
+    <td><strong>TM10 Hidden Power</strong></td>
+        <td>TM35 Flamethrower</td>
+        <td>TM60 Quash</td>
+        <td>TM85 Dream Eater</td>
+        <td></td>
+    </tr><tr>
+    <td>TM11 Sunny Day</td>
+        <td>TM36 Sludge Bomb</td>
+        <td>TM61 Will-O-Wisp</td>
+        <td>TM86 Grass Knot</td>
+        <td></td>
+    </tr><tr class="a">
+    <td>TM12 Taunt</td>
+        <td>TM37 Sandstorm</td>
+        <td>TM62 Acrobatics</td>
+        <td><strong>TM87 Swagger</strong></td>
+        <td></td>
+    </tr><tr>
+    <td>TM13 Ice Beam</td>
+        <td>TM38 Fire Blast</td>
+        <td>TM63 Embargo</td>
+        <td><strong>TM88 Sleep Talk</strong></td>
+        <td></td>
+    </tr><tr class="a">
+    <td>TM14 Blizzard</td>
+        <td>TM39 Rock Tomb</td>
+        <td>TM64 Explosion</td>
+        <td>TM89 U-turn</td>
+        <td></td>
+    </tr><tr>
+    <td><strong>TM15 Hyper Beam</strong></td>
+        <td>TM40 Aerial Ace</td>
+        <td>TM65 Shadow Claw</td>
+        <td><strong>TM90 Substitute</td>
+        <td></td>
+    </tr><tr class="a">
+    <td>TM16 Light Screen</td>
+        <td>TM41 Torment</td>
+        <td>TM66 Payback</td>
+        <td>TM91 Flash Cannon</td>
+        <td></td>
+    </tr><tr class="a">
+    <td><strong>TM17 Protect</strong></td>
+        <td><strong>TM42 Facade</strong></td>
+        <td>TM67 Retaliate</td>
+        <td>TM92 Trick Room</td>
+        <td></td>
+    </tr><tr>
+    <td>TM18 Rain Dance</td>
+        <td>TM43 Flame Charge</td>
+        <td><strong>TM68 Giga Impact</strong></td>
+        <td>TM93 Wild Charge</td>
+        <td></td>
+    </tr><tr class="a">
+    <td>TM19 Roost</td>
+        <td><strong>TM44 Rest</strong></td>
+        <td>TM69 Rock Polish</td>
+        <td>TM94 Rock Smash</td>
+        <td></td>
+    </tr><tr>
+    <td>TM20 Safeguard</td>
+        <td><strong>TM45 Attract*</strong></td>
+        <td>TM70 Flash</td>
+        <td>TM95 Snarl</td>
+        <td></td>
+    </tr><tr class="a">
+    <td><strong>TM21 Frustration</strong></td>
+        <td>TM46 Thief</td>
+        <td>TM71 Stone Edge</td>
+        <td>TM96 Nature Power</td>
+        <td></td>
+    </tr><tr>
+    <td>TM22 Solar Beam</td>
+        <td>TM47 Low Sweep</td>
+        <td>TM72 Volt Switch</td>
+        <td>TM97 Dark Pulse</td>
+        <td></td>
+    </tr><tr class="a">
+    <td>TM23 Smack Down</td>
+        <td><strong>TM48 Round</strong></td>
+        <td>TM73 Thunder Wave</td>
+        <td>TM98 Power-Up Punch</td>
+        <td></td>
+    </tr><tr>
+    <td>TM24 Thunderbolt</td>
+        <td>TM49 Echoed Voice</td>
+        <td>TM74 Gyro Ball</td>
+        <td>TM99 Dazzling Gleam</td>
+        <td></td>
+    </tr><tr class="a">
+    <td>TM25 Thunder</td>
+        <td>TM50 Overheat</td>
+        <td>TM75 Swords Dance</td>
+        <td><strong>TM100 Confide</strong></td>
+        <td></td>
+    </tr>
+</tbody>
+</table>
+<dl>
+<dt><strong>Bolded entries indicate moves that every Pok&eacute;mon will ordinarily have.</strong></dt>
+<dd>* Except genderless Pok&eacute;mon</dd>
+</dl>
+
+<h2><a name ="levelup">Level-Up Moves</a></h2>
+
+<p>A level-up move list can contain anywhere from 13 to 25 moves, although the average number of moves is around 18. Up to eight of these moves will be Heart Scale moves, meaning that they can only be relearned using a Heart Scale, aren't known at level 1, and aren't learned at any higher level. A Pok&eacute;mon may only have a Heart Scale move if it has at least 4 level 1 moves already; consequently, you may have a maximum of twelve effective level 1 moves. This, however, would be an extreme case, as with Florges. As a Pok&eacute;mon levels up, the moves tend to get more powerful. This means that a move such as Crunch or Earthquake would usually be learned later than Bite or Mud-Slap. Furthermore, if the Pok&eacute;mon has a pre-evolution, as with Florges or Noivern, one of the following two things will generally happen.</p>
+<ul>
+<li>Up to three level 1 moves may be repeated in further levels. These moves are learned by the Pok&eacute;mon's pre-evolution as well. For example, Noivern learns Hurricane, Dragon Pulse, and Boomburst at Level 1, and learns them again at Level 62, 70, and 75, respectively.</li>
+<li>The Pok&eacute;mon has a few level 1 moves, and then an extremely short or non-existent movepool. For example, Florges learns four level 1 moves and eight Heart Scale moves, but has no other level-up moves. This is typically only the case for Pok&eacute;mon that evolve via stone items. In this case, you may be advised to include a pre-evolution movepool to describe the remainder of its movepool.</li>
+</ul>
+
+<h2><a name ="egg">Egg Moves</a></h2>
+
+<p>Egg moves are those moves learned through breeding. In order to have egg moves, you must specify which egg groups the CAP belongs to. The movepool designer will have to decide on egg groups that grant access to the moves that are listed, and it is preferred that they make flavour sense on the Pok&eacute;mon, but is not entirely necessary. If you are struggling, note that Smeargle can pass down any egg moves you desire, and so putting the CAP in the Field egg group is an entirely legitimate recourse. A Pok&eacute;mon may have as few as 4 egg moves and at most 13 egg moves, but the average is typically around five. Pok&eacute;mon that are genderless or do not breed cannot have any egg moves. It is not necessary to specify egg move illegalities, but you may do so if you choose; note that due to new breeding mechanics, illegal egg move combinations will no longer occur barring circumstances with prior generation moves or event moves, the former of which is not an issue as all CAPs for XY are assumed to have come into being in Generation VI, and the latter is typically unnecessary unless you deliberately want an illegality to be present.</p>
+
+<h2><a name ="tutor">Move Tutor Moves</a></h2>
+
+<p>Move Tutors are people in the Pok&eacute;mon world that teach Pok&eacute;mon moves for a price. In Pok&eacute;mon X and Y, there are only a few Move Tutors, and most of these are limited to starter Pok&eacute;mon. Because of this, they have little competitive value and high flavour price, but are worth mentioning to make you aware that they exist. Note that Draco Meteor is found on most Dragon-types.</p>
+
+<h3><a name ="tutorlist">Move Tutor Move List</a></h3>
+<table class="sortable">
+<thead>
+<tr>
+<th colspan="7" style="text-align: center;">Move Tutor Moves</th>
+</tr>
+</thead>
+<tbody>
+<tr> <td>Fire Pledge</td> <td>Blast Burn</td> <td>Draco Meteor</td></tr>
+<tr class="a"> <td>Grass Pledge</td> <td>Frenzy Plant</td> <td> </td></tr>
+<tr> <td> Water Pledge </td> <td> Hydro Cannon </td> <td> </td></tr>
+</tbody>
+</table>
+
+<h2><a name ="event">Event Moves</a></h2>
+
+<p>A fifth location for moves to be placed in is that of "event moves", which would in theory be analogous to an existing Pok&eacute;mon being distributed via a Nintendo promotion, which includes a move it would not ordinarily learn. This has never been done before, and indeed is frowned upon as a choice for various historical reasons, but is currently the only real option if you want the CAP to somehow have incompatibilities between its moves, as any event moves would be illegal alongside egg moves. Another option would be to specify a shiny or fixed-nature distribution, such that there is some other competitive cost to the use of that move. This would, in theory, be one way to include a powerful move while keeping the CAP balanced by imposing a cost.</p>
+
+<h2><a name ="flavour">Flavour Notes</a></h2>
+
+<p>What is this "flavour" that people keep harping on about? When the word "flavour" is used in the context of CAP, it typically refers to the little, non-competitive extras that are added to all Pok&eacute;mon in existence in order to give them substance and, in many cases, a personality. This can range from abilities, such as Necturna's Forewarn, to various moves, such as Cyclohm's Double Hit and Tri Attack (its second and third evolutionary stages have two and three heads, respectively). In this case, flavour doesn't mean that the move itself is non-competitive, but that the move is added because it fits with the CAP's artistic theme; a steam train Pok&eacute;mon would be expected to be able to use Scald, for example. It's hard to engineer good flavour into a movepool, and aside from the cases already mentioned it isn't enforced, but it's a good idea to get to know some of the precedents set, as while originality is always good, seeing which moves commonly occur on similar Pok&eacute;mon can allow you to build a sturdy foundation, on top of which the rest of the movepool can sit.</p>
+
+<p>It should be made absolutely clear, however, that while flavour is all well and good, it should never take precedence over competitive concerns, and indeed should not be discussed or even faintly alluded to in any of the competitive discussion threads. There are places in the forum where this kind of discussion is allowed, but make certain to read the rules of the threads in question before jumping in.</p>
+
+<h3><a name ="type">Type-Move Guidelines</a></h3>
+
+<p>These moves appear on more than 5% of fully-evolved Pok&eacute;mon (i.e. 20 or more fully-evolved Pok&eacute;mon) and are found on over 90% of the Pok&eacute;mon of a given type. Hence, if you see a Pok&eacute;mon of that type, you would expect to find the moves listed after it.</p>
+
+<table class="sortable">
+<thead>
+<tr>
+<th>Type</th>
+<th>Required Move</th>
+<th>Type</th>
+<th>Required Move</th>
+<th>Type</th>
+<th>Required Move</th>
+<th>Type</th>
+<th>Required Move</th>
+</tr>
+</thead>
+<tr class="a">
+<td>Bug</td>
+<td>Struggle Bug</td>
+<td>Fire</td>
+<td>Fire Blast</td>
+<td>Ground</td>
+<td>Bulldoze</td>
+<td>Psychic</td>
+<td>Flash</td>
+</tr>
+<tr>
+<td>Dark</td>
+<td>Dark Pulse</td>
+<td></td>
+<td>Flame Charge</td>
+<td></td>
+<td>Earthquake</td>
+<td></td>
+<td>Light Screen</td>
+</tr>
+<tr class="a">
+<td></td>
+<td>Taunt</td>
+<td></td>
+<td>Flamethrower</td>
+<td></td>
+<td>Rock Slide</td>
+<td></td>
+<td>Psych Up</td>
+</tr>
+<tr>
+<td>Dragon</td>
+<td>Draco Meteor</td>
+<td></td>
+<td>Incinerate</td>
+<td></td>
+<td>Rock Smash</td>
+<td></td>
+<td>Psychic</td>
+</tr>
+<tr class="a">
+<td>Electric</td>
+<td>Charge Beam</td>
+<td></td>
+<td>Overheat</td>
+<td></td>
+<td>Rock Tomb</td>
+<td></td>
+<td>Psyshock</td>
+</tr>
+<tr>
+<td></td>
+<td>Flash</td>
+<td></td>
+<td>Solar Beam</td>
+<td></td>
+<td>Stone Edge</td>
+<td>Rock</td>
+<td>Rock Polish</td>
+</tr>
+<tr class="a">
+<td></td>
+<td>Rain Dance</td>
+<td></td>
+<td>Sunny Day</td>
+<td></td>
+<td>Strength</td>
+<td></td>
+<td>Rock Slide</td>
+</tr>
+<tr>
+<td></td>
+<td>Thunder</td>
+<td></td>
+<td>Will-O-Wisp</td>
+<td>Ice</td>
+<td>Blizzard</td>
+<td></td>
+<td>Rock Tomb</td>
+</tr>
+<tr class="a">
+<td></td>
+<td>Thunder Wave</td>
+<td>Flying</td>
+<td>Aerial Ace</td>
+<td></td>
+<td>Hail</td>
+<td></td>
+<td>Sandstorm</td>
+</tr>
+<tr>
+<td></td>
+<td>Thunderbolt</td>
+<td></td>
+<td>Roost</td>
+<td></td>
+<td>Ice Beam</td>
+<td></td>
+<td>Smack Down</td>
+</tr>
+<tr class="a">
+<td></td>
+<td>Volt Switch</td>
+<td>Ghost</td>
+<td>Shadow Ball</td>
+<td></td>
+<td>Rain Dance</td>
+<td></td>
+<td>Stone Edge</td>
+</tr>
+<tr>
+<td>Fairy</td>
+<td>Sunny Day</td>
+<td>Grass</td>
+<td>Energy Ball</td>
+<td>Normal</td>
+<td>Rain Dance</td>
+<td>Steel</td>
+<td>(none)</td>
+</tr>
+<tr class="a">
+<td>Fighting</td>
+<td>Focus Blast</td>
+<td></td>
+<td>Flash</td>
+<td></td>
+<td>Sunny Day</td>
+<td>Water</td>
+<td>Blizzard</td>
+</tr>
+<tr>
+<td></td>
+<td>Rock Smash</td>
+<td></td>
+<td>Grass Knot</td>
+<td>Poison</td>
+<td>Sludge Bomb</td>
+<td></td>
+<td>Ice Beam</td>
+</tr>
+<tr class="a">
+<td></td>
+<td>Stone Edge</td>
+<td></td>
+<td>Solar Beam</td>
+<td></td>
+<td>Venoshock</td>
+<td></td>
+<td>Rain Dance</td>
+</tr>
+<tr>
+<td></td>
+<td>Strength</td>
+<td></td>
+<td>Sunny Day</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Scald</td>
+</tr>
+<tr class="a">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Surf</td>
+</tr>
+</table>
+
+<h3><a name ="move">Move-Move Guidelines</a></h3>
+
+<p>These moves appear on more than 5% of fully-evolved Pok&eacute;mon (i.e. 20 or more fully-evolved Pok&eacute;mon) and are found together on over 90% of the Pok&eacute;mon that have the first. Hence, if you see the former move in a movepool, you would expect to find the latter, as well. Note that this table does not work in reverse&mdash;nearly all Pok&eacute;mon with Blizzard also have Ice Beam, but not all Pok&eacute;mon with Ice Beam have Blizzard.</p>
+
+<table class="sortable">
+<thead>
+<tr><th>Base Move</th>
+<th>Required Move</th>
+<th>Base Move</th>
+<th>Required Move</th>
+<th>Base Move</th>
+<th>Required Move</th>
+<th>Base Move</th>
+<th>Required Move</th>
+<th>Base Move</th>
+<th>Required Move</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>Air Slash</td>
+<td>Aerial Ace</td>
+<td>Counter</td>
+<td>Rock Smash</td>
+<td>Focus Energy</td>
+<td>Rock Smash</td>
+<td>Overheat</td>
+<td>Flamethrower</td>
+<td>Superpower</td>
+<td>Rock Smash</td>
+</tr>
+<tr class="a">
+<td>Ancientpower</td>
+<td>Rock Smash</td>
+<td> </td>
+<td>Strength</td>
+<td>Fury Cutter</td>
+<td>Aerial Ace</td>
+<td> </td>
+<td>Fire Blast</td>
+<td> </td>
+<td>Strength</td>
+</tr>
+<tr>
+<td>Aqua Jet</td>
+<td>Ice Beam</td>
+<td>Discharge</td>
+<td>Thunder</td>
+<td>Giga Drain</td>
+<td>Energy Ball</td>
+<td> </td>
+<td>Incinerate</td>
+<td> </td>
+<td>Rock Slide</td>
+</tr>
+<tr class="a">
+<td> </td>
+<td>Surf</td>
+<td> </td>
+<td>Thunderbolt</td>
+<td>Growl</td>
+<td>Echoed Voice</td>
+<td>Power-Up Punch</td>
+<td>Fling</td>
+<td>Swallow</td>
+<td>Stockpile</td>
+</tr>
+<tr>
+<td>Aqua Ring</td>
+<td>Hail</td>
+<td> </td>
+<td>Thunder Wave</td>
+<td>Growth</td>
+<td>Solar Beam</td>
+<td>Psyshock</td>
+<td>Psych Up</td>
+<td> </td>
+<td>Spit Up</td>
+</tr>
+<tr class="a">
+<td> </td>
+<td>Surf</td>
+<td> </td>
+<td>Charge Beam</td>
+<td> </td>
+<td>Energy Ball</td>
+<td> </td>
+<td>Light Screen</td>
+<td>Synchronoise</td>
+<td>Shadow Ball</td>
+</tr>
+<tr>
+<td> </td>
+<td>Ice Beam</td>
+<td>Dragon Claw</td>
+<td>Hone Claws</td>
+<td> </td>
+<td>Grass Knot</td>
+<td> </td>
+<td>Psychic</td>
+<td>Synthesis</td>
+<td>Energy Ball</td>
+</tr>
+<tr class="a">
+<td> </td>
+<td>Blizzard</td>
+<td>Dragon Tail</td>
+<td>Rock Smash</td>
+<td>Hail</td>
+<td>Ice Beam</td>
+<td> </td>
+<td>Flash</td>
+<td> </td>
+<td>Grass Knot</td>
+</tr>
+<tr>
+<td>Aqua Tail</td>
+<td>Surf</td>
+<td>Earth Power</td>
+<td>Bulldoze</td>
+<td> </td>
+<td>Blizzard</td>
+<td>Razor Leaf</td>
+<td>Energy Ball</td>
+<td> </td>
+<td>Solar Beam</td>
+</tr>
+<tr class="a">
+<td>Blizzard</td>
+<td>Ice Beam</td>
+<td> </td>
+<td>Earthquake</td>
+<td>Hammer Arm</td>
+<td>Brick Break</td>
+<td> </td>
+<td>Grass Knot</td>
+<td> </td>
+<td>Nature Power</td>
+</tr>
+<tr>
+<td>Brick Break</td>
+<td>Rock Smash</td>
+<td> </td>
+<td>Rock Smash</td>
+<td> </td>
+<td>Rock Smash</td>
+<td> </td>
+<td>Solar Beam</td>
+<td> </td>
+<td>Flash</td>
+</tr>
+<tr class="a">
+<td>Brine</td>
+<td>Surf</td>
+<td> </td>
+<td>Rock Slide</td>
+<td> </td>
+<td>Strength</td>
+<td> </td>
+<td>Flash</td>
+<td>Thunder</td>
+<td>Thunderbolt</td>
+</tr>
+<tr>
+<td> </td>
+<td>Ice Beam</td>
+<td> </td>
+<td>Rock Tomb</td>
+<td> </td>
+<td>Fling</td>
+<td> </td>
+<td>Nature Power</td>
+<td>Thunderbolt</td>
+<td>Thunder</td>
+</tr>
+<tr class="a">
+<td> </td>
+<td>Hail</td>
+<td> </td>
+<td>Stone Edge</td>
+<td> </td>
+<td>Bulldoze</td>
+<td>Reversal</td>
+<td>Rock Smash</td>
+<td>Thunder Fang</td>
+<td>Strength</td>
+</tr>
+<tr>
+<td>Bubble</td>
+<td>Scald</td>
+<td>Earthquake</td>
+<td>Bulldoze</td>
+<td> </td>
+<td>Earthquake</td>
+<td>Roar</td>
+<td>Rock Smash</td>
+<td>Torment</td>
+<td>Taunt</td>
+</tr>
+<tr class="a">
+<td> </td>
+<td>Ice Beam</td>
+<td> </td>
+<td>Rock Smash</td>
+<td> </td>
+<td>Rock Slide</td>
+<td>Rock Polish</td>
+<td>Rock Smash</td>
+<td>Trick Room</td>
+<td>Psychic</td>
+</tr>
+<tr>
+<td> </td>
+<td>Surf</td>
+<td> </td>
+<td>Strength</td>
+<td> </td>
+<td>Rock Tomb</td>
+<td> </td>
+<td>Rock Tomb</td>
+<td> </td>
+<td>Psych Up</td>
+</tr>
+<tr class="a">
+<td>Bubble Beam</td>
+<td>Scald</td>
+<td>Ember</td>
+<td>Fire Blast</td>
+<td>Hydro Pump</td>
+<td>Surf</td>
+<td>Rock Slide</td>
+<td>Rock Tomb</td>
+<td> </td>
+<td>Flash</td>
+</tr>
+<tr>
+<td> </td>
+<td>Surf</td>
+<td> </td>
+<td>Flamethrower</td>
+<td> </td>
+<td>Blizzard</td>
+<td> </td>
+<td>Rock Smash</td>
+<td>Volt Switch</td>
+<td>Thunder Wave</td>
+</tr>
+<tr class="a">
+<td> </td>
+<td>Ice Beam</td>
+<td> </td>
+<td>Incinerate</td>
+<td> </td>
+<td>Ice Beam</td>
+<td>Rock Tomb</td>
+<td>Rock Slide</td>
+<td> </td>
+<td>Thunder</td>
+</tr>
+<tr>
+<td>Bug Bite</td>
+<td>Struggle Bug</td>
+<td> </td>
+<td>Flame Charge</td>
+<td>Ingrain</td>
+<td>Grass Knot</td>
+<td> </td>
+<td>Rock Smash</td>
+<td> </td>
+<td>Thunderbolt</td>
+</tr>
+<tr class="a">
+<td>Bug Buzz</td>
+<td>Struggle Bug</td>
+<td> </td>
+<td>Overheat</td>
+<td>Iron Head</td>
+<td>Rock Smash</td>
+<td>Roost</td>
+<td>Aerial Ace</td>
+<td>Waterfall</td>
+<td>Surf</td>
+</tr>
+<tr>
+<td> </td>
+<td>Aerial Ace</td>
+<td> </td>
+<td>Will-O-Wisp</td>
+<td>Leech Seed</td>
+<td>Energy Ball</td>
+<td>Scald</td>
+<td>Surf</td>
+<td> </td>
+<td>Ice Beam</td>
+</tr>
+<tr class="a">
+<td>Bulk Up</td>
+<td>Rock Smash</td>
+<td> </td>
+<td>Solar Beam</td>
+<td> </td>
+<td>Grass Knot</td>
+<td> </td>
+<td>Ice Beam</td>
+<td> </td>
+<td>Blizzard</td>
+</tr>
+<tr>
+<td> </td>
+<td>Strength</td>
+<td>False Swipe</td>
+<td>Swords Dance</td>
+<td> </td>
+<td>Solar Beam</td>
+<td>Scratch</td>
+<td>Cut</td>
+<td>Water Gun</td>
+<td>Surf</td>
+</tr>
+<tr class="a">
+<td> </td>
+<td>Brick Break</td>
+<td>Fire Blast</td>
+<td>Flamethrower</td>
+<td> </td>
+<td>Flash</td>
+<td> </td>
+<td>Hone Claws</td>
+<td> </td>
+<td>Ice Beam</td>
+</tr>
+<tr>
+<td> </td>
+<td>Rock Slide</td>
+<td> </td>
+<td>Incinerate</td>
+<td> </td>
+<td>Nature Power</td>
+<td>Sludge Wave</td>
+<td>Sludge Bomb</td>
+<td> </td>
+<td>Scald</td>
+</tr>
+<tr class="a">
+<td>Bulldoze</td>
+<td>Rock Smash</td>
+<td>Fire Fang</td>
+<td>Strength</td>
+<td>Low Sweep</td>
+<td>Fling</td>
+<td>Smack Down</td>
+<td>Rock Slide</td>
+<td>Water Pulse</td>
+<td>Surf</td>
+</tr>
+<tr>
+<td> </td>
+<td>Earthquake</td>
+<td> </td>
+<td>Rock Smash</td>
+<td> </td>
+<td>Brick Break</td>
+<td>Spit Up</td>
+<td>Stockpile</td>
+<td> </td>
+<td>Ice Beam</td>
+</tr>
+<tr class="a">
+<td>Chip Away</td>
+<td>Fling</td>
+<td>Fire Spin</td>
+<td>Fire Blast</td>
+<td> </td>
+<td>Rock Smash</td>
+<td> </td>
+<td>Swallow</td>
+<td>Water Sport</td>
+<td>Ice Beam</td>
+</tr>
+<tr>
+<td> </td>
+<td>Rock Slide</td>
+<td> </td>
+<td>Flamethrower</td>
+<td> </td>
+<td>Power-Up Punch</td>
+<td>Steel Wing</td>
+<td>Roost</td>
+<td> </td>
+<td>Surf</td>
+</tr>
+<tr class="a">
+<td> </td>
+<td>Rock Smash</td>
+<td> </td>
+<td>Incinerate</td>
+<td> </td>
+<td>Focus Blast</td>
+<td> </td>
+<td>Aerial Ace</td>
+<td>Wing Attack</td>
+<td>Aerial Ace</td>
+</tr>
+<tr>
+<td> </td>
+<td>Rock Tomb</td>
+<td> </td>
+<td>Will-O-Wisp</td>
+<td>Magical Leaf</td>
+<td>Flash</td>
+<td>Stockpile</td>
+<td>Swallow</td>
+<td> </td>
+<td>Roost</td>
+</tr>
+<tr class="a">
+<td> </td>
+<td>Strength</td>
+<td> </td>
+<td>Overheat</td>
+<td> </td>
+<td>Grass Knot</td>
+<td> </td>
+<td>Spit up</td>
+<td> </td>
+<td>Steel Wing</td>
+</tr>
+<tr>
+<td> </td>
+<td>Brick Break</td>
+<td> </td>
+<td>Solar Beam</td>
+<td>Metal Claw</td>
+<td>Hone Claws</td>
+<td>Stomp</td>
+<td>Strength</td>
+<td>Worry Seed</td>
+<td>Energy Ball</td>
+</tr>
+<tr class="a">
+<td>Close Combat</td>
+<td>Retaliate</td>
+<td>Flame Charge</td>
+<td>Flamethrower</td>
+<td> </td>
+<td>Aerial Ace</td>
+<td>Stone Edge</td>
+<td>Rock Smash</td>
+<td> </td>
+<td>Grass Knot</td>
+</tr>
+<tr>
+<td> </td>
+<td>Rock Smash</td>
+<td> </td>
+<td>Fire Blast</td>
+<td> </td>
+<td>Rock Smash</td>
+<td> </td>
+<td>Rock Slide</td>
+<td> </td>
+<td>Solar Beam</td>
+</tr>
+<tr class="a">
+<td> </td>
+<td>Strength</td>
+<td> </td>
+<td>Incinerate</td>
+<td>Mist</td>
+<td>Ice Beam</td>
+<td> </td>
+<td>Rock Tomb</td>
+<td> </td>
+<td>Leech Seed</td>
+</tr>
+<tr>
+<td>Confusion</td>
+<td>Flash</td>
+<td> </td>
+<td>Overheat</td>
+<td>Muddy Water</td>
+<td>Surf</td>
+<td> </td>
+<td>Strength</td>
+<td> </td>
+<td>Flash</td>
+</tr>
+<tr class="a">
+<td> </td>
+<td>Psychic</td>
+<td> </td>
+<td>Will-O-Wisp</td>
+<td> </td>
+<td> </td>
+<td>Strength</td>
+<td>Rock Smash</td>
+<td> </td>
+<td>Nature Power</td>
+</tr>
+<tr>
+<td> </td>
+<td>Psych Up</td>
+<td> </td>
+<td>Solar Beam</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr> </tbody>
+</table>
+
+<hr />
+
+<h2><a name ="example">Example</a></h2>
+
+<p>Below is an example movepool for Talonflame. It shows how each of its moves fit into its movepool.</p>
+
+<h3><a name ="talonflame">Talonflame's Movepool</a></h3>
+<table class="sortable">
+<thead>
+<tr>
+<th colspan="6" style="text-align: center;">Talonflame's Movepool</th>
+</tr>
+</thead>
+<tbody>
+<tr><th style="text-align: center;">Level-Up List</th><th colspan="2" style="text-align: center;">TM List</th><th style="text-align: center;">Egg Moves</th></tr>
+<tr> <td> 1. Brave Bird </td> <td> TM01 Hone Claws </td> <td> TM44 Rest </td> <td> Quick Guard </td> </tr>
+<tr class="a"> <td> 1. Flare Blitz </td> <td> TM06 Toxic </td> <td> TM45 Attract </td> <td> Snatch </td> </tr>
+<tr> <td> 1. Tackle </td> <td> TM08 Bulk Up </td> <td> TM46 Thief </td> <td> Tailwind </td> </tr>
+<tr class="a"> <td> 1. Growl </td> <td> TM10 Hidden Power </td> <td> TM48 Round </td> <td>  </td> </tr>
+<tr> <td> 6. Quick Attack </td> <td> TM11 Sunny Day </td> <td> TM50 Overheat </td> <td>  </td> </tr>
+<tr class="a"> <td> 10. Peck </td> <td> TM12 Taunt </td> <td> TM51 Steel Wing </td> <td>  </td> </tr>
+<tr> <td> 13. Agility </td> <td> TM15 Hyper Beam </td> <td> TM59 Incinerate </td> <td>  </td> </tr>
+<tr class="a"> <td> 16. Flail </td> <td> TM17 Protect </td> <td> TM61 Will-O-Wisp </td> <td>  </td> </tr>
+<tr> <td> 17. Ember </td> <td> TM19 Roost </td> <td> TM62 Acrobatics </td> <td>  </td> </tr>
+<tr class="a"> <td> 25. Roost </td> <td> TM21 Frustration </td> <td> TM68 Giga Impact </td> <td>  </td> </tr>
+<tr> <td> 27. Razor Wind </td> <td> TM22 Solar Beam </td> <td> TM75 Swords Dance </td> <td>  </td> </tr>
+<tr class="a"> <td> 31. Natural Gift </td> <td> TM27 Return </td> <td> TM87 Swagger </td> <td> </td> </tr>
+<tr> <td> 39. Flame Charge </td> <td> TM32 Double Team </td> <td> TM88 Sleep Talk </td> <td> </td> </tr>
+<tr class="a"> <td> 44. Acrobatics </td> <td> TM89 U-turn </td> <td> TM65 Shadow Claw </td> <td> </td> </tr>
+<tr> <td> 48. Me First </td> <td> TM38 Fire Blast </td> <td> TM90 Substitute </td> <td> </td> </tr>
+<tr class="a"> <td> 55. Tailwind </td> <td> TM100 Confide </td> <td> TM68 Giga Impact </td> <td> </td> </tr>
+<tr> <td> 60. Steel Wing </td> <td> TM42 Facade </td> <td> HM02 Fly </td> <td> </td> </tr>
+<tr class="a"> <td> 64. Brave Bird </td> <td> TM43 Flame Charge </td> <td> </td> <td> </td> </tr>
+</tbody>
+</table>
+
+<p>Talonflame has 50 total moves (seven moves are found twice) in its movepool, 24 of which are Restricted Moves, such that it conforms fairly to the general rule of having half of the moves in a movepool be RMs. It can clearly be seen from the above lists that the reason Talonflame is highly competitive, at least in terms of its movepool, is its level-up pool, which features everything it really needs to be successful, with only a few competitive TMs, such as Swords Dance and U-turn, not being found on the level-up list. Note that Talonflame's BSR is around 250, and hence it sits roughly between "Above Average" and "Good" in terms of its BSR; hence, if Talonflame were a CAP, it would be allowed a far more expansive movepool. The reason that Talonflame is competitively viable in its current state is its Gale Wings ability, and the movepool is nothing particularly exceptional, barring high-powered STAB moves. This, then, is a good example of a successful Pok&eacute;mon with a limited movepool.</p>

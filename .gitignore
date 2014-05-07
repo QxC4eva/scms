@@ -19,11 +19,5 @@ $RECYCLE.BIN/
 *.DS_Store
 .Trashes
 
-# tup bullshit
-.tup
-
-# SQLite
-*.db
-
 # sprite sheets
 sprites/sheets/

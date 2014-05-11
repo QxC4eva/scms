@@ -371,3 +371,21 @@ pokemon:
     - [Rock]
     weight: [320]
     evolvesFrom: [Arceus]
+
+  Arceus-Dragon:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Rock]
+    weight: [320]
+    evolvesFrom: [Arceus]

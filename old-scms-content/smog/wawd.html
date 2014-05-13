@@ -13,7 +13,7 @@ What Are We Doing?
 	{{isCurrentIssue()}}
 	<div class="article">
 		<a target="_blank" href="{{url}}">
-			<div class="article {{className}}">
+			<div class="article {{className()}}">
 				<div class="stage"><span>{{stage}}</span></div>
 				<div class="title">{{title}}</div>
 				<div class="section">{{section}}</div>
@@ -49,7 +49,7 @@ What Are We Doing?
 			};
 			//----/options-----
 
-			var Article = function(){};
+			var Article = function(){ this.url = '#'; this.title = ''; this.section = 'Unown'; this.stage = 'Unown'; this.stageInt = -1; };
 			Article.prototype.currentIssue = Infinity;
 			Article.prototype.isCurrentIssue = function(){
 				return this.currentIssue === this.issueNumber;
@@ -91,7 +91,7 @@ What Are We Doing?
 					article.stage    = e.querySelector('.prefixPrimary').innerHTML;
 					article.stageInt = stageMap[article.stage];
 				} catch(ex) {
-					err=e;
+					err = e;
 				}
 
 				return article;
@@ -125,7 +125,7 @@ What Are We Doing?
 				template:'#wawdTemplate',
 				el:'#wawd',
 				data:articles
-			})
+			});
 		})();
 	//]]>
 </script>

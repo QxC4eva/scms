@@ -73,8 +73,8 @@ What Are We Doing?
 				var sections = title.split(/[\[\]]/g);
 
 				if(sections.length > 1){
-					components.section     = getSectionName(section[1].split('-')[1]);
-					components.issueNumber = getSectionName(section[1].split('-')[0]);
+					components.section     = getSectionName(sections[1].split('-')[1]);
+					components.issueNumber = parseInt(sections[1].split('-')[0]);
 					components.title = sections[2];
 				} else {
 					components.title = sections[0];
@@ -118,7 +118,7 @@ What Are We Doing?
 							//remove images before loading the html
 							data = data.replace(/src\=\"/gi, "\"");
 							//these are the prefixes for wip, grammar, html, images and done
-							$(data).find('.prefix21,.prefix73,.prefix62,.prefix81,.prefix87').not('.sticky,.deleted').each(function(){
+							$(data).find('.prefix21,.prefix73,.prefix62,.prefix81,.prefix87').not('.sticky,.deleted,.locked').each(function(){
 								article = parseElement(this);
 								if(article.issueNumber < Article.prototype.currentIssue) { Article.prototype.currentIssue = article.issueNumber; }
 								articles.push(article);

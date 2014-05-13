@@ -25,8 +25,14 @@ What Are We Doing?
 
 <script type="text/javascript">
 	//<![CDATA[
+		var articles = [];
+		var wawdRactive = new Ractive({
+			template:'#wawdTemplate',
+			el:'#wawd',
+			data:articles
+		});
+
 		(function(){
-			var articles = [];
 			var err;
 
 			//----options-----
@@ -120,12 +126,6 @@ What Are We Doing?
 					});
 				})(i);
 			}
-
-			var wawdRactive = new Ractive({
-				template:'#wawdTemplate',
-				el:'#wawd',
-				data:articles
-			});
 		})();
 	//]]>
 </script>

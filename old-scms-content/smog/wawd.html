@@ -10,17 +10,19 @@ What Are We Doing?
 </div>
 
 <script id="wawdTemplate" type="text/ractive">
-	{{#isCurrentIssue()}}
-	<div class="article">
-		<a target="_blank" href="{{url}}">
-			<div class="article {{className()}}">
-				<div class="stage"><span>{{stage}}</span></div>
-				<div class="title">{{title}}</div>
-				<div class="section">{{section}}</div>
-			</div>
-		</a>
-	</div>
-	{{/isCurrentIssue()}}
+	{{#articles}}
+		{{#isCurrentIssue()}}
+		<div class="article">
+			<a target="_blank" href="{{url}}">
+				<div class="article {{className()}}">
+					<div class="stage"><span>{{stage}}</span></div>
+					<div class="title">{{title}}</div>
+					<div class="section">{{section}}</div>
+				</div>
+			</a>
+		</div>
+		{{/isCurrentIssue()}}
+	{{/articles}}
 </script>
 
 <script type="text/javascript">
@@ -30,7 +32,7 @@ What Are We Doing?
 			var wawdRactive = new Ractive({
 				template:'#wawdTemplate',
 				el:'#wawd',
-				data:articles
+				data:{ articles : articles }
 			});
 
 			//----options-----

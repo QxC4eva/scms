@@ -53,7 +53,7 @@ What Are We Doing?
 			};
 			//----/options-----
 
-			var Article = function(){ this.url = '#'; this.title = ''; this.section = 'Unown'; this.stage = 'Unown'; this.stageInt = -1; };
+			var Article = function(){ this.url = '#'; this.title = ''; this.section = 'Unown'; this.stage = 'Unown'; this.stageInt = -1; this.issueNumber = Infinity; };
 			Article.prototype.currentIssue = Infinity;
 			Article.prototype.isCurrentIssue = function(){
 				return this.currentIssue === this.issueNumber;
@@ -94,6 +94,7 @@ What Are We Doing?
 					article.section  = titleComponents.section;
 					article.stage    = e.querySelector('.prefixPrimary').innerHTML;
 					article.stageInt = stageMap[article.stage];
+					article.issueNumber = titleComponents.issueNumber;
 				} catch(ex) {
 					err = e;
 				}

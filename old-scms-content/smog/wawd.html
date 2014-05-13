@@ -10,7 +10,7 @@ What Are We Doing?
 </div>
 
 <script id="wawdTemplate" type="text/ractive">
-	{{isCurrentIssue()}}
+	{{#isCurrentIssue()}}
 	<div class="article">
 		<a target="_blank" href="{{url}}">
 			<div class="article {{className()}}">
@@ -25,15 +25,13 @@ What Are We Doing?
 
 <script type="text/javascript">
 	//<![CDATA[
-		var articles = [];
-		var wawdRactive = new Ractive({
-			template:'#wawdTemplate',
-			el:'#wawd',
-			data:articles
-		});
-
 		(function(){
-			var err;
+			var articles = [];
+			var wawdRactive = new Ractive({
+				template:'#wawdTemplate',
+				el:'#wawd',
+				data:articles
+			});
 
 			//----options-----
 			var baseUrl = '/forums/forums/80/page-';

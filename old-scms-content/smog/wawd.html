@@ -2,113 +2,140 @@
 What Are We Doing?
 
 [Page]
-<div id="information">
-</div>
-
-<div id="article-list">
+<p>
+	This page requires javascript and access to the Article Workshop. Be sure you're logged in.
+</p>
+<div id="wawd">
 	Loading...
 </div>
 
+<script id='wawdTemplate' type='text/ractive'>
+	{{isCurrentIssue()}}
+	<div class="article">
+		<a target="_blank" href="{{url}}">
+			<div class="article {{className}}">
+				<div class="stage"><span>{{stage}}</span></div>
+				<div class="title">{{title}}</div>
+				<div class="section">{{section}}</div>
+			</div>
+		</a>
+	</div>
+	{{/isCurrentIssue()}}
+</script>
+
+
 [Head]
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="http://cdn.ractivejs.org/latest/ractive.min.js"></script>
 <script type="text/javascript">
 	//<![CDATA[
-		var wawd = new (function(){
-			var self = this;
+		(function(){
+			var articles = [];
+			var err;
 
-			self.fetch = function(callback) {
-				var maxPages = 2;
-				var completed = 0;
-				var baseUrl = '/forums/forums/80/page-';
-				var raw = [];
+			//----options-----
+			var baseUrl = '/forums/forums/80/page-';
+			var maxPages = 2;
+			var sectionMap = {
+				G  : 'General',
+				M  : 'Metagame',
+				BS : 'Battling Strategy',
+				E  : 'Entertainment',
+				AR : 'Arts & Recreation',
+				OF : 'Other Features'
+			};
+			var stageMap = {
+				WIP     : 0,
+				Grammar : 1,
+				HTML    : 2,
+				Images  : 3,
+				Done    : 4
+			};
+			//----/options-----
 
-				for(var i = 1; i <= maxPages; i++) {
-					(function(index){
-						$.ajax({
-							url:baseUrl + index,
-							cache:false,
-							dataFilter:function(data){
-								data = data.replace(/src\=\"/gi, "\"");
-								$(data).find('.prefix21,.prefix73,.prefix62,.prefix81,.prefix87').not('.sticky,.deleted').each(function(){
-									raw.push($(this));
-								});
-							},
-							error:function(){
-								$('#information').html($('#information').html()+'<br/>Error fetching page ' + index);
-							},
-							complete:function(){
-								completed++;
-								if(completed === maxPages){
-									callback(raw);
-								}
-							}
-						});
-					})(i);
+			var Article = function(){};
+			Article.prototype.currentIssue = Infinity;
+			Article.prototype.isCurrentIssue = function(){
+				return this.currentIssue === this.issueNumber;
+			};
+			Article.prototype.className = function(){
+				return this.section.replace('/ /g', '-').replace(/\&/g,'and').toLowerCase() + ' ' + this.stage.toLowerCase();
+			};
+
+			function getSectionName(shorthand){
+				return sectionMap.hasOwnProperty(shorthand) ? sectionMap[shorthand] : 'Unown';
+			};
+
+			function parseTitle(title) {
+				var components = {};
+				var sections = title.split(/[\[\]]/g);
+
+				if(sections.length > 1){
+					components.section     = getSectionName(section[1].split('-')[1]);
+					components.issueNumber = getSectionName(section[1].split('-')[0]);
+					components.title = sections[2];
+				} else {
+					components.title = sections[0];
+					components.section = 'Unown';
+					components.issueNumber = Infinity;
 				}
+
+				return components;
 			};
 
-			self.parse = function(rawData, callback) {
-				var errs = 0;
-				var articles = [];
-				var sections = {
-				G:'General',
-				M:'Metagame',
-				BS:'Battling Strategy',
-				E:'Entertainment',
-				AR:'Arts & Recreation',
-				OF:'Other Features'
-			};
+			function parseElement(e){
+				var article = new Article();
 
-			for(var i = 0; i < rawData.length; i++) {
-				try{
-					var threadUrl = '/forums/' + $('a[data-previewurl]', rawData[i]).attr('href');
-					var titleData = $('a[data-previewurl]', rawData[i]).text().split(/[\[\]]/g);
-					var section = sections[titleData[1].split('-')[1]];
+				try {
+					var titleComponents = parseTitle(e.querySelector('.title [data-previewurl]').innerHTML);
 
-					articles.push({
-						stage:$.trim($('.prefixPrimary',rawData[i]).text()),
-						title:$.trim(titleData[2]),
-						section:$.trim(section),
-						url:threadUrl
-					});
+					article.url      = '/forums/threads/' + e.id.replace('thread-', '');
+					article.title    = titleComponents.title;
+					article.section  = titleComponents.section;
+					article.stage    = e.querySelector('.prefixPrimary').innerHTML;
+					article.stageInt = stageMap[article.stage];
 				} catch(ex) {
-					console.log(ex);
-					errs++;
+					err=e;
 				}
+
+				return article;
+			};
+
+			
+
+			//load pages
+			var minIssue, article;
+			for(var i = 1; i <= maxPages; i++) {
+				//create a closure to prevent some strange async errors
+				(function(index){
+					$.ajax({
+						url:baseUrl + index,
+						cache:false,
+						dataFilter:function(data){
+							//remove images before loading the html
+							data = data.replace(/src\=\"/gi, "\"");
+							//these are the prefixes for wip, grammar, html, images and done
+							$(data).find('.prefix21,.prefix73,.prefix62,.prefix81,.prefix87').not('.sticky,.deleted').each(function(){
+								article = parseElement(this);
+								if(article.issueNumber < minIssue) { minIssue = article.issueNumber; }
+								articles.push(article);
+							});
+						}
+					});
+				})(i);
 			}
 
-			if(errs > 0)
-			$('#information').html($('#information').html('There were ' + errs + ' errors.'));
-
-				callback(articles);
-			};
-
-			self.display = function(articles) {
-				prepared = '';
-				articles.sort(function(a,b){
-					return (a.stage > b.stage) ? 1 : (a.stage == b.stage) ? 0 : -1;
-				});
-				for(var i = 0; i < articles.length; i++) {
-					prepared += '<a target="_blank" href="' + articles[i].url + '"><div class="article ' + articles[i].section.replace(/ /gi,'-').replace(/\&/g,'and').toLowerCase() + ' ' + articles[i].stage.toLowerCase() + '"><div class="stage"><span>' + articles[i].stage + '</span></div><div class="title">' + articles[i].title + '</div><div class="section">' + articles[i].section + '</div></div></a>';
-				}
-				$('#article-list').html(prepared);
-			};
+			var wawdRactive = new Ractive({
+				template:'#wawdTemplate',
+				el:'#wawd',
+				data:articles
+			})
 		})();
-
-		if(!$){location.reload();}
-
-		$(function(){
-			wawd.fetch(function(r){
-				wawd.parse(r, function(a){
-					wawd.display(a);
-				});
-			});
-		});
 	//]]>
 </script>
 
 <style type="text/css">
-	#article-list { border:1px solid #CCC; border-width:1px 0; margin-left:16px; }
+	#wawd { border:1px solid #CCC; border-width:1px 0; margin-left:16px; }
 	.article { padding:2px; color:#333; }
 	.article:hover { background-color:#608; color:white; }
 	.article div { display:inline-block; }

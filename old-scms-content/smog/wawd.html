@@ -104,7 +104,7 @@ What Are We Doing?
 			
 
 			//load pages
-			var minIssue, article;
+			var article;
 			for(var i = 1; i <= maxPages; i++) {
 				//create a closure to prevent some strange async errors
 				(function(index){
@@ -117,7 +117,7 @@ What Are We Doing?
 							//these are the prefixes for wip, grammar, html, images and done
 							$(data).find('.prefix21,.prefix73,.prefix62,.prefix81,.prefix87').not('.sticky,.deleted').each(function(){
 								article = parseElement(this);
-								if(article.issueNumber < minIssue) { minIssue = article.issueNumber; }
+								if(article.issueNumber < Article.prototype.currentIssue) { Article.prototype.currentIssue = article.issueNumber; }
 								articles.push(article);
 							});
 						}

@@ -2,7 +2,7 @@
 What Are We Doing?
 
 [Page]
-<p>
+<p class="js-warning">
 	This page requires javascript and access to the Article Workshop. Be sure you're logged in.
 </p>
 <div id="wawd">
@@ -14,7 +14,7 @@ What Are We Doing?
 		{{#isCurrentIssue()}}
 		<div class="article">
 			<a target="_blank" href="{{url}}">
-				<div class="article {{className()}}">
+				<div class="article {{className(this)}}">
 					<div class="stage"><span>{{stage}}</span></div>
 					<div class="title">{{title}}</div>
 					<div class="section">{{section}}</div>
@@ -25,9 +25,12 @@ What Are We Doing?
 	{{/articles}}
 </script>
 
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="http://cdn.ractivejs.org/latest/ractive.min.js"></script>
+
 <script type="text/javascript">
 	//<![CDATA[
-		//(function(){
+		$(function(){
 			var articles = [];
 			var wawdRactive = new Ractive({
 				template:'#wawdTemplate',
@@ -60,8 +63,8 @@ What Are We Doing?
 			Article.prototype.isCurrentIssue = function(){
 				return this.currentIssue === this.issueNumber;
 			};
-			Article.prototype.className = function(){
-				return this.section.replace('/ /g', '-').replace(/\&/g,'and').toLowerCase() + ' ' + this.stage.toLowerCase();
+			Article.prototype.className = function(article){
+				return article.section.replace('/ /g', '-').replace(/\&/g,'and').toLowerCase() + ' ' + article.stage.toLowerCase();
 			};
 
 			function getSectionName(shorthand){
@@ -127,15 +130,11 @@ What Are We Doing?
 					});
 				})(i);
 			}
-		//})();
+		});
 	//]]>
 </script>
 
-[Head]
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-<script type="text/javascript" src="http://cdn.ractivejs.org/latest/ractive.min.js"></script>
-
-<style type="text/css">
+[Head]<style type="text/css">
 	#wawd { border:1px solid #CCC; border-width:1px 0; margin-left:16px; }
 	.article { padding:2px; color:#333; }
 	.article:hover { background-color:#608; color:white; }

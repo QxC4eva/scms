@@ -2,14 +2,22 @@
 What Are We Doing?
 
 [Page]
-<p class="js-warning">
-	This page requires javascript and access to the Article Workshop. Be sure you're logged in.
-</p>
 <div id="wawd">
+	This page requires javascript and access to the Article Workshop. Be sure you're logged in.<br/>
 	Loading...
 </div>
 
 <script id="wawdTemplate" type="text/ractive">
+	<div>
+		<form>
+			<label for="sort">Sort By</label>
+			<select id="sort" on-change="sort">
+				<option>Stage</option>
+				<option>Section</option>
+				<option>Title</option>
+			</select>
+		</form>
+	</div>
 	{{#articles}}
 		{{#isCurrentIssue()}}
 		<div class="article">
@@ -38,6 +46,10 @@ What Are We Doing?
 				data:{ articles : articles }
 			});
 
+			wawdRactive.on('sort', function(){
+				sortBy($('#sort').val().toLowerCase());
+			});
+
 			//----options-----
 			var baseUrl = '/forums/forums/80/page-';
 			var maxPages = 2;
@@ -58,7 +70,7 @@ What Are We Doing?
 			};
 			//----/options-----
 
-			var Article = function(){ this.url = '#'; this.title = ''; this.section = 'Unown'; this.stage = 'Unown'; this.stageInt = -1; this.issueNumber = Infinity; };
+			var Article = function(){ this.url = '#'; this.title = ''; this.section = 'Unown'; this.stage = 'Unown'; this.issueNumber = Infinity; };
 			Article.prototype.currentIssue = Infinity;
 			Article.prototype.isCurrentIssue = function(){
 				return this.currentIssue === this.issueNumber;
@@ -91,22 +103,38 @@ What Are We Doing?
 			function parseElement(e){
 				var article = new Article();
 
-				try {
-					var titleComponents = parseTitle(e.querySelector('.title [data-previewurl]').innerHTML);
+				var titleComponents = parseTitle(e.querySelector('.title [data-previewurl]').innerHTML);
 
-					article.url      = '/forums/threads/' + e.id.replace('thread-', '');
-					article.title    = titleComponents.title;
-					article.section  = titleComponents.section;
-					article.stage    = e.querySelector('.prefixPrimary').innerHTML;
-					article.stageInt = stageMap[article.stage];
-					article.issueNumber = titleComponents.issueNumber;
-				} catch(ex) {
-					err = e;
-				}
+				article.url      = '/forums/threads/' + e.id.replace('thread-', '');
+				article.title    = titleComponents.title;
+				article.section  = titleComponents.section;
+				article.stage    = e.querySelector('.prefixPrimary').innerHTML;
+				article.issueNumber = titleComponents.issueNumber;
 
 				return article;
 			};
 
+			function sortBy(prop){
+				if(prop === 'stage') {
+					articles.sort(function(a,b){
+						if(stageMap[a.stage] > stageMap[b.stage])
+							return 1;
+						else if(stageMap[a.stage] < stageMap[b.stage])
+							return -1;
+						else
+							return 0;
+					});
+				} else {
+					articles.sort(function(a,b){
+						if(stageMap[prop] > stageMap[prop])
+							return 1;
+						else if(stageMap[prop] < stageMap[prop])
+							return -1;
+						else
+							return 0;
+					});
+				}
+			};
 			
 
 			//load pages
@@ -126,6 +154,9 @@ What Are We Doing?
 								if(article.issueNumber < Article.prototype.currentIssue) { Article.prototype.currentIssue = article.issueNumber; }
 								articles.push(article);
 							});
+						},
+						complete:function(){
+							sortBy('stage');
 						}
 					});
 				})(i);

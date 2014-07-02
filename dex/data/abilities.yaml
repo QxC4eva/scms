@@ -343,9 +343,10 @@ abilities:
     description: [Cannot be confused.]
     introduction: rs
   Parental Bond:
-    description: ['Allows the Pokemon to hit twice with the same move in one turn.
+    description: 
+    - Allows the Pokemon to hit twice with the same move in one turn.
         Second hit has 0.5x base power. Does not affect Status, multihit, self-KO, or spread
-        moves (in doubles).']
+        moves (in doubles).
     introduction: xy
   Pickpocket:
     description: [The wielder immediately steals an item from an attacker using a
@@ -513,7 +514,7 @@ abilities:
   Stench:
     description:
     - Decreases wild encounter rate (no effect in battles).
-    - {bw: Adds a 10% flinch chance for moves that do not have one. Decreases wild encounter rate."
+    - bw: Adds a 10% flinch chance for moves that do not have one. Decreases wild encounter rate.
     introduction: rs
   Sticky Hold:
     description: [This Pokemon's item cannot be removed. Increases the chance of encountering

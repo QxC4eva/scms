@@ -1,84 +1,156 @@
 Overview
 ########
 
-In Shield forme, Aegislash has outstanding 60 / 150 / 150 defensive stats, allowing it to take many hits and proceed to retaliate powerfully in Blade forme. On top of its natural bulk, Aegislash has a great Steel / Ghost defensive typing, and although Steel-types no longer resist Dark- and Ghost-type moves, Aegislash resists nine types and is immune to three. Thanks to its Ghost typing, it doesn't have to worry about Fake Out, thus easing prediction on your behalf. King's Shield, Aegislash's signature move, acts like Protect by blocking attacking moves, but lets through status moves such as Will-O-Wisp and Taunt. King's Shield also halves an attacker's Attack stat when Aegislash is hit by a contact move. Aegislash has a STAB priority move in Shadow Sneak, which is beneficial in a metagame focused on Speed. Because it is so bulky, Aegislash is an ideal user of Weakness Policy, which allows it to double both its attacking stats when hit by a super effective move.
+Aegislash is one of the most dominant and influential Pokemon in OU for a good reason. Its bulk and power is nothing short of amazing, its typing is stellar, and its movepool, though small, gives it all the tools it needs to be threatening and diverse. Thanks to the Steel nerf that XY brought, Shadow Ball, backed by Aegislash's amazing base 150 Special Attack stat, is one of the most spammable moves in OU and a staple on most Aegislash sets. King's Shield allows Aegislash to cripple physical attackers that rely on contact moves and make it effectively a Pokemon with base 150 offense and defenses. Furthermore, thanks to its great bulk, power, and coverage, Aegislash can check almost any Pokemon without a super effective STAB attack against it, and even some that do have one. To top it all off, Aegislash can even take the role of a physical wallbreaker and sweeper with Swords Dance, a spinblocker with Air Balloon, and a trapper with Pursuit, all of which make it even harder to play against.
 
-Outside of switching out, King's Shield is the only way that Aegislash can change back to its bulkier Shield forme. However, the move is quite predictable and can set your other Pokemon up to be double-targeted. Furthermore, it lets status moves through, making Aegislash vulnerable to Will-O-Wisp and Taunt. The former weakens Aegislash's physical attacks and saps its HP, while the latter completely shuts it down, forcing it to switch or be KOed. Aegislash's viable movepool is small and this makes it quite predictable. A bad prediction can leave Aegislash in its frailer Blade forme, setting it up to be KOed by super effective moves, such as Fire- and Ground-type moves. Due to Aegislash's highly temperamental ability, it faces stiff competition for the role of the offensive Steel-type from Ferrothorn, Mawile, and Scizor.
+Thankfully, Aegislash does have some significant flaws that prevent it from being unbeatable. First, its low Speed means that it will almost always have to take a hit before attacking, making it very prone to any hard hitter that can hit it at least neutrally with its STAB moves, preferably ones that are unaffected by King's Shield. Second, Aegislash has very common weaknesses to Ground-, Fire-, and Dark-type moves, not to mention that the most common physical Ground-type move, Earthquake, is unaffected by King's Shield. Moving on, the prevalence of Knock Off is very troubling for Aegislash, not so much for its damage, as Aegislash can tank non-STAB Knock Offs pretty comfortably, but more because Knock Off robs it of its Leftovers, which Aegislash heavily relies on to do its job properly. Finally, even though King's Shield is a great move in Aegislash's arsenal and is essential to Aegislash's playstyle, it can often be predictable and taken advantage of with setup or status moves.
 
-Special Attacker
+Tank
 ########
-name: Special Attacker
-move 1: King's Shield
-move 2: Shadow Ball
-move 3: Flash Cannon
+name: Tank
+move 1: Shadow Ball
+move 2: King's Shield
+move 3: Shadow Sneak / Iron Head
+move 4: Sacred Sword / Iron Head / Pursuit
+ability: Stance Change
+item: Leftovers
+nature: Quiet
+evs: 244 HP / 12 Def / 252 SpA
+
+Moves
+========
+
+Shadow Ball is the single most important move of the set, possessing great power and neutral coverage, and thus being a very spammable move. King's Shield enables Aegislash to change formes and cripple physical attackers that rely on contact moves and is essential for Aegislash to become an effective tank. Shadow Sneak helps Aegislash 2HKO targets that switch in when used with Shadow Ball, as well as check offensive Pokemon. Shadow Ball + Shadow Sneak also 2HKOes Deoxys-D leads most of the time. Sacred Sword covers some of the Pokemon that resist or are immune to Shadow Ball, especially Bisharp, Tyranitar, and Mega Gyarados, OHKOing or 2HKOing all of them. Iron Head 2HKOes any Clefable variant, as it's a huge threat, and also allows Aegislash to get past Tyranitar (if not running Sacred Sword) and Sylveon. Pursuit is useful on any team that wants Latios and Latias removed, as Aegislash can easily switch into and eliminate them.
+
+Set Details
+========
+
+The EV spread lets Aegislash play to its strengths, making it a great tank that can take a lot of damage and hit back hard. 12 Def EVs are used to survive Adamant 252 Atk Landorus-T's Earthquake. Leftovers provide constant recovery and work very well with King's Shield. A Quiet nature is used to boost Aegislash's Special Attack whilst not compromising its bulk or power. Air Balloon can be used to spinblock against Excadrill if Aegislash is used on teams that rely on entry hazards, such as hyper offensive teams with Deoxys-D. Spell Tag can be used to power up both Shadow Ball and Shadow Sneak, and let Aegislash 2HKO specially defensive Hippowdon after one layer of Spikes, 2HKO Garchomp most of the time after one layer of Spikes, and OHKO Gengar with Shadow Sneak most of the time after Stealth Rock, amongst other KOs.
+
+Usage Tips
+========
+
+This set plays as a tank that can check multiple offensive Pokemon, while also being able to force a ton of switches, thanks to its good one-on-one match-ups against many Pokemon. If you realize that the opponent lacks an appropriate response to Aegislash, bring it in as fast as possible and start doing some work. If you see threats such as Latios, Deoxys-S, Breloom, and Latias, that Aegislash can check, make sure to keep Aegislash healthy enough so that it can actually check those Pokemon. If the opponent has a Bisharp, make sure to not give it a free switch in and spam Sacred Sword whenever possible in order to avoid getting into Pursuit or Knock Off mind games with Bisharp. Use King's Shield with caution, as it can give free switches to dangerous Pokemon or result in Pokemon that you thought were harmless getting free boosts (e.g., the Azumarill that you thought was locked into Waterfall using Belly Drum).
+
+Team Options
+========
+
+Teammates that can deal with Ground-types, Fire-types, and Bisharp are the most important ones. Such teammates include Keldeo, Mega Gyarados, Garchomp, and Greninja for offensive options, and Quagsire, Mega Charizard X, and Rotom-W for defensive options. Keldeo and Mega Gyarados can beat almost every single Fire- and Ground-type one on one, as well as Mandibuzz, and they are two of the best checks to Bisharp (though Gyarados prefers Moxie to take on Bisharp). Garchomp can provide Stealth Rock, check Talonflame, Mega Charizard Y, and Heatran, revenge kill Bisharp, and lure bulky Ground-types and Mandibuzz to cripple them with Toxic. Greninja struggles to switch in on anything, but it can beat most Pokemon that scare Aegislash out one-on-one if you manage to bring it in with a double switch. As for defensive teammates, Quagsire walls Mega Charizard X, Bisharp, non-Choice Band Talonflame, and most physical Ground-types, while bulky Mega Charizard X can check Mega Charizard Y, Heatran, and Bisharp, and Rotom-W can check most Ground- and Fire-types purely due to its typing advantage. If using Pursuit, Pokemon that appreciate Latios and Latias gone are good partners, so Mega Charizard Y, Landorus, and Keldeo are all good choices.
+
+SubToxic
+########
+name: SubToxic
+move 1: Shadow Ball
+move 2: King's Shield
+move 3: Toxic
 move 4: Substitute
-item: Leftovers / Weakness Policy
-evs: 252 HP / 252 SpA / 4 SpD
-nature: Quiet
-ivs: 0 Spe
+ability: Stance Change
+item: Leftovers
+nature: Modest
+evs: 244 HP / 12 Def / 252 SpA
 
 Moves
 ========
 
-This is Aegislash's most common set, and for good reason, as it isn't completely dependent on using King's Shield every other turn. When behind a Substitute, Aegislash can attack on multiple turns in succession, and by correctly using King's Shield, it can maintain Substitute due to its great natural bulk. The attacking moves on this set are Aegislash's two main special STAB options. Running a fully special set might be advisable due to the omnipresence of Will-O-Wisp and Intimidate to check many of this generation's biggest threats, thereby limiting their impact on Aegislash.
+Shadow Ball and Toxic are the main moves of this set, with Toxic covering anything that Shadow Ball can't, even including some typical counters to Aegislash's all-out attacking sets, such as Mandibuzz, Hippowdon, Zapdos, and Chesnaught. King's Shield serves a double purpose: to revert back to Shield forme and to rack up Toxic damage. Substitute protects Aegislash from the status that King's Shield can't, especially burns, and makes Aegislash more effective at Toxic stalling its foes. Sacred Sword or Iron Head can be used over Substitute, if Bisharp or Clefable are problematic for your team.
 
 Set Details
 ========
 
-Maximum investment in HP allows Aegislash in Shield forme to take just about any move other than a STAB super effective hit, while the Special Attack EVs grant it more power. A Quiet nature boosts the strength of Aegislash's special moves and lowers its Speed, allowing it to attack after the opponent and tank hits in Shield forme. Leftovers improves Aegislash's longevity and can potentially allow it to get more than four Substitutes or stop it being 2HKOed. However, Aegislash can also run Weakness Policy to pick up extra KOs at +2.
+The EV spread maximizes bulk and power, while ensuring that Aegislash avoids the OHKO from Adamant 252 Atk Landorus-T's Earthquake. The EVs can be moved from Special Attack to Speed with a Timid nature in order to avoid Will-o-Wisp from Rotom-W and Leech Seed from Mega Venusaur with Substitute, outspeed Belly Drum Azumarill and finish it off before it can KO with Waterfall, and outspeed and OHKO Adamant Bisharp with Sacred Sword if you are using it. In addition, outspeeding Pokemon such as minimum Speed Landorus-T and Excadrill can come handy in certain occasions.
 
 Usage Tips
 ========
 
-This set plays best towards the end of the match, as once Aegislash's checks and counters are removed, it can win matches by itself thanks to its great natural bulk. An ideal point to set up a Substitute is when facing Pokemon whose only means to hit Aegislash is with Sucker Punch, as this means it can get up a free Substitute unhindered. When Aegislash is behind a Substitute, King's Shield should still be used to weaken physical attackers and maintain the Substitute when appropriate, though it cannot be used twice in a row.
+Make sure to identify if any Pokemon that can tank multiple Shadow Ball hits and threaten Aegislash back exist on the opposing team. If they do, either spam Toxic to catch them as they switch in, or use Substitute if they are already affected by Toxic, and start stalling them to death by alternating between Substitute and King's Shield. If the opponent has a Bisharp, the best course of action is to either use Substitute in case it switches in, allowing Aegislash to switch out and avoid the Pursuit, or double switch to a Pokemon that can handle Bisharp. Also, make sure to keep Aegislash away from Will-O-Wisp and Knock Off at all costs, as Leftovers is essential to Aegislash's Toxic stalling strategy and it can't be done without it. Other than that, Aegislash can be used to check any threatening Pokemon with Shadow Ball, as long as it's healthy enough. With this set, Aegislash is a mix of a tank, staller, and wallbreaker, so Aegislash can focus on any of those three roles you want, depending on the game.
 
 Team Options
 ========
 
-Aegislash's main weaknesses to Fire- and Ground-type attacks are well covered by Garchomp and Rotom-W. Garchomp is better at clearing the field for Aegislash to come in later, as using Earthquake is counterproductive due to Aegislash's Steel typing. However, Rock Slide is very useful when it comes to removing Charizard from the field. Rotom-W supports Aegislash by weakening physical attackers with Will-O-Wisp and taking on many of its checks and counters with Hydro Pump and Thunderbolt. Dual screens support makes this set very hard to take down, as few attacks can break Aegislash's Substitute when it is in Shield forme. Dual screens also help to turn attacks from OHKOs and 2HKOs into 2HKOs or 3HKOs, respectively. Mega Kangaskhan has good offensive synergy with Aegislash, and can use Fake Out to help it set up a Substitute with greater ease.
+An answer to Bisharp is one of the most important concerns regarding teammates. Keldeo checks Bisharp pretty well, as does Quagsire, bulky Mega Charizard X, and Mega Gyarados (preferably with Moxie on regular Gyarados). Ways of handling Ground- and Fire-types are also needed, and thankfully, Keldeo can do this too, as can most of the aforementioned Pokemon. However, Rotom-W and Landorus-T are also fine options for checking Fire- and Ground-types that can also use their pivoting moves to give Aegislash an advantageous match-up in order to set up a Substitute. Wish support is nice to have if you can fit it on your team, as Aegislash usually takes its time to do work, and reliable healing really helps a set that relies on the use of Substitute so often and lets Aegislash stall out multiple foes. Finally, Pokemon that appreciate the weakening of the threats that Toxic Aegislash lures and weakens, such as specially defensive Hippowdon, Mandibuzz, and Chesnaught, pair well with Aegislash. Good examples of such Pokemon are Mega Charizard Y (which can 2HKO Hippowdon with Toxic damage), Mega Charizard X (Mandibuzz is much easier to get into OHKO range of +1 Flare Blitz when affected with Toxic), and Mega Gyarados (Toxic makes Chesnaught's Leech Seed + Spiky Shield stalling tactics ineffective).
 
-Mixed Attacker
+All-Out Attacker
 ########
-name: Mixed Attacker
-move 1: King's Shield
-move 2: Shadow Ball
-move 3: Flash Cannon
-move 4: Shadow Sneak / Sacred Sword
-item: Weakness Policy
-evs: 252 HP / 4 Atk / 252 SpA
-nature: Quiet
-ivs: 0 Spe
+name: All-Out Attacker
+move 1: Shadow Ball
+move 2: Shadow Sneak
+move 3: Sacred Sword
+move 4: Flash Cannon / Pursuit
+ability: Stance Change
+item: Life Orb
+nature: Hasty / Naive
+evs: 4 Atk / 252 SpA / 252 Spe
 
 Moves
 ========
 
-King's Shield is a must on all sets to allow Aegislash to capitalize on both its offensive and defensive stats. The move also allows Aegislash to halve an opponent's Attack when it is hit by a contact move. Shadow Ball and Flash Cannon are this set's main attacking moves. Shadow Sneak allows Aegislash to finish off faster weakened opponents, though the move is risky as it changes Aegislash into Blade forme at the start of the turn. Aegislash can run Sacred Sword instead, allowing it to attain perfect coverage in tandem with its Ghost-type moves.
+Shadow Ball is Aegislash's most dangerous move, and the one that should be used most of the time, with anything else used to support this move. Flash Cannon 2HKOes Mandibuzz (100% of the time with the help of Stealth Rock), Tyranitar, Diggersby, and Chesnaught, and 2HKOes even Clefable with one Calm Mind boost, allowing Aegislash to act as a reliable check to it. Shadow Sneak 2HKOes many Pokemon in combination with Aegislash's other moves, and can also be used to check offensive Pokemon. Lastly, Sacred Sword OHKOes Bisharp, 2HKOes Chansey and Mega Gyarados (the former with Stealth Rock up), 2HKOes specially defensive Heatran in combination with Shadow Ball, and always 2HKOes physically defensive Tyranitar in combination with Shadow Ball and Stealth Rock, while OHKOing any other variant. Pursuit is an option over Sacred Sword for any team that wants Latios and Latias eliminated. King's Shield lets Aegislash stay in after KOing something, giving it more staying power, and can also check physical attackers that rely on contact moves to harm Aegislash, such as Talonflame, Mega Scizor, and Azumarill. However, King's Shield should be used with minimum Speed and max Attack, as Aegislash benefits more from moving second than first. With Attack investment, Iron Head also becomes a viable option in order to check Clefable regardless of Calm Mind boosts, but Aegislash misses out on 2HKOing Pokemon such as Mandibuzz and Chesnaught.
 
 Set Details
 ========
 
-A Quiet nature and 0 Speed IVs ensure that Aegislash will usually move last, allowing it to tank an attack in Shield forme. Maximum investment in HP and Special Attack allows Aegislash to take many of the common super effective hits in the format and hit back hard with a boosted move. For example, Aegislash can survive a Sucker Punch from both Mega Mawile and Mega Kangaskhan as well as a Crunch or Dark Pulse from Tyranitar. After Weakness Policy is activated, Aegislash can utilize a +2 Flash Cannon or Shadow Ball to take down many of the most common Pokemon in the format and finish off weakened threats with Shadow Sneak. On the other hand, Lum Berry can be run to shield Aegislash from a status move, giving it slightly more room for error with King's Shield.
+Maximum Speed with a positive nature is used to outrun Adamant Bisharp and OHKO it with Sacred Sword, as well as most Landorus-T, Heatran, Mandibuzz, and Mega Venusaur, 2HKOing all of them before they have a chance to react. A Hasty nature is preferred as Aegislash can still check specially offensive Pokemon such as Deoxys-S, Latios, Latias, and Mega Alakazam, but a Naive nature is viable if the extra physical bulk is more valuable to your team. 4 HP / 252 Atk / 252 SpA with a Quiet nature is an alternative spread to have a stronger Shadow Sneak and Sacred Sword, and to be able to use Iron Head, which 2HKOes max HP / Bold max Def Clefable when used with Shadow Sneak. Spell Tag is an option on such a set, in order to take advantage of the fact that Aegislash will be moving last most of the time and to preserve its good bulk. However, a lot of wallbreaking power will be missed, resulting in Aegislash being unable to 2HKO specially defensive Hippowdon, Mandibuzz, and Chansey, amongst others. Air Balloon lets Aegislash spinblock against Excadrill, which is very useful for hyper offensive teams, making sure that Aegislash can protect any entry hazards that might have been set up. Checking Ground-types once is also very useful for such teams, as Garchomp, Landorus, and Excadrill can be very hard Pokemon to switch into.
 
 Usage Tips
 ========
 
-Aegislash is effective in all stages of the game due to its huge bulk and high offensive stats. This being said, Aegislash should not be brought in prematurely, as although it is bulky, it cannot shrug off multiple super effective or boosted hits. Once certain threats have been taken care of, Aegislash can run rampant through the opposing team. As a result, you will often find that Aegislash is most useful late in the game. However, if you think that the opposing team cannot deal with Aegislash, it can function as a devastating lead, severely denting opposing Pokemon and allowing the rest of your team to clean up later.
+The primary role of this Aegislash set is an early-game wallbreaker that softens up the opponent's team so that other Pokemon can clean up later. Due to this set's fantastic offensive prowess and lack of hard counters, bringing it out as fast as possible is advised, unless you need Aegislash to check a dangerous offensive threat, which shouldn't be the case anyway, as this set should be used as a wallbreaker first and foremost. It can also be used as a check to offensive Pokemon only when your primary checks are weakened or you don't want them to get weakened. You can even lead with it, as it has good match-ups against many common leads, such as Deoxys-S, Deoxys-D, and Terrakion, and can start its wallbreaking job immediately. This set can also surprise people that rely on slow or averagely fast Pokemon to check Aegislash, such as Heatran, Mega Venusaur, Mandibuzz, Landorus-T, and Bisharp, by OHKOing or 2HKOing them before they even get a chance to move, so use this to your advantage.
 
 Team Options
 ========
 
-Aegislash needs Fire- and Ground-types to be taken down before it can function successfully. Because of this, Rotom-W, Tyranitar, and Garchomp are very good partners, as they all have good bulk and can take down the Pokemon that threaten it. Fighting-types such as Scrafty, Mienshao, and Conkeldurr are also good partners that can take on Dark-types.
+This set fits well on any kind of team that appreciates having the opponent's team softened up. Basically, any team with late-game cleaners with similar checks to Aegislash is a good fit with Aegislash. Some good teammates include Mega Gyarados, as Aegislash can weaken Mega Venusaur, Mega Scizor, Ferrothorn, and Chesnaught, as well as Mega Charizard X, as Aegislash can weaken Heatran, Mandibuzz, Landorus-T, and Hippowdon, and also Deoxys-S, which cleans up games quite easily after sturdy walls have been weakened. In general, most good sweepers fit well with this set, as Aegislash can break through anything with good prediction, making it an asset to any team that struggles with breaking through defensive cores. This set can also fit in hyper offensive teams if carrying an Air Balloon, so Deoxys-D, Defiant Bisharp, and Defiant Thundurus are good teammates, the first to set up entry hazards for Aegislash to take advantage of and for it to spinblock, and the latter two for their ability to punish the Defog users that would be able to get rid of Deoxys-D's entry hazards. Lastly, a good Stealth Rock setter is appreciated in order to get certain 2HKOs, namely to 2HKO Mandibuzz with Flash Cannon, always 2HKO 252 HP Mega Venusaur with Shadow Ball or Flash Cannon, and always 2HKO Chansey with Sacred Sword. For this reason, Terrakion and Landorus-T are good teammates, and they can also check some of the Pokemon that threaten Aegislash, such as Heatran, Mega Charizard Y, Excadrill, and Garchomp.
+
+Swords Dance
+########
+name: Swords Dance
+move 1: Swords Dance
+move 2: Shadow Sneak
+move 3: Iron Head / Shadow Claw
+move 4: Sacred Sword / Head Smash
+ability: Stance Change
+item: Life Orb
+nature: Adamant
+evs: 4 HP / 252 Atk / 252 Spe
+
+Moves
+========
+
+Swords Dance allows Aegislash to wallbreak and OHKO frail offensive Pokemon with Shadow Sneak. Shadow Sneak is very useful against offensive teams, as it serves as both a strong revenge killing tool and a sweeping tool, being able to OHKO faster threats such as Thundurus, Mega Charizard Y, and Excadrill after a boost. Iron Head is Aegislash's best option against Hippowdon, OHKOing specially defensive variants at +2 with a layer of Spikes, while also being Aegislash's most reliable option against most defensive Pokemon, such as Mandibuzz, Landorus-T, Clefable, Gliscor, and Mega Venusaur. Shadow Claw is an option if you want to OHKO physically defensive Rotom-W and is also Aegislash's strongest and most reliable move against regular Gyarados, Manaphy, Keldeo, Mega Scizor, and Skarmory. Sacred Sword OHKOes Heatran and Ferrothorn, while also 2HKOing Skarmory, both after a boost, and OHKOes Bisharp and Greninja, as it is useful to hit them as they switch into Aegislash. Sacred Sword is also Aegislash's best option against Mega Gyarados. Lastly, Head Smash is able to OHKO any defensive Defog user, namely Mega Scizor, Mandibuzz, Skarmory, and Zapdos, some with Stealth Rock up, while still covering some of Aegislash's checks, such as Greninja, Mega Gyarados, Rotom-W, and Heatran.
+
+Set Details
+========
+
+Max Speed allows Aegislash to outspeed minimum Speed Mega Venusaur, Mandibuzz, Rotom-W, Excadrill, Landorus-T, Skarmory, and Heatran. A Jolly nature can be used to outspeed Adamant Bisharp and OHKO it with Sacred Sword, as well as Adamant Breloom. Spell Tag is an option if using Shadow Claw in order to preserve Aegislash's great natural bulk.
+
+Usage Tips
+========
+
+If the opponent has only one or two Pokemon that can take a +2 Shadow Sneak, it is wise to save Aegislash until late-game so that those Pokemon are weakened and Aegislash can sweep. Otherwise, just set up as soon as you get a chance and start creating some holes to the opponent's team. Keep in mind that Aegislash's Shadow Sneak is very strong, being able to OHKO Latios after Stealth Rock, so make sure to save Aegislash if you think you might need its priority. If using Head Smash, you can also sometimes lure and KO Mandibuzz, paving the way for Pokemon such as Mega Charizard X, Talonflame, and Dragonite to sweep. If you see Bisharp on the opposing team and you aren't using a Jolly nature, play very carefully, as after Aegislash uses an attack, Bisharp will be able to Pursuit trap and KO it effortlessly. Spam Sacred Sword or make double switches to avoid such situations. Finally, even though this may sound somewhat obvious, always check how much damage a +2 Shadow Sneak can do to the opponent, as if Aegislash doesn't OHKO its opponent with Shadow Sneak, it will get OHKOed in return.
+
+Team Options
+========
+
+Entry hazards are the best friends of this set, especially considering how well Aegislash is able to keep those entry hazards on the field, as it's able to OHKO every single Rapid Spin and Defog user after a boost, especially if it has Head Smash. Deoxys-D is the best candidate for this job, being able to set up both Stealth Rock and Spikes. Shuckle is another good partner, especially if Aegislash is using a Jolly nature, as with the help of Sticky Web, Aegislash can outspeed and OHKO Pokemon that could check it before, such as Keldeo, Garchomp, Jolly Tyranitar, Manaphy, and Terrakion. Aegislash also pairs well with physical sweepers that can take advantage of the holes that Aegislash creates to the opponent's team. Mega Tyranitar, Dragonite, Mega Gyarados, and Mega Charizard X all appreciate having Pokemon such as Hippowdon, Landorus-T, Skarmory, and Mega Scizor weakened or eliminated. Other good teammates are those that can check the Pokemon that give Aegislash trouble. Keldeo can deal with most Ground- and Fire-types and check Bisharp, making it a great partner, and the same goes for Mega Gyarados and Greninja.
 
 Other Options
 ########
 
-An alternative STAB option for Aegislash is Gyro Ball, which can be very strong against faster opponents. However, it is generally worse than Iron Head and Flash Cannon due to its inconsistent damage output. Rock Slide can be used, but it comes at the cost of coverage or priority, and tempts you to act recklessly against Fire-types, which hinders Aegislash's survivability. Aegislash gets Wide Guard and Destiny Bond, both of which are interesting support options. Wide Guard was buffed greatly this generation, as it no longer fails when used in succession. Wide Guard blocks Heat Wave and Earthquake, two of the most threatening moves to Aegislash, whereas Destiny Bond can be used to take down an opposing Pokemon. However, this may be difficult given Aegislash's low Speed stat. Head Smash is a powerful single-target move that provides additional coverage, but induces heavy recoil and suffers from the same problems as Rock Slide does. Hidden Power Ice can be used as well, but the move is very situational and is most likely a waste of a moveslot due to its low Base Power. Minimum Speed isn't a requirement, and with some investment, Aegislash can outspeed Mawile and Azumarill. However, Speed investment can be risky as it means that Aegislash might need to tank an attack in Blade forme.
+Aegislash can use a specially based sweeping set with Autotomize and Life Orb, with Shadow Ball, Flash Cannon, and Hidden Power Ice, which should be used as a late game cleaner. A Choice Band set has a big surprise factor and can OHKO usual switch-ins such as Zapdos and Mandibuzz with Head Smash, packs a lot of revenge killing power with Shadow Sneak, and is quite strong in general, but it is very prone to getting Pursuit trapped without King's Shield. Furthermore, the speedy mixed set is often a better wallbreaker due to the ability to go mixed and switch moves. Metal Sound can be utilized on any specially based set, allowing Aegislash to beat usual checks such as specially defensive Hippowdon, specially defensive Mega Venusaur, and Mandibuzz, as Aegislash can 2HKO all of them after the Special Defense drop, meaning that they can no longer slowly wear it down while healing.
 
-Checks and Counters
+Checks & Counters
 ########
 
-**Strong Super Effective Moves**: Super effective hits from Fire-, Ground-, and Dark-type Pokemon will either 2HKO or OHKO Aegislash in Shield forme, and definitely OHKO it in Blade forme. Mega Charizard Y can OHKO Aegislash with a sun-boosted Overheat, and with some bulk investment, doesn't take too much damage from Shadow Ball.
+**Dark-types**: Most Dark-type Pokemon can handle Aegislash pretty well, resisting its main STAB move and hitting it for super effective damage with their own STAB attacks. Mandibuzz is a hard counter to the tank set and can check all other sets, but it doesn't like any variant with Toxic, Flash Cannon, or Head Smash, as all of those can get past Mandibuzz one way or another. Krookodile can check any set except the mixed set with Flash Cannon, as most Aegislash sets can't 2HKO physically defensive Krookodile, while Krookodile can 2HKO back with either STAB move, and it also has Earthquake to avoid King's Shield's effect, and has Knock Off to cut down on Aegislash's longevity. Bisharp and Umbreon fear nothing from specially based sets other than Sacred Sword, and Umbreon straight up loses to Swords Dance sets while Bisharp can still check the Swords Dance set if it is faster. Mega Gyarados, Mega Tyranitar, Greninja, Crawdaunt, Mega Absol, and Hydreigon all resist Shadow Ball and can hit Aegislash hard with STAB Dark-type moves, so they make for good or situational checks, depending on how well they can tank multiple Shadow Ball hits and how much they fear Sacred Sword. It is worth noting that Mega Gyarados resists Aegislash's STABs, so if it's not running Sacred Sword, then Mega Gyarados has an easy time against it. Regular Tyranitar can also check Aegislash, and even tank one Sacred Sword with a physically defensive spread, but can't do that much damage back, not to mention that Aegislash can lower Tyranitar's Attack stat with King's Shield. It is better to use Tyranitar as a pivot to lure the Sacred Sword and bring in something else that can threaten Aegislash more adequately.
 
-**Taunt**: Taunt renders King's Shield unusable, forcing Aegislash to switch out or tank attacks in Blade forme.
+**Fire-types**: Fire-types are usually great checks to Aegislash, especially if they have Will-O-Wisp or special Fire-type moves to avoid King's Shield's secondary effect. Heatran is the best example, having great special bulk to tank Shadow Ball, and strong Fire-type STAB moves and Will-O-Wisp to threaten Aegislash back. However, Sacred Sword 2HKOes or 3HKOes Heatran, and some Aegislash sets can outspeed specially defensive Heatran and 2HKO it before Heatran is able to do anything back, so it doesn't deal that well with Swords Dance or mixed variants. Mega Charizard Y easily OHKOes Aegislash with sun-boosted Fire Blast and can tank a few Shadow Balls with its good special bulk and access to Roost, but can't switch into Aegislash if Stealth Rock is up. Mega Charizard X is another check, especially specially bulky variants, which avoid the 2HKO from unboosted Shadow Ball and can cripple Aegislash back with Will-O-Wisp while slowly healing back to full health with Roost, or just 2HKOing Aegislash with Fire Punch. The same goes for Bulk Up Talonflame, which can beat Aegislash with the same tactic as Mega Charizard X. Other more niche Fire-types also check Aegislash, such as Entei (Sacred Fire doesn't make contact and thus doesn't activate King's Shield), Rotom-H, Volcarona, and Infernape, but most of them need Stealth Rock off of the field in order to do so, and Infernape can't even switch into Shadow Ball.
 
-**Assault Vest**: Equipped with an Assault Vest, Pokemon such as Ludicolo and Clawitzer can comfortably take Aegislash's special moves. Clawitzer can 2HKO Aegislash with a Mega Launcher-boosted Dark Pulse.
+**Ground-types**: Hippowdon is one of the best checks to Aegislash, avoiding the 2HKO from an unboosted Shadow Ball, checking even the Swords Dance sets, and being able to OHKO Aegislash's Blade forme with Earthquake, thanks to Hippowdon being slower. However, Hippowdon loathes Toxic and can get 2HKOed by the mixed set. Diggersby, Landorus-T, Excadrill, and Landorus can all do huge damage to Aegislash if not straight out OHKO it, and most of them can tank a couple of Shadow Balls, such as bulky Landorus-T, bulky Excadrill, Diggersby, who is immune to it, and bulky Garchomp. Rhyperior works similarly with Hippowdon except it doesn't have reliable recovery and is weak to Iron Head and Flash Cannon, while Quagsire can counter the Swords Dance set but loses to any set with Shadow Ball. Finally, Zygarde can tank a few Shadow Balls and either immediately threaten Aegislash or start boosting with Coil or Dragon Dance.
+
+**Specially Bulky Pokemon**: Chansey and specially defensive Sylveon hard wall any Aegislash set without Life Orb Sacred Sword and a Steel-type move respectively, but can't do any immediate damage back (none in Chansey's case), and instead can only take advantage of Aegislash by supporting their team, with moves such as Stealth Rock, Wish, and Heal Bell / Aromatherapy. Other specially defensive Pokemon that can take multiple Shadow Balls are bulky Mega Scizor, though it can get 2HKOed with very little previous damage or with a Special Defense drop from Shadow Ball, specially defensive Zapdos, though it can't do much damage back to it and loathes Toxic, specially defensive Dragonite, which hates Toxic and is weak to Stealth Rock, specially defensive Mega Venusaur, which loses if a Special Defense drop occurs, to Swords Dance sets, and to SubToxic sets if lacking Hidden Power Fire. Assault Vest users such as Conkeldurr, Amoonguss, Tangrowth, Escavalier, and Slowking also work.
+
+**Bisharp**: Bisharp deserves a special mention because it is the only Pokemon that can safely Pursuit trap Aegislash without fear of King's Shield, thanks to Defiant. In addition, Bisharp can easily switch into any of Aegislash's moves except Sacred Sword. The only things that Bisharp has to fear outside of Sacred Sword are speedy sets that can outspeed Adamant Bisharp by one point, and OHKO it with Sacred Sword if Bisharp goes for anything other than Sucker Punch.
+
+**Knock Off**: Outside of Bisharp, this move hurts Aegislash the most not because of its damage output, as Aegislash usually tanks non-STAB Knock Off hits pretty easily, but for the removal of Leftovers, which is quintessential to Aegislash's playstyle. Without Leftovers, Aegislash's survivability drops dramatically and King's Shield is no longer such a great option, not to mention that Aegislash can no longer Toxic stall effectively.
+
+**Miscellaneous**: Chesnaught can counter the tank set thanks to Bulletproof, but loses to any other set. Specially defensive Rotom-W can tank a couple of Shadow Balls, burn Aegislash, and slowly wear it down, while using Pain Split whenever necessary. However, this method is not reliable at all, as the opponent can easily switch into a Pokemon with low HP to make Rotom-W's Pain Split ineffective. Life Orb Gengar can revenge kill a slightly weakened max HP Aegislash (74.6 - 87.3%), provided that Gengar is at full health and Aegislash doesn't carry a Life Orb, as then, Shadow Sneak usually OHKOes Gengar. Pursuit users such as Tyranitar and Choice Band Scizor can trap and eliminate Aegislash variants without King's Shield, as long as they manage to get in safely.

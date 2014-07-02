@@ -915,7 +915,9 @@ items:
     description: ["Pok\xE9block ingredient. Plant in loamy soil to grow a Kelpsy plant."]
     introduction: rs
   King's Rock:
-    description: [Certain moves have an 11.7% flinch rate.]
+    description:
+    - Certain moves have an 11.7% flinch rate.
+    - {dp: Moves recieve a 10% flinch chance, if they do not have one already.}
     introduction: gs
   Kiss Cushion:
     description: [A Smoochum cushion. Place it on a mat or a desk.]

@@ -344,7 +344,7 @@ abilities:
     introduction: rs
   Parental Bond:
     description: ['Allows the Pokemon to hit twice with the same move in one turn.
-        Second hit has 0.5x base power. Does not affect Status, multihit, or spread
+        Second hit has 0.5x base power. Does not affect Status, multihit, self-KO, or spread
         moves (in doubles).']
     introduction: xy
   Pickpocket:
@@ -472,7 +472,9 @@ abilities:
     description: [Attack and Speed are halved for 5 turns.]
     introduction: dp
   Sniper:
-    description: [Critical hits do 3x damage instead of 2x.]
+    description:
+    - Critical hits do 3x damage instead of 2x.
+    - {xy: Critical hits do 2.25x damage instead of 1.5x.}
     introduction: dp
   Snow Cloak:
     description: [Evasion increases 20% in hail.]
@@ -509,7 +511,9 @@ abilities:
     description: [Speed is boosted one stage when flinched.]
     introduction: dp
   Stench:
-    description: [Decreases wild encounter rate (no effect in battles).]
+    description:
+    - Decreases wild encounter rate (no effect in battles).
+    - {bw: Adds a 10% flinch chance for moves that do not have one. Decreases wild encounter rate."
     introduction: rs
   Sticky Hold:
     description: [This Pokemon's item cannot be removed. Increases the chance of encountering

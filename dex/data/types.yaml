@@ -18,7 +18,7 @@ types:
         Steel: 0.5, Water: 1}
       xy: {Bug: 1, Dark: 0.5, Dragon: 1, Electric: 1, Fairy: 0.5, Fighting: 0.5, Fire: 1,
         Flying: 1, Ghost: 2, Grass: 1, Ground: 1, Ice: 1, Normal: 1, Poison: 1, Psychic: 2,
-        Rock: 1, Steel: 0.5, Water: 1}
+        Rock: 1, Steel: 1, Water: 1}
     introduction: gs
   Dragon:
     effectiveness:
@@ -92,7 +92,7 @@ types:
         Steel: 0.5, Water: 1}
       rb: {Bug: 1, Dragon: 1, Electric: 1, Fighting: 1, Fire: 1, Flying: 1, Ghost: 2,
         Grass: 1, Ground: 1, Ice: 1, Normal: 0, Poison: 1, Psychic: 0, Rock: 1, Water: 1}
-      xy: {Bug: 1, Dark: 1, Dragon: 1, Electric: 1, Fairy: 1, Fighting: 1, Fire: 1,
+      xy: {Bug: 1, Dark: 0.5, Dragon: 1, Electric: 1, Fairy: 1, Fighting: 1, Fire: 1,
         Flying: 1, Ghost: 2, Grass: 1, Ground: 1, Ice: 1, Normal: 0, Poison: 1, Psychic: 2,
         Rock: 1, Steel: 1, Water: 1}
     introduction: rb

@@ -1,54 +1,51 @@
 [Overview]
 
-<p>Solrock, an exceptionally odd-looking Pokemon sporting an unusual typing, has rather unattractive base stats; its best stat is its base 95 Attack stat, which even in NU is mediocre without a boost. It's cursed with bad Speed, and doesn't have the defenses to compensate for it, making it only usable under Trick Room. It can also Baton Pass Rock Polish boosts, although it faces direct competition from Ninjask in this role. All in all, Solrock is not a great Pokemon by any means, but it has a small niche in NU to make it stand out.</p>
+<p>Solrock's mediocre base stats and common weaknesses leave it unable to shine in NU. It is mostly outclassed by fellow Rock-types Golem and Regirock, which are stronger and bulkier. However, some perks do give Solrock a niche; it is best used as a dual screens user on hyper offensive teams, being one of the few Pokemon that can set up screens and Stealth Rock. Alternatively, Solrock can be fit onto teams that want to take advantage of its typing and Levitate to check top threats including Charizard, Kangaskhan, and Tauros, in addition to useful moves such as Will-O-Wisp and Morning Sun.</p>
 
-[SET] 
-name: Trick Room 
-move 1: Trick Room 
-move 2: Stealth Rock / Explosion 
-move 3: Stone Edge / Zen Headbutt 
-move 4: Earthquake / Zen Headbutt 
-item: Leftovers / Focus Sash 
-nature: Brave 
-evs: 252 HP / 252 Atk / 4 Def 
-ivs: 0 Spe
-
-[SET COMMENTS]
-
-<p>The main goal of this set is for Solrock to set up Trick Room and possibly Stealth Rock, and then switch out. However, Solrock can accomplish more if you so desire. Stone Edge and Earthquake provide amazing neutral coverage, and allow Solrock to take advantage of the Trick Room that is set up. However, Zen Headbutt is a fine option that gains a STAB boost and hits the multitude of Fighting- and Poison-types in NU, such as Sawk, Gurdurr, and Vileplume, a lot harder. Explosion is another fine option to hit an opponent hard, and lets you bring in a teammate for free to take advantage of Trick Room. It should be used over Stealth Rock if you don't intend to lead with Solrock or you have another Stealth Rock user.</p>
-
-[ADDITIONAL COMMENTS]
-
-<p>The EV spread gives Solrock maximum power as well as a good amount of bulk, while a Brave nature and 0 Speed IV allow it to function more effectively under Trick Room. Focus Sash is the preferred item for a dedicated lead Solrock, but Leftovers has more general use, and gives increased longevity if Solrock doesn't function as your team's lead.</p>
-
-<p>Slow Pokemon that flourish under the effects of Trick Room are fantastic partners for Solrock, as they can make use of the support that it brings. Good examples of these Pokemon include Exeggutor, Musharna, Gigalith, and Gurdurr, and the latter synergizes well with Solrock. Alas, Solrock is completely ruined by Taunt, so ways around Pokemon such as Misdreavus, Skuntank, and Hypno are recommended. A hard-hitting attacker that requires no setup is good for dealing with them, such as Charizard.</p>
-
-[SET] 
-name: Rock Polish + Baton Pass 
-move 1: Rock Polish 
-move 2: Baton Pass 
-move 3: Stone Edge / Rock Slide 
-move 4: Earthquake 
-item: Leftovers 
-nature: Impish 
-evs: 252 HP / 28 Def / 228 Spe
+[SET]
+name: Dual Screens
+move 1: Stealth Rock
+move 2: Reflect
+move 3: Light Screen
+move 4: Explosion
+item: Light Clay
+ability: Levitate
+nature: Jolly
+evs: 252 HP / 4 Atk / 252 Spe
 
 [SET COMMENTS]
 
-<p>At first glance, it might seem that Solrock has nothing over other users of Rock Polish such as Camerupt, but all that changes with Solrock's access to Baton Pass. Although it faces direct competition from Ninjask as a passer of Speed boosts, Solrock sports better bulk and far superior coverage. This specific set boasts the ability to lure out and escape from its counters, avoiding Pursuit from the like of Skuntank. Stone Edge provides Solrock with a way of using the boost itself, and is a powerful STAB move, although Rock Slide provides more accuracy at the cost of significant power. Earthquake rounds out the set, providing crucial coverage to beat foes such as Skuntank, Muk, and Probopass.</p>
+<p>Solrock has a unique combination of Stealth Rock, dual screens, Explosion, and a decent typing. With its decent Speed and access to these moves, Solrock can fit into hyper offensive teams by quickly setting up the necessary moves without losing momentum. At the same time, the frail setup sweepers on hyper offensive teams appreciate the insurance provided by dual screens to set up.</p>
+
+<p>Stealth Rock is an extremely useful entry hazard to wear down opponents for Solrock's teammates to sweep more easily. When playing with Solrock, it is better to use Stealth Rock early in the game and the screens during mid- to late-game. This is because Solrock does not have time to set up all three at once. It is also better to have the entry hazards up early to weaken the opponent's team from the start and then set up dual screens mid-game when the opponent's team is ready to be swept by a teammate. After Steath Rock and dual screens are set up, Solrock can use Explosion to weaken opponents further and provide a free switch-in to a setup sweeper.</p>
 
 [ADDITIONAL COMMENTS]
 
-<p>228 Speed EVs allow Solrock to outrun all of unboosted NU after a single Rock Polish, including Ninjask, and outpace max Speed Torterra before a Rock Polish. The remaining EVs aim to increase Solrock's bulk as much as possible to ensure that it gets the Baton Pass off. Leftovers contributes to Solrock's overall longevity, and can help it pass Substitutes to a teammate, if that floats your boat. However, Solrock must give up significant coverage if it chooses to do so. Likewise, Solrock can also Baton Pass Iron Defense boosts, which is perfect for a Pokemon such as Charizard, which has decent special bulk to compliment the boost.</p>
+<p>Solrock can utilize Magic Coat to block Taunt, but it does not have a spare moveslot because the four moves listed give Solrock its niche. As teammates, powerful and frail setup sweepers appreciate the insurance provided by dual screens. Swords Dance Pinsir, Belly Drum Linoone, and Swords Dance Zangoose are excellent teammates for this reason. Because Solrock's support fits hyper offensive teams, offensive Pokemon that consistently pressure the opponent to weaken each other's checks and counters are good Pokemon for hyper offense.</p>
 
-<p>Good teammates for this set are those that can take advantage of a Rock Polish boost. Samurott is a great choice, because although it is by no means slow, it sometimes lacks the Speed to defeat offensive teams. Torkoal synergizes well with Solrock as it resists Grass-type moves that Solrock will fall to, and Solrock returns the favor by being immune to Ground-type attacks. Exeggutor is also a good candidate for Rock Polish boosts, although it shares a few weaknesses with Solrock. This set is somewhat more difficult to Taunt due to the increase in Speed, so Solrock can escape from Skuntank before it uses Taunt.</p>
+[SET]
+name: Defensive
+move 1: Stealth Rock
+move 2: Will-O-Wisp
+move 3: Morning Sun
+move 4: Rock Slide
+item: Leftovers
+ability: Levitate
+nature: Careful
+evs: 252 HP / 4 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>Solrock's almost unique typing, ability, and access to Morning Sun and Will-O-Wisp allow it to function as a decent defensive Pokemon in NU. Despite the lack of defensive investment, Solrock can actually still check several Normal- and Flying-types, including Swellow and Kangaskhan, thanks to its Rock typing and Levitate. In addition, Solrock can check most Fire-types, most notably Charizard. Stealth Rock allows Solrock to support its teammates by wearing down opponents; it can set them up on the Normal- and Flying-types that it wall. Will-O-Wisp is a useful move to cripple physical attackers and wear down opponents. Morning Sun is a reliable recovery move that allows Solrock to continuously switch into opponents. These two moves set Solrock apart from other Rock-types. Finally, Rock Slide is Solrock's STAB move to defeat the likes of Charizard and Swellow.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A specially defensive set is recommended as it allows Solrock to take any hit from Choice Specs Charizard at full health. Physically defensive spreads are generally done better by the physically bulkier Regirock, but they can be considered. Solrock can utilize Baton Pass to escape Pursuit trappers and bring teammates in safely, but because it is illegal with Morning Sun, that is not recommended. Magic Coat can be considered to deflect Taunt and entry hazards, but Solrock hardly has a spare moveslot and loses to most entry hazard users anyway. Roselia is a decent teammate for Solrock as they share decent defensive synergy and can both set up entry hazards to support the team.</p>
 
 [Other Options]
 
-<p>Solrock has a wide array of support options that it can make use of. It can set up dual screens, but is outclassed in this by Serperior, which has an arguably better typing, higher Speed, and greater bulk. Explosion is not as powerful as it was back in DPP, but it is still usable. Will-O-Wisp can be an option to cripple physical attackers and instead invest in Special Defense, but it's generally not worth giving up a moveslot for. Solrock can also use Baton Pass to pass both Calm Mind and Cosmic Power boosts, but at that point you should be using Lunatone instead, as it can make better use of the boosts before they get to the intended receiver. Gravity is a niche move that gives Stone Edge perfect accuracy, but it replaces Solrock's Ground immunity with a weakness, and it is generally gimmicky. A Choice Band set could see some use, but Solrock is neither fast enough nor strong enough to pull it off feasibly.</p>
+<p>Solrock can potentially run an offensive set with moves such as Zen Headbutt, Stone Edge, and Earthquake, but such a set is often done better by the likes of Golem and Rampardos. Similarly, while Solrock has a decent special movepool comprising Psychic, Earth Power, and Fire Blast, a horrendous Special Attack stat makes this unviable. Solrock can potentially run a full Baton Pass set with boosting moves such as Rock Polish and Cosmic Power. Other gimmicky but interesting options in Solrock's movepool include Sunny Day, Trick Room, and Gravity, although they are often better done by other Pokemon.</p>
 
 [Checks and Counters]
 
-<p>Solrock has plenty of counters, as it is not particularly threatening. Alomomola sponges all of Solrock's attacks, and brings it to its death with Waterfall. Exeggutor is able to come in on a Trick Room, outspeed, and KO with its STAB Grass-type moves. Speedy Pokemon that utilize U-turn, such as Swellow and Braviary, are a thorn in Solrock's side, as Solrock is weak to Bug, and faster users of U-turn can't be hit. Skuntank outspeeds Solrock as well, and can use Taunt to disrupt its setup, use Sucker Punch as it tries to attack with Earthquake, or use Pursuit as it tries to flee, hitting it for massive damage. Misdreavus is also a good answer to Solrock: aside from boasting Taunt, it can use Will-O-Wisp to limit Solrock's offensive potential, or hit it hard with STAB Shadow Ball.</p>
-
-<p>Baton Pass sets are slightly harder to counter, as Solrock becomes ridiculously fast after a Rock Polish. However, Choice Scarf Braviary still outspeeds it after a Rock Polish, and can severely damage Solrock with U-turn while avoiding a Stone Edge or Rock Slide. +1 Ninjask can outspeed Solrock as well, and will do a good amount of damage with X-Scissor before succumbing to either Stone Edge or Rock Slide.</p>
+<p>Ground-types do a good job at stopping Solrock as they resist every common move that it runs; Seismitoad gets a special mention because it does not fear burns from Will-O-Wisp as much and has a super effective Water-type STAB. Special attacking Samurott can do a huge chunk of damage to Solrock without fearing Will-O-Wisp, as do most other Water-types. Misdreavus is another good counter as it is immune to Explosion and has Taunt to shut down Solrock. Speaking of which, Pokemon with Taunt can do an admirable job at shutting down Solrock because it rarely invests EVs in Attack. Gurdurr, particularly Guts variants, can switch into Solrock and defeat it with Drain Punch. Exeggutor also does a good job at beating Solrock, especially LumRest variants that shrug off burns. RestTalk users can use Solrock as setup fodder; Klang is a perfect example because it resists every move Solrock commonly runs. As for checks, strong attackers such as Choice Band Sawk can OHKO Solrock, assuming it has not set up screens or used Will-O-Wisp.</p>

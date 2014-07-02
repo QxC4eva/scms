@@ -1,0 +1,81 @@
+pokemon:
+  Giratina:
+    abilities:
+    - [Pressure]
+    - bw: [Pressure, Telepathy]
+    egggroups:
+    - []
+    height: [4.5]
+    introduction: dp
+    moves:
+    - bw: [Aerial Ace, Ancient Power, Aqua Tail, Aura Sphere, Bulldoze, Calm Mind,
+        Charge Beam, Cut, Dark Pulse, Destiny Bond, Double Team, Draco Meteor, Dragon
+          Claw, Dragon Pulse, Dragon Tail, Dragon Breath, Dream Eater, Earth Power,
+        Earthquake, Echoed Voice, Energy Ball, Facade, Fly, Frustration, Giga Impact,
+        Gravity, Hex, Hone Claws, Hyper Beam, Hyper Voice, Icy Wind, Iron Head, Iron
+          Tail, Ominous Wind, Outrage, Pain Split, Payback, Protect, Psych Up, Psychic,
+        Rain Dance, Rest, Return, Roar, Rock Smash, Round, Safeguard, Scary Face,
+        Shadow Ball, Shadow Claw, Shadow Force, Shadow Sneak, Slash, Sleep Talk, Snore,
+        Spite, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Telekinesis,
+        Thunder, Thunder Wave, Thunderbolt, Toxic, Will-O-Wisp, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - dp: [Aerial Ace, Air Cutter, Ancient Power, Aqua Tail, Aura Sphere, Calm Mind,
+        Charge Beam, Cut, Dark Pulse, Defog, Destiny Bond, Double Team, Draco Meteor,
+        Dragon Claw, Dragon Pulse, Dragon Breath, Dream Eater, Earth Power, Earthquake,
+        Endure, Energy Ball, Facade, Fly, Frustration, Fury Cutter, Giga Impact, Gravity,
+        Headbutt, Heal Block, Hyper Beam, Icy Wind, Iron Head, Iron Tail, Mud-Slap,
+        Natural Gift, Ominous Wind, Outrage, Pain Split, Payback, Protect, Psych Up,
+        Psychic, Rain Dance, Rest, Return, Roar, Rock Climb, Rock Smash, Safeguard,
+        Scary Face, Secret Power, Shadow Ball, Shadow Claw, Shadow Force, Shadow Sneak,
+        Shock Wave, Silver Wind, Slash, Sleep Talk, Snore, Spite, Steel Wing, Stone
+          Edge, Strength, Substitute, Sunny Day, Swagger, Swift, Thunder, Thunder
+          Wave, Thunderbolt, Toxic, Twister, Will-O-Wisp, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Aerial Ace, Air Cutter, Ancient Power, Aqua Tail, Aura Sphere, Bulldoze,
+        Calm Mind, Charge Beam, Cut, Dark Pulse, Defog, Destiny Bond, Double Team,
+        Draco Meteor, Dragon Breath, Dragon Claw, Dragon Pulse, Dragon Tail, Dream
+          Eater, Earth Power, Earthquake, Echoed Voice, Endure, Energy Ball, Facade,
+        Fly, Frustration, Fury Cutter, Giga Impact, Gravity, Headbutt, Heal Block,
+        Hex, Hone Claws, Hyper Beam, Icy Wind, Iron Head, Iron Tail, Magic Coat, Mud-Slap,
+        Natural Gift, Ominous Wind, Outrage, Pain Split, Payback, Protect, Psychic,
+        Psych Up, Rain Dance, Rest, Return, Roar, Rock Climb, Rock Smash, Round, Safeguard,
+        Scary Face, Secret Power, Shadow Ball, Shadow Claw, Shadow Force, Shadow Sneak,
+        Shock Wave, Silver Wind, Slash, Sleep Talk, Snore, Spite, Steel Wing, Stone
+          Edge, Strength, Substitute, Sunny Day, Swagger, Swift, Tailwind, Telekinesis,
+        Thunder, Thunderbolt, Thunder Wave, Toxic, Twister, Will-O-Wisp, Hyper Voice,
+        Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [150, 100, 120, 100, 120, 90]
+    tags:
+    - [Uber]
+    types:
+    - [Dragon, Ghost]
+    weight: [750]
+  Giratina-Origin:
+    abilities:
+    - [Levitate]
+    egggroups:
+    - []
+    evolvesFrom: [Giratina]
+    height: [6.9]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [150, 120, 100, 120, 100, 90]
+    tags:
+    - [Uber]
+    types:
+    - [Dragon, Ghost]
+    weight: [650]

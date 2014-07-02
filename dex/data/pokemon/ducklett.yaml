@@ -1,0 +1,56 @@
+pokemon:
+  Ducklett:
+    abilities:
+    - [Big Pecks, Hydration, Keen Eye]
+    egggroups:
+    - [Flying, Water 1]
+    height: [0.5]
+    introduction: bw
+    moves:
+    - bw: [Aerial Ace, Air Cutter, Air Slash, Aqua Ring, Attract, Brave Bird, Brine,
+        Bubble Beam, Defog, Dive, Double Team, Endeavor, Facade, Feather Dance, Fly,
+        Frustration, Gust, Hail, Hurricane, Ice Beam, Icy Wind, Lucky Chant, Me First,
+        Mirror Move, Pluck, Protect, Rain Dance, Rest, Return, Roost, Round, Scald,
+        Sleep Talk, Snore, Steel Wing, Substitute, Surf, Swagger, Tailwind, Toxic,
+        Uproar, Water Gun, Water Pulse, Water Sport, Wing Attack, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - xy: [Aerial Ace, Air Cutter, Air Slash, Aqua Ring, Attract, Brave Bird, Brine,
+        Bubble Beam, Defog, Dive, Double Team, Facade, Feather Dance, Fly, Frustration,
+        Gust, Hail, Hurricane, Ice Beam, Lucky Chant, Me First, Mirror Move, Pluck,
+        Protect, Rain Dance, Rest, Return, Roost, Round, Scald, Steel Wing, Substitute,
+        Surf, Swagger, Tailwind, Toxic, Water Gun, Water Pulse, Water Sport, Wing
+          Attack, Uproar, Icy Wind, Snore, Endeavor, Sleep Talk, Confide, Mud Sport,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [62, 44, 50, 44, 50, 55]
+    tags:
+    - [LC]
+    types:
+    - [Flying, Water]
+    weight: [5.5]
+  Swanna:
+    abilities:
+    - [Big Pecks, Hydration, Keen Eye]
+    egggroups:
+    - [Flying, Water 1]
+    evolvesFrom: [Ducklett]
+    height: [1.3]
+    introduction: bw
+    moves:
+    - bw: [Giga Impact, Hyper Beam, Sky Attack]
+    - xy: [Giga Impact, Hyper Beam, Sky Attack]
+    stats:
+    - [75, 87, 63, 87, 63, 98]
+    tags:
+    - [NU]
+    types:
+    - [Flying, Water]
+    weight: [24.2]

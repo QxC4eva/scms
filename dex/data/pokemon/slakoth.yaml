@@ -1,0 +1,118 @@
+pokemon:
+  Slaking:
+    abilities:
+    - [Truant]
+    egggroups:
+    - [Ground]
+    evolvesFrom: [Vigoroth]
+    height: [2]
+    introduction: rs
+    moves:
+    - bw: [Block, Giga Impact, Hyper Beam, Punishment, Quash, Smack Down]
+    - dp: [Block, Giga Impact, Hyper Beam, Punishment]
+    - rs: [Hyper Beam]
+    - xy: [Block, Giga Impact, Hyper Beam, Punishment, Quash, Smack Down]
+    stats:
+    - [150, 160, 100, 95, 65, 100]
+    tags:
+    - [BL]
+    - dp: [NU]
+    types:
+    - [Normal]
+    weight: [130.5]
+  Slakoth:
+    abilities:
+    - [Truant]
+    egggroups:
+    - [Ground]
+    height: [0.8]
+    introduction: rs
+    moves:
+    - bw: [Aerial Ace, After You, Amnesia, Attract, Blizzard, Body Slam, Brick Break,
+        Bulk Up, Chip Away, Counter, Covet, Crush Claw, Curse, Cut, Double Team, Encore,
+        Facade, Feint Attack, Fire Blast, Fire Punch, Flail, Flamethrower, Fling,
+        Frustration, Gunk Shot, Hammer Arm, Hone Claws, Ice Beam, Ice Punch, Incinerate,
+        Night Slash, Protect, Pursuit, Rain Dance, Rest, Retaliate, Return, Rock Slide,
+        Rock Smash, Rock Tomb, Round, Scratch, Shadow Ball, Shadow Claw, Slack Off,
+        Slash, Sleep Talk, Snore, Solar Beam, Strength, Substitute, Sunny Day, Swagger,
+        Thunder, Thunderbolt, Thunder Punch, Tickle, Toxic, Work Up, Yawn, Double-Edge,
+        Mimic, Seismic Toss, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - dp: [Aerial Ace, Amnesia, Attract, Blizzard, Body Slam, Brick Break, Bulk Up,
+        Captivate, Counter, Covet, Crush Claw, Curse, Cut, Double Team, Encore, Endure,
+        Facade, Feint Attack, Fire Blast, Fire Punch, Flail, Flamethrower, Fling,
+        Focus Punch, Frustration, Fury Cutter, Gunk Shot, Hammer Arm, Headbutt, Ice
+          Beam, Ice Punch, Mud-Slap, Natural Gift, Night Slash, Protect, Pursuit,
+        Rain Dance, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Scratch, Secret
+          Power, Shadow Ball, Shadow Claw, Shock Wave, Slack Off, Slash, Sleep Talk,
+        Snore, Solar Beam, Strength, Substitute, Sucker Punch, Sunny Day, Swagger,
+        Thunder, Thunderbolt, Thunder Punch, Toxic, Water Pulse, Yawn, Double-Edge,
+        Mimic, Seismic Toss, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Amnesia, Attract, Blizzard, Body Slam, Brick Break, Bulk Up,
+        Counter, Covet, Crush Claw, Curse, Cut, Double Team, Dynamic Punch, Encore,
+        Endure, Facade, Feint Attack, Fire Blast, Fire Punch, Flail, Flamethrower,
+        Focus Punch, Frustration, Fury Cutter, Ice Beam, Ice Punch, Mega Kick, Mega
+          Punch, Mud-Slap, Protect, Pursuit, Rain Dance, Rest, Return, Rock Slide,
+        Rock Smash, Scratch, Secret Power, Shadow Ball, Shock Wave, Slack Off, Slash,
+        Sleep Talk, Snore, Solar Beam, Strength, Substitute, Sunny Day, Swagger, Thunder,
+        Thunderbolt, Thunder Punch, Toxic, Water Pulse, Yawn, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Aerial Ace, After You, Amnesia, Attract, Blizzard, Body Slam, Brick Break,
+        Bulk Up, Captivate, Chip Away, Counter, Covet, Crush Claw, Curse, Cut, Double-Edge,
+        Double Team, Dynamic Punch, Encore, Endure, Facade, Feint Attack, Fire Blast,
+        Fire Punch, Flail, Flamethrower, Fling, Focus Punch, Frustration, Fury Cutter,
+        Gunk Shot, Hammer Arm, Headbutt, Hone Claws, Ice Beam, Ice Punch, Icy Wind,
+        Incinerate, Mega Kick, Mega Punch, Mimic, Mud-Slap, Natural Gift, Night Slash,
+        Protect, Pursuit, Rain Dance, Rest, Retaliate, Return, Rock Slide, Rock Smash,
+        Rock Tomb, Round, Scratch, Secret Power, Seismic Toss, Shadow Ball, Shadow
+          Claw, Shock Wave, Slack Off, Slash, Sleep Talk, Snore, Solar Beam, Strength,
+        Substitute, Sucker Punch, Sunny Day, Swagger, Thunder, Thunderbolt, Thunder
+          Punch, Tickle, Toxic, Water Pulse, Work Up, Yawn, Power-Up Punch, Confide,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [60, 60, 60, 35, 35, 30]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Normal]
+    weight: [24]
+  Vigoroth:
+    abilities:
+    - [Vital Spirit]
+    - bw: [Vital Spirit]
+    egggroups:
+    - [Ground]
+    evolvesFrom: [Slakoth]
+    height: [1.4]
+    introduction: rs
+    moves:
+    - bw: [Bulldoze, Earthquake, Endure, Focus Blast, Focus Energy, Focus Punch, Fury
+          Swipes, Low Kick, Low Sweep, Reversal, Roar, Taunt, Uproar]
+    - dp: [Earthquake, Focus Blast, Focus Energy, Fury Swipes, Low Kick, Reversal,
+        Roar, Rock Climb, Taunt, Uproar]
+    - rs: [Earthquake, Focus Energy, Fury Swipes, Reversal, Roar, Taunt, Uproar]
+    - xy: [Bulldoze, Earthquake, Focus Blast, Focus Energy, Fury Swipes, Low Kick,
+        Low Sweep, Reversal, Roar, Rock Climb, Taunt, Uproar]
+    stats:
+    - [80, 80, 80, 55, 55, 90]
+    tags:
+    - [NFE]
+    - dp: [NU]
+    types:
+    - [Normal]
+    weight: [46.5]

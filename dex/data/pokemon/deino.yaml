@@ -1,0 +1,81 @@
+pokemon:
+  Deino:
+    abilities:
+    - [Hustle]
+    egggroups:
+    - [Dragon]
+    height: [0.8]
+    introduction: bw
+    moves:
+    - bw: [Aqua Tail, Assurance, Astonish, Attract, Bite, Body Slam, Crunch, Dark
+          Pulse, Double Hit, Double Team, Draco Meteor, Dragon Pulse, Dragon Rage,
+        Dragon Rush, Dragon Tail, Dragon Breath, Earth Power, Facade, Fire Fang, Focus
+          Energy, Frustration, Head Smash, Headbutt, Hyper Voice, Ice Fang, Incinerate,
+        Outrage, Protect, Psych Up, Rain Dance, Rest, Return, Roar, Rock Smash, Round,
+        Scary Face, Screech, Slam, Sleep Talk, Snore, Spite, Strength, Substitute,
+        Sunny Day, Superpower, Swagger, Tackle, Taunt, Thief, Thunder Fang, Thunder
+          Wave, Torment, Toxic, Uproar, Work Up, Zen Headbutt, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Assurance, Astonish, Attract, Bite, Body Slam, Crunch, Dark Pulse, Double
+          Hit, Double Team, Draco Meteor, Dragon Breath, Dragon Pulse, Dragon Rage,
+        Dragon Rush, Dragon Tail, Earth Power, Facade, Fire Fang, Focus Energy, Frustration,
+        Headbutt, Head Smash, Hyper Voice, Ice Fang, Incinerate, Outrage, Protect,
+        Psych Up, Rain Dance, Rest, Return, Roar, Rock Smash, Round, Scary Face, Screech,
+        Slam, Strength, Substitute, Sunny Day, Swagger, Tackle, Taunt, Thief, Thunder
+          Fang, Thunder Wave, Torment, Toxic, Work Up, Uproar, Superpower, Aqua Tail,
+        Zen Headbutt, Snore, Spite, Sleep Talk, Confide, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [52, 65, 50, 45, 50, 38]
+    tags:
+    - [UU, LC]
+    types:
+    - [Dark, Dragon]
+    weight: [17.3]
+  Hydreigon:
+    abilities:
+    - [Levitate]
+    egggroups:
+    - [Dragon]
+    evolvesFrom: [Zweilous]
+    height: [1.8]
+    introduction: bw
+    moves:
+    - bw: [Acrobatics, Bulldoze, Charge Beam, Earthquake, Echoed Voice, Fire Blast,
+        Flamethrower, Flash Cannon, Fly, Focus Blast, Giga Impact, Heat Wave, Hyper
+          Beam, Iron Tail, Payback, Reflect, Rock Slide, Rock Tomb, Roost, Signal
+          Beam, Stone Edge, Surf, Tailwind, Tri Attack, U-turn]
+    - xy: [Acrobatics, Bulldoze, Charge Beam, Earthquake, Echoed Voice, Fire Blast,
+        Flamethrower, Flash Cannon, Fly, Focus Blast, Giga Impact, Hyper Beam, Payback,
+        Reflect, Rock Slide, Rock Tomb, Stone Edge, Surf, Tri Attack, U-turn, Signal
+          Beam, Iron Tail, Heat Wave, Tailwind, Roost, Steel Wing]
+    stats:
+    - [92, 105, 90, 125, 90, 98]
+    tags:
+    - [OU]
+    types:
+    - [Dark, Dragon]
+    weight: [160]
+  Zweilous:
+    abilities:
+    - [Hustle]
+    egggroups:
+    - [Dragon]
+    evolvesFrom: [Deino]
+    height: [1.4]
+    introduction: bw
+    moves:
+    - []
+    stats:
+    - [72, 85, 70, 65, 70, 58]
+    tags:
+    - [NU]
+    types:
+    - [Dark, Dragon]
+    weight: [50]

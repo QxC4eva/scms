@@ -1,0 +1,70 @@
+pokemon:
+  Cherrim:
+    abilities:
+    - [Flower Gift]
+    egggroups:
+    - [Fairy, Plant]
+    evolvesFrom: [Cherubi]
+    height: [0.5]
+    introduction: dp
+    moves:
+    - bw: [Giga Impact, Hyper Beam, Petal Dance]
+    - dp: [Giga Impact, Hyper Beam, Petal Dance]
+    - xy: [Giga Impact, Hyper Beam, Petal Dance]
+    stats:
+    - [70, 60, 70, 87, 78, 85]
+    tags:
+    - [NU]
+    types:
+    - [Grass]
+    weight: [9.3]
+  Cherubi:
+    abilities:
+    - [Chlorophyll]
+    egggroups:
+    - [Fairy, Plant]
+    height: [0.4]
+    introduction: dp
+    moves:
+    - bw: [Aromatherapy, Attract, Defense Curl, Double Team, Energy Ball, Facade,
+        Flash, Frustration, Giga Drain, Grass Knot, Grass Whistle, Growth, Heal Pulse,
+        Healing Wish, Helping Hand, Leech Seed, Lucky Chant, Magical Leaf, Morning
+          Sun, Natural Gift, Nature Power, Protect, Razor Leaf, Rest, Return, Rollout,
+        Round, Safeguard, Seed Bomb, Sleep Talk, Snore, Solar Beam, Substitute, Sunny
+          Day, Swagger, Sweet Scent, Swords Dance, Synthesis, Tackle, Take Down, Tickle,
+        Toxic, Weather Ball, Worry Seed, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Aromatherapy, Attract, Bullet Seed, Captivate, Double Team, Endure, Energy
+          Ball, Facade, Flash, Frustration, Giga Drain, Grass Knot, Grass Whistle,
+        Growth, Helping Hand, Leech Seed, Lucky Chant, Magical Leaf, Natural Gift,
+        Nature Power, Protect, Razor Leaf, Rest, Return, Rollout, Safeguard, Secret
+          Power, Seed Bomb, Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day,
+        Swagger, Sweet Scent, Swords Dance, Synthesis, Tackle, Take Down, Tickle,
+        Toxic, Weather Ball, Worry Seed, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Aromatherapy, Attract, Bullet Seed, Captivate, Defense Curl, Double Team,
+        Endure, Energy Ball, Facade, Flash, Frustration, Giga Drain, Grass Knot, Grass
+          Whistle, Growth, Healing Wish, Heal Pulse, Helping Hand, Leech Seed, Lucky
+          Chant, Magical Leaf, Morning Sun, Natural Gift, Nature Power, Protect, Razor
+          Leaf, Rest, Return, Rollout, Round, Safeguard, Secret Power, Seed Bomb,
+        Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day, Swagger, Sweet Scent,
+        Swords Dance, Synthesis, Tackle, Take Down, Tickle, Toxic, Weather Ball, Worry
+          Seed, Petal Blizzard, Dazzling Gleam, Confide, Flower Shield, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [45, 35, 45, 62, 53, 35]
+    tags:
+    - [LC]
+    types:
+    - [Grass]
+    weight: [3.3]

@@ -1,0 +1,126 @@
+pokemon:
+  Dusclops:
+    abilities:
+    - [Pressure]
+    - bw: [Pressure]
+      xy: [Pressure, Frisk]
+    egggroups:
+    - [Indeterminate]
+    evolvesFrom: [Duskull]
+    height: [1.6]
+    introduction: rs
+    moves:
+    - bw: [Bind, Brick Break, Bulldoze, Earthquake, Fire Punch, Giga Impact, Hyper
+          Beam, Ice Punch, Rock Slide, Rock Smash, Rock Tomb, Shadow Punch, Strength,
+        Thunder Punch, Seismic Toss]
+    - dp: [Bind, Brick Break, Earthquake, Fire Punch, Focus Punch, Giga Impact, Hyper
+          Beam, Ice Punch, Mud-Slap, Rock Slide, Rock Smash, Rock Tomb, Shadow Punch,
+        Strength, Thunder Punch, Seismic Toss]
+    - rs: [Bind, Counter, Dynamic Punch, Earthquake, Fire Punch, Focus Punch, Hyper
+          Beam, Ice Punch, Mega Kick, Mega Punch, Metronome, Mud-Slap, Rock Slide,
+        Rock Smash, Rock Tomb, Shadow Punch, Strength, Thunder Punch]
+    - xy: [Bind, Brick Break, Bulldoze, Counter, Dynamic Punch, Earthquake, Fire Punch,
+        Focus Punch, Giga Impact, Hyper Beam, Ice Punch, Mega Kick, Mega Punch, Metronome,
+        Mud-Slap, Rock Slide, Rock Smash, Rock Tomb, Seismic Toss, Shadow Punch, Strength,
+        Sucker Punch, Thunder Punch, Power-Up Punch]
+    stats:
+    - [40, 70, 130, 60, 130, 25]
+    tags:
+    - [BL]
+    - bw: [UU]
+      dp: [NU]
+    types:
+    - [Ghost]
+    weight: [30.6]
+  Dusknoir:
+    abilities:
+    - [Pressure]
+    - xy: [Pressure, Frisk]
+    egggroups:
+    - [Indeterminate]
+    evolvesFrom: [Dusclops]
+    height: [2.2]
+    introduction: dp
+    moves:
+    - bw: [Focus Blast]
+    - dp: [Focus Blast]
+    - xy: [Focus Blast]
+    stats:
+    - [45, 100, 135, 65, 135, 45]
+    tags:
+    - [OU]
+    - bw: [RU]
+    types:
+    - [Ghost]
+    weight: [106.6]
+  Duskull:
+    abilities:
+    - [Levitate]
+    - bw: [Levitate]
+      xy: [Levitate, Frisk]
+    egggroups:
+    - [Indeterminate]
+    height: [0.8]
+    introduction: rs
+    moves:
+    - bw: [Astonish, Attract, Blizzard, Calm Mind, Charge Beam, Confuse Ray, Curse,
+        Dark Pulse, Destiny Bond, Disable, Double Team, Dream Eater, Embargo, Facade,
+        Feint Attack, Flash, Fling, Foresight, Frustration, Future Sight, Gravity,
+        Grudge, Hex, Ice Beam, Imprison, Leer, Mean Look, Memento, Night Shade, Ominous
+          Wind, Pain Split, Payback, Protect, Psych Up, Psychic, Pursuit, Rain Dance,
+        Rest, Return, Round, Shadow Ball, Shadow Sneak, Skill Swap, Sleep Talk, Snatch,
+        Snore, Spite, Substitute, Sunny Day, Swagger, Taunt, Telekinesis, Thief, Torment,
+        Toxic, Trick, Trick Room, Will-O-Wisp, Wonder Room, Body Slam, Double-Edge,
+        Helping Hand, Mimic, Nightmare, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Astonish, Attract, Blizzard, Calm Mind, Captivate, Charge Beam, Confuse
+          Ray, Curse, Dark Pulse, Destiny Bond, Disable, Double Team, Dream Eater,
+        Embargo, Endure, Facade, Feint Attack, Flash, Fling, Foresight, Frustration,
+        Future Sight, Gravity, Grudge, Headbutt, Ice Beam, Imprison, Leer, Mean Look,
+        Memento, Natural Gift, Night Shade, Ominous Wind, Pain Split, Payback, Protect,
+        Psych Up, Psychic, Pursuit, Rain Dance, Rest, Return, Secret Power, Shadow
+          Ball, Shadow Sneak, Skill Swap, Sleep Talk, Snatch, Snore, Spite, Substitute,
+        Sucker Punch, Sunny Day, Swagger, Taunt, Thief, Torment, Toxic, Trick, Trick
+          Room, Will-O-Wisp, Body Slam, Double-Edge, Helping Hand, Mimic, Nightmare,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - rs: [Astonish, Attract, Blizzard, Calm Mind, Confuse Ray, Curse, Destiny Bond,
+        Disable, Double Team, Dream Eater, Endure, Facade, Feint Attack, Flash, Foresight,
+        Frustration, Future Sight, Grudge, Ice Beam, Imprison, Leer, Mean Look, Memento,
+        Night Shade, Pain Split, Protect, Psych Up, Psychic, Pursuit, Rain Dance,
+        Rest, Return, Secret Power, Shadow Ball, Skill Swap, Sleep Talk, Snatch, Snore,
+        Substitute, Sunny Day, Swagger, Taunt, Thief, Torment, Toxic, Will-O-Wisp,
+        Helping Hand, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - xy: [Astonish, Attract, Blizzard, Body Slam, Calm Mind, Captivate, Charge Beam,
+        Confuse Ray, Curse, Dark Pulse, Destiny Bond, Disable, Double-Edge, Double
+          Team, Dream Eater, Embargo, Endure, Facade, Feint Attack, Flash, Fling,
+        Foresight, Frustration, Future Sight, Gravity, Grudge, Headbutt, Hex, Helping
+          Hand, Ice Beam, Icy Wind, Imprison, Leer, Mean Look, Memento, Mimic, Natural
+          Gift, Nightmare, Night Shade, Ominous Wind, Pain Split, Payback, Protect,
+        Psychic, Psych Up, Pursuit, Rain Dance, Rest, Return, Round, Secret Power,
+        Shadow Ball, Shadow Sneak, Skill Swap, Sleep Talk, Snatch, Snore, Spite, Substitute,
+        Sunny Day, Swagger, Taunt, Telekinesis, Thief, Torment, Toxic, Trick, Trick
+          Room, Will-O-Wisp, Wonder Room, Infestation, Confide, Haze, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [20, 40, 90, 30, 90, 25]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Ghost]
+    weight: [15]

@@ -1,0 +1,100 @@
+pokemon:
+  Breloom:
+    abilities:
+    - [Effect Spore]
+    - dp: [Effect Spore, Poison Heal]
+    - bw: [Effect Spore, Poison Heal, Technician]
+    egggroups:
+    - [Fairy, Plant]
+    evolvesFrom: [Shroomish]
+    height: [1.2]
+    introduction: rs
+    moves:
+    - bw: [Brick Break, Bulk Up, Counter, Cut, Dynamic Punch, Fling, Focus Blast,
+        Force Palm, Giga Impact, Hyper Beam, Iron Tail, Low Sweep, Mach Punch, Mind
+          Reader, Retaliate, Rock Slide, Rock Smash, Rock Tomb, Sky Uppercut, Stone
+          Edge, Strength, Superpower, Thunder Punch, Work Up]
+    - dp: [Brick Break, Bulk Up, Counter, Cut, Drain Punch, Dynamic Punch, Fling,
+        Focus Blast, Focus Punch, Force Palm, Fury Cutter, Giga Impact, Hyper Beam,
+        Iron Tail, Mach Punch, Mind Reader, Mud-Slap, Rock Slide, Rock Smash, Rock
+          Tomb, Sky Uppercut, Stone Edge, Strength, Superpower, Thunder Punch, Vacuum
+          Wave]
+    - rs: [Brick Break, Bulk Up, Counter, Cut, Dynamic Punch, Focus Punch, Fury Cutter,
+        Hyper Beam, Iron Tail, Mach Punch, Mega Kick, Mega Punch, Mind Reader, Mud-Slap,
+        Rock Smash, Seismic Toss, Sky Uppercut, Strength, Thunder Punch]
+    - xy: [Brick Break, Bulk Up, Counter, Cut, Dynamic Punch, Fling, Focus Blast,
+        Force Palm, Fury Cutter, Giga Impact, Hyper Beam, Iron Tail, Low Sweep, Mach
+          Punch, Mega Kick, Mega Punch, Mind Reader, Mud-Slap, Retaliate, Rock Slide,
+        Rock Smash, Rock Tomb, Seismic Toss, Sky Uppercut, Stone Edge, Strength, Superpower,
+        Thunder Punch, Vacuum Wave, Work Up, Power-Up Punch]
+    stats:
+    - [60, 130, 80, 60, 60, 70]
+    tags:
+    - [BL]
+    - dp: [OU]
+    types:
+    - [Fighting, Grass]
+    weight: [39.2]
+  Shroomish:
+    abilities:
+    - [Effect Spore]
+    - dp: [Effect Spore, Poison Heal]
+    - bw: [Effect Spore, Poison Heal, Quick Feet]
+    egggroups:
+    - [Fairy, Plant]
+    height: [0.4]
+    introduction: rs
+    moves:
+    - bw: [Absorb, Attract, Bullet Seed, Charm, Double Team, Drain Punch, Energy Ball,
+        Facade, Fake Tears, False Swipe, Flash, Focus Punch, Frustration, Giga Drain,
+        Grass Knot, Growth, Headbutt, Helping Hand, Leech Seed, Mega Drain, Natural
+          Gift, Poison Powder, Protect, Rest, Return, Round, Safeguard, Seed Bomb,
+        Sleep Talk, Sludge Bomb, Snatch, Snore, Solar Beam, Spore, Stun Spore, Substitute,
+        Sunny Day, Swagger, Swords Dance, Synthesis, Tackle, Toxic, Venoshock, Wake-Up
+          Slap, Worry Seed, Body Slam, Double-Edge, Mimic, Refresh, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - dp: [Absorb, Attract, Bullet Seed, Captivate, Charm, Double Team, Endure, Energy
+          Ball, Facade, Fake Tears, False Swipe, Flash, Frustration, Giga Drain, Grass
+          Knot, Growth, Headbutt, Helping Hand, Leech Seed, Mega Drain, Natural Gift,
+        Poison Powder, Protect, Rest, Return, Safeguard, Secret Power, Seed Bomb,
+        Sleep Talk, Sludge Bomb, Snatch, Snore, Solar Beam, Spore, Stun Spore, Substitute,
+        Sunny Day, Swagger, Swords Dance, Synthesis, Tackle, Toxic, Wake-Up Slap,
+        Worry Seed, Body Slam, Double-Edge, Mimic, Refresh, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Absorb, Attract, Bullet Seed, Charm, Double Team, Endure, Facade, Fake
+          Tears, False Swipe, Flash, Frustration, Giga Drain, Growth, Headbutt, Helping
+          Hand, Leech Seed, Mega Drain, Poison Powder, Protect, Rest, Return, Safeguard,
+        Secret Power, Sleep Talk, Sludge Bomb, Snatch, Snore, Solar Beam, Spore, Stun
+          Spore, Substitute, Sunny Day, Swagger, Swords Dance, Tackle, Toxic, Refresh,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - xy: [Absorb, Attract, Body Slam, Bullet Seed, Captivate, Charm, Double-Edge,
+        Double Team, Drain Punch, Endure, Energy Ball, Facade, Fake Tears, False Swipe,
+        Flash, Focus Punch, Frustration, Giga Drain, Grass Knot, Growth, Headbutt,
+        Helping Hand, Leech Seed, Mega Drain, Mimic, Natural Gift, Poison Powder,
+        Protect, Refresh, Rest, Return, Round, Safeguard, Secret Power, Seed Bomb,
+        Sleep Talk, Sludge Bomb, Snatch, Snore, Solar Beam, Spore, Stun Spore, Substitute,
+        Sunny Day, Swagger, Swords Dance, Synthesis, Tackle, Toxic, Venoshock, Wake-Up
+          Slap, Worry Seed, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [60, 40, 60, 40, 60, 35]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Grass]
+    weight: [4.5]

@@ -1,0 +1,391 @@
+pokemon:
+  Arceus:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - bw: [Aerial Ace, Aqua Tail, Blizzard, Brick Break, Bulldoze, Calm Mind, Charge
+          Beam, Cosmic Power, Cut, Dark Pulse, Double Team, Draco Meteor, Dragon Claw,
+        Dragon Pulse, Dream Eater, Earth Power, Earthquake, Echoed Voice, Energy Ball,
+        Extreme Speed, Facade, Fire Blast, Flamethrower, Flash, Flash Cannon, Fly,
+        Focus Blast, Frustration, Future Sight, Giga Drain, Giga Impact, Grass Knot,
+        Gravity, Hail, Heat Wave, Hone Claws, Hyper Beam, Hyper Voice, Ice Beam, Icy
+          Wind, Incinerate, Iron Defense, Iron Head, Iron Tail, Judgment, Last Resort,
+        Light Screen, Magic Coat, Natural Gift, Outrage, Overheat, Payback, Perish
+          Song, Poison Jab, Protect, Psych Up, Psychic, Psyshock, Punishment, Quash,
+        Rain Dance, Recover, Recycle, Reflect, Refresh, Rest, Retaliate, Return, Roar,
+        Rock Slide, Rock Smash, Rock Tomb, Round, Safeguard, Sandstorm, Seismic Toss,
+        Shadow Ball, Shadow Claw, Signal Beam, Sleep Talk, Sludge Bomb, Snarl, Snore,
+        Solar Beam, Stealth Rock, Stone Edge, Strength, Substitute, Sunny Day, Surf,
+        Swagger, Swords Dance, Tailwind, Telekinesis, Thunder, Thunder Wave, Thunderbolt,
+        Toxic, Trick, Trick Room, Waterfall, Will-O-Wisp, Work Up, X-Scissor, Zen
+          Headbutt, Ancient Power, Bullet Seed, Water Pulse, Shock Wave, Secret Power,
+        Brine, Endure, Silver Wind, Avalanche, Defog, Whirlpool, Dive, Fury Cutter,
+        Ominous Wind, Swift, Mud-Slap, Twister, Role Play, Headbutt, Roar of Time,
+        Shadow Force, Spacial Rend, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Aerial Ace, Ancient Power, Aqua Tail, Avalanche, Blizzard, Brick Break,
+        Brine, Bullet Seed, Calm Mind, Charge Beam, Cosmic Power, Cut, Dark Pulse,
+        Defog, Dive, Double Team, Draco Meteor, Dragon Claw, Dragon Pulse, Dream Eater,
+        Earth Power, Earthquake, Endure, Energy Ball, Extreme Speed, Facade, Fire
+          Blast, Flamethrower, Flash, Flash Cannon, Fly, Focus Blast, Frustration,
+        Fury Cutter, Future Sight, Giga Drain, Giga Impact, Grass Knot, Gravity, Hail,
+        Headbutt, Heat Wave, Hyper Beam, Hyper Voice, Ice Beam, Icy Wind, Iron Defense,
+        Iron Head, Iron Tail, Judgment, Last Resort, Light Screen, Magic Coat, Mud-Slap,
+        Natural Gift, Ominous Wind, Outrage, Overheat, Payback, Perish Song, Poison
+          Jab, Protect, Psych Up, Psychic, Punishment, Rain Dance, Recover, Recycle,
+        Reflect, Refresh, Rest, Return, Roar, Roar of Time, Rock Climb, Rock Slide,
+        Rock Smash, Rock Tomb, Safeguard, Sandstorm, Secret Power, Seismic Toss, Shadow
+          Ball, Shadow Claw, Shadow Force, Shock Wave, Signal Beam, Silver Wind, Sleep
+          Talk, Sludge Bomb, Snore, Solar Beam, Spacial Rend, Stealth Rock, Stone
+          Edge, Strength, Substitute, Sunny Day, Surf, Swagger, Swift, Swords Dance,
+        Tailwind, Thunder, Thunder Wave, Thunderbolt, Toxic, Trick, Trick Room, Twister,
+        Water Pulse, Waterfall, Whirlpool, Will-O-Wisp, X-Scissor, Zen Headbutt, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - xy: [Aerial Ace, Ancient Power, Aqua Tail, Avalanche, Blizzard, Brick Break,
+        Brine, Bulldoze, Bullet Seed, Calm Mind, Charge Beam, Cosmic Power, Cut, Dark
+          Pulse, Defog, Dive, Double Team, Draco Meteor, Dragon Claw, Dragon Pulse,
+        Dream Eater, Earth Power, Earthquake, Echoed Voice, Endure, Energy Ball, Extreme
+          Speed, Facade, Fire Blast, Flamethrower, Flash, Flash Cannon, Fly, Focus
+          Blast, Frustration, Fury Cutter, Future Sight, Giga Drain, Giga Impact,
+        Grass Knot, Gravity, Hail, Headbutt, Heat Wave, Hone Claws, Hyper Beam, Hyper
+          Voice, Ice Beam, Icy Wind, Incinerate, Iron Defense, Iron Head, Iron Tail,
+        Judgment, Last Resort, Light Screen, Magic Coat, Mud-Slap, Natural Gift, Ominous
+          Wind, Outrage, Overheat, Payback, Perish Song, Poison Jab, Protect, Psychic,
+        Psych Up, Psyshock, Punishment, Quash, Rain Dance, Recover, Recycle, Reflect,
+        Refresh, Rest, Retaliate, Return, Roar, Roar of Time, Rock Climb, Rock Slide,
+        Rock Smash, Rock Tomb, Role Play, Round, Safeguard, Sandstorm, Secret Power,
+        Seismic Toss, Shadow Ball, Shadow Claw, Shadow Force, Shock Wave, Signal Beam,
+        Silver Wind, Sleep Talk, Sludge Bomb, Snarl, Snore, Solar Beam, Spacial Rend,
+        Stealth Rock, Stone Edge, Strength, Substitute, Sunny Day, Surf, Swagger,
+        Swift, Swords Dance, Tailwind, Telekinesis, Thunder, Thunderbolt, Thunder
+          Wave, Toxic, Trick, Trick Room, Twister, Waterfall, Water Pulse, Whirlpool,
+        Will-O-Wisp, Work Up, X-Scissor, Zen Headbutt, Confide, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Normal]
+    weight: [320]
+
+  Arceus-Fire:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Fire]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Water:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Water]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Ice:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Ice]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Fairy:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: xy
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Fairy]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Grass:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Grass]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Ground:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Ground]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Fighting:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Fighting]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Dark:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Dark]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Bug:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Bug]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Steel:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Steel]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Electric:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Electric]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Psychic:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Psychic]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Ghost:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Ghost]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Flying:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Flying]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Poison:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Poison]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Rock:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Rock]
+    weight: [320]
+    evolvesFrom: [Arceus]
+
+  Arceus-Dragon:
+    abilities:
+    - [Multitype]
+    egggroups:
+    - []
+    height: [3.2]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [120, 120, 120, 120, 120, 120]
+    tags:
+    - [Uber]
+    types:
+    - [Dragon]
+    weight: [320]
+    evolvesFrom: [Arceus]

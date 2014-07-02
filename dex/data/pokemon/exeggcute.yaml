@@ -1,0 +1,116 @@
+pokemon:
+  Exeggcute:
+    abilities:
+    - bw: [Chlorophyll, Harvest]
+    - rs: [Chlorophyll]
+    - []
+    egggroups:
+    - [Plant]
+    height: [0.4]
+    introduction: rb
+    moves:
+    - gs: [Ancient Power, Attract, Barrage, Confusion, Curse, Double Team, Dream Eater,
+        Endure, Flash, Frustration, Giga Drain, Hypnosis, Leech Seed, Mega Drain,
+        Moonlight, Nightmare, Poison Powder, Protect, Psych Up, Psychic, Reflect,
+        Rest, Return, Rollout, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solar
+          Beam, Strength, Stun Spore, Sunny Day, Swagger, Synthesis, Thief, Toxic,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - bw: [Ancient Power, Attract, Barrage, Bestow, Block, Bullet Seed, Confusion,
+        Curse, Double Team, Dream Eater, Energy Ball, Explosion, Extrasensory, Facade,
+        Flash, Frustration, Giga Drain, Grass Knot, Gravity, Hypnosis, Ingrain, Leaf
+          Storm, Leech Seed, Light Screen, Lucky Chant, Moonlight, Natural Gift, Nature
+          Power, Poison Powder, Power Swap, Protect, Psych Up, Psychic, Reflect, Rest,
+        Return, Round, Seed Bomb, Skill Swap, Sleep Powder, Sleep Talk, Sludge Bomb,
+        Snore, Solar Beam, Strength, Stun Spore, Substitute, Sunny Day, Swords Dance,
+        Synthesis, Telekinesis, Thief, Toxic, Trick Room, Uproar, Worry Seed, Double-Edge,
+        Mimic, Nightmare, Self-Destruct, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Ancient Power, Attract, Barrage, Bullet Seed, Captivate, Confusion, Curse,
+        Double Team, Dream Eater, Endure, Energy Ball, Explosion, Facade, Flash, Frustration,
+        Giga Drain, Grass Knot, Gravity, Hypnosis, Ingrain, Leaf Storm, Leech Seed,
+        Light Screen, Lucky Chant, Moonlight, Natural Gift, Nature Power, Poison Powder,
+        Power Swap, Protect, Psych Up, Psychic, Reflect, Rest, Return, Rollout, Secret
+          Power, Seed Bomb, Skill Swap, Sleep Powder, Sleep Talk, Sludge Bomb, Snore,
+        Solar Beam, Strength, Stun Spore, Substitute, Sunny Day, Swords Dance, Synthesis,
+        Thief, Toxic, Trick Room, Uproar, Worry Seed, Double-Edge, Mimic, Nightmare,
+        Self-Destruct, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - rs: [Ancient Power, Attract, Barrage, Bullet Seed, Confusion, Curse, Double
+          Team, Dream Eater, Endure, Explosion, Facade, Flash, Frustration, Giga Drain,
+        Hypnosis, Ingrain, Leech Seed, Light Screen, Moonlight, Poison Powder, Protect,
+        Psych Up, Psychic, Reflect, Rest, Return, Rollout, Secret Power, Skill Swap,
+        Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Strength, Stun Spore,
+        Substitute, Sunny Day, Synthesis, Thief, Toxic, Uproar, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - rb: [Barrage, Bide, Double-Edge, Double Team, Egg Bomb, Explosion, Hypnosis,
+        Leech Seed, Mimic, Poison Powder, Psychic, Psywave, Rage, Reflect, Rest, Self-Destruct,
+        Sleep Powder, Solar Beam, Stun Spore, Substitute, Take Down, Teleport, Toxic]
+    - xy: [Ancient Power, Attract, Barrage, Bestow, Block, Bullet Seed, Captivate,
+        Confusion, Curse, Double-Edge, Double Team, Dream Eater, Endure, Energy Ball,
+        Explosion, Extrasensory, Facade, Flash, Frustration, Giga Drain, Grass Knot,
+        Gravity, Hypnosis, Ingrain, Leaf Storm, Leech Seed, Light Screen, Lucky Chant,
+        Mimic, Moonlight, Natural Gift, Nature Power, Nightmare, Poison Powder, Power
+          Swap, Protect, Psychic, Psych Up, Reflect, Rest, Return, Rollout, Round,
+        Secret Power, Seed Bomb, Self-Destruct, Skill Swap, Sleep Powder, Sleep Talk,
+        Sludge Bomb, Snore, Solar Beam, Strength, Stun Spore, Substitute, Sunny Day,
+        Swagger, Sweet Scent, Swords Dance, Synthesis, Telekinesis, Thief, Toxic,
+        Trick Room, Uproar, Wish, Worry Seed, Rock Slide, Infestation, Confide, Grassy
+          Terrain, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [60, 40, 80, 60, 60, 40]
+    - gs: [60, 40, 80, 60, 45, 40]
+    tags:
+    - [NFE, UU]
+    - dp: [LC]
+    types:
+    - [Grass, Psychic]
+    weight: [2.5]
+  Exeggutor:
+    abilities:
+    - bw: [Chlorophyll, Harvest]
+    - rs: [Chlorophyll]
+    - []
+    egggroups:
+    - [Plant]
+    evolvesFrom: [Exeggcute]
+    height: [2]
+    introduction: rb
+    moves:
+    - gs: [Egg Bomb, Headbutt, Hyper Beam, Stomp]
+    - bw: [Egg Bomb, Giga Impact, Hyper Beam, Low Kick, Psyshock, Stomp, Wood Hammer,
+        Zen Headbutt, Refresh]
+    - dp: [Egg Bomb, Giga Impact, Headbutt, Hyper Beam, Low Kick, Stomp, Wood Hammer,
+        Zen Headbutt, Refresh]
+    - rs: [Egg Bomb, Hyper Beam, Stomp, Refresh]
+    - rb: [Hyper Beam, Mega Drain, Stomp, Strength]
+    - xy: [Egg Bomb, Giga Impact, Headbutt, Hyper Beam, Low Kick, Psyshock, Refresh,
+        Stomp, Wood Hammer, Zen Headbutt]
+    stats:
+    - [95, 95, 85, 125, 125, 55]
+    - gs: [95, 95, 85, 125, 65, 55]
+    tags:
+    - [OU]
+    - bw: [NU]
+    - dp: [UU]
+    - rs: [BL]
+    types:
+    - [Grass, Psychic]
+    weight: [120]

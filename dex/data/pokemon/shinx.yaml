@@ -1,0 +1,87 @@
+pokemon:
+  Luxio:
+    abilities:
+    - [Guts, Intimidate, Rivalry]
+    egggroups:
+    - [Ground]
+    evolvesFrom: [Shinx]
+    height: [0.9]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [60, 85, 49, 60, 49, 60]
+    tags:
+    - [NFE]
+    types:
+    - [Electric]
+    weight: [30.5]
+  Luxray:
+    abilities:
+    - [Guts, Intimidate, Rivalry]
+    egggroups:
+    - [Ground]
+    evolvesFrom: [Luxio]
+    height: [1.4]
+    introduction: dp
+    moves:
+    - bw: [Giga Impact, Hyper Beam, Superpower]
+    - dp: [Giga Impact, Hyper Beam, Superpower]
+    - xy: [Giga Impact, Hyper Beam, Superpower, Electric Terrain]
+    stats:
+    - [80, 120, 79, 95, 79, 70]
+    tags:
+    - [NU]
+    types:
+    - [Electric]
+    weight: [42]
+  Shinx:
+    abilities:
+    - [Guts, Intimidate, Rivalry]
+    egggroups:
+    - [Ground]
+    height: [0.5]
+    introduction: dp
+    moves:
+    - bw: [Attract, Bite, Charge, Charge Beam, Crunch, Discharge, Double Kick, Double
+          Team, Facade, Fire Fang, Flash, Frustration, Helping Hand, Howl, Ice Fang,
+        Iron Tail, Leer, Light Screen, Magnet Rise, Night Slash, Protect, Quick Attack,
+        Rain Dance, Rest, Return, Roar, Round, Scary Face, Shock Wave, Signal Beam,
+        Sleep Talk, Snarl, Snore, Spark, Strength, Substitute, Swagger, Swift, Tackle,
+        Take Down, Thief, Thunder, Thunder Fang, Thunder Wave, Thunderbolt, Toxic,
+        Volt Switch, Wild Charge, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Attract, Bite, Captivate, Charge, Charge Beam, Crunch, Discharge, Double
+          Team, Endure, Facade, Fire Fang, Flash, Frustration, Fury Cutter, Headbutt,
+        Howl, Ice Fang, Iron Tail, Leer, Light Screen, Magnet Rise, Mud-Slap, Natural
+          Gift, Night Slash, Protect, Quick Attack, Rain Dance, Rest, Return, Roar,
+        Scary Face, Secret Power, Shock Wave, Signal Beam, Sleep Talk, Snore, Spark,
+        Strength, Substitute, Swagger, Swift, Tackle, Take Down, Thief, Thunder, Thunder
+          Fang, Thunder Wave, Thunderbolt, Toxic, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Attract, Bite, Captivate, Charge, Charge Beam, Crunch, Discharge, Double
+          Kick, Double Team, Endure, Facade, Fire Fang, Flash, Frustration, Fury Cutter,
+        Headbutt, Helping Hand, Howl, Ice Fang, Iron Tail, Leer, Light Screen, Magnet
+          Rise, Mud-Slap, Natural Gift, Night Slash, Protect, Quick Attack, Rain Dance,
+        Rest, Return, Roar, Round, Scary Face, Secret Power, Shock Wave, Signal Beam,
+        Sleep Talk, Snarl, Snore, Spark, Strength, Substitute, Swagger, Swift, Tackle,
+        Take Down, Thief, Thunder, Thunderbolt, Thunder Fang, Thunder Wave, Toxic,
+        Volt Switch, Wild Charge, Baby-Doll Eyes, Confide, Fake Tears, Eerie Impulse,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [45, 65, 34, 40, 34, 45]
+    tags:
+    - [LC]
+    types:
+    - [Electric]
+    weight: [9.5]

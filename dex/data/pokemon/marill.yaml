@@ -1,0 +1,135 @@
+pokemon:
+  Azumarill:
+    abilities:
+    - bw: [Huge Power, Sap Sipper, Thick Fat]
+    - rs: [Huge Power, Thick Fat]
+    - []
+    egggroups:
+    - [Fairy, Water 1]
+    evolvesFrom: [Marill]
+    height: [0.8]
+    introduction: gs
+    moves:
+    - gs: [Hyper Beam, Rock Smash, Strength]
+    - bw: [Bulldoze, Focus Blast, Giga Impact, Hyper Beam]
+    - dp: [Focus Blast, Giga Impact, Hyper Beam]
+    - rs: [Hyper Beam]
+    - xy: [Bulldoze, Focus Blast, Giga Impact, Hyper Beam]
+    stats:
+    - [100, 50, 80, 50, 80, 50]
+    - xy: [100, 50, 80, 60, 80, 50]
+    tags:
+    - [UU]
+    types:
+    - [Water]
+    - xy: [Water, Fairy]
+    weight: [28.5]
+  Azurill:
+    abilities:
+    - [Huge Power, Thick Fat]
+    - bw: [Huge Power, Sap Sipper, Thick Fat]
+    egggroups:
+    - []
+    height: [0.2]
+    introduction: rs
+    moves:
+    - bw: [Attract, Blizzard, Body Slam, Bounce, Bubble, Bubble Beam, Charm, Covet,
+        Double Team, Encore, Facade, Fake Tears, Frustration, Hail, Helping Hand,
+        Hyper Voice, Ice Beam, Icy Wind, Iron Tail, Knock Off, Light Screen, Muddy
+          Water, Protect, Rain Dance, Refresh, Rest, Return, Round, Scald, Sing, Slam,
+        Sleep Talk, Snore, Soak, Splash, Substitute, Surf, Swagger, Tail Whip, Tickle,
+        Toxic, Uproar, Water Gun, Water Sport, Waterfall, Work Up, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - dp: [Attract, Blizzard, Body Slam, Bubble, Captivate, Charm, Double Team, Encore,
+        Endure, Facade, Fake Tears, Frustration, Hail, Headbutt, Helping Hand, Ice
+          Beam, Icy Wind, Iron Tail, Knock Off, Mud-Slap, Natural Gift, Protect, Rain
+          Dance, Refresh, Rest, Return, Rollout, Secret Power, Sing, Slam, Sleep Talk,
+        Snore, Splash, Substitute, Surf, Swagger, Swift, Tail Whip, Tickle, Toxic,
+        Uproar, Water Gun, Water Pulse, Waterfall, Whirlpool, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Attract, Blizzard, Body Slam, Bubble, Charm, Defense Curl, Double-Edge,
+        Double Team, Encore, Endure, Facade, Frustration, Hail, Ice Beam, Icy Wind,
+        Iron Tail, Mimic, Mud-Slap, Protect, Rain Dance, Refresh, Rest, Return, Rollout,
+        Secret Power, Sing, Slam, Sleep Talk, Snore, Splash, Substitute, Surf, Swagger,
+        Swift, Tail Whip, Tickle, Toxic, Water Gun, Water Pulse, Waterfall, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - xy: [Attract, Blizzard, Body Slam, Bounce, Bubble, Bubble Beam, Captivate, Charm,
+        Defense Curl, Double-Edge, Double Team, Encore, Endure, Facade, Fake Tears,
+        Frustration, Hail, Headbutt, Helping Hand, Ice Beam, Icy Wind, Iron Tail,
+        Knock Off, Light Screen, Mimic, Muddy Water, Mud-Slap, Natural Gift, Protect,
+        Rain Dance, Refresh, Rest, Return, Rollout, Round, Scald, Secret Power, Sing,
+        Slam, Sleep Talk, Snore, Soak, Splash, Substitute, Surf, Swagger, Swift, Tail
+          Whip, Tickle, Toxic, Uproar, Waterfall, Water Gun, Water Pulse, Water Sport,
+        Whirlpool, Work Up, Covet, Hyper Voice, Confide, Copycat, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [50, 20, 40, 20, 40, 20]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Normal]
+    - xy: [Normal, Fairy]
+    weight: [2]
+  Marill:
+    abilities:
+    - bw: [Huge Power, Sap Sipper, Thick Fat]
+    - rs: [Huge Power, Thick Fat]
+    - []
+    egggroups:
+    - [Fairy, Water 1]
+    evolvesFrom:
+    - {rs: Azurill}
+    height: [0.4]
+    introduction: gs
+    moves:
+    - gs: [Amnesia, Attract, Belly Drum, Blizzard, Bubble Beam, Curse, Defense Curl,
+        Double-Edge, Double Team, Dynamic Punch, Endure, Foresight, Frustration, Future
+          Sight, Headbutt, Ice Beam, Ice Punch, Icy Wind, Iron Tail, Light Screen,
+        Mud-Slap, Perish Song, Present, Protect, Rain Dance, Rest, Return, Rollout,
+        Sleep Talk, Snore, Supersonic, Surf, Swagger, Swift, Tackle, Tail Whip, Toxic,
+        Water Gun, Waterfall, Whirlpool, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - bw: [Amnesia, Aqua Jet, Aqua Ring, Aqua Tail, Belly Drum, Brick Break, Defense
+          Curl, Dig, Dive, Double-Edge, Fling, Future Sight, Grass Knot, Hydro Pump,
+        Ice Punch, Perish Song, Present, Rock Smash, Rollout, Strength, Superpower,
+        Supersonic, Tackle]
+    - dp: [Amnesia, Aqua Jet, Aqua Ring, Aqua Tail, Belly Drum, Brick Break, Bubble
+          Beam, Defense Curl, Dig, Dive, Double-Edge, Fling, Focus Punch, Future Sight,
+        Grass Knot, Hydro Pump, Ice Punch, Light Screen, Perish Song, Present, Rock
+          Smash, Strength, Superpower, Supersonic, Tackle]
+    - rs: [Amnesia, Belly Drum, Brick Break, Bubble Beam, Dig, Dive, Dynamic Punch,
+        Focus Punch, Future Sight, Hydro Pump, Ice Punch, Light Screen, Mega Kick,
+        Mega Punch, Perish Song, Present, Rock Smash, Seismic Toss, Strength, Supersonic,
+        Tackle]
+    - xy: [Amnesia, Aqua Jet, Aqua Ring, Aqua Tail, Belly Drum, Brick Break, Dig,
+        Dive, Dynamic Punch, Fling, Focus Punch, Future Sight, Grass Knot, Hydro Pump,
+        Ice Punch, Mega Kick, Mega Punch, Perish Song, Present, Rock Smash, Seismic
+          Toss, Strength, Superpower, Supersonic, Tackle, Play Rough, Power-Up Punch,
+        Camouflage]
+    stats:
+    - [70, 20, 50, 20, 50, 40]
+    tags:
+    - [NFE]
+    types:
+    - [Water]
+    - xy: [Water, Fairy]
+    weight: [8.5]

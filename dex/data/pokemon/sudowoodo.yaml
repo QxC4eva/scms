@@ -1,0 +1,104 @@
+pokemon:
+  Bonsly:
+    abilities:
+    - [Rock Head, Sturdy]
+    - bw: [Rattled, Rock Head, Sturdy]
+    egggroups:
+    - []
+    height: [0.5]
+    introduction: dp
+    moves:
+    - bw: [After You, Attract, Block, Brick Break, Calm Mind, Copycat, Covet, Curse,
+        Defense Curl, Dig, Double-Edge, Double Team, Earth Power, Endure, Explosion,
+        Facade, Feint Attack, Fake Tears, Flail, Foul Play, Frustration, Harden, Headbutt,
+        Helping Hand, Low Kick, Mimic, Protect, Psych Up, Rest, Return, Rock Polish,
+        Rock Slide, Rock Throw, Rock Tomb, Role Play, Rollout, Round, Sand Tomb, Sandstorm,
+        Self-Destruct, Slam, Sleep Talk, Smack Down, Snore, Stealth Rock, Substitute,
+        Sucker Punch, Sunny Day, Swagger, Thief, Toxic, Uproar, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - dp: [Attract, Block, Brick Break, Calm Mind, Captivate, Copycat, Defense Curl,
+        Dig, Double-Edge, Double Team, Earth Power, Endure, Explosion, Facade, Feint
+          Attack, Fake Tears, Flail, Frustration, Harden, Headbutt, Helping Hand,
+        Low Kick, Mimic, Natural Gift, Protect, Psych Up, Rest, Return, Rock Polish,
+        Rock Slide, Rock Throw, Rock Tomb, Role Play, Rollout, Sand Tomb, Sandstorm,
+        Secret Power, Self-Destruct, Slam, Sleep Talk, Snore, Stealth Rock, Substitute,
+        Sucker Punch, Sunny Day, Swagger, Thief, Toxic, Uproar, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - xy: [Attract, Block, Brick Break, Calm Mind, Captivate, Copycat, Curse, Defense
+          Curl, Dig, Double-Edge, Double Team, Earth Power, Endure, Explosion, Facade,
+        Feint Attack, Fake Tears, Flail, Frustration, Harden, Headbutt, Helping Hand,
+        Low Kick, Mimic, Natural Gift, Protect, Psych Up, Rest, Return, Rock Polish,
+        Rock Slide, Rock Throw, Rock Tomb, Role Play, Rollout, Round, Sandstorm, Sand
+          Tomb, Secret Power, Self-Destruct, Slam, Sleep Talk, Smack Down, Snore,
+        Stealth Rock, Substitute, Sucker Punch, Sunny Day, Swagger, Thief, Toxic,
+        Uproar, Covet, Foul Play, After You, Counter, Nature Power, Confide, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [50, 80, 95, 10, 45, 10]
+    tags:
+    - [LC]
+    types:
+    - [Rock]
+    weight: [15]
+  Sudowoodo:
+    abilities:
+    - bw: [Rattled, Rock Head, Sturdy]
+    - rs: [Rock Head, Sturdy]
+    - []
+    egggroups:
+    - [Mineral]
+    evolvesFrom:
+    - {dp: Bonsly}
+    height: [1.2]
+    introduction: gs
+    moves:
+    - gs: [Attract, Curse, Defense Curl, Dig, Double Team, Dynamic Punch, Earthquake,
+        Endure, Feint Attack, Fire Punch, Flail, Frustration, Headbutt, Ice Punch,
+        Low Kick, Mimic, Mud-Slap, Protect, Psych Up, Rest, Return, Rock Slide, Rock
+          Smash, Rock Throw, Rollout, Sandstorm, Self-Destruct, Slam, Sleep Talk,
+        Snore, Strength, Sunny Day, Swagger, Thief, Thunder Punch, Toxic, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - bw: [Bulldoze, Counter, Earthquake, Fire Punch, Fling, Hammer Arm, Ice Punch,
+        Rock Smash, Stone Edge, Strength, Taunt, Thunder Punch, Torment, Wood Hammer]
+    - dp: [Earthquake, Fire Punch, Fling, Focus Punch, Hammer Arm, Ice Punch, Mud-Slap,
+        Rock Smash, Stone Edge, Strength, Taunt, Thunder Punch, Torment, Wood Hammer]
+    - rs: [Attract, Block, Body Slam, Brick Break, Calm Mind, Counter, Defense Curl,
+        Dig, Double-Edge, Double Team, Dynamic Punch, Earthquake, Endure, Explosion,
+        Facade, Feint Attack, Fire Punch, Flail, Focus Punch, Frustration, Ice Punch,
+        Low Kick, Mega Kick, Mega Punch, Mimic, Mud-Slap, Protect, Psych Up, Rest,
+        Return, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Sandstorm,
+        Secret Power, Seismic Toss, Self-Destruct, Slam, Sleep Talk, Snore, Strength,
+        Substitute, Sunny Day, Swagger, Taunt, Thief, Thunder Punch, Toxic, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - xy: [Body Slam, Bulldoze, Dynamic Punch, Earthquake, Fire Punch, Fling, Focus
+          Punch, Hammer Arm, Ice Punch, Mega Kick, Mega Punch, Mud-Slap, Rock Smash,
+        Seismic Toss, Stone Edge, Strength, Taunt, Thunder Punch, Torment, Wood Hammer,
+        Power-Up Punch]
+    stats:
+    - [70, 100, 115, 30, 65, 30]
+    tags:
+    - [UU]
+    - rs: [NU]
+    types:
+    - [Rock]
+    weight: [38]

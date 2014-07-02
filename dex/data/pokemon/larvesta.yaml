@@ -1,0 +1,61 @@
+pokemon:
+  Larvesta:
+    abilities:
+    - [Flame Body, Swarm]
+    egggroups:
+    - [Bug]
+    height: [1.1]
+    introduction: bw
+    moves:
+    - bw: [Acrobatics, Amnesia, Bug Bite, Bug Buzz, Calm Mind, Double-Edge, Double
+          Team, Ember, Endure, Facade, Fire Blast, Flame Charge, Flame Wheel, Flamethrower,
+        Flare Blitz, Foresight, Frustration, Giga Drain, Harden, Heat Wave, Incinerate,
+        Leech Life, Light Screen, Magnet Rise, Morning Sun, Overheat, Protect, Psychic,
+        Rest, Return, Round, Safeguard, Signal Beam, Sleep Talk, Snore, Solar Beam,
+        String Shot, Struggle Bug, Substitute, Sunny Day, Swagger, Take Down, Thrash,
+        Toxic, U-turn, Wild Charge, Will-O-Wisp, Zen Headbutt, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Acrobatics, Amnesia, Bug Bite, Bug Buzz, Calm Mind, Double-Edge, Double
+          Team, Ember, Endure, Facade, Fire Blast, Flame Charge, Flamethrower, Flame
+          Wheel, Flare Blitz, Foresight, Frustration, Harden, Incinerate, Leech Life,
+        Light Screen, Magnet Rise, Morning Sun, Overheat, Protect, Psychic, Rest,
+        Return, Round, Safeguard, Solar Beam, String Shot, Struggle Bug, Substitute,
+        Sunny Day, Swagger, Take Down, Thrash, Toxic, U-turn, Wild Charge, Will-O-Wisp,
+        Zen Headbutt, Signal Beam, Snore, Heat Wave, Giga Drain, Sleep Talk, Confide,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [55, 85, 55, 50, 55, 60]
+    tags:
+    - [LC]
+    types:
+    - [Bug, Fire]
+    weight: [28.8]
+  Volcarona:
+    abilities:
+    - [Flame Body, Swarm]
+    egggroups:
+    - [Bug]
+    evolvesFrom: [Larvesta]
+    height: [1.6]
+    introduction: bw
+    moves:
+    - bw: [Aerial Ace, Fiery Dance, Fire Spin, Fly, Giga Impact, Gust, Hurricane,
+        Hyper Beam, Poison Jab, Quiver Dance, Rage Powder, Roost, Silver Wind, Tailwind,
+        Whirlwind]
+    - xy: [Aerial Ace, Fiery Dance, Fire Spin, Fly, Giga Impact, Gust, Hurricane,
+        Hyper Beam, Poison Jab, Quiver Dance, Rage Powder, Silver Wind, Whirlwind,
+        Tailwind, Roost]
+    stats:
+    - [85, 60, 65, 135, 105, 100]
+    tags:
+    - [OU]
+    types:
+    - [Bug, Fire]
+    weight: [46]

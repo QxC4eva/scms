@@ -1,0 +1,71 @@
+pokemon:
+  Tropius:
+    abilities:
+    - [Chlorophyll]
+    - bw: [Chlorophyll, Harvest, Solar Power]
+      dp: [Chlorophyll, Solar Power]
+    egggroups:
+    - [Monster, Plant]
+    height: [2]
+    introduction: rs
+    moves:
+    - bw: [Aerial Ace, Air Slash, Attract, Bestow, Body Slam, Bulldoze, Bullet Seed,
+        Curse, Cut, Double Team, Dragon Dance, Dragon Pulse, Earthquake, Energy Ball,
+        Facade, Flash, Fly, Frustration, Giga Drain, Giga Impact, Grass Knot, Growth,
+        Gust, Headbutt, Hyper Beam, Leaf Blade, Leaf Storm, Leaf Tornado, Leech Seed,
+        Leer, Magical Leaf, Natural Gift, Nature Power, Outrage, Protect, Razor Leaf,
+        Razor Wind, Rest, Return, Roar, Rock Smash, Roost, Round, Safeguard, Seed
+          Bomb, Slam, Sleep Talk, Snore, Solar Beam, Stomp, Strength, Substitute,
+        Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis, Tailwind, Toxic,
+        Whirlwind, Worry Seed, Double-Edge, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Aerial Ace, Air Cutter, Air Slash, Attract, Body Slam, Bullet Seed, Captivate,
+        Curse, Cut, Defog, Double Team, Dragon Dance, Earthquake, Endure, Energy Ball,
+        Facade, Flash, Fly, Frustration, Fury Cutter, Giga Drain, Giga Impact, Grass
+          Knot, Growth, Gust, Headbutt, Hyper Beam, Leaf Blade, Leaf Storm, Leech
+          Seed, Leer, Magical Leaf, Mud-Slap, Natural Gift, Nature Power, Ominous
+          Wind, Outrage, Protect, Razor Leaf, Razor Wind, Rest, Return, Roar, Rock
+          Smash, Roost, Safeguard, Secret Power, Silver Wind, Slam, Sleep Talk, Snore,
+        Solar Beam, Steel Wing, Stomp, Strength, Substitute, Sunny Day, Swagger, Sweet
+          Scent, Swords Dance, Synthesis, Tailwind, Toxic, Twister, Whirlwind, Worry
+          Seed, Double-Edge, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Attract, Body Slam, Bullet Seed, Cut, Double Team, Earthquake,
+        Endure, Facade, Flash, Fly, Frustration, Fury Cutter, Giga Drain, Growth,
+        Gust, Headbutt, Hyper Beam, Leech Seed, Leer, Magical Leaf, Mimic, Mud-Slap,
+        Nature Power, Protect, Razor Leaf, Razor Wind, Rest, Return, Roar, Rock Smash,
+        Safeguard, Secret Power, Slam, Sleep Talk, Snore, Solar Beam, Steel Wing,
+        Stomp, Strength, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance,
+        Synthesis, Toxic, Whirlwind, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Aerial Ace, Air Cutter, Air Slash, Attract, Bestow, Body Slam, Bulldoze,
+        Bullet Seed, Captivate, Curse, Cut, Defog, Double-Edge, Double Team, Dragon
+          Dance, Earthquake, Endure, Energy Ball, Facade, Flash, Fly, Frustration,
+        Fury Cutter, Giga Drain, Giga Impact, Grass Knot, Growth, Gust, Headbutt,
+        Hyper Beam, Leaf Blade, Leaf Storm, Leaf Tornado, Leech Seed, Leer, Magical
+          Leaf, Mimic, Mud-Slap, Natural Gift, Nature Power, Ominous Wind, Outrage,
+        Protect, Razor Leaf, Razor Wind, Rest, Return, Roar, Rock Smash, Roost, Round,
+        Safeguard, Secret Power, Silver Wind, Slam, Sleep Talk, Snore, Solar Beam,
+        Steel Wing, Stomp, Strength, Substitute, Sunny Day, Swagger, Sweet Scent,
+        Swords Dance, Synthesis, Tailwind, Toxic, Twister, Whirlwind, Worry Seed,
+        Seed Bomb, Dragon Pulse, Confide, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [99, 68, 83, 72, 87, 51]
+    tags:
+    - [NU]
+    types:
+    - [Flying, Grass]
+    weight: [100]

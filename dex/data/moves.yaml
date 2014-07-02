@@ -1,0 +1,7970 @@
+moves:
+  Absorb:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [Leeches 50% damage.]
+    introduction: rb
+    power: [20]
+    pp:
+    - 20
+    - {dp: 25}
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Acid:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [10% chance to lower Def 1 stage.]
+    introduction: rb
+    power: [40]
+    pp: [30]
+    priority: [0]
+    target: [enemies]
+    type: [Poison]
+  Acid Armor:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Boosts Def 2 stages.]
+    introduction: rb
+    power: [0]
+    pp:
+    - 40
+    - {xy: 20}
+    priority: [0]
+    target: [user]
+    type: [Poison]
+  Acid Spray:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Lowers target's Special Defense by 2 stages.]
+    introduction: bw
+    power: [40]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Poison]
+  Acrobatics:
+    accuracy: [100]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [Doubles in power if user has no held item.]
+    introduction: bw
+    power: [55]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Flying]
+  Acupressure:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Boosts a random stat 2 stages.]
+    introduction: dp
+    power: [0]
+    pp: [30]
+    priority: [0]
+    target: [unique1]
+    type: [Normal]
+  Aerial Ace:
+    accuracy: [0]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [Ignores accuracy modifiers.]
+    introduction: rs
+    power: [60]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Flying]
+  Aeroblast:
+    accuracy: [95]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description: [High critical hit rate.]
+    introduction: gs
+    power: [100]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Flying]
+  After You:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: [The target will attack immediately after the user in the same turn.]
+    introduction: bw
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Agility:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description:
+    - Boosts Spe 2 stages. Negates speed drop of paralysis.
+    - {gs: Boosts Spe 2 stages.}
+    introduction: rb
+    power: [0]
+    pp: [30]
+    priority: [0]
+    target: [user]
+    type: [Psychic]
+  Air Cutter:
+    accuracy: [95]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, xy: Special}
+    description: [High critical hit rate.]
+    introduction: rs
+    power:
+    - 55
+    - {xy: 60}
+    pp: [25]
+    priority: [0]
+    target: [enemies]
+    type: [Flying]
+  Air Slash:
+    accuracy: [95]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [High critical hit rate.]
+    introduction: dp
+    power: [75]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Flying]
+  Ally Switch:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: [Switches position with another Pokemon on user's side of the field.]
+    introduction: bw
+    power: [0]
+    pp: [15]
+    priority: [1]
+    target: [user]
+    type: [Psychic]
+  Amnesia:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description:
+    - Boosts Spc 2 stages.
+    - {gs: Boosts SpD 2 stages.}
+    introduction: rb
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [user]
+    type: [Psychic]
+  Ancient Power:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description: [10% chance to boost all stats 1 stage.]
+    introduction: gs
+    power: [60]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Rock]
+  Aqua Jet:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [The user always attacks first.]
+    introduction: dp
+    power: [40]
+    pp: [20]
+    priority: [1]
+    target: [enemy]
+    type: [Water]
+  Aqua Ring:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [User recovers 1/16th max HP each turn.]
+    introduction: dp
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [user]
+    type: [Water]
+  Aqua Tail:
+    accuracy: [90]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [No additional effect.]
+    introduction: dp
+    power: [90]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Water]
+  Arm Thrust:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [Hits 2-5 times in one turn.]
+    introduction: rs
+    power: [15]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Aromatherapy:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Cures status on the user's team.]
+    introduction: rs
+    power: [0]
+    pp: [5]
+    priority: [0]
+    target: [allies]
+    type: [Grass]
+  Aromatic Mist:
+    accuracy: [100]
+    category: [Non-Damaging]
+    description: [The user raises the Special Defense stat of itself and ally Pokemon
+        by 1.]
+    introduction: xy
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [self]
+    type: [Fairy]
+  Assist:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Uses a random move from the user's team.]
+    introduction: rs
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Assurance:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: ['Base Power doubles if the foe takes damage in the same turn, before
+        the attack hits.']
+    introduction: dp
+    power:
+    - 50
+    - {xy: 60}
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Dark]
+  Astonish:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [30% chance to flinch.]
+    introduction: rs
+    power: [30]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Ghost]
+  Attack Order:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Has a high critical hit rate.]
+    introduction: dp
+    power: [90]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Bug]
+  Attract:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Targets of the opposite gender are infatuated and have a 50% chance
+        to do nothing.]
+    introduction: gs
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Aura Sphere:
+    accuracy: [0]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [Ignores accuracy modifiers.]
+    introduction: dp
+    power:
+    - 90
+    - {xy: 80}
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Aurora Beam:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [10% chance to lower Atk 1 stage.]
+    introduction: rb
+    power: [65]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Ice]
+  Autotomize:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: [Boosts user's Speed by 2 stages. Reduces user's weight.]
+    introduction: bw
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [user]
+    type: [Steel]
+  Avalanche:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Doubles in power if damaged by the target.]
+    introduction: dp
+    power: [60]
+    pp: [10]
+    priority: [-4]
+    target: [enemy]
+    type: [Ice]
+  Baby-Doll Eyes:
+    accuracy: [100]
+    category: [Non-Damaging]
+    description: [Lowers the target's Attack by 1 stage. Priority +1.]
+    introduction: xy
+    power: [0]
+    pp: [30]
+    priority: [1]
+    target: [normal]
+    type: [Fairy]
+  Barrage:
+    accuracy: [85]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Hits 2-5 times in one turn.]
+    introduction: rb
+    power: [15]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Barrier:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Boosts Def 2 stages.]
+    introduction: rb
+    power: [0]
+    pp:
+    - 30
+    - {xy: 20}
+    priority: [0]
+    target: [user]
+    type: [Psychic]
+  Baton Pass:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: ['User switches, but passes on all stat changes and some special
+        conditions.']
+    introduction: gs
+    power: [0]
+    pp: [40]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Beat Up:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: ["All healthy Pok\xC3\xA9mon aid in damaging the target."]
+    introduction: gs
+    power:
+    - 10
+    - {bw: 0}
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Dark]
+  Belch:
+    accuracy: [90]
+    category: [Special]
+    description: [The user must eat a Berry to use this move.]
+    introduction: xy
+    power: [120]
+    pp: [10]
+    priority: [0]
+    target: [normal]
+    type: [Poison]
+  Belly Drum:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [User loses 50% max HP. Maximizes Atk.]
+    introduction: gs
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Bestow:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: [User passes its held item to the target.]
+    introduction: bw
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Bide:
+    accuracy: [0]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Charges for 2-3 turns; returns double the damage received in those
+        turns.]
+    introduction: rb
+    power:
+    - 0
+    - {bw: 0}
+    pp: [10]
+    priority:
+    - 0
+    - {dp: 1}
+    target: [user]
+    type: [Normal]
+  Bind:
+    accuracy:
+    - 75
+    - {bw: 85}
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Prevents the opponent from attacking for 2-5 turns.]
+    introduction: rb
+    power: [15]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Bite:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [10% chance to flinch.]
+    introduction: rb
+    power: [60]
+    pp: [25]
+    priority: [0]
+    target: [enemy]
+    type:
+    - Normal
+    - {gs: Dark}
+  Blast Burn:
+    accuracy: [90]
+    category:
+    - Special
+    - {bw: Special, dp: Special, xy: Special}
+    description: [User cannot move next turn.]
+    introduction: rs
+    power: [150]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Fire]
+  Blaze Kick:
+    accuracy: [90]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [High critical hit rate. 10% chance to burn the target.]
+    introduction: rs
+    power: [85]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Fire]
+  Blizzard:
+    accuracy:
+    - 90
+    - {gs: 70}
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [10% chance to freeze.]
+    introduction: rb
+    power:
+    - 120
+    - {xy: 110}
+    pp: [5]
+    priority: [0]
+    target: [enemies]
+    type: [Ice]
+  Block:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [The target cannot switch out.]
+    introduction: rs
+    power: [0]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Blue Flare:
+    accuracy: [85]
+    category:
+    - Special
+    - {xy: Special}
+    description: [20% chance to burn the target.]
+    introduction: bw
+    power: [130]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Fire]
+  Body Slam:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [30% chance to paralyze.]
+    introduction: rb
+    power: [85]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Bolt Strike:
+    accuracy: [85]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [20% chance to paralyze the target.]
+    introduction: bw
+    power: [130]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Electric]
+  Bone Club:
+    accuracy: [85]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [10% chance to flinch.]
+    introduction: rb
+    power: [65]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Ground]
+  Bone Rush:
+    accuracy: [80]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [Hits 2-5 times in one turn.]
+    introduction: gs
+    power: [25]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Ground]
+  Bonemerang:
+    accuracy: [90]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Hits twice in one turn.]
+    introduction: rb
+    power: [50]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Ground]
+  Boomburst:
+    accuracy: [100]
+    category: [Special]
+    description: ['Deals damage to all Pokemon within range, including any allies.']
+    introduction: xy
+    power: [140]
+    pp: [10]
+    priority: [0]
+    target: [allAdjacent]
+    type: [Normal]
+  Bounce:
+    accuracy: [85]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: ['User is made invulnerable for one turn, then hits the next turn.
+        30% chance to paralyze.']
+    introduction: rs
+    power: [85]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Flying]
+  Brave Bird:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Has 1/3 recoil damage.]
+    introduction: dp
+    power: [120]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Flying]
+  Brick Break:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: ['Destroys Light Screen and Reflect, then hits.']
+    introduction: rs
+    power: [75]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Brine:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [Base Power doubles if foe's HP is 50% or less.]
+    introduction: dp
+    power: [65]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Water]
+  Bubble:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [10% chance to lower Spe 1 stage.]
+    introduction: rb
+    power:
+    - 20
+    - {xy: 40}
+    pp: [30]
+    priority: [0]
+    target: [enemies]
+    type: [Water]
+  Bubble Beam:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [10% chance to lower Spe 1 stage.]
+    introduction: rb
+    power: [65]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Water]
+  Bug Bite:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Uses foe's Berry.]
+    introduction: dp
+    power: [60]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Bug]
+  Bug Buzz:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [10% chance to lower SpD 1 stage.]
+    introduction: dp
+    power: [90]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Bug]
+  Bulk Up:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Boosts Atk and Def 1 stage.]
+    introduction: rs
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [user]
+    type: [Fighting]
+  Bulldoze:
+    accuracy: [100]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [Lowers target's Speed by 1 stage.]
+    introduction: bw
+    power: [60]
+    pp: [20]
+    priority: [0]
+    target: [others]
+    type: [Ground]
+  Bullet Punch:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [The user always attacks first.]
+    introduction: dp
+    power: [40]
+    pp: [30]
+    priority: [1]
+    target: [enemy]
+    type: [Steel]
+  Bullet Seed:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [Hits 2-5 times in one turn.]
+    introduction: rs
+    power:
+    - 10
+    - {bw: 25}
+    pp: [30]
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Calm Mind:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Boosts SpA and SpD 1 stage.]
+    introduction: rs
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [user]
+    type: [Psychic]
+  Camouflage:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Changes user's type to Normal in link battles.]
+    introduction: rs
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Captivate:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Lowers an opposite gender foe's SpA 2 stages.]
+    introduction: dp
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [enemies]
+    type: [Normal]
+  Celebrate:
+    accuracy: [0]
+    category: [Non-Damaging]
+    description: [No in-game effect.]
+    introduction: xy
+    power: [0]
+    pp: [40]
+    priority: [0]
+    target: [self]
+    type: [Normal]
+  Charge:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Doubles power of an Electric-type move used next turn.]
+    introduction: rs
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [user]
+    type: [Electric]
+  Charge Beam:
+    accuracy: [90]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [70% chance to boost SpA 1 stage.]
+    introduction: dp
+    power: [50]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Electric]
+  Charm:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Lowers foe's Atk 2 stages.]
+    introduction: gs
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type:
+    - Normal
+    - {xy: Fairy}
+  Chatter:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [Confuses the target.]
+    introduction: dp
+    power:
+    - 60
+    - {xy: 65}
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Flying]
+  Chip Away:
+    accuracy: [100]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [Ignores the target's stat changes.]
+    introduction: bw
+    power: [70]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Circle Throw:
+    accuracy: [90]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [Forces the target to switch to a random Pokemon.]
+    introduction: bw
+    power: [60]
+    pp: [10]
+    priority: [-6]
+    target: [enemy]
+    type: [Fighting]
+  Clamp:
+    accuracy:
+    - 75
+    - {bw: 85}
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Prevents the opponent from attacking for 2-5 turns.]
+    introduction: rb
+    power: [35]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Water]
+  Clear Smog:
+    accuracy: [0]
+    category:
+    - Special
+    - {xy: Special}
+    description: [39.8% chance to poison.]
+    introduction: bw
+    power: [50]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Poison]
+  Close Combat:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Lowers user's Def and SpD 1 stage.]
+    introduction: dp
+    power: [120]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Coil:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: ['Boosts user''s Attack, Defense, and accuracy by 1 stage.']
+    introduction: bw
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [user]
+    type: [Poison]
+  Comet Punch:
+    accuracy: [85]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Hits 2-5 times in one turn.]
+    introduction: rb
+    power: [18]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Confide:
+    accuracy: [0]
+    category: [Non-Damaging]
+    description: [Lowers the target's Special Attack stat by 1.]
+    introduction: xy
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [normal]
+    type: [Normal]
+  Confuse Ray:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Confuses the target.]
+    introduction: rb
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Ghost]
+  Confusion:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [10% chance to confuse.]
+    introduction: rb
+    power: [50]
+    pp: [25]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Constrict:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [10% chance to lower Spe 1 stage.]
+    introduction: rb
+    power: [10]
+    pp: [35]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Conversion:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description:
+    - Changes user into opponent's type.
+    - {gs: Changes user into a new type based on the user's moves.}
+    introduction: rb
+    power: [0]
+    pp: [30]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Conversion 2:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Changes user into a new type that resists the last attack to hit
+        the user.]
+    introduction: gs
+    power: [0]
+    pp: [30]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Copycat:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Uses the last move used in the battle.]
+    introduction: dp
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Cosmic Power:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Boosts Def and SpD 1 stage.]
+    introduction: rs
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [user]
+    type: [Psychic]
+  Cotton Guard:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: [Boosts user's Defense by 3 stages.]
+    introduction: bw
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [user]
+    type: [Grass]
+  Cotton Spore:
+    accuracy:
+    - 85
+    - {bw: 100}
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Lowers foe's Spe 2 stages.]
+    introduction: gs
+    power: [0]
+    pp: [40]
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Counter:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description:
+    - If hit by a Normal- or Fighting-type attack, returns double the damage.
+    - {gs: 'If hit by a physical attack, returns double the damage.'}
+    introduction: rb
+    power:
+    - 0
+    - {bw: 0}
+    pp: [20]
+    priority:
+    - -1
+    - {dp: -5, rs: -4}
+    target: [lastenemy]
+    type: [Fighting]
+  Covet:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [Steals target's item.]
+    introduction: rs
+    power:
+    - 40
+    - {bw: 60}
+    pp:
+    - 40
+    - {xy: 25}
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Crabhammer:
+    accuracy:
+    - 85
+    - {bw: 90}
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [High critical hit rate.]
+    introduction: rb
+    power:
+    - 90
+    - {xy: 100}
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Water]
+  Crafty Shield:
+    accuracy: [0]
+    category: [Non-Damaging]
+    description: [Protects the user and allies from status moves. Priority +4.]
+    introduction: xy
+    power: [0]
+    pp: [10]
+    priority: [4]
+    target: [self]
+    type: [Fairy]
+  Cross Chop:
+    accuracy: [80]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [High critical hit rate.]
+    introduction: gs
+    power: [100]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Cross Poison:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Has a high critical hit rate. 10% chance to poison foe.]
+    introduction: dp
+    power: [70]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Poison]
+  Crunch:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [20% chance to lower SpD 1 stage.]
+    introduction: gs
+    power: [80]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Dark]
+  Crush Claw:
+    accuracy: [95]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [50% chance to lower Def 1 stage.]
+    introduction: rs
+    power: [75]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Crush Grip:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Base power depends on the foe's remaining HP.]
+    introduction: dp
+    power:
+    - 0
+    - {bw: 0}
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Curse:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Does 1/4 damage per turn at the cost of half the user's max HP if
+        the user is a Ghost. Boosts Atk and Def and lowers Spe 1 stage otherwise.]
+    introduction: gs
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [lastenemy]
+    type: [Ghost]
+  Cut:
+    accuracy: [95]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [No additional effect.]
+    introduction: rb
+    power: [50]
+    pp: [30]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Dark Pulse:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [20% chance to flinch.]
+    introduction: dp
+    power: [80]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Dark]
+  Dark Void:
+    accuracy: [80]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Induces sleep.]
+    introduction: dp
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemies]
+    type: [Dark]
+  Dazzling Gleam:
+    accuracy: [100]
+    category: [Special]
+    description: [Deals damage to all adjacent foes.]
+    introduction: xy
+    power: [80]
+    pp: [10]
+    priority: [0]
+    target: [allAdjacentFoes]
+    type: [Fairy]
+  Defend Order:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Boosts Def and SpD 1 stage.]
+    introduction: dp
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [user]
+    type: [Bug]
+  Defense Curl:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Boosts Def 1 stage.]
+    introduction: rb
+    power: [0]
+    pp: [40]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Defog:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Lowers target's evasion 1 stage. Removes various field effects.]
+    introduction: dp
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Flying]
+  Destiny Bond:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: ['If the user faints, the foe faints.']
+    introduction: gs
+    power: [0]
+    pp: [5]
+    priority: [0]
+    target: [user]
+    type: [Ghost]
+  Detect:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Prevents anything from working on the user that turn.]
+    introduction: gs
+    power: [0]
+    pp: [5]
+    priority:
+    - 2
+    - {bw: 4, dp: 3}
+    target: [user]
+    type: [Fighting]
+  Dig:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: ['User is made invulnerable for one turn, then hits the next turn.']
+    introduction: rb
+    power:
+    - 100
+    - {dp: 80, gs: 60}
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Ground]
+  Disable:
+    accuracy:
+    - 55
+    - {bw: 100, dp: 80}
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description:
+    - Randomly disables an opponent's move for 0-6 turns.
+    - {gs: Prevents the last move used from being used again for 2-5 turns.}
+    introduction: rb
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Disarming Voice:
+    accuracy: [0]
+    category: [Special]
+    description: [This attack never misses.]
+    introduction: xy
+    power: [40]
+    pp: [15]
+    priority: [0]
+    target: [normal]
+    type: [Fairy]
+  Discharge:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [30% chance to paralyze.]
+    introduction: dp
+    power: [80]
+    pp: [15]
+    priority: [0]
+    target: [others]
+    type: [Electric]
+  Dive:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: ['User is made invulnerable for one turn, then hits the next turn.']
+    introduction: rs
+    power:
+    - 60
+    - {dp: 80}
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Water]
+  Dizzy Punch:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description:
+    - No additional effect.
+    - {gs: 20% chance to confuse.}
+    introduction: rb
+    power: [70]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Doom Desire:
+    accuracy:
+    - 85
+    - {bw: 100}
+    category:
+    - Physical
+    - {bw: Special, dp: Special, xy: Special}
+    description: [Deals damage at the end of the turn after three turns.]
+    introduction: rs
+    power:
+    - 120
+    - {bw: 140}
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Steel]
+  Double Hit:
+    accuracy: [90]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Hits 2 times in one turn.]
+    introduction: dp
+    power: [35]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Double Kick:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Hits twice in 1 turn.]
+    introduction: rb
+    power: [30]
+    pp: [30]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Double Slap:
+    accuracy: [85]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Hits 2-5 times in 1 turn.]
+    introduction: rb
+    power: [15]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Double Team:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Boosts evasion 1 stage.]
+    introduction: rb
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Double-Edge:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description:
+    - Has 1/4 recoil.
+    - {gs: Has 1/3 recoil.}
+    introduction: rb
+    power:
+    - 100
+    - {gs: 120}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Draco Meteor:
+    accuracy: [90]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [Lowers user's SpA 2 stages.]
+    introduction: dp
+    power:
+    - 140
+    - {xy: 130}
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Dragon]
+  Dragon Breath:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description: [30% chance to paralyze.]
+    introduction: gs
+    power: [60]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Dragon]
+  Dragon Claw:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [No additional effect.]
+    introduction: rs
+    power: [80]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Dragon]
+  Dragon Dance:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Boosts Atk and Spe 1 stage.]
+    introduction: rs
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [user]
+    type: [Dragon]
+  Dragon Pulse:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [No additional effect.]
+    introduction: dp
+    power:
+    - 90
+    - {xy: 85}
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Dragon]
+  Dragon Rage:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [Always does 40 HP damage.]
+    introduction: rb
+    power:
+    - 0
+    - {bw: 0}
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Dragon]
+  Dragon Rush:
+    accuracy: [75]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [20% chance to flinch.]
+    introduction: dp
+    power: [100]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Dragon]
+  Dragon Tail:
+    accuracy: [90]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [Forces the target to switch to a random Pokemon.]
+    introduction: bw
+    power: [60]
+    pp: [10]
+    priority: [-6]
+    target: [enemy]
+    type: [Dragon]
+  Drain Punch:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Leeches 50% damage.]
+    introduction: dp
+    power:
+    - 60
+    - {bw: 75}
+    pp:
+    - 5
+    - {bw: 10}
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Draining Kiss:
+    accuracy: [100]
+    category: [Special]
+    description: ['Deals damage to one adjacent target. The user recovers 75% of the
+        HP lost by the target, rounded up. If Big Root is held by the user, the HP
+        recovered is 1.3x normal, rounded half down. Makes contact.']
+    introduction: xy
+    power: [50]
+    pp: [10]
+    priority: [0]
+    target: [normal]
+    type: [Fairy]
+  Dream Eater:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [Leeches 50% of the damage dealt. Only works if target is asleep.]
+    introduction: rb
+    power: [100]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Drill Peck:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [No additional effect.]
+    introduction: rb
+    power: [80]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Flying]
+  Drill Run:
+    accuracy: [95]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [Has a high critical hit rate.]
+    introduction: bw
+    power: [80]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Ground]
+  Dual Chop:
+    accuracy: [90]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [Hits 2 times in one turn.]
+    introduction: bw
+    power: [40]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Dragon]
+  Dynamic Punch:
+    accuracy: [50]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [Confuses the foe.]
+    introduction: gs
+    power: [100]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Earth Power:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [10% chance to lower SpD 1 stage.]
+    introduction: dp
+    power: [90]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Ground]
+  Earthquake:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description:
+    - No additional effect.
+    - {gs: Hits Pokemon using Dig with double Base Power.}
+    introduction: rb
+    power: [100]
+    pp: [10]
+    priority: [0]
+    target: [others]
+    type: [Ground]
+  Echoed Voice:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Power increases when used consecutively.]
+    introduction: bw
+    power: [40]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Eerie Impulse:
+    accuracy: [100]
+    category: [Non-Damaging]
+    description: [Harshly lowers the target's Special Attack stat.]
+    introduction: xy
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [normal]
+    type: [Electric]
+  Egg Bomb:
+    accuracy: [75]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [No additional effect.]
+    introduction: rb
+    power: [100]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Electric Terrain:
+    accuracy: [0]
+    category: [Non-Damaging]
+    description: ['For five turns, Pokemon on the ground cannot fall asleep, and will
+        be woken up if already sleeping. Their Electric-type moves are powered up
+        by 50%.']
+    introduction: xy
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [all]
+    type: [Electric]
+  Electrify:
+    accuracy: [0]
+    category: [Non-Damaging]
+    description: ['If the target is electrified before it uses a move during that
+        turn, the target''s move becomes Electric type.']
+    introduction: xy
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [normal]
+    type: [Electric]
+  Electro Ball:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Inflicts more damage the faster the user is compared to the target.]
+    introduction: bw
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Electric]
+  Electroweb:
+    accuracy: [95]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Lowers target's Speed by 1 stage.]
+    introduction: bw
+    power: [55]
+    pp: [15]
+    priority: [0]
+    target: [enemies]
+    type: [Electric]
+  Embargo:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Item use is prevented for five turns.]
+    introduction: dp
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Dark]
+  Ember:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [10% chance to burn.]
+    introduction: rb
+    power: [40]
+    pp: [25]
+    priority: [0]
+    target: [enemy]
+    type: [Fire]
+  Encore:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Causes the target to repeat the move 2-5 turns.]
+    introduction: gs
+    power: [0]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Endeavor:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [Lowers the target's HP to the user's HP.]
+    introduction: rs
+    power:
+    - 0
+    - {bw: 0}
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Endure:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [The user always survives with at least 1 HP.]
+    introduction: gs
+    power: [0]
+    pp: [10]
+    priority:
+    - 2
+    - {bw: 4, dp: 3}
+    target: [user]
+    type: [Normal]
+  Energy Ball:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [10% chance to lower SpD 1 stage.]
+    introduction: dp
+    power:
+    - 80
+    - {xy: 90}
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Entrainment:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: [Changes the target's ability to that of the user.]
+    introduction: bw
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Eruption:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, xy: Special}
+    description: [Does less damage as the user's HP decreases.]
+    introduction: rs
+    power: [150]
+    pp: [5]
+    priority: [0]
+    target: [enemies]
+    type: [Fire]
+  Explosion:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description:
+    - Faints the user.
+    - {gs: Faints the user.}
+    introduction: rb
+    power:
+    - 170
+    - {gs: 250}
+    pp: [5]
+    priority: [0]
+    target: [others]
+    type: [Normal]
+  Extrasensory:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, xy: Special}
+    description: [10% chance to flinch.]
+    introduction: rs
+    power: [80]
+    pp:
+    - 30
+    - {xy: 20}
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Extreme Speed:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [The user always attacks first.]
+    introduction: gs
+    power: [80]
+    pp: [5]
+    priority:
+    - 1
+    - {bw: 2}
+    target: [enemy]
+    type: [Normal]
+  Facade:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: ['Has 140 Base Power when burned, paralyzed, or poisoned.']
+    introduction: rs
+    power: [70]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Fairy Lock:
+    accuracy: [0]
+    category: [Non-Damaging]
+    description: [Keeps all Pokemon from fleeing during the next turn.]
+    introduction: xy
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [all]
+    type: [Fairy]
+  Fairy Wind:
+    accuracy: [100]
+    category: [Special]
+    description: [Deals damage to one adjacent target.]
+    introduction: xy
+    power: [40]
+    pp: [30]
+    priority: [0]
+    target: [normal]
+    type: [Fairy]
+  Fake Out:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: ['The user always moves first, and flinches the foe. Can only be
+        used on the first turn out.']
+    introduction: rs
+    power: [40]
+    pp: [10]
+    priority:
+    - 1
+    - {bw: 3}
+    target: [enemy]
+    type: [Normal]
+  Fake Tears:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Lowers SpD 2 stages.]
+    introduction: rs
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Dark]
+  False Swipe:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [Always leaves the foe with at least 1 HP.]
+    introduction: gs
+    power: [40]
+    pp: [40]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Feather Dance:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Lowers Atk 2 stages.]
+    introduction: rs
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Flying]
+  Feint:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Only works if the foe uses Detect or Protect; nullifies effects
+        of those moves.]
+    introduction: dp
+    power:
+    - 50
+    - {bw: 30}
+    pp: [10]
+    priority: [2]
+    target: [enemy]
+    type: [Normal]
+  Feint Attack:
+    accuracy: [0]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [Ignores accuracy modifiers.]
+    introduction: gs
+    power: [60]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Dark]
+  Fell Stinger:
+    accuracy: [100]
+    category: [Physical]
+    description: ['When the user knocks out a target with this move, the user''s Attack
+        stat rises sharply.']
+    introduction: xy
+    power: [30]
+    pp: [25]
+    priority: [0]
+    target: [normal]
+    type: [Bug]
+  Fiery Dance:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [50% chance to boost user's Special Attack by 1 stage.]
+    introduction: bw
+    power: [80]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Fire]
+  Final Gambit:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Faints the user. Target takes damage equal to the user's HP at the
+        time of use.]
+    introduction: bw
+    power: [0]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Fire Blast:
+    accuracy: [85]
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description:
+    - 30% chance to burn.
+    - {gs: 10% chance to burn.}
+    introduction: rb
+    power:
+    - 120
+    - {xy: 110}
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Fire]
+  Fire Fang:
+    accuracy: [95]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [10% chance to flinch. 10% chance to burn.]
+    introduction: dp
+    power: [65]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Fire]
+  Fire Pledge:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Use with Grass Pledge and Water Pledge for additional effect.]
+    introduction: bw
+    power:
+    - 50
+    - {xy: 80}
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Fire]
+  Fire Punch:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [10% chance to burn.]
+    introduction: rb
+    power: [75]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Fire]
+  Fire Spin:
+    accuracy:
+    - 70
+    - {bw: 85}
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [Prevents the opponent from attacking for 2-5 turns.]
+    introduction: rb
+    power:
+    - 15
+    - {bw: 35}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Fire]
+  Fissure:
+    accuracy: [30]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Will OHKO the target.]
+    introduction: rb
+    power:
+    - 0
+    - {bw: 0}
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Ground]
+  Flail:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [Does more damage as HP decreases.]
+    introduction: gs
+    power:
+    - 0
+    - {bw: 0}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Flame Burst:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Damages Pokemon next to the target as well.]
+    introduction: bw
+    power: [70]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Fire]
+  Flame Charge:
+    accuracy: [100]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [Boosts user's Speed by 1 stage.]
+    introduction: bw
+    power: [50]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Fire]
+  Flame Wheel:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [10% chance to burn. Thaws the user.]
+    introduction: gs
+    power: [60]
+    pp: [25]
+    priority: [0]
+    target: [enemy]
+    type: [Fire]
+  Flamethrower:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [10% chance to burn.]
+    introduction: rb
+    power:
+    - 95
+    - {xy: 90}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Fire]
+  Flare Blitz:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Has 1/3 recoil. 10% chance to burn.]
+    introduction: dp
+    power: [120]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Fire]
+  Flash:
+    accuracy:
+    - 70
+    - {dp: 100}
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Lowers foe's accuracy 1 stage.]
+    introduction: rb
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Flash Cannon:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [10% chance to lower SpD 1 stage.]
+    introduction: dp
+    power: [80]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Steel]
+  Flatter:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Confuses the foe. Boosts the foe's SpA 1 stage.]
+    introduction: rs
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Dark]
+  Fling:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Throws the user's hold item at the foe. Power and effect depend
+        on the item.]
+    introduction: dp
+    power:
+    - 0
+    - {bw: 0}
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Dark]
+  Flower Shield:
+    accuracy: [0]
+    category: [Non-Damaging]
+    description: [The user raises the Defense stat of all Grass-type Pokemon in battle.]
+    introduction: xy
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [all]
+    type: [Fairy]
+  Fly:
+    accuracy: [95]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: ['User is made invulnerable for one turn, then hits the next turn.']
+    introduction: rb
+    power:
+    - 70
+    - {dp: 90}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Flying]
+  Flying Press:
+    accuracy: [95]
+    category: [Physical]
+    description: [Both Fighting-type and Flying-type simultaneously.]
+    introduction: xy
+    power: [80]
+    pp: [10]
+    priority: [0]
+    target: [normal]
+    type: [Fighting]
+  Focus Blast:
+    accuracy: [70]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [10% chance to lower SpD 1 stage.]
+    introduction: dp
+    power: [120]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Focus Energy:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description:
+    - Reduces user's critical hit rate.
+    - {gs: Boosts critical hit rate 1 stage.}
+    introduction: rb
+    power: [0]
+    pp: [30]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Focus Punch:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [Fails if the user takes damage before it hits.]
+    introduction: rs
+    power: [150]
+    pp: [20]
+    priority:
+    - -2
+    - {dp: -3}
+    target: [enemy]
+    type: [Fighting]
+  Follow Me:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [All moves target the user.]
+    introduction: rs
+    power: [0]
+    pp: [20]
+    priority:
+    - 2
+    - {dp: 3}
+    target: [user]
+    type: [Normal]
+  Force Palm:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [30% chance to paralyze.]
+    introduction: dp
+    power: [60]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Foresight:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Blocks evasion modifiers. Allows Fighting- and Normal-type moves
+        to hit Ghost-types.]
+    introduction: gs
+    power: [0]
+    pp:
+    - 40
+    - {bw: 40, dp: 5}
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Forest's Curse:
+    accuracy: [100]
+    category: [Non-Damaging]
+    description: ['Adds Grass to the target''s type(s). If the target already has
+        three types, the third is replaced.']
+    introduction: xy
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [normal]
+    type: [Grass]
+  Foul Play:
+    accuracy: [100]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [Uses the target's Attack stat in damage calculation.]
+    introduction: bw
+    power: [95]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Dark]
+  Freeze Shock:
+    accuracy: [90]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [Hits the turn after being used. 30% chance to paralyze opponent.]
+    introduction: bw
+    power: [140]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Ice]
+  Freeze-Dry:
+    accuracy: [100]
+    category: [Special]
+    description: [Deals damage to one adjacent target with a 10% chance to freeze
+        it. Super-effective against Water-type Pokemon]
+    introduction: xy
+    power: [70]
+    pp: [20]
+    priority: [0]
+    target: [normal]
+    type: [Ice]
+  Frenzy Plant:
+    accuracy: [90]
+    category:
+    - Special
+    - {bw: Special, dp: Special, xy: Special}
+    description: [User cannot move next turn.]
+    introduction: rs
+    power: [150]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Frost Breath:
+    accuracy: [90]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Always results in a critical hit.]
+    introduction: bw
+    power:
+    - 40
+    - {xy: 60}
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Ice]
+  Frustration:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [No additional effect.]
+    introduction: gs
+    power:
+    - 0
+    - {bw: 0}
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Fury Attack:
+    accuracy: [85]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Hits 2-5 times in one turn.]
+    introduction: rb
+    power: [15]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Fury Cutter:
+    accuracy: [95]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [Power doubles with each consecutive hit.]
+    introduction: gs
+    power:
+    - 10
+    - {bw: 20, xy: 40}
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Bug]
+  Fury Swipes:
+    accuracy: [80]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Hits 2-5 times in one turn.]
+    introduction: rb
+    power: [18]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Fusion Bolt:
+    accuracy: [100]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [Power doubles if used after Fusion Flare.]
+    introduction: bw
+    power: [100]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Electric]
+  Fusion Flare:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Power doubles if used after Fusion Bolt.]
+    introduction: bw
+    power: [100]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Fire]
+  Future Sight:
+    accuracy:
+    - 90
+    - {bw: 100}
+    category:
+    - Special
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description: [Deals damage at the end of the turn after three turns.]
+    introduction: gs
+    power:
+    - 80
+    - {bw: 100, xy: 120}
+    pp:
+    - 15
+    - {bw: 10}
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Gastro Acid:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Nullifies the foe's ability.]
+    introduction: dp
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Poison]
+  Gear Grind:
+    accuracy: [85]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [Hits 2 times in one turn.]
+    introduction: bw
+    power: [50]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Steel]
+  Geomancy:
+    accuracy: [0]
+    category: [Non-Damaging]
+    description: ['The user charges turn one, then sharply raise Special Attack, Special
+        Defense, and Speed the next turn.']
+    introduction: xy
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [self]
+    type: [Fairy]
+  Giga Drain:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description: [Leeches 50% damage.]
+    introduction: gs
+    power:
+    - 60
+    - {bw: 75}
+    pp:
+    - 5
+    - {dp: 10}
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Giga Impact:
+    accuracy: [90]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [User cannot move next turn.]
+    introduction: dp
+    power: [150]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Glaciate:
+    accuracy: [95]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Lowers target's Speed by 1 stage.]
+    introduction: bw
+    power: [65]
+    pp: [10]
+    priority: [0]
+    target: [enemies]
+    type: [Ice]
+  Glare:
+    accuracy:
+    - 75
+    - {bw: 90, xy: 100}
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Paralyzes the target.]
+    introduction: rb
+    power: [0]
+    pp: [30]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Grass Knot:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [Deals damage based on the foe's weight.]
+    introduction: dp
+    power:
+    - 0
+    - {bw: 0}
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Grass Pledge:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Use with Grass Pledge and Water Pledge for additional effect.]
+    introduction: bw
+    power:
+    - 50
+    - {xy: 80}
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Grass Whistle:
+    accuracy: [55]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Puts the foe to sleep.]
+    introduction: rs
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Grassy Terrain:
+    accuracy: [0]
+    category: [Non-Damaging]
+    description: ['For five turns, Pokemon on the ground restore 1/16 of their HP
+        each turn. Their Grass-type moves are powered up by 50%.']
+    introduction: xy
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [all]
+    type: [Grass]
+  Gravity:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: ['For 5 turns, prevents flying or jumping; also disables Ground immunities.']
+    introduction: dp
+    power: [0]
+    pp: [5]
+    priority: [0]
+    target: [all]
+    type: [Psychic]
+  Growl:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Lowers target's Attack by 1 stage.]
+    introduction: rb
+    power: [0]
+    pp: [40]
+    priority: [0]
+    target: [enemies]
+    type: [Normal]
+  Growth:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Boosts Special one stage.]
+    introduction: rb
+    power: [0]
+    pp: [40]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Grudge:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: ['If the user faints, the foe''s attack loses all of its PP.']
+    introduction: rs
+    power: [0]
+    pp: [5]
+    priority: [0]
+    target: [user]
+    type: [Ghost]
+  Guard Split:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: [Averages Defense and Special Defense stats of the user with the
+        target.]
+    introduction: bw
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Guard Swap:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Swaps Def and SpD boosts and drops.]
+    introduction: dp
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Guillotine:
+    accuracy: [30]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Will OHKO the target.]
+    introduction: rb
+    power:
+    - 0
+    - {bw: 0}
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Gunk Shot:
+    accuracy:
+    - 70
+    - {xy: 80}
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [30% chance to poison.]
+    introduction: dp
+    power: [120]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Poison]
+  Gust:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description:
+    - No additional effect.
+    - {gs: "Hits Pok\xC3\xA9mon using Fly for twice base power."}
+    introduction: rb
+    power: [40]
+    pp: [35]
+    priority: [0]
+    target: [enemy]
+    type: [Flying]
+  Gyro Ball:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Does damage based on the foe's Speed and the user's Speed.]
+    introduction: dp
+    power:
+    - 0
+    - {bw: 0}
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Steel]
+  Hail:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Summons hail for 5 turns.]
+    introduction: rs
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [all]
+    type: [Ice]
+  Hammer Arm:
+    accuracy: [90]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Lowers user's Spe 1 stage.]
+    introduction: dp
+    power: [100]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Happy Hour:
+    accuracy: [0]
+    category: [Non-Damaging]
+    description: [No competitive effect. (Doubles the prize money received after battle.)]
+    introduction: xy
+    power: [0]
+    pp: [30]
+    priority: [0]
+    target: [self]
+    type: [Normal]
+  Harden:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Boosts user's Defense one stage.]
+    introduction: rb
+    power: [0]
+    pp: [30]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Haze:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Eliminates all stat changes.]
+    introduction: rb
+    power: [0]
+    pp: [30]
+    priority: [0]
+    target: [all]
+    type: [Ice]
+  Head Charge:
+    accuracy: [100]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [Has 25% recoil.]
+    introduction: bw
+    power: [120]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Head Smash:
+    accuracy: [80]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Has 1/2 recoil.]
+    introduction: dp
+    power: [150]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Rock]
+  Headbutt:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [30% chance to flinch the target.]
+    introduction: rb
+    power: [70]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Heal Bell:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Cures status on the user's team.]
+    introduction: gs
+    power: [0]
+    pp: [5]
+    priority: [0]
+    target: [allies]
+    type: [Normal]
+  Heal Block:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Prevents the foes from using healing moves for 5 turns.]
+    introduction: dp
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [enemies]
+    type: [Psychic]
+  Heal Order:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Heals 50% max HP.]
+    introduction: dp
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [user]
+    type: [Bug]
+  Heal Pulse:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: [Heals the target by 50% its max HP.]
+    introduction: bw
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Healing Wish:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: ["KOs the user and heals the next Pok\xC3\xA9mon in."]
+    introduction: dp
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [user]
+    type: [Psychic]
+  Heart Stamp:
+    accuracy: [100]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [30% chance to flinch the target.]
+    introduction: bw
+    power: [60]
+    pp: [25]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Heart Swap:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Swaps stat boosts and drops.]
+    introduction: dp
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Heat Crash:
+    accuracy: [100]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [Deals damage based on both the user's and the target's weight.]
+    introduction: bw
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Fire]
+  Heat Wave:
+    accuracy: [90]
+    category:
+    - Special
+    - {bw: Special, dp: Special, xy: Special}
+    description: [10% chance to burn.]
+    introduction: rs
+    power:
+    - 100
+    - {xy: 95}
+    pp: [10]
+    priority: [0]
+    target: [enemies]
+    type: [Fire]
+  Heavy Slam:
+    accuracy: [100]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [Deals damage based on both the user's and the target's weight.]
+    introduction: bw
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Steel]
+  Helping Hand:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Increases power of ally's moves 50%.]
+    introduction: rs
+    power: [0]
+    pp: [20]
+    priority:
+    - 4
+    - {dp: 5}
+    target: [ally]
+    type: [Normal]
+  Hex:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Base Power doubles if target has a status ailment.]
+    introduction: bw
+    power:
+    - 50
+    - {xy: 65}
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Ghost]
+  Hidden Power Bug:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description:
+    - Has 30-70 power based on the user's IVs.
+    - {xy: Has 30-60 power based on the user's IVs.}
+    introduction: gs
+    power:
+    - 70
+    - {xy: 60}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Bug]
+  Hidden Power Dark:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description:
+    - Has 30-70 power based on the user's IVs.
+    - {xy: Has 30-60 power based on the user's IVs.}
+    introduction: gs
+    power:
+    - 70
+    - {xy: 60}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Dark]
+  Hidden Power Dragon:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description:
+    - Has 30-70 power based on the user's IVs.
+    - {xy: Has 30-60 power based on the user's IVs.}
+    introduction: gs
+    power:
+    - 70
+    - {xy: 60}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Dragon]
+  Hidden Power Electric:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description:
+    - Has 30-70 power based on the user's IVs.
+    - {xy: Has 30-60 power based on the user's IVs.}
+    introduction: gs
+    power:
+    - 70
+    - {xy: 60}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Electric]
+  Hidden Power Fighting:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description:
+    - Has 30-70 power based on the user's IVs.
+    - {xy: Has 30-60 power based on the user's IVs.}
+    introduction: gs
+    power:
+    - 70
+    - {xy: 60}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Hidden Power Fire:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description:
+    - Has 30-70 power based on the user's IVs.
+    - {xy: Has 30-60 power based on the user's IVs.}
+    introduction: gs
+    power:
+    - 70
+    - {xy: 60}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Fire]
+  Hidden Power Flying:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description:
+    - Has 30-70 power based on the user's IVs.
+    - {xy: Has 30-60 power based on the user's IVs.}
+    introduction: gs
+    power:
+    - 70
+    - {xy: 60}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Flying]
+  Hidden Power Ghost:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description:
+    - Has 30-70 power based on the user's IVs.
+    - {xy: Has 30-60 power based on the user's IVs.}
+    introduction: gs
+    power:
+    - 70
+    - {xy: 60}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Ghost]
+  Hidden Power Grass:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description:
+    - Has 30-70 power based on the user's IVs.
+    - {xy: Has 30-60 power based on the user's IVs.}
+    introduction: gs
+    power:
+    - 70
+    - {xy: 60}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Hidden Power Ground:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description:
+    - Has 30-70 power based on the user's IVs.
+    - {xy: Has 30-60 power based on the user's IVs.}
+    introduction: gs
+    power:
+    - 70
+    - {xy: 60}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Ground]
+  Hidden Power Ice:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description:
+    - Has 30-70 power based on the user's IVs.
+    - {xy: Has 30-60 power based on the user's IVs.}
+    introduction: gs
+    power:
+    - 70
+    - {xy: 60}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Ice]
+  Hidden Power Poison:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description:
+    - Has 30-70 power based on the user's IVs.
+    - {xy: Has 30-60 power based on the user's IVs.}
+    introduction: gs
+    power:
+    - 70
+    - {xy: 60}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Poison]
+  Hidden Power Psychic:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description:
+    - Has 30-70 power based on the user's IVs.
+    - {xy: Has 30-60 power based on the user's IVs.}
+    introduction: gs
+    power:
+    - 70
+    - {xy: 60}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Hidden Power Rock:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description:
+    - Has 30-70 power based on the user's IVs.
+    - {xy: Has 30-60 power based on the user's IVs.}
+    introduction: gs
+    power:
+    - 70
+    - {xy: 60}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Rock]
+  Hidden Power Steel:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description:
+    - Has 30-70 power based on the user's IVs.
+    - {xy: Has 30-60 power based on the user's IVs.}
+    introduction: gs
+    power:
+    - 70
+    - {xy: 60}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Steel]
+  Hidden Power Water:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description:
+    - Has 30-70 power based on the user's IVs.
+    - {xy: Has 30-60 power based on the user's IVs.}
+    introduction: gs
+    power:
+    - 70
+    - {xy: 60}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Water]
+  High Jump Kick:
+    accuracy: [90]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description:
+    - User takes 1 HP recoil if attack misses.
+    - {gs: 'If it misses, user loses HP equal to 1/2 the damage that would have been
+        dealt.'}
+    introduction: rb
+    power:
+    - 85
+    - {bw: 130, dp: 100}
+    pp:
+    - 20
+    - {bw: 10}
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Hold Back:
+    accuracy: [100]
+    category: [Physical]
+    description: [Deals damage to one adjacent target but leaves it with at least
+        1HP. Makes contact.]
+    introduction: xy
+    power: [40]
+    pp: [40]
+    priority: [0]
+    target: [normal]
+    type: [Normal]
+  Hone Claws:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: [Boosts Attack and accuracy one stage.]
+    introduction: bw
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [user]
+    type: [Dark]
+  Horn Attack:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [No additional effect.]
+    introduction: rb
+    power: [65]
+    pp: [25]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Horn Drill:
+    accuracy: [30]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Will OHKO the target.]
+    introduction: rb
+    power:
+    - 0
+    - {bw: 0}
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Horn Leech:
+    accuracy: [100]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [Leeches 50% of the damage dealt.]
+    introduction: bw
+    power: [75]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Howl:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Boosts Atk 1 stage.]
+    introduction: rs
+    power: [0]
+    pp: [40]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Hurricane:
+    accuracy: [70]
+    category:
+    - Special
+    - {xy: Special}
+    description: [30% chance to confuse the target.]
+    introduction: bw
+    power:
+    - 120
+    - {xy: 110}
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Flying]
+  Hydro Cannon:
+    accuracy: [90]
+    category:
+    - Special
+    - {bw: Special, dp: Special, xy: Special}
+    description: [User cannot move next turn.]
+    introduction: rs
+    power: [150]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Water]
+  Hydro Pump:
+    accuracy: [80]
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [No additional effect.]
+    introduction: rb
+    power:
+    - 120
+    - {xy: 110}
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Water]
+  Hyper Beam:
+    accuracy: [90]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description:
+    - User cannot move next turn, unless opponent or Substitute was KOed.
+    - {gs: User cannot move next turn.}
+    introduction: rb
+    power: [150]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Hyper Fang:
+    accuracy: [90]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [10% chance to flinch the target.]
+    introduction: rb
+    power: [80]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Hyper Voice:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, xy: Special}
+    description: [No additional effect.]
+    introduction: rs
+    power: [90]
+    pp: [10]
+    priority: [0]
+    target: [enemies]
+    type: [Normal]
+  Hypnosis:
+    accuracy: [60]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Puts the foe to sleep.]
+    introduction: rb
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Ice Ball:
+    accuracy: [90]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [Doubles in power with each hit. Repeats for 5 turns.]
+    introduction: rs
+    power: [30]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Ice]
+  Ice Beam:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [10% chance to freeze the target.]
+    introduction: rb
+    power:
+    - 95
+    - {xy: 90}
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Ice]
+  Ice Burn:
+    accuracy: [90]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Hits the turn after being used. 30% chance to burn the target.]
+    introduction: bw
+    power: [140]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Ice]
+  Ice Fang:
+    accuracy: [95]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [10% chance to flinch. 10% chance to freeze.]
+    introduction: dp
+    power: [65]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Ice]
+  Ice Punch:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [10% chance to freeze the target.]
+    introduction: rb
+    power: [75]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Ice]
+  Ice Shard:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [The user always attacks first.]
+    introduction: dp
+    power: [40]
+    pp: [30]
+    priority: [1]
+    target: [enemy]
+    type: [Ice]
+  Icicle Crash:
+    accuracy: [90]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [30% chance to flinch the target.]
+    introduction: bw
+    power: [85]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Ice]
+  Icicle Spear:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [Hits 2-5 times in one turn.]
+    introduction: rs
+    power:
+    - 10
+    - {bw: 25}
+    pp: [30]
+    priority: [0]
+    target: [enemy]
+    type: [Ice]
+  Icy Wind:
+    accuracy: [95]
+    category:
+    - Special
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description: [Lowers foe's Spe 1 stage.]
+    introduction: gs
+    power: [55]
+    pp: [15]
+    priority: [0]
+    target: [enemies]
+    type: [Ice]
+  Imprison:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [No foe can use any of the user's moves.]
+    introduction: rs
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [user]
+    type: [Psychic]
+  Incinerate:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Removes the target's Berry.]
+    introduction: bw
+    power:
+    - 30
+    - {xy: 60}
+    pp: [15]
+    priority: [0]
+    target: [enemies]
+    type: [Fire]
+  Inferno:
+    accuracy: [50]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Burns the target.]
+    introduction: bw
+    power: [100]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Fire]
+  Infestation:
+    accuracy: [100]
+    category: [Special]
+    description: ['Deals damage to one adjacent target and prevents it from switching
+        for four or five turns; seven turns if the user is holding Grip Claw. Causes
+        damage to the target equal to 1/16 of its maximum HP (1/8 if the user is holding
+        Binding Band), rounded down, at the end of each turn during effect. The target
+        can still switch out if it is holding Shed Shell or uses Baton Pass, U-turn,
+        or Volt Switch. The effect ends if either the user or the target leaves the
+        field, or if the target uses Rapid Spin. This effect is not stackable or reset
+        by using this or another partial-trapping move.']
+    introduction: xy
+    power: [20]
+    pp: [20]
+    priority: [0]
+    target: [normal]
+    type: [Bug]
+  Ingrain:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Heals the user 1/16 its max HP each turn. Prevents the user from
+        switching.]
+    introduction: rs
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [user]
+    type: [Grass]
+  Ion Deluge:
+    accuracy: [0]
+    category: [Non-Damaging]
+    description: [Changes Normal-type moves to Electric-type moves.]
+    introduction: xy
+    power: [0]
+    pp: [25]
+    priority: [1]
+    target: [all]
+    type: [Electric]
+  Iron Defense:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Boosts Def 2 stages.]
+    introduction: rs
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [user]
+    type: [Steel]
+  Iron Head:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [30% chance to flinch.]
+    introduction: dp
+    power: [80]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Steel]
+  Iron Tail:
+    accuracy: [75]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [30% chance to lower Def 1 stage.]
+    introduction: gs
+    power: [100]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Steel]
+  Judgment:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [Type is dependent on the user's held plate item.]
+    introduction: dp
+    power: [100]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Jump Kick:
+    accuracy: [95]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description:
+    - User takes 1 HP recoil if attack misses.
+    - {gs: 'If it misses, user loses HP equal to 1/2 the damage that would have been
+        dealt.'}
+    introduction: rb
+    power:
+    - 70
+    - {bw: 100, dp: 85}
+    pp:
+    - 25
+    - {bw: 10}
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Karate Chop:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Has a high critical hit rate.]
+    introduction: rb
+    power: [50]
+    pp: [25]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Kinesis:
+    accuracy: [80]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Lowers target's accuracy 1 stage.]
+    introduction: rb
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  King's Shield:
+    accuracy: [0]
+    category: [Non-Damaging]
+    description: [Protects the user from attacks. Contactors get their Attack lowered
+        by 2 stages. Priority +4]
+    introduction: xy
+    power: [0]
+    pp: [10]
+    priority: [4]
+    target: [self]
+    type: [Steel]
+  Knock Off:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description:
+    - Removes the target's item.
+    - {xy: Power is boosted 1.5x if user is holding a removable item. Removes the
+        target's item.}
+    introduction: rs
+    power:
+    - 20
+    - {xy: 65}
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Dark]
+  Land's Wrath:
+    accuracy: [100]
+    category: [Physical]
+    description: [Deals damage to one adjacent target.]
+    introduction: xy
+    power: [90]
+    pp: [10]
+    priority: [0]
+    target: [allAdjacentFoes]
+    type: [Ground]
+  Last Resort:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Can only be used if all other moves have been used once.]
+    introduction: dp
+    power:
+    - 130
+    - {bw: 140}
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Lava Plume:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [30% chance to burn.]
+    introduction: dp
+    power: [80]
+    pp: [15]
+    priority: [0]
+    target: [others]
+    type: [Fire]
+  Leaf Blade:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [High critical hit rate.]
+    introduction: rs
+    power:
+    - 70
+    - {dp: 90}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Leaf Storm:
+    accuracy: [90]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [Lowers user's SpA 2 stages.]
+    introduction: dp
+    power:
+    - 140
+    - {xy: 130}
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Leaf Tornado:
+    accuracy: [90]
+    category:
+    - Special
+    - {xy: Special}
+    description: [50% chance to lower target's accuracy by 1 stage.]
+    introduction: bw
+    power: [65]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Leech Life:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Leeches 50% of the damage dealt.]
+    introduction: rb
+    power: [20]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Bug]
+  Leech Seed:
+    accuracy: [90]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description:
+    - Leeches 1/16 of the target's HP each turn.
+    - {gs: Leeches 1/8 of the target's HP each turn.}
+    introduction: rb
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Leer:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Lowers target's Defense by 1 stage.]
+    introduction: rb
+    power: [0]
+    pp: [30]
+    priority: [0]
+    target: [enemies]
+    type: [Normal]
+  Lick:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [30% chance to paralyze the target.]
+    introduction: rb
+    power:
+    - 20
+    - {xy: 30}
+    pp: [30]
+    priority: [0]
+    target: [enemy]
+    type: [Ghost]
+  Light Screen:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description:
+    - Halves Special damage done to user.
+    - {gs: Lowers damage from special attacks for 5 turns.}
+    introduction: rb
+    power: [0]
+    pp: [30]
+    priority: [0]
+    target: [allies]
+    type: [Psychic]
+  Lock-On:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [The next move used will always hit.]
+    introduction: gs
+    power: [0]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Lovely Kiss:
+    accuracy: [75]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Puts the target to sleep.]
+    introduction: rb
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Low Kick:
+    accuracy:
+    - 90
+    - {gs: 100}
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description:
+    - 30% chance to flinch foe.
+    - {gs: Deals damage based on the foe's weight.}
+    introduction: rb
+    power:
+    - 50
+    - {bw: 0, gs: 0}
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Low Sweep:
+    accuracy: [100]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [Lowers target's Speed by 1 stage.]
+    introduction: bw
+    power:
+    - 60
+    - {xy: 65}
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Lucky Chant:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Blocks critical hits for 5 turns.]
+    introduction: dp
+    power: [0]
+    pp: [30]
+    priority: [0]
+    target: [allies]
+    type: [Normal]
+  Lunar Dance:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: ["KOs the user, then heals the next Pok\xC3\xA9mon in."]
+    introduction: dp
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [user]
+    type: [Psychic]
+  Luster Purge:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, xy: Special}
+    description: [50% chance to lower SpD 1 stage.]
+    introduction: rs
+    power: [70]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Mach Punch:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [The user always attacks first.]
+    introduction: gs
+    power: [40]
+    pp: [30]
+    priority: [1]
+    target: [enemy]
+    type: [Fighting]
+  Magic Coat:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Bounces back certain non-damaging moves.]
+    introduction: rs
+    power: [0]
+    pp: [15]
+    priority:
+    - 3
+    - {dp: 4}
+    target: [user]
+    type: [Psychic]
+  Magic Room:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: [Held items have no effect for 5 turns.]
+    introduction: bw
+    power: [0]
+    pp: [10]
+    priority: [-7]
+    target: [all]
+    type: [Psychic]
+  Magical Leaf:
+    accuracy: [0]
+    category:
+    - Special
+    - {bw: Special, dp: Special, xy: Special}
+    description: [Ignores accuracy modifiers.]
+    introduction: rs
+    power: [60]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Magma Storm:
+    accuracy:
+    - 70
+    - {bw: 75}
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [Traps and damages over multiple turns.]
+    introduction: dp
+    power:
+    - 120
+    - {xy: 100}
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Fire]
+  Magnet Bomb:
+    accuracy: [0]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Ignores accuracy modifiers.]
+    introduction: dp
+    power: [60]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Steel]
+  Magnet Rise:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [User becomes immune to Ground moves for 5 turns.]
+    introduction: dp
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [user]
+    type: [Electric]
+  Magnetic Flux:
+    accuracy: [0]
+    category: [Non-Damaging]
+    description: ["Raises the Defense and Sp. Def stats of ally Pok\xC3\xA9mon with
+        the Plus or Minus Ability."]
+    introduction: xy
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [allySide]
+    type: [Electric]
+  Magnitude:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [Has variable damage.]
+    introduction: gs
+    power:
+    - 0
+    - {bw: 0}
+    pp: [30]
+    priority: [0]
+    target: [others]
+    type: [Ground]
+  Mat Block:
+    accuracy: [0]
+    category: [Non-Damaging]
+    description: [The user protects itself and its allies from damaging moves. Only
+        works first turn out.]
+    introduction: xy
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [allySide]
+    type: [Fighting]
+  Me First:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Uses the foe's attack at 1.5x power. Must be faster to work.]
+    introduction: dp
+    power:
+    - 0
+    - {bw: 0}
+    pp: [20]
+    priority: [0]
+    target: [unique2]
+    type: [Normal]
+  Mean Look:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [The target cannot switch out.]
+    introduction: gs
+    power: [0]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Meditate:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Boosts user's Attack by 1 stage.]
+    introduction: rb
+    power: [0]
+    pp: [40]
+    priority: [0]
+    target: [user]
+    type: [Psychic]
+  Mega Drain:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [Leeches 50% of the damage dealt.]
+    introduction: rb
+    power: [40]
+    pp:
+    - 10
+    - {dp: 15}
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Mega Kick:
+    accuracy: [75]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [No additional effect.]
+    introduction: rb
+    power: [120]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Mega Punch:
+    accuracy: [85]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [No additional effect.]
+    introduction: rb
+    power: [80]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Megahorn:
+    accuracy: [85]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [No additional effect.]
+    introduction: gs
+    power: [120]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Bug]
+  Memento:
+    accuracy:
+    - 0
+    - {dp: 100}
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [User faints. Lowers foe's Atk and SpA 2 stages.]
+    introduction: rs
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Dark]
+  Metal Burst:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: ['Counters foe''s attack with 1.5x damage, but must go last.']
+    introduction: dp
+    power:
+    - 0
+    - {bw: 0}
+    pp: [10]
+    priority: [0]
+    target: [lastenemy]
+    type: [Steel]
+  Metal Claw:
+    accuracy: [95]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [10% chance to boost Atk 1 stage.]
+    introduction: gs
+    power: [50]
+    pp: [35]
+    priority: [0]
+    target: [enemy]
+    type: [Steel]
+  Metal Sound:
+    accuracy: [85]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Lower's SpD 2 stages.]
+    introduction: rs
+    power: [0]
+    pp: [40]
+    priority: [0]
+    target: [enemy]
+    type: [Steel]
+  Meteor Mash:
+    accuracy:
+    - 85
+    - {xy: 90}
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [20% chance to raise Atk 1 stage.]
+    introduction: rs
+    power:
+    - 100
+    - {xy: 90}
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Steel]
+  Metronome:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Picks a random move.]
+    introduction: rb
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Milk Drink:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Heals 50% max HP.]
+    introduction: gs
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Mimic:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description:
+    - Copies a random move the foe knows.
+    - {gs: Copies the last move used by the target.}
+    introduction: rb
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Mind Reader:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [The next move used will always hit.]
+    introduction: gs
+    power: [0]
+    pp:
+    - 5
+    - {bw: 5, dp: 40}
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Minimize:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Boosts evasion 1 stage.]
+    introduction: rb
+    power: [0]
+    pp:
+    - 20
+    - {xy: 10}
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Miracle Eye:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Nullifies evasion. Allows Psychic-type moves to hit Darks.]
+    introduction: dp
+    power: [0]
+    pp: [40]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Mirror Coat:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description: ['If hit by a special attack, returns double the damage.']
+    introduction: gs
+    power:
+    - 0
+    - {bw: 0}
+    pp: [20]
+    priority:
+    - -1
+    - {dp: -5, rs: -4}
+    target: [lastenemy]
+    type: [Psychic]
+  Mirror Move:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description:
+    - Use the attack that your opponent just used.
+    - {gs: Uses the last move that hit the user.}
+    introduction: rb
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Flying]
+  Mirror Shot:
+    accuracy: [85]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [30% chance to lower accuracy 1 stage.]
+    introduction: dp
+    power: [65]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Steel]
+  Mist:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Prevents moves that lower stats from working for 5 turns.]
+    introduction: rb
+    power: [0]
+    pp: [30]
+    priority: [0]
+    target: [allies]
+    type: [Ice]
+  Mist Ball:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, xy: Special}
+    description: [50% chance to lower SpA 1 stage.]
+    introduction: rs
+    power: [70]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Misty Terrain:
+    accuracy: [0]
+    category: [Non-Damaging]
+    description: ['For five turns, Grounded Pokemon cannot have major status problems
+        or confusion inflicted on them by other Pokemon. Their Dragon-type moves are
+        weakened by 50%.']
+    introduction: xy
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [all]
+    type: [Fairy]
+  Moonblast:
+    accuracy: [100]
+    category: [Special]
+    description: [Deals damage to one adjacent target with a 30% chance to lower its
+        Special Attack by 1 stage.]
+    introduction: xy
+    power: [95]
+    pp: [15]
+    priority: [0]
+    target: [normal]
+    type: [Fairy]
+  Moonlight:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Heals variably depending on the weather.]
+    introduction: gs
+    power: [0]
+    pp: [5]
+    priority: [0]
+    target: [user]
+    type:
+    - Normal
+    - {xy: Fairy}
+  Morning Sun:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Heals variably depending on the weather.]
+    introduction: gs
+    power: [0]
+    pp: [5]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Mud Bomb:
+    accuracy: [85]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [30% chance to lower accuracy 1 stage.]
+    introduction: dp
+    power: [65]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Ground]
+  Mud Shot:
+    accuracy: [95]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, xy: Special}
+    description: [Lowers Spe 1 stage.]
+    introduction: rs
+    power: [55]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Ground]
+  Mud Sport:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Electric-type attacks do 50% damage.]
+    introduction: rs
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [all]
+    type: [Ground]
+  Mud-Slap:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description: [Lowers accuracy 1 stage.]
+    introduction: gs
+    power: [20]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Ground]
+  Muddy Water:
+    accuracy: [85]
+    category:
+    - Special
+    - {bw: Special, dp: Special, xy: Special}
+    description: [30% chance to lower accuracy 1 stage.]
+    introduction: rs
+    power:
+    - 95
+    - {xy: 90}
+    pp: [10]
+    priority: [0]
+    target: [enemies]
+    type: [Water]
+  Mystical Fire:
+    accuracy: [100]
+    category: [Special]
+    description: [Deals damage to one adjacent target and lowers its Special Attack
+        by 1 stage.]
+    introduction: xy
+    power: [65]
+    pp: [10]
+    priority: [0]
+    target: [normal]
+    type: [Fire]
+  Nasty Plot:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Boosts SpA 2 stages.]
+    introduction: dp
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [user]
+    type: [Dark]
+  Natural Gift:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Power and type depends on the user's held Berry.]
+    introduction: dp
+    power:
+    - 0
+    - {bw: 0}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Nature Power:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Attack changes based on terrain.]
+    introduction: rs
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [lastenemy]
+    type: [Normal]
+  Needle Arm:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [30% chance to flinch.]
+    introduction: rs
+    power: [60]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Night Daze:
+    accuracy: [95]
+    category:
+    - Special
+    - {xy: Special}
+    description: [40% chance to lower target's accuracy by 1 stage.]
+    introduction: bw
+    power: [85]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Dark]
+  Night Shade:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [Does damage equal to the user's level.]
+    introduction: rb
+    power:
+    - 0
+    - {bw: 0}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Ghost]
+  Night Slash:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Has a high critical hit rate.]
+    introduction: dp
+    power: [70]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Dark]
+  Nightmare:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Does 1/4 of the target's max HP per turn to a sleeping target.]
+    introduction: gs
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Ghost]
+  Noble Roar:
+    accuracy: [100]
+    category: [Non-Damaging]
+    description: [Lowers the target's Attack and Special Attack by 1 stage. Pokemon
+        protected by Magic Coat or the Ability Magic Bounce are unaffected and instead
+        use this move themselves.]
+    introduction: xy
+    power: [0]
+    pp: [30]
+    priority: [0]
+    target: [normal]
+    type: [Normal]
+  Nuzzle:
+    accuracy: [100]
+    category: [Physical]
+    description: [Deals damage and paralyzes the target.]
+    introduction: xy
+    power: [20]
+    pp: [20]
+    priority: [0]
+    target: [normal]
+    type: [Electric]
+  Oblivion Wing:
+    accuracy: [100]
+    category: [Special]
+    description: ['Deals damage to one adjacent target. The user recovers 75% of the
+        HP lost by the target, rounded up.']
+    introduction: xy
+    power: [80]
+    pp: [10]
+    priority: [0]
+    target: [normal]
+    type: [Flying]
+  Octazooka:
+    accuracy: [85]
+    category:
+    - Special
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description: [50% chance to lower accuracy 1 stage.]
+    introduction: gs
+    power: [65]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Water]
+  Odor Sleuth:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Blocks evasion modifiers. Allows Fighting- and Normal-type moves
+        to hit Ghosts.]
+    introduction: rs
+    power: [0]
+    pp: [40]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Ominous Wind:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [10% chance to boost all stats 1 stage.]
+    introduction: dp
+    power: [60]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Ghost]
+  Outrage:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [Repeats for 2-3 turns. Confuses at the end.]
+    introduction: gs
+    power:
+    - 90
+    - {dp: 120}
+    pp: [15]
+    priority: [0]
+    target: [randenemy]
+    type: [Dragon]
+  Overheat:
+    accuracy: [90]
+    category:
+    - Special
+    - {bw: Special, dp: Special, xy: Special}
+    description: [Lowers SpA 2 stages.]
+    introduction: rs
+    power:
+    - 140
+    - {xy: 130}
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Fire]
+  Pain Split:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: ["Averages both Pok\xC3\xA9mon's HP."]
+    introduction: gs
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Parabolic Charge:
+    accuracy: [100]
+    category: [Special]
+    description: ['Deals damage to all adjacent targets. The user recovers half of
+        the HP lost by the target, rounded up.']
+    introduction: xy
+    power: [50]
+    pp: [20]
+    priority: [0]
+    target: [allAdjacent]
+    type: [Electric]
+  Parting Shot:
+    accuracy: [100]
+    category: [Non-Damaging]
+    description: ['Lowers all adjacent foes'' Attack and Special Attack by 1 stage,
+        then the user switches out.']
+    introduction: xy
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [normal]
+    type: [Dark]
+  Pay Day:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [No additional effect.]
+    introduction: rb
+    power: [40]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Payback:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Base Power doubles if the foe has taken its turn.]
+    introduction: dp
+    power: [50]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Dark]
+  Peck:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [No additional effect.]
+    introduction: rb
+    power: [35]
+    pp: [35]
+    priority: [0]
+    target: [enemy]
+    type: [Flying]
+  Perish Song:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: ["All active Pok\xC3\xA9mon faint after 3 turns."]
+    introduction: gs
+    power: [0]
+    pp: [5]
+    priority: [0]
+    target: [all]
+    type: [Normal]
+  Petal Blizzard:
+    accuracy: [100]
+    category: [Physical]
+    description: [Hits all adjacent Pokemon.]
+    introduction: xy
+    power: [90]
+    pp: [15]
+    priority: [0]
+    target: [allAdjacent]
+    type: [Grass]
+  Petal Dance:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [Repeats for 2-3 turns. Confuses the user at the end.]
+    introduction: rb
+    power:
+    - 70
+    - {bw: 120, dp: 90}
+    pp:
+    - 20
+    - {bw: 10}
+    priority: [0]
+    target: [randenemy]
+    type: [Grass]
+  Phantom Force:
+    accuracy: [100]
+    category: [Physical]
+    description: ['Deals damage to one adjacent target and breaks through Protect
+        and Detect for this turn, allowing other Pokemon to attack the target normally.
+        This attack charges on the first turn and strikes on the second. On the first
+        turn, the user avoids all attacks. The user cannot make a move between turns.
+        If the user is holding a Power Herb, the move completes in one turn. Makes
+        contact.']
+    introduction: xy
+    power: [90]
+    pp: [10]
+    priority: [0]
+    target: [normal]
+    type: [Ghost]
+  Pin Missile:
+    accuracy:
+    - 85
+    - {xy: 95}
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Hits 2-5 times in one turn.]
+    introduction: rb
+    power:
+    - 14
+    - {xy: 25}
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Bug]
+  Play Nice:
+    accuracy: [0]
+    category: [Non-Damaging]
+    description: [Lowers the target's Attack by 1 stage. Ignores Protect.]
+    introduction: xy
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [normal]
+    type: [Normal]
+  Play Rough:
+    accuracy: [90]
+    category: [Physical]
+    description: [May lower the target's Attack stat by 1.]
+    introduction: xy
+    power: [90]
+    pp: [10]
+    priority: [0]
+    target: [normal]
+    type: [Fairy]
+  Pluck:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Uses foe's Berry.]
+    introduction: dp
+    power: [60]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Flying]
+  Poison Fang:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [30% chance to inflict bad poison.]
+    introduction: rs
+    power: [50]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Poison]
+  Poison Gas:
+    accuracy:
+    - 55
+    - {bw: 90, xy: 80}
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Poisons the target.]
+    introduction: rb
+    power: [0]
+    pp: [40]
+    priority: [0]
+    target: [enemies]
+    type: [Poison]
+  Poison Jab:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [30% chance to poison.]
+    introduction: dp
+    power: [80]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Poison]
+  Poison Powder:
+    accuracy: [75]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Poisons the target.]
+    introduction: rb
+    power: [0]
+    pp: [35]
+    priority: [0]
+    target: [enemy]
+    type: [Poison]
+  Poison Sting:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description:
+    - 20% chance to poison opponent.
+    - {gs: 30% chance to poison.}
+    introduction: rb
+    power: [15]
+    pp: [35]
+    priority: [0]
+    target: [enemy]
+    type: [Poison]
+  Poison Tail:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [Has a high critical hit rate. 10% chance to poison.]
+    introduction: rs
+    power: [50]
+    pp: [25]
+    priority: [0]
+    target: [enemy]
+    type: [Poison]
+  Pound:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [No additional effect.]
+    introduction: rb
+    power: [40]
+    pp: [35]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Powder:
+    accuracy: [100]
+    category: [Non-Damaging]
+    description: [Covers the target in powder that explodes if the target uses a Fire-type
+        move. +1 Priority.]
+    introduction: xy
+    power: [0]
+    pp: [20]
+    priority: [1]
+    target: [normal]
+    type: [Bug]
+  Powder Snow:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description: [10% chance to freeze.]
+    introduction: gs
+    power: [40]
+    pp: [25]
+    priority: [0]
+    target: [enemies]
+    type: [Ice]
+  Power Gem:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [No additional effect.]
+    introduction: dp
+    power:
+    - 70
+    - {xy: 80}
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Rock]
+  Power Split:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: [Averages Attack and Special Attack with the target.]
+    introduction: bw
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Power Swap:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Swaps Atk and SpA boosts and drops with the foe.]
+    introduction: dp
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Power Trick:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Swaps user's Atk and Def stats.]
+    introduction: dp
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [user]
+    type: [Psychic]
+  Power Whip:
+    accuracy: [85]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [No additional effect.]
+    introduction: dp
+    power: [120]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Power-Up Punch:
+    accuracy: [100]
+    category: [Physical]
+    description: [Hitting a target raises the Attack stat.]
+    introduction: xy
+    power: [40]
+    pp: [20]
+    priority: [0]
+    target: [normal]
+    type: [Fighting]
+  Present:
+    accuracy: [90]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [Has random power and a chance to heal the target.]
+    introduction: gs
+    power:
+    - 0
+    - {bw: 0}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Protect:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Prevents anything from working on the user that turn.]
+    introduction: gs
+    power: [0]
+    pp: [10]
+    priority:
+    - 2
+    - {bw: 4, dp: 3}
+    target: [user]
+    type: [Normal]
+  Psybeam:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [10% chance to confuse.]
+    introduction: rb
+    power: [65]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Psych Up:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Copies the foe's stat changes.]
+    introduction: gs
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Psychic:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description:
+    - 30% chance to lower Special 1 stage.
+    - {gs: 10% chance to lower SpD 1 stage.}
+    introduction: rb
+    power: [90]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Psycho Boost:
+    accuracy: [90]
+    category:
+    - Special
+    - {bw: Special, dp: Special, xy: Special}
+    description: [Lowers user's SpA 2 stages.]
+    introduction: rs
+    power: [140]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Psycho Cut:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Has a high critical hit rate.]
+    introduction: dp
+    power: [70]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Psycho Shift:
+    accuracy:
+    - 90
+    - {xy: 100}
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Shifts the user's status effect to the foe.]
+    introduction: dp
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Psyshock:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Damage is based on the target's Defense stat.]
+    introduction: bw
+    power: [80]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Psystrike:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Damage is based on the target's Defense stat.]
+    introduction: bw
+    power: [100]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Psywave:
+    accuracy: [80]
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [Does random damage equal to .5x-1.5x the user's level.]
+    introduction: rb
+    power:
+    - 0
+    - {bw: 0}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Punishment:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Does more damage to foes with stat boosts.]
+    introduction: dp
+    power:
+    - 0
+    - {bw: 0}
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Dark]
+  Pursuit:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: ['Doubles in power if the target switches, and hits them before they
+        can escape.']
+    introduction: gs
+    power: [40]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Dark]
+  Quash:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: [Forces the target to move last.]
+    introduction: bw
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Dark]
+  Quick Attack:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [The user always attacks first.]
+    introduction: rb
+    power: [40]
+    pp: [30]
+    priority: [1]
+    target: [enemy]
+    type: [Normal]
+  Quick Guard:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: [Protects user and allies from priority attacks.]
+    introduction: bw
+    power: [0]
+    pp: [15]
+    priority: [3]
+    target: [allies]
+    type: [Fighting]
+  Quiver Dance:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: ['Boosts the user''s Special Attack, Special Defense, and Speed by
+        1 stage.']
+    introduction: bw
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [user]
+    type: [Bug]
+  Rage:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description:
+    - Boosts Attack 1 stage if hit, but can only use Rage after that.
+    - {gs: Boosts Atk 1 stage if hit.}
+    introduction: rb
+    power: [20]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Rage Powder:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: [All moves target the user.]
+    introduction: bw
+    power: [0]
+    pp: [20]
+    priority: [3]
+    target: [user]
+    type: [Bug]
+  Rain Dance:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Summons rain for 5 turns.]
+    introduction: gs
+    power: [0]
+    pp: [5]
+    priority: [0]
+    target: [all]
+    type: [Water]
+  Rapid Spin:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [Removes Leech Seed and Spikes.]
+    introduction: gs
+    power: [20]
+    pp: [40]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Razor Leaf:
+    accuracy: [95]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Has a high critical hit rate.]
+    introduction: rb
+    power: [55]
+    pp: [25]
+    priority: [0]
+    target: [enemies]
+    type: [Grass]
+  Razor Shell:
+    accuracy: [95]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [50% chance to lower target's Defense by 1 stage.]
+    introduction: bw
+    power: [75]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Water]
+  Razor Wind:
+    accuracy:
+    - 75
+    - {gs: 100}
+    category:
+    - Physical
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description:
+    - Charges up the first turn; attacks on the second turn.
+    - {gs: Charges up the first turn; attacks on the second turn. Has a high critical
+        hit rate.}
+    introduction: rb
+    power: [80]
+    pp: [10]
+    priority: [0]
+    target: [enemies]
+    type: [Normal]
+  Recover:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Heals 50% of user's max HP.]
+    introduction: rb
+    power: [0]
+    pp:
+    - 20
+    - {dp: 10}
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Recycle:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Restores a used up item.]
+    introduction: rs
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Reflect:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description:
+    - Lowers physical damage done to user.
+    - {gs: Lowers damage from physical attacks for 5 turns.}
+    introduction: rb
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [allies]
+    type: [Psychic]
+  Reflect Type:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: [User becomes the same type as the target.]
+    introduction: bw
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Refresh:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Removes status.]
+    introduction: rs
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Relic Song:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: ['10% chance to put target to sleep. If used by Meloetta, causes
+        it to change from Aria Forme to Pirouette Forme.']
+    introduction: bw
+    power: [75]
+    pp: [10]
+    priority: [0]
+    target: [enemies]
+    type: [Normal]
+  Rest:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [The user goes to sleep for two turns and restores all HP.]
+    introduction: rb
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [user]
+    type: [Psychic]
+  Retaliate:
+    accuracy: [100]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [Power doubles if the user's teammate fainted the previous turn.]
+    introduction: bw
+    power: [70]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Return:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [No additional effect.]
+    introduction: gs
+    power:
+    - 0
+    - {bw: 0}
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Revenge:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [Doubles in power if damaged.]
+    introduction: rs
+    power: [60]
+    pp: [10]
+    priority:
+    - -3
+    - {dp: -4}
+    target: [enemy]
+    type: [Fighting]
+  Reversal:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [Does more damage as HP decreases.]
+    introduction: gs
+    power:
+    - 0
+    - {bw: 0}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Roar:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description:
+    - Has no effect.
+    - {gs: Forces a switch to a random Pokemon.}
+    introduction: rb
+    power: [0]
+    pp: [20]
+    priority:
+    - 0
+    - {dp: -6, gs: -1, rs: -5}
+    target: [enemy]
+    type: [Normal]
+  Roar of Time:
+    accuracy: [90]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [User cannot move next turn.]
+    introduction: dp
+    power: [150]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Dragon]
+  Rock Blast:
+    accuracy:
+    - 80
+    - {bw: 90}
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [Hits 2-5 times in one turn.]
+    introduction: rs
+    power: [25]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Rock]
+  Rock Climb:
+    accuracy: [85]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [20% chance to confuse.]
+    introduction: dp
+    power: [90]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Rock Polish:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Boosts Spe 2 stages.]
+    introduction: dp
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [user]
+    type: [Rock]
+  Rock Slide:
+    accuracy: [90]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description:
+    - No additional effect.
+    - {gs: 30% chance to flinch.}
+    introduction: rb
+    power: [75]
+    pp: [10]
+    priority: [0]
+    target: [enemies]
+    type: [Rock]
+  Rock Smash:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [50% chance to lower Def 1 stage.]
+    introduction: gs
+    power:
+    - 20
+    - {dp: 40}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Rock Throw:
+    accuracy: [90]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [No additional effect.]
+    introduction: rb
+    power: [50]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Rock]
+  Rock Tomb:
+    accuracy:
+    - 80
+    - {xy: 95}
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [Lowers Spe 1 stage.]
+    introduction: rs
+    power:
+    - 50
+    - {xy: 60}
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Rock]
+  Rock Wrecker:
+    accuracy: [90]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [User cannot move next turn.]
+    introduction: dp
+    power: [150]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Rock]
+  Role Play:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Copies the foe's ability and overwrites the user's ability.]
+    introduction: rs
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Rolling Kick:
+    accuracy: [85]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [30% chance to flinch.]
+    introduction: rb
+    power: [60]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Rollout:
+    accuracy: [90]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [Doubles in power with each hit. Repeats for 5 turns.]
+    introduction: gs
+    power: [30]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Rock]
+  Roost:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Heals 50% HP. Temporarily removes the user's Flying-type.]
+    introduction: dp
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [user]
+    type: [Flying]
+  Rototiller:
+    accuracy: [0]
+    category: [Non-Damaging]
+    description: [Raises the Attack and Sp. Atk stats of Grass-type Pokemon.]
+    introduction: xy
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [all]
+    type: [Ground]
+  Round:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Power doubles if a teammate uses Round in the same turn.]
+    introduction: bw
+    power: [60]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Sacred Fire:
+    accuracy: [95]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [50% chance to burn. Thaws the user.]
+    introduction: gs
+    power: [100]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Fire]
+  Sacred Sword:
+    accuracy: [100]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [Ignores the target's stat changes.]
+    introduction: bw
+    power: [90]
+    pp:
+    - 20
+    - {xy: 15}
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Safeguard:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Blocks status conditions for 5 turns.]
+    introduction: gs
+    power: [0]
+    pp: [25]
+    priority: [0]
+    target: [allies]
+    type: [Normal]
+  Sand Attack:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Lowers foe's accuracy 1 stage.]
+    introduction: rb
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Ground]
+  Sand Tomb:
+    accuracy:
+    - 70
+    - {bw: 85}
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [Traps and damages over multiple turns.]
+    introduction: rs
+    power:
+    - 15
+    - {bw: 35}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Ground]
+  Sandstorm:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Summons a sandstorm for 5 turns.]
+    introduction: gs
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [all]
+    type: [Rock]
+  Scald:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [30% chance to burn the target. Thaws the user.]
+    introduction: bw
+    power: [80]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Water]
+  Scary Face:
+    accuracy: [90]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Lowers Spe 2 stages.]
+    introduction: gs
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Scratch:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [No additional effect.]
+    introduction: rb
+    power: [40]
+    pp: [35]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Screech:
+    accuracy: [85]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Lowers foe's Defense 2 stages.]
+    introduction: rb
+    power: [0]
+    pp: [40]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Searing Shot:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [30% chance to burn the target.]
+    introduction: bw
+    power: [100]
+    pp: [5]
+    priority: [0]
+    target: [others]
+    type: [Fire]
+  Secret Power:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [Effects vary with terrain.]
+    introduction: rs
+    power: [70]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Secret Sword:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Damage is based on the target's Defense stat.]
+    introduction: bw
+    power: [85]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Seed Bomb:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [No additional effect.]
+    introduction: dp
+    power: [80]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Seed Flare:
+    accuracy: [85]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [40% chance to lower SpD 2 stages.]
+    introduction: dp
+    power: [120]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Seismic Toss:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Does damage equal to the user's level.]
+    introduction: rb
+    power:
+    - 0
+    - {bw: 0}
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Self-Destruct:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Faints the user.]
+    introduction: rb
+    power:
+    - 130
+    - {gs: 200}
+    pp: [5]
+    priority: [0]
+    target: [others]
+    type: [Normal]
+  Shadow Ball:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description: [20% chance to lower SpD 1 stage.]
+    introduction: gs
+    power: [80]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Ghost]
+  Shadow Claw:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Has a high critical hit rate.]
+    introduction: dp
+    power: [70]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Ghost]
+  Shadow Force:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: ['User becomes invulnerable, then attacks the next turn. Nullifies
+        Detect and Protect.']
+    introduction: dp
+    power: [120]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Ghost]
+  Shadow Punch:
+    accuracy: [0]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [Ignores accuracy modifiers.]
+    introduction: rs
+    power: [60]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Ghost]
+  Shadow Sneak:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [The user always attacks first.]
+    introduction: dp
+    power: [40]
+    pp: [30]
+    priority: [1]
+    target: [enemy]
+    type: [Ghost]
+  Sharpen:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Boosts Attack 1 stage.]
+    introduction: rb
+    power: [0]
+    pp: [30]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Sheer Cold:
+    accuracy: [30]
+    category:
+    - Special
+    - {bw: Special, dp: Special, xy: Special}
+    description: [Will OHKO the target.]
+    introduction: rs
+    power:
+    - 0
+    - {bw: 0}
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Ice]
+  Shell Smash:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: ['Boosts user''s Attack, Special Attack, and Speed by 2 stages and
+        lowers user''s Defense and Special Defense by 1 stage.']
+    introduction: bw
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Shift Gear:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: [Boosts Speed by 2 stages and Attack by 1 stage.]
+    introduction: bw
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [user]
+    type: [Steel]
+  Shock Wave:
+    accuracy: [0]
+    category:
+    - Special
+    - {bw: Special, dp: Special, xy: Special}
+    description: [Ignores accuracy modifiers.]
+    introduction: rs
+    power: [60]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Electric]
+  Signal Beam:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, xy: Special}
+    description: [10% chance to confuse.]
+    introduction: rs
+    power: [75]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Bug]
+  Silver Wind:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, xy: Special}
+    description: [10% chance to boost all stats 1 stage.]
+    introduction: rs
+    power: [60]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Bug]
+  Simple Beam:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: [Changes the target's ability to Simple.]
+    introduction: bw
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Sing:
+    accuracy: [55]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Puts the target to sleep.]
+    introduction: rb
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Sketch:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Permanently copies the last move used by the target.]
+    introduction: gs
+    power: [0]
+    pp: [1]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Skill Swap:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [The user and the target trade abilities.]
+    introduction: rs
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Skull Bash:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description:
+    - Charges up turn one; attacks turn two.
+    - {gs: Charges up turn one; attacks turn two. Boosts Def 1 stage.}
+    introduction: rb
+    power:
+    - 100
+    - {xy: 130}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Sky Attack:
+    accuracy: [90]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Hits the turn after being used.]
+    introduction: rb
+    power: [140]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Flying]
+  Sky Drop:
+    accuracy: [100]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [Hits the turn after being used. The target cannot move while in
+        the air.]
+    introduction: bw
+    power: [60]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Flying]
+  Sky Uppercut:
+    accuracy: [90]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [Hits a Bouncing or Flying target.]
+    introduction: rs
+    power: [85]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Slack Off:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Heals 50% max HP.]
+    introduction: rs
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Slam:
+    accuracy: [75]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [No additional effect.]
+    introduction: rb
+    power: [80]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Slash:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Has a high critical hit rate.]
+    introduction: rb
+    power: [70]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Sleep Powder:
+    accuracy: [75]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Puts the target to sleep.]
+    introduction: rb
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Sleep Talk:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Picks one of the user's moves at random. Can only be used while
+        sleeping.]
+    introduction: gs
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Sludge:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description:
+    - 29.7% chance to poison.
+    - {gs: 30% chance to poison.}
+    introduction: rb
+    power: [65]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Poison]
+  Sludge Bomb:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description: [30% chance to poison.]
+    introduction: gs
+    power: [90]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Poison]
+  Sludge Wave:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [10% chance to poison the target.]
+    introduction: bw
+    power: [95]
+    pp: [10]
+    priority: [0]
+    target: [others]
+    type: [Poison]
+  Smack Down:
+    accuracy: [100]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: ['Can hit if target is using Fly, Bounce, or Sky Drop. Ends target''s
+        airborne moves and its benefits from Flying type or Levitate.']
+    introduction: bw
+    power: [50]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Rock]
+  Smelling Salts:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: ['Has 120 power on a paralyzed target, but cures it of paralysis.']
+    introduction: rs
+    power:
+    - 60
+    - {xy: 70}
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Smog:
+    accuracy: [70]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [40% chance to poison.]
+    introduction: rb
+    power:
+    - 20
+    - {xy: 30}
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Poison]
+  Smokescreen:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Lowers foe's accuracy 1 stage.]
+    introduction: rb
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Snarl:
+    accuracy: [95]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Lowers target's Special Attack by 1 stage.]
+    introduction: bw
+    power: [55]
+    pp: [15]
+    priority: [0]
+    target: [enemies]
+    type: [Dark]
+  Snatch:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: ['If certain moves are used, the user of Snatch uses the moves instead.']
+    introduction: rs
+    power: [0]
+    pp: [10]
+    priority:
+    - 3
+    - {dp: 4}
+    target: [user]
+    type: [Dark]
+  Snore:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description: [Can only be used while sleeping. 30% chance to flinch.]
+    introduction: gs
+    power:
+    - 40
+    - {xy: 50}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Soak:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: [Changes the target's type to Water.]
+    introduction: bw
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Water]
+  Soft-Boiled:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Heals 50% max HP.]
+    introduction: rb
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Solar Beam:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [Charges up turn 1; attacks on turn 2.]
+    introduction: rb
+    power: [120]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Sonic Boom:
+    accuracy: [90]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description:
+    - Does 20 damage.
+    - {gs: Does 20 damage. Ghosts are immune.}
+    introduction: rb
+    power:
+    - 0
+    - {bw: 0}
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Spacial Rend:
+    accuracy: [95]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [Has a high critical hit rate.]
+    introduction: dp
+    power: [100]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Dragon]
+  Spark:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [30% chance to paralyze.]
+    introduction: gs
+    power: [65]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Electric]
+  Spider Web:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [The target cannot switch out.]
+    introduction: gs
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Bug]
+  Spike Cannon:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Hits 2-5 times in one turn.]
+    introduction: rb
+    power: [20]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Spikes:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Causes damage to the enemy whenever they switch.]
+    introduction: gs
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [enemyfield]
+    type: [Ground]
+  Spiky Shield:
+    accuracy: [0]
+    category: [Non-Damaging]
+    description: ['In addition to protecting the user from attacks, this move also
+        damages any attacker who makes direct contact by 1/8 of their maximum HP.']
+    introduction: xy
+    power: [0]
+    pp: [10]
+    priority: [4]
+    target: [self]
+    type: [Grass]
+  Spit Up:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, xy: Special}
+    description: [Varies in power depending on the number of uses of Stockpile.]
+    introduction: rs
+    power:
+    - 0
+    - {bw: 0}
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Spite:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Lowers the PP of the move used last by 1-5.]
+    introduction: gs
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Ghost]
+  Splash:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [No effect whatsoever.]
+    introduction: rb
+    power: [0]
+    pp: [40]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Spore:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Puts the target to sleep.]
+    introduction: rb
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Stealth Rock:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Damages foe's switch-ins.]
+    introduction: dp
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [enemyfield]
+    type: [Rock]
+  Steamroller:
+    accuracy: [100]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [Has a 30% chance to flinch the target.]
+    introduction: bw
+    power: [65]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Bug]
+  Steel Wing:
+    accuracy: [90]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [10% chance to raise the user's Def 1 stage.]
+    introduction: gs
+    power: [70]
+    pp: [25]
+    priority: [0]
+    target: [enemy]
+    type: [Steel]
+  Sticky Web:
+    accuracy: [0]
+    category: [Non-Damaging]
+    description: [Lowers the Speed stat of the opposing team's Pokemon upon switching
+        into battle.]
+    introduction: xy
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [foeSide]
+    type: [Bug]
+  Stockpile:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Sets the user up to use Spit Up and Swallow.]
+    introduction: rs
+    power: [0]
+    pp:
+    - 10
+    - {dp: 20}
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Stomp:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [30% chance to flinch.]
+    introduction: rb
+    power: [65]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Stone Edge:
+    accuracy: [80]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Has a high critical hit rate.]
+    introduction: dp
+    power: [100]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Rock]
+  Stored Power:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Varies in power depending on number of boosts accumulated by user.]
+    introduction: bw
+    power: [20]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Storm Throw:
+    accuracy: [100]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [Always results in a critical hit.]
+    introduction: bw
+    power:
+    - 40
+    - {xy: 60}
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Strength:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [No additional effect.]
+    introduction: rb
+    power: [80]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  String Shot:
+    accuracy: [95]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Lowers foe's Speed 1 stage.]
+    introduction: rb
+    power: [0]
+    pp: [40]
+    priority: [0]
+    target: [enemies]
+    type: [Bug]
+  Struggle:
+    accuracy: [0]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Has 1/2 recoil.]
+    introduction: rb
+    power: [50]
+    pp:
+    - 10
+    - {dp: 1}
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Struggle Bug:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Lowers target's Special Attack by 1 stage.]
+    introduction: bw
+    power:
+    - 30
+    - {xy: 50}
+    pp: [20]
+    priority: [0]
+    target: [enemies]
+    type: [Bug]
+  Stun Spore:
+    accuracy: [75]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Paralyzes the target.]
+    introduction: rb
+    power: [0]
+    pp: [30]
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Submission:
+    accuracy: [80]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Has 1/4 recoil.]
+    introduction: rb
+    power: [80]
+    pp: [25]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Substitute:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Takes 1/4 the user's max HP to create a Substitute that takes damage
+        for the user.]
+    introduction: rb
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Sucker Punch:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [The user always moves first. Will only work if the foe attacked.]
+    introduction: dp
+    power: [80]
+    pp: [5]
+    priority: [1]
+    target: [enemy]
+    type: [Dark]
+  Sunny Day:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Summons sun for 5 turns.]
+    introduction: gs
+    power: [0]
+    pp: [5]
+    priority: [0]
+    target: [all]
+    type: [Fire]
+  Super Fang:
+    accuracy: [90]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Does damage equal to half the foe's current HP.]
+    introduction: rb
+    power:
+    - 0
+    - {bw: 0}
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Superpower:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [Lowers the user's Atk and Def 1 stage.]
+    introduction: rs
+    power: [120]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Supersonic:
+    accuracy: [55]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Confuses the foe.]
+    introduction: rb
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Surf:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [No additional effect.]
+    introduction: rb
+    power:
+    - 95
+    - {xy: 90}
+    pp: [15]
+    priority: [0]
+    target: [others]
+    type: [Water]
+  Swagger:
+    accuracy: [90]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Confuses the target. Boosts its Atk 2 stages.]
+    introduction: gs
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Swallow:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Healing varies based on the number of uses of Stockpile.]
+    introduction: rs
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Sweet Kiss:
+    accuracy: [75]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Confuses the target.]
+    introduction: gs
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type:
+    - Normal
+    - {xy: Fairy}
+  Sweet Scent:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Lowers evasion 1 stage.]
+    introduction: gs
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [enemies]
+    type: [Normal]
+  Swift:
+    accuracy: [0]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [Always hits.]
+    introduction: rb
+    power: [60]
+    pp: [20]
+    priority: [0]
+    target: [enemies]
+    type: [Normal]
+  Switcheroo:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Switches items with the target.]
+    introduction: dp
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Dark]
+  Swords Dance:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Boosts Attack 2 stages.]
+    introduction: rb
+    power: [0]
+    pp:
+    - 30
+    - {xy: 20}
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Synchronoise:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Only damages targets of the same type as the user.]
+    introduction: bw
+    power:
+    - 70
+    - {xy: 120}
+    pp: [15]
+    priority: [0]
+    target: [others]
+    type: [Psychic]
+  Synthesis:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Heals variably depending on the weather.]
+    introduction: gs
+    power: [0]
+    pp: [5]
+    priority: [0]
+    target: [user]
+    type: [Grass]
+  Tackle:
+    accuracy:
+    - 95
+    - {bw: 100}
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [No additional effect.]
+    introduction: rb
+    power:
+    - 35
+    - {bw: 50}
+    pp: [35]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Tail Glow:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Boosts SpA 2 stages.]
+    introduction: rs
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [user]
+    type: [Bug]
+  Tail Slap:
+    accuracy: [85]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [Hits 2-5 times in one turn.]
+    introduction: bw
+    power: [25]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Tail Whip:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Lowers foe's Defense by 1 stage.]
+    introduction: rb
+    power: [0]
+    pp: [30]
+    priority: [0]
+    target: [enemies]
+    type: [Normal]
+  Tailwind:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Doubles Spe for 3 turns.]
+    introduction: dp
+    power: [0]
+    pp: [30]
+    priority: [0]
+    target: [allies]
+    type: [Flying]
+  Take Down:
+    accuracy: [85]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Has 1/4 recoil.]
+    introduction: rb
+    power: [90]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Taunt:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Forces the foe to use damaging moves for 2 turns.]
+    introduction: rs
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Dark]
+  Techno Blast:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Type will change depending on the type of Drive.]
+    introduction: bw
+    power:
+    - 85
+    - {xy: 120}
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Teeter Dance:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: ["Confuses all other active Pok\xC3\xA9mon."]
+    introduction: rs
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [others]
+    type: [Normal]
+  Telekinesis:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: [Lasts 3 turns and makes all moves hit the target.  Makes target
+        immune to Ground-type moves.]
+    introduction: bw
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Teleport:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Has no effect.]
+    introduction: rb
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [user]
+    type: [Psychic]
+  Thief:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [Steals target's item.]
+    introduction: gs
+    power:
+    - 40
+    - {xy: 60}
+    pp:
+    - 10
+    - {xy: 25}
+    priority: [0]
+    target: [enemy]
+    type: [Dark]
+  Thrash:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description:
+    - Repeats for 3-4 turns. Confuses the user at the end.
+    - {gs: Repeats for 2-3 turns. Confuses the user.}
+    introduction: rb
+    power:
+    - 90
+    - {bw: 120}
+    pp:
+    - 20
+    - {bw: 10}
+    priority: [0]
+    target: [randenemy]
+    type: [Normal]
+  Thunder:
+    accuracy: [70]
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description:
+    - 10% chance to paralyze.
+    - {gs: 30% chance to paralyze.}
+    introduction: rb
+    power:
+    - 120
+    - {xy: 110}
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Electric]
+  Thunder Fang:
+    accuracy: [95]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [10% chance to flinch. 10% chance to paralyze.]
+    introduction: dp
+    power: [65]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Electric]
+  Thunder Punch:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [10% chance to paralyze.]
+    introduction: rb
+    power: [75]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Electric]
+  Thunder Shock:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [10% chance to paralyze.]
+    introduction: rb
+    power: [40]
+    pp: [30]
+    priority: [0]
+    target: [enemy]
+    type: [Electric]
+  Thunder Wave:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Paralyzes the foe.]
+    introduction: rb
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Electric]
+  Thunderbolt:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [10% chance to paralyze.]
+    introduction: rb
+    power:
+    - 95
+    - {xy: 90}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Electric]
+  Tickle:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Lowers Atk and Def 1 stage.]
+    introduction: rs
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Topsy-Turvy:
+    accuracy: [0]
+    category: [Non-Damaging]
+    description: [Inverts target's stat stages.]
+    introduction: xy
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [normal]
+    type: [Dark]
+  Torment:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Prevents the target from using the same move twice in a row.]
+    introduction: rs
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Dark]
+  Toxic:
+    accuracy:
+    - 85
+    - {bw: 90}
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Inflicts intensifying poison on the target.]
+    introduction: rb
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Poison]
+  Toxic Spikes:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Poisons opponents as they switch switch in.]
+    introduction: dp
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [enemyfield]
+    type: [Poison]
+  Transform:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Transforms into the foe.]
+    introduction: rb
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Tri Attack:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description:
+    - No additional effect.
+    - {gs: '20% chance to burn, freeze, or paralyze.'}
+    introduction: rb
+    power: [80]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Trick:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Switches items with the foe.]
+    introduction: rs
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
+  Trick Room:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: ["Slower Pok\xC3\xA9mon move first for 5 turns."]
+    introduction: dp
+    power: [0]
+    pp: [5]
+    priority: [-7]
+    target: [all]
+    type: [Psychic]
+  Trick-or-Treat:
+    accuracy: [100]
+    category: [Non-Damaging]
+    description: ['Adds Ghost to the target''s type(s). If the target already has
+        three types, the third is replaced.']
+    introduction: xy
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [normal]
+    type: [Ghost]
+  Triple Kick:
+    accuracy: [90]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: [Attacks up to 3 times in 1 turn.]
+    introduction: gs
+    power: [10]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Trump Card:
+    accuracy: [0]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [Power increases as PP decreases.]
+    introduction: dp
+    power:
+    - 0
+    - {bw: 0}
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Twineedle:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Hits twice in one turn. Each hit has a 20% chance to poison.]
+    introduction: rb
+    power: [25]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Bug]
+  Twister:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description: [20% chance to flinch.]
+    introduction: gs
+    power: [40]
+    pp: [20]
+    priority: [0]
+    target: [enemies]
+    type: [Dragon]
+  U-turn:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: ['Attacks, then switches.']
+    introduction: dp
+    power: [70]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Bug]
+  Uproar:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, xy: Special}
+    description: ["Repeats for 2-5 turns. No Pok\xC3\xA9mon can sleep during these
+        turns."]
+    introduction: rs
+    power:
+    - 50
+    - {bw: 90}
+    pp: [10]
+    priority: [0]
+    target: [randenemy]
+    type: [Normal]
+  V-create:
+    accuracy: [95]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: ['Lowers user''s Defense, Special Defense, and Speed by 1 stage.']
+    introduction: bw
+    power: [180]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Fire]
+  Vacuum Wave:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [The user always attacks first.]
+    introduction: dp
+    power: [40]
+    pp: [30]
+    priority: [1]
+    target: [enemy]
+    type: [Fighting]
+  Venom Drench:
+    accuracy: [100]
+    category: [Non-Damaging]
+    description: ['Lowers the Attack, Special Attack, and Speed stats of a poisoned
+        target.']
+    introduction: xy
+    power: [0]
+    pp: [20]
+    priority: [0]
+    target: [normal]
+    type: [Poison]
+  Venoshock:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Hits poisoned targets with double Base Power.]
+    introduction: bw
+    power: [65]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Poison]
+  Vice Grip:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [No additional effect.]
+    introduction: rb
+    power: [55]
+    pp: [30]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Vine Whip:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [No additional effect.]
+    introduction: rb
+    power:
+    - 35
+    - {xy: 45}
+    pp:
+    - 10
+    - {dp: 15}
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Vital Throw:
+    accuracy: [0]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    description: ['Moves second, but ignores accuracy modifiers.']
+    introduction: gs
+    power: [70]
+    pp: [10]
+    priority: [-1]
+    target: [enemy]
+    type: [Fighting]
+  Volt Switch:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Forces user to switch.]
+    introduction: bw
+    power: [70]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Electric]
+  Volt Tackle:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, xy: Physical}
+    description: [Has 1/3 recoil.]
+    introduction: rs
+    power: [120]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Electric]
+  Wake-Up Slap:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Double Base Power if used on a sleeping foe.]
+    introduction: dp
+    power:
+    - 60
+    - {xy: 70}
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Fighting]
+  Water Gun:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    description: [No additional effect.]
+    introduction: rb
+    power: [40]
+    pp: [25]
+    priority: [0]
+    target: [enemy]
+    type: [Water]
+  Water Pledge:
+    accuracy: [100]
+    category:
+    - Special
+    - {xy: Special}
+    description: [Use with Fire Pledge and Grass Pledge for additional effect.]
+    introduction: bw
+    power:
+    - 50
+    - {xy: 80}
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Water]
+  Water Pulse:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, xy: Special}
+    description: [20% chance to confuse.]
+    introduction: rs
+    power: [60]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Water]
+  Water Shuriken:
+    accuracy: [100]
+    category: [Physical]
+    description: ['Deals damage to one adjacent target and hits two to five times.
+        Has a 1/3 chance to hit two or three times, and a 1/6 chance to hit four or
+        five times. If one of the hits breaks the target''s Substitute, it will take
+        damage for the remaining hits. If the user has the Ability Skill Link, this
+        move will always hit five times. Almost always goes first.']
+    introduction: xy
+    power: [15]
+    pp: [20]
+    priority: [1]
+    target: [normal]
+    type: [Water]
+  Water Sport:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Fire-type attacks do 50% damage.]
+    introduction: rs
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [all]
+    type: [Water]
+  Water Spout:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, dp: Special, xy: Special}
+    description: [Does less damage as the user's HP decreases.]
+    introduction: rs
+    power: [150]
+    pp: [5]
+    priority: [0]
+    target: [enemies]
+    type: [Water]
+  Waterfall:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [No additional effect.]
+    introduction: rb
+    power: [80]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Water]
+  Weather Ball:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Special, dp: Special, xy: Special}
+    description: [Doubles in power and changes type if there is weather.]
+    introduction: rs
+    power: [50]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Whirlpool:
+    accuracy:
+    - 70
+    - {bw: 85}
+    category:
+    - Special
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description: [Traps and damages over multiple turns.]
+    introduction: gs
+    power:
+    - 15
+    - {bw: 35}
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Water]
+  Whirlwind:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description:
+    - Has no effect.
+    - {gs: Forces the target to switch to a random Pokemon.}
+    introduction: rb
+    power: [0]
+    pp: [20]
+    priority:
+    - 0
+    - {dp: -6, gs: -1, rs: -5}
+    target: [enemy]
+    type: [Normal]
+  Wide Guard:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: [Protects user and allies from multi-target attacks.]
+    introduction: bw
+    power: [0]
+    pp: [10]
+    priority: [3]
+    target: [allies]
+    type: [Rock]
+  Wild Charge:
+    accuracy: [100]
+    category:
+    - Physical
+    - {xy: Physical}
+    description: [Has 1/4 recoil.]
+    introduction: bw
+    power: [90]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Electric]
+  Will-O-Wisp:
+    accuracy:
+    - 75
+    - {xy: 85}
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Burns the foe.]
+    introduction: rs
+    power: [0]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Fire]
+  Wing Attack:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [No additional effect.]
+    introduction: rb
+    power:
+    - 35
+    - {gs: 60}
+    pp: [35]
+    priority: [0]
+    target: [enemy]
+    type: [Flying]
+  Wish:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Heals 50% max HP after 2 turns.]
+    introduction: rs
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Withdraw:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
+    description: [Boosts Defense 1 stage.]
+    introduction: rb
+    power: [0]
+    pp: [40]
+    priority: [0]
+    target: [user]
+    type: [Water]
+  Wonder Room:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: [Swaps Defense and Special Defense of all Pokemon.]
+    introduction: bw
+    power: [0]
+    pp: [10]
+    priority: [-7]
+    target: [all]
+    type: [Psychic]
+  Wood Hammer:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [Has 1/3 recoil.]
+    introduction: dp
+    power: [120]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Work Up:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {xy: Non-Damaging}
+    description: [Boosts user's Attack and Special Attack by 1 stage.]
+    introduction: bw
+    power: [0]
+    pp: [30]
+    priority: [0]
+    target: [user]
+    type: [Normal]
+  Worry Seed:
+    accuracy: [100]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, xy: Non-Damaging}
+    description: [Changes the foe's ability to Insomnia.]
+    introduction: dp
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Grass]
+  Wrap:
+    accuracy:
+    - 85
+    - {bw: 90}
+    category:
+    - Physical
+    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    description: [Prevents the opponent from attacking for 2-5 turns.]
+    introduction: rb
+    power: [15]
+    pp: [20]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Wring Out:
+    accuracy: [100]
+    category:
+    - Special
+    - {bw: Special, xy: Special}
+    description: [Base power depends on the foe's remaining HP.]
+    introduction: dp
+    power:
+    - 0
+    - {bw: 0}
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  X-Scissor:
+    accuracy: [100]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [No additional effect.]
+    introduction: dp
+    power: [80]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Bug]
+  Yawn:
+    accuracy: [0]
+    category:
+    - Non-Damaging
+    - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
+    description: [Puts the target to sleep after 2 turns.]
+    introduction: rs
+    power: [0]
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Normal]
+  Zap Cannon:
+    accuracy: [50]
+    category:
+    - Special
+    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    description: [Paralyzes the foe.]
+    introduction: gs
+    power:
+    - 100
+    - {dp: 120}
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Electric]
+  Zen Headbutt:
+    accuracy: [90]
+    category:
+    - Physical
+    - {bw: Physical, xy: Physical}
+    description: [20% chance to flinch.]
+    introduction: dp
+    power: [80]
+    pp: [15]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]

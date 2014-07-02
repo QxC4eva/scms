@@ -1,0 +1,162 @@
+pokemon:
+  Charizard:
+    abilities:
+    - bw: [Blaze, Solar Power]
+    - rs: [Blaze]
+    - []
+    alts:
+    - xy:
+        Mega-X:
+          abilities: [Tough Claws]
+          height: 1.7
+          stats: [78, 130, 111, 130, 85, 100]
+          types: [Fire, Dragon]
+          weight: 110.5
+        Mega-Y:
+          abilities: [Drought]
+          height: 1.7
+          stats: [78, 104, 78, 159, 115, 100]
+          types: [Fire, Flying]
+          weight: 110.5
+    egggroups:
+    - [Dragon, Monster]
+    evolvesFrom: [Charmeleon]
+    height: [1.7]
+    introduction: rb
+    moves:
+    - gs: [Earthquake, Fly, Hyper Beam, Roar, Sandstorm, Steel Wing, Wing Attack]
+    - bw: [Air Slash, Blast Burn, Bulldoze, Dragon Tail, Earthquake, Fly, Focus Blast,
+        Giga Impact, Hyper Beam, Roar, Roost, Sky Drop, Solar Beam, Tailwind, Wing
+          Attack]
+    - dp: [Air Cutter, Air Slash, Blast Burn, Defog, Dragon Pulse, Earthquake, Fly,
+        Focus Blast, Giga Impact, Hyper Beam, Ominous Wind, Roar, Roost, Solar Beam,
+        Steel Wing, Tailwind, Twister, Wing Attack]
+    - rs: [Blast Burn, Earthquake, Fly, Heat Wave, Hyper Beam, Roar, Steel Wing, Wing
+          Attack]
+    - rb: [Earthquake, Fissure, Fly, Hyper Beam]
+    - xy: [Air Slash, Bulldoze, Defog, Dragon Tail, Earthquake, Fly, Focus Blast,
+        Giga Impact, Hyper Beam, Ominous Wind, Roar, Roost, Sky Drop, Solar Beam,
+        Steel Wing, Tailwind, Twister, Wing Attack]
+    stats:
+    - [78, 84, 78, 85, 85, 100]
+    - gs: [78, 84, 78, 109, 85, 100]
+    tags:
+    - [UU]
+    - gs: [BL]
+    types:
+    - [Fire, Flying]
+    weight: [90.5]
+  Charmander:
+    abilities:
+    - bw: [Blaze, Solar Power]
+    - rs: [Blaze]
+    - []
+    egggroups:
+    - [Dragon, Monster]
+    height: [0.6]
+    introduction: rb
+    moves:
+    - gs: [Ancient Power, Attract, Beat Up, Belly Drum, Bite, Curse, Cut, Defense
+          Curl, Dig, Double Team, Dragon Rage, Dragon Breath, Dynamic Punch, Ember,
+        Endure, Fire Blast, Fire Punch, Fire Spin, Flamethrower, Frustration, Fury
+          Cutter, Growl, Headbutt, Iron Tail, Mud-Slap, Outrage, Protect, Rage, Rest,
+        Return, Rock Slide, Rock Smash, Scary Face, Scratch, Slash, Sleep Talk, Smokescreen,
+        Snore, Strength, Sunny Day, Swagger, Swift, Toxic, Crunch, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - bw: [Aerial Ace, Ancient Power, Attract, Beat Up, Belly Drum, Bite, Body Slam,
+        Brick Break, Counter, Crunch, Cut, Dig, Double-Edge, Double Team, Dragon Claw,
+        Dragon Dance, Dragon Pulse, Dragon Rage, Dragon Rush, Echoed Voice, Ember,
+        Facade, Fire Blast, Fire Fang, Fire Pledge, Fire Punch, Fire Spin, Flame Burst,
+        Flame Charge, Flamethrower, Flare Blitz, Fling, Focus Punch, Frustration,
+        Growl, Heat Wave, Hone Claws, Incinerate, Inferno, Iron Tail, Metal Claw,
+        Mimic, Outrage, Overheat, Protect, Rage, Rest, Return, Rock Slide, Rock Smash,
+        Rock Tomb, Round, Scary Face, Scratch, Seismic Toss, Shadow Claw, Slash, Sleep
+          Talk, Smokescreen, Snore, Strength, Substitute, Sunny Day, Swagger, Swords
+          Dance, Thunder Punch, Toxic, Will-O-Wisp, Acrobatics, Block, False Swipe,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - dp: [Aerial Ace, Ancient Power, Attract, Beat Up, Belly Drum, Bite, Body Slam,
+        Brick Break, Captivate, Counter, Crunch, Cut, Dig, Double-Edge, Double Team,
+        Dragon Claw, Dragon Dance, Dragon Rage, Dragon Rush, Ember, Endure, Facade,
+        Fire Blast, Fire Fang, Fire Punch, Fire Spin, Flamethrower, Flare Blitz, Fling,
+        Focus Punch, Frustration, Fury Cutter, Growl, Headbutt, Heat Wave, Iron Tail,
+        Metal Claw, Mimic, Mud-Slap, Natural Gift, Outrage, Overheat, Protect, Rage,
+        Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Scary Face, Scratch, Secret
+          Power, Seismic Toss, Shadow Claw, Slash, Sleep Talk, Smokescreen, Snore,
+        Strength, Substitute, Sunny Day, Swagger, Swift, Swords Dance, Thunder Punch,
+        Toxic, Will-O-Wisp, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Ancient Power, Attract, Beat Up, Belly Drum, Bite, Body Slam,
+        Brick Break, Counter, Cut, Defense Curl, Dig, Double-Edge, Double Team, Dragon
+          Claw, Dragon Dance, Dragon Rage, Dynamic Punch, Ember, Endure, Facade, Fire
+          Blast, Fire Punch, Fire Spin, Flamethrower, Focus Punch, Frustration, Fury
+          Cutter, Growl, Iron Tail, Mega Kick, Mega Punch, Metal Claw, Mimic, Mud-Slap,
+        Outrage, Overheat, Protect, Rage, Rest, Return, Rock Slide, Rock Smash, Scary
+          Face, Scratch, Secret Power, Seismic Toss, Slash, Sleep Talk, Smokescreen,
+        Snore, Strength, Substitute, Sunny Day, Swagger, Swift, Swords Dance, Toxic,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - rb: [Bide, Body Slam, Counter, Cut, Dig, Double-Edge, Double Team, Dragon Rage,
+        Ember, Fire Blast, Fire Spin, Flamethrower, Growl, Leer, Mega Kick, Mega Punch,
+        Mimic, Rage, Reflect, Rest, Scratch, Seismic Toss, Skull Bash, Slash, Strength,
+        Submission, Substitute, Swift, Swords Dance, Take Down, Toxic]
+    - xy: [Acrobatics, Aerial Ace, Ancient Power, Attract, Beat Up, Belly Drum, Bite,
+        Blast Burn, Block, Body Slam, Brick Break, Captivate, Counter, Crunch, Cut,
+        Defense Curl, Dig, Double-Edge, Double Team, Dragon Claw, Dragon Dance, Dragon
+          Pulse, Dragon Rage, Dragon Rush, Dynamic Punch, Echoed Voice, Ember, Endure,
+        Facade, False Swipe, Fire Blast, Fire Fang, Fire Pledge, Fire Punch, Fire
+          Spin, Flame Burst, Flame Charge, Flamethrower, Flare Blitz, Fling, Focus
+          Punch, Frustration, Fury Cutter, Growl, Headbutt, Heat Wave, Hone Claws,
+        Howl, Incinerate, Inferno, Iron Tail, Mega Kick, Mega Punch, Metal Claw, Mimic,
+        Mud-Slap, Natural Gift, Outrage, Overheat, Protect, Quick Attack, Rage, Rest,
+        Return, Rock Slide, Rock Smash, Rock Tomb, Round, Scary Face, Scratch, Secret
+          Power, Seismic Toss, Shadow Claw, Slash, Sleep Talk, Smokescreen, Snore,
+        Strength, Substitute, Sunny Day, Swagger, Swift, Swords Dance, Thunder Punch,
+        Toxic, Will-O-Wisp, Power-Up Punch, Confide, Air Cutter, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [39, 52, 43, 50, 50, 65]
+    - gs: [39, 52, 43, 60, 50, 65]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Fire]
+    weight: [8.5]
+  Charmeleon:
+    abilities:
+    - bw: [Blaze, Solar Power]
+    - rs: [Blaze]
+    - []
+    egggroups:
+    - [Dragon, Monster]
+    evolvesFrom: [Charmander]
+    height: [1.1]
+    introduction: rb
+    moves:
+    - []
+    stats:
+    - [58, 64, 58, 65, 65, 80]
+    - gs: [58, 64, 58, 80, 65, 80]
+    tags:
+    - [NFE]
+    types:
+    - [Fire]
+    weight: [19]

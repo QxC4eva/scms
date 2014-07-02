@@ -1,0 +1,110 @@
+pokemon:
+  Medicham:
+    abilities:
+    - [Pure Power]
+    - bw: [Pure Power, Telepathy]
+    alts:
+    - xy:
+        Mega:
+          abilities: [Pure Power]
+          height: 1.3
+          stats: [60, 100, 85, 80, 85, 100]
+          types: [Fighting, Psychic]
+          weight: 31.5
+    egggroups:
+    - [Humanshape]
+    evolvesFrom: [Meditite]
+    height: [1.3]
+    introduction: rs
+    moves:
+    - bw: [Energy Ball, Giga Impact, Hyper Beam]
+    - dp: [Energy Ball, Giga Impact, Hyper Beam]
+    - rs: [Hyper Beam, Rock Slide]
+    - xy: [Energy Ball, Giga Impact, Hyper Beam]
+    stats:
+    - [60, 60, 75, 60, 75, 80]
+    tags:
+    - [BL]
+    - bw: [RU]
+      dp: [NU]
+    types:
+    - [Fighting, Psychic]
+    weight: [31.5]
+  Meditite:
+    abilities:
+    - [Pure Power]
+    - bw: [Pure Power, Telepathy]
+    egggroups:
+    - [Humanshape]
+    height: [0.6]
+    introduction: rs
+    moves:
+    - bw: [Acupressure, Attract, Baton Pass, Bide, Brick Break, Bulk Up, Bullet Punch,
+        Calm Mind, Confusion, Detect, Double Team, Drain Punch, Dream Eater, Dynamic
+          Punch, Facade, Fake Out, Feint, Fire Punch, Flash, Fling, Focus Blast, Force
+          Palm, Foresight, Frustration, Grass Knot, Gravity, Guard Swap, Helping Hand,
+        High Jump Kick, Ice Punch, Light Screen, Low Kick, Low Sweep, Magic Coat,
+        Meditate, Mind Reader, Pain Split, Poison Jab, Power Swap, Power Trick, Protect,
+        Psych Up, Psychic, Psycho Cut, Psyshock, Rain Dance, Recover, Recycle, Reflect,
+        Rest, Retaliate, Return, Reversal, Rock Slide, Rock Smash, Rock Tomb, Role
+          Play, Round, Secret Power, Shadow Ball, Signal Beam, Sleep Talk, Snore,
+        Strength, Substitute, Sunny Day, Swagger, Telekinesis, Thunder Punch, Toxic,
+        Trick, Work Up, Zen Headbutt, Body Slam, Double-Edge, Mimic, Seismic Toss,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - dp: [Attract, Baton Pass, Bide, Brick Break, Bulk Up, Bullet Punch, Calm Mind,
+        Captivate, Confusion, Detect, Double Team, Drain Punch, Dream Eater, Dynamic
+          Punch, Endure, Facade, Fake Out, Feint, Fire Punch, Flash, Fling, Focus
+          Blast, Focus Punch, Force Palm, Foresight, Frustration, Grass Knot, Gravity,
+        Guard Swap, Headbutt, Helping Hand, High Jump Kick, Ice Punch, Light Screen,
+        Low Kick, Magic Coat, Meditate, Mind Reader, Mud-Slap, Natural Gift, Pain
+          Split, Poison Jab, Power Swap, Power Trick, Protect, Psych Up, Psychic,
+        Psycho Cut, Rain Dance, Recover, Recycle, Reflect, Rest, Return, Reversal,
+        Rock Slide, Rock Smash, Rock Tomb, Role Play, Secret Power, Shadow Ball, Signal
+          Beam, Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger, Swift,
+        Thunder Punch, Toxic, Trick, Vacuum Wave, Zen Headbutt, Body Slam, Double-Edge,
+        Mimic, Seismic Toss, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - rs: [Attract, Baton Pass, Bide, Brick Break, Bulk Up, Calm Mind, Confusion,
+        Counter, Detect, Double Team, Dream Eater, Dynamic Punch, Endure, Facade,
+        Fake Out, Fire Punch, Flash, Focus Punch, Foresight, Frustration, High Jump
+          Kick, Ice Punch, Light Screen, Meditate, Mega Kick, Mega Punch, Metronome,
+        Mind Reader, Mud-Slap, Protect, Psych Up, Psychic, Rain Dance, Recover, Reflect,
+        Rest, Return, Reversal, Rock Smash, Rock Tomb, Secret Power, Shadow Ball,
+        Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger, Swift, Thunder
+          Punch, Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - xy: [Acupressure, Attract, Baton Pass, Bide, Body Slam, Brick Break, Bulk Up,
+        Bullet Punch, Calm Mind, Captivate, Confusion, Counter, Detect, Double-Edge,
+        Double Team, Drain Punch, Dream Eater, Dynamic Punch, Endure, Facade, Fake
+          Out, Feint, Fire Punch, Flash, Fling, Focus Blast, Focus Punch, Force Palm,
+        Foresight, Frustration, Grass Knot, Gravity, Guard Swap, Headbutt, Helping
+          Hand, High Jump Kick, Ice Punch, Light Screen, Low Kick, Low Sweep, Magic
+          Coat, Meditate, Mega Kick, Mega Punch, Metronome, Mimic, Mind Reader, Mud-Slap,
+        Natural Gift, Pain Split, Poison Jab, Power Swap, Power Trick, Protect, Psychic,
+        Psycho Cut, Psych Up, Psyshock, Rain Dance, Recover, Recycle, Reflect, Rest,
+        Retaliate, Return, Reversal, Rock Slide, Rock Smash, Rock Tomb, Role Play,
+        Round, Secret Power, Seismic Toss, Shadow Ball, Signal Beam, Sleep Talk, Snore,
+        Strength, Substitute, Sunny Day, Swagger, Swift, Telekinesis, Thunder Punch,
+        Toxic, Trick, Vacuum Wave, Work Up, Zen Headbutt, Power-Up Punch, Confide,
+        Quick Guard, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [30, 40, 55, 40, 55, 60]
+    tags:
+    - [NFE]
+    types:
+    - [Fighting, Psychic]
+    weight: [11.2]

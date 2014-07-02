@@ -1,0 +1,79 @@
+pokemon:
+  Articuno:
+    abilities:
+    - bw: [Pressure, Snow Cloak]
+    - rs: [Pressure]
+    - []
+    egggroups:
+    - []
+    height: [1.7]
+    introduction: rb
+    moves:
+    - gs: [Agility, Blizzard, Curse, Detect, Double Team, Endure, Fly, Frustration,
+        Gust, Hyper Beam, Ice Beam, Icy Wind, Mind Reader, Mist, Mud-Slap, Powder
+          Snow, Protect, Rain Dance, Reflect, Rest, Return, Roar, Rock Smash, Sandstorm,
+        Sleep Talk, Snore, Steel Wing, Sunny Day, Swagger, Swift, Toxic, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - bw: [Aerial Ace, Agility, Ancient Power, Blizzard, Double-Edge, Double Team,
+        Extrasensory, Facade, Fly, Frost Breath, Frustration, Giga Impact, Gust, Hail,
+        Haze, Heal Bell, Hurricane, Hyper Beam, Ice Beam, Ice Shard, Icy Wind, Mimic,
+        Mind Reader, Mist, Pluck, Powder Snow, Protect, Rain Dance, Reflect, Rest,
+        Return, Roar, Rock Smash, Roost, Round, Sandstorm, Sheer Cold, Signal Beam,
+        Sky Attack, Sky Drop, Sleep Talk, Snore, Substitute, Sunny Day, Swagger, Tailwind,
+        Toxic, U-turn, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - dp: [Aerial Ace, Agility, Air Cutter, Ancient Power, Avalanche, Blizzard, Defog,
+        Double Team, Endure, Facade, Fly, Frustration, Giga Impact, Gust, Hail, Hyper
+          Beam, Ice Beam, Ice Shard, Icy Wind, Mind Reader, Mist, Mud-Slap, Natural
+          Gift, Ominous Wind, Pluck, Powder Snow, Protect, Rain Dance, Reflect, Rest,
+        Return, Roar, Rock Smash, Roost, Sandstorm, Secret Power, Sheer Cold, Signal
+          Beam, Sky Attack, Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day,
+        Swagger, Swift, Tailwind, Toxic, Twister, U-turn, Water Pulse, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - rs: [Aerial Ace, Agility, Blizzard, Double-Edge, Double Team, Endure, Facade,
+        Fly, Frustration, Gust, Hail, Hyper Beam, Ice Beam, Icy Wind, Mimic, Mind
+          Reader, Mist, Mud-Slap, Powder Snow, Protect, Rain Dance, Reflect, Rest,
+        Return, Roar, Rock Smash, Sandstorm, Secret Power, Sheer Cold, Sky Attack,
+        Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day, Swagger, Swift, Toxic,
+        Water Pulse, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - rb: [Agility, Bide, Blizzard, Bubble Beam, Double-Edge, Double Team, Fly, Hyper
+          Beam, Ice Beam, Mimic, Mist, Peck, Rage, Razor Wind, Reflect, Rest, Sky
+          Attack, Substitute, Swift, Take Down, Toxic, Water Gun, Whirlwind]
+    - xy: [Aerial Ace, Agility, Air Cutter, Ancient Power, Avalanche, Blizzard, Defog,
+        Double-Edge, Double Team, Endure, Extrasensory, Facade, Fly, Frost Breath,
+        Frustration, Giga Impact, Gust, Hail, Haze, Heal Bell, Hurricane, Hyper Beam,
+        Ice Beam, Ice Shard, Icy Wind, Mimic, Mind Reader, Mist, Mud-Slap, Natural
+          Gift, Ominous Wind, Pluck, Powder Snow, Protect, Rain Dance, Reflect, Rest,
+        Return, Roar, Rock Smash, Roost, Round, Sandstorm, Secret Power, Sheer Cold,
+        Signal Beam, Sky Attack, Sky Drop, Sleep Talk, Snore, Steel Wing, Substitute,
+        Sunny Day, Swagger, Swift, Tailwind, Toxic, Twister, U-turn, Water Pulse,
+        Freeze-Dry, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [90, 85, 100, 125, 125, 85]
+    - gs: [90, 85, 100, 95, 125, 85]
+    tags:
+    - [UU]
+    - dp: [NU]
+    - gs: [BL]
+    types:
+    - [Flying, Ice]
+    weight: [55.4]

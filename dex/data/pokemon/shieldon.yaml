@@ -1,0 +1,75 @@
+pokemon:
+  Bastiodon:
+    abilities:
+    - [Soundproof, Sturdy]
+    egggroups:
+    - [Monster]
+    evolvesFrom: [Shieldon]
+    height: [1.3]
+    introduction: dp
+    moves:
+    - bw: [Block, Giga Impact, Hyper Beam, Magic Coat, Outrage]
+    - dp: [Avalanche, Block, Giga Impact, Hyper Beam, Magic Coat, Outrage]
+    - xy: [Avalanche, Block, Giga Impact, Hyper Beam, Magic Coat, Outrage]
+    stats:
+    - [60, 52, 168, 47, 138, 30]
+    tags:
+    - [NU]
+    types:
+    - [Rock, Steel]
+    weight: [149.5]
+  Shieldon:
+    abilities:
+    - [Soundproof, Sturdy]
+    egggroups:
+    - [Monster]
+    height: [0.5]
+    introduction: dp
+    moves:
+    - bw: [Ancient Power, Attract, Blizzard, Body Slam, Bulldoze, Counter, Curse,
+        Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endure, Facade, Fire
+          Blast, Fissure, Flamethrower, Flash Cannon, Focus Energy, Frustration, Headbutt,
+        Heavy Slam, Ice Beam, Incinerate, Iron Defense, Iron Head, Iron Tail, Magnet
+          Rise, Metal Burst, Metal Sound, Protect, Rain Dance, Rest, Return, Roar,
+        Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Round, Sandstorm,
+        Scary Face, Screech, Sleep Talk, Smack Down, Snore, Stealth Rock, Stone Edge,
+        Strength, Substitute, Sunny Day, Swagger, Tackle, Take Down, Taunt, Thunder,
+        Thunderbolt, Torment, Toxic, Wide Guard, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Ancient Power, Attract, Blizzard, Body Slam, Captivate, Counter, Curse,
+        Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endure, Facade, Fire
+          Blast, Fissure, Flamethrower, Flash Cannon, Focus Energy, Frustration, Headbutt,
+        Ice Beam, Iron Defense, Iron Head, Iron Tail, Magnet Rise, Metal Burst, Metal
+          Sound, Mud-Slap, Natural Gift, Protect, Rain Dance, Rest, Return, Roar,
+        Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Sandstorm, Scary
+          Face, Screech, Secret Power, Shock Wave, Sleep Talk, Snore, Stealth Rock,
+        Stone Edge, Strength, Substitute, Sunny Day, Swagger, Tackle, Take Down, Taunt,
+        Thunder, Thunderbolt, Torment, Toxic, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Ancient Power, Attract, Blizzard, Body Slam, Bulldoze, Captivate, Counter,
+        Curse, Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endure, Facade,
+        Fire Blast, Fissure, Flamethrower, Flash Cannon, Focus Energy, Frustration,
+        Headbutt, Heavy Slam, Ice Beam, Incinerate, Iron Defense, Iron Head, Iron
+          Tail, Magnet Rise, Metal Burst, Metal Sound, Mud-Slap, Natural Gift, Protect,
+        Rain Dance, Rest, Return, Roar, Rock Blast, Rock Polish, Rock Slide, Rock
+          Smash, Rock Tomb, Round, Sandstorm, Scary Face, Screech, Secret Power, Shock
+          Wave, Sleep Talk, Smack Down, Snore, Stealth Rock, Stone Edge, Strength,
+        Substitute, Sunny Day, Swagger, Tackle, Take Down, Taunt, Thunder, Thunderbolt,
+        Torment, Toxic, Wide Guard, Confide, Guard Split, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [30, 42, 118, 42, 88, 30]
+    tags:
+    - [LC]
+    types:
+    - [Rock, Steel]
+    weight: [57]

@@ -1,0 +1,159 @@
+pokemon:
+  Bellossom:
+    abilities:
+    - bw: [Chlorophyll, Healer]
+    - rs: [Chlorophyll]
+    - []
+    egggroups:
+    - [Plant]
+    evolvesFrom: [Gloom]
+    height: [0.4]
+    introduction: gs
+    moves:
+    - gs: [Hyper Beam]
+    - bw: [Giga Impact, Hyper Beam, Leaf Blade, Leaf Storm, Magical Leaf, Safeguard,
+        Uproar]
+    - dp: [Giga Impact, Hyper Beam, Leaf Blade, Leaf Storm, Magical Leaf, Safeguard,
+        Uproar]
+    - rs: [Hyper Beam, Magical Leaf, Safeguard]
+    - xy: [Giga Impact, Hyper Beam, Leaf Blade, Leaf Storm, Magical Leaf, Safeguard,
+        Uproar]
+    stats:
+    - [75, 80, 85, 90, 100, 50]
+    - xy: [75, 80, 95, 90, 100, 50]
+    tags:
+    - [UU]
+    - dp: [NU]
+    types:
+    - [Grass]
+    weight: [5.8]
+  Gloom:
+    abilities:
+    - bw: [Chlorophyll, Stench]
+    - rs: [Chlorophyll]
+    - []
+    egggroups:
+    - [Plant]
+    evolvesFrom: [Oddish]
+    height: [0.8]
+    introduction: rb
+    moves:
+    - gs: []
+    - bw: [Drain Punch, Fling]
+    - dp: [Drain Punch, Fling]
+    - rs: []
+    - rb: []
+    - xy: [Drain Punch, Fling, Petal Blizzard]
+    stats:
+    - [60, 65, 70, 85, 85, 40]
+    - gs: [60, 65, 70, 85, 75, 40]
+    tags:
+    - [NFE]
+    types:
+    - [Grass, Poison]
+    weight: [8.6]
+  Oddish:
+    abilities:
+    - bw: [Chlorophyll, Run Away]
+    - rs: [Chlorophyll]
+    - []
+    egggroups:
+    - [Plant]
+    height: [0.5]
+    introduction: rb
+    moves:
+    - gs: [Absorb, Acid, Attract, Charm, Curse, Cut, Double Team, Endure, Flail, Flash,
+        Frustration, Giga Drain, Moonlight, Petal Dance, Poison Powder, Protect, Razor
+          Leaf, Rest, Return, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solar
+          Beam, Stun Spore, Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis,
+        Toxic, Leech Seed, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - bw: [Absorb, Acid, After You, Attract, Charm, Cut, Double Team, Energy Ball,
+        Facade, Flail, Flash, Frustration, Gastro Acid, Giga Drain, Grass Knot, Ingrain,
+        Lucky Chant, Mega Drain, Moonlight, Natural Gift, Nature Power, Petal Dance,
+        Poison Powder, Protect, Razor Leaf, Rest, Return, Round, Secret Power, Seed
+          Bomb, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Stun Spore,
+        Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis, Teeter
+          Dance, Tickle, Toxic, Venoshock, Worry Seed, Leech Seed, Body Slam, Double-Edge,
+        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - dp: [Absorb, Acid, Attract, Bullet Seed, Captivate, Charm, Cut, Double Team,
+        Endure, Energy Ball, Facade, Flail, Flash, Frustration, Gastro Acid, Giga
+          Drain, Grass Knot, Ingrain, Lucky Chant, Mega Drain, Moonlight, Natural
+          Gift, Petal Dance, Poison Powder, Protect, Razor Leaf, Rest, Return, Secret
+          Power, Seed Bomb, Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solar Beam,
+        Stun Spore, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis,
+        Teeter Dance, Tickle, Toxic, Worry Seed, Leech Seed, Body Slam, Double-Edge,
+        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - rs: [Absorb, Acid, Attract, Bullet Seed, Charm, Cut, Double Team, Endure, Facade,
+        Flail, Flash, Frustration, Giga Drain, Ingrain, Moonlight, Petal Dance, Poison
+          Powder, Protect, Razor Leaf, Rest, Return, Secret Power, Sleep Powder, Sleep
+          Talk, Sludge Bomb, Snore, Solar Beam, Stun Spore, Substitute, Sunny Day,
+        Swagger, Sweet Scent, Swords Dance, Synthesis, Toxic, Leech Seed, Body Slam,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - rb: [Absorb, Acid, Bide, Cut, Double-Edge, Double Team, Mega Drain, Mimic, Petal
+          Dance, Poison Powder, Rage, Reflect, Rest, Sleep Powder, Solar Beam, Stun
+          Spore, Substitute, Swords Dance, Take Down, Toxic, Leech Seed]
+    - xy: [Absorb, Acid, After You, Attract, Bullet Seed, Captivate, Charm, Cut, Double-Edge,
+        Double Team, Endure, Energy Ball, Facade, Flail, Flash, Frustration, Gastro
+          Acid, Giga Drain, Grass Knot, Ingrain, Leech Seed, Lucky Chant, Mega Drain,
+        Mimic, Moonlight, Natural Gift, Nature Power, Petal Dance, Poison Powder,
+        Protect, Razor Leaf, Rest, Return, Round, Secret Power, Seed Bomb, Sleep Powder,
+        Sleep Talk, Sludge Bomb, Snore, Solar Beam, Stun Spore, Substitute, Sunny
+          Day, Swagger, Sweet Scent, Swords Dance, Synthesis, Teeter Dance, Tickle,
+        Toxic, Venoshock, Worry Seed, Grassy Terrain, Infestation, Dazzling Gleam,
+        Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [45, 50, 55, 75, 75, 30]
+    - gs: [45, 50, 55, 75, 65, 30]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Grass, Poison]
+    weight: [5.4]
+  Vileplume:
+    abilities:
+    - bw: [Chlorophyll, Effect Spore]
+    - rs: [Chlorophyll]
+    - []
+    egggroups:
+    - [Plant]
+    evolvesFrom: [Gloom]
+    height: [1.2]
+    introduction: rb
+    moves:
+    - gs: []
+    - bw: [Aromatherapy]
+    - dp: [Aromatherapy]
+    - rs: [Aromatherapy, Mega Drain, Double-Edge, Mimic]
+    - rb: [Body Slam, Hyper Beam]
+    - xy: [Aromatherapy, Body Slam, Giga Impact, Hyper Beam, Safeguard]
+    stats:
+    - [75, 80, 85, 100, 100, 50]
+    - gs: [75, 80, 85, 100, 90, 50]
+      xy: [75, 80, 85, 110, 90, 50]
+    tags:
+    - [UU]
+    - dp: [NU]
+    types:
+    - [Grass, Poison]
+    weight: [18.6]

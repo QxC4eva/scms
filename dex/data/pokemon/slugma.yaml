@@ -1,0 +1,103 @@
+pokemon:
+  Magcargo:
+    abilities:
+    - bw: [Flame Body, Magma Armor, Weak Armor]
+    - rs: [Flame Body, Magma Armor]
+    - []
+    egggroups:
+    - [Indeterminate]
+    evolvesFrom: [Slugma]
+    height: [0.8]
+    introduction: gs
+    moves:
+    - gs: [Earthquake, Hyper Beam, Strength]
+    - bw: [Bulldoze, Earthquake, Explosion, Giga Impact, Gyro Ball, Hyper Beam, Rock
+          Polish, Sandstorm, Shell Smash, Smack Down, Solar Beam, Stealth Rock, Stone
+          Edge, Strength, Refresh]
+    - dp: [Earthquake, Explosion, Giga Impact, Gyro Ball, Hyper Beam, Rock Polish,
+        Sandstorm, Solar Beam, Stealth Rock, Stone Edge, Strength, Refresh]
+    - rs: [Earthquake, Hyper Beam, Rock Tomb, Sandstorm, Strength, Refresh]
+    - xy: [Bulldoze, Earthquake, Explosion, Giga Impact, Gyro Ball, Hyper Beam, Refresh,
+        Rock Polish, Sandstorm, Shell Smash, Smack Down, Solar Beam, Stealth Rock,
+        Stone Edge, Strength]
+    stats:
+    - [50, 50, 120, 80, 80, 30]
+    tags:
+    - [UU]
+    - rs: [NU]
+    types:
+    - [Fire, Rock]
+    weight: [55]
+  Slugma:
+    abilities:
+    - bw: [Flame Body, Magma Armor, Weak Armor]
+    - rs: [Flame Body, Magma Armor]
+    - []
+    egggroups:
+    - [Indeterminate]
+    height: [0.7]
+    introduction: gs
+    moves:
+    - gs: [Acid Armor, Amnesia, Attract, Body Slam, Curse, Defense Curl, Double Team,
+        Ember, Endure, Fire Blast, Flamethrower, Frustration, Harden, Mud-Slap, Protect,
+        Rest, Return, Rock Slide, Rock Smash, Rock Throw, Rollout, Sleep Talk, Smog,
+        Snore, Sunny Day, Swagger, Toxic, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - bw: [Acid Armor, After You, Amnesia, Ancient Power, Attract, Body Slam, Curse,
+        Double Team, Earth Power, Ember, Facade, Fire Blast, Flame Burst, Flame Charge,
+        Flamethrower, Frustration, Harden, Heat Wave, Incinerate, Inferno, Iron Defense,
+        Lava Plume, Light Screen, Memento, Overheat, Pain Split, Protect, Recover,
+        Reflect, Rest, Return, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout,
+        Round, Sleep Talk, Smog, Smokescreen, Snore, Spit Up, Stockpile, Substitute,
+        Sunny Day, Swagger, Swallow, Toxic, Will-O-Wisp, Yawn, Double-Edge, Mimic,
+        Self-Destruct, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - dp: [Acid Armor, Amnesia, Ancient Power, Attract, Body Slam, Captivate, Curse,
+        Double Team, Earth Power, Ember, Endure, Facade, Fire Blast, Flamethrower,
+        Frustration, Harden, Heat Wave, Iron Defense, Lava Plume, Light Screen, Memento,
+        Mud-Slap, Natural Gift, Overheat, Pain Split, Protect, Recover, Reflect, Rest,
+        Return, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Secret Power,
+        Sleep Talk, Smog, Smokescreen, Snore, Spit Up, Stockpile, Substitute, Sunny
+          Day, Swagger, Swallow, Toxic, Will-O-Wisp, Yawn, Double-Edge, Mimic, Self-Destruct,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - rs: [Acid Armor, Amnesia, Attract, Body Slam, Defense Curl, Double Team, Ember,
+        Endure, Facade, Fire Blast, Flamethrower, Frustration, Harden, Heat Wave,
+        Light Screen, Mud-Slap, Overheat, Protect, Reflect, Rest, Return, Rock Slide,
+        Rock Smash, Rock Throw, Rollout, Secret Power, Sleep Talk, Smog, Snore, Substitute,
+        Sunny Day, Swagger, Toxic, Yawn, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Acid Armor, Amnesia, Ancient Power, Attract, Body Slam, Captivate, Curse,
+        Defense Curl, Double-Edge, Double Team, Earth Power, Ember, Endure, Facade,
+        Fire Blast, Flame Burst, Flame Charge, Flamethrower, Frustration, Harden,
+        Heat Wave, Incinerate, Inferno, Iron Defense, Lava Plume, Light Screen, Memento,
+        Mimic, Mud-Slap, Natural Gift, Overheat, Pain Split, Protect, Recover, Reflect,
+        Rest, Return, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Round,
+        Secret Power, Self-Destruct, Sleep Talk, Smog, Smokescreen, Snore, Spit Up,
+        Stockpile, Substitute, Sunny Day, Swagger, Swallow, Toxic, Will-O-Wisp, Yawn,
+        After You, Infestation, Nature Power, Confide, Guard Swap, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [40, 40, 40, 70, 40, 20]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Fire]
+    weight: [35]

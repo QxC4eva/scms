@@ -1,0 +1,75 @@
+pokemon:
+  Entei:
+    abilities:
+    - bw: [Flash Fire, Pressure]
+    - rs: [Pressure]
+    - []
+    egggroups:
+    - []
+    height: [2.1]
+    introduction: gs
+    moves:
+    - gs: [Bite, Curse, Cut, Detect, Dig, Double Team, Ember, Endure, Fire Blast,
+        Fire Spin, Flamethrower, Flash, Frustration, Headbutt, Hyper Beam, Iron Tail,
+        Leer, Mud-Slap, Protect, Psych Up, Rain Dance, Rest, Return, Roar, Rock Smash,
+        Sandstorm, Sleep Talk, Snore, Solar Beam, Stomp, Strength, Sunny Day, Swagger,
+        Swift, Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - bw: [Bite, Bulldoze, Calm Mind, Cut, Dig, Double Team, Ember, Eruption, Extrasensory,
+        Facade, Fire Blast, Fire Fang, Fire Spin, Flame Charge, Flamethrower, Flash,
+        Frustration, Giga Impact, Heat Wave, Hyper Beam, Incinerate, Iron Head, Iron
+          Tail, Lava Plume, Leer, Overheat, Protect, Psych Up, Quash, Rain Dance,
+        Reflect, Rest, Return, Roar, Rock Smash, Round, Sandstorm, Shadow Ball, Sleep
+          Talk, Snarl, Snore, Solar Beam, Stomp, Stone Edge, Strength, Substitute,
+        Sunny Day, Swagger, Toxic, Will-O-Wisp, Flare Blitz, Howl, Extreme Speed,
+        Crush Claw, Body Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Bite, Calm Mind, Cut, Dig, Double Team, Ember, Endure, Eruption, Extrasensory,
+        Facade, Fire Blast, Fire Fang, Fire Spin, Flamethrower, Flash, Frustration,
+        Giga Impact, Headbutt, Heat Wave, Hyper Beam, Iron Head, Iron Tail, Lava Plume,
+        Leer, Mud-Slap, Natural Gift, Overheat, Protect, Psych Up, Rain Dance, Reflect,
+        Rest, Return, Roar, Rock Climb, Rock Smash, Sandstorm, Secret Power, Shadow
+          Ball, Sleep Talk, Snore, Solar Beam, Stomp, Stone Edge, Strength, Substitute,
+        Sunny Day, Swagger, Swift, Toxic, Will-O-Wisp, Flare Blitz, Howl, Extreme
+          Speed, Crush Claw, Body Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Bite, Calm Mind, Cut, Dig, Double Team, Ember, Endure, Facade, Fire Blast,
+        Fire Spin, Flamethrower, Flash, Frustration, Hyper Beam, Iron Tail, Leer,
+        Mud-Slap, Protect, Psych Up, Rain Dance, Reflect, Rest, Return, Roar, Rock
+          Smash, Sandstorm, Secret Power, Sleep Talk, Snore, Solar Beam, Stomp, Strength,
+        Substitute, Sunny Day, Swagger, Swift, Toxic, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Bite, Body Slam, Bulldoze, Calm Mind, Crush Claw, Cut, Dig, Double-Edge,
+        Double Team, Ember, Endure, Eruption, Extrasensory, Extreme Speed, Facade,
+        Fire Blast, Fire Fang, Fire Spin, Flame Charge, Flamethrower, Flare Blitz,
+        Flash, Frustration, Giga Impact, Headbutt, Heat Wave, Howl, Hyper Beam, Incinerate,
+        Iron Head, Iron Tail, Lava Plume, Leer, Mimic, Mud-Slap, Natural Gift, Overheat,
+        Protect, Psych Up, Quash, Rain Dance, Reflect, Rest, Return, Roar, Rock Climb,
+        Rock Smash, Round, Sandstorm, Secret Power, Shadow Ball, Sleep Talk, Snarl,
+        Snore, Solar Beam, Stomp, Stone Edge, Strength, Substitute, Sunny Day, Swagger,
+        Swift, Toxic, Will-O-Wisp, Sacred Fire, Confide, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [115, 115, 85, 90, 75, 100]
+    tags:
+    - [BL]
+    - dp: [NU]
+      rs: [BL]
+    types:
+    - [Fire]
+    weight: [198]

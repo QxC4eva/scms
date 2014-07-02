@@ -1,0 +1,27 @@
+pokemon:
+  Smeargle:
+    abilities:
+    - dp: [Own Tempo, Technician]
+    - bw: [Moody, Own Tempo, Technician]
+    - rs: [Own Tempo]
+    - []
+    egggroups:
+    - [Ground]
+    height: [1.2]
+    introduction: gs
+    moves:
+    - gs: [Sketch]
+    - bw: [Sketch]
+    - dp: [Sketch]
+    - rs: [Sketch]
+    - xy: [Captivate, False Swipe, Mean Look, Odor Sleuth, Sketch, Sleep Talk, Spore]
+    stats:
+    - [55, 20, 35, 20, 45, 75]
+    tags:
+    - [UU]
+    - bw: [RU]
+    - dp: [OU]
+    - rs: [BL]
+    types:
+    - [Normal]
+    weight: [58]

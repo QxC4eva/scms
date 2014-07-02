@@ -1,0 +1,105 @@
+pokemon:
+  Ponyta:
+    abilities:
+    - bw: [Flame Body, Flash Fire, Run Away]
+    - rs: [Flash Fire, Run Away]
+    - []
+    egggroups:
+    - [Ground]
+    height: [1]
+    introduction: rb
+    moves:
+    - gs: [Agility, Attract, Charm, Curse, Double Kick, Double Team, Ember, Endure,
+        Fire Blast, Fire Spin, Flame Wheel, Flamethrower, Frustration, Growl, Headbutt,
+        Hypnosis, Iron Tail, Protect, Quick Attack, Rest, Return, Sleep Talk, Snore,
+        Stomp, Sunny Day, Swagger, Swift, Tackle, Tail Whip, Take Down, Thrash, Toxic,
+        Low Kick, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - bw: [Agility, Attract, Bounce, Captivate, Charm, Double-Edge, Double Kick, Double
+          Team, Echoed Voice, Ember, Facade, Fire Blast, Fire Spin, Flame Charge,
+        Flame Wheel, Flamethrower, Flare Blitz, Frustration, Growl, Heat Wave, Horn
+          Drill, Hypnosis, Incinerate, Inferno, Iron Tail, Low Kick, Morning Sun,
+        Overheat, Protect, Rest, Return, Round, Sleep Talk, Snore, Solar Beam, Stomp,
+        Strength, Substitute, Sunny Day, Swagger, Tackle, Tail Whip, Take Down, Thrash,
+        Toxic, Wild Charge, Will-O-Wisp, Body Slam, Mimic, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Agility, Attract, Bounce, Captivate, Charm, Double-Edge, Double Kick, Double
+          Team, Ember, Endure, Facade, Fire Blast, Fire Spin, Flame Wheel, Flamethrower,
+        Flare Blitz, Frustration, Growl, Headbutt, Heat Wave, Horn Drill, Hypnosis,
+        Iron Tail, Morning Sun, Natural Gift, Overheat, Protect, Rest, Return, Secret
+          Power, Sleep Talk, Snore, Solar Beam, Stomp, Strength, Substitute, Sunny
+          Day, Swagger, Swift, Tackle, Tail Whip, Take Down, Thrash, Toxic, Will-O-Wisp,
+        Body Slam, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - rs: [Agility, Attract, Bounce, Charm, Double-Edge, Double Kick, Double Team,
+        Ember, Endure, Facade, Fire Blast, Fire Spin, Flame Wheel, Flamethrower, Frustration,
+        Growl, Hypnosis, Iron Tail, Overheat, Protect, Quick Attack, Rest, Return,
+        Secret Power, Sleep Talk, Snore, Solar Beam, Stomp, Strength, Substitute,
+        Sunny Day, Swagger, Swift, Tackle, Tail Whip, Take Down, Thrash, Toxic, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - rb: [Agility, Bide, Body Slam, Double-Edge, Double Team, Ember, Fire Blast,
+        Fire Spin, Growl, Horn Drill, Mimic, Rage, Reflect, Rest, Skull Bash, Stomp,
+        Substitute, Swift, Tail Whip, Take Down, Toxic, Low Kick]
+    - xy: [Agility, Attract, Body Slam, Bounce, Captivate, Charm, Double-Edge, Double
+          Kick, Double Team, Echoed Voice, Ember, Endure, Facade, Fire Blast, Fire
+          Spin, Flame Charge, Flamethrower, Flame Wheel, Flare Blitz, Frustration,
+        Growl, Headbutt, Heat Wave, Horn Drill, Hypnosis, Incinerate, Inferno, Iron
+          Tail, Low Kick, Mimic, Morning Sun, Natural Gift, Overheat, Protect, Quick
+          Attack, Rest, Return, Round, Secret Power, Sleep Talk, Snore, Solar Beam,
+        Stomp, Strength, Substitute, Sunny Day, Swagger, Swift, Tackle, Tail Whip,
+        Take Down, Thrash, Toxic, Wild Charge, Will-O-Wisp, Confide, Ally Switch,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [50, 85, 55, 65, 65, 90]
+    - gs: [50, 85, 55, 65, 65, 90]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Fire]
+    weight: [30]
+  Rapidash:
+    abilities:
+    - bw: [Flame Body, Flash Fire, Run Away]
+    - rs: [Flash Fire, Run Away]
+    - []
+    egggroups:
+    - [Ground]
+    evolvesFrom: [Ponyta]
+    height: [1.7]
+    introduction: rb
+    moves:
+    - gs: [Fury Attack, Hyper Beam]
+    - bw: [Drill Run, Fury Attack, Giga Impact, Hyper Beam, Megahorn, Poison Jab,
+        Quick Attack]
+    - dp: [Fury Attack, Giga Impact, Hyper Beam, Megahorn, Poison Jab, Quick Attack]
+    - rs: [Fury Attack, Hyper Beam]
+    - rb: [Hyper Beam]
+    - xy: [Baton Pass, Fury Attack, Giga Impact, Hyper Beam, Megahorn, Poison Jab,
+        Drill Run]
+    stats:
+    - [65, 100, 70, 80, 80, 105]
+    - gs: [65, 100, 70, 80, 80, 105]
+    tags:
+    - [UU]
+    - dp: [NU]
+    types:
+    - [Fire]
+    weight: [95]

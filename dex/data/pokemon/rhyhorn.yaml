@@ -1,0 +1,151 @@
+pokemon:
+  Rhydon:
+    abilities:
+    - bw: [Lightningrod, Reckless, Rock Head]
+    - rs: [Lightningrod, Rock Head]
+    - []
+    egggroups:
+    - [Ground, Monster]
+    evolvesFrom: [Rhyhorn]
+    height: [1.9]
+    introduction: rb
+    moves:
+    - gs: [Dynamic Punch, Fire Punch, Fury Cutter, Hyper Beam, Surf, Thunder Punch]
+    - bw: [Block, Brick Break, Cut, Dragon Tail, Fire Punch, Fling, Focus Blast, Giga
+          Impact, Hammer Arm, Hyper Beam, Ice Punch, Outrage, Shadow Claw, Smack Down,
+        Surf, Thunder Punch, Helping Hand, Seismic Toss]
+    - dp: [Avalanche, Block, Brick Break, Cut, Fire Punch, Fling, Focus Blast, Focus
+          Punch, Fury Cutter, Giga Impact, Hammer Arm, Hyper Beam, Ice Punch, Outrage,
+        Shadow Claw, Surf, Thunder Punch, Whirlpool, Helping Hand, Seismic Toss]
+    - rs: [Brick Break, Cut, Dynamic Punch, Fire Punch, Focus Punch, Fury Cutter,
+        Hyper Beam, Mega Kick, Mega Punch, Surf, Thunder Punch, Helping Hand]
+    - rb: [Blizzard, Bubble Beam, Counter, Hyper Beam, Ice Beam, Mega Kick, Mega Punch,
+        Pay Day, Seismic Toss, Submission, Surf, Water Gun]
+    - xy: [Avalanche, Block, Brick Break, Cut, Dragon Tail, Dynamic Punch, Fire Punch,
+        Fling, Focus Blast, Focus Punch, Fury Cutter, Giga Impact, Hammer Arm, Helping
+          Hand, Hyper Beam, Ice Punch, Mega Kick, Mega Punch, Outrage, Seismic Toss,
+        Shadow Claw, Smack Down, Surf, Thunder Punch, Whirlpool, Power-Up Punch]
+    stats:
+    - [105, 130, 120, 45, 45, 40]
+    - gs: [105, 130, 120, 45, 45, 40]
+    tags:
+    - [OU]
+    - bw: [RU]
+      dp: [NFE]
+      rs: [BL]
+    types:
+    - [Ground, Rock]
+    weight: [120]
+  Rhyhorn:
+    abilities:
+    - bw: [Lightningrod, Reckless, Rock Head]
+    - rs: [Lightningrod, Rock Head]
+    - []
+    egggroups:
+    - [Ground, Monster]
+    height: [1]
+    introduction: rb
+    moves:
+    - gs: [Attract, Blizzard, Counter, Crunch, Curse, Dig, Double Team, Earthquake,
+        Endure, Fire Blast, Flamethrower, Frustration, Fury Attack, Headbutt, Horn
+          Attack, Horn Drill, Ice Beam, Icy Wind, Iron Tail, Magnitude, Mud-Slap,
+        Protect, Pursuit, Rest, Return, Reversal, Roar, Rock Slide, Rock Smash, Rollout,
+        Sandstorm, Scary Face, Sleep Talk, Snore, Stomp, Strength, Sunny Day, Swagger,
+        Tail Whip, Take Down, Thrash, Thunder, Thunderbolt, Toxic, Zap Cannon, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - bw: [Aqua Tail, Attract, Blizzard, Bulldoze, Chip Away, Counter, Crunch, Crush
+          Claw, Curse, Dig, Double Team, Dragon Pulse, Dragon Rush, Drill Run, Earth
+          Power, Earthquake, Endeavor, Facade, Fire Blast, Fire Fang, Flamethrower,
+        Frustration, Fury Attack, Horn Attack, Horn Drill, Ice Beam, Ice Fang, Incinerate,
+        Iron Tail, Magnitude, Megahorn, Payback, Poison Jab, Protect, Rain Dance,
+        Rest, Return, Reversal, Roar, Rock Blast, Rock Climb, Rock Polish, Rock Slide,
+        Rock Smash, Rock Tomb, Round, Sandstorm, Scary Face, Skull Bash, Sleep Talk,
+        Snore, Spite, Stealth Rock, Stomp, Stone Edge, Strength, Substitute, Sunny
+          Day, Superpower, Swagger, Swords Dance, Tail Whip, Take Down, Thief, Thunder,
+        Thunder Fang, Thunderbolt, Toxic, Uproar, Body Slam, Double-Edge, Mimic, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - dp: [Ancient Power, Aqua Tail, Attract, Blizzard, Captivate, Counter, Crunch,
+        Crush Claw, Curse, Dig, Double Team, Dragon Pulse, Dragon Rush, Earth Power,
+        Earthquake, Endeavor, Endure, Facade, Fire Blast, Fire Fang, Flamethrower,
+        Frustration, Fury Attack, Headbutt, Horn Attack, Horn Drill, Ice Beam, Ice
+          Fang, Iron Tail, Magnitude, Megahorn, Mud-Slap, Natural Gift, Payback, Poison
+          Jab, Protect, Rain Dance, Rest, Return, Reversal, Roar, Rock Blast, Rock
+          Climb, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sandstorm,
+        Scary Face, Secret Power, Shock Wave, Skull Bash, Sleep Talk, Snore, Spite,
+        Stealth Rock, Stomp, Stone Edge, Strength, Substitute, Sunny Day, Superpower,
+        Swagger, Swords Dance, Tail Whip, Take Down, Thief, Thunder, Thunder Fang,
+        Thunderbolt, Toxic, Uproar, Body Slam, Double-Edge, Mimic, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - rs: [Attract, Blizzard, Counter, Crunch, Crush Claw, Curse, Dig, Double Team,
+        Earthquake, Endure, Facade, Fire Blast, Flamethrower, Frustration, Fury Attack,
+        Horn Attack, Horn Drill, Ice Beam, Iron Tail, Magnitude, Megahorn, Mud-Slap,
+        Protect, Rain Dance, Rest, Return, Reversal, Roar, Rock Blast, Rock Slide,
+        Rock Smash, Rock Tomb, Rollout, Sandstorm, Scary Face, Secret Power, Shock
+          Wave, Sleep Talk, Snore, Stomp, Strength, Substitute, Sunny Day, Swagger,
+        Swords Dance, Tail Whip, Take Down, Thief, Thunder, Thunderbolt, Toxic, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - rb: [Bide, Body Slam, Dig, Double-Edge, Double Team, Earthquake, Fire Blast,
+        Fissure, Fury Attack, Horn Attack, Horn Drill, Leer, Mimic, Rage, Rest, Rock
+          Slide, Skull Bash, Stomp, Strength, Substitute, Tail Whip, Take Down, Thunder,
+        Thunderbolt, Toxic]
+    - xy: [Ancient Power, Aqua Tail, Attract, Blizzard, Body Slam, Bulldoze, Captivate,
+        Chip Away, Counter, Crunch, Crush Claw, Curse, Dig, Double-Edge, Double Team,
+        Dragon Pulse, Dragon Rush, Drill Run, Earth Power, Earthquake, Endeavor, Endure,
+        Facade, Fire Blast, Fire Fang, Flamethrower, Frustration, Fury Attack, Headbutt,
+        Horn Attack, Horn Drill, Ice Beam, Ice Fang, Icy Wind, Incinerate, Iron Tail,
+        Magnitude, Megahorn, Mimic, Mud-Slap, Natural Gift, Payback, Poison Jab, Protect,
+        Rain Dance, Rest, Return, Reversal, Roar, Rock Blast, Rock Climb, Rock Polish,
+        Rock Slide, Rock Smash, Rock Tomb, Rollout, Round, Sandstorm, Scary Face,
+        Secret Power, Shock Wave, Skull Bash, Sleep Talk, Snore, Spite, Stealth Rock,
+        Stomp, Stone Edge, Strength, Substitute, Sunny Day, Superpower, Swagger, Swords
+          Dance, Tail Whip, Take Down, Thief, Thunder, Thunderbolt, Thunder Fang,
+        Toxic, Uproar, Confide, Metal Burst, Rototiller, Guard Split, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [80, 85, 95, 30, 30, 25]
+    - gs: [80, 85, 95, 30, 30, 25]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Ground, Rock]
+    weight: [115]
+  Rhyperior:
+    abilities:
+    - [Lightningrod, Reckless, Solid Rock]
+    egggroups:
+    - [Ground, Monster]
+    evolvesFrom: [Rhydon]
+    height: [2.4]
+    introduction: dp
+    moves:
+    - bw: [Flash Cannon, Iron Head, Rock Wrecker]
+    - dp: [Flash Cannon, Iron Head, Rock Wrecker]
+    - xy: [Flash Cannon, Iron Head, Rock Wrecker]
+    stats:
+    - [115, 140, 130, 55, 55, 40]
+    tags:
+    - [UU]
+    types:
+    - [Ground, Rock]
+    weight: [282.8]

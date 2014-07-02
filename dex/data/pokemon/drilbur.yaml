@@ -1,0 +1,58 @@
+pokemon:
+  Drilbur:
+    abilities:
+    - [Mold Breaker, Sand Force, Sand Rush]
+    egggroups:
+    - [Ground]
+    height: [0.3]
+    introduction: bw
+    moves:
+    - bw: [Aerial Ace, Attract, Brick Break, Bulldoze, Crush Claw, Cut, Dig, Double
+          Team, Drill Run, Earth Power, Earthquake, Facade, Fissure, Fling, Frustration,
+        Fury Swipes, Hone Claws, Iron Defense, Metal Claw, Metal Sound, Mud-Slap,
+        Mud Sport, Poison Jab, Protect, Rapid Spin, Rest, Return, Rock Climb, Rock
+          Slide, Rock Smash, Rock Tomb, Round, Sandstorm, Scratch, Shadow Claw, Skull
+          Bash, Slash, Sleep Talk, Sludge Bomb, Snore, Stealth Rock, Strength, Submission,
+        Substitute, Swagger, Swords Dance, Toxic, X-Scissor, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Aerial Ace, Attract, Brick Break, Bulldoze, Crush Claw, Cut, Dig, Double
+          Team, Drill Run, Earth Power, Earthquake, Facade, Fissure, Fling, Frustration,
+        Fury Swipes, Hone Claws, Iron Defense, Metal Claw, Metal Sound, Mud-Slap,
+        Mud Sport, Poison Jab, Protect, Rapid Spin, Rest, Return, Rock Climb, Rock
+          Slide, Rock Smash, Rock Tomb, Round, Sandstorm, Scratch, Shadow Claw, Skull
+          Bash, Slash, Sludge Bomb, Strength, Submission, Substitute, Swagger, Swords
+          Dance, Toxic, X-Scissor, Snore, Stealth Rock, Sleep Talk, Confide, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [60, 85, 40, 30, 45, 68]
+    tags:
+    - [LC]
+    types:
+    - [Ground]
+    weight: [8.5]
+  Excadrill:
+    abilities:
+    - [Mold Breaker, Sand Force, Sand Rush]
+    egggroups:
+    - [Ground]
+    evolvesFrom: [Drilbur]
+    height: [0.7]
+    introduction: bw
+    moves:
+    - bw: [Focus Blast, Giga Impact, Horn Drill, Hyper Beam, Iron Head, Magnet Rise]
+    - xy: [Focus Blast, Giga Impact, Horn Drill, Hyper Beam, Iron Head, Magnet Rise,
+        Rototiller]
+    stats:
+    - [110, 135, 60, 50, 65, 88]
+    tags:
+    - [Uber]
+    types:
+    - [Ground, Steel]
+    weight: [40.4]

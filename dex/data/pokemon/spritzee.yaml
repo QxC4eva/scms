@@ -1,0 +1,44 @@
+pokemon:
+  Aromatisse:
+    abilities:
+    - [Healer, Aroma Veil]
+    egggroups:
+    - [Fairy]
+    evolvesFrom: [Spritzee]
+    height: [0.8]
+    introduction: xy
+    moves:
+    - xy: [Aromatic Mist, Heal Pulse, Psyshock, Hyper Beam, Thunder, Giga Impact]
+    stats:
+    - [101, 72, 72, 99, 89, 29]
+    tags:
+    - []
+    types:
+    - [Fairy]
+    weight: [15.5]
+  Spritzee:
+    abilities:
+    - [Healer, Aroma Veil]
+    egggroups:
+    - [Fairy]
+    height: [0.2]
+    introduction: xy
+    moves:
+    - xy: [Sweet Scent, Fairy Wind, Sweet Kiss, Odor Sleuth, Echoed Voice, Calm Mind,
+        Draining Kiss, Aromatherapy, Attract, Moonblast, Charm, Flail, Misty Terrain,
+        Skill Swap, Psychic, Disarming Voice, Toxic, Sunny Day, Light Screen, Protect,
+        Rain Dance, Frustration, Thunderbolt, Return, Double Team, Reflect, Torment,
+        Facade, Rest, Round, Energy Ball, Charge Beam, Flash, Gyro Ball, Psych Up,
+        Dream Eater, Swagger, Sleep Talk, Substitute, Flash Cannon, Trick Room, Dazzling
+          Gleam, Confide, Refresh, Wish, Captivate, Disable, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [78, 52, 60, 63, 65, 23]
+    tags:
+    - []
+    types:
+    - [Fairy]
+    weight: [0.5]

@@ -1,0 +1,58 @@
+pokemon:
+  Spiritomb:
+    abilities:
+    - [Pressure]
+    - bw: [Infiltrator, Pressure]
+    egggroups:
+    - [Indeterminate]
+    height: [1]
+    introduction: dp
+    moves:
+    - bw: [Attract, Calm Mind, Captivate, Confuse Ray, Curse, Dark Pulse, Destiny
+          Bond, Double Team, Dream Eater, Embargo, Facade, Feint Attack, Flash, Foul
+          Play, Frustration, Giga Impact, Grudge, Hyper Beam, Hypnosis, Icy Wind,
+        Imprison, Memento, Nasty Plot, Nightmare, Ominous Wind, Pain Split, Protect,
+        Psych Up, Psychic, Pursuit, Quash, Rain Dance, Rest, Retaliate, Return, Rock
+          Tomb, Round, Shadow Ball, Shadow Sneak, Sleep Talk, Smokescreen, Snarl,
+        Snatch, Snore, Spite, Substitute, Sucker Punch, Sunny Day, Swagger, Taunt,
+        Telekinesis, Thief, Torment, Toxic, Trick, Uproar, Will-O-Wisp, Wonder Room,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - dp: [Attract, Calm Mind, Captivate, Confuse Ray, Curse, Dark Pulse, Destiny
+          Bond, Double Team, Dream Eater, Embargo, Endure, Facade, Feint Attack, Flash,
+        Frustration, Giga Impact, Grudge, Hyper Beam, Hypnosis, Icy Wind, Imprison,
+        Memento, Nasty Plot, Natural Gift, Ominous Wind, Pain Split, Protect, Psych
+          Up, Psychic, Pursuit, Rain Dance, Rest, Return, Rock Tomb, Secret Power,
+        Shadow Ball, Shadow Sneak, Shock Wave, Silver Wind, Sleep Talk, Smokescreen,
+        Snatch, Snore, Spite, Substitute, Sucker Punch, Sunny Day, Swagger, Taunt,
+        Thief, Torment, Toxic, Trick, Uproar, Water Pulse, Will-O-Wisp, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - xy: [Attract, Calm Mind, Captivate, Confuse Ray, Curse, Dark Pulse, Destiny
+          Bond, Double Team, Dream Eater, Embargo, Endure, Facade, Feint Attack, Flash,
+        Frustration, Giga Impact, Grudge, Hyper Beam, Hypnosis, Icy Wind, Imprison,
+        Memento, Nasty Plot, Natural Gift, Nightmare, Ominous Wind, Pain Split, Protect,
+        Psychic, Psych Up, Pursuit, Quash, Rain Dance, Rest, Retaliate, Return, Rock
+          Tomb, Round, Secret Power, Shadow Ball, Shadow Sneak, Shock Wave, Silver
+          Wind, Sleep Talk, Smokescreen, Snarl, Snatch, Snore, Spite, Substitute,
+        Sucker Punch, Sunny Day, Swagger, Taunt, Telekinesis, Thief, Torment, Toxic,
+        Trick, Uproar, Water Pulse, Will-O-Wisp, Foul Play, Wonder Room, Infestation,
+        Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [50, 92, 108, 92, 108, 35]
+    tags:
+    - [UU]
+    - bw: [RU]
+    types:
+    - [Dark, Ghost]
+    weight: [108]

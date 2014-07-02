@@ -1,0 +1,67 @@
+pokemon:
+  Minun:
+    abilities:
+    - [Minus]
+    - bw: [Minus]
+      xy: [Minus, Volt Absorb]
+    egggroups:
+    - [Fairy]
+    height: [0.4]
+    introduction: rs
+    moves:
+    - bw: [Agility, Attract, Baton Pass, Charge, Charge Beam, Charm, Copycat, Discharge,
+        Double Team, Echoed Voice, Electro Ball, Encore, Entrainment, Facade, Fake
+          Tears, Flash, Fling, Frustration, Grass Knot, Growl, Helping Hand, Iron
+          Tail, Last Resort, Light Screen, Lucky Chant, Magnet Rise, Nasty Plot, Protect,
+        Quick Attack, Rain Dance, Rest, Return, Round, Signal Beam, Sing, Sleep Talk,
+        Snore, Spark, Substitute, Swagger, Sweet Kiss, Swift, Thunder, Thunder Wave,
+        Thunderbolt, Thunder Punch, Toxic, Trump Card, Uproar, Volt Switch, Wild Charge,
+        Wish, Body Slam, Double-Edge, Mimic, Seismic Toss, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Agility, Attract, Baton Pass, Captivate, Charge, Charge Beam, Charm, Copycat,
+        Discharge, Double Team, Encore, Endure, Facade, Fake Tears, Flash, Fling,
+        Frustration, Grass Knot, Growl, Headbutt, Helping Hand, Iron Tail, Last Resort,
+        Light Screen, Magnet Rise, Mud-Slap, Nasty Plot, Natural Gift, Protect, Quick
+          Attack, Rain Dance, Rest, Return, Rollout, Secret Power, Shock Wave, Signal
+          Beam, Sing, Sleep Talk, Snore, Spark, Substitute, Swagger, Sweet Kiss, Swift,
+        Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Toxic, Trump Card, Uproar,
+        Wish, Body Slam, Double-Edge, Mimic, Seismic Toss, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Agility, Attract, Baton Pass, Charge, Charm, Counter, Defense Curl, Double
+          Team, Dynamic Punch, Encore, Endure, Facade, Flash, Frustration, Growl,
+        Helping Hand, Iron Tail, Light Screen, Mega Kick, Mega Punch, Metronome, Mud-Slap,
+        Protect, Quick Attack, Rain Dance, Rest, Return, Rollout, Secret Power, Shock
+          Wave, Sleep Talk, Snore, Spark, Substitute, Swagger, Swift, Thunder, Thunder
+          Wave, Thunderbolt, Thunder Punch, Toxic, Wish, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Agility, Attract, Baton Pass, Body Slam, Captivate, Charge, Charge Beam,
+        Charm, Copycat, Counter, Defense Curl, Discharge, Double-Edge, Double Team,
+        Dynamic Punch, Echoed Voice, Electro Ball, Encore, Endure, Entrainment, Facade,
+        Fake Tears, Flash, Fling, Frustration, Grass Knot, Growl, Headbutt, Helping
+          Hand, Iron Tail, Last Resort, Light Screen, Lucky Chant, Magnet Rise, Mega
+          Kick, Mega Punch, Metronome, Mimic, Mud-Slap, Mud Sport, Nasty Plot, Natural
+          Gift, Protect, Quick Attack, Rain Dance, Rest, Return, Rollout, Round, Secret
+          Power, Seismic Toss, Shock Wave, Signal Beam, Sing, Sleep Talk, Snore, Spark,
+        Substitute, Swagger, Sweet Kiss, Swift, Thunder, Thunderbolt, Thunder Punch,
+        Thunder Wave, Toxic, Trump Card, Uproar, Volt Switch, Wild Charge, Wish, Nuzzle,
+        Play Nice, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [60, 40, 50, 75, 85, 95]
+    tags:
+    - [NU]
+    types:
+    - [Electric]
+    weight: [4.2]

@@ -1,0 +1,109 @@
+pokemon:
+  Arcanine:
+    abilities:
+    - bw: [Flash Fire, Intimidate, Justified]
+    - rs: [Flash Fire, Intimidate]
+    - []
+    egggroups:
+    - [Ground]
+    evolvesFrom: [Growlithe]
+    height: [1.9]
+    introduction: rb
+    moves:
+    - gs: [Extreme Speed, Hyper Beam]
+    - bw: [Bulldoze, Dragon Pulse, Extreme Speed, Giga Impact, Hyper Beam, Iron Head,
+        Solar Beam, Thunder Fang]
+    - dp: [Dragon Pulse, Extreme Speed, Giga Impact, Hyper Beam, Iron Head, Rock Climb,
+        Solar Beam, Thunder Fang]
+    - rs: [Extreme Speed, Hyper Beam]
+    - rb: [Hyper Beam, Teleport]
+    - xy: [Bulldoze, Dragon Pulse, Extreme Speed, Giga Impact, Hyper Beam, Iron Head,
+        Rock Climb, Solar Beam, Thunder Fang]
+    stats:
+    - [90, 110, 80, 80, 80, 95]
+    - gs: [90, 110, 80, 100, 80, 95]
+    tags:
+    - [UU]
+    - dp: [UU]
+    - rs: [BL]
+    types:
+    - [Fire]
+    weight: [155]
+  Growlithe:
+    abilities:
+    - bw: [Flash Fire, Intimidate, Justified]
+    - rs: [Flash Fire, Intimidate]
+    - []
+    egggroups:
+    - [Ground]
+    height: [0.7]
+    introduction: rb
+    moves:
+    - gs: [Agility, Attract, Bite, Body Slam, Crunch, Curse, Dig, Double Team, Dragon
+          Breath, Ember, Endure, Fire Blast, Fire Spin, Flame Wheel, Flamethrower,
+        Frustration, Headbutt, Iron Tail, Leer, Protect, Rest, Return, Roar, Rock
+          Smash, Safeguard, Sleep Talk, Snore, Sunny Day, Swagger, Swift, Take Down,
+        Thrash, Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - bw: [Aerial Ace, Agility, Attract, Bite, Body Slam, Close Combat, Covet, Crunch,
+        Dig, Double-Edge, Double Kick, Double Team, Ember, Facade, Fire Blast, Fire
+          Fang, Fire Spin, Flame Burst, Flame Charge, Flame Wheel, Flamethrower, Flare
+          Blitz, Frustration, Heat Wave, Helping Hand, Howl, Incinerate, Iron Tail,
+        Leer, Morning Sun, Odor Sleuth, Outrage, Overheat, Protect, Rest, Retaliate,
+        Return, Reversal, Roar, Rock Smash, Round, Safeguard, Sleep Talk, Snarl, Snore,
+        Strength, Substitute, Sunny Day, Swagger, Take Down, Thief, Thrash, Toxic,
+        Wild Charge, Will-O-Wisp, Charm, Mimic, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Aerial Ace, Agility, Attract, Bite, Body Slam, Captivate, Crunch, Dig,
+        Double-Edge, Double Team, Ember, Endure, Facade, Fire Blast, Fire Fang, Fire
+          Spin, Flame Wheel, Flamethrower, Flare Blitz, Frustration, Headbutt, Heat
+          Wave, Helping Hand, Howl, Iron Tail, Leer, Morning Sun, Mud-Slap, Natural
+          Gift, Odor Sleuth, Overheat, Protect, Rest, Return, Reversal, Roar, Rock
+          Smash, Safeguard, Secret Power, Sleep Talk, Snore, Strength, Substitute,
+        Sunny Day, Swagger, Swift, Take Down, Thief, Thrash, Toxic, Will-O-Wisp, Charm,
+        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Agility, Attract, Bite, Body Slam, Crunch, Dig, Double-Edge,
+        Double Team, Ember, Endure, Facade, Fire Blast, Fire Spin, Flame Wheel, Flamethrower,
+        Frustration, Heat Wave, Helping Hand, Howl, Iron Tail, Leer, Odor Sleuth,
+        Overheat, Protect, Rest, Return, Roar, Rock Smash, Safeguard, Secret Power,
+        Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger, Swift, Take Down,
+        Thief, Thrash, Toxic, Charm, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rb: [Agility, Bide, Bite, Body Slam, Dig, Double-Edge, Double Team, Dragon Rage,
+        Ember, Fire Blast, Flamethrower, Leer, Mimic, Rage, Reflect, Rest, Roar, Skull
+          Bash, Substitute, Swift, Take Down, Toxic]
+    - xy: [Aerial Ace, Agility, Attract, Bite, Body Slam, Captivate, Charm, Close
+          Combat, Covet, Crunch, Dig, Double-Edge, Double Kick, Double Team, Ember,
+        Endure, Facade, Fire Blast, Fire Fang, Fire Spin, Flame Burst, Flame Charge,
+        Flamethrower, Flame Wheel, Flare Blitz, Frustration, Headbutt, Heat Wave,
+        Helping Hand, Howl, Incinerate, Iron Tail, Leer, Mimic, Morning Sun, Mud-Slap,
+        Natural Gift, Odor Sleuth, Outrage, Overheat, Protect, Rest, Retaliate, Return,
+        Reversal, Roar, Rock Smash, Round, Safeguard, Secret Power, Sleep Talk, Snarl,
+        Snore, Strength, Substitute, Sunny Day, Swagger, Swift, Take Down, Thief,
+        Thrash, Toxic, Wild Charge, Will-O-Wisp, Confide, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [55, 70, 45, 50, 50, 60]
+    - gs: [55, 70, 45, 70, 50, 60]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Fire]
+    weight: [19]

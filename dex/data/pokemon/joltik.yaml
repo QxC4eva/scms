@@ -1,0 +1,59 @@
+pokemon:
+  Galvantula:
+    abilities:
+    - [Compound Eyes, Swarm, Unnerve]
+    egggroups:
+    - [Bug]
+    evolvesFrom: [Joltik]
+    height: [0.8]
+    introduction: bw
+    moves:
+    - bw: [Giga Impact, Hyper Beam, Thunder]
+    - xy: [Giga Impact, Hyper Beam, Thunder, Sticky Web]
+    stats:
+    - [70, 77, 60, 97, 60, 108]
+    tags:
+    - [RU]
+    types:
+    - [Bug, Electric]
+    weight: [14.3]
+  Joltik:
+    abilities:
+    - [Compound Eyes, Swarm, Unnerve]
+    egggroups:
+    - [Bug]
+    height: [0.1]
+    introduction: bw
+    moves:
+    - bw: [Agility, Attract, Bounce, Bug Bite, Bug Buzz, Charge Beam, Cross Poison,
+        Cut, Disable, Discharge, Double Team, Electro Ball, Electroweb, Energy Ball,
+        Facade, Feint Attack, Flash, Frustration, Fury Cutter, Gastro Acid, Giga Drain,
+        Leech Life, Light Screen, Magnet Rise, Pin Missile, Poison Jab, Poison Sting,
+        Protect, Pursuit, Rain Dance, Rest, Return, Rock Climb, Round, Screech, Signal
+          Beam, Slash, Sleep Talk, Snore, Spider Web, String Shot, Struggle Bug, Substitute,
+        Sucker Punch, Swagger, Thief, Thunder Wave, Thunderbolt, Toxic, Volt Switch,
+        Wild Charge, X-Scissor, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Agility, Attract, Bug Bite, Bug Buzz, Charge Beam, Cross Poison, Cut, Disable,
+        Discharge, Double Team, Electro Ball, Electroweb, Energy Ball, Facade, Feint
+          Attack, Flash, Frustration, Fury Cutter, Gastro Acid, Leech Life, Light
+          Screen, Pin Missile, Poison Jab, Poison Sting, Protect, Pursuit, Rain Dance,
+        Rest, Return, Rock Climb, Round, Screech, Signal Beam, Slash, Spider Web,
+        String Shot, Struggle Bug, Substitute, Sucker Punch, Swagger, Thief, Thunderbolt,
+        Thunder Wave, Toxic, Volt Switch, Wild Charge, X-Scissor, Bounce, Magnet Rise,
+        Snore, Giga Drain, Sleep Talk, Infestation, Confide, Camouflage, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [50, 47, 50, 57, 50, 65]
+    tags:
+    - [LC]
+    types:
+    - [Bug, Electric]
+    weight: [0.6]

@@ -1,0 +1,145 @@
+pokemon:
+  Gourgeist:
+    abilities:
+    - [Pickup, Frisk, Insomnia]
+    egggroups:
+    - [Amorphous]
+    evolvesFrom: [Pumpkaboo]
+    height: [0]
+    introduction: xy
+    moves:
+    - xy: [Phantom Force, Hyper Beam, Focus Blast, Giga Impact]
+    stats:
+    - [65, 90, 122, 58, 75, 84]
+    tags:
+    - []
+    types:
+    - [Ghost, Grass]
+    weight: [0]
+  Gourgeist-Large:
+    abilities:
+    - [Pickup, Frisk, Insomnia]
+    egggroups:
+    - [Amorphous]
+    evolvesFrom: [Pumpkaboo-Large]
+    height: [0]
+    introduction: xy
+    moves:
+    - []
+    stats:
+    - [75, 95, 122, 58, 75, 69]
+    tags:
+    - []
+    types:
+    - [Ghost, Grass]
+    weight: [0]
+  Gourgeist-Small:
+    abilities:
+    - [Pickup, Frisk, Insomnia]
+    egggroups:
+    - [Amorphous]
+    evolvesFrom: [Pumpkaboo-Small]
+    height: [0]
+    introduction: xy
+    moves:
+    - []
+    stats:
+    - [55, 85, 122, 58, 75, 99]
+    tags:
+    - []
+    types:
+    - [Ghost, Grass]
+    weight: [0]
+  Gourgeist-Super:
+    abilities:
+    - [Pickup, Frisk, Insomnia]
+    egggroups:
+    - [Amorphous]
+    evolvesFrom: [Pumpkaboo-Super]
+    height: [0]
+    introduction: xy
+    moves:
+    - []
+    stats:
+    - [85, 100, 122, 58, 75, 54]
+    tags:
+    - []
+    types:
+    - [Ghost, Grass]
+    weight: [0]
+  Pumpkaboo:
+    abilities:
+    - [Pickup, Frisk, Insomnia]
+    egggroups:
+    - [Amorphous]
+    height: [0]
+    introduction: xy
+    moves:
+    - xy: [Trick, Astonish, Confuse Ray, Scary Face, Trick-or-Treat, Worry Seed, Razor
+          Leaf, Leech Seed, Bullet Seed, Shadow Sneak, Shadow Ball, Pain Split, Seed
+          Bomb, Toxic, Sunny Day, Light Screen, Protect, Safeguard, Frustration, Solar
+          Beam, Return, Psychic, Double Team, Flamethrower, Sludge Bomb, Fire Blast,
+        Facade, Flame Charge, Rest, Attract, Thief, Round, Energy Ball, Charge Beam,
+        Incinerate, Will-O-Wisp, Explosion, Flash, Gyro Ball, Rock Slide, Dream Eater,
+        Grass Knot, Swagger, Sleep Talk, Substitute, Trick Room, Rock Smash, Nature
+          Power, Dark Pulse, Confide, Destiny Bond, Disable, Bestow, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [49, 66, 70, 44, 55, 51]
+    tags:
+    - []
+    types:
+    - [Ghost, Grass]
+    weight: [0]
+  Pumpkaboo-Large:
+    abilities:
+    - [Pickup, Frisk, Insomnia]
+    egggroups:
+    - [Amorphous]
+    height: [0]
+    introduction: xy
+    moves:
+    - []
+    stats:
+    - [54, 66, 70, 44, 55, 46]
+    tags:
+    - []
+    types:
+    - [Ghost, Grass]
+    weight: [0]
+  Pumpkaboo-Small:
+    abilities:
+    - [Pickup, Frisk, Insomnia]
+    egggroups:
+    - [Amorphous]
+    height: [0]
+    introduction: xy
+    moves:
+    - []
+    stats:
+    - [44, 66, 70, 44, 55, 56]
+    tags:
+    - []
+    types:
+    - [Ghost, Grass]
+    weight: [0]
+  Pumpkaboo-Super:
+    abilities:
+    - [Pickup, Frisk, Insomnia]
+    egggroups:
+    - [Amorphous]
+    height: [0]
+    introduction: xy
+    moves:
+    - []
+    stats:
+    - [59, 66, 70, 44, 55, 41]
+    tags:
+    - []
+    types:
+    - [Ghost, Grass]
+    weight: [0]

@@ -1,0 +1,62 @@
+pokemon:
+  Mienfoo:
+    abilities:
+    - [Inner Focus, Reckless, Regenerator]
+    egggroups:
+    - [Ground, Humanshape]
+    height: [0.9]
+    introduction: bw
+    moves:
+    - bw: [Acrobatics, Aerial Ace, Attract, Aura Sphere, Baton Pass, Bounce, Brick
+          Break, Bulk Up, Calm Mind, Detect, Dig, Double Team, Double Slap, Drain
+          Punch, Dual Chop, Endure, Facade, Fake Out, Feint, Fling, Focus Blast, Force
+          Palm, Frustration, Grass Knot, Helping Hand, High Jump Kick, Jump Kick,
+        Knock Off, Low Kick, Low Sweep, Me First, Meditate, Payback, Poison Jab, Pound,
+        Protect, Psych Up, Quick Guard, Rain Dance, Reflect, Rest, Retaliate, Return,
+        Reversal, Rock Slide, Rock Smash, Rock Tomb, Role Play, Round, Sleep Talk,
+        Smelling Salts, Snore, Stone Edge, Strength, Substitute, Sunny Day, Swagger,
+        Swift, Swords Dance, Taunt, Toxic, U-turn, Vital Throw, Work Up, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - xy: [Acrobatics, Aerial Ace, Attract, Aura Sphere, Baton Pass, Bounce, Brick
+          Break, Bulk Up, Calm Mind, Detect, Dig, Double Slap, Double Team, Drain
+          Punch, Endure, Facade, Fake Out, Feint, Fling, Focus Blast, Force Palm,
+        Frustration, Grass Knot, High Jump Kick, Jump Kick, Knock Off, Low Kick, Low
+          Sweep, Meditate, Me First, Payback, Poison Jab, Pound, Protect, Psych Up,
+        Quick Guard, Rain Dance, Reflect, Rest, Retaliate, Return, Reversal, Rock
+          Slide, Rock Smash, Rock Tomb, Round, Smelling Salts, Stone Edge, Strength,
+        Substitute, Sunny Day, Swagger, Swift, Swords Dance, Taunt, Toxic, U-turn,
+        Vital Throw, Work Up, Dual Chop, Snore, Role Play, Helping Hand, Sleep Talk,
+        Power-Up Punch, Confide, Ally Switch, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [45, 85, 50, 55, 50, 65]
+    tags:
+    - [LC]
+    types:
+    - [Fighting]
+    weight: [20]
+  Mienshao:
+    abilities:
+    - [Inner Focus, Reckless, Regenerator]
+    egggroups:
+    - [Ground, Humanshape]
+    evolvesFrom: [Mienfoo]
+    height: [1.4]
+    introduction: bw
+    moves:
+    - bw: [Giga Impact, Hyper Beam, Wide Guard]
+    - xy: [Giga Impact, Hyper Beam, Wide Guard]
+    stats:
+    - [65, 125, 60, 95, 60, 105]
+    tags:
+    - [UU]
+    types:
+    - [Fighting]
+    weight: [35.5]

@@ -1,0 +1,56 @@
+pokemon:
+  Heatran:
+    abilities:
+    - [Flame Body, Flash Fire]
+    egggroups:
+    - []
+    height: [1.7]
+    introduction: dp
+    moves:
+    - bw: [Ancient Power, Attract, Bug Bite, Bulldoze, Crunch, Dark Pulse, Dig, Double
+          Team, Dragon Pulse, Earth Power, Earthquake, Explosion, Facade, Fire Blast,
+        Fire Fang, Fire Spin, Flame Charge, Flamethrower, Flash Cannon, Frustration,
+        Giga Impact, Heat Wave, Hyper Beam, Incinerate, Iron Defense, Iron Head, Lava
+          Plume, Leer, Magma Storm, Metal Sound, Overheat, Payback, Protect, Rest,
+        Return, Roar, Rock Slide, Rock Smash, Rock Tomb, Round, Scary Face, Sleep
+          Talk, Snore, Solar Beam, Stealth Rock, Stone Edge, Strength, Substitute,
+        Sunny Day, Swagger, Taunt, Torment, Toxic, Uproar, Will-O-Wisp, Eruption,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - dp: [Ancient Power, Attract, Bug Bite, Captivate, Crunch, Dark Pulse, Dig, Double
+          Team, Dragon Pulse, Earth Power, Earthquake, Endure, Explosion, Facade,
+        Fire Blast, Fire Fang, Fire Spin, Flamethrower, Flash Cannon, Frustration,
+        Giga Impact, Headbutt, Heat Wave, Hyper Beam, Iron Defense, Iron Head, Lava
+          Plume, Leer, Magma Storm, Metal Sound, Mud-Slap, Natural Gift, Overheat,
+        Payback, Protect, Rest, Return, Roar, Rock Climb, Rock Slide, Rock Smash,
+        Rock Tomb, Scary Face, Secret Power, Sleep Talk, Snore, Solar Beam, Stealth
+          Rock, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Taunt, Torment,
+        Toxic, Uproar, Will-O-Wisp, Eruption, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Ancient Power, Attract, Bug Bite, Bulldoze, Captivate, Crunch, Dark Pulse,
+        Dig, Double Team, Dragon Pulse, Earth Power, Earthquake, Endure, Eruption,
+        Explosion, Facade, Fire Blast, Fire Fang, Fire Spin, Flame Charge, Flamethrower,
+        Flash Cannon, Frustration, Giga Impact, Headbutt, Heat Wave, Hyper Beam, Incinerate,
+        Iron Defense, Iron Head, Lava Plume, Leer, Magma Storm, Metal Sound, Mud-Slap,
+        Natural Gift, Overheat, Payback, Protect, Rest, Return, Roar, Rock Climb,
+        Rock Slide, Rock Smash, Rock Tomb, Round, Scary Face, Secret Power, Sleep
+          Talk, Snore, Solar Beam, Stealth Rock, Stone Edge, Strength, Substitute,
+        Sunny Day, Swagger, Taunt, Torment, Toxic, Uproar, Will-O-Wisp, Nature Power,
+        Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [91, 90, 106, 130, 106, 77]
+    tags:
+    - [OU]
+    types:
+    - [Fire, Steel]
+    weight: [430]

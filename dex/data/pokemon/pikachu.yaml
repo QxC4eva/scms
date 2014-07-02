@@ -1,0 +1,146 @@
+pokemon:
+  Pichu:
+    abilities:
+    - bw: [Lightningrod, Static]
+    - rs: [Static]
+    - []
+    egggroups:
+    - []
+    height: [0.3]
+    introduction: gs
+    moves:
+    - gs: [Attract, Bide, Charm, Curse, Defense Curl, Detect, Double Team, Double
+          Slap, Encore, Endure, Flash, Frustration, Headbutt, Iron Tail, Mud-Slap,
+        Present, Protect, Rain Dance, Rest, Return, Reversal, Rollout, Sleep Talk,
+        Snore, Swagger, Sweet Kiss, Swift, Tail Whip, Thunder, Thunder Wave, Thunderbolt,
+        Thunder Shock, Toxic, Zap Cannon, Dizzy Punch, Petal Dance, Sing, Scary Face,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - bw: [Attract, Bestow, Bide, Charge, Charge Beam, Charm, Covet, Double Team,
+        Double Slap, Echoed Voice, Encore, Endure, Facade, Fake Out, Flail, Flash,
+        Fling, Frustration, Grass Knot, Helping Hand, Iron Tail, Light Screen, Lucky
+          Chant, Magnet Rise, Nasty Plot, Present, Protect, Rain Dance, Rest, Return,
+        Reversal, Round, Signal Beam, Sleep Talk, Snore, Substitute, Swagger, Sweet
+          Kiss, Tail Whip, Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Thunder
+          Shock, Tickle, Toxic, Uproar, Volt Switch, Volt Tackle, Wild Charge, Wish,
+        Teeter Dance, Follow Me, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Attract, Bide, Captivate, Charge, Charge Beam, Charm, Double Team, Double
+          Slap, Encore, Endure, Facade, Fake Out, Flail, Flash, Fling, Frustration,
+        Grass Knot, Headbutt, Helping Hand, Iron Tail, Light Screen, Magnet Rise,
+        Mud-Slap, Nasty Plot, Natural Gift, Present, Protect, Rain Dance, Rest, Return,
+        Reversal, Rollout, Secret Power, Shock Wave, Signal Beam, Sleep Talk, Snore,
+        Substitute, Swagger, Sweet Kiss, Swift, Tail Whip, Thunder, Thunder Wave,
+        Thunderbolt, Thunder Punch, Thunder Shock, Tickle, Toxic, Uproar, Volt Tackle,
+        Wish, Teeter Dance, Follow Me, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Attract, Bide, Body Slam, Charge, Charm, Counter, Defense Curl, Double-Edge,
+        Double Team, Double Slap, Encore, Endure, Facade, Flash, Frustration, Iron
+          Tail, Light Screen, Mega Kick, Mega Punch, Mimic, Mud-Slap, Present, Protect,
+        Rain Dance, Rest, Return, Reversal, Rollout, Secret Power, Seismic Toss, Shock
+          Wave, Sleep Talk, Snore, Substitute, Swagger, Sweet Kiss, Swift, Tail Whip,
+        Thunder, Thunder Wave, Thunderbolt, Thunder Shock, Toxic, Volt Tackle, Follow
+          Me, Teeter Dance, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - xy: [Attract, Bestow, Bide, Body Slam, Captivate, Charge, Charge Beam, Charm,
+        Counter, Defense Curl, Double-Edge, Double Slap, Double Team, Echoed Voice,
+        Encore, Endeavor, Endure, Facade, Fake Out, Flail, Flash, Fling, Follow Me,
+        Frustration, Grass Knot, Headbutt, Helping Hand, Iron Tail, Light Screen,
+        Lucky Chant, Magnet Rise, Mega Kick, Mega Punch, Mimic, Mud-Slap, Nasty Plot,
+        Natural Gift, Present, Protect, Rain Dance, Rest, Return, Reversal, Rollout,
+        Round, Secret Power, Seismic Toss, Shock Wave, Signal Beam, Sleep Talk, Snore,
+        Substitute, Surf, Swagger, Sweet Kiss, Swift, Tail Whip, Teeter Dance, Thunder,
+        Thunderbolt, Thunder Punch, Thunder Shock, Thunder Wave, Tickle, Toxic, Uproar,
+        Volt Switch, Volt Tackle, Wild Charge, Wish, Covet, Confide, Disarming Voice,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [20, 40, 15, 35, 35, 60]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Electric]
+    weight: [2]
+  Pikachu:
+    abilities:
+    - bw: [Lightningrod, Static]
+    - rs: [Static]
+    - []
+    egggroups:
+    - [Fairy, Ground]
+    evolvesFrom:
+    - {gs: Pichu}
+    height: [0.4]
+    introduction: rb
+    moves:
+    - gs: [Agility, Dynamic Punch, Growl, Light Screen, Quick Attack, Slam, Strength,
+        Thunder Punch, Fly, Surf]
+    - bw: [Agility, Brick Break, Dig, Discharge, Electro Ball, Feint, Growl, Knock
+          Off, Quick Attack, Rock Smash, Slam, Strength, Fly, Sing, Extreme Speed,
+        Surf, Last Resort, Yawn, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    - dp: [Agility, Brick Break, Dig, Discharge, Feint, Focus Punch, Growl, Knock
+          Off, Quick Attack, Rock Smash, Slam, Strength, Surf, Last Resort, Yawn,
+        Fly, Body Slam, Double-Edge, Mimic, Seismic Toss]
+    - rs: [Agility, Brick Break, Dig, Dynamic Punch, Focus Punch, Growl, Quick Attack,
+        Rock Smash, Slam, Strength, Thunder Punch, Fly]
+    - rb: [Agility, Bide, Body Slam, Double-Edge, Double Team, Flash, Growl, Light
+          Screen, Mega Kick, Mega Punch, Mimic, Pay Day, Quick Attack, Rage, Reflect,
+        Rest, Seismic Toss, Skull Bash, Slam, Submission, Substitute, Surf, Swift,
+        Tail Whip, Take Down, Thunder, Thunder Wave, Thunderbolt, Thunder Shock, Toxic]
+    - xy: [Agility, Brick Break, Dig, Discharge, Dynamic Punch, Electro Ball, Extreme
+          Speed, Feint, Fly, Focus Punch, Growl, Knock Off, Last Resort, Quick Attack,
+        Rock Smash, Sing, Slam, Strength, Yawn, Play Nice, Nuzzle]
+    stats:
+    - [35, 55, 30, 50, 50, 90]
+    - gs: [35, 55, 30, 50, 40, 90]
+    - xy: [35, 55, 40, 50, 50, 90]
+    tags:
+    - [NFE]
+    - dp: [NU]
+    - rs: [NFE]
+    - gs: [UU]
+    types:
+    - [Electric]
+    weight: [6]
+  Raichu:
+    abilities:
+    - bw: [Lightningrod, Static]
+    - rs: [Static]
+    - []
+    egggroups:
+    - [Fairy, Ground]
+    evolvesFrom: [Pikachu]
+    height: [0.8]
+    introduction: rb
+    moves:
+    - gs: [Hyper Beam, Thief]
+    - bw: [Focus Blast, Giga Impact, Hyper Beam, Thief]
+    - dp: [Focus Blast, Giga Impact, Hyper Beam, Thief]
+    - rs: [Hyper Beam, Thief]
+    - rb: [Hyper Beam]
+    - xy: [Focus Blast, Giga Impact, Hyper Beam, Thief]
+    stats:
+    - [60, 90, 55, 90, 90, 100]
+    - gs: [60, 90, 55, 90, 80, 100]
+    - xy: [60, 90, 55, 90, 80, 110]
+    tags:
+    - [UU]
+    types:
+    - [Electric]
+    weight: [30]

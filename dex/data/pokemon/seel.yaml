@@ -1,0 +1,106 @@
+pokemon:
+  Dewgong:
+    abilities:
+    - dp: [Hydration, Thick Fat]
+    - bw: [Hydration, Ice Body, Thick Fat]
+    - rs: [Thick Fat]
+    - []
+    egggroups:
+    - [Ground, Water 1]
+    evolvesFrom: [Seel]
+    height: [1.7]
+    introduction: rb
+    moves:
+    - gs: [Hyper Beam]
+    - bw: [Frost Breath, Giga Impact, Hyper Beam, Sheer Cold]
+    - dp: [Avalanche, Giga Impact, Hyper Beam, Sheer Cold]
+    - rs: [Hyper Beam, Sheer Cold, Signal Beam]
+    - rb: [Hyper Beam]
+    - xy: [Avalanche, Frost Breath, Giga Impact, Hyper Beam, Sheer Cold]
+    stats:
+    - [90, 70, 80, 95, 95, 70]
+    - gs: [90, 70, 80, 70, 95, 70]
+    tags:
+    - [UU]
+    - rs: [NU]
+    types:
+    - [Ice, Water]
+    weight: [120]
+  Seel:
+    abilities:
+    - dp: [Hydration, Thick Fat]
+    - bw: [Hydration, Ice Body, Thick Fat]
+    - rs: [Thick Fat]
+    - []
+    egggroups:
+    - [Ground, Water 1]
+    height: [1.1]
+    introduction: rb
+    moves:
+    - gs: [Attract, Aurora Beam, Blizzard, Curse, Disable, Double Team, Encore, Endure,
+        Frustration, Growl, Headbutt, Ice Beam, Icy Wind, Lick, Peck, Perish Song,
+        Protect, Rain Dance, Rest, Return, Safeguard, Slam, Sleep Talk, Snore, Surf,
+        Swagger, Take Down, Toxic, Waterfall, Whirlpool, Flail, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - bw: [Aqua Jet, Aqua Ring, Aqua Tail, Attract, Aurora Beam, Blizzard, Brine,
+        Disable, Dive, Double Team, Drill Run, Echoed Voice, Encore, Facade, Fake
+          Out, Fling, Frustration, Growl, Hail, Headbutt, Horn Drill, Ice Beam, Ice
+          Shard, Icicle Spear, Icy Wind, Iron Tail, Lick, Perish Song, Protect, Rain
+          Dance, Rest, Return, Round, Safeguard, Signal Beam, Slam, Sleep Talk, Snore,
+        Spit Up, Stockpile, Substitute, Surf, Swagger, Swallow, Take Down, Thief,
+        Toxic, Water Pulse, Water Sport, Waterfall, Body Slam, Double-Edge, Mimic,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - dp: [Aqua Jet, Aqua Ring, Aqua Tail, Attract, Aurora Beam, Blizzard, Brine,
+        Captivate, Disable, Dive, Double Team, Encore, Endure, Facade, Fake Out, Fling,
+        Frustration, Growl, Hail, Headbutt, Horn Drill, Ice Beam, Ice Shard, Icicle
+          Spear, Icy Wind, Lick, Natural Gift, Perish Song, Protect, Rain Dance, Rest,
+        Return, Safeguard, Secret Power, Signal Beam, Slam, Sleep Talk, Snore, Spit
+          Up, Stockpile, Substitute, Surf, Swagger, Swallow, Take Down, Thief, Toxic,
+        Water Pulse, Water Sport, Waterfall, Whirlpool, Body Slam, Double-Edge, Mimic,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - rs: [Attract, Aurora Beam, Blizzard, Disable, Dive, Double Team, Encore, Endure,
+        Facade, Fake Out, Frustration, Growl, Hail, Headbutt, Horn Drill, Ice Beam,
+        Icicle Spear, Icy Wind, Lick, Perish Song, Protect, Rain Dance, Rest, Return,
+        Safeguard, Secret Power, Slam, Sleep Talk, Snore, Substitute, Surf, Swagger,
+        Take Down, Thief, Toxic, Water Pulse, Waterfall, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rb: [Aurora Beam, Bide, Blizzard, Body Slam, Bubble Beam, Double-Edge, Double
+          Team, Growl, Headbutt, Horn Drill, Ice Beam, Mimic, Pay Day, Rage, Rest,
+        Skull Bash, Strength, Substitute, Surf, Take Down, Toxic, Water Gun]
+    - xy: [Aqua Jet, Aqua Ring, Aqua Tail, Attract, Aurora Beam, Blizzard, Body Slam,
+        Brine, Captivate, Disable, Dive, Double-Edge, Double Team, Echoed Voice, Encore,
+        Endure, Facade, Fake Out, Fling, Frustration, Growl, Hail, Headbutt, Helping
+          Hand, Horn Drill, Ice Beam, Ice Shard, Icicle Spear, Icy Wind, Iron Tail,
+        Lick, Mimic, Natural Gift, Perish Song, Protect, Rain Dance, Rest, Return,
+        Round, Safeguard, Secret Power, Signal Beam, Slam, Sleep Talk, Snore, Spit
+          Up, Stockpile, Substitute, Surf, Swagger, Swallow, Take Down, Thief, Toxic,
+        Waterfall, Water Pulse, Water Sport, Whirlpool, Drill Run, Confide, Entrainment,
+        Belch, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [65, 45, 55, 70, 70, 45]
+    - gs: [65, 45, 55, 45, 70, 45]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Water]
+    weight: [90]

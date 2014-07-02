@@ -1,0 +1,77 @@
+pokemon:
+  Palpitoad:
+    abilities:
+    - [Hydration, Swift Swim, Water Absorb]
+    egggroups:
+    - [Water 1]
+    evolvesFrom: [Tympole]
+    height: [0.8]
+    introduction: bw
+    moves:
+    - bw: [Bulldoze, Gastro Acid, Rock Smash, Stealth Rock]
+    - xy: [Bulldoze, Rock Smash, Gastro Acid, Stealth Rock]
+    stats:
+    - [75, 65, 55, 65, 55, 69]
+    tags:
+    - [NFE]
+    types:
+    - [Ground, Water]
+    weight: [17]
+  Seismitoad:
+    abilities:
+    - [Poison Touch, Swift Swim, Water Absorb]
+    egggroups:
+    - [Water 1]
+    evolvesFrom: [Palpitoad]
+    height: [1.5]
+    introduction: bw
+    moves:
+    - bw: [Acid, Brick Break, Dig, Drain Punch, Earthquake, Fling, Focus Blast, Giga
+          Impact, Grass Knot, Hyper Beam, Ice Punch, Knock Off, Low Kick, Payback,
+        Poison Jab, Rock Slide, Rock Tomb, Strength, Venoshock]
+    - xy: [Acid, Brick Break, Dig, Drain Punch, Earthquake, Fling, Focus Blast, Giga
+          Impact, Grass Knot, Hyper Beam, Payback, Poison Jab, Rock Slide, Rock Tomb,
+        Strength, Venoshock, Low Kick, Ice Punch, Knock Off, Power-Up Punch]
+    stats:
+    - [105, 85, 75, 85, 75, 74]
+    - xy: [105, 95, 75, 85, 75, 74]
+    tags:
+    - [NU]
+    types:
+    - [Ground, Water]
+    weight: [62]
+  Tympole:
+    abilities:
+    - [Hydration, Swift Swim, Water Absorb]
+    egggroups:
+    - [Water 1]
+    height: [0.5]
+    introduction: bw
+    moves:
+    - bw: [Aqua Ring, Attract, Bounce, Bubble, Bubble Beam, Double Team, Earth Power,
+        Echoed Voice, Endeavor, Facade, Flail, Frustration, Growl, Hail, Hydro Pump,
+        Hyper Voice, Icy Wind, Mist, Mud Bomb, Mud Shot, Mud Sport, Muddy Water, Protect,
+        Rain Dance, Refresh, Rest, Return, Round, Scald, Sleep Talk, Sludge Bomb,
+        Sludge Wave, Snore, Substitute, Supersonic, Surf, Swagger, Toxic, Uproar,
+        Water Pulse, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - xy: [Aqua Ring, Attract, Bubble, Bubble Beam, Double Team, Earth Power, Echoed
+          Voice, Facade, Flail, Frustration, Growl, Hail, Hydro Pump, Hyper Voice,
+        Mist, Mud Bomb, Muddy Water, Mud Shot, Mud Sport, Protect, Rain Dance, Refresh,
+        Rest, Return, Round, Scald, Sleep Talk, Sludge Bomb, Sludge Wave, Snore, Substitute,
+        Supersonic, Surf, Swagger, Toxic, Uproar, Water Pulse, Bounce, Icy Wind, Endeavor,
+        Infestation, Confide, After You, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [50, 50, 40, 50, 40, 64]
+    tags:
+    - [LC]
+    types:
+    - [Water]
+    weight: [4.5]

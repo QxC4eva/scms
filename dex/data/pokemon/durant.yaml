@@ -1,0 +1,41 @@
+pokemon:
+  Durant:
+    abilities:
+    - [Hustle, Swarm, Truant]
+    egggroups:
+    - [Bug]
+    height: [0.3]
+    introduction: bw
+    moves:
+    - bw: [Aerial Ace, Agility, Attract, Baton Pass, Bite, Bug Bite, Crunch, Cut,
+        Dig, Double Team, Endeavor, Endure, Energy Ball, Entrainment, Facade, Feint
+          Attack, Flash Cannon, Frustration, Fury Cutter, Giga Impact, Guillotine,
+        Hone Claws, Iron Defense, Iron Head, Metal Claw, Metal Sound, Protect, Rest,
+        Retaliate, Return, Rock Climb, Rock Polish, Rock Slide, Rock Smash, Rock Tomb,
+        Round, Sand Attack, Sandstorm, Screech, Shadow Claw, Sleep Talk, Snore, Stone
+          Edge, Strength, Struggle Bug, Substitute, Superpower, Swagger, Thunder Fang,
+        Thunder Wave, Toxic, Vice Grip, X-Scissor, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Aerial Ace, Agility, Attract, Baton Pass, Bite, Bug Bite, Crunch, Cut,
+        Dig, Double Team, Endure, Energy Ball, Entrainment, Facade, Feint Attack,
+        Flash Cannon, Frustration, Fury Cutter, Giga Impact, Guillotine, Hone Claws,
+        Iron Defense, Iron Head, Metal Claw, Metal Sound, Protect, Rest, Retaliate,
+        Return, Rock Climb, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Round,
+        Sand Attack, Sandstorm, Screech, Shadow Claw, Stone Edge, Strength, Struggle
+          Bug, Substitute, Swagger, Thunder Fang, Thunder Wave, Toxic, Vice Grip,
+        X-Scissor, Superpower, Snore, Endeavor, Sleep Talk, False Swipe, Confide,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [58, 109, 112, 48, 48, 109]
+    tags:
+    - [RU]
+    types:
+    - [Bug, Steel]
+    weight: [33]

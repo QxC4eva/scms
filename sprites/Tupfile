@@ -1,0 +1,2 @@
+
+: xyicons/*.png |> stat %f > /dev/null; glue xyicons sheets --margin=1 && optipng sheets/xyicons.png && sed -i "s/xyicons\.png/`stat -c xyicons.png.m.%%Y sheets/xyicons.png`/" sheets/xyicons.css |> sheets/xyicons.png sheets/xyicons.css

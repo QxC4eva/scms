@@ -1,0 +1,111 @@
+pokemon:
+  Budew:
+    abilities:
+    - [Leaf Guard, Natural Cure, Poison Point]
+    egggroups:
+    - []
+    height: [0.2]
+    introduction: dp
+    moves:
+    - bw: [Absorb, Attract, Cotton Spore, Covet, Cut, Double Team, Energy Ball, Extrasensory,
+        Facade, Flash, Frustration, Giga Drain, Grass Knot, Grass Whistle, Growth,
+        Leaf Storm, Mega Drain, Mind Reader, Natural Gift, Pin Missile, Protect, Psych
+          Up, Rain Dance, Razor Leaf, Rest, Return, Round, Seed Bomb, Shadow Ball,
+        Sleep Powder, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Spikes, Stun Spore,
+        Substitute, Sunny Day, Swagger, Swords Dance, Synthesis, Toxic, Uproar, Venoshock,
+        Water Sport, Worry Seed, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Absorb, Attract, Bullet Seed, Captivate, Cotton Spore, Cut, Double Team,
+        Endure, Energy Ball, Extrasensory, Facade, Flash, Frustration, Giga Drain,
+        Grass Knot, Growth, Leaf Storm, Mega Drain, Mind Reader, Mud-Slap, Natural
+          Gift, Pin Missile, Protect, Psych Up, Rain Dance, Razor Leaf, Rest, Return,
+        Secret Power, Seed Bomb, Shadow Ball, Sleep Powder, Sleep Talk, Sludge Bomb,
+        Snore, Solar Beam, Spikes, Stun Spore, Substitute, Sunny Day, Swagger, Swift,
+        Swords Dance, Synthesis, Toxic, Uproar, Water Sport, Worry Seed, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - xy: [Absorb, Attract, Bullet Seed, Captivate, Cotton Spore, Covet, Cut, Double
+          Team, Endure, Energy Ball, Extrasensory, Facade, Flash, Frustration, Giga
+          Drain, Grass Knot, Grass Whistle, Growth, Leaf Storm, Mega Drain, Mind Reader,
+        Mud-Slap, Natural Gift, Pin Missile, Protect, Psych Up, Rain Dance, Razor
+          Leaf, Rest, Return, Round, Secret Power, Seed Bomb, Shadow Ball, Sleep Powder,
+        Sleep Talk, Sludge Bomb, Snore, Solar Beam, Spikes, Stun Spore, Substitute,
+        Sunny Day, Swagger, Swift, Swords Dance, Synthesis, Toxic, Uproar, Venoshock,
+        Water Sport, Worry Seed, Nature Power, Dazzling Gleam, Confide, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [40, 30, 35, 50, 70, 55]
+    tags:
+    - [LC]
+    types:
+    - [Grass, Poison]
+    weight: [1.2]
+  Roselia:
+    abilities:
+    - [Natural Cure, Poison Point]
+    - bw: [Leaf Guard, Natural Cure, Poison Point]
+    egggroups:
+    - [Fairy, Plant]
+    evolvesFrom:
+    - {dp: Budew}
+    height: [0.3]
+    introduction: rs
+    moves:
+    - bw: [Aromatherapy, Ingrain, Leech Seed, Magical Leaf, Petal Dance, Poison Jab,
+        Poison Sting, Sweet Scent, Toxic Spikes, Double-Edge, Mimic, Nightmare, Sweet
+          Kiss]
+    - dp: [Aromatherapy, Fury Cutter, Grass Whistle, Ingrain, Leech Seed, Magical
+          Leaf, Petal Dance, Poison Jab, Poison Sting, Sweet Scent, Toxic Spikes,
+        Double-Edge, Mimic, Nightmare, Sweet Kiss]
+    - rs: [Absorb, Aromatherapy, Attract, Body Slam, Bullet Seed, Cotton Spore, Cut,
+        Double Team, Endure, Facade, Flash, Frustration, Fury Cutter, Giga Drain,
+        Grass Whistle, Growth, Ingrain, Leech Seed, Magical Leaf, Mega Drain, Mud-Slap,
+        Petal Dance, Pin Missile, Poison Sting, Protect, Psych Up, Rest, Return, Secret
+          Power, Shadow Ball, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Spikes,
+        Stun Spore, Substitute, Sunny Day, Swagger, Sweet Scent, Swift, Swords Dance,
+        Synthesis, Toxic, Sweet Kiss, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Aromatherapy, Body Slam, Double-Edge, Fury Cutter, Ingrain, Leech Seed,
+        Magical Leaf, Mimic, Nightmare, Petal Dance, Poison Jab, Poison Sting, Sweet
+          Kiss, Sweet Scent, Toxic Spikes, Petal Blizzard]
+    stats:
+    - [50, 60, 45, 100, 80, 65]
+    tags:
+    - [NU]
+    types:
+    - [Grass, Poison]
+    weight: [2]
+  Roserade:
+    abilities:
+    - [Natural Cure, Poison Point, Technician]
+    egggroups:
+    - [Fairy, Plant]
+    evolvesFrom: [Roselia]
+    height: [0.9]
+    introduction: dp
+    moves:
+    - bw: [Giga Impact, Hyper Beam, Weather Ball]
+    - dp: [Giga Impact, Hyper Beam, Weather Ball]
+    - xy: [Giga Impact, Hyper Beam, Weather Ball, Venom Drench, Grassy Terrain]
+    stats:
+    - [60, 70, 55, 125, 105, 90]
+    - xy: [60, 70, 65, 125, 105, 90]
+    tags:
+    - [OU]
+    - bw: [UU]
+    types:
+    - [Grass, Poison]
+    weight: [14.5]

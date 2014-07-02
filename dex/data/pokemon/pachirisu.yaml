@@ -1,0 +1,54 @@
+pokemon:
+  Pachirisu:
+    abilities:
+    - [Pickup, Run Away, Volt Absorb]
+    egggroups:
+    - [Fairy, Ground]
+    height: [0.4]
+    introduction: dp
+    moves:
+    - bw: [Attract, Bestow, Bide, Bite, Charge, Charge Beam, Charm, Covet, Cut, Defense
+          Curl, Dig, Discharge, Double Team, Echoed Voice, Electro Ball, Endure, Facade,
+        Fake Tears, Flail, Flash, Flatter, Fling, Follow Me, Frustration, Grass Knot,
+        Growl, Gunk Shot, Helping Hand, Hyper Fang, Iron Tail, Last Resort, Light
+          Screen, Magnet Rise, Protect, Quick Attack, Rain Dance, Rest, Return, Rollout,
+        Round, Seed Bomb, Sleep Talk, Snore, Spark, Substitute, Super Fang, Swagger,
+        Sweet Kiss, Swift, Tail Whip, Thunder, Thunder Wave, Thunderbolt, Thunder
+          Punch, Toxic, U-turn, Uproar, Volt Switch, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Attract, Bide, Bite, Captivate, Charge Beam, Charm, Covet, Cut, Defense
+          Curl, Dig, Discharge, Double Team, Endure, Facade, Fake Tears, Flail, Flash,
+        Flatter, Fling, Frustration, Grass Knot, Growl, Gunk Shot, Headbutt, Helping
+          Hand, Iron Tail, Last Resort, Light Screen, Magnet Rise, Mud-Slap, Natural
+          Gift, Protect, Quick Attack, Rain Dance, Rest, Return, Rollout, Secret Power,
+        Seed Bomb, Shock Wave, Sleep Talk, Snore, Spark, Substitute, Super Fang, Swagger,
+        Sweet Kiss, Swift, Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Toxic,
+        U-turn, Uproar, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - xy: [Attract, Bestow, Bide, Bite, Captivate, Charge, Charge Beam, Charm, Covet,
+        Cut, Defense Curl, Dig, Discharge, Double Team, Echoed Voice, Electro Ball,
+        Endure, Facade, Fake Tears, Flail, Flash, Flatter, Fling, Follow Me, Frustration,
+        Grass Knot, Growl, Gunk Shot, Headbutt, Helping Hand, Hyper Fang, Iron Tail,
+        Last Resort, Light Screen, Magnet Rise, Mud-Slap, Natural Gift, Protect, Quick
+          Attack, Rain Dance, Rest, Return, Rollout, Round, Secret Power, Seed Bomb,
+        Shock Wave, Sleep Talk, Snore, Spark, Substitute, Super Fang, Swagger, Sweet
+          Kiss, Swift, Tail Whip, Thunder, Thunderbolt, Thunder Punch, Thunder Wave,
+        Toxic, Uproar, U-turn, Volt Switch, Nuzzle, Confide, Ion Deluge, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [60, 45, 70, 45, 90, 95]
+    tags:
+    - [NU]
+    types:
+    - [Electric]
+    weight: [3.9]

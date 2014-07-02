@@ -1,0 +1,63 @@
+pokemon:
+  Pansear:
+    abilities:
+    - [Blaze, Gluttony]
+    egggroups:
+    - [Ground]
+    height: [0.6]
+    introduction: dp
+    moves:
+    - bw: [Acrobatics, Amnesia, Astonish, Attract, Bite, Covet, Crunch, Cut, Dig,
+        Double Team, Endeavor, Facade, Fire Blast, Fire Punch, Fire Spin, Flame Burst,
+        Flame Charge, Flamethrower, Fling, Frustration, Fury Swipes, Grass Knot, Gunk
+          Shot, Heat Wave, Helping Hand, Hone Claws, Incinerate, Iron Tail, Knock
+          Off, Leer, Lick, Low Kick, Low Sweep, Nasty Plot, Natural Gift, Overheat,
+        Payback, Protect, Recycle, Rest, Return, Rock Smash, Rock Tomb, Role Play,
+        Round, Scratch, Shadow Claw, Sleep Talk, Snore, Solar Beam, Substitute, Sunny
+          Day, Swagger, Taunt, Thief, Tickle, Torment, Toxic, Uproar, Will-O-Wisp,
+        Work Up, Yawn, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - xy: [Acrobatics, Amnesia, Astonish, Attract, Bite, Covet, Crunch, Cut, Dig,
+        Double Team, Facade, Fire Blast, Fire Punch, Fire Spin, Flame Burst, Flame
+          Charge, Flamethrower, Fling, Frustration, Fury Swipes, Grass Knot, Heat
+          Wave, Hone Claws, Incinerate, Leer, Lick, Low Kick, Low Sweep, Nasty Plot,
+        Natural Gift, Overheat, Payback, Protect, Recycle, Rest, Return, Rock Smash,
+        Rock Tomb, Role Play, Round, Scratch, Shadow Claw, Sleep Talk, Solar Beam,
+        Substitute, Sunny Day, Swagger, Taunt, Thief, Tickle, Torment, Toxic, Will-O-Wisp,
+        Work Up, Yawn, Gunk Shot, Uproar, Iron Tail, Snore, Knock Off, Helping Hand,
+        Endeavor, Play Nice, Confide, Disarming Voice, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - []
+    stats:
+    - [50, 53, 48, 53, 48, 64]
+    tags:
+    - [LC]
+    types:
+    - [Fire]
+    weight: [11]
+  Simisear:
+    abilities:
+    - [Blaze, Gluttony]
+    egggroups:
+    - [Ground]
+    evolvesFrom: [Pansear]
+    height: [1]
+    introduction: dp
+    moves:
+    - bw: [Brick Break, Focus Blast, Giga Impact, Hyper Beam, Rock Slide, Superpower]
+    - xy: [Brick Break, Focus Blast, Giga Impact, Hyper Beam, Rock Slide, Superpower,
+        Power-Up Punch]
+    - []
+    stats:
+    - [75, 98, 63, 98, 63, 101]
+    tags:
+    - [NU]
+    types:
+    - [Fire]
+    weight: [28]

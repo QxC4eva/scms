@@ -1,0 +1,117 @@
+pokemon:
+  Meowth:
+    abilities:
+    - bw: [Pickup, Technician, Unnerve]
+      dp: [Pickup, Technician]
+    - rs: [Pickup]
+    - []
+    egggroups:
+    - [Ground]
+    height: [0.4]
+    introduction: rb
+    moves:
+    - gs: [Amnesia, Attract, Bite, Charm, Curse, Defense Curl, Detect, Double Team,
+        Dream Eater, Endure, Feint Attack, Frustration, Fury Swipes, Growl, Headbutt,
+        Hypnosis, Icy Wind, Iron Tail, Mud-Slap, Nightmare, Pay Day, Protect, Psych
+          Up, Rest, Return, Scratch, Screech, Shadow Ball, Slash, Sleep Talk, Snore,
+        Spite, Sunny Day, Swagger, Swift, Thief, Thunder, Thunderbolt, Toxic, Zap
+          Cannon, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - bw: [Aerial Ace, Amnesia, Assist, Assurance, Attract, Bite, Captivate, Charm,
+        Covet, Cut, Dark Pulse, Dig, Double Team, Dream Eater, Echoed Voice, Facade,
+        Feint Attack, Fake Out, Feint, Flail, Flash, Foul Play, Frustration, Fury
+          Swipes, Growl, Gunk Shot, Hone Claws, Hyper Voice, Hypnosis, Iron Tail,
+        Knock Off, Last Resort, Nasty Plot, Night Slash, Odor Sleuth, Pay Day, Payback,
+        Protect, Psych Up, Punishment, Rain Dance, Rest, Retaliate, Return, Round,
+        Scratch, Screech, Seed Bomb, Shadow Ball, Shadow Claw, Slash, Sleep Talk,
+        Snatch, Snore, Spite, Substitute, Sunny Day, Swagger, Tail Whip, Taunt, Thief,
+        Thunder, Thunderbolt, Torment, Toxic, U-turn, Uproar, Work Up, Body Slam,
+        Double-Edge, Mimic, Nightmare, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Aerial Ace, Amnesia, Assist, Assurance, Attract, Bite, Captivate, Charm,
+        Cut, Dark Pulse, Dig, Double Team, Dream Eater, Endure, Facade, Feint Attack,
+        Fake Out, Feint, Flail, Flash, Frustration, Fury Swipes, Growl, Gunk Shot,
+        Headbutt, Hypnosis, Iron Tail, Knock Off, Last Resort, Mud-Slap, Nasty Plot,
+        Natural Gift, Night Slash, Odor Sleuth, Pay Day, Payback, Protect, Psych Up,
+        Punishment, Rain Dance, Rest, Return, Scratch, Screech, Secret Power, Seed
+          Bomb, Shadow Ball, Shadow Claw, Shock Wave, Slash, Sleep Talk, Snatch, Snore,
+        Spite, Substitute, Sunny Day, Swagger, Swift, Tail Whip, Taunt, Thief, Thunder,
+        Thunderbolt, Torment, Toxic, U-turn, Uproar, Water Pulse, Body Slam, Double-Edge,
+        Mimic, Nightmare, Sing, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Amnesia, Assist, Attract, Bite, Charm, Cut, Defense Curl, Dig,
+        Double Team, Dream Eater, Endure, Facade, Feint Attack, Fake Out, Flash, Frustration,
+        Fury Swipes, Growl, Hypnosis, Iron Tail, Mud-Slap, Pay Day, Protect, Psych
+          Up, Rain Dance, Rest, Return, Scratch, Screech, Secret Power, Shadow Ball,
+        Shock Wave, Slash, Sleep Talk, Snatch, Snore, Spite, Substitute, Sunny Day,
+        Swagger, Swift, Taunt, Thief, Thunder, Thunderbolt, Torment, Toxic, Water
+          Pulse, Sing, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - rb: [Bide, Bite, Body Slam, Bubble Beam, Double-Edge, Double Team, Fury Swipes,
+        Growl, Mimic, Pay Day, Rage, Rest, Scratch, Screech, Skull Bash, Slash, Substitute,
+        Swift, Take Down, Thunder, Thunderbolt, Toxic, Water Gun]
+    - xy: [Aerial Ace, Amnesia, Assist, Assurance, Attract, Bite, Body Slam, Captivate,
+        Charm, Cut, Dark Pulse, Defense Curl, Dig, Double-Edge, Double Team, Dream
+          Eater, Echoed Voice, Endure, Facade, Feint Attack, Fake Out, Feint, Flail,
+        Flash, Foul Play, Frustration, Fury Swipes, Growl, Gunk Shot, Headbutt, Hone
+          Claws, Hypnosis, Icy Wind, Iron Tail, Knock Off, Last Resort, Mimic, Mud-Slap,
+        Nasty Plot, Natural Gift, Nightmare, Night Slash, Odor Sleuth, Payback, Pay
+          Day, Petal Dance, Protect, Psych Up, Punishment, Rain Dance, Rest, Retaliate,
+        Return, Round, Scratch, Screech, Secret Power, Seed Bomb, Shadow Ball, Shadow
+          Claw, Shock Wave, Sing, Slash, Sleep Talk, Snatch, Snore, Spite, Substitute,
+        Sunny Day, Swagger, Swift, Tail Whip, Taunt, Thief, Thunder, Thunderbolt,
+        Torment, Toxic, U-turn, Water Pulse, Work Up, Covet, Uproar, Hyper Voice,
+        Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [40, 45, 35, 40, 40, 90]
+    - gs: [40, 45, 35, 40, 40, 90]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Normal]
+    weight: [4.2]
+  Persian:
+    abilities:
+    - bw: [Limber, Technician, Unnerve]
+      dp: [Limber, Technician]
+    - rs: [Limber]
+    - []
+    egggroups:
+    - [Ground]
+    evolvesFrom: [Meowth]
+    height: [1]
+    introduction: rb
+    moves:
+    - gs: [Hyper Beam, Roar]
+    - bw: [Embargo, Giga Impact, Hyper Beam, Power Gem, Roar, Swift, Switcheroo]
+    - dp: [Embargo, Giga Impact, Hyper Beam, Power Gem, Roar, Switcheroo]
+    - rs: [Hyper Beam, Roar]
+    - rb: [Hyper Beam]
+    - xy: [Embargo, Giga Impact, Hyper Beam, Power Gem, Roar, Switcheroo, Play Rough]
+    stats:
+    - [65, 70, 60, 65, 65, 115]
+    - gs: [65, 70, 60, 65, 65, 115]
+    tags:
+    - [OU]
+    - dp: [NU]
+      gs: [UU]
+    types:
+    - [Normal]
+    weight: [32]

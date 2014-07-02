@@ -1,0 +1,167 @@
+pokemon:
+  Gallade:
+    abilities:
+    - [Steadfast]
+    - bw: [Justified, Steadfast]
+    egggroups:
+    - [Indeterminate]
+    evolvesFrom: [Kirlia]
+    height: [1.6]
+    introduction: dp
+    moves:
+    - bw: [Aerial Ace, Brick Break, Bulk Up, Bulldoze, Close Combat, Cut, Drain Punch,
+        Dual Chop, Earthquake, False Swipe, Feint, Focus Blast, Fury Cutter, Giga
+          Impact, Hyper Beam, Knock Off, Leaf Blade, Leer, Low Kick, Low Sweep, Night
+          Slash, Poison Jab, Psycho Cut, Retaliate, Rock Slide, Rock Smash, Rock Tomb,
+        Slash, Stone Edge, Strength, Swords Dance, Work Up, X-Scissor]
+    - dp: [Aerial Ace, Brick Break, Bulk Up, Close Combat, Cut, Drain Punch, Earthquake,
+        False Swipe, Feint, Focus Blast, Focus Punch, Fury Cutter, Giga Impact, Hyper
+          Beam, Knock Off, Leaf Blade, Leer, Low Kick, Night Slash, Poison Jab, Psycho
+          Cut, Rock Slide, Rock Smash, Rock Tomb, Slash, Stone Edge, Strength, Swords
+          Dance, Vacuum Wave, X-Scissor]
+    - xy: [Aerial Ace, Brick Break, Bulk Up, Bulldoze, Close Combat, Cut, Drain Punch,
+        Earthquake, False Swipe, Feint, Focus Blast, Focus Punch, Fury Cutter, Giga
+          Impact, Hyper Beam, Knock Off, Leaf Blade, Leer, Low Kick, Low Sweep, Night
+          Slash, Poison Jab, Psycho Cut, Retaliate, Rock Slide, Rock Smash, Rock Tomb,
+        Slash, Stone Edge, Strength, Swords Dance, Vacuum Wave, Work Up, X-Scissor,
+        Dual Chop, Power-Up Punch]
+    stats:
+    - [68, 125, 65, 65, 115, 80]
+    tags:
+    - [BL]
+    - bw: [RU]
+    types:
+    - [Fighting, Psychic]
+    weight: [52]
+  Gardevoir:
+    abilities:
+    - [Synchronize, Trace]
+    - bw: [Synchronize, Telepathy, Trace]
+    alts:
+    - xy:
+        Mega:
+          abilities: [Pixilate]
+          height: 1.6
+          stats: [68, 85, 65, 165, 135, 100]
+          types: [Psychic, Fairy]
+          weight: 48.4
+    egggroups:
+    - [Indeterminate]
+    evolvesFrom: [Kirlia]
+    height: [1.6]
+    introduction: rs
+    moves:
+    - bw: [Captivate, Energy Ball, Heal Bell, Healing Wish, Wish, Icy Wind]
+    - dp: [Energy Ball, Heal Bell, Healing Wish, Wish, Icy Wind]
+    - rs: [Hyper Beam]
+    - xy: [Energy Ball, Focus Blast, Giga Impact, Heal Bell, Healing Wish, Hyper Beam,
+        Moonblast]
+    stats:
+    - [68, 65, 65, 125, 115, 80]
+    tags:
+    - [BL]
+    - dp: [NU]
+    types:
+    - [Psychic]
+    - xy: [Psychic, Fairy]
+    weight: [48.4]
+  Kirlia:
+    abilities:
+    - [Synchronize, Trace]
+    - bw: [Synchronize, Telepathy, Trace]
+    egggroups:
+    - [Indeterminate]
+    evolvesFrom: [Ralts]
+    height: [0.8]
+    introduction: rs
+    moves:
+    - bw: []
+    - dp: []
+    - rs: [Magical Leaf]
+    - xy: []
+    stats:
+    - [38, 35, 35, 65, 55, 50]
+    tags:
+    - [NFE]
+    types:
+    - [Psychic]
+    - xy: [Psychic, Fairy]
+    weight: [20.2]
+  Ralts:
+    abilities:
+    - [Synchronize, Trace]
+    - bw: [Synchronize, Telepathy, Trace]
+    egggroups:
+    - [Indeterminate]
+    height: [0.4]
+    introduction: rs
+    moves:
+    - bw: [Ally Switch, Attract, Calm Mind, Charge Beam, Charm, Confuse Ray, Confusion,
+        Destiny Bond, Disable, Double Team, Dream Eater, Echoed Voice, Encore, Facade,
+        Fire Punch, Flash, Fling, Frustration, Future Sight, Grass Knot, Growl, Grudge,
+        Heal Pulse, Helping Hand, Hyper Voice, Hypnosis, Ice Punch, Imprison, Light
+          Screen, Lucky Chant, Magic Coat, Magic Room, Magical Leaf, Mean Look, Memento,
+        Pain Split, Protect, Psych Up, Psychic, Psyshock, Rain Dance, Recycle, Reflect,
+        Rest, Return, Round, Safeguard, Shadow Ball, Shadow Sneak, Signal Beam, Skill
+          Swap, Sleep Talk, Snatch, Snore, Stored Power, Substitute, Sunny Day, Swagger,
+        Synchronoise, Taunt, Telekinesis, Teleport, Thief, Thunder Wave, Thunderbolt,
+        Thunder Punch, Torment, Toxic, Trick, Trick Room, Will-O-Wisp, Wonder Room,
+        Zen Headbutt, Body Slam, Double-Edge, Mimic, Nightmare, Shock Wave, Sing,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - dp: [Attract, Calm Mind, Captivate, Charge Beam, Charm, Confuse Ray, Confusion,
+        Destiny Bond, Disable, Double Team, Dream Eater, Encore, Endure, Facade, Fire
+          Punch, Flash, Fling, Frustration, Future Sight, Grass Knot, Growl, Grudge,
+        Headbutt, Helping Hand, Hypnosis, Ice Punch, Imprison, Light Screen, Lucky
+          Chant, Magic Coat, Magical Leaf, Mean Look, Memento, Mud-Slap, Natural Gift,
+        Pain Split, Protect, Psych Up, Psychic, Rain Dance, Recycle, Reflect, Rest,
+        Return, Safeguard, Secret Power, Shadow Ball, Shadow Sneak, Signal Beam, Skill
+          Swap, Sleep Talk, Snatch, Snore, Substitute, Sunny Day, Swagger, Swift,
+        Taunt, Teleport, Thief, Thunder Wave, Thunderbolt, Thunder Punch, Torment,
+        Toxic, Trick, Trick Room, Will-O-Wisp, Zen Headbutt, Body Slam, Double-Edge,
+        Mimic, Nightmare, Sing, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Attract, Calm Mind, Confusion, Defense Curl, Destiny Bond, Disable, Double
+          Team, Dream Eater, Endure, Facade, Fire Punch, Flash, Frustration, Future
+          Sight, Growl, Hypnosis, Ice Punch, Imprison, Light Screen, Mean Look, Memento,
+        Mud-Slap, Protect, Psych Up, Psychic, Rain Dance, Reflect, Rest, Return, Safeguard,
+        Secret Power, Shadow Ball, Skill Swap, Sleep Talk, Snatch, Snore, Substitute,
+        Sunny Day, Swagger, Taunt, Teleport, Thief, Thunder Wave, Thunderbolt, Thunder
+          Punch, Torment, Toxic, Will-O-Wisp, Sing, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Ally Switch, Attract, Body Slam, Calm Mind, Captivate, Charge Beam, Charm,
+        Confuse Ray, Confusion, Defense Curl, Destiny Bond, Disable, Double-Edge,
+        Double Team, Dream Eater, Echoed Voice, Encore, Endure, Facade, Fire Punch,
+        Flash, Fling, Frustration, Future Sight, Grass Knot, Growl, Grudge, Headbutt,
+        Heal Pulse, Helping Hand, Hypnosis, Ice Punch, Icy Wind, Imprison, Light Screen,
+        Lucky Chant, Magical Leaf, Magic Coat, Mean Look, Memento, Mimic, Mud-Slap,
+        Natural Gift, Nightmare, Pain Split, Protect, Psychic, Psych Up, Psyshock,
+        Rain Dance, Recycle, Reflect, Rest, Return, Round, Safeguard, Secret Power,
+        Shadow Ball, Shadow Sneak, Shock Wave, Signal Beam, Sing, Skill Swap, Sleep
+          Talk, Snatch, Snore, Stored Power, Substitute, Sunny Day, Swagger, Swift,
+        Synchronoise, Taunt, Telekinesis, Teleport, Thief, Thunderbolt, Thunder Punch,
+        Thunder Wave, Torment, Toxic, Trick, Trick Room, Will-O-Wisp, Wish, Zen Headbutt,
+        Hyper Voice, Magic Room, Wonder Room, Dazzling Gleam, Confide, Misty Terrain,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [28, 25, 25, 45, 35, 40]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Psychic]
+    - xy: [Psychic, Fairy]
+    weight: [6.6]

@@ -1,0 +1,91 @@
+pokemon:
+  Nosepass:
+    abilities:
+    - [Magnet Pull, Sturdy]
+    - bw: [Magnet Pull, Sand Force, Sturdy]
+    egggroups:
+    - [Mineral]
+    height: [1]
+    introduction: rs
+    moves:
+    - bw: [Attract, Block, Bulldoze, Discharge, Double-Edge, Double Team, Earth Power,
+        Earthquake, Endure, Explosion, Facade, Fire Punch, Frustration, Gravity, Harden,
+        Ice Punch, Iron Defense, Lock-On, Magic Coat, Magnet Rise, Magnitude, Pain
+          Split, Power Gem, Protect, Rest, Return, Rock Blast, Rock Polish, Rock Slide,
+        Rock Smash, Rock Throw, Rock Tomb, Rollout, Round, Sandstorm, Sleep Talk,
+        Smack Down, Snore, Spark, Stealth Rock, Stone Edge, Strength, Substitute,
+        Sunny Day, Swagger, Tackle, Taunt, Thunder, Thunder Wave, Thunderbolt, Thunder
+          Punch, Torment, Toxic, Volt Switch, Zap Cannon, Body Slam, Helping Hand,
+        Mimic, Self-Destruct, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - dp: [Ancient Power, Attract, Block, Captivate, Discharge, Double-Edge, Double
+          Team, Earth Power, Earthquake, Endure, Explosion, Facade, Fire Punch, Frustration,
+        Gravity, Harden, Head Smash, Headbutt, Ice Punch, Iron Defense, Lock-On, Magic
+          Coat, Magnet Rise, Magnitude, Mud-Slap, Natural Gift, Pain Split, Power
+          Gem, Protect, Rest, Return, Rock Polish, Rock Slide, Rock Smash, Rock Throw,
+        Rock Tomb, Rollout, Sandstorm, Secret Power, Shock Wave, Sleep Talk, Snore,
+        Stealth Rock, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Tackle,
+        Taunt, Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Torment, Toxic,
+        Zap Cannon, Body Slam, Helping Hand, Mimic, Self-Destruct, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - rs: [Attract, Block, Defense Curl, Double-Edge, Double Team, Dynamic Punch,
+        Earthquake, Endure, Explosion, Facade, Fire Punch, Frustration, Harden, Ice
+          Punch, Lock-On, Magnitude, Mud-Slap, Protect, Rest, Return, Rock Slide,
+        Rock Smash, Rock Throw, Rock Tomb, Rollout, Sandstorm, Secret Power, Shock
+          Wave, Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger, Tackle,
+        Taunt, Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Torment, Toxic,
+        Zap Cannon, Helping Hand, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Ancient Power, Attract, Block, Body Slam, Bulldoze, Captivate, Defense
+          Curl, Discharge, Double-Edge, Double Team, Dynamic Punch, Earth Power, Earthquake,
+        Endure, Explosion, Facade, Fire Punch, Frustration, Gravity, Harden, Headbutt,
+        Helping Hand, Ice Punch, Iron Defense, Lock-On, Magic Coat, Magnet Rise, Magnitude,
+        Mimic, Mud-Slap, Natural Gift, Pain Split, Power Gem, Protect, Rest, Return,
+        Rock Blast, Rock Polish, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout,
+        Round, Sandstorm, Secret Power, Self-Destruct, Shock Wave, Sleep Talk, Smack
+          Down, Snore, Spark, Stealth Rock, Stone Edge, Strength, Substitute, Sunny
+          Day, Swagger, Tackle, Taunt, Thunder, Thunderbolt, Thunder Punch, Thunder
+          Wave, Torment, Toxic, Volt Switch, Zap Cannon, Dazzling Gleam, Confide,
+        Wide Guard, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [30, 45, 135, 45, 90, 30]
+    tags:
+    - [NU]
+    - dp: [LC]
+    types:
+    - [Rock]
+    weight: [97]
+  Probopass:
+    abilities:
+    - [Magnet Pull, Sturdy]
+    - bw: [Magnet Pull, Sand Force, Sturdy]
+    egggroups:
+    - [Mineral]
+    evolvesFrom: [Nosepass]
+    height: [1.4]
+    introduction: dp
+    moves:
+    - bw: [Flash Cannon, Giga Impact, Hyper Beam, Iron Head, Magnet Bomb]
+    - dp: [Flash Cannon, Giga Impact, Hyper Beam, Iron Head, Magnet Bomb]
+    - xy: [Flash Cannon, Giga Impact, Hyper Beam, Iron Head, Magnet Bomb]
+    stats:
+    - [60, 55, 145, 75, 150, 40]
+    tags:
+    - [NU]
+    types:
+    - [Rock, Steel]
+    weight: [340]

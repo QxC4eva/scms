@@ -1,0 +1,100 @@
+pokemon:
+  Empoleon:
+    abilities:
+    - [Torrent]
+    - bw: [Defiant, Torrent]
+    egggroups:
+    - [Ground, Water 1]
+    evolvesFrom: [Prinplup]
+    height: [1.7]
+    introduction: dp
+    moves:
+    - bw: [Aqua Jet, Bulldoze, Earthquake, Flash Cannon, Giga Impact, Hydro Cannon,
+        Hyper Beam, Iron Defense, Knock Off, Roar, Rock Slide, Swords Dance]
+    - dp: [Aqua Jet, Avalanche, Earthquake, Flash Cannon, Fury Cutter, Giga Impact,
+        Hydro Cannon, Hyper Beam, Iron Defense, Knock Off, Roar, Rock Climb, Rock
+          Slide, Steel Wing, Swords Dance]
+    - xy: [Aqua Jet, Avalanche, Bulldoze, Earthquake, Flash Cannon, Fury Cutter, Giga
+          Impact, Hydro Cannon, Hyper Beam, Iron Defense, Knock Off, Roar, Rock Climb,
+        Rock Slide, Steel Wing, Swords Dance]
+    stats:
+    - [84, 86, 88, 111, 101, 60]
+    tags:
+    - [OU]
+    - bw: [UU]
+    types:
+    - [Steel, Water]
+    weight: [84.5]
+  Piplup:
+    abilities:
+    - [Torrent]
+    - bw: [Defiant, Torrent]
+    egggroups:
+    - [Ground, Water 1]
+    height: [0.4]
+    introduction: dp
+    moves:
+    - bw: [Aerial Ace, Agility, Aqua Ring, Attract, Bide, Blizzard, Brick Break, Brine,
+        Bubble, Bubble Beam, Covet, Cut, Dig, Dive, Double Hit, Double Team, Drill
+          Peck, Echoed Voice, Facade, Feather Dance, Flail, Fling, Frustration, Fury
+          Attack, Grass Knot, Growl, Hail, Hydro Pump, Ice Beam, Icy Wind, Mist, Mud-Slap,
+        Mud Sport, Peck, Pluck, Pound, Protect, Quash, Rain Dance, Rest, Return, Rock
+          Tomb, Round, Scald, Signal Beam, Sleep Talk, Snore, Stealth Rock, Substitute,
+        Supersonic, Surf, Swagger, Toxic, Water Pledge, Water Sport, Waterfall, Whirlpool,
+        Yawn, Sing, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - dp: [Aerial Ace, Agility, Aqua Ring, Attract, Bide, Blizzard, Brick Break, Brine,
+        Bubble, Bubble Beam, Captivate, Cut, Defog, Dig, Dive, Double Hit, Double
+          Team, Drill Peck, Endure, Facade, Feather Dance, Flail, Fling, Frustration,
+        Fury Attack, Grass Knot, Growl, Hail, Headbutt, Hydro Pump, Ice Beam, Icy
+          Wind, Mist, Mud-Slap, Mud Sport, Natural Gift, Peck, Pluck, Pound, Protect,
+        Rain Dance, Rest, Return, Rock Tomb, Secret Power, Signal Beam, Sleep Talk,
+        Snore, Stealth Rock, Substitute, Supersonic, Surf, Swagger, Toxic, Water Pulse,
+        Water Sport, Waterfall, Whirlpool, Yawn, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Aerial Ace, Agility, Aqua Ring, Attract, Bide, Blizzard, Brick Break, Brine,
+        Bubble, Bubble Beam, Captivate, Cut, Defog, Dig, Dive, Double Hit, Double
+          Team, Drill Peck, Echoed Voice, Endure, Facade, Feather Dance, Flail, Fling,
+        Frustration, Fury Attack, Grass Knot, Growl, Hail, Headbutt, Hydro Pump, Ice
+          Beam, Icy Wind, Mist, Mud-Slap, Mud Sport, Natural Gift, Peck, Pluck, Pound,
+        Protect, Quash, Rain Dance, Rest, Return, Rock Tomb, Round, Scald, Secret
+          Power, Signal Beam, Sleep Talk, Snore, Stealth Rock, Substitute, Supersonic,
+        Surf, Swagger, Toxic, Waterfall, Water Pledge, Water Pulse, Water Sport, Whirlpool,
+        Yawn, Covet, Sing, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [53, 51, 53, 61, 56, 40]
+    tags:
+    - [LC]
+    types:
+    - [Water]
+    weight: [5.2]
+  Prinplup:
+    abilities:
+    - [Torrent]
+    - bw: [Defiant, Torrent]
+    egggroups:
+    - [Ground, Water 1]
+    evolvesFrom: [Piplup]
+    height: [0.8]
+    introduction: dp
+    moves:
+    - bw: [Hone Claws, Metal Claw, Rock Smash, Shadow Claw, Strength, Tackle]
+    - dp: [Metal Claw, Rock Smash, Shadow Claw, Strength, Tackle]
+    - xy: [Hone Claws, Metal Claw, Rock Smash, Shadow Claw, Strength, Tackle]
+    stats:
+    - [64, 66, 68, 81, 76, 50]
+    tags:
+    - [NFE]
+    types:
+    - [Water]
+    weight: [23]

@@ -1,0 +1,119 @@
+pokemon:
+  Exploud:
+    abilities:
+    - [Soundproof]
+    - bw: [Scrappy, Soundproof]
+    egggroups:
+    - [Ground, Monster]
+    evolvesFrom: [Loudred]
+    height: [1.5]
+    introduction: rs
+    moves:
+    - bw: [Crunch, Fire Fang, Focus Blast, Giga Impact, Hyper Beam, Ice Fang, Outrage,
+        Surf, Thunder Fang]
+    - dp: [Avalanche, Crunch, Fire Fang, Focus Blast, Giga Impact, Hyper Beam, Ice
+          Fang, Outrage, Rock Climb, Surf, Thunder Fang, Whirlpool]
+    - rs: [Hyper Beam]
+    - xy: [Avalanche, Crunch, Fire Fang, Focus Blast, Giga Impact, Hyper Beam, Ice
+          Fang, Outrage, Rock Climb, Surf, Thunder Fang, Whirlpool, Boomburst]
+    stats:
+    - [104, 91, 63, 91, 63, 68]
+    - xy: [104, 91, 63, 91, 73, 68]
+    tags:
+    - [UU]
+    - dp: [NU]
+    types:
+    - [Normal]
+    weight: [84]
+  Loudred:
+    abilities:
+    - [Soundproof]
+    - bw: [Scrappy, Soundproof]
+    egggroups:
+    - [Ground, Monster]
+    evolvesFrom: [Whismur]
+    height: [1]
+    introduction: rs
+    moves:
+    - bw: [Bite, Brick Break, Bulldoze, Earthquake, Low Kick, Overheat, Rock Slide,
+        Rock Smash, Rock Tomb, Smack Down, Strength, Taunt, Torment]
+    - dp: [Bite, Brick Break, Earthquake, Low Kick, Overheat, Rock Slide, Rock Smash,
+        Rock Tomb, Strength, Taunt, Torment]
+    - rs: [Brick Break, Earthquake, Overheat, Rock Slide, Rock Smash, Strength, Taunt,
+        Torment]
+    - xy: [Bite, Brick Break, Bulldoze, Earthquake, Low Kick, Overheat, Rock Slide,
+        Rock Smash, Rock Tomb, Smack Down, Strength, Taunt, Torment, Power-Up Punch]
+    stats:
+    - [84, 71, 43, 71, 43, 48]
+    tags:
+    - [NFE]
+    types:
+    - [Normal]
+    weight: [40.5]
+  Whismur:
+    abilities:
+    - [Soundproof]
+    - bw: [Rattled, Soundproof]
+    egggroups:
+    - [Ground, Monster]
+    height: [0.6]
+    introduction: rs
+    moves:
+    - bw: [Astonish, Attract, Blizzard, Circle Throw, Double Team, Echoed Voice, Endeavor,
+        Extrasensory, Facade, Fake Tears, Fire Blast, Fire Punch, Flamethrower, Fling,
+        Frustration, Hammer Arm, Howl, Hyper Voice, Ice Beam, Ice Punch, Incinerate,
+        Pound, Protect, Rain Dance, Rest, Retaliate, Return, Roar, Round, Screech,
+        Shadow Ball, Sleep Talk, Smelling Salts, Smokescreen, Snore, Solar Beam, Stomp,
+        Substitute, Sunny Day, Supersonic, Swagger, Synchronoise, Take Down, Thunder
+          Punch, Toxic, Uproar, Work Up, Zen Headbutt, Body Slam, Double-Edge, Mimic,
+        Seismic Toss, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - dp: [Astonish, Attract, Blizzard, Captivate, Double Team, Endeavor, Endure,
+        Extrasensory, Facade, Fire Blast, Fire Punch, Flamethrower, Fling, Frustration,
+        Hammer Arm, Headbutt, Howl, Hyper Voice, Ice Beam, Ice Punch, Mud-Slap, Natural
+          Gift, Pound, Protect, Rain Dance, Rest, Return, Roar, Rollout, Screech,
+        Secret Power, Shadow Ball, Shock Wave, Sleep Talk, Smelling Salts, Smokescreen,
+        Snore, Solar Beam, Stomp, Substitute, Sunny Day, Supersonic, Swagger, Take
+          Down, Thunder Punch, Toxic, Uproar, Water Pulse, Zen Headbutt, Body Slam,
+        Double-Edge, Mimic, Seismic Toss, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Astonish, Attract, Blizzard, Counter, Defense Curl, Double Team, Dynamic
+          Punch, Endure, Extrasensory, Facade, Fire Blast, Fire Punch, Flamethrower,
+        Frustration, Howl, Hyper Voice, Ice Beam, Ice Punch, Mega Kick, Mega Punch,
+        Mud-Slap, Pound, Protect, Psych Up, Rain Dance, Rest, Return, Roar, Rollout,
+        Screech, Secret Power, Shadow Ball, Shock Wave, Sleep Talk, Smelling Salts,
+        Snore, Solar Beam, Stomp, Substitute, Sunny Day, Supersonic, Swagger, Take
+          Down, Thunder Punch, Toxic, Uproar, Water Pulse, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Astonish, Attract, Blizzard, Body Slam, Captivate, Circle Throw, Counter,
+        Defense Curl, Double-Edge, Double Team, Dynamic Punch, Echoed Voice, Endeavor,
+        Endure, Extrasensory, Facade, Fake Tears, Fire Blast, Fire Punch, Flamethrower,
+        Fling, Frustration, Hammer Arm, Headbutt, Howl, Hyper Voice, Ice Beam, Ice
+          Punch, Icy Wind, Incinerate, Mega Kick, Mega Punch, Mimic, Mud-Slap, Natural
+          Gift, Pound, Protect, Psych Up, Rain Dance, Rest, Retaliate, Return, Roar,
+        Rollout, Round, Screech, Secret Power, Seismic Toss, Shadow Ball, Shock Wave,
+        Sleep Talk, Smelling Salts, Smokescreen, Snore, Solar Beam, Stomp, Substitute,
+        Sunny Day, Supersonic, Swagger, Synchronoise, Take Down, Teeter Dance, Thunder
+          Punch, Toxic, Uproar, Water Pulse, Work Up, Zen Headbutt, Confide, Disarming
+          Voice, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [64, 51, 23, 51, 23, 28]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Normal]
+    weight: [16.3]

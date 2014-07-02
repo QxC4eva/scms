@@ -1,0 +1,114 @@
+pokemon:
+  Sneasel:
+    abilities:
+    - bw: [Inner Focus, Keen Eye, Pickpocket]
+    - rs: [Inner Focus, Keen Eye]
+    - []
+    egggroups:
+    - [Ground]
+    height: [0.9]
+    introduction: gs
+    moves:
+    - gs: [Agility, Attract, Beat Up, Bite, Blizzard, Counter, Curse, Cut, Defense
+          Curl, Detect, Dig, Double Team, Dream Eater, Dynamic Punch, Endure, Feint
+          Attack, Foresight, Frustration, Fury Cutter, Fury Swipes, Headbutt, Ice
+          Beam, Ice Punch, Icy Wind, Iron Tail, Leer, Metal Claw, Mud-Slap, Nightmare,
+        Protect, Psych Up, Quick Attack, Rain Dance, Reflect, Rest, Return, Rock Smash,
+        Scratch, Screech, Shadow Ball, Slash, Sleep Talk, Snore, Spite, Strength,
+        Surf, Swagger, Swift, Thief, Toxic, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - bw: [Aerial Ace, Agility, Assist, Attract, Avalanche, Beat Up, Bite, Blizzard,
+        Brick Break, Calm Mind, Counter, Crush Claw, Cut, Dark Pulse, Dig, Double
+          Hit, Double Team, Dream Eater, Embargo, Facade, Feint Attack, Fake Out,
+        False Swipe, Feint, Fling, Foresight, Foul Play, Frustration, Fury Swipes,
+        Hail, Hone Claws, Ice Beam, Ice Punch, Ice Shard, Icy Wind, Iron Tail, Knock
+          Off, Leer, Low Kick, Low Sweep, Metal Claw, Payback, Poison Jab, Protect,
+        Psych Up, Punishment, Pursuit, Quick Attack, Rain Dance, Reflect, Rest, Retaliate,
+        Return, Rock Smash, Round, Scratch, Screech, Shadow Ball, Shadow Claw, Slash,
+        Sleep Talk, Snarl, Snatch, Snore, Spite, Strength, Substitute, Sunny Day,
+        Surf, Swagger, Swords Dance, Taunt, Thief, Torment, Toxic, X-Scissor, Double-Edge,
+        Mimic, Nightmare, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - dp: [Aerial Ace, Agility, Assist, Attract, Avalanche, Beat Up, Bite, Blizzard,
+        Brick Break, Calm Mind, Captivate, Counter, Crush Claw, Cut, Dark Pulse, Dig,
+        Double Hit, Double Team, Dream Eater, Embargo, Endure, Facade, Feint Attack,
+        Fake Out, False Swipe, Fling, Focus Punch, Foresight, Frustration, Fury Cutter,
+        Fury Swipes, Hail, Headbutt, Ice Beam, Ice Punch, Ice Shard, Icy Wind, Iron
+          Tail, Knock Off, Leer, Low Kick, Metal Claw, Mud-Slap, Natural Gift, Payback,
+        Poison Jab, Protect, Psych Up, Punishment, Pursuit, Quick Attack, Rain Dance,
+        Reflect, Rest, Return, Rock Smash, Scratch, Screech, Secret Power, Shadow
+          Ball, Shadow Claw, Slash, Sleep Talk, Snatch, Snore, Spite, Strength, Substitute,
+        Sunny Day, Surf, Swagger, Swift, Swords Dance, Taunt, Thief, Torment, Toxic,
+        Whirlpool, X-Scissor, Double-Edge, Mimic, Nightmare, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Agility, Attract, Beat Up, Bite, Blizzard, Brick Break, Calm
+          Mind, Counter, Crush Claw, Cut, Defense Curl, Dig, Double Team, Dream Eater,
+        Dynamic Punch, Endure, Facade, Feint Attack, Fake Out, Focus Punch, Foresight,
+        Frustration, Fury Cutter, Fury Swipes, Hail, Ice Beam, Ice Punch, Icy Wind,
+        Iron Tail, Leer, Metal Claw, Mud-Slap, Protect, Psych Up, Quick Attack, Rain
+          Dance, Reflect, Rest, Return, Rock Smash, Scratch, Screech, Secret Power,
+        Shadow Ball, Slash, Sleep Talk, Snatch, Snore, Spite, Strength, Substitute,
+        Sunny Day, Surf, Swagger, Swift, Swords Dance, Taunt, Thief, Torment, Toxic,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - xy: [Aerial Ace, Agility, Assist, Attract, Avalanche, Beat Up, Bite, Blizzard,
+        Brick Break, Calm Mind, Captivate, Counter, Crush Claw, Cut, Dark Pulse, Defense
+          Curl, Dig, Double-Edge, Double Hit, Double Team, Dream Eater, Dynamic Punch,
+        Embargo, Endure, Facade, Feint Attack, Fake Out, False Swipe, Feint, Fling,
+        Focus Punch, Foresight, Frustration, Fury Cutter, Fury Swipes, Hail, Headbutt,
+        Hone Claws, Ice Beam, Ice Punch, Ice Shard, Icy Wind, Iron Tail, Knock Off,
+        Leer, Low Kick, Low Sweep, Metal Claw, Mimic, Mud-Slap, Natural Gift, Nightmare,
+        Payback, Poison Jab, Protect, Psych Up, Punishment, Pursuit, Quick Attack,
+        Rain Dance, Reflect, Rest, Retaliate, Return, Rock Smash, Round, Scratch,
+        Screech, Secret Power, Shadow Ball, Shadow Claw, Slash, Sleep Talk, Snarl,
+        Snatch, Snore, Spite, Strength, Substitute, Sunny Day, Surf, Swagger, Swift,
+        Swords Dance, Taunt, Thief, Torment, Toxic, Whirlpool, X-Scissor, Foul Play,
+        Power-Up Punch, Confide, Icicle Crash, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [55, 95, 55, 35, 75, 115]
+    tags:
+    - [UU]
+    - dp: [NU]
+    types:
+    - [Dark, Ice]
+    weight: [28]
+  Weavile:
+    abilities:
+    - [Pressure]
+    - bw: [Pickpocket, Pressure]
+    egggroups:
+    - [Ground]
+    evolvesFrom: [Sneasel]
+    height: [1.1]
+    introduction: dp
+    moves:
+    - bw: [Assurance, Focus Blast, Giga Impact, Hyper Beam, Nasty Plot, Night Slash,
+        Revenge]
+    - dp: [Assurance, Focus Blast, Giga Impact, Hyper Beam, Nasty Plot, Night Slash,
+        Revenge]
+    - xy: [Assurance, Focus Blast, Giga Impact, Hyper Beam, Nasty Plot, Night Slash,
+        Revenge]
+    stats:
+    - [70, 120, 65, 45, 85, 125]
+    tags:
+    - [OU]
+    - bw: [UU]
+    types:
+    - [Dark, Ice]
+    weight: [34]

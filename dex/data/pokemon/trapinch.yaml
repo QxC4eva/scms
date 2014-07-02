@@ -1,0 +1,113 @@
+pokemon:
+  Flygon:
+    abilities:
+    - [Levitate]
+    - bw: [Levitate]
+    egggroups:
+    - [Bug]
+    evolvesFrom: [Vibrava]
+    height: [2]
+    introduction: rs
+    moves:
+    - bw: [Aerial Ace, Dragon Claw, Dragon Tail, Fire Blast, Fire Punch, Flamethrower,
+        Giga Impact, Hone Claws, Incinerate, Iron Tail, Stone Edge, Thunder Punch]
+    - dp: [Aerial Ace, Dragon Claw, Fire Blast, Fire Punch, Flamethrower, Giga Impact,
+        Iron Tail, Stone Edge, Thunder Punch]
+    - rs: [Dragon Claw, Fire Blast, Fire Punch, Flamethrower, Fury Cutter, Iron Tail]
+    - xy: [Aerial Ace, Dragon Claw, Dragon Tail, Fire Blast, Fire Punch, Flamethrower,
+        Giga Impact, Hone Claws, Incinerate, Iron Tail, Stone Edge, Thunder Punch,
+        Power-Up Punch]
+    stats:
+    - [80, 100, 80, 80, 80, 100]
+    tags:
+    - [OU]
+    - bw: [UU]
+    types:
+    - [Dragon, Ground]
+    weight: [82]
+  Trapinch:
+    abilities:
+    - [Arena Trap, Hyper Cutter]
+    - bw: [Arena Trap, Hyper Cutter, Sheer Force]
+    egggroups:
+    - [Bug]
+    height: [0.7]
+    introduction: rs
+    moves:
+    - bw: [Attract, Bide, Bite, Bug Bite, Bulldoze, Crunch, Dig, Double Team, Earth
+          Power, Earthquake, Endure, Facade, Feint Attack, Feint, Fissure, Flail,
+        Focus Energy, Frustration, Fury Cutter, Giga Drain, Gust, Hyper Beam, Mud
+          Shot, Mud-Slap, Protect, Quick Attack, Rest, Return, Rock Slide, Rock Smash,
+        Rock Tomb, Round, Sand Attack, Sand Tomb, Sandstorm, Signal Beam, Sleep Talk,
+        Snore, Solar Beam, Strength, Struggle Bug, Substitute, Sunny Day, Superpower,
+        Swagger, Toxic, Body Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Attract, Bite, Bug Bite, Captivate, Crunch, Dig, Double Team, Earth Power,
+        Earthquake, Endure, Facade, Feint Attack, Feint, Fissure, Flail, Focus Energy,
+        Frustration, Fury Cutter, Giga Drain, Gust, Headbutt, Hyper Beam, Mud Shot,
+        Mud-Slap, Natural Gift, Protect, Quick Attack, Rest, Return, Rock Slide, Rock
+          Smash, Rock Tomb, Sand Attack, Sand Tomb, Sandstorm, Secret Power, Sleep
+          Talk, Snore, Solar Beam, Strength, Substitute, Sunny Day, Swagger, Toxic,
+        Body Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Attract, Bite, Crunch, Dig, Double Team, Earthquake, Endure, Facade, Feint
+          Attack, Focus Energy, Frustration, Giga Drain, Gust, Hyper Beam, Mud-Slap,
+        Protect, Quick Attack, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Sand
+          Attack, Sand Tomb, Sandstorm, Secret Power, Sleep Talk, Snore, Solar Beam,
+        Strength, Substitute, Sunny Day, Swagger, Toxic, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Attract, Bide, Bite, Body Slam, Bug Bite, Bulldoze, Captivate, Crunch,
+        Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endure, Facade, Feint
+          Attack, Feint, Fissure, Flail, Focus Energy, Frustration, Fury Cutter, Giga
+          Drain, Gust, Headbutt, Hyper Beam, Mimic, Mud Shot, Mud-Slap, Natural Gift,
+        Protect, Quick Attack, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Round,
+        Sand Attack, Sandstorm, Sand Tomb, Secret Power, Signal Beam, Sleep Talk,
+        Snore, Superpower, Solar Beam, Strength, Struggle Bug, Substitute, Sunny Day,
+        Swagger, Toxic, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [45, 100, 45, 45, 45, 10]
+    tags:
+    - [NU]
+    - bw: [LC]
+    types:
+    - [Ground]
+    weight: [15]
+  Vibrava:
+    abilities:
+    - [Levitate]
+    - bw: [Levitate]
+    egggroups:
+    - [Bug]
+    evolvesFrom: [Trapinch]
+    height: [1.1]
+    introduction: rs
+    moves:
+    - bw: [Draco Meteor, Dragon Pulse, Dragon Breath, Fly, Heat Wave, Outrage, Roost,
+        Screech, Sonic Boom, Supersonic, Tailwind, U-turn]
+    - dp: [Air Cutter, Defog, Draco Meteor, Dragon Pulse, Dragon Breath, Fly, Heat
+          Wave, Ominous Wind, Outrage, Roost, Screech, Silver Wind, Sonic Boom, Steel
+          Wing, Supersonic, Swift, Tailwind, Twister, U-turn]
+    - rs: [Dragon Breath, Fly, Screech, Steel Wing, Swift]
+    - xy: [Air Cutter, Defog, Draco Meteor, Dragon Breath, Dragon Pulse, Fly, Heat
+          Wave, Ominous Wind, Outrage, Roost, Screech, Silver Wind, Sonic Boom, Steel
+          Wing, Supersonic, Swift, Twister, U-turn, Tailwind]
+    stats:
+    - [50, 70, 50, 50, 50, 70]
+    tags:
+    - [NFE]
+    types:
+    - [Dragon, Ground]
+    weight: [15.3]

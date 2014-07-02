@@ -1,0 +1,81 @@
+pokemon:
+  Bronzong:
+    abilities:
+    - [Heatproof, Levitate]
+    - bw: [Heatproof, Heavy Metal, Levitate]
+    egggroups:
+    - [Mineral]
+    evolvesFrom: [Bronzor]
+    height: [1.3]
+    introduction: dp
+    moves:
+    - bw: [Block, Explosion, Giga Impact, Hyper Beam, Iron Head, Rock Smash, Strength,
+        Zen Headbutt]
+    - dp: [Block, Explosion, Giga Impact, Hyper Beam, Iron Head, Rock Smash, Strength,
+        Zen Headbutt]
+    - xy: [Block, Explosion, Giga Impact, Hyper Beam, Iron Head, Rock Smash, Strength,
+        Zen Headbutt]
+    stats:
+    - [67, 89, 116, 79, 116, 33]
+    tags:
+    - [OU]
+    - bw: [UU]
+    types:
+    - [Psychic, Steel]
+    weight: [187]
+  Bronzor:
+    abilities:
+    - [Heatproof, Levitate]
+    - bw: [Heatproof, Heavy Metal, Levitate]
+    egggroups:
+    - [Mineral]
+    height: [0.5]
+    introduction: dp
+    moves:
+    - bw: [Bulldoze, Calm Mind, Charge Beam, Confuse Ray, Confusion, Double Team,
+        Dream Eater, Earthquake, Extrasensory, Facade, Feint Attack, Flash, Flash
+          Cannon, Frustration, Future Sight, Grass Knot, Gravity, Gyro Ball, Heal
+          Block, Heavy Slam, Hypnosis, Imprison, Iron Defense, Light Screen, Metal
+          Sound, Payback, Protect, Psych Up, Psychic, Psyshock, Psywave, Rain Dance,
+        Recycle, Reflect, Rest, Return, Rock Polish, Rock Slide, Rock Tomb, Round,
+        Safeguard, Sandstorm, Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snore,
+        Solar Beam, Stealth Rock, Substitute, Sunny Day, Swagger, Tackle, Telekinesis,
+        Toxic, Trick, Trick Room, Wonder Room, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Ancient Power, Calm Mind, Charge Beam, Confuse Ray, Confusion, Double Team,
+        Dream Eater, Earthquake, Endure, Extrasensory, Facade, Feint Attack, Flash,
+        Flash Cannon, Frustration, Future Sight, Grass Knot, Gravity, Gyro Ball, Heal
+          Block, Hypnosis, Imprison, Iron Defense, Light Screen, Natural Gift, Payback,
+        Protect, Psych Up, Psychic, Rain Dance, Recycle, Reflect, Rest, Return, Rock
+          Polish, Rock Slide, Rock Tomb, Rollout, Safeguard, Sandstorm, Secret Power,
+        Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snore, Solar Beam, Stealth
+          Rock, Substitute, Sunny Day, Swagger, Tackle, Toxic, Trick, Trick Room,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - xy: [Ancient Power, Bulldoze, Calm Mind, Charge Beam, Confuse Ray, Confusion,
+        Double Team, Dream Eater, Earthquake, Endure, Extrasensory, Facade, Feint
+          Attack, Flash, Flash Cannon, Frustration, Future Sight, Grass Knot, Gravity,
+        Gyro Ball, Heal Block, Heavy Slam, Hypnosis, Imprison, Iron Defense, Light
+          Screen, Metal Sound, Natural Gift, Payback, Protect, Psychic, Psych Up,
+        Psyshock, Psywave, Rain Dance, Recycle, Reflect, Rest, Return, Rock Polish,
+        Rock Slide, Rock Tomb, Rollout, Round, Safeguard, Sandstorm, Secret Power,
+        Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snore, Solar Beam, Stealth
+          Rock, Substitute, Sunny Day, Swagger, Tackle, Telekinesis, Toxic, Trick,
+        Trick Room, Wonder Room, Confide, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [57, 24, 86, 24, 86, 23]
+    tags:
+    - [LC]
+    types:
+    - [Psychic, Steel]
+    weight: [60.5]

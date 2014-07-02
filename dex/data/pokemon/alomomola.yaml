@@ -1,0 +1,39 @@
+pokemon:
+  Alomomola:
+    abilities:
+    - [Healer, Hydration, Regenerator]
+    egggroups:
+    - [Water 1, Water 2]
+    height: [1.2]
+    introduction: bw
+    moves:
+    - bw: [Aqua Jet, Aqua Ring, Attract, Blizzard, Bounce, Brine, Calm Mind, Dive,
+        Double Team, Double Slap, Endure, Facade, Frustration, Hail, Heal Pulse, Healing
+          Wish, Helping Hand, Hydro Pump, Ice Beam, Icy Wind, Knock Off, Light Screen,
+        Magic Coat, Mirror Coat, Mist, Pain Split, Pound, Protect, Psych Up, Psychic,
+        Rain Dance, Refresh, Rest, Return, Round, Safeguard, Scald, Shadow Ball, Sleep
+          Talk, Snore, Soak, Substitute, Surf, Swagger, Tickle, Toxic, Wake-Up Slap,
+        Water Pulse, Water Sport, Waterfall, Wide Guard, Wish, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Aqua Jet, Aqua Ring, Attract, Blizzard, Brine, Calm Mind, Dive, Double
+          Slap, Double Team, Endure, Facade, Frustration, Hail, Healing Wish, Heal
+          Pulse, Helping Hand, Hydro Pump, Ice Beam, Light Screen, Mirror Coat, Mist,
+        Pain Split, Pound, Protect, Psychic, Psych Up, Rain Dance, Refresh, Rest,
+        Return, Round, Safeguard, Scald, Shadow Ball, Soak, Substitute, Surf, Swagger,
+        Tickle, Toxic, Wake-Up Slap, Waterfall, Water Pulse, Water Sport, Wide Guard,
+        Wish, Bounce, Magic Coat, Icy Wind, Snore, Knock Off, Sleep Talk, Confide,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [165, 75, 80, 40, 45, 65]
+    tags:
+    - [NU]
+    types:
+    - [Water]
+    weight: [31.6]

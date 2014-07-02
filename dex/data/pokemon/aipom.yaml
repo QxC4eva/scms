@@ -1,0 +1,113 @@
+pokemon:
+  Aipom:
+    abilities:
+    - bw: [Pickup, Run Away, Skill Link]
+    - rs: [Pickup, Run Away]
+    - []
+    egggroups:
+    - [Ground]
+    height: [0.8]
+    introduction: gs
+    moves:
+    - gs: [Agility, Attract, Baton Pass, Beat Up, Counter, Curse, Cut, Defense Curl,
+        Detect, Double Team, Double Slap, Dream Eater, Dynamic Punch, Endure, Fire
+          Punch, Frustration, Fury Cutter, Fury Swipes, Headbutt, Ice Punch, Iron
+          Tail, Mud-Slap, Nightmare, Protect, Pursuit, Rest, Return, Rock Smash, Sand
+          Attack, Scratch, Screech, Shadow Ball, Slam, Sleep Talk, Snore, Spite, Strength,
+        Sunny Day, Swagger, Swift, Tail Whip, Thief, Thunder, Thunderbolt, Thunder
+          Punch, Toxic, Zap Cannon, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - bw: [Acrobatics, Aerial Ace, Agility, Astonish, Attract, Baton Pass, Beat Up,
+        Body Slam, Bounce, Brick Break, Counter, Covet, Cut, Dig, Double-Edge, Double
+          Hit, Double Team, Double Slap, Dream Eater, Facade, Fake Out, Fire Punch,
+        Fling, Foul Play, Frustration, Fury Swipes, Grass Knot, Gunk Shot, Hone Claws,
+        Ice Punch, Iron Tail, Knock Off, Last Resort, Low Kick, Low Sweep, Mimic,
+        Nasty Plot, Nightmare, Payback, Protect, Pursuit, Rain Dance, Rest, Retaliate,
+        Return, Revenge, Rock Smash, Role Play, Round, Sand Attack, Scratch, Screech,
+        Seed Bomb, Seismic Toss, Shadow Ball, Shadow Claw, Shock Wave, Slam, Sleep
+          Talk, Snatch, Snore, Solar Beam, Spite, Strength, Substitute, Sunny Day,
+        Swagger, Swift, Switcheroo, Tail Whip, Taunt, Thief, Thunder, Thunder Wave,
+        Thunderbolt, Thunder Punch, Tickle, Toxic, U-turn, Uproar, Work Up, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - dp: [Aerial Ace, Agility, Astonish, Attract, Baton Pass, Beat Up, Bounce, Brick
+          Break, Captivate, Counter, Covet, Cut, Dig, Double Hit, Double Team, Double
+          Slap, Dream Eater, Endure, Facade, Fake Out, Fire Punch, Fling, Focus Punch,
+        Frustration, Fury Cutter, Fury Swipes, Grass Knot, Gunk Shot, Headbutt, Ice
+          Punch, Iron Tail, Knock Off, Last Resort, Low Kick, Mud-Slap, Nasty Plot,
+        Natural Gift, Payback, Protect, Pursuit, Rain Dance, Rest, Return, Rock Smash,
+        Role Play, Sand Attack, Scratch, Screech, Secret Power, Seed Bomb, Shadow
+          Ball, Shadow Claw, Shock Wave, Slam, Sleep Talk, Snatch, Snore, Solar Beam,
+        Spite, Strength, Substitute, Sunny Day, Swagger, Swift, Tail Whip, Taunt,
+        Thief, Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Tickle, Toxic, U-turn,
+        Uproar, Water Pulse, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Agility, Astonish, Attract, Baton Pass, Beat Up, Body Slam,
+        Brick Break, Counter, Cut, Defense Curl, Dig, Double-Edge, Double Team, Double
+          Slap, Dream Eater, Dynamic Punch, Endure, Facade, Fire Punch, Focus Punch,
+        Frustration, Fury Cutter, Fury Swipes, Ice Punch, Iron Tail, Mega Kick, Mega
+          Punch, Metronome, Mimic, Mud-Slap, Nightmare, Protect, Pursuit, Rain Dance,
+        Rest, Return, Rock Smash, Sand Attack, Scratch, Screech, Secret Power, Seismic
+          Toss, Shadow Ball, Shock Wave, Slam, Sleep Talk, Snatch, Snore, Solar Beam,
+        Spite, Strength, Substitute, Sunny Day, Swagger, Swift, Tail Whip, Taunt,
+        Thief, Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Tickle, Toxic, Water
+          Pulse, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - xy: [Acrobatics, Aerial Ace, Agility, Astonish, Attract, Baton Pass, Beat Up,
+        Body Slam, Bounce, Brick Break, Captivate, Counter, Covet, Cut, Defense Curl,
+        Dig, Double-Edge, Double Hit, Double Slap, Double Team, Dream Eater, Dynamic
+          Punch, Endure, Facade, Fake Out, Fire Punch, Fling, Focus Punch, Frustration,
+        Fury Cutter, Fury Swipes, Grass Knot, Gunk Shot, Headbutt, Hone Claws, Ice
+          Punch, Iron Tail, Knock Off, Last Resort, Low Kick, Low Sweep, Mega Kick,
+        Mega Punch, Metronome, Mimic, Mud-Slap, Nasty Plot, Natural Gift, Nightmare,
+        Payback, Protect, Pursuit, Rain Dance, Rest, Retaliate, Return, Revenge, Rock
+          Smash, Role Play, Round, Sand Attack, Scratch, Screech, Secret Power, Seed
+          Bomb, Seismic Toss, Shadow Ball, Shadow Claw, Shock Wave, Slam, Sleep Talk,
+        Snatch, Snore, Solar Beam, Spite, Strength, Substitute, Sunny Day, Swagger,
+        Swift, Switcheroo, Tail Whip, Taunt, Thief, Thunder, Thunderbolt, Thunder
+          Punch, Thunder Wave, Tickle, Toxic, Uproar, U-turn, Water Pulse, Work Up,
+        Foul Play, Power-Up Punch, Confide, Quick Guard, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [55, 70, 55, 40, 55, 85]
+    tags:
+    - [UU]
+    - dp: [LC]
+    - rs: [NU]
+    types:
+    - [Normal]
+    weight: [11.5]
+  Ambipom:
+    abilities:
+    - [Pickup, Skill Link, Technician]
+    egggroups:
+    - [Ground]
+    evolvesFrom: [Aipom]
+    height: [1.2]
+    introduction: dp
+    moves:
+    - bw: [Giga Impact, Hyper Beam]
+    - dp: [Giga Impact, Hyper Beam]
+    - xy: [Giga Impact, Hyper Beam]
+    stats:
+    - [75, 100, 66, 60, 66, 115]
+    tags:
+    - [UU]
+    types:
+    - [Normal]
+    weight: [20.3]

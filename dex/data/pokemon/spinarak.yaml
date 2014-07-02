@@ -1,0 +1,99 @@
+pokemon:
+  Ariados:
+    abilities:
+    - bw: [Insomnia, Sniper, Swarm]
+    - rs: [Insomnia, Swarm]
+    - []
+    egggroups:
+    - [Bug]
+    evolvesFrom: [Spinarak]
+    height: [1.1]
+    introduction: gs
+    moves:
+    - gs: [Hyper Beam]
+    - bw: [Giga Impact, Hyper Beam]
+    - dp: [Giga Impact, Hyper Beam]
+    - rs: [Hyper Beam]
+    - xy: [Giga Impact, Hyper Beam, Venom Drench, Fell Stinger]
+    stats:
+    - [70, 90, 70, 60, 60, 40]
+    tags:
+    - [UU]
+    - rs: [NU]
+    types:
+    - [Bug, Poison]
+    weight: [33.5]
+  Spinarak:
+    abilities:
+    - bw: [Insomnia, Sniper, Swarm]
+    - rs: [Insomnia, Swarm]
+    - []
+    egggroups:
+    - [Bug]
+    height: [0.5]
+    introduction: gs
+    moves:
+    - gs: [Agility, Attract, Baton Pass, Constrict, Curse, Dig, Disable, Double Team,
+        Endure, Flash, Frustration, Fury Swipes, Giga Drain, Leech Life, Night Shade,
+        Poison Sting, Protect, Psybeam, Psychic, Pursuit, Rest, Return, Scary Face,
+        Screech, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Sonic Boom, Spider Web,
+        String Shot, Sunny Day, Swagger, Thief, Toxic, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - bw: [Agility, Attract, Baton Pass, Bounce, Bug Bite, Constrict, Cross Poison,
+        Dig, Disable, Double Team, Electroweb, Facade, Flash, Foul Play, Frustration,
+        Fury Swipes, Giga Drain, Hone Claws, Leech Life, Night Shade, Night Slash,
+        Pin Missile, Poison Jab, Poison Sting, Protect, Psybeam, Psychic, Pursuit,
+        Rage Powder, Rest, Return, Round, Scary Face, Shadow Sneak, Signal Beam, Sleep
+          Talk, Sludge Bomb, Solar Beam, Sonic Boom, Spider Web, String Shot, Struggle
+          Bug, Substitute, Sucker Punch, Sunny Day, Swagger, Thief, Toxic, Toxic Spikes,
+        Twineedle, Venoshock, X-Scissor, Refresh, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Agility, Attract, Baton Pass, Bounce, Bug Bite, Captivate, Constrict, Dig,
+        Disable, Double Team, Endure, Facade, Flash, Frustration, Fury Swipes, Giga
+          Drain, Leech Life, Natural Gift, Night Shade, Pin Missile, Poison Jab, Poison
+          Sting, Protect, Psybeam, Psychic, Pursuit, Rest, Return, Scary Face, Secret
+          Power, Shadow Sneak, Signal Beam, Sleep Talk, Sludge Bomb, Solar Beam, Sonic
+          Boom, Spider Web, String Shot, Substitute, Sucker Punch, Sunny Day, Swagger,
+        Thief, Toxic, Toxic Spikes, Refresh, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Agility, Attract, Baton Pass, Body Slam, Constrict, Dig, Disable, Double-Edge,
+        Double Team, Endure, Facade, Flash, Frustration, Fury Swipes, Giga Drain,
+        Leech Life, Mimic, Night Shade, Poison Sting, Protect, Psybeam, Psychic, Pursuit,
+        Rest, Return, Scary Face, Secret Power, Signal Beam, Sleep Talk, Sludge Bomb,
+        Snore, Solar Beam, Sonic Boom, Spider Web, String Shot, Substitute, Sunny
+          Day, Swagger, Thief, Toxic, Refresh, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Agility, Attract, Baton Pass, Body Slam, Bounce, Bug Bite, Captivate, Constrict,
+        Cross Poison, Dig, Disable, Double-Edge, Double Team, Electroweb, Endure,
+        Facade, Flash, Frustration, Fury Swipes, Giga Drain, Hone Claws, Leech Life,
+        Mimic, Natural Gift, Night Shade, Night Slash, Pin Missile, Poison Jab, Poison
+          Sting, Protect, Psybeam, Psychic, Pursuit, Rage Powder, Refresh, Rest, Return,
+        Round, Scary Face, Secret Power, Shadow Sneak, Signal Beam, Sleep Talk, Sludge
+          Bomb, Snore, Solar Beam, Sonic Boom, Spider Web, String Shot, Struggle Bug,
+        Substitute, Sucker Punch, Sunny Day, Swagger, Thief, Toxic, Toxic Spikes,
+        Twineedle, Venoshock, X-Scissor, Foul Play, Sticky Web, Infestation, Confide,
+        Megahorn, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [40, 60, 40, 40, 40, 30]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Bug, Poison]
+    weight: [8.5]

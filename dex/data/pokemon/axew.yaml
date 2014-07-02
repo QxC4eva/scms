@@ -1,0 +1,78 @@
+pokemon:
+  Axew:
+    abilities:
+    - [Mold Breaker, Rivalry, Unnerve]
+    egggroups:
+    - [Dragon, Monster]
+    height: [0.6]
+    introduction: bw
+    moves:
+    - bw: [Aerial Ace, Aqua Tail, Assurance, Attract, Counter, Cut, Dig, Double Team,
+        Draco Meteor, Dragon Claw, Dragon Dance, Dragon Pulse, Dragon Rage, Dual Chop,
+        Endeavor, Endure, Facade, False Swipe, Fling, Focus Energy, Frustration, Giga
+          Impact, Guillotine, Harden, Hone Claws, Incinerate, Iron Tail, Leer, Night
+          Slash, Outrage, Payback, Poison Jab, Protect, Rain Dance, Razor Wind, Rest,
+        Return, Reversal, Roar, Rock Smash, Rock Tomb, Round, Scary Face, Scratch,
+        Slash, Sleep Talk, Snore, Strength, Substitute, Sunny Day, Superpower, Swagger,
+        Swords Dance, Taunt, Toxic, X-Scissor, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Aerial Ace, Assurance, Attract, Counter, Cut, Dig, Double Team, Draco Meteor,
+        Dragon Claw, Dragon Dance, Dragon Pulse, Dragon Rage, Dual Chop, Endeavor,
+        Endure, Facade, False Swipe, Fling, Focus Energy, Frustration, Giga Impact,
+        Guillotine, Harden, Hone Claws, Incinerate, Iron Tail, Leer, Night Slash,
+        Outrage, Payback, Poison Jab, Protect, Rain Dance, Razor Wind, Rest, Return,
+        Reversal, Roar, Rock Smash, Rock Tomb, Round, Scary Face, Scratch, Slash,
+        Strength, Substitute, Sunny Day, Swagger, Swords Dance, Taunt, Toxic, X-Scissor,
+        Superpower, Aqua Tail, Snore, Sleep Talk, Confide, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [46, 87, 60, 30, 40, 57]
+    tags:
+    - [LC]
+    types:
+    - [Dragon]
+    weight: [18]
+  Fraxure:
+    abilities:
+    - [Mold Breaker, Rivalry, Unnerve]
+    egggroups:
+    - [Dragon, Monster]
+    evolvesFrom: [Axew]
+    height: [1]
+    introduction: bw
+    moves:
+    - bw: [Dragon Tail, Low Kick, Shadow Claw]
+    - xy: [Dragon Tail, Shadow Claw, Low Kick]
+    stats:
+    - [66, 117, 70, 40, 50, 67]
+    tags:
+    - [NU]
+    types:
+    - [Dragon]
+    weight: [36]
+  Haxorus:
+    abilities:
+    - [Mold Breaker, Rivalry, Unnerve]
+    egggroups:
+    - [Dragon, Monster]
+    evolvesFrom: [Fraxure]
+    height: [1.8]
+    introduction: bw
+    moves:
+    - bw: [Brick Break, Bulldoze, Earthquake, Focus Blast, Grass Knot, Hyper Beam,
+        Rock Slide, Surf]
+    - xy: [Brick Break, Bulldoze, Earthquake, Focus Blast, Grass Knot, Hyper Beam,
+        Rock Slide, Surf]
+    stats:
+    - [76, 147, 90, 60, 70, 97]
+    tags:
+    - [OU]
+    types:
+    - [Dragon]
+    weight: [105.5]

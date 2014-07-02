@@ -1,0 +1,143 @@
+pokemon:
+  Togekiss:
+    abilities:
+    - [Hustle, Serene Grace, Super Luck]
+    egggroups:
+    - [Fairy, Flying]
+    evolvesFrom: [Togetic]
+    height: [1.5]
+    introduction: dp
+    moves:
+    - bw: [Air Slash, Aura Sphere, Extreme Speed, Pluck, Sky Attack]
+    - dp: [Air Slash, Aura Sphere, Extreme Speed, Pluck, Sky Attack]
+    - xy: [Air Slash, Aura Sphere, Extreme Speed, Pluck]
+    stats:
+    - [85, 50, 95, 120, 115, 80]
+    tags:
+    - [OU]
+    - bw: [UU]
+    types:
+    - [Flying, Normal]
+    - xy: [Flying, Fairy]
+    weight: [38]
+  Togepi:
+    abilities:
+    - bw: [Hustle, Serene Grace, Super Luck]
+    - rs: [Hustle, Serene Grace]
+    - []
+    egggroups:
+    - []
+    height: [0.3]
+    introduction: gs
+    moves:
+    - gs: [Attract, Charm, Curse, Defense Curl, Detect, Double-Edge, Double Team,
+        Dream Eater, Encore, Endure, Fire Blast, Flamethrower, Flash, Foresight, Frustration,
+        Future Sight, Growl, Headbutt, Metronome, Mirror Move, Mud-Slap, Peck, Present,
+        Protect, Psych Up, Psychic, Rain Dance, Rest, Return, Rock Smash, Rollout,
+        Safeguard, Shadow Ball, Sleep Talk, Snore, Solar Beam, Sunny Day, Swagger,
+        Sweet Kiss, Swift, Toxic, Zap Cannon, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - bw: [After You, Ancient Power, Attract, Baton Pass, Bestow, Charm, Covet, Double-Edge,
+        Double Team, Dream Eater, Echoed Voice, Encore, Endeavor, Extrasensory, Facade,
+        Fire Blast, Flamethrower, Flash, Fling, Follow Me, Foresight, Frustration,
+        Future Sight, Grass Knot, Growl, Heal Bell, Hyper Voice, Incinerate, Last
+          Resort, Light Screen, Lucky Chant, Magic Coat, Metronome, Mirror Move, Morning
+          Sun, Nasty Plot, Peck, Present, Protect, Psych Up, Psychic, Psycho Shift,
+        Psyshock, Rain Dance, Reflect, Rest, Return, Rock Smash, Round, Safeguard,
+        Secret Power, Shadow Ball, Signal Beam, Sleep Talk, Snore, Solar Beam, Stored
+          Power, Substitute, Sunny Day, Swagger, Sweet Kiss, Telekinesis, Thunder
+          Wave, Toxic, Trick, Uproar, Wish, Work Up, Yawn, Zen Headbutt, Helping Hand,
+        Tri Attack, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - dp: [Ancient Power, Attract, Baton Pass, Captivate, Charm, Double-Edge, Double
+          Team, Dream Eater, Encore, Endeavor, Endure, Extrasensory, Facade, Fire
+          Blast, Flamethrower, Flash, Fling, Follow Me, Foresight, Frustration, Future
+          Sight, Grass Knot, Growl, Headbutt, Heal Bell, Last Resort, Light Screen,
+        Lucky Chant, Magic Coat, Metronome, Mirror Move, Mud-Slap, Nasty Plot, Natural
+          Gift, Peck, Present, Protect, Psych Up, Psychic, Psycho Shift, Rain Dance,
+        Reflect, Rest, Return, Rock Smash, Rollout, Safeguard, Secret Power, Shadow
+          Ball, Shock Wave, Signal Beam, Sleep Talk, Snore, Solar Beam, Substitute,
+        Sunny Day, Swagger, Sweet Kiss, Swift, Thunder Wave, Toxic, Trick, Uproar,
+        Water Pulse, Wish, Yawn, Zen Headbutt, Helping Hand, Tri Attack, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - rs: [Ancient Power, Attract, Baton Pass, Body Slam, Charm, Counter, Defense
+          Curl, Double-Edge, Double Team, Dream Eater, Encore, Endure, Facade, Fire
+          Blast, Flamethrower, Flash, Follow Me, Foresight, Frustration, Future Sight,
+        Growl, Light Screen, Mega Kick, Mega Punch, Metronome, Mimic, Mirror Move,
+        Mud-Slap, Peck, Present, Protect, Psych Up, Psychic, Rain Dance, Reflect,
+        Rest, Return, Rock Smash, Rollout, Safeguard, Secret Power, Seismic Toss,
+        Shadow Ball, Shock Wave, Sleep Talk, Snore, Soft-Boiled, Solar Beam, Substitute,
+        Sunny Day, Swagger, Sweet Kiss, Swift, Thunder Wave, Toxic, Water Pulse, Wish,
+        Yawn, Helping Hand, Tri Attack, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [After You, Ancient Power, Attract, Baton Pass, Bestow, Body Slam, Captivate,
+        Charm, Counter, Defense Curl, Double-Edge, Double Team, Dream Eater, Echoed
+          Voice, Encore, Endeavor, Endure, Extrasensory, Facade, Fire Blast, Flamethrower,
+        Flash, Fling, Follow Me, Foresight, Frustration, Future Sight, Grass Knot,
+        Growl, Headbutt, Heal Bell, Helping Hand, Incinerate, Last Resort, Light Screen,
+        Lucky Chant, Magic Coat, Mega Kick, Mega Punch, Metronome, Mimic, Mirror Move,
+        Morning Sun, Mud-Slap, Nasty Plot, Natural Gift, Peck, Present, Protect, Psychic,
+        Psycho Shift, Psych Up, Psyshock, Rain Dance, Reflect, Rest, Return, Rock
+          Smash, Rollout, Round, Safeguard, Secret Power, Seismic Toss, Shadow Ball,
+        Shock Wave, Signal Beam, Sleep Talk, Snore, Soft-Boiled, Solar Beam, Stored
+          Power, Substitute, Sunny Day, Swagger, Sweet Kiss, Swift, Telekinesis, Thunder
+          Wave, Toxic, Tri Attack, Trick, Uproar, Water Pulse, Wish, Work Up, Yawn,
+        Zen Headbutt, Covet, Hyper Voice, Dazzling Gleam, Confide, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [35, 20, 65, 40, 65, 20]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Normal]
+    - xy: [Fairy]
+    weight: [1.5]
+  Togetic:
+    abilities:
+    - bw: [Hustle, Serene Grace, Super Luck]
+    - rs: [Hustle, Serene Grace]
+    - []
+    egggroups:
+    - [Fairy, Flying]
+    evolvesFrom: [Togepi]
+    height: [0.6]
+    introduction: gs
+    moves:
+    - gs: [Fly, Hyper Beam, Steel Wing]
+    - bw: [Aerial Ace, Brick Break, Drain Punch, Fly, Giga Impact, Heat Wave, Hyper
+          Beam, Magical Leaf, Retaliate, Roost, Tailwind]
+    - dp: [Aerial Ace, Air Cutter, Brick Break, Defog, Drain Punch, Fly, Focus Punch,
+        Giga Impact, Heat Wave, Hyper Beam, Magical Leaf, Ominous Wind, Roost, Silver
+          Wind, Steel Wing, Tailwind, Twister]
+    - rs: [Aerial Ace, Brick Break, Fly, Focus Punch, Hyper Beam, Magical Leaf, Sky
+          Attack, Steel Wing]
+    - xy: [Aerial Ace, Air Cutter, Brick Break, Defog, Drain Punch, Fly, Focus Punch,
+        Giga Impact, Heat Wave, Hyper Beam, Magical Leaf, Ominous Wind, Retaliate,
+        Roost, Silver Wind, Sky Attack, Steel Wing, Tailwind, Twister, Fairy Wind]
+    stats:
+    - [55, 40, 85, 80, 105, 40]
+    tags:
+    - [UU]
+    - rs: [NU]
+    types:
+    - [Flying, Normal]
+    - xy: [Fairy, Flying]
+    weight: [3.2]

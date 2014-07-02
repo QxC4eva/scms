@@ -1,0 +1,154 @@
+pokemon:
+  Gastly:
+    abilities:
+    - bw: [Levitate]
+    - rs: [Levitate]
+    - []
+    egggroups:
+    - [Indeterminate]
+    height: [1.3]
+    introduction: rb
+    moves:
+    - gs: [Attract, Confuse Ray, Curse, Destiny Bond, Double Team, Dream Eater, Endure,
+        Frustration, Giga Drain, Haze, Hypnosis, Lick, Mean Look, Night Shade, Nightmare,
+        Perish Song, Protect, Psych Up, Psychic, Psywave, Rain Dance, Rest, Return,
+        Shadow Ball, Sleep Talk, Snore, Spite, Sunny Day, Swagger, Thief, Thunder,
+        Thunderbolt, Toxic, Zap Cannon, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - bw: [Astonish, Attract, Clear Smog, Confuse Ray, Curse, Dark Pulse, Destiny
+          Bond, Disable, Double Team, Dream Eater, Embargo, Energy Ball, Explosion,
+        Facade, Fire Punch, Foul Play, Frustration, Giga Drain, Grudge, Haze, Hex,
+        Hypnosis, Ice Punch, Icy Wind, Knock Off, Lick, Mean Look, Night Shade, Nightmare,
+        Pain Split, Payback, Perish Song, Protect, Psych Up, Psychic, Psywave, Rain
+          Dance, Rest, Return, Round, Scary Face, Shadow Ball, Skill Swap, Sleep Talk,
+        Sludge Bomb, Smog, Snatch, Snore, Spite, Substitute, Sucker Punch, Sunny Day,
+        Swagger, Taunt, Telekinesis, Thief, Thunderbolt, Thunder Punch, Torment, Toxic,
+        Trick, Trick Room, Uproar, Venoshock, Will-O-Wisp, Wonder Room, Double-Edge,
+        Mimic, Self-Destruct, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - dp: [Astonish, Attract, Captivate, Confuse Ray, Curse, Dark Pulse, Destiny Bond,
+        Disable, Double Team, Dream Eater, Embargo, Endure, Energy Ball, Explosion,
+        Facade, Fire Punch, Frustration, Giga Drain, Grudge, Haze, Hypnosis, Ice Punch,
+        Icy Wind, Knock Off, Lick, Mean Look, Natural Gift, Night Shade, Nightmare,
+        Ominous Wind, Pain Split, Payback, Perish Song, Protect, Psych Up, Psychic,
+        Psywave, Rain Dance, Rest, Return, Secret Power, Shadow Ball, Skill Swap,
+        Sleep Talk, Sludge Bomb, Snatch, Snore, Spite, Substitute, Sucker Punch, Sunny
+          Day, Swagger, Taunt, Thief, Thunderbolt, Thunder Punch, Torment, Toxic,
+        Trick, Trick Room, Uproar, Will-O-Wisp, Double-Edge, Mimic, Self-Destruct,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - rs: [Astonish, Attract, Confuse Ray, Curse, Destiny Bond, Double Team, Dream
+          Eater, Endure, Explosion, Facade, Frustration, Giga Drain, Grudge, Haze,
+        Hypnosis, Lick, Mean Look, Night Shade, Nightmare, Perish Song, Protect, Psych
+          Up, Psychic, Psywave, Rain Dance, Rest, Return, Secret Power, Shadow Ball,
+        Skill Swap, Sleep Talk, Sludge Bomb, Snatch, Snore, Spite, Substitute, Sunny
+          Day, Swagger, Taunt, Thief, Thunderbolt, Torment, Toxic, Will-O-Wisp, Double-Edge,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - rb: [Bide, Confuse Ray, Double Team, Dream Eater, Explosion, Hypnosis, Lick,
+        Mega Drain, Mimic, Night Shade, Psychic, Psywave, Rage, Rest, Self-Destruct,
+        Substitute, Thunder, Thunderbolt, Toxic]
+    - xy: [Astonish, Attract, Captivate, Clear Smog, Confuse Ray, Curse, Dark Pulse,
+        Destiny Bond, Disable, Double Team, Dream Eater, Embargo, Endure, Energy Ball,
+        Explosion, Facade, Fire Punch, Frustration, Giga Drain, Grudge, Haze, Hex,
+        Hypnosis, Ice Punch, Icy Wind, Knock Off, Lick, Mean Look, Mimic, Natural
+          Gift, Nightmare, Night Shade, Ominous Wind, Pain Split, Payback, Perish
+          Song, Protect, Psychic, Psych Up, Psywave, Rain Dance, Rest, Return, Round,
+        Scary Face, Secret Power, Self-Destruct, Shadow Ball, Skill Swap, Sleep Talk,
+        Sludge Bomb, Sludge Wave, Smog, Snatch, Snore, Spite, Substitute, Sucker Punch,
+        Sunny Day, Swagger, Taunt, Telekinesis, Thief, Thunderbolt, Thunder Punch,
+        Torment, Toxic, Trick, Trick Room, Uproar, Venoshock, Will-O-Wisp, Foul Play,
+        Wonder Room, Infestation, Dazzling Gleam, Confide, Reflect Type, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [30, 35, 30, 100, 100, 80]
+    - gs: [30, 35, 30, 100, 35, 80]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Ghost, Poison]
+    weight: [0.1]
+  Gengar:
+    abilities:
+    - bw: [Levitate]
+    - rs: [Levitate]
+    - []
+    alts:
+    - xy:
+        Mega:
+          abilities: [Shadow Tag]
+          height: 1.4
+          stats: [60, 65, 80, 170, 95, 130]
+          types: [Ghost, Poison]
+          weight: 40.5
+    egggroups:
+    - [Indeterminate]
+    evolvesFrom: [Haunter]
+    height: [1.5]
+    introduction: rb
+    moves:
+    - gs: [Dynamic Punch, Fire Punch, Headbutt, Hyper Beam, Ice Punch, Rock Smash,
+        Strength, Thunder Punch]
+    - bw: [Brick Break, Drain Punch, Focus Blast, Giga Impact, Hyper Beam, Rock Smash,
+        Role Play, Strength, Thunder, Body Slam, Seismic Toss]
+    - dp: [Brick Break, Drain Punch, Focus Blast, Focus Punch, Giga Impact, Headbutt,
+        Hyper Beam, Rock Smash, Role Play, Strength, Thunder, Body Slam, Seismic Toss]
+    - rs: [Brick Break, Counter, Dynamic Punch, Fire Punch, Focus Punch, Hyper Beam,
+        Ice Punch, Mega Kick, Mega Punch, Metronome, Rock Smash, Strength, Thunder,
+        Thunder Punch]
+    - rb: [Body Slam, Counter, Double-Edge, Hyper Beam, Mega Kick, Mega Punch, Metronome,
+        Seismic Toss, Skull Bash, Strength, Submission, Take Down]
+    - xy: [Body Slam, Brick Break, Counter, Double-Edge, Drain Punch, Dynamic Punch,
+        Focus Blast, Focus Punch, Giga Impact, Headbutt, Hyper Beam, Mega Kick, Mega
+          Punch, Metronome, Rock Smash, Role Play, Seismic Toss, Strength, Thunder,
+        Power-Up Punch]
+    stats:
+    - [60, 65, 60, 130, 130, 110]
+    - gs: [60, 65, 60, 130, 75, 110]
+    tags:
+    - [OU]
+    types:
+    - [Ghost, Poison]
+    weight: [40.5]
+  Haunter:
+    abilities:
+    - bw: [Levitate]
+    - rs: [Levitate]
+    - []
+    egggroups:
+    - [Indeterminate]
+    evolvesFrom: [Gastly]
+    height: [1.6]
+    introduction: rb
+    moves:
+    - bw: [Fling, Poison Jab, Shadow Claw, Shadow Punch]
+    - dp: [Fling, Poison Jab, Shadow Claw, Shadow Punch]
+    - rs: [Shadow Punch]
+    - xy: [Fling, Poison Jab, Shadow Claw, Shadow Punch]
+    - []
+    stats:
+    - [45, 50, 45, 115, 115, 95]
+    - gs: [45, 50, 45, 115, 55, 95]
+    tags:
+    - [NFE, UU]
+    - dp: [NU]
+    types:
+    - [Ghost, Poison]
+    weight: [0.1]

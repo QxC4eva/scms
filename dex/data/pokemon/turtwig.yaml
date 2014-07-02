@@ -1,0 +1,97 @@
+pokemon:
+  Grotle:
+    abilities:
+    - [Overgrow, Shell Armor]
+    egggroups:
+    - [Monster, Plant]
+    evolvesFrom: [Turtwig]
+    height: [1.1]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [75, 89, 85, 55, 65, 36]
+    tags:
+    - [NFE]
+    types:
+    - [Grass]
+    weight: [97]
+  Torterra:
+    abilities:
+    - [Overgrow, Shell Armor]
+    egggroups:
+    - [Monster, Plant]
+    evolvesFrom: [Grotle]
+    height: [2.2]
+    introduction: dp
+    moves:
+    - bw: [Block, Bulldoze, Earthquake, Frenzy Plant, Giga Impact, Hyper Beam, Iron
+          Head, Outrage, Roar, Rock Polish, Rock Slide, Rock Tomb, Sandstorm, Stone
+          Edge, Wood Hammer]
+    - dp: [Block, Earthquake, Frenzy Plant, Giga Impact, Hyper Beam, Iron Head, Outrage,
+        Roar, Rock Polish, Rock Slide, Rock Tomb, Sandstorm, Stone Edge, Wood Hammer]
+    - xy: [Block, Bulldoze, Earthquake, Frenzy Plant, Giga Impact, Hyper Beam, Iron
+          Head, Outrage, Roar, Rock Polish, Rock Slide, Rock Tomb, Sandstorm, Stone
+          Edge, Wood Hammer]
+    stats:
+    - [95, 109, 105, 75, 85, 56]
+    tags:
+    - [UU]
+    - bw: [NU]
+    types:
+    - [Grass, Ground]
+    weight: [310]
+  Turtwig:
+    abilities:
+    - [Overgrow, Shell Armor]
+    egggroups:
+    - [Monster, Plant]
+    height: [0.4]
+    introduction: dp
+    moves:
+    - bw: [Absorb, Amnesia, Attract, Bite, Body Slam, Crunch, Curse, Cut, Double-Edge,
+        Double Team, Earth Power, Energy Ball, Facade, Flash, Frustration, Giga Drain,
+        Grass Knot, Grass Pledge, Growth, Iron Tail, Leaf Storm, Leech Seed, Light
+          Screen, Mega Drain, Protect, Razor Leaf, Reflect, Rest, Return, Rock Smash,
+        Round, Safeguard, Sand Tomb, Seed Bomb, Sleep Talk, Snore, Solar Beam, Spit
+          Up, Stealth Rock, Stockpile, Strength, Substitute, Sunny Day, Superpower,
+        Swagger, Swallow, Swords Dance, Synthesis, Tackle, Thrash, Tickle, Toxic,
+        Wide Guard, Withdraw, Worry Seed, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Absorb, Amnesia, Attract, Bite, Body Slam, Bullet Seed, Captivate, Crunch,
+        Curse, Cut, Double-Edge, Double Team, Earth Power, Endure, Energy Ball, Facade,
+        Flash, Frustration, Giga Drain, Grass Knot, Growth, Headbutt, Iron Tail, Leaf
+          Storm, Leech Seed, Light Screen, Mega Drain, Mud-Slap, Natural Gift, Protect,
+        Razor Leaf, Reflect, Rest, Return, Rock Climb, Rock Smash, Safeguard, Sand
+          Tomb, Secret Power, Seed Bomb, Sleep Talk, Snore, Solar Beam, Spit Up, Stealth
+          Rock, Stockpile, Strength, Substitute, Sunny Day, Superpower, Swagger, Swallow,
+        Swords Dance, Synthesis, Tackle, Thrash, Tickle, Toxic, Withdraw, Worry Seed,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - xy: [Absorb, Amnesia, Attract, Bite, Body Slam, Bullet Seed, Captivate, Crunch,
+        Curse, Cut, Double-Edge, Double Team, Earth Power, Endure, Energy Ball, Facade,
+        Flash, Frustration, Giga Drain, Grass Knot, Grass Pledge, Growth, Headbutt,
+        Iron Tail, Leaf Storm, Leech Seed, Light Screen, Mega Drain, Mud-Slap, Natural
+          Gift, Protect, Razor Leaf, Reflect, Rest, Return, Rock Climb, Rock Smash,
+        Round, Safeguard, Sand Tomb, Secret Power, Seed Bomb, Sleep Talk, Snore, Solar
+          Beam, Spit Up, Stealth Rock, Stockpile, Strength, Substitute, Sunny Day,
+        Superpower, Swagger, Swallow, Swords Dance, Synthesis, Tackle, Thrash, Tickle,
+        Toxic, Wide Guard, Withdraw, Worry Seed, Nature Power, Confide, Grassy Terrain,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [55, 68, 64, 45, 55, 31]
+    tags:
+    - [LC]
+    types:
+    - [Grass]
+    weight: [10.2]

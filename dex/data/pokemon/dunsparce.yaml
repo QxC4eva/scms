@@ -1,0 +1,87 @@
+pokemon:
+  Dunsparce:
+    abilities:
+    - bw: [Rattled, Run Away, Serene Grace]
+    - rs: [Run Away, Serene Grace]
+    - []
+    egggroups:
+    - [Ground]
+    height: [1.5]
+    introduction: gs
+    moves:
+    - gs: [Ancient Power, Attract, Bide, Bite, Curse, Defense Curl, Dig, Double Team,
+        Dream Eater, Endure, Flamethrower, Frustration, Glare, Headbutt, Iron Tail,
+        Mud-Slap, Nightmare, Protect, Psych Up, Pursuit, Rage, Rain Dance, Rest, Return,
+        Rock Slide, Rock Smash, Rollout, Screech, Sleep Talk, Snore, Solar Beam, Spite,
+        Strength, Sunny Day, Swagger, Take Down, Thief, Thunder, Thunderbolt, Toxic,
+        Zap Cannon, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - bw: [Agility, Ancient Power, Aqua Tail, Astonish, Attract, Bide, Bind, Bite,
+        Blizzard, Bulldoze, Calm Mind, Charge Beam, Coil, Curse, Defense Curl, Dig,
+        Double Team, Dream Eater, Drill Run, Earthquake, Endeavor, Endure, Facade,
+        Fire Blast, Flail, Flamethrower, Frustration, Glare, Gyro Ball, Headbutt,
+        Hex, Ice Beam, Incinerate, Iron Tail, Last Resort, Magic Coat, Pain Split,
+        Poison Jab, Protect, Psych Up, Pursuit, Rage, Rain Dance, Rest, Retaliate,
+        Return, Rock Slide, Rock Smash, Rock Tomb, Rollout, Roost, Round, Screech,
+        Secret Power, Shadow Ball, Sleep Talk, Snore, Solar Beam, Spite, Stealth Rock,
+        Strength, Substitute, Sunny Day, Swagger, Take Down, Thief, Thunder, Thunder
+          Wave, Thunderbolt, Toxic, Trump Card, Wild Charge, Yawn, Zen Headbutt, Body
+          Slam, Mimic, Nightmare, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Agility, Ancient Power, Aqua Tail, Astonish, Attract, Bide, Bite, Blizzard,
+        Calm Mind, Captivate, Charge Beam, Curse, Defense Curl, Dig, Double Team,
+        Dream Eater, Earthquake, Endeavor, Endure, Facade, Fire Blast, Flail, Flamethrower,
+        Frustration, Glare, Gyro Ball, Headbutt, Ice Beam, Iron Tail, Last Resort,
+        Magic Coat, Mud-Slap, Natural Gift, Pain Split, Poison Jab, Protect, Psych
+          Up, Pursuit, Rage, Rain Dance, Rest, Return, Rock Slide, Rock Smash, Rock
+          Tomb, Rollout, Roost, Screech, Secret Power, Shadow Ball, Shock Wave, Sleep
+          Talk, Snore, Solar Beam, Spite, Stealth Rock, Strength, Substitute, Sunny
+          Day, Swagger, Take Down, Thief, Thunder, Thunder Wave, Thunderbolt, Toxic,
+        Trump Card, Water Pulse, Yawn, Zen Headbutt, Body Slam, Double-Edge, Mimic,
+        Nightmare, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - rs: [Ancient Power, Astonish, Attract, Bide, Bite, Blizzard, Calm Mind, Counter,
+        Curse, Defense Curl, Dig, Double Team, Dream Eater, Earthquake, Endeavor,
+        Endure, Facade, Fire Blast, Flail, Flamethrower, Frustration, Glare, Headbutt,
+        Ice Beam, Iron Tail, Mud-Slap, Protect, Psych Up, Pursuit, Rage, Rain Dance,
+        Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout, Screech, Secret
+          Power, Shadow Ball, Shock Wave, Sleep Talk, Snore, Solar Beam, Spite, Strength,
+        Substitute, Sunny Day, Swagger, Take Down, Thief, Thunder, Thunder Wave, Thunderbolt,
+        Toxic, Water Pulse, Yawn, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Agility, Ancient Power, Aqua Tail, Astonish, Attract, Bide, Bite, Blizzard,
+        Body Slam, Bulldoze, Calm Mind, Captivate, Charge Beam, Coil, Counter, Curse,
+        Defense Curl, Dig, Double-Edge, Double Team, Dream Eater, Drill Run, Earthquake,
+        Endeavor, Endure, Facade, Fire Blast, Flail, Flamethrower, Frustration, Glare,
+        Gyro Ball, Headbutt, Hex, Ice Beam, Incinerate, Iron Tail, Last Resort, Magic
+          Coat, Mimic, Mud-Slap, Natural Gift, Nightmare, Pain Split, Poison Jab,
+        Protect, Psych Up, Pursuit, Rage, Rain Dance, Rest, Retaliate, Return, Rock
+          Slide, Rock Smash, Rock Tomb, Rollout, Roost, Round, Screech, Secret Power,
+        Shadow Ball, Shock Wave, Sleep Talk, Snore, Solar Beam, Spite, Stealth Rock,
+        Strength, Substitute, Sunny Day, Swagger, Take Down, Thief, Thunder, Thunderbolt,
+        Thunder Wave, Toxic, Trump Card, Water Pulse, Wild Charge, Yawn, Zen Headbutt,
+        Bind, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [100, 70, 70, 65, 65, 45]
+    tags:
+    - [UU]
+    - dp: [NU]
+    types:
+    - [Normal]
+    weight: [14]

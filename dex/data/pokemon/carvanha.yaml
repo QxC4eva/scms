@@ -1,0 +1,92 @@
+pokemon:
+  Carvanha:
+    abilities:
+    - [Rough Skin]
+    - bw: [Rough Skin, Speed Boost]
+    egggroups:
+    - [Water 2]
+    height: [0.8]
+    introduction: rs
+    moves:
+    - bw: [Agility, Ancient Power, Aqua Jet, Assurance, Attract, Bite, Blizzard, Bounce,
+        Brine, Crunch, Dark Pulse, Dive, Double-Edge, Double Team, Facade, Focus Energy,
+        Frustration, Hail, Hydro Pump, Ice Beam, Ice Fang, Icy Wind, Leer, Payback,
+        Protect, Rage, Rain Dance, Refresh, Rest, Retaliate, Return, Round, Scald,
+        Scary Face, Screech, Sleep Talk, Snarl, Snore, Spite, Substitute, Super Fang,
+        Surf, Swagger, Swift, Take Down, Taunt, Thief, Thrash, Torment, Toxic, Uproar,
+        Water Pulse, Waterfall, Zen Headbutt, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Agility, Ancient Power, Aqua Jet, Assurance, Attract, Bite, Blizzard, Bounce,
+        Brine, Captivate, Crunch, Dark Pulse, Dive, Double-Edge, Double Team, Endure,
+        Facade, Focus Energy, Frustration, Fury Cutter, Hail, Hydro Pump, Ice Beam,
+        Ice Fang, Icy Wind, Leer, Mud-Slap, Natural Gift, Payback, Protect, Rage,
+        Rain Dance, Refresh, Rest, Return, Scary Face, Screech, Secret Power, Sleep
+          Talk, Snore, Spite, Substitute, Super Fang, Surf, Swagger, Swift, Take Down,
+        Taunt, Thief, Thrash, Torment, Toxic, Uproar, Water Pulse, Waterfall, Whirlpool,
+        Zen Headbutt, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - rs: [Agility, Attract, Bite, Blizzard, Crunch, Dive, Double-Edge, Double Team,
+        Endure, Facade, Focus Energy, Frustration, Fury Cutter, Hail, Hydro Pump,
+        Ice Beam, Icy Wind, Leer, Mimic, Mud-Slap, Protect, Rage, Rain Dance, Refresh,
+        Rest, Return, Scary Face, Screech, Secret Power, Sleep Talk, Snore, Substitute,
+        Surf, Swagger, Swift, Take Down, Taunt, Thief, Thrash, Torment, Toxic, Water
+          Pulse, Waterfall, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - xy: [Agility, Ancient Power, Aqua Jet, Assurance, Attract, Bite, Blizzard, Bounce,
+        Brine, Captivate, Crunch, Dark Pulse, Dive, Double-Edge, Double Team, Endure,
+        Facade, Focus Energy, Frustration, Fury Cutter, Hail, Hydro Pump, Ice Beam,
+        Ice Fang, Icy Wind, Leer, Mimic, Mud-Slap, Natural Gift, Payback, Protect,
+        Rage, Rain Dance, Refresh, Rest, Retaliate, Return, Round, Scald, Scary Face,
+        Screech, Secret Power, Sleep Talk, Snarl, Snore, Spite, Substitute, Super
+          Fang, Surf, Swagger, Swift, Take Down, Taunt, Thief, Thrash, Torment, Toxic,
+        Uproar, Waterfall, Water Pulse, Whirlpool, Zen Headbutt, Confide, Destiny
+          Bond, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [45, 90, 20, 65, 20, 65]
+    tags:
+    - [NFE]
+    - bw: [NFE]
+      dp: [LC]
+    types:
+    - [Dark, Water]
+    weight: [20.8]
+  Sharpedo:
+    abilities:
+    - [Rough Skin]
+    - bw: [Rough Skin, Speed Boost]
+    egggroups:
+    - [Water 2]
+    evolvesFrom: [Carvanha]
+    height: [1.8]
+    introduction: rs
+    moves:
+    - bw: [Bulldoze, Earthquake, Feint, Giga Impact, Hyper Beam, Night Slash, Poison
+          Jab, Roar, Rock Smash, Rock Tomb, Skull Bash, Slash, Strength, Mimic]
+    - dp: [Avalanche, Earthquake, Feint, Giga Impact, Hyper Beam, Night Slash, Poison
+          Jab, Roar, Rock Smash, Rock Tomb, Skull Bash, Slash, Strength, Mimic]
+    - rs: [Earthquake, Hyper Beam, Roar, Rock Smash, Rock Tomb, Skull Bash, Slash,
+        Strength]
+    - xy: [Avalanche, Bulldoze, Earthquake, Feint, Giga Impact, Hyper Beam, Night
+          Slash, Poison Jab, Roar, Rock Smash, Rock Tomb, Skull Bash, Slash, Strength]
+    stats:
+    - [70, 120, 40, 95, 40, 95]
+    tags:
+    - [UU]
+    - bw: [UU]
+      dp: [NU]
+    types:
+    - [Dark, Water]
+    weight: [88.8]

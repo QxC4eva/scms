@@ -1,0 +1,124 @@
+pokemon:
+  Mewtwo:
+    abilities:
+    - bw: [Pressure, Unnerve]
+    - rs: [Pressure]
+    - []
+    alts:
+    - xy:
+        Mega-X:
+          abilities: [Steadfast]
+          height: 2.3
+          stats: [106, 190, 100, 154, 100, 130]
+          types: [Psychic, Fighting]
+          weight: 127
+        Mega-Y:
+          abilities: [Insomnia]
+          height: 1.5
+          stats: [106, 150, 70, 194, 120, 140]
+          types: [Psychic]
+          weight: 33
+    egggroups:
+    - []
+    height: [2]
+    introduction: rb
+    moves:
+    - gs: [Amnesia, Barrier, Blizzard, Confusion, Curse, Detect, Disable, Double Team,
+        Dream Eater, Dynamic Punch, Endure, Fire Blast, Fire Punch, Flamethrower,
+        Flash, Frustration, Future Sight, Headbutt, Hyper Beam, Ice Beam, Ice Punch,
+        Icy Wind, Iron Tail, Mist, Mud-Slap, Nightmare, Protect, Psych Up, Psychic,
+        Rain Dance, Recover, Rest, Return, Rock Smash, Safeguard, Shadow Ball, Sleep
+          Talk, Snore, Solar Beam, Strength, Sunny Day, Swagger, Swift, Thunder, Thunderbolt,
+        Thunder Punch, Toxic, Zap Cannon, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - bw: [Aerial Ace, Amnesia, Aqua Tail, Aura Sphere, Barrier, Blizzard, Brick Break,
+        Bulk Up, Bulldoze, Calm Mind, Charge Beam, Confusion, Disable, Double Team,
+        Drain Punch, Dream Eater, Earthquake, Electro Ball, Embargo, Energy Ball,
+        Facade, Fire Blast, Fire Punch, Flamethrower, Flash, Fling, Focus Blast, Foul
+          Play, Frustration, Future Sight, Giga Impact, Grass Knot, Gravity, Guard
+          Swap, Hail, Hyper Beam, Ice Beam, Ice Punch, Incinerate, Iron Tail, Light
+          Screen, Low Kick, Low Sweep, Magic Coat, Magic Room, Me First, Miracle Eye,
+        Mist, Poison Jab, Power Swap, Protect, Psych Up, Psychic, Psycho Cut, Psyshock,
+        Psystrike, Rain Dance, Recover, Recycle, Reflect, Rest, Return, Rock Slide,
+        Rock Smash, Rock Tomb, Role Play, Round, Safeguard, Sandstorm, Shadow Ball,
+        Signal Beam, Skill Swap, Sleep Talk, Snatch, Snore, Solar Beam, Stone Edge,
+        Strength, Substitute, Sunny Day, Swift, Taunt, Telekinesis, Thunder, Thunder
+          Wave, Thunderbolt, Thunder Punch, Torment, Toxic, Trick, Trick Room, Will-O-Wisp,
+        Wonder Room, Zen Headbutt, Body Slam, Double-Edge, Mimic, Nightmare, Seismic
+          Toss, Self-Destruct, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - dp: [Aerial Ace, Amnesia, Aqua Tail, Aura Sphere, Avalanche, Barrier, Blizzard,
+        Brick Break, Bulk Up, Calm Mind, Charge Beam, Confusion, Disable, Double Team,
+        Drain Punch, Dream Eater, Earthquake, Embargo, Endure, Energy Ball, Facade,
+        Fire Blast, Fire Punch, Flamethrower, Flash, Fling, Focus Blast, Focus Punch,
+        Frustration, Future Sight, Giga Impact, Grass Knot, Gravity, Guard Swap, Hail,
+        Headbutt, Hyper Beam, Ice Beam, Ice Punch, Iron Tail, Light Screen, Low Kick,
+        Magic Coat, Me First, Miracle Eye, Mist, Mud-Slap, Natural Gift, Poison Jab,
+        Power Swap, Protect, Psych Up, Psychic, Psycho Cut, Rain Dance, Recover, Recycle,
+        Reflect, Rest, Return, Rock Climb, Rock Slide, Rock Smash, Rock Tomb, Role
+          Play, Safeguard, Sandstorm, Secret Power, Shadow Ball, Shock Wave, Signal
+          Beam, Skill Swap, Sleep Talk, Snatch, Snore, Solar Beam, Stone Edge, Strength,
+        Substitute, Sunny Day, Swift, Taunt, Thunder, Thunder Wave, Thunderbolt, Thunder
+          Punch, Torment, Toxic, Trick, Trick Room, Water Pulse, Will-O-Wisp, Zen
+          Headbutt, Body Slam, Double-Edge, Mimic, Nightmare, Seismic Toss, Self-Destruct,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - rs: [Aerial Ace, Amnesia, Barrier, Blizzard, Brick Break, Bulk Up, Calm Mind,
+        Confusion, Counter, Disable, Double Team, Dream Eater, Dynamic Punch, Earthquake,
+        Endure, Facade, Fire Blast, Fire Punch, Flamethrower, Flash, Focus Punch,
+        Frustration, Future Sight, Hail, Hyper Beam, Ice Beam, Ice Punch, Iron Tail,
+        Light Screen, Mega Kick, Mega Punch, Metronome, Mist, Mud-Slap, Protect, Psych
+          Up, Psychic, Rain Dance, Recover, Reflect, Rest, Return, Rock Smash, Rock
+          Tomb, Safeguard, Sandstorm, Secret Power, Shadow Ball, Shock Wave, Skill
+          Swap, Sleep Talk, Snatch, Snore, Solar Beam, Strength, Substitute, Sunny
+          Day, Swift, Taunt, Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Torment,
+        Toxic, Water Pulse, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - rb: [Amnesia, Barrier, Bide, Blizzard, Body Slam, Bubble Beam, Confusion, Counter,
+        Disable, Double-Edge, Double Team, Fire Blast, Flash, Hyper Beam, Ice Beam,
+        Mega Kick, Mega Punch, Metronome, Mimic, Mist, Pay Day, Psychic, Psywave,
+        Rage, Recover, Reflect, Rest, Seismic Toss, Self-Destruct, Skull Bash, Solar
+          Beam, Strength, Submission, Substitute, Swift, Take Down, Teleport, Thunder,
+        Thunder Wave, Thunderbolt, Toxic, Tri Attack, Water Gun]
+    - xy: [Aerial Ace, Amnesia, Aqua Tail, Aura Sphere, Avalanche, Barrier, Blizzard,
+        Body Slam, Brick Break, Bulk Up, Bulldoze, Calm Mind, Charge Beam, Confusion,
+        Counter, Disable, Double-Edge, Double Team, Drain Punch, Dream Eater, Dynamic
+          Punch, Earthquake, Electro Ball, Embargo, Endure, Energy Ball, Facade, Fire
+          Blast, Fire Punch, Flamethrower, Flash, Fling, Focus Blast, Focus Punch,
+        Frustration, Future Sight, Giga Impact, Grass Knot, Gravity, Guard Swap, Hail,
+        Headbutt, Heal Pulse, Hurricane, Hyper Beam, Ice Beam, Ice Punch, Icy Wind,
+        Incinerate, Iron Tail, Light Screen, Low Kick, Low Sweep, Magic Coat, Me First,
+        Mega Kick, Mega Punch, Metronome, Mimic, Miracle Eye, Mist, Mud-Slap, Natural
+          Gift, Nightmare, Poison Jab, Power Swap, Protect, Psychic, Psycho Cut, Psych
+          Up, Psyshock, Psystrike, Rain Dance, Recover, Recycle, Reflect, Rest, Return,
+        Rock Climb, Rock Slide, Rock Smash, Rock Tomb, Role Play, Round, Safeguard,
+        Sandstorm, Secret Power, Seismic Toss, Self-Destruct, Shadow Ball, Shock Wave,
+        Signal Beam, Skill Swap, Sleep Talk, Snatch, Snore, Solar Beam, Stone Edge,
+        Strength, Substitute, Sunny Day, Swagger, Swift, Taunt, Telekinesis, Thunder,
+        Thunderbolt, Thunder Punch, Thunder Wave, Torment, Toxic, Trick, Trick Room,
+        Water Pulse, Will-O-Wisp, Zen Headbutt, Foul Play, Magic Room, Wonder Room,
+        Power-Up Punch, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [106, 110, 90, 154, 154, 130]
+    - gs: [106, 110, 90, 154, 90, 130]
+    tags:
+    - [Uber]
+    types:
+    - [Psychic]
+    weight: [122]

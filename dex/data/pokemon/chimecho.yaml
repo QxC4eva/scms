@@ -1,0 +1,91 @@
+pokemon:
+  Chimecho:
+    abilities:
+    - [Levitate]
+    - bw: [Levitate]
+    egggroups:
+    - [Indeterminate]
+    evolvesFrom:
+    - {dp: Chingling}
+    height: [0.6]
+    introduction: rs
+    moves:
+    - bw: [Double-Edge, Energy Ball, Extrasensory, Heal Pulse, Healing Wish, Psywave,
+        Synchronoise, Take Down, Yawn]
+    - dp: [Double-Edge, Energy Ball, Extrasensory, Healing Wish, Psywave, Take Down,
+        Yawn]
+    - rs: [Astonish, Attract, Calm Mind, Confusion, Curse, Defense Curl, Disable,
+        Double-Edge, Double Team, Dream Eater, Endure, Facade, Flash, Frustration,
+        Growl, Heal Bell, Hypnosis, Icy Wind, Light Screen, Mimic, Nightmare, Protect,
+        Psych Up, Psychic, Psywave, Rain Dance, Reflect, Rest, Return, Rollout, Safeguard,
+        Secret Power, Shadow Ball, Shock Wave, Skill Swap, Sleep Talk, Snatch, Snore,
+        Substitute, Sunny Day, Swagger, Take Down, Taunt, Torment, Toxic, Uproar,
+        Wrap, Yawn, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - xy: [Defense Curl, Double-Edge, Energy Ball, Extrasensory, Healing Wish, Heal
+          Pulse, Mimic, Nightmare, Psywave, Synchronoise, Take Down, Yawn]
+    stats:
+    - [65, 50, 70, 95, 80, 65]
+    tags:
+    - [NU]
+    types:
+    - [Psychic]
+    weight: [1]
+  Chingling:
+    abilities:
+    - [Levitate]
+    egggroups:
+    - []
+    height: [0.2]
+    introduction: dp
+    moves:
+    - bw: [Astonish, Attract, Bind, Calm Mind, Charge Beam, Confusion, Curse, Disable,
+        Double Team, Dream Eater, Echoed Voice, Entrainment, Facade, Flash, Frustration,
+        Future Sight, Grass Knot, Gravity, Growl, Heal Bell, Helping Hand, Hyper Voice,
+        Hypnosis, Icy Wind, Knock Off, Last Resort, Light Screen, Magic Coat, Mimic,
+        Nightmare, Protect, Psych Up, Psychic, Psyshock, Rain Dance, Recover, Recycle,
+        Reflect, Rest, Return, Round, Safeguard, Shadow Ball, Signal Beam, Skill Swap,
+        Sleep Talk, Snatch, Snore, Stored Power, Substitute, Sunny Day, Swagger, Taunt,
+        Telekinesis, Thunder Wave, Torment, Toxic, Trick, Trick Room, Uproar, Wish,
+        Wrap, Zen Headbutt, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - dp: [Astonish, Attract, Calm Mind, Captivate, Charge Beam, Confusion, Curse,
+        Disable, Double Team, Dream Eater, Endure, Facade, Flash, Frustration, Future
+          Sight, Grass Knot, Gravity, Growl, Heal Bell, Helping Hand, Hypnosis, Icy
+          Wind, Knock Off, Last Resort, Light Screen, Magic Coat, Mimic, Natural Gift,
+        Nightmare, Protect, Psych Up, Psychic, Rain Dance, Recover, Recycle, Reflect,
+        Rest, Return, Rollout, Safeguard, Secret Power, Shadow Ball, Shock Wave, Signal
+          Beam, Skill Swap, Sleep Talk, Snatch, Snore, Substitute, Sunny Day, Swagger,
+        Swift, Taunt, Thunder Wave, Torment, Toxic, Trick, Trick Room, Uproar, Wish,
+        Wrap, Zen Headbutt, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - xy: [Astonish, Attract, Calm Mind, Captivate, Charge Beam, Confusion, Curse,
+        Disable, Double Team, Dream Eater, Echoed Voice, Endure, Entrainment, Facade,
+        Flash, Frustration, Future Sight, Grass Knot, Gravity, Growl, Heal Bell, Helping
+          Hand, Hypnosis, Icy Wind, Knock Off, Last Resort, Light Screen, Magic Coat,
+        Natural Gift, Protect, Psychic, Psych Up, Psyshock, Rain Dance, Recover, Recycle,
+        Reflect, Rest, Return, Rollout, Round, Safeguard, Secret Power, Shadow Ball,
+        Shock Wave, Signal Beam, Skill Swap, Sleep Talk, Snatch, Snore, Stored Power,
+        Substitute, Sunny Day, Swagger, Swift, Taunt, Telekinesis, Thunder Wave, Torment,
+        Toxic, Trick, Trick Room, Uproar, Wish, Wrap, Zen Headbutt, Hyper Voice, Bind,
+        Dazzling Gleam, Confide, Cosmic Power, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [45, 30, 50, 65, 50, 45]
+    tags:
+    - [LC]
+    types:
+    - [Psychic]
+    weight: [0.6]

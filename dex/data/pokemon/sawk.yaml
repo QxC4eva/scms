@@ -1,0 +1,41 @@
+pokemon:
+  Sawk:
+    abilities:
+    - [Inner Focus, Mold Breaker, Sturdy]
+    egggroups:
+    - [Humanshape]
+    height: [1.4]
+    introduction: bw
+    moves:
+    - bw: [Attract, Bide, Block, Brick Break, Bulk Up, Bulldoze, Close Combat, Counter,
+        Dig, Double Kick, Double Team, Dual Chop, Earthquake, Endure, Facade, Fire
+          Punch, Fling, Focus Blast, Focus Energy, Frustration, Giga Impact, Grass
+          Knot, Helping Hand, Ice Punch, Karate Chop, Knock Off, Leer, Low Kick, Low
+          Sweep, Pain Split, Payback, Poison Jab, Protect, Quick Guard, Rain Dance,
+        Rest, Retaliate, Return, Reversal, Rock Slide, Rock Smash, Rock Tomb, Round,
+        Sleep Talk, Snore, Stone Edge, Strength, Substitute, Sunny Day, Superpower,
+        Swagger, Taunt, Thunder Punch, Toxic, Work Up, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Attract, Bide, Brick Break, Bulk Up, Bulldoze, Close Combat, Counter, Dig,
+        Double Kick, Double Team, Earthquake, Endure, Facade, Fling, Focus Blast,
+        Focus Energy, Frustration, Giga Impact, Grass Knot, Karate Chop, Leer, Low
+          Sweep, Payback, Poison Jab, Protect, Quick Guard, Rain Dance, Rest, Retaliate,
+        Return, Reversal, Rock Slide, Rock Smash, Rock Tomb, Round, Stone Edge, Strength,
+        Substitute, Sunny Day, Swagger, Taunt, Toxic, Work Up, Dual Chop, Low Kick,
+        Thunder Punch, Fire Punch, Ice Punch, Block, Superpower, Snore, Knock Off,
+        Pain Split, Helping Hand, Sleep Talk, Power-Up Punch, Confide, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [75, 125, 75, 30, 75, 85]
+    tags:
+    - [NU]
+    types:
+    - [Fighting]
+    weight: [51]

@@ -1,0 +1,119 @@
+pokemon:
+  Lombre:
+    abilities:
+    - [Rain Dish, Swift Swim]
+    - bw: [Own Tempo, Rain Dish, Swift Swim]
+    egggroups:
+    - [Plant, Water 1]
+    evolvesFrom: [Lotad]
+    height: [1.2]
+    introduction: rs
+    moves:
+    - bw: [Brick Break, Dive, Drain Punch, Fake Out, Fire Punch, Fling, Fury Swipes,
+        Hone Claws, Hydro Pump, Hyper Voice, Ice Punch, Rock Smash, Strength, Thunder
+          Punch, Water Sport, Waterfall]
+    - dp: [Brick Break, Dive, Drain Punch, Fake Out, Fire Punch, Fling, Fury Swipes,
+        Hydro Pump, Ice Punch, Mud-Slap, Rock Smash, Strength, Thunder Punch, Water
+          Sport, Waterfall]
+    - rs: [Brick Break, Dive, Dynamic Punch, Fake Out, Fire Punch, Fury Swipes, Hydro
+          Pump, Ice Punch, Mud-Slap, Rock Smash, Strength, Thunder Punch, Uproar,
+        Water Sport, Waterfall]
+    - xy: [Brick Break, Dive, Drain Punch, Dynamic Punch, Fake Out, Fire Punch, Fling,
+        Fury Swipes, Hone Claws, Hydro Pump, Ice Punch, Mud-Slap, Rock Smash, Strength,
+        Thunder Punch, Waterfall, Water Sport, Hyper Voice, Power-Up Punch]
+    stats:
+    - [60, 50, 50, 60, 70, 50]
+    tags:
+    - [NFE]
+    types:
+    - [Grass, Water]
+    weight: [32.5]
+  Lotad:
+    abilities:
+    - [Rain Dish, Swift Swim]
+    - bw: [Own Tempo, Rain Dish, Swift Swim]
+    egggroups:
+    - [Plant, Water 1]
+    height: [0.5]
+    introduction: rs
+    moves:
+    - bw: [Absorb, Astonish, Attract, Blizzard, Bubble Beam, Counter, Double Team,
+        Echoed Voice, Energy Ball, Facade, Flail, Flash, Frustration, Giga Drain,
+        Grass Knot, Growl, Hail, Ice Beam, Leech Seed, Mega Drain, Mist, Natural Gift,
+        Nature Power, Protect, Rain Dance, Razor Leaf, Rest, Return, Round, Scald,
+        Seed Bomb, Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day, Surf, Swagger,
+        Sweet Scent, Swords Dance, Synthesis, Teeter Dance, Thief, Tickle, Toxic,
+        Uproar, Water Gun, Zen Headbutt, Body Slam, Double-Edge, Mimic, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - dp: [Absorb, Astonish, Attract, Blizzard, Bubble Beam, Bullet Seed, Captivate,
+        Counter, Double Team, Endure, Energy Ball, Facade, Flail, Flash, Frustration,
+        Giga Drain, Grass Knot, Growl, Hail, Headbutt, Ice Beam, Leech Seed, Mega
+          Drain, Mist, Natural Gift, Nature Power, Protect, Rain Dance, Razor Leaf,
+        Rest, Return, Secret Power, Seed Bomb, Sleep Talk, Snore, Solar Beam, Substitute,
+        Sunny Day, Surf, Swagger, Sweet Scent, Swords Dance, Synthesis, Thief, Tickle,
+        Toxic, Uproar, Water Gun, Water Pulse, Whirlpool, Zen Headbutt, Body Slam,
+        Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - rs: [Absorb, Astonish, Attract, Blizzard, Bullet Seed, Double Team, Endure,
+        Facade, Flail, Flash, Frustration, Giga Drain, Growl, Hail, Ice Beam, Leech
+          Seed, Mega Drain, Mist, Nature Power, Protect, Rain Dance, Razor Leaf, Rest,
+        Return, Secret Power, Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day,
+        Surf, Swagger, Sweet Scent, Swords Dance, Synthesis, Thief, Toxic, Water Gun,
+        Water Pulse, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - xy: [Absorb, Astonish, Attract, Blizzard, Body Slam, Bubble Beam, Bullet Seed,
+        Captivate, Counter, Double-Edge, Double Team, Echoed Voice, Endure, Energy
+          Ball, Facade, Flail, Flash, Frustration, Giga Drain, Grass Knot, Growl,
+        Hail, Headbutt, Ice Beam, Icy Wind, Leech Seed, Mega Drain, Mimic, Mist, Natural
+          Gift, Nature Power, Protect, Rain Dance, Razor Leaf, Rest, Return, Round,
+        Scald, Secret Power, Seed Bomb, Sleep Talk, Snore, Solar Beam, Substitute,
+        Sunny Day, Surf, Swagger, Sweet Scent, Swords Dance, Synthesis, Teeter Dance,
+        Thief, Tickle, Toxic, Uproar, Water Gun, Water Pulse, Whirlpool, Zen Headbutt,
+        Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [40, 30, 30, 40, 50, 30]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Grass, Water]
+    weight: [2.6]
+  Ludicolo:
+    abilities:
+    - [Rain Dish, Swift Swim]
+    - bw: [Own Tempo, Rain Dish, Swift Swim]
+    egggroups:
+    - [Plant, Water 1]
+    evolvesFrom: [Lombre]
+    height: [1.5]
+    introduction: rs
+    moves:
+    - bw: [Focus Blast, Giga Impact, Hyper Beam, Seismic Toss]
+    - dp: [Focus Blast, Focus Punch, Giga Impact, Hyper Beam, Rock Climb, Seismic
+          Toss]
+    - rs: [Counter, Focus Punch, Hyper Beam, Mega Kick, Mega Punch, Metronome]
+    - xy: [Focus Blast, Focus Punch, Giga Impact, Hyper Beam, Mega Kick, Mega Punch,
+        Metronome, Rock Climb, Seismic Toss]
+    stats:
+    - [80, 70, 70, 90, 100, 70]
+    tags:
+    - [BL]
+    - bw: [NU]
+      dp: [UU]
+    types:
+    - [Grass, Water]
+    weight: [55]

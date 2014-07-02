@@ -1,0 +1,100 @@
+pokemon:
+  Goldeen:
+    abilities:
+    - bw: [Lightningrod, Swift Swim, Water Veil]
+    - rs: [Swift Swim, Water Veil]
+    - []
+    egggroups:
+    - [Water 2]
+    height: [0.6]
+    introduction: rb
+    moves:
+    - gs: [Agility, Attract, Blizzard, Curse, Double Team, Endure, Flail, Frustration,
+        Fury Attack, Haze, Horn Attack, Horn Drill, Hydro Pump, Ice Beam, Icy Wind,
+        Peck, Protect, Psybeam, Rain Dance, Rest, Return, Sleep Talk, Snore, Supersonic,
+        Surf, Swagger, Swift, Tail Whip, Toxic, Waterfall, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - bw: [Agility, Aqua Ring, Aqua Tail, Attract, Blizzard, Body Slam, Bounce, Dive,
+        Double Team, Drill Run, Facade, Flail, Frustration, Fury Attack, Hail, Haze,
+        Horn Attack, Horn Drill, Hydro Pump, Ice Beam, Knock Off, Megahorn, Mud Shot,
+        Mud-Slap, Mud Sport, Peck, Poison Jab, Protect, Psybeam, Rain Dance, Rest,
+        Return, Round, Scald, Signal Beam, Skull Bash, Sleep Talk, Snore, Soak, Substitute,
+        Supersonic, Surf, Swagger, Tail Whip, Toxic, Water Pulse, Water Sport, Waterfall,
+        Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - dp: [Agility, Aqua Ring, Aqua Tail, Attract, Blizzard, Body Slam, Bounce, Captivate,
+        Dive, Double Team, Endure, Facade, Flail, Frustration, Fury Attack, Fury Cutter,
+        Hail, Haze, Horn Attack, Horn Drill, Hydro Pump, Ice Beam, Knock Off, Megahorn,
+        Mud-Slap, Mud Sport, Natural Gift, Peck, Poison Jab, Protect, Psybeam, Rain
+          Dance, Rest, Return, Secret Power, Sleep Talk, Snore, Substitute, Supersonic,
+        Surf, Swagger, Swift, Tail Whip, Toxic, Water Pulse, Water Sport, Waterfall,
+        Whirlpool, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Agility, Attract, Blizzard, Dive, Double Team, Endure, Facade, Flail, Frustration,
+        Fury Attack, Hail, Haze, Horn Attack, Horn Drill, Hydro Pump, Ice Beam, Megahorn,
+        Mud Sport, Peck, Protect, Psybeam, Rain Dance, Rest, Return, Secret Power,
+        Sleep Talk, Snore, Substitute, Supersonic, Surf, Swagger, Swift, Tail Whip,
+        Toxic, Water Pulse, Water Sport, Waterfall, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rb: [Agility, Bide, Blizzard, Bubble Beam, Double-Edge, Double Team, Fury Attack,
+        Horn Attack, Horn Drill, Ice Beam, Mimic, Peck, Rage, Rest, Skull Bash, Substitute,
+        Supersonic, Surf, Swift, Tail Whip, Take Down, Toxic, Water Gun, Waterfall]
+    - xy: [Agility, Aqua Ring, Aqua Tail, Attract, Blizzard, Body Slam, Bounce, Captivate,
+        Dive, Double-Edge, Double Team, Endure, Facade, Flail, Frustration, Fury Attack,
+        Fury Cutter, Hail, Haze, Horn Attack, Horn Drill, Hydro Pump, Ice Beam, Icy
+          Wind, Knock Off, Megahorn, Mimic, Mud Shot, Mud-Slap, Mud Sport, Natural
+          Gift, Peck, Poison Jab, Protect, Psybeam, Rain Dance, Rest, Return, Round,
+        Scald, Secret Power, Signal Beam, Skull Bash, Sleep Talk, Snore, Soak, Substitute,
+        Supersonic, Surf, Swagger, Swift, Tail Whip, Toxic, Waterfall, Water Pulse,
+        Water Sport, Whirlpool, Drill Run, Confide, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [45, 67, 60, 50, 50, 63]
+    - gs: [45, 67, 60, 35, 50, 63]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Water]
+    weight: [15]
+  Seaking:
+    abilities:
+    - bw: [Lightningrod, Swift Swim, Water Veil]
+    - rs: [Swift Swim, Water Veil]
+    - []
+    egggroups:
+    - [Water 2]
+    evolvesFrom: [Goldeen]
+    height: [1.3]
+    introduction: rb
+    moves:
+    - gs: [Hyper Beam]
+    - bw: [Giga Impact, Hyper Beam]
+    - dp: [Giga Impact, Hyper Beam]
+    - rs: [Hyper Beam]
+    - rb: [Hyper Beam]
+    - xy: [Giga Impact, Hyper Beam]
+    stats:
+    - [80, 92, 65, 80, 80, 68]
+    - gs: [80, 92, 65, 65, 80, 68]
+    tags:
+    - [UU]
+    - rs: [NU]
+    types:
+    - [Water]
+    weight: [39]

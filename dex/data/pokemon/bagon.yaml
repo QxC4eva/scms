@@ -1,0 +1,117 @@
+pokemon:
+  Bagon:
+    abilities:
+    - [Rock Head]
+    - bw: [Rock Head, Sheer Force]
+    egggroups:
+    - [Dragon]
+    height: [0.6]
+    introduction: rs
+    moves:
+    - bw: [Aerial Ace, Attract, Bite, Body Slam, Brick Break, Crunch, Cut, Defense
+          Curl, Double-Edge, Double Team, Draco Meteor, Dragon Claw, Dragon Dance,
+        Dragon Pulse, Dragon Rage, Dragon Rush, Dragon Breath, Ember, Endure, Facade,
+        Fire Blast, Fire Fang, Flamethrower, Focus Energy, Frustration, Headbutt,
+        Hone Claws, Hydro Pump, Hyper Voice, Incinerate, Leer, Mimic, Outrage, Protect,
+        Rage, Rain Dance, Rest, Return, Roar, Rock Slide, Rock Smash, Rock Tomb, Round,
+        Scary Face, Shadow Claw, Sleep Talk, Snore, Strength, Substitute, Sunny Day,
+        Swagger, Thrash, Toxic, Twister, Zen Headbutt, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Aerial Ace, Attract, Bite, Brick Break, Captivate, Crunch, Cut, Double-Edge,
+        Double Team, Draco Meteor, Dragon Claw, Dragon Dance, Dragon Pulse, Dragon
+          Rage, Dragon Rush, Dragon Breath, Ember, Endure, Facade, Fire Blast, Fire
+          Fang, Flamethrower, Focus Energy, Frustration, Fury Cutter, Headbutt, Hydro
+          Pump, Leer, Mud-Slap, Natural Gift, Outrage, Protect, Rage, Rain Dance,
+        Rest, Return, Roar, Rock Slide, Rock Smash, Rock Tomb, Scary Face, Secret
+          Power, Shadow Claw, Sleep Talk, Snore, Strength, Substitute, Sunny Day,
+        Swagger, Thrash, Toxic, Twister, Zen Headbutt, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Attract, Bite, Body Slam, Brick Break, Crunch, Cut, Double-Edge,
+        Double Team, Dragon Claw, Dragon Dance, Dragon Rage, Dragon Breath, Ember,
+        Endure, Facade, Fire Blast, Flamethrower, Focus Energy, Frustration, Fury
+          Cutter, Headbutt, Hydro Pump, Leer, Mimic, Mud-Slap, Protect, Rage, Rain
+          Dance, Rest, Return, Roar, Rock Slide, Rock Smash, Rock Tomb, Scary Face,
+        Secret Power, Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger,
+        Thrash, Toxic, Twister, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Aerial Ace, Attract, Bite, Body Slam, Brick Break, Captivate, Crunch, Cut,
+        Defense Curl, Double-Edge, Double Team, Draco Meteor, Dragon Breath, Dragon
+          Claw, Dragon Dance, Dragon Pulse, Dragon Rage, Dragon Rush, Ember, Endure,
+        Facade, Fire Blast, Fire Fang, Flamethrower, Focus Energy, Frustration, Fury
+          Cutter, Headbutt, Hone Claws, Hydro Pump, Incinerate, Iron Defense, Leer,
+        Mimic, Mud-Slap, Natural Gift, Outrage, Protect, Rage, Rain Dance, Rest, Return,
+        Roar, Rock Slide, Rock Smash, Rock Tomb, Round, Scary Face, Secret Power,
+        Shadow Claw, Sleep Talk, Snore, Strength, Substitute, Sunny Day, Swagger,
+        Thrash, Toxic, Twister, Wish, Zen Headbutt, Hyper Voice, Confide, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [45, 75, 60, 40, 30, 50]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Dragon]
+    weight: [42.1]
+  Salamence:
+    abilities:
+    - [Intimidate]
+    - bw: [Intimidate, Moxie]
+    egggroups:
+    - [Dragon]
+    evolvesFrom: [Shelgon]
+    height: [1.5]
+    introduction: rs
+    moves:
+    - bw: [Aqua Tail, Bulldoze, Dragon Tail, Earthquake, Fly, Giga Impact, Heat Wave,
+        Hyper Beam, Iron Tail, Roost, Stone Edge, Tailwind, Thunder Fang]
+    - dp: [Air Cutter, Aqua Tail, Defog, Earthquake, Fly, Giga Impact, Heat Wave,
+        Hyper Beam, Iron Tail, Ominous Wind, Roost, Steel Wing, Stone Edge, Swift,
+        Tailwind, Thunder Fang, Refresh]
+    - rs: [Earthquake, Fly, Hyper Beam, Iron Tail, Steel Wing, Swift, Refresh]
+    - xy: [Air Cutter, Aqua Tail, Bulldoze, Defog, Dragon Tail, Earthquake, Fly, Giga
+          Impact, Heat Wave, Hyper Beam, Iron Tail, Ominous Wind, Refresh, Roost,
+        Steel Wing, Stone Edge, Swift, Tailwind, Thunder Fang]
+    stats:
+    - [95, 135, 80, 110, 80, 100]
+    tags:
+    - [OU]
+    - bw: [OU]
+    - dp: [Uber]
+    types:
+    - [Dragon, Flying]
+    weight: [102.6]
+  Shelgon:
+    abilities:
+    - [Rock Head]
+    - bw: [Overcoat, Rock Head]
+    egggroups:
+    - [Dragon]
+    evolvesFrom: [Bagon]
+    height: [1.1]
+    introduction: rs
+    moves:
+    - bw: [Iron Defense]
+    - dp: [Iron Defense, Rollout, Body Slam, Mimic]
+    - rs: [Defense Curl, Rollout]
+    - xy: [Rollout]
+    stats:
+    - [65, 95, 100, 60, 50, 50]
+    tags:
+    - [NFE]
+    - dp: [NU]
+    types:
+    - [Dragon]
+    weight: [110.5]

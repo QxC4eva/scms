@@ -1,0 +1,56 @@
+pokemon:
+  Amoonguss:
+    abilities:
+    - [Effect Spore, Regenerator]
+    egggroups:
+    - [Plant]
+    evolvesFrom: [Foongus]
+    height: [0.6]
+    introduction: bw
+    moves:
+    - bw: [Giga Impact, Hyper Beam]
+    - xy: [Giga Impact, Hyper Beam]
+    stats:
+    - [114, 85, 70, 85, 80, 30]
+    tags:
+    - [RU]
+    types:
+    - [Grass, Poison]
+    weight: [10.5]
+  Foongus:
+    abilities:
+    - [Effect Spore, Regenerator]
+    egggroups:
+    - [Plant]
+    height: [0.2]
+    introduction: bw
+    moves:
+    - bw: [Absorb, After You, Astonish, Attract, Bide, Body Slam, Clear Smog, Defense
+          Curl, Double Team, Endure, Energy Ball, Facade, Feint Attack, Flash, Foul
+          Play, Frustration, Gastro Acid, Giga Drain, Grass Knot, Growth, Ingrain,
+        Mega Drain, Payback, Poison Powder, Protect, Rage Powder, Rain Dance, Rest,
+        Return, Rollout, Round, Seed Bomb, Sleep Talk, Sludge Bomb, Snore, Solar Beam,
+        Spore, Stun Spore, Substitute, Sunny Day, Swagger, Sweet Scent, Synthesis,
+        Toxic, Venoshock, Worry Seed, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Absorb, Astonish, Attract, Bide, Body Slam, Clear Smog, Defense Curl, Double
+          Team, Endure, Energy Ball, Facade, Feint Attack, Flash, Frustration, Gastro
+          Acid, Giga Drain, Grass Knot, Growth, Ingrain, Mega Drain, Payback, Poison
+          Powder, Protect, Rage Powder, Rain Dance, Rest, Return, Rollout, Round,
+        Sludge Bomb, Solar Beam, Spore, Stun Spore, Substitute, Sunny Day, Swagger,
+        Sweet Scent, Synthesis, Toxic, Venoshock, Seed Bomb, Foul Play, Snore, Worry
+          Seed, After You, Sleep Talk, Nature Power, Confide, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [69, 55, 45, 55, 55, 15]
+    tags:
+    - [LC]
+    types:
+    - [Grass, Poison]
+    weight: [1]

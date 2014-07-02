@@ -1,0 +1,56 @@
+pokemon:
+  Braviary:
+    abilities:
+    - [Defiant, Keen Eye, Sheer Force]
+    egggroups:
+    - [Flying]
+    evolvesFrom: [Rufflet]
+    height: [1.5]
+    introduction: bw
+    moves:
+    - bw: [Giga Impact, Hyper Beam, Sky Attack]
+    - xy: [Giga Impact, Hyper Beam, Sky Attack]
+    stats:
+    - [100, 123, 75, 57, 75, 80]
+    tags:
+    - [NU]
+    types:
+    - [Flying, Normal]
+    weight: [41]
+  Rufflet:
+    abilities:
+    - [Hustle, Keen Eye, Sheer Force]
+    egggroups:
+    - [Flying]
+    height: [0.5]
+    introduction: bw
+    moves:
+    - bw: [Aerial Ace, Air Slash, Attract, Brave Bird, Bulk Up, Crush Claw, Cut, Defog,
+        Double Team, Facade, Fly, Frustration, Fury Attack, Heat Wave, Hone Claws,
+        Leer, Peck, Pluck, Protect, Rain Dance, Rest, Retaliate, Return, Rock Slide,
+        Rock Smash, Rock Tomb, Roost, Round, Scary Face, Shadow Claw, Sky Drop, Slash,
+        Sleep Talk, Snore, Strength, Substitute, Sunny Day, Superpower, Swagger, Tailwind,
+        Thrash, Toxic, U-turn, Whirlwind, Wing Attack, Work Up, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - xy: [Aerial Ace, Air Slash, Attract, Brave Bird, Bulk Up, Crush Claw, Cut, Defog,
+        Double Team, Facade, Fly, Frustration, Fury Attack, Hone Claws, Leer, Peck,
+        Pluck, Protect, Rain Dance, Rest, Retaliate, Return, Rock Slide, Rock Smash,
+        Rock Tomb, Round, Scary Face, Shadow Claw, Sky Drop, Slash, Strength, Substitute,
+        Sunny Day, Swagger, Tailwind, Thrash, Toxic, U-turn, Whirlwind, Wing Attack,
+        Work Up, Superpower, Snore, Heat Wave, Roost, Sleep Talk, Steel Wing, Confide,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [70, 83, 50, 37, 50, 60]
+    tags:
+    - [LC]
+    types:
+    - [Flying, Normal]
+    weight: [10.5]

@@ -1,0 +1,63 @@
+pokemon:
+  Bisharp:
+    abilities:
+    - [Defiant, Inner Focus, Pressure]
+    egggroups:
+    - [Humanshape]
+    evolvesFrom: [Pawniard]
+    height: [1.6]
+    introduction: bw
+    moves:
+    - bw: [Focus Blast, Giga Impact, Hyper Beam, Metal Burst, Stone Edge]
+    - xy: [Focus Blast, Giga Impact, Hyper Beam, Metal Burst, Stone Edge]
+    stats:
+    - [65, 125, 100, 60, 70, 70]
+    tags:
+    - [UU]
+    types:
+    - [Dark, Steel]
+    weight: [70]
+  Pawniard:
+    abilities:
+    - [Defiant, Inner Focus, Pressure]
+    egggroups:
+    - [Humanshape]
+    height: [0.5]
+    introduction: bw
+    moves:
+    - bw: [Aerial Ace, Assurance, Attract, Brick Break, Cut, Dark Pulse, Dig, Double
+          Team, Dual Chop, Embargo, Facade, Feint Attack, False Swipe, Fling, Foul
+          Play, Frustration, Fury Cutter, Grass Knot, Guillotine, Headbutt, Hone Claws,
+        Iron Defense, Iron Head, Knock Off, Leer, Low Kick, Low Sweep, Magnet Rise,
+        Mean Look, Metal Claw, Metal Sound, Night Slash, Payback, Poison Jab, Protect,
+        Psycho Cut, Pursuit, Rain Dance, Rest, Retaliate, Return, Revenge, Rock Polish,
+        Rock Smash, Rock Tomb, Role Play, Round, Sandstorm, Scary Face, Scratch, Shadow
+          Claw, Slash, Sleep Talk, Snarl, Snatch, Snore, Spite, Stealth Rock, Substitute,
+        Sucker Punch, Swagger, Swords Dance, Taunt, Thief, Thunder Wave, Torment,
+        Toxic, X-Scissor, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - xy: [Aerial Ace, Assurance, Attract, Brick Break, Cut, Dig, Double Team, Embargo,
+        Facade, Feint Attack, False Swipe, Fling, Frustration, Fury Cutter, Grass
+          Knot, Guillotine, Headbutt, Hone Claws, Iron Defense, Iron Head, Leer, Low
+          Sweep, Mean Look, Metal Claw, Metal Sound, Night Slash, Payback, Poison
+          Jab, Protect, Psycho Cut, Pursuit, Rain Dance, Rest, Retaliate, Return,
+        Revenge, Rock Polish, Rock Smash, Rock Tomb, Round, Sandstorm, Scary Face,
+        Scratch, Shadow Claw, Slash, Snarl, Stealth Rock, Substitute, Sucker Punch,
+        Swagger, Swords Dance, Taunt, Thief, Thunder Wave, Torment, Toxic, X-Scissor,
+        Dual Chop, Low Kick, Foul Play, Magnet Rise, Dark Pulse, Snore, Knock Off,
+        Role Play, Spite, Snatch, Sleep Talk, Power-Up Punch, Confide, Quick Guard,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [45, 85, 70, 40, 40, 60]
+    tags:
+    - [LC]
+    types:
+    - [Dark, Steel]
+    weight: [10.2]

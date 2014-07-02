@@ -1,0 +1,92 @@
+pokemon:
+  Cradily:
+    abilities:
+    - [Suction Cups]
+    - bw: [Storm Drain, Suction Cups]
+    egggroups:
+    - [Water 3]
+    evolvesFrom: [Lileep]
+    height: [1.5]
+    introduction: rs
+    moves:
+    - bw: [Block, Bulldoze, Earthquake, Giga Impact, Hyper Beam, Rock Smash, Sludge
+          Wave, Stone Edge, Strength]
+    - dp: [Block, Earthquake, Giga Impact, Headbutt, Hyper Beam, Rock Smash, Stone
+          Edge, Strength]
+    - rs: [Earthquake, Hyper Beam, Rock Smash, Rock Tomb, Strength]
+    - xy: [Block, Bulldoze, Earthquake, Giga Impact, Hyper Beam, Rock Smash, Sludge
+          Wave, Stone Edge, Strength]
+    stats:
+    - [86, 81, 97, 81, 107, 43]
+    tags:
+    - [UU]
+    - dp: [NU]
+    types:
+    - [Grass, Rock]
+    weight: [60.4]
+  Lileep:
+    abilities:
+    - [Suction Cups]
+    - bw: [Storm Drain, Suction Cups]
+    egggroups:
+    - [Water 3]
+    height: [1]
+    introduction: rs
+    moves:
+    - bw: [Acid, Amnesia, Ancient Power, Astonish, Attract, Barrier, Bind, Confuse
+          Ray, Constrict, Curse, Double Team, Earth Power, Endure, Energy Ball, Facade,
+        Flash, Frustration, Gastro Acid, Giga Drain, Grass Knot, Ingrain, Mega Drain,
+        Mirror Coat, Pain Split, Protect, Recover, Rest, Return, Rock Polish, Rock
+          Slide, Rock Tomb, Round, Sandstorm, Seed Bomb, Sleep Talk, Sludge Bomb,
+        Smack Down, Snore, Solar Beam, Spit Up, Stealth Rock, Stockpile, Substitute,
+        Sunny Day, Swagger, Swallow, Swords Dance, Synthesis, Tickle, Toxic, Worry
+          Seed, Wring Out, Body Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Acid, Amnesia, Ancient Power, Astonish, Attract, Barrier, Bullet Seed,
+        Captivate, Confuse Ray, Constrict, Curse, Double Team, Earth Power, Endure,
+        Energy Ball, Facade, Flash, Frustration, Gastro Acid, Giga Drain, Grass Knot,
+        Ingrain, Mirror Coat, Mud-Slap, Natural Gift, Pain Split, Protect, Recover,
+        Rest, Return, Rock Polish, Rock Slide, Rock Tomb, Sandstorm, Secret Power,
+        Seed Bomb, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Spit Up, Stealth Rock,
+        Stockpile, String Shot, Substitute, Sunny Day, Swagger, Swallow, Swords Dance,
+        Synthesis, Tickle, Toxic, Worry Seed, Wring Out, Body Slam, Double-Edge, Mimic,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - rs: [Acid, Amnesia, Ancient Power, Astonish, Attract, Barrier, Bullet Seed,
+        Confuse Ray, Constrict, Double Team, Endure, Facade, Frustration, Giga Drain,
+        Ingrain, Mirror Coat, Mud-Slap, Protect, Psych Up, Recover, Rest, Return,
+        Rock Slide, Sandstorm, Secret Power, Sleep Talk, Sludge Bomb, Snore, Solar
+          Beam, Spit Up, Stockpile, Substitute, Sunny Day, Swagger, Swallow, Toxic,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - xy: [Acid, Amnesia, Ancient Power, Astonish, Attract, Barrier, Body Slam, Bullet
+          Seed, Captivate, Confuse Ray, Constrict, Curse, Double-Edge, Double Team,
+        Earth Power, Endure, Energy Ball, Facade, Flash, Frustration, Gastro Acid,
+        Giga Drain, Grass Knot, Headbutt, Ingrain, Mega Drain, Mimic, Mirror Coat,
+        Mud-Slap, Natural Gift, Pain Split, Protect, Psych Up, Recover, Rest, Return,
+        Rock Polish, Rock Slide, Rock Tomb, Round, Sandstorm, Secret Power, Seed Bomb,
+        Sleep Talk, Sludge Bomb, Smack Down, Snore, Solar Beam, Spit Up, Stealth Rock,
+        Stockpile, String Shot, Substitute, Sunny Day, Swagger, Swallow, Swords Dance,
+        Synthesis, Tickle, Toxic, Worry Seed, Wring Out, Bind, Infestation, Confide,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [66, 41, 77, 61, 87, 23]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Grass, Rock]
+    weight: [23.8]

@@ -1,0 +1,59 @@
+pokemon:
+  Lilligant:
+    abilities:
+    - [Chlorophyll, Leaf Guard, Own Tempo]
+    egggroups:
+    - [Plant]
+    evolvesFrom: [Petilil]
+    height: [1.1]
+    introduction: bw
+    moves:
+    - bw: [Giga Impact, Hyper Beam, Light Screen, Petal Dance, Quiver Dance, Role
+          Play, Swords Dance, Teeter Dance]
+    - xy: [Giga Impact, Hyper Beam, Light Screen, Petal Dance, Quiver Dance, Swords
+          Dance, Teeter Dance, Role Play, Petal Blizzard]
+    stats:
+    - [70, 60, 75, 110, 75, 90]
+    tags:
+    - [RU]
+    types:
+    - [Grass]
+    weight: [16.3]
+  Petilil:
+    abilities:
+    - [Chlorophyll, Leaf Guard, Own Tempo]
+    egggroups:
+    - [Plant]
+    height: [0.5]
+    introduction: bw
+    moves:
+    - bw: [Absorb, After You, Aromatherapy, Attract, Bide, Charm, Covet, Cut, Double
+          Team, Dream Eater, Endure, Energy Ball, Entrainment, Facade, Flash, Frustration,
+        Giga Drain, Grass Knot, Grass Whistle, Growth, Heal Bell, Healing Wish, Helping
+          Hand, Ingrain, Leaf Storm, Leech Seed, Magical Leaf, Mega Drain, Natural
+          Gift, Protect, Rest, Return, Round, Safeguard, Seed Bomb, Sleep Powder,
+        Sleep Talk, Snore, Solar Beam, Stun Spore, Substitute, Sunny Day, Swagger,
+        Sweet Scent, Synthesis, Toxic, Worry Seed, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Absorb, After You, Aromatherapy, Attract, Bide, Charm, Cut, Double Team,
+        Dream Eater, Endure, Energy Ball, Entrainment, Facade, Flash, Frustration,
+        Giga Drain, Grass Knot, Grass Whistle, Growth, Healing Wish, Helping Hand,
+        Ingrain, Leaf Storm, Leech Seed, Magical Leaf, Mega Drain, Natural Gift, Protect,
+        Rest, Return, Round, Safeguard, Sleep Powder, Solar Beam, Stun Spore, Substitute,
+        Sunny Day, Swagger, Sweet Scent, Synthesis, Toxic, Worry Seed, Covet, Seed
+          Bomb, Snore, Heal Bell, Sleep Talk, Nature Power, Confide, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [45, 35, 50, 70, 50, 30]
+    tags:
+    - [LC]
+    types:
+    - [Grass]
+    weight: [6.6]

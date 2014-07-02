@@ -1,0 +1,69 @@
+pokemon:
+  Seviper:
+    abilities:
+    - [Shed Skin]
+    - bw: [Infiltrator, Shed Skin]
+    egggroups:
+    - [Dragon, Ground]
+    height: [2.7]
+    introduction: rs
+    moves:
+    - bw: [Aqua Tail, Assurance, Attract, Bind, Bite, Body Slam, Bulldoze, Coil, Crunch,
+        Dark Pulse, Dig, Double Team, Dragon Tail, Earthquake, Facade, Final Gambit,
+        Flamethrower, Frustration, Gastro Acid, Giga Drain, Glare, Haze, Iron Tail,
+        Knock Off, Lick, Night Slash, Payback, Poison Fang, Poison Jab, Poison Tail,
+        Protect, Punishment, Rain Dance, Rest, Retaliate, Return, Rock Smash, Round,
+        Scary Face, Screech, Sleep Talk, Sludge Bomb, Sludge Wave, Snatch, Snore,
+        Spit Up, Stockpile, Strength, Substitute, Sunny Day, Swagger, Swallow, Switcheroo,
+        Taunt, Thief, Toxic, Venoshock, Wrap, Wring Out, X-Scissor, Double-Edge, Mimic,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - dp: [Aqua Tail, Assurance, Attract, Bite, Body Slam, Captivate, Crunch, Dark
+          Pulse, Dig, Double Team, Earthquake, Endure, Facade, Flamethrower, Frustration,
+        Fury Cutter, Giga Drain, Glare, Haze, Headbutt, Iron Tail, Knock Off, Lick,
+        Mud-Slap, Natural Gift, Night Slash, Payback, Poison Fang, Poison Jab, Poison
+          Tail, Protect, Rain Dance, Rest, Return, Rock Smash, Scary Face, Screech,
+        Secret Power, Sleep Talk, Sludge Bomb, Snatch, Snore, Spit Up, Stockpile,
+        Strength, Substitute, Sucker Punch, Sunny Day, Swagger, Swallow, Swift, Switcheroo,
+        Taunt, Thief, Toxic, Wrap, Wring Out, X-Scissor, Double-Edge, Mimic, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - rs: [Attract, Bite, Body Slam, Crunch, Dig, Double Team, Earthquake, Endure,
+        Facade, Flamethrower, Frustration, Fury Cutter, Giga Drain, Glare, Haze, Iron
+          Tail, Lick, Mud-Slap, Poison Fang, Poison Tail, Protect, Rain Dance, Rest,
+        Return, Rock Smash, Screech, Secret Power, Sleep Talk, Sludge Bomb, Snatch,
+        Snore, Spit Up, Stockpile, Strength, Substitute, Sunny Day, Swagger, Swallow,
+        Swift, Taunt, Thief, Toxic, Wrap, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Aqua Tail, Assurance, Attract, Bite, Body Slam, Bulldoze, Captivate, Coil,
+        Crunch, Dark Pulse, Dig, Double-Edge, Double Team, Dragon Tail, Earthquake,
+        Endure, Facade, Final Gambit, Flamethrower, Frustration, Fury Cutter, Gastro
+          Acid, Giga Drain, Glare, Haze, Headbutt, Iron Tail, Knock Off, Lick, Mimic,
+        Mud-Slap, Natural Gift, Night Slash, Payback, Poison Fang, Poison Jab, Poison
+          Tail, Protect, Punishment, Rain Dance, Rest, Retaliate, Return, Rock Smash,
+        Round, Scary Face, Screech, Secret Power, Sleep Talk, Sludge Bomb, Sludge
+          Wave, Snatch, Snore, Spit Up, Stockpile, Strength, Substitute, Sucker Punch,
+        Sunny Day, Swagger, Swallow, Swift, Switcheroo, Taunt, Thief, Toxic, Venoshock,
+        Wrap, Wring Out, X-Scissor, Bind, Venom Drench, Belch, Infestation, Confide,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [73, 100, 60, 100, 60, 65]
+    tags:
+    - [UU]
+    - dp: [NU]
+    types:
+    - [Poison]
+    weight: [52.5]

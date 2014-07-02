@@ -1,0 +1,86 @@
+pokemon:
+  Croagunk:
+    abilities:
+    - [Anticipation, Dry Skin]
+    - bw: [Anticipation, Dry Skin, Poison Touch]
+    egggroups:
+    - [Humanshape]
+    height: [0.7]
+    introduction: dp
+    moves:
+    - bw: [Acupressure, Astonish, Attract, Bounce, Brick Break, Bulk Up, Bulldoze,
+        Bullet Punch, Counter, Cross Chop, Dark Pulse, Dig, Double Team, Drain Punch,
+        Dual Chop, Dynamic Punch, Earthquake, Embargo, Facade, Feint Attack, Fake
+          Out, Feint, Flatter, Fling, Focus Blast, Foul Play, Frustration, Gunk Shot,
+        Headbutt, Helping Hand, Ice Punch, Icy Wind, Knock Off, Low Kick, Low Sweep,
+        Me First, Meditate, Mud Bomb, Mud-Slap, Nasty Plot, Payback, Poison Jab, Poison
+          Sting, Protect, Pursuit, Rain Dance, Rest, Retaliate, Return, Revenge, Rock
+          Slide, Rock Smash, Rock Tomb, Role Play, Round, Shadow Ball, Sleep Talk,
+        Sludge Bomb, Sludge Wave, Smelling Salts, Snatch, Snore, Spite, Strength,
+        Substitute, Sucker Punch, Sunny Day, Super Fang, Swagger, Taunt, Thief, Thunder
+          Punch, Torment, Toxic, Vacuum Wave, Venoshock, Wake-Up Slap, Work Up, X-Scissor,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - dp: [Astonish, Attract, Bounce, Brick Break, Bulk Up, Bullet Punch, Captivate,
+        Counter, Cross Chop, Dark Pulse, Dig, Double Team, Dynamic Punch, Earthquake,
+        Embargo, Endure, Facade, Feint Attack, Fake Out, Feint, Flatter, Fling, Focus
+          Blast, Focus Punch, Frustration, Fury Cutter, Gunk Shot, Headbutt, Helping
+          Hand, Ice Punch, Icy Wind, Knock Off, Low Kick, Me First, Meditate, Mud
+          Bomb, Mud-Slap, Nasty Plot, Natural Gift, Payback, Poison Jab, Poison Sting,
+        Protect, Pursuit, Rain Dance, Rest, Return, Revenge, Rock Climb, Rock Slide,
+        Rock Smash, Rock Tomb, Role Play, Secret Power, Shadow Ball, Sleep Talk, Sludge
+          Bomb, Smelling Salts, Snatch, Snore, Spite, Strength, Substitute, Sucker
+          Punch, Sunny Day, Super Fang, Swagger, Taunt, Thief, Thunder Punch, Torment,
+        Toxic, Vacuum Wave, Wake-Up Slap, X-Scissor, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Acupressure, Astonish, Attract, Bounce, Brick Break, Bulk Up, Bulldoze,
+        Bullet Punch, Captivate, Counter, Cross Chop, Dark Pulse, Dig, Double Team,
+        Drain Punch, Dynamic Punch, Earthquake, Embargo, Endure, Facade, Feint Attack,
+        Fake Out, Feint, Flatter, Fling, Focus Blast, Focus Punch, Frustration, Fury
+          Cutter, Gunk Shot, Headbutt, Ice Punch, Icy Wind, Knock Off, Low Kick, Low
+          Sweep, Meditate, Me First, Mud Bomb, Mud-Slap, Nasty Plot, Natural Gift,
+        Payback, Poison Jab, Poison Sting, Protect, Pursuit, Rain Dance, Rest, Retaliate,
+        Return, Revenge, Rock Climb, Rock Slide, Rock Smash, Rock Tomb, Role Play,
+        Round, Secret Power, Shadow Ball, Sleep Talk, Sludge Bomb, Sludge Wave, Smelling
+          Salts, Snatch, Snore, Spite, Strength, Substitute, Sucker Punch, Sunny Day,
+        Super Fang, Swagger, Taunt, Thief, Thunder Punch, Torment, Toxic, Vacuum Wave,
+        Venoshock, Wake-Up Slap, Work Up, X-Scissor, Dual Chop, Foul Play, Helping
+          Hand, Belch, Power-Up Punch, Confide, Quick Guard, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [48, 61, 40, 61, 40, 50]
+    tags:
+    - [LC]
+    types:
+    - [Fighting, Poison]
+    weight: [23]
+  Toxicroak:
+    abilities:
+    - [Anticipation, Dry Skin]
+    - bw: [Anticipation, Dry Skin, Poison Touch]
+    egggroups:
+    - [Humanshape]
+    evolvesFrom: [Croagunk]
+    height: [1.3]
+    introduction: dp
+    moves:
+    - bw: [Cut, Giga Impact, Hyper Beam, Stone Edge, Swords Dance]
+    - dp: [Cut, Giga Impact, Hyper Beam, Stone Edge, Swords Dance]
+    - xy: [Cut, Giga Impact, Hyper Beam, Stone Edge, Swords Dance]
+    stats:
+    - [83, 106, 65, 86, 65, 85]
+    tags:
+    - [UU]
+    - bw: [OU]
+    types:
+    - [Fighting, Poison]
+    weight: [44.4]

@@ -1,0 +1,86 @@
+pokemon:
+  Emboar:
+    abilities:
+    - [Blaze, Reckless]
+    egggroups:
+    - [Ground]
+    evolvesFrom: [Pignite]
+    height: [1.6]
+    introduction: bw
+    moves:
+    - bw: [Blast Burn, Block, Bulk Up, Earthquake, Giga Impact, Hammer Arm, Hyper
+          Beam, Iron Head, Scald, Smack Down]
+    - xy: [Blast Burn, Bulk Up, Earthquake, Giga Impact, Hammer Arm, Hyper Beam, Scald,
+        Smack Down, Iron Head, Block]
+    - []
+    stats:
+    - [110, 123, 65, 100, 65, 65]
+    tags:
+    - [RU]
+    types:
+    - [Fighting, Fire]
+    weight: [150]
+  Pignite:
+    abilities:
+    - [Blaze, Thick Fat]
+    egggroups:
+    - [Ground]
+    evolvesFrom: [Tepig]
+    height: [1]
+    introduction: bw
+    moves:
+    - bw: [Arm Thrust, Brick Break, Bulldoze, Fire Punch, Fling, Focus Blast, Low
+          Kick, Low Sweep, Poison Jab, Rock Slide, Stone Edge, Thunder Punch, Work
+          Up]
+    - xy: [Arm Thrust, Brick Break, Bulldoze, Fling, Focus Blast, Low Sweep, Poison
+          Jab, Rock Slide, Stone Edge, Work Up, Low Kick, Thunder Punch, Fire Punch,
+        Power-Up Punch]
+    - []
+    stats:
+    - [90, 93, 55, 70, 55, 55]
+    tags:
+    - [NFE]
+    types:
+    - [Fighting, Fire]
+    weight: [55.5]
+  Tepig:
+    abilities:
+    - [Blaze, Thick Fat]
+    egggroups:
+    - [Ground]
+    height: [0.5]
+    introduction: bw
+    moves:
+    - bw: [Assurance, Attract, Body Slam, Covet, Curse, Defense Curl, Double Team,
+        Echoed Voice, Ember, Endeavor, Facade, Fire Blast, Fire Pledge, Flame Charge,
+        Flamethrower, Flare Blitz, Frustration, Grass Knot, Gyro Ball, Head Smash,
+        Heat Crash, Heat Wave, Heavy Slam, Helping Hand, Incinerate, Iron Tail, Magnitude,
+        Odor Sleuth, Overheat, Protect, Rest, Return, Roar, Rock Smash, Rock Tomb,
+        Rollout, Round, Sleep Talk, Smog, Snore, Solar Beam, Strength, Substitute,
+        Sunny Day, Superpower, Swagger, Tackle, Tail Whip, Take Down, Taunt, Thrash,
+        Toxic, Wild Charge, Will-O-Wisp, Yawn, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Assurance, Attract, Body Slam, Covet, Curse, Defense Curl, Double Team,
+        Echoed Voice, Ember, Endeavor, Facade, Fire Blast, Fire Pledge, Flame Charge,
+        Flamethrower, Flare Blitz, Frustration, Grass Knot, Gyro Ball, Head Smash,
+        Heat Crash, Heavy Slam, Incinerate, Magnitude, Odor Sleuth, Overheat, Protect,
+        Rest, Return, Roar, Rock Smash, Rock Tomb, Rollout, Round, Sleep Talk, Smog,
+        Solar Beam, Strength, Substitute, Sunny Day, Superpower, Swagger, Tackle,
+        Tail Whip, Take Down, Taunt, Thrash, Toxic, Wild Charge, Will-O-Wisp, Yawn,
+        Iron Tail, Snore, Heat Wave, Helping Hand, Dig, Confide, Sucker Punch, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - []
+    stats:
+    - [65, 63, 45, 45, 45, 45]
+    tags:
+    - [LC]
+    types:
+    - [Fire]
+    weight: [9.9]

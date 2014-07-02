@@ -1,0 +1,78 @@
+pokemon:
+  Conkeldurr:
+    abilities:
+    - [Guts, Iron Fist, Sheer Force]
+    egggroups:
+    - [Humanshape]
+    evolvesFrom: [Gurdurr]
+    height: [1.4]
+    introduction: bw
+    moves:
+    - bw: [Bulldoze, Earthquake, Giga Impact, Hyper Beam]
+    - xy: [Bulldoze, Earthquake, Giga Impact, Hyper Beam]
+    stats:
+    - [105, 140, 95, 55, 65, 45]
+    tags:
+    - [OU]
+    types:
+    - [Fighting]
+    weight: [87]
+  Gurdurr:
+    abilities:
+    - [Guts, Iron Fist, Sheer Force]
+    egggroups:
+    - [Humanshape]
+    evolvesFrom: [Timburr]
+    height: [1.2]
+    introduction: bw
+    moves:
+    - []
+    stats:
+    - [85, 105, 85, 40, 50, 40]
+    tags:
+    - [NU]
+    types:
+    - [Fighting]
+    weight: [40]
+  Timburr:
+    abilities:
+    - [Guts, Iron Fist, Sheer Force]
+    egggroups:
+    - [Humanshape]
+    height: [0.6]
+    introduction: bw
+    moves:
+    - bw: [Attract, Bide, Block, Brick Break, Bulk Up, Chip Away, Comet Punch, Counter,
+        Detect, Dig, Double Team, Drain Punch, Dynamic Punch, Endure, Facade, Fire
+          Punch, Fling, Focus Blast, Focus Energy, Focus Punch, Force Palm, Foresight,
+        Frustration, Grass Knot, Hammer Arm, Helping Hand, Ice Punch, Knock Off, Leer,
+        Low Kick, Low Sweep, Mach Punch, Payback, Poison Jab, Pound, Protect, Rain
+          Dance, Rest, Retaliate, Return, Reversal, Rock Slide, Rock Smash, Rock Throw,
+        Rock Tomb, Round, Scary Face, Sleep Talk, Smack Down, Smelling Salts, Snore,
+        Stone Edge, Strength, Substitute, Sunny Day, Superpower, Swagger, Taunt, Thunder
+          Punch, Toxic, Wake-Up Slap, Wide Guard, Work Up, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Attract, Bide, Brick Break, Bulk Up, Chip Away, Comet Punch, Counter, Detect,
+        Dig, Double Team, Drain Punch, Dynamic Punch, Endure, Facade, Fling, Focus
+          Blast, Focus Energy, Focus Punch, Force Palm, Foresight, Frustration, Grass
+          Knot, Hammer Arm, Leer, Low Kick, Low Sweep, Mach Punch, Payback, Poison
+          Jab, Pound, Protect, Rain Dance, Rest, Retaliate, Return, Reversal, Rock
+          Slide, Rock Smash, Rock Throw, Rock Tomb, Round, Scary Face, Smack Down,
+        Smelling Salts, Stone Edge, Strength, Substitute, Sunny Day, Superpower, Swagger,
+        Taunt, Toxic, Wake-Up Slap, Wide Guard, Work Up, Thunder Punch, Fire Punch,
+        Ice Punch, Block, Snore, Knock Off, Helping Hand, Sleep Talk, Power-Up Punch,
+        Confide, Cross Chop, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [75, 80, 55, 25, 35, 35]
+    tags:
+    - [LC]
+    types:
+    - [Fighting]
+    weight: [12.5]

@@ -1,0 +1,81 @@
+pokemon:
+  Herdier:
+    abilities:
+    - [Intimidate, Scrappy]
+    - bw: [Intimidate, Sand Rush, Scrappy]
+    egggroups:
+    - [Ground]
+    evolvesFrom: [Lillipup]
+    height: [0.9]
+    introduction: dp
+    moves:
+    - bw: [Payback, Strength, Surf]
+    - xy: [Payback, Strength, Surf]
+    - []
+    stats:
+    - [65, 80, 65, 35, 65, 60]
+    tags:
+    - [NFE]
+    types:
+    - [Normal]
+    weight: [14.7]
+  Lillipup:
+    abilities:
+    - [Pickup, Run Away, Vital Spirit]
+    egggroups:
+    - [Ground]
+    height: [0.4]
+    introduction: dp
+    moves:
+    - bw: [Aerial Ace, Attract, Bite, Charm, Covet, Crunch, Dig, Double Team, Endure,
+        Facade, Fire Fang, Frustration, Giga Impact, Helping Hand, Howl, Hyper Voice,
+        Ice Fang, Last Resort, Leer, Lick, Mud-Slap, Odor Sleuth, Protect, Pursuit,
+        Rain Dance, Rest, Retaliate, Return, Reversal, Roar, Rock Smash, Rock Tomb,
+        Round, Sand Attack, Shadow Ball, Sleep Talk, Snarl, Snore, Substitute, Sunny
+          Day, Swagger, Tackle, Take Down, Thunder Fang, Thunder Wave, Thunderbolt,
+        Toxic, Uproar, Wild Charge, Work Up, Yawn, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Aerial Ace, Attract, Bite, Charm, Crunch, Dig, Double Team, Endure, Facade,
+        Fire Fang, Frustration, Giga Impact, Helping Hand, Howl, Ice Fang, Last Resort,
+        Leer, Lick, Mud-Slap, Odor Sleuth, Protect, Pursuit, Rain Dance, Rest, Retaliate,
+        Return, Reversal, Roar, Rock Smash, Rock Tomb, Round, Sand Attack, Shadow
+          Ball, Snarl, Substitute, Sunny Day, Swagger, Tackle, Take Down, Thunderbolt,
+        Thunder Fang, Thunder Wave, Toxic, Wild Charge, Work Up, Yawn, Covet, Uproar,
+        Hyper Voice, Snore, Sleep Talk, Baby-Doll Eyes, Play Rough, Confide, After
+          You, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - []
+    stats:
+    - [45, 60, 45, 25, 45, 55]
+    tags:
+    - [LC]
+    types:
+    - [Normal]
+    weight: [4.1]
+  Stoutland:
+    abilities:
+    - [Intimidate, Scrappy]
+    - bw: [Intimidate, Sand Rush, Scrappy]
+    egggroups:
+    - [Ground]
+    evolvesFrom: [Herdier]
+    height: [1.2]
+    introduction: dp
+    moves:
+    - bw: [Hyper Beam, Iron Head, Superpower, Thunder]
+    - xy: [Hyper Beam, Thunder, Iron Head, Superpower]
+    - []
+    stats:
+    - [85, 100, 90, 45, 90, 80]
+    - xy: [85, 110, 90, 45, 90, 80]
+    tags:
+    - [NU]
+    types:
+    - [Normal]
+    weight: [61]

@@ -1,0 +1,45 @@
+pokemon:
+  Avalugg:
+    abilities:
+    - [Own Tempo, Ice Body, Sturdy]
+    egggroups:
+    - [Monster]
+    evolvesFrom: [Bergmite]
+    height: [2]
+    introduction: xy
+    moves:
+    - xy: [Iron Defense, Crunch, Skull Bash, Roar, Hyper Beam, Earthquake, Giga Impact,
+        Bulldoze]
+    stats:
+    - [95, 117, 184, 44, 46, 28]
+    tags:
+    - []
+    types:
+    - [Ice]
+    weight: [505]
+  Bergmite:
+    abilities:
+    - [Own Tempo, Ice Body, Sturdy]
+    egggroups:
+    - [Monster]
+    height: [1]
+    introduction: xy
+    moves:
+    - xy: [Tackle, Bite, Harden, Powder Snow, Icy Wind, Take Down, Sharpen, Curse,
+        Ice Fang, Ice Ball, Rapid Spin, Avalanche, Blizzard, Recover, Double-Edge,
+        Toxic, Hail, Ice Beam, Protect, Rain Dance, Safeguard, Frustration, Return,
+        Double Team, Rock Tomb, Facade, Rest, Attract, Round, Rock Polish, Flash,
+        Stone Edge, Gyro Ball, Frost Breath, Rock Slide, Swagger, Sleep Talk, Substitute,
+        Flash Cannon, Rock Smash, Confide, Surf, Strength, Mist, Mirror Coat, Barrier,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [56, 69, 86, 32, 36, 28]
+    tags:
+    - []
+    types:
+    - [Ice]
+    weight: [99.5]

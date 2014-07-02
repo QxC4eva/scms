@@ -1,0 +1,61 @@
+pokemon:
+  Ferroseed:
+    abilities:
+    - [Iron Barbs]
+    egggroups:
+    - [Mineral, Plant]
+    height: [0.6]
+    introduction: bw
+    moves:
+    - bw: [Bullet Seed, Curse, Double Team, Endeavor, Energy Ball, Explosion, Facade,
+        Flash, Flash Cannon, Frustration, Giga Drain, Gravity, Gyro Ball, Harden,
+        Hone Claws, Ingrain, Iron Defense, Iron Head, Leech Seed, Magnet Rise, Metal
+          Claw, Mirror Shot, Payback, Pin Missile, Poison Jab, Protect, Rest, Return,
+        Rock Climb, Rock Polish, Rock Smash, Rollout, Round, Seed Bomb, Self-Destruct,
+        Sleep Talk, Snore, Solar Beam, Spikes, Stealth Rock, Substitute, Sunny Day,
+        Swagger, Tackle, Thunder Wave, Thunderbolt, Toxic, Worry Seed, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - xy: [Bullet Seed, Curse, Double Team, Energy Ball, Explosion, Facade, Flash,
+        Flash Cannon, Frustration, Gravity, Gyro Ball, Harden, Hone Claws, Ingrain,
+        Iron Defense, Iron Head, Leech Seed, Metal Claw, Mirror Shot, Payback, Pin
+          Missile, Poison Jab, Protect, Rest, Return, Rock Climb, Rock Polish, Rock
+          Smash, Rollout, Round, Seed Bomb, Self-Destruct, Solar Beam, Spikes, Stealth
+          Rock, Substitute, Sunny Day, Swagger, Tackle, Thunderbolt, Thunder Wave,
+        Toxic, Worry Seed, Magnet Rise, Snore, Giga Drain, Endeavor, Sleep Talk, Nature
+          Power, Confide, Acid Spray, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [44, 50, 91, 24, 86, 10]
+    tags:
+    - [RU]
+    types:
+    - [Grass, Steel]
+    weight: [18.8]
+  Ferrothorn:
+    abilities:
+    - [Iron Barbs]
+    - xy: [Iron Barbs, Anticipation]
+    egggroups:
+    - [Mineral, Plant]
+    evolvesFrom: [Ferroseed]
+    height: [1]
+    introduction: bw
+    moves:
+    - bw: [Aerial Ace, Bulldoze, Cut, Giga Impact, Grass Knot, Hyper Beam, Knock Off,
+        Power Whip, Sandstorm, Shadow Claw, Strength, Swords Dance, Thunder]
+    - xy: [Aerial Ace, Bulldoze, Cut, Giga Impact, Grass Knot, Hyper Beam, Power Whip,
+        Sandstorm, Shadow Claw, Strength, Swords Dance, Thunder, Knock Off]
+    stats:
+    - [74, 94, 131, 54, 116, 20]
+    tags:
+    - [OU]
+    types:
+    - [Grass, Steel]
+    weight: [110]

@@ -1,0 +1,82 @@
+pokemon:
+  Duosion:
+    abilities:
+    - [Magic Guard, Overcoat, Regenerator]
+    egggroups:
+    - [Indeterminate]
+    evolvesFrom: [Solosis]
+    height: [0.6]
+    introduction: bw
+    moves:
+    - []
+    stats:
+    - [65, 40, 50, 125, 60, 30]
+    tags:
+    - [NU]
+    types:
+    - [Psychic]
+    weight: [8]
+  Reuniclus:
+    abilities:
+    - [Magic Guard, Overcoat, Regenerator]
+    egggroups:
+    - [Indeterminate]
+    evolvesFrom: [Duosion]
+    height: [1]
+    introduction: bw
+    moves:
+    - bw: [Dizzy Punch, Drain Punch, Fire Punch, Fling, Focus Blast, Giga Impact,
+        Grass Knot, Helping Hand, Hyper Beam, Ice Punch, Knock Off, Rock Smash, Strength,
+        Superpower, Thunder Punch]
+    - xy: [Dizzy Punch, Fling, Focus Blast, Giga Impact, Grass Knot, Hyper Beam, Rock
+          Smash, Strength, Thunder Punch, Fire Punch, Ice Punch, Superpower, Knock
+          Off, Drain Punch, Power-Up Punch]
+    stats:
+    - [110, 65, 75, 125, 85, 30]
+    tags:
+    - [OU]
+    types:
+    - [Psychic]
+    weight: [20.1]
+  Solosis:
+    abilities:
+    - [Magic Guard, Overcoat, Regenerator]
+    egggroups:
+    - [Indeterminate]
+    height: [0.3]
+    introduction: bw
+    moves:
+    - bw: [Acid Armor, After You, Astonish, Attract, Calm Mind, Charm, Confuse Ray,
+        Double Team, Dream Eater, Embargo, Endeavor, Energy Ball, Explosion, Facade,
+        Flash, Flash Cannon, Frustration, Future Sight, Gravity, Gyro Ball, Heal Block,
+        Imprison, Light Screen, Magic Coat, Night Shade, Pain Split, Protect, Psych
+          Up, Psychic, Psyshock, Psywave, Rain Dance, Recover, Reflect, Rest, Return,
+        Rock Slide, Rock Tomb, Role Play, Rollout, Round, Safeguard, Secret Power,
+        Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snatch, Snore, Substitute,
+        Swagger, Telekinesis, Thunder, Thunder Wave, Toxic, Trick, Trick Room, Wonder
+          Room, Zen Headbutt, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - xy: [Acid Armor, Astonish, Attract, Calm Mind, Charm, Confuse Ray, Double Team,
+        Dream Eater, Embargo, Endeavor, Energy Ball, Explosion, Facade, Flash, Flash
+          Cannon, Frustration, Future Sight, Gyro Ball, Heal Block, Imprison, Light
+          Screen, Night Shade, Pain Split, Protect, Psychic, Psych Up, Psyshock, Psywave,
+        Rain Dance, Recover, Reflect, Rest, Return, Rock Slide, Rock Tomb, Rollout,
+        Round, Safeguard, Secret Power, Shadow Ball, Skill Swap, Snatch, Substitute,
+        Swagger, Telekinesis, Thunder, Thunder Wave, Toxic, Trick, Trick Room, Wonder
+          Room, Signal Beam, Magic Coat, Gravity, Zen Headbutt, Snore, Role Play,
+        After You, Sleep Talk, Infestation, Confide, Helping Hand, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [45, 30, 40, 105, 50, 20]
+    tags:
+    - [LC]
+    types:
+    - [Psychic]
+    weight: [1]

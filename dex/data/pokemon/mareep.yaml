@@ -1,0 +1,136 @@
+pokemon:
+  Ampharos:
+    abilities:
+    - bw: [Plus, Static]
+    - rs: [Static]
+    - []
+    alts:
+    - xy:
+        Mega:
+          abilities: [Mold Breaker]
+          height: 1.4
+          stats: [90, 95, 105, 165, 110, 45]
+          types: [Electric, Dragon]
+          weight: 61.5
+    egggroups:
+    - [Ground, Monster]
+    evolvesFrom: [Flaaffy]
+    height: [1.4]
+    introduction: gs
+    moves:
+    - gs: [Hyper Beam]
+    - bw: [Bulldoze, Focus Blast, Giga Impact, Hyper Beam, Outrage]
+    - dp: [Focus Blast, Giga Impact, Hyper Beam, Outrage, Rock Climb]
+    - rs: [Hyper Beam]
+    - xy: [Bulldoze, Focus Blast, Giga Impact, Hyper Beam, Outrage, Rock Climb, Zap
+          Cannon, Magnetic Flux, Ion Deluge, Dragon Pulse]
+    stats:
+    - [90, 75, 75, 115, 90, 55]
+    - xy: [90, 75, 85, 115, 90, 55]
+    tags:
+    - [BL]
+    - dp: [NU]
+    - rs: [UU]
+    types:
+    - [Electric]
+    weight: [61.5]
+  Flaaffy:
+    abilities:
+    - bw: [Plus, Static]
+    - rs: [Static]
+    - []
+    egggroups:
+    - [Ground, Monster]
+    evolvesFrom: [Mareep]
+    height: [0.8]
+    introduction: gs
+    moves:
+    - gs: [Dynamic Punch, Fire Punch, Rock Smash, Strength, Thunder Punch]
+    - bw: [Brick Break, Fire Punch, Fling, Rock Smash, Strength, Thunder Punch, Volt
+          Switch]
+    - dp: [Brick Break, Fire Punch, Fling, Focus Punch, Rock Smash, Strength, Thunder
+          Punch]
+    - rs: [Brick Break, Counter, Dynamic Punch, Fire Punch, Focus Punch, Mega Kick,
+        Mega Punch, Rock Smash, Seismic Toss, Strength, Thunder Punch]
+    - xy: [Brick Break, Counter, Dynamic Punch, Fire Punch, Fling, Focus Punch, Mega
+          Kick, Mega Punch, Rock Smash, Seismic Toss, Strength, Thunder Punch, Volt
+          Switch, Power-Up Punch]
+    stats:
+    - [70, 55, 55, 80, 60, 45]
+    tags:
+    - [NFE]
+    types:
+    - [Electric]
+    weight: [13.3]
+  Mareep:
+    abilities:
+    - bw: [Plus, Static]
+    - rs: [Static]
+    - []
+    egggroups:
+    - [Ground, Monster]
+    height: [0.6]
+    introduction: gs
+    moves:
+    - gs: [Attract, Body Slam, Cotton Spore, Curse, Defense Curl, Double Team, Endure,
+        Flash, Frustration, Growl, Headbutt, Iron Tail, Light Screen, Protect, Rain
+          Dance, Reflect, Rest, Return, Safeguard, Screech, Sleep Talk, Snore, Swagger,
+        Swift, Tackle, Take Down, Thunder, Thunder Wave, Thunderbolt, Thunder Shock,
+        Toxic, Zap Cannon, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - bw: [After You, Agility, Attract, Body Slam, Charge, Charge Beam, Confuse Ray,
+        Cotton Guard, Cotton Spore, Discharge, Double Team, Echoed Voice, Electro
+          Ball, Facade, Flash, Flatter, Frustration, Growl, Iron Tail, Light Screen,
+        Magnet Rise, Odor Sleuth, Power Gem, Protect, Rain Dance, Rest, Return, Round,
+        Safeguard, Sand Attack, Screech, Signal Beam, Sleep Talk, Snore, Substitute,
+        Swagger, Tackle, Take Down, Thunder, Thunder Wave, Thunderbolt, Thunder Shock,
+        Toxic, Wild Charge, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - dp: [Attract, Body Slam, Captivate, Charge, Charge Beam, Cotton Spore, Discharge,
+        Double Team, Endure, Facade, Flash, Flatter, Frustration, Growl, Headbutt,
+        Iron Tail, Light Screen, Magnet Rise, Natural Gift, Odor Sleuth, Power Gem,
+        Protect, Rain Dance, Reflect, Rest, Return, Safeguard, Sand Attack, Screech,
+        Secret Power, Shock Wave, Signal Beam, Sleep Talk, Snore, Substitute, Swagger,
+        Swift, Tackle, Take Down, Thunder, Thunder Wave, Thunderbolt, Thunder Shock,
+        Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - rs: [Attract, Body Slam, Charge, Cotton Spore, Defense Curl, Double-Edge, Double
+          Team, Endure, Facade, Flash, Frustration, Growl, Iron Tail, Light Screen,
+        Mimic, Odor Sleuth, Protect, Rain Dance, Reflect, Rest, Return, Safeguard,
+        Screech, Secret Power, Shock Wave, Sleep Talk, Snore, Substitute, Swagger,
+        Swift, Tackle, Take Down, Thunder, Thunder Wave, Thunderbolt, Thunder Shock,
+        Toxic, Heal Bell, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - xy: [After You, Agility, Attract, Body Slam, Captivate, Charge, Charge Beam,
+        Confuse Ray, Cotton Guard, Cotton Spore, Defense Curl, Discharge, Double-Edge,
+        Double Team, Echoed Voice, Electro Ball, Endure, Facade, Flash, Flatter, Frustration,
+        Growl, Headbutt, Heal Bell, Iron Tail, Light Screen, Magnet Rise, Mimic, Natural
+          Gift, Odor Sleuth, Power Gem, Protect, Rain Dance, Reflect, Rest, Return,
+        Round, Safeguard, Sand Attack, Screech, Secret Power, Shock Wave, Signal Beam,
+        Sleep Talk, Snore, Substitute, Swagger, Swift, Tackle, Take Down, Thunder,
+        Thunderbolt, Thunder Shock, Thunder Wave, Toxic, Wild Charge, Confide, Eerie
+          Impulse, Electric Terrain, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [55, 40, 40, 65, 45, 35]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Electric]
+    weight: [7.8]

@@ -1,0 +1,151 @@
+pokemon:
+  Larvitar:
+    abilities:
+    - bw: [Guts, Sand Veil]
+    - rs: [Guts]
+    - []
+    egggroups:
+    - [Monster]
+    height: [0.6]
+    introduction: gs
+    moves:
+    - gs: [Ancient Power, Attract, Bite, Crunch, Curse, Detect, Dig, Double Team,
+        Earthquake, Endure, Focus Energy, Frustration, Headbutt, Hyper Beam, Leer,
+        Mud-Slap, Outrage, Protect, Pursuit, Rain Dance, Rest, Return, Rock Slide,
+        Sandstorm, Scary Face, Screech, Sleep Talk, Snore, Stomp, Sunny Day, Swagger,
+        Thrash, Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - bw: [Ancient Power, Assurance, Attract, Bite, Brick Break, Bulldoze, Chip Away,
+        Crunch, Curse, Dark Pulse, Dig, Double Team, Dragon Dance, Earth Power, Earthquake,
+        Facade, Focus Energy, Frustration, Hyper Beam, Iron Defense, Iron Head, Iron
+          Tail, Leer, Outrage, Payback, Protect, Pursuit, Rain Dance, Rest, Retaliate,
+        Return, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Round, Sandstorm,
+        Scary Face, Screech, Sleep Talk, Smack Down, Snarl, Snore, Spite, Stealth
+          Rock, Stomp, Stone Edge, Substitute, Sunny Day, Superpower, Swagger, Taunt,
+        Thrash, Torment, Toxic, Uproar, Body Slam, Double-Edge, Mimic, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - dp: [Ancient Power, Assurance, Attract, Bite, Brick Break, Captivate, Crunch,
+        Curse, Dark Pulse, Dig, Double Team, Dragon Dance, Earth Power, Earthquake,
+        Endure, Facade, Focus Energy, Frustration, Headbutt, Hyper Beam, Iron Defense,
+        Iron Head, Leer, Mud-Slap, Natural Gift, Outrage, Payback, Protect, Pursuit,
+        Rain Dance, Rest, Return, Rock Polish, Rock Slide, Rock Smash, Rock Tomb,
+        Sandstorm, Scary Face, Screech, Secret Power, Sleep Talk, Snore, Spite, Stealth
+          Rock, Stomp, Stone Edge, Substitute, Sunny Day, Superpower, Swagger, Taunt,
+        Thrash, Torment, Toxic, Uproar, Body Slam, Double-Edge, Mimic, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - rs: [Ancient Power, Attract, Bite, Brick Break, Crunch, Curse, Dig, Double Team,
+        Dragon Dance, Earthquake, Endure, Facade, Focus Energy, Frustration, Hyper
+          Beam, Leer, Mud-Slap, Outrage, Protect, Pursuit, Rain Dance, Rest, Return,
+        Rock Slide, Rock Smash, Sandstorm, Scary Face, Screech, Secret Power, Sleep
+          Talk, Snore, Stomp, Substitute, Sunny Day, Swagger, Taunt, Thrash, Torment,
+        Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - xy: [Ancient Power, Assurance, Attract, Bite, Body Slam, Brick Break, Bulldoze,
+        Captivate, Chip Away, Crunch, Curse, Dark Pulse, Dig, Double-Edge, Double
+          Team, Dragon Dance, Earth Power, Earthquake, Endure, Facade, Focus Energy,
+        Frustration, Headbutt, Hyper Beam, Iron Defense, Iron Head, Iron Tail, Leer,
+        Mimic, Mud-Slap, Natural Gift, Outrage, Payback, Protect, Pursuit, Rain Dance,
+        Rest, Retaliate, Return, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Round,
+        Sandstorm, Scary Face, Screech, Secret Power, Sleep Talk, Smack Down, Snarl,
+        Snore, Spite, Stealth Rock, Stomp, Stone Edge, Substitute, Sunny Day, Superpower,
+        Swagger, Taunt, Thrash, Torment, Toxic, Uproar, Power-Up Punch, Confide, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [50, 64, 50, 45, 50, 41]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Ground, Rock]
+    weight: [72]
+  Pupitar:
+    abilities:
+    - rs: [Shed Skin]
+    - []
+    egggroups:
+    - [Monster]
+    evolvesFrom: [Larvitar]
+    height: [1.2]
+    introduction: gs
+    moves:
+    - gs: []
+    - bw: []
+    - dp: []
+    - rs: []
+    - xy: []
+    stats:
+    - [70, 84, 70, 65, 70, 51]
+    tags:
+    - [NFE]
+    types:
+    - [Ground, Rock]
+    weight: [152]
+  Tyranitar:
+    abilities:
+    - bw: [Sand Stream, Unnerve]
+    - rs: [Sand Stream]
+    - []
+    alts:
+    - xy:
+        Mega:
+          abilities: [Sand Stream]
+          height: 2.5
+          stats: [100, 164, 150, 95, 120, 71]
+          types: [Rock, Dark]
+          weight: 255
+    egggroups:
+    - [Monster]
+    evolvesFrom: [Pupitar]
+    height: [2]
+    introduction: gs
+    moves:
+    - gs: [Cut, Dragon Breath, Dynamic Punch, Fire Blast, Fire Punch, Flamethrower,
+        Fury Cutter, Ice Beam, Iron Tail, Nightmare, Roar, Rock Smash, Strength, Surf,
+        Thunderbolt]
+    - bw: [Aerial Ace, Aqua Tail, Blizzard, Block, Cut, Dragon Claw, Dragon Pulse,
+        Dragon Tail, Fire Blast, Fire Fang, Fire Punch, Flamethrower, Fling, Focus
+          Blast, Foul Play, Giga Impact, Hone Claws, Ice Beam, Ice Fang, Ice Punch,
+        Incinerate, Low Kick, Roar, Shadow Claw, Strength, Surf, Thunder, Thunder
+          Fang, Thunder Wave, Thunderbolt, Thunder Punch, Nightmare, Seismic Toss]
+    - dp: [Aerial Ace, Aqua Tail, Avalanche, Blizzard, Block, Cut, Dragon Claw, Dragon
+          Pulse, Fire Blast, Fire Fang, Fire Punch, Flamethrower, Fling, Focus Blast,
+        Focus Punch, Fury Cutter, Giga Impact, Ice Beam, Ice Fang, Ice Punch, Iron
+          Tail, Low Kick, Roar, Rock Climb, Shadow Claw, Shock Wave, Strength, Surf,
+        Thunder, Thunder Fang, Thunder Wave, Thunderbolt, Thunder Punch, Water Pulse,
+        Whirlpool, Nightmare, Seismic Toss]
+    - rs: [Aerial Ace, Blizzard, Counter, Cut, Dragon Claw, Dynamic Punch, Fire Blast,
+        Fire Punch, Flamethrower, Focus Punch, Fury Cutter, Ice Beam, Iron Tail, Mega
+          Kick, Mega Punch, Roar, Rock Tomb, Shock Wave, Strength, Surf, Thunder,
+        Thunder Wave, Thunderbolt, Water Pulse]
+    - xy: [Aerial Ace, Aqua Tail, Avalanche, Blizzard, Block, Counter, Cut, Dragon
+          Claw, Dragon Pulse, Dragon Tail, Dynamic Punch, Fire Blast, Fire Fang, Fire
+          Punch, Flamethrower, Fling, Focus Blast, Focus Punch, Fury Cutter, Giga
+          Impact, Hone Claws, Ice Beam, Ice Fang, Ice Punch, Incinerate, Low Kick,
+        Mega Kick, Mega Punch, Nightmare, Roar, Rock Climb, Seismic Toss, Shadow Claw,
+        Shock Wave, Strength, Surf, Thunder, Thunderbolt, Thunder Fang, Thunder Punch,
+        Thunder Wave, Water Pulse, Whirlpool, Foul Play]
+    stats:
+    - [100, 134, 110, 95, 100, 61]
+    tags:
+    - [OU]
+    types:
+    - [Dark, Rock]
+    weight: [202]

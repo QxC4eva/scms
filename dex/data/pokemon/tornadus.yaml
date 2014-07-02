@@ -1,0 +1,59 @@
+pokemon:
+  Tornadus:
+    abilities:
+    - [Defiant, Prankster]
+    egggroups:
+    - []
+    height: [1.5]
+    introduction: bw
+    moves:
+    - bw: [Acrobatics, Aerial Ace, Agility, Air Cutter, Air Slash, Astonish, Attract,
+        Bite, Brick Break, Bulk Up, Crunch, Dark Pulse, Double Team, Embargo, Extrasensory,
+        Facade, Fling, Fly, Focus Blast, Foul Play, Frustration, Giga Impact, Grass
+          Knot, Gust, Hammer Arm, Heat Wave, Hurricane, Hyper Beam, Icy Wind, Incinerate,
+        Iron Tail, Knock Off, Payback, Protect, Psychic, Rain Dance, Rest, Return,
+        Revenge, Rock Smash, Role Play, Round, Sky Drop, Sleep Talk, Sludge Bomb,
+        Sludge Wave, Smack Down, Snore, Strength, Substitute, Superpower, Swagger,
+        Tailwind, Taunt, Thief, Thrash, Torment, Toxic, U-turn, Uproar, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - xy: [Acrobatics, Aerial Ace, Agility, Air Cutter, Air Slash, Astonish, Attract,
+        Bite, Brick Break, Bulk Up, Crunch, Dark Pulse, Double Team, Embargo, Extrasensory,
+        Facade, Fling, Fly, Focus Blast, Frustration, Giga Impact, Grass Knot, Gust,
+        Hammer Arm, Hurricane, Hyper Beam, Incinerate, Payback, Protect, Psychic,
+        Rain Dance, Rest, Return, Revenge, Rock Smash, Round, Sky Drop, Sludge Bomb,
+        Sludge Wave, Smack Down, Strength, Substitute, Swagger, Tailwind, Taunt, Thief,
+        Thrash, Torment, Toxic, Uproar, U-turn, Foul Play, Superpower, Icy Wind, Iron
+          Tail, Snore, Knock Off, Heat Wave, Role Play, Sleep Talk, Confide, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [79, 115, 70, 125, 80, 111]
+    tags:
+    - [UU]
+    types:
+    - [Flying]
+    weight: [63]
+  Tornadus-Therian:
+    abilities:
+    - [Regenerator]
+    egggroups:
+    - []
+    evolvesFrom: [Tornadus]
+    height: [1.4]
+    introduction: bw
+    moves:
+    - []
+    stats:
+    - [79, 100, 80, 110, 90, 121]
+    tags:
+    - [Uber]
+    types:
+    - [Flying]
+    weight: [63]

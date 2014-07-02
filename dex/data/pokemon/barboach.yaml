@@ -1,0 +1,88 @@
+pokemon:
+  Barboach:
+    abilities:
+    - [Oblivious]
+    - dp: [Anticipation, Oblivious]
+    - bw: [Anticipation, Hydration, Oblivious]
+    egggroups:
+    - [Water 2]
+    height: [0.4]
+    introduction: rs
+    moves:
+    - bw: [Amnesia, Aqua Tail, Attract, Blizzard, Bounce, Bulldoze, Dive, Double-Edge,
+        Double Team, Dragon Dance, Earth Power, Earthquake, Facade, Fissure, Flail,
+        Frustration, Future Sight, Hail, Hydro Pump, Ice Beam, Icy Wind, Magnitude,
+        Mimic, Mud Bomb, Mud Shot, Mud-Slap, Mud Sport, Muddy Water, Protect, Rain
+          Dance, Rest, Return, Rock Tomb, Round, Sandstorm, Scald, Sleep Talk, Snore,
+        Spark, Substitute, Surf, Swagger, Take Down, Thrash, Toxic, Water Gun, Water
+          Pulse, Water Sport, Waterfall, Whirlpool, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Amnesia, Aqua Tail, Attract, Blizzard, Bounce, Captivate, Dive, Double
+          Team, Dragon Dance, Earth Power, Earthquake, Endure, Facade, Fissure, Flail,
+        Frustration, Future Sight, Hail, Headbutt, Hydro Pump, Ice Beam, Icy Wind,
+        Magnitude, Mud Bomb, Mud-Slap, Mud Sport, Natural Gift, Protect, Rain Dance,
+        Rest, Return, Rock Tomb, Sandstorm, Secret Power, Sleep Talk, Snore, Spark,
+        Substitute, Surf, Swagger, Take Down, Thrash, Toxic, Water Gun, Water Pulse,
+        Water Sport, Waterfall, Whirlpool, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Amnesia, Attract, Blizzard, Dive, Double-Edge, Double Team, Earthquake,
+        Endure, Facade, Fissure, Frustration, Future Sight, Hail, Ice Beam, Icy Wind,
+        Magnitude, Mimic, Mud-Slap, Mud Sport, Protect, Rain Dance, Rest, Return,
+        Rock Tomb, Sandstorm, Secret Power, Sleep Talk, Snore, Spark, Substitute,
+        Surf, Swagger, Thrash, Toxic, Water Gun, Water Pulse, Water Sport, Waterfall,
+        Whirlpool, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - xy: [Amnesia, Aqua Tail, Attract, Blizzard, Bounce, Bulldoze, Captivate, Dive,
+        Double-Edge, Double Team, Dragon Dance, Earth Power, Earthquake, Endure, Facade,
+        Fissure, Flail, Frustration, Future Sight, Hail, Headbutt, Hydro Pump, Ice
+          Beam, Icy Wind, Magnitude, Mimic, Mud Bomb, Muddy Water, Mud Shot, Mud-Slap,
+        Mud Sport, Natural Gift, Protect, Rain Dance, Rest, Return, Rock Tomb, Round,
+        Sandstorm, Scald, Secret Power, Sleep Talk, Snore, Spark, Substitute, Surf,
+        Swagger, Take Down, Thrash, Toxic, Waterfall, Water Gun, Water Pulse, Water
+          Sport, Whirlpool, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [50, 48, 43, 46, 41, 60]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Ground, Water]
+    weight: [1.9]
+  Whiscash:
+    abilities:
+    - [Oblivious]
+    - dp: [Anticipation, Oblivious]
+    - bw: [Anticipation, Hydration, Oblivious]
+    egggroups:
+    - [Water 2]
+    evolvesFrom: [Barboach]
+    height: [0.9]
+    introduction: rs
+    moves:
+    - bw: [Giga Impact, Hyper Beam, Rock Slide, Rock Smash, Stone Edge, Strength,
+        Tickle, Zen Headbutt]
+    - dp: [Giga Impact, Hyper Beam, Rock Slide, Rock Smash, Stone Edge, Strength,
+        Tickle, Zen Headbutt, Double-Edge, Mimic]
+    - rs: [Hyper Beam, Rock Slide, Rock Smash, Strength, Tickle]
+    - xy: [Giga Impact, Hyper Beam, Rock Slide, Rock Smash, Stone Edge, Strength,
+        Tickle, Zen Headbutt]
+    stats:
+    - [110, 78, 73, 76, 71, 60]
+    tags:
+    - [NU]
+    types:
+    - [Ground, Water]
+    weight: [23.6]

@@ -1,0 +1,44 @@
+pokemon:
+  Zekrom:
+    abilities:
+    - [Teravolt]
+    egggroups:
+    - []
+    height: [2.9]
+    introduction: bw
+    moves:
+    - bw: [Ancient Power, Bolt Strike, Charge Beam, Crunch, Cut, Double Team, Draco
+          Meteor, Dragon Claw, Dragon Pulse, Dragon Rage, Dragon Tail, Dragon Breath,
+        Earth Power, Echoed Voice, Facade, Flash, Flash Cannon, Fling, Fly, Focus
+          Blast, Frustration, Fusion Bolt, Giga Impact, Haze, Hone Claws, Hyper Beam,
+        Hyper Voice, Imprison, Light Screen, Magnet Rise, Outrage, Payback, Protect,
+        Psychic, Rain Dance, Reflect, Rest, Return, Rock Slide, Rock Smash, Rock Tomb,
+        Roost, Round, Safeguard, Shadow Ball, Shadow Claw, Signal Beam, Slash, Sleep
+          Talk, Snore, Stone Edge, Strength, Substitute, Swagger, Tailwind, Thunder,
+        Thunder Fang, Thunder Wave, Thunderbolt, Thunder Punch, Toxic, Volt Switch,
+        Wild Charge, Zen Headbutt, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Ancient Power, Bolt Strike, Charge Beam, Crunch, Cut, Double Team, Draco
+          Meteor, Dragon Breath, Dragon Claw, Dragon Rage, Dragon Tail, Echoed Voice,
+        Facade, Flash, Flash Cannon, Fling, Fly, Focus Blast, Frustration, Fusion
+          Bolt, Giga Impact, Haze, Hone Claws, Hyper Beam, Hyper Voice, Imprison,
+        Light Screen, Outrage, Payback, Protect, Psychic, Rain Dance, Reflect, Rest,
+        Return, Rock Slide, Rock Smash, Rock Tomb, Round, Safeguard, Shadow Ball,
+        Shadow Claw, Slash, Stone Edge, Strength, Substitute, Swagger, Thunder, Thunderbolt,
+        Thunder Fang, Thunder Wave, Toxic, Volt Switch, Wild Charge, Zen Headbutt,
+        Signal Beam, Thunder Punch, Earth Power, Magnet Rise, Dragon Pulse, Snore,
+        Tailwind, Roost, Sleep Talk, Steel Wing, Confide, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [100, 150, 120, 120, 100, 90]
+    tags:
+    - [Uber]
+    types:
+    - [Dragon, Electric]
+    weight: [345]

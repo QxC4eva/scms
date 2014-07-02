@@ -1,0 +1,112 @@
+pokemon:
+  Clamperl:
+    abilities:
+    - [Shell Armor]
+    - bw: [Rattled, Shell Armor]
+    egggroups:
+    - [Water 1]
+    height: [0.4]
+    introduction: rs
+    moves:
+    - bw: [Aqua Ring, Attract, Barrier, Blizzard, Body Slam, Brine, Clamp, Confuse
+          Ray, Dive, Double Team, Endure, Facade, Frustration, Hail, Ice Beam, Icy
+          Wind, Iron Defense, Mud Sport, Muddy Water, Protect, Rain Dance, Refresh,
+        Rest, Return, Round, Scald, Shell Smash, Sleep Talk, Snore, Substitute, Supersonic,
+        Surf, Swagger, Toxic, Water Gun, Water Pulse, Waterfall, Whirlpool, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - dp: [Aqua Ring, Attract, Barrier, Blizzard, Body Slam, Brine, Captivate, Clamp,
+        Confuse Ray, Dive, Double Team, Endure, Facade, Frustration, Hail, Ice Beam,
+        Icy Wind, Iron Defense, Mud Sport, Muddy Water, Natural Gift, Protect, Rain
+          Dance, Refresh, Rest, Return, Secret Power, Sleep Talk, Snore, Substitute,
+        Supersonic, Surf, Swagger, Toxic, Water Gun, Water Pulse, Waterfall, Whirlpool,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - rs: [Attract, Barrier, Blizzard, Body Slam, Clamp, Confuse Ray, Dive, Double-Edge,
+        Double Team, Endure, Facade, Frustration, Hail, Ice Beam, Icy Wind, Iron Defense,
+        Mimic, Mud Sport, Protect, Rain Dance, Refresh, Rest, Return, Secret Power,
+        Sleep Talk, Snore, Substitute, Supersonic, Surf, Swagger, Toxic, Water Gun,
+        Water Pulse, Waterfall, Whirlpool, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Aqua Ring, Attract, Barrier, Blizzard, Body Slam, Brine, Captivate, Clamp,
+        Confuse Ray, Dive, Double-Edge, Double Team, Endure, Facade, Frustration,
+        Hail, Ice Beam, Icy Wind, Iron Defense, Mimic, Muddy Water, Mud Sport, Natural
+          Gift, Protect, Rain Dance, Refresh, Rest, Return, Round, Scald, Secret Power,
+        Shell Smash, Sleep Talk, Snore, Substitute, Supersonic, Surf, Swagger, Toxic,
+        Waterfall, Water Gun, Water Pulse, Whirlpool, Confide, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [35, 64, 85, 74, 55, 32]
+    tags:
+    - [NFE]
+    - bw: [LC]
+      dp: [NU]
+    types:
+    - [Water]
+    weight: [52.5]
+  Gorebyss:
+    abilities:
+    - [Swift Swim]
+    - bw: [Hydration, Swift Swim]
+    egggroups:
+    - [Water 1]
+    evolvesFrom: [Clamperl]
+    height: [1.8]
+    introduction: rs
+    moves:
+    - bw: [Agility, Amnesia, Aqua Tail, Baton Pass, Bind, Bounce, Captivate, Confusion,
+        Giga Impact, Hydro Pump, Hyper Beam, Psych Up, Psychic, Safeguard, Shadow
+          Ball, Signal Beam, Double-Edge, Mimic]
+    - dp: [Agility, Amnesia, Aqua Tail, Baton Pass, Bounce, Confusion, Giga Impact,
+        Hydro Pump, Hyper Beam, Mud-Slap, Psych Up, Psychic, Safeguard, Shadow Ball,
+        Signal Beam, Swift, Double-Edge, Mimic]
+    - rs: [Agility, Amnesia, Baton Pass, Confusion, Hydro Pump, Hyper Beam, Mud-Slap,
+        Psychic, Safeguard, Shadow Ball, Swift]
+    - xy: [Agility, Amnesia, Aqua Tail, Baton Pass, Bounce, Confusion, Giga Impact,
+        Hydro Pump, Hyper Beam, Mud-Slap, Psychic, Psych Up, Safeguard, Shadow Ball,
+        Signal Beam, Swift, Bind, Infestation]
+    stats:
+    - [55, 84, 105, 114, 75, 52]
+    tags:
+    - [UU]
+    - dp: [NU]
+    types:
+    - [Water]
+    weight: [22.6]
+  Huntail:
+    abilities:
+    - [Swift Swim]
+    - bw: [Swift Swim, Water Veil]
+    egggroups:
+    - [Water 1]
+    evolvesFrom: [Clamperl]
+    height: [1.7]
+    introduction: rs
+    moves:
+    - bw: [Bite, Crunch, Ice Fang, Rock Tomb, Scary Face, Screech, Snatch, Super Fang,
+        Double-Edge, Mimic]
+    - dp: [Bite, Crunch, Ice Fang, Rock Tomb, Scary Face, Screech, Snatch, Sucker
+          Punch, Super Fang, Double-Edge, Mimic]
+    - rs: [Bite, Crunch, Rock Tomb, Scary Face, Screech, Snatch]
+    - xy: [Aqua Tail, Baton Pass, Bite, Bounce, Crunch, Giga Impact, Hydro Pump, Hyper
+          Beam, Ice Fang, Mud-Slap, Rock Tomb, Scary Face, Screech, Snatch, Sucker
+          Punch, Super Fang, Swift, Bind, Infestation]
+    stats:
+    - [55, 104, 105, 94, 75, 52]
+    tags:
+    - [NU]
+    types:
+    - [Water]
+    weight: [27]

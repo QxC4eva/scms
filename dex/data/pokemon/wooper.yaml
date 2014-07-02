@@ -1,0 +1,110 @@
+pokemon:
+  Quagsire:
+    abilities:
+    - bw: [Damp, Unaware, Water Absorb]
+    - rs: [Damp, Water Absorb]
+    - []
+    egggroups:
+    - [Ground, Water 1]
+    evolvesFrom: [Wooper]
+    height: [1.4]
+    introduction: gs
+    moves:
+    - gs: [Hyper Beam, Strength]
+    - bw: [Brick Break, Fling, Focus Blast, Giga Impact, Hyper Beam, Rock Slide, Rock
+          Tomb, Stone Edge, Strength, Thief, Seismic Toss]
+    - dp: [Brick Break, Fling, Focus Blast, Focus Punch, Giga Impact, Hyper Beam,
+        Rock Slide, Rock Tomb, Stone Edge, Strength, Seismic Toss]
+    - rs: [Brick Break, Counter, Focus Punch, Hyper Beam, Mega Kick, Mega Punch, Rock
+          Tomb, Strength]
+    - xy: [Brick Break, Fling, Focus Blast, Focus Punch, Giga Impact, Hyper Beam,
+        Mega Kick, Mega Punch, Rock Slide, Rock Tomb, Seismic Toss, Stone Edge, Strength,
+        Thief, Power-Up Punch]
+    stats:
+    - [95, 85, 85, 65, 65, 35]
+    tags:
+    - [UU]
+    - bw: [RU]
+      dp: [NU]
+    types:
+    - [Ground, Water]
+    weight: [75]
+  Wooper:
+    abilities:
+    - bw: [Damp, Unaware, Water Absorb]
+    - rs: [Damp, Water Absorb]
+    - []
+    egggroups:
+    - [Ground, Water 1]
+    height: [0.4]
+    introduction: gs
+    moves:
+    - gs: [Amnesia, Ancient Power, Attract, Body Slam, Curse, Defense Curl, Dig, Double
+          Team, Dynamic Punch, Earthquake, Endure, Flash, Frustration, Haze, Headbutt,
+        Ice Beam, Ice Punch, Iron Tail, Mist, Mud-Slap, Protect, Rain Dance, Rest,
+        Return, Rock Smash, Rollout, Safeguard, Sandstorm, Slam, Sleep Talk, Sludge
+          Bomb, Snore, Surf, Swagger, Tail Whip, Toxic, Water Gun, Whirlpool, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - bw: [Acid Spray, After You, Amnesia, Ancient Power, Aqua Tail, Attract, Blizzard,
+        Body Slam, Bulldoze, Counter, Curse, Dig, Dive, Double Kick, Double Team,
+        Earth Power, Earthquake, Encore, Facade, Flash, Frustration, Hail, Haze, Ice
+          Beam, Ice Punch, Icy Wind, Iron Tail, Mist, Mud Bomb, Mud Shot, Mud Sport,
+        Muddy Water, Protect, Rain Dance, Recover, Rest, Return, Rock Smash, Round,
+        Safeguard, Sandstorm, Scald, Slam, Sleep Talk, Sludge Bomb, Sludge Wave, Snore,
+        Spit Up, Stockpile, Substitute, Surf, Swagger, Swallow, Tail Whip, Toxic,
+        Water Gun, Waterfall, Yawn, Double-Edge, Mimic, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Amnesia, Ancient Power, Aqua Tail, Attract, Blizzard, Body Slam, Captivate,
+        Counter, Curse, Dig, Dive, Double Kick, Double Team, Earth Power, Earthquake,
+        Encore, Endure, Facade, Flash, Frustration, Hail, Haze, Headbutt, Ice Beam,
+        Ice Punch, Icy Wind, Iron Tail, Mist, Mud Bomb, Mud Shot, Mud-Slap, Mud Sport,
+        Muddy Water, Natural Gift, Protect, Rain Dance, Recover, Rest, Return, Rock
+          Smash, Rollout, Safeguard, Sandstorm, Secret Power, Slam, Sleep Talk, Sludge
+          Bomb, Snore, Spit Up, Stockpile, Substitute, Surf, Swagger, Swallow, Tail
+          Whip, Toxic, Water Gun, Water Pulse, Waterfall, Whirlpool, Yawn, Double-Edge,
+        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - rs: [Amnesia, Ancient Power, Attract, Blizzard, Body Slam, Curse, Defense Curl,
+        Dig, Dive, Double Team, Dynamic Punch, Earthquake, Endure, Facade, Flash,
+        Frustration, Hail, Haze, Ice Beam, Ice Punch, Iron Tail, Mist, Mud Shot, Mud-Slap,
+        Mud Sport, Protect, Rain Dance, Rest, Return, Rock Smash, Rollout, Safeguard,
+        Sandstorm, Secret Power, Slam, Sleep Talk, Sludge Bomb, Snore, Spit Up, Stockpile,
+        Substitute, Surf, Swagger, Swallow, Tail Whip, Toxic, Water Gun, Water Pulse,
+        Waterfall, Yawn, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - xy: [Acid Spray, After You, Amnesia, Ancient Power, Aqua Tail, Attract, Blizzard,
+        Body Slam, Bulldoze, Captivate, Counter, Curse, Defense Curl, Dig, Dive, Double-Edge,
+        Double Kick, Double Team, Dynamic Punch, Earth Power, Earthquake, Encore,
+        Endure, Facade, Flash, Frustration, Hail, Haze, Headbutt, Ice Beam, Ice Punch,
+        Icy Wind, Iron Tail, Mimic, Mist, Mud Bomb, Muddy Water, Mud Shot, Mud-Slap,
+        Mud Sport, Natural Gift, Protect, Rain Dance, Recover, Rest, Return, Rock
+          Smash, Rollout, Round, Safeguard, Sandstorm, Scald, Secret Power, Slam,
+        Sleep Talk, Sludge Bomb, Sludge Wave, Snore, Spit Up, Stockpile, Substitute,
+        Surf, Swagger, Swallow, Tail Whip, Toxic, Waterfall, Water Gun, Water Pulse,
+        Whirlpool, Yawn, Infestation, Confide, Eerie Impulse, Guard Swap, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [55, 45, 45, 25, 25, 15]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Ground, Water]
+    weight: [8.5]

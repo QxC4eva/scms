@@ -1,0 +1,103 @@
+pokemon:
+  Fearow:
+    abilities:
+    - bw: [Keen Eye, Sniper]
+    - rs: [Keen Eye]
+    - []
+    egggroups:
+    - [Flying]
+    evolvesFrom: [Spearow]
+    height: [1.2]
+    introduction: rb
+    moves:
+    - gs: [Hyper Beam]
+    - bw: [Giga Impact, Hyper Beam]
+    - dp: [Giga Impact, Hyper Beam]
+    - rs: [Hyper Beam]
+    - rb: [Hyper Beam]
+    - xy: [Giga Impact, Hyper Beam]
+    stats:
+    - [65, 90, 65, 61, 61, 100]
+    - gs: [65, 90, 65, 61, 61, 100]
+    tags:
+    - [UU]
+    types:
+    - [Flying, Normal]
+    weight: [38]
+  Spearow:
+    abilities:
+    - bw: [Keen Eye, Sniper]
+    - rs: [Keen Eye]
+    - []
+    egggroups:
+    - [Flying]
+    height: [0.3]
+    introduction: rb
+    moves:
+    - gs: [Agility, Attract, Curse, Detect, Double Team, Drill Peck, Endure, Feint
+          Attack, False Swipe, Fly, Frustration, Fury Attack, Growl, Leer, Mirror
+          Move, Mud-Slap, Peck, Protect, Pursuit, Quick Attack, Rest, Return, Scary
+          Face, Sleep Talk, Snore, Steel Wing, Sunny Day, Swagger, Swift, Thief, Toxic,
+        Tri Attack, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - bw: [Aerial Ace, Agility, Assurance, Astonish, Attract, Double Team, Drill Peck,
+        Drill Run, Echoed Voice, Facade, Feint Attack, False Swipe, Feather Dance,
+        Fly, Frustration, Fury Attack, Growl, Heat Wave, Leer, Mirror Move, Peck,
+        Pluck, Protect, Pursuit, Quick Attack, Rain Dance, Razor Wind, Rest, Return,
+        Roost, Round, Scary Face, Sky Attack, Sleep Talk, Snore, Steel Wing, Substitute,
+        Sunny Day, Swagger, Tailwind, Thief, Toxic, Tri Attack, U-turn, Uproar, Whirlwind,
+        Work Up, Baton Pass, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Aerial Ace, Agility, Air Cutter, Assurance, Astonish, Attract, Captivate,
+        Defog, Double Team, Drill Peck, Endure, Facade, Feint Attack, False Swipe,
+        Feather Dance, Fly, Frustration, Fury Attack, Growl, Heat Wave, Leer, Mirror
+          Move, Mud-Slap, Natural Gift, Ominous Wind, Peck, Pluck, Protect, Pursuit,
+        Quick Attack, Rain Dance, Rest, Return, Roost, Scary Face, Secret Power, Sky
+          Attack, Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day, Swagger, Swift,
+        Tailwind, Thief, Toxic, Tri Attack, Twister, U-turn, Uproar, Whirlwind, Baton
+          Pass, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Agility, Astonish, Attract, Double Team, Drill Peck, Endure,
+        Facade, Feint Attack, False Swipe, Fly, Frustration, Fury Attack, Growl, Leer,
+        Mirror Move, Mud-Slap, Peck, Protect, Pursuit, Quick Attack, Rain Dance, Rest,
+        Return, Scary Face, Secret Power, Sky Attack, Sleep Talk, Snore, Steel Wing,
+        Substitute, Sunny Day, Swagger, Swift, Thief, Toxic, Tri Attack, Baton Pass,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - rb: [Agility, Bide, Double-Edge, Double Team, Drill Peck, Fly, Fury Attack,
+        Growl, Leer, Mimic, Mirror Move, Peck, Rage, Razor Wind, Rest, Sky Attack,
+        Substitute, Swift, Take Down, Toxic, Whirlwind]
+    - xy: [Aerial Ace, Agility, Air Cutter, Assurance, Astonish, Attract, Baton Pass,
+        Captivate, Defog, Double-Edge, Double Team, Drill Peck, Echoed Voice, Endure,
+        Facade, Feint Attack, False Swipe, Feather Dance, Fly, Frustration, Fury Attack,
+        Growl, Heat Wave, Leer, Mimic, Mirror Move, Mud-Slap, Natural Gift, Ominous
+          Wind, Peck, Pluck, Protect, Pursuit, Quick Attack, Rain Dance, Razor Wind,
+        Rest, Return, Roost, Round, Scary Face, Secret Power, Sky Attack, Sleep Talk,
+        Snore, Steel Wing, Substitute, Sunny Day, Swagger, Swift, Tailwind, Thief,
+        Toxic, Tri Attack, Twister, Uproar, U-turn, Whirlwind, Work Up, Drill Run,
+        Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [40, 60, 30, 31, 31, 70]
+    - gs: [40, 60, 30, 31, 31, 70]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Flying, Normal]
+    weight: [2]

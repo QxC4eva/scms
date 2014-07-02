@@ -1,0 +1,132 @@
+pokemon:
+  Burmy:
+    abilities:
+    - [Shed Skin]
+    - bw: [Overcoat, Shed Skin]
+    egggroups:
+    - [Bug]
+    height: [0.2]
+    introduction: dp
+    moves:
+    - bw: [Bug Bite, Electroweb, Protect, Snore, Tackle, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Bug Bite, Protect, Snore, String Shot, Tackle, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Bug Bite, Protect, Snore, String Shot, Tackle, Electroweb, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [40, 29, 45, 29, 45, 36]
+    tags:
+    - [LC]
+    types:
+    - [Bug]
+    weight: [3.4]
+  Mothim:
+    abilities:
+    - [Swarm, Tinted Lens]
+    egggroups:
+    - [Bug]
+    evolvesFrom: [Burmy]
+    height: [0.9]
+    introduction: dp
+    moves:
+    - bw: [Acrobatics, Aerial Ace, Air Slash, Attract, Bug Buzz, Camouflage, Confusion,
+        Double Team, Dream Eater, Energy Ball, Facade, Flash, Frustration, Giga Drain,
+        Giga Impact, Gust, Hyper Beam, Poison Powder, Psybeam, Psych Up, Psychic,
+        Quiver Dance, Rain Dance, Rest, Return, Roost, Round, Safeguard, Shadow Ball,
+        Signal Beam, Silver Wind, Skill Swap, Sleep Talk, Solar Beam, Struggle Bug,
+        Substitute, Sunny Day, Swagger, Tailwind, Thief, Toxic, U-turn, Venoshock]
+    - dp: [Aerial Ace, Air Cutter, Air Slash, Attract, Bug Buzz, Camouflage, Captivate,
+        Confusion, Defog, Double Team, Dream Eater, Endure, Energy Ball, Facade, Flash,
+        Frustration, Giga Drain, Giga Impact, Gust, Hyper Beam, Mud-Slap, Natural
+          Gift, Ominous Wind, Poison Powder, Psybeam, Psych Up, Psychic, Rain Dance,
+        Rest, Return, Roost, Safeguard, Secret Power, Shadow Ball, Signal Beam, Silver
+          Wind, Skill Swap, Sleep Talk, Solar Beam, Substitute, Sunny Day, Swagger,
+        Swift, Tailwind, Thief, Toxic, Twister, U-turn]
+    - xy: [Acrobatics, Aerial Ace, Air Cutter, Air Slash, Attract, Bug Buzz, Camouflage,
+        Captivate, Confusion, Defog, Double Team, Dream Eater, Endure, Energy Ball,
+        Facade, Flash, Frustration, Giga Drain, Giga Impact, Gust, Hyper Beam, Mud-Slap,
+        Natural Gift, Ominous Wind, Poison Powder, Psybeam, Psychic, Psych Up, Quiver
+          Dance, Rain Dance, Rest, Return, Roost, Round, Safeguard, Secret Power,
+        Shadow Ball, Signal Beam, Silver Wind, Skill Swap, Sleep Talk, Solar Beam,
+        Struggle Bug, Substitute, Sunny Day, Swagger, Swift, Tailwind, Thief, Toxic,
+        Twister, U-turn, Venoshock, Infestation, Confide]
+    stats:
+    - [70, 94, 50, 94, 50, 66]
+    tags:
+    - [NU]
+    types:
+    - [Bug, Flying]
+    weight: [23.3]
+  Wormadam:
+    abilities:
+    - [Anticipation]
+    - bw: [Anticipation, Overcoat]
+    egggroups:
+    - [Bug]
+    evolvesFrom: [Burmy]
+    height: [0.5]
+    introduction: dp
+    moves:
+    - bw: [Captivate, Endeavor, Flail, Grass Knot, Growth, Leaf Storm, Razor Leaf,
+        Seed Bomb, Synthesis, Uproar, Worry Seed]
+    - dp: [Bullet Seed, Endeavor, Flail, Grass Knot, Growth, Leaf Storm, Razor Leaf,
+        Seed Bomb, Sucker Punch, Synthesis, Uproar, Worry Seed]
+    - xy: [Attract, Bullet Seed, Captivate, Confusion, Double Team, Dream Eater, Endeavor,
+        Endure, Energy Ball, Facade, Flail, Flash, Frustration, Giga Drain, Giga Impact,
+        Grass Knot, Growth, Hyper Beam, Leaf Storm, Natural Gift, Psybeam, Psychic,
+        Psych Up, Rain Dance, Razor Leaf, Rest, Return, Round, Safeguard, Secret Power,
+        Seed Bomb, Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Solar Beam, Struggle
+          Bug, Substitute, Sucker Punch, Sunny Day, Swagger, Synthesis, Thief, Toxic,
+        Uproar, Venoshock, Worry Seed, Infestation, Confide]
+    stats:
+    - [60, 59, 85, 79, 105, 36]
+    tags:
+    - [NU]
+    types:
+    - [Bug, Grass]
+    weight: [6.5]
+  Wormadam-Sandy:
+    abilities:
+    - [Anticipation]
+    - bw: [Anticipation, Overcoat]
+    egggroups:
+    - [Bug]
+    height: [0.5]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [60, 79, 105, 59, 85, 36]
+    tags:
+    - [NU]
+    types:
+    - [Bug, Ground]
+    weight: [6.5]
+  Wormadam-Trash:
+    abilities:
+    - [Anticipation]
+    - bw: [Anticipation, Overcoat]
+    egggroups:
+    - [Bug]
+    height: [0.5]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [60, 69, 95, 69, 95, 36]
+    tags:
+    - [NU]
+    types:
+    - [Bug, Steel]
+    weight: [6.5]

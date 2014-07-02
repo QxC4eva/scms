@@ -1,0 +1,89 @@
+pokemon:
+  Mightyena:
+    abilities:
+    - [Intimidate]
+    - bw: [Intimidate, Moxie, Quick Feet]
+      dp: [Intimidate, Quick Feet]
+    egggroups:
+    - [Ground]
+    evolvesFrom: [Poochyena]
+    height: [1]
+    introduction: rs
+    moves:
+    - bw: [Giga Impact, Hyper Beam, Strength]
+    - dp: [Giga Impact, Hyper Beam, Strength]
+    - rs: [Hyper Beam, Strength]
+    - xy: [Giga Impact, Hyper Beam, Strength]
+    stats:
+    - [70, 90, 70, 60, 60, 70]
+    tags:
+    - [NU]
+    types:
+    - [Dark]
+    weight: [37]
+  Poochyena:
+    abilities:
+    - [Run Away]
+    - bw: [Quick Feet, Rattled, Run Away]
+      dp: [Quick Feet, Run Away]
+    egggroups:
+    - [Ground]
+    height: [0.5]
+    introduction: rs
+    moves:
+    - bw: [Assurance, Astonish, Attract, Bite, Covet, Crunch, Dark Pulse, Dig, Double
+          Team, Embargo, Facade, Fire Fang, Foul Play, Frustration, Howl, Hyper Voice,
+        Ice Fang, Incinerate, Iron Tail, Leer, Me First, Odor Sleuth, Payback, Poison
+          Fang, Protect, Rain Dance, Rest, Retaliate, Return, Roar, Rock Smash, Round,
+        Sand Attack, Scary Face, Shadow Ball, Sleep Talk, Snarl, Snatch, Snore, Spite,
+        Substitute, Sucker Punch, Sunny Day, Super Fang, Swagger, Tackle, Take Down,
+        Taunt, Thief, Thunder Fang, Torment, Toxic, Uproar, Yawn, Body Slam, Double-Edge,
+        Heal Bell, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - dp: [Assurance, Astonish, Attract, Bite, Captivate, Covet, Crunch, Dark Pulse,
+        Dig, Double Team, Embargo, Endure, Facade, Fire Fang, Frustration, Headbutt,
+        Howl, Ice Fang, Iron Tail, Leer, Me First, Mud-Slap, Natural Gift, Odor Sleuth,
+        Payback, Poison Fang, Protect, Rain Dance, Rest, Return, Roar, Rock Smash,
+        Sand Attack, Scary Face, Secret Power, Shadow Ball, Sleep Talk, Snatch, Snore,
+        Spite, Substitute, Sucker Punch, Sunny Day, Super Fang, Swagger, Tackle, Take
+          Down, Taunt, Thief, Thunder Fang, Torment, Toxic, Uproar, Yawn, Body Slam,
+        Double-Edge, Heal Bell, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Astonish, Attract, Bite, Counter, Covet, Crunch, Dig, Double Team, Endure,
+        Facade, Frustration, Howl, Iron Tail, Leer, Mud-Slap, Odor Sleuth, Poison
+          Fang, Protect, Psych Up, Rain Dance, Rest, Return, Roar, Rock Smash, Sand
+          Attack, Scary Face, Secret Power, Shadow Ball, Sleep Talk, Snatch, Snore,
+        Substitute, Sunny Day, Swagger, Tackle, Take Down, Taunt, Thief, Torment,
+        Toxic, Yawn, Heal Bell, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Assurance, Astonish, Attract, Bite, Body Slam, Captivate, Counter, Covet,
+        Crunch, Dark Pulse, Dig, Double-Edge, Double Team, Embargo, Endure, Facade,
+        Fire Fang, Frustration, Headbutt, Heal Bell, Howl, Ice Fang, Incinerate, Iron
+          Tail, Leer, Me First, Mimic, Mud-Slap, Natural Gift, Odor Sleuth, Payback,
+        Poison Fang, Protect, Psych Up, Rain Dance, Rest, Retaliate, Return, Roar,
+        Rock Smash, Round, Sand Attack, Scary Face, Secret Power, Shadow Ball, Sleep
+          Talk, Snarl, Snatch, Snore, Spite, Substitute, Sucker Punch, Sunny Day,
+        Super Fang, Swagger, Tackle, Take Down, Taunt, Thief, Thunder Fang, Torment,
+        Toxic, Uproar, Yawn, Foul Play, Hyper Voice, Confide, Play Rough, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [35, 55, 35, 30, 30, 35]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Dark]
+    weight: [13.6]

@@ -1,0 +1,98 @@
+pokemon:
+  Grumpig:
+    abilities:
+    - [Own Tempo, Thick Fat]
+    - bw: [Gluttony, Own Tempo, Thick Fat]
+    egggroups:
+    - [Ground]
+    evolvesFrom: [Spoink]
+    height: [0.9]
+    introduction: rs
+    moves:
+    - bw: [Brick Break, Bulldoze, Drain Punch, Energy Ball, Fire Punch, Fling, Focus
+          Blast, Giga Impact, Hyper Beam, Ice Punch, Thunder Punch, Seismic Toss]
+    - dp: [Brick Break, Drain Punch, Energy Ball, Fire Punch, Fling, Focus Blast,
+        Focus Punch, Giga Impact, Hyper Beam, Ice Punch, Mud-Slap, Thunder Punch,
+        Seismic Toss]
+    - rs: [Counter, Dynamic Punch, Fire Punch, Focus Punch, Hyper Beam, Ice Punch,
+        Mega Kick, Mega Punch, Mud-Slap, Thunder Punch]
+    - xy: [Brick Break, Bulldoze, Counter, Drain Punch, Dynamic Punch, Energy Ball,
+        Fire Punch, Fling, Focus Blast, Focus Punch, Giga Impact, Hyper Beam, Ice
+          Punch, Mega Kick, Mega Punch, Mud-Slap, Seismic Toss, Thunder Punch, Power-Up
+          Punch]
+    stats:
+    - [80, 45, 65, 90, 110, 80]
+    tags:
+    - [UU]
+    - dp: [NU]
+    types:
+    - [Psychic]
+    weight: [71.5]
+  Spoink:
+    abilities:
+    - [Own Tempo, Thick Fat]
+    - bw: [Gluttony, Own Tempo, Thick Fat]
+    egggroups:
+    - [Ground]
+    height: [0.7]
+    introduction: rs
+    moves:
+    - bw: [Amnesia, Attract, Bounce, Calm Mind, Charge Beam, Confuse Ray, Covet, Double
+          Team, Dream Eater, Endure, Extrasensory, Facade, Flash, Frustration, Future
+          Sight, Grass Knot, Heal Bell, Iron Tail, Light Screen, Lucky Chant, Magic
+          Coat, Mirror Coat, Odor Sleuth, Payback, Power Gem, Protect, Psybeam, Psych
+          Up, Psychic, Psyshock, Psywave, Rain Dance, Recycle, Reflect, Rest, Return,
+        Role Play, Round, Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snatch,
+        Snore, Splash, Substitute, Sunny Day, Swagger, Taunt, Telekinesis, Thief,
+        Thunder Wave, Torment, Toxic, Trick, Trick Room, Whirlwind, Zen Headbutt,
+        Body Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Amnesia, Attract, Bounce, Calm Mind, Captivate, Charge Beam, Confuse Ray,
+        Double Team, Dream Eater, Endure, Extrasensory, Facade, Flash, Frustration,
+        Future Sight, Grass Knot, Headbutt, Heal Bell, Iron Tail, Light Screen, Magic
+          Coat, Mirror Coat, Natural Gift, Odor Sleuth, Payback, Power Gem, Protect,
+        Psybeam, Psych Up, Psychic, Psywave, Rain Dance, Recycle, Reflect, Rest, Return,
+        Role Play, Secret Power, Shadow Ball, Shock Wave, Signal Beam, Skill Swap,
+        Sleep Talk, Snatch, Snore, Splash, Substitute, Sunny Day, Swagger, Swift,
+        Taunt, Thief, Thunder Wave, Torment, Toxic, Trick, Trick Room, Zen Headbutt,
+        Body Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Attract, Bounce, Calm Mind, Confuse Ray, Double Team, Dream Eater, Endure,
+        Extrasensory, Facade, Flash, Frustration, Future Sight, Iron Tail, Light Screen,
+        Magic Coat, Odor Sleuth, Protect, Psybeam, Psych Up, Psychic, Psywave, Rain
+          Dance, Reflect, Rest, Return, Secret Power, Shadow Ball, Shock Wave, Skill
+          Swap, Sleep Talk, Snatch, Snore, Splash, Substitute, Sunny Day, Swagger,
+        Swift, Taunt, Thief, Torment, Toxic, Trick, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Amnesia, Attract, Body Slam, Bounce, Calm Mind, Captivate, Charge Beam,
+        Confuse Ray, Double-Edge, Double Team, Dream Eater, Endure, Extrasensory,
+        Facade, Flash, Frustration, Future Sight, Grass Knot, Headbutt, Heal Bell,
+        Icy Wind, Iron Tail, Light Screen, Lucky Chant, Magic Coat, Mimic, Mirror
+          Coat, Natural Gift, Odor Sleuth, Payback, Power Gem, Protect, Psybeam, Psychic,
+        Psych Up, Psyshock, Psywave, Rain Dance, Recycle, Reflect, Rest, Return, Role
+          Play, Round, Secret Power, Shadow Ball, Shock Wave, Signal Beam, Skill Swap,
+        Sleep Talk, Snatch, Snore, Splash, Substitute, Sunny Day, Swagger, Swift,
+        Taunt, Telekinesis, Thief, Thunder Wave, Torment, Toxic, Trick, Trick Room,
+        Uproar, Whirlwind, Zen Headbutt, Covet, Confide, Simple Beam, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [60, 25, 35, 70, 80, 60]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Psychic]
+    weight: [30.6]

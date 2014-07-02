@@ -1,0 +1,122 @@
+pokemon:
+  Grovyle:
+    abilities:
+    - [Overgrow]
+    - bw: [Overgrow, Unburden]
+    egggroups:
+    - [Dragon, Monster]
+    evolvesFrom: [Treecko]
+    height: [0.9]
+    introduction: rs
+    moves:
+    - bw: [False Swipe, Fury Cutter, Leaf Blade, Low Sweep, X-Scissor]
+    - dp: [False Swipe, Leaf Blade, X-Scissor]
+    - rs: [False Swipe, Leaf Blade]
+    - xy: [False Swipe, Leaf Blade, Low Sweep, X-Scissor]
+    stats:
+    - [50, 65, 45, 85, 65, 95]
+    tags:
+    - [NFE]
+    types:
+    - [Grass]
+    weight: [21.6]
+  Sceptile:
+    abilities:
+    - [Overgrow]
+    - bw: [Overgrow, Unburden]
+    egggroups:
+    - [Dragon, Monster]
+    evolvesFrom: [Grovyle]
+    height: [1.7]
+    introduction: rs
+    moves:
+    - bw: [Bulldoze, Dragon Claw, Dragon Pulse, Earthquake, Focus Blast, Frenzy Plant,
+        Giga Impact, Hone Claws, Hyper Beam, Night Slash, Outrage, Roar]
+    - dp: [Dragon Claw, Dragon Pulse, Earthquake, Focus Blast, Frenzy Plant, Giga
+          Impact, Hyper Beam, Night Slash, Outrage, Roar, Rock Climb]
+    - rs: [Dragon Claw, Earthquake, Hyper Beam, Roar]
+    - xy: [Bulldoze, Dragon Claw, Dragon Pulse, Earthquake, Focus Blast, Frenzy Plant,
+        Giga Impact, Hone Claws, Hyper Beam, Night Slash, Outrage, Roar, Rock Climb]
+    stats:
+    - [70, 85, 65, 105, 85, 120]
+    tags:
+    - [BL]
+    - bw: [RU]
+    - dp: [UU]
+    types:
+    - [Grass]
+    weight: [52.2]
+  Treecko:
+    abilities:
+    - [Overgrow]
+    - bw: [Overgrow, Unburden]
+    egggroups:
+    - [Dragon, Monster]
+    height: [0.5]
+    introduction: rs
+    moves:
+    - bw: [Absorb, Acrobatics, Aerial Ace, Agility, Attract, Brick Break, Bullet Seed,
+        Crunch, Crush Claw, Cut, Detect, Dig, Double Kick, Double Team, Dragon Breath,
+        Drain Punch, Endeavor, Energy Ball, Facade, Flash, Fling, Frustration, Giga
+          Drain, Grass Knot, Grass Pledge, Grass Whistle, Iron Tail, Leaf Storm, Leech
+          Seed, Leer, Low Kick, Magical Leaf, Mega Drain, Mud Sport, Natural Gift,
+        Pound, Protect, Pursuit, Quick Attack, Razor Wind, Rest, Return, Rock Slide,
+        Rock Smash, Rock Tomb, Round, Safeguard, Screech, Seed Bomb, Slam, Sleep Talk,
+        Snore, Solar Beam, Strength, Substitute, Sunny Day, Swagger, Swords Dance,
+        Synthesis, Thunder Punch, Toxic, Worry Seed, Body Slam, Double-Edge, Mimic,
+        Seismic Toss, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - dp: [Absorb, Aerial Ace, Agility, Attract, Brick Break, Bullet Seed, Captivate,
+        Crunch, Crush Claw, Cut, Detect, Dig, Double Kick, Double Team, Dragon Breath,
+        Drain Punch, Endeavor, Endure, Energy Ball, Facade, Flash, Fling, Focus Punch,
+        Frustration, Fury Cutter, Giga Drain, Grass Knot, Grass Whistle, Headbutt,
+        Iron Tail, Leaf Storm, Leech Seed, Leer, Low Kick, Magical Leaf, Mega Drain,
+        Mud-Slap, Mud Sport, Natural Gift, Pound, Protect, Pursuit, Quick Attack,
+        Razor Wind, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Safeguard, Screech,
+        Secret Power, Seed Bomb, Slam, Sleep Talk, Snore, Solar Beam, Strength, Substitute,
+        Sunny Day, Swagger, Swift, Swords Dance, Synthesis, Thunder Punch, Toxic,
+        Worry Seed, Body Slam, Double-Edge, Mimic, Seismic Toss, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - rs: [Absorb, Aerial Ace, Agility, Attract, Brick Break, Bullet Seed, Counter,
+        Crunch, Crush Claw, Cut, Detect, Dig, Double Team, Dragon Breath, Dynamic
+          Punch, Endeavor, Endure, Facade, Flash, Focus Punch, Frustration, Fury Cutter,
+        Giga Drain, Iron Tail, Leech Seed, Leer, Mega Drain, Mega Kick, Mega Punch,
+        Mud-Slap, Mud Sport, Pound, Protect, Pursuit, Quick Attack, Rest, Return,
+        Rock Smash, Rock Tomb, Safeguard, Screech, Secret Power, Slam, Sleep Talk,
+        Snore, Solar Beam, Strength, Substitute, Sunny Day, Swagger, Swift, Swords
+          Dance, Thunder Punch, Toxic, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Absorb, Acrobatics, Aerial Ace, Agility, Attract, Body Slam, Brick Break,
+        Bullet Seed, Captivate, Counter, Crunch, Crush Claw, Cut, Detect, Dig, Double-Edge,
+        Double Kick, Double Team, Dragon Breath, Drain Punch, Dynamic Punch, Endeavor,
+        Endure, Energy Ball, Facade, Flash, Fling, Focus Punch, Frustration, Fury
+          Cutter, Giga Drain, Grass Knot, Grass Pledge, Grass Whistle, Headbutt, Iron
+          Tail, Leaf Storm, Leech Seed, Leer, Low Kick, Magical Leaf, Mega Drain,
+        Mega Kick, Mega Punch, Mimic, Mud-Slap, Mud Sport, Natural Gift, Pound, Protect,
+        Pursuit, Quick Attack, Razor Wind, Rest, Return, Rock Slide, Rock Smash, Rock
+          Tomb, Round, Safeguard, Screech, Secret Power, Seed Bomb, Seismic Toss,
+        Slam, Sleep Talk, Snore, Solar Beam, Strength, Substitute, Sunny Day, Swagger,
+        Swift, Swords Dance, Synthesis, Thunder Punch, Toxic, Worry Seed, Nature Power,
+        Power-Up Punch, Confide, Grassy Terrain, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [40, 45, 35, 65, 55, 70]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Grass]
+    weight: [5]

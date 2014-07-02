@@ -1,0 +1,49 @@
+pokemon:
+  Victini:
+    abilities:
+    - [Victory Star]
+    egggroups:
+    - []
+    height: [0.4]
+    introduction: bw
+    moves:
+    - bw: [Blue Flare, Bolt Strike, Bounce, Brick Break, Charge Beam, Confusion, Double-Edge,
+        Double Team, Embargo, Endure, Energy Ball, Facade, Final Gambit, Fire Blast,
+        Fire Punch, Flame Burst, Flame Charge, Flamethrower, Flare Blitz, Flash, Fling,
+        Focus Blast, Focus Energy, Frustration, Fusion Flare, Fusion Bolt, Giga Impact,
+        Glaciate, Grass Knot, Headbutt, Heat Wave, Helping Hand, Hyper Beam, Incinerate,
+        Inferno, Last Resort, Light Screen, Magic Coat, Overheat, Protect, Psych Up,
+        Psychic, Psyshock, Quick Attack, Rest, Return, Reversal, Rock Smash, Role
+          Play, Round, Safeguard, Searing Shot, Shadow Ball, Signal Beam, Skill Swap,
+        Sleep Talk, Snore, Solar Beam, Stored Power, Substitute, Sunny Day, Swagger,
+        Taunt, Telekinesis, Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Toxic,
+        Trick, Trick Room, U-turn, Uproar, V-create, Wild Charge, Will-O-Wisp, Work
+          Up, Zen Headbutt, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - xy: [Blue Flare, Bolt Strike, Brick Break, Charge Beam, Confusion, Double-Edge,
+        Double Team, Embargo, Endure, Energy Ball, Facade, Final Gambit, Fire Blast,
+        Flame Burst, Flame Charge, Flamethrower, Flare Blitz, Flash, Fling, Focus
+          Blast, Focus Energy, Frustration, Fusion Bolt, Fusion Flare, Giga Impact,
+        Glaciate, Grass Knot, Headbutt, Hyper Beam, Incinerate, Inferno, Light Screen,
+        Overheat, Protect, Psychic, Psych Up, Psyshock, Quick Attack, Rest, Return,
+        Reversal, Rock Smash, Round, Safeguard, Searing Shot, Shadow Ball, Solar Beam,
+        Stored Power, Substitute, Sunny Day, Swagger, Taunt, Telekinesis, Thunder,
+        Thunderbolt, Thunder Wave, Toxic, Trick Room, U-turn, V-create, Wild Charge,
+        Will-O-Wisp, Work Up, Zen Headbutt, Signal Beam, Bounce, Uproar, Thunder Punch,
+        Fire Punch, Magic Coat, Last Resort, Snore, Heat Wave, Role Play, Helping
+          Hand, Trick, Sleep Talk, Skill Swap, Power-Up Punch, Dazzling Gleam, Confide,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [100, 100, 100, 100, 100, 100]
+    tags:
+    - [UU]
+    types:
+    - [Fire, Psychic]
+    weight: [4]

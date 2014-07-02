@@ -1,0 +1,74 @@
+pokemon:
+  Delibird:
+    abilities:
+    - bw: [Hustle, Insomnia, Vital Spirit]
+    - rs: [Hustle, Vital Spirit]
+    - []
+    egggroups:
+    - [Ground, Water-1]
+    height: [0.9]
+    introduction: gs
+    moves:
+    - gs: [Attract, Aurora Beam, Blizzard, Curse, Detect, Double Team, Endure, Fly,
+        Frustration, Future Sight, Headbutt, Ice Beam, Icy Wind, Mud-Slap, Present,
+        Protect, Quick Attack, Rain Dance, Rapid Spin, Rest, Return, Sleep Talk, Snore,
+        Splash, Swagger, Swift, Thief, Toxic, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - bw: [Aerial Ace, Attract, Aurora Beam, Bestow, Blizzard, Body Slam, Bounce,
+        Brick Break, Double-Edge, Double Team, Facade, Fake Out, Fling, Fly, Frost
+          Breath, Frustration, Future Sight, Gunk Shot, Hail, Ice Ball, Ice Beam,
+        Ice Punch, Ice Shard, Icy Wind, Mimic, Pluck, Present, Protect, Quick Attack,
+        Rain Dance, Rapid Spin, Recycle, Rest, Return, Round, Seed Bomb, Seismic Toss,
+        Signal Beam, Sky Attack, Sleep Talk, Splash, Substitute, Swagger, Thief, Toxic,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - dp: [Aerial Ace, Attract, Aurora Beam, Avalanche, Blizzard, Body Slam, Bounce,
+        Brick Break, Captivate, Defog, Double-Edge, Double Team, Endure, Facade, Fake
+          Out, Fling, Fly, Focus Punch, Frustration, Future Sight, Gunk Shot, Hail,
+        Headbutt, Ice Ball, Ice Beam, Ice Punch, Ice Shard, Icy Wind, Mimic, Mud-Slap,
+        Natural Gift, Pluck, Present, Protect, Quick Attack, Rain Dance, Rapid Spin,
+        Recycle, Rest, Return, Rollout, Secret Power, Seed Bomb, Seismic Toss, Signal
+          Beam, Sky Attack, Sleep Talk, Splash, Substitute, Swagger, Swift, Thief,
+        Toxic, Water Pulse, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Attract, Aurora Beam, Blizzard, Body Slam, Counter, Double-Edge,
+        Double Team, Endure, Facade, Fly, Focus Punch, Frustration, Future Sight,
+        Hail, Ice Ball, Ice Beam, Icy Wind, Mega Kick, Mega Punch, Mimic, Mud-Slap,
+        Present, Protect, Quick Attack, Rain Dance, Rapid Spin, Rest, Return, Secret
+          Power, Seismic Toss, Sky Attack, Sleep Talk, Snore, Splash, Substitute,
+        Swagger, Swift, Thief, Toxic, Water Pulse, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Aerial Ace, Attract, Aurora Beam, Avalanche, Bestow, Blizzard, Body Slam,
+        Bounce, Brick Break, Captivate, Counter, Defog, Double-Edge, Double Team,
+        Endure, Facade, Fake Out, Fling, Fly, Focus Punch, Frost Breath, Frustration,
+        Future Sight, Gunk Shot, Hail, Headbutt, Ice Ball, Ice Beam, Ice Punch, Ice
+          Shard, Icy Wind, Mega Kick, Mega Punch, Mimic, Mud-Slap, Natural Gift, Pluck,
+        Present, Protect, Quick Attack, Rain Dance, Rapid Spin, Recycle, Rest, Return,
+        Rollout, Round, Secret Power, Seed Bomb, Seismic Toss, Signal Beam, Sky Attack,
+        Sleep Talk, Snore, Splash, Substitute, Swagger, Swift, Thief, Toxic, Water
+          Pulse, Power-Up Punch, Confide, Freeze-Dry, Destiny Bond, Spikes, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [45, 55, 45, 65, 45, 75]
+    tags:
+    - [UU]
+    - rs: [NU]
+    types:
+    - [Flying, Ice]
+    weight: [16]

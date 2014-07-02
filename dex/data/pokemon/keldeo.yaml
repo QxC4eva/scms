@@ -1,0 +1,40 @@
+pokemon:
+  Keldeo:
+    abilities:
+    - [Justified]
+    egggroups:
+    - []
+    height: [1.4]
+    introduction: bw
+    moves:
+    - bw: [Aerial Ace, Aqua Jet, Aqua Tail, Bounce, Bubble Beam, Calm Mind, Close
+          Combat, Covet, Cut, Double Kick, Double Team, Endeavor, Facade, False Swipe,
+        Focus Blast, Frustration, Giga Impact, Hail, Helping Hand, Hydro Pump, Hyper
+          Beam, Icy Wind, Last Resort, Leer, Poison Jab, Protect, Psych Up, Quick
+          Guard, Rain Dance, Reflect, Rest, Retaliate, Return, Roar, Rock Smash, Round,
+        Sacred Sword, Safeguard, Scald, Secret Sword, Sleep Talk, Snore, Stone Edge,
+        Strength, Substitute, Superpower, Surf, Swagger, Swords Dance, Take Down,
+        Taunt, Toxic, Work Up, X-Scissor, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Aerial Ace, Aqua Jet, Aqua Tail, Bubble Beam, Calm Mind, Close Combat,
+        Cut, Double Kick, Double Team, Facade, False Swipe, Focus Blast, Frustration,
+        Giga Impact, Hail, Helping Hand, Hydro Pump, Hyper Beam, Leer, Poison Jab,
+        Protect, Psych Up, Quick Guard, Rain Dance, Reflect, Rest, Retaliate, Return,
+        Roar, Rock Smash, Round, Sacred Sword, Safeguard, Scald, Secret Sword, Stone
+          Edge, Strength, Substitute, Surf, Swagger, Swords Dance, Take Down, Taunt,
+        Toxic, Work Up, X-Scissor, Covet, Bounce, Last Resort, Superpower, Icy Wind,
+        Snore, Endeavor, Sleep Talk, Confide, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [91, 72, 90, 129, 90, 108]
+    tags:
+    - [OU]
+    types:
+    - [Fighting, Water]
+    weight: [48.5]

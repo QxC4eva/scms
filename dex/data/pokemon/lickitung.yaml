@@ -1,0 +1,121 @@
+pokemon:
+  Lickilicky:
+    abilities:
+    - [Cloud Nine, Oblivious, Own Tempo]
+    egggroups:
+    - [Monster]
+    evolvesFrom: [Lickitung]
+    height: [1.7]
+    introduction: dp
+    moves:
+    - bw: [Block, Explosion, Focus Blast, Gyro Ball]
+    - dp: [Block, Explosion, Focus Blast, Gyro Ball]
+    - xy: [Block, Explosion, Focus Blast, Gyro Ball]
+    stats:
+    - [110, 85, 95, 80, 95, 50]
+    tags:
+    - [NU]
+    types:
+    - [Normal]
+    weight: [140]
+  Lickitung:
+    abilities:
+    - bw: [Cloud Nine, Oblivious, Own Tempo]
+    - rs: [Oblivious, Own Tempo]
+    - []
+    egggroups:
+    - [Monster]
+    height: [1.2]
+    introduction: rb
+    moves:
+    - gs: [Attract, Belly Drum, Blizzard, Body Slam, Curse, Cut, Defense Curl, Disable,
+        Double Team, Dream Eater, Dynamic Punch, Earthquake, Endure, Fire Blast, Fire
+          Punch, Flamethrower, Frustration, Headbutt, Hyper Beam, Ice Beam, Ice Punch,
+        Icy Wind, Iron Tail, Lick, Magnitude, Mud-Slap, Nightmare, Protect, Psych
+          Up, Rain Dance, Rest, Return, Rock Smash, Rollout, Sandstorm, Screech, Shadow
+          Ball, Slam, Sleep Talk, Snore, Stomp, Strength, Sunny Day, Supersonic, Surf,
+        Swagger, Thief, Thunder, Thunderbolt, Thunder Punch, Toxic, Wrap, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - bw: [Amnesia, Aqua Tail, Attract, Belly Drum, Bind, Blizzard, Body Slam, Brick
+          Break, Bulldoze, Chip Away, Curse, Cut, Defense Curl, Dig, Disable, Double
+          Team, Dragon Tail, Dream Eater, Earthquake, Facade, Fire Blast, Fire Punch,
+        Flamethrower, Fling, Frustration, Giga Impact, Hammer Arm, Hyper Beam, Ice
+          Beam, Ice Punch, Incinerate, Iron Tail, Knock Off, Lick, Magnitude, Me First,
+        Muddy Water, Power Whip, Protect, Psych Up, Rain Dance, Refresh, Rest, Retaliate,
+        Return, Rock Slide, Rock Smash, Rock Tomb, Rollout, Round, Sandstorm, Screech,
+        Shadow Ball, Slam, Sleep Talk, Smelling Salts, Snore, Solar Beam, Stomp, Strength,
+        Substitute, Sunny Day, Supersonic, Surf, Swagger, Swords Dance, Thief, Thunder,
+        Thunderbolt, Thunder Punch, Toxic, Work Up, Wrap, Wring Out, Zen Headbutt,
+        Helping Hand, Mimic, Nightmare, Seismic Toss, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Amnesia, Aqua Tail, Attract, Belly Drum, Blizzard, Body Slam, Brick Break,
+        Captivate, Curse, Cut, Defense Curl, Dig, Disable, Double Team, Dream Eater,
+        Earthquake, Endure, Facade, Fire Blast, Fire Punch, Flamethrower, Fling, Focus
+          Punch, Frustration, Giga Impact, Hammer Arm, Headbutt, Hyper Beam, Ice Beam,
+        Ice Punch, Iron Tail, Knock Off, Lick, Magnitude, Me First, Mud-Slap, Muddy
+          Water, Natural Gift, Power Whip, Protect, Psych Up, Rain Dance, Refresh,
+        Rest, Return, Rock Climb, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sandstorm,
+        Screech, Secret Power, Shadow Ball, Shock Wave, Slam, Sleep Talk, Smelling
+          Salts, Snore, Solar Beam, Stomp, Strength, Substitute, Sunny Day, Supersonic,
+        Surf, Swagger, Swords Dance, Thief, Thunder, Thunderbolt, Thunder Punch, Toxic,
+        Water Pulse, Whirlpool, Wrap, Wring Out, Zen Headbutt, Helping Hand, Mimic,
+        Nightmare, Seismic Toss, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Attract, Belly Drum, Blizzard, Body Slam, Brick Break, Counter, Curse,
+        Cut, Defense Curl, Dig, Disable, Double Team, Dream Eater, Dynamic Punch,
+        Earthquake, Endure, Facade, Fire Blast, Fire Punch, Flamethrower, Focus Punch,
+        Frustration, Hyper Beam, Ice Beam, Ice Punch, Iron Tail, Knock Off, Lick,
+        Magnitude, Mega Kick, Mega Punch, Mud-Slap, Protect, Psych Up, Rain Dance,
+        Refresh, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sandstorm,
+        Screech, Secret Power, Shadow Ball, Shock Wave, Slam, Sleep Talk, Smelling
+          Salts, Snore, Solar Beam, Stomp, Strength, Substitute, Sunny Day, Supersonic,
+        Surf, Swagger, Swords Dance, Thief, Thunder, Thunderbolt, Thunder Punch, Toxic,
+        Water Pulse, Wrap, Helping Hand, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rb: [Bide, Blizzard, Body Slam, Bubble Beam, Counter, Cut, Defense Curl, Disable,
+        Double-Edge, Double Team, Earthquake, Fire Blast, Fissure, Hyper Beam, Ice
+          Beam, Mega Kick, Mega Punch, Mimic, Rage, Rest, Screech, Seismic Toss, Skull
+          Bash, Slam, Stomp, Strength, Submission, Substitute, Supersonic, Surf, Swords
+          Dance, Take Down, Thunder, Thunderbolt, Toxic, Water Gun, Wrap]
+    - xy: [Amnesia, Aqua Tail, Attract, Belly Drum, Blizzard, Body Slam, Brick Break,
+        Bulldoze, Captivate, Chip Away, Counter, Curse, Cut, Defense Curl, Dig, Disable,
+        Double-Edge, Double Team, Dragon Tail, Dream Eater, Dynamic Punch, Earthquake,
+        Endure, Facade, Fire Blast, Fire Punch, Flamethrower, Fling, Focus Punch,
+        Frustration, Giga Impact, Hammer Arm, Headbutt, Heal Bell, Helping Hand, Hyper
+          Beam, Ice Beam, Ice Punch, Icy Wind, Incinerate, Iron Tail, Knock Off, Lick,
+        Magnitude, Me First, Mega Kick, Mega Punch, Mimic, Muddy Water, Mud-Slap,
+        Natural Gift, Nightmare, Power Whip, Protect, Psych Up, Rain Dance, Refresh,
+        Rest, Retaliate, Return, Rock Climb, Rock Slide, Rock Smash, Rock Tomb, Rollout,
+        Round, Sandstorm, Screech, Secret Power, Seismic Toss, Shadow Ball, Shock
+          Wave, Slam, Sleep Talk, Smelling Salts, Snore, Solar Beam, Stomp, Strength,
+        Substitute, Sunny Day, Supersonic, Surf, Swagger, Swords Dance, Thief, Thunder,
+        Thunderbolt, Thunder Punch, Toxic, Water Pulse, Whirlpool, Wish, Work Up,
+        Wrap, Wring Out, Zen Headbutt, Bind, Power-Up Punch, Confide, Belch, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [90, 55, 75, 60, 60, 30]
+    - gs: [90, 55, 75, 60, 75, 30]
+    tags:
+    - [UU]
+    - dp: [LC]
+      rs: [NU]
+    types:
+    - [Normal]
+    weight: [65.5]

@@ -1,0 +1,98 @@
+pokemon:
+  Electrode:
+    abilities:
+    - bw: [Aftermath, Soundproof, Static]
+    - rs: [Soundproof, Static]
+    - []
+    egggroups:
+    - [Mineral]
+    evolvesFrom: [Voltorb]
+    height: [1.2]
+    introduction: rb
+    moves:
+    - gs: [Hyper Beam]
+    - bw: [Giga Impact, Hyper Beam]
+    - dp: [Giga Impact, Hyper Beam]
+    - rs: [Hyper Beam]
+    - rb: [Hyper Beam, Skull Bash]
+    - xy: [Giga Impact, Hyper Beam, Magnetic Flux]
+    stats:
+    - [60, 50, 70, 80, 80, 140]
+    - gs: [60, 50, 70, 80, 80, 140]
+    tags:
+    - [UU]
+    - dp: [NU]
+    types:
+    - [Electric]
+    weight: [66.6]
+  Voltorb:
+    abilities:
+    - bw: [Aftermath, Soundproof, Static]
+    - rs: [Soundproof, Static]
+    - []
+    egggroups:
+    - [Mineral]
+    height: [0.5]
+    introduction: rb
+    moves:
+    - gs: [Curse, Double Team, Endure, Explosion, Flash, Frustration, Headbutt, Light
+          Screen, Mirror Coat, Protect, Rain Dance, Rest, Return, Rollout, Screech,
+        Self-Destruct, Sleep Talk, Snore, Sonic Boom, Swagger, Swift, Tackle, Thunder,
+        Thunderbolt, Toxic, Zap Cannon, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - bw: [Charge, Charge Beam, Double Team, Electro Ball, Explosion, Facade, Flash,
+        Foul Play, Frustration, Gyro Ball, Light Screen, Magic Coat, Magnet Rise,
+        Mirror Coat, Protect, Rain Dance, Rest, Return, Rollout, Round, Screech, Self-Destruct,
+        Signal Beam, Sleep Talk, Snore, Sonic Boom, Spark, Substitute, Swagger, Swift,
+        Tackle, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Torment, Toxic,
+        Volt Switch, Wild Charge, Mimic, Refresh, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Charge, Charge Beam, Double Team, Endure, Explosion, Facade, Flash, Frustration,
+        Gyro Ball, Headbutt, Light Screen, Magic Coat, Magnet Rise, Mirror Coat, Natural
+          Gift, Protect, Rain Dance, Rest, Return, Rollout, Screech, Secret Power,
+        Self-Destruct, Shock Wave, Signal Beam, Sleep Talk, Snore, Sonic Boom, Spark,
+        Substitute, Sucker Punch, Swagger, Swift, Tackle, Taunt, Thief, Thunder, Thunder
+          Wave, Thunderbolt, Torment, Toxic, Mimic, Refresh, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Charge, Double Team, Endure, Explosion, Facade, Flash, Frustration, Light
+          Screen, Mirror Coat, Protect, Rain Dance, Rest, Return, Rollout, Screech,
+        Secret Power, Self-Destruct, Shock Wave, Sleep Talk, Snore, Sonic Boom, Spark,
+        Substitute, Swagger, Swift, Tackle, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt,
+        Torment, Toxic, Refresh, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rb: [Bide, Double Team, Explosion, Flash, Light Screen, Mimic, Rage, Reflect,
+        Rest, Screech, Self-Destruct, Sonic Boom, Substitute, Swift, Tackle, Take
+          Down, Teleport, Thunder, Thunder Wave, Thunderbolt, Toxic]
+    - xy: [Charge, Charge Beam, Double Team, Electro Ball, Endure, Explosion, Facade,
+        Flash, Frustration, Gyro Ball, Headbutt, Light Screen, Magic Coat, Magnet
+          Rise, Mimic, Mirror Coat, Natural Gift, Protect, Rain Dance, Refresh, Rest,
+        Return, Rollout, Round, Screech, Secret Power, Self-Destruct, Shock Wave,
+        Signal Beam, Sleep Talk, Snore, Sonic Boom, Spark, Substitute, Sucker Punch,
+        Swagger, Swift, Tackle, Taunt, Thief, Thunder, Thunderbolt, Thunder Wave,
+        Torment, Toxic, Volt Switch, Wild Charge, Foul Play, Eerie Impulse, Confide,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [40, 30, 50, 55, 55, 100]
+    - gs: [40, 30, 50, 55, 55, 100]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Electric]
+    weight: [10.4]

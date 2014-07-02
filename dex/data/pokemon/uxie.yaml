@@ -1,0 +1,62 @@
+pokemon:
+  Uxie:
+    abilities:
+    - [Levitate]
+    egggroups:
+    - []
+    height: [0.3]
+    introduction: dp
+    moves:
+    - bw: [Acrobatics, Amnesia, Calm Mind, Charge Beam, Confusion, Double Team, Dream
+          Eater, Endure, Energy Ball, Extrasensory, Facade, Fire Punch, Flail, Flash,
+        Fling, Foul Play, Frustration, Future Sight, Giga Drain, Giga Impact, Grass
+          Knot, Heal Bell, Helping Hand, Hyper Beam, Ice Punch, Imprison, Iron Tail,
+        Knock Off, Light Screen, Magic Coat, Magic Room, Memento, Natural Gift, Protect,
+        Psych Up, Psychic, Psyshock, Rain Dance, Recycle, Reflect, Rest, Return, Role
+          Play, Round, Safeguard, Sandstorm, Shadow Ball, Signal Beam, Skill Swap,
+        Sleep Talk, Snore, Solar Beam, Stealth Rock, Substitute, Sunny Day, Swagger,
+        Swift, Telekinesis, Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Toxic,
+        Trick, Trick Room, U-turn, Wonder Room, Yawn, Zen Headbutt, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - dp: [Amnesia, Calm Mind, Charge Beam, Confusion, Double Team, Dream Eater, Endure,
+        Energy Ball, Extrasensory, Facade, Fire Punch, Flail, Flash, Fling, Frustration,
+        Future Sight, Giga Drain, Giga Impact, Grass Knot, Headbutt, Heal Bell, Helping
+          Hand, Hyper Beam, Ice Punch, Imprison, Iron Tail, Knock Off, Light Screen,
+        Magic Coat, Memento, Mud-Slap, Natural Gift, Protect, Psych Up, Psychic, Rain
+          Dance, Recycle, Reflect, Rest, Return, Role Play, Safeguard, Sandstorm,
+        Secret Power, Shadow Ball, Shock Wave, Signal Beam, Skill Swap, Sleep Talk,
+        Snore, Solar Beam, Stealth Rock, Substitute, Sunny Day, Swagger, Swift, Thunder,
+        Thunder Wave, Thunderbolt, Thunder Punch, Toxic, Trick, Trick Room, U-turn,
+        Water Pulse, Yawn, Zen Headbutt, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Acrobatics, Amnesia, Calm Mind, Charge Beam, Confusion, Double Team, Dream
+          Eater, Endure, Energy Ball, Extrasensory, Facade, Fire Punch, Flail, Flash,
+        Fling, Frustration, Future Sight, Giga Drain, Giga Impact, Grass Knot, Headbutt,
+        Heal Bell, Helping Hand, Hyper Beam, Ice Punch, Imprison, Iron Tail, Knock
+          Off, Light Screen, Magic Coat, Memento, Mud-Slap, Natural Gift, Protect,
+        Psychic, Psych Up, Psyshock, Rain Dance, Recycle, Reflect, Rest, Return, Role
+          Play, Round, Safeguard, Sandstorm, Secret Power, Shadow Ball, Shock Wave,
+        Signal Beam, Skill Swap, Sleep Talk, Snore, Solar Beam, Stealth Rock, Substitute,
+        Sunny Day, Swagger, Swift, Telekinesis, Thunder, Thunderbolt, Thunder Punch,
+        Thunder Wave, Toxic, Trick, Trick Room, U-turn, Water Pulse, Yawn, Zen Headbutt,
+        Foul Play, Magic Room, Wonder Room, Power-Up Punch, Dazzling Gleam, Confide,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [75, 75, 130, 75, 130, 95]
+    tags:
+    - [UU]
+    - bw: [RU]
+    types:
+    - [Psychic]
+    weight: [0.3]

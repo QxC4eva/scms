@@ -1,0 +1,131 @@
+pokemon:
+  Butterfree:
+    abilities:
+    - bw: [Compound Eyes, Tinted Lens]
+    - rs: [Compound Eyes]
+    - []
+    egggroups:
+    - [Bug]
+    evolvesFrom: [Metapod]
+    height: [1.1]
+    introduction: rb
+    moves:
+    - gs: [Attract, Confusion, Curse, Double Team, Endure, Flash, Frustration, Giga
+          Drain, Gust, Hyper Beam, Nightmare, Poison Powder, Protect, Psybeam, Psychic,
+        Rest, Return, Safeguard, Sleep Powder, Sleep Talk, Snore, Solar Beam, Stun
+          Spore, Sunny Day, Supersonic, Swagger, Sweet Scent, Swift, Toxic, Whirlwind,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - bw: [Acrobatics, Aerial Ace, Attract, Bug Buzz, Captivate, Confusion, Double-Edge,
+        Double Team, Dream Eater, Energy Ball, Facade, Flash, Frustration, Giga Drain,
+        Giga Impact, Gust, Hyper Beam, Mimic, Morning Sun, Nightmare, Poison Powder,
+        Protect, Psybeam, Psych Up, Psychic, Quiver Dance, Rage Powder, Rain Dance,
+        Rest, Return, Roost, Round, Safeguard, Shadow Ball, Signal Beam, Silver Wind,
+        Skill Swap, Sleep Powder, Sleep Talk, Solar Beam, Struggle Bug, Stun Spore,
+        Substitute, Sunny Day, Supersonic, Swagger, Tailwind, Thief, Toxic, U-turn,
+        Venoshock, Whirlwind, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - dp: [Aerial Ace, Air Cutter, Attract, Bug Buzz, Captivate, Confusion, Defog,
+        Double-Edge, Double Team, Dream Eater, Endure, Energy Ball, Facade, Flash,
+        Frustration, Giga Drain, Giga Impact, Gust, Hyper Beam, Mimic, Morning Sun,
+        Natural Gift, Nightmare, Ominous Wind, Poison Powder, Protect, Psybeam, Psych
+          Up, Psychic, Rain Dance, Rest, Return, Roost, Safeguard, Secret Power, Shadow
+          Ball, Signal Beam, Silver Wind, Skill Swap, Sleep Powder, Sleep Talk, Solar
+          Beam, Stun Spore, Substitute, Sunny Day, Supersonic, Swagger, Swift, Tailwind,
+        Thief, Toxic, Twister, U-turn, Whirlwind, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Attract, Confusion, Double-Edge, Double Team, Dream Eater,
+        Endure, Facade, Flash, Frustration, Giga Drain, Gust, Hyper Beam, Mimic, Morning
+          Sun, Nightmare, Poison Powder, Protect, Psybeam, Psychic, Rain Dance, Rest,
+        Return, Safeguard, Secret Power, Shadow Ball, Silver Wind, Skill Swap, Sleep
+          Powder, Sleep Talk, Snore, Solar Beam, Stun Spore, Substitute, Sunny Day,
+        Supersonic, Swagger, Swift, Thief, Toxic, Whirlwind, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rb: [Bide, Confusion, Double-Edge, Double Team, Flash, Gust, Hyper Beam, Mega
+          Drain, Mimic, Poison Powder, Psybeam, Psychic, Psywave, Rage, Razor Wind,
+        Reflect, Rest, Sleep Powder, Solar Beam, Stun Spore, Substitute, Supersonic,
+        Swift, Take Down, Teleport, Toxic, Whirlwind]
+    - xy: [Acrobatics, Aerial Ace, Air Cutter, Attract, Bug Buzz, Captivate, Confusion,
+        Defog, Double-Edge, Double Team, Dream Eater, Endure, Energy Ball, Facade,
+        Flash, Frustration, Giga Drain, Giga Impact, Gust, Hyper Beam, Mimic, Morning
+          Sun, Natural Gift, Nightmare, Ominous Wind, Poison Powder, Protect, Psybeam,
+        Psychic, Psych Up, Quiver Dance, Rage Powder, Rain Dance, Rest, Return, Roost,
+        Round, Safeguard, Secret Power, Shadow Ball, Signal Beam, Silver Wind, Skill
+          Swap, Sleep Powder, Sleep Talk, Solar Beam, Struggle Bug, Stun Spore, Substitute,
+        Sunny Day, Supersonic, Swagger, Swift, Tailwind, Thief, Toxic, Twister, U-turn,
+        Venoshock, Whirlwind, Infestation, Confide, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [60, 45, 50, 80, 80, 70]
+    - gs: [60, 45, 50, 80, 80, 70]
+      xy: [60, 45, 50, 90, 80, 70]
+    tags:
+    - [UU]
+    - rs: [NU]
+    types:
+    - [Bug, Flying]
+    weight: [32]
+  Caterpie:
+    abilities:
+    - bw: [Run Away, Shield Dust]
+    - rs: [Shield Dust]
+    - []
+    egggroups:
+    - [Bug]
+    height: [0.3]
+    introduction: rb
+    moves:
+    - gs: [String Shot, Tackle]
+    - bw: [Bug Bite, Electroweb, Snore, String Shot, Tackle]
+    - dp: [Bug Bite, Snore, String Shot, Tackle]
+    - rs: [String Shot, Tackle]
+    - rb: [String Shot, Tackle]
+    - xy: [Bug Bite, Snore, String Shot, Tackle, Electroweb]
+    stats:
+    - [45, 30, 35, 20, 20, 45]
+    - gs: [45, 30, 35, 20, 20, 45]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Bug]
+    weight: [2.9]
+  Metapod:
+    abilities:
+    - rs: [Shed Skin]
+    - []
+    egggroups:
+    - [Bug]
+    evolvesFrom: [Caterpie]
+    height: [0.7]
+    introduction: rb
+    moves:
+    - gs: [Harden]
+    - bw: [Harden, Iron Defense]
+    - dp: [Harden, Iron Defense]
+    - rs: [Harden]
+    - rb: [Harden]
+    - xy: [Harden, Iron Defense]
+    stats:
+    - [50, 20, 55, 25, 25, 30]
+    - gs: [50, 20, 55, 25, 25, 30]
+    tags:
+    - [NFE]
+    types:
+    - [Bug]
+    weight: [9.9]

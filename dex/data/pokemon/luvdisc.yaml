@@ -1,0 +1,59 @@
+pokemon:
+  Luvdisc:
+    abilities:
+    - [Swift Swim]
+    - bw: [Hydration, Swift Swim]
+    egggroups:
+    - [Water 2]
+    height: [0.6]
+    introduction: rs
+    moves:
+    - bw: [Agility, Aqua Jet, Aqua Ring, Attract, Blizzard, Bounce, Brine, Captivate,
+        Charm, Dive, Double Team, Facade, Flail, Frustration, Hail, Heal Pulse, Hydro
+          Pump, Ice Beam, Lucky Chant, Mud Sport, Protect, Psych Up, Rain Dance, Rest,
+        Return, Round, Safeguard, Scald, Sleep Talk, Snore, Splash, Substitute, Supersonic,
+        Surf, Swagger, Sweet Kiss, Tackle, Take Down, Toxic, Water Gun, Water Pulse,
+        Water Sport, Waterfall, Double-Edge, Mimic, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Agility, Aqua Jet, Aqua Ring, Attract, Blizzard, Bounce, Brine, Captivate,
+        Charm, Dive, Double Team, Endure, Facade, Flail, Frustration, Hail, Ice Beam,
+        Lucky Chant, Mud Sport, Natural Gift, Protect, Psych Up, Rain Dance, Rest,
+        Return, Safeguard, Secret Power, Sleep Talk, Snore, Splash, Substitute, Supersonic,
+        Surf, Swagger, Sweet Kiss, Swift, Tackle, Take Down, Toxic, Water Gun, Water
+          Pulse, Water Sport, Waterfall, Whirlpool, Double-Edge, Mimic, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - rs: [Agility, Attract, Blizzard, Charm, Dive, Double Team, Endure, Facade, Flail,
+        Frustration, Hail, Ice Beam, Mud Sport, Protect, Psych Up, Rain Dance, Rest,
+        Return, Safeguard, Secret Power, Sleep Talk, Snore, Splash, Substitute, Supersonic,
+        Surf, Swagger, Sweet Kiss, Swift, Tackle, Take Down, Toxic, Water Gun, Water
+          Pulse, Water Sport, Waterfall, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Agility, Aqua Jet, Aqua Ring, Attract, Blizzard, Bounce, Brine, Captivate,
+        Charm, Dive, Double-Edge, Double Team, Endure, Facade, Flail, Frustration,
+        Hail, Heal Pulse, Hydro Pump, Ice Beam, Icy Wind, Lucky Chant, Mimic, Mud
+          Sport, Natural Gift, Protect, Psych Up, Rain Dance, Rest, Return, Round,
+        Safeguard, Scald, Secret Power, Sleep Talk, Snore, Splash, Substitute, Supersonic,
+        Surf, Swagger, Sweet Kiss, Swift, Tackle, Take Down, Toxic, Waterfall, Water
+          Gun, Water Pulse, Water Sport, Whirlpool, Confide, Entrainment, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [43, 30, 55, 40, 65, 97]
+    tags:
+    - [NU]
+    types:
+    - [Water]
+    weight: [8.7]

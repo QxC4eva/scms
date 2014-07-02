@@ -1,0 +1,81 @@
+pokemon:
+  Scolipede:
+    abilities:
+    - [Poison Point, Quick Feet, Swarm]
+    - xy: [Poison Point, Speed Boost, Swarm]
+    egggroups:
+    - [Bug]
+    evolvesFrom: [Whirlipede]
+    height: [2.5]
+    introduction: bw
+    moves:
+    - bw: [Aqua Tail, Baton Pass, Bulldoze, Cut, Dig, Earthquake, Giga Impact, Hyper
+          Beam, Iron Tail, Megahorn, Rock Slide, Rock Tomb, Snatch, Strength, Superpower,
+        Swords Dance, X-Scissor]
+    - xy: [Baton Pass, Bulldoze, Cut, Dig, Earthquake, Giga Impact, Hyper Beam, Megahorn,
+        Rock Slide, Rock Tomb, Strength, Swords Dance, X-Scissor, Superpower, Aqua
+          Tail, Iron Tail, Snatch]
+    stats:
+    - [60, 90, 89, 55, 69, 112]
+    - xy: [60, 10, 89, 55, 69, 112]
+    tags:
+    - [NU]
+    types:
+    - [Bug, Poison]
+    weight: [200.5]
+  Venipede:
+    abilities:
+    - [Poison Point, Quick Feet, Swarm]
+    - xy: [Poison Point, Speed Boost, Swarm]
+    egggroups:
+    - [Bug]
+    height: [0.4]
+    introduction: bw
+    moves:
+    - bw: [Agility, Attract, Bug Bite, Defense Curl, Double-Edge, Double Team, Endeavor,
+        Facade, Frustration, Gyro Ball, Iron Defense, Payback, Pin Missile, Poison
+          Jab, Poison Sting, Poison Tail, Protect, Pursuit, Rest, Return, Rock Climb,
+        Rock Smash, Rollout, Round, Screech, Sleep Talk, Sludge Bomb, Snore, Solar
+          Beam, Spikes, Steamroller, Struggle Bug, Substitute, Sunny Day, Swagger,
+        Take Down, Toxic, Toxic Spikes, Twineedle, Venoshock, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Agility, Attract, Bug Bite, Defense Curl, Double-Edge, Double Team, Facade,
+        Frustration, Gyro Ball, Payback, Pin Missile, Poison Jab, Poison Sting, Poison
+          Tail, Protect, Pursuit, Rest, Return, Rock Climb, Rock Smash, Rollout, Round,
+        Screech, Sludge Bomb, Solar Beam, Spikes, Steamroller, Struggle Bug, Substitute,
+        Sunny Day, Swagger, Take Down, Toxic, Toxic Spikes, Twineedle, Venoshock,
+        Iron Defense, Snore, Endeavor, Sleep Talk, Infestation, Confide, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [30, 45, 59, 30, 39, 57]
+    tags:
+    - [LC]
+    types:
+    - [Bug, Poison]
+    weight: [5.3]
+  Whirlipede:
+    abilities:
+    - [Poison Point, Quick Feet, Swarm]
+    - xy: [Poison Point, Speed Boost, Swarm]
+    egggroups:
+    - [Bug]
+    evolvesFrom: [Venipede]
+    height: [1.2]
+    introduction: bw
+    moves:
+    - xy: [Venom Drench]
+    - []
+    stats:
+    - [40, 55, 99, 40, 79, 47]
+    tags:
+    - [NFE]
+    types:
+    - [Bug, Poison]
+    weight: [58.5]

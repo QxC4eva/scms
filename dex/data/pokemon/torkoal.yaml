@@ -1,0 +1,68 @@
+pokemon:
+  Torkoal:
+    abilities:
+    - [White Smoke]
+    - bw: [Shell Armor, White Smoke]
+    egggroups:
+    - [Ground]
+    height: [0.5]
+    introduction: rs
+    moves:
+    - bw: [After You, Amnesia, Attract, Body Slam, Bulldoze, Clear Smog, Curse, Double
+          Team, Earth Power, Earthquake, Ember, Endure, Eruption, Explosion, Facade,
+        Fire Blast, Fire Spin, Fissure, Flail, Flame Burst, Flame Charge, Flamethrower,
+        Frustration, Giga Impact, Gyro Ball, Heat Wave, Hyper Beam, Incinerate, Inferno,
+        Iron Defense, Iron Tail, Lava Plume, Overheat, Protect, Rapid Spin, Rest,
+        Return, Rock Slide, Rock Smash, Rock Tomb, Round, Shell Smash, Skull Bash,
+        Sleep Talk, Sludge Bomb, Smog, Smokescreen, Snore, Solar Beam, Stealth Rock,
+        Stone Edge, Strength, Substitute, Sunny Day, Swagger, Toxic, Will-O-Wisp,
+        Withdraw, Yawn, Double-Edge, Mimic, Self-Destruct, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Amnesia, Attract, Body Slam, Captivate, Curse, Double Team, Earth Power,
+        Earthquake, Ember, Endure, Eruption, Explosion, Facade, Fire Blast, Fire Spin,
+        Fissure, Flail, Flamethrower, Frustration, Giga Impact, Gyro Ball, Headbutt,
+        Heat Wave, Hyper Beam, Iron Defense, Iron Tail, Lava Plume, Mud-Slap, Natural
+          Gift, Overheat, Protect, Rapid Spin, Rest, Return, Rock Slide, Rock Smash,
+        Rock Tomb, Rollout, Secret Power, Skull Bash, Sleep Talk, Sludge Bomb, Smog,
+        Smokescreen, Snore, Solar Beam, Stealth Rock, Stone Edge, Strength, Substitute,
+        Sunny Day, Swagger, Toxic, Will-O-Wisp, Withdraw, Yawn, Double-Edge, Mimic,
+        Self-Destruct, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - rs: [Amnesia, Attract, Body Slam, Curse, Double Team, Ember, Endure, Eruption,
+        Explosion, Facade, Fire Blast, Fire Spin, Flail, Flamethrower, Frustration,
+        Heat Wave, Iron Defense, Iron Tail, Mud-Slap, Overheat, Protect, Rest, Return,
+        Rock Slide, Rock Smash, Secret Power, Sleep Talk, Sludge Bomb, Smog, Smokescreen,
+        Snore, Strength, Substitute, Sunny Day, Swagger, Toxic, Yawn, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - xy: [Amnesia, Attract, Body Slam, Bulldoze, Captivate, Clear Smog, Curse, Double-Edge,
+        Double Team, Earth Power, Earthquake, Ember, Endure, Eruption, Explosion,
+        Facade, Fire Blast, Fire Spin, Fissure, Flail, Flame Burst, Flame Charge,
+        Flamethrower, Frustration, Giga Impact, Gyro Ball, Headbutt, Heat Wave, Hyper
+          Beam, Incinerate, Inferno, Iron Defense, Iron Tail, Lava Plume, Mimic, Mud-Slap,
+        Natural Gift, Overheat, Protect, Rapid Spin, Rest, Return, Rock Slide, Rock
+          Smash, Rock Tomb, Rollout, Round, Secret Power, Self-Destruct, Shell Smash,
+        Skull Bash, Sleep Talk, Sludge Bomb, Smog, Smokescreen, Snore, Solar Beam,
+        Stealth Rock, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Toxic,
+        Will-O-Wisp, Withdraw, Yawn, After You, Nature Power, Confide, Superpower,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [70, 85, 140, 85, 70, 20]
+    tags:
+    - [NU]
+    types:
+    - [Fire]
+    weight: [80.4]

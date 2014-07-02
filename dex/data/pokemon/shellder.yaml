@@ -1,0 +1,107 @@
+pokemon:
+  Cloyster:
+    abilities:
+    - bw: [Overcoat, Shell Armor, Skill Link]
+      dp: [Shell Armor, Skill Link]
+    - rs: [Shell Armor]
+    - []
+    egggroups:
+    - [Water 3]
+    evolvesFrom: [Shellder]
+    height: [1.5]
+    introduction: rb
+    moves:
+    - gs: [Hyper Beam, Spike Cannon, Spikes]
+    - bw: [Frost Breath, Giga Impact, Hyper Beam, Icicle Crash, Poison Jab, Signal
+          Beam, Spike Cannon, Spikes, Torment, Toxic Spikes]
+    - dp: [Avalanche, Giga Impact, Hyper Beam, Poison Jab, Signal Beam, Spike Cannon,
+        Spikes, Torment, Toxic Spikes]
+    - rs: [Hyper Beam, Spike Cannon, Spikes, Torment]
+    - rb: [Hyper Beam, Spike Cannon]
+    - xy: [Frost Breath, Giga Impact, Hyper Beam, Icicle Crash, Poison Jab, Signal
+          Beam, Spike Cannon, Spikes, Torment, Toxic Spikes]
+    stats:
+    - [50, 95, 180, 85, 85, 70]
+    - gs: [50, 95, 180, 85, 45, 70]
+    tags:
+    - [OU]
+    - bw: [OU]
+      dp: [UU]
+    types:
+    - [Ice, Water]
+    weight: [132.5]
+  Shellder:
+    abilities:
+    - bw: [Overcoat, Shell Armor, Skill Link]
+      dp: [Shell Armor, Skill Link]
+    - rs: [Shell Armor]
+    - []
+    egggroups:
+    - [Water 3]
+    height: [0.3]
+    introduction: rb
+    moves:
+    - gs: [Attract, Aurora Beam, Barrier, Blizzard, Bubble Beam, Clamp, Curse, Double
+          Team, Endure, Frustration, Ice Beam, Icy Wind, Leer, Protect, Rain Dance,
+        Rapid Spin, Rest, Return, Screech, Sleep Talk, Snore, Supersonic, Surf, Swagger,
+        Swift, Tackle, Take Down, Toxic, Whirlpool, Withdraw, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - bw: [Aqua Ring, Attract, Aurora Beam, Avalanche, Barrier, Blizzard, Brine, Bubble
+          Beam, Clamp, Dive, Double Team, Explosion, Facade, Frustration, Hail, Hydro
+          Pump, Ice Beam, Ice Shard, Icicle Spear, Iron Defense, Leer, Mud Shot, Payback,
+        Protect, Rain Dance, Rapid Spin, Razor Shell, Rest, Return, Rock Blast, Round,
+        Screech, Shell Smash, Sleep Talk, Snore, Substitute, Supersonic, Surf, Swagger,
+        Tackle, Take Down, Toxic, Twineedle, Water Pulse, Whirlpool, Withdraw, Double-Edge,
+        Mimic, Refresh, Self-Destruct, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Attract, Aurora Beam, Barrier, Blizzard, Brine, Bubble Beam, Captivate,
+        Clamp, Dive, Double Team, Endure, Explosion, Facade, Frustration, Hail, Ice
+          Beam, Ice Shard, Icicle Spear, Iron Defense, Leer, Mud Shot, Natural Gift,
+        Payback, Protect, Rain Dance, Rapid Spin, Rest, Return, Rock Blast, Screech,
+        Secret Power, Sleep Talk, Snore, Substitute, Supersonic, Surf, Swagger, Swift,
+        Tackle, Take Down, Toxic, Water Pulse, Whirlpool, Withdraw, Double-Edge, Mimic,
+        Refresh, Self-Destruct, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Attract, Aurora Beam, Barrier, Blizzard, Bubble Beam, Clamp, Dive, Double
+          Team, Endure, Explosion, Facade, Frustration, Hail, Ice Beam, Icicle Spear,
+        Leer, Protect, Rain Dance, Rapid Spin, Rest, Return, Screech, Secret Power,
+        Sleep Talk, Snore, Substitute, Supersonic, Surf, Swagger, Swift, Tackle, Take
+          Down, Toxic, Water Pulse, Withdraw, Refresh, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rb: [Aurora Beam, Bide, Blizzard, Bubble Beam, Clamp, Double-Edge, Double Team,
+        Explosion, Ice Beam, Leer, Mimic, Rage, Reflect, Rest, Self-Destruct, Substitute,
+        Supersonic, Surf, Swift, Tackle, Take Down, Teleport, Toxic, Tri Attack, Water
+          Gun, Withdraw]
+    - xy: [Aqua Ring, Attract, Aurora Beam, Avalanche, Barrier, Blizzard, Brine, Bubble
+          Beam, Captivate, Clamp, Dive, Double-Edge, Double Team, Endure, Explosion,
+        Facade, Frustration, Hail, Hydro Pump, Ice Beam, Ice Shard, Icicle Spear,
+        Icy Wind, Iron Defense, Leer, Mimic, Mud Shot, Natural Gift, Payback, Protect,
+        Rain Dance, Rapid Spin, Razor Shell, Refresh, Rest, Return, Rock Blast, Round,
+        Screech, Secret Power, Self-Destruct, Shell Smash, Sleep Talk, Snore, Substitute,
+        Supersonic, Surf, Swagger, Swift, Tackle, Take Down, Toxic, Twineedle, Water
+          Pulse, Whirlpool, Withdraw, Confide, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [30, 65, 100, 45, 45, 40]
+    - gs: [30, 65, 100, 45, 25, 40]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Water]
+    weight: [4]

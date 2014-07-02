@@ -1,0 +1,164 @@
+pokemon:
+  Nidoking:
+    abilities:
+    - bw: [Poison Point, Rivalry, Sheer Force]
+      dp: [Poison Point, Rivalry]
+    - rs: [Poison Point]
+    - []
+    egggroups:
+    - [Ground, Monster]
+    evolvesFrom: [Nidorino]
+    height: [1.4]
+    introduction: rb
+    moves:
+    - gs: [Dynamic Punch, Earthquake, Fire Blast, Fire Punch, Flamethrower, Fury Cutter,
+        Hyper Beam, Ice Punch, Icy Wind, Roar, Sandstorm, Shadow Ball, Surf, Thrash,
+        Thunder Punch]
+    - bw: [Aqua Tail, Brick Break, Bulldoze, Dragon Pulse, Dragon Tail, Earth Power,
+        Earthquake, Fire Blast, Fire Punch, Flamethrower, Fling, Focus Blast, Giga
+          Impact, Hyper Beam, Ice Punch, Incinerate, Megahorn, Outrage, Quash, Roar,
+        Rock Slide, Rock Tomb, Sandstorm, Shadow Ball, Sludge Wave, Smack Down, Stealth
+          Rock, Stone Edge, Superpower, Surf, Taunt, Thrash, Thunder Punch, Torment,
+        Uproar, Seismic Toss]
+    - dp: [Aqua Tail, Avalanche, Brick Break, Dragon Pulse, Earth Power, Earthquake,
+        Fire Blast, Fire Punch, Flamethrower, Fling, Focus Blast, Focus Punch, Fury
+          Cutter, Giga Impact, Hyper Beam, Ice Punch, Megahorn, Outrage, Roar, Rock
+          Climb, Rock Slide, Rock Tomb, Sandstorm, Shadow Ball, Stealth Rock, Stone
+          Edge, Superpower, Surf, Taunt, Thrash, Thunder Punch, Torment, Uproar, Whirlpool,
+        Seismic Toss]
+    - rs: [Brick Break, Dynamic Punch, Earthquake, Fire Blast, Fire Punch, Flamethrower,
+        Focus Punch, Fury Cutter, Hyper Beam, Ice Punch, Icy Wind, Mega Kick, Mega
+          Punch, Megahorn, Roar, Rock Slide, Rock Tomb, Sandstorm, Seismic Toss, Shadow
+          Ball, Surf, Taunt, Thrash, Thunder Punch, Torment]
+    - rb: [Counter, Earthquake, Fire Blast, Fissure, Hyper Beam, Mega Kick, Mega Punch,
+        Pay Day, Rock Slide, Seismic Toss, Strength, Submission, Surf, Thrash]
+    - xy: [Aqua Tail, Avalanche, Brick Break, Bulldoze, Dragon Pulse, Dragon Tail,
+        Dynamic Punch, Earth Power, Earthquake, Fire Blast, Fire Punch, Flamethrower,
+        Fling, Focus Blast, Focus Punch, Fury Cutter, Giga Impact, Hyper Beam, Ice
+          Punch, Icy Wind, Incinerate, Megahorn, Mega Kick, Mega Punch, Outrage, Quash,
+        Roar, Rock Climb, Rock Slide, Rock Tomb, Sandstorm, Seismic Toss, Shadow Ball,
+        Sludge Wave, Smack Down, Stealth Rock, Stone Edge, Superpower, Surf, Taunt,
+        Thrash, Thunder Punch, Torment, Uproar, Whirlpool, Power-Up Punch]
+    stats:
+    - [81, 92, 77, 75, 75, 85]
+    - gs: [81, 92, 77, 85, 75, 85]
+      xy: [81, 102, 77, 85, 75, 85]
+    tags:
+    - []
+    - gs: [OU]
+      rs: [UU]
+    types:
+    - [Ground, Poison]
+    weight: [62]
+  Nidoran-M:
+    abilities:
+    - bw: [Hustle, Poison Point, Rivalry]
+      dp: [Poison Point, Rivalry]
+    - rs: [Poison Point]
+    - []
+    egggroups:
+    - [Ground, Monster]
+    height: [0.5]
+    introduction: rb
+    moves:
+    - gs: [Amnesia, Attract, Beat Up, Blizzard, Confusion, Counter, Curse, Defense
+          Curl, Detect, Disable, Double Kick, Double Team, Endure, Focus Energy, Frustration,
+        Fury Attack, Headbutt, Horn Attack, Horn Drill, Iron Tail, Leer, Mud-Slap,
+        Poison Sting, Protect, Rain Dance, Rest, Return, Sleep Talk, Snore, Sunny
+          Day, Supersonic, Swagger, Tackle, Take Down, Thief, Thunder, Thunderbolt,
+        Toxic, Lovely Kiss, Sweet Kiss, Morning Sun, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - bw: [Amnesia, Attract, Beat Up, Blizzard, Captivate, Chip Away, Confusion, Counter,
+        Cut, Dig, Disable, Double Kick, Double Team, Drill Run, Echoed Voice, Endure,
+        Facade, Flatter, Focus Energy, Frustration, Fury Attack, Head Smash, Helping
+          Hand, Hone Claws, Horn Attack, Horn Drill, Ice Beam, Iron Tail, Leer, Peck,
+        Poison Jab, Poison Sting, Poison Tail, Protect, Rain Dance, Rest, Return,
+        Rock Smash, Round, Shadow Claw, Sleep Talk, Sludge Bomb, Snore, Strength,
+        Substitute, Sucker Punch, Sunny Day, Super Fang, Supersonic, Swagger, Take
+          Down, Thief, Thunder, Thunderbolt, Toxic, Toxic Spikes, Venoshock, Body
+          Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Amnesia, Attract, Beat Up, Blizzard, Captivate, Confusion, Counter, Cut,
+        Dig, Disable, Double Kick, Double Team, Endure, Facade, Flatter, Focus Energy,
+        Frustration, Fury Attack, Head Smash, Headbutt, Helping Hand, Horn Attack,
+        Horn Drill, Ice Beam, Iron Tail, Leer, Mud-Slap, Natural Gift, Peck, Poison
+          Jab, Poison Sting, Protect, Rain Dance, Rest, Return, Rock Smash, Secret
+          Power, Shadow Claw, Shock Wave, Sleep Talk, Sludge Bomb, Snore, Strength,
+        Substitute, Sucker Punch, Sunny Day, Super Fang, Supersonic, Swagger, Take
+          Down, Thief, Thunder, Thunderbolt, Toxic, Toxic Spikes, Water Pulse, Body
+          Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Amnesia, Attract, Beat Up, Blizzard, Body Slam, Confusion, Counter, Cut,
+        Defense Curl, Dig, Disable, Double-Edge, Double Kick, Double Team, Endure,
+        Facade, Flatter, Focus Energy, Frustration, Fury Attack, Helping Hand, Horn
+          Attack, Horn Drill, Ice Beam, Iron Tail, Leer, Mimic, Mud-Slap, Peck, Poison
+          Sting, Protect, Rain Dance, Rest, Return, Rock Smash, Secret Power, Shock
+          Wave, Sleep Talk, Sludge Bomb, Snore, Strength, Substitute, Sunny Day, Supersonic,
+        Swagger, Take Down, Thief, Thunder, Thunderbolt, Toxic, Water Pulse, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - rb: [Bide, Blizzard, Body Slam, Double-Edge, Double Kick, Double Team, Focus
+          Energy, Fury Attack, Horn Attack, Horn Drill, Leer, Mimic, Poison Sting,
+        Rage, Reflect, Rest, Skull Bash, Substitute, Tackle, Take Down, Thunder, Thunderbolt,
+        Toxic]
+    - xy: [Amnesia, Attract, Beat Up, Blizzard, Body Slam, Captivate, Chip Away, Confusion,
+        Counter, Cut, Defense Curl, Dig, Disable, Double-Edge, Double Kick, Double
+          Team, Echoed Voice, Endure, Facade, Flatter, Focus Energy, Frustration,
+        Fury Attack, Headbutt, Head Smash, Helping Hand, Hone Claws, Horn Attack,
+        Horn Drill, Ice Beam, Iron Tail, Leer, Mimic, Mud-Slap, Natural Gift, Peck,
+        Poison Jab, Poison Sting, Poison Tail, Protect, Rain Dance, Rest, Return,
+        Rock Smash, Round, Secret Power, Shadow Claw, Shock Wave, Sleep Talk, Sludge
+          Bomb, Snore, Strength, Substitute, Sucker Punch, Sunny Day, Super Fang,
+        Supersonic, Swagger, Take Down, Thief, Thunder, Thunderbolt, Toxic, Toxic
+          Spikes, Venoshock, Water Pulse, Drill Run, Confide, Venom Drench, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [46, 57, 40, 40, 40, 50]
+    - gs: [46, 57, 40, 40, 40, 50]
+    tags:
+    - []
+    types:
+    - [Poison]
+    weight: [9]
+  Nidorino:
+    abilities:
+    - bw: [Hustle, Poison Point, Rivalry]
+      dp: [Poison Point, Rivalry]
+    - rs: [Poison Point]
+    - []
+    egggroups:
+    - [Ground, Monster]
+    evolvesFrom: [Nidoran-M]
+    height: [0.9]
+    introduction: rb
+    moves:
+    - gs: [Ice Beam, Rock Smash, Strength]
+    - bw: []
+    - dp: []
+    - rs: []
+    - rb: [Bubble Beam, Ice Beam, Water Gun]
+    - xy: []
+    stats:
+    - [61, 72, 57, 55, 55, 65]
+    - gs: [61, 72, 57, 55, 55, 65]
+    tags:
+    - [NFE]
+    types:
+    - [Poison]
+    weight: [19.5]

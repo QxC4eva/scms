@@ -1,0 +1,68 @@
+pokemon:
+  Kricketot:
+    abilities:
+    - [Run Away, Shed Skin]
+    egggroups:
+    - [Bug]
+    height: [0.3]
+    introduction: dp
+    moves:
+    - bw: [Bide, Bug Bite, Endeavor, Growl, Snore, Struggle Bug, Uproar]
+    - dp: [Bide, Bug Bite, Endeavor, Growl, Mud-Slap, Snore, String Shot, Uproar]
+    - xy: [Bide, Bug Bite, Endeavor, Growl, Mud-Slap, Snore, String Shot, Struggle
+          Bug, Uproar]
+    stats:
+    - [37, 25, 41, 25, 41, 25]
+    tags:
+    - [LC]
+    types:
+    - [Bug]
+    weight: [2.2]
+  Kricketune:
+    abilities:
+    - [Swarm, Technician]
+    egggroups:
+    - [Bug]
+    evolvesFrom: [Kricketot]
+    height: [1]
+    introduction: dp
+    moves:
+    - bw: [Aerial Ace, Attract, Brick Break, Bug Buzz, Cut, Double Team, Echoed Voice,
+        Facade, False Swipe, Flash, Focus Energy, Frustration, Fury Cutter, Giga Impact,
+        Heal Bell, Hone Claws, Hyper Beam, Hyper Voice, Knock Off, Leech Life, Night
+          Slash, Perish Song, Protect, Rain Dance, Rest, Return, Rock Smash, Round,
+        Screech, Sing, Slash, Sleep Talk, Strength, Substitute, Sunny Day, Swagger,
+        Swords Dance, Taunt, Toxic, X-Scissor, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Aerial Ace, Attract, Brick Break, Bug Buzz, Captivate, Cut, Double Team,
+        Endure, Facade, False Swipe, Flash, Focus Energy, Frustration, Fury Cutter,
+        Giga Impact, Hyper Beam, Knock Off, Leech Life, Natural Gift, Night Slash,
+        Perish Song, Protect, Rain Dance, Rest, Return, Rock Smash, Screech, Secret
+          Power, Silver Wind, Sing, Slash, Sleep Talk, Strength, Substitute, Sunny
+          Day, Swagger, Swords Dance, Taunt, Toxic, X-Scissor, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Aerial Ace, Attract, Brick Break, Bug Buzz, Captivate, Cut, Double Team,
+        Echoed Voice, Endure, Facade, False Swipe, Flash, Focus Energy, Frustration,
+        Fury Cutter, Giga Impact, Hone Claws, Hyper Beam, Knock Off, Leech Life, Natural
+          Gift, Night Slash, Perish Song, Protect, Rain Dance, Rest, Return, Rock
+          Smash, Round, Screech, Secret Power, Silver Wind, Sing, Slash, Sleep Talk,
+        Strength, Substitute, Sunny Day, Swagger, Swords Dance, Taunt, Toxic, X-Scissor,
+        Hyper Voice, Heal Bell, Fell Stinger, Sticky Web, Infestation, Power-Up Punch,
+        Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [77, 85, 51, 55, 51, 65]
+    tags:
+    - [NU]
+    types:
+    - [Bug]
+    weight: [25.5]

@@ -1,0 +1,58 @@
+pokemon:
+  Escavalier:
+    abilities:
+    - [Overcoat, Shell Armor, Swarm]
+    egggroups:
+    - [Bug]
+    evolvesFrom: [Karrablast]
+    height: [1]
+    introduction: bw
+    moves:
+    - bw: [Focus Blast, Giga Impact, Hyper Beam, Iron Head, Quick Guard, Reversal,
+        Rock Smash, Twineedle]
+    - xy: [Focus Blast, Giga Impact, Hyper Beam, Iron Head, Quick Guard, Reversal,
+        Rock Smash, Twineedle, Fell Stinger]
+    stats:
+    - [70, 135, 105, 60, 105, 20]
+    tags:
+    - [RU]
+    types:
+    - [Bug, Steel]
+    weight: [33]
+  Karrablast:
+    abilities:
+    - [No Guard, Shed Skin, Swarm]
+    egggroups:
+    - [Bug]
+    height: [0.5]
+    introduction: bw
+    moves:
+    - bw: [Aerial Ace, Attract, Bug Bite, Bug Buzz, Counter, Cut, Double-Edge, Double
+          Team, Endure, Energy Ball, Facade, Feint Attack, False Swipe, Flail, Frustration,
+        Fury Attack, Fury Cutter, Giga Drain, Headbutt, Horn Attack, Iron Defense,
+        Knock Off, Leer, Megahorn, Peck, Poison Jab, Protect, Pursuit, Rain Dance,
+        Rest, Return, Round, Scary Face, Screech, Slash, Sleep Talk, Snore, Struggle
+          Bug, Substitute, Swagger, Swords Dance, Take Down, Toxic, X-Scissor, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - xy: [Aerial Ace, Attract, Bug Bite, Bug Buzz, Counter, Cut, Double-Edge, Double
+          Team, Endure, Energy Ball, Facade, Feint Attack, False Swipe, Flail, Frustration,
+        Fury Attack, Fury Cutter, Headbutt, Horn Attack, Knock Off, Leer, Megahorn,
+        Peck, Poison Jab, Protect, Pursuit, Rain Dance, Rest, Return, Round, Scary
+          Face, Screech, Slash, Struggle Bug, Substitute, Swagger, Swords Dance, Take
+          Down, Toxic, X-Scissor, Iron Defense, Snore, Giga Drain, Sleep Talk, Infestation,
+        Confide, Drill Run, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [50, 75, 45, 40, 45, 60]
+    tags:
+    - [LC]
+    types:
+    - [Bug]
+    weight: [5.9]

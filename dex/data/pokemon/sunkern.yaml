@@ -1,0 +1,99 @@
+pokemon:
+  Sunflora:
+    abilities:
+    - bw: [Chlorophyll, Early Bird, Solar Power]
+      dp: [Chlorophyll, Solar Power]
+    - rs: [Chlorophyll]
+    - []
+    egggroups:
+    - [Plant]
+    evolvesFrom: [Sunkern]
+    height: [0.8]
+    introduction: gs
+    moves:
+    - gs: [Hyper Beam, Petal Dance, Pound, Razor Leaf]
+    - bw: [Bullet Seed, Giga Impact, Hyper Beam, Leaf Storm, Petal Dance, Pound]
+    - dp: [Giga Impact, Hyper Beam, Leaf Storm, Petal Dance, Pound]
+    - rs: [Hyper Beam, Petal Dance, Pound, Razor Leaf]
+    - xy: [Giga Impact, Hyper Beam, Leaf Storm, Petal Dance, Pound, Flower Shield,
+        Petal Blizzard]
+    stats:
+    - [75, 75, 55, 105, 85, 30]
+    tags:
+    - [UU]
+    - rs: [NU]
+    types:
+    - [Grass]
+    weight: [8.5]
+  Sunkern:
+    abilities:
+    - bw: [Chlorophyll, Early Bird, Solar Power]
+      dp: [Chlorophyll, Solar Power]
+    - rs: [Chlorophyll]
+    - []
+    egggroups:
+    - [Plant]
+    height: [0.3]
+    introduction: gs
+    moves:
+    - gs: [Absorb, Attract, Curse, Cut, Double Team, Endure, Flash, Frustration, Giga
+          Drain, Growth, Mega Drain, Protect, Rest, Return, Sleep Talk, Sludge Bomb,
+        Snore, Solar Beam, Sunny Day, Swagger, Sweet Scent, Synthesis, Toxic, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - bw: [Absorb, After You, Attract, Bide, Curse, Cut, Double Team, Earth Power,
+        Encore, Endeavor, Endure, Energy Ball, Facade, Flash, Frustration, Giga Drain,
+        Grass Knot, Grass Whistle, Growth, Helping Hand, Ingrain, Leech Seed, Light
+          Screen, Mega Drain, Morning Sun, Natural Gift, Nature Power, Protect, Razor
+          Leaf, Rest, Return, Round, Safeguard, Seed Bomb, Sleep Talk, Sludge Bomb,
+        Snore, Solar Beam, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance,
+        Synthesis, Toxic, Uproar, Worry Seed, Mimic, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Absorb, Attract, Bullet Seed, Captivate, Curse, Cut, Double Team, Earth
+          Power, Encore, Endeavor, Endure, Energy Ball, Facade, Flash, Frustration,
+        Giga Drain, Grass Knot, Grass Whistle, Growth, Helping Hand, Ingrain, Leech
+          Seed, Light Screen, Mega Drain, Natural Gift, Nature Power, Protect, Razor
+          Leaf, Rest, Return, Safeguard, Secret Power, Seed Bomb, Sleep Talk, Sludge
+          Bomb, Snore, Solar Beam, Substitute, Sunny Day, Swagger, Sweet Scent, Swords
+          Dance, Synthesis, Toxic, Uproar, Worry Seed, Double-Edge, Mimic, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - rs: [Absorb, Attract, Bullet Seed, Curse, Cut, Double Team, Encore, Endeavor,
+        Endure, Facade, Flash, Frustration, Giga Drain, Grass Whistle, Growth, Helping
+          Hand, Ingrain, Leech Seed, Light Screen, Mega Drain, Nature Power, Protect,
+        Rest, Return, Safeguard, Secret Power, Sleep Talk, Sludge Bomb, Snore, Solar
+          Beam, Substitute, Sunny Day, Swagger, Swords Dance, Synthesis, Toxic, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - xy: [Absorb, Attract, Bide, Bullet Seed, Captivate, Curse, Cut, Double-Edge,
+        Double Team, Earth Power, Encore, Endeavor, Endure, Energy Ball, Facade, Flash,
+        Frustration, Giga Drain, Grass Knot, Grass Whistle, Growth, Helping Hand,
+        Ingrain, Leech Seed, Light Screen, Mega Drain, Mimic, Morning Sun, Natural
+          Gift, Nature Power, Protect, Razor Leaf, Rest, Return, Round, Safeguard,
+        Secret Power, Seed Bomb, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Substitute,
+        Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis, Toxic, Uproar, Worry
+          Seed, After You, Confide, Grassy Terrain, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [30, 30, 30, 30, 30, 30]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Grass]
+    weight: [1.8]

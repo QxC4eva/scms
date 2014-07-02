@@ -1,0 +1,61 @@
+pokemon:
+  Scatterbug:
+    abilities:
+    - [Shield Dust, Compound Eyes, Friend Guard]
+    egggroups:
+    - [Bug]
+    height: [0.3]
+    introduction: xy
+    moves:
+    - xy: [Tackle, String Shot, Stun Spore, Bug Bite, Rage Powder, Poison Powder]
+    stats:
+    - [38, 35, 40, 27, 25, 35]
+    tags:
+    - []
+    types:
+    - [Bug]
+    weight: [2.5]
+  Spewpa:
+    abilities:
+    - [Shed Skin, Friend Guard]
+    egggroups:
+    - [Bug]
+    evolvesFrom: [Scatterbug]
+    height: [0.3]
+    introduction: xy
+    moves:
+    - xy: [Harden, Protect]
+    stats:
+    - [45, 22, 60, 27, 30, 29]
+    tags:
+    - []
+    types:
+    - [Bug]
+    weight: [8.4]
+  Vivillon:
+    abilities:
+    - [Shield Dust, Compound Eyes, Friend Guard]
+    egggroups:
+    - [Bug]
+    evolvesFrom: [Spewpa]
+    height: [1.2]
+    introduction: xy
+    moves:
+    - xy: [Gust, Light Screen, Powder, Sleep Powder, Struggle Bug, Psybeam, Supersonic,
+        Draining Kiss, Aromatherapy, Bug Buzz, Safeguard, Quiver Dance, Hurricane,
+        Calm Mind, Toxic, Sunny Day, Hyper Beam, Rain Dance, Roost, Frustration, Solar
+          Beam, Return, Psychic, Double Team, Aerial Ace, Facade, Rest, Attract, Thief,
+        Round, Energy Ball, Acrobatics, Giga Impact, Flash, Psych Up, Infestation,
+        Dream Eater, Swagger, Sleep Talk, U-turn, Substitute, Confide, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [80, 52, 50, 90, 50, 89]
+    tags:
+    - []
+    types:
+    - [Bug, Flying]
+    weight: [17]

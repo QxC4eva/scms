@@ -1,0 +1,86 @@
+pokemon:
+  Tauros:
+    abilities:
+    - bw: [Anger Point, Intimidate, Sheer Force]
+      dp: [Anger Point, Intimidate]
+    - rs: [Intimidate]
+    - []
+    egggroups:
+    - [Ground]
+    height: [1.4]
+    introduction: rb
+    moves:
+    - gs: [Attract, Blizzard, Curse, Double Team, Earthquake, Endure, Fire Blast,
+        Flamethrower, Frustration, Headbutt, Horn Attack, Hyper Beam, Ice Beam, Icy
+          Wind, Iron Tail, Protect, Pursuit, Rage, Rest, Return, Rock Smash, Scary
+          Face, Sleep Talk, Snore, Strength, Sunny Day, Surf, Swagger, Tackle, Tail
+          Whip, Take Down, Thrash, Thunder, Thunderbolt, Toxic, Zap Cannon, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - bw: [Attract, Blizzard, Bulldoze, Double Team, Earthquake, Endeavor, Facade,
+        Fire Blast, Flamethrower, Frustration, Giga Impact, Helping Hand, Horn Attack,
+        Hyper Beam, Ice Beam, Incinerate, Iron Head, Iron Tail, Outrage, Payback,
+        Protect, Pursuit, Rage, Rain Dance, Rest, Retaliate, Return, Rock Slide, Rock
+          Smash, Rock Tomb, Role Play, Round, Sandstorm, Scary Face, Sleep Talk, Snore,
+        Solar Beam, Spite, Stone Edge, Strength, Substitute, Sunny Day, Surf, Swagger,
+        Tackle, Tail Whip, Take Down, Thrash, Thunder, Thunderbolt, Toxic, Uproar,
+        Wild Charge, Work Up, Zen Headbutt, Double-Edge, Mimic, Refresh, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - dp: [Attract, Blizzard, Captivate, Double Team, Earthquake, Endeavor, Endure,
+        Facade, Fire Blast, Flamethrower, Frustration, Giga Impact, Headbutt, Helping
+          Hand, Horn Attack, Hyper Beam, Ice Beam, Iron Head, Iron Tail, Natural Gift,
+        Outrage, Payback, Protect, Pursuit, Rage, Rain Dance, Rest, Return, Rock Climb,
+        Rock Slide, Rock Smash, Rock Tomb, Role Play, Sandstorm, Scary Face, Secret
+          Power, Shock Wave, Sleep Talk, Snore, Solar Beam, Spite, Stone Edge, Strength,
+        Substitute, Sunny Day, Surf, Swagger, Tackle, Tail Whip, Take Down, Thrash,
+        Thunder, Thunderbolt, Toxic, Uproar, Water Pulse, Whirlpool, Zen Headbutt,
+        Double-Edge, Mimic, Refresh, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Attract, Blizzard, Double Team, Earthquake, Endure, Facade, Fire Blast,
+        Flamethrower, Frustration, Horn Attack, Hyper Beam, Ice Beam, Iron Tail, Protect,
+        Pursuit, Rage, Rain Dance, Rest, Return, Rock Smash, Rock Tomb, Sandstorm,
+        Scary Face, Secret Power, Shock Wave, Sleep Talk, Snore, Solar Beam, Strength,
+        Substitute, Sunny Day, Surf, Swagger, Tackle, Tail Whip, Take Down, Thrash,
+        Thunder, Thunderbolt, Toxic, Water Pulse, Refresh, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rb: [Bide, Blizzard, Body Slam, Double-Edge, Double Team, Earthquake, Fire Blast,
+        Fissure, Horn Drill, Hyper Beam, Ice Beam, Leer, Mimic, Rage, Rest, Skull
+          Bash, Stomp, Strength, Substitute, Tackle, Tail Whip, Take Down, Thunder,
+        Thunderbolt, Toxic]
+    - xy: [Attract, Blizzard, Body Slam, Bulldoze, Captivate, Double-Edge, Double
+          Team, Earthquake, Endeavor, Endure, Facade, Fire Blast, Flamethrower, Frustration,
+        Giga Impact, Headbutt, Helping Hand, Horn Attack, Hyper Beam, Ice Beam, Icy
+          Wind, Incinerate, Iron Head, Iron Tail, Mimic, Natural Gift, Outrage, Payback,
+        Protect, Pursuit, Rage, Rain Dance, Refresh, Rest, Retaliate, Return, Rock
+          Climb, Rock Slide, Rock Smash, Rock Tomb, Role Play, Round, Sandstorm, Scary
+          Face, Secret Power, Shock Wave, Sleep Talk, Snore, Solar Beam, Spite, Stone
+          Edge, Strength, Substitute, Sunny Day, Surf, Swagger, Tackle, Tail Whip,
+        Take Down, Thrash, Thunder, Thunderbolt, Toxic, Water Pulse, Whirlpool, Wild
+          Charge, Work Up, Zen Headbutt, Uproar, Confide, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [75, 100, 95, 70, 70, 110]
+    - gs: [75, 100, 95, 40, 70, 110]
+    tags:
+    - [OU]
+    - dp: [NU]
+      gs: [BL]
+    types:
+    - [Normal]
+    weight: [88.4]

@@ -1,0 +1,76 @@
+pokemon:
+  Kyurem:
+    abilities:
+    - [Pressure]
+    egggroups:
+    - []
+    height: [3]
+    introduction: bw
+    moves:
+    - bw: [Ancient Power, Blizzard, Cut, Double Team, Draco Meteor, Dragon Claw, Dragon
+          Pulse, Dragon Rage, Dragon Tail, Dragon Breath, Earth Power, Echoed Voice,
+        Endeavor, Facade, Flash Cannon, Fling, Fly, Focus Blast, Frustration, Giga
+          Impact, Glaciate, Hail, Hone Claws, Hyper Beam, Hyper Voice, Ice Beam, Icy
+          Wind, Imprison, Iron Head, Light Screen, Outrage, Payback, Protect, Psychic,
+        Rain Dance, Reflect, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Roost,
+        Round, Safeguard, Scary Face, Shadow Ball, Shadow Claw, Signal Beam, Slash,
+        Sleep Talk, Snore, Stone Edge, Strength, Substitute, Sunny Day, Swagger, Toxic,
+        Zen Headbutt, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - xy: [Ancient Power, Blizzard, Cut, Double Team, Draco Meteor, Dragon Breath,
+        Dragon Claw, Dragon Pulse, Dragon Rage, Dragon Tail, Echoed Voice, Endeavor,
+        Facade, Flash Cannon, Fling, Fly, Focus Blast, Frustration, Giga Impact, Glaciate,
+        Hail, Hone Claws, Hyper Beam, Hyper Voice, Ice Beam, Icy Wind, Imprison, Light
+          Screen, Outrage, Payback, Protect, Psychic, Rain Dance, Reflect, Rest, Return,
+        Rock Slide, Rock Smash, Rock Tomb, Round, Safeguard, Scary Face, Shadow Ball,
+        Shadow Claw, Slash, Stone Edge, Strength, Substitute, Sunny Day, Swagger,
+        Toxic, Signal Beam, Iron Head, Earth Power, Zen Headbutt, Snore, Roost, Sleep
+          Talk, Steel Wing, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [125, 130, 90, 130, 90, 95]
+    tags:
+    - [BL]
+    types:
+    - [Dragon, Ice]
+    weight: [325]
+  Kyurem-Black:
+    abilities:
+    - [Teravolt]
+    egggroups:
+    - []
+    evolvesFrom: [Kyurem]
+    height: [3.3]
+    introduction: bw
+    moves:
+    - []
+    stats:
+    - [125, 170, 100, 120, 90, 95]
+    tags:
+    - [OU]
+    types:
+    - [Dragon, Ice]
+    weight: [325]
+  Kyurem-White:
+    abilities:
+    - [Turboblaze]
+    egggroups:
+    - []
+    evolvesFrom: [Kyurem]
+    height: [3.6]
+    introduction: bw
+    moves:
+    - []
+    stats:
+    - [125, 120, 90, 170, 100, 95]
+    tags:
+    - [Uber]
+    types:
+    - [Dragon, Ice]
+    weight: [325]

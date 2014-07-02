@@ -1,0 +1,45 @@
+pokemon:
+  Bunnelby:
+    abilities:
+    - [Pickup, Cheek Pouch, Huge Power]
+    egggroups:
+    - [Field]
+    height: [0.4]
+    introduction: xy
+    moves:
+    - xy: [Tackle, Agility, Leer, Quick Attack, Double Slap, Mud-Slap, Take Down,
+        Mud Shot, Double Kick, Odor Sleuth, Flail, Dig, Bounce, Super Fang, Facade,
+        Earthquake, Toxic, Bulk Up, Protect, Frustration, Smack Down, Return, Brick
+          Break, Double Team, Sludge Bomb, Sandstorm, Rock Tomb, Torment, Rest, Attract,
+        Thief, Round, Fling, Payback, Stone Edge, Bulldoze, Rock Slide, Grass Knot,
+        Swagger, Sleep Talk, U-turn, Substitute, Wild Charge, Rock Smash, Nature Power,
+        Power-Up Punch, Confide, Cut, Surf, Strength, Defense Curl, Rollout, Spikes,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [38, 36, 38, 32, 36, 57]
+    tags:
+    - []
+    types:
+    - [Normal]
+    weight: [5]
+  Diggersby:
+    abilities:
+    - [Pickup, Cheek Pouch, Huge Power]
+    egggroups:
+    - [Field]
+    evolvesFrom: [Bunnelby]
+    height: [0]
+    introduction: xy
+    moves:
+    - xy: [Hammer Arm, Rototiller, Swords Dance, Hyper Beam, Giga Impact]
+    stats:
+    - [85, 56, 77, 50, 77, 78]
+    tags:
+    - []
+    types:
+    - [Normal, Ground]
+    weight: [0]

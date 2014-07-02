@@ -1,0 +1,27 @@
+pokemon:
+  Carbink:
+    abilities:
+    - [Clear Body, Sturdy]
+    egggroups:
+    - [Fairy, Mineral]
+    height: [0.3]
+    introduction: xy
+    moves:
+    - xy: [Tackle, Harden, Guard Split, Rock Throw, Sharpen, Smack Down, Reflect,
+        Stealth Rock, Ancient Power, Flail, Skill Swap, Power Gem, Stone Edge, Moonblast,
+        Light Screen, Safeguard, Calm Mind, Toxic, Hail, Sunny Day, Protect, Frustration,
+        Return, Psychic, Double Team, Sandstorm, Rock Tomb, Facade, Rest, Round, Explosion,
+        Rock Polish, Flash, Gyro Ball, Psych Up, Rock Slide, Swagger, Sleep Talk,
+        Substitute, Trick Room, Nature Power, Dazzling Gleam, Confide, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [50, 50, 150, 50, 150, 50]
+    tags:
+    - []
+    types:
+    - [Rock, Fairy]
+    weight: [5.7]

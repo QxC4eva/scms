@@ -1,0 +1,134 @@
+pokemon:
+  Crobat:
+    abilities:
+    - bw: [Infiltrator, Inner Focus]
+    - rs: [Inner Focus]
+    - []
+    egggroups:
+    - [Flying]
+    evolvesFrom: [Golbat]
+    height: [1.8]
+    introduction: gs
+    moves:
+    - gs: [Fly]
+    - bw: [Cross Poison, Dark Pulse, Sky Attack, X-Scissor]
+    - dp: [Cross Poison, Dark Pulse, Sky Attack, X-Scissor]
+    - rs: [Fly]
+    - xy: [Cross Poison, Dark Pulse, Sky Attack, X-Scissor]
+    stats:
+    - [85, 90, 80, 70, 80, 130]
+    tags:
+    - [UU]
+    - bw: [UU]
+    - rs: [BL]
+    types:
+    - [Flying, Poison]
+    weight: [75]
+  Golbat:
+    abilities:
+    - bw: [Infiltrator, Inner Focus]
+    - rs: [Inner Focus]
+    - []
+    egggroups:
+    - [Flying]
+    evolvesFrom: [Zubat]
+    height: [1.6]
+    introduction: rb
+    moves:
+    - gs: [Hyper Beam, Screech]
+    - bw: [Giga Impact, Hyper Beam, Screech]
+    - dp: [Giga Impact, Hyper Beam, Screech]
+    - rs: [Hyper Beam, Screech]
+    - rb: [Hyper Beam, Screech]
+    - xy: [Giga Impact, Hyper Beam, Screech]
+    stats:
+    - [75, 80, 70, 75, 75, 90]
+    - gs: [75, 80, 70, 65, 75, 90]
+    tags:
+    - [UU]
+    - dp: [NU]
+    - gs: [NFE]
+    types:
+    - [Flying, Poison]
+    weight: [55]
+  Zubat:
+    abilities:
+    - bw: [Infiltrator, Inner Focus]
+    - rs: [Inner Focus]
+    - []
+    egggroups:
+    - [Flying]
+    height: [0.8]
+    introduction: rb
+    moves:
+    - gs: [Attract, Bite, Confuse Ray, Curse, Detect, Double Team, Endure, Feint Attack,
+        Frustration, Giga Drain, Gust, Haze, Leech Life, Mean Look, Protect, Pursuit,
+        Quick Attack, Rest, Return, Sleep Talk, Snore, Steel Wing, Sunny Day, Supersonic,
+        Swagger, Swift, Thief, Toxic, Whirlwind, Wing Attack, Flail, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - bw: [Acrobatics, Aerial Ace, Air Cutter, Air Slash, Astonish, Attract, Bite,
+        Brave Bird, Confuse Ray, Curse, Defog, Double Team, Facade, Feint Attack,
+        Fly, Frustration, Giga Drain, Gust, Haze, Heat Wave, Hypnosis, Leech Life,
+        Mean Look, Nasty Plot, Payback, Pluck, Poison Fang, Protect, Pursuit, Quick
+          Attack, Rain Dance, Rest, Return, Roost, Round, Shadow Ball, Sleep Talk,
+        Sludge Bomb, Snatch, Snore, Steel Wing, Substitute, Sunny Day, Super Fang,
+        Supersonic, Swagger, Swift, Tailwind, Taunt, Thief, Torment, Toxic, U-turn,
+        Uproar, Venoshock, Whirlwind, Wing Attack, Zen Headbutt, Double-Edge, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - dp: [Aerial Ace, Air Cutter, Air Slash, Astonish, Attract, Bite, Brave Bird,
+        Captivate, Confuse Ray, Curse, Defog, Double Team, Endure, Facade, Feint Attack,
+        Fly, Frustration, Giga Drain, Gust, Haze, Heat Wave, Hypnosis, Leech Life,
+        Mean Look, Nasty Plot, Natural Gift, Ominous Wind, Payback, Pluck, Poison
+          Fang, Protect, Pursuit, Quick Attack, Rain Dance, Rest, Return, Roost, Secret
+          Power, Shadow Ball, Sleep Talk, Sludge Bomb, Snatch, Snore, Steel Wing,
+        Substitute, Sunny Day, Super Fang, Supersonic, Swagger, Swift, Tailwind, Taunt,
+        Thief, Torment, Toxic, Twister, U-turn, Uproar, Whirlwind, Wing Attack, Zen
+          Headbutt, Double-Edge, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Air Cutter, Astonish, Attract, Bite, Confuse Ray, Curse, Double
+          Team, Endure, Facade, Feint Attack, Frustration, Giga Drain, Gust, Haze,
+        Leech Life, Mean Look, Poison Fang, Protect, Pursuit, Quick Attack, Rain Dance,
+        Rest, Return, Secret Power, Shadow Ball, Sleep Talk, Sludge Bomb, Snatch,
+        Snore, Steel Wing, Substitute, Sunny Day, Supersonic, Swagger, Swift, Taunt,
+        Thief, Torment, Toxic, Whirlwind, Wing Attack, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rb: [Bide, Bite, Confuse Ray, Double-Edge, Double Team, Haze, Leech Life, Mega
+          Drain, Mimic, Rage, Razor Wind, Rest, Substitute, Supersonic, Swift, Take
+          Down, Toxic, Whirlwind, Wing Attack]
+    - xy: [Acrobatics, Aerial Ace, Air Cutter, Air Slash, Astonish, Attract, Bite,
+        Brave Bird, Captivate, Confuse Ray, Curse, Defog, Double-Edge, Double Team,
+        Endure, Facade, Feint Attack, Fly, Frustration, Giga Drain, Gust, Haze, Heat
+          Wave, Hypnosis, Leech Life, Mean Look, Mimic, Nasty Plot, Natural Gift,
+        Ominous Wind, Payback, Pluck, Poison Fang, Protect, Pursuit, Quick Attack,
+        Rain Dance, Rest, Return, Roost, Round, Secret Power, Shadow Ball, Sleep Talk,
+        Sludge Bomb, Snatch, Snore, Steel Wing, Substitute, Sunny Day, Super Fang,
+        Supersonic, Swagger, Swift, Tailwind, Taunt, Thief, Torment, Toxic, Twister,
+        Uproar, U-turn, Venoshock, Whirlwind, Wing Attack, Zen Headbutt, Confide,
+        Venom Drench, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [40, 45, 35, 40, 40, 55]
+    - gs: [40, 45, 35, 30, 40, 55]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Flying, Poison]
+    weight: [7.5]

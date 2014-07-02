@@ -1,0 +1,113 @@
+pokemon:
+  Paras:
+    abilities:
+    - dp: [Dry Skin, Effect Spore]
+    - bw: [Damp, Dry Skin, Effect Spore]
+    - rs: [Effect Spore]
+    - []
+    egggroups:
+    - [Bug, Plant]
+    height: [0.3]
+    introduction: rb
+    moves:
+    - gs: [Attract, Counter, Curse, Cut, Dig, Double Team, Endure, False Swipe, Flail,
+        Flash, Frustration, Fury Cutter, Giga Drain, Growth, Leech Life, Light Screen,
+        Poison Powder, Protect, Psybeam, Pursuit, Rest, Return, Rock Smash, Scratch,
+        Screech, Slash, Sleep Talk, Sludge Bomb, Snore, Solar Beam, Spore, Stun Spore,
+        Sunny Day, Swagger, Sweet Scent, Thief, Toxic, Synthesis, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - bw: [Aerial Ace, After You, Agility, Aromatherapy, Attract, Brick Break, Bug
+          Bite, Counter, Cross Poison, Cut, Dig, Double Team, Endure, Energy Ball,
+        Facade, False Swipe, Flail, Flash, Frustration, Fury Cutter, Giga Drain, Grass
+          Knot, Growth, Hone Claws, Knock Off, Leech Life, Leech Seed, Light Screen,
+        Metal Claw, Natural Gift, Poison Powder, Protect, Psybeam, Pursuit, Rage Powder,
+        Rest, Return, Rock Smash, Round, Scratch, Screech, Seed Bomb, Slash, Sleep
+          Talk, Sludge Bomb, Snore, Solar Beam, Spore, Struggle Bug, Stun Spore, Substitute,
+        Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis, Thief, Toxic, Venoshock,
+        Worry Seed, X-Scissor, Body Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Aerial Ace, Agility, Aromatherapy, Attract, Brick Break, Bug Bite, Bullet
+          Seed, Captivate, Counter, Cross Poison, Cut, Dig, Double Team, Endure, Energy
+          Ball, Facade, False Swipe, Flail, Flash, Frustration, Fury Cutter, Giga
+          Drain, Grass Knot, Growth, Knock Off, Leech Life, Light Screen, Metal Claw,
+        Natural Gift, Poison Powder, Protect, Psybeam, Pursuit, Rest, Return, Rock
+          Smash, Scratch, Screech, Secret Power, Seed Bomb, Slash, Sleep Talk, Sludge
+          Bomb, Snore, Solar Beam, Spore, String Shot, Stun Spore, Substitute, Sunny
+          Day, Swagger, Sweet Scent, Swords Dance, Synthesis, Thief, Toxic, Worry
+          Seed, X-Scissor, Body Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Aromatherapy, Attract, Bullet Seed, Counter, Cut, Dig, Double
+          Team, Endure, Facade, False Swipe, Flail, Flash, Frustration, Fury Cutter,
+        Giga Drain, Growth, Leech Life, Light Screen, Poison Powder, Protect, Psybeam,
+        Pursuit, Rest, Return, Rock Smash, Scratch, Screech, Secret Power, Slash,
+        Sleep Talk, Sludge Bomb, Snore, Solar Beam, Spore, Stun Spore, Substitute,
+        Sunny Day, Swagger, Sweet Scent, Swords Dance, Thief, Toxic, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - rb: [Bide, Body Slam, Cut, Dig, Double-Edge, Double Team, Growth, Leech Life,
+        Mega Drain, Mimic, Rage, Reflect, Rest, Scratch, Skull Bash, Slash, Solar
+          Beam, Spore, Stun Spore, Substitute, Swords Dance, Take Down, Toxic]
+    - xy: [Aerial Ace, Agility, Aromatherapy, Attract, Body Slam, Brick Break, Bug
+          Bite, Bullet Seed, Captivate, Counter, Cross Poison, Cut, Dig, Double-Edge,
+        Double Team, Endure, Energy Ball, Facade, False Swipe, Flail, Flash, Frustration,
+        Fury Cutter, Giga Drain, Grass Knot, Growth, Hone Claws, Knock Off, Leech
+          Life, Leech Seed, Light Screen, Metal Claw, Mimic, Natural Gift, Poison
+          Powder, Protect, Psybeam, Pursuit, Rage Powder, Refresh, Rest, Return, Rock
+          Smash, Round, Scratch, Screech, Secret Power, Seed Bomb, Slash, Sleep Talk,
+        Sludge Bomb, Snore, Solar Beam, Spore, String Shot, Struggle Bug, Stun Spore,
+        Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis, Thief,
+        Toxic, Venoshock, Worry Seed, X-Scissor, After You, Nature Power, Confide,
+        Fell Stinger, Wide Guard, Rototiller, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [35, 70, 55, 55, 55, 25]
+    - gs: [35, 70, 55, 45, 55, 25]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Bug, Grass]
+    weight: [5.4]
+  Parasect:
+    abilities:
+    - dp: [Dry Skin, Effect Spore]
+    - bw: [Damp, Dry Skin, Effect Spore]
+    - rs: [Effect Spore]
+    - []
+    egggroups:
+    - [Bug, Plant]
+    evolvesFrom: [Paras]
+    height: [1]
+    introduction: rb
+    moves:
+    - gs: [Hyper Beam]
+    - bw: [Giga Impact, Hyper Beam]
+    - dp: [Giga Impact, Hyper Beam]
+    - rs: [Hyper Beam]
+    - rb: [Hyper Beam]
+    - xy: [Giga Impact, Hyper Beam]
+    stats:
+    - [60, 95, 80, 80, 80, 30]
+    - gs: [60, 95, 80, 60, 80, 30]
+    tags:
+    - [UU]
+    - rs: [NU]
+    types:
+    - [Bug, Grass]
+    weight: [29.5]

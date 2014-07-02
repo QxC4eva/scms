@@ -1,0 +1,106 @@
+pokemon:
+  Misdreavus:
+    abilities:
+    - bw: [Levitate]
+    - rs: [Levitate]
+    - []
+    egggroups:
+    - [Indeterminate]
+    height: [0.7]
+    introduction: gs
+    moves:
+    - gs: [Attract, Confuse Ray, Curse, Defense Curl, Destiny Bond, Double Team, Dream
+          Eater, Endure, Flash, Frustration, Growl, Headbutt, Mean Look, Nightmare,
+        Pain Split, Perish Song, Protect, Psybeam, Psych Up, Psychic, Psywave, Rain
+          Dance, Rest, Return, Screech, Shadow Ball, Sleep Talk, Snore, Spite, Sunny
+          Day, Swagger, Swift, Thief, Thunder, Thunderbolt, Toxic, Zap Cannon, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - bw: [Aerial Ace, Astonish, Attract, Calm Mind, Charge Beam, Confuse Ray, Curse,
+        Dark Pulse, Destiny Bond, Double Team, Echoed Voice, Embargo, Facade, Flash,
+        Foul Play, Frustration, Growl, Grudge, Heal Bell, Hex, Hyper Voice, Icy Wind,
+        Imprison, Magic Coat, Magic Room, Mean Look, Memento, Nasty Plot, Ominous
+          Wind, Pain Split, Payback, Perish Song, Power Gem, Protect, Psybeam, Psych
+          Up, Psychic, Psywave, Rain Dance, Rest, Return, Round, Screech, Shadow Ball,
+        Shadow Sneak, Skill Swap, Sleep Talk, Snatch, Snore, Spite, Substitute, Sucker
+          Punch, Sunny Day, Swagger, Taunt, Telekinesis, Thief, Thunder, Thunder Wave,
+        Thunderbolt, Torment, Toxic, Trick, Trick Room, Uproar, Will-O-Wisp, Wonder
+          Room, Double-Edge, Mimic, Nightmare, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Aerial Ace, Astonish, Attract, Calm Mind, Captivate, Charge Beam, Confuse
+          Ray, Curse, Dark Pulse, Destiny Bond, Double Team, Embargo, Endure, Facade,
+        Flash, Frustration, Growl, Grudge, Headbutt, Heal Bell, Icy Wind, Imprison,
+        Magic Coat, Mean Look, Memento, Nasty Plot, Natural Gift, Ominous Wind, Pain
+          Split, Payback, Perish Song, Power Gem, Protect, Psybeam, Psych Up, Psychic,
+        Psywave, Rain Dance, Rest, Return, Screech, Secret Power, Shadow Ball, Shadow
+          Sneak, Shock Wave, Skill Swap, Sleep Talk, Snatch, Snore, Spite, Substitute,
+        Sucker Punch, Sunny Day, Swagger, Swift, Taunt, Thief, Thunder, Thunder Wave,
+        Thunderbolt, Torment, Toxic, Trick, Trick Room, Uproar, Will-O-Wisp, Double-Edge,
+        Mimic, Nightmare, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Astonish, Attract, Calm Mind, Confuse Ray, Defense Curl, Destiny
+          Bond, Double Team, Endure, Facade, Flash, Frustration, Growl, Grudge, Imprison,
+        Mean Look, Pain Split, Perish Song, Protect, Psybeam, Psych Up, Psychic, Psywave,
+        Rain Dance, Rest, Return, Screech, Secret Power, Shadow Ball, Shock Wave,
+        Skill Swap, Sleep Talk, Snatch, Snore, Spite, Substitute, Sunny Day, Swagger,
+        Swift, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Torment, Toxic, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - xy: [Aerial Ace, Astonish, Attract, Calm Mind, Captivate, Charge Beam, Confuse
+          Ray, Curse, Dark Pulse, Defense Curl, Destiny Bond, Double-Edge, Double
+          Team, Dream Eater, Echoed Voice, Embargo, Endure, Facade, Flash, Frustration,
+        Growl, Grudge, Headbutt, Heal Bell, Hex, Icy Wind, Imprison, Inferno, Magic
+          Coat, Mean Look, Memento, Mimic, Nasty Plot, Natural Gift, Nightmare, Ominous
+          Wind, Pain Split, Payback, Perish Song, Power Gem, Protect, Psybeam, Psychic,
+        Psych Up, Psywave, Rain Dance, Rest, Return, Round, Screech, Secret Power,
+        Shadow Ball, Shadow Sneak, Shock Wave, Skill Swap, Sleep Talk, Snatch, Snore,
+        Spite, Substitute, Sucker Punch, Sunny Day, Swagger, Swift, Taunt, Telekinesis,
+        Thief, Thunder, Thunderbolt, Thunder Wave, Torment, Toxic, Trick, Trick Room,
+        Uproar, Will-O-Wisp, Wonder Room, Foul Play, Hyper Voice, Magic Room, Dazzling
+          Gleam, Confide, Me First, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [60, 60, 60, 85, 85, 85]
+    tags:
+    - [OU]
+    - bw: [NU]
+    - dp: [NFE]
+    - rs: [UU]
+    types:
+    - [Ghost]
+    weight: [1]
+  Mismagius:
+    abilities:
+    - [Levitate]
+    egggroups:
+    - [Indeterminate]
+    evolvesFrom: [Misdreavus]
+    height: [0.9]
+    introduction: dp
+    moves:
+    - bw: [Energy Ball, Giga Impact, Hyper Beam, Lucky Chant, Magical Leaf]
+    - dp: [Energy Ball, Giga Impact, Hyper Beam, Lucky Chant, Magical Leaf]
+    - xy: [Energy Ball, Giga Impact, Hyper Beam, Lucky Chant, Magical Leaf, Phantom
+          Force]
+    stats:
+    - [60, 60, 60, 105, 105, 105]
+    tags:
+    - [UU]
+    types:
+    - [Ghost]
+    weight: [4.4]

@@ -1,0 +1,61 @@
+pokemon:
+  Thundurus:
+    abilities:
+    - [Defiant, Prankster]
+    egggroups:
+    - []
+    height: [1.5]
+    introduction: bw
+    moves:
+    - bw: [Agility, Astonish, Attract, Bite, Brick Break, Bulk Up, Charge, Charge
+          Beam, Crunch, Dark Pulse, Discharge, Double Team, Embargo, Facade, Flash
+          Cannon, Fling, Fly, Focus Blast, Foul Play, Frustration, Giga Impact, Grass
+          Knot, Hammer Arm, Heal Block, Hyper Beam, Incinerate, Iron Tail, Knock Off,
+        Nasty Plot, Payback, Protect, Psychic, Rain Dance, Rest, Return, Revenge,
+        Rock Smash, Role Play, Round, Shock Wave, Sky Drop, Sleep Talk, Sludge Bomb,
+        Sludge Wave, Smack Down, Snore, Strength, Substitute, Superpower, Swagger,
+        Taunt, Thief, Thrash, Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Thunder
+          Shock, Torment, Toxic, U-turn, Uproar, Volt Switch, Wild Charge, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - xy: [Agility, Astonish, Attract, Bite, Brick Break, Bulk Up, Charge, Charge
+          Beam, Crunch, Dark Pulse, Discharge, Double Team, Embargo, Facade, Flash
+          Cannon, Fling, Fly, Focus Blast, Frustration, Giga Impact, Grass Knot, Hammer
+          Arm, Heal Block, Hyper Beam, Incinerate, Nasty Plot, Payback, Protect, Psychic,
+        Rain Dance, Rest, Return, Revenge, Rock Smash, Round, Shock Wave, Sky Drop,
+        Sludge Bomb, Sludge Wave, Smack Down, Strength, Substitute, Swagger, Taunt,
+        Thief, Thrash, Thunder, Thunderbolt, Thunder Shock, Thunder Wave, Torment,
+        Toxic, Uproar, U-turn, Volt Switch, Wild Charge, Thunder Punch, Foul Play,
+        Superpower, Iron Tail, Snore, Knock Off, Role Play, Sleep Talk, Confide, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [79, 115, 70, 125, 80, 111]
+    tags:
+    - [Uber]
+    types:
+    - [Electric, Flying]
+    weight: [61]
+  Thundurus-Therian:
+    abilities:
+    - [Volt Absorb]
+    egggroups:
+    - []
+    evolvesFrom: [Thundurus]
+    height: [3]
+    introduction: bw
+    moves:
+    - []
+    stats:
+    - [79, 105, 70, 145, 80, 101]
+    tags:
+    - [OU]
+    types:
+    - [Electric, Flying]
+    weight: [61]

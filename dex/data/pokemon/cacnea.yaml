@@ -1,0 +1,98 @@
+pokemon:
+  Cacnea:
+    abilities:
+    - [Sand Veil]
+    - bw: [Sand Veil, Water Absorb]
+    egggroups:
+    - [Humanshape, Plant]
+    height: [0.4]
+    introduction: rs
+    moves:
+    - bw: [Absorb, Acid, Attract, Block, Body Slam, Brick Break, Cotton Spore, Counter,
+        Cut, Dark Pulse, Destiny Bond, Disable, Double-Edge, Double Team, Drain Punch,
+        Dynamic Punch, Energy Ball, Facade, Feint Attack, Flash, Fling, Frustration,
+        Giga Drain, Grass Knot, Grass Whistle, Growth, Ingrain, Leech Seed, Leer,
+        Low Kick, Magical Leaf, Mimic, Nasty Plot, Needle Arm, Payback, Pin Missile,
+        Poison Jab, Poison Sting, Protect, Rest, Return, Role Play, Round, Sand Attack,
+        Sandstorm, Seed Bomb, Seismic Toss, Sleep Talk, Smelling Salts, Snore, Solar
+          Beam, Spikes, Spite, Substitute, Sucker Punch, Sunny Day, Swagger, Switcheroo,
+        Swords Dance, Synthesis, Teeter Dance, Thunder Punch, Toxic, Venoshock, Worry
+          Seed, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - dp: [Absorb, Acid, Attract, Brick Break, Bullet Seed, Captivate, Cotton Spore,
+        Counter, Cut, Dark Pulse, Destiny Bond, Double Team, Drain Punch, Dynamic
+          Punch, Endure, Energy Ball, Facade, Feint Attack, Flash, Fling, Focus Punch,
+        Frustration, Fury Cutter, Giga Drain, Grass Knot, Grass Whistle, Growth, Headbutt,
+        Ingrain, Leech Seed, Leer, Low Kick, Magical Leaf, Mud-Slap, Nasty Plot, Natural
+          Gift, Needle Arm, Payback, Pin Missile, Poison Jab, Poison Sting, Protect,
+        Rest, Return, Role Play, Sand Attack, Sandstorm, Secret Power, Seed Bomb,
+        Sleep Talk, Smelling Salts, Snore, Solar Beam, Spikes, Spite, Substitute,
+        Sucker Punch, Sunny Day, Swagger, Swords Dance, Synthesis, Teeter Dance, Thunder
+          Punch, Toxic, Worry Seed, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Absorb, Acid, Attract, Body Slam, Bullet Seed, Cotton Spore, Counter, Cut,
+        Destiny Bond, Double-Edge, Double Team, Dynamic Punch, Endure, Facade, Feint
+          Attack, Flash, Focus Punch, Frustration, Fury Cutter, Giga Drain, Grass
+          Whistle, Growth, Ingrain, Leech Seed, Leer, Mega Punch, Mimic, Mud-Slap,
+        Needle Arm, Pin Missile, Poison Sting, Protect, Rest, Return, Sand Attack,
+        Sandstorm, Secret Power, Seismic Toss, Sleep Talk, Snore, Solar Beam, Spikes,
+        Substitute, Sunny Day, Swagger, Swords Dance, Teeter Dance, Thunder Punch,
+        Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - xy: [Absorb, Acid, Attract, Block, Body Slam, Brick Break, Bullet Seed, Captivate,
+        Cotton Spore, Counter, Cut, Dark Pulse, Destiny Bond, Disable, Double-Edge,
+        Double Team, Drain Punch, Dynamic Punch, Encore, Endure, Energy Ball, Facade,
+        Feint Attack, Flash, Fling, Focus Punch, Frustration, Fury Cutter, Giga Drain,
+        Grass Knot, Grass Whistle, Growth, Headbutt, Ingrain, Leech Seed, Leer, Low
+          Kick, Magical Leaf, Mega Punch, Mimic, Mud-Slap, Nasty Plot, Natural Gift,
+        Needle Arm, Payback, Pin Missile, Poison Jab, Poison Sting, Protect, Rest,
+        Return, Role Play, Round, Sand Attack, Sandstorm, Secret Power, Seed Bomb,
+        Seismic Toss, Sleep Talk, Smelling Salts, Snore, Solar Beam, Spikes, Spite,
+        Substitute, Sucker Punch, Sunny Day, Swagger, Switcheroo, Swords Dance, Synthesis,
+        Teeter Dance, Thunder Punch, Toxic, Venoshock, Worry Seed, Nature Power, Power-Up
+          Punch, Confide, Belch, Fell Stinger, Rototiller, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [50, 85, 40, 85, 40, 35]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Grass]
+    weight: [51.3]
+  Cacturne:
+    abilities:
+    - [Sand Veil]
+    - bw: [Sand Veil, Water Absorb]
+    egggroups:
+    - [Humanshape, Plant]
+    evolvesFrom: [Cacnea]
+    height: [1.3]
+    introduction: rs
+    moves:
+    - bw: [Embargo, Focus Blast, Foul Play, Giga Impact, Hyper Beam, Retaliate, Revenge,
+        Strength, Superpower]
+    - dp: [Embargo, Focus Blast, Giga Impact, Hyper Beam, Revenge, Strength, Superpower]
+    - rs: [Hyper Beam, Mega Kick, Revenge, Strength]
+    - xy: [Embargo, Focus Blast, Giga Impact, Hyper Beam, Mega Kick, Retaliate, Revenge,
+        Strength, Superpower, Foul Play]
+    stats:
+    - [70, 115, 60, 115, 60, 55]
+    tags:
+    - [UU]
+    - dp: [NU]
+    types:
+    - [Dark, Grass]
+    weight: [77.4]

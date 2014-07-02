@@ -1,0 +1,59 @@
+pokemon:
+  Landorus:
+    abilities:
+    - [Sand Force, Sheer Force]
+    egggroups:
+    - []
+    height: [1.5]
+    introduction: bw
+    moves:
+    - bw: [Attract, Block, Brick Break, Bulk Up, Bulldoze, Calm Mind, Dig, Double
+          Team, Earth Power, Earthquake, Explosion, Extrasensory, Facade, Fissure,
+        Fling, Fly, Focus Blast, Frustration, Giga Impact, Grass Knot, Gravity, Hammer
+          Arm, Hyper Beam, Imprison, Iron Tail, Knock Off, Mud Shot, Outrage, Payback,
+        Protect, Psychic, Punishment, Rest, Return, Rock Polish, Rock Slide, Rock
+          Smash, Rock Throw, Rock Tomb, Role Play, Round, Sandstorm, Sleep Talk, Sludge
+          Bomb, Sludge Wave, Smack Down, Snore, Stealth Rock, Stone Edge, Strength,
+        Substitute, Superpower, Swagger, Swords Dance, Toxic, U-turn, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - xy: [Attract, Block, Brick Break, Bulk Up, Bulldoze, Calm Mind, Dig, Double
+          Team, Earth Power, Earthquake, Explosion, Extrasensory, Facade, Fissure,
+        Fling, Fly, Focus Blast, Frustration, Giga Impact, Grass Knot, Hammer Arm,
+        Hyper Beam, Imprison, Mud Shot, Outrage, Payback, Protect, Psychic, Punishment,
+        Rest, Return, Rock Polish, Rock Slide, Rock Smash, Rock Throw, Rock Tomb,
+        Round, Sandstorm, Sludge Bomb, Sludge Wave, Smack Down, Stone Edge, Strength,
+        Substitute, Swagger, Swords Dance, Toxic, U-turn, Gravity, Superpower, Iron
+          Tail, Snore, Knock Off, Role Play, Stealth Rock, Sleep Talk, Confide, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [89, 125, 90, 115, 80, 101]
+    tags:
+    - [Uber]
+    types:
+    - [Flying, Ground]
+    weight: [68]
+  Landorus-Therian:
+    abilities:
+    - [Intimidate]
+    egggroups:
+    - []
+    evolvesFrom: [Landorus]
+    height: [1.3]
+    introduction: bw
+    moves:
+    - []
+    stats:
+    - [89, 145, 90, 105, 80, 91]
+    tags:
+    - [OU]
+    types:
+    - [Flying, Ground]
+    weight: [68]

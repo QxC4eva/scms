@@ -1,0 +1,87 @@
+pokemon:
+  Ho-Oh:
+    abilities:
+    - bw: [Pressure, Regenerator]
+    - rs: [Pressure]
+    - []
+    egggroups:
+    - []
+    height: [3.8]
+    introduction: gs
+    moves:
+    - gs: [Ancient Power, Curse, Detect, Double Team, Dragon Breath, Dream Eater,
+        Earthquake, Endure, Fire Blast, Flamethrower, Flash, Fly, Frustration, Future
+          Sight, Giga Drain, Gust, Hyper Beam, Mud-Slap, Nightmare, Protect, Psych
+          Up, Psychic, Rain Dance, Recover, Rest, Return, Roar, Rock Smash, Sacred
+          Fire, Safeguard, Sandstorm, Shadow Ball, Sleep Talk, Snore, Solar Beam,
+        Steel Wing, Strength, Sunny Day, Swagger, Swift, Thunder, Thunderbolt, Toxic,
+        Whirlwind, Zap Cannon, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - bw: [Aerial Ace, Ancient Power, Brave Bird, Bulldoze, Calm Mind, Charge Beam,
+        Double Team, Dream Eater, Earth Power, Earthquake, Echoed Voice, Extrasensory,
+        Facade, Fire Blast, Flame Charge, Flamethrower, Flash, Fly, Frustration, Future
+          Sight, Giga Drain, Giga Impact, Gust, Heat Wave, Hyper Beam, Hyper Voice,
+        Incinerate, Iron Head, Light Screen, Natural Gift, Overheat, Pluck, Protect,
+        Psych Up, Psychic, Punishment, Rain Dance, Recover, Reflect, Rest, Return,
+        Roar, Rock Smash, Roost, Round, Sacred Fire, Safeguard, Sandstorm, Shadow
+          Ball, Signal Beam, Sky Attack, Sky Drop, Sleep Talk, Snore, Solar Beam,
+        Strength, Substitute, Sunny Day, Swagger, Tailwind, Thunder, Thunder Wave,
+        Thunderbolt, Toxic, Weather Ball, Whirlwind, Will-O-Wisp, Zen Headbutt, Double-Edge,
+        Mimic, Nightmare, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - dp: [Aerial Ace, Air Cutter, Ancient Power, Brave Bird, Calm Mind, Charge Beam,
+        Defog, Double Team, Dream Eater, Earth Power, Earthquake, Endure, Extrasensory,
+        Facade, Fire Blast, Flamethrower, Flash, Fly, Frustration, Future Sight, Giga
+          Drain, Giga Impact, Gust, Heat Wave, Hyper Beam, Iron Head, Light Screen,
+        Mud-Slap, Natural Gift, Ominous Wind, Overheat, Pluck, Protect, Psych Up,
+        Psychic, Punishment, Rain Dance, Recover, Reflect, Rest, Return, Roar, Rock
+          Smash, Roost, Sacred Fire, Safeguard, Sandstorm, Secret Power, Shadow Ball,
+        Shock Wave, Signal Beam, Sky Attack, Sleep Talk, Snore, Solar Beam, Steel
+          Wing, Strength, Substitute, Sunny Day, Swagger, Swift, Tailwind, Thunder,
+        Thunder Wave, Thunderbolt, Toxic, Twister, Weather Ball, Whirlwind, Will-O-Wisp,
+        Zen Headbutt, Double-Edge, Mimic, Nightmare, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Ancient Power, Calm Mind, Double Team, Dream Eater, Earthquake,
+        Endure, Facade, Fire Blast, Flamethrower, Flash, Fly, Frustration, Future
+          Sight, Giga Drain, Gust, Hyper Beam, Light Screen, Mud-Slap, Overheat, Protect,
+        Psych Up, Psychic, Rain Dance, Recover, Reflect, Rest, Return, Roar, Rock
+          Smash, Sacred Fire, Safeguard, Sandstorm, Secret Power, Shadow Ball, Shock
+          Wave, Sky Attack, Sleep Talk, Snore, Solar Beam, Steel Wing, Strength, Substitute,
+        Sunny Day, Swagger, Swift, Thunder, Thunder Wave, Thunderbolt, Toxic, Whirlwind,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - xy: [Aerial Ace, Air Cutter, Ancient Power, Brave Bird, Bulldoze, Calm Mind,
+        Charge Beam, Defog, Double-Edge, Double Team, Dream Eater, Earth Power, Earthquake,
+        Echoed Voice, Endure, Extrasensory, Facade, Fire Blast, Flame Charge, Flamethrower,
+        Flash, Fly, Frustration, Future Sight, Giga Drain, Giga Impact, Gust, Heat
+          Wave, Hyper Beam, Incinerate, Iron Head, Light Screen, Mimic, Mud-Slap,
+        Natural Gift, Nightmare, Ominous Wind, Overheat, Pluck, Protect, Psychic,
+        Psych Up, Punishment, Rain Dance, Recover, Reflect, Rest, Return, Roar, Rock
+          Smash, Roost, Round, Sacred Fire, Safeguard, Sandstorm, Secret Power, Shadow
+          Ball, Shock Wave, Signal Beam, Sky Attack, Sky Drop, Sleep Talk, Snore,
+        Solar Beam, Steel Wing, Strength, Substitute, Sunny Day, Swagger, Swift, Tailwind,
+        Thunder, Thunderbolt, Thunder Wave, Toxic, Twister, Weather Ball, Whirlwind,
+        Will-O-Wisp, Zen Headbutt, Hyper Voice, Confide, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [106, 130, 90, 110, 154, 90]
+    tags:
+    - [Uber]
+    types:
+    - [Fire, Flying]
+    weight: [199]

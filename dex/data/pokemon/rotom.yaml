@@ -1,0 +1,145 @@
+pokemon:
+  Rotom:
+    abilities:
+    - [Levitate]
+    egggroups:
+    - [Indeterminate]
+    height: [0.3]
+    introduction: dp
+    moves:
+    - bw: [Astonish, Charge, Charge Beam, Confuse Ray, Dark Pulse, Discharge, Double
+          Team, Dream Eater, Electro Ball, Electroweb, Facade, Flash, Frustration,
+        Hex, Light Screen, Ominous Wind, Pain Split, Protect, Psych Up, Rain Dance,
+        Reflect, Rest, Return, Round, Shadow Ball, Shock Wave, Signal Beam, Sleep
+          Talk, Snatch, Snore, Spite, Substitute, Sunny Day, Swagger, Telekinesis,
+        Thief, Thunder, Thunder Wave, Thunderbolt, Thunder Shock, Toxic, Trick, Uproar,
+        Volt Switch, Will-O-Wisp, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Astonish, Charge, Charge Beam, Confuse Ray, Dark Pulse, Discharge, Double
+          Team, Dream Eater, Endure, Facade, Flash, Frustration, Light Screen, Mud-Slap,
+        Natural Gift, Ominous Wind, Pain Split, Protect, Psych Up, Rain Dance, Reflect,
+        Rest, Return, Secret Power, Shadow Ball, Shock Wave, Signal Beam, Sleep Talk,
+        Snatch, Snore, Spite, Substitute, Sucker Punch, Sunny Day, Swagger, Swift,
+        Thief, Thunder, Thunder Wave, Thunderbolt, Thunder Shock, Toxic, Trick, Uproar,
+        Will-O-Wisp, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - xy: [Astonish, Charge, Charge Beam, Confuse Ray, Dark Pulse, Discharge, Double
+          Team, Dream Eater, Electro Ball, Endure, Facade, Flash, Frustration, Hex,
+        Light Screen, Mud-Slap, Natural Gift, Ominous Wind, Pain Split, Protect, Psych
+          Up, Rain Dance, Reflect, Rest, Return, Round, Secret Power, Shadow Ball,
+        Shock Wave, Signal Beam, Sleep Talk, Snatch, Snore, Spite, Substitute, Sucker
+          Punch, Sunny Day, Swagger, Swift, Telekinesis, Thief, Thunder, Thunderbolt,
+        Thunder Shock, Thunder Wave, Toxic, Trick, Uproar, Volt Switch, Will-O-Wisp,
+        Electroweb, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [50, 50, 77, 95, 77, 91]
+    tags:
+    - [UU]
+    - bw: [RU]
+    types:
+    - [Electric, Ghost]
+    weight: [0.3]
+  Rotom-Fan:
+    abilities:
+    - [Levitate]
+    egggroups:
+    - [Indeterminate]
+    evolvesFrom: [Rotom]
+    height: [0.3]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [50, 65, 107, 105, 107, 86]
+    tags:
+    - [OU]
+    - bw: [NU]
+    types:
+    - [Electric, Ghost]
+    - bw: [Electric, Flying]
+    weight: [0.3]
+  Rotom-Frost:
+    abilities:
+    - [Levitate]
+    egggroups:
+    - [Indeterminate]
+    evolvesFrom: [Rotom]
+    height: [0.3]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [50, 65, 107, 105, 107, 86]
+    tags:
+    - [OU]
+    - bw: [NU]
+    types:
+    - [Electric, Ghost]
+    - bw: [Electric, Ice]
+    weight: [0.3]
+  Rotom-Heat:
+    abilities:
+    - [Levitate]
+    egggroups:
+    - [Indeterminate]
+    evolvesFrom: [Rotom]
+    height: [0.3]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [50, 65, 107, 105, 107, 86]
+    tags:
+    - [OU]
+    - bw: [UU]
+    types:
+    - [Electric, Ghost]
+    - bw: [Electric, Fire]
+    weight: [0.3]
+  Rotom-Mow:
+    abilities:
+    - [Levitate]
+    egggroups:
+    - [Indeterminate]
+    evolvesFrom: [Rotom]
+    height: [0.3]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [50, 65, 107, 105, 107, 86]
+    tags:
+    - [OU]
+    - bw: [RU]
+    types:
+    - [Electric, Ghost]
+    - bw: [Electric, Grass]
+    weight: [0.3]
+  Rotom-Wash:
+    abilities:
+    - [Levitate]
+    egggroups:
+    - [Indeterminate]
+    evolvesFrom: [Rotom]
+    height: [0.3]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [50, 65, 107, 105, 107, 86]
+    tags:
+    - [OU]
+    types:
+    - [Electric, Ghost]
+    - bw: [Electric, Water]
+    weight: [0.3]

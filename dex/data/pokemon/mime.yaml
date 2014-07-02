@@ -1,0 +1,127 @@
+pokemon:
+  Mime Jr.:
+    abilities:
+    - [Filter, Soundproof, Technician]
+    egggroups:
+    - []
+    height: [0.6]
+    introduction: dp
+    moves:
+    - bw: [Attract, Barrier, Baton Pass, Brick Break, Calm Mind, Charge Beam, Charm,
+        Confuse Ray, Confusion, Copycat, Covet, Double Team, Double Slap, Drain Punch,
+        Dream Eater, Encore, Facade, Fake Out, Flash, Fling, Frustration, Future Sight,
+        Grass Knot, Healing Wish, Helping Hand, Hypnosis, Icy Wind, Light Screen,
+        Magic Coat, Magic Room, Meditate, Mimic, Nasty Plot, Power Split, Protect,
+        Psybeam, Psych Up, Psychic, Psyshock, Rain Dance, Recycle, Reflect, Rest,
+        Return, Role Play, Round, Safeguard, Shadow Ball, Signal Beam, Skill Swap,
+        Sleep Talk, Snatch, Snore, Solar Beam, Substitute, Sunny Day, Swagger, Taunt,
+        Teeter Dance, Telekinesis, Thief, Thunder, Thunder Wave, Thunderbolt, Tickle,
+        Torment, Toxic, Trick, Trick Room, Uproar, Wake-Up Slap, Wonder Room, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - dp: [Attract, Barrier, Baton Pass, Brick Break, Calm Mind, Captivate, Charge
+          Beam, Charm, Confuse Ray, Confusion, Copycat, Double Team, Double Slap,
+        Drain Punch, Dream Eater, Encore, Endure, Facade, Fake Out, Flash, Fling,
+        Focus Punch, Frustration, Future Sight, Grass Knot, Headbutt, Healing Wish,
+        Helping Hand, Hypnosis, Light Screen, Magic Coat, Meditate, Mimic, Mud-Slap,
+        Nasty Plot, Natural Gift, Protect, Psybeam, Psych Up, Psychic, Rain Dance,
+        Recycle, Reflect, Rest, Return, Role Play, Safeguard, Secret Power, Shadow
+          Ball, Shock Wave, Signal Beam, Skill Swap, Sleep Talk, Snatch, Snore, Solar
+          Beam, Substitute, Sunny Day, Swagger, Taunt, Teeter Dance, Thief, Thunder,
+        Thunder Wave, Thunderbolt, Tickle, Torment, Toxic, Trick, Trick Room, Uproar,
+        Wake-Up Slap, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - xy: [Attract, Barrier, Baton Pass, Brick Break, Calm Mind, Captivate, Charge
+          Beam, Charm, Confuse Ray, Confusion, Copycat, Double Slap, Double Team,
+        Drain Punch, Dream Eater, Encore, Endure, Facade, Fake Out, Flash, Fling,
+        Focus Punch, Frustration, Future Sight, Grass Knot, Headbutt, Healing Wish,
+        Helping Hand, Hypnosis, Icy Wind, Light Screen, Magic Coat, Magic Room, Meditate,
+        Mimic, Mud-Slap, Nasty Plot, Natural Gift, Power Split, Protect, Psybeam,
+        Psychic, Psych Up, Psyshock, Rain Dance, Recycle, Reflect, Rest, Return, Role
+          Play, Round, Safeguard, Secret Power, Shadow Ball, Shock Wave, Signal Beam,
+        Skill Swap, Sleep Talk, Snatch, Snore, Solar Beam, Substitute, Sunny Day,
+        Swagger, Taunt, Teeter Dance, Telekinesis, Thief, Thunder, Thunderbolt, Thunder
+          Wave, Tickle, Torment, Toxic, Trick, Trick Room, Uproar, Wake-Up Slap, Covet,
+        Wonder Room, Infestation, Confide, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [20, 25, 45, 70, 90, 60]
+    tags:
+    - [LC]
+    types:
+    - [Psychic]
+    - xy: [Psychic, Fairy]
+    weight: [13]
+  Mr. Mime:
+    abilities:
+    - bw: [Filter, Soundproof, Technician]
+      dp: [Filter, Soundproof]
+    - rs: [Soundproof]
+    - []
+    egggroups:
+    - [Humanshape]
+    evolvesFrom:
+    - {dp: Mime Jr.}
+    height: [1.3]
+    introduction: rb
+    moves:
+    - gs: [Attract, Barrier, Baton Pass, Confusion, Curse, Double Team, Double Slap,
+        Dream Eater, Dynamic Punch, Encore, Endure, Fire Punch, Flash, Frustration,
+        Future Sight, Headbutt, Hyper Beam, Hypnosis, Ice Punch, Light Screen, Meditate,
+        Mimic, Mud-Slap, Nightmare, Protect, Psybeam, Psych Up, Psychic, Reflect,
+        Rest, Return, Safeguard, Shadow Ball, Sleep Talk, Snore, Solar Beam, Substitute,
+        Sunny Day, Swagger, Thief, Thunder, Thunderbolt, Thunder Punch, Toxic, Zap
+          Cannon, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - bw: [Aerial Ace, Energy Ball, Fire Punch, Focus Blast, Foul Play, Giga Impact,
+        Guard Swap, Hyper Beam, Ice Punch, Iron Defense, Magical Leaf, Payback, Power
+          Swap, Psywave, Quick Guard, Wide Guard, Zen Headbutt, Body Slam, Double-Edge,
+        Follow Me, Nightmare, Seismic Toss]
+    - dp: [Aerial Ace, Energy Ball, Fire Punch, Focus Blast, Giga Impact, Guard Swap,
+        Hyper Beam, Ice Punch, Iron Defense, Magical Leaf, Payback, Power Swap, Zen
+          Headbutt, Body Slam, Double-Edge, Follow Me, Nightmare, Seismic Toss]
+    - rs: [Attract, Barrier, Baton Pass, Brick Break, Calm Mind, Confusion, Counter,
+        Double Team, Double Slap, Dream Eater, Encore, Endure, Facade, Fake Out, Fire
+          Punch, Flash, Focus Punch, Frustration, Future Sight, Hyper Beam, Hypnosis,
+        Ice Punch, Light Screen, Magical Leaf, Meditate, Mega Kick, Mega Punch, Metronome,
+        Mimic, Mud-Slap, Protect, Psybeam, Psych Up, Psychic, Rain Dance, Recycle,
+        Reflect, Rest, Return, Role Play, Safeguard, Secret Power, Shadow Ball, Shock
+          Wave, Skill Swap, Sleep Talk, Snatch, Snore, Solar Beam, Substitute, Sunny
+          Day, Swagger, Taunt, Thief, Thunder, Thunder Wave, Thunderbolt, Torment,
+        Toxic, Trick, Follow Me, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rb: [Barrier, Bide, Body Slam, Confusion, Counter, Double-Edge, Double Team,
+        Double Slap, Flash, Hyper Beam, Light Screen, Meditate, Mega Kick, Mega Punch,
+        Metronome, Mimic, Psychic, Psywave, Rage, Reflect, Rest, Seismic Toss, Skull
+          Bash, Solar Beam, Submission, Substitute, Take Down, Teleport, Thunder,
+        Thunder Wave, Thunderbolt, Toxic]
+    - xy: [Aerial Ace, Body Slam, Counter, Double-Edge, Energy Ball, Fire Punch, Focus
+          Blast, Follow Me, Giga Impact, Guard Swap, Hyper Beam, Ice Punch, Iron Defense,
+        Magical Leaf, Mega Kick, Mega Punch, Metronome, Nightmare, Payback, Power
+          Swap, Psywave, Quick Guard, Seismic Toss, Thunder Punch, Wide Guard, Zen
+          Headbutt, Foul Play, Misty Terrain, Power-Up Punch, Dazzling Gleam]
+    stats:
+    - [40, 45, 65, 100, 100, 90]
+    - gs: [40, 45, 65, 100, 120, 90]
+    tags:
+    - [UU]
+    - dp: [NU]
+    types:
+    - [Psychic]
+    - xy: [Psychic, Fairy]
+    weight: [54.5]

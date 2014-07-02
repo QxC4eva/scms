@@ -1,0 +1,157 @@
+pokemon:
+  Slowbro:
+    abilities:
+    - bw: [Oblivious, Own Tempo, Regenerator]
+    - rs: [Oblivious, Own Tempo]
+    - []
+    egggroups:
+    - [Monster, Water 1]
+    evolvesFrom:
+    - {gs: Slowpoke}
+    height: [1.6]
+    introduction: rb
+    moves:
+    - gs: [Dynamic Punch, Fury Cutter, Hyper Beam, Ice Punch, Rock Smash, Withdraw]
+    - bw: [Aerial Ace, Brick Break, Drain Punch, Fling, Focus Blast, Foul Play, Giga
+          Impact, Hyper Beam, Ice Punch, Iron Defense, Rock Smash, Withdraw, Seismic
+          Toss]
+    - dp: [Avalanche, Brick Break, Drain Punch, Fling, Focus Blast, Focus Punch, Fury
+          Cutter, Giga Impact, Hyper Beam, Ice Punch, Iron Defense, Rock Smash, Withdraw,
+        Seismic Toss]
+    - rs: [Brick Break, Counter, Dynamic Punch, Focus Punch, Fury Cutter, Hyper Beam,
+        Ice Punch, Mega Kick, Mega Punch, Rock Smash, Withdraw]
+    - rb: [Counter, Hyper Beam, Mega Kick, Mega Punch, Seismic Toss, Submission, Withdraw]
+    - xy: [Aerial Ace, Avalanche, Brick Break, Counter, Drain Punch, Dynamic Punch,
+        Fling, Focus Blast, Focus Punch, Fury Cutter, Giga Impact, Hyper Beam, Ice
+          Punch, Iron Defense, Mega Kick, Mega Punch, Rock Smash, Seismic Toss, Withdraw,
+        Foul Play]
+    stats:
+    - [95, 75, 110, 80, 80, 30]
+    - gs: [95, 75, 110, 100, 80, 30]
+    tags:
+    - [OU]
+    - dp: [UU]
+    - rs: [BL]
+    - gs: [UU]
+    types:
+    - [Psychic, Water]
+    weight: [78.5]
+  Slowking:
+    abilities:
+    - bw: [Oblivious, Own Tempo, Regenerator]
+    - rs: [Oblivious, Own Tempo]
+    - []
+    egggroups:
+    - [Monster, Water 1]
+    evolvesFrom: [Slowpoke]
+    height: [2]
+    introduction: gs
+    moves:
+    - gs: [Whirlpool]
+    - bw: [Dragon Tail, Nasty Plot, Power Gem, Quash, Trump Card, Seismic Toss]
+    - dp: [Nasty Plot, Power Gem, Trump Card, Seismic Toss]
+    - rs: [Seismic Toss]
+    - xy: [Avalanche, Brick Break, Counter, Dragon Tail, Drain Punch, Dynamic Punch,
+        Fling, Focus Blast, Focus Punch, Fury Cutter, Giga Impact, Hyper Beam, Ice
+          Punch, Iron Defense, Mega Kick, Mega Punch, Nasty Plot, Power Gem, Quash,
+        Rock Smash, Seismic Toss, Trump Card, Foul Play, Power-Up Punch]
+    stats:
+    - [95, 75, 80, 100, 110, 30]
+    tags:
+    - [UU]
+    - bw: [RU]
+    - dp: [NU]
+    types:
+    - [Psychic, Water]
+    weight: [79.5]
+  Slowpoke:
+    abilities:
+    - bw: [Oblivious, Own Tempo, Regenerator]
+    - rs: [Oblivious, Own Tempo]
+    - []
+    egggroups:
+    - [Monster, Water 1]
+    height: [1.2]
+    introduction: rb
+    moves:
+    - gs: [Amnesia, Attract, Belly Drum, Blizzard, Confusion, Curse, Dig, Disable,
+        Double Team, Dream Eater, Earthquake, Endure, Fire Blast, Flamethrower, Flash,
+        Frustration, Future Sight, Growl, Headbutt, Ice Beam, Icy Wind, Iron Tail,
+        Mud-Slap, Nightmare, Protect, Psych Up, Psychic, Rain Dance, Rest, Return,
+        Safeguard, Shadow Ball, Sleep Talk, Snore, Stomp, Strength, Sunny Day, Surf,
+        Swagger, Swift, Tackle, Toxic, Water Gun, Zap Cannon, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - bw: [After You, Amnesia, Aqua Tail, Attract, Belly Drum, Blizzard, Block, Bulldoze,
+        Calm Mind, Confusion, Curse, Dig, Disable, Dive, Double Team, Dream Eater,
+        Earthquake, Echoed Voice, Facade, Fire Blast, Flamethrower, Flash, Frustration,
+        Future Sight, Grass Knot, Growl, Hail, Headbutt, Heal Pulse, Ice Beam, Incinerate,
+        Iron Tail, Light Screen, Magic Coat, Me First, Mud Sport, Protect, Psych Up,
+        Psychic, Psyshock, Rain Dance, Recycle, Rest, Return, Round, Safeguard, Scald,
+        Shadow Ball, Signal Beam, Skill Swap, Slack Off, Sleep Talk, Snore, Stomp,
+        Strength, Substitute, Sunny Day, Surf, Swagger, Tackle, Telekinesis, Thunder
+          Wave, Toxic, Trick, Trick Room, Water Gun, Water Pulse, Wonder Room, Yawn,
+        Zen Headbutt, Body Slam, Double-Edge, Mimic, Nightmare, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - dp: [Amnesia, Aqua Tail, Attract, Belly Drum, Blizzard, Block, Brine, Calm Mind,
+        Captivate, Confusion, Curse, Dig, Disable, Dive, Double Team, Dream Eater,
+        Earthquake, Endure, Facade, Fire Blast, Flamethrower, Flash, Frustration,
+        Future Sight, Grass Knot, Growl, Hail, Headbutt, Ice Beam, Iron Tail, Light
+          Screen, Magic Coat, Me First, Mud-Slap, Mud Sport, Natural Gift, Protect,
+        Psych Up, Psychic, Rain Dance, Recycle, Rest, Return, Safeguard, Secret Power,
+        Shadow Ball, Signal Beam, Skill Swap, Slack Off, Sleep Talk, Snore, Stomp,
+        Strength, Substitute, Sunny Day, Surf, Swagger, Swift, Tackle, Thunder Wave,
+        Toxic, Trick, Trick Room, Water Gun, Water Pulse, Whirlpool, Yawn, Zen Headbutt,
+        Body Slam, Double-Edge, Mimic, Nightmare, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Amnesia, Attract, Belly Drum, Blizzard, Calm Mind, Confusion, Curse, Dig,
+        Disable, Dive, Double Team, Dream Eater, Earthquake, Endure, Facade, Fire
+          Blast, Flamethrower, Flash, Frustration, Future Sight, Growl, Hail, Headbutt,
+        Ice Beam, Iron Tail, Mud-Slap, Mud Sport, Protect, Psych Up, Psychic, Rain
+          Dance, Rest, Return, Safeguard, Secret Power, Shadow Ball, Skill Swap, Sleep
+          Talk, Snore, Stomp, Strength, Substitute, Sunny Day, Surf, Swagger, Swift,
+        Tackle, Thunder Wave, Toxic, Water Gun, Water Pulse, Yawn, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - rb: [Amnesia, Bide, Blizzard, Body Slam, Bubble Beam, Confusion, Dig, Disable,
+        Double-Edge, Double Team, Earthquake, Fire Blast, Fissure, Flash, Growl, Headbutt,
+        Ice Beam, Mimic, Pay Day, Psychic, Psywave, Rage, Reflect, Rest, Skull Bash,
+        Strength, Substitute, Surf, Swift, Take Down, Teleport, Thunder Wave, Toxic,
+        Tri Attack, Water Gun]
+    - xy: [Amnesia, Aqua Tail, Attract, Belly Drum, Blizzard, Block, Body Slam, Brine,
+        Bulldoze, Calm Mind, Captivate, Confusion, Curse, Dig, Disable, Dive, Double-Edge,
+        Double Team, Dream Eater, Earthquake, Echoed Voice, Endure, Facade, Fire Blast,
+        Flamethrower, Flash, Frustration, Future Sight, Grass Knot, Growl, Hail, Headbutt,
+        Heal Pulse, Ice Beam, Icy Wind, Incinerate, Iron Tail, Light Screen, Magic
+          Coat, Me First, Mimic, Mud-Slap, Mud Sport, Natural Gift, Nightmare, Protect,
+        Psychic, Psych Up, Psyshock, Rain Dance, Recycle, Rest, Return, Round, Safeguard,
+        Scald, Secret Power, Shadow Ball, Signal Beam, Skill Swap, Slack Off, Sleep
+          Talk, Snore, Stomp, Strength, Substitute, Sunny Day, Surf, Swagger, Swift,
+        Tackle, Telekinesis, Thunder Wave, Toxic, Trick, Trick Room, Water Gun, Water
+          Pulse, Whirlpool, Wonder Room, Yawn, Zen Headbutt, After You, Confide, Belch,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [90, 65, 65, 40, 40, 15]
+    - gs: [90, 65, 65, 40, 40, 15]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Psychic, Water]
+    weight: [36]

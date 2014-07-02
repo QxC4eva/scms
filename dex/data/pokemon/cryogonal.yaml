@@ -1,0 +1,38 @@
+pokemon:
+  Cryogonal:
+    abilities:
+    - [Levitate]
+    egggroups:
+    - [Mineral]
+    height: [1.1]
+    introduction: bw
+    moves:
+    - bw: [Acid Armor, Acrobatics, Attract, Aurora Beam, Bind, Blizzard, Confuse Ray,
+        Double Team, Explosion, Facade, Flash Cannon, Frost Breath, Frustration, Hail,
+        Haze, Hyper Beam, Ice Beam, Ice Shard, Icy Wind, Iron Defense, Knock Off,
+        Light Screen, Magic Coat, Mist, Night Slash, Poison Jab, Protect, Rain Dance,
+        Rapid Spin, Recover, Reflect, Rest, Return, Round, Sharpen, Sheer Cold, Signal
+          Beam, Slash, Sleep Talk, Snore, Solar Beam, Substitute, Swagger, Toxic,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - xy: [Acid Armor, Acrobatics, Attract, Aurora Beam, Bind, Blizzard, Confuse Ray,
+        Double Team, Explosion, Facade, Flash Cannon, Frost Breath, Frustration, Hail,
+        Haze, Hyper Beam, Ice Beam, Ice Shard, Icy Wind, Light Screen, Mist, Night
+          Slash, Poison Jab, Protect, Rain Dance, Rapid Spin, Recover, Reflect, Rest,
+        Return, Round, Sharpen, Sheer Cold, Slash, Solar Beam, Substitute, Swagger,
+        Toxic, Signal Beam, Magic Coat, Iron Defense, Snore, Knock Off, Sleep Talk,
+        Freeze-Dry, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [70, 50, 30, 95, 135, 105]
+    tags:
+    - [RU]
+    types:
+    - [Ice]
+    weight: [148]

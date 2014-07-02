@@ -1,0 +1,85 @@
+pokemon:
+  Serperior:
+    abilities:
+    - [Overgrow]
+    - bw: [Contrary, Overgrow]
+    egggroups:
+    - [Ground, Plant]
+    evolvesFrom: [Servine]
+    height: [3.3]
+    introduction: dp
+    moves:
+    - bw: [Dragon Pulse, Dragon Tail, Frenzy Plant, Giga Impact, Hyper Beam, Outrage,
+        Rock Smash, Strength]
+    - xy: [Dragon Tail, Frenzy Plant, Giga Impact, Hyper Beam, Rock Smash, Strength,
+        Dragon Pulse, Outrage]
+    - []
+    stats:
+    - [75, 75, 95, 75, 95, 113]
+    tags:
+    - [NU]
+    types:
+    - [Grass]
+    weight: [63]
+  Servine:
+    abilities:
+    - [Overgrow]
+    - bw: [Contrary, Overgrow]
+    egggroups:
+    - [Ground, Plant]
+    evolvesFrom: [Snivy]
+    height: [0.8]
+    introduction: dp
+    moves:
+    - []
+    stats:
+    - [60, 60, 75, 60, 75, 83]
+    tags:
+    - [NFE]
+    types:
+    - [Grass]
+    weight: [16]
+  Snivy:
+    abilities:
+    - [Overgrow]
+    - bw: [Contrary, Overgrow]
+    egggroups:
+    - [Ground, Plant]
+    height: [0.6]
+    introduction: dp
+    moves:
+    - bw: [Aerial Ace, Aqua Tail, Attract, Bind, Calm Mind, Captivate, Coil, Cut,
+        Double Team, Energy Ball, Facade, Flash, Frustration, Gastro Acid, Giga Drain,
+        Glare, Grass Knot, Grass Pledge, Growth, Iron Tail, Knock Off, Leaf Blade,
+        Leaf Storm, Leaf Tornado, Leech Seed, Leer, Light Screen, Magical Leaf, Mean
+          Look, Mega Drain, Mirror Coat, Natural Gift, Protect, Pursuit, Reflect,
+        Rest, Return, Round, Safeguard, Seed Bomb, Slam, Sleep Talk, Snatch, Snore,
+        Solar Beam, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis,
+        Tackle, Taunt, Torment, Toxic, Twister, Vine Whip, Worry Seed, Wrap, Wring
+          Out, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - xy: [Aerial Ace, Aromatherapy, Attract, Calm Mind, Captivate, Coil, Cut, Double
+          Team, Energy Ball, Facade, Flash, Frustration, Gastro Acid, Giga Drain,
+        Glare, Grass Knot, Grass Pledge, Growth, Iron Tail, Leaf Blade, Leaf Storm,
+        Leaf Tornado, Leech Seed, Leer, Light Screen, Magical Leaf, Mean Look, Mega
+          Drain, Mirror Coat, Natural Gift, Protect, Pursuit, Reflect, Rest, Return,
+        Round, Safeguard, Slam, Solar Beam, Substitute, Sunny Day, Swagger, Sweet
+          Scent, Swords Dance, Synthesis, Tackle, Taunt, Torment, Toxic, Twister,
+        Vine Whip, Wrap, Wring Out, Seed Bomb, Aqua Tail, Bind, Snore, Knock Off,
+        Worry Seed, Snatch, Sleep Talk, Nature Power, Confide, Grassy Terrain, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - []
+    stats:
+    - [45, 45, 55, 45, 55, 63]
+    tags:
+    - [LC]
+    types:
+    - [Grass]
+    weight: [8.1]

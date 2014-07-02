@@ -1,0 +1,128 @@
+pokemon:
+  Bayleef:
+    abilities:
+    - bw: [Leaf Guard, Overgrow]
+    - rs: [Overgrow]
+    - []
+    egggroups:
+    - [Monster, Plant]
+    evolvesFrom: [Chikorita]
+    height: [1.2]
+    introduction: gs
+    moves:
+    - gs: [Fury Cutter, Rock Smash, Strength]
+    - bw: [Rock Smash, Strength]
+    - dp: [Rock Smash, Strength]
+    - rs: [Fury Cutter, Rock Smash, Strength]
+    - xy: [Rock Smash, Strength]
+    stats:
+    - [60, 62, 80, 63, 80, 60]
+    tags:
+    - [NFE]
+    types:
+    - [Grass]
+    weight: [15.8]
+  Chikorita:
+    abilities:
+    - bw: [Leaf Guard, Overgrow]
+    - rs: [Overgrow]
+    - []
+    egggroups:
+    - [Monster, Plant]
+    height: [0.9]
+    introduction: gs
+    moves:
+    - gs: [Ancient Power, Attract, Body Slam, Counter, Curse, Cut, Detect, Double
+          Team, Endure, Flail, Flash, Frustration, Giga Drain, Growl, Headbutt, Iron
+          Tail, Leech Seed, Light Screen, Mud-Slap, Poison Powder, Protect, Razor
+          Leaf, Reflect, Rest, Return, Safeguard, Sleep Talk, Snore, Solar Beam, Sunny
+          Day, Swagger, Sweet Scent, Swords Dance, Synthesis, Tackle, Toxic, Vine
+          Whip, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - bw: [Ancient Power, Aromatherapy, Attract, Body Slam, Counter, Cut, Double Team,
+        Echoed Voice, Energy Ball, Facade, Flail, Flash, Frustration, Giga Drain,
+        Grass Knot, Grass Pledge, Grass Whistle, Growl, Heal Pulse, Ingrain, Iron
+          Tail, Leaf Storm, Leech Seed, Light Screen, Magic Coat, Magical Leaf, Natural
+          Gift, Nature Power, Poison Powder, Protect, Razor Leaf, Reflect, Refresh,
+        Rest, Return, Round, Safeguard, Seed Bomb, Sleep Talk, Snore, Solar Beam,
+        Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis, Tackle,
+        Toxic, Vine Whip, Worry Seed, Wring Out, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Ancient Power, Aromatherapy, Attract, Body Slam, Bullet Seed, Captivate,
+        Counter, Cut, Double Team, Endure, Energy Ball, Facade, Flail, Flash, Frustration,
+        Fury Cutter, Giga Drain, Grass Knot, Grass Whistle, Growl, Headbutt, Ingrain,
+        Iron Tail, Leaf Storm, Leech Seed, Light Screen, Magic Coat, Magical Leaf,
+        Mud-Slap, Natural Gift, Nature Power, Poison Powder, Protect, Razor Leaf,
+        Reflect, Rest, Return, Safeguard, Secret Power, Seed Bomb, Sleep Talk, Snore,
+        Solar Beam, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis,
+        Tackle, Toxic, Vine Whip, Worry Seed, Wring Out, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Ancient Power, Attract, Body Slam, Bullet Seed, Counter, Cut, Double-Edge,
+        Double Team, Endure, Facade, Flail, Flash, Frustration, Giga Drain, Grass
+          Whistle, Growl, Ingrain, Iron Tail, Leech Seed, Light Screen, Mimic, Mud-Slap,
+        Nature Power, Poison Powder, Protect, Razor Leaf, Reflect, Rest, Return, Safeguard,
+        Secret Power, Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day, Swagger,
+        Swords Dance, Synthesis, Tackle, Toxic, Vine Whip, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Ancient Power, Aromatherapy, Attract, Body Slam, Bullet Seed, Captivate,
+        Counter, Cut, Double-Edge, Double Team, Echoed Voice, Endure, Energy Ball,
+        Facade, Flail, Flash, Frustration, Fury Cutter, Giga Drain, Grass Knot, Grass
+          Pledge, Grass Whistle, Growl, Headbutt, Heal Pulse, Ingrain, Iron Tail,
+        Leaf Storm, Leech Seed, Light Screen, Magical Leaf, Magic Coat, Mimic, Mud-Slap,
+        Natural Gift, Nature Power, Poison Powder, Protect, Razor Leaf, Reflect, Refresh,
+        Rest, Return, Round, Safeguard, Secret Power, Seed Bomb, Sleep Talk, Snore,
+        Solar Beam, Substitute, Sunny Day, Swagger, Sweet Scent, Swords Dance, Synthesis,
+        Tackle, Toxic, Vine Whip, Worry Seed, Wring Out, Confide, Grassy Terrain,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [45, 49, 65, 49, 65, 45]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Grass]
+    weight: [6.4]
+  Meganium:
+    abilities:
+    - bw: [Leaf Guard, Overgrow]
+    - rs: [Overgrow]
+    - []
+    egggroups:
+    - [Monster, Plant]
+    evolvesFrom: [Bayleef]
+    height: [1.8]
+    introduction: gs
+    moves:
+    - gs: [Earthquake, Hyper Beam]
+    - bw: [Bulldoze, Dragon Tail, Earthquake, Frenzy Plant, Giga Impact, Hyper Beam,
+        Outrage, Petal Dance]
+    - dp: [Earthquake, Frenzy Plant, Giga Impact, Hyper Beam, Outrage, Petal Dance,
+        Rock Climb]
+    - rs: [Earthquake, Hyper Beam]
+    - xy: [Bulldoze, Dragon Tail, Earthquake, Frenzy Plant, Giga Impact, Hyper Beam,
+        Outrage, Petal Dance, Rock Climb, Petal Blizzard]
+    stats:
+    - [80, 82, 100, 83, 100, 80]
+    tags:
+    - [BL]
+    - dp: [NU]
+      rs: [UU]
+    types:
+    - [Grass]
+    weight: [100.5]

@@ -1,0 +1,77 @@
+pokemon:
+  Eelektrik:
+    abilities:
+    - [Levitate]
+    egggroups:
+    - [Indeterminate]
+    evolvesFrom: [Tynamo]
+    height: [1.2]
+    introduction: bw
+    moves:
+    - bw: [Acid, Acid Spray, Acrobatics, Aqua Tail, Attract, Bind, Bounce, Coil, Crunch,
+        Discharge, Double Team, Facade, Flash, Flash Cannon, Frustration, Gastro Acid,
+        Giga Drain, Headbutt, Iron Tail, Knock Off, Light Screen, Protect, Rain Dance,
+        Rest, Return, Round, Signal Beam, Sleep Talk, Snore, Substitute, Super Fang,
+        Swagger, Thrash, Thunder, Thunderbolt, Toxic, U-turn, Volt Switch, Wild Charge,
+        Zap Cannon, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - xy: [Acid, Acid Spray, Acrobatics, Attract, Bind, Coil, Crunch, Discharge, Double
+          Team, Facade, Flash, Flash Cannon, Frustration, Gastro Acid, Headbutt, Light
+          Screen, Protect, Rain Dance, Rest, Return, Round, Substitute, Swagger, Thrash,
+        Thunder, Thunderbolt, Toxic, U-turn, Volt Switch, Wild Charge, Zap Cannon,
+        Super Fang, Signal Beam, Bounce, Aqua Tail, Iron Tail, Snore, Knock Off, Giga
+          Drain, Sleep Talk, Confide, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [65, 85, 70, 75, 70, 40]
+    tags:
+    - [NFE]
+    types:
+    - [Electric]
+    weight: [22]
+  Eelektross:
+    abilities:
+    - [Levitate]
+    egggroups:
+    - [Indeterminate]
+    evolvesFrom: [Eelektrik]
+    height: [2.1]
+    introduction: bw
+    moves:
+    - bw: [Brick Break, Crush Claw, Cut, Dragon Claw, Dragon Tail, Drain Punch, Fire
+          Punch, Flamethrower, Giga Impact, Grass Knot, Hone Claws, Hyper Beam, Roar,
+        Rock Slide, Rock Smash, Rock Tomb, Strength, Superpower, Thunder Punch]
+    - xy: [Brick Break, Crush Claw, Cut, Dragon Claw, Dragon Tail, Flamethrower, Giga
+          Impact, Grass Knot, Hone Claws, Hyper Beam, Roar, Rock Slide, Rock Smash,
+        Rock Tomb, Strength, Thunder Punch, Fire Punch, Superpower, Drain Punch, Ion
+          Deluge, Power-Up Punch]
+    stats:
+    - [85, 115, 80, 105, 80, 50]
+    tags:
+    - [NU]
+    types:
+    - [Electric]
+    weight: [80.5]
+  Tynamo:
+    abilities:
+    - [Levitate]
+    egggroups:
+    - [Indeterminate]
+    height: [0.2]
+    introduction: bw
+    moves:
+    - bw: [Charge Beam, Magnet Rise, Spark, Tackle, Thunder Wave]
+    - xy: [Charge Beam, Spark, Tackle, Thunder Wave, Magnet Rise]
+    stats:
+    - [35, 55, 40, 45, 40, 60]
+    tags:
+    - [LC]
+    types:
+    - [Electric]
+    weight: [0.3]

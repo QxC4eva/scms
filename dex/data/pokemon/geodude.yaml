@@ -1,0 +1,140 @@
+pokemon:
+  Geodude:
+    abilities:
+    - bw: [Rock Head, Sand Veil, Sturdy]
+    - rs: [Rock Head, Sturdy]
+    - []
+    egggroups:
+    - [Mineral]
+    height: [0.4]
+    introduction: rb
+    moves:
+    - gs: [Attract, Curse, Defense Curl, Dig, Double Team, Dynamic Punch, Earthquake,
+        Endure, Explosion, Fire Blast, Fire Punch, Flamethrower, Frustration, Harden,
+        Headbutt, Magnitude, Mega Punch, Mud-Slap, Protect, Rest, Return, Rock Slide,
+        Rock Smash, Rock Throw, Rollout, Sandstorm, Self-Destruct, Sleep Talk, Snore,
+        Strength, Sunny Day, Swagger, Tackle, Toxic, Rapid Spin, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - bw: [Attract, Autotomize, Block, Brick Break, Bulldoze, Curse, Defense Curl,
+        Dig, Double Team, Earth Power, Earthquake, Endure, Explosion, Facade, Fire
+          Blast, Fire Punch, Flail, Flamethrower, Fling, Focus Punch, Frustration,
+        Gyro Ball, Hammer Arm, Incinerate, Iron Defense, Magnitude, Mega Punch, Mud
+          Sport, Protect, Rest, Return, Rock Blast, Rock Climb, Rock Polish, Rock
+          Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Round, Sandstorm, Sleep
+          Talk, Smack Down, Snore, Stealth Rock, Stone Edge, Strength, Substitute,
+        Sunny Day, Superpower, Swagger, Tackle, Thunder Punch, Toxic, Body Slam, Mimic,
+        Seismic Toss, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - dp: [Ancient Power, Attract, Block, Brick Break, Captivate, Curse, Defense Curl,
+        Dig, Double Team, Earth Power, Earthquake, Endure, Explosion, Facade, Fire
+          Blast, Fire Punch, Flail, Flamethrower, Fling, Focus Punch, Frustration,
+        Gyro Ball, Hammer Arm, Headbutt, Magnitude, Mega Punch, Mud-Slap, Mud Sport,
+        Natural Gift, Protect, Rest, Return, Rock Blast, Rock Climb, Rock Polish,
+        Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout, Sandstorm, Secret
+          Power, Sleep Talk, Snore, Stealth Rock, Stone Edge, Strength, Substitute,
+        Sucker Punch, Sunny Day, Superpower, Swagger, Tackle, Thunder Punch, Toxic,
+        Body Slam, Mimic, Seismic Toss, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Attract, Block, Brick Break, Counter, Defense Curl, Dig, Double Team, Dynamic
+          Punch, Earthquake, Endure, Explosion, Facade, Fire Blast, Fire Punch, Flamethrower,
+        Focus Punch, Frustration, Magnitude, Mega Punch, Metronome, Mud-Slap, Mud
+          Sport, Protect, Rest, Return, Rock Blast, Rock Slide, Rock Smash, Rock Throw,
+        Rock Tomb, Rollout, Sandstorm, Secret Power, Sleep Talk, Snore, Strength,
+        Substitute, Sunny Day, Swagger, Tackle, Toxic, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rb: [Bide, Body Slam, Counter, Defense Curl, Dig, Double-Edge, Double Team,
+        Earthquake, Explosion, Fire Blast, Fissure, Harden, Mega Punch, Metronome,
+        Mimic, Rage, Rest, Rock Slide, Rock Throw, Seismic Toss, Self-Destruct, Strength,
+        Submission, Substitute, Tackle, Take Down, Toxic]
+    - xy: [Ancient Power, Attract, Autotomize, Block, Body Slam, Brick Break, Bulldoze,
+        Captivate, Counter, Curse, Defense Curl, Dig, Double-Edge, Double Team, Dynamic
+          Punch, Earth Power, Earthquake, Endure, Explosion, Facade, Fire Blast, Fire
+          Punch, Flail, Flamethrower, Fling, Focus Punch, Frustration, Gyro Ball,
+        Hammer Arm, Headbutt, Incinerate, Magnitude, Mega Punch, Metronome, Mimic,
+        Mud-Slap, Mud Sport, Natural Gift, Protect, Rest, Return, Rock Blast, Rock
+          Climb, Rock Polish, Rock Slide, Rock Smash, Rock Throw, Rock Tomb, Rollout,
+        Round, Sandstorm, Secret Power, Seismic Toss, Self-Destruct, Sleep Talk, Smack
+          Down, Snore, Stealth Rock, Stone Edge, Strength, Substitute, Sucker Punch,
+        Sunny Day, Superpower, Swagger, Tackle, Thunder Punch, Toxic, Iron Defense,
+        Nature Power, Power-Up Punch, Confide, Wide Guard, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [40, 80, 100, 30, 30, 20]
+    - gs: [40, 80, 100, 30, 30, 20]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Ground, Rock]
+    weight: [20]
+  Golem:
+    abilities:
+    - bw: [Rock Head, Sand Veil, Sturdy]
+    - rs: [Rock Head, Sturdy]
+    - []
+    egggroups:
+    - [Mineral]
+    evolvesFrom: [Graveler]
+    height: [1.4]
+    introduction: rb
+    moves:
+    - gs: [Fury Cutter, Hyper Beam, Roar]
+    - bw: [Focus Blast, Giga Impact, Heavy Slam, Hyper Beam, Iron Head, Roar, Steamroller]
+    - dp: [Focus Blast, Fury Cutter, Giga Impact, Hyper Beam, Iron Head, Roar]
+    - rs: [Fury Cutter, Hyper Beam, Mega Kick, Roar]
+    - rb: [Hyper Beam, Mega Kick]
+    - xy: [Focus Blast, Fury Cutter, Giga Impact, Heavy Slam, Hyper Beam, Iron Head,
+        Mega Kick, Roar, Steamroller]
+    stats:
+    - [80, 110, 130, 55, 55, 45]
+    - gs: [80, 110, 130, 55, 65, 45]
+      xy: [80, 120, 130, 55, 65, 45]
+    tags:
+    - [OU]
+    - dp: [NU]
+      gs: [BL]
+      rs: [UU]
+    types:
+    - [Ground, Rock]
+    weight: [300]
+  Graveler:
+    abilities:
+    - bw: [Rock Head, Sand Veil, Sturdy]
+    - rs: [Rock Head, Sturdy]
+    - []
+    egggroups:
+    - [Mineral]
+    evolvesFrom: [Geodude]
+    height: [1]
+    introduction: rb
+    moves:
+    - gs: []
+    - bw: []
+    - dp: []
+    - rs: []
+    - rb: []
+    - xy: []
+    stats:
+    - [55, 95, 115, 45, 45, 35]
+    - gs: [55, 95, 115, 45, 45, 35]
+    tags:
+    - [NFE]
+    types:
+    - [Ground, Rock]
+    weight: [105]

@@ -1,0 +1,333 @@
+pokemon:
+  Eevee:
+    abilities:
+    - bw: [Adaptability, Anticipation, Run Away]
+      dp: [Adaptability, Run Away]
+    - rs: [Run Away]
+    - []
+    egggroups:
+    - [Ground]
+    height: [0.3]
+    introduction: rb
+    moves:
+    - gs: [Attract, Baton Pass, Bite, Charm, Curse, Detect, Double Team, Endure, Flail,
+        Focus Energy, Frustration, Growl, Headbutt, Iron Tail, Mud-Slap, Protect,
+        Quick Attack, Rain Dance, Rest, Return, Sand Attack, Shadow Ball, Sleep Talk,
+        Snore, Sunny Day, Swagger, Swift, Tackle, Tail Whip, Take Down, Toxic, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - bw: [Attract, Baton Pass, Bite, Charm, Covet, Curse, Detect, Dig, Double Team,
+        Echoed Voice, Endure, Facade, Fake Tears, Flail, Frustration, Growl, Heal
+          Bell, Helping Hand, Hyper Voice, Iron Tail, Last Resort, Natural Gift, Protect,
+        Quick Attack, Rain Dance, Rest, Retaliate, Return, Round, Sand Attack, Shadow
+          Ball, Sleep Talk, Snore, Stored Power, Substitute, Sunny Day, Swagger, Synchronoise,
+        Tackle, Tail Whip, Take Down, Tickle, Toxic, Trump Card, Wish, Work Up, Yawn,
+        Body Slam, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - dp: [Attract, Baton Pass, Bite, Captivate, Charm, Covet, Curse, Detect, Dig,
+        Double Team, Endure, Facade, Fake Tears, Flail, Frustration, Growl, Headbutt,
+        Heal Bell, Helping Hand, Iron Tail, Last Resort, Mud-Slap, Natural Gift, Protect,
+        Quick Attack, Rain Dance, Rest, Return, Sand Attack, Secret Power, Shadow
+          Ball, Sleep Talk, Snore, Substitute, Sunny Day, Swagger, Swift, Tackle,
+        Tail Whip, Take Down, Tickle, Toxic, Trump Card, Wish, Yawn, Body Slam, Double-Edge,
+        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - rs: [Attract, Baton Pass, Bite, Charm, Curse, Dig, Double Team, Endure, Facade,
+        Flail, Frustration, Growl, Helping Hand, Iron Tail, Mud-Slap, Protect, Quick
+          Attack, Rain Dance, Rest, Return, Sand Attack, Secret Power, Shadow Ball,
+        Sleep Talk, Snore, Substitute, Sunny Day, Swagger, Swift, Tackle, Tail Whip,
+        Take Down, Tickle, Toxic, Wish, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rb: [Bide, Bite, Body Slam, Double-Edge, Double Team, Focus Energy, Growl, Mimic,
+        Quick Attack, Rage, Reflect, Rest, Sand Attack, Skull Bash, Substitute, Swift,
+        Tackle, Tail Whip, Take Down, Toxic]
+    - xy: [Attract, Baton Pass, Bite, Body Slam, Captivate, Charm, Covet, Curse, Detect,
+        Dig, Double-Edge, Double Team, Echoed Voice, Endure, Facade, Fake Tears, Flail,
+        Frustration, Growl, Headbutt, Heal Bell, Helping Hand, Hyper Voice, Iron Tail,
+        Last Resort, Mimic, Mud-Slap, Natural Gift, Protect, Quick Attack, Rain Dance,
+        Rest, Retaliate, Return, Round, Sand Attack, Secret Power, Shadow Ball, Sing,
+        Sleep Talk, Snore, Stored Power, Substitute, Sunny Day, Swagger, Swift, Synchronoise,
+        Tackle, Tail Whip, Take Down, Tickle, Toxic, Trump Card, Wish, Work Up, Yawn,
+        Baby-Doll Eyes, Refresh, Confide, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [55, 55, 50, 65, 65, 55]
+    - gs: [55, 55, 50, 45, 65, 55]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Normal]
+    weight: [6.5]
+  Espeon:
+    abilities:
+    - bw: [Magic Bounce, Synchronize]
+    - rs: [Synchronize]
+    - []
+    egggroups:
+    - [Ground]
+    evolvesFrom:
+    - Eevee
+    - {xy: Eevee}
+    height: [0.9]
+    introduction: gs
+    moves:
+    - gs: [Confusion, Cut, Dream Eater, Flash, Hyper Beam, Morning Sun, Nightmare,
+        Psybeam, Psych Up, Psychic, Zap Cannon]
+    - bw: [Calm Mind, Confusion, Cut, Dream Eater, Flash, Future Sight, Giga Impact,
+        Grass Knot, Hyper Beam, Light Screen, Magic Coat, Magic Room, Morning Sun,
+        Power Swap, Psybeam, Psych Up, Psychic, Psyshock, Reflect, Signal Beam, Skill
+          Swap, Swift, Telekinesis, Trick, Trick Room, Zen Headbutt, Double-Edge,
+        Nightmare]
+    - dp: [Calm Mind, Confusion, Cut, Dream Eater, Flash, Future Sight, Giga Impact,
+        Grass Knot, Hyper Beam, Light Screen, Magic Coat, Morning Sun, Power Swap,
+        Psybeam, Psych Up, Psychic, Reflect, Signal Beam, Skill Swap, Trick, Trick
+          Room, Zen Headbutt, Nightmare]
+    - rs: [Calm Mind, Confusion, Cut, Dream Eater, Flash, Hyper Beam, Light Screen,
+        Morning Sun, Psybeam, Psych Up, Psychic, Reflect, Skill Swap]
+    - xy: [Calm Mind, Confusion, Cut, Dream Eater, Flash, Future Sight, Giga Impact,
+        Grass Knot, Hyper Beam, Light Screen, Magic Coat, Morning Sun, Nightmare,
+        Power Swap, Psybeam, Psychic, Psych Up, Psyshock, Reflect, Signal Beam, Skill
+          Swap, Telekinesis, Trick, Trick Room, Zen Headbutt, Magic Room, Dazzling
+          Gleam]
+    stats:
+    - [65, 65, 60, 130, 95, 110]
+    tags:
+    - [BL]
+    - bw: [OU]
+      dp: [NU]
+    types:
+    - [Psychic]
+    weight: [26.5]
+  Flareon:
+    abilities:
+    - bw: [Flash Fire, Guts]
+    - rs: [Flash Fire]
+    - []
+    egggroups:
+    - [Ground]
+    evolvesFrom:
+    - {dp: Eevee, gs: Eevee, xy: Eevee}
+    height: [0.9]
+    introduction: rb
+    moves:
+    - gs: [Ember, Fire Blast, Fire Spin, Flamethrower, Leer, Roar, Smog]
+    - bw: [Ember, Fire Blast, Fire Fang, Fire Spin, Flame Charge, Flamethrower, Heat
+          Wave, Incinerate, Lava Plume, Overheat, Roar, Rock Smash, Scary Face, Smog,
+        Strength, Superpower, Will-O-Wisp]
+    - dp: [Ember, Fire Blast, Fire Fang, Fire Spin, Flamethrower, Heat Wave, Lava
+          Plume, Overheat, Roar, Rock Smash, Scary Face, Smog, Strength, Superpower,
+        Will-O-Wisp]
+    - rs: [Ember, Fire Blast, Fire Spin, Flamethrower, Leer, Overheat, Roar, Smog,
+        Body Slam, Double-Edge, Mimic]
+    - rb: [Ember, Fire Blast, Fire Spin, Flamethrower, Hyper Beam, Leer, Smog]
+    - xy: [Ember, Fire Blast, Fire Fang, Fire Spin, Flame Charge, Flamethrower, Giga
+          Impact, Heat Wave, Hyper Beam, Incinerate, Lava Plume, Leer, Overheat, Roar,
+        Rock Smash, Scary Face, Smog, Strength, Superpower, Will-O-Wisp, Flare Blitz]
+    stats:
+    - [65, 130, 60, 110, 110, 65]
+    - gs: [65, 130, 60, 95, 110, 65]
+    tags:
+    - [UU]
+    - dp: [NU]
+    types:
+    - [Fire]
+    weight: [25]
+  Glaceon:
+    abilities:
+    - [Snow Cloak]
+    - bw: [Ice Body, Snow Cloak]
+    egggroups:
+    - [Ground]
+    evolvesFrom:
+    - Eevee
+    - {xy: Eevee}
+    height: [0.8]
+    introduction: dp
+    moves:
+    - bw: [Aqua Tail, Barrier, Blizzard, Frost Breath, Hail, Ice Beam, Ice Fang, Ice
+          Shard, Icy Wind, Mirror Coat]
+    - dp: [Aqua Tail, Avalanche, Barrier, Blizzard, Hail, Ice Beam, Ice Fang, Ice
+          Shard, Icy Wind, Mirror Coat, Water Pulse]
+    - xy: [Aqua Tail, Avalanche, Barrier, Blizzard, Frost Breath, Giga Impact, Hail,
+        Hyper Beam, Ice Beam, Ice Fang, Ice Shard, Icy Wind, Mirror Coat, Roar, Rock
+          Smash, Signal Beam, Strength, Water Pulse]
+    stats:
+    - [65, 60, 110, 130, 95, 65]
+    tags:
+    - [NU]
+    types:
+    - [Ice]
+    weight: [25.9]
+  Jolteon:
+    abilities:
+    - bw: [Quick Feet, Volt Absorb]
+    - rs: [Volt Absorb]
+    - []
+    egggroups:
+    - [Ground]
+    evolvesFrom:
+    - {dp: Eevee, gs: Eevee, xy: Eevee}
+    height: [0.8]
+    introduction: rb
+    moves:
+    - gs: [Agility, Double Kick, Pin Missile, Thunder, Thunder Wave, Thunderbolt,
+        Thunder Shock]
+    - bw: [Agility, Charge Beam, Discharge, Double Kick, Magnet Rise, Pin Missile,
+        Thunder, Thunder Fang, Thunder Wave, Thunderbolt, Thunder Shock, Volt Switch,
+        Wild Charge]
+    - dp: [Agility, Charge Beam, Discharge, Double Kick, Magnet Rise, Pin Missile,
+        Shock Wave, Thunder, Thunder Fang, Thunder Wave, Thunderbolt, Thunder Shock]
+    - rs: [Agility, Double Kick, Pin Missile, Shock Wave, Thunder, Thunder Wave, Thunderbolt,
+        Thunder Shock, Body Slam, Double-Edge, Mimic]
+    - rb: [Agility, Double Kick, Flash, Pin Missile, Thunder, Thunder Wave, Thunderbolt,
+        Thunder Shock]
+    - xy: [Agility, Charge Beam, Discharge, Double Kick, Flash, Giga Impact, Hyper
+          Beam, Light Screen, Magnet Rise, Pin Missile, Roar, Rock Smash, Shock Wave,
+        Signal Beam, Strength, Thunder, Thunderbolt, Thunder Fang, Thunder Shock,
+        Thunder Wave, Volt Switch, Wild Charge]
+    stats:
+    - [65, 65, 60, 110, 110, 130]
+    - gs: [65, 65, 60, 110, 95, 130]
+    tags:
+    - [UU]
+    - gs: [OU]
+    types:
+    - [Electric]
+    weight: [24.5]
+  Leafeon:
+    abilities:
+    - [Chlorophyll, Leaf Guard]
+    egggroups:
+    - [Ground]
+    evolvesFrom:
+    - Eevee
+    - {xy: Eevee}
+    height: [1]
+    introduction: dp
+    moves:
+    - bw: [Aerial Ace, Energy Ball, Giga Drain, Grass Whistle, Knock Off, Leaf Blade,
+        Magical Leaf, Razor Leaf, Seed Bomb, Solar Beam, Swords Dance, Synthesis,
+        Worry Seed, X-Scissor]
+    - dp: [Aerial Ace, Bullet Seed, Energy Ball, Fury Cutter, Giga Drain, Grass Whistle,
+        Knock Off, Leaf Blade, Magical Leaf, Razor Leaf, Seed Bomb, Solar Beam, Swords
+          Dance, Synthesis, Worry Seed, X-Scissor]
+    - xy: [Aerial Ace, Bullet Seed, Energy Ball, Flash, Fury Cutter, Giga Drain, Giga
+          Impact, Grass Knot, Grass Whistle, Hyper Beam, Knock Off, Leaf Blade, Magical
+          Leaf, Razor Leaf, Roar, Rock Smash, Seed Bomb, Solar Beam, Strength, Swords
+          Dance, Synthesis, Worry Seed, X-Scissor, Nature Power]
+    stats:
+    - [65, 110, 130, 60, 65, 95]
+    tags:
+    - [UU]
+    - bw: [NU]
+    types:
+    - [Grass]
+    weight: [25.5]
+  Sylveon:
+    abilities:
+    - [Cute Charm, Pixilate]
+    egggroups:
+    - [Field]
+    evolvesFrom: [Eevee]
+    height: [1]
+    introduction: xy
+    moves:
+    - xy: [Disarming Voice, Fairy Wind, Draining Kiss, Skill Swap, Misty Terrain,
+        Light Screen, Moonblast, Psych Up, Psyshock, Calm Mind, Hyper Beam, Safeguard,
+        Reflect, Giga Impact, Flash, Dazzling Gleam, Cut]
+    stats:
+    - [95, 65, 65, 110, 130, 60]
+    tags:
+    - []
+    types:
+    - [Fairy]
+    weight: [23.5]
+  Umbreon:
+    abilities:
+    - bw: [Inner Focus, Synchronize]
+    - rs: [Synchronize]
+    - []
+    egggroups:
+    - [Ground]
+    evolvesFrom:
+    - Eevee
+    - {xy: Eevee}
+    height: [1]
+    introduction: gs
+    moves:
+    - gs: [Confuse Ray, Feint Attack, Mean Look, Moonlight, Pursuit, Screech]
+    - bw: [Assurance, Confuse Ray, Dark Pulse, Feint Attack, Foul Play, Guard Swap,
+        Mean Look, Moonlight, Payback, Pursuit, Screech, Snarl, Snatch, Spite, Taunt,
+        Torment, Wonder Room, Double-Edge, Nightmare]
+    - dp: [Assurance, Confuse Ray, Dark Pulse, Feint Attack, Guard Swap, Mean Look,
+        Moonlight, Payback, Pursuit, Screech, Snatch, Spite, Sucker Punch, Taunt,
+        Torment, Nightmare]
+    - rs: [Confuse Ray, Feint Attack, Mean Look, Moonlight, Pursuit, Screech, Snatch,
+        Taunt, Torment, Nightmare]
+    - xy: [Assurance, Confuse Ray, Cut, Dark Pulse, Dream Eater, Feint Attack, Flash,
+        Giga Impact, Guard Swap, Hyper Beam, Mean Look, Moonlight, Nightmare, Payback,
+        Psychic, Psych Up, Pursuit, Screech, Snarl, Snatch, Spite, Sucker Punch, Taunt,
+        Torment, Foul Play, Wonder Room]
+    stats:
+    - [95, 65, 110, 60, 130, 65]
+    tags:
+    - [OU]
+    - bw: [UU]
+      dp: [OU]
+      rs: [BL]
+    types:
+    - [Dark]
+    weight: [27]
+  Vaporeon:
+    abilities:
+    - bw: [Hydration, Water Absorb]
+    - rs: [Water Absorb]
+    - []
+    egggroups:
+    - [Ground]
+    evolvesFrom:
+    - {dp: Eevee, gs: Eevee, xy: Eevee}
+    height: [1]
+    introduction: rb
+    moves:
+    - gs: [Acid Armor, Aurora Beam, Blizzard, Haze, Hydro Pump, Ice Beam, Icy Wind,
+        Surf, Water Gun, Waterfall, Whirlpool]
+    - bw: [Acid Armor, Aqua Ring, Aurora Beam, Dive, Haze, Hydro Pump, Muddy Water,
+        Scald, Surf, Water Gun, Water Pulse, Waterfall, Double-Edge, Icy Wind]
+    - dp: [Acid Armor, Aqua Ring, Aurora Beam, Brine, Dive, Haze, Hydro Pump, Muddy
+          Water, Surf, Water Gun, Waterfall, Whirlpool, Icy Wind]
+    - rs: [Acid Armor, Aurora Beam, Blizzard, Dive, Hail, Haze, Hydro Pump, Ice Beam,
+        Surf, Water Gun, Water Pulse, Waterfall, Body Slam, Double-Edge, Mimic]
+    - rb: [Acid Armor, Aurora Beam, Blizzard, Bubble Beam, Haze, Hydro Pump, Ice Beam,
+        Mist, Surf, Water Gun]
+    - xy: [Acid Armor, Aqua Ring, Aqua Tail, Aurora Beam, Blizzard, Brine, Dive, Giga
+          Impact, Hail, Haze, Hydro Pump, Hyper Beam, Ice Beam, Icy Wind, Muddy Water,
+        Roar, Rock Smash, Scald, Signal Beam, Strength, Surf, Waterfall, Water Gun,
+        Water Pulse, Whirlpool]
+    stats:
+    - [130, 65, 60, 110, 110, 65]
+    - gs: [130, 65, 60, 110, 95, 65]
+    tags:
+    - [UU]
+    - dp: [OU]
+      gs: [OU]
+      rs: [BL]
+    types:
+    - [Water]
+    weight: [29]

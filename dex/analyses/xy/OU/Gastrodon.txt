@@ -1,0 +1,65 @@
+Overview
+########
+On paper, Gastrodon appears decidedly unremarkable. Its mediocre offensive stats and only decent bulk mean that it is generally outclassed by other defensive Water-types such as Rotom-W and Jellicent, which have superior defensive typing and access to Will-O-Wisp. This is compounded by a 4x weakness to Grass-type attacks and a sluggish base 39 Speed stat. Gastrodon is also completely crippled by Toxic and is setup bait for many dangerous threats. However, these flaws are somewhat offset by Gastrodon's good Water / Ground defensive typing, which leaves it susceptible only to Grass-type attacks. It also makes Gastrodon a fine check to common VoltTurn cores, particularly those using Rotom-W and Landorus-T. Storm Drain is an excellent ability that gives Gastrodon an immunity to Water-type moves as well as a Special Attack boost when struck by one. When fully invested, Gastrodon can take physical attacks surprisingly well thanks in part to its high base HP stat, and access to recovery in the form of Recover allows Gastrodon to survive for extended periods of time.
+
+
+Physically Defensive
+########
+name: Physically Defensive
+move 1: Scald
+move 2: Earth Power / Earthquake
+move 3: Ice Beam / Toxic
+move 4: Recover
+ability: Storm Drain
+item: Leftovers
+evs: 252 HP / 252 Def / 4 SpD
+nature: Bold / Relaxed
+
+Moves
+========
+Scald is the Water-type STAB move of choice for its important 30% burn chance, which can aid Gastrodon in walling physical attackers. Earth Power is a good secondary STAB move that hits the likes of Aegislash, Magnezone, and Lucario super effectively with the added benefit of potentially being boosted by Storm Drain, though Earthquake is also viable to hit Tyranitar and rare Assault Vest users harder than Earth Power while ensuring that Calm Mind users such as Keldeo and Jirachi cannot set up easily. Grass-types such as Celebi, which resist Gastrodon's STAB moves, are targeted by Ice Beam. More importantly though, Ice Beam hits Dragons like Garchomp and Dragonite hard, allowing Gastrodon to better fulfill its role as a physical wall. Toxic is an option to cripple common switch-ins such as Jellicent and Gourgeist, though the loss of coverage is significant. In the final slot, Recover is vital for longevity throughout the match, preventing Gastrodon from being worn down and allowing it to repeatedly check physical threats.
+
+
+Set Details
+========
+The given EVs and Bold nature emphasize physical bulk in order to take hits from physical attackers as well as possible. If Earthquake is used, Relaxed should be the chosen nature. Leftovers is the obvious choice, gradually restoring Gastrodon's health at the end of each turn. Storm Drain is similarly vital for the handy Water-type immunity and Special Attack boost.
+
+Damage Calculations
+========
+The following damage calculations demonstrate Gastrodon's defensive abilities against common physical attackers:
+<ul class="damage_calculation">
+<li>252 Atk Garchomp Outrage vs. 252/252+ Gastrodon: 42.2 - 50% &mdash; guaranteed 3HKO after Leftovers recovery</li>
+<li>252+ Atk Life Orb Talonflame Brave Bird vs. 252/252+ Gastrodon: 43.8 - 52.1% &mdash; guaranteed 3HKO after Leftovers recovery</li>
+<li>252+ Atk Excadrill Earthquake vs. 252/252+ Gastrodon: 39.6 - 46.7% &mdash; guaranteed 3HKO after Leftovers recovery</li>
+</ul>
+
+Usage Tips
+========
+Gastrodon should be used to wall physical attackers and spread burns with Scald. Be cautious about certain strong threats however, as Choice Band Azumarill and Dragonite can still 2HKO with Play Rough and Outrage, respectively, and similar Pokemon can do the same. Whenever possible, Recover should be used to keep Gastrodon healthy throughout the match. Ideally, Gastrodon should be switched into an expected Water-type attack in order to achieve a Special Attack boost via Storm Drain - Keldeo and Rotom-W are suitable targets here. By virtue of its typing, Gastrodon can be used to check some special attackers, notably Electric-types such as Thundurus and Magnezone that do not carry a Grass-type coverage move; though the former can break through Gastrodon with a +2 Focus Blast. If running Ice Beam, be aware that it should only be used to try to hit Grass-types such as Celebi as they switch in, as Gastrodon has no business staying in against these Pokemon. Physical Dragons such as Dragonite and Salamence are the main targets, as Gastrodon can survive any single attack from them and retaliate. The same philosophy applies with Toxic; it should nearly always be used to target incoming checks, such as Jellicent and Gourgeist, as Gastrodon can not afford to stay in against them. Finally, it is important to keep in mind that Gastrodon is very weak without any investment in Special Attack; it requires some prior damage or a Storm Drain boost to guarantee that Ice Beam KOes Garchomp, Landorus-T, and Dragonite.
+
+
+Team Options
+========
+Gastrodon is most suited as a physical wall on defensively inclined or stall-based teams. As Grass-types are its bane, Celebi is a good partner to reliably counter Breloom. Similarly, Ferrothorn can switch into most Grass-types comfortably and set up entry hazards. As Gastrodon is susceptible to strong special attacks, pairing it with a specially bulky partner is wise. Heatran is therefore a nice teammate, as it can check the likes of Choice Specs Latios and Noivern, as well as defeating Ferrothorn. In return, Gastrodon can switch into Water-type attacks aimed at Heatran. Skarmory and Forretress make for decent partners due to their ability to set up entry hazards to wear down the opposing team. They can easily take Grass-type attacks, while Gastrodon can take Fire-type moves aimed at them and Electric-type moves too in Skarmory's case. Opposing entry hazards severely limit Gastrodon's walling capabilities, especially Toxic Spikes. As such, a Rapid Spin or Defog user makes for a useful partner. Tentacruel can remove Spikes with Rapid Spin and absorb Toxic Spikes, and Latias can remove hazards with Defog. Latias is also a nice check to Grass-types and special attackers in general, which give Gastrodon trouble.
+
+
+Other Options
+########
+A specially defensive or mixed defensive set allows Gastrodon to take special attacks more easily, but it spreads Gastrodon's already only passable bulk very thin, leaving it unable to reliably check physical threats such as Talonflame and Garchomp. An all-out attacker set with Special Attack investment is an option, but with rain-based teams being relatively uncommon, this set is less effective. Gastrodon has a wide array of support moves; Yawn can force switches, but generally Toxic is better. Likewise, Clear Smog prevents sweepers from setting up, but again Toxic is almost always the superior option. Acid Armor and Stockpile can be used to bolster Gastrodon's defenses, but these are very situational and would require Gastrodon to sacrifice one of its coverage moves, which is unwise.
+
+
+Checks & Counters
+########
+**Grass-types**: These Pokemon can exploit Gastrodon's 4x weakness. Breloom can OHKO with Bullet Seed or cripple something with Spore; however, it is 2HKOed by Ice Beam. Celebi and Ferrothorn can switch in with impunity and KO with Grass STAB, or in Ferrothorn's case, set up entry hazards. They are also unconcerned by Toxic by virtue of Ferrothorn's Steel typing and Celebi's Natural Cure. Trevenant and Gourgeist can stomach an Ice Beam fairly easily, and Trevenant can also have Natural Cure or a Lum Berry to heal Toxic. Gourgeist, however, is crippled by Toxic. Mega Venusaur can easily take an Ice Beam thanks to Thick Fat, is immune to Toxic, and can OHKO with Giga Drain.
+
+**Special Walls**: Jellicent takes very little from all of Gastrodon's moves and can use Taunt to prevent Toxic. It must be wary of switching into a Toxic, though. Chansey and Blissey can comfortably switch into any attack and heal status with Natural Cure. Goodra can shrug off even a super effective Ice Beam with ease and retaliate with powerful Dragon-type attacks.
+
+**Strong Special Attackers**: Strong special attackers such as Latios and Reuniclus can prey on Gastrodon's uninvested special bulk. Thundurus can lure Gastrodon in on an expected Electric-type attack and OHKO with Grass Knot.
+
+**Strong Physical Threats**: Very powerful physical attackers can break through Gastrodon. Choice Band Azumarill and Dragonite can 2HKO with their strong STAB attacks, though they are crippled by a potential burn from Scald.
+
+**Toxic**: Toxic completely cripples Gastrodon. Chansey and Blissey are good users of the move, taking very little from any of Gastrodon's attacks and healing off any status with Natural Cure. Other defensive Pokemon such as Politoed can also use Toxic effectively.
+
+**Bulky Substitute Users**: Pokemon that can set up a Substitute that Gastrodon cannot break make for good checks. Defensive Gyarados and Kyurem-B are good examples.
+
+**Bulky Sweepers Unconcerned by Toxic**: Sweepers, particularly specially based ones that don't fear Toxic, are good checks. Calm Mind Reuniclus and Clefable take no damage from status due to Magic Guard and can set up easily.

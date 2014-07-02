@@ -1,0 +1,117 @@
+pokemon:
+  Kabuto:
+    abilities:
+    - bw: [Battle Armor, Swift Swim, Weak Armor]
+    - rs: [Battle Armor, Swift Swim]
+    - []
+    egggroups:
+    - [Water 1, Water 3]
+    height: [0.5]
+    introduction: rb
+    moves:
+    - gs: [Absorb, Ancient Power, Attract, Aurora Beam, Blizzard, Bubble Beam, Curse,
+        Dig, Double Team, Endure, Flail, Frustration, Giga Drain, Harden, Ice Beam,
+        Icy Wind, Leer, Mega Drain, Protect, Rain Dance, Rapid Spin, Rest, Return,
+        Rock Smash, Rollout, Sand Attack, Sandstorm, Scratch, Sleep Talk, Snore, Swagger,
+        Thief, Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - bw: [Absorb, Ancient Power, Aqua Jet, Attract, Aurora Beam, Blizzard, Bubble
+          Beam, Confuse Ray, Dig, Double Team, Earth Power, Endure, Facade, Flail,
+        Foresight, Frustration, Giga Drain, Hail, Harden, Hone Claws, Ice Beam, Icy
+          Wind, Iron Defense, Knock Off, Leer, Mega Drain, Metal Sound, Mud Shot,
+        Protect, Rain Dance, Rapid Spin, Rest, Return, Rock Polish, Rock Slide, Rock
+          Smash, Rock Tomb, Round, Sand Attack, Sandstorm, Scald, Scratch, Screech,
+        Sleep Talk, Smack Down, Snore, Stealth Rock, Substitute, Surf, Swagger, Thief,
+        Toxic, Waterfall, Wring Out, Body Slam, Double-Edge, Mimic, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - dp: [Absorb, Ancient Power, Aqua Jet, Attract, Aurora Beam, Blizzard, Brine,
+        Bubble Beam, Captivate, Confuse Ray, Dig, Double Team, Earth Power, Endure,
+        Facade, Flail, Frustration, Giga Drain, Hail, Harden, Ice Beam, Icy Wind,
+        Iron Defense, Knock Off, Leer, Mega Drain, Metal Sound, Mud Shot, Mud-Slap,
+        Natural Gift, Protect, Rain Dance, Rapid Spin, Rest, Return, Rock Polish,
+        Rock Slide, Rock Smash, Rock Tomb, Rollout, Sand Attack, Sandstorm, Scratch,
+        Screech, Secret Power, Sleep Talk, Snore, Stealth Rock, Substitute, Surf,
+        Swagger, Thief, Toxic, Water Pulse, Waterfall, Whirlpool, Wring Out, Body
+          Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Absorb, Aerial Ace, Ancient Power, Attract, Aurora Beam, Blizzard, Bubble
+          Beam, Confuse Ray, Dig, Double Team, Endure, Facade, Flail, Frustration,
+        Giga Drain, Hail, Harden, Ice Beam, Icy Wind, Knock Off, Leer, Mega Drain,
+        Metal Sound, Mud Shot, Protect, Rain Dance, Rapid Spin, Rest, Return, Rock
+          Slide, Rock Smash, Rock Tomb, Rollout, Sand Attack, Sandstorm, Scratch,
+        Secret Power, Sleep Talk, Snore, Substitute, Surf, Swagger, Thief, Toxic,
+        Water Pulse, Waterfall, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rb: [Absorb, Bide, Blizzard, Body Slam, Bubble Beam, Double-Edge, Double Team,
+        Harden, Hydro Pump, Ice Beam, Leer, Mimic, Rage, Reflect, Rest, Scratch, Slash,
+        Substitute, Surf, Take Down, Toxic, Water Gun]
+    - xy: [Absorb, Aerial Ace, Ancient Power, Aqua Jet, Attract, Aurora Beam, Blizzard,
+        Body Slam, Brine, Bubble Beam, Captivate, Confuse Ray, Dig, Double-Edge, Double
+          Team, Earth Power, Endure, Facade, Flail, Foresight, Frustration, Giga Drain,
+        Hail, Harden, Hone Claws, Ice Beam, Icy Wind, Iron Defense, Knock Off, Leer,
+        Mega Drain, Metal Sound, Mimic, Mud Shot, Mud-Slap, Natural Gift, Protect,
+        Rain Dance, Rapid Spin, Rest, Return, Rock Polish, Rock Slide, Rock Smash,
+        Rock Tomb, Rollout, Round, Sand Attack, Sandstorm, Scald, Scratch, Screech,
+        Secret Power, Sleep Talk, Smack Down, Snore, Stealth Rock, Substitute, Surf,
+        Swagger, Thief, Toxic, Waterfall, Water Pulse, Whirlpool, Wring Out, Confide,
+        Take Down, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [30, 80, 90, 45, 45, 55]
+    - gs: [30, 80, 90, 55, 45, 55]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Rock, Water]
+    weight: [11.5]
+  Kabutops:
+    abilities:
+    - bw: [Battle Armor, Swift Swim, Weak Armor]
+    - rs: [Battle Armor, Swift Swim]
+    - []
+    egggroups:
+    - [Water 1, Water 3]
+    evolvesFrom: [Kabuto]
+    height: [1.3]
+    introduction: rb
+    moves:
+    - gs: [Cut, Fury Cutter, Headbutt, Hyper Beam, Slash, Surf, Whirlpool]
+    - bw: [Aerial Ace, Aqua Tail, Brick Break, Cut, Dive, Feint, Giga Impact, Hyper
+          Beam, Low Kick, Night Slash, Slash, Stone Edge, Superpower, Swords Dance,
+        X-Scissor, Seismic Toss]
+    - dp: [Aerial Ace, Aqua Tail, Brick Break, Cut, Dive, Feint, Fury Cutter, Giga
+          Impact, Headbutt, Hyper Beam, Low Kick, Night Slash, Rock Climb, Slash,
+        Stone Edge, Superpower, Swords Dance, X-Scissor, Seismic Toss]
+    - rs: [Brick Break, Cut, Dive, Fury Cutter, Hyper Beam, Mega Kick, Slash, Swords
+          Dance]
+    - rb: [Cut, Hyper Beam, Mega Kick, Razor Wind, Seismic Toss, Skull Bash, Submission,
+        Swords Dance]
+    - xy: [Aqua Tail, Brick Break, Cut, Dive, Feint, Fury Cutter, Giga Impact, Headbutt,
+        Hyper Beam, Low Kick, Mega Kick, Night Slash, Rock Climb, Seismic Toss, Slash,
+        Stone Edge, Superpower, Swords Dance, X-Scissor, Nature Power]
+    stats:
+    - [60, 115, 105, 70, 70, 80]
+    - gs: [60, 115, 105, 65, 70, 80]
+    tags:
+    - [UU]
+    - bw: [RU]
+    types:
+    - [Rock, Water]
+    weight: [40.5]

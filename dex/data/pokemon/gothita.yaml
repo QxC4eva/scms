@@ -1,0 +1,84 @@
+pokemon:
+  Gothita:
+    abilities:
+    - [Frisk, Shadow Tag]
+    - xy: [Frisk, Shadow Tag, Competitive]
+    egggroups:
+    - [Humanshape]
+    height: [0.4]
+    introduction: bw
+    moves:
+    - bw: [Attract, Calm Mind, Captivate, Charge Beam, Charm, Confusion, Covet, Dark
+          Pulse, Double Team, Double Slap, Dream Eater, Embargo, Energy Ball, Facade,
+        Feint Attack, Fake Tears, Flash, Flatter, Fling, Foul Play, Frustration, Future
+          Sight, Grass Knot, Gravity, Heal Bell, Heal Block, Helping Hand, Light Screen,
+        Magic Coat, Magic Room, Mean Look, Miracle Eye, Mirror Coat, Payback, Pound,
+        Protect, Psybeam, Psych Up, Psychic, Psyshock, Rain Dance, Recycle, Reflect,
+        Rest, Return, Rock Slide, Rock Tomb, Role Play, Round, Safeguard, Shadow Ball,
+        Signal Beam, Skill Swap, Sleep Talk, Snatch, Snore, Substitute, Swagger, Taunt,
+        Telekinesis, Thief, Thunder Wave, Thunderbolt, Tickle, Torment, Toxic, Trick,
+        Trick Room, Uproar, Zen Headbutt, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Attract, Calm Mind, Captivate, Charge Beam, Charm, Confusion, Dark Pulse,
+        Double Slap, Double Team, Dream Eater, Embargo, Energy Ball, Facade, Feint
+          Attack, Fake Tears, Flash, Flatter, Fling, Frustration, Future Sight, Grass
+          Knot, Heal Block, Light Screen, Magic Room, Mean Look, Miracle Eye, Mirror
+          Coat, Payback, Pound, Protect, Psybeam, Psychic, Psych Up, Psyshock, Rain
+          Dance, Reflect, Rest, Return, Rock Slide, Rock Tomb, Round, Safeguard, Shadow
+          Ball, Substitute, Swagger, Taunt, Telekinesis, Thief, Thunderbolt, Thunder
+          Wave, Tickle, Torment, Toxic, Trick Room, Uproar, Covet, Signal Beam, Magic
+          Coat, Foul Play, Gravity, Zen Headbutt, Snore, Role Play, Heal Bell, Helping
+          Hand, Trick, Recycle, Snatch, Sleep Talk, Skill Swap, Play Nice, Confide,
+        Heal Pulse, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [45, 30, 50, 55, 65, 45]
+    tags:
+    - [LC]
+    types:
+    - [Psychic]
+    weight: [5.8]
+  Gothitelle:
+    abilities:
+    - [Frisk, Shadow Tag]
+    - xy: [Frisk, Shadow Tag, Competitive]
+    egggroups:
+    - [Humanshape]
+    evolvesFrom: [Gothorita]
+    height: [1.5]
+    introduction: bw
+    moves:
+    - bw: [Brick Break, Giga Impact, Hyper Beam, Low Sweep]
+    - xy: [Brick Break, Giga Impact, Hyper Beam, Low Sweep, Power-Up Punch]
+    stats:
+    - [70, 55, 95, 95, 110, 65]
+    tags:
+    - [BL]
+    types:
+    - [Psychic]
+    weight: [44]
+  Gothorita:
+    abilities:
+    - [Frisk, Shadow Tag]
+    - xy: [Frisk, Shadow Tag, Competitive]
+    egggroups:
+    - [Humanshape]
+    evolvesFrom: [Gothita]
+    height: [0.7]
+    introduction: bw
+    moves:
+    - xy: [Imprison]
+    - []
+    stats:
+    - [60, 45, 70, 75, 85, 55]
+    tags:
+    - [NU]
+    types:
+    - [Psychic]
+    weight: [18]

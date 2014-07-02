@@ -1,0 +1,159 @@
+pokemon:
+  Igglybuff:
+    abilities:
+    - bw: [Cute Charm, Friend Guard]
+      xy: [Cute Charm, Friend Guard, Competitive]
+    - rs: [Cute Charm]
+    - []
+    egggroups:
+    - []
+    height: [0.3]
+    introduction: gs
+    moves:
+    - gs: [Attract, Charm, Curse, Defense Curl, Detect, Double Team, Dream Eater,
+        Endure, Feint Attack, Fire Blast, Flamethrower, Flash, Frustration, Headbutt,
+        Icy Wind, Mud-Slap, Nightmare, Perish Song, Pound, Present, Protect, Psych
+          Up, Psychic, Rain Dance, Rest, Return, Rollout, Shadow Ball, Sing, Sleep
+          Talk, Snore, Solar Beam, Sunny Day, Swagger, Sweet Kiss, Toxic, Zap Cannon,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - bw: [Attract, Bounce, Captivate, Charm, Copycat, Covet, Defense Curl, Dig, Double
+          Team, Dream Eater, Echoed Voice, Endeavor, Facade, Feint Attack, Fake Tears,
+        Fire Blast, Flamethrower, Flash, Fling, Frustration, Grass Knot, Gravity,
+        Heal Bell, Helping Hand, Hyper Voice, Icy Wind, Incinerate, Last Resort, Light
+          Screen, Magic Coat, Pain Split, Perish Song, Pound, Present, Protect, Psych
+          Up, Psychic, Punishment, Rain Dance, Recycle, Reflect, Rest, Return, Role
+          Play, Round, Safeguard, Shadow Ball, Sing, Sleep Talk, Snore, Solar Beam,
+        Substitute, Sunny Day, Swagger, Sweet Kiss, Thunder Wave, Toxic, Uproar, Wild
+          Charge, Wish, Work Up, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Attract, Bounce, Captivate, Charm, Copycat, Covet, Defense Curl, Dig, Double
+          Team, Dream Eater, Endeavor, Endure, Facade, Feint Attack, Fake Tears, Fire
+          Blast, Flamethrower, Flash, Fling, Frustration, Grass Knot, Gravity, Headbutt,
+        Heal Bell, Helping Hand, Icy Wind, Last Resort, Light Screen, Magic Coat,
+        Mud-Slap, Natural Gift, Pain Split, Perish Song, Pound, Present, Protect,
+        Psych Up, Psychic, Rain Dance, Recycle, Reflect, Rest, Return, Role Play,
+        Rollout, Safeguard, Secret Power, Shadow Ball, Shock Wave, Sing, Sleep Talk,
+        Snore, Solar Beam, Substitute, Sunny Day, Swagger, Sweet Kiss, Thunder Wave,
+        Toxic, Uproar, Water Pulse, Wish, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Attract, Body Slam, Charm, Counter, Defense Curl, Dig, Double-Edge, Double
+          Team, Dream Eater, Endure, Facade, Feint Attack, Fake Tears, Fire Blast,
+        Flamethrower, Flash, Frustration, Icy Wind, Light Screen, Mega Kick, Mega
+          Punch, Mimic, Mud-Slap, Nightmare, Perish Song, Pound, Present, Protect,
+        Psych Up, Psychic, Rain Dance, Reflect, Rest, Return, Rollout, Safeguard,
+        Secret Power, Seismic Toss, Shadow Ball, Shock Wave, Sing, Sleep Talk, Snore,
+        Solar Beam, Substitute, Sunny Day, Swagger, Sweet Kiss, Thunder Wave, Toxic,
+        Water Pulse, Wish, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - xy: [Attract, Body Slam, Bounce, Captivate, Charm, Copycat, Counter, Covet,
+        Defense Curl, Dig, Double-Edge, Double Team, Dream Eater, Echoed Voice, Endeavor,
+        Endure, Facade, Feint Attack, Fake Tears, Fire Blast, Flamethrower, Flash,
+        Fling, Frustration, Grass Knot, Gravity, Headbutt, Heal Bell, Helping Hand,
+        Icy Wind, Incinerate, Last Resort, Light Screen, Magic Coat, Mega Kick, Mega
+          Punch, Mimic, Mud-Slap, Natural Gift, Nightmare, Pain Split, Perish Song,
+        Pound, Present, Protect, Psychic, Psych Up, Punishment, Rain Dance, Recycle,
+        Reflect, Rest, Return, Role Play, Rollout, Round, Safeguard, Secret Power,
+        Seismic Toss, Shadow Ball, Shock Wave, Sing, Sleep Talk, Snore, Solar Beam,
+        Substitute, Sunny Day, Swagger, Sweet Kiss, Thunder Wave, Tickle, Toxic, Uproar,
+        Water Pulse, Wild Charge, Wish, Work Up, Hyper Voice, Confide, Misty Terrain,
+        Heal Pulse, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [90, 30, 15, 40, 20, 15]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Normal]
+    - xy: [Fairy]
+    weight: [1]
+  Jigglypuff:
+    abilities:
+    - bw: [Cute Charm, Friend Guard]
+      xy: [Cute Charm, Friend Guard, Competitive]
+    - rs: [Cute Charm]
+    - []
+    egggroups:
+    - [Fairy]
+    evolvesFrom:
+    - {gs: Igglybuff}
+    height: [0.5]
+    introduction: rb
+    moves:
+    - gs: [Blizzard, Body Slam, Disable, Double-Edge, Double Slap, Dynamic Punch,
+        Fire Punch, Ice Beam, Ice Punch, Strength, Thunder, Thunderbolt, Thunder Punch]
+    - bw: [Blizzard, Body Slam, Brick Break, Charge Beam, Disable, Double-Edge, Double
+          Slap, Drain Punch, Fire Punch, Gyro Ball, Ice Beam, Ice Punch, Knock Off,
+        Mimic, Retaliate, Rollout, Snatch, Stealth Rock, Strength, Thunder, Thunderbolt,
+        Thunder Punch, Wake-Up Slap, Nightmare, Seismic Toss]
+    - dp: [Blizzard, Body Slam, Brick Break, Charge Beam, Disable, Double-Edge, Double
+          Slap, Drain Punch, Fire Punch, Focus Punch, Gyro Ball, Hyper Voice, Ice
+          Beam, Ice Punch, Knock Off, Mimic, Snatch, Stealth Rock, Strength, Thunder,
+        Thunderbolt, Thunder Punch, Wake-Up Slap, Nightmare, Seismic Toss]
+    - rs: [Blizzard, Brick Break, Disable, Double Slap, Dynamic Punch, Fire Punch,
+        Focus Punch, Hyper Voice, Ice Beam, Ice Punch, Snatch, Strength, Thunder,
+        Thunderbolt, Thunder Punch]
+    - rb: [Bide, Blizzard, Body Slam, Bubble Beam, Counter, Defense Curl, Disable,
+        Double-Edge, Double Team, Double Slap, Fire Blast, Flash, Ice Beam, Mega Kick,
+        Mega Punch, Mimic, Pound, Psychic, Psywave, Rage, Reflect, Rest, Seismic Toss,
+        Sing, Skull Bash, Solar Beam, Strength, Submission, Substitute, Take Down,
+        Teleport, Thunder, Thunder Wave, Thunderbolt, Toxic, Tri Attack, Water Gun]
+    - xy: [Blizzard, Brick Break, Charge Beam, Disable, Double Slap, Drain Punch,
+        Dynamic Punch, Fire Punch, Focus Punch, Gyro Ball, Ice Beam, Ice Punch, Knock
+          Off, Retaliate, Snatch, Stealth Rock, Strength, Thunder, Thunderbolt, Thunder
+          Punch, Wake-Up Slap, Play Nice, Disarming Voice, Power-Up Punch, Dazzling
+          Gleam]
+    stats:
+    - [115, 45, 20, 25, 25, 20]
+    - gs: [115, 45, 20, 45, 25, 20]
+    tags:
+    - [NFE]
+    types:
+    - [Normal]
+    - xy: [Fairy]
+    weight: [5.5]
+  Wigglytuff:
+    abilities:
+    - bw: [Cute Charm, Frisk]
+      xy: [Cute Charm, Friend Guard, Competitive]
+    - rs: [Cute Charm]
+    - []
+    egggroups:
+    - [Fairy]
+    evolvesFrom: [Jigglypuff]
+    height: [1]
+    introduction: rb
+    moves:
+    - gs: [Hyper Beam]
+    - bw: [Focus Blast, Giga Impact, Hyper Beam, Magic Room]
+    - dp: [Focus Blast, Giga Impact, Hyper Beam]
+    - rs: [Hyper Beam]
+    - rb: [Hyper Beam]
+    - xy: [Focus Blast, Giga Impact, Hyper Beam, Magic Room, Play Rough]
+    stats:
+    - [140, 70, 45, 50, 50, 45]
+    - gs: [140, 70, 45, 75, 50, 45]
+      xy: [140, 70, 45, 85, 50, 45]
+    tags:
+    - [UU]
+    - rs: [NU]
+    types:
+    - [Normal]
+    - xy: [Fairy]
+    weight: [12]

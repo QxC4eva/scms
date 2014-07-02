@@ -1,0 +1,80 @@
+pokemon:
+  Moltres:
+    abilities:
+    - bw: [Flame Body, Pressure]
+    - rs: [Pressure]
+    - []
+    egggroups:
+    - []
+    height: [2]
+    introduction: rb
+    moves:
+    - gs: [Agility, Curse, Detect, Double Team, Ember, Endure, Fire Blast, Fire Spin,
+        Flamethrower, Fly, Frustration, Hyper Beam, Mud-Slap, Protect, Rain Dance,
+        Rest, Return, Roar, Rock Smash, Safeguard, Sandstorm, Sky Attack, Sleep Talk,
+        Snore, Steel Wing, Sunny Day, Swagger, Swift, Toxic, Wing Attack, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - bw: [Aerial Ace, Agility, Air Slash, Ancient Power, Double Team, Ember, Endure,
+        Facade, Fire Blast, Fire Spin, Flame Charge, Flamethrower, Fly, Frustration,
+        Giga Impact, Heat Wave, Hurricane, Hyper Beam, Incinerate, Overheat, Pluck,
+        Protect, Rain Dance, Rest, Return, Roar, Rock Smash, Roost, Round, Safeguard,
+        Sandstorm, Sky Attack, Sky Drop, Sleep Talk, Snore, Solar Beam, Substitute,
+        Sunny Day, Swagger, Tailwind, Toxic, U-turn, Will-O-Wisp, Wing Attack, Double-Edge,
+        Extrasensory, Mimic, Morning Sun, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Aerial Ace, Agility, Air Cutter, Air Slash, Ancient Power, Defog, Double
+          Team, Ember, Endure, Facade, Fire Blast, Fire Spin, Flamethrower, Fly, Frustration,
+        Giga Impact, Heat Wave, Hyper Beam, Mud-Slap, Natural Gift, Ominous Wind,
+        Overheat, Pluck, Protect, Rain Dance, Rest, Return, Roar, Rock Smash, Roost,
+        Safeguard, Sandstorm, Secret Power, Sky Attack, Sleep Talk, Snore, Solar Beam,
+        Steel Wing, Substitute, Sunny Day, Swagger, Swift, Tailwind, Toxic, Twister,
+        U-turn, Will-O-Wisp, Wing Attack, Double-Edge, Extrasensory, Mimic, Morning
+          Sun, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Agility, Double Team, Ember, Endure, Facade, Fire Blast, Fire
+          Spin, Flamethrower, Fly, Frustration, Heat Wave, Hyper Beam, Mud-Slap, Overheat,
+        Protect, Rain Dance, Rest, Return, Roar, Rock Smash, Safeguard, Sandstorm,
+        Secret Power, Sky Attack, Sleep Talk, Snore, Steel Wing, Substitute, Sunny
+          Day, Swagger, Swift, Toxic, Wing Attack, Extrasensory, Morning Sun, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - rb: [Agility, Bide, Double-Edge, Double Team, Fire Blast, Fire Spin, Fly, Hyper
+          Beam, Leer, Mimic, Peck, Rage, Razor Wind, Reflect, Rest, Sky Attack, Substitute,
+        Swift, Take Down, Toxic, Whirlwind]
+    - xy: [Aerial Ace, Agility, Air Cutter, Air Slash, Ancient Power, Defog, Double-Edge,
+        Double Team, Ember, Endure, Extrasensory, Facade, Fire Blast, Fire Spin, Flame
+          Charge, Flamethrower, Fly, Frustration, Giga Impact, Heat Wave, Hurricane,
+        Hyper Beam, Incinerate, Mimic, Morning Sun, Mud-Slap, Natural Gift, Ominous
+          Wind, Overheat, Pluck, Protect, Rain Dance, Rest, Return, Roar, Rock Smash,
+        Roost, Round, Safeguard, Sandstorm, Secret Power, Sky Attack, Sky Drop, Sleep
+          Talk, Snore, Solar Beam, Steel Wing, Substitute, Sunny Day, Swagger, Swift,
+        Tailwind, Toxic, Twister, U-turn, Will-O-Wisp, Wing Attack, Confide, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [90, 100, 90, 125, 125, 90]
+    - gs: [90, 100, 90, 125, 85, 90]
+    tags:
+    - [UU]
+    - bw: [RU]
+      dp: [UU]
+      gs: [BL]
+    types:
+    - [Fire, Flying]
+    weight: [60]

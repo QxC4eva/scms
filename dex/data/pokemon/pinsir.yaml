@@ -1,0 +1,95 @@
+pokemon:
+  Pinsir:
+    abilities:
+    - dp: [Hyper Cutter, Mold Breaker]
+    - bw: [Hyper Cutter, Mold Breaker, Moxie]
+    - rs: [Hyper Cutter]
+    - []
+    alts:
+    - xy:
+        Mega:
+          abilities: [Aerilate]
+          height: 1.7
+          stats: [65, 155, 120, 65, 90, 105]
+          types: [Bug, Flying]
+          weight: 59
+    egggroups:
+    - [Bug]
+    height: [1.5]
+    introduction: rb
+    moves:
+    - gs: [Attract, Bind, Curse, Cut, Double Team, Endure, Flail, Focus Energy, Frustration,
+        Fury Attack, Fury Cutter, Guillotine, Harden, Headbutt, Hyper Beam, Protect,
+        Rest, Return, Rock Smash, Seismic Toss, Sleep Talk, Snore, Strength, Submission,
+        Sunny Day, Swagger, Swords Dance, Thief, Toxic, Vice Grip, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - bw: [Attract, Bind, Brick Break, Bug Bite, Bulk Up, Bulldoze, Close Combat,
+        Cut, Dig, Double Team, Earthquake, Facade, Feint Attack, False Swipe, Feint,
+        Flail, Fling, Focus Blast, Focus Energy, Frustration, Fury Attack, Giga Impact,
+        Guillotine, Harden, Hyper Beam, Iron Defense, Knock Off, Me First, Protect,
+        Quick Attack, Rain Dance, Rest, Return, Revenge, Rock Slide, Rock Smash, Rock
+          Tomb, Round, Seismic Toss, Sleep Talk, Smack Down, Snore, Stealth Rock,
+        Stone Edge, Storm Throw, Strength, Struggle Bug, Submission, Substitute, Sunny
+          Day, Superpower, Swagger, Swords Dance, Thief, Thrash, Toxic, Vice Grip,
+        Vital Throw, X-Scissor, Body Slam, Double-Edge, Helping Hand, Mimic, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - dp: [Attract, Bind, Brick Break, Bulk Up, Captivate, Close Combat, Cut, Dig,
+        Double Team, Earthquake, Endure, Facade, Feint Attack, False Swipe, Feint,
+        Flail, Fling, Focus Blast, Focus Energy, Focus Punch, Frustration, Fury Attack,
+        Fury Cutter, Giga Impact, Guillotine, Harden, Headbutt, Hyper Beam, Iron Defense,
+        Knock Off, Natural Gift, Protect, Quick Attack, Rain Dance, Rest, Return,
+        Revenge, Rock Climb, Rock Slide, Rock Smash, Rock Tomb, Secret Power, Seismic
+          Toss, Sleep Talk, Snore, Stealth Rock, Stone Edge, Strength, String Shot,
+        Submission, Substitute, Sunny Day, Superpower, Swagger, Swords Dance, Thief,
+        Thrash, Toxic, Vice Grip, Vital Throw, X-Scissor, Body Slam, Double-Edge,
+        Helping Hand, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - rs: [Attract, Bind, Brick Break, Bulk Up, Cut, Dig, Double Team, Earthquake,
+        Endure, Facade, Feint Attack, False Swipe, Flail, Focus Energy, Focus Punch,
+        Frustration, Fury Attack, Fury Cutter, Guillotine, Harden, Hyper Beam, Protect,
+        Rain Dance, Rest, Return, Revenge, Rock Slide, Rock Smash, Rock Tomb, Secret
+          Power, Seismic Toss, Sleep Talk, Snore, Strength, Submission, Substitute,
+        Sunny Day, Swagger, Swords Dance, Thief, Toxic, Vice Grip, Helping Hand, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - rb: [Bide, Bind, Body Slam, Cut, Double-Edge, Double Team, Focus Energy, Guillotine,
+        Harden, Hyper Beam, Mimic, Rage, Rest, Seismic Toss, Slash, Strength, Submission,
+        Substitute, Swords Dance, Take Down, Toxic, Vice Grip]
+    - xy: [Attract, Bind, Body Slam, Brick Break, Bug Bite, Bulk Up, Bulldoze, Captivate,
+        Close Combat, Cut, Dig, Double-Edge, Double Team, Earthquake, Endure, Facade,
+        Feint Attack, False Swipe, Feint, Flail, Fling, Focus Blast, Focus Energy,
+        Focus Punch, Frustration, Fury Attack, Fury Cutter, Giga Impact, Guillotine,
+        Harden, Headbutt, Helping Hand, Hyper Beam, Iron Defense, Knock Off, Me First,
+        Mimic, Natural Gift, Protect, Quick Attack, Rain Dance, Rest, Return, Revenge,
+        Rock Climb, Rock Slide, Rock Smash, Rock Tomb, Round, Secret Power, Seismic
+          Toss, Sleep Talk, Smack Down, Snore, Stealth Rock, Stone Edge, Storm Throw,
+        Strength, String Shot, Struggle Bug, Submission, Substitute, Sunny Day, Superpower,
+        Swagger, Swords Dance, Thief, Thrash, Toxic, Vice Grip, Vital Throw, X-Scissor,
+        Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [65, 125, 100, 55, 55, 85]
+    - gs: [65, 125, 100, 55, 70, 85]
+    tags:
+    - [UU]
+    - dp: [NU]
+    types:
+    - [Bug]
+    weight: [55]

@@ -1,0 +1,61 @@
+pokemon:
+  Flabebe:
+    abilities:
+    - [Flower Veil, Symbiosis]
+    egggroups:
+    - [Fairy]
+    height: [0.1]
+    introduction: xy
+    moves:
+    - xy: [Tackle, Vine Whip, Fairy Wind, Lucky Chant, Razor Leaf, Wish, Magical Leaf,
+        Grassy Terrain, Petal Blizzard, Aromatherapy, Misty Terrain, Moonblast, Petal
+          Dance, Solar Beam, Calm Mind, Toxic, Sunny Day, Protect, Rain Dance, Safeguard,
+        Frustration, Return, Psychic, Double Team, Facade, Rest, Attract, Round, Echoed
+          Voice, Energy Ball, Flash, Grass Knot, Swagger, Sleep Talk, Substitute,
+        Nature Power, Dazzling Gleam, Confide, Copycat, Captivate, Camouflage, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [44, 38, 39, 61, 79, 42]
+    tags:
+    - []
+    types:
+    - [Fairy]
+    weight: [0.1]
+  Floette:
+    abilities:
+    - [Flower Veil, Symbiosis]
+    egggroups:
+    - [Fairy]
+    evolvesFrom: [Flabebe]
+    height: [0.2]
+    introduction: xy
+    moves:
+    - []
+    stats:
+    - [54, 45, 47, 75, 98, 52]
+    tags:
+    - []
+    types:
+    - [Fairy]
+    weight: [0.9]
+  Florges:
+    abilities:
+    - [Flower Veil, Symbiosis]
+    egggroups:
+    - [Fairy]
+    evolvesFrom: [Floette]
+    height: [1.1]
+    introduction: xy
+    moves:
+    - xy: [Disarming Voice, Flower Shield, Hyper Beam, Light Screen, Giga Impact]
+    stats:
+    - [78, 65, 68, 112, 154, 75]
+    tags:
+    - []
+    types:
+    - [Fairy]
+    weight: [10]

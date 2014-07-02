@@ -1,0 +1,44 @@
+pokemon:
+  Clauncher:
+    abilities:
+    - [Mega Launcher]
+    egggroups:
+    - [Water 1, Water 3]
+    height: [0.5]
+    introduction: xy
+    moves:
+    - xy: [Splash, Water Gun, Water Sport, Vice Grip, Bubble, Flail, Bubble Beam,
+        Swords Dance, Crabhammer, Water Pulse, Smack Down, Aqua Jet, Muddy Water,
+        Toxic, Venoshock, Ice Beam, Protect, Rain Dance, Frustration, Return, Double
+          Team, Sludge Wave, Sludge Bomb, Facade, Rest, Attract, Round, Scald, Rock
+          Slide, Swagger, Sleep Talk, U-turn, Substitute, Flash Cannon, Confide, Cut,
+        Surf, Waterfall, Helping Hand, Entrainment, Endure, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [50, 53, 62, 58, 63, 44]
+    tags:
+    - []
+    types:
+    - [Water]
+    weight: [8.3]
+  Clawitzer:
+    abilities:
+    - [Mega Launcher]
+    egggroups:
+    - [Water 1, Water 3]
+    evolvesFrom: [Clauncher]
+    height: [1.3]
+    introduction: xy
+    moves:
+    - xy: [Heal Pulse, Dark Pulse, Dragon Pulse, Aura Sphere, Hyper Beam, Shadow Ball,
+        Focus Blast, Giga Impact]
+    stats:
+    - [71, 73, 88, 120, 89, 63]
+    tags:
+    - []
+    types:
+    - [Water]
+    weight: [35.3]

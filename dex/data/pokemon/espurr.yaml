@@ -1,0 +1,46 @@
+pokemon:
+  Espurr:
+    abilities:
+    - [Keen Eye, Infiltrator, Own Tempo]
+    egggroups:
+    - [Field]
+    height: [0.3]
+    introduction: xy
+    moves:
+    - xy: [Scratch, Leer, Covet, Confusion, Light Screen, Psybeam, Fake Out, Disarming
+          Voice, Psyshock, Calm Mind, Toxic, Sunny Day, Protect, Rain Dance, Safeguard,
+        Frustration, Thunderbolt, Return, Psychic, Double Team, Reflect, Torment,
+        Facade, Rest, Attract, Round, Echoed Voice, Energy Ball, Charge Beam, Payback,
+        Flash, Thunder Wave, Psych Up, Dream Eater, Swagger, Sleep Talk, Substitute,
+        Trick Room, Dark Pulse, Confide, Cut, Trick, Yawn, Assist, Barrier, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [62, 48, 54, 63, 60, 68]
+    tags:
+    - []
+    types:
+    - [Psychic]
+    weight: [3.5]
+  Meowstic:
+    abilities:
+    - [Keen Eye, Infiltrator, Prankster, Competitive]
+    egggroups:
+    - [Field]
+    evolvesFrom: [Espurr]
+    height: [0.6]
+    introduction: xy
+    moves:
+    - xy: [Quick Guard, Mean Look, Helping Hand, Charm, Miracle Eye, Role Play, Imprison,
+        Sucker Punch, Misty Terrain, Hyper Beam, Dig, Shadow Ball, Giga Impact, Power-Up
+          Punch]
+    stats:
+    - [74, 48, 76, 83, 81, 104]
+    tags:
+    - []
+    types:
+    - [Psychic]
+    weight: [8.5]

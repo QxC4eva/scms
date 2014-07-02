@@ -1,6 +1,0 @@
-[SHORT DESC]
-Reduces sleep time by 50%. 
-[LONG DESC]
-<p>Pokémon with this ability will only sleep for 50% (rounded down) of the normal length. This affects sleep from moves like Spore and Hypnosis, and also from Rest.</p>
-
-<p>The implementation for this is that sleeping Pokemon have a hidden counter between 2 and 5 (which is always set to 3 for Rest). When the sleeping Pokemon attempts to do anything, the counter is first reduced by 1, and if the number becomes 0, the Pokemon wakes up and takes its normal action. If the counter is not 0, the "fast asleep" message is displayed. Early Bird causes this counter to be reduced by 2 instead of 1, meaning Pokemon sleep for 1 turn under Rest, or 0-2 turns from normal sleep.</p>

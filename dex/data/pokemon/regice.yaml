@@ -1,0 +1,71 @@
+pokemon:
+  Regice:
+    abilities:
+    - [Clear Body]
+    - bw: [Clear Body, Ice Body]
+    egggroups:
+    - []
+    height: [1.8]
+    introduction: rs
+    moves:
+    - bw: [Amnesia, Ancient Power, Blizzard, Block, Brick Break, Bulldoze, Charge
+          Beam, Curse, Double Team, Earthquake, Explosion, Facade, Flash Cannon, Fling,
+        Focus Blast, Frost Breath, Frustration, Giga Impact, Gravity, Hail, Hammer
+          Arm, Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Iron Head, Lock-On, Protect,
+        Psych Up, Rain Dance, Rest, Return, Rock Polish, Rock Slide, Rock Smash, Rock
+          Tomb, Round, Safeguard, Signal Beam, Sleep Talk, Snore, Stomp, Strength,
+        Substitute, Superpower, Swagger, Thunder, Thunder Wave, Thunderbolt, Thunder
+          Punch, Toxic, Zap Cannon, Body Slam, Double-Edge, Mimic, Seismic Toss, Self-Destruct,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - dp: [Amnesia, Ancient Power, Avalanche, Blizzard, Block, Brick Break, Charge
+          Beam, Curse, Double Team, Earthquake, Endure, Explosion, Facade, Flash Cannon,
+        Fling, Focus Blast, Focus Punch, Frustration, Giga Impact, Gravity, Hail,
+        Hammer Arm, Headbutt, Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Iron Head,
+        Lock-On, Mud-Slap, Natural Gift, Protect, Psych Up, Rain Dance, Rest, Return,
+        Rock Climb, Rock Polish, Rock Slide, Rock Smash, Rock Tomb, Rollout, Safeguard,
+        Secret Power, Shock Wave, Signal Beam, Sleep Talk, Snore, Stomp, Strength,
+        Substitute, Superpower, Swagger, Thunder, Thunder Wave, Thunderbolt, Thunder
+          Punch, Toxic, Zap Cannon, Body Slam, Double-Edge, Mimic, Seismic Toss, Self-Destruct,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - rs: [Amnesia, Ancient Power, Blizzard, Brick Break, Counter, Curse, Defense
+          Curl, Double Team, Dynamic Punch, Earthquake, Endure, Explosion, Facade,
+        Focus Punch, Frustration, Hail, Hyper Beam, Ice Beam, Ice Punch, Icy Wind,
+        Lock-On, Mega Kick, Mega Punch, Mud-Slap, Protect, Psych Up, Rain Dance, Rest,
+        Return, Rock Slide, Rock Smash, Rollout, Safeguard, Secret Power, Shock Wave,
+        Sleep Talk, Snore, Strength, Substitute, Superpower, Swagger, Thunder, Thunder
+          Wave, Thunderbolt, Thunder Punch, Toxic, Zap Cannon, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Amnesia, Ancient Power, Avalanche, Blizzard, Block, Body Slam, Brick Break,
+        Bulldoze, Charge Beam, Counter, Curse, Defense Curl, Double-Edge, Double Team,
+        Dynamic Punch, Earthquake, Endure, Explosion, Facade, Flash Cannon, Fling,
+        Focus Blast, Focus Punch, Frost Breath, Frustration, Giga Impact, Gravity,
+        Hail, Hammer Arm, Headbutt, Hyper Beam, Ice Beam, Ice Punch, Icy Wind, Iron
+          Head, Lock-On, Mega Kick, Mega Punch, Mimic, Mud-Slap, Natural Gift, Protect,
+        Psych Up, Rain Dance, Rest, Return, Rock Climb, Rock Polish, Rock Slide, Rock
+          Smash, Rock Tomb, Rollout, Round, Safeguard, Secret Power, Seismic Toss,
+        Self-Destruct, Shock Wave, Signal Beam, Sleep Talk, Snore, Stomp, Strength,
+        Substitute, Superpower, Swagger, Thunder, Thunderbolt, Thunder Punch, Thunder
+          Wave, Toxic, Zap Cannon, Power-Up Punch, Confide, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [80, 50, 100, 100, 200, 50]
+    tags:
+    - [OU]
+    - dp: [NU]
+    types:
+    - [Ice]
+    weight: [175]

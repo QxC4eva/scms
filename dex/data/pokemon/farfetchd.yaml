@@ -1,0 +1,83 @@
+pokemon:
+  Farfetch'd:
+    abilities:
+    - bw: [Defiant, Inner Focus, Keen Eye]
+    - rs: [Inner Focus, Keen Eye]
+    - []
+    egggroups:
+    - [Flying, Ground]
+    height: [0.8]
+    introduction: rb
+    moves:
+    - gs: [Agility, Attract, Curse, Cut, Detect, Double Team, Endure, False Swipe,
+        Flail, Fly, Foresight, Frustration, Fury Attack, Gust, Headbutt, Iron Tail,
+        Leer, Mirror Move, Mud-Slap, Peck, Protect, Psych Up, Quick Attack, Rest,
+        Return, Sand Attack, Slash, Sleep Talk, Snore, Steel Wing, Sunny Day, Swagger,
+        Swift, Swords Dance, Thief, Toxic, Fury Cutter, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - bw: [Acrobatics, Aerial Ace, Agility, Air Cutter, Air Slash, Attract, Brave
+          Bird, Covet, Curse, Cut, Double Team, Facade, False Swipe, Feather Dance,
+        Feint, Flail, Fly, Foresight, Frustration, Fury Attack, Fury Cutter, Gust,
+        Heat Wave, Helping Hand, Iron Tail, Knock Off, Last Resort, Leaf Blade, Leer,
+        Mirror Move, Mud-Slap, Night Slash, Peck, Pluck, Poison Jab, Protect, Psych
+          Up, Quick Attack, Rest, Retaliate, Return, Revenge, Roost, Round, Sand Attack,
+        Sky Attack, Slash, Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day, Swagger,
+        Swords Dance, Tailwind, Thief, Toxic, Trump Card, U-turn, Uproar, Work Up,
+        Wish, Yawn, Body Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Aerial Ace, Agility, Air Cutter, Air Slash, Attract, Captivate, Covet,
+        Curse, Cut, Defog, Double Team, Endure, Facade, False Swipe, Feather Dance,
+        Feint, Flail, Fly, Foresight, Frustration, Fury Attack, Fury Cutter, Gust,
+        Headbutt, Heat Wave, Iron Tail, Knock Off, Last Resort, Leaf Blade, Leer,
+        Mirror Move, Mud-Slap, Natural Gift, Night Slash, Ominous Wind, Peck, Pluck,
+        Poison Jab, Protect, Psych Up, Quick Attack, Rest, Return, Roost, Sand Attack,
+        Secret Power, Slash, Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day,
+        Swagger, Swift, Swords Dance, Thief, Toxic, Twister, U-turn, Uproar, Wish,
+        Yawn, Body Slam, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Agility, Attract, Curse, Cut, Double Team, Endure, Facade,
+        False Swipe, Feather Dance, Flail, Fly, Foresight, Frustration, Fury Attack,
+        Fury Cutter, Gust, Iron Tail, Knock Off, Leer, Mirror Move, Mud-Slap, Peck,
+        Protect, Psych Up, Quick Attack, Rest, Return, Sand Attack, Secret Power,
+        Slash, Sleep Talk, Snore, Steel Wing, Substitute, Sunny Day, Swagger, Swift,
+        Swords Dance, Thief, Toxic, Wish, Yawn, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rb: [Agility, Bide, Body Slam, Cut, Double-Edge, Double Team, Fly, Fury Attack,
+        Leer, Mimic, Peck, Rage, Razor Wind, Reflect, Rest, Sand Attack, Skull Bash,
+        Slash, Substitute, Swift, Swords Dance, Take Down, Toxic, Whirlwind]
+    - xy: [Acrobatics, Aerial Ace, Agility, Air Cutter, Air Slash, Attract, Baton
+          Pass, Body Slam, Brave Bird, Captivate, Covet, Curse, Cut, Defog, Double-Edge,
+        Double Team, Endure, Facade, False Swipe, Feather Dance, Feint, Flail, Fly,
+        Foresight, Frustration, Fury Attack, Fury Cutter, Gust, Headbutt, Heat Wave,
+        Iron Tail, Knock Off, Last Resort, Leaf Blade, Leer, Mimic, Mirror Move, Mud-Slap,
+        Natural Gift, Night Slash, Ominous Wind, Peck, Pluck, Poison Jab, Protect,
+        Psych Up, Quick Attack, Rest, Retaliate, Return, Revenge, Roost, Round, Sand
+          Attack, Secret Power, Slash, Sleep Talk, Snore, Steel Wing, Substitute,
+        Sunny Day, Swagger, Swift, Swords Dance, Thief, Toxic, Trump Card, Twister,
+        Uproar, U-turn, Wish, Work Up, Yawn, Tailwind, Sky Attack, Helping Hand, Confide,
+        Simple Beam, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [52, 65, 55, 58, 58, 60]
+    - gs: [52, 65, 55, 58, 62, 60]
+    tags:
+    - [UU]
+    - rs: [NU]
+    types:
+    - [Flying, Ground]
+    weight: [15]

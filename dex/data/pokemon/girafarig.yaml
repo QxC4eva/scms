@@ -1,0 +1,90 @@
+pokemon:
+  Girafarig:
+    abilities:
+    - bw: [Early Bird, Inner Focus, Sap Sipper]
+    - rs: [Early Bird, Inner Focus]
+    - []
+    egggroups:
+    - [Ground]
+    height: [1.5]
+    introduction: gs
+    moves:
+    - gs: [Agility, Amnesia, Attract, Baton Pass, Beat Up, Confusion, Crunch, Curse,
+        Double Team, Dream Eater, Earthquake, Endure, Foresight, Frustration, Future
+          Sight, Growl, Headbutt, Iron Tail, Mud-Slap, Nightmare, Protect, Psybeam,
+        Psych Up, Psychic, Rest, Return, Rock Smash, Shadow Ball, Sleep Talk, Snore,
+        Stomp, Strength, Sunny Day, Swagger, Swift, Tackle, Take Down, Thief, Thunder,
+        Thunderbolt, Toxic, Zap Cannon, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - bw: [Agility, Amnesia, Assurance, Astonish, Attract, Baton Pass, Beat Up, Bulldoze,
+        Calm Mind, Charge Beam, Confusion, Crunch, Double Hit, Double Kick, Double
+          Team, Dream Eater, Earthquake, Echoed Voice, Energy Ball, Facade, Flash,
+        Foresight, Foul Play, Frustration, Future Sight, Grass Knot, Gravity, Growl,
+        Guard Swap, Hyper Voice, Iron Tail, Light Screen, Magic Coat, Mean Look, Mirror
+          Coat, Odor Sleuth, Power Swap, Protect, Psybeam, Psych Up, Psychic, Psyshock,
+        Rain Dance, Razor Wind, Recycle, Reflect, Rest, Retaliate, Return, Rock Smash,
+        Round, Secret Power, Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snore,
+        Stomp, Strength, Substitute, Sunny Day, Tackle, Take Down, Telekinesis, Thief,
+        Thunder, Thunder Wave, Thunderbolt, Toxic, Trick, Trick Room, Uproar, Wish,
+        Work Up, Zen Headbutt, Body Slam, Double-Edge, Mimic, Nightmare, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - dp: [Agility, Amnesia, Assurance, Astonish, Attract, Baton Pass, Beat Up, Calm
+          Mind, Captivate, Charge Beam, Confusion, Crunch, Double Hit, Double Kick,
+        Double Team, Dream Eater, Earthquake, Endure, Energy Ball, Facade, Flash,
+        Foresight, Frustration, Future Sight, Grass Knot, Gravity, Growl, Guard Swap,
+        Headbutt, Iron Tail, Light Screen, Magic Coat, Mirror Coat, Mud-Slap, Natural
+          Gift, Odor Sleuth, Power Swap, Protect, Psybeam, Psych Up, Psychic, Rain
+          Dance, Razor Wind, Recycle, Reflect, Rest, Return, Rock Smash, Secret Power,
+        Shadow Ball, Shock Wave, Signal Beam, Skill Swap, Sleep Talk, Snore, Stomp,
+        Strength, Substitute, Sucker Punch, Sunny Day, Swift, Tackle, Take Down, Thief,
+        Thunder, Thunder Wave, Thunderbolt, Toxic, Trick, Trick Room, Uproar, Wish,
+        Zen Headbutt, Body Slam, Double-Edge, Mimic, Nightmare, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - rs: [Agility, Amnesia, Astonish, Attract, Baton Pass, Beat Up, Calm Mind, Confusion,
+        Crunch, Double Team, Dream Eater, Earthquake, Endure, Facade, Flash, Foresight,
+        Frustration, Future Sight, Growl, Iron Tail, Light Screen, Magic Coat, Mud-Slap,
+        Odor Sleuth, Protect, Psybeam, Psych Up, Psychic, Rain Dance, Reflect, Rest,
+        Return, Rock Smash, Secret Power, Shadow Ball, Shock Wave, Skill Swap, Sleep
+          Talk, Snore, Stomp, Strength, Substitute, Sunny Day, Swift, Tackle, Take
+          Down, Thief, Thunder, Thunder Wave, Thunderbolt, Toxic, Wish, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - xy: [Agility, Amnesia, Assurance, Astonish, Attract, Baton Pass, Beat Up, Body
+          Slam, Bulldoze, Calm Mind, Captivate, Charge Beam, Confusion, Crunch, Double-Edge,
+        Double Hit, Double Kick, Double Team, Dream Eater, Earthquake, Echoed Voice,
+        Endure, Energy Ball, Facade, Flash, Foresight, Frustration, Future Sight,
+        Grass Knot, Gravity, Growl, Guard Swap, Headbutt, Iron Tail, Light Screen,
+        Magic Coat, Mean Look, Mimic, Mirror Coat, Mud-Slap, Natural Gift, Nightmare,
+        Odor Sleuth, Power Swap, Protect, Psybeam, Psychic, Psych Up, Psyshock, Rain
+          Dance, Razor Wind, Recycle, Reflect, Rest, Retaliate, Return, Rock Smash,
+        Round, Secret Power, Shadow Ball, Shock Wave, Signal Beam, Skill Swap, Sleep
+          Talk, Snore, Stomp, Strength, Substitute, Sucker Punch, Sunny Day, Swagger,
+        Swift, Tackle, Take Down, Telekinesis, Thief, Thunder, Thunderbolt, Thunder
+          Wave, Toxic, Trick, Trick Room, Uproar, Wish, Work Up, Zen Headbutt, Foul
+          Play, Hyper Voice, Dazzling Gleam, Confide, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [70, 80, 65, 90, 65, 85]
+    tags:
+    - [UU]
+    - rs: [NU]
+    types:
+    - [Normal, Psychic]
+    weight: [41.5]

@@ -1,0 +1,173 @@
+pokemon:
+  Clefable:
+    abilities:
+    - dp: [Cute Charm, Magic Guard]
+    - bw: [Cute Charm, Magic Guard, Unaware]
+    - rs: [Cute Charm]
+    - []
+    egggroups:
+    - [Fairy]
+    evolvesFrom: [Clefairy]
+    height: [1.3]
+    introduction: rb
+    moves:
+    - gs: [Hyper Beam]
+    - bw: [Focus Blast, Giga Impact, Hyper Beam]
+    - dp: [Focus Blast, Giga Impact, Hyper Beam]
+    - rs: [Hyper Beam]
+    - rb: [Hyper Beam]
+    - xy: [Focus Blast, Giga Impact, Hyper Beam]
+    stats:
+    - [95, 70, 73, 85, 85, 60]
+    - gs: [95, 70, 73, 85, 90, 60]
+    - xy: [95, 70, 73, 95, 90, 60]
+    tags:
+    - [UU]
+    - bw: [RU]
+    - rs: [UU]
+    - gs: [BL]
+    types:
+    - [Normal]
+    - xy: [Fairy]
+    weight: [40]
+  Clefairy:
+    abilities:
+    - dp: [Cute Charm, Magic Guard]
+    - bw: [Cute Charm, Friend Guard, Magic Guard]
+    - rs: [Cute Charm]
+    - []
+    egggroups:
+    - [Fairy]
+    evolvesFrom:
+    - {gs: Cleffa}
+    height: [0.6]
+    introduction: rb
+    moves:
+    - gs: [Blizzard, Double Slap, Dynamic Punch, Fire Punch, Growl, Ice Beam, Ice
+          Punch, Light Screen, Minimize, Moonlight, Strength, Thunder, Thunderbolt,
+        Thunder Punch]
+    - bw: [Bestow, Blizzard, Body Slam, Bounce, Brick Break, Calm Mind, Charge Beam,
+        Cosmic Power, Defense Curl, Double Slap, Double-Edge, Drain Punch, Fire Punch,
+        Follow Me, Growl, Heal Bell, Healing Wish, Ice Beam, Ice Punch, Knock Off,
+        Lucky Chant, Meteor Mash, Minimize, Moonlight, Nightmare, Retaliate, Rock
+          Smash, Seismic Toss, Shock Wave, Snatch, Stealth Rock, Strength, Thunder,
+        Thunderbolt, Thunder Punch, Wake-Up Slap]
+    - dp: [Body Slam, Blizzard, Bounce, Brick Break, Calm Mind, Charge Beam, Cosmic
+          Power, Defense Curl, Double Slap, Double-Edge, Drain Punch, Fire Punch,
+        Focus Punch, Follow Me, Growl, Heal Bell, Healing Wish, Ice Beam, Ice Punch,
+        Knock Off, Lucky Chant, Meteor Mash, Minimize, Moonlight, Nightmare, Rock
+          Smash, Seismic Toss, Snatch, Stealth Rock, Strength, Thunder, Thunderbolt,
+        Thunder Punch, Wake-Up Slap]
+    - rs: [Blizzard, Brick Break, Calm Mind, Cosmic Power, Double Slap, Dynamic Punch,
+        Fire Punch, Focus Punch, Follow Me, Growl, Ice Beam, Ice Punch, Meteor Mash,
+        Minimize, Moonlight, Snatch, Strength, Thunder, Thunderbolt, Thunder Punch]
+    - rb: [Bide, Blizzard, Body Slam, Bubble Beam, Counter, Defense Curl, Double-Edge,
+        Double Team, Double Slap, Fire Blast, Flash, Growl, Ice Beam, Light Screen,
+        Mega Kick, Mega Punch, Metronome, Mimic, Minimize, Pound, Psychic, Psywave,
+        Rage, Reflect, Rest, Seismic Toss, Sing, Skull Bash, Solar Beam, Strength,
+        Submission, Substitute, Take Down, Teleport, Thunder, Thunder Wave, Thunderbolt,
+        Toxic, Tri Attack, Water Gun]
+    - xy: [Bestow, Blizzard, Bounce, Brick Break, Calm Mind, Charge Beam, Cosmic Power,
+        Double Slap, Drain Punch, Dynamic Punch, Fire Punch, Focus Punch, Follow Me,
+        Growl, Heal Bell, Healing Wish, Ice Beam, Ice Punch, Knock Off, Lucky Chant,
+        Meteor Mash, Minimize, Moonlight, Retaliate, Rock Smash, Snatch, Stealth Rock,
+        Strength, Thunder, Thunderbolt, Thunder Punch, Wake-Up Slap, Disarming Voice,
+        Moonblast, Power-Up Punch, Dazzling Gleam]
+    stats:
+    - [70, 45, 48, 60, 60, 35]
+    - gs: [70, 45, 48, 60, 65, 35]
+    tags:
+    - [NFE]
+    types:
+    - [Normal]
+    - xy: [Fairy]
+    weight: [7.5]
+  Cleffa:
+    abilities:
+    - dp: [Cute Charm, Magic Guard]
+    - bw: [Cute Charm, Friend Guard, Magic Guard]
+    - rs: [Cute Charm]
+    - []
+    egggroups:
+    - []
+    height: [0.3]
+    introduction: gs
+    moves:
+    - gs: [Amnesia, Attract, Belly Drum, Charm, Curse, Defense Curl, Detect, Double
+          Team, Dream Eater, Encore, Endure, Fire Blast, Flamethrower, Flash, Frustration,
+        Headbutt, Icy Wind, Iron Tail, Metronome, Mimic, Mud-Slap, Nightmare, Pound,
+        Present, Protect, Psych Up, Psychic, Rain Dance, Rest, Return, Rollout, Shadow
+          Ball, Sing, Sleep Talk, Snore, Solar Beam, Splash, Sunny Day, Swagger, Sweet
+          Kiss, Toxic, Zap Cannon, Dizzy Punch, Scary Face, Swift, Petal Dance, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - bw: [After You, Amnesia, Aromatherapy, Attract, Belly Drum, Charm, Copycat,
+        Covet, Dig, Double Team, Dream Eater, Echoed Voice, Encore, Endeavor, Facade,
+        Fake Tears, Fire Blast, Flamethrower, Flash, Fling, Frustration, Grass Knot,
+        Gravity, Helping Hand, Hyper Voice, Icy Wind, Incinerate, Iron Tail, Last
+          Resort, Light Screen, Magic Coat, Magical Leaf, Metronome, Mimic, Pound,
+        Present, Protect, Psych Up, Psychic, Psyshock, Rain Dance, Recycle, Reflect,
+        Rest, Return, Role Play, Round, Safeguard, Shadow Ball, Signal Beam, Sing,
+        Sleep Talk, Snore, Solar Beam, Splash, Stored Power, Substitute, Sunny Day,
+        Swagger, Sweet Kiss, Telekinesis, Thunder Wave, Tickle, Toxic, Trick, Uproar,
+        Wish, Wonder Room, Work Up, Zen Headbutt, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Amnesia, Aromatherapy, Attract, Belly Drum, Captivate, Charm, Copycat,
+        Covet, Dig, Double Team, Dream Eater, Encore, Endeavor, Endure, Facade, Fake
+          Tears, Fire Blast, Flamethrower, Flash, Fling, Frustration, Grass Knot,
+        Gravity, Headbutt, Helping Hand, Icy Wind, Iron Tail, Last Resort, Light Screen,
+        Magic Coat, Magical Leaf, Metronome, Mimic, Mud-Slap, Natural Gift, Pound,
+        Present, Protect, Psych Up, Psychic, Rain Dance, Recycle, Reflect, Rest, Return,
+        Role Play, Rollout, Safeguard, Secret Power, Shadow Ball, Shock Wave, Signal
+          Beam, Sing, Sleep Talk, Snore, Solar Beam, Splash, Substitute, Sunny Day,
+        Swagger, Sweet Kiss, Thunder Wave, Toxic, Trick, Uproar, Water Pulse, Wish,
+        Zen Headbutt, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - rs: [Amnesia, Attract, Belly Drum, Body Slam, Charm, Counter, Defense Curl,
+        Dig, Double-Edge, Double Team, Dream Eater, Encore, Endure, Facade, Fire Blast,
+        Flamethrower, Flash, Frustration, Icy Wind, Iron Tail, Light Screen, Magical
+          Leaf, Mega Kick, Mega Punch, Metronome, Mimic, Mud-Slap, Nightmare, Pound,
+        Present, Protect, Psych Up, Psychic, Rain Dance, Reflect, Rest, Return, Rollout,
+        Safeguard, Secret Power, Seismic Toss, Shadow Ball, Shock Wave, Sing, Sleep
+          Talk, Snore, Soft-Boiled, Solar Beam, Splash, Substitute, Sunny Day, Swagger,
+        Sweet Kiss, Thunder Wave, Toxic, Water Pulse, Wish, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Amnesia, Aromatherapy, Attract, Belly Drum, Body Slam, Captivate, Charm,
+        Copycat, Counter, Covet, Defense Curl, Dig, Double-Edge, Double Team, Dream
+          Eater, Echoed Voice, Encore, Endeavor, Endure, Facade, Fake Tears, Fire
+          Blast, Flamethrower, Flash, Fling, Frustration, Grass Knot, Gravity, Headbutt,
+        Helping Hand, Icy Wind, Incinerate, Iron Tail, Last Resort, Light Screen,
+        Magical Leaf, Magic Coat, Mega Kick, Mega Punch, Metronome, Mimic, Mud-Slap,
+        Natural Gift, Nightmare, Pound, Present, Protect, Psychic, Psych Up, Psyshock,
+        Rain Dance, Recycle, Reflect, Rest, Return, Role Play, Rollout, Round, Safeguard,
+        Secret Power, Seismic Toss, Shadow Ball, Shock Wave, Signal Beam, Sing, Sleep
+          Talk, Snore, Soft-Boiled, Solar Beam, Splash, Stored Power, Substitute,
+        Sunny Day, Swagger, Sweet Kiss, Telekinesis, Thunder Wave, Tickle, Toxic,
+        Trick, Uproar, Water Pulse, Wish, Work Up, Zen Headbutt, Hyper Voice, After
+          You, Wonder Room, Confide, Heal Pulse, Misty Terrain, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [50, 25, 28, 45, 55, 15]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Normal]
+    - xy: [Fairy]
+    weight: [3]

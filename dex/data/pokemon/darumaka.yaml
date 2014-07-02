@@ -1,0 +1,61 @@
+pokemon:
+  Darmanitan:
+    abilities:
+    - [Sheer Force, Zen Mode]
+    egggroups:
+    - [Ground]
+    evolvesFrom: [Darumaka]
+    height: [1.3]
+    introduction: bw
+    moves:
+    - bw: [Bulk Up, Bulldoze, Earthquake, Focus Blast, Giga Impact, Hyper Beam, Payback,
+        Psychic, Smack Down, Stone Edge, Torment]
+    - xy: [Bulk Up, Bulldoze, Earthquake, Focus Blast, Giga Impact, Hyper Beam, Payback,
+        Psychic, Smack Down, Stone Edge, Torment]
+    stats:
+    - [105, 140, 55, 30, 55, 95]
+    tags:
+    - [UU]
+    types:
+    - [Fire]
+    weight: [92.9]
+  Darumaka:
+    abilities:
+    - [Hustle, Inner Focus]
+    egggroups:
+    - [Ground]
+    height: [0.6]
+    introduction: bw
+    moves:
+    - bw: [Attract, Belly Drum, Brick Break, Dig, Double Team, Encore, Endeavor, Endure,
+        Facade, Fire Blast, Fire Fang, Fire Punch, Flame Charge, Flame Wheel, Flamethrower,
+        Flare Blitz, Fling, Focus Energy, Focus Punch, Frustration, Grass Knot, Gyro
+          Ball, Hammer Arm, Headbutt, Heat Wave, Incinerate, Overheat, Protect, Rage,
+        Rest, Return, Roar, Rock Slide, Rock Smash, Rock Tomb, Rollout, Round, Sleep
+          Talk, Snore, Solar Beam, Strength, Substitute, Sunny Day, Superpower, Swagger,
+        Tackle, Take Down, Taunt, Thief, Thrash, Toxic, U-turn, Uproar, Will-O-Wisp,
+        Work Up, Yawn, Zen Headbutt, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Attract, Belly Drum, Brick Break, Dig, Double Team, Encore, Endure, Facade,
+        Fire Blast, Fire Fang, Fire Punch, Flame Charge, Flamethrower, Flame Wheel,
+        Flare Blitz, Fling, Focus Energy, Focus Punch, Frustration, Grass Knot, Gyro
+          Ball, Hammer Arm, Headbutt, Incinerate, Overheat, Protect, Rage, Rest, Return,
+        Roar, Rock Slide, Rock Smash, Rock Tomb, Rollout, Round, Sleep Talk, Solar
+          Beam, Strength, Substitute, Sunny Day, Superpower, Swagger, Tackle, Take
+          Down, Taunt, Thief, Thrash, Toxic, Uproar, U-turn, Will-O-Wisp, Work Up,
+        Yawn, Zen Headbutt, Snore, Heat Wave, Endeavor, Power-Up Punch, Confide, Snatch,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [70, 90, 45, 15, 45, 50]
+    tags:
+    - [LC]
+    types:
+    - [Fire]
+    weight: [37.5]

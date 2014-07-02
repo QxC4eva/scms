@@ -1,0 +1,120 @@
+pokemon:
+  Marshtomp:
+    abilities:
+    - [Torrent]
+    - bw: [Damp, Torrent]
+    egggroups:
+    - [Monster, Water 1]
+    evolvesFrom: [Mudkip]
+    height: [0.7]
+    introduction: rs
+    moves:
+    - bw: [Brick Break, Bulldoze, Earthquake, Fling, Ice Punch, Mud Shot, Muddy Water,
+        Stealth Rock, Seismic Toss]
+    - dp: [Brick Break, Earthquake, Fling, Ice Punch, Mud Shot, Muddy Water, Stealth
+          Rock, Seismic Toss]
+    - rs: [Counter, Dynamic Punch, Earthquake, Ice Punch, Mega Kick, Mega Punch, Mud
+          Shot, Muddy Water, Rock Slide]
+    - xy: [Brick Break, Bulldoze, Dynamic Punch, Earthquake, Fling, Ice Punch, Mega
+          Kick, Mega Punch, Muddy Water, Mud Shot, Seismic Toss, Stealth Rock, Power-Up
+          Punch]
+    stats:
+    - [70, 85, 70, 60, 70, 50]
+    tags:
+    - [NFE]
+    types:
+    - [Ground, Water]
+    weight: [28]
+  Mudkip:
+    abilities:
+    - [Torrent]
+    - bw: [Damp, Torrent]
+    egggroups:
+    - [Monster, Water 1]
+    height: [0.4]
+    introduction: rs
+    moves:
+    - bw: [Ancient Power, Aqua Tail, Attract, Avalanche, Bide, Bite, Blizzard, Counter,
+        Curse, Dig, Dive, Double-Edge, Double Team, Earth Power, Echoed Voice, Endeavor,
+        Facade, Foresight, Frustration, Growl, Hail, Hydro Pump, Ice Ball, Ice Beam,
+        Iron Tail, Low Kick, Mirror Coat, Mud Bomb, Mud-Slap, Mud Sport, Protect,
+        Rain Dance, Refresh, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Round,
+        Scald, Sleep Talk, Sludge, Sludge Wave, Snore, Stomp, Strength, Substitute,
+        Superpower, Surf, Swagger, Tackle, Take Down, Toxic, Uproar, Water Gun, Water
+          Pledge, Waterfall, Whirlpool, Wide Guard, Yawn, Body Slam, Mimic, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - dp: [Ancient Power, Aqua Tail, Attract, Bide, Bite, Blizzard, Captivate, Counter,
+        Curse, Dig, Dive, Double-Edge, Double Team, Earth Power, Endeavor, Endure,
+        Facade, Foresight, Frustration, Growl, Hail, Headbutt, Hydro Pump, Ice Ball,
+        Ice Beam, Iron Tail, Low Kick, Mirror Coat, Mud Bomb, Mud-Slap, Mud Sport,
+        Natural Gift, Protect, Rain Dance, Refresh, Rest, Return, Rock Slide, Rock
+          Smash, Rock Tomb, Rollout, Secret Power, Sleep Talk, Sludge, Snore, Stomp,
+        Strength, Substitute, Superpower, Surf, Swagger, Tackle, Take Down, Toxic,
+        Uproar, Water Gun, Water Pulse, Waterfall, Whirlpool, Yawn, Body Slam, Mimic,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - rs: [Attract, Bide, Blizzard, Curse, Defense Curl, Dig, Dive, Double-Edge, Double
+          Team, Endeavor, Endure, Facade, Foresight, Frustration, Growl, Hail, Hydro
+          Pump, Ice Ball, Ice Beam, Iron Tail, Mirror Coat, Mud-Slap, Mud Sport, Protect,
+        Rain Dance, Refresh, Rest, Return, Rock Smash, Rock Tomb, Rollout, Secret
+          Power, Sleep Talk, Snore, Stomp, Strength, Substitute, Surf, Swagger, Tackle,
+        Take Down, Toxic, Uproar, Water Gun, Water Pulse, Waterfall, Whirlpool, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - xy: [Ancient Power, Aqua Tail, Attract, Avalanche, Bide, Bite, Blizzard, Body
+          Slam, Captivate, Counter, Curse, Defense Curl, Dig, Dive, Double-Edge, Double
+          Team, Echoed Voice, Endeavor, Endure, Facade, Foresight, Frustration, Growl,
+        Hail, Headbutt, Hydro Pump, Ice Ball, Ice Beam, Icy Wind, Iron Tail, Low Kick,
+        Mimic, Mirror Coat, Mud Bomb, Mud-Slap, Mud Sport, Natural Gift, Protect,
+        Rain Dance, Refresh, Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout,
+        Round, Scald, Secret Power, Sleep Talk, Sludge, Sludge Wave, Snore, Stomp,
+        Strength, Substitute, Superpower, Surf, Swagger, Tackle, Take Down, Toxic,
+        Uproar, Waterfall, Water Gun, Water Pledge, Water Pulse, Whirlpool, Wide Guard,
+        Yawn, Earth Power, Confide, Barrier, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [50, 70, 50, 50, 50, 40]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Water]
+    weight: [7.6]
+  Swampert:
+    abilities:
+    - [Torrent]
+    - bw: [Damp, Torrent]
+    egggroups:
+    - [Monster, Water 1]
+    evolvesFrom: [Marshtomp]
+    height: [1.5]
+    introduction: rs
+    moves:
+    - bw: [Focus Blast, Giga Impact, Hammer Arm, Hydro Cannon, Hyper Beam, Outrage,
+        Roar, Stone Edge]
+    - dp: [Avalanche, Focus Blast, Focus Punch, Giga Impact, Hammer Arm, Hydro Cannon,
+        Hyper Beam, Outrage, Roar, Rock Climb, Stone Edge]
+    - rs: [Brick Break, Focus Punch, Hyper Beam, Roar]
+    - xy: [Focus Blast, Focus Punch, Giga Impact, Hammer Arm, Hydro Cannon, Hyper
+          Beam, Outrage, Roar, Rock Climb, Stone Edge]
+    stats:
+    - [100, 110, 90, 85, 90, 60]
+    tags:
+    - [OU]
+    - bw: [UU]
+    types:
+    - [Ground, Water]
+    weight: [81.9]

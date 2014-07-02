@@ -1,0 +1,58 @@
+pokemon:
+  Accelgor:
+    abilities:
+    - [Hydration, Sticky Hold, Unburden]
+    egggroups:
+    - [Bug]
+    evolvesFrom: [Shelmet]
+    height: [0.8]
+    introduction: bw
+    moves:
+    - bw: [Acid Spray, Agility, Focus Blast, Giga Impact, Hyper Beam, Knock Off, Me
+          First, Power Swap, Quick Attack, Sandstorm, Swift, U-turn]
+    - xy: [Acid Spray, Agility, Focus Blast, Giga Impact, Hyper Beam, Me First, Power
+          Swap, Quick Attack, Sandstorm, Swift, U-turn, Knock Off]
+    stats:
+    - [80, 70, 40, 100, 60, 145]
+    tags:
+    - [RU]
+    types:
+    - [Bug]
+    weight: [25.3]
+  Shelmet:
+    abilities:
+    - [Hydration, Overcoat, Shell Armor]
+    egggroups:
+    - [Bug]
+    height: [0.4]
+    introduction: bw
+    moves:
+    - bw: [Acid, Acid Armor, Attract, Baton Pass, Bide, Body Slam, Bug Bite, Bug Buzz,
+        Curse, Double-Edge, Double Team, Encore, Endure, Energy Ball, Facade, Feint,
+        Final Gambit, Frustration, Gastro Acid, Giga Drain, Guard Split, Guard Swap,
+        Leech Life, Mega Drain, Mind Reader, Mud-Slap, Protect, Pursuit, Rain Dance,
+        Recover, Rest, Return, Round, Signal Beam, Sleep Talk, Sludge Bomb, Snore,
+        Spikes, Struggle Bug, Substitute, Swagger, Toxic, Venoshock, Yawn, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - xy: [Acid, Acid Armor, Attract, Baton Pass, Bide, Body Slam, Bug Buzz, Curse,
+        Double-Edge, Double Team, Encore, Endure, Energy Ball, Facade, Feint, Final
+          Gambit, Frustration, Giga Drain, Guard Split, Guard Swap, Leech Life, Mega
+          Drain, Mind Reader, Mud-Slap, Protect, Pursuit, Rain Dance, Recover, Rest,
+        Return, Round, Sludge Bomb, Spikes, Struggle Bug, Substitute, Swagger, Toxic,
+        Venoshock, Yawn, Bug Bite, Signal Beam, Snore, Gastro Acid, Sleep Talk, Infestation,
+        Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [50, 40, 85, 40, 65, 25]
+    tags:
+    - [LC]
+    types:
+    - [Bug]
+    weight: [7.7]

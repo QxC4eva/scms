@@ -1,0 +1,46 @@
+pokemon:
+  Phantump:
+    abilities:
+    - [Natural Cure, Frisk, Harvest]
+    egggroups:
+    - [Grass, Amorphous]
+    height: [0.4]
+    introduction: xy
+    moves:
+    - xy: [Tackle, Confuse Ray, Astonish, Growth, Ingrain, Feint Attack, Leech Seed,
+        Curse, Will-O-Wisp, Forest's Curse, Destiny Bond, Phantom Force, Wood Hammer,
+        Horn Leech, Toxic, Sunny Day, Protect, Safeguard, Frustration, Solar Beam,
+        Return, Dig, Psychic, Shadow Ball, Double Team, Reflect, Facade, Rest, Attract,
+        Thief, Round, Energy Ball, Shadow Claw, Bulldoze, Rock Slide, Poison Jab,
+        Dream Eater, Grass Knot, Swagger, Sleep Talk, Substitute, Trick Room, Rock
+          Smash, Nature Power, Dark Pulse, Confide, Cut, Strength, Bestow, Grudge,
+        Imprison, Venom Drench, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [43, 70, 48, 50, 60, 38]
+    tags:
+    - []
+    types:
+    - [Ghost, Grass]
+    weight: [7]
+  Trevenant:
+    abilities:
+    - [Natural Cure, Frisk, Harvest]
+    egggroups:
+    - [Grass, Amorphous]
+    evolvesFrom: [Phantump]
+    height: [1.5]
+    introduction: xy
+    moves:
+    - xy: [Hone Claws, Calm Mind, Hyper Beam, Earthquake, Focus Blast, Giga Impact,
+        X-Scissor, Power-Up Punch]
+    stats:
+    - [85, 110, 76, 65, 82, 56]
+    tags:
+    - []
+    types:
+    - [Ghost, Grass]
+    weight: [71]

@@ -1,0 +1,79 @@
+pokemon:
+  Drifblim:
+    abilities:
+    - [Aftermath, Unburden]
+    - bw: [Aftermath, Flare Boost, Unburden]
+    egggroups:
+    - [Indeterminate]
+    evolvesFrom: [Drifloon]
+    height: [1.2]
+    introduction: dp
+    moves:
+    - bw: [Fly, Giga Impact, Hyper Beam]
+    - dp: [Fly, Giga Impact, Hyper Beam]
+    - xy: [Fly, Giga Impact, Hyper Beam, Phantom Force]
+    stats:
+    - [150, 80, 44, 90, 54, 80]
+    tags:
+    - [NU]
+    types:
+    - [Flying, Ghost]
+    weight: [15]
+  Drifloon:
+    abilities:
+    - [Aftermath, Unburden]
+    - bw: [Aftermath, Flare Boost, Unburden]
+    egggroups:
+    - [Indeterminate]
+    height: [0.4]
+    introduction: dp
+    moves:
+    - bw: [Acrobatics, Amnesia, Astonish, Attract, Baton Pass, Bind, Body Slam, Calm
+          Mind, Charge Beam, Clear Smog, Constrict, Cut, Defog, Destiny Bond, Disable,
+        Double Team, Dream Eater, Embargo, Explosion, Facade, Flash, Focus Energy,
+        Frustration, Gust, Gyro Ball, Haze, Hex, Hypnosis, Icy Wind, Knock Off, Magic
+          Coat, Memento, Minimize, Ominous Wind, Pain Split, Payback, Protect, Psych
+          Up, Psychic, Rain Dance, Recycle, Rest, Return, Round, Shadow Ball, Skill
+          Swap, Sleep Talk, Snore, Spit Up, Spite, Stockpile, Substitute, Sunny Day,
+        Swagger, Swallow, Tailwind, Telekinesis, Thief, Thunder, Thunder Wave, Thunderbolt,
+        Toxic, Trick, Weather Ball, Will-O-Wisp, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Air Cutter, Astonish, Attract, Baton Pass, Body Slam, Calm Mind, Captivate,
+        Charge Beam, Constrict, Cut, Defog, Destiny Bond, Disable, Double Team, Dream
+          Eater, Embargo, Endure, Explosion, Facade, Flash, Focus Energy, Frustration,
+        Gust, Gyro Ball, Haze, Hypnosis, Icy Wind, Knock Off, Magic Coat, Memento,
+        Minimize, Mud-Slap, Natural Gift, Ominous Wind, Pain Split, Payback, Protect,
+        Psych Up, Psychic, Rain Dance, Recycle, Rest, Return, Rollout, Secret Power,
+        Shadow Ball, Shock Wave, Silver Wind, Skill Swap, Sleep Talk, Snore, Spit
+          Up, Spite, Stockpile, Substitute, Sucker Punch, Sunny Day, Swagger, Swallow,
+        Swift, Tailwind, Thief, Thunder, Thunder Wave, Thunderbolt, Toxic, Trick,
+        Weather Ball, Will-O-Wisp, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Acrobatics, Air Cutter, Amnesia, Astonish, Attract, Baton Pass, Body Slam,
+        Calm Mind, Captivate, Charge Beam, Clear Smog, Constrict, Cut, Defog, Destiny
+          Bond, Disable, Double Team, Dream Eater, Embargo, Endure, Explosion, Facade,
+        Flash, Focus Energy, Frustration, Gust, Gyro Ball, Haze, Hex, Hypnosis, Icy
+          Wind, Knock Off, Magic Coat, Memento, Minimize, Mud-Slap, Natural Gift,
+        Ominous Wind, Pain Split, Payback, Protect, Psychic, Psych Up, Rain Dance,
+        Recycle, Rest, Return, Rollout, Round, Secret Power, Shadow Ball, Shock Wave,
+        Silver Wind, Skill Swap, Sleep Talk, Snore, Spite, Spit Up, Stockpile, Substitute,
+        Sucker Punch, Sunny Day, Swagger, Swallow, Swift, Tailwind, Telekinesis, Thief,
+        Thunder, Thunderbolt, Thunder Wave, Toxic, Trick, Weather Ball, Will-O-Wisp,
+        Bind, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [90, 50, 34, 60, 44, 70]
+    tags:
+    - [LC]
+    types:
+    - [Flying, Ghost]
+    weight: [1.2]

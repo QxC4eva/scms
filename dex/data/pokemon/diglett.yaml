@@ -1,0 +1,109 @@
+pokemon:
+  Diglett:
+    abilities:
+    - bw: [Arena Trap, Sand Force, Sand Veil]
+    - rs: [Arena Trap, Sand Veil]
+    - []
+    egggroups:
+    - [Ground]
+    height: [0.2]
+    introduction: rb
+    moves:
+    - gs: [Ancient Power, Attract, Beat Up, Curse, Cut, Dig, Double Team, Earthquake,
+        Endure, Feint Attack, Fissure, Frustration, Growl, Magnitude, Mud-Slap, Protect,
+        Pursuit, Rest, Return, Rock Smash, Sand Attack, Scratch, Screech, Slash, Sleep
+          Talk, Sludge Bomb, Snore, Sunny Day, Swagger, Thief, Toxic, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - bw: [Aerial Ace, Ancient Power, Astonish, Attract, Beat Up, Bulldoze, Cut, Dig,
+        Double-Edge, Double Team, Earth Power, Earthquake, Echoed Voice, Endure, Facade,
+        Feint Attack, Final Gambit, Fissure, Frustration, Fury Cutter, Growl, Headbutt,
+        Hone Claws, Magnitude, Memento, Mimic, Mud Bomb, Mud-Slap, Protect, Pursuit,
+        Rest, Return, Reversal, Rock Slide, Rock Smash, Rock Tomb, Round, Sand Attack,
+        Sandstorm, Scratch, Screech, Shadow Claw, Slash, Sleep Talk, Sludge Bomb,
+        Snore, Stealth Rock, Substitute, Sucker Punch, Sunny Day, Swagger, Thief,
+        Toxic, Uproar, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - dp: [Aerial Ace, Ancient Power, Astonish, Attract, Beat Up, Body Slam, Captivate,
+        Cut, Dig, Double-Edge, Double Team, Earth Power, Earthquake, Endure, Facade,
+        Feint Attack, Fissure, Frustration, Fury Cutter, Growl, Magnitude, Mimic,
+        Mud Bomb, Mud-Slap, Natural Gift, Protect, Pursuit, Rest, Return, Reversal,
+        Rock Slide, Rock Smash, Rock Tomb, Sand Attack, Sandstorm, Scratch, Screech,
+        Secret Power, Shadow Claw, Slash, Sleep Talk, Sludge Bomb, Snore, Stealth
+          Rock, Substitute, Sucker Punch, Sunny Day, Swagger, Thief, Toxic, Uproar,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - rs: [Aerial Ace, Ancient Power, Attract, Beat Up, Body Slam, Cut, Dig, Double-Edge,
+        Double Team, Earthquake, Endure, Facade, Feint Attack, Fissure, Frustration,
+        Fury Cutter, Fury Swipes, Growl, Magnitude, Mimic, Mud-Slap, Protect, Pursuit,
+        Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Sand Attack, Scratch, Screech,
+        Secret Power, Slash, Sleep Talk, Sludge Bomb, Snore, Substitute, Sunny Day,
+        Swagger, Thief, Toxic, Uproar, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rb: [Bide, Body Slam, Cut, Dig, Double-Edge, Double Team, Earthquake, Fissure,
+        Growl, Mimic, Rage, Rest, Rock Slide, Sand Attack, Scratch, Slash, Substitute,
+        Take Down, Toxic]
+    - xy: [Aerial Ace, Ancient Power, Astonish, Attract, Beat Up, Body Slam, Bulldoze,
+        Captivate, Cut, Dig, Double-Edge, Double Team, Earth Power, Earthquake, Echoed
+          Voice, Endure, Facade, Feint Attack, Final Gambit, Fissure, Frustration,
+        Fury Swipes, Growl, Headbutt, Hone Claws, Magnitude, Memento, Mimic, Mud Bomb,
+        Mud-Slap, Natural Gift, Protect, Pursuit, Rest, Return, Reversal, Rock Slide,
+        Rock Smash, Rock Tomb, Round, Sand Attack, Sandstorm, Scratch, Screech, Secret
+          Power, Shadow Claw, Slash, Sleep Talk, Sludge Bomb, Snore, Stealth Rock,
+        Substitute, Sucker Punch, Sunny Day, Swagger, Thief, Toxic, Uproar, Confide,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [10, 55, 25, 45, 45, 95]
+    - gs: [10, 55, 25, 35, 45, 95]
+    tags:
+    - [NFE]
+    types:
+    - [Ground]
+    weight: [0.8]
+  Dugtrio:
+    abilities:
+    - bw: [Arena Trap, Sand Force, Sand Veil]
+    - rs: [Arena Trap, Sand Veil]
+    - []
+    egggroups:
+    - [Ground]
+    evolvesFrom: [Diglett]
+    height: [0.7]
+    introduction: rb
+    moves:
+    - gs: [Hyper Beam, Tri Attack]
+    - bw: [Charm, Giga Impact, Hyper Beam, Night Slash, Sand Tomb, Sludge Wave, Stone
+          Edge, Tri Attack]
+    - dp: [Charm, Giga Impact, Hyper Beam, Night Slash, Sand Tomb, Stone Edge, Tri
+          Attack]
+    - rs: [Charm, Hyper Beam, Sand Tomb, Tri Attack]
+    - rb: [Hyper Beam]
+    - xy: [Charm, Giga Impact, Hyper Beam, Night Slash, Sand Tomb, Sludge Wave, Stone
+          Edge, Tri Attack, Rototiller]
+    stats:
+    - [35, 80, 50, 70, 70, 120]
+    - gs: [35, 80, 50, 50, 70, 120]
+    tags:
+    - [UU]
+    - bw: [OU]
+    - dp: [UU]
+    - rs: [OU]
+    types:
+    - [Ground]
+    weight: [33.3]

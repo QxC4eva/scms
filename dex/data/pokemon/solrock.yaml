@@ -1,0 +1,76 @@
+pokemon:
+  Solrock:
+    abilities:
+    - [Levitate]
+    - bw: [Levitate]
+    egggroups:
+    - [Mineral]
+    height: [1.2]
+    introduction: rs
+    moves:
+    - bw: [Acrobatics, Bulldoze, Calm Mind, Charge Beam, Confusion, Cosmic Power,
+        Double Team, Dream Eater, Earth Power, Earthquake, Embargo, Explosion, Facade,
+        Fire Blast, Fire Spin, Flamethrower, Flash, Frustration, Giga Impact, Grass
+          Knot, Gravity, Gyro Ball, Harden, Heal Block, Heat Wave, Helping Hand, Hyper
+          Beam, Incinerate, Iron Defense, Iron Head, Light Screen, Magic Coat, Overheat,
+        Pain Split, Protect, Psych Up, Psychic, Psyshock, Psywave, Recycle, Reflect,
+        Rest, Return, Rock Polish, Rock Slide, Rock Throw, Rock Tomb, Round, Safeguard,
+        Sandstorm, Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Smack Down, Snore,
+        Solar Beam, Stealth Rock, Stone Edge, Substitute, Sunny Day, Swagger, Tackle,
+        Telekinesis, Toxic, Trick Room, Will-O-Wisp, Wonder Room, Zen Headbutt, Baton
+          Pass, Body Slam, Double-Edge, Mimic, Self-Destruct, Hidden Power Bug, Hidden
+          Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Ancient Power, Calm Mind, Charge Beam, Confusion, Cosmic Power, Double
+          Team, Dream Eater, Earth Power, Earthquake, Embargo, Endure, Explosion,
+        Facade, Fire Blast, Fire Spin, Flamethrower, Flash, Frustration, Giga Impact,
+        Grass Knot, Gravity, Gyro Ball, Harden, Heal Block, Helping Hand, Hyper Beam,
+        Iron Defense, Iron Head, Light Screen, Magic Coat, Natural Gift, Overheat,
+        Pain Split, Protect, Psych Up, Psychic, Psywave, Recycle, Reflect, Rest, Return,
+        Rock Polish, Rock Slide, Rock Throw, Rock Tomb, Rollout, Safeguard, Sandstorm,
+        Secret Power, Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Snore, Solar
+          Beam, Stealth Rock, Stone Edge, Substitute, Sunny Day, Swagger, Swift, Tackle,
+        Toxic, Trick Room, Will-O-Wisp, Zen Headbutt, Baton Pass, Body Slam, Double-Edge,
+        Mimic, Self-Destruct, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - rs: [Calm Mind, Confusion, Cosmic Power, Defense Curl, Double Team, Dream Eater,
+        Earthquake, Endure, Explosion, Facade, Fire Blast, Fire Spin, Flamethrower,
+        Flash, Frustration, Harden, Hyper Beam, Light Screen, Overheat, Protect, Psych
+          Up, Psychic, Psywave, Reflect, Rest, Return, Rock Slide, Rock Throw, Rock
+          Tomb, Rollout, Safeguard, Sandstorm, Secret Power, Shadow Ball, Skill Swap,
+        Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day, Swagger, Swift, Tackle,
+        Toxic, Baton Pass, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - xy: [Acrobatics, Ancient Power, Baton Pass, Body Slam, Bulldoze, Calm Mind,
+        Charge Beam, Confusion, Cosmic Power, Defense Curl, Double-Edge, Double Team,
+        Dream Eater, Earth Power, Earthquake, Embargo, Endure, Explosion, Facade,
+        Fire Blast, Fire Spin, Flamethrower, Flash, Frustration, Giga Impact, Grass
+          Knot, Gravity, Gyro Ball, Harden, Heal Block, Helping Hand, Hyper Beam,
+        Incinerate, Iron Defense, Iron Head, Light Screen, Magic Coat, Mimic, Morning
+          Sun, Natural Gift, Overheat, Pain Split, Protect, Psychic, Psych Up, Psyshock,
+        Psywave, Recycle, Reflect, Rest, Return, Rock Polish, Rock Slide, Rock Throw,
+        Rock Tomb, Rollout, Round, Safeguard, Sandstorm, Secret Power, Self-Destruct,
+        Shadow Ball, Signal Beam, Skill Swap, Sleep Talk, Smack Down, Snore, Solar
+          Beam, Stealth Rock, Stone Edge, Substitute, Sunny Day, Swagger, Swift, Tackle,
+        Telekinesis, Toxic, Trick Room, Will-O-Wisp, Wonder Room, Zen Headbutt, Heat
+          Wave, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [70, 95, 85, 55, 65, 70]
+    tags:
+    - [UU]
+    - dp: [NU]
+    types:
+    - [Psychic, Rock]
+    weight: [154]

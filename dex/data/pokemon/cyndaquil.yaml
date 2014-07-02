@@ -1,0 +1,130 @@
+pokemon:
+  Cyndaquil:
+    abilities:
+    - bw: [Blaze, Flash Fire]
+    - rs: [Blaze]
+    - []
+    egggroups:
+    - [Ground]
+    height: [0.5]
+    introduction: gs
+    moves:
+    - gs: [Attract, Curse, Cut, Defense Curl, Detect, Dig, Double Team, Ember, Endure,
+        Fire Blast, Flame Wheel, Flamethrower, Foresight, Frustration, Fury Swipes,
+        Headbutt, Iron Tail, Leer, Mud-Slap, Protect, Quick Attack, Rest, Return,
+        Reversal, Rollout, Sleep Talk, Smokescreen, Snore, Submission, Sunny Day,
+        Swagger, Swift, Tackle, Thrash, Toxic, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - bw: [Aerial Ace, Attract, Covet, Crush Claw, Cut, Defense Curl, Dig, Double-Edge,
+        Double Kick, Double Team, Ember, Eruption, Extrasensory, Facade, Fire Blast,
+        Fire Pledge, Flame Burst, Flame Charge, Flame Wheel, Flamethrower, Flare Blitz,
+        Foresight, Frustration, Fury Swipes, Heat Wave, Howl, Incinerate, Inferno,
+        Lava Plume, Leer, Nature Power, Overheat, Protect, Quick Attack, Rest, Return,
+        Reversal, Rollout, Round, Sleep Talk, Smokescreen, Snore, Substitute, Sunny
+          Day, Swagger, Swift, Tackle, Thrash, Toxic, Wild Charge, Will-O-Wisp, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - dp: [Aerial Ace, Attract, Captivate, Covet, Crush Claw, Cut, Defense Curl, Dig,
+        Double-Edge, Double Kick, Double Team, Ember, Endure, Eruption, Extrasensory,
+        Facade, Fire Blast, Flame Wheel, Flamethrower, Flare Blitz, Foresight, Frustration,
+        Fury Swipes, Headbutt, Heat Wave, Howl, Lava Plume, Leer, Mud-Slap, Natural
+          Gift, Overheat, Protect, Quick Attack, Rest, Return, Reversal, Rollout,
+        Secret Power, Sleep Talk, Smokescreen, Snore, Substitute, Sunny Day, Swagger,
+        Swift, Tackle, Thrash, Toxic, Will-O-Wisp, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Attract, Body Slam, Covet, Crush Claw, Cut, Defense Curl, Dig,
+        Double-Edge, Double Team, Ember, Endure, Facade, Fire Blast, Flame Wheel,
+        Flamethrower, Foresight, Frustration, Fury Swipes, Howl, Leer, Mimic, Mud-Slap,
+        Overheat, Protect, Quick Attack, Rest, Return, Reversal, Rollout, Secret Power,
+        Sleep Talk, Smokescreen, Snore, Substitute, Sunny Day, Swagger, Swift, Tackle,
+        Thrash, Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - xy: [Aerial Ace, Attract, Body Slam, Captivate, Covet, Crush Claw, Cut, Defense
+          Curl, Dig, Double-Edge, Double Kick, Double Team, Ember, Endure, Eruption,
+        Extrasensory, Facade, Fire Blast, Fire Pledge, Flame Burst, Flame Charge,
+        Flamethrower, Flame Wheel, Flare Blitz, Foresight, Frustration, Fury Swipes,
+        Headbutt, Heat Wave, Howl, Incinerate, Inferno, Lava Plume, Leer, Mimic, Mud-Slap,
+        Natural Gift, Nature Power, Overheat, Protect, Quick Attack, Rest, Return,
+        Reversal, Rollout, Round, Secret Power, Sleep Talk, Smokescreen, Snore, Substitute,
+        Sunny Day, Swagger, Swift, Tackle, Thrash, Toxic, Wild Charge, Will-O-Wisp,
+        Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [39, 52, 43, 60, 50, 65]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Fire]
+    weight: [7.9]
+  Quilava:
+    abilities:
+    - bw: [Blaze, Flash Fire]
+    - rs: [Blaze]
+    - []
+    egggroups:
+    - [Ground]
+    evolvesFrom: [Cyndaquil]
+    height: [0.9]
+    introduction: gs
+    moves:
+    - gs: [Fury Cutter, Roar, Rock Smash, Strength]
+    - bw: [Brick Break, Roar, Rock Smash, Strength]
+    - dp: [Brick Break, Focus Punch, Fury Cutter, Roar, Rock Smash, Strength]
+    - rs: [Brick Break, Focus Punch, Fury Cutter, Roar, Rock Smash, Strength]
+    - xy: [Brick Break, Focus Punch, Fury Cutter, Roar, Rock Smash, Strength]
+    stats:
+    - [58, 64, 58, 80, 65, 80]
+    tags:
+    - [NFE]
+    types:
+    - [Fire]
+    weight: [19]
+  Typhlosion:
+    abilities:
+    - bw: [Blaze, Flash Fire]
+    - rs: [Blaze]
+    - []
+    egggroups:
+    - [Ground]
+    evolvesFrom: [Quilava]
+    height: [1.7]
+    introduction: gs
+    moves:
+    - gs: [Dynamic Punch, Earthquake, Fire Punch, Hyper Beam, Thunder Punch]
+    - bw: [Blast Burn, Bulldoze, Earthquake, Fire Punch, Fling, Focus Blast, Giga
+          Impact, Gyro Ball, Hyper Beam, Low Kick, Rock Slide, Rock Tomb, Shadow Claw,
+        Solar Beam, Thunder Punch]
+    - dp: [Blast Burn, Earthquake, Fire Punch, Fling, Focus Blast, Giga Impact, Gyro
+          Ball, Hyper Beam, Low Kick, Rock Climb, Rock Slide, Rock Tomb, Shadow Claw,
+        Solar Beam, Thunder Punch]
+    - rs: [Counter, Dynamic Punch, Earthquake, Fire Punch, Hyper Beam, Mega Kick,
+        Mega Punch, Rock Slide, Seismic Toss, Thunder Punch]
+    - xy: [Blast Burn, Bulldoze, Counter, Dynamic Punch, Earthquake, Fire Punch, Fling,
+        Focus Blast, Giga Impact, Gyro Ball, Hyper Beam, Low Kick, Mega Kick, Mega
+          Punch, Rock Climb, Rock Slide, Rock Tomb, Seismic Toss, Shadow Claw, Solar
+          Beam, Thunder Punch, Power-Up Punch]
+    stats:
+    - [78, 84, 78, 109, 85, 100]
+    tags:
+    - [BL]
+    - bw: [RU]
+    - dp: [NU]
+    types:
+    - [Fire]
+    weight: [79.5]

@@ -1,0 +1,61 @@
+pokemon:
+  Cottonee:
+    abilities:
+    - [Chlorophyll, Infiltrator, Prankster]
+    egggroups:
+    - [Fairy, Plant]
+    height: [0.3]
+    introduction: bw
+    moves:
+    - bw: [Absorb, Attract, Beat Up, Charm, Cotton Guard, Cotton Spore, Covet, Double
+          Team, Dream Eater, Encore, Endeavor, Energy Ball, Facade, Fake Tears, Flash,
+        Frustration, Giga Drain, Grass Knot, Grass Whistle, Growth, Helping Hand,
+        Knock Off, Leech Seed, Mega Drain, Memento, Natural Gift, Poison Powder, Protect,
+        Razor Leaf, Rest, Return, Round, Safeguard, Seed Bomb, Sleep Talk, Snore,
+        Solar Beam, Stun Spore, Substitute, Sunny Day, Swagger, Switcheroo, Tailwind,
+        Taunt, Tickle, Toxic, Worry Seed, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Absorb, Attract, Beat Up, Charm, Cotton Guard, Cotton Spore, Double Team,
+        Dream Eater, Encore, Endeavor, Energy Ball, Facade, Fake Tears, Flash, Frustration,
+        Giga Drain, Grass Knot, Grass Whistle, Growth, Helping Hand, Leech Seed, Mega
+          Drain, Memento, Natural Gift, Poison Powder, Protect, Razor Leaf, Rest,
+        Return, Round, Safeguard, Solar Beam, Stun Spore, Substitute, Sunny Day, Swagger,
+        Switcheroo, Taunt, Tickle, Toxic, Worry Seed, Covet, Seed Bomb, Snore, Knock
+          Off, Tailwind, Sleep Talk, Fairy Wind, Nature Power, Dazzling Gleam, Confide,
+        Captivate, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [40, 27, 60, 37, 50, 66]
+    tags:
+    - [LC]
+    types:
+    - [Grass]
+    - xy: [Grass, Fairy]
+    weight: [0.6]
+  Whimsicott:
+    abilities:
+    - [Chlorophyll, Infiltrator, Prankster]
+    egggroups:
+    - [Fairy, Plant]
+    evolvesFrom: [Cottonee]
+    height: [0.7]
+    introduction: bw
+    moves:
+    - bw: [Fling, Giga Impact, Gust, Hurricane, Hyper Beam, Light Screen, Psychic,
+        Shadow Ball, Thief, Trick Room, U-turn]
+    - xy: [Fling, Giga Impact, Gust, Hurricane, Hyper Beam, Light Screen, Psychic,
+        Shadow Ball, Thief, Trick Room, U-turn, Moonblast]
+    stats:
+    - [60, 67, 85, 77, 75, 116]
+    tags:
+    - [RU]
+    types:
+    - [Grass]
+    - xy: [Grass, Fairy]
+    weight: [6.6]

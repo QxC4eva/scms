@@ -1,0 +1,91 @@
+pokemon:
+  Lapras:
+    abilities:
+    - bw: [Hydration, Shell Armor, Water Absorb]
+    - rs: [Shell Armor, Water Absorb]
+    - []
+    egggroups:
+    - [Monster, Water 1]
+    height: [2.5]
+    introduction: rb
+    moves:
+    - gs: [Attract, Aurora Beam, Blizzard, Body Slam, Confuse Ray, Curse, Double Team,
+        Dragon Breath, Dream Eater, Endure, Foresight, Frustration, Growl, Headbutt,
+        Hydro Pump, Hyper Beam, Ice Beam, Icy Wind, Iron Tail, Mist, Nightmare, Perish
+          Song, Protect, Psychic, Rain Dance, Rest, Return, Rock Smash, Safeguard,
+        Sing, Sleep Talk, Snore, Strength, Surf, Swagger, Thunder, Thunderbolt, Toxic,
+        Water Gun, Whirlpool, Zap Cannon, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - bw: [Ancient Power, Aqua Tail, Attract, Avalanche, Blizzard, Block, Body Slam,
+        Brine, Bulldoze, Confuse Ray, Curse, Dive, Double Team, Dragon Dance, Dragon
+          Pulse, Dream Eater, Drill Run, Echoed Voice, Facade, Fissure, Foresight,
+        Frost Breath, Frustration, Future Sight, Giga Impact, Growl, Hail, Horn Drill,
+        Hydro Pump, Hyper Beam, Hyper Voice, Ice Beam, Ice Shard, Iron Head, Iron
+          Tail, Mist, Outrage, Perish Song, Protect, Psychic, Rain Dance, Refresh,
+        Rest, Return, Roar, Rock Smash, Round, Safeguard, Sheer Cold, Signal Beam,
+        Sing, Sleep Talk, Snore, Strength, Substitute, Surf, Swagger, Thunder, Thunderbolt,
+        Tickle, Toxic, Water Gun, Water Pulse, Waterfall, Whirlpool, Zen Headbutt,
+        Double-Edge, Mimic, Nightmare, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Ancient Power, Aqua Tail, Attract, Avalanche, Blizzard, Block, Body Slam,
+        Brine, Captivate, Confuse Ray, Curse, Dive, Double Team, Dragon Dance, Dragon
+          Pulse, Dream Eater, Endure, Facade, Fissure, Foresight, Frustration, Giga
+          Impact, Growl, Hail, Headbutt, Horn Drill, Hydro Pump, Hyper Beam, Ice Beam,
+        Ice Shard, Iron Head, Iron Tail, Mist, Natural Gift, Outrage, Perish Song,
+        Protect, Psychic, Rain Dance, Refresh, Rest, Return, Roar, Rock Smash, Safeguard,
+        Secret Power, Sheer Cold, Shock Wave, Signal Beam, Sing, Sleep Talk, Snore,
+        Strength, Substitute, Surf, Swagger, Thunder, Thunderbolt, Tickle, Toxic,
+        Water Gun, Water Pulse, Waterfall, Whirlpool, Zen Headbutt, Double-Edge, Mimic,
+        Nightmare, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - rs: [Attract, Blizzard, Body Slam, Confuse Ray, Curse, Dive, Double Team, Dragon
+          Dance, Dream Eater, Endure, Facade, Foresight, Frustration, Growl, Hail,
+        Horn Drill, Hydro Pump, Hyper Beam, Ice Beam, Iron Tail, Mist, Perish Song,
+        Protect, Psychic, Rain Dance, Refresh, Rest, Return, Roar, Rock Smash, Safeguard,
+        Secret Power, Sheer Cold, Shock Wave, Sing, Sleep Talk, Snore, Strength, Substitute,
+        Surf, Swagger, Thunder, Thunderbolt, Tickle, Toxic, Water Gun, Water Pulse,
+        Waterfall, Heal Bell, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - rb: [Bide, Blizzard, Body Slam, Bubble Beam, Confuse Ray, Double-Edge, Double
+          Team, Dragon Rage, Growl, Horn Drill, Hydro Pump, Hyper Beam, Ice Beam,
+        Mimic, Mist, Psychic, Psywave, Rage, Reflect, Rest, Sing, Skull Bash, Solar
+          Beam, Strength, Substitute, Surf, Take Down, Thunder, Thunderbolt, Toxic,
+        Water Gun]
+    - xy: [Ancient Power, Aqua Tail, Attract, Avalanche, Blizzard, Block, Body Slam,
+        Brine, Bulldoze, Captivate, Confuse Ray, Curse, Dive, Double-Edge, Double
+          Team, Dragon Dance, Dragon Pulse, Dream Eater, Echoed Voice, Endure, Facade,
+        Fissure, Foresight, Frost Breath, Frustration, Future Sight, Giga Impact,
+        Growl, Hail, Headbutt, Heal Bell, Horn Drill, Hydro Pump, Hyper Beam, Ice
+          Beam, Ice Shard, Icy Wind, Iron Head, Iron Tail, Mimic, Mist, Natural Gift,
+        Nightmare, Outrage, Perish Song, Protect, Psychic, Rain Dance, Refresh, Rest,
+        Return, Roar, Rock Smash, Round, Safeguard, Secret Power, Sheer Cold, Shock
+          Wave, Signal Beam, Sing, Sleep Talk, Snore, Strength, Substitute, Surf,
+        Swagger, Thunder, Thunderbolt, Tickle, Toxic, Waterfall, Water Gun, Water
+          Pulse, Whirlpool, Zen Headbutt, Drill Run, Hyper Voice, Confide, Freeze-Dry,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    stats:
+    - [130, 85, 80, 95, 95, 60]
+    - gs: [130, 85, 80, 85, 95, 60]
+    tags:
+    - [OU]
+    - dp: [NU]
+      gs: [BL]
+    types:
+    - [Ice, Water]
+    weight: [220]

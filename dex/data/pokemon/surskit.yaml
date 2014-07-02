@@ -1,0 +1,90 @@
+pokemon:
+  Masquerain:
+    abilities:
+    - [Intimidate]
+    - bw: [Intimidate, Unnerve]
+    egggroups:
+    - [Bug, Water 1]
+    evolvesFrom: [Surskit]
+    height: [0.8]
+    introduction: rs
+    moves:
+    - bw: [Aerial Ace, Air Slash, Bug Buzz, Energy Ball, Giga Impact, Gust, Hyper
+          Beam, Ominous Wind, Quiver Dance, Roost, Scary Face, Silver Wind, Stun Spore,
+        Tailwind, U-turn, Whirlwind, Nightmare]
+    - dp: [Aerial Ace, Air Cutter, Air Slash, Bug Buzz, Defog, Energy Ball, Giga Impact,
+        Gust, Hyper Beam, Ominous Wind, Roost, Scary Face, Silver Wind, Stun Spore,
+        Tailwind, Twister, U-turn, Whirlwind, Nightmare]
+    - rs: [Aerial Ace, Gust, Hyper Beam, Scary Face, Silver Wind, Stun Spore, Whirlwind]
+    - xy: [Aerial Ace, Air Cutter, Air Slash, Bug Buzz, Defog, Energy Ball, Giga Impact,
+        Gust, Hyper Beam, Nightmare, Ominous Wind, Quiver Dance, Roost, Scary Face,
+        Silver Wind, Stun Spore, Tailwind, Twister, U-turn, Whirlwind]
+    stats:
+    - [70, 60, 62, 80, 82, 60]
+    tags:
+    - [NU]
+    types:
+    - [Bug, Flying]
+    weight: [3.6]
+  Surskit:
+    abilities:
+    - [Swift Swim]
+    - bw: [Rain Dish, Swift Swim]
+    egggroups:
+    - [Bug, Water 1]
+    height: [0.5]
+    introduction: rs
+    moves:
+    - bw: [Agility, Aqua Jet, Attract, Baton Pass, Blizzard, Bubble, Bubble Beam,
+        Bug Bite, Double Team, Endure, Facade, Flash, Foresight, Frustration, Giga
+          Drain, Haze, Hydro Pump, Ice Beam, Mind Reader, Mist, Mud Shot, Protect,
+        Psybeam, Psych Up, Quick Attack, Rain Dance, Rest, Return, Round, Scald, Shadow
+          Ball, Signal Beam, Sleep Talk, Snore, Solar Beam, Struggle Bug, Substitute,
+        Sunny Day, Swagger, Sweet Scent, Thief, Toxic, Water Sport, Double-Edge, Mimic,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - dp: [Agility, Attract, Baton Pass, Blizzard, Bubble, Bubble Beam, Bug Bite,
+        Captivate, Double Team, Endure, Facade, Flash, Foresight, Frustration, Giga
+          Drain, Haze, Hydro Pump, Ice Beam, Mind Reader, Mist, Mud Shot, Mud-Slap,
+        Natural Gift, Protect, Psybeam, Psych Up, Quick Attack, Rain Dance, Rest,
+        Return, Secret Power, Shadow Ball, Signal Beam, Sleep Talk, Snore, Solar Beam,
+        String Shot, Substitute, Sunny Day, Swagger, Sweet Scent, Swift, Thief, Toxic,
+        Water Pulse, Water Sport, Double-Edge, Mimic, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Agility, Attract, Blizzard, Bubble, Bubble Beam, Double Team, Endure, Facade,
+        Flash, Foresight, Frustration, Giga Drain, Haze, Hydro Pump, Ice Beam, Mind
+          Reader, Mist, Mud Shot, Protect, Psybeam, Psych Up, Quick Attack, Rain Dance,
+        Rest, Return, Secret Power, Shadow Ball, Sleep Talk, Snore, Solar Beam, Substitute,
+        Sunny Day, Swagger, Sweet Scent, Swift, Thief, Toxic, Water Pulse, Water Sport,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - xy: [Agility, Aqua Jet, Attract, Baton Pass, Blizzard, Bubble, Bubble Beam,
+        Bug Bite, Captivate, Double-Edge, Double Team, Endure, Facade, Flash, Foresight,
+        Frustration, Giga Drain, Haze, Hydro Pump, Ice Beam, Icy Wind, Mimic, Mind
+          Reader, Mist, Mud Shot, Mud-Slap, Mud Sport, Natural Gift, Protect, Psybeam,
+        Psych Up, Quick Attack, Rain Dance, Rest, Return, Round, Scald, Secret Power,
+        Shadow Ball, Signal Beam, Sleep Talk, Snore, Solar Beam, String Shot, Struggle
+          Bug, Substitute, Sunny Day, Swagger, Sweet Scent, Swift, Thief, Toxic, Water
+          Pulse, Water Sport, Sticky Web, Infestation, Confide, Power Split, Fell
+          Stinger, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [40, 30, 32, 50, 52, 65]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Bug, Water]
+    weight: [1.7]

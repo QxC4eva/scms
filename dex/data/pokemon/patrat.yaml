@@ -1,0 +1,67 @@
+pokemon:
+  Patrat:
+    abilities:
+    - [Keen Eye, Run Away]
+    - bw: [Analytic, Keen Eye, Run Away]
+    egggroups:
+    - [Ground]
+    height: [0.5]
+    introduction: dp
+    moves:
+    - bw: [After You, Aqua Tail, Assurance, Attract, Baton Pass, Bide, Bite, Covet,
+        Crunch, Cut, Detect, Dig, Double Team, Endeavor, Facade, Flail, Fling, Foresight,
+        Frustration, Grass Knot, Gunk Shot, Helping Hand, Hyper Fang, Hypnosis, Iron
+          Tail, Last Resort, Leer, Low Kick, Mean Look, Protect, Pursuit, Rain Dance,
+        Rest, Retaliate, Return, Revenge, Round, Sand Attack, Screech, Seed Bomb,
+        Shadow Ball, Slam, Sleep Talk, Snore, Substitute, Sunny Day, Super Fang, Swagger,
+        Swords Dance, Tackle, Thunderbolt, Toxic, Work Up, Zen Headbutt, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - xy: [After You, Assurance, Attract, Baton Pass, Bide, Bite, Crunch, Cut, Detect,
+        Dig, Double Team, Facade, Flail, Fling, Foresight, Frustration, Grass Knot,
+        Hyper Fang, Hypnosis, Iron Tail, Leer, Mean Look, Protect, Pursuit, Rain Dance,
+        Rest, Retaliate, Return, Revenge, Round, Sand Attack, Screech, Shadow Ball,
+        Slam, Substitute, Sunny Day, Super Fang, Swagger, Swords Dance, Tackle, Thunderbolt,
+        Toxic, Work Up, Covet, Seed Bomb, Low Kick, Gunk Shot, Last Resort, Aqua Tail,
+        Zen Headbutt, Snore, Helping Hand, Endeavor, Sleep Talk, Confide, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - []
+    stats:
+    - [45, 55, 39, 35, 39, 42]
+    tags:
+    - [LC]
+    types:
+    - [Normal]
+    weight: [11.6]
+  Watchog:
+    abilities:
+    - [Illuminate, Keen Eye]
+    - bw: [Analytic, Illuminate, Keen Eye]
+    egggroups:
+    - [Ground]
+    evolvesFrom: [Patrat]
+    height: [1.1]
+    introduction: dp
+    moves:
+    - bw: [Confuse Ray, Dream Eater, Fire Punch, Flamethrower, Flash, Focus Blast,
+        Giga Impact, Hyper Beam, Ice Punch, Knock Off, Light Screen, Psych Up, Rock
+          Smash, Signal Beam, Strength, Thunder, Thunder Wave, Thunder Punch]
+    - xy: [Confuse Ray, Dream Eater, Flamethrower, Flash, Focus Blast, Giga Impact,
+        Hyper Beam, Light Screen, Psych Up, Rock Smash, Strength, Thunder, Thunder
+          Wave, Signal Beam, Thunder Punch, Fire Punch, Ice Punch, Knock Off, Rototiller,
+        Power-Up Punch]
+    - []
+    stats:
+    - [60, 85, 69, 60, 69, 77]
+    tags:
+    - [NU]
+    types:
+    - [Normal]
+    weight: [27]

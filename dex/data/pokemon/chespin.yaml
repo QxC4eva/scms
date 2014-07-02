@@ -1,0 +1,65 @@
+pokemon:
+  Chesnaught:
+    abilities:
+    - [Overgrow, Bulletproof]
+    egggroups:
+    - [Field]
+    evolvesFrom: [Quilladin]
+    height: [1.6]
+    introduction: xy
+    moves:
+    - xy: [Feint, Hammer Arm, Spiky Shield, Giga Impact, Dragon Claw, Hyper Beam,
+        Earthquake, Focus Blast, Frenzy Plant]
+    stats:
+    - [88, 107, 122, 74, 75, 64]
+    tags:
+    - []
+    types:
+    - [Grass, Fighting]
+    weight: [90]
+  Chespin:
+    abilities:
+    - [Overgrow, Bulletproof]
+    egggroups:
+    - [Field]
+    height: [0.4]
+    introduction: xy
+    moves:
+    - xy: [Tackle, Growl, Vine Whip, Rollout, Bite, Leech Seed, Pin Missile, Take
+          Down, Seed Bomb, Mud Shot, Bulk Up, Body Slam, Pain Split, Wood Hammer,
+        Roar, Toxic, Sunny Day, Taunt, Protect, Frustration, Solar Beam, Smack Down,
+        Return, Dig, Brick Break, Double Team, Reflect, Sludge Bomb, Rock Tomb, Aerial
+          Ace, Facade, Rest, Attract, Low Sweep, Round, Energy Ball, Fling, Shadow
+          Claw, Payback, Retaliate, Flash, Stone Edge, Gyro Ball, Swords Dance, Bulldoze,
+        Rock Slide, Poison Jab, Grass Knot, Swagger, Sleep Talk, Substitute, Rock
+          Smash, Nature Power, Power-Up Punch, Confide, Cut, Strength, Grass Pledge,
+        Quick Guard, Curse, Spikes, Synthesis, Belly Drum, Defense Curl, Hidden Power
+          Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden
+          Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost,
+        Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [56, 61, 65, 48, 45, 38]
+    tags:
+    - []
+    types:
+    - [Grass]
+    weight: [9]
+  Quilladin:
+    abilities:
+    - [Overgrow, Bulletproof]
+    egggroups:
+    - [Field]
+    evolvesFrom: [Chespin]
+    height: [0.7]
+    introduction: xy
+    moves:
+    - xy: [Needle Arm, Hone Claws]
+    stats:
+    - [61, 78, 95, 56, 58, 57]
+    tags:
+    - []
+    types:
+    - [Grass]
+    weight: [29]

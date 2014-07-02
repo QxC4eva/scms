@@ -1,0 +1,89 @@
+pokemon:
+  Celebi:
+    abilities:
+    - bw: [Natural Cure]
+    - rs: [Natural Cure]
+    - []
+    egggroups:
+    - []
+    height: [0.6]
+    introduction: gs
+    moves:
+    - gs: [Ancient Power, Baton Pass, Confusion, Curse, Defense Curl, Detect, Double
+          Team, Dream Eater, Endure, Flash, Frustration, Future Sight, Giga Drain,
+        Heal Bell, Hyper Beam, Leech Seed, Mud-Slap, Nightmare, Perish Song, Protect,
+        Psych Up, Psychic, Rain Dance, Recover, Rest, Return, Safeguard, Sandstorm,
+        Shadow Ball, Sleep Talk, Snore, Solar Beam, Sunny Day, Swagger, Sweet Scent,
+        Swift, Toxic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - bw: [Aerial Ace, Ancient Power, Baton Pass, Body Slam, Calm Mind, Charge Beam,
+        Confusion, Cut, Double Team, Dream Eater, Earth Power, Echoed Voice, Energy
+          Ball, Facade, Flash, Fling, Frustration, Future Sight, Giga Drain, Giga
+          Impact, Grass Knot, Heal Bell, Heal Block, Healing Wish, Helping Hand, Hyper
+          Beam, Last Resort, Leaf Storm, Leech Seed, Light Screen, Magic Coat, Magic
+          Room, Magical Leaf, Mimic, Natural Gift, Perish Song, Protect, Psych Up,
+        Psychic, Rain Dance, Recover, Reflect, Rest, Return, Round, Safeguard, Sandstorm,
+        Seed Bomb, Shadow Ball, Shock Wave, Signal Beam, Skill Swap, Sleep Talk, Snore,
+        Solar Beam, Stealth Rock, Substitute, Sunny Day, Swagger, Swords Dance, Synthesis,
+        Thunder Wave, Toxic, Trick, Trick Room, U-turn, Uproar, Wonder Room, Worry
+          Seed, Zen Headbutt, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - dp: [Aerial Ace, Ancient Power, Baton Pass, Body Slam, Calm Mind, Charge Beam,
+        Confusion, Cut, Double Team, Dream Eater, Earth Power, Endure, Energy Ball,
+        Facade, Flash, Fling, Frustration, Future Sight, Giga Drain, Giga Impact,
+        Grass Knot, Heal Bell, Heal Block, Healing Wish, Helping Hand, Hyper Beam,
+        Last Resort, Leaf Storm, Leech Seed, Light Screen, Magic Coat, Magical Leaf,
+        Mimic, Mud-Slap, Natural Gift, Perish Song, Protect, Psych Up, Psychic, Rain
+          Dance, Recover, Reflect, Rest, Return, Safeguard, Sandstorm, Secret Power,
+        Seed Bomb, Shadow Ball, Shock Wave, Signal Beam, Silver Wind, Skill Swap,
+        Sleep Talk, Snore, Solar Beam, Stealth Rock, Substitute, Sucker Punch, Sunny
+          Day, Swagger, Swift, Swords Dance, Synthesis, Thunder Wave, Toxic, Trick,
+        Trick Room, U-turn, Uproar, Water Pulse, Worry Seed, Zen Headbutt, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - rs: [Aerial Ace, Ancient Power, Baton Pass, Body Slam, Calm Mind, Confusion,
+        Cut, Defense Curl, Double-Edge, Double Team, Dream Eater, Endure, Facade,
+        Flash, Frustration, Future Sight, Giga Drain, Heal Bell, Hyper Beam, Leech
+          Seed, Light Screen, Metronome, Mimic, Mud-Slap, Nightmare, Perish Song,
+        Protect, Psych Up, Psychic, Rain Dance, Recover, Reflect, Rest, Return, Safeguard,
+        Sandstorm, Secret Power, Shadow Ball, Shock Wave, Skill Swap, Sleep Talk,
+        Snore, Solar Beam, Substitute, Sunny Day, Swagger, Swift, Swords Dance, Toxic,
+        Water Pulse, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - xy: [Aerial Ace, Ancient Power, Baton Pass, Calm Mind, Charge Beam, Confusion,
+        Cut, Defense Curl, Double-Edge, Double Team, Dream Eater, Earth Power, Echoed
+          Voice, Endure, Energy Ball, Facade, Flash, Fling, Frustration, Future Sight,
+        Giga Drain, Giga Impact, Grass Knot, Heal Bell, Heal Block, Healing Wish,
+        Helping Hand, Hyper Beam, Last Resort, Leaf Storm, Leech Seed, Light Screen,
+        Magical Leaf, Magic Coat, Metronome, Mimic, Mud-Slap, Nasty Plot, Natural
+          Gift, Nightmare, Perish Song, Protect, Psychic, Psych Up, Rain Dance, Recover,
+        Reflect, Rest, Return, Round, Safeguard, Sandstorm, Secret Power, Seed Bomb,
+        Shadow Ball, Shock Wave, Signal Beam, Silver Wind, Skill Swap, Sleep Talk,
+        Snore, Solar Beam, Stealth Rock, Substitute, Sucker Punch, Sunny Day, Swagger,
+        Swift, Swords Dance, Synthesis, Thunder Wave, Toxic, Trick, Trick Room, Uproar,
+        U-turn, Water Pulse, Worry Seed, Zen Headbutt, Magic Room, Wonder Room, Nature
+          Power, Dazzling Gleam, Confide, Hold Back, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [100, 100, 100, 100, 100, 100]
+    tags:
+    - [Uber]
+    - rs: [OU]
+    types:
+    - [Grass, Psychic]
+    weight: [5]

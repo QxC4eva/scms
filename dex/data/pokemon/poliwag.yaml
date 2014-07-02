@@ -1,0 +1,168 @@
+pokemon:
+  Politoed:
+    abilities:
+    - bw: [Damp, Drizzle, Water Absorb]
+    - rs: [Damp, Water Absorb]
+    - []
+    egggroups:
+    - [Water 1]
+    evolvesFrom: [Poliwhirl]
+    height: [1.1]
+    introduction: gs
+    moves:
+    - gs: [Dynamic Punch, Hyper Beam, Perish Song]
+    - bw: [Bounce, Echoed Voice, Focus Blast, Giga Impact, Hyper Beam, Hyper Voice,
+        Payback, Perish Song]
+    - dp: [Bounce, Focus Blast, Giga Impact, Hyper Beam, Hyper Voice, Payback, Perish
+          Song]
+    - rs: [Dynamic Punch, Hyper Beam, Perish Song]
+    - xy: [Bounce, Dynamic Punch, Echoed Voice, Focus Blast, Giga Impact, Hyper Beam,
+        Hyper Voice, Payback, Perish Song]
+    stats:
+    - [90, 75, 75, 90, 100, 70]
+    tags:
+    - [UU]
+    - bw: [OU]
+      dp: [NU]
+    types:
+    - [Water]
+    weight: [33.9]
+  Poliwag:
+    abilities:
+    - bw: [Damp, Swift Swim, Water Absorb]
+    - rs: [Damp, Water Absorb]
+    - []
+    egggroups:
+    - [Water 1]
+    height: [0.6]
+    introduction: rb
+    moves:
+    - gs: [Attract, Belly Drum, Blizzard, Body Slam, Bubble, Bubble Beam, Curse, Defense
+          Curl, Double Team, Double Slap, Endure, Frustration, Haze, Headbutt, Hydro
+          Pump, Hypnosis, Ice Beam, Icy Wind, Mind Reader, Mist, Protect, Psychic,
+        Rain Dance, Rest, Return, Sleep Talk, Snore, Splash, Surf, Swagger, Thief,
+        Toxic, Water Gun, Waterfall, Whirlpool, Growth, Lovely Kiss, Sweet Kiss, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - bw: [Attract, Belly Drum, Blizzard, Body Slam, Bubble, Bubble Beam, Dig, Dive,
+        Double Team, Double Slap, Encore, Endeavor, Endure, Facade, Frustration, Hail,
+        Haze, Helping Hand, Hydro Pump, Hypnosis, Ice Ball, Ice Beam, Mind Reader,
+        Mist, Mud Bomb, Mud Shot, Protect, Psychic, Rain Dance, Refresh, Rest, Return,
+        Round, Scald, Sleep Talk, Snore, Splash, Substitute, Surf, Swagger, Thief,
+        Toxic, Wake-Up Slap, Water Gun, Water Pulse, Water Sport, Waterfall, Double-Edge,
+        Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - dp: [Attract, Belly Drum, Blizzard, Body Slam, Bubble, Bubble Beam, Captivate,
+        Dig, Dive, Double Team, Double Slap, Encore, Endeavor, Endure, Facade, Frustration,
+        Hail, Haze, Headbutt, Helping Hand, Hydro Pump, Hypnosis, Ice Ball, Ice Beam,
+        Mind Reader, Mist, Mud Bomb, Mud Shot, Natural Gift, Protect, Psychic, Rain
+          Dance, Refresh, Rest, Return, Secret Power, Sleep Talk, Snore, Splash, Substitute,
+        Surf, Swagger, Thief, Toxic, Wake-Up Slap, Water Gun, Water Pulse, Water Sport,
+        Waterfall, Whirlpool, Double-Edge, Mimic, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - rs: [Attract, Belly Drum, Blizzard, Body Slam, Bubble, Bubble Beam, Defense
+          Curl, Dig, Dive, Double Team, Double Slap, Endure, Facade, Frustration,
+        Hail, Haze, Hydro Pump, Hypnosis, Ice Ball, Ice Beam, Mind Reader, Mist, Protect,
+        Psychic, Rain Dance, Rest, Return, Secret Power, Sleep Talk, Snore, Splash,
+        Substitute, Surf, Swagger, Thief, Toxic, Water Gun, Water Pulse, Water Sport,
+        Waterfall, Sweet Kiss, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - rb: [Amnesia, Bide, Blizzard, Body Slam, Bubble, Bubble Beam, Double-Edge, Double
+          Team, Double Slap, Hydro Pump, Hypnosis, Ice Beam, Mimic, Psychic, Psywave,
+        Rage, Rest, Skull Bash, Substitute, Surf, Take Down, Toxic, Water Gun]
+    - xy: [Attract, Belly Drum, Blizzard, Body Slam, Bubble, Bubble Beam, Captivate,
+        Defense Curl, Dig, Dive, Double-Edge, Double Slap, Double Team, Encore, Endeavor,
+        Endure, Facade, Frustration, Hail, Haze, Headbutt, Hydro Pump, Hypnosis, Ice
+          Ball, Ice Beam, Icy Wind, Mimic, Mind Reader, Mist, Mud Bomb, Mud Shot,
+        Natural Gift, Protect, Psychic, Rain Dance, Refresh, Rest, Return, Round,
+        Scald, Secret Power, Sleep Talk, Snore, Splash, Substitute, Surf, Swagger,
+        Sweet Kiss, Thief, Toxic, Wake-Up Slap, Waterfall, Water Gun, Water Pulse,
+        Water Sport, Whirlpool, Helping Hand, Confide, Hidden Power Bug, Hidden Power
+          Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting,
+        Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [40, 50, 40, 40, 40, 90]
+    - gs: [40, 50, 40, 40, 40, 90]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Water]
+    weight: [12.4]
+  Poliwhirl:
+    abilities:
+    - bw: [Damp, Swift Swim, Water Absorb]
+    - rs: [Damp, Water Absorb]
+    - []
+    egggroups:
+    - [Water 1]
+    evolvesFrom: [Poliwag]
+    height: [1]
+    introduction: rb
+    moves:
+    - gs: [Detect, Earthquake, Ice Punch, Mud-Slap, Rock Smash, Strength]
+    - bw: [Brick Break, Bulldoze, Earthquake, Fling, Ice Punch, Rock Smash, Strength,
+        Seismic Toss]
+    - dp: [Brick Break, Earthquake, Fling, Focus Punch, Ice Punch, Mud-Slap, Rock
+          Smash, Strength, Seismic Toss]
+    - rs: [Brick Break, Counter, Earthquake, Focus Punch, Ice Punch, Mega Kick, Mega
+          Punch, Metronome, Mud-Slap, Rock Smash, Strength]
+    - rb: [Counter, Earthquake, Fissure, Mega Kick, Mega Punch, Metronome, Seismic
+          Toss, Strength, Submission]
+    - xy: [Brick Break, Bulldoze, Counter, Earthquake, Fling, Focus Punch, Ice Punch,
+        Mega Kick, Mega Punch, Metronome, Mud-Slap, Rock Smash, Seismic Toss, Strength,
+        Power-Up Punch]
+    stats:
+    - [65, 65, 65, 50, 50, 90]
+    - gs: [65, 65, 65, 50, 50, 90]
+    tags:
+    - [NFE]
+    types:
+    - [Water]
+    weight: [20]
+  Poliwrath:
+    abilities:
+    - bw: [Damp, Swift Swim, Water Absorb]
+    - rs: [Damp, Water Absorb]
+    - []
+    egggroups:
+    - [Water 1]
+    evolvesFrom: [Poliwhirl]
+    height: [1.3]
+    introduction: rb
+    moves:
+    - gs: [Submission]
+    - bw: [Bulk Up, Circle Throw, Dynamic Punch, Low Sweep, Poison Jab, Rock Slide,
+        Rock Tomb, Submission, Work Up, Icy Wind]
+    - dp: [Bulk Up, Dynamic Punch, Poison Jab, Rock Climb, Rock Slide, Rock Tomb,
+        Submission, Vacuum Wave, Icy Wind]
+    - rs: [Bulk Up, Rock Tomb, Submission, Double-Edge, Icy Wind, Mimic, Seismic Toss]
+    - rb: [Hyper Beam]
+    - xy: [Bulk Up, Circle Throw, Dynamic Punch, Focus Blast, Giga Impact, Hyper Beam,
+        Low Sweep, Payback, Poison Jab, Rock Climb, Rock Slide, Rock Tomb, Submission,
+        Vacuum Wave, Work Up]
+    stats:
+    - [90, 85, 95, 70, 70, 70]
+    - gs: [90, 85, 95, 70, 90, 70]
+      xy: [90, 95, 95, 70, 90, 70]
+    tags:
+    - []
+    - bw: [RU]
+      dp: [NU]
+    types:
+    - [Fighting, Water]
+    weight: [54]

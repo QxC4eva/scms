@@ -1,0 +1,73 @@
+pokemon:
+  Illumise:
+    abilities:
+    - [Oblivious]
+    - dp: [Oblivious, Tinted Lens]
+    - bw: [Oblivious, Prankster, Tinted Lens]
+    egggroups:
+    - [Bug, Humanshape]
+    height: [0.6]
+    introduction: rs
+    moves:
+    - bw: [Acrobatics, Aerial Ace, Attract, Baton Pass, Brick Break, Bug Bite, Bug
+          Buzz, Captivate, Charge Beam, Charm, Confuse Ray, Covet, Double Team, Encore,
+        Facade, Fake Tears, Flash, Flatter, Fling, Frustration, Giga Drain, Growth,
+        Helping Hand, Ice Punch, Light Screen, Moonlight, Protect, Psych Up, Quick
+          Attack, Rain Dance, Rest, Return, Roost, Round, Shadow Ball, Silver Wind,
+        Sleep Talk, Snore, Solar Beam, Struggle Bug, Substitute, Sunny Day, Swagger,
+        Sweet Scent, Tackle, Tailwind, Thief, Thunder, Thunder Wave, Thunderbolt,
+        Thunder Punch, Toxic, U-turn, Wish, Zen Headbutt, Body Slam, Double-Edge,
+        Mimic, Seismic Toss, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - dp: [Aerial Ace, Air Cutter, Attract, Baton Pass, Brick Break, Bug Bite, Bug
+          Buzz, Captivate, Charge Beam, Charm, Covet, Double Team, Encore, Endure,
+        Facade, Flash, Flatter, Fling, Focus Punch, Frustration, Giga Drain, Growth,
+        Helping Hand, Ice Punch, Light Screen, Moonlight, Mud-Slap, Natural Gift,
+        Ominous Wind, Protect, Psych Up, Quick Attack, Rain Dance, Rest, Return, Roost,
+        Secret Power, Shadow Ball, Shock Wave, Silver Wind, Sleep Talk, Snore, Solar
+          Beam, String Shot, Substitute, Sunny Day, Swagger, Sweet Scent, Swift, Tackle,
+        Tailwind, Thief, Thunder, Thunder Wave, Thunderbolt, Thunder Punch, Toxic,
+        U-turn, Water Pulse, Wish, Zen Headbutt, Body Slam, Double-Edge, Mimic, Seismic
+          Toss, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - rs: [Aerial Ace, Attract, Baton Pass, Brick Break, Charm, Counter, Covet, Double
+          Team, Dynamic Punch, Encore, Endure, Facade, Flash, Flatter, Focus Punch,
+        Frustration, Giga Drain, Growth, Helping Hand, Ice Punch, Light Screen, Mega
+          Kick, Mega Punch, Metronome, Moonlight, Mud-Slap, Protect, Psych Up, Quick
+          Attack, Rain Dance, Rest, Return, Secret Power, Shadow Ball, Shock Wave,
+        Silver Wind, Sleep Talk, Snore, Solar Beam, Substitute, Sunny Day, Swagger,
+        Sweet Scent, Swift, Tackle, Thief, Thunder, Thunder Wave, Thunderbolt, Thunder
+          Punch, Toxic, Water Pulse, Wish, Hidden Power Bug, Hidden Power Dark, Hidden
+          Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power
+          Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden
+          Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - xy: [Acrobatics, Aerial Ace, Air Cutter, Attract, Baton Pass, Body Slam, Brick
+          Break, Bug Bite, Bug Buzz, Captivate, Charge Beam, Charm, Confuse Ray, Counter,
+        Covet, Double-Edge, Double Team, Dynamic Punch, Encore, Endure, Facade, Fake
+          Tears, Flash, Flatter, Fling, Focus Punch, Frustration, Giga Drain, Growth,
+        Helping Hand, Ice Punch, Light Screen, Mega Kick, Mega Punch, Metronome, Mimic,
+        Moonlight, Mud-Slap, Natural Gift, Ominous Wind, Protect, Psych Up, Quick
+          Attack, Rain Dance, Rest, Return, Roost, Round, Secret Power, Seismic Toss,
+        Shadow Ball, Shock Wave, Silver Wind, Sleep Talk, Snore, Solar Beam, String
+          Shot, Struggle Bug, Substitute, Sunny Day, Swagger, Sweet Scent, Swift,
+        Tackle, Tailwind, Thief, Thunder, Thunderbolt, Thunder Punch, Thunder Wave,
+        Toxic, U-turn, Water Pulse, Wish, Zen Headbutt, Play Nice, Power-Up Punch,
+        Dazzling Gleam, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
+        Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
+          Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
+          Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [65, 47, 55, 73, 75, 85]
+    tags:
+    - [NU]
+    types:
+    - [Bug]
+    weight: [17.7]

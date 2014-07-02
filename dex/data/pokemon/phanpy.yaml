@@ -1,0 +1,106 @@
+pokemon:
+  Donphan:
+    abilities:
+    - bw: [Sand Veil, Sturdy]
+    - rs: [Sturdy]
+    - []
+    egggroups:
+    - [Ground]
+    evolvesFrom: [Phanpy]
+    height: [1.1]
+    introduction: gs
+    moves:
+    - gs: [Fury Attack, Horn Attack, Hyper Beam, Rapid Spin]
+    - bw: [Assurance, Block, Bounce, Fire Fang, Fury Attack, Giga Impact, Gyro Ball,
+        Horn Attack, Hyper Beam, Iron Defense, Magnitude, Poison Jab, Rapid Spin,
+        Rock Polish, Scary Face, Stone Edge, Thunder Fang]
+    - dp: [Assurance, Block, Bounce, Fire Fang, Fury Attack, Giga Impact, Gyro Ball,
+        Horn Attack, Hyper Beam, Iron Defense, Magnitude, Poison Jab, Rapid Spin,
+        Rock Polish, Scary Face, Stone Edge, Thunder Fang]
+    - rs: [Fury Attack, Horn Attack, Hyper Beam, Rapid Spin, Rock Slide]
+    - xy: [Assurance, Block, Bounce, Fire Fang, Fury Attack, Giga Impact, Gyro Ball,
+        Horn Attack, Hyper Beam, Iron Defense, Magnitude, Poison Jab, Rapid Spin,
+        Rock Polish, Scary Face, Stone Edge, Thunder Fang]
+    stats:
+    - [90, 120, 120, 60, 60, 50]
+    tags:
+    - [BL]
+    - bw: [OU]
+    - dp: [UU]
+    types:
+    - [Ground]
+    weight: [120]
+  Phanpy:
+    abilities:
+    - bw: [Pickup, Sand Veil]
+    - rs: [Pickup]
+    - []
+    egggroups:
+    - [Ground]
+    height: [0.5]
+    introduction: gs
+    moves:
+    - gs: [Ancient Power, Attract, Body Slam, Curse, Defense Curl, Double-Edge, Double
+          Team, Earthquake, Endure, Flail, Focus Energy, Frustration, Growl, Headbutt,
+        Mud-Slap, Protect, Rest, Return, Roar, Rock Smash, Rollout, Sandstorm, Sleep
+          Talk, Snore, Strength, Sunny Day, Swagger, Tackle, Take Down, Toxic, Water
+          Gun, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power
+          Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - bw: [Ancient Power, Attract, Body Slam, Bulldoze, Charm, Counter, Defense Curl,
+        Double-Edge, Double Team, Earth Power, Earthquake, Echoed Voice, Endeavor,
+        Endure, Facade, Fissure, Flail, Focus Energy, Frustration, Growl, Gunk Shot,
+        Head Smash, Heavy Slam, Hyper Voice, Ice Shard, Iron Tail, Knock Off, Last
+          Resort, Mud-Slap, Natural Gift, Odor Sleuth, Protect, Rest, Return, Roar,
+        Rock Slide, Rock Smash, Rock Tomb, Rollout, Round, Sandstorm, Seed Bomb, Slam,
+        Sleep Talk, Snore, Stealth Rock, Strength, Substitute, Sunny Day, Superpower,
+        Swagger, Tackle, Take Down, Toxic, Mimic, Hidden Power Bug, Hidden Power Dark,
+        Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
+          Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
+        Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
+        Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    - dp: [Ancient Power, Attract, Body Slam, Captivate, Charm, Counter, Defense Curl,
+        Double-Edge, Double Team, Earth Power, Earthquake, Endeavor, Endure, Facade,
+        Fissure, Flail, Focus Energy, Frustration, Growl, Gunk Shot, Head Smash, Headbutt,
+        Ice Shard, Iron Tail, Knock Off, Last Resort, Mud-Slap, Natural Gift, Odor
+          Sleuth, Protect, Rest, Return, Roar, Rock Slide, Rock Smash, Rock Tomb,
+        Rollout, Sandstorm, Secret Power, Seed Bomb, Slam, Sleep Talk, Snore, Stealth
+          Rock, Strength, Substitute, Sunny Day, Superpower, Swagger, Tackle, Take
+          Down, Toxic, Mimic, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon,
+        Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power
+          Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden
+          Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock,
+        Hidden Power Steel, Hidden Power Water]
+    - rs: [Ancient Power, Attract, Body Slam, Counter, Defense Curl, Double-Edge,
+        Double Team, Earthquake, Endure, Facade, Fissure, Flail, Focus Energy, Frustration,
+        Growl, Iron Tail, Mud-Slap, Odor Sleuth, Protect, Rest, Return, Roar, Rock
+          Smash, Rock Tomb, Rollout, Sandstorm, Secret Power, Sleep Talk, Snore, Strength,
+        Substitute, Sunny Day, Swagger, Tackle, Take Down, Toxic, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    - xy: [Ancient Power, Attract, Body Slam, Bulldoze, Captivate, Charm, Counter,
+        Defense Curl, Double-Edge, Double Team, Earth Power, Earthquake, Echoed Voice,
+        Endeavor, Endure, Facade, Fissure, Flail, Focus Energy, Frustration, Growl,
+        Gunk Shot, Headbutt, Head Smash, Heavy Slam, Ice Shard, Iron Tail, Knock Off,
+        Last Resort, Mimic, Mud-Slap, Natural Gift, Odor Sleuth, Protect, Rest, Return,
+        Roar, Rock Slide, Rock Smash, Rock Tomb, Rollout, Round, Sandstorm, Secret
+          Power, Seed Bomb, Slam, Sleep Talk, Snore, Stealth Rock, Strength, Substitute,
+        Sunny Day, Superpower, Swagger, Tackle, Take Down, Toxic, Hyper Voice, Confide,
+        Play Rough, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    stats:
+    - [90, 60, 60, 40, 40, 40]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Ground]
+    weight: [33.5]

@@ -1,0 +1,101 @@
+pokemon:
+  Chinchou:
+    abilities:
+    - bw: [Illuminate, Volt Absorb, Water Absorb]
+    - rs: [Illuminate, Volt Absorb]
+    - []
+    egggroups:
+    - [Water 2]
+    height: [0.5]
+    introduction: gs
+    moves:
+    - gs: [Attract, Bubble, Confuse Ray, Curse, Double Team, Endure, Flail, Flash,
+        Frustration, Hydro Pump, Ice Beam, Protect, Rain Dance, Rest, Return, Screech,
+        Sleep Talk, Snore, Spark, Supersonic, Surf, Swagger, Take Down, Thunder, Thunder
+          Wave, Thunderbolt, Toxic, Water Gun, Waterfall, Whirlpool, Zap Cannon, Hidden
+          Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - bw: [Agility, Amnesia, Aqua Ring, Attract, Blizzard, Bounce, Brine, Bubble,
+        Bubble Beam, Charge, Charge Beam, Confuse Ray, Discharge, Dive, Double Team,
+        Electro Ball, Facade, Flail, Flash, Frustration, Hail, Heal Bell, Hydro Pump,
+        Ice Beam, Icy Wind, Mist, Protect, Psybeam, Rain Dance, Rest, Return, Round,
+        Scald, Screech, Shock Wave, Signal Beam, Sleep Talk, Snore, Spark, Substitute,
+        Supersonic, Surf, Swagger, Take Down, Thunder, Thunder Wave, Thunderbolt,
+        Toxic, Volt Switch, Water Gun, Water Pulse, Waterfall, Whirlpool, Wild Charge,
+        Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric,
+        Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power
+          Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden
+          Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel,
+        Hidden Power Water]
+    - dp: [Agility, Amnesia, Aqua Ring, Attract, Blizzard, Bounce, Brine, Bubble,
+        Bubble Beam, Captivate, Charge, Charge Beam, Confuse Ray, Discharge, Dive,
+        Double Team, Endure, Facade, Flail, Flash, Frustration, Hail, Heal Bell, Hydro
+          Pump, Ice Beam, Icy Wind, Mist, Natural Gift, Protect, Psybeam, Rain Dance,
+        Rest, Return, Screech, Secret Power, Shock Wave, Signal Beam, Sleep Talk,
+        Snore, Spark, Substitute, Sucker Punch, Supersonic, Surf, Swagger, Take Down,
+        Thunder, Thunder Wave, Thunderbolt, Toxic, Water Gun, Water Pulse, Waterfall,
+        Whirlpool, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - rs: [Amnesia, Attract, Blizzard, Bubble, Charge, Confuse Ray, Dive, Double-Edge,
+        Double Team, Endure, Facade, Flail, Flash, Frustration, Hail, Hydro Pump,
+        Ice Beam, Mimic, Protect, Rain Dance, Rest, Return, Screech, Secret Power,
+        Shock Wave, Sleep Talk, Snore, Spark, Substitute, Supersonic, Surf, Swagger,
+        Take Down, Thunder, Thunder Wave, Thunderbolt, Toxic, Water Gun, Water Pulse,
+        Waterfall, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+          Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
+        Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
+          Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
+          Power Steel, Hidden Power Water]
+    - xy: [Agility, Amnesia, Aqua Ring, Attract, Blizzard, Bounce, Brine, Bubble,
+        Bubble Beam, Captivate, Charge, Charge Beam, Confuse Ray, Discharge, Dive,
+        Double-Edge, Double Team, Electro Ball, Endure, Facade, Flail, Flash, Frustration,
+        Hail, Heal Bell, Hydro Pump, Ice Beam, Icy Wind, Mimic, Mist, Natural Gift,
+        Protect, Psybeam, Rain Dance, Rest, Return, Round, Scald, Screech, Secret
+          Power, Shock Wave, Signal Beam, Sleep Talk, Snore, Spark, Substitute, Sucker
+          Punch, Supersonic, Surf, Swagger, Take Down, Thunder, Thunderbolt, Thunder
+          Wave, Toxic, Volt Switch, Waterfall, Water Gun, Water Pulse, Whirlpool,
+        Wild Charge, Ion Deluge, Dazzling Gleam, Confide, Soak, Hidden Power Bug,
+        Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power
+          Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden
+          Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison,
+        Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power
+          Water]
+    stats:
+    - [75, 38, 38, 56, 56, 67]
+    tags:
+    - [NFE]
+    - dp: [LC]
+    types:
+    - [Electric, Water]
+    weight: [12]
+  Lanturn:
+    abilities:
+    - bw: [Illuminate, Volt Absorb, Water Absorb]
+    - rs: [Illuminate, Volt Absorb]
+    - []
+    egggroups:
+    - [Water 2]
+    evolvesFrom: [Chinchou]
+    height: [1.2]
+    introduction: gs
+    moves:
+    - gs: [Hyper Beam]
+    - bw: [Aqua Tail, Giga Impact, Hyper Beam, Spit Up, Stockpile, Swallow]
+    - dp: [Aqua Tail, Giga Impact, Hyper Beam, Spit Up, Stockpile, Swallow]
+    - rs: [Hyper Beam]
+    - xy: [Aqua Tail, Giga Impact, Hyper Beam, Spit Up, Stockpile, Swallow, Eerie
+          Impulse]
+    stats:
+    - [125, 58, 58, 76, 76, 67]
+    tags:
+    - [UU]
+    - bw: [RU]
+    types:
+    - [Electric, Water]
+    weight: [22.5]

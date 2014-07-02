@@ -81,7 +81,7 @@ pokemon:
     - dp: [LC]
     types:
     - [Normal]
-    - xy: [Fairy]
+    - xy: [Normal, Fairy]
     weight: [1]
   Jigglypuff:
     abilities:
@@ -126,7 +126,7 @@ pokemon:
     - [NFE]
     types:
     - [Normal]
-    - xy: [Fairy]
+    - xy: [Normal, Fairy]
     weight: [5.5]
   Wigglytuff:
     abilities:
@@ -155,5 +155,5 @@ pokemon:
     - rs: [NU]
     types:
     - [Normal]
-    - xy: [Fairy]
+    - xy: [Normal, Fairy]
     weight: [12]

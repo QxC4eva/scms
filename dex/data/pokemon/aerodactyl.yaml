@@ -91,10 +91,11 @@ pokemon:
     - [80, 105, 65, 60, 60, 130]
     - gs: [80, 105, 65, 60, 75, 130]
     tags:
-    - xy: [UU]
-    - bw: [RU]
+    - [UU]
+      bw: [RU]
       gs: [BL]
       rs: [OU]
+      xy: [UU]
     types:
     - [Rock, Flying]
     weight: [59]

@@ -4,7 +4,7 @@ abilities:
     introduction: dp
   Aerilate:
     description: [Turns all of this Pokemon's Normal-typed attacks into Flying-type
-        and deal 1.3x damage. Does not affect Hidden Power.]
+        and deals 1.3x damage. Does not affect Hidden Power.]
     introduction: xy
   Aftermath:
     description: [Deals 25% damage when KOed by contact damage.]
@@ -358,7 +358,7 @@ abilities:
     introduction: rs
   Pixilate:
     description: [Turns all of this Pokemon's Normal-typed attacks into Fairy-type
-        and deal 1.3x damage. Does not affect Hidden Power.]
+        and deals 1.3x damage. Does not affect Hidden Power.]
     introduction: xy
   Plus:
     description: ['If allied with a Pokemon with Minus, its Special Attack increases

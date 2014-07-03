@@ -115,6 +115,7 @@ pokemon:
     - [50, 70, 160, 70, 160, 90]
     tags:
     - [Uber]
+    - xy: [OU]
     types:
     - [Psychic]
     weight: [60.8]
@@ -133,6 +134,7 @@ pokemon:
     - [50, 95, 90, 95, 90, 180]
     tags:
     - [Uber]
+    - xy: [OU]
     types:
     - [Psychic]
     weight: [60.8]

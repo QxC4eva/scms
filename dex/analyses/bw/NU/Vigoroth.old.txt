@@ -1,26 +1,6 @@
 [Overview]
 
-<p>While some people prefer direct, massive power at the risk of losing a turn, others prefer a reliable attacker with multiple options. Vigoroth is one of those Pokemon, having a nice base 80 stat in HP, Attack and Defense. Coupled with its decent base 90 Speed, Vigoroth becomes a powerful and bulky Pokemon that can take on multiple roles. Its Vital Spirit ability allows it to effortlessly slam down on the battlefield against sleep inducers and due to being NFE, Vigoroth becomes extremely bulky with Eviolite, especially physically. It has a nice physical movepool with a lot of options to choose from as well.</p>
-
-<p>However, Vigoroth has its drawbacks, like every other Pokemon. Vigoroth's base 55 Special Attack makes its amazing special movepool of no use and even with Eviolite, its disappointing base 55 Special Defense can't withstand many special attacks. Do not be fooled by this hyperactive monkey, however, as underestimating its paired power and bulk can lead you to your own demise.</p>
-
-[SET]
-name: Bulk Up
-move 1: Bulk Up
-move 2: Return / Body Slam
-move 3: Earthquake / Brick Break
-move 4: Sucker Punch / Taunt / Slack Off
-item: Eviolite
-nature: Adamant
-evs: 252 HP / 252 Atk / 4 Spe
-
-[SET COMMENTS]
-
-<p>This set aims to set up and dish out attacks after setup. Bulk Up is the main move of the set, raising Vigoroth's Attack and Defense to great heights after a few uses of the move. Return is a reliable and very powerful STAB, but if Speed is that big of an issue, you can run Body Slam to potentially paralyze and outspeed foes. Earthquake is a powerful move that hits Rock- and Steel-types, which resist Return, for heavy damage. The same can be done by using Brick Break, but as a neutral Return is more powerful than a 2x super effective Brick Break, Earthquake is the better choice. However, you can use Brick Break in tandem with Body Slam to make up for the power loss. The last slot is a filler move. Sucker Punch hits Ghost-types, as they are immune to Return, Body Slam and Brick Break, but you can option to use Taunt or Slack Off if you go with Earthquake. Taunt allows for easy setup against walls, while Slack Off gives Vigoroth reliable recovery.</p>
-
-[ADDITIONAL COMMENTS]
-
-<p>Night Slash is available for a more reliable move to hit Ghost-types with, but priority is handy as Vigoroth is not very fast. The EVs are put into HP for attaining great bulk and Attack with an Adamant nature to achieve maximum power. The attacking move from slot three usually goes with one in slot four. If you're running Brick Break, go for Sucker Punch to prevent Ghost-types from walling Vigoroth. If you choose Earthquake, you could go with Taunt or Slack Off, as Vigoroth can hit all Ghost-type Pokemon aside from Haunter, Misdreavus, and Drifblim with Earthquake. Ghost-types are great partners for this Vigoroth to take Fighting-type hits, so Haunter definitely gets a mention for its ability to come in on Fighting-type moves with impunity and inflict heavy damage on opponents with its powerful STAB Sludge Bomb. Misdreavus is another Ghost-type you can use; however, Misdreavus is much bulkier than Haunter, and therefore plays differently. Misdreavus uses its bulk to slowly drain the opposing Fighting-types health instead. Psychic-types can also take on Fighting-types very well and have the advantage of being much more bulky than the fragile Haunter. Gardevoir can set up dual screens to give Vigoroth better Special Defense and seriously high Defense, while also sporting a very high Attack after a few Bulk Ups. Weezing's high Defense allows it to effortlessly come in on Fighting-type moves and burn opposing Pokemon with Will-O-Wisp, while Alomomola can do the same with its decent Defense and monstrous HP, but with Scald. Vigoroth appreciates all entry hazards it can get with this set, to net necessary KOs against most Pokemon after a boost or two, so Garbodor is a good partner for setting up Spikes and Toxic Spikes.</p> 
+<p>Vigoroth has a decent Attack stat alongside good bulk with Eviolite, allowing it to have two primary roles in NU&mdash;that of a stallbreaker and that of a bulky sweeper. Its good Speed lets it outspeed almost all walls and shut them down with a combination of Taunt and Toxic. Its unique ability, Vital Spirit, lets it check threatening Pokemon such as Exeggutor. However, Vigoroth can't do much to Ghost-types and faces a lot of competition from Mandibuzz, Misdreavus, and Golbat as a stallbreaker, and Substitute + Bulk Up Braviary as a bulky sweeper.</p>
 
 [SET]
 name: Stallbreaker
@@ -29,43 +9,41 @@ move 2: Toxic
 move 3: Slack Off
 move 4: Return
 item: Eviolite
-nature: Impish
-evs: 252 HP / 252 Def / 4 SpD
+ability: Vital Spirit
+nature: Careful
+evs: 252 HP / 224 SpD / 32 Spe
 
 [SET COMMENTS]
 
-<p>While Vigoroth can easily set up and attack the opponent, it also has the defenses and the Speed to work as an excellent stallbreaker, as it has access to Taunt and Toxic. This allows Vigoroth to effectively stall out almost any slower opponent by preventing them from doing anything but attack Vigoroth without any boosts whatsoever. Taunt allows Vigoroth to prevent the opponent from recovering HP or from using any support move. Toxic, on the other hand, drains opponents' HP every turn as they attack Vigoroth, as they do not have the option to recover HP due to Taunt. Slack Off is great for Vigoroth, instantly recovering half of its HP and allowing it to take many more attacks from the opponent. In the final moveslot, Return prevents Vigoroth itself from being Taunt bait, and hits fairly hard, even when uninvested, coming off of a base 80 Attack stat.</p>
+<p>Vigoroth's Speed, bulk, and access to Taunt along with reliable recovery lets it pull off a stallbreaking set well. Taunt is the main move on this set, and lets Vigoroth shut down walls and Pokemon with recovery. It also prevents Vigoroth from being set up on by the likes of Substitute + Bulk Up Braviary. Toxic lets Vigoroth wear said walls down and is Vigoroth's main form of damage. Slack Off lets Vigoroth stay in for longer periods of time and provides reliable recovery. Lastly, Return is a reliable high-powered STAB attack which gives it a secondary way to damage the opposing Pokemon.</p>
 
 [ADDITIONAL COMMENTS]
 
-<p>Max HP and Defense EVs take advantage of Vigoroth's higher base stats, and along with the boost to its defenses thanks to Eviolite, Vigoroth is very hard to take down with physical attacks. However, you have the option of putting some of your EVs in Speed to always outpace some of the more common Pokemon on stall teams. Likewise, shifting all of its Defense EVs into Special Defense lets you shut down many special attackers, as Vigoroth can easily survive a Leaf Storm from Choice Specs Exeggutor and use Slack Off to take the second one.</p>
-
-<p>Using Bulk Up over Toxic is really the only advisable change to this set, though even with that change, it radically changes how this set functions. However, it is definitely usable. Teammates that can take care of faster Fighting-types are great partners. In particular, Misdreavus not only takes on every Fighting-type in the tier, but can also use Heal Bell to support Vigoroth and get rid of any unwanted status effects it might have gotten while on the field.</p>
+<p>The given EVs let Vigoroth counter special attackers such as Kadabra better as well as outspeed Gorebyss. A physically defensive spread can be used to let Vigoroth deal with most physical attackers. As far as partners go, physically defensive Roselia and Garbodor are Spikers that have good synergy with Vigoroth, taking Fighting-type hits for it while using entry hazards, which Vigoroth appreciates as it will be forcing switches. Their Poison typing means that they can absorb Toxic Spikes, which are particularly annoying for Vigoroth. Misdreavus and Golurk also have good synergy with Vigoroth, the latter being able to set up Stealth Rock for it as well. Choice Band Sawk can beat entry hazard leads as well as Magic Coat Bastiodon, the latter of which is a prominent check to Vigoroth and the former of which areis annoying for Vigoroth to face. Skuntank and pivot Liepard can help Vigoroth deal with annoying Ghost-types such as Misdreavus, Haunter, and Drifblim by trapping them.</p>
 
 [SET]
-name: Substitute + Encore
-move 1: Substitute
-move 2: Encore
-move 3: Return/Focus Punch
-move 4: Sucker Punch
+name: Bulk Up
+move 1: Bulk Up
+move 2: Taunt
+move 3: Slack Off
+move 4: Return
 item: Eviolite
-nature: Jolly
-evs: 16 HP / 240 Atk / 252 Spe
+ability: Vital Spirit
+nature: Careful
+evs: 252 HP / 224 SpD / 32 Spe
 
 [SET COMMENTS]
 
-<p>This set is more defensively oriented, using Substitute to make Vigoroth an annoying Pokemon to break down when used in conjunction with Encore. Encore shuts opposing walls down and allows Vigoroth to easily wear them down with its attacking moves. Return serves as a powerful STAB move, but Focus Punch can be perfectly utilized behind a Substitute and during a successful Encore; it also gives you completely unresisted coverage in NU. Lastly, Sucker Punch allows Vigoroth to hit Ghost-types hard, as Return and Focus Punch cannot.</p>
+<p>Vigoroth can pull off a bulky sweeper set as well due to its access to Taunt, which blocks Perish Song and phazing, two common ways to deal with sweepers. Bulk Up is the boosting move of choice and lets Vigoroth boost its Defense, which works well with the Special Defense investment. Taunt prevents Roar and Perish Song from ruining Vigoroth's sweep and also prevents bulky walls from recovering. Return is a consistent STAB move which lets Vigoroth take advantage of its boosts.</p>
 
 [ADDITIONAL COMMENTS]
 
-<p>The 16 EVs in HP allow Vigoroth to retain a reasonable amount of HP. Speed should be maximized to have the opportunity to hit first, along with the remaining 240 EVs in Attack to have sufficient power. Additionally, Focus Punch and Sucker Punch have completely unresisted coverage in the NU tier and Focus Punch has nearly the same power as Return, so it's really a matter of preference. Night Slash is a safer option, but you'll lose out on some power and speed as compared to Sucker Punch.</p>
-
-<p>On this set, Psychic-types are great partners, as Vigoroth can have a difficult time against the likes of Sawk and Throh. Haunter can also come in on a Fighting-type move, but most beware of any other physical move, as its defenses are paper-thin. Another alternative is the bulkier and more defensive Misdreavus. Other Pokemon that can take Fighting-type moves well are Alomomola, with its high Defense and ability to burn with Scald, and Weezing, which can burn those Fighting-types with Will-O-Wisp and attack back with Sludge Bomb. Entry hazards are a Vigoroth's friend, especially Toxic Spikes, for whittling down its foes even more quickly. If Vigoroth lacks Focus Punch, Steel-types can wall it to no end. Fighting-type Pokemon, like Sawk and Gurdurr, come in handy here. Garbodor fulfills the duty as a Spiker, also being able to come in on Fighting-type moves with its Poison-type.</p>
+<p>A specially defensive spread is run as Vigoroth boosts its Defense through Bulk Up. The Speed investment lets Vigoroth outspeed Gorebyss. The Special Defense investment lets Vigoroth double up as a special wall. Misdreavus and Golurk have good synergy with it and can check Ghost-types that trouble this set a lot. Roselia and Garbodor are good partners as they resist Fighting, can set up Spikes on these threats, and can absorb Toxic Spikes. Skuntank and pivot Liepard are great partners as they can trap troublesome Ghost-types.</p>
 
 [Other Options]
 
-<p>You can run a Choice Band set, but Vigoroth is very frail without Eviolite and Vigoroth's Attack is also a bit low for utilizing a Choice Band, so it's not recommended. The same goes for Choice Scarf, as Vigoroth's Attack is too low for a potential set.</p>
+<p>Encore lets Vigoroth disrupt setup sweepers and lock threats into an unfavorable move, but is hard to fit onto either set. Substitute stops status and damage-based phazing moves, but Vigoroth is weak to Circle Throw and Roar and Whirlwind are a lot more common, making Taunt the superior option. Double-Edge is a slightly more powerful STAB attack than Return, but the recoil is annoying for Vigoroth. Sucker Punch lets Vigoroth hit Ghost-types but many of said Ghost-types have access to Will-O-Wisp, making it rather ineffective.</p>
 
 [Checks and Counters]
 
-<p>Haunter can completely shut the Bulk Up attacker set down if it lacks Sucker Punch, as Haunter is immune to Earthquake courtesy of Levitate. Haunter must be very wary of Sucker Punch, however, and it usually means the bane for the poisonous phantom. Misdreavus can PP stall Sucker Punch and completely wear it down using a combination of Toxic / Will-O-Wisp and Protect. Bastiodon is an amazing counter to Vigoroth as it sports a double resistance to Return and Body Slam and takes little damage from Sucker Punch, but it's extremely susceptible to Brick Break, Focus Punch and Earthquake. Lairon can do the exact same and even hit back using its base 90 Attack, but it has the same susceptibility to these moves. Cottonee also has its chances, as it can use Cotton Guard to raise its Defense to staggering heights and Toxic Vigoroth to slowly wear it down. The only thing Vigoroth can do in return is potentially Taunt Cottonee.</p>
+<p>Magic Coat Bastiodon, while uncommon, is the best counter to Vigoroth as it can reflect back a Taunt and proceed to cripple Vigoroth with Toxic. Haunter doesn't take anything from either set, can use Disable to prevent Vigoroth from recovering, and proceeds to whittle it down with a STAB Sludge Bomb. Drifblim outspeeds Vigoroth, can use Will-O-Wisp to cripple it, and hits it hard with Flying Gem-boosted STAB Acrobatics. Misdreavus and Golurk hard wall the Bulk Up set due to their Ghost typing, but lose to the stallbreaker set and can't do much back in return. Throh and Gurdurr are boosting sweepers that can hit Vigoroth hard due to their super effective Fighting STAB. Choice Band Sawk and Primeape can revenge kill Vigoroth with Close Combat even after it has used Bulk Up once. Musharna can switch in on a Toxic and pass it onto Vigoroth due to Synchronize; it can later cleanse itself of status by using Heal Bell. Faster Toxic users such as Mandibuzz, SubToxic Seismitoad, and Pokemon such as Kangaskhan and Tauros that run it to cripple physical walls can make Vigoroth a lot easier to deal with and only fear boosted Returns or a Taunt on the switch. Toxic Spikes from the likes of Roselia and Garbodor are annoying for Vigoroth as they deter it from switching in.</p>

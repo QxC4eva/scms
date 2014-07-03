@@ -1,0 +1,25 @@
+pokemon:
+  Aegislash:
+    abilities:
+    - [Stance Change]
+    alts:
+    - xy:
+        Blade:
+          abilities: [Stance Change]
+          height: 1.7
+          stats: [50, 150, 50, 150, 50, 50]
+          types: [Steel, Ghost]
+          weight: 53
+    egggroups:
+    - [Mineral]
+    height: [1.7]
+    introduction: xy
+    moves:
+    - xy: []
+    stats:
+    - [50, 50, 150, 50, 150, 50]
+    tags:
+    - [OU]
+    types:
+    - [Steel, Ghost]
+    weight: [53]

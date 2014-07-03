@@ -1,5 +1,6 @@
 Overview
 ########
+
 While Amoonguss may not be one of the first choices for a team, it has several unique qualities that help it stand out. Its great defensive typing gives it useful resistances to Water-, Electric-, Fighting-, Fairy-, and Grass-type attacks, letting it wall a myriad of common and dangerous threats such as Azumarill, Keldeo, and Thundurus. Where Amoonguss truly shines, however, is its ability to spread debilitating status, particularly sleep, as it has access to the Spore, the only 100% accurate sleep-inducing move in the game. Amoonguss is also incredibly difficult to wear down due to its great bulk and defensive typing, awesome ability in Regenerator, access to Giga Drain, and immunity to Toxic. However, Amoonguss has one major flaw: after putting an opposing Pokemon to sleep, it can't do much to stop another Pokemon from setting up in its face. It also faces severe competition from Mega Venusaur, which is much faster, boasts overall higher stats, and has two fewer weaknesses, thanks to Thick Fat. However, between Regenerator, Spore, and the fact that Amoonguss does not take up a team's valuable Mega Evolution slot, Amoonguss certainly has value over its fellow Grass / Poison type. Overall, despite its shortcomings, if Amoonguss is played carefully, it can provide invaluable support to nearly any team.
 
 Pivot
@@ -7,23 +8,26 @@ Pivot
 name: Pivot
 move 1: Spore
 move 2: Giga Drain
-move 3: Hidden Power Fire / Sludge Bomb
-move 4: Stun Spore / Clear Smog
+move 3: Foul Play
+move 4: Clear Smog
 ability: Regenerator
 item: Black Sludge
-evs: 252 HP / 252 Def / 4 SpD
-nature: Bold
+evs: 252 HP / 32 Def / 224 SpD
+nature: Calm
 
 Moves
 ========
-Spore is the only 100% accurate sleep move in the game and is one of the main reasons to use Amoonguss. Giga Drain is boosted by STAB and heals Amoonguss, adding to its already great bulk and longevity. Hidden Power Fire is useful for hitting the Grass-types that are immune to Spore, particularly Ferrothorn. It also hits Scizor, Forretress, and Genesect fairly hard. Alternatively, Sludge Bomb is Amoonguss's strongest reliable STAB move and has a 30% chance to poison, though its coverage is only useful for hitting Togekiss, Celebi, and Breloom super effectively. Hidden Power Ice can be used instead if Dragon-types are of particular concern. Stun Spore is great alongside Spore, as it allows Amoonguss to spread status even further. On the other hand, Clear Smog helps prevent it from being setup bait, though some Pokemon such as Talonflame, which can threaten Amoonguss without setting up, can still use it as setup bait. In addition, Steel-type sweepers such as Lucario and Scizor are not affected by the move, so they have free reign to set up on Amoonguss if it has already put something else on the opposing team to sleep. Synthesis can be used for more reliable recovery, but it is a bit redundant with Regenerator, Giga Drain, and Black Sludge recovery, so it is generally inferior to Amoonguss's other moves.
+
+Spore is the only 100% accurate sleep move in the game and is one of the main reasons to use Amoonguss. Giga Drain is boosted by STAB and heals Amoonguss, adding to its already great bulk and longevity. Foul Play allows Amoonguss to hit physical attackers hard on the switch-in and prevent it from being setup fodder for them, and moreover make it one of the best Aegislash checks in the game. Clear Smog is typically preferred in the last slot for the likes of Crocune, Calm Mind Clefable, and Calm Mind Manaphy, and to prevent Amoonguss from being setup fodder for any sweeper if another Pokemon on the opposing team has alredy been put to sleep. Alternatively, Sludge Bomb is Amoonguss's strongest reliable STAB move and has a useful 30% chance to poison, and boasts a decent damage output on the likes of Clefable, but the loss of Clear Smog actually causes it to lose to Calm Mind variants, which are very common, so it's typically not preferred. Hidden Power Fire is useful for hitting Ferrothorn, which is immune to Spore, and Mega Scizor, which it otherwise cannot significantly damage. Stun Spore is great alongside Spore, as it allows Amoonguss to spread status even further, but the loss of coverage is significant enough to prevent it from being preferred. Synthesis can be used for more reliable recovery, but it is a bit redundant with Regenerator, Giga Drain, and Black Sludge recovery, so it is generally inferior to Amoonguss's other moves.
 
 Set Details
 ========
-EVs are put into HP and Defense to capitalize on Amoonguss's great resistances to common physical attacks. This allows it to switch in on and stop powerful physical sweepers such as Mega Lucario by either putting them to sleep or paralyzing them. However, a specially defensive spread of 252 HP / 4 Def / 252 SpD with a Calm nature can be used if special attackers are more threatening to your team. Black Sludge is the preferred item, as it provides great passive healing in conjunction with Regenerator. Leftovers can be used over Black Sludge, but Black Sludge is more useful as it cripples Trick users and deters them from using Trick on Amoonguss at all.
+
+EVs are put into HP and Special Defense to allow Amoonguss to function as a solid Keldeo, Aegislash, and non-Hidden Power Flying or Psychic Thundurus counter. It avoids the 2HKO from Choice Specs Keldeo's Hidden Power Flying, for example. It also achieves feats such as surviving Greninja's Life Orb-boosted Ice Beam and being able to put it to sleep. The Defense EVs ensure it is never 2HKOed by Choice Band Azumarill's Play Rough after Stealth Rock damage. A spread of 252 HP / 120 Def / 136 SpD with a Bold nature can also be used if Amoonguss is your sole check to Belly Drum Azumarill, allowing it to survive a +6 Play Rough 100% of the time, or even 252 HP / 252 Def / 4 SpD with a Bold nature to handle Azumarill reliably and even other physical threats. However, the loss of bulk against the aforementioned threats is heavily noticed. Black Sludge is the preferred item, as it provides great passive healing in conjunction with Regenerator. Leftovers can be used over Black Sludge, but Black Sludge is more useful as it cripples Trick users and deters them from using Trick on Amoonguss at all.
 
 Usage Tips
 ========
+
 As it is a pivot, Amoonguss will be switching in very often throughout the match. It is very easy to switch in, thanks to its resistances, Regenerator, and its ability to wall common Pokemon.
 
 Spore is a very powerful tool and should not be used thoughtlessly. Amoonguss will most often only be able to put one opponent to sleep in the entire match because a sleeping opponent often does not have a chance to wake up, so take note of which Pokemon you want to put to sleep before mindlessly clicking Spore. The mere threat of Spore is also very useful. Predicting which Pokemon the opponent will use as sleep fodder and capitalizing on it not only gains momentum, but it allows you to possibly put a more dangerous Pokemon on the opponent's team to sleep later in the battle. However, Amoonguss can be helpless against certain Pokemon after it has already put something else to sleep. Successfully using Spore to its greatest potential requires prediction and clever planning.
@@ -32,10 +36,12 @@ To prevent Amoonguss from being setup bait after Spore has been used, you can ut
 
 Team Options
 ========
+
 Amoonguss isn't too support reliant as it is usually the one doing the supporting. It can be paired with other Regenerator users such as Slowbro to form a solid defensive core that can be very difficult to break through. Rotom-W and Heatran are good partners, as they have fantastic synergy with Amoonguss and beat Talonflame rather well. Amoonguss pairs nicely with slower sweepers if it opts for Stun Spore.
 
 Other Options
 ########
+
 An Assault Vest set with Foul Play and Clear Smog is an option as it pairs nicely with Regenerator, but it struggles to do much damage and severely misses the ability to use Spore and, to a lesser extent, Stun Spore. Because of this, it is setup fodder for a wider variety of threats than usual. Energy Ball can be used as it has 15 more Base Power than Giga Drain, though it is generally the inferior option, as Amoonguss appreciates the recovery of Giga Drain too much to give it up. Toxic is also an option, but Amoonguss would much rather spread sleep and paralysis, which are much more debilitating statuses and provide more useful support to the rest of the team.
 
 Checks & Counters

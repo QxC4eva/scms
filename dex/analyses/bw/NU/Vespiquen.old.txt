@@ -1,32 +1,30 @@
 [Overview]
 
-<p>Vespiquen is a rather unfortunate case. She was blessed with solid defensive stats, resistances to Fighting and Grass, and an immunity to Ground, but she also packs five unfortunate weaknesses. Rock, the most prominent of those weaknesses, is without a doubt the worst, causing the queen bee to lose half of her health if she switches in while Stealth Rock is up. Thankfully, Roost can make up for that loss of HP, and support options such as Toxic and the ability Pressure help her find a niche. She certainly demands all the respect that a queen would deserve, but keep in mind that she is ultimately just a bee, which is not the most threatening of foes.</p>
+<p>It's not difficult to understand why Vespiquen struggles to fit in NU, as it is a wall with a 4x weakness to Stealth Rock. First, Vespiquen's typing and lack of Speed allows most sweepers to scare it out and gain easy boosts. To add insult to injury, Vespiquen's movepool is horrendously small and predictable. Luckily, a Bug / Flying typing makes Vespiquen a decent Sawk and Golurk check, and Pressure is a decent ability for drawn out matches. Typically, however, the amount of support Vespiquen needs is not worth the trouble of using it in a match.</p>
 
 [SET]
-name: SubRoost
-move 1: Roost
-move 2: Substitute
+name: Wall
+move 1: Protect
+move 2: Roost
 move 3: Toxic
 move 4: Attack Order
 item: Leftovers
+nature: Impish
 ability: Pressure
-nature: Careful
-evs: 248 HP / 96 SpD / 164 Spe
+evs: 248 HP / 252 Def / 8 SpD
 
 [SET COMMENTS]
 
-<p>This is the definitive set for Vespiquen. Roost is the most important move, as its health regeneration helps to make up for her crippling weakness to Stealth Rock. Substitute keeps her safe from status and weak attacks. Between these two moves, she can stall for ages. Toxic takes advantage of her stalling capabilities, slowly wearing down the foe as they fail to KO her and her Substitutes. Pressure is also a wonderful ability for a staller; with it, her foe can only attack with Stone Edge 4 times before their PP is used up. Attack Order rounds out the set, giving her the power to take out a worn down opponent and making sure she is not completely shut down by Taunt.</p>
+<p>Vespiquen's greatest niche is its ability Pressure, which can turn threatening scenarios in its favor. For example, Close Combat can only be used four times, greatly helping Vespiquen's survivability. Protect is the most important move, as it stalls the opponent's PP and gains Leftovers recovery. Roost adds on to the longevity, granting Vespiquen more walling opportunities. Toxic is its most reliable damaging source, seriously crippling many Pokemon that switch into Vespiquen. Attack Order prevents Vespiquen from being Taunt bait, and it has decent power for a wall.</p>
 
 [ADDITIONAL COMMENTS]
 
-<p>With 248 HP EVs, Vespiquen can switch into Stealth Rock twice without dying or make up to 4 Substitutes. 164 Speed EVs allow her to outspeed and set up on minimum Speed Tangela and all slower threats. The nature and the rest of the EVs go into Special Defense for added bulk. Leftovers is undoubtedly her best item; it provides her with much needed extra health and allows her to create more Substitutes.</p>
-
-<p>When using any wall with a 4x weakness to Stealth Rock, a spinner is mandatory. Wartortle is fairly bulky and resists Ice- and Fire-type moves that plague Vespiquen; in return, she can tank any Grass attack aimed at the turtle. Torkoal also resists Ice- and Fire-type attacks and has decent defenses. Its ability to draw Ground- and Fighting-type moves provide Vespiquen with the perfect opportunity to switch in. Natu is also capable of keeping Stealth Rock off the field, but it is generally less reliable than a spinner and shares several weaknesses with Vespiquen. Wish support from the likes of Audino and Alomomola is also welcome; the former often lures Fighting-type attacks while the latter can take Fire- and Ice-type assaults intended for Vespiquen.</p>
+<p>The most important thing to recognize when supporting Vespiquen is that it needs Rapid Spin support to function decently as a wall; Wartortle is the best option because its typing synergizes the best with Vespiquen out of all the NU Rapid Spinners. Cleric support is also highly recommended, as residual damage will drastically limit Vespiquen's walling capabilities; Audino is a great partner for this job, since Vespiquen can take Fighting-type attacks aimed at it. Garbodor, the Toxic Spikes setter that synergizes best with Vespiquen, is a helpful partner since Toxic Spikes support saves Vespiquen many extra turns to heal itself instead of using Toxic. Misdreavus is a cool partner that fits the stall playstyle well because it offers a fast Taunt that can keep Stealth Rock off the field. Partners with phazing moves, such as Bastiodon, make great partners, as they can force out sweepers that set up on Vespiquen. One last, great partner is defensive Seismitoad, as its typing covers almost all of Vespiquen's weaknesses while Vespiquen 4x resists its Grass-type weakness.</p>
 
 [Other Options]
 
-<p>There are not many other options for Vespiquen. Protect is a great move for stalling if you already have Toxic support, but at that point stalling will be the only thing Vespiquen can do for your team. Confuse Ray is an option to help stall as well, but it is almost always inferior to Toxic and is somewhat unreliable. U-turn is useful for scouting, but Vespiquen isn't exactly known for keeping up offensive momentum and her weakness to Stealth Rock makes switching in repeatedly a poor choice. Struggle Bug will fail to kill pretty much anything, but lowering the opponent's Special Attack can help her tank hits even better. Defend Order can be used to boost her defenses, but she has trouble finding a moveslot for it. Finally, an offensive set using Hone Claws is an option; however, there are more threatening Pokemon that are better suited for such a role.</p>
+<p>Substitute is a decent option for Vespiquen, but Vespiquen's low Speed prevents it from blocking any status moves. Defend Order seems like a cool move, but Vespiquen needs the moves it already has to efficiently stall. A Hone Claws + Acrobatics set is possible but is terribly outclassed by offensive Pokemon that don't have a 4x Stealth Rock weakness, such as Swellow and Drifblim. The Custap Berry + Destiny Bond combination is surprising but is gimmicky at best. Vespiquen has access to Swagger, but it is entirely luck reliant so it will often let you down. Vespiquen can set up weather, but Pokemon with better typings and abilities are more suited for the job.</p>
 
 [Checks and Counters]
 
-<p>The best way to counter Vespiquen is to get Stealth Rock up and force her to switch repeatedly. Any powerful physical Rock attacker, especially Rampardos, is bound to scare her off. Tough Fire-types, such as Charizard and Rapidash, can easily dethrone the queen as well. Steel- and Poison-types are immune to Toxic and resist Attack Order, making them ideal counters. Lairon and Bastiodon, in particular, can wall her all day and threaten back with STAB Rock-type moves. Weezing also tanks anything that Vespiquen can throw at it, and it usually carries Fire- or Electric-type attacks. Finally, Swellow grows more powerful if poisoned, resists Bug attacks, and has Brave Bird to quickly finish her off.</p>
+<p>First things first: Stealth Rock is the most reliable method to check Vespiquen. Other than that, Steel- and Poison-types can't be touched by Vespiquen, so they make great counters. Substitute sweepers, such as Misdreavus, Drifblim, and Braviary, can all set up on Vespiquen and not fear Attack Order. Rock-type coverage from Pokemon such as Sawk, Primeape, and Golem is a great way to check Vespiquen as well. Taunt users that are not weak to Attack Order, such as Samurott, also make good checks. Lastly, special attackers with super effective coverage, such as Charizard, check Vespiquen reliably.</p>

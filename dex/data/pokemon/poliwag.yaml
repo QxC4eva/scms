@@ -161,9 +161,10 @@ pokemon:
     - gs: [90, 85, 95, 70, 90, 70]
       xy: [90, 95, 95, 70, 90, 70]
     tags:
-    - []
+    - [UU]
     - bw: [RU]
       dp: [NU]
+      xy: [NU]
     types:
     - [Fighting, Water]
     weight: [54]

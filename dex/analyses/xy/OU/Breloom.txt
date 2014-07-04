@@ -1,61 +1,43 @@
 Overview
 ########
-- Technician + great movepool
-- Its Bullet Seed is one of the strongest moves in the game (187.5 BP)
-- Incredible base 130 Attack
-- Base 70 Speed not that amazing
-- Lackluster defenses
-- Spore nerf hampers its utility slightly; Grass-types and Overcoat Pokemon now immune to Spore
-- Its STABs are resisted by top-tier threats in the metagame (Mega Venusaur, Talonflame, Dragonite, etc.)
-- Many common weaknesses to types such as Fire, Flying, and Ice
 
+One of the things that sets Breloom apart from other physical attackers in the tier is its Hidden Ability, Technician, and Breloom's movepool is seemingly designed to take advantage of it. Its Bullet Seed is one of the strongest attacks in the game, being able to reach up to 187.5 BP, and its priority Mach Punch is insanely powerful when you take into account its base 130 Attack, STAB, and a Technician boost. Breloom can also put an opposing Pokemon to sleep with Spore, effectively taking them out for what is usually most of the match.
 
-Physical Attacker
+However, despite the insane power that Breloom wields, it definitely has its drawbacks. It has common weaknesses to types such as Fire, Flying, and Ice, and its 60 / 80 / 60 defenses are mediocre at best. One of the moves that Breloom is known for, Spore, has been nerfed significantly, as Grass-types and Pokemon with Overcoat, such as Ferrothorn and Mandibuzz, respectively, can now switch in on it with impunity. The metagame around Breloom has also changed drastically, as new threats like Mega Venusaur and Talonflame resist its STAB attacks and threaten it with their own super effective STAB attacks. Finally, Breloom is extremely slow, and base 70 Speed is quite mediocre in the OU metagame. However, the pure power that Breloom possesses is not to be ignored, and if used in the right hands, it can definitely pack quite the punch for a Pokemon with such stubby arms.
+
+Offensive
 ########
-name: Physical Attacker
-move 1: Spore / Force Palm
+name: Offensive
+move 1: Spore
 move 2: Bullet Seed
 move 3: Mach Punch
-move 4: Rock Tomb / Force Palm
+move 4: Rock Tomb / Swords Dance
 ability: Technician
-item: Life Orb / Focus Sash
-evs: 4 HP / 252 Atk / 252 Spe
+item: Focus Sash / Life Orb
+evs: 252 Atk / 4 Def / 252 Spe
 nature: Adamant / Jolly
 
 Moves
 ========
-- Takes advantage of Technician using low BP moves to hit super hard
-- Spore incapacitates a foe and is useful for getting rid of something Breloom or the rest of the team can't handle as well. Also useful for getting check/counter neutered on the switch (unless Grass-type)
-- Bullet Seed is Breloom's strongest STAB attack when Technician is considered. It can also break Sturdy and Focus Sash thanks to being multi-hit
-- Mach Punch is useful STAB priority that also gets a Technician boost. Good for hitting weakened or faster Pokemon and hits quite hard
-- Rock Tomb can get rid of or weaken popular threats like Talonflame or Dragonite on the switch, as well as slowing a few threats down to the point that Breloom can finish them off (Gengar, Latios)
-- Force Palm is another STAB attack Breloom can use if Mach Punch just won't do and Breloom is faster or can take a few hits from the opposition. It is useful for hitting defensive Pokemon like Ferrothorn or Mandibuzz. It can also be used over Spore because Mega Venusaur, a common threat, is immune to it, as are other Grass-types.
 
+This set aims to take advantage of Technician and utilize moves that will leave the opposing team extremely worn down. Spore is one of the moves that set Breloom apart from many other attackers, and it could potentially incapacitate a foe for most of the game. It can also be used on a predicted switch to ease prediction, unless a Grass-type or Pokemon with Overcoat are still alive. Bullet Seed is Breloom's most powerful STAB attack after Technician and is useful for breaking through Sturdy and Focus Sash. Mach Punch is a STAB priority move that is useful for hitting weakened or faster foes, and hits really hard after Technician as well. Finally, Rock Tomb is a very useful attack for slowing down anticipated switch-ins for Breloom to take down later; it can hit many common Breloom checks such as Talonflame and Dragonite really hard. Swords Dance can be used over Rock Tomb to allow Breloom to sweep through unprepared teams, as its Attack soars to sky-high levels after a +2 boost; however, its STAB coverage isn't that great and it can get walled by Pokemon like Aegislash, Charizard-Y, and Gengar with relative ease.
+
+Breloom can also use Force Palm over Rock Tomb as a reliable and more powerful secondary STAB attack if it needs to hit harder than it would with Mach Punch, and this is useful for getting past defensive threats like Ferrothorn. However, Rock Tomb's utility is something that Breloom won't want to give it up.
 
 Set Details
 ========
-- EVs maximize Attack and Speed
-- Adamant is recommended for maximum power, though Jolly lets Breloom outspeed neutral invested base 70 Speed Pokemon or tie those with a positive nature.
-- Life Orb maximizes power
-- Jolly also outruns Adamant Mamoswine so it can Mach Punch before taking an Ice Shard
-- Focus Sash can be used to guarantee a Spore early-game
+
+The EVs of this set are maxed out in Attack and Speed to capitalize on Breloom's offensive presence, which is further bolstered by a Life Orb if you choose to run it. Adamant is recommended for maximum power, though Jolly is great for outspeeding major threats like Dragonite or Gyarados. Finally, a Focus Sash is recommended for Breloom to guarantee a hit on an opposing Pokemon with Spore or an attack, though a Life Orb can be used for a bit of extra power.
 
 Usage Tips
 ========
-- Since Grass-types are immune to Spore, if you anticipate one of them is going to switch in, use a Fighting-type attack, or a coverage move if it resists Fighting.
-- Using Spore on a predicted switch-in to a check or counter that isn't Grass-type is a great way to clear the path for a Breloom sweep
-- Using Rock Tomb on a predicted switch-in slows the opponent's Pokemon, sometimes to the point where Breloom can outspeed and finish it off (in cases which it can't KO otherwise)
-- Spore is also useful for neutering checks and counters of a teammate you are trying to support
-- Used mostly mid-game for breaking walls or early-game to fire off a quick Spore and break things
+
+This set is one that is mostly used either mid-game to break walls or early-game to fire off a quick Spore and weaken things quickly. One thing that Breloom is very good at is punishing switches. When anticipating a switch, use Spore so that whatever is switching in is put to sleep and can't really do much. However, since Grass-types are immune to Spore, if you predict that one is going to switch in, try using Mach Punch or Rock Tomb. If something slightly faster than Breloom is switching in, it can use Rock Tomb to slow it down, hopefully to the point where Breloom can outspeed the opposing Pokemon and finish it off.
 
 Team Options
 ========
-- Fire-type or teammate with Fire-type moves to get rid of Grass-types immune to Spore. Heatran is especially good because it resists Flying, as well as x4 resisting Ice and being immune to Poison.
-- Stealth Rock setters to chip away at Fire- and Flying-type threats who have an easy time against Breloom
-- Rock-types to take care of the above
-- Hippowdon takes care of Aegislash, Dragonite, and Talonflame
-- Excadrill is immune to Poison and can switch into all of Breloom's weaknesses bar Fire.
 
+A Fire-type or a teammate with a Fire-type move is very useful to have to get rid of opposing Grass-types that are immune to Spore. Heatran is an excellent example of a Fire-type teammate, as it resists Flying, as well as dual-resisting Ice and being immune to Poison. Because Mega Venusaur essentially counters Breloom, a counter to it, such as Latios, is recommended to get it out of the way. A Stealth Rock setter is also a great teammate to have, as it chips away at the opposing team's health and also weakens Fire- and Flying-types, especially the omnipresent Talonflame. Rock-types are also a great choice for directly damaging Fire- and Flying-types. Hippowdon is a bulky Ground-type that can easily take care of Aegislash and Talonflame. Finally, Excadrill is an alternate Ground-type that pairs up well with Breloom, as it is immune to Poison and resists all of Breloom's weaknesses bar Fire and Ice, as well as being a great Rapid Spin user.
 
 Leech Seed
 ########
@@ -63,57 +45,46 @@ name: Leech Seed
 move 1: Leech Seed
 move 2: Drain Punch
 move 3: Protect
-move 4: Rock Tomb / Spore
+move 4: Spore
 ability: Poison Heal
 item: Toxic Orb
-evs: 252 HP / 252 SpD / 4 Spe
+evs: 252 HP / 4 Atk / 252 SpD
 nature: Careful
 
 Moves
 ========
-- Leech Seed for chipping away HP from opponents while giving Breloom passive recovery for longevity
-- Drain Punch is primary STAB attack
-- Protect is good for Leech Seed stalling and basically gives you a free recovery turn, as well as doing consistent passive damage to your opponents
-- Rock Tomb can be used on a predicted switch into a check or counter to this set, as it will slow it down and make it easier to handle by teammates or even Breloom itself
-- Spore can be used instead of Rock Tomb; 100% accurate sleep move is always nice, though the Spore nerf means that Grass-types like Mega Venusaur can come in more easily
 
+While the previous set was more offensively-inclined, this set takes a more defensive approach towards using Breloom with its excellent defensive movepool and abilities. Leech Seed is the move this set is based upon, and it is great for chipping away at an opposing Pokemon's HP while giving Breloom passive recovery each turn. Drain Punch is Breloom's primary STAB attack, and it provides additional recovery on top of Leech Seed. Protect is a useful scouting move, and it also allows Leech Seed damage to rack up on your opponent while Breloom heals. Finally, in the last moveslot, Spore is used to put a switch-in or opposing Pokemon to sleep. However, Grass-types and Pokemon with Overcoat are now immune to Spore, so that is something to watch out for.
 
 Set Details
 ========
-- Poison Heal + Toxic Orb for a lot of recovery
-- EVs and nature max out Breloom's stats towards HP and Special Defense to make it as great a special wall as possible.
+
+For this set, Toxic Orb is the item of choice to take advantage of Poison Heal. The EVs are mostly invested in special bulk to allow Breloom to serve as an effective Thundurus or Keldeo check.
 
 Usage Tips
 ========
-- Use Rock Tomb on an incoming check or counter to this set - it will slow down opposing Pokemon and make it easier to either KO with a coverage move or with a teammate
-- The above tip work with Spore as well. It will put a switch-in to sleep and render it useless for a lengthy period of time. Just watch out for Grass-types like Mega Venusaur, as they are immune to Spore and Leech Seed
+
+When anticipating a switch, it's usually safe to use Leech Seed, since Breloom will need all the recovery it can get. However, watch out especially for Grass-types, which are immune to Leech Seed and Spore and can switch in on those moves with impunity. Once Leech Seed is set up, Breloom can stall with Protect if it is not worried about about the opposing Pokemon setting up. Keep Leech Seed on your opponent as much as possible; the passive damage will wear them down over time.
 
 Team Options
 ========
-- Fire-types like Heatran or Talonflame are great for handling the Grass-types that are immune to Leech Seed and Spore
-- Excadrill has good type synergy with Breloom and can spin hazards away
-- Hazard setters like Smeargle or Forretress will force anything coming in to lose a chunk of HP
+
+Because Grass-types are immune to Spore and Leech Seed, Fire-types like Heatran and Talonflame can be great teammates for taking them out. Also, Excadrill's typing lends itself to be an excellent teammate for Breloom as well, as it is immune to Poison and resists all of Breloom's weaknesses bar Fire. Finally, hazard setters like Skarmory or Landorus-T will force anything coming in to take a chunk of damage, and this is useful since Breloom will be forcing a lot of switches in order to shake off Leech Seed; Stealth Rock in particular is great for chipping away at Fire-types, especially the omnipresent Talonflame.
 
 Other Options
 ########
-- Swords Dance
-- Poison Heal sets
-- SubPunch
-- Bulk Up
-- Choice Band
-- ThunderPunch (bypasses Skarmory and Gyarados)
-- Stone Edge
 
+First of all, Swords Dance or Bulk Up can be used to get Breloom to sweep, but it will either get walled easily if it runs Spore, or find it hard to set up without it. A SubPunch set with Toxic Orb and Poison Heal also finds itself walled very easily, with it only using a Grass STAB and a semi-reliable Fighting STAB. A Choice Band set can also be used for lots of power, but Breloom won't be able to access its amazing support movepool and will miss using Spore a lot. Breloom is also prone to being revenge killed due to being extremely slow. Finally, Thunder Punch is an option to allow Breloom to bypass threats like Gyarados and Skarmory.
 
 Checks & Counters
 ########
-- Mega Venusaur (resists both STABs + supereffective Sludge Bomb)
-- Grass-types in general (Immune to Spore)
-- Skarmory
-- Talonflame (as well as Flying-types in general)
-- Dragon-types (Dragon/Flying in particular) such as Dragonite
-- Aegislash (resists both STABs - Breloom becomes setup bait)
-- Gengar
-- Gyarados
-- Jolly Mamoswine (Ice Shard)
-- Volcarona (if no Rock Tomb / Stone Edge)
+
+**Grass-types**: Grass-types are threatening to both sets, as they resist Breloom's powerful Grass STAB attacks and are immune to Spore and Leech Seed. Mega Venusaur stands out as one of Breloom's best counters, as its Poison typing allows it to resist both of Breloom's STABs and hit it hard with Sludge Bomb.
+
+**Fire-types**: Some Fire-types will also find themselves being able to check Breloom. Talonflame resists both of Breloom's STABs and fire off a 4x super effective priority Brave Bird, but it must watch out for Rock Tomb. Without Rock Tomb, Volcarona will also be able to set up Quiver Dance right in front of Breloom.
+
+**Physically Defensive Pokemon**: Of course, since Breloom is mostly attacking using its excellent Attack stat, physically defensive Pokemon are able to wall Breloom. Examples include Skarmory and Mega Venusaur, with the latter also being immune to Spore.
+
+**Dragon-types**: Dragon-types are notable for resisting Breloom's Grass STAB, and they also usually come with a second typing that resists its other STAB as well. Examples of this include Latias and Latios, whose Psychic typing help them resist Fighting. Dragon / Flying Pokemon like Dragonite and Salamence also resist Fighting, but they must watch out for Rock Tomb.
+
+**Ghost-types**: Ghost-types are also good checks for being completely immune to Breloom's Fighting STAB, and many top-tier Ghost-types have an additional secondary typing that allows them to resist Grass as well. Gengar's Poison typing and Aegislash's Steel typing both allow them to accomplish this, and as such they can be very threatening.

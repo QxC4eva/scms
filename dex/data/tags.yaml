@@ -9,6 +9,11 @@ tags:
     name: Borderline 2
     successors:
     - [UU]
+  BL3:
+    introduction: bw
+    name: Borderline 3
+    successors:
+    - [RU]
   LC:
     introduction: dp
     name: Little Cup

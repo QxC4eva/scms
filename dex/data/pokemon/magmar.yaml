@@ -109,6 +109,7 @@ pokemon:
     - [UU]
     - bw: [NU]
       dp: [NFE]
+      xy: [NFE]
     types:
     - [Fire]
     weight: [44.5]
@@ -131,6 +132,7 @@ pokemon:
     tags:
     - [NU]
     - bw: [RU]
+    - xy: [NU]
     types:
     - [Fire]
     weight: [68]

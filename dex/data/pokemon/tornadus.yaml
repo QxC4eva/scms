@@ -37,6 +37,7 @@ pokemon:
     - [79, 115, 70, 125, 80, 111]
     tags:
     - [UU]
+    - [BL2]
     types:
     - [Flying]
     weight: [63]
@@ -54,6 +55,7 @@ pokemon:
     - [79, 100, 80, 110, 90, 121]
     tags:
     - [Uber]
+    - xy: [BL]
     types:
     - [Flying]
     weight: [63]

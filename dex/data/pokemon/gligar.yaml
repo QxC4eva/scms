@@ -82,7 +82,8 @@ pokemon:
     tags:
     - [UU]
     - bw: [UU]
-    - dp: [NU]
+    - dp: [NU, LC]
+    - xy: [RU]
     types:
     - [Flying, Ground]
     weight: [64.8]

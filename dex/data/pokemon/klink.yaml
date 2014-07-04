@@ -13,6 +13,7 @@ pokemon:
     - [60, 80, 95, 70, 85, 50]
     tags:
     - [NU]
+    - xy: [NFE]
     types:
     - [Steel]
     weight: [51]
@@ -68,6 +69,7 @@ pokemon:
     - [60, 100, 115, 70, 85, 90]
     tags:
     - [RU]
+    - xy: [NU]
     types:
     - [Steel]
     weight: [81]

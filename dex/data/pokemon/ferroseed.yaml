@@ -34,7 +34,8 @@ pokemon:
     stats:
     - [44, 50, 91, 24, 86, 10]
     tags:
-    - [RU]
+    - [RU, LC]
+      xy: [NU, LC]
     types:
     - [Grass, Steel]
     weight: [18.8]

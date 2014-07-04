@@ -33,6 +33,7 @@ pokemon:
     - bw: [RU]
       dp: [NFE]
       rs: [BL]
+      xy: [NU]
     types:
     - [Ground, Rock]
     weight: [120]
@@ -146,6 +147,7 @@ pokemon:
     - [115, 140, 130, 55, 55, 40]
     tags:
     - [UU]
+    - xy: [RU]
     types:
     - [Ground, Rock]
     weight: [282.8]

@@ -1036,7 +1036,8 @@ moves:
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
     - Changes user into opponent's type.
-    - {gs: Changes user into a new type based on the user's moves.}
+    - {gs: Changes user into a new type based on the user's moves.,
+        xy: Changes user into the type of its first move.}
     introduction: rb
     power: [0]
     pp: [30]

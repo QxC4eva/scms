@@ -39,13 +39,13 @@ This Deoxys-S variant doesn't really need much support. However, you will genera
 Dual Screens
 ########
 name: Dual Screens
-move 1 Reflect
-move 2 Light Screen
-move 3 Taunt
-move 4 Stealth Rock  Magic Coat
-item Light Clay
-evs 252 HP  4 Def  252 Spe
-nature Timid
+move 1: Reflect
+move 2: Light Screen
+move 3: Taunt
+move 4: Stealth Rock  Magic Coat
+item: Light Clay
+evs: 252 HP  4 Def  252 Spe
+nature: Timid
 
 Moves
 ========

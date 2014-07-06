@@ -428,7 +428,7 @@ moves:
     category:
     - Special
     - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
-    description: ["All healthy Pok\xC3\xA9mon aid in damaging the target."]
+    description: ["All healthy Pokemon aid in damaging the target."]
     introduction: gs
     power:
     - 10
@@ -2841,7 +2841,7 @@ moves:
     - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
     description:
     - No additional effect.
-    - {gs: "Hits Pok\xC3\xA9mon using Fly for twice base power."}
+    - {gs: "Hits Pokemon using Fly for twice base power."}
     introduction: rb
     power: [40]
     pp: [35]
@@ -3009,7 +3009,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: ["KOs the user and heals the next Pok\xC3\xA9mon in."]
+    description: ["KOs the user and heals the next Pokemon in."]
     introduction: dp
     power: [0]
     pp: [10]
@@ -4068,7 +4068,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: ["KOs the user, then heals the next Pok\xC3\xA9mon in."]
+    description: ["KOs the user, then heals the next Pokemon in."]
     introduction: dp
     power: [0]
     pp: [10]
@@ -4180,7 +4180,7 @@ moves:
   Magnetic Flux:
     accuracy: [0]
     category: [Non-Damaging]
-    description: ["Raises the Defense and Sp. Def stats of ally Pok\xC3\xA9mon with
+    description: ["Raises the Defense and Sp. Def stats of ally Pokemon with
         the Plus or Minus Ability."]
     introduction: xy
     power: [0]
@@ -4838,7 +4838,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: ["Averages both Pok\xC3\xA9mon's HP."]
+    description: ["Averages both Pokemon's HP."]
     introduction: gs
     power: [0]
     pp: [20]
@@ -4908,7 +4908,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: ["All active Pok\xC3\xA9mon faint after 3 turns."]
+    description: ["All active Pokemon faint after 3 turns."]
     introduction: gs
     power: [0]
     pp: [5]
@@ -7168,7 +7168,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: ["Confuses all other active Pok\xC3\xA9mon."]
+    description: ["Confuses all other active Pokemon."]
     introduction: rs
     power: [0]
     pp: [20]
@@ -7415,7 +7415,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: ["Slower Pok\xC3\xA9mon move first for 5 turns."]
+    description: ["Slower Pokemon move first for 5 turns."]
     introduction: dp
     power: [0]
     pp: [5]
@@ -7500,7 +7500,7 @@ moves:
     category:
     - Physical
     - {bw: Special, dp: Special, xy: Special}
-    description: ["Repeats for 2-5 turns. No Pok\xC3\xA9mon can sleep during these
+    description: ["Repeats for 2-5 turns. No Pokemon can sleep during these
         turns."]
     introduction: rs
     power:

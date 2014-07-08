@@ -1,11 +1,38 @@
-Raikou Skeleton
-
 Overview
 ########
-- High Speed and Special Attack make Raikou a threatening offensive Pokemon.
-- With an Assault Vest, it counters top threat Thundurus and can handle Pokemon such as Greninja and Aegislash.
-- It also works as a threatening sweeper with SubCM.
-- Poor physical bulk and no way to hit Excadrill, and most other bulky Ground-types, for significant damage hinders it.
+
+Boasting high Speed, good Special Attack, and a key Electric typing, Raikou finds a niche in XY OU as a check to top-tier threats such as Thundurus, Talonflame, and Mega Pinsir. Choice Specs Raikou can fire off very powerful attacks that are difficult to switch into. With the aid of an Assault Vest, it can check even the likes of Greninja and pivot with Volt Switch, functioning as a nice glue Pokemon for offensive teams weak to these specific threats. Raikou can also function as a devastating Calm Mind sweeper against unprepared teams and has decent coverage that makes it far from one-dimensional. Poor physical bulk, generally unimpressive power without a boost, and being easily handled by special walls hold it back significantly, but Raikou still manages to shine in a tier dominated by powerful Flying- and Electric-types.
+
+Choice Specs
+########
+name: Choice Specs
+move 1: Thunderbolt
+move 2: Volt Switch
+move 3: Hidden Power Ice
+move 4: Shadow Ball / Extrasensory
+item: Choice Specs
+evs: 32 HP / 252 SpA / 224 Spe
+nature: Timid
+
+Moves
+========
+
+Thunderbolt provides a strong, reliable STAB option. Volt Switch is decently powerful with a Choice Specs boost and moreover provides Raikou with a cost-free move that lets it pivot out of unfavorable matchups. Hidden Power Ice hits crucial Ground- and Dragon-types for super effective damage, especially Landorus, Landorus-T, Garchomp, Gliscor, and any Hippowdon without more than the standard 140 Special Defense EVs. Shadow Ball is good for a heavier hit on Latios, taking off upwards of three-quarters of its HP; 2HKOes Aegislash; and turns Excadrill from a safe switch-in into something that can only switch in once, cutting off about half of its health. Extrasensory covers Mega Venusaur and Amoonguss, which can otherwise handle this set well.
+
+Set Details
+========
+
+The Special Attack and Speed EVs enable Raikou to outrun Thundurus whilst hitting as hard as possible. The rest is dumped into HP for a bit of extra bulk.
+
+Usage Tips
+========
+
+Volt Switch is generally the spam move of choice, dealing moderate damage and providing a safeguard against poor matchups. Against Ground-type foes, it's typically best to hard switch into a better matchup on the predicted switch so that you don't lose momentum. Thunderbolt should be used to clean and for extra power if it is needed to obtain a KO. Like all Raikou variants, you'll want to be careful switching it in, as Raikou is prone to being worn down by entry hazards and even resisted attacks. If the foe has a Pokemon such as Thundurus, Mega Pinsir, or Talonflame, you'll want to make sure Raikou isn't brought down to such a range where they can break through it.
+
+Team Options
+========
+
+This Raikou finds itself at home on offensive teams with VoltTurn cores. Pokemon such as Mega Scizor can form such cores; Mega Scizor specifically can pressure Chansey with Knock Off and generally threaten it, which is necessary for Raikou to break through defensive teams. Defog or spin support is essential to keep it in tip-top shape to handle threats; Skarmory and Mandibuzz can handle threatening Ground-types well and fill this role. Kyurem-B, Keldeo, and Manaphy are options to take care of Ground-types, too.
 
 Assault Vest
 ########
@@ -13,7 +40,7 @@ name: Assault Vest
 move 1: Thunderbolt
 move 2: Volt Switch
 move 3: Hidden Power Ice
-move 4: Shadow Ball
+move 4: Shadow Ball / Extrasensory
 item: Assault Vest
 evs: 252 SpA / 32 SpD / 224 Spe
 nature: Timid
@@ -21,29 +48,22 @@ nature: Timid
 Moves
 ========
 
-- Thunderbolt is a reliable STAB for Raikou that has the most output and allows it to deal significant damage to threats such as Mega Charizard Y and Keldeo.
-- Volt Switch gives Raikou a safe move with which ot pivot around.
-- Hidden Power Ice hits Landorus-T, Gliscor, and Garchomp, which are otherwise significant threats to Raikou, for 4x super effective damage.
-- Shadow Ball is mainly filler, but has uses in 2HKOing Latios and dealing the most damage to Aegislash, Latias, and incoming Excadrill.
+Thunderbolt is Raikou's reliable STAB; it has the highest damage output and poses a great threat to Water-types and Mega Charizard Y, which Raikou is generally supposed to check. Volt Switch gives it a safe move to pivot and wear down defensive threats with, which works especially well in conjunction with entry hazards. Hidden Power Ice is compulsory coverage to hit Landorus, Landorus-T, Gliscor, and Garchomp, which otherwise completely wall Raikou. The last slot boils down to whether 2HKOing Latios (Shadow Ball) or actually threatening Mega Venusaur (Extrasensory) is preferred.
 
 Set Details
 ========
 
-- The EVs provide enough Speed to outrun Thundurus and hit as hard as possible, with the rest in Special Defense so that Raikou takes special hits a bit better.
-- Enough Speed can be run to tie Starmie, but it isn't common enough for that to be worth it.
+The EVs provide enough Speed to outrun Thundurus and give Raikou a good enough damage output, with the rest in Special Defense to get a bit more special bulk out of the Assault Vest. Maximum Speed can be run to tie with Starmie, but it isn't common enough to be worth sacrificing bulk that comes in handy against threats such as Greninja.
 
 Usage Tips
 ========
 
-- You should not be switching in over and over with this, as it will easily get worn down.
-- When in doubt, Volt Switch out. Well, unless the opponent has a Ground-type that might come in. In that case, it's usually best to go for Hidden Power Ice or Shadow Ball to get some damage off.
+Be wary of switching in and out a lot with this Raikou, as it will be worn down quickly. When in doubt, unless the opponent has a bulky Ground-type to switch in, Volt Switching out is the best option unless you absolutely have to stay in and attack. This keeps the momentum of the battle in your favor. If the opponent has a bulky Ground-type to switch in, just hard switch out anticipating the play.
 
 Team Options
 ========
 
-- Pokemon such as Skarmory and Mandibuzz that can handle Ground-types and physical attackers in general are useful teammates.
-- Hazards limit this Raikou's longevity immenesely due to its lack of Leftovers, so Defog support from the aforementioned Mandibuzz or Skarmory, or Rapid Spin support from Excadrill, is very helpful.
-- Works well with partners that also use U-turn or Volt Switch.
+Pokemon such as Skarmory and Mandibuzz that can handle Ground-types and physical attackers in general are useful teammates. Entry hazards limit this Raikou's longevity immensely due to its lack of Leftovers, so Defog or Rapid Spin support is heavily appreciated. It fits well into VoltTurn cores with Pokemon such as Scizor and Landorus-T.
 
 Calm Mind
 ########
@@ -51,53 +71,45 @@ name: Calm Mind
 move 1: Calm Mind
 move 2: Thunderbolt
 move 3: Hidden Power Ice
-move 4: Substitute / Volt Switch
-item: Leftovers
+move 4: Extrasensory / Substitute
+item: Leftovers / Life Orb
 evs: 32 HP / 252 SpA / 224 Spe
 nature: Timid
 
 Moves
 ========
 
-- Calm Mind boosts Raikou's Special Attack so it can sweep, while allowing it to take special hits very well.
-- Thunderbolt is the main STAB attack that deals the most damage in general.
-- Hidden Power Ice hits Ground- and Dragon-types (except Mamoswine and Kyurem-B) that would otherwise wall Raikou.
-- Substitute protects Raikou from status and revenge kills.
-- Or, Volt Switch can be used to allow Raikou to pivot around and be useful throughout the game.
+Calm Mind boosts Raikou's Special Attack, allowing it to function as an effective boosting sweeper. Thunderbolt is the main STAB attack, providing the most power against neutral targets. Hidden Power Ice covers most Ground- and Dragon-types, which would otherwise wall Raikou. Extrasensory gives important coverage to hit Mega Venusaur and Assault Vest Conkeldurr. If Raikou's teammates can handle Mega Venusaur adequately, then Substitute is an option to protect it from status and revenge killers. Volt Switch is another option, allowing Raikou to pivot around and have general use throughout the match; however, it is prone to being worn down and thus might have trouble sweeping, and it becomes hard to justify this over an Assault Vest or Choice Specs variant.
 
 Set Details
 ========
 
-- The Special Attack and Speed EVs give Raikou enough Speed to outrun Thundurus and allow it to hit as hard as possible.
-- The rest is dumped into HP to give Raikou a little extra bulk.
+The Special Attack and Speed EVs enable Raikou to outrun Thundurus whilst hitting as hard as possible. The rest is dumped into HP for a small amount of extra bulk. Leftovers is useful to keep Raikou healthy so it can stay healthy whilst setting up and completing its sweep. Life Orb is also an option for some more power; for example, +1 Life Orb-boosted Extrasensory does roughly 80% to Mega Venusaur.
 
 Usage Tips
 ========
 
-- This thing sets up on Thundurus and Toxic Aegislash, two of the biggest threats in OU.
-- Don't try and set up until Raikou's counters have been removed. It's not worth it.
-- If you choose to run Volt Switch, use it to pivot around throughout the match. Just make sure Raikou doesn't take too much damage, such that it can be revenge killed by priority.
+This Raikou can set up on Thundurus and Aegislash, two of the largest threats in OU, so setting up shouldn't be too difficult. Naturally, don't set up until Raikou's counters have been removed; until it can sweep, switching in at all should generally be avoided. Furthermore, don't be too greedy with boosts and let Raikou get worn down into a range where it can be revenge killed by priority.
 
 Team Options
 ========
 
-- Pokemon to take out pesky Excadrill, specially defensive Hippowdon, Mamoswine, and Choice Scarf Garchomp are heavily appreciated. Offensive Water-types&mdash;such as Keldeo, Manaphy, and Greninja&mdash;and Life Orb Deoxys-S are standout options.
-- Defog or Rapid Spin support is necessary if you choose to run Volt Switch, as Raikou incurring too much residual damage is never a good idea.
-- Pokemon like the aforementioned Keldeo as well as Terrakion and other powerful physical attackers make good partners to take out Chansey, which hard walls it.
+Pokemon to take out pesky Excadrill, Hippowdon, Mamoswine, and Choice Scarf Garchomp are heavily appreciated. Offensive Water-types, such as Keldeo, Manaphy, and Greninja, are standout options. Eliminating Chansey is also necessary; the aforementioned Keldeo as well as lures such as Knock Off Landorus fit this role nicely. If Substitute is chosen, then Pokemon to take out Mega Venusaur are mandatory; Landorus and Mega Charizard X are both adept at this task.
 
 Other Options
 ########
 
-- A Choice Specs set can be used to hit hard and pivot around with Volt Switch.
-- Aura Sphere with the event-locked Rash Nature can work on a Choice Scarf set.
+Aura Sphere would be a great option on Raikou, allowing it to smack threats such as Tyranitar and Mamoswine where it hurts, but it is event-locked to a Rash nature, which restricts it to Choice Scarf sets lest Raikou be outsped by many popular threats, including Keldeo, Latios, and Thundurus. Its movepool is rather shallow, so there isn't much else it can really do.
 
 Checks and Counters
 ########
 
-**Ground-types**: Basically, Mamoswine, Excadrill, Hippowdon, Quagsire, and Gastrodon. Choice Scarf Garchomp and Landorus-T are 4x weak to Ice, but can outspeed and OHKO it.
+**Ground-types**: Mamoswine, Excadrill, Hippowdon, and Quagsire are all stellar answers to Raikou, as they take a pittance from its attacks and threaten it with their STAB Ground-type attacks. Choice Scarf Garchomp and Landorus-T are 4x weak to Ice, but can outspeed and OHKO it.
 
-**Physical attackers that aren't hit super effectively by Thunderbolt**: Raikou's disappointing physical bulk means hard-hitting physical attackers, such as Tyranitar and Bisharp, can handle it easily.
+**Physical Attackers Neutral to Thunderbolt**: Raikou's disappointing physical bulk means hard-hitting physical attackers, such as Tyranitar and Bisharp, can handle it easily.
 
-**Special walls**: Unaware Clefable stops Calm Mind Raikou dead in its track. Additionally, Sylveon, Chansey, and a host of other special attackers threaten it.
+**Special walls**: Unaware Clefable stops Calm Mind Raikou dead in its tracks. Additionally, Sylveon, Chansey, and Mega Venusaur (if Raikou lacks Extrasensory) can handle it sufficiently.
 
-**Entry hazards and status**: Stealth Rock, Spikes, Toxic, and burn severely limit Assault Vest Raikou's longevity and general ability to last throughout the battle.
+**Entry Hazards and Status**: Stealth Rock, Spikes, Toxic, and burn severely limit Raikou's longevity and general ability to last throughout the battle.
+
+**Latios and Latias**: Both aren't really threatened too much by Raikou in general besides Shadow Ball, and they're able to switch in on most of its attacks and eliminate it with a Life Orb-boosted Psyshock no matter the set.

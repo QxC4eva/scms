@@ -1,16 +1,9 @@
 Overview
 ########
 
-- Roserade's 105 base special defense makes it pretty bulky.
-- Access to Spikes and Toxic Spikes.
-- Hits hard with 125 base special attack.
-- Has reliable recovery in either Synthesis or Rest+Natural Cure.
-- Sleep Powder+Spikes now possible.
-- Natural Cure makes it a good status absorber.
-- Strong Hidden Powers with Technician.
-- 60/65 physical bulk makes it very frail.
-- Weak to common types like Ice, Fire, and Flying.
-- 90 base speed is lackluster.
+With colorful flowers for hands, a heroic cape, and some really weird hair, Roserade plays a unique role in the OU tier as an offensive Spiker. Access to Spikes and Toxic Spikes along with a solid base 125 Special Attack stat allows Roserade to play this role effectively. Its ability, Technician, effectively gives it access to a Hidden Power of any type with a solid 90 Base Power. Thanks to new breeding mechanics, the previously illegal combination of Sleep Powder and Spikes is now legal, letting Roserade shut down a Pokemon while stacking Spikes. Roserade can sponge a special hit or two as well thanks to its decent base 105 Special Defense and Grass / Poison typing, which offers handy resistances to Water-, Fighting-, Electric-, Grass-, and Fairy-type moves.
+
+However, there are several flaws that prevent Roserade from becoming OU's premier entry hazard setter. Base 90 Speed is lackluster for an offensive Pokemon, and it prevents Roserade from beating several threats such as Landorus-T and Manaphy. Roserade is also weak to some very common attacking types in the current OU metagame, such as Ice, Fire, and Flying. This issue is further worsened by its pitiful base 60 HP and base 65 Defense, which leaves it unable to stomach almost any physical STAB move. Roserade also faces plenty of competition for the role of laying hazards from Pokemon such as Deoxys-D, Deoxys-S, and Klefki. Despite these flaws, Roserade's offensive presence, access to Sleep Powder, and ability to stack Spikes make it a great pick for offensive teams.
 
 Offensive Spikes
 ########
@@ -21,103 +14,44 @@ move 3: Leaf Storm
 move 4: Hidden Power Fire
 ability: Technician
 item: Life Orb
-evs: 4HP / 252 SpA / 252 Spe
+evs: 4 Def / 252 SpA / 252 Spe
+ivs: 29 HP
 nature: Timid
 
 Moves
 ========
 
-- Leaf Storm hits a lot of non-resists hard and quick, Roserade isn't built to stay.
-- Sleep Powder shuts down a pokemon and uses the free turn to set Spikes.
-- Hidden Power Fire dents Steels trying to take Leaf Storm, further boosted by Technician. Without it, you lose OHKOs on bulky Mega Scizor, Skarmory, Mega Mawile, Lucario, Bisharp, Excadrill, Ferrothron, and Mega Pinsir with rocks, and a 2HKO on tank Aegislash.
-- Hidden Power Fire also nails grasses trying to absorb Sleep Powder.
-- Sludge Bomb gives you a powerful neutral move, landing 2HKOs on important and common switch-ins like Mega Venusaur, Kyurem-B, and Mandibuzz.
+Spikes is one of the main reasons Roserade is used, racking up residual damage and punishing any switch-ins. Sleep Powder is used to incapacitate a Pokemon for a majority of the match and can be very useful in shutting down Pokemon that are difficult for your team to break or handle. Leaf Storm is the strongest move in Roserade's arsenal, doing big damage to any Pokemon that doesn't resist it. Hidden Power Fire nails Pokemon looking to absorb the Sleep Powder or try and take Leaf Storm. Sludge Bomb is an option over Hidden Power Fire, as it can 2HKO Mandibuzz and Mega Venusaur, both of which are common switch-ins to absorb Sleep Powder. However, the loss in coverage generally isn't worth it. Giga Drain is a more consistent option over Leaf Storm, but the loss in power is very noticeable and Roserade is too frail to stick around long.
 
 Set Details
 ========
 
-- Max Speed and Special Attack to put slower things to sleep and set Spikes as quickly as possible, while also hitting any switch-ins hard.
-- Life Orb gives you a lot more power, and Giga Drain can be used over Leaf Storm to recover the recoil as an alternative.
-- Technician gives a great boost to Hidden Power, which is usually more valuable than Natural Cure
+Maximum investment in Speed and Special Attack with a Life Orb helps get down Spikes as fast as possible while giving Roserade the power needed to hit switch-ins hard. Technician's boost to Hidden Power Fire is invaluable, and should always be used over Natural Cure. Without it, Roserade doesn't OHKO Mega Scizor, Skarmory, Mega Mawile, Lucario, Bisharp, Excadrill, Ferrothorn, and Mega Pinsir or 2HKO  Aegislash after Stealth Rock. 29 HP IVs are used to minimize Life Orb recoil. Note that the number of HP IVs does not affect the type of Hidden Power.
 
 Usage Tips
 ========
 
-- Set hazards on predicted switches, and keep Roserade around to attack instead of sacrificing it early on.
-- Only switch him in on resisted special hits, it's rather frail otherwise.
-- Use Leaf Storm to hit hard before dying, while using Hidden Power Fire to nail predicted switches attempting to take Leaf Storm.
+The first objective when using Roserade is to cripple a Pokemon by putting it to sleep. If there is a Pokemon on the opponent's team that can absorb Sleep Powder, Roserade is better off setting Spikes or trying to nail the switch-in with powerful attacks. Roserade is a powerful but rather frail Pokemon that shouldn't be sacrificed early on, so only set Spikes on predicted switches. It should be switched in only on resisted special hits, as it is frail. Leaf Storm should always be Roserade's main attacking option, and Hidden Power Fire should handle most Pokemon attempting to cushion the Leaf Storm, such as Ferrothorn and Aegislash.
 
 Team Options
 ========
 
-- Talonflame appreciates Spikes damage, and Roserade can handle Rotom-W in return.
-- A Defiant user to abuse Defog can pairs well, like a Bisharp or Thundurus.
-- Heatran lays Stealth Rock and deals with Talonflame and grasses, while Roserade sets spikes on bulky waters.
-- Keldeo applies much more pressure on its checks with Spikes around.
-- Rotom-W checks Talonflame and grabs momentum with Volt Switch.
-- Skarmory can answer to many pokemon that can kill Roserade, like Mamoswine and Mega Pinsir. Just be sure not to Defog any hazards you've set up. 
-
-Specially Defensive Spikes
-########
-name: Specially Defensive Spikes
-move 1: Spikes
-move 2: Giga Drain
-move 3: Hidden Power Fire / Sludge Bomb
-move 4: Rest / Synthesis
-ability: Natural Cure
-item: Black Sludge
-evs: 252 HP / 152 Def / 104 SpD
-nature: Calm
-
-Moves
-========
-
-- Spikes offers residual damage for more defensive and balanced teams.
-- Toxic Spikes can be used for poison support, but many OU pokemon aren't affected by or can absorb them.
-- Giga Drain offers a reliable attacking move with recovery.
-- Hidden Power Fire ensure Ferrothorn and Scizor cannot set up.
-- Sludge Bomb's coverage is worse, but its stronger and more reliable.
-- Rest can be used with Natural Cure to fully recover.
-- Synthesis is an option if you don't want to switch out after healing.
-
-Set Details
-========
-
-- EVs give Roserade the best overall bulk, letting it take on Rotom-W and Keldeo with ease.
-- Black Sludge gives you passive recovery. Rest gives you a full restore but forces you to switch, while Synthesis offers reliable recovery but is hindered by weather.
-
-Usage Tips
-========
-
-- Try to switch in on a special attack that you resist, especially water or electric moves like thunderbolt and scald.
-- Lay down spikes on free turns, like switches.
-- Lay Spikes on Pokemon that can't hurt you, like Rotom-W or Sylveon.
-- Heal as necessary and switch out against pokemon that threaten you to stay alive as long as possible
-- Attack when necessary to avoid getting killed or to stop opposing hazards.
-- If you want something with better bulk, use Mega Venusaur, but Roserade lays down hazards and doesn't mind burns.
-
-Team Options
-========
-
-- Heatran can come in on threats that Roserade doesn't like, such as Latias and Latios, and then phaze the switch-in to rack up residual damage with spikes.
-- A bulky Rotom-W can take on many of the fire types switching into Roserade, especially talonflame, and burn physical threats.
-- A Bisharp or Thundurus (with Defiant) works great to take advantage of Defog.
+Roserade's best teammates will generally be offensive threats that offer good synergy and appreciate the residual damage from Spikes. Talonflame is one of these, and Roserade can beat Rotom-W for it. Keldeo applies much more pressure on its checks with the extra entry hazards. Rotom-W checks the Fire-type Pokemon that switch in on Roserade and grabs momentum with Volt Switch. A Defiant or Competitive user, such as Bisharp, Thundurus, or Milotic, can switch in on a Defog attempt to remove Spikes and punish the opposing team with powerful boosted attacks. Heatran is a more defensive teammate that can set Stealth Rock on Talonflame and damage Grass-types with Lava Plume, while Roserade can set up Spikes on bulky Water-type Pokemon. Skarmory can take on several Pokemon that threaten Roserade, such as Mega Pinsir and Mamoswine, but be sure not to Defog away your own hazards.
 
 Other Options
 ########
 
-- All-Out Attacker
-- Aromatherapy
-- Subseed
-- Shadow Ball
-- Double Powder (Sleep Powder + Stun Spore)
-- Rain Dance/Sunny Day (+ Weather Ball)
+A defensive Spikes-stacking set is an option, but this is mostly outclassed by Chesnaught, as Roserade does not have great bulk and loses to several users of Defog. Shadow Ball can offer powerful neutral coverage and hit Aegislash, but Aegislash is already hit harder by Hidden Power Fire and Shadow Ball leaves Roserade helpless against some Steel-type Pokemon, most notably Bisharp. Roserade can use Aromatherapy or even run a SubSeed set, but it is largely outclassed in these roles by Chansey and Gourgeist-S. A double Powder set can be used to catch switch-ins off-guard, but the loss of offensive coverage isn't worth it. A Choice Scarf set can revenge kill Pokemon such as Greninja, Manaphy, and Mega Gyarados, but it is outclassed by Garchomp and Excadrill. Roserade also has access to Rain Dance and Sunny Day, but due to its general frailty, it isn't the best choice for a weather setter. Hidden Power Rock can be used to catch the usual Fire-type and some Dragon-type switch-ins off guard, but the loss in coverage generally isn't worth it.
 
 Checks & Counters
 ########
-- Strong Fire types, like Talonflame or Heatran, can easily defeat Roserade.
-- Physical attackers will heavily damage Roserade, like Dragonite.
-- Snorlax can take any hit, absorb sleep with RestTalk sets, and set up or just kill.
-- Crobat can Taunt to prevent Spikes, remove hazards with Defog, and kill with Brave Bird.
-- Dragons that resist grass (Lati@s, Goodra, Dragonite, Mega Charizard-X, Kyurem-B) generally do a good job against Roserade.
-- Users of Assault Vest, like Conkeldurr and Goodra, generally do a good job of getting rid of it. AV Excadrill gets a special mention for being able to spin as well.
+
+**Fire-types**: Strong Fire-type Pokemon, like Heatran, Talonflame, and the Mega Charizard formes have little trouble switching in and roasting Roserade with powerful attacks, although the latter two must be wary of Sludge Bomb or Hidden Power Rock.
+
+**Strong Physical Attackers**: Roserade's Defense is very low, so physical attackers such as Dragonite, Excadrill, and Garchomp can easily 2HKO Roserade with almost any move.
+
+**Special Walls and Assault Vest users**: Roserade cannot hope to dent special walls such as Chansey or Heatran, and Assault Vest users like Goodra and Conkeldurr can handle Roserade's attacks as well. Assault Vest Excadrill can also remove Spikes that Roserade sets with Rapid Spin.
+
+**Dragon-types**: Dragon-types that resist Grass-, such as Latias, Latios, Dragonite, Kyurem-B, Goodra, and Mega Charizard X, can generally do a good job against Roserade, although they must be wary of a powerful Sludge Bomb.
+
+**Powder-Immune Pokemon**: Mega Venusaur and Mandibuzz can absorb a Sleep Powder and sponge any other attacks Roserade can use, but both must watch out for Sludge Bomb, which can 2HKO them.

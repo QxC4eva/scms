@@ -1,50 +1,104 @@
-Overview########
-With its Mega Evolution, Venusaur is a tank that defines the metagame, walling a huge amount of Pokemon while hitting back hard. It has amazing bulk, few weaknesses thanks to its ability Thick Fat, fairly reliable recovery with Synthesis, and strong attacks. It's almost impossible to OHKO other than a Flying- or Psychic-type move, and even those usually need to be STAB. However, it lacks Leftovers, which hurts its defensive abilities, and it uses up the Mega slot, so there is a high level of opportunity cost when using it. It also suffers from not being able to run every move that it wants to. However, Mega Venusaur is a very prominent and dangerous Pokemon, and you will struggle with it if you are not prepared. 
+Overview
+########
+
+Venusaur is the premier tank in XY OU, and for good reason. Impressive 80 / 123 / 120 defenses and the addition of the Thick Fat ability upon Mega Evolving allow it to switch in comfortably against practically any Water-, Electric-, or Fighting-type without fearing most of their coverage moves, and a convenient immunity to Toxic lets it take on even defensive threats. Moreover, as a Grass-type, Venusaur has several methods of restoring its HP that more than make up for the inability to hold Leftovers. It is no slouch offensively either, with a solid base 122 Special Attack and a good base 100 Attack after Mega Evolving as well as a wide movepool that grants it the ability to threaten many of its common switch-ins. Unfortunately, Venusaur is not always able to take advantage of this; it often finds itself wishing for extra moveslots, as it will invariably find itself walled by something. Additionally, while Venusaur's weaknesses are few, they are exploitable&mdash;Flying-type moves and Psyshock are not uncommon. Ultimately, however, Venusaur is able to check an absurd number of Pokemon, which makes it an appropriate fit on nearly any team.
+
+
+Offensive
+########
+name: Offensive
+move 1: Giga Drain
+move 2: Sludge Bomb
+move 3: Hidden Power Fire
+move 4: Synthesis
+ability: Chlorophyll
+item: Venusaurite
+evs: 232 HP / 252 SpA / 4 SpD / 20 Spe
+nature: Modest
+
+Moves
+========
+
+With maximum Special Attack investment, Giga Drain deals a solid amount of damage while simultaneously restoring a good chunk of Venusaur's health. Sludge Bomb hits the Flying- and Dragon-types that often try to switch in on Giga Drain for a surprisingly large amount of damage, easily 2HKOing Mega Pinsir and even 2HKOing Latios and Kyurem-B after Stealth Rock. Hidden Power Fire provides coverage against Steel-types and Chesnaught and will 2HKO most of them, including Ferrothorn and Bisharp. Synthesis provides valuable healing and is generally reliable, as offensive Venusaur is capable of threatening every auto-inducer of rain, sand, or hail with the appropriate move.
+
+Four other moves are usable on this set. Earthquake is an option for Heatran, which is cleanly 2HKOed even if Venusaur uses a Modest nature. It also covers Mega Mawile and Bisharp, like Hidden Power Fire. Knock Off is a decent option against Gengar, Latias, and Chansey, and allows Venusaur to be a massive annoyance to stall teams. Leaf Storm is usable over Giga Drain for its significantly greater power, but lessens the recovery Mega Venusaur gets overall, and prevents it from recovering effectively in the sand. Lastly, Leech Seed is another healing option that lets Venusaur deter setup or outlast foes with high HP, such as Chansey.
+
+Set Details
+========
+
+Maximum Special Attack investment coupled with a Modest nature allows Venusaur's attacks to hit as hard as possible, while 20 Speed EVs allow Venusaur to outpace Adamant Azumarill and Mawile, factoring in the required IVs for Hidden Power Fire. The remaining EVs are placed in HP to increase Venusaur's overall bulk, though 4 EVs are moved into Special Defense in order to minimize residual damage. An alternative EV spread of 160 HP / 252 SpA / 96 Spe is also an option if Venusaur needs to outspeed Jolly Azumarill and Mawile. An alternative spread of 248 HP / 164 SpA / 96 Spe can be run if bulk is desired over power. Another option is 44 Speed EVs to outrun Suicune if Venusaur's team is particularly weak to it.
+
+If Knock Off is used, Venusaur's nature should be changed to Quiet and the Speed and Special Defense EVs should be moved into Attack. An IV spread that includes a 31 Attack IV should also be used; all of this gives Venusaur a 50% chance to OHKO 28 HP Gengar after Stealth Rock. Chlorophyll is the superior ability prior to Mega Evolving, as it can occasionally give Venusaur the ability to outspeed and KO a weakened Mega Charizard Y or take advantage of the sun it brings in general.
+
+Usage Tips
+========
+
+It is imperative to get Venusaur in and let it Mega Evolve early, as it appreciates the added bulk and Thick Fat when switching in later. In addition, bear in mind that although Venusaur will end up being walled by something depending on what moves it runs, your opponent won't initially know what can actually wall Venusaur. For example, if you're using Earthquake, try not to reveal it until you're sure you can hit your opponent's Heatran. Finally, capitalize on the power of Sludge Bomb; Venusaur can actually take out its common checks such as Latios if it hits them with the move on the switch, and most of these Pokemon cannot OHKO Venusaur in return.
+
+Team Options
+========
+
+This variant of Venusaur is particularly useful on bulky offensive teams. Heatran, Rotom-W, and Aegislash all have excellent synergy with Venusaur and perform well under this playstyle, making them ideal teammates. Excadrill is another great example of this, capable of taking Flying- and Psychic-type attacks while Venusaur easily defeats the Water- and Fighting-types it has trouble with. Bisharp and Tyranitar are also good teammates for Venusaur, though the latter's Sand Stream will interfere with Venusaur's tanking capabilities. Many of these Pokemon can also set up Stealth Rock, which ensures crucial 2HKOs against Pokemon such as Kyurem-B.
+
 
 Defensive
 ########
 name: Defensive
-move 1: Synthesis
-move 2: Giga Drain
-move 3: Sludge Bomb
-move 4: Leech Seed / Earthquake
+move 1: Giga Drain
+move 2: Sludge Bomb
+move 3: Synthesis
+move 4: Leech Seed / Sleep Powder / Hidden Power Fire
 ability: Chlorophyll
 item: Venusaurite
-nature: Bold / Relaxed
-evs: 252 HP / 68 Def / 188 SpD
+evs: 252 HP / 240 Def / 16 Spe
+nature: Bold
 
 Moves
 ========
-Synthesis is mandatory as a source of reliable recovery, without which Mega Venusuar will be quickly worn down. Sludge Bomb is a strong STAB attack that 2HKOes many offensive Pokemon. Giga Drain is also a great move, getting good coverage with Sludge Bomb, and it hits many of the Pokemon Mega Venusaur handles like Manaphy and Rotom-W. Power Whip can be used instead for more power, but Venusaur is often burned because of Rotom-W, so it's not reliable. Leech Seed gets chip damage and a little bit of recovery from everything that is not a Grass-type, and most Grass-types don't switch in in fear of Sludge Bomb. However, Earthquake hits Heatran, a common switch in, very hard, as well as other Steel-types like Aegislash and Bisharp. Hidden Power Fire can used for Scizor, Forretress, Skarmory, and Ferrothorn as well.Mega Venusaur also has a few other support moves that it can use. Sleep Powder will cripple one Pokemon for a few turns and can take out an important Mega Venusaur check of theirs. Roar will phaze out set up sweepers, and can rack up hazard damge. Knock Off will annoy almost every Pokemon and can be used to disrupt more. If these alternate moves are used, they should go in the fourth slot, as the other three are generally essential.
+
+Giga Drain is Venusaur's main STAB move and helps in keeping it healthy, especially against powerful attackers such as Landorus-T. Sludge Bomb is a good secondary STAB move that is mainly used to hit Flying- and Dragon-types, and it also hits most Fairy-types super effectively. Sadly, Synthesis is Venusaur's only reliable recovery move other than Rest&mdash;its low PP and ineffectiveness in most weather conditions might present an issue, but it is necessary for healing alongside Giga Drain.
+
+Several moves are viable options in the last slot. Leech Seed offers yet another method of recovery in addition to a decent phazing tool, and it also grants Venusaur the ability to defeat Chansey and Blissey. Sleep Powder can incapacitate a counter, though unfortunately it will not work against Ferrothorn, Mandibuzz, or Escavalier. Hidden Power Fire hits Steel-types such as Scizor, Ferrothorn, and Mawile super effectively. Unlike Sludge Bomb, it's also capable of damaging Chesnaught. Knock Off is particularly useful against Latios and Gengar, but it cripples almost anything else due to its added effect of removing items, such as Chansey and Heatran. Earthquake smashes the Steel-types that don't mind Hidden Power Fire, namely Heatran. Lastly, Roar is a much more reliable phazing tool than Leech Seed against setup sweepers and Substitute users.
 
 Set Details
 ========
-The EVs give Mega Venusuar great mixed bulk. A Bold nature is used if you don't run any physical attacks; otherwise Relaxed is better, since Mega Venusaur's Speed isn't very important. Overgrow is unlikely to be useful, while Chlorophyll can be helpful against Sun before Mega Evolving, so that is the preferred ability. If Mega Venusaur is Bold, then 16 Speed EVs can be used to outspeed max Speed Mega Mawile and Azumarill. The EVs can be customized to your needs, since there are no vital benchmarks for Mega Venusaur.
+
+16 Speed EVs are used in order to outrun Adamant Azumarill and Mawile, though 20 Speed EVs should be used with Hidden Power Fire to compensate for the imperfect Speed IV it forces Venusaur to use. However, these EVs should be moved into Venusaur's defenses and a Relaxed nature should be used if Knock Off or Earthquake is chosen in the final slot. The rest of the EVs focus on making Venusaur as physically bulky as possible, but a specially defensive spread is also a viable option in order to let it deal with Pokemon such as Manaphy and Raikou more effectively. Chlorophyll is more useful than Overgrow prior to Mega Evolving, as it occasionally allows Venusaur to pick up a temporary Speed boost against teams that use Mega Charizard Y.
 
 Usage Tips
 ========
-Try to Mega Evolve early so that Mega Venusaur can act as a tank all game. Talonflame and Mega Pinsir can try to set up on you, so it is important to keep pressure on them. Sludge Bomb does great damage to them on the switch. If you're unsure what a Pokemon is going to attack you with, Synthesis can be used to scout them Mega Venusaur is almost never OHKOed. Don't do this against set up sweepers, though. Mega Venusaur should use Synthesis often, since it is worn down by hazards easily, and it takes a lot of hits.
+
+Getting Venusaur in early so it can Mega Evolve is extremely valuable when attempting to switch it in later thanks to the addition of Thick Fat and the increase in its defensive stats. Also, try to make sure Venusaur's HP is high whenever it switches back out, as it needs to be healthy in order to safely switch in against powerful threats such as Choice Specs Keldeo. Synthesis can be used to scout the movesets of faster Pokemon, but be wary of those with access to setup moves. If you opt for a coverage move in the last slot, try to hide it until you're sure you can hit your intended target.
 
 Team Options
 ========
-Rotom-W is a good partner to take on all of the Flying-types that give Mega Venusuar trouble. Aegislash is also a good one that deals with most Psychic-types. Heatran has great synergy with Mega Venusaur and walls attackers that Mega Venusaur can't. Together, the two form a very potent defensive core. Mega Venusaur fits well on many different kinds of teams and does not need much support other than a way to cover its weaknesses.
+
+Defensive Venusaur makes itself at home on teams utilizing any of several different playstyles, but particularly balance and stall. Therefore, it can be used with almost any Pokemon that synergizes well with it defensively. Heatran forms an outstanding defensive core with Venusaur, as it is capable of taking Flying- and Psychic-type attacks with ease. Rotom-W works similarly, serving as a counter to almost any user of Flying-type attacks. Aegislash is also a great switch-in to many Flying- and Psychic-types, such as Latios. Excadrill and Slowbro are good partners for Venusaur by virtue of their typing. Skarmory and Bisharp pair decently with Venusaur as well, as Venusaur can cover their major weaknesses and vice versa. On stall teams, Clefable and Quagsire are effective alongside Venusaur because of their ability to deal with the setup sweepers it struggles against.
+
 
 Other Options
 ########
-An Offensive Mega with maximum Special Attack can surprise opponents with its power. A Chlorophyll sweeper in the sun with Venusaur's base forme is usable on dedicated Sun teams, but sun is a mediocre strategy. SubSeed can be used with Mega Venusaur, but it's easily shut down. Other than its standard set, Venusaur doesn't have a huge amount of variety.
+
+Venusaur has no shortage of other options. First off, a Chlorophyll set without Venusaurite is usable with sun support from Mega Charizard Y. Power Whip is a physical Grass-type STAB option, but it leaves Venusaur prone to burns, and Venusaur appreciates the recovery that Giga Drain affords. Growth, Swords Dance, and Curse are all viable boosting moves that Venusaur can use. Stun Spore cripples the many fast Pokemon that like to switch in against Venusaur, but Sleep Powder is generally better, and Venusaur will rarely find room for both. Protect can be used alongside Leech Seed, but it often gives the opponent a free turn to switch out or set up. Grass Whistle is capable of putting Grass-types and Pokemon with Overcoat to sleep, but its low accuracy means that it is generally inferior to Sleep Powder.
+
 
 Checks & Counters
 ########
-- **Steel-types**: Skarmory walls sets without Hidden Power Fire, does good damage with Brave Bird, and sets up hazards on Venusaur. Scizor can set up with Swords Dance on sets that lack it as well, and Ferrothorn can stack hazards on it. Heatran is an easy switch-in if it lacks Earthquake.
 
-- **Psychic-types**: Latios and Latias can switch in fairly easily and threaten Venusaur out with Psyshock.
+**Flying-types**: Flying-types such as Talonflame, Mega Pinsir, Staraptor, Skarmory, and Tornadus-T can switch in on Giga Drain and inflict massive damage on Venusaur with a super effective STAB move. However, most of them need to watch out for Sleep Powder and Sludge Bomb.
 
-- **Flying-types**: Talonflame, Mega Pinsir, and Tornadus-T can do a lot of damage with their Flying-type attacks, although they don't enjoy Sludge Bomb. Crobat is rare but good counter as well, being able to Taunt it and hit hard with Brave Bird.
+**Psychic-types**: Psychic-types such as Latios, Latias, Alakazam, Gothitelle, and Reuniclus easily take care of Venusaur with their STAB moves, only fearing Sleep Powder and Knock Off. However, a Sludge Bomb from the offensive set will deal significant damage to all of them.
 
-- **Set Up Sweepers**: Not all of them, but Volcarona and Dragonite can accrue boosts, and Garchomp can take a hit or two while it sets up a Swords Dance.
+**Steel-types**: If Venusaur lacks the appropriate coverage move, Steel-types such as Ferrothorn, Scizor, Heatran, Aegislash, and Escavalier can switch in on it with impunity and either set up or attack. However, none of them bar Ferrothorn handle Leech Seed well, and only Ferrothorn and Escavalier can switch in on Sleep Powder.
 
-- **Tyranitar**: It can switch in, take little even from Giga Drain and bring sand that ruins Venusaur's recovery.
+**Kyurem-B**: Teravolt allows Kyurem-B to bypass Thick Fat and KO Venusaur with Ice Beam. It can switch in on Giga Drain easily, and it often carries Substitute to block status and Leech Seed.
 
-- **Gengar**: Gengar resists both STABs and is immune to Earthquake, so it can come in, set up a Substitute, and wear down Venusaur as long as it has some form of recovery.
+**Gengar**: Gengar resists both of Venusaur's STAB moves and is immune to Earthquake. It can also run Taunt or Substitute to deal with status and Leech Seed, meaning that it only fears Knock Off.
 
-- **Kyurem-B**: Thanks to Teravolt, its Ice Beam is still super effective and extremely powerful. It also has great bulk to switch in easily.
+**Chesnaught**: Thanks to Bulletproof and its Grass typing, Chesnaught can switch in on any of Venusaur's attacks other than Hidden Power Fire and proceed to set up Spikes.
+
+**Chansey and Blissey**: Venusaur is walled by Chansey and Blissey if it lacks Leech Seed. However, Knock Off will cripple them both, especially Chansey.
+
+**Setup Sweepers**: Bulky setup sweepers such as Volcarona and Dragonite don't mind Venusaur's attacks, especially if they have ways of dealing with Sleep Powder.
+
+**Weather**: Weather conditions other than sun will reduce the amount of HP restored by Synthesis to a mere 25% of Venusaur's maximum HP.

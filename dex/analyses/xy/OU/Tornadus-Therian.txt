@@ -3,7 +3,42 @@ Overview
 
 With access to an amazing offensive ability in Regenerator, Tornadus-T returns to OU as a fantastic offensive pivot. Regenerator offsets both Life Orb and Stealth Rock damage, reducing the overall damaging effect of entry hazards, and works fantastically with U-turn. With its blazing Speed stat and good movepool, Tornadus-T is able to outspeed most of the unboosted metagame and hit hard with its good Special Attack stat. The main downside to using Tornadus-T is its over-reliance on rain if it wants to use its most powerful STAB, Hurricane. Also, while Flying may be a fantastic offensive typing, it is fairly lackluster defensively, limiting the amount of Pokemon Tornadus-T can switch into. While Tornadus-T can do a lot of damage once its on the field, it requires proper team support and planning to get in, limiting its overall use in the metagame.
 
-Pivot
+Assault Vest
+########
+name: Assault Vest
+move 1: Hurricane
+move 2: Focus Blast
+move 3: Knock Off
+move 4: U-turn
+item: Assault Vest
+evs: 132 HP / 160 SpA / 216 Spe
+nature: Timid
+
+Moves
+========
+
+Hurricane is Tornadus-T's STAB attack and largest source of damage; the accuracy is a necessary evil because the only alternative is Air Slash, which can't even KO Keldeo. Focus Blast provides important coverage on Pokemon that resist Flying, such as Tyranitar and Heatran, and 2HKOes Ferrothorn. Knock Off is a major detriment to most defensive switch-ins to Tornadus-T, especially because it threatens Mega Venusaur greatly, one of the best Mega Evolutions for balanced and bulky offensive teams. It can get rid of Heatran's Leftovers or Chansey's Eviolite, for example, to allow Tornadus-T and its teammates to break through them more easily. It also lets Tornadus-T function as a more effective Landorus check, getting rid of its Life Orb, which is a huge source of power for it. U-turn rounds out the set perfectly, as it is simply a great move, working well in tandem with Regenerator to let Tornadus-T pivot out of threatening Pokemon and keep the momentum in its team's favor whilst it is healed.
+
+Heat Wave particularly annihilates Ferrothorn and Skarmory, but Focus Blast already 2HKOes both, and the loss of coverage on Heatran and Tyranitar is significant. Superpower is a potential option over Focus Blast for a 100% accurate Fighting-type coverage move that does more damage to Tyranitar and Heatran; however, it does barely anything to Ferrothorn and moreover forces Tornadus-T to run a Hasty nature for it to have a decent damage output, which unnecessarily compromises its physical bulk.
+
+Set Details
+========
+
+The EVs give Tornadus-T a guaranteed OHKO on Keldeo with Hurricane whilst allowing it to outspeed Choice Scarf Tyranitar and still having some bulk to take on the likes of Landorus and Choice Specs Keldeo better. The choice of a Timid nature over Hasty might seem odd, as this set has two physical moves; the reasoning is that neither is used for its power or coverage, but for pure utility, meaning the decrease in physical bulk is not worth a slightly increased damage output.
+
+Usage Tips
+========
+
+The function of this Tornadus-T is to pivot into special attackers, most notably handling Landorus admirably and checking Keldeo: it takes about 65% from Choice Specs Hydro Pump and is able to threaten an OHKO in return with Hurricane. As the opponent switches out to some sort of defensive answer, Knock Off is usually the best option to cripple it, and then Tornadus-T should U-turn out to get Regenerator recovery. If Tornadus-T has already gotten rid of the threat's item, or you don't want something like Mega Charizard X or Mega Mawile to pick up the momentum, then a flat U-turn is the best option. If you see that the opponent doesn't really have any good switch-ins, then firing off a Hurricane is a good option. Most of the time, however, Tornadus-T's best move is U-turn, as it has literally zero downsides, giving its team momentum and Tornadus-T back a good chunk of its health.
+
+Team Options
+========
+
+One of this Tornadus-T's primary roles is as a Landorus check for stall, which tends to have enormous issues with it. Defog support from the likes of Skarmory or Mandibuzz is very much appreciated, as even with Regenerator, Stealth Rock is simply too much of a detriment to Tornadus-T's hit-taking ability and longevity. Skarmory pairs especially well because it can deal with Tyranitar, which isn't OHKOed by Focus Blast and can tank Tornadus-T's other moves with ease. Furthermore, it can deal with Gyarados and Dragonite, which can take advantage of Tornadus-T to set up. Although irrelevant to Defog, Ferrothorn also fits well because it can handle these threats. Mandibuzz in conjunction with Tornadus-T ensures that you are mostly safe against Landorus, although it is slightly redundant. Bulky Will-O-Wisp Mega Charizard X, as well as Heatran to some extent, are good partners too, as they are able to put pressure on the Steel-types that stand in Tornadus-T's way. A good Mega Charizard X check of your own is imperative with Tornadus-T, which is complete setup fodder for the former barring confusion from Hurricane. Hippowdon, Quagsire, and Slowbro are good examples of such. Amoonguss can handle the Electric-types that threaten Tornadus-T and serves as a more reliable answer to Keldeo, forming a Regenerator core with Tornadus-T that can pivot around threats and generally stay healthy without giving up free turns to heal. Slowbro can be added to this core in order to take on Mega Charizard X, Mega Gyarados, and other attackers that threaten it.
+
+From a balanced and bulky offensive point of view, Tornadus-T pairs well with Mega Manectric and Raikou; the Electric-types cover Thundurus especially, while Tornadus-T deals with defensive Grass-types, most notably Mega Venusaur, and can check the Ground-type Choice Scarf users that threaten them. It can also fit well onto certain rain teams that want its defensive services, greatly appreciating perfect accuracy on Hurricane, but it is simply too weak as compared to Life Orb variants, which are much more difficult to deal with and typically the better option for an offensive rain team.
+
+Life Orb Attacker
 ########
 name: Pivot
 move 1: Hurricane / Air Slash

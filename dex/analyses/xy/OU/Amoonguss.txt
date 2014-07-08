@@ -8,22 +8,22 @@ Pivot
 name: Pivot
 move 1: Spore
 move 2: Giga Drain
-move 3: Foul Play
-move 4: Clear Smog
+move 3: Foul Play / Hidden Power Fire / Sludge Bomb
+move 4: Stun Spore / Clear Smog
 ability: Regenerator
 item: Black Sludge
-evs: 252 HP / 32 Def / 224 SpD
-nature: Calm
+evs: 252 HP / 252 Def / 4 SpD
+nature: Bold
 
 Moves
 ========
 
-Spore is the only 100% accurate sleep move in the game and is one of the main reasons to use Amoonguss. Giga Drain is boosted by STAB and heals Amoonguss, adding to its already great bulk and longevity. Foul Play allows Amoonguss to hit physical attackers hard on the switch-in and prevent it from being setup fodder for them, and moreover make it one of the best Aegislash checks in the game. Clear Smog is typically preferred in the last slot for the likes of Crocune, Calm Mind Clefable, and Calm Mind Manaphy, and to prevent Amoonguss from being setup fodder for any sweeper if another Pokemon on the opposing team has alredy been put to sleep. Alternatively, Sludge Bomb is Amoonguss's strongest reliable STAB move and has a useful 30% chance to poison, and boasts a decent damage output on the likes of Clefable, but the loss of Clear Smog actually causes it to lose to Calm Mind variants, which are very common, so it's typically not preferred. Hidden Power Fire is useful for hitting Ferrothorn, which is immune to Spore, and Mega Scizor, which it otherwise cannot significantly damage. Stun Spore is great alongside Spore, as it allows Amoonguss to spread status even further, but the loss of coverage is significant enough to prevent it from being preferred. Synthesis can be used for more reliable recovery, but it is a bit redundant with Regenerator, Giga Drain, and Black Sludge recovery, so it is generally inferior to Amoonguss's other moves.
+Spore is the only 100% accurate sleep move in the game and is one of the main reasons to use Amoonguss. Giga Drain is boosted by STAB and heals Amoonguss, adding to its already great bulk and longevity. Foul Play prevents Amoonguss from being setup fodder for physical attackers and lets it handle Aegislash quite nicely. Hidden Power Fire is useful for hitting the Grass-types that are immune to Spore, particularly Ferrothorn. It also hits Scizor fairly hard. Alternatively, Sludge Bomb is Amoonguss's strongest reliable STAB move and has a 30% chance to poison, though its coverage is only useful for hitting Clefable super effectively. Hidden Power Ice can be used instead if Dragon-types are of particular concern. Stun Spore is great alongside Spore, as it allows Amoonguss to spread status even further. On the other hand, Clear Smog helps prevent it from being setup bait, though some Pokemon such as Talonflame, which can threaten Amoonguss without setting up, can still use it as setup bait. In addition, Steel-type sweepers such as Lucario and Scizor are not affected by the move, so they have free reign to set up on Amoonguss if it has already put something else on the opposing team to sleep. Synthesis can be used for more reliable recovery, but it is a bit redundant with Regenerator, Giga Drain, and Black Sludge recovery, so it is generally inferior to Amoonguss's other moves.
 
 Set Details
 ========
 
-EVs are put into HP and Special Defense to allow Amoonguss to function as a solid Keldeo, Aegislash, and non-Hidden Power Flying or Psychic Thundurus counter. It avoids the 2HKO from Choice Specs Keldeo's Hidden Power Flying, for example. It also achieves feats such as surviving Greninja's Life Orb-boosted Ice Beam and being able to put it to sleep. The Defense EVs ensure it is never 2HKOed by Choice Band Azumarill's Play Rough after Stealth Rock damage. A spread of 252 HP / 120 Def / 136 SpD with a Bold nature can also be used if Amoonguss is your sole check to Belly Drum Azumarill, allowing it to survive a +6 Play Rough 100% of the time, or even 252 HP / 252 Def / 4 SpD with a Bold nature to handle Azumarill reliably and even other physical threats. However, the loss of bulk against the aforementioned threats is heavily noticed. Black Sludge is the preferred item, as it provides great passive healing in conjunction with Regenerator. Leftovers can be used over Black Sludge, but Black Sludge is more useful as it cripples Trick users and deters them from using Trick on Amoonguss at all.
+EVs are put into HP and Defense to capitalize on Amoonguss's great resistances to common physical attacks. This allows it to switch in on and stop powerful physical sweepers such as Lucario by either putting them to sleep or paralyzing them. However, a specially defensive spread of 252 HP / 4 Def / 252 SpD with a Calm nature can be used if special attackers are more threatening to your team. Black Sludge is the preferred item, as it provides great passive healing in conjunction with Regenerator. Leftovers can be used over Black Sludge, but Black Sludge is more useful as it cripples Trick users and deters them from using Trick on Amoonguss at all.
 
 Usage Tips
 ========
@@ -47,18 +47,16 @@ An Assault Vest set with Foul Play and Clear Smog is an option as it pairs nicel
 Checks & Counters
 ########
 
-**Setup Sweepers**: After it has put something to sleep, Amoonguss is setup fodder for a wide variety of Pokemon, especially ones that threaten it initially or are immune to Clear Smog. Scizor can set up on Amoonguss if it lacks Hidden Power Fire or Stun Spore, while Dragonite takes little from Hidden Power Ice thanks to Multiscale and can set up on Amoonguss with Dragon Dance. Fire-types such as Talonflame, Mega Charizard X, and Volcarona threaten Amoonguss with their powerful STAB moves, and can also set up on it, although they are crippled by Stun Spore. Reuniclus doesn't mind Stun Spore that much and is able to set up on Amoonguss with Calm Mind and overpower it with STAB Psychic-type moves.
+**Setup Sweepers**: After it has put something to sleep, Amoonguss is setup fodder for a wide variety of Pokemon, especially ones that threaten it initially or are immune to Clear Smog. Scizor can set up on Amoonguss if it lacks Hidden Power Fire or Stun Spore, while Dragonite takes little from Hidden Power Ice thanks to Multiscale and can set up on Amoonguss with Dragon Dance. Fire-types such as Talonflame, Mega Charizard X, and Volcarona threaten Amoonguss with their powerful STAB moves, and can also set up on it, although they are crippled by Stun Spore.
 
 **Strong Fire-, Flying-, Ice-, or Psychic-types**: Amoonguss might be very bulky, but like most Pokemon, it does not take super effective STAB moves very well. Pokemon such as Talonflame, Latios, Heatran, and Kyurem-B can all dent Amoonguss with their respective STAB attacks.
 
-**Steel-types**: Amoonguss has problems beating certain Steel-types. As a Grass / Steel type, Ferrothorn is immune to Spore, Stun Spore, and Sludge Bomb, takes very little from Giga Drain, and is only 3HKOed by uninvested Hidden Power Fire at best. Likewise, it can set up hazards on Amoonguss, mitigating the effectiveness of Regenerator. Forretress is similar in this regard, but it must be more cautious of Hidden Power Fire, and unlike Ferrothorn, it is not immune to Spore unless it has Overcoat. Skarmory fears none of Amoonguss's attacks, including Hidden Power Fire, and can use it as Spikes fodder or hit it hard with Brave Bird, but it too must be cautious of Spore.
+**Steel-types**: Amoonguss has problems beating certain Steel-types. As a Grass / Steel type, Ferrothorn is immune to Spore, Stun Spore, and Sludge Bomb, takes very little from Giga Drain, and is only 3HKOed by uninvested Hidden Power Fire at best. Likewise, it can set up hazards on Amoonguss, mitigating the effectiveness of Regenerator. Skarmory fears none of Amoonguss's attacks, including Hidden Power Fire, and can use it as Spikes fodder or hit it hard with Brave Bird, but it too must be cautious of Spore.
 
 **Opposing Grass-types**: In general, opposing Grass-type Pokemon are a problem for Amoonguss, as they are immune to Spore and Amoonguss is not powerful enough to break through very many them, even with super effective attacks. Mega Venusaur in particular is neutral to Sludge Bomb, Hidden Power Fire, and Hidden Power Ice.
-
-**Magic Bounce Pokemon**: Similarly, Magic Bounce Pokemon are immune to Spore and can either hit Amoonguss hard with STAB Psychic-type moves in the case of Espeon and Xatu or set up Swords Dances on it in the case of Mega Absol. Do note, however, that Amoonguss is immune to its own status moves being bounced back at it due to its Grass typing.
 
 **Entry Hazards**: Spikes and Stealth Rock can help in wearing down Amoonguss, as they prevent it from making full use of Regenerator.
 
 **Taunt**: Amoonguss is crippled by Taunt from the likes of Deoxys-D, Deoxys-S, and Sableye. Deoxys-D in particular can set up entry hazards very easily against a Taunted Amoonguss thanks to its huge bulk.
 
-**Clerics**: Heal Bell and Aromatherapy users are able to heal opposing teams of Amoonguss's status spreading in a single turn. Chansey and Blissey in particular laugh at Amoonguss's attacks, and thanks to Natural Cure, can't be crippled by Spore or Stun Spore themselves.
+**Clerics**: Heal Bell and Aromatherapy users are able to heal opposing teams of Amoonguss's status spreading in a single turn. Chansey in particular laughs at Amoonguss's attacks, and thanks to Natural Cure, can't be crippled by Spore or Stun Spore.

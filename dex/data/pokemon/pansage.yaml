@@ -5,7 +5,7 @@ pokemon:
     egggroups:
     - [Ground]
     height: [0.6]
-    introduction: dp
+    introduction: bw
     moves:
     - bw: [Acrobatics, Astonish, Attract, Bite, Bullet Seed, Covet, Crunch, Cut, Dig,
         Double Team, Endeavor, Energy Ball, Facade, Flash, Fling, Frustration, Fury
@@ -49,7 +49,7 @@ pokemon:
     - [Ground]
     evolvesFrom: [Pansage]
     height: [1.1]
-    introduction: dp
+    introduction: bw
     moves:
     - bw: [Brick Break, Focus Blast, Giga Impact, Hyper Beam, Rock Slide, Superpower]
     - xy: [Brick Break, Focus Blast, Giga Impact, Hyper Beam, Rock Slide, Superpower,

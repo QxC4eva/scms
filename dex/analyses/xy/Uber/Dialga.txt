@@ -1,75 +1,120 @@
 Overview
 ########
-- Large bulk and excellent defensive typing allows it to easily find turns to attack or setup Stealth Rock
-- Easily beats every common Defog user found in Ubers
-- Very versatile, can be surpising with different moves or sets
-- Vulnerable to the Ground-types found on nearly every team
+
+Dialga has consistently been a cornerstone of Ubers play since its introduction. It is an extremely reliable Stealth Rock user on account of its solid defenses and an incredible type combination that affords it nine resistances and an immunity to Poison-type moves. Dialga's Steel / Dragon typing is just as spectacular offensively, especially when its base 150 Special Attack and wide movepool are taken into account. These traits establish Dialga as one of the most versatile Pokemon in the metagame and make it notoriously difficult to switch into. Aside from its average Speed, lack of reliable recovery, and weakness to common Ground-type moves, Dialga does not really have any shortcomings at all; it has the stats, movepool, and typing to find a way around every single one of its checks and counters. Unfortunately, its common attacking moves have had their Base Power reduced, and the Steel-type has lost some defensive potency, but these are not major issues. Ultimately, Dialga is a Pokemon that can pull its weight on practically any team and is very easy to find room for.
 
 Defensive
 ########
 name: Defensive
-move 1: Draco Meteor
-move 2: Stealth Rock
-move 3: Toxic
+move 1: Stealth Rock
+move 2: Toxic
+move 3: Draco Meteor
 move 4: Fire Blast / Roar
 ability: Pressure
 item: Leftovers
+evs: 248 HP / 8 SpA / 252 SpD
 nature: Calm
-evs: 248 HP / 8 Def / 252 SpD
-
 
 Moves
 ========
 
-- Draco Meteor high base power helps make up for the lack of investment and let Dialga dent things and KO Giratina-O
-- Stealth Rock is a key utility move and the main reason to use this set
-- Toxic cripples support Arceus formes preventing them from spamming Defog
-- Fire Blast has good coverage with Draco Meteor and roasts Scizor before it can Superpower or Defog
-- Roar prevents Dialga from being setup fodder and lets it abuse hazards
-- Thunder hurts Kyogre
+Dialga is one of the sturdiest Stealth Rock users in Ubers, as its typing and defenses often allow it to switch in multiple times throughout a match to set up the entry hazard. Toxic is mainly used to cripple support Arceus formes hoping to switch in and clear the field with Defog, though it has plenty of utility against other threats as well. It also notably allows Dialga to check Electric Arceus, which is a very difficult task otherwise. Draco Meteor's high Base Power compensates for the lack of offensive EV investment, and it still OHKOes Defog Giratina-O. Fire Blast hits Steel-types super effectively, notably Defog Scizor. However, Roar can be used instead to prevent Dialga from becoming setup fodder for Pokemon that have ways of dealing with Toxic. Thunder is also an option in the last slot for Kyogre and Substitute or Taunt users such as Lugia, Ho-Oh, and Yveltal.
 
 Set Details
 ========
 
-- Maximum special bulk lets Dialga come in on support Arceus as many times as possible while serving as a check to offensive Kyogre variants
-
+A specially defensive EV spread maximizes Dialga's ability to deal with Arceus formes and various other specially based threats. Speed investment is an option, as Dialga enjoys outpacing other Pokemon in the base 90 Speed tier such as Ho-Oh. Additionally, an alternative EV spread of 248 HP / 56 SpA / 204 SpD with a Modest nature is viable. In exchange for some special bulk, such a spread lets Dialga hit slightly harder while retaining the ability to survive two of Kyogre's unboosted Water Spouts or two of Palkia's Lustrous Orb-boosted Spacial Rends.
 
 Usage Tips
 ========
 
-- Don't be predictable with your leads otherwise you'll find yourself starting games off with your Dialga against your opponent's Ground-type
-- Take advantage of the fact Dialga beats Defog users to keep Stealth Rock up throughout the game
-- At the same time, watch out for Scizor's Superpower, Earthquake from Giratina-O, and Will-O-Wisp from support Arceus formes so that Dialga stays healthy enough for the things you need it for
-- Dialga is a good Choice Scarf Kyogre check and can switch into Choice Specs Surf but don't rely too much on this as you'll often find yourself asking more out of Dialga than it has the HP to do
-- Dialga's bulk, typing, and strong Draco Meteor makes it very good at trading with Pokemon one-on-one
-
+Take advantage of Dialga's resistances and bulk as well as its ability to threaten Defog users; it can come in multiple times throughout a match to set up Stealth Rock if needed. That said, Dialga can still be worn down easily from repeated switch-ins because it lacks recovery outside of Leftovers. Also, Dialga should not always be led with, as it will often find itself starting against the opponent's Groudon or Landorus-T. Finally, it's worth noting that defensive Dialga is a good backup check to Kyogre, especially if it runs Thunder or Roar. It can also take on Palkia decently.
 
 Team Options
 ========
 
-- Dialga reduces the need to run strong Kyogre checks like Palkia, but keep in mind that Dialga will fall to defensive Kyogre and can only beat Choice Kyogre if it doesn't have to switch in often. Avoid using Pokemon that give Kyogre free turns, especially Choice Specs Kyogre.
-- Running powerful special attackers, like Deoxys-A or Thundurus, that can punish your opponent for leading with a Ground-type increases the odds of you starting the game in a favorable position.
-- Every team appreciates constantly having Stealth Rock up but Dialga's reliability at maintaining the entry hazard can help serve as an indirect check to threats like Ho-Oh and Charizard for teams that are weak to them.
+In general, this variant of Dialga provides support for its teammates as opposed to requiring support of its own. Still, many Pokemon pair well with it. Ho-Oh, Lugia, Giratina-O, Rayquaza, Landorus-T, Shaymin-S, Thundurus, Mega Charizard Y, and Flying Arceus all have remarkable defensive synergy with Dialga. Yveltal, Kyogre, Palkia, and Water Arceus can threaten Ground-types and Blaziken effectively. Lastly, Mega Gengar can trap and eliminate Pokemon that are particularly troublesome for this set due to the lack of coverage, notably Fairy-type clerics such as Sylveon and Xerneas.
 
+Offensive
+########
+name: Offensive
+move 1: Draco Meteor
+move 2: Flash Cannon
+move 3: Fire Blast
+move 4: Thunder / Stealth Rock
+ability: Pressure
+item: Life Orb / Adamant Orb
+evs: 252 SpA / 4 SpD / 252 Spe
+nature: Modest
+
+Moves
+========
+
+Draco Meteor is usually Dialga's go-to STAB move, and it OHKOes or severely dents anything bar Fairy-types, Steel-types, and special walls thanks to the boost from Dialga's held item. Courtesy of its secondary Steel typing, Dialga can viably run Flash Cannon, which deters Fairy-types from switching into Draco Meteor by threatening to dent any that do. It also scores a super effective hit on Rock-types such as Tyranitar, Terrakion, and Rock Arceus. Fire Blast hits most Steel-types hard even after a special attack drop from Draco Meteor, particularly if a Life Orb is used. Thunder is primarily for Kyogre and Water Arceus, but it also hits certain special walls and tanks super effectively, including Lugia and Ho-Oh. If Thunder is unappealing, Stealth Rock is an option for use on more offensive teams that would otherwise lack a user of the move. However, it should be noted that without a status move, Dialga cannot reliably keep the entry hazard up against many Arceus formes that carry Defog.
+
+Set Details
+========
+
+A Modest nature with maximum Special Attack and Speed investment maximizes Dialga's damaging potential and allows it to at least tie with other neutral-natured base 90 Speed Pokemon. A Timid nature can be used, but this causes Dialga to miss out on important potential OHKOs on Pokemon such as Groudon. Using an Adamant Orb over a Life Orb yields a similar drawback but improves Dialga's longevity.
+
+Opting for an alternative EV spread of 152 HP / 252 SpA / 20 SpD / 84 Spe gives Dialga a small amount of added bulk with minimal Life Orb recoil and allows it to outspeed everything up to Pokemon with an uninvested base 100 Speed. This spread should be changed to 168 HP / 252 SpA / 4 SpD / 84 Spe if an Adamant Orb is used, as Life Orb recoil is not a factor.
+
+Usage Tips
+========
+
+Offensive Dialga's Draco Meteor can actually OHKO all but the bulkiest of Ground- and Fighting-types that lack a secondary Steel typing, and Dialga easily threatens the Fairy- and Steel-types that can absorb a Draco Meteor with the appropriate move. However, be careful about using Draco Meteor against specially bulky Pokemon that can capitalize on the Special Attack drop it causes, such as Ho-Oh, Lugia, Blissey, and Calm Mind users. In addition, consider Dialga's bluffing potential as either a defensive Dialga (when at full HP) or a Choice-locked Dialga (when an Adamant Orb is equipped) to anticipate your opponent's reaction and smash them accordingly.
+
+Team Options
+========
+
+Flying-types and Levitating Ghost-types make for naturally great teammates, as they cover Dialga's two weaknesses effectively. More specifically, offensive Dialga particularly appreciates Pokemon that can deal with specially bulky foes such as Blissey and Heatran. These include strong physical attackers and powerful wallbreakers such as Landorus-T and Choice Specs Kyogre, the latter of which provides rain to alleviate Thunder's accuracy problems. This Dialga variant also benefits greatly from entry hazard support. A single layer of Spikes or Stealth Rock can secure crucial KOs such as an OHKO on Groudon and a 2HKO on Tyranitar, while Sticky Web support allows Modest Dialga to outspeed the entire unboosted metagame outside of Deoxys-S and Naive Deoxys-A.
+
+Choice Specs
+########
+name: Choice Specs
+move 1: Draco Meteor
+move 2: Flash Cannon
+move 3: Fire Blast
+move 4: Thunder
+ability: Pressure
+item: Choice Specs
+evs: 252 SpA / 4 SpD / 252 Spe
+nature: Modest
+
+Moves
+========
+
+Backed by Choice Specs, Draco Meteor devastates nearly anything, even most Steel-types. Flash Cannon hits Fairy- and Rock-types super effectively, and it discourages the former from switching into Dialga at all. Fire Blast provides coverage against Steel-types, while Thunder is used for Kyogre, Water Arceus, Lugia, and Ho-Oh. Dragon Pulse is a much more consistent option than Draco Meteor, but it is considerably weaker.
+
+Set Details
+========
+
+Maximizing Dialga's Special Attack stat causes its attacks to deal ludicrous amounts of damage with the boost from Choice Specs, while maximum Speed investment allows Dialga to outrun and OHKO bulkier Pokemon with a similar base Speed stat, such as support Groudon and defensive Yveltal. 168 HP / 252 SpA / 4 SpD / 84 Spe is an alternative EV spread that grants Dialga some added bulk while keeping its ability to outspeed everything up to Pokemon with an uninvested base 100 Speed intact. A Timid nature with the original EV spread is also viable in order to outpace Pokemon within the base 90-99 Speed range that commonly use a neutral Speed nature, such as Swords Dance Rayquaza.
+
+Usage Tips
+========
+
+Most of the time, abuse Draco Meteor; it hurts most Steel-types, and Fairy-types will rarely switch in on Dialga because they fear taking a Flash Cannon. However, Fairy-types become a problem once Dialga's set is revealed, as they can then switch into a predicted Draco Meteor with impunity and receive a free turn afterwards. Be wary of special walls and Calm Mind users as well, because these Pokemon can survive a Draco Meteor and exploit the resultant Special Attack drop. Aside from this, a Choice Specs Draco Meteor will flat out OHKO every single relevant Ground- and Fighting-type other than Fighting Arceus, Excadrill, Lucario, and Ground Arceus, and even then, the latter two have a chance to be OHKOed. Also, Choice Specs Dialga can safely bluff any other set while at full HP, meaning it's not a bad choice to lead with&mdash;it can easily end up OHKOing a Ground-type threat such as Groudon right off the bat.
+
+Team Options
+========
+
+Once again, Flying-types and Levitating Ghost-types make great teammates due to their defensive synergy with Dialga, while offensive juggernauts such as Mewtwo and Choice Specs Kyogre can muscle through the special walls that Dialga struggles against. A Toxic lure is also helpful for Pokemon such as Lugia, Ho-Oh, and Calm Mind users and aids Dialga in breaking past them later. This set also enjoys Sticky Web support due to Dialga's middling Speed.
 
 Other Options
 ########
 
-- Stone Edge can make quick work of a Ho-Oh but Dialga rarely has difficulties in dealing one, especially as it is such a reliable Stealth Rock setter.
-
-- Heal Block can prevent the use of Rest and other recovery moves for your opponent's team for 5 turns but Dialga has better options while switching around will quickly end those 5 turns.
+Dialga has a ton of other options, though many have decreased in effectiveness from previous generations. A Choice Scarf set is usable and notably effective at picking off weakened Extreme Killer Arceus. Air Balloon is another interesting item option for Dialga that is preferable to Magnet Rise because Magnet Rise takes up a moveslot. Aura Sphere and Earth Power are alternative coverage options that can hit Heatran super effectively, but they are inferior to Fire Blast against most other Steel-types. Similarly, Stone Edge or Power Gem can be used for Ho-Oh. Thunder Wave is a good status option that can neuter faster attackers. Heal Block works wonders against walls, but it is difficult to find room for. Dialga is a good user of Trick Room and can surprise many faster switch-ins with the move. Metal Burst is another intriguing option, but it is often too unreliable to be of much use. Dragon Tail can be used to phaze, but Roar is generally safer due to the existence of Fairy-types. Rest is Dialga's only reliable recovery move. Lastly, Bulk Up is yet another interesting option that can be used on a mixed lure set for Ground-types alongside Iron Head, Draco Meteor, and Fire Blast or Outrage. It can also be used on a RestTalk mono-attacking set with Iron Head, but this is rather gimmicky and wastes Dialga's formidable special attacking potential.
 
 Checks & Counters
 ########
 
-**Fairy-types**: Dialga can't really do anything to Fairy-types besides crippling them with Toxic or Fire Blast in the case of Klefki. However, Defensive Xerneas and Heal Bell Sylveon aren't even bothered by the use of Toxic while Dialga that opt for Roar become total Spikes fodder for Klefki.
+**Specially Bulky Clerics and Status Absorbers**: Dialga's standard support set is very difficult to outright counter, especially with the presence of Mega Gengar as a teammate. However, clerics such as Sylveon, Xerneas, and Blissey have no trouble against support Dialga. Specially defensive Kyogre can take on Dialga lacking Thunder. Many other specially bulky Pokemon are good answers to Dialga as well, especially if they have methods of dealing with Toxic. Heatran and defensive Mega Mewtwo Y are notable examples of this.
 
-**Ground-types**: Generally, the biggest struggle in dealing with Dialga is killing it, especially while trying to avoid trading blows. Groudon and Landorus-T both have powerful Earthquakes that will OHKO even a completely healthy Dialga if they run an offensive variant. Defensive variants of the Ground-types will still be able to heavily harm Dialga but keep in mind that they fail to OHKO by a large margin, often forcing you to trade your Earthquake for a Draco Meteor when dealing with a healthy Dialga. Short of Excadrill, Ground-types also have a lot of difficulty switching in directly due to Draco Meteor.
+**Ground- and Fighting-types**: Though they cannot switch in easily, Ground- and Fighting-types such as Groudon, Ground Arceus, Blaziken, and Mega Mewtwo X are capable of OHKOing Dialga with their STAB moves.
 
-**Defensive Kyogre**: Defensive Kyogre, especially with heavy special defense investment, can comfortably sponge most of Dialga's attacks. Rest heals off status and damage while Scald will eventually cripple Dialga with a burn that will eat its HP.
+**Arceus Formes**: Almost any variant of Arceus that doesn't mind Toxic is a good answer to Dialga, including Poison Arceus and Calm Mind + Refresh Water, Dark, or Fairy Arceus.
 
-**Fighting-types**: Blaziken and Mega Mewtwo X can both OHKO Dialga with Low Kick or use Bulk Up and Drain Punch to setup on Dialga in the case of Mewtwo. Neither enjoy trying to switch in on Dialga.
+**Ho-Oh**: Due to Regenerator, Ho-Oh doesn't mind Toxic as much as other special walls, fearing only Thunder. It can often safely set up a Substitute against Dialga or hit it hard with Sacred Fire or Earthquake.
 
-**Shadow Tag**: Gengar often use Focus Blast which allows it to trap and eliminate a softened Dialga. Gothitelle has no difficulty in setting up on defensive Dialga with Calm Mind unless it runs Roar. Wobbuffet can transform Dialga without Flash Cannon into a nearly completely free Geomancy for Xerneas thanks to Safegaurd blocking status and Encore locking Dialga out of Roar.
-
-
+**Anti-Leading**: Darkrai threatens Dialga in a lead scenario, as do Pokemon that can hit it super effectively, such as offensive Groudon.

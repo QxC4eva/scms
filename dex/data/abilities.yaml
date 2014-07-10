@@ -161,7 +161,7 @@ abilities:
     description: [Consumes pinch Berries at 50% HP or less.]
     introduction: dp
   Gooey:
-    description: [Contact with this Pokemon lowers the attacker's Speed stat by 1.]
+    description: [Contact with this Pokemon decreases the attacker's Speed 1 stage.]
     introduction: xy
   Grass Pelt:
     description: [This Pokemon's Defense is boosted by 50% in Grassy Terrain]

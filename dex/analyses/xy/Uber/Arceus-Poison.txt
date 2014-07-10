@@ -1,66 +1,106 @@
 Overview
 ########
-- In a metagame filled with Toxic, being naturally immune to the move gives Poison Arceus a significant advantage as a Calm Mind user.
-- The added buff to Poison-types through the resistence to Fairy-types and being able to hit them for SE damage allows this Arceus forme to serve as a check to the popular Geomancy Xerneas.
-- Despite the very poor offensive coverage that Poison has as well as the major weakness to Ground-types that it has defensively, Poison-Arceus is capable of minimizing these weaknesses through the use of Will-O-Wisp and raw bulk.
-- Although Psychic is normally a poor typing itself, it's still quite common and seen on some of the most dangerous offensive threats. Mewtwo is especially dangerous to Poison Arceus which is a crippling weakness to have.
+
+Although it might seem out of place in a metagame filled with powerful Psychic- and Ground-types, Poison Arceus shines because of its unique attributes. Unlike most Arceus formes, Poison Arceus is not affected by Toxic and absorbs Toxic Spikes, making it quite difficult for balanced or defensively inclined teams to break.  Its Poison typing brings useful resistances to Fairy and Fighting and neutrality to many common attack types, allowing Poison Arceus to easily set up Calm Mind or find turns to support its team with Defog. The typing also enables this particular Arceus forme to serve as a very solid check to the ubiquitous Xerneas, which no other Arceus forme can claim to do other than the risky Fire Arceus. However, Poison Arceus is still somewhat limited by the relative mediocrity of its STAB as an offensive type, and it brings weaknesses to common Ground- and Psychic-type attacks. Although the former can be overcome with Will-O-Wisp and raw bulk, the Psychic weakness makes Poison Arceus horrible bait for extremely threatening Pokemon such as Mewtwo. That being said, Poison Arceus's weaknesses are not too hard to cover, and its useful qualities make it relatively easy to fit onto teams.
 
 Calm Mind
 ########
 name: Calm Mind
 move 1: Calm Mind
-move 2: Recover
-move 3: Will-O-Wisp
-move 4: Judgment / Sludge Bomb
+move 2: Judgment / Sludge Bomb
+move 3: Will-O-Wisp / Fire Blast
+move 4: Recover
 item: Toxic Plate
-evs: 236 HP / 160 SpA / 112 Spe
+evs: 248 HP / 84 SpA / 176 Spe
 nature: Timid
 
 Moves
 ========
-- Calm Mind is Poison Arceus's niche as it allows it to take advantage of it's strong defensive typing, raw stats, and immunity to Toxic to be incredibly tough to crack.
-- Recover helps with being difficult to force out by easily keeping Poison Arceus in excellent condition.
-- Will-O-Miss rounds the set out by crippling physical attackers, especially the Ground-types Poison Arceus is weak to. It also compensates for Poison's terrible offensive coverage by crippling most of the things it can't touch like Steel-types.
-- Judgment is a strong consistent option while Sludge Bomb is nearly as strong but comes with a high chance of inflicting poison. That poison rate isn't as useful as it might appear, however, as it can collide with Will-O-Wisp. All the same, it helps significantly against threats that Will-O-Wisp can't touch like Ho-Oh.
-- Alternative coverage moves can be used over Will-O-Wisp but they are generally inferior.
-- Fire Blast is the last option to hit Steel-types and nails the two most common: Klefki and Scizor. It's fairly similar to Will-O-Wisp except that it doesn't cripple Ground-types besides the sun summoning Groudon and doesn't help with physical attackers in general.
-- Earth Power can hit some Steel-types like Dialga and Heatran as well as Poison-type.
-- Focus Blast also hits Steel-types but it gets supereffective coverage on targets like Ferrothorn in exchange for Klefki.
+
+Poison Arceus's inability to be put on a timer by Toxic makes it a very threatening user of Calm Mind. Judgment is generally the preferred STAB option for its higher Base Power. Sludge Bomb is slightly weaker, but carries a cool 30% poison rate that makes wearing down bulkier targets such as Ho-Oh slightly easier. Will-O-Wisp allows Poison Arceus to cripple Ground-types such as Groudon and Landorus-T and continue to set up against them, easily tanking weakened Earthquakes with its solid bulk. Will-O-Wisp also wears down Steel-types such as Klefki and Dialga that are immune to Poison-type attacks. Note that you should never use Sludge Bomb alongside Will-O-Wisp, lest Poison Arceus accidentally poisons a target such as Groudon that it would much rather burn. If you prefer a more proactive approach to dealing with Steel-types, Fire Blast easily cooks most of them save the uncommon Heatran. Fire Blast is still capable of hurting Dialga with a Calm Mind boost, and it deals decent damage to Groudon thanks to Drought. However, Will-O-Wisp is generally more useful, enabling Poison Arceus to set up on Ground-types and giving it utility in checking powerful physical threats such as Mega Lucario and Mega Kangaskhan. Recover rounds out the set by providing Poison Arceus with reliable recovery as it boosts.
 
 Set Details
 ========
-- The EV spread is for outspeeding Garchomp while being able to OHKO Fairy Arceus with a +1 Judgment. The rest is poured into HP to maximize bulk.
-- A simple max HP and max Speed ev spread can also be used if you want to be as fast and as bulky as possible. You can also maintain the same speed benchmark as the standard set but instead of increasing the special attack, place the remaining evs into HP and Defense, which helps it handle Earthquakes better.
+
+The Speed EVs allow Poison Arceus to outspeed Gengar before it Mega Evolves and hit it with Will-O-Wisp or Fire Blast before it has a chance to use Taunt or Destiny Bond. 84 Special Attack EVs allow Poison Arceus to always 2HKO Mewtwo with Judgment after Stealth Rock damage, even if Mewtwo Mega Evolves into Mega Mewtwo Y. The rest of the EVs go into HP to help Poison Arceus take hits as it sets up.
+
+That being said, there are plenty of ways to EV Poison Arceus. Fully investing in Speed to tie with other Calm Mind Arceus formes is possible. The Special Attack EVs can also be invested into Defense to take Earthquake and Mewtwo's Psystrike more effectively, or into Special Defense to give Poison Arceus a better chance of successfully setting up Calm Mind against Geomancy Xerneas.
 
 Usage Tips
 ========
-- Poison Arceus likes coming into play a lot to absorb status and spread around burns and damage.
-- That aggressive play suddenly changes when there is a Mewtwo on the opposing team as each time Poison Arceus is brought out becomes an additional opportunity for the offensive monster to tear another hole into your team.
-- Mega Gengar is another pest but one that Poison Arceus can play around if you are smart and burn it as it comes in.
+
+Poison Arceus is a flexible Pokemon and can be played aggressively to take advantage of its Toxic immunity and solid bulk in order to spread burns and potentially set up. Throwing out Will-O-Wisp aggressively to try to catch Mega Gengar or Ground-types isn't a bad idea. That being said, be very careful with Poison Arceus if the opponent has Mewtwo as it will easily stop Poison Arceus's sweep. Double switching with Poison Arceus and liberally using Judgment are effective ways to deny Mewtwo free turns. It should also be noted that Poison Arceus is effective Xerneas check; just be wary of Psyshock!
 
 Team Options
 ========
-- Having something to deal with Mewtwo is highly important when using Poison Arceus. Yveltal is an excellent candidate for this role as it also helps apply pressure on defensive Kyogre and Ho-Oh and can switch into Earthquakes aimed at Poison Arceus. It can help place pressure on Klefki so that it can be removed quickly without mountains of Spikes being placed on your field.
-- Ground-types like Groudon and Landorus-T can punish Steel-types that switch in to check Arceus. Landorus-T can also help check opposing Ground-types.
-- Reliable Stealth Rock setters like the aforementioned Ground-types or Dialga help Poison Arceus in fighting its way past Ho-Oh.
-- An additional Xerneas check to deal with the mediocre but present Psyshock Geomancy Xerneas is a worthwhile consideration. Scizor and Klefki are excellent in this role but general priority like Extreme Speed Genesect or Normal Arceus works as well. Also, general offensive pressure helps Poison Arceus to assume the role of Xerneas check in spite of Psyshock as it fails to OHKO even boosted with Stealth Rock in play while Judgment will deal a solid 44% damage, minimum, in return.
-- Defensive Kyogre is quite annoying and so is Heatran so a Rest Palkia variant makes for a helpful partner. You can also opt for more offensive punishes like Choice Specs Palkia or Choice Specs Kyogre if your goal is to make your opponent regret using Heatran in the first place. A similar idea can apply to defensive Kyogre with Choice Band or Mixed Zekrom, although Scald burns are highly bothersome.
+
+Mewtwo is the biggest threat to Poison Arceus as it is faster and easily OHKOes with Psystrike regardless of how many Calm Mind boosts Poison Arceus has, so having a good check to it is mandatory. Yveltal fills this role superbly, boasting an immunity to Psychic-type attacks and easily wrecking Mewtwo with Sucker Punch or with the aid of Choice Scarf. A physically defensive Yveltal can also aid in checking Mega Mewtwo X. Yveltal is also immune to Ground-type attacks, is good at pressuring tanks such as Ho-Oh and defensive Kyogre, and appreciates Poison Arceus's ability to check Fairy-types, making for an incredibly synergistic pair. Klefki is also a decent Mewtwo check, able to take a Psystrike and cripple Mewtwo with Prankster Thunder Wave. It can also set up Spikes to make Poison Arceus's sweep easier, and it can work as a backup Xerneas check in case Xerneas has Psyshock. If you are especially paranoid about Psyshock Xerneas, Scizor is a good backup check to finish it off after Poison Arceus hits it once, but it might not be necessary to go to such lengths if your team can apply sufficient offensive pressure to Xerneas. Scizor can also revenge kill a weakened Mewtwo with Bullet Punch. Victini can take most of Mewtwo's attacks and destroy it with V-create, and as a bonus it is great at pressuring Steel-type Pokemon. Choice Scarf users such as Kyogre can also work as reasonable Mewtwo checks.
+
+Speaking of Steel-types, they can be annoying to Poison Arceus if it lacks Fire Blast because it has no way to quickly KO them. In the same vein, Ground-types can also be annoying if Poison Arceus lacks Will-O-Wisp. Specially defensive Pokemon such as Kyogre and Ho-Oh are also difficult for Poison Arceus to break through. Landorus-T walls many Ground-type Pokemon and easily smashes Steel-types with its powerful Earthquake. It can also set up Stealth Rock to limit Ho-Oh's ability to switch into Poison Arceus. Palkia and Kyogre are also decent checks to both Ground- and Steel-type Pokemon, most notably Heatran which walls Poison Arceus regardless of whether it carries Will-O-Wisp or Fire Blast. Palkia is particularly useful as it is also an extremely solid check to Kyogre. Zekrom is good at pressuring Kyogre and Ho-Oh, and it can also lure in and cripple Ground-types with a surprise Draco Meteor. Zekrom shares a weakness to Ground-type attacks with Poison Arceus, however, so watch out.
+
+Although Poison Arceus is immune to Toxic, burns can still be annoying and paralysis can grind its sweep to a halt. As such, you might still want support from a cleric. Physically defensive Xerneas is a great cleric that can also serve as a decent Mewtwo check, able to completely wall Mega Mewtwo X and take a hit or two from Mega Mewtwo Y and retaliate with a strong Moonblast.
+
+Defog Support
+########
+name: Defog Support
+move 1: Defog
+move 2: Poison Jab
+move 3: Thunder Wave / Will-O-Wisp
+move 4: Recover
+item: Toxic Plate
+evs: 252 HP / 200 Def / 56 Spe
+nature: Impish
+
+Moves
+========
+
+One of the most common ways of pressuring support Arceus formes is to smack them with Toxic to ruin their ability to wall threats. However, Poison Arceus is immune to this move, which gives it much more longevity against more balanced teams. This, combined with its ability to act as an excellent Xerneas check, makes Poison Arceus an exceptional Defog user that is particularly dangerous to teams reliant on entry hazards. Poison Jab is preferred to Judgment due to ignoring the Special Defense boost from Geomancy. It 2HKOes all variants of Xerneas easily and wrecks frailer Fairy-types such as Sylveon. It also 3HKOes Gothitelle, preventing it from trapping Poison Arceus. Thunder Wave is the preferred status option as it cripples Mewtwo switch-ins and renders Xerneas unable to sweep regardless of whether or not it is in KO range for Poison Jab. That being said, Will-O-Wisp is still plenty viable for crippling Ground-types and Pokemon such as Klefki, Dialga, and Mega Lucario. Using Thunder Wave renders Poison Arceus vulnerable to Ground-types and unable to stall out Dialga and Klefki by itself whereas using Will-O-Wisp makes it setup fodder for Mewtwo, so carefully consider the needs of your team before picking which status option to use. Recover is invaluable for keeping Poison Arceus alive for as long as it is needed.
+
+Set Details
+========
+
+56 Speed EVs are just enough to outrun Adamant Rayquaza; the rest of the EVs go into HP and Defense with an Impish nature to take a boosted Psyshock from Xerneas as well as possible. The heavy investment in physical bulk also makes Poison Arceus a solid check to other physical threats such as Blaziken and Rayquaza, and it can take a Psystrike from Mewtwo if it needs to paralyze Mewtwo or use Defog. Because this set includes Thunder Wave, heavy Speed investment is not required.
+
+However, there is another, equally viable EV spread if using Will-O-Wisp: 252 HP / 160 Def / 96 Spe, with a Jolly nature. This allows Poison Arceus to outspeed Mega Kangaskhan and Palkia and use Will-O-Wisp before they can retaliate. This EV spread is still serviceable for checking Geomancy Xerneas, as it too allows Poison Arceus to survive a boosted Psyshock after Stealth Rock damage. If you have a backup Xerneas check such as Scizor or Klefki on your team, then this EV spread is highly preferred over the listed spread.
+
+Usage Tips
+========
+
+This variant of Poison Arceus is an extremely reliable Defog user that can double as a reliable Xerneas check, so it should be used on balanced teams in need of a Pokemon that can do both. The Toxic immunity and ability to absorb Toxic Spikes also makes Poison Arceus very difficult for stall teams to KO and lessens the need for a cleric on balanced teams, which can help free up teambuilding options. Xerneas has a hard time breaking through Poison Arceus, failing to OHKO with Psyshock and only having a low chance to 2HKO with Thunder while it gets crippled by Thunder Wave and smashed by Poison Jab. If it runs Will-O-Wisp, Poison Arceus can defeat Klefki and Dialga one-on-one without them being able to set up entry hazards, something no other Defog user can do. However, taking a turn to use Defog can give something like Mewtwo a free turn to come in, so try to cripple it with Thunder Wave first, and make sure your team is well equipped to deal with it.
+
+Team Options
+========
+
+Flying-types make great partners for this set, covering Poison Arceus's Ground-type weakness (especially if using Thunder Wave instead of Will-O-Wisp) while benefiting from Defog removing Stealth Rock. Yveltal is an excellent partner as it handles Mewtwo well while benefiting highly from Poison Arceus's ability to check Fairy-types. Rayquaza and Ho-Oh are also solid partners that can help break down threatening Ground-types. Lugia benefits hugely from Defog and is an extremely solid check to most Ground-type Pokemon.
+
+Mega Gengar is somewhat problematic for this set due to being able to Taunt Poison Arceus to stop Defog and trap it with Shadow Tag. Pursuit trappers such as Chople Berry Tyranitar and Mega Scizor can make Mega Gengar much less of a threat; Tyranitar checks Ho-Oh, Heatran, and Mewtwo while Scizor can serve as a backup Xerneas check. Mega Scizor can also work as a check to Extreme Killer Arceus, which can be important as Poison Arceus is not a terribly good Extreme Killer check due to its weakness to Earthquake, even if it has Will-O-Wisp.
+
+Other than that, Palkia, Landorus-T, and physically defensive Xerneas work well with this set. As this set fits on more balanced teams, Hippowdon can also be considered as a teammate, providing Stealth Rock to help limit Ho-Oh and serving as a check to Ground- and Steel-type Pokemon. It works similarly to Landorus-T, but it can also check Extreme Killer Arceus thanks to Whirlwind.
 
 Other Options
 ########
-- Defog can be used to make Poison Arceus a support set. However, Calm Mind covers essentially the same roles except hazards control while being much more dangerous to deal with in general.
-- Poison Jab is also an option on a support set but, again, the support set is pretty much outclassed by the Calm Mind variant and using a physical attack as your main stab means that your Poison Arceus can't absorb burns like before.
-- Grass Knot can easily remove Groudon and help with defensive Kyogre but it's a mediocre option outside of that.
+
+Poison Arceus has plenty of other options, but it has a hard time fitting them in. Earth Power wipes out Heatran and overeager Mega Gengar while doing solid damage to most other Steel-types, making it a solid option on the Calm Mind set. Grass Knot is useful for dealing solid damage to Groudon and Kyogre, but otherwise it has limited utility. Toxic is a useful option for crippling Mewtwo and Ho-Oh, and it never misses when used by a Poison-type. However, Toxic does nothing to Steel-types, which is problematic. Ice Beam can be used if you really need to OHKO Landorus-T or Gliscor. Stone Edge is a good option to make Poison Arceus into a decent Ho-Oh lure. Punishment is interesting for stopping Mewtwo and Ghost Arceus from trying to set up with Calm Mind, but staying in on these Pokemon is extremely risky and the move has little other utility. Roar isn't a bad option, allowing Calm Mind sets to win Calm Mind wars against other Arceus formes while all but guaranteeing that Xerneas will not be able to sweep.
 
 Checks & Counters
 ########
-- **Mewtwo**: An offensive monster that enjoys every free turn it gets, and Poison Arceus gives those free turns on a silver platter. Best Poison Arceus can do is not be brought in but if you do, double switching out of it, burning the possible Mega Mewtwo X, or simply getting chip damage with Judgment can go a long way. Mega Mewtwo Y is the most bothersome because it doesn't mind burns all too much and it has an increased Special Defense.
-- **Ghost Arceus**: Ghost Arceus resists Poison-type attacks and doesn't mind burns as it is often a special attacker. It can then use Calm Mind alongside of Poison Arceus and likely win the war to the critical hit as it has to use recover much less often thanks to that resist.
-- **Heatran**: Immune to Poison-type attacks and immune to Fire-type attacks, Poison Arceus can't do anything to this without opting for lesser coverage options like Earth Power or Focus Blast.
-- **Kyogre**: Defensive Kyogre can check Poison Arceus like it checks every Calm Mind Arceus forme not named Grass Arceus or Electric Arceus. The raw special bulk and Roar makes sure that Poison Arceus won't be pulling off sweeps unless it's the last mon remaining while Scald burns will add some useful chip damage in denying Poison Arceus free turns later on.
-- **Shadow Tag**: Gothitelle can use it's special defense to Calm Mind alongside Poison Arceus and then punch it with supereffective Psychic or Psyshock. Mega Gengar resists Arceus's STAB which allows it to easily switch in. However, Mega Gengar often struggles to do much back, especially since it's favorite attack options are Sludge Wave and Focus Blast. This forces it to rely on Destiny Bond which Poison Arceus's burn can bypass. In this case, the Poison-type resist can actually backfire as it gives Poison Arceus enough time to play mindgames between Taunt and Destiny Bond in the hopes of having the burn kill Gengar instead of an attack.
-- **Ho-Oh**: Large special bulk, immunity to burn, and strong physical attack makes Ho-Oh quite annoying to Poison Arceus. It's much less effective as a check if Stealth Rock is in play and/or Poison Arceus uses Sludge Bomb.
-- **Deoxys-A**: Deoxys-A is much like Mewtwo except that Psycho Boost doesn't bypass Calm Mind boosts and the enormous fragility of Deoxys-A means that it'll struggle to remain a presence beyond early-game, much less switch into Poison Arceus.
-- **Ground-types**: Offensive Ground-types can threaten Poison Arceus with their powerful Earthquakes and Poison-type resist. Even burned, Earth Plate boosted Earthquakes from Groudon or Landorus-T will be hitting the 50% range. Sadly, this means that Poison Arceus can often Recover stall the Earthquake until burn finishes off the Ground-type, in addition to the Ground-type being crippled for general use. Lum Berry can bypass the issue of burns, however, if it is brought into a one-on-one scenario. Gliscor is immune to burns once Toxic Orb is activated but it's weak Earthquake and soft Special Defense means it will lose to Poison Arceus, although it might just get in enough chip damage to set it up for a revenge kill.
-- **Giratina**: Resists Poison-type and can phaze out boosts with Dragon Tail. Burns are annoying, especially to Giratina-O, but Rest can be used to remove that issue.
-- **Dialga**: Is immune to Poison-type attacks and doesn't mind burns too much but can't do anything back to Poison Arceus besides phaze it out to be delt with later.
+
+**Mewtwo**: Mewtwo is the biggest threat to Poison Arceus by far, outspeeding it and easily KOing with its Psychic-type STAB regardless of how many Calm Mind boosts Poison Arceus has. However, it does need to be wary of Thunder Wave.
+
+**Heatran**: Heatran completely walls any set lacking Earth Power and it shuts down Poison Arceus with Taunt.
+
+**Kyogre**: Specially defensive Kyogre tanks hits from Poison Arceus pretty well and can mess it up with Scald burns and Roar.
+
+**Ho-Oh**: Ho-Oh easily takes most hits from Poison Arceus and destroys it with Sacred Fire or Earthquake.
+
+**Shadow Tag**: Pokemon with Shadow Tag are annoying because they render Poison Arceus incapable of switching out. Mega Gengar is the most threatening with Taunt and a 4x resistance to Poison-type attacks, but that same resistance can potentially screw it out of Destiny Bond if it gets burned. Gothitelle can potentially trap Poison Arceus, but it will either be 3HKOed by Poison Jab or have to win a Calm Mind war, so it is not reliable. Wobbuffet can take Poison Arceus down with Mirror Coat or use Encore to make it setup bait for a sweeper.
+
+**Deoxys-A**: Although it cannot come in on any damaging attack, Deoxys-A is faster than Poison Arceus and easily OHKOes with Psycho Boost.
+
+**Ghost Arceus**: Ghost Arceus can usually defeat Poison Arceus in a Calm Mind war given its own resistance to Poison-type attacks.
+
+**Ground-types**: Groudon, Landorus-T, Excadrill, and Ground Arceus all do a lot of damage to Poison Arceus with STAB Earthquake, but they are more often than not shaky checks due to the threat of Will-O-Wisp. Gliscor is immune to burns once its Toxic Orb activates, but its poor Special Defense and low Attack make it a subpar answer to Poison Arceus.
+
+**Steel-types with Recovery**: Some Pokemon cannot defeat Poison Arceus on their own, but they can stall it for a while or use it as bait to punish with entry hazards. Ferrothorn and Skarmory are notable examples so long as Poison Arceus is not running Fire Blast. Skarmory is particularly annoying due to the threat of Taunt. Mega Scizor can also Roost stall Poison Arceus indefinitely if Poison Arceus lacks a direct attack other than its STAB move, but it cannot hurt it much directly.
+
+**Paralysis**: Paralysis ruins Poison Arceus's sweeping potential and can make it vulnerable to threats it could otherwise check, such as Palkia.

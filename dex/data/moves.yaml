@@ -3543,6 +3543,17 @@ moves:
     priority: [0]
     target: [enemies]
     type: [Normal]
+  Hyperspace Hole:
+    accuracy: [0]
+    category:
+    - Special
+    description: [Ignores the effects of Protect and Detect.]
+    introduction: xy
+    power: [80]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Psychic]
   Hypnosis:
     accuracy: [60]
     category:
@@ -6689,6 +6700,17 @@ moves:
     priority: [0]
     target: [enemyfield]
     type: [Rock]
+  Steam Eruption:
+    accuracy: [95]
+    category:
+    - Special
+    description: [30% chance to burn the target.]
+    introduction: xy
+    power: [110]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Water]
   Steamroller:
     accuracy: [100]
     category:

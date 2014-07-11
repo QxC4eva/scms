@@ -1,0 +1,17 @@
+pokemon:
+  Volcanion:
+    abilities:
+    - [Water Absorb]
+    egggroups:
+    - []
+    height: [1.7]
+    introduction: xy
+    moves:
+    - [Steam Eruption, Flare Blitz, Take Down, Mist, Haze, Flame Charge, Water Pulse, Stomp, Scald, Weather Ball, Body Slam, Hydro Pump, Overheat, Explosion, Roar, Toxic, Sunny Day, Hyper Beam, Protect, Frustration, Solar Beam, Smack Down, Earthquake, Return, Brick Break, Double Team, Sludge Wave, Flamethrower, Sludge Bomb, Sandstorm, Fire Blast, Facade, Rest, Round, Focus Blast, Fling, Incinerate, Will-O-Wisp, Giga Impact, Stone Edge, Gyro Ball, Bulldoze, Rock Slide, Swagger, Sleep Talk, Substitute, Flash Cannon, Rock Smash, Confide, Cut, Strength, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [80, 110, 120, 130, 90, 70]
+    tags:
+    - [OU]
+    types:
+    - [Fire, Water]
+    weight: [195.0]

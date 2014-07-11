@@ -1,0 +1,17 @@
+pokemon:
+  Hoopa:
+    abilities:
+    - [Magician]
+    egggroups:
+    - []
+    height: [0.5]
+    introduction: xy
+    moves:
+    - [Trick, Destiny Bond, Ally Switch, Hyperspace Hole, Confusion, Astonish, Magic Coat, Psybeam, Light Screen, Skill Swap, Power Split, Guard Split, Phantom Force, Wonder Room, Trick Room, Shadow Ball, Psychic, Psyshock, Calm Mind, Toxic, Sunny Day, Taunt, Hyper Beam, Protect, Rain Dance, Safeguard, Frustration, Thunderbolt, Return, Brick Break, Double Team, Reflect, Torment, Facade, Rest, Thief, Round, Focus Blast, Energy Ball, Fling, Charge Beam, Quash, Embargo, Giga Impact, Flash, Thunder Wave, Psych Up, Dream Eater, Grass Knot, Swagger, Sleep Talk, Substitute, Power-Up Punch, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [80, 110, 60, 150, 130, 70]
+    tags:
+    - [OU]
+    types:
+    - [Psychic, Ghost]
+    weight: [9.0]

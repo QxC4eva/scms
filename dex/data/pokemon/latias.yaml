@@ -3,6 +3,14 @@ pokemon:
     abilities:
     - [Levitate]
     - bw: [Levitate]
+    alts:
+    - xy:
+        Mega:
+          abilities: [Levitate]
+          height: 1.8
+          stats: [80, 100, 120, 140, 150, 110]
+          types: [Dragon, Psychic]
+          weight: 52
     egggroups:
     - []
     height: [1.4]

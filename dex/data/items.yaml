@@ -917,13 +917,7 @@ items:
   King's Rock:
     description:
     - Certain moves have an 11.7% flinch rate.
-<<<<<<< ours
     - dp: Moves recieve a 10% flinch chance, if they do not have one already.
-||||||| parent
-    - {dp: Moves recieve a 10% flinch chance, if they do not have one already.}
-=======
-    - {dp: 'Moves recieve a 10% flinch chance, if they do not have one already.'}
->>>>>>> theirs
     introduction: gs
   Kiss Cushion:
     description: [A Smoochum cushion. Place it on a mat or a desk.]

@@ -1350,6 +1350,17 @@ moves:
     - {bw: 4, dp: 3}
     target: [user]
     type: [Fighting]
+  Diamond Storm:
+    accuracy: [95]
+    category:
+    - Physical
+    description: [50% chance to boost user's Defense.]
+    introduction: xy
+    power: [100]
+    pp: [5]
+    priority: [0]
+    target: [enemies]
+    type: [Rock]
   Dig:
     accuracy: [100]
     category:

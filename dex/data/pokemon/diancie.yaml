@@ -1,0 +1,17 @@
+pokemon:
+  Diancie:
+    abilities:
+    - [Clear Body]
+    egggroups:
+    - []
+    height: [0.7]
+    introduction: xy
+    moves:
+    - [Tackle, Harden, Rock Throw, Sharpen, Smack Down, Reflect, Stealth Rock, Guard Split, Ancient Power, Flail, Skill Swap, Diamond Storm, Stone Edge, Moonblast, Light Screen, Safeguard, Calm Mind, Toxic, Hail, Sunny Day, Hyper Beam, Protect, Frustration, Return, Psychic, Double Team, Sandstorm, Rock Tomb, Facade, Rest, Round, Explosion, Giga Impact, Rock Polish, Flash, Gyro Ball, Psych Up, Rock Slide, Swagger, Sleep Talk, Substitute, Trick Room, Nature Power, Dazzling Gleam, Confide, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
+    stats:
+    - [50, 100, 150, 100, 150, 50]
+    tags:
+    - [OU]
+    types:
+    - [Rock, Fairy]
+    weight: [8.8]

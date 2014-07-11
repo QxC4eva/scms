@@ -3403,6 +3403,16 @@ moves:
     priority: [0]
     target: [normal]
     type: [Normal]
+  Hold Hands:
+    accuracy: [0]
+    category: [Non-Damaging]
+    description: [No in-game effect.]
+    introduction: xy
+    power: [0]
+    pp: [40]
+    priority: [0]
+    target: [ally]
+    type: [Normal]
   Hone Claws:
     accuracy: [0]
     category:
@@ -3996,6 +4006,16 @@ moves:
     priority: [0]
     target: [enemy]
     type: [Ghost]
+  Light of Ruin:
+    accuracy: [90]
+    category: [Special]
+    description: ['Has 1/2 recoil.']
+    introduction: xy
+    power: [140]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Fairy]
   Light Screen:
     accuracy: [0]
     category:
@@ -7244,6 +7264,26 @@ moves:
     priority: [0]
     target: [enemy]
     type: [Dark]
+  Thousand Arrows:
+    accuracy: [100]
+    category: [Physical]
+    description: ['Hits Pokemon in the air and knocks them to the ground.']
+    introduction: xy
+    power: [90]
+    pp: [10]
+    priority: [0]
+    target: [enemies]
+    type: [Ground]
+  Thousand Arrows:
+    accuracy: [100]
+    category: [Physical]
+    description: ['Prevents affected Pokemon from switching.']
+    introduction: xy
+    power: [90]
+    pp: [10]
+    priority: [0]
+    target: [enemies]
+    type: [Ground]
   Thrash:
     accuracy: [100]
     category:

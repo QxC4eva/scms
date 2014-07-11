@@ -59,3 +59,20 @@ pokemon:
     types:
     - [Fairy]
     weight: [10]
+  Floette-Eternal:
+    abilities:
+    - xy: [Flower Veil, Symbiosis]
+    egggroups:
+    - [Fairy]
+    evolvesFrom: [Flabebe]
+    height: [0.2]
+    introduction: xy
+    moves:
+    - xy: [Light of Ruin]
+    stats:
+    - [74, 65, 67, 125, 128, 92]
+    tags:
+    - []
+    types:
+    - [Fairy]
+    weight: [0.9]

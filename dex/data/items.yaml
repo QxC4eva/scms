@@ -25,9 +25,6 @@ items:
     description: [Makes the holder immune to Ground-type attacks. Disappears when
         holder is hit.]
     introduction: bw
-  Air Mail:
-    description: [Prevents Trick from working.]
-    introduction: dp
   Alakazite:
     description: [Mega-evolves Alakazam.]
     introduction: xy
@@ -83,15 +80,9 @@ items:
   Blazikenite:
     description: [Mega-evolves Blaziken.]
     introduction: xy
-  Brick Mail:
-    description: [Prevents Trick from working.]
-    introduction: dp
   BrightPowder:
     description: [Raises evasion 10%.]
     introduction: gs
-  Bubble Mail:
-    description: [Prevents Trick from working.]
-    introduction: dp
   Bug Gem:
     description: [Raises the power of a Bug-type move by 50%. One-time use.]
     introduction: bw
@@ -111,9 +102,6 @@ items:
   Charizardite Y:
     description: [Mega-evolves Charizard into Mega Charizard Y.]
     introduction: xy
-  Charmander Doll:
-    description: [A Charmander doll. Place in bedroom.]
-    introduction: gs
   Charti Berry:
     description: [Reduces damage from a super effective Rock-type attack by 50%. Consumed
         after use.]
@@ -191,9 +179,6 @@ items:
   Dragon Gem:
     description: [Raises the power of a Dragon-type move by 50%. One-time use.]
     introduction: bw
-  Drash Berry:
-    description: [Cures poison. One-time use.]
-    introduction: rs
   Dread Plate:
     description: [Raises power of the holder's Dark-type moves 20%. Pokemon with Multitype
         become Dark-type.]
@@ -230,9 +215,6 @@ items:
   Fist Plate:
     description: [Raises power of Fighting-type moves 20%. Pokemon with Multitype
         become Fighting-type.]
-    introduction: dp
-  Flame Mail:
-    description: [Prevents Trick from working.]
     introduction: dp
   Flame Orb:
     description: [Burns the holder.]
@@ -271,18 +253,12 @@ items:
   Ghost Gem:
     description: [Raises the power of a Ghost-type move by 50%. One-time use.]
     introduction: bw
-  Ginema Berry:
-    description: [Removes stat decreases. Consumed after use.]
-    introduction: rs
   Gold Berry:
     description: [Restores 30 HP when at 50% HP or less. One-time use.]
     introduction: gs
   Grass Gem:
     description: [Raises the power of a Grass-type move by 50%. One-time use.]
     introduction: bw
-  Grass Mail:
-    description: [Prevents Trick from working.]
-    introduction: dp
   Grip Claw:
     description: [Partial trapping moves last 6 turns.]
     introduction: dp
@@ -307,17 +283,11 @@ items:
   Hard Stone:
     description: [Raises power of Rock-type moves 10%.]
     introduction: rs
-  Heart Mail:
-    description: [Prevents Trick from working.]
-    introduction: dp
   Heat Rock:
     description: 
     - <a href="/dp/moves/sunny_day">Sunny Day</a> lasts 8 turns.
     - {xy: Sunny Day and Drought lasts 8 turns.}
     introduction: dp
-  Helix Fossil:
-    description: [Revives into Omanyte.]
-    introduction: rs
   Heracronite:
     description: [Mega-evolves Heracross.]
     introduction: xy
@@ -373,9 +343,6 @@ items:
     - Certain moves have an 11.7% flinch rate.
     - dp: Moves recieve a 10% flinch chance, if they do not have one already.
     introduction: gs
-  Kuo Berry:
-    description: [Cures burn. One-time use.]
-    introduction: rs
   Lagging Tail:
     description: [Makes the holder move last.]
     introduction: dp
@@ -432,6 +399,9 @@ items:
   Mago Berry:
     description: [Restores 1/8 max HP when at 50% HP or less. One-time use.]
     introduction: rs
+  Mail:
+    description: [Prevents Trick from working.]
+    introduction: rs
   Manectite:
     description: [Mega-evolves Manectric.]
     introduction: xy
@@ -482,9 +452,6 @@ items:
   Miracle Seed:
     description: [Raises power of Grass-type moves 10%.]
     introduction: gs
-  Mosaic Mail:
-    description: [Prevents Trick from working.]
-    introduction: dp
   Muscle Band:
     description: [Raises power of physical moves 10%.]
     introduction: dp
@@ -516,9 +483,6 @@ items:
   PSNCure Berry:
     description: [Cures poison. One-time use.]
     introduction: gs
-  Parlyz Heal:
-    description: [Cures paralysis.]
-    introduction: rs
   Passho Berry:
     description: [Reduces damage from a super effective Water-type attack by 50%.
         Consumed after use.]
@@ -584,9 +548,6 @@ items:
   Psychic Gem:
     description: [Raises the power of a Psychic-type move by 50%. One-time use.]
     introduction: bw
-  Pumkin Berry:
-    description: [Cures freeze. One-time use.]
-    introduction: rs
   Quick Claw:
     description: [Gives the user a 23.4375% chance to go first.]
     introduction: gs
@@ -677,9 +638,6 @@ items:
     - Makes Sandstorm last 8 turns.
     - {xy: Makes Sandstorm and Sand Stream last 8 turns.}
     introduction: dp
-  Snow Mail:
-    description: [Prevents Trick from working.]
-    introduction: dp
   Snowball:
     description: [Raises Attack by 1 if hit by an Ice-type attack. Single use.]
     introduction: xy
@@ -689,9 +647,6 @@ items:
   Soul Dew:
     description: [Raises SpA and SpD of Latias and Latios by 50%.]
     introduction: rs
-  Space Mail:
-    description: [Prevents Trick from working.]
-    introduction: dp
   Spell Tag:
     description: [Raises power of Ghost-type moves 10%.]
     introduction: gs
@@ -709,9 +664,6 @@ items:
   Steel Gem:
     description: [Raises the power of a Steel-type move by 50%. One-time use.]
     introduction: bw
-  Steel Mail:
-    description: [Prevents Trick from working.]
-    introduction: dp
   Stick:
     description: [Raises Farfetch'd's critical hit ratio two stages.]
     introduction: gs
@@ -729,9 +681,6 @@ items:
   Thick Club:
     description: [Doubles Cubone's and Marowak's Attack.]
     introduction: gs
-  Touga Berry:
-    description: [Cures confusion. One-time use.]
-    introduction: rs
   Toxic Orb:
     description: [Poisons the holder.]
     introduction: dp
@@ -745,12 +694,6 @@ items:
   Tyranitarite:
     description: [Mega-evolves Tyranitar.]
     introduction: xy
-  Up-Grade:
-    description: [Evolves Porygon into Porygon2.]
-    introduction: rs
-  Upgrade:
-    description: [Allows Porygon to evolve into Porygon2. One time use only.]
-    introduction: gs
   Venusaurite:
     description: [Mega-evolves Venusaur.]
     introduction: xy

@@ -1,7 +1,4 @@
 items:
-  A Note Mat:
-    description: [A mat that plays an A note when stepped on.]
-    introduction: rs
   Abomasite:
     description: [Mega-evolves Abomasnow.]
     introduction: xy
@@ -12,9 +9,6 @@ items:
     description: [Boosts Special Attack of holder if hit by a Water-type attack. One-time
         use.]
     introduction: bw
-  Acro Bike:
-    description: [A folding bicycle capable of jumps and wheelies.]
-    introduction: rs
   Adamant Orb:
     description: [Hold item which raises power of Dialga's STAB moves 20%.]
     introduction: dp
@@ -40,100 +34,34 @@ items:
   Ampharosite:
     description: [Mega-evolves Ampharos.]
     introduction: xy
-  Amulet Coin:
-    description: [Doubles the amount of money received in trainer battles.]
-    introduction: gs
-  Antidote:
-    description: [Cures poison.]
-    introduction: gs
   Apicot Berry:
     description: [Raises SpD one stage when at 25% HP or less. One-time use.]
     introduction: rs
-  Armor Fossil:
-    description: [Can be revived into Shieldon.]
-    introduction: dp
   Aspear Berry:
     description: [Cures freeze. One-time use.]
     introduction: rs
   Assault Vest:
     description: ['Holder''s Sp. Def is 1.5x, but it can only use damaging moves.']
     introduction: xy
-  Attract Mat:
-    description: [A mat designed with an ATTRACT image. Put items on top.]
-    introduction: rs
-  Auroraticket:
-    description: [Event item for Deoxys.]
-    introduction: rs
-  Awakening:
-    description: [Cures sleep.]
-    introduction: gs
-  Azurill Doll:
-    description: [An Azurill doll. Place it on a mat or a desk.]
-    introduction: rs
-  B Note Mat:
-    description: [A mat that plays a B note when stepped on.]
-    introduction: rs
   Babiri Berry:
     description: [Reduces damage from a super effective Steel-type attack by 50%.
         Consumed after use.]
     introduction: dp
-  Ball Cushion:
-    description: [A Ball cushion. Place it on a mat or a desk.]
-    introduction: rs
-  Ball Poster:
-    description: ["A small poster printed with Pok\xE9 Balls."]
-    introduction: rs
-  Baltoy Doll:
-    description: [A Baltoy doll. Place it on a mat or a desk.]
-    introduction: rs
   Banettite:
     description: [Mega-evolves Banette.]
     introduction: xy
-  Basement Key:
-    description: [The key for New Mauville beneath Mauville City.]
-    introduction: rs
-  Bead Mail:
-    description: [Mail featuring a sketch of the holding Pokemon.]
-    introduction: rs
-  Belue Berry:
-    description: ["Pok\xE9block ingredient. Plant in loamy soil to grow a Belue plant."]
-    introduction: rs
   Berry:
     description: [Restores 10 HP when at 50% HP or less. One-time use.]
     introduction: gs
   Berry Juice:
     description: [Restores 20 HP when at 50% HP or less. One-time use.]
     introduction: gs
-  Berry Pouch:
-    description: [Holds Berries.]
-    introduction: rs
   Berserk Gene:
     description: ['Raises Attack, but causes confusion. One-time use.']
     introduction: gs
-  Bicycle:
-    description: [Increases movement speed while in use.]
-    introduction: gs
-  Big Mushroom:
-    description: [A rare mushroom that would sell at a high price.]
-    introduction: gs
-  Big Onix:
-    description: [A big Onix doll. Place in bedroom.]
-    introduction: gs
-  Big Pearl:
-    description: [A rare pearl that would sell at a high price.]
-    introduction: gs
-  Big Plant:
-    description: ['A large, umbrella-shaped plant in a big pot. No other use.']
-    introduction: rs
   Big Root:
     description: [Increases HP gained from draining moves by 30%.]
     introduction: dp
-  Big Snorlax:
-    description: [A big Snorlax doll. Place in bedroom.]
-    introduction: gs
-  Bike Voucher:
-    description: [Exchange for Bicycle.]
-    introduction: rs
   Binding Band:
     description: [Increases power of multi-turn trapping moves.]
     introduction: bw
@@ -143,76 +71,18 @@ items:
   Black Belt:
     description: [Raises power of Fighting-type moves 10%.]
     introduction: gs
-  Black Flute:
-    description: [Halves the rate of encounters with wild Pokemon. Does not disappear
-        after use.]
-    introduction: rs
   Black Sludge:
     description: [Recovers 1/16 HP each turn for Poison-types.]
     introduction: dp
   BlackGlasses:
     description: [Raises power of Dark-type moves 10%.]
     introduction: gs
-  Blastoise Doll:
-    description: [A large Blastoise doll. Place it on a mat or a desk.]
-    introduction: rs
   Blastoisinite:
     description: [Mega-evolves Blastoise.]
     introduction: xy
   Blazikenite:
     description: [Mega-evolves Blaziken.]
     introduction: xy
-  Blk Apricorn:
-    description: [Can be made into Heavy Ball.]
-    introduction: gs
-  Bloom Mail:
-    description: [Prevents Trick from working.]
-    introduction: dp
-  Blu Apricorn:
-    description: [Can be made into Lure Ball.]
-    introduction: gs
-  Blue Balloon:
-    description: [A blue balloon filled with water. Bursts if stepped on.]
-    introduction: rs
-  Blue Brick:
-    description: [A blue-colored brick. Put some decorations on top.]
-    introduction: rs
-  Blue Card:
-    description: [Stores points for Password Guess Game.]
-    introduction: gs
-  Blue Carpet:
-    description: [Blue carpeting for your room.]
-    introduction: gs
-  Blue Flute:
-    description: [Cures sleep. Does not disappear after use.]
-    introduction: rs
-  Blue Orb:
-    description: ["Used to awaken Kyogre in Pok\xE9mon Sapphire."]
-    introduction: rs
-  Blue Poster:
-    description: [A small poster with a Mudkip print.]
-    introduction: rs
-  Blue Scarf:
-    description: [A hold item that raises Beauty in Contests.]
-    introduction: rs
-  Blue Shard:
-    description: [Can be exchanged in Route 124 for a Water Stone.]
-    introduction: rs
-  Blue Tent:
-    description: [A large blue tent. You can hide inside it.]
-    introduction: rs
-  Bluk Berry:
-    description: ["Pok\xE9block ingredient. Plant in loamy soil to grow a Bluk plant."]
-    introduction: rs
-  Breakable Door:
-    description: [A weird door that people can walk right through.]
-    introduction: rs
-  Brick Chair:
-    description: [A small chair made of brick.]
-    introduction: rs
-  Brick Desk:
-    description: [A huge desk made of brick. Holds lots of decorations.]
-    introduction: rs
   Brick Mail:
     description: [Prevents Trick from working.]
     introduction: dp
@@ -225,39 +95,9 @@ items:
   Bug Gem:
     description: [Raises the power of a Bug-type move by 50%. One-time use.]
     introduction: bw
-  Bulbasaur Doll:
-    description: [A Bulbasaur doll. Place in bedroom.]
-    introduction: gs
   Burn Drive:
     description: [Changes the type of Techno Blast to Fire.]
     introduction: bw
-  Burn Heal:
-    description: [Cures burn.]
-    introduction: gs
-  Burnt Berry:
-    description: [Cures freeze. One-time use.]
-    introduction: gs
-  C High Note Mat:
-    description: [A mat that plays a high C note when stepped on.]
-    introduction: rs
-  C Low Note Mat:
-    description: [A mat that plays a low C note when stepped on.]
-    introduction: rs
-  Calcium:
-    description: [Raises Special Attack.]
-    introduction: gs
-  Camp Chair:
-    description: [A small chair made of logs.]
-    introduction: rs
-  Camp Desk:
-    description: [A huge desk made of logs. Put lots of decorations on it.]
-    introduction: rs
-  Carbos:
-    description: [Raises Speed.]
-    introduction: gs
-  Card Key:
-    description: [Opens shutters in Goldenrod Radio Tower.]
-    introduction: gs
   Cell Battery:
     description: [Boosts Attack of holder if hit by an Electric-type attack. One-time
         use.]
@@ -265,9 +105,6 @@ items:
   Charcoal:
     description: [Raises power of Fire-type moves 10%.]
     introduction: gs
-  Charizard Doll:
-    description: [A large Charizard doll. Place it on a mat or a desk.]
-    introduction: rs
   Charizardite X:
     description: [Mega-evolves Charizard into Mega Charizard X.]
     introduction: xy
@@ -284,14 +121,8 @@ items:
   Cheri Berry:
     description: [Cures paralysis. One-time use.]
     introduction: rs
-  Cherish Ball:
-    description: [Ball that event Pokemon come in.]
-    introduction: dp
   Chesto Berry:
     description: [Cures sleep. One-time use.]
-    introduction: rs
-  Chikorita Doll:
-    description: [A Chikorita doll. Place it on a mat or a desk.]
     introduction: rs
   Chilan Berry:
     description: ["Berry blended to make Pok\xE9blocks."]
@@ -313,82 +144,24 @@ items:
     description: [Reduces damage from a super effective Fighting-type attack by 50%.
         Consumed after use.]
     introduction: dp
-  Christmas Tree:
-    description: [A festive Christmas tree. Place in bedroom.]
-    introduction: gs
-  Claw Fossil:
-    description: [Can be revived into Anorith.]
-    introduction: rs
   Cleanse Tag:
     description: ["Decreases the appearance of wild Pok\xE9mon."]
-    introduction: gs
-  Clear Bell:
-    description: [Event item for Suicune.]
-    introduction: gs
-  Clefairy Doll:
-    description: [A Clefairy doll. Place in bedroom.]
-    introduction: gs
-  Clefairy Poster:
-    description: [A Clefairy poster. Hang on wall in bedroom.]
     introduction: gs
   Coba Berry:
     description: [Reduces damage from a super effective Flying-type attack by 50%.
         Consumed after use.]
     introduction: dp
-  Coin Case:
-    description: [Holds game coins from the casino.]
-    introduction: gs
   Colbur Berry:
     description: [Reduces damage from a super effective Dark-type attack by 50%. Consumed
         after use.]
     introduction: dp
-  Colorful Plant:
-    description: [A large pot with many colorful flowers.]
-    introduction: rs
-  Comfort Chair:
-    description: [A small chair made of leaves.]
-    introduction: rs
-  Comfort Desk:
-    description: [A large desk made of leaves. Put some decorations on it.]
-    introduction: rs
-  Contest Pass:
-    description: [The pass required for entering Contests.]
-    introduction: rs
-  Cornn Berry:
-    description: ["Pok\xE9block ingredient. Plant in loamy soil to grow a Cornn plant."]
-    introduction: rs
-  Coupon 1:
-    description: ["Required in order to obtain a Pok\xE9tch."]
-    introduction: dp
-  Coupon 2:
-    description: ["Required in order to obtain a Pok\xE9tch."]
-    introduction: dp
-  Coupon 3:
-    description: ["Required in order to obtain a Pok\xE9tch."]
-    introduction: dp
-  Cover Fossil:
-    description: [Can be revived into Tirtouga.]
-    introduction: bw
   Custap Berry:
     description: [Activates at 25% HP. Next move used goes first. One-time use.]
     introduction: dp
-  Cute Poster:
-    description: [A small poster with an Azurill print.]
-    introduction: rs
-  Cute Tv:
-    description: [A toy TV modeled in the image of a Skitty.]
-    introduction: rs
-  Cyndaquil Doll:
-    description: [A Cyndaquil doll. Place it on a mat or a desk.]
-    introduction: rs
-  D Note Mat:
-    description: [A mat that plays a D note when stepped on.]
-    introduction: rs
-  Damp Mulch:
-    description: [Slows Berry growth while delaying watering times.]
-    introduction: dp
   Damp Rock:
-    description: [<a href="/dp/moves/Rain_Dance">Rain Dance</a> lasts 8 turns.]
+    description: 
+    - <a href="/dp/moves/rain_dance">Rain Dance</a> lasts 8 turns.]
+    - {xy: Rain Dance and Drizzle lasts 8 turns.}
     introduction: dp
   Dark Gem:
     description: [Raises the power of a Dark-type move by 50%. One-time use.]
@@ -396,9 +169,6 @@ items:
   Dark Glasses:
     description: [A hold item that boosts Dark-type moves by 10%.]
     introduction: gs
-  Dawn Stone:
-    description: [Evolves Kirlia and Snorunt.]
-    introduction: dp
   DeepSeaScale:
     description: [Doubles Clamperl's SpD.]
     introduction: rs
@@ -408,30 +178,6 @@ items:
   Destiny Knot:
     description: ['If the holder becomes infatuated, so does the enemy.']
     introduction: dp
-  Devon Goods:
-    description: [A package that contains Devon's machine parts.]
-    introduction: rs
-  Devon Scope:
-    description: [Reveals hidden Kecleon on Route 120.]
-    introduction: rs
-  Diamond Cushion:
-    description: [A Sableye cushion. Place it on a mat or a desk.]
-    introduction: rs
-  Diglett Doll:
-    description: [A Diglett doll. Place in bedroom.]
-    introduction: gs
-  Dire Hit:
-    description: [Raises critical hit ratio.]
-    introduction: gs
-  Ditto Doll:
-    description: [A Ditto doll. Place it on a mat or a desk.]
-    introduction: rs
-  Dive Ball:
-    description: [A Ball used to catch Pokemon.]
-    introduction: rs
-  Dome Fossil:
-    description: [Revives into Kabuto.]
-    introduction: rs
   Douse Drive:
     description: [Changes the type of Techno Blast to Water.]
     introduction: bw
@@ -445,9 +191,6 @@ items:
   Dragon Gem:
     description: [Raises the power of a Dragon-type move by 50%. One-time use.]
     introduction: bw
-  Dragon Scale:
-    description: [Allows Seadra to evolve into Kingdra.]
-    introduction: gs
   Drash Berry:
     description: [Cures poison. One-time use.]
     introduction: rs
@@ -455,133 +198,35 @@ items:
     description: [Raises power of the holder's Dark-type moves 20%. Pokemon with Multitype
         become Dark-type.]
     introduction: dp
-  Dream Mail:
-    description: [Mail featuring a sketch of the holding Pokemon.]
-    introduction: rs
-  Dubious Disc:
-    description: [Evolves Porygon2 into Porygon-Z.]
-    introduction: dp
-  Durin Berry:
-    description: ["Pok\xE9block ingredient. Plant in loamy soil to grow a Durin plant."]
-    introduction: rs
-  Dusk Ball:
-    description: [A Ball used to catch Pokemon that is more effective at night.]
-    introduction: dp
-  Dusk Stone:
-    description: [Evolves Misdreavus and Murkrow.]
-    introduction: dp
-  Duskull Doll:
-    description: [A Duskull doll. Place it on a mat or a desk.]
-    introduction: rs
-  E Note Mat:
-    description: [A mat that plays an E note when stepped on.]
-    introduction: rs
   Earth Plate:
     description: [Raises power of Ground-type moves 20%. Pokemon with Multitype become
         Ground-type.]
     introduction: dp
-  Eggant Berry:
-    description: [Cures infatuation. One-time use.]
-    introduction: rs
   Eject Button:
     description: ['When the holder is hit, it immediately switches out. One-time use.']
     introduction: bw
-  Electirizer:
-    description: [Evolves Electabuzz into Electivire.]
-    introduction: dp
   Electric Gem:
     description: [Raises the power of a Electric-type move by 50%. One-time use.]
     introduction: bw
-  Elixir:
-    description: [Restores 10 PP to each move.]
-    introduction: gs
-  Energy Root:
-    description: [A bitter root that restores 200 HP.]
-    introduction: gs
-  EnergyPowder:
-    description: [A bitter powder that restores 50 HP.]
-    introduction: gs
   Enigma Berry:
     description: ["Pok\xE9block ingredient."]
     introduction: rs
-  Eon Mail:
-    description: [Write a letter using an Eevee design paper.]
-    introduction: gs
-  Eon Ticket:
-    description: [Event that unlocks Latias and Latios.]
-    introduction: rs
-  Escape Rope:
-    description: [Allows user to escape from a cave.]
-    introduction: gs
-  Ether:
-    description: [Restores 10 PP of one move.]
-    introduction: gs
-  Everstone:
-    description: ["A Pok\xE9mon does not evolve as long as this item is attached to
-        it."]
-    introduction: gs
   Eviolite:
     description: [Boosts Defense and Special Defense of holder by 50% if it is an
         NFE Pokemon.]
     introduction: bw
-  Exp. Share:
-    description: ["A Pok\xE9mon attached with this will receive Exp. Points even if
-        it's not in the battle."]
-    introduction: gs
-  Expansion Card:
-    description: [Allows for listening of Kanto radio stations.]
-    introduction: gs
   Expert Belt:
     description: [Super effective attacks are 20% stronger.]
     introduction: dp
-  Explorer Kit:
-    description: [Transports the user to the Underground when used.]
-    introduction: dp
-  F Note Mat:
-    description: [A mat that plays an F note when stepped on.]
-    introduction: rs
-  Fab Mail:
-    description: [A gorgeous-print Mail to be held by a Pokemon.]
-    introduction: rs
-  Fame Checker:
-    description: [Stores information about important in-game characters.]
-    introduction: rs
-  Fashion Case:
-    description: [Holds accessories used in Pokemon Contests.]
-    introduction: dp
-  Fast Ball:
-    description: [A Ball used to catch Pokemon.]
-    introduction: gs
-  Feather Bed:
-    description: [A feathery bed. Place in bedroom.]
-    introduction: gs
-  Fence Length:
-    description: [A small fence that blocks passage.]
-    introduction: rs
-  Fence Width:
-    description: [A small fence that blocks passage.]
-    introduction: rs
   Fighting Gem:
     description: [Raises the power of a Fighting-type move by 50%. One-time use.]
     introduction: bw
   Figy Berry:
     description: [Restores 1/8 max HP when at 50% HP or less. One-time use.]
     introduction: rs
-  Fire Blast Mat:
-    description: [A mat designed with a Fire Blast image. Put items on top.]
-    introduction: rs
-  Fire Cushion:
-    description: [A fire-mark cushion. Place it on a mat or a desk.]
-    introduction: rs
   Fire Gem:
     description: [Raises the power of a Fire-type move by 50%. One-time use.]
     introduction: bw
-  Fire Stone:
-    description: ['Evolves Eevee, Growlithe, and Vulpix.']
-    introduction: gs
-  Fissure Mat:
-    description: [A mat designed with a Fissure image. Put items on top.]
-    introduction: rs
   Fist Plate:
     description: [Raises power of Fighting-type moves 20%. Pokemon with Multitype
         become Fighting-type.]
@@ -599,12 +244,6 @@ items:
   Float Stone:
     description: [The weight of the holder is halved.]
     introduction: bw
-  Flower Mail:
-    description: [Write a letter using a floral design paper.]
-    introduction: gs
-  Fluffy Tail:
-    description: [Allows the user to escape from battle.]
-    introduction: rs
   Flying Gem:
     description: [Raises the power of a Flying-type move by 50%. One-time use.]
     introduction: bw
@@ -614,26 +253,8 @@ items:
   Focus Sash:
     description: [The holder always survives one attack. One-time use.]
     introduction: dp
-  Fresh Water:
-    description: [Restores 50 HP.]
-    introduction: gs
-  Friend Ball:
-    description: [A Ball for catching Pokemon.]
-    introduction: gs
-  Full Heal:
-    description: [Cures all status ailments.]
-    introduction: gs
   Full Incense:
     description: [Makes the holder move last.]
-    introduction: dp
-  Full Restore:
-    description: [Cures all status ailments and heals a Pokemon to full health.]
-    introduction: gs
-  G Note Mat:
-    description: [A mat that plays a G note when stepped on.]
-    introduction: rs
-  Galactic Key:
-    description: [Opens the shutters in the Galactic Base.]
     introduction: dp
   Ganlon Berry:
     description: [Raises Def one stage when at 25% HP or less. One-time use.]
@@ -644,84 +265,24 @@ items:
   Gardevoirite:
     description: [Mega-evolves Gardevoir.]
     introduction: xy
-  Gengar Doll:
-    description: [A Gengar doll. Place in bedroom.]
-    introduction: gs
   Gengarite:
     description: [Mega-evolves Gengar.]
     introduction: xy
-  Geodude Doll:
-    description: [A Geodude doll. Place in bedroom.]
-    introduction: gs
   Ghost Gem:
     description: [Raises the power of a Ghost-type move by 50%. One-time use.]
     introduction: bw
   Ginema Berry:
     description: [Removes stat decreases. Consumed after use.]
     introduction: rs
-  Glass Ornament:
-    description: [A glass replica of a famous sculpture at the Art Museum.]
-    introduction: rs
-  Glitter Mail:
-    description: [A Pikachu-print Mail to be held by a Pokemon.]
-    introduction: rs
-  Glitter Mat:
-    description: [An odd mat that glitters if stepped on.]
-    introduction: rs
-  Go-Goggles:
-    description: [Allows access to the Desert on Route 111.]
-    introduction: rs
   Gold Berry:
     description: [Restores 30 HP when at 50% HP or less. One-time use.]
     introduction: gs
-  Gold Leaf:
-    description: [A rare golden leaf that would sell for a high price.]
-    introduction: gs
-  Gold Shield:
-    description: [Awarded for 100 straight wins at the Battle Tower.]
-    introduction: rs
-  Gold Teeth:
-    description: [Exchange for HM04.]
-    introduction: rs
-  Gold Trophy:
-    description: [A golden trophy. Place in bedroom.]
-    introduction: gs
-  Good Rod:
-    description: [A decent fishing rod for catching wild Pokemon.]
-    introduction: gs
-  Gooey Mulch:
-    description: [Increases the number of times a fully-grown Berry tree will regrow.]
-    introduction: dp
-  Gorgeous Plant:
-    description: ['A large, impressive plant in a big pot.']
-    introduction: rs
-  Grass Cushion:
-    description: [A grass-mark cushion. Place it on a mat or a desk.]
-    introduction: rs
   Grass Gem:
     description: [Raises the power of a Grass-type move by 50%. One-time use.]
     introduction: bw
   Grass Mail:
     description: [Prevents Trick from working.]
     introduction: dp
-  Great Ball:
-    description: [A Ball for catching Pokemon.]
-    introduction: gs
-  Green Carpet:
-    description: [Green carpeting for your room.]
-    introduction: gs
-  Green Poster:
-    description: [A small poster with a Treecko print.]
-    introduction: rs
-  Green Scarf:
-    description: [A hold item that raises Smart in Contests.]
-    introduction: rs
-  Green Shard:
-    description: [Can be exchanged in Route 124 for a Leaf Stone.]
-    introduction: rs
-  Grepa Berry:
-    description: ["Pok\xE9block ingredient. Plant in loamy soil to grow a Grepa plant."]
-    introduction: rs
   Grip Claw:
     description: [Partial trapping moves last 6 turns.]
     introduction: dp
@@ -730,112 +291,39 @@ items:
         by Giratina, transforms Giratina into Giratina-O when held. Cannot be removed
         in battle.']
     introduction: dp
-  Grn Apricorn:
-    description: [Can be made into Friend Ball.]
-    introduction: gs
   Ground Gem:
     description: [Raises the power of a Ground-type move by 50%. One-time use.]
     introduction: bw
-  Growth Mulch:
-    description: [Speeds up Berry growth and increases the rate that soil dries out.]
-    introduction: dp
-  Guard Spec.:
-    description: [Prevents stat reduction in battle.]
-    introduction: gs
-  Gulpin Doll:
-    description: [A Gulpin doll. Place it on a mat or a desk.]
-    introduction: rs
   Gyaradosite:
     description: [Mega-evolves Gyarados.]
     introduction: xy
-  HM01:
-    description: [Contains the move <a href="/gs/moves/cut">Cut</a>.]
-    introduction: gs
-  HM02:
-    description: [Contains the move <a href="/gs/moves/fly">Fly</a>.]
-    introduction: gs
-  HM03:
-    description: [Contains the move <a href="/gs/moves/surf">Surf</a>.]
-    introduction: gs
-  HM04:
-    description: [Contains the move <a href="/gs/moves/strength">Strength</a>.]
-    introduction: gs
-  HM05:
-    description: [Contains the move <a href="/gs/moves/flash">Flash</a>.]
-    introduction: gs
-  HM06:
-    description: [Contains the move <a href="/gs/moves/whirlpool">Whirlpool</a>.]
-    introduction: gs
-  HM07:
-    description: [Contains the move <a href="/gs/moves/waterfall">Waterfall</a>.]
-    introduction: gs
-  HM08:
-    description: [Teaches <a href="/rs/moves/dive">Dive</a> to a Pokemon.]
-    introduction: rs
-  HP Up:
-    description: [Increases the HP stat.]
-    introduction: gs
   Haban Berry:
     description: [Reduces damage from a super effective Dragon-type attack by 50%.
         Consumed after use.]
     introduction: dp
-  Harbor Mail:
-    description: [A Wingull-print Mail to be held by a Pokemon.]
-    introduction: rs
-  Hard Chair:
-    description: [A small chair made of rock.]
-    introduction: rs
-  Hard Desk:
-    description: [A huge desk made of rocks. Holds many decorations.]
-    introduction: rs
   Hard Rock:
     description: [Raises power of Rock-type moves 12.5%.]
     introduction: gs
   Hard Stone:
     description: [Raises power of Rock-type moves 10%.]
     introduction: rs
-  Heal Ball:
-    description: [A Ball used to catch Pokemon that heals the caught Pokemon.]
-    introduction: dp
-  Heal Powder:
-    description: [A bitter powder that cures status ailments.]
-    introduction: gs
   Heart Mail:
     description: [Prevents Trick from working.]
     introduction: dp
-  Heart Scale:
-    description: [Allows you to teach a Pokemon one level-up move.]
-    introduction: rs
   Heat Rock:
-    description: [<a href="/dp/moves/Sunny_Day">Sunny Day</a> lasts 8 turns.]
+    description: 
+    - <a href="/dp/moves/sunny_day">Sunny Day</a> lasts 8 turns.
+    - {xy: Sunny Day and Drought lasts 8 turns.}
     introduction: dp
-  Heavy Ball:
-    description: [A Ball for catching Pokemon.]
-    introduction: gs
-  Heavy Chair:
-    description: [A small chair made of steel.]
-    introduction: rs
-  Heavy Desk:
-    description: [A large desk made of steel. Put some decorations on it.]
-    introduction: rs
   Helix Fossil:
     description: [Revives into Omanyte.]
     introduction: rs
   Heracronite:
     description: [Mega-evolves Heracross.]
     introduction: xy
-  Hondew Berry:
-    description: ["Pok\xE9block ingredient. Plant in loamy soil to grow a Hondew plant."]
-    introduction: rs
-  Honey:
-    description: [Place on a honey tree to attract a Pokemon.]
-    introduction: dp
   Houndoominite:
     description: [Mega-evolves Houndoom.]
     introduction: xy
-  Hyper Potion:
-    description: [Restores 200 HP.]
-    introduction: gs
   Iapapa Berry:
     description: [Restores 1/8 max HP when at 50% HP or less. One-time use.]
     introduction: rs
@@ -845,69 +333,35 @@ items:
   Ice Gem:
     description: [Raises the power of a Ice-type move by 50%. One-time use.]
     introduction: bw
-  Ice Heal:
-    description: [Cures freeze.]
-    introduction: gs
   Icicle Plate:
-    description: [Raises power of Ice-type moves 20%. Pokemon with Multitype become
-        Ice-type.]
+    description: [Raises power of Ice-type moves 20%. Pokemon with Multitype become Ice-type.]
     introduction: dp
   Icy Rock:
-    description: [Hail lasts 8 turns.]
+    description:
+    - Hail lasts 8 turns.
+    - {xy: Hail and Snow Warning lasts 8 turns.}
     introduction: dp
   Insect Plate:
-    description: [Raises power of Bug-type moves 20%. Pokemon with Multitype become
-        Bug-type.]
+    description: [Raises power of Bug-type moves 20%. Pokemon with Multitype become Bug-type.]
     introduction: dp
-  Iron:
-    description: [Increases the Defense stat.]
-    introduction: gs
   Iron Ball:
     description: [Reduces Speed 50%.]
     introduction: dp
   Iron Plate:
-    description: [Raises power of Steel-type moves 20%. Pokemon with Multitype become
-        Steel-type.]
+    description: [Raises power of Steel-type moves 20%. Pokemon with Multitype become Steel-type.]
     introduction: dp
-  Item Name:
-    description: [Description]
-    introduction: rs
-  Itemfinder:
-    description: [Finds items in the wild.]
-    introduction: gs
   Jaboca Berry:
-    description: ['If hit by a physical attack, the attacker takes 12.5% damage. One-time
-        use.']
+    description: ['If hit by a physical attack, the attacker takes 12.5% damage. One-time use.']
     introduction: dp
-  Jigglypuff Doll:
-    description: [A Jigglypuff doll. Place in bedroom.]
-    introduction: gs
-  Jigglypuff Poste:
-    description: [A Jigglypuff poster. Hang on wall in bedroom.]
-    introduction: gs
-  Journal:
-    description: [Records progress.]
-    introduction: dp
-  Jumbo Plant:
-    description: [A jumbo sized plant. Place in bedroom.]
-    introduction: gs
-  Jump Mat:
-    description: [A trick mat that jumps when it is stepped on.]
-    introduction: rs
   Kangaskhanite:
     description: [Mega-evolves Kangaskhan.]
     introduction: xy
   Kasib Berry:
-    description: [Reduces damage from a super effective Ghost-type attack by 50%.
-        Consumed after use.]
+    description: [Reduces damage from a super effective Ghost-type attack by 50%. Consumed after use.]
     introduction: dp
   Kebia Berry:
-    description: [Reduces damage from a super effective Poison-type attack by 50%.
-        Consumed after use.]
+    description: [Reduces damage from a super effective Poison-type attack by 50%. Consumed after use.]
     introduction: dp
-  Kecleon Doll:
-    description: [A Kecleon doll. Place it on a mat or a desk.]
-    introduction: rs
   Kee Berry:
     description: [Raises Defense by 1 if hit by a Physical attack. Single use.]
     introduction: xy
@@ -919,12 +373,6 @@ items:
     - Certain moves have an 11.7% flinch rate.
     - dp: Moves recieve a 10% flinch chance, if they do not have one already.
     introduction: gs
-  Kiss Cushion:
-    description: [A Smoochum cushion. Place it on a mat or a desk.]
-    introduction: rs
-  Kiss Poster:
-    description: [A large poster with a Smoochum print.]
-    introduction: rs
   Kuo Berry:
     description: [Cures burn. One-time use.]
     introduction: rs
@@ -935,72 +383,30 @@ items:
     description: [Raises critical hit rate two stages when at 25% HP or less. One-time
         use.]
     introduction: rs
-  Lapras Doll:
-    description: [A large Lapras doll. Place it on a mat or a desk.]
-    introduction: rs
-  Lava Cookie:
-    description: [Removes all status effects from one Pokemon.]
-    introduction: rs
   Lax Incense:
     description: [Raises evasion 5%.]
     introduction: rs
-  Leaf Stone:
-    description: ['Evolves Exeggcute, Gloom, and Weepinbell.']
-    introduction: gs
   Leftovers:
     description: [Heals 1/16 HP each turn.]
-    introduction: gs
-  Lemonade:
-    description: [Restores 80 HP.]
     introduction: gs
   Leppa Berry:
     description: [Restores 10 PP to a move that has run out of PP. One-time use.]
     introduction: rs
-  Letter:
-    description: [Give to Steven in Granite Cave to receive TM47.]
-    introduction: rs
-  Level Ball:
-    description: [A Ball for catching wild Pokemon.]
-    introduction: gs
   Liechi Berry:
     description: [Raises Atk one stage when at 25% HP or less. One-time use.]
     introduction: rs
   Life Orb:
     description: ['Boosts power by 30%, user takes 10% recoil each turn it attacks.']
     introduction: dp
-  Lift Key:
-    description: [Activates the elevator in the Rocket Hideout.]
-    introduction: rs
   Light Ball:
     description: [Doubles Pikachu's SpA.]
     introduction: gs
   Light Clay:
     description: [Reflect and Light Screen last 8 turns.]
     introduction: dp
-  Light-blue Mail:
-    description: [Write a letter using a light-blue design paper.]
-    introduction: gs
-  Long Poster:
-    description: [A large poster with a Seviper print.]
-    introduction: rs
-  Loot Sack:
-    description: [No use.]
-    introduction: dp
-  Lotad Doll:
-    description: [A Lotad doll. Place it on a mat or a desk.]
-    introduction: rs
-  Love Ball:
-    description: [A Ball for catching wild Pokemon.]
-    introduction: gs
   Lucarionite:
     description: [Mega-evolves Lucario.]
     introduction: xy
-  Luck Incense:
-    description: [Doubles winnings and allows breeding of Happiny.]
-    introduction: dp
-  Lucky Egg:
-    description: ["The attached Pok\xE9mon receives more Exp. Points."]
-    introduction: gs
   Lucky Punch:
     description: [Raises Chansey's critical hit ratio two stages.]
     introduction: gs
@@ -1011,51 +417,20 @@ items:
     description: [Raises Special Defense by 1 if hit by a Water-type attack. Single
         use.]
     introduction: xy
-  Lunar Wing:
-    description: [Can be used to cure a boy in an event.]
-    introduction: dp
-  Lure Ball:
-    description: [A Ball for catching wild Pokemon.]
-    introduction: gs
   Lustrous Orb:
     description: [Raises power of Palkia's STAB moves 20%.]
     introduction: dp
-  Luxury Ball:
-    description: [A Ball used to catch Pokemon that causes the captured Pokemon to
-        gain happiness faster.]
-    introduction: rs
-  Mach Bike:
-    description: [A folding bicycle that more than doubles foot speed.]
-    introduction: rs
-  Machine Part:
-    description: [A part for the Power Plant.]
-    introduction: gs
   Macho Brace:
     description: [Reduces Speed 50%. Doubles EVs gained.]
-    introduction: rs
-  Machop Doll:
-    description: [A Machop doll. Place in bedroom.]
-    introduction: gs
-  Magikarp Doll:
-    description: [A Magikarp doll. Place in bedroom.]
-    introduction: gs
-  Magma Emblem:
-    description: [Allows access Team Magma's base.]
     introduction: rs
   Magmarizer:
     description: [Evolves Magmar into Magmortar.]
     introduction: dp
-  Magna Plant:
-    description: [A magna plant. Place in bedroom.]
-    introduction: gs
   Magnet:
     description: [Raises power of Electric-type moves 10%.]
     introduction: gs
   Mago Berry:
     description: [Restores 1/8 max HP when at 50% HP or less. One-time use.]
-    introduction: rs
-  Magost Berry:
-    description: ["Pok\xE9block ingredient. Plant in loamy soil to grow a Magost plant."]
     introduction: rs
   Manectite:
     description: [Mega-evolves Manectric.]
@@ -1063,48 +438,18 @@ items:
   Maranga Berry:
     description: [Raises Special Defense by 1 if hit by a Special attack. Single use.]
     introduction: xy
-  Marill Doll:
-    description: [A Marill doll. Place it on a mat or a desk.]
-    introduction: rs
-  Master Ball:
-    description: [A Ball used to catch Pokemon that will always succeed.]
-    introduction: rs
   Mawilite:
     description: [Mega-evolves Mawile.]
     introduction: xy
-  Max Elixir:
-    description: [Completely restores PP to one Pokemon.]
-    introduction: gs
-  Max Ether:
-    description: [Completely restores the PP of one move.]
-    introduction: gs
-  Max Potion:
-    description: [Completely restores the HP of one Pokemon.]
-    introduction: gs
-  Max Repel:
-    description: [Repels wild Pokemon.]
-    introduction: gs
-  Max Revive:
-    description: [Revives one fainted Pokemon at full health.]
-    introduction: gs
   Meadow Plate:
     description: [Raises power of Grass-type moves 20%. Pokemon with Multitype become
         Grass-type.]
     introduction: dp
-  Mech Mail:
-    description: [A Magnemite-print Mail to be held by a Pokemon.]
-    introduction: rs
   Medichamite:
     description: [Mega-evolves Medicham.]
     introduction: xy
-  Member Card:
-    description: [Event item for Darkrai.]
-    introduction: dp
   Mental Herb:
     description: [Cures infatuation. One-time use.]
-    introduction: rs
-  Meowth Doll:
-    description: [A Meowth doll. Place it on a mat or a desk.]
     introduction: rs
   Metal Coat:
     description: [Raises power of Steel-type moves 10%.]
@@ -1112,9 +457,6 @@ items:
   Metal Powder:
     description: [Raises Ditto's Def and SpD by 50%.]
     introduction: gs
-  Meteorite:
-    description: [Give to Professor Cozmo to receive TM27 in RSE.]
-    introduction: rs
   Metronome:
     description: [Boost the power of attacks used consecutively.]
     introduction: dp
@@ -1140,83 +482,24 @@ items:
   Miracle Seed:
     description: [Raises power of Grass-type moves 10%.]
     introduction: gs
-  MooMoo Milk:
-    description: [Restores 100 HP.]
-    introduction: gs
-  Moon Ball:
-    description: [A Ball for catching wild Pokemon.]
-    introduction: gs
-  Moon Stone:
-    description: ['Evolves Clefairy, Jigglypuff, Nidorina, and Nidorino.']
-    introduction: gs
-  Morph Mail:
-    description: [Write a letter using a morphing design paper.]
-    introduction: gs
   Mosaic Mail:
     description: [Prevents Trick from working.]
     introduction: dp
-  Mud Ball:
-    description: [A large ball of mud. Crumbles if stepped on.]
-    introduction: rs
-  Mudkip Doll:
-    description: [A Mudkip doll. Place it on a mat or a desk.]
-    introduction: rs
   Muscle Band:
     description: [Raises power of physical moves 10%.]
     introduction: dp
-  Music Mail:
-    description: [Write a letter using a musical design paper.]
-    introduction: gs
   Mystery Berry:
     description: [Restores 5 PP to a move that has run out of PP. One-time use.]
     introduction: gs
   Mystic Water:
     description: [Raises power of Water-type moves 10%.]
     introduction: gs
-  Mysticticket:
-    description: [Event item for Ho-Oh and Lugia.]
-    introduction: rs
-  Nanab Berry:
-    description: ["Pok\xE9block ingredient. Plant in loamy soil to grow a Nanab plant."]
-    introduction: rs
-  Nes:
-    description: [An NES system. Place in bedroom.]
-    introduction: gs
-  Nest Ball:
-    description: [A Ball used to catch Pokemon that is more effective against lower
-        level Pokemon.]
-    introduction: rs
-  Net Ball:
-    description: [A Ball used to catch Pokemon that is more effective against Bug-
-        and Water-type Pokemon.]
-    introduction: rs
   NeverMeltIce:
     description: [Raises power of Ice-type moves 10%.]
     introduction: gs
-  Niniku Berry:
-    description: ["Berry blended to make Pok\xE9blocks."]
-    introduction: rs
-  Nintendo64:
-    description: [A Nintendo64 system. Place in bedroom.]
-    introduction: gs
-  Nomel Berry:
-    description: ["Pok\xE9block ingredient. Plant in loamy soil to grow a Nomel plant."]
-    introduction: rs
   Normal Gem:
     description: [Raises the power of a Normal-type move by 50%. One-time use.]
     introduction: bw
-  Nugget:
-    description: [A rare gold nugget that would sell for a high price.]
-    introduction: gs
-  Nutpea Berry:
-    description: ["Berry blended to make Pok\xE9blocks."]
-    introduction: rs
-  Oak's Letter:
-    description: [Event item for Shaymin.]
-    introduction: dp
-  Oak's Parcel:
-    description: ["Exchange for Pok\xE9dex."]
-    introduction: rs
   Occa Berry:
     description: [Reduces damage from a super effective Fire-type attack by 50%. Consumed
         after use.]
@@ -1224,69 +507,18 @@ items:
   Odd Incense:
     description: [Raises power of Psychic-type moves 20%.]
     introduction: dp
-  Odd Keystone:
-    description: [Item to get Spiritomb.]
-    introduction: dp
-  Oddish Doll:
-    description: [An oddish doll. Place in bedroom.]
-    introduction: gs
-  Old Amber:
-    description: [Revives into Aerodactyl.]
-    introduction: rs
-  Old Charm:
-    description: [Given to Cynthia's Grandmother.]
-    introduction: dp
-  Old Gateau:
-    description: [Removes all status effects from one Pokemon.]
-    introduction: dp
-  Old Rod:
-    description: ["An old fishing rod used for catching Pok\xE9mon."]
-    introduction: gs
-  Old Sea map:
-    description: [Event item for Mew.]
-    introduction: rs
   Oran Berry:
     description: [Restores 10 HP when at 50% HP or less. One-time use.]
     introduction: rs
-  Orange Mail:
-    description: [A Zigzagoon-print Mail to be held by a Pokemon.]
-    introduction: rs
-  Oval Stone:
-    description: [Hold item that causes Happiny to evolve into Chansey.]
-    introduction: dp
-  PP Max:
-    description: [Maximizes the PP of a Pokemon's move.]
-    introduction: rs
-  PP Up:
-    description: [Increases max PP of one move by 20%.]
-    introduction: gs
   PRZCure Berry:
     description: [Cures paralysis. One-time use.]
-    introduction: gs
-  PRZHeal:
-    description: [Cures paralysis.]
     introduction: gs
   PSNCure Berry:
     description: [Cures poison. One-time use.]
     introduction: gs
-  Pal Pad:
-    description: [Stores Friend Codes.]
-    introduction: dp
-  Pamtre Berry:
-    description: ["Pok\xE9block ingredient. Plant in loamy soil to grow a Pamtre plant."]
-    introduction: rs
-  Parcel:
-    description: [A parcel to be delivered to your rival.]
-    introduction: dp
-  Park Ball:
-    description: [A Ball for catching wild Pokemon.]
-    introduction: gs
   Parlyz Heal:
     description: [Cures paralysis.]
     introduction: rs
-  Pass:
-    description: [Allows use of the Magnet Train.]
-    introduction: gs
   Passho Berry:
     description: [Reduces damage from a super effective Water-type attack by 50%.
         Consumed after use.]
@@ -1295,9 +527,6 @@ items:
     description: [Reduces damage from a super effective Psychic-type attack by 50%.
         Consumed after use.]
     introduction: dp
-  Pearl:
-    description: [A beautiful pearl that would sell for a high price.]
-    introduction: gs
   Pecha Berry:
     description: [Cures poison. One-time use.]
     introduction: rs
@@ -1307,108 +536,24 @@ items:
   Petaya Berry:
     description: [Raises SpA one stage when at 25% HP or less. One-time use.]
     introduction: rs
-  Pichu Doll:
-    description: [A Pichu doll. Place it on a mat or a desk.]
-    introduction: rs
-  Pika Cushion:
-    description: [A Pikachu cushion. Place it on a mat or a desk.]
-    introduction: rs
-  Pika Poster:
-    description: [A large poster with a Pikachu and Pichu print.]
-    introduction: rs
-  Pikachu Bed:
-    description: [A Pikachu bed. Place in bedroom.]
-    introduction: gs
-  Pikachu Doll:
-    description: [A Pikachu doll. Place in bedroom.]
-    introduction: gs
-  Pikachu Poster:
-    description: [A Pikachu poster. Hang on wall in bedroom.]
-    introduction: gs
-  Pinap Berry:
-    description: ["Pok\xE9block ingredient. Plant in loamy soil to grow a Pinap plant."]
-    introduction: rs
-  Pink Bed:
-    description: [A pink bed. Place in bedroom.]
-    introduction: gs
   Pink Bow:
     description: [Raises power of Normal moves 10%.]
     introduction: gs
-  Pink Scarf:
-    description: [A hold item that raises Cute in Contests.]
-    introduction: rs
   Pinsirite:
     description: [Mega-evolves Pinsir.]
     introduction: xy
   Pixie Plate:
     description: [Holder's Fairy-type attacks have 1.2x power. Judgment is Fairy-type.]
     introduction: xy
-  Plume Fossil:
-    description: [Can be revived into Archen.]
-    introduction: bw
-  Pnk Apricorn:
-    description: [Can be made into Love Ball.]
-    introduction: gs
-  Poffin Case:
-    description: [Stores Poffins.]
-    introduction: dp
-  Point Card:
-    description: [Records your Battle Points for the Battle Tower or Battle Frontier.]
-    introduction: dp
   Poison Barb:
     description: [Raises power of Poison-type moves 10%.]
     introduction: gs
   Poison Gem:
     description: [Raises the power of a Poison-type move by 50%. One-time use.]
     introduction: bw
-  Poke Ball:
-    description: [A Ball for catching wild Pokemon.]
-    introduction: gs
-  Poke Doll:
-    description: [Use to escape from battle.]
-    introduction: gs
-  Poke Radar:
-    description: [Locates hidden Pokemon in the grass.]
-    introduction: dp
-  PokeDoll:
-    description: [Trade to the Copy Cat for the Pass.]
-    introduction: gs
-  Pokeblock Case:
-    description: ["A case for holding Pok\xE9blocks made with a Berry Blender."]
-    introduction: rs
-  Pokemon Chair:
-    description: ["A small chair built in the shape of a Pok\xE9 Ball."]
-    introduction: rs
-  Pokemon Desk:
-    description: ["A small desk built in the shape of a Pok\xE9 Ball."]
-    introduction: rs
-  "Pok\xE9 Flute":
-    description: [Wakes sleeping Pokemon.]
-    introduction: rs
-  Poliwag Doll:
-    description: [A Poliwag doll. Place in bedroom.]
-    introduction: gs
   Polka Dot Bow:
     description: [Raises power of Normal moves 12.5%.]
     introduction: gs
-  Polkadot Bed:
-    description: [A polkadot bed. Place in bedroom.]
-    introduction: gs
-  Pomeg Berry:
-    description: ["Pok\xE9block ingredient. Plant in loamy soil to grow a Pomeg plant."]
-    introduction: rs
-  Portrait Mail:
-    description: [Write a letter using a portrait design paper.]
-    introduction: gs
-  Potion:
-    description: [Restores 20 HP.]
-    introduction: gs
-  Powder Jar:
-    description: [Stores Berry powder made with Berry Crush.]
-    introduction: rs
-  Powder Snow Mat:
-    description: [A mat with a Powder Snow image design. Put items on top.]
-    introduction: rs
   Power Anklet:
     description: [Reduces Speed 50%. Grants 4 Speed EVs when the opponent is defeated.
         Passes down the Speed IV to its offspring in HGSS.]
@@ -1436,74 +581,18 @@ items:
     description: [Reduces Speed 50%. Grants 4 HP EVs when the opponent is defeated.
         Passes down HP IV to its offspring in HGSS.]
     introduction: dp
-  Premier Ball:
-    description: [A Ball used to catch Pokemon made to commemorate a particular event.]
-    introduction: rs
-  Pretty Chair:
-    description: [A small chair made of glass.]
-    introduction: rs
-  Pretty Desk:
-    description: [A huge desk made of glass. Holds lots of decorations.]
-    introduction: rs
-  Pretty Flowers:
-    description: [A pot of cute flowers.]
-    introduction: rs
-  Protector:
-    description: [Evolves Rhydon into Rhyperior.]
-    introduction: dp
-  Protein:
-    description: [Increases the Attack stat.]
-    introduction: gs
   Psychic Gem:
     description: [Raises the power of a Psychic-type move by 50%. One-time use.]
     introduction: bw
   Pumkin Berry:
     description: [Cures freeze. One-time use.]
     introduction: rs
-  Pure Incense:
-    description: [Reduces the chances of meeting a wild Pokemon when equipped to your
-        Pokemon.]
-    introduction: dp
-  Qualot Berry:
-    description: ["Pok\xE9block ingredient. Plant in loamy soil to grow a Qualot plant."]
-    introduction: rs
-  Quick Ball:
-    description: [A Ball used to catch Pokemon that works better if used earlier in
-        the battle.]
-    introduction: dp
   Quick Claw:
     description: [Gives the user a 23.4375% chance to go first.]
     introduction: gs
   Quick Powder:
     description: [Doubles Ditto's Speed.]
     introduction: dp
-  Rabuta Berry:
-    description: ["Pok\xE9block ingredient. Plant in loamy soil to grow a Rabuta plant."]
-    introduction: rs
-  Radio Card:
-    description: [Allows for the listening of Johto radio frequencies.]
-    introduction: gs
-  Ragecandy Bar:
-    description: [Restores 20 HP.]
-    introduction: gs
-  Ragged Chair:
-    description: [A small chair made of wood.]
-    introduction: rs
-  Ragged Desk:
-    description: [A large desk made of wood. Put some decorations on it.]
-    introduction: rs
-  Rainbow Pass:
-    description: [Allows access to all the normal Sevii Islands.]
-    introduction: rs
-  Rainbow Wing:
-    description: [Event item for Ho-Oh.]
-    introduction: gs
-  Rare Bone:
-    description: ["Can be sold for 5000 Pok\xE9 Dollars. No other use."]
-    introduction: dp
-  Rare Candy:
-    description: [Increases level of a Pokemon by one.]
-    introduction: gs
   Rawst Berry:
     description: [Cures burn. One-time use.]
     introduction: rs
@@ -1513,96 +602,14 @@ items:
   Razor Fang:
     description: [Certain moves have a 10% flinch rate.]
     introduction: dp
-  Razz Berry:
-    description: ["Pok\xE9block ingredient. Plant in loamy soil to grow a Razz plant."]
-    introduction: rs
-  Reaper Cloth:
-    description: [Evolves Dusclops into Dusknoir.]
-    introduction: dp
-  Red Apricorn:
-    description: [Can be made into Level Ball.]
-    introduction: gs
-  Red Balloon:
-    description: [A red balloon filled with water. Bursts if stepped on.]
-    introduction: rs
-  Red Brick:
-    description: [A red-colored brick. Decorations can be placed on top.]
-    introduction: rs
   Red Card:
     description: [The opponent is forced out immediately if it attacks the holder.
         One-time use.]
     introduction: bw
-  Red Carpet:
-    description: [Red carpeting for your bedroom.]
-    introduction: gs
-  Red Flute:
-    description: [Cures infatuation. Does not disappear after use.]
-    introduction: rs
-  Red Orb:
-    description: ["Used to awaken Groudon in Pok\xE9mon Ruby."]
-    introduction: rs
-  Red Plant:
-    description: [A vivid red potted plant.]
-    introduction: rs
-  Red Poster:
-    description: [A small poster with a Torchic print.]
-    introduction: rs
-  Red Scale:
-    description: [Trade to Mr. Pokemon for the Exp. Share.]
-    introduction: gs
-  Red Scarf:
-    description: [A hold item that raises Cool in Contests.]
-    introduction: rs
-  Red Shard:
-    description: [Can be exchanged in Route 124 for a Fire Stone.]
-    introduction: rs
-  Red Tent:
-    description: [A large red tent. You can hide inside it.]
-    introduction: rs
-  Regice Doll:
-    description: [A large Regice doll. Place it on a mat or a desk.]
-    introduction: rs
-  Regirock Doll:
-    description: [A large Regirock doll. Place it on a mat or a desk.]
-    introduction: rs
-  Registeel Doll:
-    description: [A large Registeel doll. Place it on a mat or a desk.]
-    introduction: rs
-  Repeat Ball:
-    description: ["A Ball used to catch Pokemon that is more effective against Pokemon
-        already in the Pok\xE9dex."]
-    introduction: rs
-  Repel:
-    description: [Repels wild Pokemon.]
-    introduction: gs
-  Retro Mail:
-    description: [Mail featuring the drawings of three Pokemon.]
-    introduction: rs
-  Revival Herb:
-    description: [A bitter herb that revives Pokemon at 50% health.]
-    introduction: gs
-  Revive:
-    description: [Revives a fainted Pokemon and restores half of its HP.]
-    introduction: rs
-  Rhydon Doll:
-    description: [A large Rhydon doll. Place it on a mat or a desk.]
-    introduction: rs
   Rindo Berry:
     description: [Reduces damage from a super effective Grass-type attack by 50%.
         Consumed after use.]
     introduction: dp
-  Rm. 1 Key:
-    description: [A key that opens a door inside the Abandoned Ship.]
-    introduction: rs
-  Rm. 2 Key:
-    description: [A key that opens a door inside the Abandoned Ship.]
-    introduction: rs
-  Rm. 4 Key:
-    description: [A key that opens a door inside the Abandoned Ship.]
-    introduction: rs
-  Rm. 6 Key:
-    description: [A key that opens a door inside the Abandoned Ship.]
-    introduction: rs
   Rock Gem:
     description: [Raises the power of a Rock-type move by 50%. One-time use.]
     introduction: bw
@@ -1612,9 +619,6 @@ items:
   Rocky Helmet:
     description: [Deals 1/6 damage when the opponent makes contact.]
     introduction: bw
-  Root Fossil:
-    description: [Can be revived into Lileep.]
-    introduction: rs
   Rose Incense:
     description: [Raises power of Grass-type moves 20%.]
     introduction: dp
@@ -1622,42 +626,15 @@ items:
     description: [Halves damage taken from a super effective Fairy-type attack. Single
         use.]
     introduction: xy
-  Round Cushion:
-    description: [A Marill cushion. Place it on a mat or a desk.]
-    introduction: rs
-  Round Tv:
-    description: [A toy TV modeled in the image of a Seedot.]
-    introduction: rs
   Rowap Berry:
     description: ['If hit by a special attack, the attacker takes 12.5% damage. One-time
         use.']
     introduction: dp
-  Ruby:
-    description: [Give to Celio to help set up the Network Machine.]
-    introduction: rs
-  S.S. Ticket:
-    description: [Allows passage aboard the S.S. Anne.]
-    introduction: gs
-  Sacred Ash:
-    description: [Revives all fainted Pokemon to full health. Restores all PP.]
-    introduction: gs
-  Safari Ball:
-    description: [A Ball used to catch Pokemon in the Safari Zone.]
-    introduction: rs
   Safety Goggles:
     description: [Protects the holder from weather-related damage and powder moves.]
     introduction: xy
   Salac Berry:
     description: [Raises Spe one stage when at 25% HP or less. One-time use.]
-    introduction: rs
-  Sand Ornament:
-    description: [An ornament made of sand. Crumbles if touched.]
-    introduction: rs
-  Sapphire:
-    description: [Give to Celio to help set up the Network Machine.]
-    introduction: rs
-  Scanner:
-    description: [Trade for the DeepSeaScale or DeepSeaTooth.]
     introduction: rs
   Scizorite:
     description: [Mega-evolves Scizor.]
@@ -1668,30 +645,6 @@ items:
   Sea Incense:
     description: [Raises power of Water-type moves 5%.]
     introduction: rs
-  Sea Poster:
-    description: [A large poster with a Relicanth print.]
-    introduction: rs
-  Seal Bag:
-    description: [Holds up to 10 seals.]
-    introduction: dp
-  Seal Case:
-    description: [Stores seals.]
-    introduction: dp
-  Secret Key:
-    description: [Unlocks the door to Cinnabar Gym.]
-    introduction: rs
-  Secret Potion:
-    description: [Medicine for Ampharos.]
-    introduction: gs
-  SecretPotion:
-    description: [Special potion from Cianwood City in Johto.]
-    introduction: dp
-  Seedot Doll:
-    description: [A Seedot doll. Place it on a mat or a desk.]
-    introduction: rs
-  Shadow Mail:
-    description: [A Duskull-print Mail to be held by a Pokemon.]
-    introduction: rs
   Sharp Beak:
     description: [Raises power of Flying-type moves 10%.]
     introduction: gs
@@ -1701,108 +654,38 @@ items:
   Shell Bell:
     description: [Heals this Pokemon 1/8 of the damage it does.]
     introduction: rs
-  Shellder Doll:
-    description: [A Shellder doll. Place in bedroom.]
-    introduction: gs
-  Shiny Stone:
-    description: [Evolves Togetic and Roselia.]
-    introduction: dp
-  Shoal Salt:
-    description: [Collect 4 Shoal Salts and 4 Shoal Shells to trade for a Shell Bell.]
-    introduction: rs
-  Shoal Shell:
-    description: [Collect 4 Shoal Salts and 4 Shoal Shells to trade for a Shell Bell.]
-    introduction: rs
   Shock Drive:
     description: [Changes the type of Techno Blast to Electric.]
     introduction: bw
   Shuca Berry:
-    description: [Reduces damage from a super effective Ground-type attack by 50%.
-        Consumed after use.]
+    description: [Reduces damage from a super effective Ground-type attack by 50%. Consumed after use.]
     introduction: dp
   Silk Scarf:
     description: [Raises power of Normal-type moves 10%.]
     introduction: rs
-  Silph Scope:
-    description: [Allows wild Pokemon in Lavender Tower to be battled.]
-    introduction: rs
-  Silver Leaf:
-    description: [A rare silver leaf that would sell for a high price.]
-    introduction: gs
-  Silver Shield:
-    description: [Awarded for 50 straight wins at the Battle Tower.]
-    introduction: rs
-  Silver Trophy:
-    description: [A silver trophy. Place in bedroom.]
-    introduction: gs
-  Silver Wing:
-    description: [Event item for Lugia.]
-    introduction: gs
   SilverPowder:
     description: [Raises power of Bug-type moves 10%.]
     introduction: gs
   Sitrus Berry:
     description: [Restores 30 HP when at 50% HP or less. One-time use.]
     introduction: rs
-  Skitty Doll:
-    description: [A Skitty doll. Place it on a mat or a desk.]
-    introduction: rs
-  Skull Fossil:
-    description: [Can be revived into Cranidos.]
-    introduction: dp
-  Sky Blue Mail:
-    description: [Write a letter using a sky design paper.]
-    introduction: gs
   Sky Plate:
-    description: [Raises power of Flying-type moves 20%. Pokemon with Multitype become
-        Flying-type.]
+    description: [Raises power of Flying-type moves 20%. Pokemon with Multitype become Flying-type.]
     introduction: dp
-  Sky Poster:
-    description: [A large poster with a Wingull print.]
-    introduction: rs
-  Slide:
-    description: [Use to slide down from the platform.]
-    introduction: rs
-  Small Chair:
-    description: [A small chair made for one.]
-    introduction: rs
-  Small Desk:
-    description: [A small desk built for one.]
-    introduction: rs
-  Smoke Ball:
-    description: ["During a wild battle, a Pok\xE9mon holding this item allow the
-        \"Run\" command to always work."]
-    introduction: gs
-  Smoochum Doll:
-    description: [A Smoochum doll. Place it on a mat or a desk.]
-    introduction: rs
   Smooth Rock:
-    description: [Makes Sandstorm last 8 turns.]
+    description: 
+    - Makes Sandstorm last 8 turns.
+    - {xy: Makes Sandstorm and Sand Stream last 8 turns.}
     introduction: dp
-  Snorlax Doll:
-    description: [A large Snorlax doll. Place it on a mat or a desk.]
-    introduction: rs
   Snow Mail:
     description: [Prevents Trick from working.]
     introduction: dp
   Snowball:
     description: [Raises Attack by 1 if hit by an Ice-type attack. Single use.]
     introduction: xy
-  Soda Pop:
-    description: [Restores 60 HP.]
-    introduction: gs
   Soft Sand:
     description: [Raises power of Ground-type moves 10%.]
     introduction: gs
-  Solid Board:
-    description: [Place over a hole to cross to the other side.]
-    introduction: rs
-  Soot Sack:
-    description: [Used to collect ash on Route 113 to trade for items.]
-    introduction: rs
-  Soothe Bell:
-    description: [Raises happiness.]
-    introduction: rs
   Soul Dew:
     description: [Raises SpA and SpD of Latias and Latios by 50%.]
     introduction: rs
@@ -1812,18 +695,6 @@ items:
   Spell Tag:
     description: [Raises power of Ghost-type moves 10%.]
     introduction: gs
-  Spelon Berry:
-    description: ["Pok\xE9block ingredient. Plant in loamy soil to grow a Spelon plant."]
-    introduction: rs
-  Spikes Mat:
-    description: [A mat designed with a Spikes image. Put items on top.]
-    introduction: rs
-  Spin Cushion:
-    description: [A Spinda cushion. Place it on a mat or a desk.]
-    introduction: rs
-  Spin Mat:
-    description: [A trick mat that spins around when stepped on.]
-    introduction: rs
   Splash Plate:
     description: [Raises power of Water-type moves 20%. Pokemon with Multitype become
         Water-type.]
@@ -1832,33 +703,9 @@ items:
     description: [Raises power of Ghost-type moves 20%. Pokemon with Multitype become
         Ghost-type.]
     introduction: dp
-  Sprayduck:
-    description: [Used to water Berries.]
-    introduction: dp
-  Squirtbottle:
-    description: [Waters plants. Hated by Sudowoodo.]
-    introduction: gs
-  Squirtle Doll:
-    description: [A Squirtle doll. Place in bedroom.]
-    introduction: gs
-  Stable Mulch:
-    description: [Lengthens the time your Berries will grow and fall.]
-    introduction: dp
-  Stand:
-    description: [A large pedestal with steps.]
-    introduction: rs
-  Star Piece:
-    description: [A rare star piece that would sell for a high price.]
-    introduction: gs
-  Stardust:
-    description: [Rare stardust that would sell for a high price.]
-    introduction: gs
   Starf Berry:
     description: [Raises a stat two stages when at 25% HP or less. One-time use.]
     introduction: rs
-  Staryu Doll:
-    description: [A Staryu doll. Place in bedroom.]
-    introduction: gs
   Steel Gem:
     description: [Raises the power of a Steel-type move by 50%. One-time use.]
     introduction: bw
@@ -1875,416 +722,6 @@ items:
     description: [Raises base power of Rock-type moves 20%. Pokemon with Multitype
         become Rock-type.]
     introduction: dp
-  Storage Key:
-    description: [The key to the storage inside the Abandoned Ship.]
-    introduction: rs
-  Strib Berry:
-    description: ["Berry blended to make Pok\xE9blocks."]
-    introduction: rs
-  Suite Key:
-    description: [A key from the Hotel Grand Lake.]
-    introduction: dp
-  Sun Stone:
-    description: [Evolves Gloom and Sunkern.]
-    introduction: gs
-  Super Nes:
-    description: [A Super NES system. Place in bedroom.]
-    introduction: gs
-  Super Potion:
-    description: [Restores 50 HP.]
-    introduction: gs
-  Super Repel:
-    description: ["Repels wild Pok\xE9mon."]
-    introduction: gs
-  Super Rod:
-    description: [Allows the user to go fishing for Pokemon in water.]
-    introduction: rs
-  Surf Mail:
-    description: [Write a letter using a Lapras design paper.]
-    introduction: gs
-  Surf Mat:
-    description: [A mat designed with a Surf image. Put items on top.]
-    introduction: rs
-  Surf Pikachu Doll:
-    description: [A surfing Pikachu doll. Place in bedroom.]
-    introduction: gs
-  Swablu Doll:
-    description: [A Swablu doll. Place it on a mat or a desk.]
-    introduction: rs
-  TM Case:
-    description: [Stores TMs and HMs.]
-    introduction: rs
-  TM01:
-    description: ["Teaches <a href=\"/gs/moves/dynamicpunch\">DynamicPunch</a> to
-        a Pok\xE9mon when used."]
-    introduction: gs
-  TM02:
-    description: ["Teaches <a href=\"/gs/moves/headbutt\">Headbutt</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM03:
-    description: ["Teaches <a href=\"/gs/moves/curse\">Curse</a> to a Pok\xE9mon when
-        used."]
-    introduction: gs
-  TM04:
-    description: ["Teaches <a href=\"/gs/moves/rollout\">Rollout</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM05:
-    description: ["Teaches <a href=\"/gs/moves/roar\">Roar</a> to a Pok\xE9mon when
-        used."]
-    introduction: gs
-  TM06:
-    description: ["Teaches <a href=\"/gs/moves/toxic\">Toxic</a> to a Pok\xE9mon when
-        used."]
-    introduction: gs
-  TM07:
-    description: ["Teaches <a href=\"/gs/moves/zap_cannon\">Zap Cannon</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM08:
-    description: ["Teaches <a href=\"/gs/moves/rock_smash\">Rock Smash</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM09:
-    description: ["Teaches <a href=\"/gs/moves/psych_up\">Psych Up</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM10:
-    description: ["Teaches <a href=\"/gs/moves/hidden_power\">Hidden Power</a> to
-        a Pok\xE9mon when used."]
-    introduction: gs
-  TM11:
-    description: ["Teaches <a href=\"/gs/moves/sunny_day\">Sunny Day</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM12:
-    description: ["Teaches <a href=\"/gs/moves/sweet_scent\">Sweet Scent</a> to a
-        Pok\xE9mon when used."]
-    introduction: gs
-  TM13:
-    description: ["Teaches <a href=\"/gs/moves/snore\">Snore</a> to a Pok\xE9mon when
-        used."]
-    introduction: gs
-  TM14:
-    description: ["Teaches <a href=\"/gs/moves/blizzard\">Blizzard</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM15:
-    description: ["Teaches <a href=\"/gs/moves/hyper_beam\">Hyper Beam</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM16:
-    description: ["Teaches <a href=\"/gs/moves/icy_wind\">Icy Wind</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM17:
-    description: ["Teaches <a href=\"/gs/moves/protect\">Protect</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM18:
-    description: ["Teaches <a href=\"/gs/moves/rain_dance\">Rain Dance</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM19:
-    description: ["Teaches <a href=\"/gs/moves/giga_drain\">Giga Drain</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM20:
-    description: ["Teaches <a href=\"/gs/moves/endure\">Endure</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM21:
-    description: ["Teaches <a href=\"/gs/moves/frustration\">Frustration</a> to a
-        Pok\xE9mon when used."]
-    introduction: gs
-  TM22:
-    description: ["Teaches <a href=\"/gs/moves/solarbeam\">SolarBeam</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM23:
-    description: ["Teaches <a href=\"/gs/moves/iron_tail\">Iron Tail</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM24:
-    description: ["Teaches <a href=\"/gs/moves/dragonbreath\">DragonBreath</a> to
-        a Pok\xE9mon when used."]
-    introduction: gs
-  TM25:
-    description: ["Teaches <a href=\"/gs/moves/thunder\">Thunder</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM26:
-    description: ["Teaches <a href=\"/gs/moves/earthquake\">Earthquake</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM27:
-    description: ["Teaches <a href=\"/gs/moves/return\">Return</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM28:
-    description: ["Teaches <a href=\"/gs/moves/dig\">Dig</a> to a Pok\xE9mon when
-        used."]
-    introduction: gs
-  TM29:
-    description: ["Teaches <a href=\"/gs/moves/psychic\">Psychic</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM30:
-    description: ["Teaches <a href=\"/gs/moves/shadow_ball\">Shadow Ball</a> to a
-        Pok\xE9mon when used."]
-    introduction: gs
-  TM31:
-    description: ["Teaches <a href=\"/gs/moves/mud_slap\">Mud Slap</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM32:
-    description: ["Teaches <a href=\"/gs/moves/double_team\">Double Team</a> to a
-        Pok\xE9mon when used."]
-    introduction: gs
-  TM33:
-    description: ["Teaches <a href=\"/gs/moves/ice_punch\">Ice Punch</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM34:
-    description: ["Teaches <a href=\"/gs/moves/swagger\">Swagger</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM35:
-    description: ["Teaches <a href=\"/gs/moves/sleep_talk\">Sleep Talk</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM36:
-    description: ["Teaches <a href=\"/gs/moves/sludge_bomb\">Sludge Bomb</a> to a
-        Pok\xE9mon when used."]
-    introduction: gs
-  TM37:
-    description: ["Teaches <a href=\"/gs/moves/sandstorm\">Sandstorm</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM38:
-    description: ["Teaches <a href=\"/gs/moves/fire_blast\">Fire Blast</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM39:
-    description: ["Teaches <a href=\"/gs/moves/swift\">Swift</a> to a Pok\xE9mon when
-        used."]
-    introduction: gs
-  TM40:
-    description: ["Teaches <a href=\"/gs/moves/defense_curl\">Defense Curl</a> to
-        a Pok\xE9mon when used."]
-    introduction: gs
-  TM41:
-    description: ["Teaches <a href=\"/gs/moves/thunderpunch\">ThunderPunch</a> to
-        a Pok\xE9mon when used."]
-    introduction: gs
-  TM42:
-    description: ["Teaches <a href=\"/gs/moves/dream_eater\">Dream Eater</a> to a
-        Pok\xE9mon when used."]
-    introduction: gs
-  TM43:
-    description: ["Teaches <a href=\"/gs/moves/detect\">Detect</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM44:
-    description: ["Teaches <a href=\"/gs/moves/rest\">Rest</a> to a Pok\xE9mon when
-        used."]
-    introduction: gs
-  TM45:
-    description: ["Teaches <a href=\"/gs/moves/attract\">Attract</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM46:
-    description: ["Teaches <a href=\"/gs/moves/thief\">Thief</a> to a Pok\xE9mon when
-        used."]
-    introduction: gs
-  TM47:
-    description: ["Teaches <a href=\"/gs/moves/steel_wing\">Steel Wing</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM48:
-    description: ["Teaches <a href=\"/gs/moves/fire_punch\">Fire Punch</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM49:
-    description: ["Teaches <a href=\"/gs/moves/fury_cutter\">Fury Cutter</a> to a
-        Pok\xE9mon when used."]
-    introduction: gs
-  TM50:
-    description: ["Teaches <a href=\"/gs/moves/nightmare\">Nightmare</a> to a Pok\xE9mon
-        when used."]
-    introduction: gs
-  TM51:
-    description: [Teaches <a href="/dp/moves/roost">Roost</a> to a Pokemon when used.
-        One-time use.]
-    introduction: dp
-  TM52:
-    description: [Teaches <a href="/dp/moves/focus_blast">Focus Blast</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM53:
-    description: [Teaches <a href="/dp/moves/energy_ball">Energy Ball</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM54:
-    description: [Teaches <a href="/dp/moves/false_swipe">False Swipe</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM55:
-    description: [Teaches <a href="/dp/moves/brine">Brine</a> to a Pokemon when used.
-        One-time use.]
-    introduction: dp
-  TM56:
-    description: [Teaches <a href="/dp/moves/fling">Fling</a> to a Pokemon when used.
-        One-time use]
-    introduction: dp
-  TM57:
-    description: [Teaches <a href="/dp/moves/charge_beam">Charge Beam</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM58:
-    description: [Teaches <a href="/dp/moves/endure">Endure</a> to a Pokemon when
-        used. One-time use.]
-    introduction: dp
-  TM59:
-    description: [Teaches <a href="/dp/moves/dragon_pulse">Dragon Pulse</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM60:
-    description: [Teaches <a href="/dp/moves/drain_punch">Drain Punch</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM61:
-    description: [Teaches <a href="/dp/moves/will-o-wisp">Will-O-Wisp</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM62:
-    description: [Teaches <a href="/dp/moves/silver_wind">Silver Wind</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM63:
-    description: [Teaches <a href="/dp/moves/embargo">Embargo</a> to a Pokemon when
-        used. One-time use.]
-    introduction: dp
-  TM64:
-    description: [Teaches <a href="/dp/moves/explosion">Explosion</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM65:
-    description: [Teaches <a href="/dp/moves/shadow_claw">Shadow Claw</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM66:
-    description: [Teaches <a href="/dp/moves/payback">Payback</a> to a Pokemon when
-        used. One-time use.]
-    introduction: dp
-  TM67:
-    description: [Teaches <a href="/dp/moves/recycle">Recycle</a> to a Pokemon when
-        used. One-time use.]
-    introduction: dp
-  TM68:
-    description: [Teaches <a href="/dp/moves/giga_impact">Giga Impact</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM69:
-    description: [Teaches <a href="/dp/moves/rock_polish">Rock Polish</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM70:
-    description: [Teaches <a href="/dp/moves/flash">Flash</a> to a Pokemon when used.
-        One-time use.]
-    introduction: dp
-  TM71:
-    description: [Teaches <a href="/dp/moves/stone_edge">Stone Edge</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM72:
-    description: [Teaches <a href="/dp/moves/avalanche">Avalanche</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM73:
-    description: [Teaches <a href="/dp/moves/thunder_wave">Thunder Wave</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM74:
-    description: [Teaches <a href="/dp/moves/gyro_ball">Gyro Ball</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM75:
-    description: [Teaches <a href="/dp/moves/swords_dance">Swords Dance</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM76:
-    description: [Teaches <a href="/dp/moves/stealth_rock">Stealth Rock</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM77:
-    description: [Teaches <a href="/dp/moves/psych_up">Psych Up</a> to a Pokemon when
-        used. One-time use.]
-    introduction: dp
-  TM78:
-    description: [Teaches <a href="/dp/moves/captivate">Captivate</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM79:
-    description: [Teaches <a href="/dp/moves/dark_pulse">Dark Pulse</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM80:
-    description: [Teaches <a href="/dp/moves/rock_slide">Rock Slide</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM81:
-    description: [Teaches <a href="/dp/moves/x-scissor">X-Scissor</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM82:
-    description: [Teaches <a href="/dp/moves/sleep_talk">Sleep Talk</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM83:
-    description: [Teaches <a href="/dp/moves/natural_gift">Natural Gift</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM84:
-    description: [Teaches <a href="/dp/moves/poison_jab">Poison Jab</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM85:
-    description: [Teaches <a href="/dp/moves/dream_eater">Dream Eater</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM86:
-    description: [Teaches <a href="/dp/moves/grass_knot">Grass Knot</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM87:
-    description: [Teaches <a href="/dp/moves/swagger">Swagger</a> to a Pokemon when
-        used. One-time use.]
-    introduction: dp
-  TM88:
-    description: [Teaches <a href="/dp/moves/pluck">Pluck</a> to a Pokemon when used.
-        One-time use.]
-    introduction: dp
-  TM89:
-    description: [Teaches <a href="/dp/moves/u-turn">U-turn</a> to a Pokemon when
-        used. One-time use.]
-    introduction: dp
-  TM90:
-    description: [Teaches <a href="/dp/moves/substitute">Substitute</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM91:
-    description: [Teaches <a href="/dp/moves/flash_cannon">Flash Cannon</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  TM92:
-    description: [Teaches <a href="/dp/moves/trick_room">Trick Room</a> to a Pokemon
-        when used. One-time use.]
-    introduction: dp
-  Tamato Berry:
-    description: ["Pok\xE9block ingredient. Plant in loamy soil to grow a Tamato plant."]
-    introduction: rs
   Tanga Berry:
     description: [Reduces damage from a super effective Bug-type attack by 50%. Consumed
         after use.]
@@ -2292,46 +729,9 @@ items:
   Thick Club:
     description: [Doubles Cubone's and Marowak's Attack.]
     introduction: gs
-  Thunder Mat:
-    description: [A mat designed with a Thunder image. Put items on top.]
-    introduction: rs
-  Thunder Stone:
-    description: [Evolves Eevee and Pikachu.]
-    introduction: gs
-  Thunderstone:
-    description: [Evolves Pikachu and Eevee.]
-    introduction: rs
-  Timer Ball:
-    description: [A Ball used to catch Pokemon that becomes more effective as turns
-        pass.]
-    introduction: rs
-  Tiny Mushroom:
-    description: [A rare tiny mushroom that would sell for a high price.]
-    introduction: gs
-  TinyMushroom:
-    description: ["Can be sold for 250 Pok\xE9 Dollars. No other use."]
-    introduction: rs
-  Tire:
-    description: [An old large tire. Decorations can be placed on top.]
-    introduction: rs
-  Togepi Doll:
-    description: [A Togepi doll. Place it on a mat or a desk.]
-    introduction: rs
-  Topo Berry:
-    description: ["Berry blended to make Pok\xE9blocks."]
-    introduction: rs
-  Torchic Doll:
-    description: [A Torchic doll. Place it on a mat or a desk.]
-    introduction: rs
-  Totodile Doll:
-    description: [A Totodile doll. Place it on a mat or a desk.]
-    introduction: rs
   Touga Berry:
     description: [Cures confusion. One-time use.]
     introduction: rs
-  Town Map:
-    description: [A town map. Hang up on wall of bedroom.]
-    introduction: gs
   Toxic Orb:
     description: [Poisons the holder.]
     introduction: dp
@@ -2339,114 +739,41 @@ items:
     description: [Raises power of Poison-type moves 20%. Pokemon with Multitype become
         Poison-type.]
     introduction: dp
-  Treecko Doll:
-    description: [A Treecko doll. Place it on a mat or a desk.]
-    introduction: rs
-  Tri-Pass:
-    description: ['Allows access to One, Two, and Three Island.']
-    introduction: rs
-  Tropic Mail:
-    description: [A Bellossom-print Mail to be held by a Pokemon.]
-    introduction: rs
-  Tropic Plant:
-    description: [A tropical plant. Place in bedroom.]
-    introduction: gs
-  Tropical Plant:
-    description: [A flowering tropical plant in a pot.]
-    introduction: rs
-  Tunnel Mail:
-    description: [Prevents Trick from working.]
-    introduction: dp
-  Tv:
-    description: ['A small, gray-colored toy TV.']
-    introduction: rs
   TwistedSpoon:
     description: [Raises power of Psychic moves 10%.]
     introduction: gs
   Tyranitarite:
     description: [Mega-evolves Tyranitar.]
     introduction: xy
-  Ultra Ball:
-    description: ["A Ball for catching wild Pok\xE9mon."]
-    introduction: gs
-  Underground Key:
-    description: [A key that opens doors in the Underground.]
-    introduction: gs
-  Unown Doll:
-    description: [An Unown doll. Place in bedroom.]
-    introduction: gs
   Up-Grade:
     description: [Evolves Porygon into Porygon2.]
     introduction: rs
   Upgrade:
     description: [Allows Porygon to evolve into Porygon2. One time use only.]
     introduction: gs
-  VS Seeker:
-    description: [Allows Trainers to be re-battled.]
-    introduction: rs
-  Venusaur Doll:
-    description: [A large Venusaur doll. Place it on a mat or a desk.]
-    introduction: rs
   Venusaurite:
     description: [Mega-evolves Venusaur.]
     introduction: xy
-  Virtual Boy:
-    description: [A Virtual Boy system. Place in bedroom.]
-    introduction: gs
-  Voltorb Doll:
-    description: [A Voltorb doll. Place in bedroom.]
-    introduction: gs
   Wacan Berry:
     description: [Reduces damage from a super effective Electric-type attack by 50%.
         Consumed after use.]
     introduction: dp
-  Wailmer Doll:
-    description: [A large Wailmer doll. Place it on a mat or a desk.]
-    introduction: rs
-  Wailmer Pail:
-    description: [A tool used for watering Berries and plants.]
-    introduction: rs
-  Watch:
-    description: [Allows for the observation of the passage of time.]
-    introduction: gs
-  Water Cushion:
-    description: [A water-mark cushion. Place it on a mat or a desk.]
-    introduction: rs
   Water Gem:
     description: [Raises the power of a Water-type move by 50%. One-time use.]
     introduction: bw
   Water Stone:
     description: ['Evolves Eevee, Poliwhirl, Shellder, and Staryu.']
     introduction: gs
-  Watmel Berry:
-    description: ["Pok\xE9block ingredient. Plant in loamy soil to grow a Watmel plant."]
-    introduction: rs
   Wave Incense:
     description: [Raises power of Water-type moves 20%.]
     introduction: dp
-  Wave Mail:
-    description: [A Wailmer-print Mail to be held by a Pokemon.]
-    introduction: rs
   Weakness Policy:
     description: [Attack and Sp. Atk sharply increase when hit super effectively.
         Single use.]
     introduction: xy
-  Weedle Doll:
-    description: [A Weedle doll. Place in bedroom.]
-    introduction: gs
-  Wepear Berry:
-    description: ["Pok\xE9block ingredient. Plant in loamy soil to grow a Wepear plant."]
-    introduction: rs
-  White Flute:
-    description: [Doubles the rate of encounters with wild Pokemon. Does not disappear
-        after use.]
-    introduction: rs
   White Herb:
     description: [Removes stat decreases. One-time use.]
     introduction: rs
-  Wht Apricorn:
-    description: [Can be made into Fast Ball.]
-    introduction: gs
   Wide Lens:
     description: [Raises accuracy 10%.]
     introduction: dp
@@ -2456,71 +783,14 @@ items:
   Wise Glasses:
     description: [Raises damage from special moves 10%.]
     introduction: dp
-  Wood Mail:
-    description: [A Slakoth-print Mail to be held by a Pokemon.]
-    introduction: rs
-  Works Key:
-    description: [A key to the Valley Windworks.]
-    introduction: dp
-  Wynaut Doll:
-    description: [A Wynaut doll. Place it on a mat or a desk.]
-    introduction: rs
-  X Accuracy:
-    description: [Raises accuracy in battle.]
-    introduction: gs
-  X Attack:
-    description: [Raises Attack in battle.]
-    introduction: gs
-  X Defend:
-    description: [Raises Defense in battle.]
-    introduction: gs
-  X Sp. Def:
-    description: [Raises the Special Defense of a Pokemon by one stage.]
-    introduction: dp
-  X Special:
-    description: [Raises Special Attack in battle.]
-    introduction: gs
-  X Speed:
-    description: [Raises Speed in battle.]
-    introduction: gs
   Yache Berry:
     description: [Reduces damage from a super effective Ice-type attack by 50%. Consumed
         after use.]
     introduction: dp
-  Yago Berry:
-    description: ["Berry blended to make Pok\xE9blocks."]
-    introduction: rs
-  Yellow Balloon:
-    description: [A yellow balloon filled with water. Pops if stepped on.]
-    introduction: rs
-  Yellow Brick:
-    description: [A yellow-colored brick. Put some decorations on top.]
-    introduction: rs
-  Yellow Carpet:
-    description: [Yellow carpeting for your bedroom.]
-    introduction: gs
-  Yellow Flute:
-    description: [Cures confusion. Does not disappear after use.]
-    introduction: rs
-  Yellow Scarf:
-    description: [A hold item that raises Tough in Contests.]
-    introduction: rs
-  Yellow Shard:
-    description: [Can be exchanged in Route 124 for a Thunderstone.]
-    introduction: rs
-  Ylw Apricorn:
-    description: [Can be made into Moon Ball.]
-    introduction: gs
   Zap Plate:
     description: [Raises power of Electric moves 20%. Pokemon with Multitype become
         Electric-type.]
     introduction: dp
-  Zigzag Cushion:
-    description: [A Zigzagoon cushion. Place it on a mat or a desk.]
-    introduction: rs
-  Zinc:
-    description: [Adds 10 EVs to Special Defense.]
-    introduction: rs
   Zoom Lens:
     description: [Raises accuracy by 20% if the holder moves after the target.]
     introduction: dp

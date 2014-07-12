@@ -1,7 +1,8 @@
 pokemon:
   Staraptor:
     abilities:
-    - [Intimidate, Reckless]
+    - [Intimidate]
+    - bw: [Intimidate, Reckless]
     egggroups:
     - [Flying]
     evolvesFrom: [Staravia]
@@ -21,7 +22,8 @@ pokemon:
     weight: [24.9]
   Staravia:
     abilities:
-    - [Intimidate, Reckless]
+    - [Intimidate]
+    - bw: [Intimidate, Reckless]
     egggroups:
     - [Flying]
     evolvesFrom: [Starly]
@@ -41,6 +43,7 @@ pokemon:
   Starly:
     abilities:
     - [Keen Eye]
+    - bw: [Keen Eye, Reckless]
     egggroups:
     - [Flying]
     height: [0.3]

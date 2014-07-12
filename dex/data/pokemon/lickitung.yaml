@@ -1,7 +1,8 @@
 pokemon:
   Lickilicky:
     abilities:
-    - [Cloud Nine, Oblivious, Own Tempo]
+    - [Oblivious, Own Tempo]
+    - bw: [Cloud Nine, Oblivious, Own Tempo]
     egggroups:
     - [Monster]
     evolvesFrom: [Lickitung]

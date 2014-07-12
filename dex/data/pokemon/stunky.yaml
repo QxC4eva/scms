@@ -1,7 +1,8 @@
 pokemon:
   Skuntank:
     abilities:
-    - [Aftermath, Keen Eye, Stench]
+    - [Aftermath, Stench]
+    - bw: [Aftermath, Keen Eye, Stench]
     egggroups:
     - [Ground]
     evolvesFrom: [Stunky]
@@ -21,7 +22,8 @@ pokemon:
     weight: [38]
   Stunky:
     abilities:
-    - [Aftermath, Keen Eye, Stench]
+    - [Aftermath, Stench]
+    - bw: [Aftermath, Keen Eye, Stench]
     egggroups:
     - [Ground]
     height: [0.4]

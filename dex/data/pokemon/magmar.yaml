@@ -115,7 +115,8 @@ pokemon:
     weight: [44.5]
   Magmortar:
     abilities:
-    - [Flame Body, Vital Spirit]
+    - [Flame Body]
+    - bw: [Flame Body, Vital Spirit]
     egggroups:
     - [Humanshape]
     evolvesFrom: [Magmar]

@@ -1,7 +1,8 @@
 pokemon:
   Chimchar:
     abilities:
-    - [Blaze, Iron Fist]
+    - [Blaze]
+    - bw: [Blaze, Iron Fist]
     egggroups:
     - [Ground, Humanshape]
     height: [0.5]
@@ -60,7 +61,8 @@ pokemon:
     weight: [6.2]
   Infernape:
     abilities:
-    - [Blaze, Iron Fist]
+    - [Blaze]
+    - bw: [Blaze, Iron Fist]
     egggroups:
     - [Ground, Humanshape]
     evolvesFrom: [Monferno]
@@ -83,7 +85,8 @@ pokemon:
     weight: [55]
   Monferno:
     abilities:
-    - [Blaze, Iron Fist]
+    - [Blaze]
+    - bw: [Blaze, Iron Fist]
     egggroups:
     - [Ground, Humanshape]
     evolvesFrom: [Chimchar]

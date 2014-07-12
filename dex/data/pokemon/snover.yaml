@@ -1,7 +1,8 @@
 pokemon:
   Abomasnow:
     abilities:
-    - [Snow Warning, Soundproof]
+    - [Snow Warning]
+    - bw: [Snow Warning, Soundproof]
     alts:
     - xy:
         Mega:
@@ -34,7 +35,8 @@ pokemon:
     weight: [135.5]
   Snover:
     abilities:
-    - [Snow Warning, Soundproof]
+    - [Snow Warning]
+    - bw: [Snow Warning, Soundproof]
     egggroups:
     - [Monster, Plant]
     height: [1]

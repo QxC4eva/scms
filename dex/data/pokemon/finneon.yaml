@@ -1,7 +1,8 @@
 pokemon:
   Finneon:
     abilities:
-    - [Storm Drain, Swift Swim, Water Veil]
+    - [Storm Drain, Swift Swim]
+    - bw: [Storm Drain, Swift Swim, Water Veil]
     egggroups:
     - [Water 2]
     height: [0.4]
@@ -50,7 +51,8 @@ pokemon:
     weight: [7]
   Lumineon:
     abilities:
-    - [Storm Drain, Swift Swim, Water Veil]
+    - [Storm Drain, Swift Swim]
+    - bw: [Storm Drain, Swift Swim, Water Veil]
     egggroups:
     - [Water 2]
     evolvesFrom: [Finneon]

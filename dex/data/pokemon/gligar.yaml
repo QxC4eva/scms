@@ -89,7 +89,8 @@ pokemon:
     weight: [64.8]
   Gliscor:
     abilities:
-    - [Hyper Cutter, Poison Heal, Sand Veil]
+    - [Hyper Cutter, Sand Veil]
+    - bw: [Hyper Cutter, Poison Heal, Sand Veil]
     egggroups:
     - [Bug]
     evolvesFrom: [Gligar]

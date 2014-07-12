@@ -1,7 +1,8 @@
 pokemon:
   Budew:
     abilities:
-    - [Leaf Guard, Natural Cure, Poison Point]
+    - [Natural Cure, Poison Point]
+    - bw: [Leaf Guard, Natural Cure, Poison Point]
     egggroups:
     - []
     height: [0.2]
@@ -90,7 +91,8 @@ pokemon:
     weight: [2]
   Roserade:
     abilities:
-    - [Natural Cure, Poison Point, Technician]
+    - [Natural Cure, Poison Point]
+    - bw: [Natural Cure, Poison Point, Technician]
     egggroups:
     - [Fairy, Plant]
     evolvesFrom: [Roselia]

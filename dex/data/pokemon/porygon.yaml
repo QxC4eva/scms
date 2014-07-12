@@ -2,6 +2,7 @@ pokemon:
   Porygon:
     abilities:
     - bw: [Analytic, Download, Trace]
+    - dp: [Download, Trace]
     - rs: [Trace]
     - []
     egggroups:
@@ -86,7 +87,7 @@ pokemon:
     weight: [36.5]
   Porygon-Z:
     abilities:
-    - [Download, Trace]
+    - [Adaptability, Download]
     - bw: [Adaptability, Analytic, Download]
     egggroups:
     - [Mineral]
@@ -107,8 +108,8 @@ pokemon:
     weight: [34]
   Porygon2:
     abilities:
-    - dp: [Download, Trace]
     - bw: [Analytic, Download, Trace]
+    - dp: [Download, Trace]
     - rs: [Trace]
     - []
     egggroups:

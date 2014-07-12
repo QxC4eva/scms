@@ -2,8 +2,7 @@ pokemon:
   Dusclops:
     abilities:
     - [Pressure]
-    - bw: [Pressure]
-      xy: [Pressure, Frisk]
+    - xy: [Pressure, Frisk]
     egggroups:
     - [Indeterminate]
     evolvesFrom: [Duskull]
@@ -58,8 +57,7 @@ pokemon:
   Duskull:
     abilities:
     - [Levitate]
-    - bw: [Levitate]
-      xy: [Levitate, Frisk]
+    - xy: [Levitate, Frisk]
     egggroups:
     - [Indeterminate]
     height: [0.8]

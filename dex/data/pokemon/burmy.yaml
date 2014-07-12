@@ -33,7 +33,8 @@ pokemon:
     weight: [3.4]
   Mothim:
     abilities:
-    - [Swarm, Tinted Lens]
+    - [Swarm]
+    - bw: [Swarm, Tinted Lens]
     egggroups:
     - [Bug]
     evolvesFrom: [Burmy]

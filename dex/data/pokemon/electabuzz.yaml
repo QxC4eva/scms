@@ -36,7 +36,8 @@ pokemon:
     weight: [30]
   Electivire:
     abilities:
-    - [Motor Drive, Vital Spirit]
+    - [Motor Drive]
+    - bw: [Motor Drive, Vital Spirit]
     egggroups:
     - [Humanshape]
     evolvesFrom: [Electabuzz]

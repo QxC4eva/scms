@@ -1,7 +1,8 @@
 pokemon:
   Kricketot:
     abilities:
-    - [Run Away, Shed Skin]
+    - [Shed Skin]
+    - bw: [Run Away, Shed Skin]
     egggroups:
     - [Bug]
     height: [0.3]
@@ -20,7 +21,8 @@ pokemon:
     weight: [2.2]
   Kricketune:
     abilities:
-    - [Swarm, Technician]
+    - [Swarm]
+    - bw: [Swarm, Technician]
     egggroups:
     - [Bug]
     evolvesFrom: [Kricketot]

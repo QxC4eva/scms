@@ -1,7 +1,8 @@
 pokemon:
   Bastiodon:
     abilities:
-    - [Soundproof, Sturdy]
+    - [Sturdy]
+    - bw: [Soundproof, Sturdy]
     egggroups:
     - [Monster]
     evolvesFrom: [Shieldon]
@@ -20,7 +21,8 @@ pokemon:
     weight: [149.5]
   Shieldon:
     abilities:
-    - [Soundproof, Sturdy]
+    - [Sturdy]
+    - bw: [Soundproof, Sturdy]
     egggroups:
     - [Monster]
     height: [0.5]

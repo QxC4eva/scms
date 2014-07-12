@@ -1,7 +1,8 @@
 pokemon:
   Togekiss:
     abilities:
-    - [Hustle, Serene Grace, Super Luck]
+    - [Hustle, Serene Grace]
+    - bw: [Hustle, Serene Grace, Super Luck]
     egggroups:
     - [Fairy, Flying]
     evolvesFrom: [Togetic]

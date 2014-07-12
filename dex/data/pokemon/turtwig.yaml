@@ -1,7 +1,8 @@
 pokemon:
   Grotle:
     abilities:
-    - [Overgrow, Shell Armor]
+    - [Overgrow]
+    - bw: [Overgrow, Shell Armor]
     egggroups:
     - [Monster, Plant]
     evolvesFrom: [Turtwig]
@@ -18,7 +19,8 @@ pokemon:
     weight: [97]
   Torterra:
     abilities:
-    - [Overgrow, Shell Armor]
+    - [Overgrow]
+    - bw: [Overgrow, Shell Armor]
     egggroups:
     - [Monster, Plant]
     evolvesFrom: [Grotle]
@@ -43,7 +45,8 @@ pokemon:
     weight: [310]
   Turtwig:
     abilities:
-    - [Overgrow, Shell Armor]
+    - [Overgrow]
+    - bw: [Overgrow, Shell Armor]
     egggroups:
     - [Monster, Plant]
     height: [0.4]

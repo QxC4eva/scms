@@ -94,7 +94,8 @@ pokemon:
     weight: [11.5]
   Ambipom:
     abilities:
-    - [Pickup, Skill Link, Technician]
+    - [Pickup, Technician]
+    - bw: [Pickup, Skill Link, Technician]
     egggroups:
     - [Ground]
     evolvesFrom: [Aipom]

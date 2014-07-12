@@ -1,7 +1,8 @@
 pokemon:
   Gabite:
     abilities:
-    - [Rough Skin, Sand Veil]
+    - [Sand Veil]
+    - bw: [Rough Skin, Sand Veil]
     egggroups:
     - [Dragon, Monster]
     evolvesFrom: [Gible]
@@ -20,7 +21,8 @@ pokemon:
     weight: [56]
   Garchomp:
     abilities:
-    - [Rough Skin, Sand Veil]
+    - [Sand Veil]
+    - bw: [Rough Skin, Sand Veil]
     alts:
     - xy:
         Mega:
@@ -51,7 +53,8 @@ pokemon:
     weight: [95]
   Gible:
     abilities:
-    - [Rough Skin, Sand Veil]
+    - [Sand Veil]
+    - bw: [Rough Skin, Sand Veil]
     egggroups:
     - [Dragon, Monster]
     height: [0.7]

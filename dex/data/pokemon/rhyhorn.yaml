@@ -133,7 +133,8 @@ pokemon:
     weight: [115]
   Rhyperior:
     abilities:
-    - [Lightningrod, Reckless, Solid Rock]
+    - [Lightningrod, Solid Rock]
+    - bw: [Lightningrod, Reckless, Solid Rock]
     egggroups:
     - [Ground, Monster]
     evolvesFrom: [Rhydon]

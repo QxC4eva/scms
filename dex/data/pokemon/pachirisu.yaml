@@ -1,7 +1,8 @@
 pokemon:
   Pachirisu:
     abilities:
-    - [Pickup, Run Away, Volt Absorb]
+    - [Pickup, Run Away]
+    - bw: [Pickup, Run Away, Volt Absorb]
     egggroups:
     - [Fairy, Ground]
     height: [0.4]

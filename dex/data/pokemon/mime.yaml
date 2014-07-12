@@ -1,7 +1,8 @@
 pokemon:
   Mime Jr.:
     abilities:
-    - [Filter, Soundproof, Technician]
+    - [Filter, Soundproof]
+    - bw: [Filter, Soundproof, Technician]
     egggroups:
     - []
     height: [0.6]

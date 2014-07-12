@@ -1,7 +1,8 @@
 pokemon:
   Munchlax:
     abilities:
-    - [Gluttony, Pickup, Thick Fat]
+    - [Pickup, Thick Fat]
+    - bw: [Gluttony, Pickup, Thick Fat]
     egggroups:
     - []
     height: [0.6]

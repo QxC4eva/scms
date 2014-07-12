@@ -1,7 +1,8 @@
 pokemon:
   Luxio:
     abilities:
-    - [Guts, Intimidate, Rivalry]
+    - [Intimidate, Rivalry]
+    - bw: [Guts, Intimidate, Rivalry]
     egggroups:
     - [Ground]
     evolvesFrom: [Shinx]
@@ -18,7 +19,8 @@ pokemon:
     weight: [30.5]
   Luxray:
     abilities:
-    - [Guts, Intimidate, Rivalry]
+    - [Intimidate, Rivalry]
+    - bw: [Guts, Intimidate, Rivalry]
     egggroups:
     - [Ground]
     evolvesFrom: [Luxio]
@@ -37,7 +39,8 @@ pokemon:
     weight: [42]
   Shinx:
     abilities:
-    - [Guts, Intimidate, Rivalry]
+    - [Intimidate, Rivalry]
+    - bw: [Guts, Intimidate, Rivalry]
     egggroups:
     - [Ground]
     height: [0.5]

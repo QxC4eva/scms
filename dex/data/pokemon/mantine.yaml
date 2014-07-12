@@ -48,7 +48,8 @@ pokemon:
     weight: [220]
   Mantyke:
     abilities:
-    - [Swift Swim, Water Absorb, Water Veil]
+    - [Swift Swim, Water Absorb]
+    - bw: [Swift Swim, Water Absorb, Water Veil]
     egggroups:
     - []
     height: [1]

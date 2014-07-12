@@ -1,7 +1,8 @@
 pokemon:
   Buneary:
     abilities:
-    - [Klutz, Limber, Run Away]
+    - [Klutz, Run Away]
+    - bw: [Klutz, Limber, Run Away]
     egggroups:
     - [Ground, Humanshape]
     height: [0.4]
@@ -60,7 +61,8 @@ pokemon:
     weight: [5.5]
   Lopunny:
     abilities:
-    - [Cute Charm, Klutz, Limber]
+    - [Cute Charm, Klutz]
+    - bw: [Cute Charm, Klutz, Limber]
     egggroups:
     - [Ground, Humanshape]
     evolvesFrom: [Buneary]

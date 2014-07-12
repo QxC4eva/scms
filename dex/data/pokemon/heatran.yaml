@@ -1,7 +1,8 @@
 pokemon:
   Heatran:
     abilities:
-    - [Flame Body, Flash Fire]
+    - [Flash Fire]
+    - bw: [Flame Body, Flash Fire]
     egggroups:
     - []
     height: [1.7]

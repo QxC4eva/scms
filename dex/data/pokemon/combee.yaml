@@ -1,7 +1,8 @@
 pokemon:
   Combee:
     abilities:
-    - [Honey Gather, Hustle]
+    - [Honey Gather]
+    - bw: [Honey Gather, Hustle]
     egggroups:
     - [Bug]
     height: [0.3]

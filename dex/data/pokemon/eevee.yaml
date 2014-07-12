@@ -215,7 +215,8 @@ pokemon:
     weight: [24.5]
   Leafeon:
     abilities:
-    - [Chlorophyll, Leaf Guard]
+    - [Leaf Guard]
+    - bw: [Chlorophyll, Leaf Guard]
     egggroups:
     - [Ground]
     evolvesFrom:

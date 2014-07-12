@@ -1,7 +1,8 @@
 pokemon:
   Mamoswine:
     abilities:
-    - [Oblivious, Snow Cloak, Thick Fat]
+    - [Oblivious, Snow Cloak]
+    - bw: [Oblivious, Snow Cloak, Thick Fat]
     egggroups:
     - [Ground]
     evolvesFrom: [Piloswine]

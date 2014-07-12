@@ -77,7 +77,8 @@ pokemon:
     weight: [38]
   Yanmega:
     abilities:
-    - [Frisk, Speed Boost, Tinted Lens]
+    - [Speed Boost, Tinted Lens]
+    - bw: [Frisk, Speed Boost, Tinted Lens]
     egggroups:
     - [Bug]
     evolvesFrom: [Yanma]

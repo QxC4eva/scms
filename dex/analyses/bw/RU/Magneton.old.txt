@@ -1,59 +1,13 @@
 [Overview]
 
-<p>In a tier filled with powerful Steel-types such as Escavalier and Steelix, Magneton fills a very unique niche; the trapping and removal of such Pokemon. Its ability Magnet Pull allows it to prevent Steel-types from switching out, while its stats and movepool provide just what it needs to be able to defeat Steel-types one-on-one. This makes Magneton an excellent teammate for Pokemon that struggle to get past Steel-types, such as Druddigon, Cinccino, and Mesprit. A high base 120 Special Attack and a decent special movepool also allow Magneton to be a great wallbreaker, being able to deal heavy damage to bulkier Pokemon.</p>
-
-<p>That said, Magneton does have some glaring flaws. While its typing offers a slew of resistances, it gives it three very exploitable weaknesses; having no reliable recovery does not help its case either. Magneton also has middling Speed, which leaves it outsped by many of the faster threats in the RU metagame. Magneton also faces competition from other Electric-types such as Galvantula and Manectric, both of which have much greater Speed. However, as long as you play Magneton to its strengths, it will surely be a great asset to your team.</p>
-
-[SET]
-name: Steel Killer
-move 1: Substitute
-move 2: Thunderbolt
-move 3: Hidden Power Fire / Hidden Power Fighting
-move 4: Volt Switch / Charge Beam
-item: Eviolite
-ability: Magnet Pull
-nature: Modest
-evs: 156 HP / 252 SpA / 100 Spe
-
-[SET COMMENTS]
-
-<p>Magneton's ability, Magnet Pull, allows it to successfully trap and KO opposing Steel-types, possibly gaining a free Substitute in the process. Ferroseed and Klinklang cannot harm Magneton with any of their moves, allowing it to set up a Substitute without fear. Magneton is quite scary with a Substitute up, as its base 120 Special Attack allows it to do a ton of damage to the Pokemon that switches in after Magneton KOes a Steel-type. Thunderbolt is Magneton's primary STAB attack, hitting anything that does not resist it for major damage. Hidden Power Fire is the main choice for the third slot in order to annihilate Escavalier, as well as hitting most of the other Steel-types in RU for super effective damage. Hidden Power Fighting on the other hand OHKOes Aggron, while also hitting Ferroseed, Steelix, Probopass, and opposing Magneton for super effective damage. Volt Switch is great for scouting switch-ins if you are not specifically using Magneton to trap Steel-types, but Charge Beam gives Magneton the ability to set up on trapped defensive Steel-types that are unable to break its Substitutes.</p>
-
-[ADDITIONAL COMMENTS]
-
-<p>The Special Attack EVs make Magneton hit as hard as possible. The Speed EVs allow Magneton to outrun max Speed base 50 Speed Pokemon, specifically Adamant Aggron, after factoring in the reduced Speed IV required by Hidden Power Fighting. 156 HP EVs maximize Magneton's defenses in tandem with Eviolite, giving it the possibility of surviving two of Choice Band Aggron's Head Smashes. Alternatively, you can use an EV spread of 36 HP / 252 SpA / 220 Spe to outpace max Speed base 55 Speed Pokemon, mainly Timid Omastar, as well as minimum Speed base 95 Speed Pokemon, such as Uxie and specially defensive Drapion. Again, the extra 4 Speed EVs are to make up for Hidden Power Fighting.</p>
-
-<p>Hidden Power Ice can be used instead of Hidden Power Fighting if you want to hit Dragon- and Grass-types, and Hidden Power Grass can be used to hit Lanturn and Quagsire. Hidden Power Fire hits Ferroseed twice as hard as Hidden Power Fighting, but Ferroseed is the ideal setup fodder for Magneton, so there is no reason to sacrifice coverage against Aggron and Probopass in a rush to KO it faster. Flash Cannon is another option; it hits Rock-types, particularly Rhydon, and Cryogonal harder than Hidden Power Fighting. Magnet Rise might seem like an attractive option to remove Magneton's 4x weakness to Ground, but there aren't many situations where it actually helps Magneton do its job. Magneton outspeeds and OHKOes Aggron with Hidden Power Fighting, so there's no need for Magnet Rise in that match-up, and Steelix usually carries Roar, which makes it impossible to trap and set up on anyway.</p>
-
-<p>Pokemon that have trouble dealing with Steel-types make great partners for Magneton. A Pokemon with U-turn, such as Scyther, can lure in Steel-types and form the VoltTurn combination with Magneton. Other good partners include Rotom, Spiritomb, Klinklang, Druddigon, and Lilligant, as they have trouble getting past Steel-types. Rotom is also immune to two of Magneton's three weaknesses, while Magneton resists the Dark- and Ghost-type moves that Rotom fears.</p>
-
-[SET]
-name: Choice Scarf
-move 1: Volt Switch
-move 2: Thunderbolt
-move 3: Flash Cannon
-move 4: Hidden Power Fire / Hidden Power Fighting 
-item: Choice Scarf
-ability: Magnet Pull
-nature: Timid
-evs: 4 HP / 252 SpA / 252 Spe
-
-[SET COMMENTS]
-
-<p>Choice Scarf Magneton makes for a great revenge killer that can also trap Steel-types. With Volt Switch, it has the ability to scout switch-ins and pivot. Thunderbolt is the primary STAB option that hits hard due to Magneton's high base 120 Special Attack. Flash Cannon provides a secondary STAB option and also hits Rock-types such as Rhydon and Crustle super effectively. Hidden Power Fire holds the main slot for the fourth move due to its ability to eliminate Escavalier handily, as well as getting a super effective hit on most of the other Steel-types in RU. Hidden Power Fighting, Hidden Power Ice, or Hidden Power Grass can be used in the last moveslot as well depending on what you want it to hit. Hidden Power Fighting OHKOes Aggron and 2HKOes Steelix and Probopass, allowing Magneton to keep its title of "Steel Killer." However, Magneton can use Hidden Power Ice instead to revenge kill Dragon- and Grass-types, or Hidden Power Grass to hit Lanturn, Quagsire, and Ground-type Pokemon such as Sandslash.</p>
-
-[ADDITIONAL COMMENTS]
-
-<p>The listed EVs maximize Magneton's Special Attack and allow it to outspeed neutral-natured Choice Scarf Pokemon with base 80 Speed and under. Even though Magneton loses some bulk due to the lack of Eviolite, a Choice Scarf turns Magneton into a solid offensive threat.</p>
-
-<p>Choice Scarf Magneton works well on offensive teams and can help by eliminating Steel-types and gaining momentum with Volt Switch. Klinklang and Lilligant appreciate this the most, as they hate opposing Steel-types and can benefit from the momentum by setting up a Shift Gear or Quiver Dance, respectively. Pokemon with U-turn, such as Scyther, Moltres, and Primeape, can form an effective VoltTurn combination with Magneton. Be careful when using this strategy, however, as Ground-type Pokemon, Lanturn, and Manectric are common and can prevent Magneton from using Volt Switch. To counter this, a Pokemon that can eliminate the aforementioned threats, such as Sceptile or Lilligant, makes a great partner.</p>
+<p>In a tier ridden with many powerful Electric-types such as Rotom-C, Manectric, and Rotom, one might be left wondering how Magneton stands out. The answer lies in its ability, Magnet Pull. With this ability, Magneton is able to trap and KO many dangerous Steel-types such as Escavalier, Durant, and Aggron, depending on the set it runs. A unique Electric / Steel typing also gives Magneton some solid resistances to Dragon-, Electric-, Grass-, and Bug-type moves, among others. However, this is a double-edged sword as Magneton is left weak to the many powerful Fire- and Fighting-type moves in the tier along with a whopping 4x weakness to Ground. Due to its NFE status, Magneton can use Eviolite to bolster its defenses to capitalize on the previously mentioned resistances it has. Choice items are also a possibility thanks to its high Special Attack and access to Volt Switch. Magneton's Speed is okay but certainly nothing amazing, thus leaving it outsped by a myriad of offensive threats, including Durant should Magneton not run a Choice Scarf. While it has solid defenses and great resistances, Magneton is compromised by a low HP stat that can let many of the offensive Steel-types hit it really hard should they predict it switching in. If one can get around its faults, Magneton can be a great addition to many teams, especially those that center around Pokemon that have problems with Steel-types.<p/>
 
 [SET]
 name: Choice Specs
 move 1: Thunderbolt
-move 2: Flash Cannon
+move 2: Volt Switch
 move 3: Hidden Power Fire
-move 4: Volt Switch
+move 4: Flash Cannon
 item: Choice Specs
 ability: Magnet Pull
 nature: Timid / Modest
@@ -61,45 +15,60 @@ evs: 4 HP / 252 SpA / 252 Spe
 
 [SET COMMENTS]
 
-<p>With a solid base 120 Special Attack, Magneton is a prime candidate for a Choice Specs set. This set hits very hard right off the bat while also reliably trapping Steel-types, most notably Escavalier. Unlike other sets, this one also has more use outside of simply trapping Steel-types; thanks to its Electric / Steel typing granting it a vast number of resistances and a decent base 70 Speed, Magneton can also check common threats such as Absol, Kabutops, and Feraligatr. Magneton also hits harder than every other Electric-type in RU, giving it the edge over its competition. Thunderbolt is a great STAB move that can also pummel Aggron, Klinklang, and Water-types with ease. Flash Cannon provides a much-needed secondary STAB to hit Rhydon and Sandslash while providing solid overall coverage with Thunderbolt. Hidden Power Fire nails Steelix and Ferroseed, two common Steel-types in the tier that don't mind Flash Cannon or Thunderbolt. Finally, Volt Switch is chosen as the last move to allow Magneton to get out of play if needed while dealing reasonable damage and gaining momentum.</p>
+<p>With STAB Volt Switch, the highest Special Attack stat of any Electric-type in RU, and enough Speed to outpace most defensive Pokemon, a Choice Specs set suits Magneton very well, as the extra power lets it get through Aggron and Steelix, two Steel-types Magneton usually struggles with. Thunderbolt is a strong and accurate STAB move that Magneton can use to punch holes in opposing teams. Volt Switch is great for any Choice item user, and Magneton is no different, as it allows Magneton to do serious damage and scout for potential checks and counters. Hidden Power Fire is a necessity to remove Steel-types that Magneton traps, such as Escavalier, Ferroseed, and Steelix. Flash Cannon rounds off the set by hitting Ground- and Dragon-types, such as Rhydon, Druddigon, and Golurk, that typically switch into Magneton's Electric STAB moves.</p>
 
 [ADDITIONAL COMMENTS]
 
-<p>A Timid nature is chosen to get the Speed edge over neutral-natured Absol and Kabutops. However, a Modest nature is a viable alternative to allow Magneton to OHKO Slowking without entry hazard support if your team already has a way to deal with these threats. Magnet Pull is the chosen ability, as Magneton still aims to trap Steel-types while being a hard hitter. However, Analytic is a useful ability as well if trapping Steel-types is not required for Magneton, and it might appreciate the extra damage output against Pokemon it can't outspeed. It is also noteworthy that Analytic activates even if the opponent switches out, meaning Magneton can be significantly harder to switch into in some cases. A bulkier EV spread of 252 HP / 4 Def / 252 SpA is usable with Analytic to minimize Speed and maximize Magneton's damage output. Hidden Power Ground is a usable option over Hidden Power Fire if Lanturn is a problem for your team, but the move is fairly useless otherwise and Magneton will then lose the ability to eliminate Ferroseed and Escavalier.</p>
+<p>Timid is the primary nature to outspeed the likes of Adamant Kabutops and Adamant Gallade. Modest can be used as Magneton will still outspeed Omastar and Crawdaunt, while the boost in power secures the OHKO on Cryogonal with Flash Cannon and gives Magneton a 56.25% chance to OHKO Choice Band Emboar after Stealth Rock; it also ensures the OHKO on Choice Scarf variants of Emboar. Hidden Power Ground is a noteworthy alternative to hit Magneton and Lanturn much harder while still retaining coverage on Steelix.</p>
 
-<p>With Magneton's primary job being to remove Steel-types, it pairs up well with any Pokemon that benefit from the removal of such Pokemon, most notably Druddigon, Cinccino, Swellow, and Mesprit; the latter three can use U-turn to allow Magneton to come in safely while forming a VoltTurn core with it. Magneton appreciates entry hazard support, with Smeargle, Scolipede, and Crustle all being great options for this. Pursuit trappers, such as Absol, Drapion, and Spiritomb, are useful to trap Pokemon that resist Volt Switch such as Roselia. Rotom is also an option for a teammate because it sports decent defensive synergy with Magneton.</p>
+<p>Any Pokemon that appreciates the removal of bulkier Steel-types such as Escavalier, Steelix, and Ferroseed can be a good teammate. Perhaps the most dangerous is Druddigon, as very few things can stop its rampage after Steel-types are removed. Fraxure is a rarely seen Dragon-type, but it too can greatly benefit from the removal of Steel-types and possibly sweep the opposing team. Flying-types such as Swellow and Braviary are able to sweep more easily with Steel-types removed, while Psychic-types like Mesprit and Uxie appreciate not having to worry about being Pursuit trapped by Escavalier. Speaking of Psychic-types, Slowking is a solid defensive partner as it can switch into most of the threats that force Magneton out. Hidden Power Rock variants of Lilligant can also be quite dangerous once Magneton is able to remove opposing Steel-types. VoltTurn teams welcome Magneton's ability to remove Steel-types and maintain momentum. Rotom-C, Cinccino, and Braviary are all teammates that appreciate the removal of Steel-types and can maintain the momentum Magneton gains.</p>
 
 [SET]
-name: Specially Defensive
+name: Eviolite
 move 1: Thunderbolt
-move 2: Flash Cannon
-move 3: Rest
-move 4: Sleep Talk
+move 2: Volt Switch / Substitute
+move 3: Hidden Power Fire
+move 4: Flash Cannon / Charge Beam
 item: Eviolite
-ability: Analytic
-nature: Calm
-evs: 252 HP / 4 SpA / 252 SpD
+ability: Magnet Pull
+nature: Modest
+evs: 200 HP / 208 SpA / 100 Spe
 
 [SET COMMENTS]
 
-<p>Due to the fact that Magneton has more resistances than any other Pokemon in the game, as well as being able to utilize Eviolite, it has the ability to run a very sturdy tank set. Essentially sporting defenses of 304 / 339 / 393, it makes an excellent check to prominent special attackers such as Accelgor, Sigilyph, and Mesprit. Magneton's specially defensive capabilities are so impressive that it's not OHKOed by a Life Orb Moltres's Flamethrower even after Stealth Rock, and Magneton easily OHKOes with Thunderbolt in return.</p>
-
-<p>Thunderbolt is Magneton's most powerful and reliable attack and is a staple on this set, as it excels at taking down bulky Water-types. Flash Cannon is a secondary STAB move that has good coverage in conjunction with Thunderbolt, only missing out on Steelix, Ferroseed, and opposing Electric-types. It's also crucial as it gives Magneton a way to OHKO Glaceon and Jynx and 2HKO Rotom-F. RestTalk, while normally an unreliable strategy, is Magneton's only method of recovery, but due to great bulk and its massive slew of resistances, Magneton pulls it off remarkably well. Analytic is the ability of choice on this set, as without Special Attack investment, Magneton doesn't hit particularly hard. However, with Analytic, Magneton has the equivalent of 360 Special Attack, higher than even Timid Moltres, if it moves second that is.</p>
+<p>This set takes a more defensive approach to trapping Steel-types. The boost provided by Eviolite allows Magneton better handle more offensive Steel-types, such as Escavalier and Aggron. Thunderbolt is still the primary STAB move as it is strong and reliable. Volt Switch allows Magneton to scout for checks and counters. Hidden Power Fire deals with Steel-types that Magneton traps, easily taking out the likes of Escavalier and Ferroseed. Flash Cannon is a secondary STAB move to handle the Ground- and Dragon-types that take Magneton's Electric STAB moves easily. Substitute and Charge Beam can replace Volt Switch and Flash Cannon respectively to set up on Steel-types that Magneton traps, but Ferroseed is the only one that won't break its Substitutes on average, and the only other attacks Magneton can safely set up a Substitute against is Iron Head from the likes of Escavalier and Aggron.</p>
 
 [ADDITIONAL COMMENTS]
 
-<p>The EVs are rather straightforward, maximizing Magneton's specially defensive capabilities. This set absolutely thrives on proper team support. Alomomola is an excellent partner, being able to easily take on powerful physical attackers, such as Entei and Emboar, while also being able to pass Magneton massive Wishes, especially since Magneton sports resistances to the Grass- and Electric-type moves often aimed at it. This also means that Magneton doesn't need to be as reliant on Rest and Sleep Talk. Uxie is another phenomenal partner, easily tanking the Ground- and Fighting-type moves aimed at Magneton. Furthermore, it can provide Magneton with Heal Bell support should Magneton have already used Rest. Misdreavus is in the same boat as Uxie, and can also provide Will-O-Wisp support so that Magneton will face weaker physical attacks.</p>
+<p>The EV spread lets Magneton avoid the 2HKO from Choice Band Escavalier's Megahorn while also outspeeding maximum Speed Adamant Aggron. A Timid nature with a fully offensive spread can be used to outspeed Adamant Kabutops and Adamant Gallade. Discharge has a nifty 30% paralysis chance that can help slower powerhouses such as Druddigon and bulkier Gallade variants, among others.</p>
 
-<p>Magnet Pull is still a useful ability on Magneton, but generally speaking, this set needs the additional damage output provided by Analytic in order to defeat the threats it's supposed to be dealing with. That said, should your team have massive issues with Escavalier, Ferroseed, or Klinklang, Magneton can feasibly run Magnet Pull together with Hidden Power Fire over Flash Cannon in order to safely eliminate them. Hidden Power Fire also maintains super effective coverage on the Ice-types found on hail teams. Volt Switch is an appealing move on a defensive pivot such as Magneton, but you don't want to accidentally reset your sleep timer, and it's only really an option if you pack a solid cleric. Finally, Magneton can run a Sassy nature with 0 Speed IVs should you want to be able to hit a wider range of Pokemon harder with Analytic boosted attacks, but Magneton has above average Speed for a tank and it would be a shame to waste it, and the reduced Speed means that Magneton would miss out on Poliwrath, Tangrowth, and some Rhydon variants.</p>
+<p>This Magneton has problems with Steelix and Durant, so teammates that are able to take care of them are helpful. Slowking fears very little from Steelix and can use its STAB Water-type moves to take it down. Emboar and Moltres have a 4x Bug resistance and a Steel resistance to handle Durant's STAB moves, and both can roast the ant with their Fire-type STAB moves. This variant of Magneton handles bulkier Steel-types such as Escavalier better than its other sets, so teammates that can take advantage of such Steel-types not being around are good choices. Druddigon and Fraxure have a much easier time using their powerful Dragon-type STAB moves with Steel-types out of the way, while Psychic-types such as Mesprit and Slowking appreciate not having to worry about Escavalier. Hidden Power Rock variants of Sceptile and Lilligant can switch into Ground-type moves, and lure in Fire-types that Magneton struggles with, such as Moltres and Entei, and take them out with Hidden Power Rock. VoltTurn teams appreciate this Magneton's ability to switch into most Steel-types and remove them from battle, so Pokemon such as Cinccino, Rotom-C, and Mesprit can make for solid teammates.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Thunderbolt
+move 2: Volt Switch
+move 3: Hidden Power Fire
+move 4: Flash Cannon
+item: Choice Scarf
+ability: Magnet Pull
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>While base 70 Speed is certainly nothing to be blown away by, it is more than enough to allow Magneton to effectively use a Choice Scarf. With the boost in Speed, Magneton is able to outspeed the likes of Durant, Sceptile, and Choice Scarf Emboar. Thunderbolt is Magneton's most reliable STAB option with great power and perfect accuracy. Volt Switch provides utility and allows Magneton to scout for checks and counters. Hidden Power Fire wipes out Durant and does significant damage to Sceptile, hence hitting two Pokemon that Magneton is normally incapable of outspeeding. Flash Cannon rounds off the set by hitting the likes of Rhydon and Druddigon harder than any other move Magneton has.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Timid is absolutely necessary to keep Magneton in front of Durant, Sceptile, and Choice Scarf versions of Emboar. Due to the lack of power when compared to other sets, it is generally not advised to use another Hidden Power type as Magneton needs Hidden Power Fire to OHKO Durant and deal as much damage to Sceptile as possible. This Magneton is perhaps the best failsafe option for teams that struggle against Durant, so Pokemon that appreciate not having to worry about the steel ant are good choices. Sturdy Psychic-types such as Uxie and Slowking can switch into many of the Pokemon that can force Magneton out while benefiting from the absence of Durant. This Magneton has significant issues with Steelix, so teammates that can handle it are appreciated. Slowking fears little from Steelix, while Moltres only fears Roar forcing it off of the field and can uses its powerful STAB moves to open up holes in an opposing team for Magneton to clean up later in the match. VoltTurn teams can benefit from Magneton's ability to outspeed and eliminate Durant and Sceptile from the match. Braviary, Mesprit, and Cinccino are all decent options for VoltTurn teams looking to take advantage of Choice Scarf Magneton's qualities.</p>
 
 [Other Options]
 
-<p>Magneton has a few other options that it can use, which all depend on your team. It can run a dual screen or Rain Dance set to support the rest of the team; however, doing so will require Magneton to use either Light Clay or Damp Rock, making it much less bulky due to the loss of Eviolite. Toxic can be used to cripple opposing walls such as Cryogonal, and Thunder Wave can be used to dismantle opposing offensive Pokemon such as Sceptile. Finally, if you don't need Magneton to trap Steel-types, it can use Analytic instead of Magnet Pull with a Quiet nature to become one of the most powerful special attackers in the tier.</p>
+<p>Magneton's movepool is somewhat limited, but there are some options to look at. A specially defensive set with Rest and Sleep Talk can tank multiple hits, but the BW sleep mechanics make this a very inconsistent option. One can use Endure with a Custap Berry to ensure Magneton gets off a mimimum of at least two attacks, but this fails to capitalize on Magneton's Steel-trapping capabilities, although it allows Magneton to trap Durant without a Choice Scarf and revenge kill Rock Polish Aggron. Magneton has access to both Reflect and Light Screen, but it is largely outclassed by the faster and bulkier Uxie. Magic Coat is an option, but Magneton is able to threaten most entry hazard users offensively. Magnet Rise can allow Magneton to more safely eliminate Steelix. Metal Sound can force switches, but Magneton usually just wants to spend a free turn by attacking. Rain Dance can be used in conjunction with Thunder, but Magneton will struggle to take out Steel-types, especially Escavalier.</p>
 
 [Checks and Counters]
 
-<p>Despite having a plethora of resistances, Magneton is still weak to many common Pokemon. Lanturn and Quagsire are the most reliable counters, as they resist all of Magneton's moves bar Hidden Power Grass. Opposing Magneton can trap it and deal lots of damage with Hidden Power Fighting. Other Pokemon that resist Magneton's moves include bulky Ground-types, such as Sandslash, and Dragon-types, mainly Druddigon.</p>
+<p>Magneton has no real counters, as its primary job is to eliminate certain Steel-types depending on the set it is running. There are, however, plenty of checks to the steel trapping magnet. Lanturn is a complete stop to Magneton outside of the rare Hidden Power Ground. Gallade and Hitmonlee are perfectly capable of outspeeding Magneton and crushing it with their powerful Fighting-type STAB moves. Hariyama can't outspeed Magneton, but it has the bulk to tank a hit and fire back with its strong STAB Close Combat. Emboar and Entei can tank a hit and retaliate with their strong Fire-type STAB moves. However, they will both fall to an Electric-type STAB move from the Choice Specs set should Stealth Rock be up. Clefable avoids the 2HKO from Choice Specs Thunderbolt, but it can be defeated should it get unlucky with Flash Cannon Special Defense drops. Steelix and Durant are two Steel-types that can actually stand up to Magneton depending on the set being used. Steelix only fears the Choice Specs set, while Durant only has to worry about the Choice Scarf set. Choice Scarf Durant can even use Baton Pass to escape from Magneton.</p>
 
-<p>Pokemon with a good Special Defense stat are also good counters to Magneton. Cryogonal and Clefable can defeat Magneton with Ice Beam and Seismic Toss, respectively, due to Magneton's lack of recovery. They can also wipe out Magneton's Special Attack boosts from Charge Beam with Haze and Whirlwind. Clefable is another good counter, knocking out Magneton's Substitutes with Seismic Toss and healing off damage with Wish.</p>
-
-<p>Finally, Magneton has weaknesses to many common types, mainly to Fire-, Ground-, and Fighting-type attacks. Thus, Entei, Moltres, Gallade, Choice Scarf Primeape, and Golurk are all effective checks. Another solid check is Manectric; it can come into an Electric-type attack and get a Lightningrod boost, then KO with either Flamethrower or Overheat.</p>
+<p>Ground-types such as Rhydon and Golurk can come in for free against Magneton's Electric-type STAB moves, but they must be wary of Flash Cannon. Druddigon is 2HKOed by Choice Specs Flash Cannon, but it can take any other attack and proceed to OHKO Magneton with Earthquake. Quagsire isn't very common, but it is only 3HKOed by Flash Cannon and can OHKO Magneton with a STAB Earthquake. Manectric has Lightningrod to benefit from Electric-type moves and it resists Flash Cannon as well while typically carrying Overheat or Flamethrower as a coverage move. Rotom resists Magneton's STABs, but it will fail to do much in return outside of Will-O-Wisp and the extremely rare Hidden Power Fire. Magneton's Choice sets are rather frail thanks to its awful base 50 HP. Powerful resisted attacks such as Druddigon's Outrage and Escavalier's Megahorn can actually 2HKO it.</p>

@@ -6,7 +6,7 @@ pokemon:
     - [Ground]
     evolvesFrom: [Oshawott]
     height: [0.8]
-    introduction: dp
+    introduction: bw
     moves:
     - []
     stats:
@@ -22,7 +22,7 @@ pokemon:
     egggroups:
     - [Ground]
     height: [0.5]
-    introduction: dp
+    introduction: bw
     moves:
     - bw: [Aerial Ace, Air Slash, Aqua Jet, Aqua Tail, Assurance, Attract, Blizzard,
         Brine, Copycat, Covet, Cut, Detect, Dig, Dive, Double Team, Encore, Facade,
@@ -64,7 +64,7 @@ pokemon:
     - [Ground]
     evolvesFrom: [Dewott]
     height: [1.5]
-    introduction: dp
+    introduction: bw
     moves:
     - bw: [Block, Dragon Tail, Giga Impact, Hydro Cannon, Hyper Beam, Knock Off, Megahorn,
         Slash, Strength, Superpower]

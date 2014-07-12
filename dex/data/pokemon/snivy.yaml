@@ -1,13 +1,12 @@
 pokemon:
   Serperior:
     abilities:
-    - [Overgrow]
-    - bw: [Contrary, Overgrow]
+    - [Contrary, Overgrow]
     egggroups:
     - [Ground, Plant]
     evolvesFrom: [Servine]
     height: [3.3]
-    introduction: dp
+    introduction: bw
     moves:
     - bw: [Dragon Pulse, Dragon Tail, Frenzy Plant, Giga Impact, Hyper Beam, Outrage,
         Rock Smash, Strength]
@@ -23,13 +22,12 @@ pokemon:
     weight: [63]
   Servine:
     abilities:
-    - [Overgrow]
-    - bw: [Contrary, Overgrow]
+    - [Contrary, Overgrow]
     egggroups:
     - [Ground, Plant]
     evolvesFrom: [Snivy]
     height: [0.8]
-    introduction: dp
+    introduction: bw
     moves:
     - []
     stats:
@@ -41,12 +39,11 @@ pokemon:
     weight: [16]
   Snivy:
     abilities:
-    - [Overgrow]
-    - bw: [Contrary, Overgrow]
+    - [Contrary, Overgrow]
     egggroups:
     - [Ground, Plant]
     height: [0.6]
-    introduction: dp
+    introduction: bw
     moves:
     - bw: [Aerial Ace, Aqua Tail, Attract, Bind, Calm Mind, Captivate, Coil, Cut,
         Double Team, Energy Ball, Facade, Flash, Frustration, Gastro Acid, Giga Drain,

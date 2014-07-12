@@ -1,12 +1,11 @@
 pokemon:
   Patrat:
     abilities:
-    - [Keen Eye, Run Away]
-    - bw: [Analytic, Keen Eye, Run Away]
+    - [Analytic, Keen Eye, Run Away]
     egggroups:
     - [Ground]
     height: [0.5]
-    introduction: dp
+    introduction: bw
     moves:
     - bw: [After You, Aqua Tail, Assurance, Attract, Baton Pass, Bide, Bite, Covet,
         Crunch, Cut, Detect, Dig, Double Team, Endeavor, Facade, Flail, Fling, Foresight,
@@ -42,13 +41,12 @@ pokemon:
     weight: [11.6]
   Watchog:
     abilities:
-    - [Illuminate, Keen Eye]
-    - bw: [Analytic, Illuminate, Keen Eye]
+    - [Analytic, Illuminate, Keen Eye]
     egggroups:
     - [Ground]
     evolvesFrom: [Patrat]
     height: [1.1]
-    introduction: dp
+    introduction: bw
     moves:
     - bw: [Confuse Ray, Dream Eater, Fire Punch, Flamethrower, Flash, Focus Blast,
         Giga Impact, Hyper Beam, Ice Punch, Knock Off, Light Screen, Psych Up, Rock

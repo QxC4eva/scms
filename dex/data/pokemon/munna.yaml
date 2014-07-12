@@ -1,12 +1,11 @@
 pokemon:
   Munna:
     abilities:
-    - [Forewarn, Synchronize]
-    - bw: [Forewarn, Synchronize, Telepathy]
+    - [Forewarn, Synchronize, Telepathy]
     egggroups:
     - [Ground]
     height: [0.6]
-    introduction: dp
+    introduction: bw
     moves:
     - bw: [After You, Attract, Barrier, Baton Pass, Calm Mind, Charge Beam, Curse,
         Defense Curl, Double Team, Dream Eater, Energy Ball, Facade, Flash, Frustration,
@@ -46,13 +45,12 @@ pokemon:
     weight: [23.3]
   Musharna:
     abilities:
-    - [Forewarn, Synchronize]
-    - bw: [Forewarn, Synchronize, Telepathy]
+    - [Forewarn, Synchronize, Telepathy]
     egggroups:
     - [Ground]
     evolvesFrom: [Munna]
     height: [1.1]
-    introduction: dp
+    introduction: bw
     moves:
     - bw: [Giga Impact, Hyper Beam]
     - xy: [Giga Impact, Hyper Beam]

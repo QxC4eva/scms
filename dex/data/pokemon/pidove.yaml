@@ -1,12 +1,11 @@
 pokemon:
   Pidove:
     abilities:
-    - [Rivalry, Super Luck]
-    - bw: [Big Pecks, Rivalry, Super Luck]
+    - [Big Pecks, Rivalry, Super Luck]
     egggroups:
     - [Flying]
     height: [0.3]
-    introduction: dp
+    introduction: bw
     moves:
     - bw: [Aerial Ace, Air Cutter, Air Slash, Attract, Bestow, Detect, Double Team,
         Echoed Voice, Facade, Feather Dance, Fly, Frustration, Growl, Gust, Heat Wave,
@@ -38,13 +37,12 @@ pokemon:
     weight: [2.1]
   Tranquill:
     abilities:
-    - [Rivalry, Super Luck]
-    - bw: [Big Pecks, Rivalry, Super Luck]
+    - [Big Pecks, Rivalry, Super Luck]
     egggroups:
     - [Flying]
     evolvesFrom: [Pidove]
     height: [0.6]
-    introduction: dp
+    introduction: bw
     moves:
     - []
     stats:
@@ -56,13 +54,12 @@ pokemon:
     weight: [15]
   Unfezant:
     abilities:
-    - [Rivalry, Super Luck]
-    - bw: [Big Pecks, Rivalry, Super Luck]
+    - [Big Pecks, Rivalry, Super Luck]
     egggroups:
     - [Flying]
     evolvesFrom: [Tranquill]
     height: [1.2]
-    introduction: dp
+    introduction: bw
     moves:
     - bw: [Giga Impact, Hyper Beam, Psych Up]
     - xy: [Giga Impact, Hyper Beam, Psych Up]

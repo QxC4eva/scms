@@ -1,13 +1,12 @@
 pokemon:
   Herdier:
     abilities:
-    - [Intimidate, Scrappy]
-    - bw: [Intimidate, Sand Rush, Scrappy]
+    - [Intimidate, Sand Rush, Scrappy]
     egggroups:
     - [Ground]
     evolvesFrom: [Lillipup]
     height: [0.9]
-    introduction: dp
+    introduction: bw
     moves:
     - bw: [Payback, Strength, Surf]
     - xy: [Payback, Strength, Surf]
@@ -25,7 +24,7 @@ pokemon:
     egggroups:
     - [Ground]
     height: [0.4]
-    introduction: dp
+    introduction: bw
     moves:
     - bw: [Aerial Ace, Attract, Bite, Charm, Covet, Crunch, Dig, Double Team, Endure,
         Facade, Fire Fang, Frustration, Giga Impact, Helping Hand, Howl, Hyper Voice,
@@ -60,13 +59,12 @@ pokemon:
     weight: [4.1]
   Stoutland:
     abilities:
-    - [Intimidate, Scrappy]
-    - bw: [Intimidate, Sand Rush, Scrappy]
+    - [Intimidate, Sand Rush, Scrappy]
     egggroups:
     - [Ground]
     evolvesFrom: [Herdier]
     height: [1.2]
-    introduction: dp
+    introduction: bw
     moves:
     - bw: [Hyper Beam, Iron Head, Superpower, Thunder]
     - xy: [Hyper Beam, Thunder, Iron Head, Superpower]

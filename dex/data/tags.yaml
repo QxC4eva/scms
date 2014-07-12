@@ -61,6 +61,11 @@ tags:
     name: Doubles
     successors:
     - []
+  VGC14:
+    introduction: xy
+    name: VGC14
+    successors:
+    - []
   Unreleased:
     introduction: xy
     name: Unreleased

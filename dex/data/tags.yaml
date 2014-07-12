@@ -5,7 +5,7 @@ tags:
     successors:
     - [OU]
   BL2:
-    introduction: bw
+    introduction: dp
     name: Borderline 2
     successors:
     - [UU]
@@ -34,7 +34,8 @@ tags:
     name: Neverused
     successors:
     - [UU]
-    - bw: [RU]
+    - dp: [BL2]
+    - bw: [BL3]
   OU:
     introduction: rb
     name: Overused

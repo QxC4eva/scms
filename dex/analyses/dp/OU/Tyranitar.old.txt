@@ -27,6 +27,30 @@ evs: 4 HP / 252 Atk / 252 Spe
 <p>While Choice Scarf Tyranitar may be fast enough to outspeed many offensive opponents, it often finds itself lacking the power necessary to deal significant damage to defensive Pokemon, such as Skarmory, Swampert, and even Blissey. Because of this, it is important to support Tyranitar with Pokemon that are capable of punching holes in these defensive Pokemon. Infernape gets special mention here, as Choice Scarf Tyranitar is excellent at removing popular Infernape checks, such as Starmie and Gengar. Gliscor with Taunt and Toxic can also perform well, as it benefits from Tyranitar's Sand Stream (which activates Gliscor's Sand Veil ability) and easily dismantles defensive teams. Magnezone can trap Bronzong, Skarmory, and Forretress with its ability, Magnet Pull, as well as switch into Scizor and either absorb a U-turn or trap it on a Bullet Punch.</p>
 
 [SET]
+name: Dragon Dance
+move 1: Dragon Dance
+move 2: Stone Edge / Crunch
+move 3: Earthquake
+move 4: Ice Punch / Crunch
+item: Shuca Berry / Lum Berry / Life Orb
+nature: Jolly
+evs: 252 Atk / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>With Dragon Dance, Tyranitar is able to sweep teams with relative ease after a single turn of setup, which is easy to obtain due to Tyranitar's monstrous Attack and bulk from sandstorm. Most teams will carry at least one Pokemon that is setup fodder for this set, while full stops, such as Hippowdon, are not seen as often, making this set an extremely reliable late-game cleaner.</p>
+
+<p>Dragon Dance is self-explanatory, boosting Tyranitar's Speed and Attack to ease a sweep. The second slot is dedicated to a STAB move which is up to personal preference. Stone Edge is the preferred option because of its higher damage output and better typing, hitting common Pokemon such as Skarmory, Forretress, and Scizor for neutral damage. Crunch can be used instead if one prefers the higher accuracy or the improved damage against Rotom-A; however, those are the only perks it has over Stone Edge. Earthquake is an important move on this set because it allows Tyranitar to hit Steel-types such as Metagross, Jirachi, and Heatran for super effective damage while also having great neutral coverage with Stone Edge or Crunch. Ice Punch hits a lot of this set's common switch-ins such as Breloom, Gliscor, and Flygon for a great amount of damage, reducing the amount of Pokemon that can check Tyranitar. If you feel like you don't need the extra coverage, you can use Crunch in conjunction with Stone Edge to have great neutral coverage, but a lot more Pokemon will be able to stop this set even after a boost, making it a worse late-game cleaner.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The choice of item will depend on Tyranitar's teammates. Shuca Berry is an excellent option if you opt for Ice Punch as the last move, as it reduces the amount of Pokemon that can revenge kill this set. For example, a Choice Scarf Flygon's Earthquake will do negligible damage, and Tyranitar will be able to hit it with an Ice Punch and continue its sweep. Shuca Berry will also allow Tyranitar to set up on a defensive Gliscor's Earthquake and other weaker Ground attacks. Therefore, it is a great option to use on a team that benefits from luring in Ground-types. Another great choice is Lum Berry, which guarantees Tyranitar's sweep won't be ended by random status effects such as paralysis, and makes setting up safer against Pokemon such as Rotom-A or Heatran, which commonly run crippling status moves. Lastly, Life Orb boosts Tyranitar's power to obscene levels, making it easier for it to break through bulkier threats such as Skarmory that could otherwise stall out Stone Edge's precious PP, or Hippowdon that would otherwise take an Ice Punch easily. Life Orb makes Tyranitar a great fit on hyper offense teams that can go to town once Skarmory is removed.</p>
+
+<p>If you want to sweep without having to think about Scizor, a Babiri Berry coupled with Fire Punch as the last move can be used, allowing Tyranitar to survive a Bullet Punch and OHKO back with Fire Punch. While this is a great bonus to its sweeping capabilities, it is generally inferior to the other options because of Babiri Berry's lack of any other use as well as Fire Punch's inferior coverage when compared to Ice Punch. Fire Punch does have its perks though, as it hits Bronzong harder than any other move this set can carry, and it has the same power as Stone Edge against Skarmory, without risking the misses or the PP.</p>
+
+<p>While this set is hard to counter, it does have a few full stops. Hippowdon, Swampert, and Scizor are its main counters. The first two can take any attack easily thanks to their large bulk and neutrality to most of Tyranitar's arsenal of moves, as well as their resistance to Stone Edge. The last does not appreciate taking Stone Edges, but as long as it is alive, Tyranitar will not be able to sweep because of Bullet Punch. Other checks, such as Bronzong, Machamp, or Metagross, can stop Tyranitar if they are healthy, but will fall to boosted attacks if weakened previously. For this reason, using Spikes alongside Tyranitar is a great idea, as they wear those checks down before Tyranitar gets an opportunity to set up. A lure that can remove Ground-types, such as Expert Belt Jirachi with Grass Knot, will make a great partner. A partner worthy of mention is Gyarados, because it can set up on all previously mentioned checks and counters very easily while also luring in Electric-types that are easy setup opportunities for Tyranitar. Lastly, this set performs exceptionally well on teams that use a dual screens lead, because it makes setting up multiple Dragon Dances easier due to the added bulk from the screens, and with all those boosts, stopping a Tyranitar sweep is nearly impossible. It is worth noting that using a resist Berry on such a team is not very useful, as Tyranitar's going to take Earthquake easily without the Berry.</p>
+
+[SET]
 name: Choice Band
 move 1: Stone Edge
 move 2: Crunch
@@ -47,28 +71,6 @@ evs: 180 HP / 252 Atk / 76 Spe
 <p>Running 72 Speed EVs outpaces 0 Speed Skarmory, allowing Tyranitar to 2HKO them with Stone Edge without being impeded by Roost. However, it is somewhat common for Skarmory to run Speed EVs to avoid this exact situation, so it may be beneficial to boost Tyranitar's Speed investment as well. After maximizing Attack, the remaining EVs are placed into HP for maximum bulk.</p>
 
 <p>Due to its low Speed, this Tyranitar needs two main forms of support: firstly, it needs allies that can switch into its numerous weaknesses with ease, and secondly, it needs allies that give it numerous chances to switch in. Dragonite works extremely well alongside Tyranitar, absorbing Water, Ground, Bug, and Fighting attacks aimed at Tyranitar's rocky exterior. Meanwhile, Tyranitar can come in for free on the majority of Ice attacks aimed at Dragonite and proceed to Pursuit their users. Gyarados is also an effective partner, as it can perform identically to Dragonite alongside Tyranitar. Gliscor shares the Water weakness, but it can take the powerful Ground and Fighting attacks aimed at Tyranitar, and can also protect against Lucario, which sets up with ease on Tyranitar's STAB attacks.</p>
-
-[SET]
-name: Dragon Dance
-move 1: Dragon Dance
-move 2: Stone Edge / Rock Slide
-move 3: Crunch
-move 4: Fire Punch / Earthquake / Aqua Tail
-item: Babiri Berry / Life Orb / Lum Berry
-nature: Jolly
-evs: 4 HP / 252 Atk / 252 Spe
-
-[SET COMMENTS]
-
-<p>After a Dragon Dance, Tyranitar has the power of the Choice Band set, speed of the Choice Scarf set, and the ability to change moves. On top of that, Tyranitar's excellent bulk and potential to pose an immediate threat makes it easy to set up a Dragon Dance.</p>
-
-<p>Stone Edge serves as Tyranitar's main attack, packing excellent power. However, Rock Slide can be effective for two reasons. Firstly, it has enough power to OHKO Dragonite, Gyarados, Zapdos, and other common targets of Tyranitar's Rock-type STAB, but with 10% more accuracy than Stone Edge. Secondly, it has a very notable 30% flinch chance, which a Dragon Danced Tyranitar can use as a last-ditch effort to score some important 2HKOs. Crunch provides secondary STAB and reliable power. The last moveslot is used to provide important coverage. Fire Punch hits Steel-types hard as well as reliably OHKOing Scizor and 2HKOing Skarmory with 100% accuracy. Earthquake hits Metagross and Jirachi harder, while providing more power against opposing Tyranitar. Finally, Aqua Tail hits Gliscor, Hippowdon, and other Tyranitar.</p>
-
-[ADDITIONAL COMMENTS]
-
-<p>Babiri Berry allows Tyranitar to absorb Scizor's Bullet Punch and OHKO Scizor with Fire Punch. However, Life Orb can earn some crucial 2HKOs, such as a 2HKO on Swampert, who is unable to OHKO in response. Finally, Lum Berry can allow Tyranitar to set up on Rotom-A, which normally would be able to outspeed and burn Tyranitar, crippling it. It also protects against random paralysis from foes such as Celebi or ill luck from weak Thunderbolts or Flamethrowers that Tyranitar might switch into. Jolly nature allows Tyranitar to outspeed Azelf, Starmie, and anything below 115 base Speed with a positive nature.</p>
-
-<p>Since this Tyranitar has issues with bulky Ground-types, such as Swampert and Hippowdon, it's a good idea to include Pokemon that can deal with them. Skarmory makes an excellent partner for Dragon Dance Tyranitar, as it can freely switch in on Tyranitar's counters and set up Spikes, which can then make it easier for Tyranitar to score OHKOs on opponents such as Metagross and Jirachi. Magnezone can also be effective, especially when running Life Orb, as it can eliminate choiced Metagross, Jirachi, and Scizor for your team. Choice Band Gyarados can also aid Tyranitar's sweep, as it can lure in and weaken or KO many Pokemon that give Tyranitar problems, such as Suicune, Vaporeon, and Choice Scarf Rotom with Will-O-Wisp.</p>
 
 [SET]
 name: Lure

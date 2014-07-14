@@ -94,6 +94,8 @@ pokemon:
     - [40, 70, 40, 35, 40, 60]
     tags:
     - [LC]
+    - bw: [LC, NU]
+    - xy: [LC]
     types:
     - [Fighting]
     weight: [20.2]

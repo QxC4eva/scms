@@ -39,7 +39,8 @@ pokemon:
     - [95, 23, 48, 23, 48, 23]
     tags:
     - [Uber]
-    - bw: [LC]
+    - bw: [LC, NU]
+    - xy: [LC]
     types:
     - [Psychic]
     weight: [14]

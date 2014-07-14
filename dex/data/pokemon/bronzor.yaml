@@ -77,6 +77,8 @@ pokemon:
     - [57, 24, 86, 24, 86, 23]
     tags:
     - [LC]
+    - bw: [LC, NU]
+    - xy: [LC]
     types:
     - [Psychic, Steel]
     weight: [60.5]

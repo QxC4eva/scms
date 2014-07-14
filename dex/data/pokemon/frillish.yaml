@@ -35,7 +35,8 @@ pokemon:
     stats:
     - [55, 40, 50, 65, 85, 40]
     tags:
-    - [LC]
+    - [LC, NU]
+    - xy: [LC]
     types:
     - [Ghost, Water]
     weight: [33]

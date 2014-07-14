@@ -54,7 +54,8 @@ pokemon:
     stats:
     - [50, 65, 85, 35, 35, 55]
     tags:
-    - [LC]
+    - [LC, NU]
+    - xy: [LC]
     types:
     - [Bug, Rock]
     weight: [14.5]

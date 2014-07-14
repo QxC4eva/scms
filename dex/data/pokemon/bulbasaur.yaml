@@ -139,8 +139,9 @@ pokemon:
     - gs: [80, 82, 83, 100, 100, 80]
     tags:
     - [UU]
-    - bw: [OU]
     - rs: [BL]
+    - dp: [UU]
+    - bw: [OU]
     types:
     - [Grass, Poison]
     weight: [100]

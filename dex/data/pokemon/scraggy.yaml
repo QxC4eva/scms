@@ -58,7 +58,8 @@ pokemon:
     stats:
     - [50, 75, 70, 35, 70, 48]
     tags:
-    - [LC]
+    - [LC, NU]
+    - xy: [LC]
     types:
     - [Dark, Fighting]
     weight: [11.8]

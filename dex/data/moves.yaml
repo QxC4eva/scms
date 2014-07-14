@@ -2858,7 +2858,9 @@ moves:
     pp: [35]
     priority: [0]
     target: [enemy]
-    type: [Flying]
+    type:
+    - Normal
+    - {gs: Flying}
   Gyro Ball:
     accuracy: [100]
     category:
@@ -3837,7 +3839,9 @@ moves:
     pp: [25]
     priority: [0]
     target: [enemy]
-    type: [Fighting]
+    type:
+    - Normal
+    - {gs: Fighting}
   Kinesis:
     accuracy: [80]
     category:

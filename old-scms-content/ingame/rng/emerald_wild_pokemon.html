@@ -1,0 +1,62 @@
+[title]
+Emerald Wild Pokemon
+
+[head]
+<meta name="description" content="Guide to RNGing wild Pokemon in Emerald" />
+
+[page]
+<div class="author">By <a href="/forums/members/hozu.76392/">Hozu</a>.</div>
+
+<h2>Emerald Wild Pokémon</h2>
+
+<p>Wild Pokémon aren't as desirable to RNG in Emerald as in other games due to the fixed initial seed. However, some wild Pokémon are unique to Emerald, such as certain Safari Zone encounters, while captured Pokémon can be useful for breeding purposes. Wild Pokémon are ones encountered in tall grass, really tall grass (Route 119), deep sand, in caves, Surfing, underwater seaweed, fishing, and by using Rock Smash.</p>
+
+<h3>Finding a Spread</h3>
+
+<p>In the 3rd generation, wild encounters are determined by Method H, with the PID/IV relation being primarily Method 2. As such, the primary method to search with is Method H-2. Methods H-4 and H-1 are fairly uncommon, but they are possible. It would not be a good idea to aim for such a spread, as there is no way to know when you would get something other than H-2. Since many wild encounters are in areas with random NPCs, be sure to open the menu, start fishing, or use Rock Smash as soon as possible to freeze their movement.</p>
+
+<p>For this, the main window of RNG Reporter will be used. Set the Method to Method H-2 (Gen 3), the encounter type to the proper type for grass, Surfing, fishing, or Safari Zone, and the desired IVs. For the purpose of a breeding parent, select only the IVs you want to pass on, as determined by the desired Egg IV frame. For other captures, don't be too stringent on the desired IVs&mdash;you're not going to find a penta-flawless spread on an early frame. If you're after a specific Pokémon, set the encounter slots to the one(s) you're after. Set the TID, SID, and the max results to as high as you're willing to wait, then hit generate. In this guide, I will be using a general example, without using a battle video.</p>
+
+<p>The ability of the lead Pokémon in your party has an effect on the Pokémon you can encounter in the wild. Six abilities can affect the encounter slots for a specific Nature/IV spread: Synchronize, Cure Charm, Pressure, Hustle, Magnet Pull, and Static. A leading Pokémon with Synchronize allows for a higher chance of encounter for a Pokémon with the same nature as it. A lead with Cute Charm causes more encounters of Pokémon of the opposite gender, provided the Pokémon isn't genderless. Magnet Pull, Static, Hustle, and Pressure are not supported, and it is unknown how the latter two affect the slots. As such, if the lead is set to None, the lead Pokémon must not have any of those four abilities.</p>
+
+<p>For this example, I'm going after a Trapinch in the Mirage Tower.</p>
+
+<div><img src="/images/ingame/rng/EmeraldWild1.png" /></div>
+
+<p>I like the highlighted spread, but with no lead set, it has only one possibility (slot 5). If I select a Jolly sync, I get more possibilities (all slots except 10 and 11), and if I select a different nature sync, I get just slot 9. I can also use Cute Charm lead, setting the lead gender to be the opposite gender depending on the specific species' gender ratio. In this case, it would be slot 9 for any gender ratio possibility. I'm going to aim for frame 59550 with a Jolly synchronize lead.</p>
+
+<h3>Grass/Cave/Surf/Underwater Encounters</h3>
+
+<p>Bring your required lead and a Pokémon that knows Sweet Scent. I recommend Oddish, as it's a 30% encounter at Route 117, and it knows Sweet Scent upon capture. As the PRNG advances at all times, players will have to use Sweet Scent slightly earlier than the target frame. The frame offset varies between Pokémon, as the species' cry is part of the animation. For Oddish, it takes 261 frames from pressing A to Sweet Scent until the encounter is generated, including the 3 frame advancement from leaving the menu. Inside a cave, the offset takes an additional 7 frames, as the blue animated background takes slightly more time than the black animated background. Many caves won't yield an encounter on the tile immediately before the exit, so take a couple of steps inside.</p>
+
+<p>As I'm aiming for frame 59550 inside a cave location, I would want to press A on frame 59282 (59550 - 268). In EonTimer, I would enter 59282 to account for the offset. I soft reset and start the timer simultaneously, enter the game, open the menu, select Sweet Scent, and wait. Once the timer runs out, I press A to get the encounter. Capture the Pokémon, and check it. If you got the target, congratulations. If not, check the nature and IVs, as well as the specific encounter to determine the frame you actually hit (use the nature and IVs of the Pokémon captured in the search to find the frame). When you make adjustments in EonTimer, be sure to subtract the offset from the frame hit when you enter it into EonTimer. For example, if I were to land a capture from frame 59555, I would enter 59287 (59555 - 268) into EonTimer, and update with that.</p>
+
+<p>Underwater encounters are considered the same as Surfing encounters. Fishing and Rock Smash encounters are similar, but have certain specific differences.</p>
+
+<h3>Fishing Encounters</h3>
+
+<p>The Pokémon is determined when you press A at the message "A POKéMON is on the hook!". As such, a Suction Cups lead won't provide additional spreads. If the desired spread doesn't require a specific lead, a Suction Cups lead will make it more likely to fish up a Pokémon.</p>
+
+<p>The act of fishing consumes additional PRNG frames. The amount of frames consumed will be inconsistent, but it might help to know how and why they advance. Not having the Rod registered consumes an additional 3 frames due to exiting the menu. Each cast consumes 2 frames, and a failed attempt ("Not a nibble...") consumes 1 frame. Each "Oh! A bite!" consumes a frame, while landing the Pokémon doesn't consume any.</p>
+
+<p>Feebas encounters aren't supported by RNG Reporter, but they're a 50% chance to encounter on the Feebas tile. Remember, the tiles for Feebas change every in-game day at midnight, so it would be good to have a day set aside for it.</p>
+
+<h3>Rock Smash Encounters</h3>
+
+<p>RNG Reporter doesn't support Rock Smash encounters. The encounter slot rates are the same as Wild Pokémon (Surfing), and the success chance is 256 in 2880, or approximately 8.888~%. With Tropius using Rock Smash, it takes 181 frames after pressing A at the message "<Pokémon> uses ROCK SMASH!" for the encounter to be determined, or 188 frames in a cave. Unfortunately, there is no way to link a success chance with a specific PID/IV spread. As Shuckle is in the Safari Zone, using a battle video is highly recommended, as the trip to the area would advance the RNG in an uncontrollable fashion.</p>
+
+<h3>Useful Spreads for Parents</h3>
+
+<p>Having various Ditto and male Smeargle with IVs in the right stats makes RNG breeding much easier. Here is a short list of spreads to use for parents, for breeding spreads where all three IVs are inherited from a single parent:</p>
+
+<textarea cols="175" rows="8" readonly="readonly">
+Earliest Frame|Time|Encounter Slots|PID|Nature|Ability|HP|Atk|Def|SpA|SpD|Spe|Hidden|Power|50% F|12.5%F|25% F|75% F|Breeding Frame|Breeding spread
+19973|5:33.15|All except 11|D61E44E0|Hasty|0|31|4|31|31|12|10|Bug|48|M|M|M|M|5718|Special
+101447|28:10.78|0, 1, 2, 3, 5, 6|4480E77C|Docile|0|24|31|31|3|27|31|Dragon|69|F|M|M|F|19026|Physical
+15507|04:18.45|0, 1, 2, 3, 8|755FA9C8|Docile|0|6|27|31|31|31|31|Dragon|70|M|M|M|M|20472|Special TR
+23090|06:24.83|All except 8 and 11|CEFBEA00|Hasty|0|28|11|31|31|31|3|Dragon|69|F|F|F|F|20472|Special TR
+31024|08:37.06|0, 1, 2, 3, 5 ,9, 10|A91A7648|Calm|0|11|31|31|30|26|0|Flying|64|F|M|M|F|19026|Physical TR
+10828|3:00.46|1, 2, 4|73D65A67|Serious|1|31|31|31|31|0|10|Bug|49|F|M|M|F|5718|Special
+</textarea>
+
+<p>The flawless breeding frame at 73781 can use either physical parent spread, but the other parent will pass on the Special Defense IV.</p>

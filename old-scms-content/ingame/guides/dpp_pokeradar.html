@@ -1,0 +1,110 @@
+[title]
+Chaining Pokemon with the Poké Radar
+[head]
+<meta name="description" content="A Guide to using the Poke Radar in DPP, thanks to FroggestSpirit." />
+[page]
+<div class="author">By <a href="/forums/members/froggestspirit.192811/">FroggestSpirit</a>.</div>
+
+<h2>Introduction</h2>
+<p>Many of you might remember the key item in Pokémon Diamond, Pearl, and Platinum that was given to you for seeing all the Pokemon in the Sinnoh regional Pokédex, but fewer people know how to properly use it. This guide aims to teach you how to properly use the Poké Radar and chain Pokemon using information found in the game coding.</p>
+
+<h3>What is it, and why should I?</h3>
+<p>Chaining is the process of encountering the same Pokemon numerous times in a row. This is beneficial, because the higher your chain gets, the more likely it is to encounter a shiny Pokemon. As you may know, a shiny Pokemon is generally a 1/8192 chance of either encountering or hatching from an Egg (not taking Masuda method into account, or Shiny Charm from BW2). With chaining, the chances will max out at 1/200 chance per shaking patch when you get to a chain of 40 or more, and if you have 4 patches shake when you use the Poké Radar, that is 4/200 chance that you will find a shiny. Even to this day, chaining can be the easiest way to get a shiny Pokemon, and they can still be sent to any generation 4 or 5 game.</p>
+
+<p>Things you will need:</p>
+
+<ul>
+<li>Lots of Super Repels (I go with Super because they have the least cost per step). You will want around 150-200.</li>
+<li>Lots of Repeat Balls, in addition to whatever you want to catch the shiny in (enough to catch nearly 40 Pokemon, I'll explain why later.) Get these at the Elite 4 shop.</li>
+<li>Trainer Counter app (get this from Prof. Oak in Pal Park; it's very helpful, but not necessary).</li>
+<li>A good party for catching or fainting Pokemon.</li>
+<li>Recommended to have a Pokemon with Synchronize if you want a certain nature, a Pokemon with access to sleep/paralysis inducing moves, and False Swipe.</li>
+<li>Of course, the Poké Radar.</li>
+<li>Determination and patience.</li>
+</ul>
+
+<h3>Deciding what to chain</h3>
+<p>You can't chain any Pokemon, but here is a checklist of what to look for when you think of a Pokemon to go after.</p>
+
+<ul>
+<li>The Pokemon appears in the grass in Diamond, Pearl, or Platinum (can also be swarm, or Pokemon found by having a GBA cart in the DS slot 2).</li>
+<li>The patch of grass that the Pokemon can show up in is an area of roughly 9x9 grass tiles or larger (this is a very helpful thing rather than a requirement). Route 222 is probably the best, as it has an 11x11 section.</li>
+</ul>
+
+<p>That's pretty much it, simple to remember those 2 things.</p>
+
+<h2>Getting Started</h2>
+<p>After you chose what you want, you will want to go into the center of the grass area, so there is about 4 or more grass spaces to either side of you, including up and down, like so:</p>
+
+<div><img src="/media/upload/ingame/guides/pokeradar1.png" /></div>
+
+<p>Remember to count the patch behind the Trainer's head. Switch to the Trainer Counter app (it's a pedestal with 3 spots, and it keeps track of your highest chains), use a Repel, set the Poké Radar to the Y button, and save your game.</p>
+
+<p><strong>Important</strong>: Do not use your bicycle at all during chaining, it will break your chain.</p>
+
+<p>Next, you will want to press Y, and you will see some patches of grass shake, like so:</p>
+
+<div><img src="/media/upload/ingame/guides/pokeradar2.gif" /></div>
+
+<p>These patches seem to be in a random location, and some shake differently, but let's analyze them.</p>
+
+<div><img src="/media/upload/ingame/guides/pokeradar3.png" /></div>
+
+<p>Here we have 4 zones. In each zone, the game will pick a tile, and if it is a patch of grass, it will shake. If it is not a patch of grass, that zone will not have a spot shake. The red zone is always 1 tile adjacent to the player (including the one their head is blocking from vision). The other zones border around each other, making a total of 4 zones, with the outermost one being 4 tiles up, left, right, or down from you.</p>
+
+<div><img src="/media/upload/ingame/guides/pokeradar4.png" /></div>
+
+<p>Here, we can see 2 different types of grass shaking. There are 3 that have leaves jumping around, and one that just shakes gently. There isn't too much different about these to my knowledge. The ones with the leaves jumping are easier to see, but the animation ends quicker. The ones that shake gently are harder to see, but the animation lasts longer. You will want to walk into any of these patches, but remember what kind you walk into, because that is the kind you want to walk into during the whole chain.</p>
+
+<p>A wild battle will start. If it isn't the Pokemon you want, press L-R-Start-Select to do a soft reset and try again. When you encounter the Pokemon you want, you need to either catch or faint it to continue the chain. Be prepared to look closely after the screen fades out, because if your chain continues, you will hear the Poké Radar music again, and more patches will shake.</p>
+
+<div><img src="/media/upload/ingame/guides/pokeradar5.png" /></div>
+
+<p>Remember the zones? Now it's important to take them into consideration. You will see your patches shake, and you want to take mental note of where they are, because each zone has a chance of continuing/breaking your chain.</p>
+
+<ul>
+<li>Red zone has a 28% chance to continue your chain.</li>
+<li>Orange zone has a 48% chance to continue your chain.</li>
+<li>Yellow zone has a 68% chance to continue your chain.</li>
+<li>Blue zone (the ideal one to go for) has an 88% chance to continue your chain.</li>
+</ul>
+
+<p>NEVER, and I repeat, NEVER go into a patch of grass that is a different kind than what you started with unless it is a shiny patch (you will know, because it sort of shimmers and glows for a second). My recommendation for the patches is that if you don't see a patch shake of the type you started within the blue zone, carefully walk 50 steps, while avoiding the other patches, and press Y again. This is known as resetting your radar, and it will not break your chain. It will make new patches shake, so try to be in the center again when you press Y. If your repel runs out, immediately apply another one. A random wild battle will break your chain.</p>
+
+<p>Here's a neat find from looking at some of the game's ASM:</p>
+
+<p>If you faint a Pokemon, the patches that shake after the battle will have the chances listed above. However, if you catch the Pokemon, all of those chances will be increased by 10%, meaning that the blue zone will have a 98% chance to continue your chain. This is why it is recommended to stock up on Repeat Balls, and catch all the Pokemon you can. Do note that resetting the radar will negate the bonus 10%, so you will have to hope a good 4 away (blue zone) patch shakes right after the catch.</p>
+
+<h3>Chain is at 40, now what?</h3>
+<p>Now it is recommended to just be careful and reset your radar. You will come across a shiny in due time. Sometimes I would go through 60 or so Super Repels looking for a shiny, other times I might have used 5 before finding one. If you see the patch glow, carefully make your way to it while avoiding other patches. This will continue your chain as long as you catch or faint it. Since your chain continues, you can keep looking for shinies. I would usually get about 4 or 5 before stopping. After catching a shiny, save your game right away; that way if your chain breaks, you can load your file, saving a few Repels and Repeat Balls.</p>
+
+<h2>Ways to break your chain</h2>
+<p>Here is a list of things that will break your chain:</p>
+
+<ul>
+<li>Turning off the power.</li>
+<li>Moving away so that all patches that shook are offscreen (careful about this one).</li>
+<li>Using your bike.</li>
+<li>Forgetting to re-apply a Repel and encountering a random wild battle.</li>
+<li>No patches shook as a result of each tile that was supposed to shake not being a grass tile (this is why you should be cautious about edges of grass and corners). If you have 8 grass tiles surrounding you (all tiles in the red zone are grass), then you don't need to worry about this. (That's also why Route 222 is probably the best for chaining.)</li>
+<li>That unlucky chance your chain will break. The lowest this chance will get is 2%, which is pretty low. If you only go to the blue zone, it will be a 12% chance that your chain will break at most, but keep the risk of edges and corners in mind.</li>
+</ul>
+
+<h2>Tips for chaining:</h2>
+
+<ul>
+<li>Take frequent breaks, the DS is good in sleep mode, and sleep mode does not break your chain. Just make sure to charge it. It feels less daunting when you chain casually at a few battles here and there.</li>
+<li>Start with the patch of grass that is easiest for you to see.</li>
+<li>If you don't see a patch shake in the red zone, it is probably behind your Trainer's head, so don't walk directly up.</li>
+<li>If you fail, try again. It took me a long time to get a chain of Porygon to 40, and the Trophy Garden can be annoying to chain in, but eventually, it paid off.</li>
+<li>Be extra cautious when your chain is higher; don't be gutsy and go for corners or edges, take the time to reset the radar.</li>
+<li>Remember that even with the 10% increase, a 4 away patch without the increase is still safer than a 3 away with it.</li>
+<li>If you look at your current chain when entering a patch of grass, you might see it disappear a split second before the battle starts. If this happens, your chain broke.</li>
+<li>The graphics in Platinum are different, so it is a lot easier to see patches shake in that game.</li>
+<li>Here's a recent thing I found for those that are soft resetting for a certain Pokemon: switch your Pokétch app to the one before the Trainer Counter, save, then activate the Radar. Position yourself so you take one step to start your chain, and press the Pokétch button. You will hear a "BEEDEEP" sound. If you can time it to press the direction to step into a patch right as the "DEEP" part of the sound plays, the Pokétch should refresh and show what you're going to encounter right before the battle starts. This can save a second or 2 for those Pokemon with low appearance rates.</li>
+</ul>
+
+<h3>Common Misconceptions</h3>
+<p>I have come across a few tutorials on chaining saying that there are bad formations, or formations that might trade probabilities between patches. These are all myths. After some research in the ASM of the game, I found no such case where this applied. Long story short, the patches have the percentages as listed in this guide, regardless of other patches touching them, or lack of patches touching each other. Also, the percentage of a Pokemon's appearance has nothing to do with how easy it is to chain after a chain is started with it.</p>
+
+<p>If anything else is found, I will try to update this guide to be the most accurate one. Please spread the word of this guide by linking to it. Happy chaining.</p>

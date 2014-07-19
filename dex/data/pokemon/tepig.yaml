@@ -1,7 +1,7 @@
 pokemon:
   Emboar:
     abilities:
-    - [Blaze, Reckless]
+    - [Blaze]
     egggroups:
     - [Ground]
     evolvesFrom: [Pignite]
@@ -22,7 +22,7 @@ pokemon:
     weight: [150]
   Pignite:
     abilities:
-    - [Blaze, Thick Fat]
+    - [Blaze]
     egggroups:
     - [Ground]
     evolvesFrom: [Tepig]
@@ -45,7 +45,7 @@ pokemon:
     weight: [55.5]
   Tepig:
     abilities:
-    - [Blaze, Thick Fat]
+    - [Blaze]
     egggroups:
     - [Ground]
     height: [0.5]

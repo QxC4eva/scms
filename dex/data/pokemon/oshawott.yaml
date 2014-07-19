@@ -1,7 +1,7 @@
 pokemon:
   Dewott:
     abilities:
-    - [Shell Armor, Torrent]
+    - [Torrent]
     egggroups:
     - [Ground]
     evolvesFrom: [Oshawott]
@@ -18,7 +18,7 @@ pokemon:
     weight: [24.5]
   Oshawott:
     abilities:
-    - [Shell Armor, Torrent]
+    - [Torrent]
     egggroups:
     - [Ground]
     height: [0.5]
@@ -59,7 +59,7 @@ pokemon:
     weight: [5.9]
   Samurott:
     abilities:
-    - [Shell Armor, Torrent]
+    - [Torrent]
     egggroups:
     - [Ground]
     evolvesFrom: [Dewott]

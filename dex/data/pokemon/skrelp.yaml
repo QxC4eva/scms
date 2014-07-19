@@ -1,7 +1,7 @@
 pokemon:
   Dragalge:
     abilities:
-    - [Poison Point, Poison Touch, Adaptability]
+    - [Poison Point, Poison Touch]
     egggroups:
     - [Water 1, Dragon]
     evolvesFrom: [Skrelp]
@@ -19,7 +19,7 @@ pokemon:
     weight: [81.5]
   Skrelp:
     abilities:
-    - [Poison Point, Poison Touch, Adaptability]
+    - [Poison Point, Poison Touch]
     egggroups:
     - [Water 1, Dragon]
     height: [0.5]

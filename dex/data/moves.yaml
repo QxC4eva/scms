@@ -3123,7 +3123,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    - {bw: Special, dp: Special, xy: Special}
     description:
     - Has 30-70 power based on the user's IVs.
     - {xy: Type is based on the user's IVs.}
@@ -3187,7 +3187,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    - {bw: Special, dp: Special, xy: Special}
     description:
     - Has 30-70 power based on the user's IVs.
     - {xy: Type is based on the user's IVs.}
@@ -3219,7 +3219,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    - {bw: Special, dp: Special, xy: Special}
     description:
     - Has 30-70 power based on the user's IVs.
     - {xy: Type is based on the user's IVs.}
@@ -3235,7 +3235,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    - {bw: Special, dp: Special, xy: Special}
     description:
     - Has 30-70 power based on the user's IVs.
     - {xy: Type is based on the user's IVs.}
@@ -3267,7 +3267,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    - {bw: Special, dp: Special, xy: Special}
     description:
     - Has 30-70 power based on the user's IVs.
     - {xy: Has 30-60 power based on the user's IVs.}
@@ -3299,7 +3299,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    - {bw: Special, dp: Special, xy: Special}
     description:
     - Has 30-70 power based on the user's IVs.
     - {xy: Type is based on the user's IVs.}
@@ -3331,7 +3331,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    - {bw: Special, dp: Special, xy: Special}
     description:
     - Has 30-70 power based on the user's IVs.
     - {xy: Type is based on the user's IVs.}
@@ -3347,7 +3347,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    - {bw: Special, dp: Special, xy: Special}
     description:
     - Has 30-70 power based on the user's IVs.
     - {xy: Type is based on the user's IVs.}
@@ -4000,7 +4000,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, xy: Physical}
     description: [30% chance to paralyze the target.]
     introduction: rb
     power:
@@ -4740,7 +4740,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    - {bw: Special, dp: Special, xy: Special}
     description: [Does damage equal to the user's level.]
     introduction: rb
     power:
@@ -6102,7 +6102,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    - {bw: Special, dp: Special, xy: Special}
     description: [20% chance to lower SpD 1 stage.]
     introduction: gs
     power: [80]

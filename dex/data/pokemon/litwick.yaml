@@ -1,7 +1,7 @@
 pokemon:
   Chandelure:
     abilities:
-    - [Flame Body, Flash Fire, Shadow Tag]
+    - [Flame Body, Flash Fire]
     - xy: [Flame Body, Flash Fire, Infiltrator]
     egggroups:
     - [Indeterminate]
@@ -20,7 +20,7 @@ pokemon:
     weight: [34.3]
   Lampent:
     abilities:
-    - [Flame Body, Flash Fire, Shadow Tag]
+    - [Flame Body, Flash Fire]
     - xy: [Flame Body, Flash Fire, Infiltrator]
     egggroups:
     - [Indeterminate]
@@ -38,7 +38,7 @@ pokemon:
     weight: [13]
   Litwick:
     abilities:
-    - [Flame Body, Flash Fire, Shadow Tag]
+    - [Flame Body, Flash Fire]
     - xy: [Flame Body, Flash Fire, Infiltrator]
     egggroups:
     - [Indeterminate]

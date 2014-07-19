@@ -1,7 +1,7 @@
 pokemon:
   Serperior:
     abilities:
-    - [Contrary, Overgrow]
+    - [Overgrow]
     egggroups:
     - [Ground, Plant]
     evolvesFrom: [Servine]
@@ -22,7 +22,7 @@ pokemon:
     weight: [63]
   Servine:
     abilities:
-    - [Contrary, Overgrow]
+    - [Overgrow]
     egggroups:
     - [Ground, Plant]
     evolvesFrom: [Snivy]
@@ -39,7 +39,7 @@ pokemon:
     weight: [16]
   Snivy:
     abilities:
-    - [Contrary, Overgrow]
+    - [Overgrow]
     egggroups:
     - [Ground, Plant]
     height: [0.6]

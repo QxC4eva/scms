@@ -1,7 +1,7 @@
 pokemon:
   Tyrantrum:
     abilities:
-    - [Strong Jaw, Rock Head]
+    - [Strong Jaw]
     egggroups:
     - [Monster, Dragon]
     evolvesFrom: [Tyrunt]
@@ -18,7 +18,7 @@ pokemon:
     weight: [270]
   Tyrunt:
     abilities:
-    - [Strong Jaw, Rock Head]
+    - [Strong Jaw]
     egggroups:
     - [Monster, Dragon]
     height: [0.8]

@@ -1,7 +1,7 @@
 pokemon:
   Cyndaquil:
     abilities:
-    - bw: [Blaze, Flash Fire]
+    - bw: [Blaze]
     - rs: [Blaze]
     - []
     egggroups:
@@ -74,7 +74,7 @@ pokemon:
     weight: [7.9]
   Quilava:
     abilities:
-    - bw: [Blaze, Flash Fire]
+    - bw: [Blaze]
     - rs: [Blaze]
     - []
     egggroups:
@@ -97,7 +97,7 @@ pokemon:
     weight: [19]
   Typhlosion:
     abilities:
-    - bw: [Blaze, Flash Fire]
+    - bw: [Blaze]
     - rs: [Blaze]
     - []
     egggroups:

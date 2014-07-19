@@ -1,7 +1,7 @@
 pokemon:
   Amaura:
     abilities:
-    - [Refrigerate, Snow Warning]
+    - [Refrigerate]
     egggroups:
     - [Monster]
     height: [1.3]
@@ -29,7 +29,7 @@ pokemon:
     weight: [25.2]
   Aurorus:
     abilities:
-    - [Refrigerate, Snow Warning]
+    - [Refrigerate]
     egggroups:
     - [Monster]
     evolvesFrom: [Amaura]

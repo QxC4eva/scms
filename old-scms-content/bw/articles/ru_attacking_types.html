@@ -123,7 +123,7 @@ Mathematically Determining the Attacking Types of RU
 
 <p>Now that I had single-move coverage figured out, I browsed through the old Pokemetrics forums some more, and came across a thread by Dragontamer. Those that want to read his work can go <a href="/forums/threads/double-type-attack-combos-brute-force-counts.35684/">here</a>. I thought it was fascinating, so I figured that I would apply it to the CKO. Since the original formula summed up the CKOs for each Pokemon, to account for two-move coverage I simply took the minimum CKO between the two types and summed those up. The results for those numbers are here:</p>
 
-<textarea cols="125" rows="8" readonly="readonly">
+<textarea cols="100" rows="10" readonly="readonly">
 1 Special Fighting Special Ghost 2.387
 2 Special Fire Special Ghost 2.403
 3 Special Dark Special Fighting 2.452
@@ -402,7 +402,7 @@ Mathematically Determining the Attacking Types of RU
 
 <p>Finally, I wanted to incorporate the possibility of having one STAB move with a non-STAB coverage move. It is logical to assume that a hypothetical Normal / Poison type would be better off with a coverage move over one of their STABs, and it also accounts for two-move coverage on monotype Pokemon like Uxie, Lilligant, and Cryogonal. The method for this value is almost the same as for two STABs, except the non-STAB type has its damage multiplied by 2/3.</p>
 
-<textarea cols="125" rows="8" readonly="readonly">
+<textarea cols="100" rows="10" readonly="readonly">
 49 STAB Physical Bug Physical Water 2.949
 97 STAB Physical Bug Physical Ground 3.038
 181 STAB Physical Bug Physical Rock 3.130

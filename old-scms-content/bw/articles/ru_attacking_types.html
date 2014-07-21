@@ -1,0 +1,954 @@
+[title]
+Mathematically Determining the Attacking Types of RU
+[head]
+<meta name="description" content="A mathematical look at determining the best and common attacking types in RU, thanks to MicfiJasan" />
+[page]
+<div class="author">By <a href="/forums/members/micfijasan.166594/">MicfiJasan</a>.</div>
+
+<h2>Introduction</h2>
+
+<p>We've all heard at some point or another about a Pokémon having a good offensive typing or having moves that provided solid coverage. A few years ago, a user by the name of X-Act published an article in The Smog about attacking types and their effectiveness in the DPP OU, UU, and Uber metagames of the time. For those of you that are interested, you can read the article <a href="/smog/issue3/attacking_types">here</a>. Fascinated by his work, I took it upon myself to apply his research to the RU tier.
+
+<h2>What X-Act Had Done</h2>
+
+<p>As with X-Act's research, I started my exploration of attacking types with the damage formula. He had simplified the formula until it contained only the most important factors. Here was the original formula:</p>
+
+<pre>BaseDamage = ((((2*Level)/5 +2)*Base Power*(Sp)Atk)/(Sp)Def)/50 +2</pre>
+
+<p>If we assume that the Pokemon is at level 100, then the formula becomes the following:</p>
+
+<pre>BaseDamage = 42*Base Power*(Sp)Atk/(Sp)Def/50 +2</pre>
+
+<p>That +2 is largely irrelevant and generally interferes with the calculations once modifiers are applied, so it can be removed for simplicity's sake. Since percent damage is used in the formula, we also need to take into account the opponent's HP. Finally, since we're studying types, the type effectiveness must be included as well.</p>
+
+<pre>%Damage=0.84*(Sp)Atk*Base Power*Type Effectiveness/(Opp_(Sp)Def*Opp_HP)</pre>
+
+<p>In the actual damage formula there is a modifier that chooses a random number between 1 and .85 each time a Pokemon attacks. This means that the actual damage done will change by a small amount every time the attack is selected. For the purposes of these calculations, I sided with simplicity and set it to 1. When looking at types themselves, further simplifications had to be made. Namely, it would be assumed that the attacker's Attack stat and Base Power of its moves would be constant for all 17 types, both physical and special. X-Act used 300 Attack and 80 Base Power in his calculations, but I felt that 80 Base Power was too low for this purpose. When looking at single types, it would be safe to assume that a Mono-Attacker would usually be utilizing a STAB move, so I upped the Base Power to 120 to account for that. Also, 299 is the stat of a base 100 Attack stat Pokemon with 252 EVs and a neutral nature (think Jolly/Timid), so I kept the 300 for simplicity. Plugging in these numbers gives the updated formula.</p>
+
+<pre>%Damage=30240*Type_Eff/(Opp_[Sp]Def*Opp_HP)</pre>
+
+<p>Now, since the maximum amount of percent damage done by any single attack is the entire opponent's HP, I put a cap on this formula. This was done by taking the minimum of the percent damage and 1. I did this to prevent types like Fire from being at the top of the list chiefly because they exploited 4x weaknesses (Escavalier, Durant, Snover, etc). Finally, usage needed to be factored into the formula so that hitting common threats like Slowking hard is more important than hitting something like Klinklang hard. The overall average percent came from summing up all the resulting values for each prevalent Pokemon in the metagame. This leads to the final formula.</p>
+
+<pre>Avg_Damage=sum(%Usage*min(30240*Type_Eff/(Opp_[Sp]Def*Opp_HP),1))</pre>
+
+<h2>Changing Things Up</h2>
+
+<p>The numbers given out by this formula in and of itself were useful. However, I began to notice that Dragon-type attacks were surprisingly low on my initial rankings despite the lack of Steel-types in RU, and that Ground-type attacks, despite the numerous amount of Levitators and Flying-types, were quite high on the list. This made no sense from what I had heard from observing the posts of numerous competent battlers, so I set out to change the formula to make more viable conclusions. Fairly quickly I found that whenever offense was mentioned, it was always relative to how many hits it took to KO the opponent rather than the overall damage given. I had a minor epiphany, as I realized 60% and 90% were both essentially the same output in a 1v1 scenario, both being 2HKOs. However, in the previous formula, doing 90% attack would contribute to a significantly better score than doing 60%. This led to the scores rewarding super effective coverage more than solid neutral coverage. It wasn't hard to change the formula, I just had to take the inverse of the current formula and round up, creating what I am going to call "Clicks to KO" (CKO for short), represented by:</p>
+
+<pre>CKO=ceiling(1/maximum(Avg_Damage,0.1))/Accuracy</pre>
+
+<p>There were a few errors regarding immunities (because they dealt no damage), so I took the maximum of the average damage and 0.1, essentially setting the CKO of immunities and extremely weak hits to 10. I chose 10 as my minimum so types that have one or two Pokemon immune to it aren't automatically the worst attacking types (think Water Absorb). Also, since I am assuming the moves used had 100% accuracy for these calculations, the CKO is essentially the usage-weighted average hits to KO.</p>
+
+<p>I then summed up the resulting amount (as it was still weighted by usage) and got the CKO for each type on both the physical and special sides. The results can be found below.</p>
+
+<table class="sortable">
+<thead><tr>
+<th>Rank</th>
+<th>Type</th>
+<th>CKO</th>
+</tr></thead>
+<tbody><tr>
+<td>1</td><td>Special Dragon</td><td>3.072</td>
+</tr><tr class="a">
+<td>2</td><td>Special Dark</td><td>3.117</td>
+</tr><tr>
+<td>3</td><td>Special Flying</td><td>3.161</td>
+</tr><tr class="a">
+<td>4</td><td>Special Rock</td><td>3.165</td>
+</tr><tr>
+<td>5</td><td>Physical Flying</td><td>3.261</td>
+</tr><tr class="a">
+<td>6</td><td>Physical Dragon</td><td>3.311</td>
+</tr><tr>
+<td>7</td><td>Physical Rock</td><td>3.367</td>
+</tr><tr class="a">
+<td>8</td><td>Special Ghost</td><td>3.379</td>
+</tr><tr>
+<td>9</td><td>Physical Dark</td><td>3.379</td>
+</tr><tr class="a">
+<td>10</td><td>Special Ice</td><td>3.468</td>
+</tr><tr>
+<td>11</td><td>Special Bug</td><td>3.485</td>
+</tr><tr class="a">
+<td>12</td><td>Special Water</td><td>3.518</td>
+</tr><tr>
+<td>13</td><td>Special Fire</td><td>3.566</td>
+</tr><tr class="a">
+<td>14</td><td>Physical Ice</td><td>3.573</td>
+</tr><tr>
+<td>15</td><td>Physical Water</td><td>3.595</td>
+</tr><tr class="a">
+<td>16</td><td>Physical Bug</td><td>3.666</td>
+</tr><tr>
+<td>17</td><td>Physical Fire</td><td>3.687</td>
+</tr><tr class="a">
+<td>18</td><td>Physical Ghost</td><td>3.738</td>
+</tr><tr>
+<td>19</td><td>Special Steel</td><td>3.772</td>
+</tr><tr class="a">
+<td>20</td><td>Special Normal</td><td>3.774</td>
+</tr><tr>
+<td>21</td><td>Special Fighting</td><td>3.825</td>
+</tr><tr class="a">
+<td>22</td><td>Special Psychic</td><td>3.878</td>
+</tr><tr>
+<td>23</td><td>Physical Fighting</td><td>3.927</td>
+</tr><tr class="a">
+<td>24</td><td>Special Electric</td><td>3.969</td>
+</tr><tr>
+<td>25</td><td>Special Ground</td><td>3.997</td>
+</tr><tr class="a">
+<td>26</td><td>Physical Normal</td><td>4.001</td>
+</tr><tr>
+<td>27</td><td>Special Grass</td><td>4.017</td>
+</tr><tr class="a">
+<td>28</td><td>Physical Electric</td><td>4.021</td>
+</tr><tr>
+<td>29</td><td>Physical Steel</td><td>4.031</td>
+</tr><tr class="a">
+<td>30</td><td>Special Poison</td><td>4.033</td>
+</tr><tr>
+<td>31</td><td>Physical Poison</td><td>4.037</td>
+</tr><tr class="a">
+<td>32</td><td>Physical Psychic</td><td>4.038</td>
+</tr><tr>
+<td>33</td><td>Physical Grass</td><td>4.124</td>
+</tr><tr class="a">
+<td>34</td><td>Physical Ground</td><td>4.131</td>
+</tr></table>
+
+<p>As I suspected, Dragon-type moves, having very little to resist them, were at the top of the list and Ground-types, with many Pokemon immune to them, were at the bottom. Does this mean that Earthquake is a bad move? No. This list is assuming a mono-attacking set, so having numerous Pokemon immune to your STAB move is a major downside.</p>
+
+<h2>Adding Another Move</h2>
+
+<p>Now that I had single-move coverage figured out, I browsed through the old Pokemetrics forums some more, and came across a thread by Dragontamer. Those that want to read his work can go <a href="/forums/threads/double-type-attack-combos-brute-force-counts.35684/">here</a>. I thought it was fascinating, so I figured that I would apply it to the CKO. Since the original formula summed up the CKOs for each Pokemon, to account for two-move coverage I simply took the minimum CKO between the two types and summed those up. The results for those numbers are here:</p>
+
+<textarea cols="125" rows="8" readonly="readonly">
+1 Special Fighting Special Ghost 2.387
+2 Special Fire Special Ghost 2.403
+3 Special Dark Special Fighting 2.452
+4 Physical Ground Physical Ice 2.465
+5 Special Ghost Special Ground 2.468
+6 Special Fighting Special Flying 2.471
+7 Physical Fighting Physical Flying 2.479
+8 Physical Fire Physical Ghost 2.491
+9 Special Ground Special Rock 2.496
+10 Physical Fire Physical Ground 2.496
+11 Physical Fighting Physical Ghost 2.502
+12 Special Grass Special Rock 2.511
+13 Special Dark Special Ground 2.515
+14 Physical Flying Physical Grass 2.521
+15 Special Dark Special Fire 2.521
+16 Special Flying Special Grass 2.532
+17 Physical Ghost Physical Ground 2.535
+18 Special Fire Special Ground 2.535
+19 Physical Dark Physical Fighting 2.540
+20 Special Ghost Special Water 2.542
+21 Physical Ground Physical Rock 2.546
+22 Special Ground Special Ice 2.551
+23 Physical Flying Physical Ground 2.552
+24 Physical Dark Physical Ground 2.555
+25 Physical Bug Physical Water 2.561
+26 Physical Flying Physical Water 2.563
+27 Special Fighting Special Rock 2.566
+28 Special Bug Special Water 2.570
+29 Special Fire Special Rock 2.573
+30 Special Ghost Special Rock 2.574
+31 Physical Dark Physical Fire 2.584
+32 Special Flying Special Ground 2.586
+33 Physical Grass Physical Rock 2.588
+34 Physical Fighting Physical Ice 2.604
+35 Special Flying Special Ghost 2.608
+36 Special Dark Special Flying 2.608
+37 Special Flying Special Rock 2.608
+38 Physical Fighting Physical Rock 2.613
+39 Special Flying Special Water 2.618
+40 Special Electric Special Fire 2.622
+41 Physical Electric Physical Fire 2.627
+42 Special Dark Special Water 2.631
+43 Special Ghost Special Ice 2.633
+44 Physical Electric Physical Ice 2.636
+45 Physical Ghost Physical Water 2.636
+46 Special Electric Special Ghost 2.637
+47 Physical Fire Physical Rock 2.639
+48 Special Fighting Special Ice 2.639
+49 Special Ice Special Rock 2.646
+50 Special Bug Special Electric 2.648
+51 Physical Bug Physical Ground 2.651
+52 Special Dragon Special Fire 2.654
+53 Special Electric Special Ice 2.660
+54 Physical Dragon Physical Fire 2.661
+55 Special Bug Special Fighting 2.663
+56 Special Electric Special Fighting 2.663
+57 Physical Fire Physical Grass 2.665
+58 Special Bug Special Ground 2.667
+59 Physical Fighting Physical Fire 2.671
+60 Special Dragon Special Fighting 2.673
+61 Special Rock Special Water 2.674
+62 Physical Bug Physical Fighting 2.676
+63 Special Dark Special Electric 2.702
+64 Physical Dark Physical Water 2.706
+65 Special Bug Special Rock 2.708
+66 Special Electric Special Flying 2.708
+67 Physical Ground Physical Poison 2.710
+68 Special Dragon Special Ground 2.711
+69 Physical Bug Physical Electric 2.713
+70 Special Fighting Special Fire 2.714
+71 Physical Electric Physical Fighting 2.717
+72 Physical Dragon Physical Ground 2.720
+73 Physical Dragon Physical Fighting 2.723
+74 Special Fire Special Grass 2.725
+75 Special Electric Special Psychic 2.734
+76 Special Psychic Special Rock 2.735
+77 Special Bug Special Flying 2.739
+78 Special Bug Special Ghost 2.740
+79 Physical Fire Physical Psychic 2.740
+80 Physical Rock Physical Water 2.740
+81 Special Ground Special Poison 2.741
+82 Special Ground Special Steel 2.741
+83 Special Dark Special Ice 2.752
+84 Physical Ice Physical Rock 2.754
+85 Physical Electric Physical Flying 2.768
+86 Physical Poison Physical Water 2.769
+87 Physical Ground Physical Steel 2.770
+88 Special Ghost Special Steel 2.771
+89 Physical Flying Physical Ghost 2.775
+90 Physical Dark Physical Flying 2.775
+91 Physical Fighting Physical Grass 2.776
+92 Special Poison Special Water 2.776
+93 Special Bug Special Psychic 2.777
+94 Special Grass Special Ice 2.780
+95 Special Fire Special Flying 2.785
+96 Physical Flying Physical Rock 2.787
+97 Special Fire Special Psychic 2.788
+98 Special Dark Special Rock 2.790
+99 Physical Ghost Physical Ice 2.791
+100 Special Dragon Special Electric 2.793
+101 Physical Electric Physical Ghost 2.795
+102 Special Electric Special Rock 2.796
+103 Physical Grass Physical Ice 2.797
+104 Special Flying Special Ice 2.799
+105 Special Dark Special Grass 2.800
+106 Special Dragon Special Water 2.805
+107 Special Electric Special Ground 2.806
+108 Special Fighting Special Grass 2.811
+109 Physical Fire Physical Flying 2.815
+110 Special Fighting Special Water 2.816
+111 Special Dragon Special Rock 2.816
+112 Physical Dragon Physical Water 2.822
+113 Physical Electric Physical Psychic 2.827
+114 Special Dragon Special Flying 2.829
+115 Special Ghost Special Poison 2.830
+116 Physical Dark Physical Electric 2.833
+117 Physical Electric Physical Ground 2.837
+118 Special Normal Special Water 2.839
+119 Physical Fighting Physical Water 2.840
+120 Physical Ghost Physical Rock 2.841
+121 Special Ghost Special Grass 2.841
+122 Special Ground Special Water 2.842
+123 Special Flying Special Psychic 2.846
+124 Special Bug Special Fire 2.847
+125 Special Dragon Special Grass 2.847
+126 Physical Bug Physical Rock 2.848
+127 Physical Ground Physical Psychic 2.848
+128 Special Rock Special Steel 2.852
+129 Special Fire Special Normal 2.852
+130 Special Ground Special Psychic 2.855
+131 Physical Ground Physical Water 2.855
+132 Physical Normal Physical Water 2.856
+133 Special Bug Special Dragon 2.861
+134 Physical Psychic Physical Water 2.863
+135 Special Dragon Special Ghost 2.866
+136 Special Dragon Special Ice 2.867
+137 Special Ghost Special Psychic 2.870
+138 Physical Bug Physical Flying 2.871
+139 Physical Bug Physical Psychic 2.881
+140 Physical Fire Physical Normal 2.881
+141 Special Grass Special Normal 2.881
+142 Physical Fire Physical Water 2.882
+143 Physical Grass Physical Psychic 2.883
+144 Special Grass Special Psychic 2.884
+145 Physical Dark Physical Ice 2.885
+146 Special Dark Special Steel 2.886
+147 Special Fighting Special Poison 2.890
+148 Physical Flying Physical Ice 2.894
+149 Special Dark Special Poison 2.895
+150 Physical Dark Physical Grass 2.895
+151 Special Normal Special Rock 2.896
+152 Physical Bug Physical Fire 2.896
+153 Physical Dragon Physical Grass 2.898
+154 Special Ghost Special Normal 2.900
+155 Physical Ice Physical Water 2.901
+156 Physical Fighting Physical Poison 2.902
+157 Special Fire Special Poison 2.904
+158 Physical Dragon Physical Electric 2.909
+159 Special Ground Special Normal 2.911
+160 Physical Psychic Physical Rock 2.914
+161 Special Flying Special Steel 2.915
+162 Physical Ground Physical Normal 2.919
+163 Special Bug Special Ice 2.921
+164 Special Psychic Special Water 2.925
+165 Physical Electric Physical Rock 2.929
+166 Special Grass Special Poison 2.931
+167 Special Dark Special Dragon 2.931
+168 Physical Grass Physical Normal 2.932
+169 Special Dark Special Psychic 2.935
+170 Special Poison Special Rock 2.936
+171 Special Fire Special Water 2.938
+172 Special Fighting Special Steel 2.940
+173 Special Ice Special Normal 2.941
+174 Physical Grass Physical Ground 2.943
+175 Special Ice Special Water 2.951
+176 Special Electric Special Normal 2.951
+177 Physical Bug Physical Ghost 2.952
+178 Physical Dragon Physical Flying 2.958
+179 Physical Flying Physical Psychic 2.960
+180 Special Bug Special Grass 2.961
+181 Physical Grass Physical Poison 2.962
+182 Physical Ghost Physical Grass 2.963
+183 Physical Dragon Physical Ice 2.964
+184 Physical Fighting Physical Steel 2.965
+185 Special Dark Special Normal 2.965
+186 Special Ice Special Poison 2.968
+187 Special Ice Special Psychic 2.969
+188 Physical Fire Physical Poison 2.971
+189 Special Bug Special Dark 2.977
+190 Physical Flying Physical Steel 2.984
+191 Special Fighting Special Ground 2.986
+192 Special Dark Special Ghost 2.988
+193 Special Grass Special Water 2.992
+194 Physical Bug Physical Grass 2.994
+195 Physical Dark Physical Rock 2.997
+196 Physical Grass Physical Water 2.999
+197 Physical Ghost Physical Steel 3.003
+198 Special Electric Special Steel 3.006
+199 Physical Ice Physical Psychic 3.008
+200 Physical Bug Physical Dragon 3.010
+201 Special Grass Special Ground 3.029
+202 Special Electric Special Poison 3.036
+203 Special Electric Special Water 3.038
+204 Physical Dragon Physical Rock 3.041
+205 Special Dragon Special Steel 3.043
+206 Physical Rock Physical Steel 3.045
+207 Physical Ice Physical Normal 3.051
+208 Special Bug Special Steel 3.052
+209 Special Grass Special Steel 3.053
+210 Physical Bug Physical Ice 3.061
+211 Physical Electric Physical Poison 3.061
+212 Physical Electric Physical Water 3.062
+213 Special Bug Special Normal 3.066
+214 Physical Ghost Physical Poison 3.066
+215 Special Dragon Special Psychic 3.068
+216 Physical Fighting Physical Ground 3.070
+217 Physical Electric Physical Normal 3.074
+218 Special Electric Special Grass 3.083
+219 Physical Fighting Physical Psychic 3.088
+220 Special Dragon Special Poison 3.091
+221 Physical Ice Physical Poison 3.097
+222 Physical Dark Physical Steel 3.099
+223 Special Normal Special Steel 3.102
+224 Physical Ghost Physical Psychic 3.103
+225 Special Bug Special Poison 3.104
+226 Physical Dark Physical Poison 3.104
+227 Special Poison Special Psychic 3.109
+228 Special Flying Special Normal 3.114
+229 Physical Poison Physical Rock 3.119
+230 Special Poison Special Steel 3.119
+231 Special Fighting Special Psychic 3.119
+232 Physical Normal Physical Rock 3.129
+233 Physical Bug Physical Dark 3.130
+234 Physical Dragon Physical Ghost 3.130
+235 Physical Dark Physical Psychic 3.141
+236 Physical Grass Physical Steel 3.142
+237 Special Flying Special Poison 3.143
+238 Special Psychic Special Steel 3.146
+239 Special Fighting Special Normal 3.150
+240 Physical Electric Physical Grass 3.157
+241 Physical Ghost Physical Normal 3.164
+242 Physical Electric Physical Steel 3.165
+243 Physical Dark Physical Dragon 3.168
+244 Special Fire Special Ice 3.182
+245 Special Dragon Special Normal 3.186
+246 Special Steel Special Water 3.190
+247 Physical Bug Physical Steel 3.199
+248 Physical Dragon Physical Steel 3.200
+249 Physical Fire Physical Ice 3.201
+250 Physical Bug Physical Normal 3.201
+251 Physical Dark Physical Normal 3.202
+252 Physical Flying Physical Normal 3.203
+253 Physical Steel Physical Water 3.214
+254 Physical Fighting Physical Normal 3.215
+255 Special Fire Special Steel 3.215
+256 Physical Dragon Physical Psychic 3.222
+257 Physical Psychic Physical Steel 3.226
+258 Physical Flying Physical Poison 3.232
+259 Physical Fire Physical Steel 3.233
+260 Physical Poison Physical Psychic 3.235
+261 Physical Dragon Physical Poison 3.250
+262 Physical Bug Physical Poison 3.254
+263 Physical Normal Physical Steel 3.258
+264 Physical Dark Physical Ghost 3.267
+265 Physical Poison Physical Steel 3.274
+266 Special Normal Special Psychic 3.282
+267 Special Ice Special Steel 3.302
+268 Physical Ice Physical Steel 3.377
+269 Physical Dragon Physical Normal 3.385
+270 Physical Normal Physical Psychic 3.436
+271 Special Normal Special Poison 3.610
+272 Physical Normal Physical Poison 3.727
+</textarea>
+
+<p>As you can see, the combination of specially based Ghost and Fighting attacks, known for being unresisted against all current Pokemon, is the best theoretical STAB combination in this metagame. Interestingly, the Ghost and Fire STAB combination is close behind, despite both types being resisted by Crawdaunt, a decently common Pokemon in RU. This implies that the super effective coverage provided by these types is enough to offset that one Pokemon. Another interesting note is the numbers here are generally less than the numbers in the previous table, which makes sense, since two-move coverage is always better than one-move coverage.</p>
+
+<p>Finally, I wanted to incorporate the possibility of having one STAB move with a non-STAB coverage move. It is logical to assume that a hypothetical Normal / Poison type would be better off with a coverage move over one of their STABs, and it also accounts for two-move coverage on monotype Pokemon like Uxie, Lilligant, and Cryogonal. The method for this value is almost the same as for two STABs, except the non-STAB type has its damage multiplied by 2/3.</p>
+
+<textarea cols="125" rows="8" readonly="readonly">
+49 STAB Physical Bug Physical Water 2.949
+97 STAB Physical Bug Physical Ground 3.038
+181 STAB Physical Bug Physical Rock 3.130
+194 STAB Physical Bug Physical Electric 3.140
+227 STAB Physical Bug Physical Fighting 3.179
+229 STAB Physical Bug Physical Psychic 3.181
+257 STAB Physical Bug Physical Flying 3.205
+285 STAB Physical Bug Physical Fire 3.243
+335 STAB Physical Bug Physical Ghost 3.300
+396 STAB Physical Bug Physical Dragon 3.375
+409 STAB Physical Bug Physical Grass 3.390
+416 STAB Physical Bug Physical Dark 3.403
+417 STAB Physical Bug Physical Ice 3.403
+446 STAB Physical Bug Physical Normal 3.448
+458 STAB Physical Bug Physical Poison 3.467
+461 STAB Physical Bug Physical Steel 3.471
+40 STAB Physical Dark Physical Fire 2.934
+43 STAB Physical Dark Physical Fighting 2.938
+54 STAB Physical Dark Physical Ground 2.965
+133 STAB Physical Dark Physical Water 3.080
+135 STAB Physical Dark Physical Flying 3.081
+221 STAB Physical Dark Physical Electric 3.176
+230 STAB Physical Dark Physical Grass 3.182
+278 STAB Physical Dark Physical Psychic 3.231
+286 STAB Physical Dark Physical Ice 3.243
+293 STAB Physical Dark Physical Rock 3.249
+317 STAB Physical Dark Physical Bug 3.275
+339 STAB Physical Dark Physical Poison 3.305
+341 STAB Physical Dark Physical Steel 3.307
+381 STAB Physical Dark Physical Normal 3.354
+382 STAB Physical Dark Physical Dragon 3.354
+392 STAB Physical Dark Physical Ghost 3.372
+31 STAB Physical Dragon Physical Fire 2.917
+78 STAB Physical Dragon Physical Fighting 3.004
+88 STAB Physical Dragon Physical Ground 3.022
+155 STAB Physical Dragon Physical Water 3.101
+211 STAB Physical Dragon Physical Grass 3.165
+252 STAB Physical Dragon Physical Flying 3.199
+260 STAB Physical Dragon Physical Electric 3.209
+272 STAB Physical Dragon Physical Bug 3.223
+284 STAB Physical Dragon Physical Ice 3.237
+290 STAB Physical Dragon Physical Rock 3.247
+336 STAB Physical Dragon Physical Ghost 3.300
+337 STAB Physical Dragon Physical Steel 3.301
+345 STAB Physical Dragon Physical Psychic 3.312
+350 STAB Physical Dragon Physical Poison 3.318
+353 STAB Physical Dragon Physical Dark 3.319
+404 STAB Physical Dragon Physical Normal 3.385
+87 STAB Physical Electric Physical Fire 3.015
+99 STAB Physical Electric Physical Ice 3.040
+228 STAB Physical Electric Physical Bug 3.180
+261 STAB Physical Electric Physical Fighting 3.209
+275 STAB Physical Electric Physical Flying 3.227
+303 STAB Physical Electric Physical Ground 3.256
+318 STAB Physical Electric Physical Psychic 3.277
+344 STAB Physical Electric Physical Ghost 3.310
+358 STAB Physical Electric Physical Dark 3.329
+359 STAB Physical Electric Physical Dragon 3.330
+386 STAB Physical Electric Physical Poison 3.360
+401 STAB Physical Electric Physical Grass 3.382
+421 STAB Physical Electric Physical Rock 3.410
+436 STAB Physical Electric Physical Water 3.440
+454 STAB Physical Electric Physical Normal 3.460
+511 STAB Physical Electric Physical Steel 3.590
+17 STAB Physical Fighting Physical Ghost 2.872
+38 STAB Physical Fighting Physical Dark 2.929
+93 STAB Physical Fighting Physical Flying 3.029
+117 STAB Physical Fighting Physical Fire 3.064
+136 STAB Physical Fighting Physical Ice 3.083
+167 STAB Physical Fighting Physical Rock 3.117
+169 STAB Physical Fighting Physical Electric 3.118
+212 STAB Physical Fighting Physical Bug 3.168
+276 STAB Physical Fighting Physical Grass 3.229
+300 STAB Physical Fighting Physical Dragon 3.254
+320 STAB Physical Fighting Physical Water 3.278
+373 STAB Physical Fighting Physical Steel 3.342
+413 STAB Physical Fighting Physical Psychic 3.395
+467 STAB Physical Fighting Physical Ground 3.476
+475 STAB Physical Fighting Physical Poison 3.494
+520 STAB Physical Fighting Physical Normal 3.623
+39 STAB Physical Fire Physical Grass 2.933
+46 STAB Physical Fire Physical Ground 2.946
+51 STAB Physical Fire Physical Electric 2.952
+147 STAB Physical Fire Physical Rock 3.096
+150 STAB Physical Fire Physical Ghost 3.099
+175 STAB Physical Fire Physical Fighting 3.124
+196 STAB Physical Fire Physical Dark 3.143
+207 STAB Physical Fire Physical Water 3.160
+226 STAB Physical Fire Physical Psychic 3.178
+249 STAB Physical Fire Physical Dragon 3.196
+291 STAB Physical Fire Physical Bug 3.248
+378 STAB Physical Fire Physical Flying 3.349
+422 STAB Physical Fire Physical Steel 3.411
+423 STAB Physical Fire Physical Normal 3.419
+452 STAB Physical Fire Physical Poison 3.456
+463 STAB Physical Fire Physical Ice 3.473
+4 STAB Physical Flying Physical Ground 2.777
+7 STAB Physical Flying Physical Fighting 2.802
+25 STAB Physical Flying Physical Grass 2.889
+27 STAB Physical Flying Physical Water 2.892
+82 STAB Physical Flying Physical Fire 3.010
+101 STAB Physical Flying Physical Electric 3.040
+149 STAB Physical Flying Physical Rock 3.096
+184 STAB Physical Flying Physical Dark 3.133
+185 STAB Physical Flying Physical Ghost 3.133
+192 STAB Physical Flying Physical Steel 3.139
+209 STAB Physical Flying Physical Ice 3.163
+215 STAB Physical Flying Physical Bug 3.170
+248 STAB Physical Flying Physical Psychic 3.196
+264 STAB Physical Flying Physical Dragon 3.212
+333 STAB Physical Flying Physical Normal 3.298
+334 STAB Physical Flying Physical Poison 3.300
+9 STAB Physical Ghost Physical Fighting 2.818
+30 STAB Physical Ghost Physical Fire 2.912
+66 STAB Physical Ghost Physical Ground 2.977
+120 STAB Physical Ghost Physical Water 3.066
+216 STAB Physical Ghost Physical Flying 3.171
+222 STAB Physical Ghost Physical Electric 3.177
+233 STAB Physical Ghost Physical Rock 3.184
+262 STAB Physical Ghost Physical Bug 3.210
+269 STAB Physical Ghost Physical Ice 3.216
+314 STAB Physical Ghost Physical Steel 3.267
+324 STAB Physical Ghost Physical Grass 3.282
+325 STAB Physical Ghost Physical Poison 3.290
+338 STAB Physical Ghost Physical Psychic 3.302
+369 STAB Physical Ghost Physical Normal 3.339
+370 STAB Physical Ghost Physical Dragon 3.339
+397 STAB Physical Ghost Physical Dark 3.376
+83 STAB Physical Grass Physical Fire 3.011
+103 STAB Physical Grass Physical Flying 3.043
+141 STAB Physical Grass Physical Rock 3.088
+251 STAB Physical Grass Physical Ice 3.198
+361 STAB Physical Grass Physical Ground 3.332
+405 STAB Physical Grass Physical Poison 3.386
+411 STAB Physical Grass Physical Fighting 3.394
+427 STAB Physical Grass Physical Psychic 3.424
+444 STAB Physical Grass Physical Water 3.445
+464 STAB Physical Grass Physical Dragon 3.473
+478 STAB Physical Grass Physical Bug 3.499
+482 STAB Physical Grass Physical Dark 3.508
+487 STAB Physical Grass Physical Normal 3.524
+489 STAB Physical Grass Physical Electric 3.526
+504 STAB Physical Grass Physical Ghost 3.577
+523 STAB Physical Grass Physical Steel 3.645
+18 STAB Physical Ground Physical Ice 2.872
+20 STAB Physical Ground Physical Rock 2.883
+28 STAB Physical Ground Physical Fire 2.910
+57 STAB Physical Ground Physical Ghost 2.967
+62 STAB Physical Ground Physical Dark 2.972
+79 STAB Physical Ground Physical Flying 3.005
+105 STAB Physical Ground Physical Bug 3.046
+129 STAB Physical Ground Physical Poison 3.077
+197 STAB Physical Ground Physical Dragon 3.144
+239 STAB Physical Ground Physical Water 3.188
+242 STAB Physical Ground Physical Electric 3.190
+244 STAB Physical Ground Physical Steel 3.193
+322 STAB Physical Ground Physical Psychic 3.281
+360 STAB Physical Ground Physical Normal 3.330
+395 STAB Physical Ground Physical Grass 3.374
+450 STAB Physical Ground Physical Fighting 3.454
+35 STAB Physical Ice Physical Ground 2.925
+94 STAB Physical Ice Physical Electric 3.031
+116 STAB Physical Ice Physical Grass 3.062
+124 STAB Physical Ice Physical Fighting 3.072
+254 STAB Physical Ice Physical Rock 3.202
+283 STAB Physical Ice Physical Water 3.235
+296 STAB Physical Ice Physical Ghost 3.250
+330 STAB Physical Ice Physical Dark 3.294
+354 STAB Physical Ice Physical Flying 3.322
+357 STAB Physical Ice Physical Psychic 3.329
+384 STAB Physical Ice Physical Bug 3.354
+388 STAB Physical Ice Physical Fire 3.366
+414 STAB Physical Ice Physical Dragon 3.398
+429 STAB Physical Ice Physical Normal 3.430
+443 STAB Physical Ice Physical Poison 3.445
+492 STAB Physical Ice Physical Steel 3.536
+289 STAB Physical Normal Physical Fire 3.246
+311 STAB Physical Normal Physical Water 3.263
+352 STAB Physical Normal Physical Ground 3.319
+355 STAB Physical Normal Physical Grass 3.325
+449 STAB Physical Normal Physical Ice 3.452
+469 STAB Physical Normal Physical Electric 3.480
+474 STAB Physical Normal Physical Rock 3.490
+481 STAB Physical Normal Physical Ghost 3.506
+486 STAB Physical Normal Physical Steel 3.517
+488 STAB Physical Normal Physical Dark 3.525
+496 STAB Physical Normal Physical Fighting 3.549
+499 STAB Physical Normal Physical Flying 3.565
+522 STAB Physical Normal Physical Dragon 3.641
+525 STAB Physical Normal Physical Bug 3.648
+533 STAB Physical Normal Physical Psychic 3.709
+543 STAB Physical Normal Physical Poison 3.946
+232 STAB Physical Poison Physical Ground 3.183
+280 STAB Physical Poison Physical Water 3.232
+349 STAB Physical Poison Physical Fighting 3.317
+368 STAB Physical Poison Physical Fire 3.338
+455 STAB Physical Poison Physical Grass 3.460
+484 STAB Physical Poison Physical Electric 3.512
+514 STAB Physical Poison Physical Rock 3.601
+516 STAB Physical Poison Physical Ice 3.613
+526 STAB Physical Poison Physical Flying 3.655
+527 STAB Physical Poison Physical Ghost 3.659
+529 STAB Physical Poison Physical Steel 3.677
+530 STAB Physical Poison Physical Dark 3.678
+536 STAB Physical Poison Physical Psychic 3.725
+538 STAB Physical Poison Physical Dragon 3.776
+539 STAB Physical Poison Physical Bug 3.788
+544 STAB Physical Poison Physical Normal 3.997
+246 STAB Physical Psychic Physical Bug 3.195
+259 STAB Physical Psychic Physical Fire 3.208
+316 STAB Physical Psychic Physical Electric 3.270
+329 STAB Physical Psychic Physical Ground 3.293
+376 STAB Physical Psychic Physical Grass 3.344
+393 STAB Physical Psychic Physical Water 3.373
+408 STAB Physical Psychic Physical Rock 3.389
+415 STAB Physical Psychic Physical Fighting 3.401
+428 STAB Physical Psychic Physical Ghost 3.426
+438 STAB Physical Psychic Physical Flying 3.440
+445 STAB Physical Psychic Physical Dark 3.445
+471 STAB Physical Psychic Physical Ice 3.484
+500 STAB Physical Psychic Physical Steel 3.566
+502 STAB Physical Psychic Physical Dragon 3.570
+528 STAB Physical Psychic Physical Poison 3.674
+534 STAB Physical Psychic Physical Normal 3.711
+45 STAB Physical Rock Physical Grass 2.945
+47 STAB Physical Rock Physical Ground 2.948
+61 STAB Physical Rock Physical Fighting 2.972
+72 STAB Physical Rock Physical Fire 2.983
+75 STAB Physical Rock Physical Water 2.995
+104 STAB Physical Rock Physical Flying 3.044
+160 STAB Physical Rock Physical Ice 3.107
+198 STAB Physical Rock Physical Psychic 3.148
+201 STAB Physical Rock Physical Ghost 3.154
+237 STAB Physical Rock Physical Bug 3.186
+258 STAB Physical Rock Physical Electric 3.207
+294 STAB Physical Rock Physical Steel 3.249
+304 STAB Physical Rock Physical Dark 3.257
+327 STAB Physical Rock Physical Poison 3.293
+328 STAB Physical Rock Physical Dragon 3.293
+340 STAB Physical Rock Physical Normal 3.307
+313 STAB Physical Steel Physical Ground 3.265
+465 STAB Physical Steel Physical Fighting 3.474
+468 STAB Physical Steel Physical Grass 3.480
+485 STAB Physical Steel Physical Rock 3.515
+491 STAB Physical Steel Physical Fire 3.530
+493 STAB Physical Steel Physical Ghost 3.545
+495 STAB Physical Steel Physical Electric 3.549
+508 STAB Physical Steel Physical Bug 3.584
+510 STAB Physical Steel Physical Dark 3.590
+513 STAB Physical Steel Physical Water 3.599
+517 STAB Physical Steel Physical Flying 3.617
+521 STAB Physical Steel Physical Psychic 3.635
+531 STAB Physical Steel Physical Poison 3.695
+535 STAB Physical Steel Physical Dragon 3.718
+537 STAB Physical Steel Physical Normal 3.730
+541 STAB Physical Steel Physical Ice 3.856
+50 STAB Physical Water Physical Bug 2.951
+77 STAB Physical Water Physical Flying 2.999
+128 STAB Physical Water Physical Fire 3.077
+165 STAB Physical Water Physical Ice 3.113
+179 STAB Physical Water Physical Poison 3.125
+199 STAB Physical Water Physical Ghost 3.152
+210 STAB Physical Water Physical Grass 3.163
+243 STAB Physical Water Physical Dark 3.191
+253 STAB Physical Water Physical Psychic 3.201
+287 STAB Physical Water Physical Electric 3.245
+305 STAB Physical Water Physical Rock 3.258
+309 STAB Physical Water Physical Dragon 3.261
+321 STAB Physical Water Physical Ground 3.280
+331 STAB Physical Water Physical Fighting 3.295
+346 STAB Physical Water Physical Normal 3.312
+448 STAB Physical Water Physical Steel 3.452
+41 STAB Special Bug Special Water 2.936
+86 STAB Special Bug Special Rock 3.013
+92 STAB Special Bug Special Ground 3.029
+114 STAB Special Bug Special Electric 3.060
+163 STAB Special Bug Special Flying 3.112
+168 STAB Special Bug Special Psychic 3.118
+173 STAB Special Bug Special Ghost 3.120
+213 STAB Special Bug Special Fighting 3.169
+255 STAB Special Bug Special Fire 3.205
+298 STAB Special Bug Special Dragon 3.252
+302 STAB Special Bug Special Ice 3.255
+306 STAB Special Bug Special Dark 3.258
+332 STAB Special Bug Special Grass 3.296
+362 STAB Special Bug Special Normal 3.333
+374 STAB Special Bug Special Steel 3.342
+380 STAB Special Bug Special Poison 3.351
+11 STAB Special Dark Special Fighting 2.843
+14 STAB Special Dark Special Fire 2.857
+24 STAB Special Dark Special Ground 2.887
+37 STAB Special Dark Special Flying 2.927
+68 STAB Special Dark Special Water 2.979
+80 STAB Special Dark Special Electric 3.005
+91 STAB Special Dark Special Grass 3.028
+102 STAB Special Dark Special Psychic 3.042
+122 STAB Special Dark Special Ice 3.071
+130 STAB Special Dark Special Rock 3.078
+159 STAB Special Dark Special Steel 3.106
+164 STAB Special Dark Special Poison 3.112
+166 STAB Special Dark Special Bug 3.116
+176 STAB Special Dark Special Ghost 3.125
+190 STAB Special Dark Special Normal 3.138
+191 STAB Special Dark Special Dragon 3.138
+19 STAB Special Dragon Special Fire 2.874
+36 STAB Special Dragon Special Fighting 2.926
+53 STAB Special Dragon Special Ground 2.964
+95 STAB Special Dragon Special Water 3.034
+107 STAB Special Dragon Special Electric 3.050
+110 STAB Special Dragon Special Rock 3.054
+111 STAB Special Dragon Special Grass 3.057
+115 STAB Special Dragon Special Ghost 3.061
+126 STAB Special Dragon Special Bug 3.075
+134 STAB Special Dragon Special Flying 3.080
+138 STAB Special Dragon Special Ice 3.083
+143 STAB Special Dragon Special Dark 3.093
+188 STAB Special Dragon Special Steel 3.135
+203 STAB Special Dragon Special Poison 3.154
+219 STAB Special Dragon Special Psychic 3.174
+235 STAB Special Dragon Special Normal 3.186
+73 STAB Special Electric Special Fire 2.984
+74 STAB Special Electric Special Ice 2.987
+148 STAB Special Electric Special Bug 3.096
+153 STAB Special Electric Special Fighting 3.100
+180 STAB Special Electric Special Ghost 3.130
+208 STAB Special Electric Special Dark 3.163
+214 STAB Special Electric Special Ground 3.169
+241 STAB Special Electric Special Dragon 3.190
+247 STAB Special Electric Special Psychic 3.195
+271 STAB Special Electric Special Flying 3.218
+299 STAB Special Electric Special Grass 3.254
+377 STAB Special Electric Special Normal 3.348
+379 STAB Special Electric Special Rock 3.349
+385 STAB Special Electric Special Poison 3.359
+387 STAB Special Electric Special Water 3.365
+430 STAB Special Electric Special Steel 3.430
+2 STAB Special Fighting Special Ghost 2.757
+13 STAB Special Fighting Special Dark 2.854
+109 STAB Special Fighting Special Flying 3.053
+131 STAB Special Fighting Special Rock 3.078
+146 STAB Special Fighting Special Electric 3.095
+170 STAB Special Fighting Special Ice 3.118
+182 STAB Special Fighting Special Fire 3.132
+217 STAB Special Fighting Special Bug 3.172
+282 STAB Special Fighting Special Dragon 3.234
+301 STAB Special Fighting Special Grass 3.255
+323 STAB Special Fighting Special Water 3.282
+365 STAB Special Fighting Special Steel 3.337
+453 STAB Special Fighting Special Ground 3.457
+473 STAB Special Fighting Special Psychic 3.488
+477 STAB Special Fighting Special Poison 3.497
+505 STAB Special Fighting Special Normal 3.580
+55 STAB Special Fire Special Electric 2.966
+63 STAB Special Fire Special Ground 2.973
+64 STAB Special Fire Special Grass 2.974
+76 STAB Special Fire Special Ghost 2.996
+100 STAB Special Fire Special Rock 3.040
+112 STAB Special Fire Special Dark 3.058
+205 STAB Special Fire Special Fighting 3.159
+220 STAB Special Fire Special Water 3.175
+224 STAB Special Fire Special Bug 3.178
+225 STAB Special Fire Special Dragon 3.178
+273 STAB Special Fire Special Psychic 3.225
+375 STAB Special Fire Special Flying 3.343
+391 STAB Special Fire Special Steel 3.368
+403 STAB Special Fire Special Normal 3.385
+418 STAB Special Fire Special Ice 3.405
+419 STAB Special Fire Special Poison 3.406
+3 STAB Special Flying Special Ground 2.768
+5 STAB Special Flying Special Fighting 2.778
+10 STAB Special Flying Special Grass 2.843
+21 STAB Special Flying Special Water 2.883
+44 STAB Special Flying Special Electric 2.943
+56 STAB Special Flying Special Fire 2.966
+58 STAB Special Flying Special Rock 2.968
+70 STAB Special Flying Special Dark 2.982
+71 STAB Special Flying Special Ghost 2.982
+98 STAB Special Flying Special Steel 3.039
+113 STAB Special Flying Special Ice 3.058
+118 STAB Special Flying Special Bug 3.065
+132 STAB Special Flying Special Psychic 3.079
+140 STAB Special Flying Special Dragon 3.087
+266 STAB Special Flying Special Normal 3.213
+279 STAB Special Flying Special Poison 3.231
+1 STAB Special Ghost Special Fighting 2.678
+6 STAB Special Ghost Special Fire 2.798
+22 STAB Special Ghost Special Ground 2.883
+48 STAB Special Ghost Special Water 2.949
+60 STAB Special Ghost Special Rock 2.970
+65 STAB Special Ghost Special Electric 2.976
+81 STAB Special Ghost Special Ice 3.009
+85 STAB Special Ghost Special Bug 3.013
+90 STAB Special Ghost Special Flying 3.027
+106 STAB Special Ghost Special Steel 3.050
+127 STAB Special Ghost Special Poison 3.075
+151 STAB Special Ghost Special Normal 3.100
+152 STAB Special Ghost Special Dragon 3.100
+156 STAB Special Ghost Special Grass 3.104
+161 STAB Special Ghost Special Psychic 3.108
+172 STAB Special Ghost Special Dark 3.120
+96 STAB Special Grass Special Rock 3.035
+123 STAB Special Grass Special Fire 3.071
+162 STAB Special Grass Special Flying 3.109
+206 STAB Special Grass Special Ice 3.159
+400 STAB Special Grass Special Poison 3.380
+402 STAB Special Grass Special Ground 3.383
+410 STAB Special Grass Special Dark 3.393
+433 STAB Special Grass Special Dragon 3.433
+435 STAB Special Grass Special Bug 3.435
+439 STAB Special Grass Special Fighting 3.442
+442 STAB Special Grass Special Psychic 3.445
+451 STAB Special Grass Special Ghost 3.455
+460 STAB Special Grass Special Water 3.469
+470 STAB Special Grass Special Normal 3.484
+480 STAB Special Grass Special Electric 3.504
+494 STAB Special Grass Special Steel 3.548
+8 STAB Special Ground Special Rock 2.813
+29 STAB Special Ground Special Ice 2.911
+32 STAB Special Ground Special Ghost 2.918
+42 STAB Special Ground Special Dark 2.936
+52 STAB Special Ground Special Fire 2.958
+145 STAB Special Ground Special Flying 3.095
+178 STAB Special Ground Special Bug 3.125
+183 STAB Special Ground Special Poison 3.133
+193 STAB Special Ground Special Dragon 3.140
+200 STAB Special Ground Special Steel 3.152
+218 STAB Special Ground Special Electric 3.173
+234 STAB Special Ground Special Water 3.185
+356 STAB Special Ground Special Normal 3.326
+399 STAB Special Ground Special Psychic 3.379
+432 STAB Special Ground Special Fighting 3.433
+466 STAB Special Ground Special Grass 3.474
+69 STAB Special Ice Special Ground 2.982
+108 STAB Special Ice Special Grass 3.052
+119 STAB Special Ice Special Electric 3.066
+154 STAB Special Ice Special Fighting 3.101
+171 STAB Special Ice Special Rock 3.119
+177 STAB Special Ice Special Ghost 3.125
+238 STAB Special Ice Special Dark 3.187
+288 STAB Special Ice Special Bug 3.246
+315 STAB Special Ice Special Water 3.269
+342 STAB Special Ice Special Flying 3.308
+351 STAB Special Ice Special Fire 3.318
+364 STAB Special Ice Special Psychic 3.336
+371 STAB Special Ice Special Dragon 3.339
+398 STAB Special Ice Special Normal 3.376
+412 STAB Special Ice Special Poison 3.395
+440 STAB Special Ice Special Steel 3.443
+231 STAB Special Normal Special Fire 3.183
+236 STAB Special Normal Special Water 3.186
+270 STAB Special Normal Special Grass 3.218
+307 STAB Special Normal Special Ghost 3.260
+308 STAB Special Normal Special Ground 3.261
+326 STAB Special Normal Special Dark 3.292
+343 STAB Special Normal Special Rock 3.309
+347 STAB Special Normal Special Electric 3.315
+348 STAB Special Normal Special Ice 3.316
+372 STAB Special Normal Special Steel 3.340
+441 STAB Special Normal Special Dragon 3.443
+447 STAB Special Normal Special Fighting 3.449
+472 STAB Special Normal Special Flying 3.488
+476 STAB Special Normal Special Bug 3.494
+503 STAB Special Normal Special Psychic 3.573
+540 STAB Special Normal Special Poison 3.809
+186 STAB Special Poison Special Ground 3.134
+250 STAB Special Poison Special Water 3.197
+281 STAB Special Poison Special Fighting 3.234
+292 STAB Special Poison Special Fire 3.249
+390 STAB Special Poison Special Grass 3.368
+431 STAB Special Poison Special Ghost 3.430
+434 STAB Special Poison Special Ice 3.434
+456 STAB Special Poison Special Electric 3.462
+457 STAB Special Poison Special Dark 3.463
+479 STAB Special Poison Special Rock 3.502
+490 STAB Special Poison Special Steel 3.527
+515 STAB Special Poison Special Dragon 3.607
+518 STAB Special Poison Special Bug 3.618
+519 STAB Special Poison Special Psychic 3.622
+524 STAB Special Poison Special Flying 3.647
+542 STAB Special Poison Special Normal 3.925
+158 STAB Special Psychic Special Bug 3.106
+187 STAB Special Psychic Special Electric 3.134
+245 STAB Special Psychic Special Ghost 3.195
+265 STAB Special Psychic Special Fire 3.212
+274 STAB Special Psychic Special Dark 3.227
+295 STAB Special Psychic Special Rock 3.250
+312 STAB Special Psychic Special Grass 3.264
+319 STAB Special Psychic Special Ground 3.278
+367 STAB Special Psychic Special Flying 3.338
+389 STAB Special Psychic Special Ice 3.366
+394 STAB Special Psychic Special Water 3.374
+420 STAB Special Psychic Special Fighting 3.409
+437 STAB Special Psychic Special Dragon 3.440
+462 STAB Special Psychic Special Steel 3.471
+498 STAB Special Psychic Special Poison 3.562
+506 STAB Special Psychic Special Normal 3.582
+12 STAB Special Rock Special Ground 2.846
+15 STAB Special Rock Special Grass 2.858
+16 STAB Special Rock Special Fighting 2.861
+23 STAB Special Rock Special Fire 2.884
+26 STAB Special Rock Special Flying 2.890
+33 STAB Special Rock Special Water 2.918
+34 STAB Special Rock Special Ghost 2.920
+67 STAB Special Rock Special Ice 2.978
+84 STAB Special Rock Special Psychic 3.011
+121 STAB Special Rock Special Bug 3.066
+137 STAB Special Rock Special Electric 3.083
+139 STAB Special Rock Special Dark 3.084
+142 STAB Special Rock Special Steel 3.093
+157 STAB Special Rock Special Dragon 3.105
+174 STAB Special Rock Special Normal 3.123
+195 STAB Special Rock Special Poison 3.141
+240 STAB Special Steel Special Ground 3.189
+363 STAB Special Steel Special Ghost 3.335
+366 STAB Special Steel Special Grass 3.337
+383 STAB Special Steel Special Rock 3.354
+406 STAB Special Steel Special Dark 3.387
+407 STAB Special Steel Special Electric 3.389
+424 STAB Special Steel Special Bug 3.420
+426 STAB Special Steel Special Fighting 3.423
+459 STAB Special Steel Special Fire 3.468
+483 STAB Special Steel Special Water 3.508
+497 STAB Special Steel Special Flying 3.554
+501 STAB Special Steel Special Poison 3.568
+507 STAB Special Steel Special Dragon 3.582
+509 STAB Special Steel Special Psychic 3.588
+512 STAB Special Steel Special Normal 3.594
+532 STAB Special Steel Special Ice 3.699
+59 STAB Special Water Special Bug 2.968
+89 STAB Special Water Special Ghost 3.026
+125 STAB Special Water Special Flying 3.075
+144 STAB Special Water Special Dark 3.094
+189 STAB Special Water Special Poison 3.136
+202 STAB Special Water Special Fire 3.154
+204 STAB Special Water Special Grass 3.158
+223 STAB Special Water Special Ice 3.177
+256 STAB Special Water Special Rock 3.205
+263 STAB Special Water Special Dragon 3.212
+267 STAB Special Water Special Ground 3.215
+268 STAB Special Water Special Electric 3.215
+277 STAB Special Water Special Fighting 3.230
+297 STAB Special Water Special Psychic 3.252
+310 STAB Special Water Special Normal 3.262
+425 STAB Special Water Special Steel 3.421
+</textarea>
+
+<p>This is arguably the most useful out of the three tables, as it now allows you to make certain choices given an attacker's movepool. The most obvious example of this is deciding on a Hidden Power type for Pokemon like Lilligant who use it as their only coverage move. Pokemon Showdown! automatically sets the Base Power of Hidden Power to 70, which is close to the 80 that is used in the calculation, so we can assume that the relative ranking of the CKOs will not change within a type group. Using the Lilligant example, we scroll down until we see STAB Special Grass, and the type listed in the other column is the best Hidden Power type, in this case, Hidden Power Rock.</p>
+
+<p>One last note: Since these scores are based on usage statistics, they will change as the new statistics come out each month.</p>

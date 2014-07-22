@@ -151,9 +151,8 @@ pokemon:
     - gs: [40, 35, 30, 120, 70, 105]
     tags:
     - [NFE]
-    - bw: [NU]
-      dp: [NFE]
-      rs: [BL]
+    - rs: [BL]
+    - dp: [NU]
     types:
     - [Psychic]
     weight: [56.5]

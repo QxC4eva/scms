@@ -30,10 +30,10 @@ pokemon:
     - gs: [105, 130, 120, 45, 45, 40]
     tags:
     - [OU]
+    - rs: [BL]
+    - dp: [NU]
     - bw: [RU]
-      dp: [NFE]
-      rs: [BL]
-      xy: [NU]
+    - xy: [NU]
     types:
     - [Ground, Rock]
     weight: [120]

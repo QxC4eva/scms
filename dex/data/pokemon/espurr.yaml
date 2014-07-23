@@ -25,9 +25,27 @@ pokemon:
     types:
     - [Psychic]
     weight: [3.5]
-  Meowstic:
+  Meowstic-F:
     abilities:
-    - [Keen Eye, Infiltrator, Prankster, Competitive]
+    - [Keen Eye, Infiltrator, Competitive]
+    egggroups:
+    - [Field]
+    evolvesFrom: [Espurr]
+    height: [0.6]
+    introduction: xy
+    moves:
+    - xy: [Stored Power, Me First, Magical Leaf, Charge Beam, Shadow Ball, Extrasensory, Role Play,               Signal Beam, Future Sight, Sucker Punch, Misty Terrain, Hyper Beam, Dig, Giga Impact, Power-Up
+          Punch]
+    stats:
+    - [74, 48, 76, 83, 81, 104]
+    tags:
+    - [NU]
+    types:
+    - [Psychic]
+    weight: [8.5]
+ Meowstic-M:
+    abilities:
+    - [Keen Eye, Infiltrator, Prankster]
     egggroups:
     - [Field]
     evolvesFrom: [Espurr]
@@ -40,7 +58,7 @@ pokemon:
     stats:
     - [74, 48, 76, 83, 81, 104]
     tags:
-    - []
+    - [NU]
     types:
     - [Psychic]
     weight: [8.5]

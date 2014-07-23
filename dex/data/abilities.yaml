@@ -436,12 +436,12 @@ abilities:
     description: [Can hit Ghost-types with Fighting- and Normal-type moves.]
     introduction: dp
   Serene Grace:
-    description: ['This Pok\xE9mon''s secondary effect chances are doubled.']
+    description: ['This Pokemon''s secondary effect chances are doubled.']
     introduction: rs
   Shadow Tag:
     description:
     - Traps opponents.
-    - {dp: 'Traps opponents. Does not affect Pok\xE9mon with Shadow Tag.'}
+    - {dp: 'Traps opponents. Does not affect Pokemon with Shadow Tag.'}
     introduction: rs
   Shed Skin:
     description: [30% chance to heal status.]

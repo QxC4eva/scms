@@ -2775,8 +2775,7 @@ moves:
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: 
     - Boosts Special one stage.
-    - {gs: Boosts Special Attack one stage.}
-    - {bw: Boosts Attack and Special Attack by one stage. Boosts Attack and Special Attack by two stages in bright sunlight.}
+    - {gs: Boosts Special Attack one stage. xy: Boosts Attack and Special Attack by one stage. Boosts Attack and Special Attack by two stages in bright sunlight.}
     introduction: rb
     power: [0]
     pp: [40]

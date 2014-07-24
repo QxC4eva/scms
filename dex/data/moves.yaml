@@ -1847,7 +1847,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Causes the target to repeat the move 2-5 turns.]
+    description: [Causes the target to repeat the last move for 2-5 turns.]
     introduction: gs
     power: [0]
     pp: [5]

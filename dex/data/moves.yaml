@@ -2477,7 +2477,7 @@ moves:
     accuracy: [100]
     category: [Special]
     description: [Deals damage to one adjacent target with a 10% chance to freeze
-        it. Super-effective against Water-type Pokemon]
+        it. Super effective against Water-type Pokemon]
     introduction: xy
     power: [70]
     pp: [20]
@@ -2773,7 +2773,10 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts Special one stage.]
+    description: 
+    - Boosts Special one stage.
+    - {gs: Boosts Special Attack one stage.}
+    - {bw: Boosts Attack and Special Attack by one stage. Boosts Attack and Special Attack by two stages in bright sunlight.}
     introduction: rb
     power: [0]
     pp: [40]

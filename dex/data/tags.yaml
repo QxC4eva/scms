@@ -57,6 +57,27 @@ tags:
     name: Uber
     successors:
     - []
+    description:
+    - |
+      Coming soon.
+    - xy: |
+        Tier Composition
+        ================
+        
+        Ubers is the most inclusive of Smogon's tiers, allowing the use of any Pokémon              species. Only abilities and tactics which have been proven to be uncompetitive are          banned from use. Ubers is not influenced by Pokémon usage in OU, UU, RU, or NU, and         the usage of Pokémon in Ubers has no influence on the composition of those tiers.
+        
+        Play Restrictions
+        =================
+        
+        * Endless Battle Clause: Players cannot use any moveset on any Pokémon capable of           intentionally causing an endless battle. Thus:
+          * A Pokémon may not carry Recycle and hold a Leppa Berry in conjunction with Heal           Pulse and Milk Drink, Moonlight, Morning Sun, Recover, Roost, Slack Off,                    Soft-Boiled, or Wish.
+          * A Pokémon may not hold a Leppa Berry while carrying Recycle and Pain Split.
+          * A Pokémon may not hold a Leppa Berry while carrying Recycle and Fling.
+        * Moody Clause: Players cannot use a Pokémon with the Moody ability.
+        * OHKO Clause: Players cannot use the moves Fissure, Guillotine, Horn Drill, or             Sheer Cold.
+        * Sleep Clause: Players cannot induce sleep to more than one Pokémon on the                opposing team at the same time.
+        * Species Clause: Players cannot have two Pokémon with the same Pokédex number on          the same team.
+        * Pokémon can be of any level.
   Doubles:
     introduction: bw
     name: Doubles

@@ -13,4 +13,4 @@ whats up
 lolll
 -----
 
-(pokemon: Rhydon) <- and heres a link
+(pokemon: xy/Rhydon) <- and heres a link

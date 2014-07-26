@@ -4,16 +4,41 @@ tags:
     name: Borderline
     successors:
     - [OU]
+    description:
+    - |
+      Coming soon.
+    - xy: |
+        Composition
+        ===========
+        
+        BL (Borderline) is the ban list for UU and is not a playable tier. BL Pokémon are          not OU by usage (i.e., they do not have above 3.41% usage in OU), but cannot be            used in UU, RU, or NU.
+
   BL2:
     introduction: dp
     name: Borderline 2
     successors:
     - [UU]
+    description:
+    - |
+      Coming soon.
+    - xy: |
+        Composition
+        ===========
+        
+        BL2 (Borderline 2) is the ban list for RU and is not a playable tier. BL2 Pokémon           are not UU by usage (i.e., they do not have above 3.41% usage in UU), but cannot be         used in RU or NU.
   BL3:
     introduction: bw
     name: Borderline 3
     successors:
     - [RU]
+    description:
+    - |
+      Coming soon.
+    - xy: |
+        Composition
+        ===========
+        
+        BL3 (Borderline 3) is the ban list for NU and is not a playable tier. BL3 Pokémon          are not RU by usage (i.e., they do not have above 3.41% usage in RU), but cannot be         used in NU.
   LC:
     introduction: dp
     name: Little Cup
@@ -61,10 +86,10 @@ tags:
     - |
       Coming soon.
     - xy: |
-        Tier Composition
+        Composition
         ================
         
-        Ubers is the most inclusive of Smogon's tiers, allowing the use of any Pokémon              species. Only abilities and tactics which have been proven to be uncompetitive are          banned from use. Ubers is not influenced by Pokémon usage in OU, UU, RU, or NU, and         the usage of Pokémon in Ubers has no influence on the composition of those tiers.
+        Ubers is the most inclusive of Smogon's tiers, allowing the use of any Pokémon             species. Only abilities and tactics which have been proven to be uncompetitive are         banned from use. Ubers is not influenced by Pokémon usage in OU, UU, RU, or NU, and         the usage of Pokémon in Ubers has no influence on the composition of those tiers.
         
         Play Restrictions
         =================

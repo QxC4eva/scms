@@ -25,7 +25,7 @@ tags:
         Composition
         ===========
         
-        BL2 (Borderline 2) is the ban list for RU and is not a playable tier. BL2 Pokémon           are not UU by usage (i.e., they do not have above 3.41% usage in UU), but cannot be         used in RU or NU.
+        BL2 (Borderline 2) is the ban list for RU and is not a playable tier. BL2 Pokémon          are not UU by usage (i.e., they do not have above 3.41% usage in UU), but cannot be         used in RU or NU.
   BL3:
     introduction: bw
     name: Borderline 3
@@ -66,6 +66,45 @@ tags:
     name: Overused
     successors:
     - [Uber]
+    description:
+    - |
+      Coming soon.
+    - xy: |
+        Composition
+        ================
+        
+        OU (Overused) is Smogon's fundamental usage-based tier. With the exception of              Pokémon banished to the Uber tier, every Pokémon can be used in OU, including              Pokémon from UU, RU, and NU. While all non-Uber Pokémon can be used in OU, only            those Pokémon with at least 3.41% of total usage in the tier are designated 'OU.'          Truly 'OU' Pokémon will be encountered more than 50% of the time within twenty             battles on Pokémon Showdown.
+        
+        Play Restrictions
+        =================
+        
+        * Endless Battle Clause: Players cannot use any moveset on any Pokémon capable of           intentionally causing an endless battle. Thus:
+          * A Pokémon may not carry Recycle and hold a Leppa Berry in conjunction with Heal             Pulse and Milk Drink, Moonlight, Morning Sun, Recover, Roost, Slack Off,                   Soft-Boiled, or Wish.
+          * A Pokémon may not hold a Leppa Berry while carrying Recycle and Pain Split.
+          * A Pokémon may not hold a Leppa Berry while carrying Recycle and Fling.
+        * Evasion Clause: Players cannot use the moves Double Team or or Minimize.
+        * Moody Clause: Players cannot use a Pokémon with the Moody ability.
+        * OHKO Clause: Players cannot use the moves Fissure, Guillotine, Horn Drill, or              Sheer Cold.
+        * Sleep Clause: Players cannot induce sleep to more than one Pokémon on the                opposing team at the same time.
+        * Species Clause: Players cannot have two Pokémon with the same Pokédex number on          the same team.
+        * Baton Pass Clause: Players cannot have more than one Pokémon with Baton Pass.
+        
+        Pokémon Restrictions
+        ====================
+        
+        Players cannot use Pokémon from the [Uber tier](http://www.smogon.com/dex/xy/tags/uber).
+        
+        Item Restrictions
+        =================
+        Players cannot use the following items:
+        * Gengarite
+        * Kangaskhanite
+        * Lucarionite
+        
+        Move Restrictions
+        ================
+        Players cannot use the following moves:
+        * Swagger
   RU:
     introduction: bw
     name: Rarelyused
@@ -102,7 +141,6 @@ tags:
         * OHKO Clause: Players cannot use the moves Fissure, Guillotine, Horn Drill, or             Sheer Cold.
         * Sleep Clause: Players cannot induce sleep to more than one Pokémon on the                opposing team at the same time.
         * Species Clause: Players cannot have two Pokémon with the same Pokédex number on          the same team.
-        * Pokémon can be of any level.
   Doubles:
     introduction: bw
     name: Doubles

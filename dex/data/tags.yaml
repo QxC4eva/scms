@@ -73,7 +73,7 @@ tags:
         Composition
         ================
         
-        OU (Overused) is Smogon's fundamental usage-based tier. With the exception of              Pokémon banished to the Uber tier, every Pokémon can be used in OU, including              Pokémon from UU, RU, and NU. While all non-Uber Pokémon can be used in OU, only            those Pokémon with at least 3.41% of total usage in the tier are designated 'OU.'          Truly 'OU' Pokémon will be encountered more than 50% of the time within twenty             battles on Pokémon Showdown.
+        OU (Overused) is Smogon's fundamental usage-based tier. With the exception of              Pokémon banished to the Uber tier, every Pokémon can be used in OU, including              Pokémon from UU, RU, and NU. While all non-Uber Pokémon can be used in OU, only            those Pokémon with at least 3.41% of total usage in the tier are designated 'OU.'          A Pokémon is truly 'OU' if a player is more than 50% likely to encounter that              Pokemon at least once in a given day of playing (20 battles).
         
         Play Restrictions
         =================
@@ -141,6 +141,11 @@ tags:
         * OHKO Clause: Players cannot use the moves Fissure, Guillotine, Horn Drill, or             Sheer Cold.
         * Sleep Clause: Players cannot induce sleep to more than one Pokémon on the                opposing team at the same time.
         * Species Clause: Players cannot have two Pokémon with the same Pokédex number on          the same team.
+        
+        Move Restrictions
+        =================
+        Players cannot use the following moves:
+        * Swagger
   Doubles:
     introduction: bw
     name: Doubles

@@ -828,7 +828,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers an opposite gender foe's SpA 2 stages.]
+    description: [Lowers an opposite gender foe's Special Attack by 2 stages.]
     introduction: dp
     power: [0]
     pp: [20]
@@ -986,7 +986,7 @@ moves:
   Confide:
     accuracy: [0]
     category: [Non-Damaging]
-    description: [Lowers the target's Special Attack stat by 1.]
+    description: [Lowers the target's Special Attack by 1 stage.]
     introduction: xy
     power: [0]
     pp: [20]

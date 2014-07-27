@@ -93,7 +93,7 @@ Inside the ROM: The deepest secrets of MissingNo. and Glitch Pokémon
 
 <p>Each entry is 10 bytes (or characters) long. Shorter names are filled up with [0x50], which is the terminator character in text strings. If we use a hexadecimal editor and load the aforementioned table, we'll see something like this:</p>
 
-<div><img src="/media/upload/smog/issue27/rom_namedata.png" alt="name data" /></div>
+<div><img src="/smog/issue27/rom_namedata.png" alt="name data" /></div>
 
 <h3>General Pokémon Data</h3>
 
@@ -131,7 +131,7 @@ Bytes <strong>0x1B</strong> = [0x00] ; It's always <strong>[0x00]</strong>. (Bul
 
 <p>Since this is the first pointer table we are going to deal with, it won't cause any harm to see how it looks:</p>
 
-<div><img src="/media/upload/smog/issue27/rom_dexdata.png" alt="pokédex data" /></div>
+<div><img src="/smog/issue27/rom_dexdata.png" alt="pokédex data" /></div>
 
 <p>Selected in green, you can see the whole pointer table. There are a total of 190 pointers, ordered by the Index Number of the Pok&eacute;mon it points to&mdash;for example, the first pointer points to Rhydon's data and the second pointer to Kangaskhan's. As expected then, the table is 0x17C or 380 bytes long, as there are 190 two-byte pointers. Thus, the table ends at offset 0x405F9. It's not hard to notice a pattern in the table; using what we have learned about pointers, we know that the first pointer (0xFA 0x45) points to 0x405FA. Now if we look at the next pointer, we can see that the offset it points to is 0x40609, just a few bytes after the first one. This pattern repeats almost every time, the only exception being the pointers of all 39 MissingNo., which point to the same location, as will be expanded on later in a different section. Not only that, but Rhydon's Pok&eacute;dex data happens to start right after the last pointer of the table, and, as seen from the pattern on the pointer table, the data of all other Pok&eacute;mon, ordered by Index Number, follow Rhydon's.</p>
 
@@ -148,7 +148,7 @@ Three-byte <strong>pointer to Pok&eacute;dex Entry</strong>. Pok&eacute;dex Entr
 
 <p>We'll use Kingler as an example:</p>
 
-<div><img src="/media/upload/smog/issue27/rom_kinglerdata.png" alt="kingler pokédex data" /></div>
+<div><img src="/smog/issue27/rom_kinglerdata.png" alt="kingler pokédex data" /></div>
 
 <p>The selected bytes correspond to Kingler's Pok&eacute;dex data. The first seven bytes (until the 0x50) determine the species of the Pok&eacute;mon. Then, we can see Kingler's height is 4'03''. We can calculate its weight by rotating the two bytes (which are 0x28 and 0x05), converting them to decimal, and finally dividing the obtained number by 10. The result is 132 pounds.</p>
 
@@ -183,7 +183,7 @@ Three-byte <strong>pointer to Pok&eacute;dex Entry</strong>. Pok&eacute;dex Entr
 
 <p>Now let's go back to Weepinbell and take a look at its learnset data. It's not difficult to follow the structure; after the 0x00, the next two bytes mean that Weepenbell learns, at level 0x0D or 13, the move 0x23 or Wrap. From the next two bytes (0x0F and 0x4D), we see that at level 15 it learns Poisonpowder. And so on, until a 0x00 comes, causing Weepinbell's data to end and the next Pok&eacute;mon's data (Victreebel) to start.</p>
 
-<div class="float-right"><img src="/media/upload/smog/issue27/rom_missingno.png" alt="missingno" /></div>
+<div class="float-right"><img src="/smog/issue27/rom_missingno.png" alt="missingno" /></div>
 
 <h2>Why do MissingNo. and Glitch Pokémon exist?</h2>
 
@@ -207,7 +207,7 @@ Three-byte <strong>pointer to Pok&eacute;dex Entry</strong>. Pok&eacute;dex Entr
 
 <p>Without further ado, here is the table:</p>
 
-<div><img src="/media/upload/smog/issue27/rom_indextable.png" alt="pokémon index number table" /></div>
+<div><img src="/smog/issue27/rom_indextable.png" alt="pokémon index number table" /></div>
 
 <p>But why I'm bringing up this table now? And why am I showing data past the end of the table? Because from the end of the table to the byte selected in blue at offset 0x41122, we can take a lot of information about Glitch Pok&eacute;mon. Let me explain it: while the table ends and was made to end at offset 0x410E1 with Victreebel's entry, the following bytes are used to determine the Pok&eacute;dex Entry of Glitch Pok&eacute;mon. These 65 bytes are data used for other things, but when accessing Pok&eacute;mon with invalid Index Numbers, the game keeps reading data as if it was the continuation of the table. This causes Glitch Pok&eacute;mon to have "random" Pok&eacute;dex Entries; some will be invalid entires (those above 151), but some others will be shared with real Pok&eacute;mon! For example, Glitch Pok&eacute;mon 0xC0 (that is, the one with Index Number of 0xC0) has what would be its byte in the table set to 0x3D or 61, the Pok&eacute;dex Entry of Poliwhirl. Since the General Pok&eacute;mon data is determined by Pok&eacute;dex Entry, this leads to many Glitch Pok&eacute;mon sharing stats, basic moves, types, etc. of real Pok&eacute;mon; in the case of Glitch Pok&eacute;mon 0xC0, it will be Poliwhirl.</p>
 
@@ -223,7 +223,7 @@ Three-byte <strong>pointer to Pok&eacute;dex Entry</strong>. Pok&eacute;dex Entr
 
 <p>You should already have an idea about where MissingNo.'s names come from. In fact, we have already mentioned it. We saw that the table at 0x1C21E that contains the names of all Pok&eacute;mon is ordered by Index Number, so if we scrolled it down we'll eventually see a total of 39 "MISSINGNO." strings in the positions matching the Index Number of all MissingNo.. Pretty simple, isn't it?</p>
 
-<div><img src="/media/upload/smog/issue27/rom_missingnoindex.png" alt="missingno index numbers" /></div>
+<div><img src="/smog/issue27/rom_missingnoindex.png" alt="missingno index numbers" /></div>
 
 <h4>Glitch Pokémon</h4>
 
@@ -237,7 +237,7 @@ Three-byte <strong>pointer to Pok&eacute;dex Entry</strong>. Pok&eacute;dex Entr
 
 <p>Remember 'M[00]? It's a special case, since its Index Number (0x00) doesn't go after the valid Index Numbers, but before. No, this doesn't mean that its name would be located before Rhydon's name, since only data after the pointed address is read. So what then? To access to the name of any Pok&eacute;mon, 0x01 is subtracted from the Index Number of the Pok&eacute;mon, as seen from the formula above. When 0x01 is substracted from 0x00, it underflows to 0xFF, causing 'M[00]'s data to be at 0x1C21E + 0x0A * 0xFF or 0x1C21E + 0x0A * (0x100 - 0x01), which translates to offset 0x1CC14. In case you don't believe me:</p>
 
-<div><img src="/media/upload/smog/issue27/rom_m00data.png" alt="'M[00] index data" /></div>
+<div><img src="/smog/issue27/rom_m00data.png" alt="'M[00] index data" /></div>
 
 <p>All the '#' would translate to graphical tiles when displayed in the game. In some Glitch Pok&eacute;mon, these force the player to press the A button a few times in order to load up the whole name. From the image above, we can come to the conclusion that the Pok&eacute;mon we all refer to as 'M is not the only glitch Pok&eacute;mon with the same legible name. Now, if you remember that I said the most famous 'M is generally referred to as 'M[00] in order to distinguish it from other 'M, it makes sense right?</p>
 
@@ -447,7 +447,7 @@ Three-byte <strong>pointer to Pok&eacute;dex Entry</strong>. Pok&eacute;dex Entr
 
 <p>So what does that data contain? It's more than clear that MissingNo.'s Pok&eacute;dex data was programmed manually and on purpose. The string that defines the species of MissingNo. is set to "???":</p>
 
-<div><img src="/media/upload/smog/issue27/rom_missingnospecies.png" alt="missingno species data" /></div>
+<div><img src="/smog/issue27/rom_missingnospecies.png" alt="missingno species data" /></div>
 
 <p>In the Japanese Red/Blue games, its height and weight were set to generic values of 1.0 meters (0x0A) and 10.0 (0x64) kilogrames. However, the way height and weight are structured in the Japanese versions differs from the way they are structured and read in the English versions. The units of measure are different and, in the Japanese games, height and weight only occupy one byte each instead of two like in the English versions. MissingNo.'s Pok&eacute;dex data from the Japanese versions was not "translated" in the English versions, and this causes MissingNo. to have crazy height and weight values: 10 feet and 3507.2 pounds. MissingNo. weighs almost eight times as much as Onix!</p>
 
@@ -457,7 +457,7 @@ Three-byte <strong>pointer to Pok&eacute;dex Entry</strong>. Pok&eacute;dex Entr
 
 <p>Every MissingNo. has its Evolution / Learnset data set to [0x00][0x00] on purpose, meaning MissingNo. doesn't evolve and learns no moves by leveling up. While each MissingNo. has a different pointer in the pointer table to Evolution / Learnset data, all pointers point to the same null data. For example, MissingNo. 0x38's pointer is 0xA2 0x74, so it points to 0x3B4A2:</p>
 
-<div><img src="/media/upload/smog/issue27/rom_missingnopointer.png" alt="missingno 0x38 pointer data" /></div>
+<div><img src="/smog/issue27/rom_missingnopointer.png" alt="missingno 0x38 pointer data" /></div>
 
 <p>Notice Mankey's entry after MissingNo.'s data ends. Mankey's Index Number is logically 0x39. The 0x00 at offset 0x3B4A1 is the terminator for Koffing (0x37).</p>
 
@@ -465,7 +465,7 @@ Three-byte <strong>pointer to Pok&eacute;dex Entry</strong>. Pok&eacute;dex Entr
 
 <p>This part is very interesting. Previously, we saw that pointers to Evolution / Learnset data are located starting at offset 0x3B05C. So how would Glitch Pok&eacute;mon get their pointers then? By simply accessing to data past the pointer table, according to their Index Number. This means that, for example, Glitch Pok&eacute;mon 0xBF has its pointer located right after Victreebel's, which is the last Pok&eacute;mon by Index Number. We saw that the Evolution / Learnset data also begins after Victreebel's pointer, which translates to the fact that Glitch Pok&eacute;mon are taking their pointers from data of some Pok&eacute;mon. Needless to say, this would lead to random pointers pointing to data that makes no sense when read as Evolution / Learnset data. Let's have a look at the 66 Glitch Pok&eacute;mon pointers, from 0xBF to 0x00:</p>
 
-<div><img src="/media/upload/smog/issue27/rom_glitchmonpointers.png" alt="glitch pokémon pointers" /></div>
+<div><img src="/smog/issue27/rom_glitchmonpointers.png" alt="glitch pokémon pointers" /></div>
 
 <p>Notice that the pointers with the most significant byte between 0x00 and 0x3F point to the first bank, while those with it between 0x40 and 0x7F point to the bank they are at: bank 0x0E, which starts at 0x38000. There are four pointers that lead to the VRAM as they are between 0x8000 and 0x9FFF. The VRAM is constantly varying depending on the graphics; in fact, there is one Glitch Pok&eacute;mon (0xEA) having a pointer of 0x24 0x81, that features a different learnset depending on the way it is leveled up (battling or via Rare Candies). Let's leave curiosity aside and focus on more practical examples, though.</p>
 

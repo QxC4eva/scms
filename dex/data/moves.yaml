@@ -4469,7 +4469,7 @@ moves:
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: 
     - Boosts evasion 1 stage.
-    - {bw: Boosts evasion 2 stages.}
+    - {bw: Boosts evasion 2 stages., xy: Boosts evasion 2 stages.}
     introduction: rb
     power: [0]
     pp:

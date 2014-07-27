@@ -57,9 +57,9 @@ pokemon:
     stats:
     - [45, 90, 20, 65, 20, 65]
     tags:
-    - [LC]
     - bw: [NFE]
       dp: [LC]
+      xy: [LC]
     types:
     - [Dark, Water]
     weight: [20.8]

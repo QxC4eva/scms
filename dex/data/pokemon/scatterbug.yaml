@@ -11,7 +11,7 @@ pokemon:
     stats:
     - [38, 35, 40, 27, 25, 35]
     tags:
-    - []
+    - [LC]
     types:
     - [Bug]
     weight: [2.5]
@@ -28,7 +28,7 @@ pokemon:
     stats:
     - [45, 22, 60, 27, 30, 29]
     tags:
-    - []
+    - [NFE]
     types:
     - [Bug]
     weight: [8.4]
@@ -55,7 +55,7 @@ pokemon:
     stats:
     - [80, 52, 50, 90, 50, 89]
     tags:
-    - []
+    - [NU]
     types:
     - [Bug, Flying]
     weight: [17]

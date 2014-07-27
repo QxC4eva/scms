@@ -30,6 +30,7 @@ pokemon:
           height: 1.9
           stats: [108, 170, 115, 120, 95, 92]
           types: [Dragon, Ground]
+          tags: [OU]
           weight: 95
     egggroups:
     - [Dragon, Monster]

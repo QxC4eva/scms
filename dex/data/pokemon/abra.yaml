@@ -99,6 +99,7 @@ pokemon:
           height: 1.2
           stats: [55, 50, 65, 175, 95, 150]
           types: [Psychic]
+          tags: [BL]
           weight: 48
     egggroups:
     - [Humanshape]

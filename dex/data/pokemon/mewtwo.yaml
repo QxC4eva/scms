@@ -11,12 +11,14 @@ pokemon:
           height: 2.3
           stats: [106, 190, 100, 154, 100, 130]
           types: [Psychic, Fighting]
+          tags: [Uber]
           weight: 127
         Mega-Y:
           abilities: [Insomnia]
           height: 1.5
           stats: [106, 150, 70, 194, 120, 140]
           types: [Psychic]
+          tags: [Uber]
           weight: 33
     egggroups:
     - []

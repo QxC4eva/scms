@@ -44,6 +44,7 @@ pokemon:
           height: 1.6
           stats: [68, 85, 65, 165, 135, 100]
           types: [Psychic, Fairy]
+          tags: [OU]
           weight: 48.4
     egggroups:
     - [Indeterminate]

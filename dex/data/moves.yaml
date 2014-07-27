@@ -4467,7 +4467,9 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts evasion 1 stage.]
+    description: 
+    - Boosts evasion 1 stage.
+    - {bw: Boosts evasion 2 stages.}
     introduction: rb
     power: [0]
     pp:

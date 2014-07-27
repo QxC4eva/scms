@@ -12,6 +12,7 @@ pokemon:
           height: 2
           stats: [70, 150, 140, 65, 100, 75]
           types: [Bug, Steel]
+          tags: [OU]
           weight: 125
     egggroups:
     - [Bug]

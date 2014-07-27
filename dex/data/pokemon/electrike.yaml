@@ -73,6 +73,7 @@ pokemon:
           height: 1.8
           stats: [70, 75, 80, 135, 80, 135]
           types: [Electric]
+          tags: [OU]
           weight: 44
     egggroups:
     - [Ground]

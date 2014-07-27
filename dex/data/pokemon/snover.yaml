@@ -10,6 +10,7 @@ pokemon:
           height: 2.7
           stats: [90, 132, 105, 132, 105, 30]
           types: [Grass, Ice]
+          tags: [RU]
           weight: 185
     egggroups:
     - [Monster, Plant]

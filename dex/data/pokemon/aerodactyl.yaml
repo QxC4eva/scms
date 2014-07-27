@@ -11,6 +11,7 @@ pokemon:
           height: 2.1
           stats: [80, 135, 85, 70, 95, 150]
           types: [Rock, Flying]
+          tags: [UU]
           weight: 79
     egggroups:
     - [Flying]

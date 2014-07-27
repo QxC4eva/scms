@@ -148,8 +148,8 @@ pokemon:
     - [45, 50, 45, 115, 115, 95]
     - gs: [45, 50, 45, 115, 55, 95]
     tags:
-    - [NFE, UU]
-    - dp: [NU]
+    - [UU]
+    - rs: [NU]
     types:
     - [Ghost, Poison]
     weight: [0.1]

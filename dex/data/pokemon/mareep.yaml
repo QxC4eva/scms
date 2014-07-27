@@ -11,6 +11,7 @@ pokemon:
           height: 1.4
           stats: [90, 95, 105, 165, 110, 45]
           types: [Electric, Dragon]
+          tags: [UU]
           weight: 61.5
     egggroups:
     - [Ground, Monster]

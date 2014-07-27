@@ -11,6 +11,7 @@ pokemon:
           height: 6.5
           stats: [95, 155, 109, 70, 130, 81]
           types: [Water, Dark]
+          tags: [OU]
           weight: 305
     egggroups:
     - [Dragon, Water 2]

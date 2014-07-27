@@ -110,6 +110,7 @@ pokemon:
           height: 2.5
           stats: [100, 164, 150, 95, 120, 71]
           types: [Rock, Dark]
+          tags: [OU]
           weight: 255
     egggroups:
     - [Monster]

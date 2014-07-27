@@ -10,6 +10,7 @@ pokemon:
           height: 1
           stats: [50, 105, 125, 55, 95, 50]
           types: [Steel, Fairy]
+          tags: [OU]
           weight: 23.5
     egggroups:
     - [Fairy, Ground]

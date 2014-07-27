@@ -97,6 +97,7 @@ pokemon:
           height: 1.4
           stats: [60, 65, 80, 170, 95, 130]
           types: [Ghost, Poison]
+          tags: [Uber]
           weight: 40.5
     egggroups:
     - [Indeterminate]

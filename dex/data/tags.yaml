@@ -44,6 +44,52 @@ tags:
     name: Little Cup
     successors:
     - []
+    description:
+    - |
+      Coming soon.
+    - xy: |
+        Composition
+        ================
+        
+        LC (Little Cup) is a format in which players may only use Pokémon that have not yet         evolved but are capable of evolution. 
+        
+        Play Restrictions
+        =================
+        
+        * Endless Battle Clause: Players cannot use any moveset on any Pokémon capable of           intentionally causing an endless battle. Thus:
+          * A Pokémon may not carry (move: xy/Recycle) and hold a (item: xy/Leppa Berry) in             conjunction with (move: xy/Heal Pulse) and (move: xy/Milk Drink), (move:                   xy/Moonlight), (move: xy/Morning Sun), (move: xy/Recover), (move: xy/Roost),               (move: xy/Slack Off), (move: xy/Soft-Boiled), or (move: xy/Wish).
+          * A Pokémon may not hold a (item: xy/Leppa Berry) while carrying (move:                      xy/Recycle) and (move: xy/Pain Split).
+          * A Pokémon may not hold a (item: xy/Leppa Berry) while carrying (move:                      xy/Recycle) and (move: xy/Fling).
+        * Evasion Clause: Players cannot use the moves (move: xy/Double Team) or or (move:           xy/Minimize).
+        * Moody Clause: Players cannot use a Pokémon with the (ability: xy/Moody) ability.
+        * OHKO Clause: Players cannot use the moves (move: xy/Fissure), (move:                       xy/Guillotine), (move: xy/Horn Drill), or (move: xy/Sheer Cold).
+        * Sleep Clause: Players cannot induce sleep to more than one Pokémon on the                  opposing team at the same time.
+        * Species Clause: Players cannot have two Pokémon with the same Pokédex number on            the same team.
+        * Swagger Clause: Players cannot use the move (move: xy/Swagger).
+        * All Pokémon must be level 5.
+        
+        Pokémon Restrictions
+        ====================
+        
+        Players cannot use the following Pokémon:
+        * (pokemon: xy/Gligar)
+        * (pokemon: xy/Meditite)
+        * (pokemon: xy/Murkrow)
+        * (pokemon: xy/Scyther)
+        * (pokemon: xy/Sneasel)
+        * (pokemon: xy/Swirlix)
+        * (pokemon: xy/Tangela)
+        * (pokemon: xy/Yanma)
+        
+        Move Restrictions
+        ====================
+        Players cannot use the following moves:
+        * (move: xy/Dragon Rage)
+        * (move: xy/Sonicboom)
+        
+        For information on Little Cup moveset legality, please refer to [this                      guide](/bw/articles/lc_move_legality).
+        
+        **Disclaimer**: Some legality issues no longer exist due to the introduction of the         Ability Capsule in Pokémon X and Y.
   Limbo:
     introduction: rb
     name: Limbo
@@ -61,6 +107,41 @@ tags:
     - [UU]
     - dp: [BL2]
     - bw: [BL3]
+    description:
+    - |
+      Coming soon.
+    - xy: |
+        Composition
+        ================
+        
+        NU (Never Used) is Smogon's fourth usage-based tier. All Pokémon that are not RU or         higher by usage and are not banned to Ubers, BL, BL2, or BL3 (Borderline 3) can            be used in NU.
+        
+        Play Restrictions
+        =================
+        
+        * Endless Battle Clause: Players cannot use any moveset on any Pokémon capable of           intentionally causing an endless battle. Thus:
+          * A Pokémon may not carry (move: xy/Recycle) and hold a (item: xy/Leppa Berry) in             conjunction with (move: xy/Heal Pulse) and (move: xy/Milk Drink), (move:                   xy/Moonlight), (move: xy/Morning Sun), (move: xy/Recover), (move: xy/Roost),               (move: xy/Slack Off), (move: xy/Soft-Boiled), or (move: xy/Wish).
+          * A Pokémon may not hold a (item: xy/Leppa Berry) while carrying (move:                      xy/Recycle) and (move: xy/Pain Split).
+          * A Pokémon may not hold a (item: xy/Leppa Berry) while carrying (move:                      xy/Recycle) and (move: xy/Fling).
+        * Evasion Clause: Players cannot use the moves (move: xy/Double Team) or or (move:           xy/Minimize).
+        * Moody Clause: Players cannot use a Pokémon with the (ability: xy/Moody) ability.
+        * OHKO Clause: Players cannot use the moves (move: xy/Fissure), (move:                       xy/Guillotine), (move: xy/Horn Drill), or (move: xy/Sheer Cold).
+        * Sleep Clause: Players cannot induce sleep to more than one Pokémon on the                  opposing team at the same time.
+        * Species Clause: Players cannot have two Pokémon with the same Pokédex number on            the same team.
+        * Swagger Clause: Players cannot use the move (move: xy/Swagger).
+        * Baton Pass Clause: Players cannot have more than one Pokémon with the move (move:           xy/Baton Pass).
+        
+        Pokémon Restrictions
+        ====================
+        
+        Players cannot use Pokémon from the [Uber tier](/dex/xy/tags/uber),                        [OU](/dex/xy/tags/ou), [BL](/dex/xy/tags/bl), [UU](/dex/xy/tags/uu),                       [BL2](/dex/xy/tags/bl2), [RU](/dex/xy/tags/ru), or [BL3](/dex/xy/tags/bl3).
+        
+        Ability Restrictions
+        ====================
+        Players cannot use the following abilities:
+        * (ability: xy/Shadow Tag)
+        * (ability: xy/Drought)
+        * (ability: xy/Drizzle)
   OU:
     introduction: rb
     name: Overused
@@ -79,16 +160,16 @@ tags:
         =================
         
         * Endless Battle Clause: Players cannot use any moveset on any Pokémon capable of           intentionally causing an endless battle. Thus:
-          * A Pokémon may not carry Recycle and hold a Leppa Berry in conjunction with Heal             Pulse and Milk Drink, Moonlight, Morning Sun, Recover, Roost, Slack Off,                   Soft-Boiled, or Wish.
-          * A Pokémon may not hold a Leppa Berry while carrying Recycle and Pain Split.
-          * A Pokémon may not hold a Leppa Berry while carrying Recycle and Fling.
-        * Evasion Clause: Players cannot use the moves Double Team or or Minimize.
-        * Moody Clause: Players cannot use a Pokémon with the Moody ability.
-        * OHKO Clause: Players cannot use the moves Fissure, Guillotine, Horn Drill, or              Sheer Cold.
-        * Sleep Clause: Players cannot induce sleep to more than one Pokémon on the                opposing team at the same time.
-        * Species Clause: Players cannot have two Pokémon with the same Pokédex number on          the same team.
-        * Swagger Clause: Players cannot use the move Swagger.
-        * Baton Pass Clause: Players cannot have more than one Pokémon with the move Baton           Pass.
+          * A Pokémon may not carry (move: xy/Recycle) and hold a (item: xy/Leppa Berry) in             conjunction with (move: xy/Heal Pulse) and (move: xy/Milk Drink), (move:                   xy/Moonlight), (move: xy/Morning Sun), (move: xy/Recover), (move: xy/Roost),               (move: xy/Slack Off), (move: xy/Soft-Boiled), or (move: xy/Wish).
+          * A Pokémon may not hold a (item: xy/Leppa Berry) while carrying (move:                      xy/Recycle) and (move: xy/Pain Split).
+          * A Pokémon may not hold a (item: xy/Leppa Berry) while carrying (move:                      xy/Recycle) and (move: xy/Fling).
+        * Evasion Clause: Players cannot use the moves (move: xy/Double Team) or or (move:           xy/Minimize).
+        * Moody Clause: Players cannot use a Pokémon with the (ability: xy/Moody) ability.
+        * OHKO Clause: Players cannot use the moves (move: xy/Fissure), (move:                       xy/Guillotine), (move: xy/Horn Drill), or (move: xy/Sheer Cold).
+        * Sleep Clause: Players cannot induce sleep to more than one Pokémon on the                  opposing team at the same time.
+        * Species Clause: Players cannot have two Pokémon with the same Pokédex number on            the same team.
+        * Swagger Clause: Players cannot use the move (move: xy/Swagger).
+        * Baton Pass Clause: Players cannot have more than one Pokémon with the move (move:           xy/Baton Pass).
         
         Pokémon Restrictions
         ====================
@@ -98,20 +179,95 @@ tags:
         Item Restrictions
         =================
         Players cannot use the following items:
-        * Gengarite
-        * Kangaskhanite
-        * Lucarionite
+        * (item: xy/Gengarite)
+        * (item: xy/Kangaskhanite)
+        * (item: xy/Lucarionite)
   RU:
     introduction: bw
     name: Rarelyused
     successors:
     - [BL2]
+    description:
+    - |
+      Coming soon.
+    - xy: |
+        Composition
+        ================
+        
+        RU (Rarely Used) is Smogon's third usage-based tier. All Pokémon that are not UU or         higher by usage and are not banned to Ubers, BL, or BL2 (Borderline 2) can be              used in RU, including Pokémon from NU. While any of the aforementioned Pokémon can         be used in RU, only those Pokémon that make up at least ~3.41% of total weighted           usage in the tier are designated 'RU.' A Pokémon is truly 'RU' if a typical                competitive player is more than 50% likely to encounter that Pokemon at least once         in a given day of playing (20 battles).
+        
+        Play Restrictions
+        =================
+        
+        * Endless Battle Clause: Players cannot use any moveset on any Pokémon capable of           intentionally causing an endless battle. Thus:
+          * A Pokémon may not carry (move: xy/Recycle) and hold a (item: xy/Leppa Berry) in             conjunction with (move: xy/Heal Pulse) and (move: xy/Milk Drink), (move:                   xy/Moonlight), (move: xy/Morning Sun), (move: xy/Recover), (move: xy/Roost),               (move: xy/Slack Off), (move: xy/Soft-Boiled), or (move: xy/Wish).
+          * A Pokémon may not hold a (item: xy/Leppa Berry) while carrying (move:                      xy/Recycle) and (move: xy/Pain Split).
+          * A Pokémon may not hold a (item: xy/Leppa Berry) while carrying (move:                      xy/Recycle) and (move: xy/Fling).
+        * Evasion Clause: Players cannot use the moves (move: xy/Double Team) or or (move:           xy/Minimize).
+        * Moody Clause: Players cannot use a Pokémon with the (ability: xy/Moody) ability.
+        * OHKO Clause: Players cannot use the moves (move: xy/Fissure), (move:                       xy/Guillotine), (move: xy/Horn Drill), or (move: xy/Sheer Cold).
+        * Sleep Clause: Players cannot induce sleep to more than one Pokémon on the                  opposing team at the same time.
+        * Species Clause: Players cannot have two Pokémon with the same Pokédex number on            the same team.
+        * Swagger Clause: Players cannot use the move (move: xy/Swagger).
+        * Baton Pass Clause: Players cannot have more than one Pokémon with the move (move:           xy/Baton Pass).
+        
+        Pokémon Restrictions
+        ====================
+        
+        Players cannot use Pokémon from the [Uber tier](/dex/xy/tags/uber),                        [OU](/dex/xy/tags/ou), [BL](/dex/xy/tags/bl), [UU](/dex/xy/tags/uu), or                    [BL2](/dex/xy/tags/bl2).
+        
+        Ability Restrictions
+        ====================
+        Players cannot use the following abilities:
+        * (ability: xy/Shadow Tag)
+        * (ability: xy/Drought)
+        * (ability: xy/Drizzle)
   UU:
     introduction: rb
     name: Underused
     successors:
     - [OU]
     - gs: [BL]
+    description:
+    - |
+      Coming soon.
+    - xy: |
+        Composition
+        ================
+        
+        UU (Underused) is Smogon's second usage-based tier. All Pokémon that are not OU by         usage and are not banned to Ubers or BL (Borderline) can be used in UU, including          Pokémon from RU and NU. While any of the aforementioned Pokémon can be used in UU,         only those Pokémon that make up at least ~3.41% of total weighted usage in the tier         are designated 'UU.' A Pokémon is truly 'UU' if a typical competitive player is            more than 50% likely to encounter that Pokemon at least once in a given day of             playing (20 battles).
+        
+        Play Restrictions
+        =================
+        
+        * Endless Battle Clause: Players cannot use any moveset on any Pokémon capable of           intentionally causing an endless battle. Thus:
+          * A Pokémon may not carry (move: xy/Recycle) and hold a (item: xy/Leppa Berry) in             conjunction with (move: xy/Heal Pulse) and (move: xy/Milk Drink), (move:                   xy/Moonlight), (move: xy/Morning Sun), (move: xy/Recover), (move: xy/Roost),               (move: xy/Slack Off), (move: xy/Soft-Boiled), or (move: xy/Wish).
+          * A Pokémon may not hold a (item: xy/Leppa Berry) while carrying (move:                      xy/Recycle) and (move: xy/Pain Split).
+          * A Pokémon may not hold a (item: xy/Leppa Berry) while carrying (move:                      xy/Recycle) and (move: xy/Fling).
+        * Evasion Clause: Players cannot use the moves (move: xy/Double Team) or or (move:           xy/Minimize).
+        * Moody Clause: Players cannot use a Pokémon with the (ability: xy/Moody) ability.
+        * OHKO Clause: Players cannot use the moves (move: xy/Fissure), (move:                       xy/Guillotine), (move: xy/Horn Drill), or (move: xy/Sheer Cold).
+        * Sleep Clause: Players cannot induce sleep to more than one Pokémon on the                  opposing team at the same time.
+        * Species Clause: Players cannot have two Pokémon with the same Pokédex number on            the same team.
+        * Swagger Clause: Players cannot use the move (move: xy/Swagger).
+        * Baton Pass Clause: Players cannot have more than one Pokémon with the move (move:           xy/Baton Pass).
+        
+        Pokémon Restrictions
+        ====================
+        
+        Players cannot use Pokémon from the [Uber tier](/dex/xy/tags/uber),                        [OU](/dex/xy/tags/ou), or [BL](/dex/xy/tags/bl).
+        
+        Item Restrictions
+        =================
+        Players cannot use the following items:
+        * (item: xy/Heracronite)
+        
+        Ability Restrictions
+        ====================
+        Players cannot use the following abilities:
+        * (ability: xy/Shadow Tag)
+        * (ability: xy/Drought)
+        * (ability: xy/Drizzle)
   Uber:
     introduction: rb
     name: Uber
@@ -130,19 +286,66 @@ tags:
         =================
         
         * Endless Battle Clause: Players cannot use any moveset on any Pokémon capable of           intentionally causing an endless battle. Thus:
-          * A Pokémon may not carry Recycle and hold a Leppa Berry in conjunction with Heal           Pulse and Milk Drink, Moonlight, Morning Sun, Recover, Roost, Slack Off,                    Soft-Boiled, or Wish.
-          * A Pokémon may not hold a Leppa Berry while carrying Recycle and Pain Split.
-          * A Pokémon may not hold a Leppa Berry while carrying Recycle and Fling.
-        * Moody Clause: Players cannot use a Pokémon with the Moody ability.
-        * OHKO Clause: Players cannot use the moves Fissure, Guillotine, Horn Drill, or             Sheer Cold.
-        * Sleep Clause: Players cannot induce sleep to more than one Pokémon on the                opposing team at the same time.
-        * Species Clause: Players cannot have two Pokémon with the same Pokédex number on          the same team.
-        * Swagger Clause: Players cannot use the move Swagger.
+          * A Pokémon may not carry (move: xy/Recycle) and hold a (item: xy/Leppa Berry) in             conjunction with (move: xy/Heal Pulse) and (move: xy/Milk Drink), (move:                   xy/Moonlight), (move: xy/Morning Sun), (move: xy/Recover), (move: xy/Roost),               (move: xy/Slack Off), (move: xy/Soft-Boiled), or (move: xy/Wish).
+          * A Pokémon may not hold a (item: xy/Leppa Berry) while carrying (move:                      xy/Recycle) and (move: xy/Pain Split).
+          * A Pokémon may not hold a (item: xy/Leppa Berry) while carrying (move:                      xy/Recycle) and (move: xy/Fling).
+        * Moody Clause: Players cannot use a Pokémon with the (ability: xy/Moody) ability.
+        * OHKO Clause: Players cannot use the moves (move: xy/Fissure), (move:                       xy/Guillotine), (move: xy/Horn Drill), or (move: xy/Sheer Cold).
+        * Sleep Clause: Players cannot induce sleep to more than one Pokémon on the                  opposing team at the same time.
+        * Species Clause: Players cannot have two Pokémon with the same Pokédex number on            the same team.
+        * Swagger Clause: Players cannot use the move (move: xy/Swagger).
   Doubles:
     introduction: bw
     name: Doubles
     successors:
     - []
+    description:
+    - |
+      Coming soon.
+    - xy: |
+        Composition
+        ================
+        
+        Smogon Doubles is a format in which both players have two Pokémon on the field at the same time. All Pokémon except those on the ban list (found below) can be used in Smogon Doubles regardless of the Pokémon's tier in singles play. Unlike VGC, all Pokémon default to level 100 instead of level 50.
+        
+        Play Restrictions
+        =================
+        
+        * Endless Battle Clause: Players cannot use any moveset on any Pokémon capable of           intentionally causing an endless battle. Thus:
+          * A Pokémon may not carry (move: xy/Recycle) and hold a (item: xy/Leppa Berry) in             conjunction with (move: xy/Heal Pulse) and (move: xy/Milk Drink), (move:                   xy/Moonlight), (move: xy/Morning Sun), (move: xy/Recover), (move: xy/Roost),               (move: xy/Slack Off), (move: xy/Soft-Boiled), or (move: xy/Wish).
+          * A Pokémon may not hold a (item: xy/Leppa Berry) while carrying (move:                      xy/Recycle) and (move: xy/Pain Split).
+          * A Pokémon may not hold a (item: xy/Leppa Berry) while carrying (move:                      xy/Recycle) and (move: xy/Fling).
+        * Evasion Clause: Players cannot use the moves (move: xy/Double Team) or or (move:           xy/Minimize).
+        * Moody Clause: Players cannot use a Pokémon with the (ability: xy/Moody) ability.
+        * OHKO Clause: Players cannot use the moves (move: xy/Fissure), (move:                       xy/Guillotine), (move: xy/Horn Drill), or (move: xy/Sheer Cold).
+        * Sleep Clause: Players cannot induce sleep to more than one Pokémon on the                  opposing team at the same time.
+        * Species Clause: Players cannot have two Pokémon with the same Pokédex number on            the same team.
+        
+        Pokémon Restrictions
+        ====================
+        
+        Players cannot use the following Pokémon:
+        * (pokemon: xy/Mewtwo)
+        * (pokemon: xy/Lugia)
+        * (pokemon: xy/Ho-oh)
+        * (pokemon: xy/Kyogre)
+        * (pokemon: xy/Groudon)
+        * (pokemon: xy/Rayquaza)
+        * (pokemon: xy/Dialga)
+        * (pokemon: xy/Palkia)
+        * (pokemon: xy/Giratina)
+        * (pokemon: xy/Giratina-O)
+        * (pokemon: xy/Arceus)
+        * (pokemon: xy/Reshiram)
+        * (pokemon: xy/Zekrom)
+        * (pokemon: xy/Kyurem-White)
+        * (pokemon: xy/Xerneas)
+        * (pokemon: xy/Yveltal)
+        
+        Move Restrictions
+        =================
+        Players cannot use the following moves:
+        * (move: xy/Dark Void)
   VGC14:
     introduction: xy
     name: VGC14
@@ -153,3 +356,6 @@ tags:
     name: Unreleased
     successors:
     - []
+    description:
+    - |
+      Unreleased Pokémon are those that are not yet available through legal means. It is         likely these Pokémon will be released and available for use in the future.

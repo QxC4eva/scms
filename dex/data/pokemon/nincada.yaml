@@ -111,8 +111,7 @@ pokemon:
     stats:
     - [1, 90, 45, 30, 30, 40]
     tags:
-    - [UU]
-    - dp: [NU]
+    - [NU]
     types:
     - [Bug, Ghost]
     weight: [1.2]

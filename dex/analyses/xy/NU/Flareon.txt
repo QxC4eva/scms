@@ -1,0 +1,28 @@
+Guts Attacker
+ ########
+ name: Guts Attacker
+ move 1: Flare Blitz
+ move 2: Facade
+ move 3: Superpower
+ move 4: Quick Attack / Protect
+ item: Toxic Orb
+ ability: Guts
+ evs: 252 Atk / 4 SpD / 252 Spe
+ nature: Adamant / Jolly
+ 
+ This is a sample set while we are currently working on analyses in the workshop.
+
+ Specially Defensive
+ ########
+ name: Specially Defensive
+ move 1: Lava Plume
+ move 2: Wish
+ move 3: Protect
+ move 4: Heal Bell
+ item: Leftovers
+ ability: Flash Fire
+ evs: 248 HP / 8 SpA / 252 SpD
+ ivs: 0 Atk
+ nature: Calm
+ 
+ This is a sample set while we are currently working on analyses in the workshop.

@@ -129,7 +129,8 @@ pokemon:
     - [55, 47, 52, 40, 40, 41]
     - gs: [55, 47, 52, 40, 40, 41]
     tags:
-    - [LC]
+    - [NFE]
+    - dp: [LC]
     types:
     - [Poison]
     weight: [7]

@@ -5,16 +5,16 @@ Elekid is very fast, hitting 20 Speed, which is the fastest Speed tier in the me
 
 Special
 ########
-Name: Special Attacker
-Move 1: Thunderbolt
-Move 2: Volt Switch
-Move 3: Psychic / Substitute / Cross Chop
-Move 4: Hidden Power Ground / Hidden Power Grass
-Ability: Static
-Item: Life Orb
+name: Special Attacker
+move 1: Thunderbolt
+move 2: Volt Switch
+move 3: Psychic / Substitute / Cross Chop
+move 4: Hidden Power Ground / Hidden Power Grass
+ability: Static
+item: Life Orb
 evs: 240 SpA / 236 Spe
-IVs: 0 HP
-Nature: Timid / Hasty
+ivs: 0 HP
+nature: Timid / Hasty
 
 Moves
 ========
@@ -38,16 +38,16 @@ Diglett is able to trap and KO opposing Electric-types such as Chinchou, as well
 
 Physical
 ########
-Name: Physical Attacker
-Move 1: Wild Charge
-Move 2: Cross Chop
-Move 3: Fire Punch
-Move 4: Volt Switch
-Ability: Static / Vital Spirit
-Item: Life Orb
-EVs: 252 Atk / 236 Spe
-IVs: 0 HP
-Nature: Hasty
+name: Physical Attacker
+move 1: Wild Charge
+move 2: Cross Chop
+move 3: Fire Punch
+move 4: Volt Switch
+ability: Static / Vital Spirit
+item: Life Orb
+evs: 252 Atk / 236 Spe
+ivs: 0 HP
+nature: Hasty
 
 Moves
 ========

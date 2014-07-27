@@ -133,8 +133,9 @@ pokemon:
     stats:
     - [60, 90, 140, 50, 50, 40]
     tags:
-    - [NFE]
+    - [NU]
     - bw: [NU]
+      dp: [NFE]
       xy: [NFE]
     types:
     - [Rock, Steel]

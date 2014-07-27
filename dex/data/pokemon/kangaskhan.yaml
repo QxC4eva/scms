@@ -12,6 +12,7 @@ pokemon:
           height: 2.2
           stats: [105, 125, 100, 60, 100, 100]
           types: [Normal]
+          tags: [Uber]
           weight: 100
     egggroups:
     - [Monster]

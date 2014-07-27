@@ -11,6 +11,7 @@ pokemon:
           height: 1.2
           stats: [65, 150, 60, 115, 60, 115]
           types: [Dark]
+          tags: [UU]
           weight: 49
     egggroups:
     - [Ground]

@@ -135,6 +135,8 @@ pokemon:
     - gs: [55, 95, 115, 45, 45, 35]
     tags:
     - [NFE]
+    - rs: [NU]
+    - dp: [NFE]
     types:
     - [Ground, Rock]
     weight: [105]

@@ -16,7 +16,8 @@ pokemon:
     stats:
     - [50, 65, 45, 85, 65, 95]
     tags:
-    - [NFE]
+    - [NU]
+    - dp: [NFE]
     types:
     - [Grass]
     weight: [21.6]

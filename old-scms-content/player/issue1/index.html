@@ -5,23 +5,27 @@ The Player
 <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
 <script>
 $(document).ready(function(){
-        $(".articlePreview").hide();
-        $(".article").hover(function(){
-                $(this).children(".articlePreview").stop().slideDown();
-        }, function(){
-                $(this).children(".articlePreview").stop().slideUp();
-        });
-        var $leftcolumn = $('.leftcolumn');
-        var $issuebacking = $("#issuebacking");
-        var spacing = $leftcolumn.offset().top - $issuebacking.offset().top;
-        var top = $leftcolumn.offset().top;
-        $(window).scroll(function(){
-                if ($(window).scrollTop() > $issuebacking.offset().top){
-                        $leftcolumn.css({position:"fixed", top: spacing});
-                } else {
-                        $leftcolumn.css({position:"inherit", margin: "0px"});
-                }
-        });
+        if(navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPod/i) || navigator.userAgent.match(/Android/i) || navigator.userAgent.match(/BlackBerry/i) || navigator.userAgent.match(/webOS/i)){
+                return false
+        } else {
+                $(".articlePreview").hide();
+                $(".article").hover(function(){
+                        $(this).children(".articlePreview").stop().slideDown();
+                }, function(){
+                        $(this).children(".articlePreview").stop().slideUp();
+                });
+                var $leftcolumn = $('.leftcolumn');
+                var $issuebacking = $("#issuebacking");
+                var spacing = $leftcolumn.offset().top - $issuebacking.offset().top;
+                var top = $leftcolumn.offset().top;
+                $(window).scroll(function(){
+                        if ($(window).scrollTop() > $issuebacking.offset().top){
+                                $leftcolumn.css({position:"fixed", top: spacing});
+                        } else {
+                                $leftcolumn.css({position:"inherit", margin: "0px"});
+                        }
+                });
+        }
 });
 </script>
 <style type="text/css">
@@ -67,7 +71,7 @@ border: 1px solid #c0e0f7;
 -webkit-border-radius: 6px;
 -moz-border-radius: 6px;
 border-radius: 6px;
-min-height: 1000px;
+overflow: hidden;
 padding: 20px;
 }
  

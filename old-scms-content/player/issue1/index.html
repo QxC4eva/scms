@@ -27,7 +27,7 @@ $(document).ready(function(){
 h1{
 display: none;
 }
-
+ 
 .center{
 text-align: center;
 }
@@ -80,6 +80,10 @@ transition:background-color 400ms ease-in-out;
 -moz-transition:background-color 400ms ease-in-out;
 }
  
+.star > p{
+margin-bottom: 0;
+}
+ 
 .article{
 border-top: 1px solid #a1c8f5;
 border-bottom: 1px solid #a1c8f5;
@@ -91,6 +95,20 @@ border-radius: 3px;
 transition:background-color 400ms ease-in-out;
 -webkit-transition:background-color 400ms ease-in-out;
 -moz-transition:background-color 400ms ease-in-out;
+}
+ 
+.articlePreview{
+max-height: 0;
+margin-bottom: 0;
+overflow: hidden;
+-webkit-transition: max-height 800ms ease-in-out, margin 800ms ease-in-out;
+   -moz-transition: max-height 800ms ease-in-out, margin 800ms ease-in-out;
+        transition: max-height 800ms ease-in-out, margin 800ms ease-in-out;
+}
+ 
+.article:hover .articlePreview{
+max-height: 120px;
+margin-bottom: 1em;
 }
  
 .b{
@@ -163,7 +181,6 @@ position:inherit;
 .fixed{
 position:fixed;
 }
-</style>
 
 [page]
 <div class="center"><div id="mainlogo"><img src="/player/player_logo.png" alt="Logo" /></div></div>

@@ -2,260 +2,116 @@
 The Player
 
 [head]
-<script src="http://code.jquery.com/jquery-1.10.2.js"></script>
-<script>
-$(document).ready(function(){
-        if(navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPod/i) || navigator.userAgent.match(/Android/i) || navigator.userAgent.match(/BlackBerry/i) || navigator.userAgent.match(/webOS/i)){
-                return false
-        } else {
-                var $leftcolumn = $('.leftcolumn');
-                var $issuebacking = $("#issuebacking");
-                var spacing = $leftcolumn.offset().top - $issuebacking.offset().top;
-                var top = $leftcolumn.offset().top;
-                $(window).scroll(function(){
-                        if ($(window).scrollTop() > $issuebacking.offset().top){
-                                $leftcolumn.css({position:"fixed", top: spacing});
-                        } else {
-                                $leftcolumn.css({position:"inherit", margin: "0px"});
-                        }
-                });
-        }
-});
-</script>
-<style type="text/css">
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+<script id="scripts" src="/player/issue-home-scripts.js"></script>
+<link id="desktop" rel="stylesheet" type="text/css" href="/player/issue-home.css" />
 
-h1{
-display: none;
-}
- 
-.center{
-text-align: center;
-}
- 
-#mainlogo{
-padding-bottom:10px;
-}
- 
-.columnpic{
-display: block;
-width: 325px;
-}
- 
-.column{
-display: block;
-width: 625px;
-float: right;
-padding-left: 15px;
-padding-right: 15px;
-}
- 
-#coverimage{
--webkit-box-shadow: 1px 0px 30px 0px rgba(50, 50, 50, 0.68);
--moz-box-shadow:    1px 0px 30px 0px rgba(50, 50, 50, 0.68);
-box-shadow:         1px 0px 30px 0px rgba(50, 50, 50, 0.68);
-margin-bottom:20px;
-}
- 
-#issuebacking{
-margin: auto;
-width: 1000px;
-border: 1px solid #c0e0f7;
--webkit-border-radius: 6px;
--moz-border-radius: 6px;
-border-radius: 6px;
-overflow: hidden;
-padding: 20px;
-}
- 
-.star{
-border-top: 1px solid #a1c8f5;
-border-bottom: 1px solid #a1c8f5;
-padding: 0px 10px 20px;
-margin: 10px;
--webkit-border-radius: 3px;
--moz-border-radius: 3px;
-border-radius: 3px;
-transition:background-color 400ms ease-in-out;
--webkit-transition:background-color 400ms ease-in-out;
--moz-transition:background-color 400ms ease-in-out;
-}
- 
-.star > p{
-margin-bottom: 0;
-}
- 
-.article{
-border-top: 1px solid #a1c8f5;
-border-bottom: 1px solid #a1c8f5;
-padding: 0px 10px 0px 10px;
-margin: 10px;
--webkit-border-radius: 3px;
--moz-border-radius: 3px;
-border-radius: 3px;
-transition:background-color 400ms ease-in-out;
--webkit-transition:background-color 400ms ease-in-out;
--moz-transition:background-color 400ms ease-in-out;
-}
- 
-.articlePreview{
-max-height: 0;
-margin-bottom: 0;
-overflow: hidden;
--webkit-transition: max-height 800ms ease-in-out, margin 800ms ease-in-out;
-   -moz-transition: max-height 800ms ease-in-out, margin 800ms ease-in-out;
-        transition: max-height 800ms ease-in-out, margin 800ms ease-in-out;
-}
- 
-.article:hover .articlePreview{
-max-height: 120px;
-margin-bottom: 1em;
-}
- 
-.b{
-background-color: #edf0f7;
-}
- 
-.a:hover {
-background-color: #edf0f7 !important;
-}
- 
-.b:hover {
-background-color: #d5e0fc !important;
-}
- 
-.star:hover {
-background-color: #edf0f7 !important;
-}
- 
-.star a{
-color:#5283ba;
-text-decoration: none;
-}
- 
-.star p, .article p{
-    color: #5283ba;
-}
- 
-.a a{
-    color: #5283ba;
-    text-decoration: none;
-}
- 
-.b a{
-    color: #5283ba;
-    text-decoration: none;
-}
- 
-#bottom a{
-margin-top: 20px;
-color: #5283ba;
-text-decoration: none;
-text-transform: uppercase;
-font-size: 13px;
-}
- 
-#bottom p{
-    color: #3F70A7;
-    text-align: center;
-    text-transform: uppercase;
-    font-size: 13px;
-}
- 
-#credit p{
-font-size: 11px !important;
-}
- 
-#credit a{
-font-size: 11px !important;
-}
- 
-#credit a:hover, #bottom a:hover{
-background-color:#edf0f7;
-}
- 
-.leftcolumn{
-float:left;
-position:inherit;
-}
- 
-.fixed{
-position:fixed;
-}
-
+<style id="coloring" type="text/css">
+    #issuebacking{
+        border: 1px solid #c0e0f7;
+    }
+   
+    #bottom p{
+        color: #3F70A7;
+    }
+   
+    .star, .article{
+        border-top: 1px solid #a1c8f5;
+        border-bottom: 1px solid #a1c8f5;
+    }
+   
+    .star a, .star p, .article p, #bottom a, .a a, .b a, #toggle{
+        color:#5283ba;
+    }
+   
+    .b, #credit a:hover, #bottom a:hover, .star:hover, .a:hover  {
+        background-color: #edf0f7;
+    }
+   
+    #bottom p{
+        color: #3F70A7;
+    }
+   
+    .b:hover {
+        background-color: #d5e0fc;
+    }
 </style>
 
 [page]
+<h4 class="warning"><noscript>JavaScript is not enabled. You will not be able to receive the best experience possible.</noscript></h4>
 <div class="center"><div id="mainlogo"><img src="/player/player_logo.png" alt="Logo" /></div></div>
- 
-<div class="center"><h3 style="color:#3F70A7">Issue 1</h3></div>
- 
-<div class="center"><p style="color:#3F70A7">28th July, 2014</p></div>
- 
+
+<div class="center"><h3 style="color:#3F70A7; margin-bottom:0px;">Issue 1</h3></div>
+
+<div class="center"><p style="color:#3F70A7; margin-top:5px;">28th July, 2014</p></div>
+
 <div id="issuebacking">
-<div class="leftcolumn">
-<div class="columnpic">
-<img src="/player/issue1/cover.png" id="coverimage" height="400px" width="325px" alt="" />
-</div>
-<div id="bottom">
-<p><a href="contributors">Contributors</a> | <a href="/player/">Home</a> | <a href="/forums/forums/the-player.307/">Forums</a></p>
-<div id="credit"><p>Cover art by <a href="/forums/members/blue-frog.163333/">Blue Frog</a></p></div>
-</div>
-</div>
+    <div class="leftcolumn">
+        <div class="columnpic">
+            <img src="/player/issue1/cover.png" id="coverimage" alt="" />
+        </div>
+        <div id="bottom">
+            <p><a href="contributors">Contributors</a> | <a href="/player/">Home</a> | <a href="/forums/forums/the-player.307/">Forums</a></p>
+            <div id="credit"><p>Cover art by <a href="/forums/members/blue-frog.163333/">Blue Frog</a></p></div>
+        </div>
+    </div>
+
+    <div class="column">
    
-<div class="column">
-<div class="article a">
-<a href="editor-note"><h4>Editors' Notes</h4></a>
-<p class="articlePreview">Welcome to the very first issue of The Player! In the past few months, we've come a long way from the webzine's inception to now. This issue features 10 articles (including this piece) as well as some fantastic cover art by <a href="/forums/members/blue-frog.163333/">Blue Frog</a>, who also created the webzine's logo.</p>
-</div>
+        <div class="article a">
+            <a href="editor-note"><h4>Editors' Notes</h4></a>
+            <p class="articlePreview">Welcome to the very first issue of The Player! In the past few months, we've come a long way from the webzine's inception to now. This issue features 10 articles (including this piece) as well as some fantastic cover art by <a href="/forums/members/blue-frog.163333/">Blue Frog</a>, who also created the webzine's logo...</p>
+        </div>
 
-<div class="star">
-<a href="interview-with-scene"><h3>Interview with Scene</h3></a>
-<p>It was just after midnight when we arrived in Dublin. The PS! admins were too cheap to afford a coach; I was in the luggage rack, supplied with a bottle of brandy and a Snuggie...</p>
-</div>
+        <div class="star">
+            <a href="interview-with-scene"><h3>Interview with Scene</h3></a>
+            <p>It was just after midnight when we arrived in Dublin. The PS! admins were too cheap to afford a coach; I was in the luggage rack, supplied with a bottle of brandy and a Snuggie...</p>
+        </div>
 
-<div class="star" style="margin-top:10px;">
-<a href="analysis-odd-usernames"><h3>An Analysis on Odd Usernames</h3></a>
-<p>Hello! My name is Electrolyte.<br /><br />
-... but what's in a username? As any keen observer can infer, my name in real life is nowhere near "Electrolyte". Before you get sad because I'm not actually what plants crave, listen to this, as there is a silver lining...</p>
-</div>
+        <div class="star" style="margin-top:10px;">
+            <a href="analysis-odd-usernames"><h3>An Analysis on Odd Usernames</h3></a>
+            <p>Hello! My name is Electrolyte.<br /><br />
+            ... but what's in a username? As any keen observer can infer, my name in real life is nowhere near "Electrolyte". Before you get sad because I'm not actually what plants crave, listen to this, as there is a silver lining...</p>
+        </div>
 
-<div class="article b">
-<a href="the-gossiper"><h4>The Gossiper</h4></a>
-<p class="articlePreview">Sources confirmed on Thursday that Pok&eacute;mon Showdown! Leader jdarden vehemently opposed the creation of the new "Health & Fitness" public room during discussion with other staff members...</p>
-</div>
+        <div class="article b">
+            <a href="the-gossiper"><h4>The Gossiper</h4></a>
+            <p class="articlePreview">Sources confirmed on Thursday that Pok&eacute;mon Showdown! Leader jdarden vehemently opposed the creation of the new "Health & Fitness" public room during discussion with other staff members...</p>
+        </div>
 
-<div class="article a">
-<a href="casual-guide-to-tournaments"><h4>A Casual Guide to Tournaments</h4></a>
-<p class="articlePreview">If you're reading this, you're one of two people: an interested Smogonite reading the articles that The Player has to offer, or a new user looking to educate themselves on the Tournaments room inside and out...</p>
-</div>
-   
-<div class="article b">
-<a href="guide-to-mafia"><h4>A Guide to: PS! Mafia</h4></a>
-<p class="articlePreview">The Mafia room on PS! hosts a fun yet strategic game. Some of you may be familiar with the concept of Mafia from other websites, as it's a widely popular game around the web...</p>
-</div>
-   
-<div class="article a">
-<a href="guide-to-roleplaying"><h4>A Guide to: Roleplaying on PS!</h4></a>
-<p class="articlePreview">Whether you come on PS! solely for battling, or you enjoy frequenting rooms, you have probably heard about the Roleplaying room. The Roleplaying room is a highly enjoyable room that people of any age can come in to join in on the fun...</p>
-</div>
-   
-<div class="article b">
-<a href="making-a-successful-room"><h4>What Makes a Successful Room on PS?</h4></a>
-<p class="articlePreview"><strong>Part I: Room Creation</strong><br /><br />
-<strong><a href="/forums/threads/how-to-suggest-a-room-and-previously-suggested-rooms.3491714/">Please read this!</a> It's super important</strong> (mostly because reiterating it in this article would be redundant)<strong>!</strong><br /><br />
-So, the link that I just provided you with is the foundation of what you would need to start up a new room...
-</p>
-</div>
-   
-<div class="article a">
-<a href="the-happy-place"><h4>So What Really Makes The Happy Place, Well, "Happy"?</h4></a>
-<p class="articlePreview">Hello everyone! Shaymin here, and am I glad to see you (well, I'm not literally seeing you, but you know what I mean)! This article is going to inform of you all of the Pok&eacute;mon Showdown! room known as The Happy Place...</p>
-</div>
+        <div class="article a">
+            <a href="casual-guide-to-tournaments"><h4>A Casual Guide to Tournaments</h4></a>
+            <p class="articlePreview">If you're reading this, you're one of two people: an interested Smogonite reading the articles that The Player has to offer, or a new user looking to educate themselves on the Tournaments room inside and out...</p>
+        </div>
 
-<div class="article b">
-<a href="recently-on-ps"><h4>Recently on PS!</h4></a>
-<p class="articlePreview">Catch up on all the latest news, events and promotions from the Pok&eacute;mon Showdown! server!</p>
-</div>
+        <div class="article b">
+            <a href="guide-to-mafia"><h4>A Guide to: PS! Mafia</h4></a>
+            <p class="articlePreview">The Mafia room on PS! hosts a fun yet strategic game. Some of you may be familiar with the concept of Mafia from other websites, as it's a widely popular game around the web...</p>
+        </div>
 
-</div>
+        <div class="article a">
+            <a href="guide-to-roleplaying"><h4>A Guide to: Roleplaying on PS!</h4></a>
+            <p class="articlePreview">Whether you come on PS! solely for battling, or you enjoy frequenting rooms, you have probably heard about the Roleplaying room. The Roleplaying room is a highly enjoyable room that people of any age can come in to join in on the fun...</p>
+        </div>
+
+        <div class="article b">
+            <a href="making-a-successful-room"><h4>What Makes a Successful Room on PS?</h4></a>
+            <p class="articlePreview"><strong>Part I: Room Creation</strong><br /><br />
+            <strong><a href="/forums/threads/how-to-suggest-a-room-and-previously-suggested-rooms.3491714/">Please read this!</a> It's super important</strong> (mostly because reiterating it in this article would be redundant)<strong>!</strong><br /><br />
+            So, the link that I just provided you with is the foundation of what you would need to start up a new room...
+            </p>
+        </div>
+
+        <div class="article a">
+            <a href="the-happy-place"><h4>So What Really Makes The Happy Place, Well, "Happy"?</h4></a>
+            <p class="articlePreview">Hello everyone! Shaymin here, and am I glad to see you (well, I'm not literally seeing you, but you know what I mean)! This article is going to inform of you all of the Pok&eacute;mon Showdown! room known as The Happy Place...</p>
+        </div>
+
+        <div class="article b">
+            <a href="recently-on-ps"><h4>Recently on PS!</h4></a>
+            <p class="articlePreview">Get caught up on all the latest news and promotions from the Pok&eacute;mon Showdown! server!</p>
+        </div>
+       
+        <p id="toggle"></p>
+    </div>
 </div>

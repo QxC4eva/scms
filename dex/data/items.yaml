@@ -194,7 +194,7 @@ items:
     description: [Raises the power of a Electric-type move by 50%. One-time use.]
     introduction: bw
   Enigma Berry:
-    description: ["Pok\xE9block ingredient."]
+    description: ["Pokéblock ingredient. Restores 1/4 of the max HP when hit by a super effective move. One-time use."]
     introduction: rs
   Eviolite:
     description: [Boosts Defense and Special Defense of holder by 50% if it is an
@@ -285,7 +285,7 @@ items:
     introduction: rs
   Heat Rock:
     description: 
-    - <a href="/dex/bw/moves/sunny_day">Sunny Day</a> lasts 8 turns.
+    - Sunny Day lasts 8 turns.
     - {xy: Sunny Day and Drought lasts 8 turns.}
     introduction: dp
   Heracronite:
@@ -629,6 +629,7 @@ items:
     introduction: gs
   Sitrus Berry:
     description: [Restores 30 HP when at 50% HP or less. One-time use.]
+    - {dp: Restores 1/4 of the max HP when at 1/2 HP or less. One-time use.]
     introduction: rs
   Sky Plate:
     description: [Raises power of Flying-type moves 20%. Pokemon with Multitype become Flying-type.]

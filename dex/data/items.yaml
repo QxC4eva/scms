@@ -628,8 +628,9 @@ items:
     description: [Raises power of Bug-type moves 10%.]
     introduction: gs
   Sitrus Berry:
-    description: [Restores 30 HP when at 50% HP or less. One-time use.]
-    - {dp: Restores 1/4 of the max HP when at 1/2 HP or less. One-time use.]
+    description: 
+    - Restores 30 HP when at 50% HP or less. One-time use.
+    - {dp: Restores 1/4 of the max HP when at 1/2 HP or less. One-time use.}
     introduction: rs
   Sky Plate:
     description: [Raises power of Flying-type moves 20%. Pokemon with Multitype become Flying-type.]

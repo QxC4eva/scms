@@ -14,7 +14,8 @@ pokemon:
     stats:
     - [60, 55, 90, 145, 90, 80]
     tags:
-    - [UU]
+    - [BL]
+    - xy: [UU]
     types:
     - [Fire, Ghost]
     weight: [34.3]

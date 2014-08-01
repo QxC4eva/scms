@@ -1,72 +1,52 @@
 Overview
 ########
-- Good mixed bulk
-- A must have for Sand-based strategy
-- Is able to counter Vulpix, and Sun by extension
-- Decent support movepool
 
-Auto-Sun Counter
+Even with the nerf to weather this generation, Hippopotas is a viable Pokemon, working well as a physical wall and a sand setter. Its superb physical bulk makes it a great answer to several physical threats such as Mienfoo, Fletchling, Timburr, Archen, Drilbur, Pawniard, and Zigzagoon. Moreover, it has access to a reliable recovery move in Slack Off, making it very resilient; it also has access to moves such as Stealth Rock and Whirlwind, with the latter preventing it from being a setup fodder for Misdreavus, unlike other walls like Spritzee. However, Hippopotas has its flaws; one of them is its special bulk. While it isn't bad, it is still underwhelming, meaning special attackers such as Chinchou, Abra, Omanyte, Staryu, Foongus, and Cottonee can easily destroy Hippopotas. Overall, despite its flaws, Hippopotas is a great physical wall and a staple for sand teams.
+
+Physical Wall
 ########
-name: Auto-Sun Counter
+name: Physical Wall
 move 1: Earthquake
 move 2: Slack Off
 move 3: Stealth Rock
-move 4: Whirlwind
+move 4: Whirlwind / Rock Tomb
 ability: Sand Stream
 item: Eviolite
-evs: 132 HP / 20 Atk / 132 Def / 180 SpD / 20 Spe
-nature: Careful
+evs: 212 HP / 20 Atk / 212 Def / 20 SpD / 20 Spe
+nature: Impish
 
 Moves
 ========
 
-- Earthquake is the obligatory STAB attack and it hits things for decent damage
-- Slack Off provides reliable healing and assists greatly in walling enemies
-- Stealth Rock is there to put pressure on the opposing team, especially with switching
-- Whirlwind puts a stop to setup as well as can help to shuffle teams and force multiple opposing foes to take damage from Sand and Stealth Rock
+Earthquake is a obligatory STAB move that hits hard thanks to Hippopotas's solid base 72 Attack. Slack Off gives Hippopotas reliable recovery and assists greatly in walling opponents. Stealth Rock supports the team and puts pressure on the opposing team's switch-ins by providing important residual damage. Whirlwind is a great move as it helps Hippopotas in dealing with setup sweepers, also shuffling teams and racking up residual damage. Rock Tomb can be used instead of Whirlwind to deal with Flying-types such as Fletchling, while also lowering the opponent's Speed by one stage, which can be very helpful support for teammates.
 
 Set Details
 ========
 
-- Eviolite is the optimal item for providing more bulk, since Slack Off is already a continuous and reliable source of recovery and greatly outclasses the one-time use of Berry Juice
-- Careful nature and the given EV spread allows Hippopotas to comfortably switch in on Vulpix, changing the weather in the process, and avoiding a 2HKO from Vulpix's Fire Blast or Energy Ball
-- Enough physical bulk is there to still reliably tank neutral physical hits just as it always has been able to since BW
+Eviolite is the preferred item because of the additional bulk it provides, as Slack Off is already a continuous and reliable source of recovery that greatly outclasses the one-time use of Berry Juice. An Impish nature and the given EV spread allow Hippopotas to comfortably switch in on physical attackers. The remaining EVs are used to increase Hippopotas's Attack, Special Defense, and Speed by one point each.
 
 Usage Tips
 ========
 
-- Hippopotas can comfortably switch in on standard Vulpix and threaten it with a OHKO from STAB Earthquake; if Vulpix uses Will-O-Wisp to burn Hippopotas, EQ is still a 2HKO
-- If Vulpix opts to flee to avoid death, Hippopotas can heal off the damage it might have took on the switch-in by using Slack Off, and also has Stealth Rock, to limit Vulpix's longevity and Whirlwind to force a switch into something else
-- Whirlwind can also be very useful for screwing up Pokemon who attempt to set up by boosting stats, putting up Substitutes, and/or using Baton Pass to pass these
-- Sand Stream removes other weathers allows Rock-type teammates such as Lileep and Archen a 50% Special Defense increase and this can be very useful in battle, though the weather effect only lasts 5 turns this generation, it's not super bad though; in addition, if Hippopotas leads and comes out at the same time as Snover or Vulpix, Sand will be the dominant weather since Hippo is slower than both of them
+Hippopotas works great as physical wall due to its solid 68 / 78 / 48 bulk. Furthermore, it isn't setup bait unlike other walls; thanks to Whirlwind, opponents that attempt to gain multiple boosts, set up Substitute, and/or use Baton Pass to pass these won't get past Hippopotas. Something that is important to know is that if Hippopotas leads and comes out at the same time as Snover or Vulpix, sandstorm will be the dominant weather as Hippopotas is slower than both of them. Hippopotas also works well on stall and semi-stall teams due to its great bulk and the ability to remove sun, while also doing residual damage to opponents thanks to Sand Stream.
 
 Team Options
 ========
 
-- Drilbur and Sandshrew can benefit greatly from Sand Stream with their Sand Rush ability effectively doubling their Speed and making them a lot more formidable
-- Vullaby is an invaluable partner for Hippopotas, as it can help deal with the Chlorophyll sweepers that often accompany Vulpix; it resists Grass and its Overcoat ability blocks Sandstorm damage as well as Sleep Powder
-- Lileep gets the 50% Special Defense boost provided by Sand Stream and can also recover health from the Water moves aimed at Hippopotas's weakness to them
-- Munchlax patches up the Ice weakness compounded by the group of Pokemon described here in this segment, and can make use of Berry Juice and Recycle to stall or boost with Curse; Hippopotas can tank the Fighting-type attacks aimed at Munchlax as well
+Lileep is a great teammate as it gets a 50% Special Defense boost under sandstorm and is immune to Water-type moves aimed at Hippopotas thanks to Storm Drain. Vullaby is another great partner for Hippopotas, as it can deal with the Chlorophyll sweepers that often accompany Vulpix: it resists Grass, and its Overcoat ability blocks sand damage as well as Sleep Powder. Munchlax deals with the Ice-type weakness many of Hippopotas's favorite teammates have, and Hippopotas can easily tank the Fighting-type moves aimed at Munchlax. Nosepass also gets the Special Defense boost under sand, making it a great mixed wall. Tentacool is another great teammate that deals with Ice-type attacks, while also having great special bulk and the ability Liquid Ooze, which means it damages opponents trying to hit Hippopotas with Giga Drain. As for offensive teammates, Sand Rush users such as Drilbur and Sandshrew that can sweep with their boosted Speed under the sand are good choices, as is Archen, which gets a buff to its Special Defense thanks to its Rock typing.
 
 Other Options
 ########
 
-- Stone Edge hits Flying-types hard
-- Toxic stalling can work with STAB Earthquake (hits the two Poison-immune types, Steel and Poison, for super effective damage) and Slack Off
-- Elemental fangs offer good coverage but are sort of weak and aren't very ideal
-- Crunch hits Ghost-types hard (many have Levitate and can avoid EQ)
-- Superpower offers great coverage but is hard to fit onto a set
-- Curse can be used with Slack Off to set up
+Toxic can be used, and it works well in combination with Earthquake, which hits Steel- and Poison-types that are immune to Toxic for super effective damage. The elemental fangs can be used and offer good coverage, but Earthquake is, most of the time, the better option for a attacking move. Crunch hits Ghost-types hard, which often have Levitate. Superpower offers good coverage, but is hard to fit onto a set. Curse can be used, but it doesn't help Hippopotas's special bulk, and the boosts also accumulate too slowly. A sun counter set to deal with Vulpix can be used, with a 132 HP / 20 Atk / 132 Def / 180 SpD / 20 Spe EV spread and a Careful nature. Smooth Rock can be used to extend the length of sand to eight turns, which is great for teams dedicated to sweeping with either Drilbur or Sandshrew.
 
 Checks & Counters
 ########
 
-**Snover**: Hippo is weak to both of its STABs and it also replaces Sand with Hail, this is a very solid counter
+**Grass-types**: Grass-types such as Cottonee, Foongus, and Chespin wall Hippopotas and also deal heavy damage with their Grass-type STAB moves. Cottonee can also Encore Hippopotas into using a move such as Stealth Rock, giving a teammate a free switch-in.
 
-**Natu**: Is immune to Earthquake and deflects both Stealth Rock and Whirlwind with Magic Bounce
+**Water-types**: Water-types are also a huge problem for Hippopotas, namely Omanyte, Staryu, and Corphish. All of them outspeed Hippopotas and OHKO it with their Water-type STAB moves. Staryu can also remove Hippopotas's Stealth Rock with Rapid Spin.
 
-**Ground-immune Pokemon**: Flying-types and Levitate carriers can both sit their asses down in front of Hippopotas and not fear having to take direct damage
+**Ground-immune Pokemon**: Hippopotas struggles against Ground-immune Pokemon such as Misdreavus, which can Will-O-Wisp it, and Flying-types such as Fletchling and Vullaby if it lacks Rock Tomb.
 
-**Burn status**: Being burned is an annoyance to Hippopotas, and this is particularly problematic when the status is being threatened by a Scald user, as Hippopotas is also weak to Water
-
-**Grass-types**: Grass-types usually resist, or are at worst neutral to, Earthquake and can easily KO Hippopotas with their STAB attacks.
+**Snover**: Snover is the perfect Hippopotas counter as it changes the weather to hail and outspeeds and OHKOes Hippopotas with either of its STAB moves.

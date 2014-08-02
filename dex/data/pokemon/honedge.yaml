@@ -9,7 +9,7 @@ pokemon:
           height: 1.7
           stats: [60, 150, 50, 150, 50, 60]
           types: [Steel, Ghost]
-          tags: [OU]
+          tags: []
           weight: 52
     egggroups:
     - [Mineral]
@@ -22,7 +22,7 @@ pokemon:
     stats:
     - [60, 50, 150, 50, 150, 60]
     tags:
-    - [OU]
+    - [Uber]
     types:
     - [Steel, Ghost]
     weight: [52]

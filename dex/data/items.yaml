@@ -10,7 +10,7 @@ items:
         use.]
     introduction: bw
   Adamant Orb:
-    description: [Hold item which raises power of Dialga's STAB moves 20%.]
+    description: [Hold item which raises power of Dialga's STAB moves by 20%.]
     introduction: dp
   Aerodactylite:
     description: [Mega-evolves Aerodactyl.]
@@ -19,7 +19,7 @@ items:
     description: [Mega-evolves Aggron.]
     introduction: xy
   Aguav Berry:
-    description: [Restores 1/8 max HP when at 50% HP or less. One-time use.]
+    description: [Restores 1/8 of max HP when at 50% HP or less. One-time use.]
     introduction: rs
   Air Balloon:
     description: [Makes the holder immune to Ground-type attacks. Disappears when
@@ -32,7 +32,7 @@ items:
     description: [Mega-evolves Ampharos.]
     introduction: xy
   Apicot Berry:
-    description: [Raises SpD one stage when at 25% HP or less. One-time use.]
+    description: [Raises Special Defense by one stage when at 25% HP or less. One-time use.]
     introduction: rs
   Aspear Berry:
     description: [Cures freeze. One-time use.]
@@ -66,13 +66,13 @@ items:
     description: [Cures confusion. One-time use.]
     introduction: gs
   Black Belt:
-    description: [Raises power of Fighting-type moves 10%.]
+    description: [Raises power of Fighting-type moves by 10%.]
     introduction: gs
   Black Sludge:
-    description: [Recovers 1/16 HP each turn for Poison-types.]
+    description: [Recovers 1/16 of max HP each turn for Poison-types. Damages all other types by 1/8 of max HP each turn.]
     introduction: dp
   BlackGlasses:
-    description: [Raises power of Dark-type moves 10%.]
+    description: [Raises power of Dark-type moves by 10%.]
     introduction: gs
   Blastoisinite:
     description: [Mega-evolves Blastoise.]
@@ -81,7 +81,7 @@ items:
     description: [Mega-evolves Blaziken.]
     introduction: xy
   BrightPowder:
-    description: [Raises evasion 10%.]
+    description: [Raises evasion by 10%.]
     introduction: gs
   Bug Gem:
     description: [Raises the power of a Bug-type move by 50%. One-time use.]
@@ -94,7 +94,7 @@ items:
         use.]
     introduction: bw
   Charcoal:
-    description: [Raises power of Fire-type moves 10%.]
+    description: [Raises power of Fire-type moves by 10%.]
     introduction: gs
   Charizardite X:
     description: [Mega-evolves Charizard into Mega Charizard X.]
@@ -119,13 +119,13 @@ items:
     description: [Changes the type of Techno Blast to Ice.]
     introduction: bw
   Choice Band:
-    description: ['Raises Attack 50%, but locks the user into one move.']
+    description: ['Raises Attack by 50%, but locks the user into one move.']
     introduction: rs
   Choice Scarf:
-    description: ['Hold item which raises Speed 50%, but locks holder into one move.']
+    description: ['Hold item which raises Speed by 50%, but locks holder into one move.']
     introduction: dp
   Choice Specs:
-    description: ['Hold item which raises Special Attack 50%, but locks holder into
+    description: ['Hold item which raises Special Attack by 50%, but locks holder into
         one move.']
     introduction: dp
   Chople Berry:
@@ -158,10 +158,10 @@ items:
     description: [A hold item that boosts Dark-type moves by 10%.]
     introduction: gs
   DeepSeaScale:
-    description: [Doubles Clamperl's SpD.]
+    description: [Doubles Clamperl's Special Defense.]
     introduction: rs
   DeepSeaTooth:
-    description: [Doubles Clamperl's SpA.]
+    description: [Doubles Clamperl's Special Attack.]
     introduction: rs
   Destiny Knot:
     description: ['If the holder becomes infatuated, so does the enemy.']
@@ -170,21 +170,21 @@ items:
     description: [Changes the type of Techno Blast to Water.]
     introduction: bw
   Draco Plate:
-    description: [Raises power of Dragon-type moves 20%. Pokemon with Multitype become
+    description: [Raises power of Dragon-type moves by 20%. Pokemon with Multitype become
         Dragon-type.]
     introduction: dp
   Dragon Fang:
-    description: [Raises power of Dragon-type moves 10%.]
+    description: [Raises power of Dragon-type moves by 10%.]
     introduction: gs
   Dragon Gem:
     description: [Raises the power of a Dragon-type move by 50%. One-time use.]
     introduction: bw
   Dread Plate:
-    description: [Raises power of the holder's Dark-type moves 20%. Pokemon with Multitype
+    description: [Raises power of the holder's Dark-type moves by 20%. Pokemon with Multitype
         become Dark-type.]
     introduction: dp
   Earth Plate:
-    description: [Raises power of Ground-type moves 20%. Pokemon with Multitype become
+    description: [Raises power of Ground-type moves by 20%. Pokemon with Multitype become
         Ground-type.]
     introduction: dp
   Eject Button:
@@ -230,7 +230,7 @@ items:
     description: [Raises the power of a Flying-type move by 50%. One-time use.]
     introduction: bw
   Focus Band:
-    description: [Gives a. 11.7% chance of surviving a hit with at least 1 HP.]
+    description: [Gives an 11.7% chance of surviving a hit with at least 1 HP.]
     introduction: gs
   Focus Sash:
     description: [The holder always survives one attack. One-time use.]
@@ -239,7 +239,7 @@ items:
     description: [Makes the holder move last.]
     introduction: dp
   Ganlon Berry:
-    description: [Raises Def one stage when at 25% HP or less. One-time use.]
+    description: [Raises Defense by one stage when at 25% HP or less. One-time use.]
     introduction: rs
   Garchompite:
     description: [Mega-evolves Garchomp.]
@@ -278,10 +278,10 @@ items:
         Consumed after use.]
     introduction: dp
   Hard Rock:
-    description: [Raises power of Rock-type moves 12.5%.]
+    description: [Raises power of Rock-type moves by 12.5%.]
     introduction: gs
   Hard Stone:
-    description: [Raises power of Rock-type moves 10%.]
+    description: [Raises power of Rock-type moves by 10%.]
     introduction: rs
   Heat Rock:
     description: 
@@ -295,7 +295,7 @@ items:
     description: [Mega-evolves Houndoom.]
     introduction: xy
   Iapapa Berry:
-    description: [Restores 1/8 max HP when at 50% HP or less. One-time use.]
+    description: [Restores 1/8 of max HP when at 50% HP or less. One-time use.]
     introduction: rs
   Ice Berry:
     description: [Cures burn. One-time use.]
@@ -312,13 +312,13 @@ items:
     - {xy: Hail and Snow Warning lasts 8 turns.}
     introduction: dp
   Insect Plate:
-    description: [Raises power of Bug-type moves 20%. Pokemon with Multitype become Bug-type.]
+    description: [Raises power of Bug-type moves by 20%. Pokemon with Multitype become Bug-type.]
     introduction: dp
   Iron Ball:
-    description: [Reduces Speed 50%.]
+    description: [Reduces Speed by 50%.]
     introduction: dp
   Iron Plate:
-    description: [Raises power of Steel-type moves 20%. Pokemon with Multitype become Steel-type.]
+    description: [Raises power of Steel-type moves by 20%. Pokemon with Multitype become Steel-type.]
     introduction: dp
   Jaboca Berry:
     description: ['If hit by a physical attack, the attacker takes 12.5% damage. One-time use.']
@@ -333,7 +333,7 @@ items:
     description: [Reduces damage from a super effective Poison-type attack by 50%. Consumed after use.]
     introduction: dp
   Kee Berry:
-    description: [Raises Defense by 1 if hit by a Physical attack. Single use.]
+    description: [Raises Defense by 1 stage if hit by a Physical attack. Single use.]
     introduction: xy
   Kelpsy Berry:
     description: ["Pok\xE9block ingredient. Plant in loamy soil to grow a Kelpsy plant."]
@@ -347,26 +347,26 @@ items:
     description: [Makes the holder move last.]
     introduction: dp
   Lansat Berry:
-    description: [Raises critical hit rate two stages when at 25% HP or less. One-time
+    description: [Raises critical hit rate by two stages when at 25% HP or less. One-time
         use.]
     introduction: rs
   Lax Incense:
-    description: [Raises evasion 5%.]
+    description: [Raises evasion by 5%.]
     introduction: rs
   Leftovers:
-    description: [Heals 1/16 HP each turn.]
+    description: [Heals 1/16 of max HP each turn.]
     introduction: gs
   Leppa Berry:
     description: [Restores 10 PP to a move that has run out of PP. One-time use.]
     introduction: rs
   Liechi Berry:
-    description: [Raises Atk one stage when at 25% HP or less. One-time use.]
+    description: [Raises Attack by one stage when at 25% HP or less. One-time use.]
     introduction: rs
   Life Orb:
     description: ['Boosts power by 30%, user takes 10% recoil each turn it attacks.']
     introduction: dp
   Light Ball:
-    description: [Doubles Pikachu's SpA.]
+    description: [Doubles Pikachu's Special Attack.]
     introduction: gs
   Light Clay:
     description: [Reflect and Light Screen last 8 turns.]
@@ -375,20 +375,20 @@ items:
     description: [Mega-evolves Lucario.]
     introduction: xy
   Lucky Punch:
-    description: [Raises Chansey's critical hit ratio two stages.]
+    description: [Raises Chansey's critical hit ratio by two stages.]
     introduction: gs
   Lum Berry:
     description: [Cures status. One-time use.]
     introduction: rs
   Luminous Moss:
-    description: [Raises Special Defense by 1 if hit by a Water-type attack. Single
+    description: [Raises Special Defense by 1 stage if hit by a Water-type attack. Single
         use.]
     introduction: xy
   Lustrous Orb:
-    description: [Raises power of Palkia's STAB moves 20%.]
+    description: [Raises power of Palkia's STAB moves by 20%.]
     introduction: dp
   Macho Brace:
-    description: [Reduces Speed 50%. Doubles EVs gained.]
+    description: [Reduces Speed by 50%. Doubles EVs gained.]
     introduction: rs
   Magmarizer:
     description: [Evolves Magmar into Magmortar.]
@@ -406,7 +406,7 @@ items:
     description: [Mega-evolves Manectric.]
     introduction: xy
   Maranga Berry:
-    description: [Raises Special Defense by 1 if hit by a Special attack. Single use.]
+    description: [Raises Special Defense by 1 stage if hit by a Special attack. Single use.]
     introduction: xy
   Mawilite:
     description: [Mega-evolves Mawile.]
@@ -422,10 +422,10 @@ items:
     description: [Cures infatuation. One-time use.]
     introduction: rs
   Metal Coat:
-    description: [Raises power of Steel-type moves 10%.]
+    description: [Raises power of Steel-type moves by 10%.]
     introduction: gs
   Metal Powder:
-    description: [Raises Ditto's Def and SpD by 50%.]
+    description: [Raises Ditto's Defense and Special Defense by 50%.]
     introduction: gs
   Metronome:
     description: [Boost the power of attacks used consecutively.]
@@ -440,7 +440,7 @@ items:
     description: [The next move used will always hit.]
     introduction: dp
   Mind Plate:
-    description: [Raises power of Psychic-type moves 20%. Pokemon with Multitype become
+    description: [Raises power of Psychic-type moves by 20%. Pokemon with Multitype become
         Psychic-type.]
     introduction: dp
   Mint Berry:
@@ -450,19 +450,19 @@ items:
     description: [Cures status. One-time use.]
     introduction: gs
   Miracle Seed:
-    description: [Raises power of Grass-type moves 10%.]
+    description: [Raises power of Grass-type moves by 10%.]
     introduction: gs
   Muscle Band:
-    description: [Raises power of physical moves 10%.]
+    description: [Raises power of physical moves by 10%.]
     introduction: dp
   Mystery Berry:
     description: [Restores 5 PP to a move that has run out of PP. One-time use.]
     introduction: gs
   Mystic Water:
-    description: [Raises power of Water-type moves 10%.]
+    description: [Raises power of Water-type moves by 10%.]
     introduction: gs
   NeverMeltIce:
-    description: [Raises power of Ice-type moves 10%.]
+    description: [Raises power of Ice-type moves by 10%.]
     introduction: gs
   Normal Gem:
     description: [Raises the power of a Normal-type move by 50%. One-time use.]
@@ -472,7 +472,7 @@ items:
         after use.]
     introduction: dp
   Odd Incense:
-    description: [Raises power of Psychic-type moves 20%.]
+    description: [Raises power of Psychic-type moves by 20%.]
     introduction: dp
   Oran Berry:
     description: [Restores 10 HP when at 50% HP or less. One-time use.]
@@ -498,10 +498,10 @@ items:
     description: [Cures confusion. One-time use.]
     introduction: rs
   Petaya Berry:
-    description: [Raises SpA one stage when at 25% HP or less. One-time use.]
+    description: [Raises Special Attack by one stage when at 25% HP or less. One-time use.]
     introduction: rs
   Pink Bow:
-    description: [Raises power of Normal moves 10%.]
+    description: [Raises power of Normal moves by 10%.]
     introduction: gs
   Pinsirite:
     description: [Mega-evolves Pinsir.]
@@ -510,39 +510,39 @@ items:
     description: [Holder's Fairy-type attacks have 1.2x power. Judgment is Fairy-type.]
     introduction: xy
   Poison Barb:
-    description: [Raises power of Poison-type moves 10%.]
+    description: [Raises power of Poison-type moves by 10%.]
     introduction: gs
   Poison Gem:
     description: [Raises the power of a Poison-type move by 50%. One-time use.]
     introduction: bw
   Polka Dot Bow:
-    description: [Raises power of Normal moves 12.5%.]
+    description: [Raises power of Normal moves by 12.5%.]
     introduction: gs
   Power Anklet:
-    description: [Reduces Speed 50%. Grants 4 Speed EVs when the opponent is defeated.
+    description: [Reduces Speed by 50%. Grants 4 Speed EVs when the opponent is defeated.
         Passes down the Speed IV to its offspring in HGSS.]
     introduction: dp
   Power Band:
-    description: [Reduces Speed 50%. Grants 4 Special Defense EVs when the opponent
+    description: [Reduces Speed by 50%. Grants 4 Special Defense EVs when the opponent
         is defeated. Passes down the Special Defense IV to its offspring in HGSS.]
     introduction: dp
   Power Belt:
-    description: [Reduces Speed 50%. Grants 4 Defense EVs when the opponent is defeated.
+    description: [Reduces Speed by 50%. Grants 4 Defense EVs when the opponent is defeated.
         Passes down the Defense IV to its offspring in HGSS.]
     introduction: dp
   Power Bracer:
-    description: [Reduces Speed 50%. Grants 4 Attack EVs when the opponent is defeated.
+    description: [Reduces Speed by 50%. Grants 4 Attack EVs when the opponent is defeated.
         Passes down the Attack IV to its offspring in HGSS.]
     introduction: dp
   Power Herb:
     description: [Removes the charge up turn from all moves. One-time use.]
     introduction: dp
   Power Lens:
-    description: [Reduces Speed 50%. Grants 4 Special Attack EVs when the opponent
+    description: [Reduces Speed by 50%. Grants 4 Special Attack EVs when the opponent
         is defeated. Passes down it's Special Attack IV to its offspring in HGSS.]
     introduction: dp
   Power Weight:
-    description: [Reduces Speed 50%. Grants 4 HP EVs when the opponent is defeated.
+    description: [Reduces Speed by 50%. Grants 4 HP EVs when the opponent is defeated.
         Passes down HP IV to its offspring in HGSS.]
     introduction: dp
   Psychic Gem:
@@ -558,7 +558,7 @@ items:
     description: [Cures burn. One-time use.]
     introduction: rs
   Razor Claw:
-    description: [Raises critical hit rate one stage.]
+    description: [Raises critical hit rate by one stage.]
     introduction: dp
   Razor Fang:
     description: [Certain moves have a 10% flinch rate.]
@@ -575,13 +575,13 @@ items:
     description: [Raises the power of a Rock-type move by 50%. One-time use.]
     introduction: bw
   Rock Incense:
-    description: [Raises power of Rock-type moves 20%.]
+    description: [Raises power of Rock-type moves by 20%.]
     introduction: dp
   Rocky Helmet:
-    description: [Deals 1/6 damage when the opponent makes contact.]
+    description: [Damages the opponent for 1/6 of max HP when the opponent makes contact.]
     introduction: bw
   Rose Incense:
-    description: [Raises power of Grass-type moves 20%.]
+    description: [Raises power of Grass-type moves by 20%.]
     introduction: dp
   Roseli Berry:
     description: [Halves damage taken from a super effective Fairy-type attack. Single
@@ -595,13 +595,13 @@ items:
     description: [Protects the holder from weather-related damage and powder moves.]
     introduction: xy
   Salac Berry:
-    description: [Raises Spe one stage when at 25% HP or less. One-time use.]
+    description: [Raises Speed by one stage when at 25% HP or less. One-time use.]
     introduction: rs
   Scizorite:
     description: [Mega-evolves Scizor.]
     introduction: xy
   Scope Lens:
-    description: [Raises critical hit rate one stage.]
+    description: [Raises critical hit rate by one stage.]
     introduction: gs
   Sea Incense:
     description: [Raises power of Water-type moves 5%.]
@@ -613,7 +613,7 @@ items:
     description: [Allows holder to switch out even when trapped.]
     introduction: dp
   Shell Bell:
-    description: [Heals this Pokemon 1/8 of the damage it does.]
+    description: [Heals this Pokemon for 1/8 of the damage it does.]
     introduction: rs
   Shock Drive:
     description: [Changes the type of Techno Blast to Electric.]
@@ -622,18 +622,18 @@ items:
     description: [Reduces damage from a super effective Ground-type attack by 50%. Consumed after use.]
     introduction: dp
   Silk Scarf:
-    description: [Raises power of Normal-type moves 10%.]
+    description: [Raises power of Normal-type moves by 10%.]
     introduction: rs
   SilverPowder:
-    description: [Raises power of Bug-type moves 10%.]
+    description: [Raises power of Bug-type moves by 10%.]
     introduction: gs
   Sitrus Berry:
     description: 
-    - Restores 30 HP when at 50% HP or less. One-time use.
+    - Restores 30 HP when at 50% of max HP or less. One-time use.
     - {dp: Restores 1/4 of the max HP when at 1/2 HP or less. One-time use.}
     introduction: rs
   Sky Plate:
-    description: [Raises power of Flying-type moves 20%. Pokemon with Multitype become Flying-type.]
+    description: [Raises power of Flying-type moves by 20%. Pokemon with Multitype become Flying-type.]
     introduction: dp
   Smooth Rock:
     description: 
@@ -641,39 +641,39 @@ items:
     - {xy: Makes Sandstorm and Sand Stream last 8 turns.}
     introduction: dp
   Snowball:
-    description: [Raises Attack by 1 if hit by an Ice-type attack. Single use.]
+    description: [Raises Attack by 1 stage if hit by an Ice-type attack. Single use.]
     introduction: xy
   Soft Sand:
-    description: [Raises power of Ground-type moves 10%.]
+    description: [Raises power of Ground-type moves by 10%.]
     introduction: gs
   Soul Dew:
-    description: [Raises SpA and SpD of Latias and Latios by 50%.]
+    description: [Raises Special Attack and Special Defense of Latias and Latios by 50%.]
     introduction: rs
   Spell Tag:
-    description: [Raises power of Ghost-type moves 10%.]
+    description: [Raises power of Ghost-type moves by 10%.]
     introduction: gs
   Splash Plate:
-    description: [Raises power of Water-type moves 20%. Pokemon with Multitype become
+    description: [Raises power of Water-type moves by 20%. Pokemon with Multitype become
         Water-type.]
     introduction: dp
   Spooky Plate:
-    description: [Raises power of Ghost-type moves 20%. Pokemon with Multitype become
+    description: [Raises power of Ghost-type moves by 20%. Pokemon with Multitype become
         Ghost-type.]
     introduction: dp
   Starf Berry:
-    description: [Raises a stat two stages when at 25% HP or less. One-time use.]
+    description: [Raises a stat by two stages when at 25% HP or less. One-time use.]
     introduction: rs
   Steel Gem:
     description: [Raises the power of a Steel-type move by 50%. One-time use.]
     introduction: bw
   Stick:
-    description: [Raises Farfetch'd's critical hit ratio two stages.]
+    description: [Raises Farfetch'd's critical hit ratio by two stages.]
     introduction: gs
   Sticky Barb:
     description: [Causes damage to holder and attaches to attacker upon contact.]
     introduction: dp
   Stone Plate:
-    description: [Raises base power of Rock-type moves 20%. Pokemon with Multitype
+    description: [Raises base power of Rock-type moves by 20%. Pokemon with Multitype
         become Rock-type.]
     introduction: dp
   Tanga Berry:
@@ -684,14 +684,14 @@ items:
     description: [Doubles Cubone's and Marowak's Attack.]
     introduction: gs
   Toxic Orb:
-    description: [Poisons the holder.]
+    description: [Badly poisons the holder.]
     introduction: dp
   Toxic Plate:
-    description: [Raises power of Poison-type moves 20%. Pokemon with Multitype become
+    description: [Raises power of Poison-type moves by 20%. Pokemon with Multitype become
         Poison-type.]
     introduction: dp
   TwistedSpoon:
-    description: [Raises power of Psychic moves 10%.]
+    description: [Raises power of Psychic moves by 10%.]
     introduction: gs
   Tyranitarite:
     description: [Mega-evolves Tyranitar.]
@@ -710,30 +710,30 @@ items:
     description: ['Evolves Eevee, Poliwhirl, Shellder, and Staryu.']
     introduction: gs
   Wave Incense:
-    description: [Raises power of Water-type moves 20%.]
+    description: [Raises power of Water-type moves by 20%.]
     introduction: dp
   Weakness Policy:
-    description: [Attack and Sp. Atk sharply increase when hit super effectively.
+    description: [Attack and Special Attack sharply increase when hit super effectively.
         Single use.]
     introduction: xy
   White Herb:
     description: [Removes stat decreases. One-time use.]
     introduction: rs
   Wide Lens:
-    description: [Raises accuracy 10%.]
+    description: [Raises accuracy by 10%.]
     introduction: dp
   Wiki Berry:
-    description: [Restores 1/8 max HP when at 50% HP or less. One-time use.]
+    description: [Restores 1/8 of max HP when at 50% of max HP or less. One-time use.]
     introduction: rs
   Wise Glasses:
-    description: [Raises damage from special moves 10%.]
+    description: [Raises damage from special moves by 10%.]
     introduction: dp
   Yache Berry:
     description: [Reduces damage from a super effective Ice-type attack by 50%. Consumed
         after use.]
     introduction: dp
   Zap Plate:
-    description: [Raises power of Electric moves 20%. Pokemon with Multitype become
+    description: [Raises power of Electric moves by 20%. Pokemon with Multitype become
         Electric-type.]
     introduction: dp
   Zoom Lens:

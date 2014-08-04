@@ -10,6 +10,7 @@ pokemon:
           stats: [100, 128, 90, 77, 77, 128]
           types: [Normal, Fighting]
           tags: [UU]
+          - xy: [RU]
           weight: 6.5
     egggroups:
     - []

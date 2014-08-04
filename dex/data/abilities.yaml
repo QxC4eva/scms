@@ -16,7 +16,7 @@ abilities:
     description: [Raises the power of all moves by 30% if the wielder moves last.]
     introduction: bw
   Anger Point:
-    description: [Raises Atk to +6 if struck by a critical hit.]
+    description: [Raises Attack to +6 if struck by a critical hit.]
     introduction: dp
   Anticipation:
     description: [Alerts the Pokemon of certain dangerous moves.]
@@ -40,7 +40,7 @@ abilities:
     description: [The wielder's Defense cannot be lowered.]
     introduction: bw
   Blaze:
-    description: [Boosts power of Fire-type moves 50% when at 1/3 HP or less.]
+    description: [Boosts power of Fire-type moves 50% when at 1/3 of max HP or less.]
     introduction: rs
   Bulletproof:
     description: [This Pokemon is protected from some Ball and Bomb moves.]
@@ -161,7 +161,7 @@ abilities:
     description: [Consumes pinch Berries at 50% HP or less.]
     introduction: dp
   Gooey:
-    description: [Contact with this Pokemon decreases the attacker's Speed 1 stage.]
+    description: [Contact with this Pokemon decreases the attacker's Speed by 1 stage.]
     introduction: xy
   Grass Pelt:
     description: [This Pokemon's Defense is boosted by 50% in Grassy Terrain]
@@ -201,7 +201,7 @@ abilities:
         Cut's area of effect.]
     introduction: rs
   Ice Body:
-    description: [Heals 1/16 max HP in hail.]
+    description: [Heals 1/16 of max HP in hail.]
     introduction: dp
   Illuminate:
     description: [Increases wild encounter rate (no effect in battles).]
@@ -228,7 +228,7 @@ abilities:
     description: [Prevents sleep.]
     introduction: rs
   Intimidate:
-    description: [Lowers the foe's Attack 1 stage. Decreases wild encounter rate.]
+    description: [Lowers the foe's Attack by 1 stage. Decreases wild encounter rate.]
     introduction: rs
   Iron Barbs:
     description: [Deals 1/8 recoil damage when the opponent makes contact.]
@@ -237,7 +237,7 @@ abilities:
     description: [Increases the power of punching moves by 20%.]
     introduction: dp
   Justified:
-    description: [Raises Attack one stage when hit by a Dark-type move.]
+    description: [Raises Attack by one stage when hit by a Dark-type move.]
     introduction: bw
   Keen Eye:
     description:
@@ -290,8 +290,8 @@ abilities:
     introduction: xy
   Minus:
     description: 
-    - 'If allied with a Pokemon with Plus, its Special Attack increases 50%.'
-    - {bw: 'If allied with a Pokemon with Plus or Minus, its Special Attack increases 50%.'}
+    - 'If allied with a Pokemon with Plus, its Special Attack increases by 50%.'
+    - {bw: 'If allied with a Pokemon with Plus or Minus, its Special Attack increases by 50%.'}
     introduction: rs
   Mold Breaker:
     description: [Abilities that hinder attacks are nullified.]
@@ -336,7 +336,7 @@ abilities:
     - {xy: Grants immunity to damage from weather effects and powder moves.}
     introduction: bw
   Overgrow:
-    description: [Raises the power of Grass-type moves 50% when at 1/3 HP or less.]
+    description: [Raises the power of Grass-type moves by 50% when at 1/3 HP or less.]
     introduction: rs
   Own Tempo:
     description: [Cannot be confused.]
@@ -361,11 +361,11 @@ abilities:
     introduction: xy
   Plus:
     description: 
-    - 'If allied with a Pokemon with Minus, its Special Attack increases 50%.'
-    - {bw: 'If allied with a Pokemon with Plus or Minus, its Special Attack increases 50%.'}
+    - 'If allied with a Pokemon with Minus, its Special Attack increases by 50%.'
+    - {bw: 'If allied with a Pokemon with Plus or Minus, its Special Attack increases by 50%.'}
     introduction: rs
   Poison Heal:
-    description: [Heals 1/8 HP per turn when poisoned.]
+    description: [Heals 1/8 of max HP per turn when poisoned.]
     introduction: dp
   Poison Point:
     description: [Enemies' contact moves have a 30% chance of poisoning them.]
@@ -389,7 +389,7 @@ abilities:
     description: [Increases Speed by 50% when afflicted with a status condition.]
     introduction: dp
   Rain Dish:
-    description: [Heals 1/16 max HP in rain.]
+    description: [Heals 1/16 of max HP in rain.]
     introduction: rs
   Rattled:
     description: ['Raises Speed one stage when hit by a Bug-, Dark-, or Ghost-type move.']
@@ -470,7 +470,7 @@ abilities:
     - {xy: Critical hits do 2.25x damage instead of 1.5x.}
     introduction: dp
   Snow Cloak:
-    description: [Evasion increases 20% in hail.]
+    description: [Evasion increases by 20% in hail.]
     introduction: dp
   Snow Warning:
     description:
@@ -478,7 +478,7 @@ abilities:
     - {xy: Summons hail.}
     introduction: dp
   Solar Power:
-    description: [Loses 10% HP in sun each turn. Special Attack increases 50%.]
+    description: [Loses 10% HP in sun each turn. Special Attack increases by 50%.]
     introduction: dp
   Solid Rock:
     description: [Reduces damage from super effective hits by 1/4.]
@@ -529,7 +529,7 @@ abilities:
     description: [Critical hit rate increases one stage.]
     introduction: dp
   Swarm:
-    description: [Boosts power of Bug-type moves 50% when at 1/3 HP or less.]
+    description: [Boosts power of Bug-type moves by 50% when at 1/3 HP or less.]
     introduction: rs
   Sweet Veil:
     description: [Prevents allies from being put to Sleep.]
@@ -562,7 +562,7 @@ abilities:
     description: [Doubles damage on resisted hits.]
     introduction: dp
   Torrent:
-    description: [Boosts power of Water-type moves 50% when at 1/3 HP or less.]
+    description: [Boosts power of Water-type moves by 50% when at 1/3 HP or less.]
     introduction: rs
   Tough Claws:
     description: [This Pokemon's contact attacks do 1.33x damage.]

@@ -512,7 +512,7 @@ abilities:
   Storm Drain:
     description:
     - All Water-type attacks target this Pokemon.
-    - {bw: All Water-type attacks target this Pokemon. Grants immunity to Water-type moves and boosts Special Attack by 1 stage when hit by an Water-type move.}
+    - {bw: All Water-type attacks target this Pokemon. Grants immunity to Water-type moves and boosts Special Attack by 1 stage when hit by a Water-type move.}
     introduction: dp
   Strong Jaw:
     description: [This Pokemon receives a 50% power boost for jaw attacks such as Bite and Crunch.]

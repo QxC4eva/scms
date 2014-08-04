@@ -104,8 +104,8 @@ pokemon:
     height: [1.1]
     introduction: rs
     moves:
-    - bw: [Iron Defense]
-    - dp: [Iron Defense, Rollout, Body Slam, Mimic]
+    - bw: []
+    - dp: [Rollout, Body Slam, Mimic]
     - rs: [Defense Curl, Rollout]
     - xy: [Rollout]
     stats:

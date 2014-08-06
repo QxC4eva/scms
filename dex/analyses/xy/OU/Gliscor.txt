@@ -1,10 +1,45 @@
 Overview
 ########
 
-Gliscor is a top defensive threat in today's metagame. With great defensive typing that gives it a resistance to Fighting, immunity to Ground, and neutrality to Stealth Rock, it checks top-tier threats such as Excadrill, Terrakion, Landorus-T, and Lucario. In addition to its great typing, it has access to the coveted Poison Heal, which lets Gliscor regain one-eighth of its HP once Toxic Orb has activated, while making Gliscor effectively immune to status. Despite facing competition from Landorus-T, Gliscor's main advantage is its longevity. Its SubToxic set is still a great stall Pokemon, though it does have to get past many more threats this generation in order be successful.
+Gliscor is a top defensive threat in today's metagame. Its specially defensive set is highly regarded as possibly the best Landorus counter in the tier, while being an effective stallbreaker with access to Taunt, Earthquake, Toxic, and Knock Off to dismantle many top defensive threats. It is also an excellent check to various OU attackers by virtue of an excellent typing that gives it a resistance to Fighting and immunities to Electric and Ground. It does have some flaws, including a weakness to the ubiquitous Water-type and quadruple weakness to Ice, as well as a bit less stellar physical bulk when it chooses to invest in Special Defense, in addition to certain Pokemon in the tier that just shut it down. Overall, though, Gliscor has a solid place in the OU tier.
 
-However, Gliscor has its fair share of problems as well. While its Defense is fantastic, it falls short due to mediocre HP making its physical bulk good, but not outstanding. Also, while its typing does give it some good resistances and immunities, it still does not have enough resistances to take on a substantial number of threats. As mentioned above, Gliscor faces competition with Landorus-T, which sports a much greater Attack and better physical bulk after factoring in Intimidate, making it much more suited to the current metagame. Gliscor also has very bad special bulk and is weak to common Water- and Ice-type attacks. Despite these shortcomings however, Gliscor has many great qualities that make it a great support Pokemon overall.
+Specially Defensive
+########
+name: Specially Defensive
+move 1: Taunt
+move 2: Roost
+move 3: Toxic / Knock Off
+move 4: Earthquake / Knock Off
+ability: Poison Heal
+item: Toxic Orb
+evs: 244 HP / 192 SpD / 72 Spe
+nature: Careful
 
+Moves
+========
+
+Taunt allows Gliscor to prevent the use of recovery moves, setup moves, entry hazards, and opposing Taunts as well as various other non-damaging moves. Roost provides Gliscor with an insane amount of recovery alongside Poison Heal and turns it into an exceptional Toxic staller. Toxic, if chosen, is Gliscor's main method of dealing damage, and it works very well with Taunt. Earthquake is a very consistent Ground-type STAB move that complements Toxic nicely by hitting most Steel-types, which are immune to Toxic, super effectively. Knock Off is an option over either Toxic or Earthquake to hit Pokemon that Gliscor otherwise can't touch, such as Skarmory and Gengar, as well as to remove the items of opposing Pokemon. However, using Knock Off leaves Gliscor vulnerable to offensive Steel-types, notably Mega Mawile. Protect is an option over Roost to let Gliscor stall with Toxic more easily and to ensure that its Toxic Orb activates.
+
+Set Details
+========
+
+Using 244 HP EVs makes Gliscor's HP stat divisible by 8, maximizing the efficiency of Poison Heal. 72 Speed EVs allow Gliscor to outspeed everything up to and including Jolly Tyranitar, while the rest of the EVs and a Careful nature make Gliscor as specially bulky as possible.
+
+An EV spread that includes Defense investment with an Impish nature is also a possibility. This allows Gliscor to handle Mega Heracross effectively, although Toxic will need to be used in order to do so. A mixed spread also helps Gliscor defeat other powerful physical attackers, such as Swords Dance Excadrill.
+
+Usage Tips
+========
+
+Gliscor can check or counter many of OU's top special attackers with this set, including Landorus and Gengar, by virtue of its typing and its ridiculous amount of recovery. It can also beat Draco Meteor users, namely Latios, Latias, and Mega Garchomp, one-on-one thanks to the aforementioned recovery it gets. Additionally, once it is poisoned, Gliscor can easily switch into Assault Vest Tornadus-T, a Pokemon that often plagues the defensive teams on which Gliscor is commonly used. While specially defensive Gliscor can still check physical attackers, it cannot do so as well as physically defensive variants. For example, +2 Adamant Life Orb Excadrill will OHKO it after Stealth Rock damage, and Life Orb Terrakion can 2HKO it after Stealth Rock damage.
+
+The combination of Taunt and Toxic allows Gliscor to stallbreak, as Gliscor can defeat practically any defensive Pokemon without an immunity to Toxic that can't hit it super effectively. Gliscor can even defeat Pokemon that rely on a weak Scald to damage it, such as Quagsire and Slowbro, as well as defensive Rotom-W by stalling it out of Hydro Pump PP. Even if Gliscor lacks Toxic, it can still outlast many defensive Pokemon by using Knock Off to remove their Leftovers and then slowly whittle down their HP.
+
+Remember that Gliscor needs to be in for a turn before its Toxic Orb activates; before it is poisoned, be wary of switching it into a potential Knock Off or status user such as Landorus, Gengar, or Breloom. This is especially important to remember if Gliscor is used on a team that includes a cleric. Once its Toxic Orb has activated, however, Gliscor can easily switch into Knock Off and status moves. It should be noted that against stall teams, Gliscor's PP is precious; avoid wasting PP if Gliscor is locked in a stalemate.
+
+Team Options
+========
+
+This Gliscor variant fits well on stall teams, where the ability to both check Landorus and stallbreak is greatly appreciated. It also fits well on balanced teams. In general, Water-types are great teammates for Gliscor, as they can cover its Water- and Ice-type weaknesses. Slowbro and Azumarill are excellent examples, as they are able to check Greninja and Keldeo. Ferrothorn and Mega Venusaur also handle Water- and Ice-types, and the former can set up entry hazards. Skarmory can handle the physical attackers that Gliscor struggles against, including Mamoswine, Diggersby, Excadrill, Terrakion, and Swords Dance Garchomp. Heatran is able to check or counter several specific threats to specially defensive Gliscor, such as Dragonite and Mega Charizard X that lack Earthquake and Mega Mawile if Gliscor lacks Earthquake.
 
 SubToxic
 ########
@@ -31,13 +66,12 @@ The given HP EVs make Gliscor's HP a multiple of eight so it is able to gain bac
 Usage Tips
 ========
 
-As with most defensive Pokemon, Gliscor should switch in on Pokemon that it walls, set up a Substitute on the opponent's forced switch, and start stalling Pokemon with Toxic. After a Pokemon has been inflicted with Toxic, it's best to alternate between Substitute and Protect as there is no net HP loss in doing so while the opponent's Pokemon slowly faint from residual damage. Make sure to alternate between Protect and Substitute only when Gliscor is Toxic stalling a faster Pokemon. Earthquake should only be used when finishing off weakened slower targets or when up against a Steel-type. It is best to not start Toxic stalling until bulky Pokemon immune to Toxic are taken out. Watch out for Air Balloon users such as Heatran or Aegislash, as they shut down this set completely. If Gliscor is against a status user before Toxic Orb has activated, use Protect to block the opponent's attack. After Toxic Orb activates, Gliscor also makes a great Knock Off absorber. Lastly, when facing an opponent utilizing low accuracy or PP moves, it is best to wait for a miss and stall out the move's PP so Gliscor obtains a free Substitute.
+As with most defensive Pokemon, Gliscor should switch in on Pokemon that it walls, set up a Substitute on the opponent's forced switch, and start stalling Pokemon with Toxic. After a Pokemon has been inflicted with Toxic, it's best to alternate between Substitute and Protect as there is no net HP loss in doing so while the opponent's Pokemon slowly faint from residual damage. Make sure to alternate between Protect and Substitute only when Gliscor is Toxic stalling a faster Pokemon. Earthquake should only be used when finishing off weakened slower targets or when up against a Steel-type. It is best to not start Toxic stalling until bulky Pokemon immune to Toxic are taken out. Watch out for Air Balloon users such as Heatran, as they shut down this set completely. If Gliscor is against a status user before Toxic Orb has activated, use Protect to block the opponent's attack. After Toxic Orb activates, Gliscor also makes a great Knock Off absorber. Lastly, when facing an opponent utilizing low accuracy or PP moves, it is best to wait for a miss and stall out the move's PP so Gliscor obtains a free Substitute.
 
 Team Options
 ========
 
-This set has a lot of trouble dealing with defensive Steel-types and Mega Venusaur due to its reliance on Toxic to deal damage. Because of this, Gliscor appreciates powerful Fire-types such as Heatran, Talonflame, and both Mega Charizard formes to take out problematic Steel-types. Latios easily 2HKOes Mega Venusaur with Life Orb Psyshock. Mega Venusaur also makes a great partner as it is able to take on powerful special attackers that threaten Gliscor such as Keldeo, Thundurus, Manaphy, Greninja, and mixed Aegislash. Gliscor also appreciates both Latios and Latias removed, so Pursuit trappers such as Tyranitar, Bisharp, and Aegislash are all great partners because they also have decent synergy with Gliscor.
-
+This set has a lot of trouble dealing with defensive Steel-types and Mega Venusaur due to its reliance on Toxic to deal damage. Because of this, Gliscor appreciates powerful Fire-types such as Heatran, Talonflame, and both Mega Charizard formes to take out problematic Steel-types. Latios easily 2HKOes Mega Venusaur with Life Orb Psyshock. Mega Venusaur also makes a great partner as it is able to take on powerful special attackers that threaten Gliscor such as Keldeo and Thundurus. Gliscor also appreciates both Latios and Latias removed, so Pursuit trappers such as Tyranitar and Bisharp are great partners because they also have decent synergy with Gliscor. Finally, while not generally an amazing Pokemon, Choice Specs Gothitelle is an excellent partner for this set, successfully trapping and eliminating pesky bulky Steel- and Poison-types like Skarmory, Ferrothorn, Mega Venusaur, and Amoonguss, as well as having enough bulk to tank a Choice Specs-boosted hit from Keldeo and kill it to reduce its troubles against
 
 Other Options
 ########
@@ -48,14 +82,10 @@ Gliscor has some other offensive options at its disposal. Firstly, Knock Off is 
 Checks & Counters
 ########
 
-**Water-types**: Water-types that outspeed Gliscor can force it out, such as Greninja, Manaphy, Keldeo, and Choice Scarf Rotom-W. Calm Mind Suicune can also set up on Gliscor as it can cure status and restore HP with Rest. Swift Swim Pokemon such as Kabutops, Ludicolo, and Kingdra can also force Gliscor out, but none of them appreciate Toxic wearing them down.
+**Offensive Water-types**: Water-types that outspeed Gliscor can force it out, such as Greninja, Keldeo, and Manaphy. Furthermore, threats such as SubDD Gyarados and Azumarill can pose a significant threat to Gliscor. It should be noted that specially defensive and even physically defensive Gliscor can shrug off most Scalds from bulky Water-types and even stall out Rotom-W's Hydro Pumps, so not all Water-types are good answers to it.
 
-**Strong Special Attackers**: Mega Charizard Y can OHKO Gliscor with a sun-boosted Fire Blast. Mega Gardevoir's Hyper Voice pierces Gliscor's Substitute and OHKOes after Stealth Rock damage. Thundurus and Deoxys-S can easily take out Gliscor with Hidden Power Ice and Ice Beam, respectively.
+**Strong Special Attackers**: Mega Charizard Y can OHKO Gliscor with a sun-boosted Fire Blast. Mega Gardevoir's Hyper Voice deals enormous damage to it, and Gardevoir can set up on it with Calm Mind in its unevolved form with Trace or use Taunt on it.
 
-**Toxic-Immune Pokemon**: Mega Scizor with Roost easily sets up on Gliscor, while it can barely do anything in return. Gengar shuts down any SubToxic set due to Levitate and its Poison typing, however it must watch out for Knock Off, though it is rare. Magic Guard Clefable takes no damage from Toxic and can easily take Earthquakes, but Unaware variants fall to Toxic. Lastly, Air Balloon users such as Heatran and Aegislash can temporarily check Gliscor if it is not behind a Substitute.
+**Toxic-Immune Pokemon**: Air Balloon Heatran and Excadrill, especially Swords Dance Excadrill, completely shut down any non-Knock Off Gliscor. Mega Scizor with Roost easily sets up on SubToxic Gliscor, while it can barely do anything in return. Gengar shuts down non-Knock Off variants due to Levitate and its Poison typing, however it must watch out for Knock Off, though it is rare. Magic Guard Clefable is a perfect counter to the SubToxic set, too, as well as Ferrothorn and Skarmory. Lastly, Air Balloon users such as Heatran can temporarily check Gliscor if it is not behind a Substitute completely shuts down Gliscor. The most notable user is Prankster Thundurus, which is immune to Earthquake
 
-**Faster Taunt Users**: Faster users of Taunt easily shut down Gliscor. Crobat can Taunt Gliscor and is immune to Toxic and Earthquake, making it the perfect counter to the SubToxic set. Prankster Taunt users such as Thundurus, Sableye, and Tornadus stop Gliscor in its tracks while Gliscor cannot do much to any of them in return. Timid Deoxys-D and Deoxys-S also shut down Gliscor with their speedy Taunts.
-
-**Sound-Based Moves**: Gliscor greatly relies on Substitute to be useful, but this can be ignored by sound-based moves. Both Mega Gardevoir and Sylveon have Pixilate-boosted Hyper Voice to pierce Substitute while hitting extremely hard. Sylveon also has the distinct advantage of having Heal Bell to heal off Toxic.
-
-**Ice-types**: Ice-types in general can be problematic for Gliscor. Mamoswine and Cloyster both have access to Icicle Spear to go through Gliscor's Substitute and KO it. Kyurem-B and Weavile outspeed and threaten with STAB Ice Beam and Ice Punch respectively while the former can also Substitute on a predicted Toxic.
+**Ice-types**: Ice-types in general can be problematic for Gliscor. Mamoswine and Cloyster both have access to Icicle Spear to go through Gliscor's Substitute and KO it. Kyurem-B and Weavile outspeed and threaten with STAB Ice Beam and Ice Punch respectively while the former can also Substitute on a predicted Toxic. It should be noted that Hidden Power Ice from Mega Manectric and non-Choice Specs Raikou will not OHKO specially defensive Gliscor, so you should be wary of Volt Switching in front of it or even staying in to use Hidden Power Ice with the threat of Gliscor's STAB Earthquake.

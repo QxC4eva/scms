@@ -1293,7 +1293,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts Def and SpD 1 stage.]
+    description: [Boosts Defense and Special Defense by 1 stage.]
     introduction: dp
     power: [0]
     pp: [10]
@@ -1305,7 +1305,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts Def 1 stage.]
+    description: [Boosts Defense by 1 stage.]
     introduction: rb
     power: [0]
     pp: [40]
@@ -1317,7 +1317,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers target's evasion 1 stage. Removes various field effects.]
+    description: [Lowers target's evasion by 1 stage. Removes various field effects.]
     introduction: dp
     power: [0]
     pp: [15]
@@ -1498,7 +1498,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts evasion 1 stage.]
+    description: [Boosts evasion by 1 stage.]
     introduction: rb
     power: [0]
     pp: [15]
@@ -1526,7 +1526,7 @@ moves:
     category:
     - Special
     - {bw: Special, xy: Special}
-    description: [Lowers user's SpA 2 stages.]
+    description: [Lowers user's Special Attack by 2 stages.]
     introduction: dp
     power:
     - 140
@@ -1564,7 +1564,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts Atk and Spe 1 stage.]
+    description: [Boosts Attack and Speed by 1 stage.]
     introduction: rs
     power: [0]
     pp: [20]
@@ -1716,7 +1716,7 @@ moves:
     category:
     - Special
     - {bw: Special, xy: Special}
-    description: [10% chance to lower SpD 1 stage.]
+    description: [10% chance to lower Special Defense by 1 stage.]
     introduction: dp
     power: [90]
     pp: [10]
@@ -1887,7 +1887,7 @@ moves:
     category:
     - Special
     - {bw: Special, xy: Special}
-    description: [10% chance to lower SpD 1 stage.]
+    description: [10% chance to lower Special Defense by 1 stage.]
     introduction: dp
     power:
     - 80
@@ -2016,7 +2016,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers SpD 2 stages.]
+    description: [Lowers Special Defense by 2 stages.]
     introduction: rs
     power: [0]
     pp: [20]
@@ -2040,7 +2040,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers Atk 2 stages.]
+    description: [Lowers Attack 2 stages.]
     introduction: rs
     power: [0]
     pp: [15]
@@ -2289,7 +2289,7 @@ moves:
     category:
     - Special
     - {bw: Special, xy: Special}
-    description: [10% chance to lower SpD 1 stage.]
+    description: [10% chance to lower Special Defense by 1 stage.]
     introduction: dp
     power: [80]
     pp: [10]
@@ -2301,7 +2301,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Confuses the foe. Boosts the foe's SpA 1 stage.]
+    description: [Confuses the foe. Boosts the foe's Special Attack 1 stage.]
     introduction: rs
     power: [0]
     pp: [15]
@@ -2362,7 +2362,7 @@ moves:
     category:
     - Special
     - {bw: Special, xy: Special}
-    description: [10% chance to lower SpD 1 stage.]
+    description: [10% chance to lower Special Defense by 1 stage.]
     introduction: dp
     power: [120]
     pp: [5]
@@ -2376,7 +2376,7 @@ moves:
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
     - Reduces user's critical hit rate.
-    - {gs: Boosts critical hit rate 1 stage.}
+    - {gs: Boosts critical hit rate by 1 stage.}
     introduction: rb
     power: [0]
     pp: [30]
@@ -2812,7 +2812,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Swaps Def and SpD boosts and drops.]
+    description: [Swaps Defense and Special Defense boosts and drops.]
     introduction: dp
     power: [0]
     pp: [10]
@@ -2894,7 +2894,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: [Lowers user's Spe 1 stage.]
+    description: [Lowers user's Speed by 1 stage.]
     introduction: dp
     power: [100]
     pp: [10]
@@ -2916,7 +2916,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts user's Defense one stage.]
+    description: [Boosts user's Defense by one stage.]
     introduction: rb
     power: [0]
     pp: [30]
@@ -3098,7 +3098,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Increases power of ally's moves 50%.]
+    description: [Increases power of ally's moves by 50%.]
     introduction: rs
     power: [0]
     pp: [20]
@@ -3472,7 +3472,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts Atk 1 stage.]
+    description: [Boosts Attack by 1 stage.]
     introduction: rs
     power: [0]
     pp: [40]
@@ -3685,7 +3685,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, rs: Special, xy: Special}
-    description: [Lowers foe's Spe 1 stage.]
+    description: [Lowers foe's Speed by 1 stage.]
     introduction: gs
     power: [55]
     pp: [15]
@@ -3768,7 +3768,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts Def 2 stages.]
+    description: [Boosts Defense by 2 stages.]
     introduction: rs
     power: [0]
     pp: [15]
@@ -3792,7 +3792,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
-    description: [30% chance to lower Def 1 stage.]
+    description: [30% chance to lower Defense by 1 stage.]
     introduction: gs
     power: [100]
     pp: [15]
@@ -3849,7 +3849,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers target's accuracy 1 stage.]
+    description: [Lowers target's accuracy by 1 stage.]
     introduction: rb
     power: [0]
     pp: [15]
@@ -3939,7 +3939,7 @@ moves:
     category:
     - Special
     - {bw: Special, xy: Special}
-    description: [Lowers user's SpA 2 stages.]
+    description: [Lowers user's Special Attack by 2 stages.]
     introduction: dp
     power:
     - 140
@@ -4121,7 +4121,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, xy: Special}
-    description: [50% chance to lower SpD 1 stage.]
+    description: [50% chance to lower Special Defense by 1 stage.]
     introduction: rs
     power: [70]
     pp: [5]
@@ -4221,7 +4221,7 @@ moves:
   Magnetic Flux:
     accuracy: [0]
     category: [Non-Damaging]
-    description: ["Raises the Defense and Sp. Def stats of ally Pokemon with
+    description: ["Raises the Defense and Special Defense stats of ally Pokemon with
         the Plus or Minus Ability."]
     introduction: xy
     power: [0]
@@ -4349,7 +4349,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [User faints. Lowers foe's Atk and SpA 2 stages.]
+    description: [User faints. Lowers foe's Attack and Special Attack by 2 stages.]
     introduction: rs
     power: [0]
     pp: [10]
@@ -4375,7 +4375,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
-    description: [10% chance to boost Atk 1 stage.]
+    description: [10% chance to boost Attack by 1 stage.]
     introduction: gs
     power: [50]
     pp: [35]
@@ -4387,7 +4387,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Lower's SpD 2 stages.]
+    description: [Lower's Special Defense by 2 stages.]
     introduction: rs
     power: [0]
     pp: [40]
@@ -4401,7 +4401,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, xy: Physical}
-    description: [20% chance to raise Atk 1 stage.]
+    description: [20% chance to raise Attack by 1 stage.]
     introduction: rs
     power:
     - 100
@@ -4427,7 +4427,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Heals 50% max HP.]
+    description: [Heals 50% of max HP.]
     introduction: gs
     power: [0]
     pp: [10]
@@ -4468,8 +4468,8 @@ moves:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: 
-    - Boosts evasion 1 stage.
-    - {bw: Boosts evasion 2 stages., xy: Boosts evasion 2 stages.}
+    - Boosts evasion by 1 stage.
+    - {bw: Boosts evasion by 2 stages., xy: Boosts evasion by 2 stages.}
     introduction: rb
     power: [0]
     pp:
@@ -4525,7 +4525,7 @@ moves:
     category:
     - Special
     - {bw: Special, xy: Special}
-    description: [30% chance to lower accuracy 1 stage.]
+    description: [30% chance to lower accuracy by 1 stage.]
     introduction: dp
     power: [65]
     pp: [10]
@@ -4549,7 +4549,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, xy: Special}
-    description: [50% chance to lower SpA 1 stage.]
+    description: [50% chance to lower Special Attack by 1 stage.]
     introduction: rs
     power: [70]
     pp: [5]
@@ -4610,7 +4610,7 @@ moves:
     category:
     - Special
     - {bw: Special, xy: Special}
-    description: [30% chance to lower accuracy 1 stage.]
+    description: [30% chance to lower accuracy by 1 stage.]
     introduction: dp
     power: [65]
     pp: [10]
@@ -4622,7 +4622,7 @@ moves:
     category:
     - Physical
     - {bw: Special, dp: Special, xy: Special}
-    description: [Lowers Spe 1 stage.]
+    description: [Lowers Speed by 1 stage.]
     introduction: rs
     power: [55]
     pp: [15]
@@ -4646,7 +4646,7 @@ moves:
     category:
     - Physical
     - {bw: Special, dp: Special, rs: Special, xy: Special}
-    description: [Lowers accuracy 1 stage.]
+    description: [Lowers accuracy by 1 stage.]
     introduction: gs
     power: [20]
     pp: [10]
@@ -4658,7 +4658,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, xy: Special}
-    description: [30% chance to lower accuracy 1 stage.]
+    description: [30% chance to lower accuracy by 1 stage.]
     introduction: rs
     power:
     - 95
@@ -4683,7 +4683,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts SpA 2 stages.]
+    description: [Boosts Special Attack by 2 stages.]
     introduction: dp
     power: [0]
     pp: [20]
@@ -4816,7 +4816,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, rs: Special, xy: Special}
-    description: [50% chance to lower accuracy 1 stage.]
+    description: [50% chance to lower accuracy by 1 stage.]
     introduction: gs
     power: [65]
     pp: [10]
@@ -4841,7 +4841,7 @@ moves:
     category:
     - Special
     - {bw: Special, xy: Special}
-    description: [10% chance to boost all stats 1 stage.]
+    description: [10% chance to boost all stats by 1 stage.]
     introduction: dp
     power: [60]
     pp: [5]
@@ -4867,7 +4867,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, xy: Special}
-    description: [Lowers SpA 2 stages.]
+    description: [Lowers Special Attack by 2 stages.]
     introduction: rs
     power:
     - 140
@@ -5189,7 +5189,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Swaps Atk and SpA boosts and drops with the foe.]
+    description: [Swaps Attack and Special Attack boosts and drops with the foe.]
     introduction: dp
     power: [0]
     pp: [10]
@@ -5201,7 +5201,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Swaps user's Atk and Def stats.]
+    description: [Swaps user's Attack and Defense stats.]
     introduction: dp
     power: [0]
     pp: [10]
@@ -5289,7 +5289,7 @@ moves:
     - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
     description:
     - 30% chance to lower Special 1 stage.
-    - {gs: 10% chance to lower SpD 1 stage.}
+    - {gs: 10% chance to lower Special Defense 1 stage.}
     introduction: rb
     power: [90]
     pp: [10]
@@ -5301,7 +5301,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, xy: Special}
-    description: [Lowers user's SpA 2 stages.]
+    description: [Lowers user's Special Attack by 2 stages.]
     introduction: rs
     power: [140]
     pp: [5]
@@ -5741,7 +5741,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts Spe 2 stages.]
+    description: [Boosts Speed by 2 stages.]
     introduction: dp
     power: [0]
     pp: [20]
@@ -5767,7 +5767,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
-    description: [50% chance to lower Def 1 stage.]
+    description: [50% chance to lower Defense by 1 stage.]
     introduction: gs
     power:
     - 20
@@ -5795,7 +5795,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, xy: Physical}
-    description: [Lowers Spe 1 stage.]
+    description: [Lowers Speed by 1 stage.]
     introduction: rs
     power:
     - 50
@@ -5867,7 +5867,7 @@ moves:
   Rototiller:
     accuracy: [0]
     category: [Non-Damaging]
-    description: [Raises the Attack and Sp. Atk stats of Grass-type Pokemon.]
+    description: [Raises the Attack and Special Attack stats of Grass-type Pokemon.]
     introduction: xy
     power: [0]
     pp: [10]
@@ -5929,7 +5929,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers foe's accuracy 1 stage.]
+    description: [Lowers foe's accuracy by 1 stage.]
     introduction: rb
     power: [0]
     pp: [15]
@@ -5983,7 +5983,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers Spe 2 stages.]
+    description: [Lowers Speed by 2 stages.]
     introduction: gs
     power: [0]
     pp: [10]
@@ -6007,7 +6007,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers foe's Defense 2 stages.]
+    description: [Lowers foe's Defense by 2 stages.]
     introduction: rb
     power: [0]
     pp: [40]
@@ -6067,7 +6067,7 @@ moves:
     category:
     - Special
     - {bw: Special, xy: Special}
-    description: [40% chance to lower SpD 2 stages.]
+    description: [40% chance to lower Special Defense by 2 stages.]
     introduction: dp
     power: [120]
     pp: [5]
@@ -6107,7 +6107,7 @@ moves:
     category:
     - Physical
     - {bw: Special, dp: Special, xy: Special}
-    description: [20% chance to lower SpD 1 stage.]
+    description: [20% chance to lower Special Defense by 1 stage.]
     introduction: gs
     power: [80]
     pp: [15]
@@ -6168,7 +6168,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts Attack 1 stage.]
+    description: [Boosts Attack by 1 stage.]
     introduction: rb
     power: [0]
     pp: [30]
@@ -6243,7 +6243,7 @@ moves:
     category:
     - Physical
     - {bw: Special, dp: Special, xy: Special}
-    description: [10% chance to boost all stats 1 stage.]
+    description: [10% chance to boost all stats by 1 stage.]
     introduction: rs
     power: [60]
     pp: [5]
@@ -6305,7 +6305,7 @@ moves:
     - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
     description:
     - Charges up turn one; attacks turn two.
-    - {gs: Charges up turn one; attacks turn two. Boosts Def 1 stage.}
+    - {gs: Charges up turn one; attacks turn two. Boosts Defense by 1 stage.}
     introduction: rb
     power:
     - 100
@@ -6496,7 +6496,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers foe's accuracy 1 stage.]
+    description: [Lowers foe's accuracy by 1 stage.]
     introduction: rb
     power: [0]
     pp: [20]
@@ -6756,7 +6756,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
-    description: [10% chance to raise the user's Def 1 stage.]
+    description: [10% chance to raise the user's Defense by 1 stage.]
     introduction: gs
     power: [70]
     pp: [25]
@@ -6970,7 +6970,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, xy: Physical}
-    description: [Lowers the user's Atk and Def 1 stage.]
+    description: [Lowers the user's Attack and Defense by 1 stage.]
     introduction: rs
     power: [120]
     pp: [5]
@@ -7008,7 +7008,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Confuses the target. Boosts its Atk 2 stages.]
+    description: [Confuses the target. Boosts its Attack by 2 stages.]
     introduction: gs
     power: [0]
     pp: [15]
@@ -7046,7 +7046,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers evasion 1 stage.]
+    description: [Lowers evasion by 1 stage.]
     introduction: gs
     power: [0]
     pp: [20]
@@ -7082,7 +7082,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts Attack 2 stages.]
+    description: [Boosts Attack by 2 stages.]
     introduction: rb
     power: [0]
     pp:
@@ -7138,7 +7138,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts SpA 2 stages.]
+    description: [Boosts Special Attack by 2 stages.]
     introduction: rs
     power: [0]
     pp: [20]
@@ -7174,7 +7174,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Doubles Spe for 3 turns.]
+    description: [Doubles Speed for 3 turns.]
     introduction: dp
     power: [0]
     pp: [30]
@@ -7393,7 +7393,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers Atk and Def 1 stage.]
+    description: [Lowers Attack and Defense by 1 stage.]
     introduction: rs
     power: [0]
     pp: [20]
@@ -7902,7 +7902,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Heals 50% max HP after 2 turns.]
+    description: [Heals 50% of max HP after 2 turns.]
     introduction: rs
     power: [0]
     pp: [10]
@@ -7914,7 +7914,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts Defense 1 stage.]
+    description: [Boosts Defense by 1 stage.]
     introduction: rb
     power: [0]
     pp: [40]

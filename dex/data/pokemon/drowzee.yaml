@@ -29,7 +29,7 @@ pokemon:
         Round, Safeguard, Secret Power, Shadow Ball, Signal Beam, Skill Swap, Sleep
           Talk, Snatch, Substitute, Sunny Day, Swagger, Synchronoise, Taunt, Telekinesis,
         Thief, Thunder Wave, Thunder Punch, Torment, Toxic, Trick, Trick Room, Zen
-          Headbutt, Baton Pass, Hidden Power Bug, Hidden Power Dark, Hidden Power
+          Headbutt, Hidden Power Bug, Hidden Power Dark, Hidden Power
           Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden Power Fire,
         Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass, Hidden Power
           Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic, Hidden
@@ -43,7 +43,7 @@ pokemon:
         Return, Role Play, Safeguard, Secret Power, Shadow Ball, Signal Beam, Skill
           Swap, Sleep Talk, Snatch, Substitute, Sunny Day, Swagger, Taunt, Thief,
         Thunder Wave, Thunder Punch, Torment, Toxic, Trick, Trick Room, Zen Headbutt,
-        Baton Pass, Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
+         Hidden Power Bug, Hidden Power Dark, Hidden Power Dragon, Hidden
           Power Electric, Hidden Power Fighting, Hidden Power Fire, Hidden Power Flying,
         Hidden Power Ghost, Hidden Power Grass, Hidden Power Ground, Hidden Power
           Ice, Hidden Power Poison, Hidden Power Psychic, Hidden Power Rock, Hidden
@@ -55,7 +55,7 @@ pokemon:
         Pound, Protect, Psych Up, Psychic, Rain Dance, Reflect, Rest, Return, Role
           Play, Safeguard, Secret Power, Shadow Ball, Skill Swap, Sleep Talk, Snatch,
         Snore, Substitute, Sunny Day, Swagger, Taunt, Thief, Thunder Wave, Thunder
-          Punch, Torment, Toxic, Baton Pass, Hidden Power Bug, Hidden Power Dark,
+          Punch, Torment, Toxic, Hidden Power Bug, Hidden Power Dark,
         Hidden Power Dragon, Hidden Power Electric, Hidden Power Fighting, Hidden
           Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
         Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
@@ -104,9 +104,9 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Hyper Beam]
-    - bw: [Focus Blast, Giga Impact, Hyper Beam, Switcheroo]
-    - dp: [Focus Blast, Giga Impact, Hyper Beam, Switcheroo]
-    - rs: [Hyper Beam]
+    - bw: [Baton Pass, Focus Blast, Giga Impact, Hyper Beam, Switcheroo]
+    - dp: [Baton Pass, Focus Blast, Giga Impact, Hyper Beam, Switcheroo]
+    - rs: [Baton Pass, Hyper Beam]
     - rb: [Hyper Beam]
     - xy: [Baton Pass, Focus Blast, Giga Impact, Hyper Beam, Switcheroo]
     stats:

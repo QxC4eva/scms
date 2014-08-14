@@ -11,10 +11,10 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Hyper Beam]
-    - bw: [Crunch, Dragon Tail, Fire Fang, Giga Impact, Hyper Beam, Ice Fang, Thunder
+    - bw: [Crunch, Dragon Tail, Fire Fang, Giga Impact, Hyper Beam, Ice Fang, Refresh, Thunder
           Fang]
-    - dp: [Crunch, Fire Fang, Giga Impact, Hyper Beam, Ice Fang, Thunder Fang]
-    - rs: [Hyper Beam]
+    - dp: [Crunch, Fire Fang, Giga Impact, Hyper Beam, Ice Fang, Refresh, Thunder Fang]
+    - rs: [Hyper Beam, Refresh]
     - rb: [Hyper Beam]
     - xy: [Crunch, Dragon Tail, Fire Fang, Giga Impact, Hyper Beam, Ice Fang, Refresh,
         Thunder Fang]

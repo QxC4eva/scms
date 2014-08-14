@@ -8,7 +8,7 @@ pokemon:
     height: [0.6]
     introduction: rs
     moves:
-    - bw: [Iron Defense, Iron Head, Take Down, Zen Headbutt]
+    - bw: [Headbutt, Iron Defense, Iron Head, Take Down, Zen Headbutt]
     - dp: [Headbutt, Iron Defense, Iron Head, Take Down, Zen Headbutt]
     - rs: [Take Down]
     - xy: [Headbutt, Iron Defense, Iron Head, Take Down, Zen Headbutt]
@@ -56,7 +56,7 @@ pokemon:
         Double Team, Earthquake, Explosion, Facade, Flash, Flash Cannon, Frustration,
         Grass Knot, Gravity, Gyro Ball, Hone Claws, Hyper Beam, Ice Punch, Light Screen,
         Magnet Rise, Metal Claw, Meteor Mash, Miracle Eye, Protect, Psych Up, Psychic,
-        Psyshock, Pursuit, Rain Dance, Reflect, Rest, Return, Rock Polish, Rock Slide,
+        Psyshock, Pursuit, Rain Dance, Reflect, Refresh, Rest, Return, Rock Polish, Rock Slide,
         Rock Smash, Rock Tomb, Round, Sandstorm, Scary Face, Shadow Ball, Signal Beam,
         Sleep Talk, Sludge Bomb, Snore, Stealth Rock, Strength, Substitute, Sunny
           Day, Swagger, Telekinesis, Thunder Punch, Toxic, Trick, Hidden Power Bug,
@@ -69,7 +69,7 @@ pokemon:
           Team, Earthquake, Endure, Explosion, Facade, Flash, Flash Cannon, Frustration,
         Fury Cutter, Grass Knot, Gravity, Gyro Ball, Hyper Beam, Ice Punch, Light
           Screen, Magnet Rise, Metal Claw, Meteor Mash, Mud-Slap, Natural Gift, Protect,
-        Psych Up, Psychic, Pursuit, Rain Dance, Reflect, Rest, Return, Rock Polish,
+        Psych Up, Psychic, Pursuit, Rain Dance, Reflect, Refresh, Rest, Return, Rock Polish,
         Rock Slide, Rock Smash, Rock Tomb, Rollout, Sandstorm, Scary Face, Secret
           Power, Shadow Ball, Signal Beam, Sleep Talk, Sludge Bomb, Snore, Stealth
           Rock, Strength, Substitute, Sunny Day, Swagger, Swift, Thunder Punch, Toxic,
@@ -81,7 +81,7 @@ pokemon:
     - rs: [Aerial Ace, Agility, Brick Break, Confusion, Cut, Defense Curl, Double
           Team, Dynamic Punch, Earthquake, Endure, Explosion, Facade, Flash, Frustration,
         Fury Cutter, Hyper Beam, Ice Punch, Iron Defense, Light Screen, Metal Claw,
-        Meteor Mash, Mud-Slap, Protect, Psych Up, Psychic, Pursuit, Rain Dance, Reflect,
+        Meteor Mash, Mud-Slap, Protect, Psych Up, Psychic, Pursuit, Rain Dance, Reflect, Refresh,
         Rest, Return, Rock Slide, Rock Smash, Rock Tomb, Rollout, Sandstorm, Scary
           Face, Secret Power, Shadow Ball, Sleep Talk, Sludge Bomb, Snore, Strength,
         Substitute, Sunny Day, Swagger, Swift, Thunder Punch, Toxic, Hidden Power

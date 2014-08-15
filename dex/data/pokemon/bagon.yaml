@@ -20,11 +20,11 @@ pokemon:
         Hidden Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
         Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
         Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
-    - dp: [Aerial Ace, Attract, Bite, Brick Break, Captivate, Crunch, Cut, Double-Edge,
+    - dp: [Aerial Ace, Attract, Bite, Body Slam, Brick Break, Captivate, Crunch, Cut, Double-Edge,
         Double Team, Draco Meteor, Dragon Claw, Dragon Dance, Dragon Pulse, Dragon
           Rage, Dragon Rush, Dragon Breath, Ember, Endure, Facade, Fire Blast, Fire
           Fang, Flamethrower, Focus Energy, Frustration, Fury Cutter, Headbutt, Hydro
-          Pump, Iron Defense, Leer, Mud-Slap, Natural Gift, Outrage, Protect, Rage, Rain Dance,
+          Pump, Iron Defense, Leer, Mimic, Mud-Slap, Natural Gift, Outrage, Protect, Rage, Rain Dance,
         Rest, Return, Roar, Rock Slide, Rock Smash, Rock Tomb, Scary Face, Secret
           Power, Shadow Claw, Sleep Talk, Snore, Strength, Substitute, Sunny Day,
         Swagger, Thrash, Toxic, Twister, Wish, Zen Headbutt, Hidden Power Bug, Hidden Power
@@ -76,7 +76,7 @@ pokemon:
     introduction: rs
     moves:
     - bw: [Aqua Tail, Bulldoze, Dragon Tail, Earthquake, Fly, Giga Impact, Heat Wave,
-        Hyper Beam, Iron Tail, Roost, Stone Edge, Tailwind, Thunder Fang]
+        Hyper Beam, Iron Tail, Refresh, Roost, Stone Edge, Tailwind, Thunder Fang]
     - dp: [Air Cutter, Aqua Tail, Defog, Earthquake, Fly, Giga Impact, Heat Wave,
         Hyper Beam, Iron Tail, Ominous Wind, Roost, Steel Wing, Stone Edge, Swift,
         Tailwind, Thunder Fang, Refresh]
@@ -104,8 +104,8 @@ pokemon:
     height: [1.1]
     introduction: rs
     moves:
-    - bw: []
-    - dp: [Rollout, Body Slam, Mimic]
+    - bw: [Rollout]
+    - dp: [Rollout, Defense Curl]
     - rs: [Defense Curl, Rollout]
     - xy: [Rollout]
     stats:

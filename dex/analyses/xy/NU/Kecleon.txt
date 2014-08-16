@@ -1,12 +1,12 @@
-Assault Vest
+Bulky Attacker
 ########
-name: Assault Vest
-move 1: Drain Punch
-move 2: Knock Off
-move 3: Sucker Punch
-move 4: Rock Slide / Ice Punch
+name: Bulky Attacker
+move 1: Sucker Punch
+move 2: Shadow Sneak
+move 3: Return
+move 4: Recover
 ability: Protean
-item: Assault Vest
+item: Leftovers
 evs: 252 HP / 252 Atk / 4 SpD
 nature: Adamant
 

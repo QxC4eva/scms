@@ -5062,7 +5062,7 @@ moves:
   Poison Gas:
     accuracy:
     - 55
-    - {bw: 90, xy: 80}
+    - {bw: 80, xy: 90}
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}

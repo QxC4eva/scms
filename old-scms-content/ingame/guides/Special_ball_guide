@@ -1,0 +1,214 @@
+[title]
+Special Poké Ball Inheritance Guide
+[head]
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+   $('.hidden').hide();
+   $('.hidehgss').click(function() {
+     var HideStatus = $(this).val();
+     if (HideStatus === 'Show List by Area') {
+       $('.hidden:eq(0)').show();
+       $(this).val('Hide List by Area');
+     }
+     else {
+       $('.hidden:eq(0)').hide();
+       $(this).val('Show List by Area');
+     }
+   });
+   $('.hidedw').click(function() {
+     var HideStatus = $(this).val();
+     if (HideStatus === 'Show List by Area') {
+       $('.hidden:eq(1)').show();
+       $(this).val('Hide List by Area');
+     }
+     else {
+       $('.hidden:eq(1)').hide();
+       $(this).val('Show List by Area');
+     }
+   });
+});
+</script>
+<style type="text/css">
+.hidehgss, .hidebw {
+   width: 100px;
+}
+</style>
+[page]
+<div class="author">By <a href="/forums/members/53214/">SuperJOCKE</a>.</div>
+
+<h2>Introduction</h2>
+
+<p>This little guide is here to help you find which special Poké Balls the Pokemon you want to breed in your X or Y game can legally be in. Not every Pokemon from generation 4 can be in, for example, a Love Ball, nor can every Pokemon from generation 5 be in a Dream Ball. Compiled into lists are the Pokemon that can be bred into Safari Balls, Sport Balls, Dream Balls, and any of the Apricorn Balls—Poké Balls that are unobtainable in X and Y. This guide won't go deeply into the specifics on how to require the Pokemon you want, but will give you some brief explanations on where to look. If you want more exact info, look for other sources of information.</p>
+
+<p>There are some restrictions for this though:</p>
+
+<ul>
+<li>Male and genderless Pokemon <strong>cannot</strong> pass on Poké Balls; the Pokemon in question needs to be female for the offspring to be in the same Ball. Ditto cannot pass on a Ball either. This means male-only Pokemon like Tauros cannot be bred into a special Poké Ball in X and Y. The same goes for genderless Pokemon like Beldum.</li>
+<li>The exceptions to the above rule are: Nidoran-M, Volbeat, Mothim, and Gallade. Nidoran-M and Volbeat can be bred from Nidoran-F and Illumise, respectively, while Mothim and Gallade evolve from Pokemon that can be both male and female.</li>
+<li>Since Hidden Abilities can only be passed on by females with Hidden Abilities themselves, Pokemon with Hidden Abilities cannot legally be inside Safari Balls, Sport Balls, or the Apricorn Balls. This means that you <strong>cannot</strong> have a Speed Boost Sharpedo inside a Safari Ball or a Drought Ninetales inside a Love Ball.</li>
+<li>Cherish Balls <strong>cannot</strong> be passed on, even if the Pokemon in a Cherish Ball is female. The same goes for Master Balls, as they are programmed that way.</li>
+</ul>
+
+<h2>Safari Ball <img src="/media/upload/ingame/guides/ball_safari.png" alt="" /></h2>
+
+<p>The Safari Ball has the biggest distrubution between both Pokemon and games. The Safari Ball can only be used in the Safari Zone/Great Marsh, but is available in every generation 3 and 4 game.</p>
+
+<h3>Ruby, Sapphire, Emerald</h3>
+
+<p>The Safari Zone in Ruby, Sapphire, and Emerald is located at Route 121. There are four areas where different Pokemon reside. In Emerald, two more areas exist (post-game), with Pokemon unobtainable in Ruby and Sapphire.</p>
+
+<p><strong>Pokemon</strong>: Doduo, Geodude, Girafarig, Goldeen, Heracross, Magikarp, Natu, Oddish, Phanpy, Pikachu, Pinsir, Psyduck, Rhyhorn, Wobbuffet</p>
+
+<p><strong>Emerald Exclusives</strong><br />
+Aipom, Gligar, Hoothoot, Houndour, Ledyba, Marill, Mareep, Miltank, Pineco, Remoraid, Shuckle, Snubbull, Spinarak, Stantler, Sunkern, Teddiursa, Wooper</p>
+
+<h3>FireRed &amp; LeafGreen</h3>
+
+<p>The Safari Zone in FireRed and LeafGreen is located in Fuchsia City. There are four areas with different distributions of Pokemon. Also, Scyther can only found in FireRed, while Pinsir can only be found in LeafGreen.</p>
+
+<p><strong>Pokemon</strong>: Chansey, Doduo, Dratini, Exeggcute, Goldeen, Kangaskhan, Magikarp, Nidoran-F, Paras, Pinsir (LG), Poliwag, Psyduck, Rhyhorn, Scyther (FR), Slowpoke, Venonat</p>
+
+<h3>Diamond, Pearl, Platinum</h3>
+
+<p>The Great Marsh can be found in Pastoria City. The Great Marsh consists of six areas, with different Pokemon appearing in each one. Some of these Pokemon can only be found when certain conditions have been met. Some version differences exist, which are marked with (DP) and (Pt) for their respective games.</p>
+
+<p><strong>Pokemon</strong>: Arbok, Barboach, Bibarel, Carnivine, Carvanha, Croagunk, Exeggcute, Gulpin, Hoothoot, Kangaskhan, Kecleon (Pt), Magikarp, Marill (DP), Paras, Psyduck (DP), Roselia, Shroomish, Skorupi, Staravia, Tangela (Pt), Tropius (Pt), Wooper, Yanma</p>
+
+<h3>HeartGold &amp; SoulSilver</h3>
+
+<p>The Safari Zone can be found at the end of Route 48. There are twelve different areas to choose from, which you customize with different items. You can choose which areas to display, six at a time, and certain Pokemon only appear with certain item combinations etc.</p>
+
+<input type="button" value="Show List by Area" class="hidehgss" />
+<div class="hidden">
+<dl>
+<dt>Desert</dt>
+<dd>Carnivine, Cacnea, Cubone, Fearow, Hippopotas, Lotad, Sandshrew, Spinda, Trapinch</dd>
+
+<dt>Forest</dt>
+<dd>Bellsprout, Bidoof, Budew, Electabuzz, Gastly, Lickitung, Misdreavus, Mr. Mime, Pidgey, Shuppet, Surskit</dd>
+
+<dt>Marshland</dt>
+<dd>Banette, Barboach, Carnivine, Croagunk, Diglett, Ekans, Grimer, Jumpluff, Koffing, Magikarp, Oddish, Poliwag, Roselia, Seviper, Shuckle, Wooper</dd>
+
+<dt>Meadow</dt>
+<dd>Chansey, Clefairy, Geodude, Hoppip, Jigglypuff, Sunkern, Magikarp, Marill, Masquerain Nosepass, Poliwag, Raticate, Riolu, Seedot, Wooper</dd>
+
+<dt>Mountain</dt>
+<dd>Chingling, Dusclops, Krabby, Larvitar, Lickitung, Meditite, Rattata, Sealeo, Zubat</dd>
+
+<dt>Peak</dt>
+<dd>Fearow, Geodude, Lairon, Linoone, Magmar, Paras, Slowbro, Spheal, Vigoroth, Wobbuffet, Zangoose</dd>
+
+<dt>Plains</dt>
+<dd>Abra, Girafarig, Houndoom, Lotad, Manectric, Ponyta, Rattata, Shinx, Smeargle, Stantler, Surskit, Zangoose, Zigzagoon</dd>
+
+<dt>Rocky Beach</dt>
+<dd>Aron, Budew, Corphish, Doduo, Electrike, Gible, Goldeen, Krabby, Lapras, Magikarp, Mareep, Poliwag, Slowpoke, Zubat</dd>
+
+<dt>Savannah</dt>
+<dd>Azurill, Cacturne, Houndour, Luxio, Nidoran-F, Rhyhorn, Shroomish, Torkoal, Zubat, Zigzagoon</dd>
+
+<dt>Swamp</dt>
+<dd>Bagon, Chimecho, Dratini, Drowzee, Duskull, Floatzel, Goldeen, Jigglypuff, Krabby, Magikarp, Murkrow, Pachirisu, Paras, Sentret, Weepinbell</dd>
+
+<dt>Wasteland</dt>
+<dd>Bellsprout, Breloom, Fearow, Golduck, Illumise, Kangaskhan, Kingler, Machop, Manectric, Medicham, Onix, Skorupi</dd>
+
+<dt>Wetland</dt>
+<dd>Buizel, Corphish, Doduo, Farfetch'd, Lombre, Magikarp, Pachirisu, Poliwag, Psyduck, Sentret, Shelgon, Spearow, Surskit, Wooper</dd>
+</dl>
+</div>
+
+<h2>Apricorn Balls <img src="/media/upload/ingame/guides/ball_level.png" alt="" /><img src="/media/upload/ingame/guides/ball_moon.png" alt="" /><img src="/media/upload/ingame/guides/ball_lure.png" alt="" /><img src="/media/upload/ingame/guides/ball_friend.png" alt="" /><img src="/media/upload/ingame/guides/ball_love.png" alt="" /><img src="/media/upload/ingame/guides/ball_fast.png" alt="" /><img src="/media/upload/ingame/guides/ball_heavy.png" alt="" /></h2>
+
+<p>The full set of Apricorn Balls consist of Level Ball, Moon Ball, Lure Ball, Friend Ball, Love Ball, Fast Ball, and Heavy Ball. The collective name comes from what they are made of: Apricorns. Apricorns can only be found within HeartGold and SoulSilver, and these Balls can only be obtained from Kurt in Azalea Town after giving him an appropriate Apricorn.</p>
+
+<p>Certain Pokemon listed below are exclusive to one version of the game, and are marked with (HG) and (SS), respectively. Some of the Pokemon listed under 'Swarm Pokemon' can be found through regular encounters as well, but the chance of doing so is only 1%.</p>
+
+<p><strong>Normal Pokemon</strong> - <em>These Pokemon are found in tall grass or caves, by Surfing or fishing, by using Rock Smash, or through special means (Sudowoodo, Lapras, and Snorlax)</em></p>
+
+<p>Abra, Bellsprout, Caterpie (HG), Chinchou, Clefairy, Corsola, Cubone, Delibird (SS), Diglett, Doduo, Dratini, Drowzee, Dunsparce, Ekans (SS), Electabuzz, Farfetch'd, Gastly, Geodude, Girafarig, Gligar (HG), Goldeen, Grimer, Growlithe (HG), Hoothoot, Hoppip, Horsea, Houndour, Jigglypuff, Jynx, Kangaskhan, Koffing, Krabby, Lapras, Larvitar, Ledyba (SS), Lickitung, Machop, Magikarp, Magmar, Mankey (HG), Mantine (HG), Mareep, Meowth (SS), Miltank, Misdreavus, Mr. Mime, Murkrow, Natu, Nidoran-F, Oddish, Onix, Paras, Phanpy (HG), Pidgey, Pikachu, Poliwag, Ponyta, Psyduck, Rattata, Rhyhorn, Sandshrew (HG), Seel, Sentret, Shellder, Shuckle, Skarmory (SS), Slowpoke, Slugma, Smeargle, Sneasel, Snorlax, Spearow, Spinarak (HG), Stantler, Sudowoodo, Sunkern, Swinub, Tangela, Teddiursa (SS), Tentacool, Venonat, Vulpix (SS), Weedle (SS), Wobbuffet, Wooper, Zubat</p>
+
+<p><strong>Swarm Pokemon</strong> - <em>These Pokemon only appear during Swarms; use the Poké Gear to find out which Pokemon is in a Swarm during that day (Prof. Oak's Pokémon Talk)</em></p>
+
+<p>Buneary, Chansey, Clamperl, Gulpin (SS), Kricketot, Luvdisc, Marill, Mawile (SS), Poochyena, Qwilfish, Ralts, Relicanth, Remoraid, Sableye (HG), Snubbull, Swablu, Whiscash, Wingull, Yanma</p>
+
+<p><strong>Radio Sound Pokemon</strong> - <em>These Pokemon only appear when you are tuned into the Pokémon March channel on Wednesdays (Hoenn) and Thursdays (Sinnoh)</em></p>
+
+<p>Absol, Bidoof, Budew, Buizel, Carnivine, Chatot, Chingling, Makuhita, Meditite, Minun, Numel, Plusle, Shinx, Spinda, Spoink, Whismur, Zigzagoon</p>
+
+<p><strong>Headbutt Tree Pokemon</strong> - <em>These Pokemon can only be found by using Headbutt on trees; some of these Pokemon can only be found in one specific tree, in one specific location</em></p>
+
+<p>Aipom, Burmy, Cherubi, Combee, Exeggcute, Heracross, Pineco, Seedot, Shroomish, Slakoth, Starly, Taillow, Wurmple</p>
+
+<h2>Sport Ball <img src="/media/upload/ingame/guides/ball_sport.png" alt="" /></h2>
+
+<p>The Sport Ball is another Ball that can only be found and used in HeartGold and SoulSilver. However, its restriction is even greater. The Sport Ball can only be used during the Bug Catching Contest, which gives it the lowest distrubution of all Poké Balls.</p>
+
+<p>The Bug Catching Contest can only be entered on Tuesdays, Thursdays, and Saturdays with different Pok&eacute;mon appearing on each day. If you don't have the National Pokédex, the same Pok&eacute;mon that appears on Tuesdays will appear on all three days.</p>
+
+<dl>
+<dt>Tuesday</dt>
+<dd>Caterpie, Paras, Pinsir, Scyther, Venonat, Weedle</dd>
+
+<dt>Thursday</dt>
+<dd>Combee, Kricketot, Nincada, Pinsir, Scyther, Wurmple</dd>
+
+<dt>Saturday</dt>
+<dd>Combee, Illumise, Kricketot, Nincada, Pinsir, Scyther, Wurmple</dd>
+</dl>
+
+<h2>Dream Ball <img src="/media/upload/ingame/guides/ball_dream.png" alt="" /></h2>
+
+<p>The Dream Ball is the only new Poké Ball introduced in generation 5. It is given to you in Entree Forest when catching a Pok&eacute;mon from the Dream World, and can only be used in that area. The Pok&eacute;mon that are transferred from the Pokémon Dream Radar game on the 3DS come inside Dream Balls.</p>
+
+<h3>Dream World</h3>
+
+<p>The Dream World on the Pokémon Global Link website is where the majority of the Pok&eacute;mon that can be caught in a Dream Ball come from. The way you obtain a Pok&eacute;mon in the Dream World is by playing a minigame with it and befriending it.</p>
+
+<p>However, as of January 14th, the Black and White Global Link site was shut down, and along with it the Dream World. This means you can only get the Pok&eacute;mon below in a Dream Ball by other means, like trading with someone. The Pok&eacute;mon are still categorized by the area they were found in.</p>
+
+<input type="button" value="Show List by Area" class="hidedw" />
+<div class="hidden">
+<dl>
+<dt>Pleasant Forest</dt>
+<dd>Bellsprout, Bidoof, Buneary, Castform, Cottonee, Doduo, Electrike, Elekid, Exeggcute, Farfetch'd, Girafarig, Glameow, Growlithe, Hoppip, Igglybuff, Kangaskhan, Karrablast, Lickitung, Lotad, Mareep, Marill, Miltank, Natu, Nidoran-F, Oddish, Pachirisu, Petilil, Poliwag, Ponyta, Poochyena, Psyduck, Rattata, Scolipede, Scyther, Sentret, Shelmet, Shinx, Skitty, Stantler, Sudowoodo, Sunkern, Surskit, Taillow, Tangela, Tympole, Vulpix, Zigzagoon</dd>
+
+<dt>Windswept Sky</dt>
+<dd>Aerodactyl, Butterfree, Chatot, Delibird, Drifloon, Ducklett, Emolga, Gligar, Hoothoot, Hoppip, Ledyba, Murkrow, Pidgey, Pidove, Sigilyph, Skarmory, Spearow, Staravia, Swablu, Taillow, Tropius, Wingull, Yanma, Zubat</dd>
+
+<dt>Sparkling Sea</dt>
+<dd>Alomomola, Anorith, Barboach, Basculin, Buizel, Carvanha, Chinchou, Clamperl, Corphish, Corsola, Dratini, Feebas, Goldeen, Horsea, Kabuto, Krabby, Lapras, Lileep, Luvdisc, Magikarp, Mantine, Omanyte, Qwilfish, Relicanth, Remoraid, Seel, Shellder, Shellos, Slowpoke, Stunfisk, Tentacool, Tirtouga, Wailmer, Wooper</dd>
+
+<dt>Spooky Manor</dt>
+<dd>Abra, Chimecho, Drowzee, Duosion, Duskull, Elgyem, Galvantula, Gastly, Houndour, Illumise, Mawile, Meditite, Meowth, Misdreavus, Mr. Mime, Pawniard, Ralts, Sableye, Shuppet, Smeargle, Smoochum, Snubbull, Spinarak, Spiritomb, Spoink, Stunky, Wobbuffet</dd>
+
+<dt>Rugged Mountain</dt>
+<dd>Absol, Bagon, Burmy, Cacnea, Croagunk, Crustle, Durant, Heatmor, Hippopotas, Koffing, Krookodile, Larvitar, Machop, Magby, Makuhita, Mankey, Maractus, Numel, Phanpy, Rhyhorn, Riolu, Skorupi, Slugma, Spinda, Teddiursa, Torkoal, Trapinch</dd>
+
+<dt>Icy Cave</dt>
+<dd>Aron, Axew, Boldore, Cleffa, Cranidos, Cubone, Diglett, Drilbur, Druddigon, Dunsparce, Geodude, Gible, Nosepass, Onix, Sandshrew, Shieldon, Shuckle, Sneasel, Snorunt, Snover, Spheal, Swinub, Vanillish, Whismur</dd>
+
+<dt>Dream Park</dt>
+<dd>Aipom, Audino, Beedrill, Carnivine, Chansey, Cherubi, Combee, Eevee, Ekans, Grimer, Gulpin, Gurdurr, Heracross, Kecleon, Kricketot, Minun, Nincada, Paras, Pineco, Pinsir, Plusle, Roselia, Scraggy, Seedot, Seviper, Shroomish, Slakoth, Snorlax, Togepi, Venonat, Wurmple, Zangoose</dd>
+</dl>
+</div>
+
+<h3>Pokémon Dream Radar</h3>
+
+<p>The Pokémon Dream Radar provides another way to get Pokemon in Dream Balls. While the amount of Pokemon available is significantly lower, these Pokemon are always obtainable as long as you have access to the Pokémon Dream Radar game.</p>
+
+<p><strong>Pokemon</strong>: Drifloon, Hoothoot, Igglybuff, Munna, Togepi, Ralts, Riolu, Shuckle, Sigilyph, Slowpoke, Smoochum, Spiritomb, Swablu</p>
+
+<h2>Special Cases With Regular Balls <img src="/media/upload/ingame/guides/ball_great.png" alt="" /><img src="/media/upload/ingame/guides/ball_dive.png" alt="" /><img src="/media/upload/ingame/guides/ball_luxury.png" alt="" /></h2>
+
+<p>While there's nothing out of the ordinary with Poké Balls like Great Ball and Luxury Ball, as they can be passed on to most Pokemon, there are some Pokemon that cannot be in these regular Balls at all. These Pokemon consist of starter Pokemon and fossil Pokemon, as they always come in Poké Balls. However, there are special instances where you can actually obtain some of these Pokemon in regular Balls.</p>
+
+<h3>Pokémon Colosseum</h3>
+
+<p>In Pokémon Colosseum you have the ability to catch Bayleef, Quilava, and Croconaw inside any Poké Ball you can find in Ruby, Sapphire, Emerald, FireRed, and LeafGreen. This means that you can legally breed Chikorita, Cyndaquil, and Totodile into Great Balls, Ultra Balls, Net Balls, Nest Balls, Timer Balls, Repeat Balls, Dive Balls, Luxury Balls, and Premier Balls in X and Y.</p>
+
+<h3>Dream World</h3>
+
+<p>When you catch Pokemon from the Dream World in the Entree Forest, the Dream Ball isn't your only Ball option. You can use any Poké Ball you have in your bag, which means you can catch quite a few Pokemon, that can only be inside Poké Balls when obtained elsewhere, in any regular Ball that you can find in Black and White (2). These Pokemon are Omanyte, Kabuto, Aerodactyl, Lileep, Anorith, Cranidos, Shieldon, and Tirtouga.</p>

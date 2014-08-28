@@ -3381,7 +3381,7 @@ moves:
     accuracy: [90]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description:
     - User takes 1 HP recoil if attack misses.
     - {gs: 'If it misses, user loses HP equal to 1/2 the damage that would have been

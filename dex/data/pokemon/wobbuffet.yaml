@@ -2,7 +2,7 @@ pokemon:
   Wobbuffet:
     abilities:
     - bw: [Shadow Tag, Telepathy]
-    - rs: [Shadow Tag]
+    - rs: [Shadow Tag] 
     - []
     egggroups:
     - [Indeterminate]
@@ -12,13 +12,13 @@ pokemon:
     introduction: gs
     moves:
     - gs: [Counter, Destiny Bond, Mirror Coat, Safeguard]
-    - rs: []
+    - rs: [Hydro Pump]
     stats:
     - [190, 33, 58, 33, 58, 33]
     tags:
     - [UU]
     - bw: [BL]
-      rs: [Uber]
+    - rs: [Uber]
     types:
     - [Psychic]
     weight: [28.5]
@@ -31,10 +31,7 @@ pokemon:
     height: [0.6]
     introduction: rs
     moves:
-    - bw: [Charm, Counter, Destiny Bond, Encore, Mirror Coat, Safeguard, Splash]
-    - dp: [Charm, Counter, Destiny Bond, Encore, Mirror Coat, Safeguard, Splash]
-    - rs: [Charm, Counter, Destiny Bond, Encore, Mirror Coat, Safeguard, Splash]
-    - xy: [Charm, Counter, Destiny Bond, Encore, Mirror Coat, Safeguard, Splash, Tickle]
+    - rs: [Charm, Counter, Destiny Bond, Encore, Mirror Coat, Safeguard, Splash, Tickle]
     stats:
     - [95, 23, 48, 23, 48, 23]
     tags:

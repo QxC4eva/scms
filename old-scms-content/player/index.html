@@ -1,44 +1,246 @@
 [title]
 The Player
-
 [head]
 <style type="text/css">
-       h1 {
-       display: none;
-       }
-       
-       .left{
-       float:left;
-       width: 50%;
-       }
-      
-       .right{
-       float:right;
-       width: 50%;
-       }
-       
-       .center{
-       text-align:center;
-       }
+	h1{
+		display: none;
+	}
+	
+	#logoContainer{
+		text-align: center;
+	}
+
+	/* Begin buttons */
+	#buttons{
+		display: block;
+		text-align: center;
+		overflow: visible;
+	}
+	
+	.playerButton{
+		display: inline-block;
+		text-transform: uppercase;
+		padding: 7px;
+		margin: 5px;
+		border: 0px solid #122F42;
+		color: #2C76A5;
+		background: #EAF1F6;
+		-webkit-border-radius: 10px;
+		   -moz-border-radius: 10px;
+				border-radius: 10px;
+		font-weight: bold;
+		font-size: 1.3em;
+		-webkit-transition: box-shadow 0.3s ease-in-out 0s;
+		   -moz-transition: box-shadow 0.3s ease-in-out 0s;
+				transition: box-shadow 0.3s ease-in-out 0s;
+	}
+	
+	#buttons a{
+		text-decoration: none;
+	}
+	
+	#buttons a:hover{
+		background: transparent;
+	}
+	
+	.playerButton:hover{
+		-webkit-box-shadow: 0px 0px 15px 0px rgba(18, 47, 66, 0.67);
+		   -moz-box-shadow: 0px 0px 15px 0px rgba(18, 47, 66, 0.67);
+				box-shadow: 0px 0px 15px 0px rgba(18, 47, 66, 0.67);
+	}
+	
+	.playerButton:active{
+		-webkit-box-shadow: inset 0px 0px 15px 0px rgba(18, 47, 66, 0.67);
+		   -moz-box-shadow: inset 0px 0px 15px 0px rgba(18, 47, 66, 0.67);
+				box-shadow: inset 0px 0px 15px 0px rgba(18, 47, 66, 0.67);
+	}
+	/* End buttons */
+	
+	/* Start Issues */
+	#issueIndex{
+		margin: 0 auto;
+		text-align: center;
+		width: 70%;
+	}
+	
+	/* Older Issues */
+	#issueIndex .issue{
+		display: inline-block;
+		margin: 10px;
+	}
+	
+	#issueIndex .issue .issueInfo{
+		display: none;
+	}
+	
+	#issueIndex .issue .issueCover{
+		height: 250px;
+		width: 193px;
+		border: 0px solid #122F42;
+		-webkit-border-radius: 10px;
+		   -moz-border radius: 10px;
+				border-radius: 10px;
+		-webkit-transition: box-shadow 0.3s ease-in-out 0s;
+		   -moz-transition: box-shadow 0.3s ease-in-out 0s;
+				transition: box-shadow 0.3s ease-in-out 0s;
+	}
+	
+	#issueIndex .issue a{
+		text-decoration: none;
+	}
+	
+	#issueIndex .issue a:hover{
+		background: transparent;
+	}
+	
+	#issueIndex .issue .issueCover:hover{
+		-webkit-box-shadow: 0px 0px 25px 0px rgba(18, 47, 66, 0.67);
+		   -moz-box-shadow: 0px 0px 25px 0px rgba(18, 47, 66, 0.67);
+				box-shadow: 0px 0px 25px 0px rgba(18, 47, 66, 0.67);
+	}
+	
+	#issueIndex .issue .issueCover:active{
+		-webkit-box-shadow: inset 0px 0px 25px 0px rgba(18, 47, 66, 0.67);
+		   -moz-box-shadow: inset 0px 0px 25px 0px rgba(18, 47, 66, 0.67);
+				box-shadow: inset 0px 0px 25px 0px rgba(18, 47, 66, 0.67);
+	}
+	
+	/* Latest Issue */
+	#issueIndex .issue:nth-of-type(1){
+		margin-top: 10px;
+		border 0px solid #122F42;
+		-webkit-border-radius: 15px;
+		   -moz-border-radius: 15px;
+				border-radius: 15px;
+		padding: 20px;
+		display: inline-block;
+		display: table;
+		background: #EAF1F6;
+	}
+	
+	#issueIndex .issue:nth-of-type(1) .issueCover{
+		width: 325px;
+		height: 400px;
+		float: left;
+		margin-right: 20px;
+	}
+	
+	#issueIndex .issue:nth-of-type(1) .issueInfo{
+		text-align: center;
+		display: table-cell;
+		vertical-align: middle;
+	}
+	
+	#issueIndex .issue:nth-of-type(1) .issueInfo a{
+		color: #2C76A5;
+		text-decoration: none;
+	}
+	
+	#issueIndex .issue:nth-of-type(1) .issueInfo a:hover{
+		text-decoration: underline;
+		background-color: transparent;
+	}
+	
+	#issueIndex .issue:nth-of-type(1) .issueLink{
+		font-size: 2em;
+		color: #2C76A5;
+		text-decoration: none;
+		font-weight: bold;
+	}
+	
+	#issueIndex .issue:nth-of-type(1) .issueEditorNote{
+		margin-top: 1em;
+	}
+	
+	#issueIndex .issue:nth-of-type(1) .issueReadMore{
+		text-decoration: none;
+		color: #2C76A5;
+		font-weight: bold;
+		margin-top: 1em;
+	}
+	
+	#issueIndex .issue:nth-of-type(1) .issueLink:hover, #issueIndex .issue:nth-of-type(1) .issueReadMore:hover{
+		text-decoration: underline;
+		background-color: transparent;
+	}
+	/* End Issues */
+	/* Media Queries */
+	@media (max-width: 1315px) {
+		#issueIndex{
+			width: 80%;
+		}
+	}
+	
+	@media (max-width: 960px) {
+		#issueIndex .issue:nth-of-type(1){
+			text-align: center;
+		}
+		
+		#issueIndex .issue:nth-of-type(1) .issueCover{
+			margin: 0 auto;
+			display: block;
+			float: none;
+		}
+		
+		#issueIndex .issue:nth-of-type(1) .issueInfo{
+			margin-top: 20px;
+			display: block;
+		}
+	}
+	
+	@media (max-width: 960px) {
+		#issueIndex{
+			width: 90%;
+		}
+	}
 </style>
-
 [page]
-
-<div id="issue_1">
-
-<div class="left">
-<div class="center"><a href="/player/issue1/"><img src="/player/issue1/cover.png" alt="Cover" height="400px" width="325px" style="-webkit-box-shadow: 1px 0px 30px 0px rgba(50, 50, 50, 0.68);
--moz-box-shadow: 1px 0px 30px 0px rgba(50, 50, 50, 0.68);
-box-shadow: 1px 0px 30px 0px rgba(50, 50, 50, 0.68);" /></a></div>
+<!-- Do not edit -->
+<!-- Main logo -->
+<div id="logoContainer">
+	<img  id="mainLogo" src="/player/player_logo.png" alt="The Player - Pok&eacute;mon Showdown's Webzine" />
 </div>
 
-<div class="right">
-<h2>Issue 1</h2>
+<div id="pageWrapper">
+	<!-- Buttons linking to important places -->
+	<div id="buttons">
+		<a href="/forums/forums/the-player.307/"><div class="playerButton">Forums</div></a>
+		
+		<a href="/forums/threads/contribution-guidelines-art.3509892/"><div class="playerButton">Contribute</div></a>
+		
+		<a href="/player/article-index"><div class="playerButton">Article Index</div></a>
+	</div>
 
-<p style="margin-right:5px">Welcome to the very first issue of The Player! In the past few months, we've come a long way from the webzine's inception to now. This issue features 10 articles (including this piece) as well as some fantastic cover art by <a href="/forums/members/blue-frog.163333/">Blue Frog</a>, who also created the webzine's logo. This issue's design is all in blue&mdash;the primary color of PS too. <a href="/forums/members/quarkz.206020/">Quarkz</a> and <a href="/forums/members/quinella.195572/">Quinella</a> assisted with creating the issue layout (they added the sliding effect) and we'll be looking to improve on that in the coming issues...</p>
+	<!-- ISSUE TEMPLATE
+	<div class="issue">
+			<a href="/player/issue#/">
+				<div class="issueCover" style="background: url('/player/issue#/cover.png'); background-size: 100% 100%; background-repeat: no-repeat;"></div>
+			</a>
+			<div class="issueInfo">
+				<a class="issueLink" href="/player/issue#">Issue #</a>
+				<p class="issueEditorNote"></p>
+				<a class="issueReadMore" href="/player/issue#/editor-note">Read more...</a>
+			</div>
+		</div>
+	-->
 
-<a href="/player/issue1/editor-note">Read more</a>
-
-</div>
-
+	<div id="issueIndex">
+		
+		<!-- ADD NEW ISSUES FROM HERE -->
+		<!-- MOST RECENT ISSUE AT THE TOP -->
+		
+		<!-- Background images are being really weird and so everything to do with them will be done with inline css until a fix is found -->
+		
+		<div class="issue">
+			<a href="/player/issue1/">
+				<div class="issueCover" style="background: url('/player/issue1/cover.png'); background-size: 100% 100%; background-repeat: no-repeat;"></div>
+			</a>
+			<div class="issueInfo">
+				<a class="issueLink" href="/player/issue1">Issue 1</a>
+				<p class="issueEditorNote">Welcome to the very first issue of The Player! In the past few months, we've come a long way from the webzine's inception to now. This issue features 10 articles (including this piece) as well as some fantastic cover art by <a href="/forums/members/blue-frog.163333/">Blue Frog</a>, who also created the webzine's logo. This issue's design is all in blue&mdash;the primary color of PS too. <a href="/forums/members/quarkz.206020/">Quarkz</a> and <a href="/forums/members/quinella.195572/">Quinella</a> assisted with creating the issue layout (they added the sliding effect) and we'll be looking to improve on that in the coming issues...</p></p>
+				<a class="issueReadMore" href="/player/issue1/editor-note">Read more...</a>
+			</div>
+		</div>
+		
+	</div>
 </div>

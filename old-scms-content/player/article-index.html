@@ -1,0 +1,38 @@
+[title]
+The Player Article Index
+
+[head]
+<script type="text/javascript" src="/media/jquery.js"></script>
+<script type="text/javascript" src="/media/jquery.tablesorter.js"></script>
+<meta name="description" content="An index of all past The Player articles." />
+
+[page]
+<p>The table below serves as an index of all articles written for The Player.</p>
+<p><em>Based on <a href="/smog/archive">The Smog Article Index</a></em>
+<table id="playerIndex" class="sortable">
+	<thead>
+		<tr><th>Issue</th><th>Article Name</th><th>Author(s)</th></tr>
+	</thead>
+	<tbody>
+		<tr><td>1</td><td><a href="/player/issue1/editor-note">Editors' Notes</a></td><td>Scene and Vacate</td></tr>
+		<tr class="a"><td>1</td><td><a href="/player/issue1/interview-with-scene">Interview with Scene</a></td><td>SteelEdges</td></tr>
+		<tr><td>1</td><td><a href="/player/issue1/analysis-odd-usernames">An Analysis on Odd Usernames</a></td><td>Electrolyte</td></tr>
+		<tr class="a"><td>1</td><td><a href="/player/issue1/the-gossiper">The Gossiper: Volume 1</a></td><td>MattL</td></tr>
+		<tr><td>1</td><td><a href="/player/issue1/casual-guide-to-tournaments">A Casual Guide to Tournaments</a></td><td>Antemortem</td></tr>
+		<tr class="a"><td>1</td><td><a href="/player/issue1/guide-to-mafia">A Guide to: PS! Mafia</a></td><td>Transmuter and Snaquaza</td></tr>
+		<tr><td>1</td><td><a href="/player/issue1/guide-to-roleplaying">Skitty</a></td><td>A Guide to: Roleplaying on PS!</td></tr>
+		<tr class="a"><td>1</td><td><a href="/player/issue1/making-a-successful-room">What makes a successful room on PS?</a></td><td>shaymin</td></tr>
+		<tr><td>1</td><td><a href="/player/issue1/the-happy-place">So what really makes The Happy Place, well, "Happy"?</a></td><td>shaymin</td></tr>
+		<tr class="a"><td>1</td><td><a href="/player/issue1/recently-on-ps">Recently on PS!</a></td><td>N/A</td></tr>
+		<!--<tr><td>1</td><td><a href="/player/issue1/"></a></td><td></td></tr>
+		<tr class="a"><td>1</td><td><a href="/player/issue1/"></a></td><td></td></tr>-->
+	</tbody>
+</table>
+
+<script type="text/javascript">
+$("#playerIndex").tablesorter({
+widgets: ['zebra'],
+textExtraction: "complex",
+sortList: [[0,0], [1,0], [2,1], [3,0], [4,0], [5,0]]
+})
+</script>

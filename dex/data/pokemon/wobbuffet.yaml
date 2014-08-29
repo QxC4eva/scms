@@ -18,7 +18,7 @@ pokemon:
     tags:
     - [UU]
     - bw: [BL]
-      rs: [Uber]
+    - rs: [Uber]
     types:
     - [Psychic]
     weight: [28.5]
@@ -31,9 +31,9 @@ pokemon:
     height: [0.6]
     introduction: rs
     moves:
-    - bw: [Charm, Counter, Destiny Bond, Encore, Mirror Coat, Safeguard, Splash]
-    - dp: [Charm, Counter, Destiny Bond, Encore, Mirror Coat, Safeguard, Splash]
-    - rs: [Charm, Counter, Destiny Bond, Encore, Mirror Coat, Safeguard, Splash]
+    - bw: [Charm, Counter, Destiny Bond, Encore, Mirror Coat, Safeguard, Splash, Tickle]
+    - dp: [Charm, Counter, Destiny Bond, Encore, Mirror Coat, Safeguard, Splash, Tickle]
+    - rs: [Charm, Counter, Destiny Bond, Encore, Mirror Coat, Safeguard, Splash, Tickle]
     - xy: [Charm, Counter, Destiny Bond, Encore, Mirror Coat, Safeguard, Splash, Tickle]
     stats:
     - [95, 23, 48, 23, 48, 23]

@@ -1,7 +1,7 @@
 /*
  *  The Player issue homepage stylesheet (desktop client)
  *  By Vacate (http://www.smogon.com/forums/members/vacate.189371/) with contributions from Quarkz (http://www.smogon.com/forums/members/quarkz.206020/) and Quinella (http://www.smogon.com/forums/members/quinella.195572/)
- *  Last update by Quarkz (30/07/2014)
+ *  Last update by Quarkz (30/08/2014)
  */
 
 #issuebacking{
@@ -49,9 +49,9 @@
 	max-height: 0;
 	margin-bottom: 0;
 	overflow: hidden;
-	-webkit-transition: max-height 800ms ease-in-out, margin 800ms ease-in-out;
-	   -moz-transition: max-height 800ms ease-in-out, margin 800ms ease-in-out;
-			transition: max-height 800ms ease-in-out, margin 800ms ease-in-out;
+	-webkit-transition: max-height 400ms ease-in-out, margin 400ms ease-in-out;
+	   -moz-transition: max-height 400ms ease-in-out, margin 400ms ease-in-out;
+			transition: max-height 400ms ease-in-out, margin 400ms ease-in-out;
 }
 
 .leftcolumn{

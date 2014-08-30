@@ -1,0 +1,44 @@
+[title]
+All About Scripted Tournaments
+
+[head]
+<link href="/media/smog/smog-articles.css" type="text/css" rel="stylesheet" />
+
+[page]
+<div class="author">By <a href="/forums/members/scene.191866/">Scene</a>. Art by <a href="/forums/members/nerina.212579/">Nerina</a>.</div>
+<table id="smogheader">
+  <tr>
+    <td class="left"><a href="">&laquo; Previous Article</a></td>
+    <td class="middle"><a href="/player/issue2/">Home</a></td>
+    <td class="right"><a href="">Next Article &raquo;</a></td>
+  </tr>
+</table>
+
+<h2>Starting a Tournament</h2>
+
+<div class="float-right"> <img src="/player/issue2/scriptedtours.jpg" alt="" /></div>
+
+<p>Depending on the room in question, you'll need to be either a <em>Room Moderator</em> or a <em>Room Owner</em> to start a scripted tournament, depending on whether tournaments are enabled for Moderators in the room or not. If you want to host, you're probably going to want to know how to launch a tournament's signups phase. It's a very simple first step &mdash; just input <strong>/tour new <em>tier, type</em></strong>. For example, <strong>/tour new smogondoubles, elimination</strong> is a valid tournament. If you mistype the tier, PS will even helpfully give you a list of valid options that you are allowed to type. As for the type of tournament, there's little that you can mess up here as well. The type of tournament boils down to two options; either it's an elimination, which is an ordinary knockout tournament, or it's a round-robin. Round-robin means that everyone plays against everyone else, and it's not something you want to try unless your tournament has both a small number of players and is in a quick tier, like 1v1.</p>
+
+<p>Additionally, you can change the number of losses required to actually be knocked out of the tournament, - making it double or triple elimination. To do this, simply add a number to the end of the command: for example <strong>/tour new ru, elimination, 2</strong> creates a double elimination knockout RU tournament. Like round-robin tournaments, this isn't a thing that you want to try unless it's a fast-to-play tier, unless you want your fun 100-man Ubers tournament taking seven hours because quadruple elimination sounded like a good idea at the time. Plan ahead!</p>
+
+<p>Once you've got a decent number of users entered using <strong>/tour join</strong> or clicking the Join button, you'll want to begin the battling phase of the tournament. If you happen to wish to change the parameters of the tournament at this point, use <strong>/tour settype <em>tier, type</em></strong>. To end signups, just type <strong>/tour start</strong>.</p>
+
+<h2>Running a Tournament</h2>
+
+<p>Immediately after starting, I highly recommend setting an automatic disqualification time. Confused? All that means is that if a player's been inactive (have not challenged their opponent or accepted a challenge) for a certain amount of time, they'll be automatically removed from the tournament and their opponent will advance. To do this, simply type <strong>/tour autodq 3</strong>, which would set a three minute auto disqualification period. You can replace 3 with whatever number of minutes you desire. This can be done by <em>Room Drivers</em> and up.</p>
+
+<p>If users need to be disqualified manually, Drivers can also use <strong>/tour dq <em>user</em></strong> to do this. This can be used to punish users scouting battles, for example. Alternatively, players can also use <strong>/tour leave</strong> to disqualify themselves if they no longer wish to take part in the tournament. If at any point you'd like to see the number of users entered in the tournament, <strong>/tour getusers</strong> is a useful tool for that.</p>
+
+<p>In the unlikely event that the tournament needs to be manually ended, Drivers can use <strong>/tour end</strong>. This is irreversible and should not be done without consultation and as a last resort, unless you want to be shouted at by whoever's in charge of the room.</p>
+
+<h2>Conclusion</h2>
+<p>Scripted tournaments are a hugely powerful tool for attracting and retaining users in your room, and you undoubtedly want to get the most out of them. Hopefully, after reading this guide, you'll be able to truly make use of one of Showdown's unique and best-loved features!</p>
+
+<table id="smogfooter">
+  <tr>
+    <td class="left"><a href="">&laquo; Previous Article</a></td>
+    <td class="middle"><a href="/player/issue2/">Home</a></td>
+    <td class="right"><a href="">Next Article &raquo;</a></td>
+  </tr>
+</table>

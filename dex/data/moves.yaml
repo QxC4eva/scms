@@ -7185,7 +7185,7 @@ moves:
     accuracy: [85]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [Has 1/4 recoil.]
     introduction: rb
     power: [90]
@@ -7296,7 +7296,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description:
     - Repeats for 3-4 turns. Confuses the user at the end.
     - {gs: Repeats for 2-3 turns. Confuses the user.}
@@ -7464,7 +7464,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    - {bw: Special, dp: Special, gs: Physical, rs: Physical, xy: Special}
     description:
     - No additional effect.
     - {gs: '20% chance to burn, freeze, or paralyze.'}
@@ -7513,7 +7513,7 @@ moves:
     accuracy: [90]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, rs: Physical, xy: Physical}
     description: [Attacks up to 3 times in 1 turn.]
     introduction: gs
     power: [10]
@@ -7539,7 +7539,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [Hits twice in one turn. Each hit has a 20% chance to poison.]
     introduction: rb
     power: [25]
@@ -7637,7 +7637,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [No additional effect.]
     introduction: rb
     power: [55]
@@ -7665,7 +7665,7 @@ moves:
     accuracy: [0]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, rs: Physical, xy: Physical}
     description: ['Moves second, but ignores accuracy modifiers.']
     introduction: gs
     power: [70]
@@ -7887,7 +7887,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [No additional effect.]
     introduction: rb
     power:
@@ -7975,7 +7975,7 @@ moves:
     - {bw: 90}
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [Prevents the opponent from attacking for 2-5 turns.]
     introduction: rb
     power: [15]

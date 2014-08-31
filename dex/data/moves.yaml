@@ -5994,7 +5994,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [No additional effect.]
     introduction: rb
     power: [40]
@@ -6078,7 +6078,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [Does damage equal to the user's level.]
     introduction: rb
     power:
@@ -6092,7 +6092,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [Faints the user.]
     introduction: rb
     power:
@@ -6302,7 +6302,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description:
     - Charges up turn one; attacks turn two.
     - {gs: Charges up turn one; attacks turn two. Boosts Defense by 1 stage.}
@@ -6318,7 +6318,7 @@ moves:
     accuracy: [90]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [Hits the turn after being used.]
     introduction: rb
     power: [140]
@@ -6367,7 +6367,7 @@ moves:
     accuracy: [75]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [No additional effect.]
     introduction: rb
     power: [80]
@@ -6379,7 +6379,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [Has a high critical hit rate.]
     introduction: rb
     power: [70]
@@ -6416,7 +6416,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    - {bw: Special, dp: Special, gs: Physical, rs: Physical, xy: Special}
     description:
     - 29.7% chance to poison.
     - {gs: 30% chance to poison.}
@@ -6430,7 +6430,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    - {bw: Special, dp: Special, rs: Physical, xy: Special}
     description: [30% chance to poison.]
     introduction: gs
     power: [90]
@@ -6481,7 +6481,7 @@ moves:
     accuracy: [70]
     category:
     - Physical
-    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    - {bw: Special, dp: Special, gs: Physical, rs: Physical, xy: Special}
     description: [40% chance to poison.]
     introduction: rb
     power:
@@ -6533,7 +6533,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    - {bw: Special, dp: Special, rs: Physical, xy: Special}
     description: [Can only be used while sleeping. 30% chance to flinch.]
     introduction: gs
     power:
@@ -6583,7 +6583,7 @@ moves:
     accuracy: [90]
     category:
     - Physical
-    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    - {bw: Special, dp: Special, gs: Physical, rs: Physical, xy: Special}
     description:
     - Does 20 damage.
     - {gs: Does 20 damage. Ghosts are immune.}
@@ -6635,7 +6635,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [Hits 2-5 times in one turn.]
     introduction: rb
     power: [20]
@@ -6755,7 +6755,7 @@ moves:
     accuracy: [90]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, rs: Physical, xy: Physical}
     description: [10% chance to raise the user's Defense by 1 stage.]
     introduction: gs
     power: [70]
@@ -6792,7 +6792,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [30% chance to flinch.]
     introduction: rb
     power: [65]
@@ -6842,7 +6842,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [No additional effect.]
     introduction: rb
     power: [80]
@@ -6866,7 +6866,7 @@ moves:
     accuracy: [0]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [Has 1/2 recoil.]
     introduction: rb
     power: [50]
@@ -6906,7 +6906,7 @@ moves:
     accuracy: [80]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [Has 1/4 recoil.]
     introduction: rb
     power: [80]
@@ -6955,7 +6955,7 @@ moves:
     accuracy: [90]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [Does damage equal to half the foe's current HP.]
     introduction: rb
     power:
@@ -7057,7 +7057,7 @@ moves:
     accuracy: [0]
     category:
     - Physical
-    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    - {bw: Special, dp: Special, gs: Physical, rs: Physical, xy: Special}
     description: [Always hits.]
     introduction: rb
     power: [60]
@@ -7123,7 +7123,7 @@ moves:
     - {bw: 100}
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [No additional effect.]
     introduction: rb
     power:

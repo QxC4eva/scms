@@ -4233,7 +4233,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, rs: Physical, xy: Physical}
     description: [Has variable damage.]
     introduction: gs
     power:
@@ -4310,7 +4310,7 @@ moves:
     accuracy: [75]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [No additional effect.]
     introduction: rb
     power: [120]
@@ -4322,7 +4322,7 @@ moves:
     accuracy: [85]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [No additional effect.]
     introduction: rb
     power: [80]
@@ -4334,7 +4334,7 @@ moves:
     accuracy: [85]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, rs: Physical, xy: Physical}
     description: [No additional effect.]
     introduction: gs
     power: [120]
@@ -4374,7 +4374,7 @@ moves:
     accuracy: [95]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, rs: Physical, xy: Physical}
     description: [10% chance to boost Attack by 1 stage.]
     introduction: gs
     power: [50]
@@ -4645,7 +4645,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Special, dp: Special, rs: Special, xy: Special}
+    - {bw: Special, dp: Special, rs: Physical, xy: Special}
     description: [Lowers accuracy by 1 stage.]
     introduction: gs
     power: [20]

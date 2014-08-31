@@ -2963,7 +2963,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [30% chance to flinch the target.]
     introduction: rb
     power: [70]
@@ -3433,7 +3433,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [No additional effect.]
     introduction: rb
     power: [65]
@@ -3445,7 +3445,7 @@ moves:
     accuracy: [30]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [Will OHKO the target.]
     introduction: rb
     power:
@@ -3523,7 +3523,7 @@ moves:
     accuracy: [90]
     category:
     - Physical
-    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    - {bw: Special, dp: Special, gs: Physical, rs: Physical, xy: Special}
     description:
     - User cannot move next turn, unless opponent or Substitute was KOed.
     - {gs: User cannot move next turn.}
@@ -3537,7 +3537,7 @@ moves:
     accuracy: [90]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [10% chance to flinch the target.]
     introduction: rb
     power: [80]
@@ -3791,7 +3791,7 @@ moves:
     accuracy: [75]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, rs: Physical, xy: Physical}
     description: [30% chance to lower Defense by 1 stage.]
     introduction: gs
     power: [100]
@@ -3815,7 +3815,7 @@ moves:
     accuracy: [95]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description:
     - User takes 1 HP recoil if attack misses.
     - {gs: 'If it misses, user loses HP equal to 1/2 the damage that would have been
@@ -3834,7 +3834,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [Has a high critical hit rate.]
     introduction: rb
     power: [50]
@@ -3964,7 +3964,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [Leeches 50% of the damage dealt.]
     introduction: rb
     power: [20]
@@ -4066,7 +4066,7 @@ moves:
     - {gs: 100}
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description:
     - 30% chance to flinch foe.
     - {gs: Deals damage based on the foe's weight.}
@@ -4132,7 +4132,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, rs: Physical, xy: Physical}
     description: [The user always attacks first.]
     introduction: gs
     power: [40]

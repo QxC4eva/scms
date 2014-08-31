@@ -4914,7 +4914,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [No additional effect.]
     introduction: rb
     power: [40]
@@ -4938,7 +4938,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [No additional effect.]
     introduction: rb
     power: [35]
@@ -5005,7 +5005,7 @@ moves:
     - {xy: 95}
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [Hits 2-5 times in one turn.]
     introduction: rb
     power:
@@ -5101,7 +5101,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description:
     - 20% chance to poison opponent.
     - {gs: 30% chance to poison.}
@@ -5127,7 +5127,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [No additional effect.]
     introduction: rb
     power: [40]
@@ -5234,7 +5234,7 @@ moves:
     accuracy: [90]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, rs: Physical, xy: Physical}
     description: [Has random power and a chance to heal the target.]
     introduction: gs
     power:
@@ -5415,7 +5415,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [The user always attacks first.]
     introduction: rb
     power: [40]
@@ -5452,7 +5452,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description:
     - Boosts Attack 1 stage if hit, but can only use Rage after that.
     - {gs: Boosts Atk 1 stage if hit.}
@@ -5490,7 +5490,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, rs: Physical, xy: Physical}
     description: [Removes Leech Seed and Spikes.]
     introduction: gs
     power: [20]
@@ -5528,7 +5528,7 @@ moves:
     - {gs: 100}
     category:
     - Physical
-    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    - {bw: Special, dp: Special, gs: Physical, rs: Physical, xy: Special}
     description:
     - Charges up the first turn; attacks on the second turn.
     - {gs: Charges up the first turn; attacks on the second turn. Has a high critical
@@ -5644,7 +5644,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, rs: Physical, xy: Physical}
     description: [No additional effect.]
     introduction: gs
     power:
@@ -5672,7 +5672,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, rs: Physical, xy: Physical}
     description: [Does more damage as HP decreases.]
     introduction: gs
     power:
@@ -5752,7 +5752,7 @@ moves:
     accuracy: [90]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description:
     - No additional effect.
     - {gs: 30% chance to flinch.}
@@ -5766,7 +5766,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, rs: Physical, xy: Physical}
     description: [50% chance to lower Defense by 1 stage.]
     introduction: gs
     power:
@@ -5780,7 +5780,7 @@ moves:
     accuracy: [90]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [No additional effect.]
     introduction: rb
     power: [50]
@@ -5832,7 +5832,7 @@ moves:
     accuracy: [85]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [30% chance to flinch.]
     introduction: rb
     power: [60]
@@ -5844,7 +5844,7 @@ moves:
     accuracy: [90]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, rs: Physical, xy: Physical}
     description: [Doubles in power with each hit. Repeats for 5 turns.]
     introduction: gs
     power: [30]

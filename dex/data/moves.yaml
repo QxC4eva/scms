@@ -2027,7 +2027,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, rs: Physical, xy: Physical}
     description: [Always leaves the foe with at least 1 HP.]
     introduction: gs
     power: [40]
@@ -2184,7 +2184,7 @@ moves:
     accuracy: [30]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [Will OHKO the target.]
     introduction: rb
     power:
@@ -2198,7 +2198,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, rs: Physical, xy: Physical}
     description: [Does more damage as HP decreases.]
     introduction: gs
     power:
@@ -2337,7 +2337,7 @@ moves:
     accuracy: [95]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: ['User is made invulnerable for one turn, then hits the next turn.']
     introduction: rb
     power:
@@ -2514,7 +2514,7 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, rs: Physical, xy: Physical}
     description: [No additional effect.]
     introduction: gs
     power:
@@ -2528,7 +2528,7 @@ moves:
     accuracy: [85]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [Hits 2-5 times in one turn.]
     introduction: rb
     power: [15]
@@ -2540,7 +2540,7 @@ moves:
     accuracy: [95]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, rs: Physical, xy: Physical}
     description: [Power doubles with each consecutive hit.]
     introduction: gs
     power:
@@ -2554,7 +2554,7 @@ moves:
     accuracy: [80]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [Hits 2-5 times in one turn.]
     introduction: rb
     power: [18]
@@ -2823,7 +2823,7 @@ moves:
     accuracy: [30]
     category:
     - Physical
-    - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
+    - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: [Will OHKO the target.]
     introduction: rb
     power:
@@ -2851,10 +2851,10 @@ moves:
     accuracy: [100]
     category:
     - Physical
-    - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
+    - {bw: Special, dp: Special, gs: Physical, rs: Physical, xy: Special}
     description:
     - No additional effect.
-    - {gs: "Hits Pokemon using Fly for twice base power."}
+    - {gs: "Hits Pokemon using Fly for twice Base Power."}
     introduction: rb
     power: [40]
     pp: [35]

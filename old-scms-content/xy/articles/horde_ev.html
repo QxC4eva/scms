@@ -1,0 +1,1263 @@
+[title]
+A Guide to EV Training with Hordes
+[head]
+<style type="text/css">
+  .ev-container {
+    width: 570px;
+    margin: 6px auto;
+    color: #7C7AE3;
+    font-weight: bold;
+  }
+  .ev-place {
+    background-color: #D6D7FF;
+    border-radius: 20px 20px 0 0;
+    height: 19px;
+    padding: 6px 18px 0;
+    display: inline-block;
+    width: auto;
+    float: left;
+  }
+  .ev-rain {
+    background-image: url('http://i.imgur.com/DFlwZbv.png');
+    background-size: 100%;
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+    margin: 0 0 auto 6px;
+    float: left;
+  }
+  .ev-content-container {
+    padding: 8px;
+    background-color: #D6D7FF;
+    border-radius: 0 20px 20px 20px;
+  }
+  .ev-content {
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    padding: 6px;
+  }
+  .ev-rarity-row {
+    background-color: #F4F6FF;
+    border-radius: 20px;
+    padding: 4px;
+    margin: 6px 0;
+  }
+  .ev-rarity-row:first-of-type {
+    margin-top: 0;
+  }
+  .ev-rarity-row:last-of-type {
+    margin-bottom: 0;
+  }
+  .ev-rarity-row table {
+    margin: 0;
+    border-spacing: 0;
+  }
+  .ev-rarity-row td {
+    height: 26px;
+    text-align: center;
+  }
+  .ev-rarity-row .spacer td {
+    height: 6px;
+    padding: 0;
+  }
+  .ev-rarity {
+    width: 96px;
+  }
+  .ev-rarity.common { color: #15AD57; }
+  .ev-rarity.uncommon { color: #FF9B5D; }
+  .ev-rarity.rare { color: #FF0000; }
+  .ev-version {
+    width: 20px;
+  }
+  .ev-version.x { color: #0059B3; }
+  .ev-version.y { color: #FF0000; }
+  .ev-version.line.x { border-left: 2px solid #0059B3; }
+  .ev-version.line.y { border-left: 2px solid #FF0000; }
+  .ev-sprite {
+    width: 26px;
+  }
+  .ev-sprite img {
+    vertical-align: text-top;
+  }
+  .ev-evs {
+    width: 140px;
+  }
+  .ev-times {
+    width: 26px;
+    color: #000000;
+  }
+  .ev-total {
+    width: 160px;
+    text-align: left !important;
+  }
+
+  .hp { color: #15AD57; }
+  .atk { color: #ff2600; }
+  .def { color: #0A7BFF; }
+  .spa { color: #ff2f92; }
+  .spd { color: #9437ff; }
+  .spe { color: #ff9300; }
+  .composite { color: #A2A2A2; }
+</style>
+[page]
+<div class="author">Written by <a href="/forums/members/stellar.22173/">Stellar</a>.</div>
+<br />
+<div align="center"><p><b>Most Efficient Routes:</b> <a href="#hp"><b>HP</b></a> | <a href="#attack"><b>Attack</b></a> | <a href="#defense"><b>Defense</b></a> | <a href="#spattack"><b>Special Attack</b></a> | <a href="#spdefense"><b>Special Defense</b></a> | <a href="#speed"><b>Speed</b></a></p>
+
+<p>Alternate Routes: <a href="#hp2">HP</a> | <a href="#attack2">Attack</a> | <a href="#defense2">Defense</a> | <a href="#spattack2">Special Attack</a> | <a href="#spdefense2">Special Defense</a> | <a href="#speed2">Speed</a></p></div>
+
+<h2>Introduction</h2>
+
+<p>Hordes are a new type of battle introduced in Pok&eacute;mon X and Y. These battles force the trainer to confront five wild Pok&eacute;mon at a time instead of the usual one. Often, horde battles will contain five of the same Pok&eacute;mon; however, there are certain areas which feature horde battles containing multiple species. While these battles can prove challenging during the main story, they serve as a quick means of EV training Pok&eacute;mon in the post-game.</p>
+
+<h3>Horde Tips</h3>
+<ul>
+  <li>Use <a href="/dex/xy/moves/sweet_scent">Sweet Scent</a> or Honey to initiate a horde battle while standing in tall grass.</li>
+  <li>Sweet Scent and Honey will fail if used on a route in which it is raining.</li>
+  <li>Use a powerful spread move like <a href="/dex/xy/moves/petal_blizzard">Petal Blizzard</a> or <a href="/dex/xy/moves/surf">Surf</a> to KO all five Pok&eacute;mon at the same time!</li>
+  <li>You gain EVs and experience for all five horde Pok&eacute;mon defeated in battle.</li> 
+</ul>
+
+<h3>EV Training Tips</h3>
+<ul>
+  <li>A Pok&eacute;mon gains EVs when it gains experience.</li>
+  <li>To wipe a Pok&eacute;mon's EVs, use a Reset Bag from Super Training.</li>
+  <li>Pok&eacute;rus <i>doubles</i> the number of EVs your Pok&eacute;mon gains in battle.</li>
+  <li>Macho Brace <i>doubles</i> the number of EVs your Pok&eacute;mon gains in battle.</li>
+  <li>Power Items (Brace, Anklet, etc.) grant an additional 4 EVs in a specific stat per Pok&eacute;mon defeated.</li>
+  <li>With Exp. Share ON, the entire party gains EVs.</li>
+</ul>
+
+<h3>Horde EV Math</h3>
+<p>You can calculate how many EVs you will gain from a horde battle by using the following formula:</p>
+<pre><var>EVs</var> = (<var>Total_Horde_EVs</var> + 20 <var>A</var>)*<var>B</var>*<var>C</var></pre>
+<ul>
+  <li>Total_Horde_EVs = EVs found on the far right of the tables below</li>
+  <li>A = Power Item Stat (Not equipped = 0, Weight = HP, Bracer = Atk, Belt = Def, Lens = SpA, Band = SpD, Anklet = Spe)</li>
+  <li>B = Pok&eacute;rus (Not infected = 1, Infected = 2)</li>
+  <li>C = Macho Brace (Not equipped = 1, Equipped = 2)</li>
+</ul>
+<p>Example: A Pok&eacute;mon with Pok&eacute;rus defeats a Gulpin horde while holding a Power Weight.</p>
+<pre><var>EVs</var> = (5 HP + 20 HP)*<var>2</var>*<var>1</var></pre>
+<pre><var>EVs</var> = (25 HP)*<var>2</var></pre>
+<pre><var>EVs</var> = 50 HP</pre>
+
+<h2>A Complete List of Horde Battles Per Route</h2>
+<br />
+<div class="ev-container">
+  <div class="ev-place"><a name="hp">Route 5 - Versant Road</a></div>
+  <div style="clear: both;"></div>
+  <div class="ev-content-container">
+    <div class="ev-content">
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity common">Common</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/gulpin.png" alt="" /></td>
+            <td class="ev-evs hp">1 HP</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total hp">5 HP</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity uncommon">Uncommon</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/scraggy.png" alt="" /></td>
+            <td class="ev-evs atk">1 Atk</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total atk">5 Atk</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="5" class="ev-rarity rare">Rare</td>
+            <td class="ev-version x line">X</td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/plusle.png" alt="" /></td>
+            <td class="ev-evs spe">1 Spe</td>
+            <td class="ev-times">x4</td>
+            <td rowspan="2" class="ev-equals">=</td>
+            <td rowspan="2" class="ev-total spe">5 Spe</td>
+          </tr>
+          <tr>
+            <td class="ev-version x line"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/minun.png" alt="" /></td>
+            <td class="ev-evs spe">1 Spe</td>
+            <td class="ev-times">x1</td>
+          </tr>
+          <tr class="spacer"><td></td></tr>
+          <tr>
+            <td class="ev-version y line">Y</td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/minun.png" alt="" /></td>
+            <td class="ev-evs spe">1 Spe</td>
+            <td class="ev-times">x4</td>
+            <td rowspan="2" class="ev-equals">=</td>
+            <td rowspan="2" class="ev-total spe">5 Spe</td>
+          </tr>
+          <tr>
+            <td class="ev-version y line"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/plusle.png" alt="" /></td>
+            <td class="ev-evs spe">1 Spe</td>
+            <td class="ev-times">x1</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<br />
+<div class="ev-container">
+  <div class="ev-place"><a name="spdefense2">Route 7 - Rivi&egrave;re Walk</a></div>
+  <div style="clear: both;"></div>
+  <div class="ev-content-container">
+    <div class="ev-content">
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity common">Common</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/hoppip.png" alt="" /></td>
+            <td class="ev-evs spd">1 SpD</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total spd">5 SpD</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity uncommon">Uncommon</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/psyduck.png" alt="" /></td>
+            <td class="ev-evs spa">1 SpA</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total spa">5 SpA</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity rare">Rare</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/roselia.png" alt="" /></td>
+            <td class="ev-evs spa">2 SpA</td>
+            <td class="ev-times">x5</td>
+            <td class="ev-equals">=</td>
+            <td class="ev-total spa">10 SpA</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<br />
+<div class="ev-container">
+  <div class="ev-place"><a name="hp2">Connecting Cave</a></div>
+  <div style="clear: both;"></div>
+  <div class="ev-content-container">
+    <div class="ev-content">
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity common">Common</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/whismur.png" alt="" /></td>
+            <td class="ev-evs hp">1 HP</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total hp">5 HP</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity uncommon">Uncommon</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/zubat.png" alt="" /></td>
+            <td class="ev-evs spe">1 Spe</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total spe">5 Spe</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity rare">Rare</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/axew.png" alt="" /></td>
+            <td class="ev-evs atk">1 Atk</td>
+            <td class="ev-times">x5</td>
+            <td class="ev-equals">=</td>
+            <td class="ev-total atk">5 Atk</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<br />
+<div class="ev-container">
+  <div class="ev-place"><a name="speed">Route 8 - Muraille Coast</a></div>
+    <div class="ev-rain"></div>
+  <div style="clear: both;"></div>
+  <div class="ev-content-container">
+    <div class="ev-content">
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity common">Common</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/wingull.png" alt="" /></td>
+            <td class="ev-evs spe">1 Spe</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total spe">5 Spe</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="5" class="ev-rarity uncommon">Uncommon</td>
+            <td class="ev-version x line">X</td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/zangoose.png" alt="" /></td>
+            <td class="ev-evs atk">2 Atk</td>
+            <td class="ev-times">x4</td>
+            <td rowspan="2" class="ev-equals">=</td>
+            <td rowspan="2" class="ev-total composite">9 Atk + 1 SpA</td>
+          </tr>
+          <tr>
+            <td class="ev-version x line"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/seviper.png" alt="" /></td>
+            <td class="ev-evs composite">1 Atk + 1 SpA</td>
+            <td class="ev-times">x1</td>
+          </tr>
+          <tr class="spacer"><td></td></tr>
+          <tr>
+            <td class="ev-version y line">Y</td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/seviper.png" alt="" /></td>
+            <td class="ev-evs composite">1 Atk + 1 SpA</td>
+            <td class="ev-times">x4</td>
+            <td rowspan="2" class="ev-equals">=</td>
+            <td rowspan="2" class="ev-total composite">6 Atk + 4 SpA</td>
+          </tr>
+          <tr>
+            <td class="ev-version y line"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/zangoose.png" alt="" /></td>
+            <td class="ev-evs atk">2 Atk</td>
+            <td class="ev-times">x1</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity rare">Rare</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/taillow.png" alt="" /></td>
+            <td class="ev-evs spe">1 Spe</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total spe">5 Spe</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<br />
+<div class="ev-container">
+  <div class="ev-place">Route 10 - Menhir Trail</div>
+  <div class="ev-rain"></div>
+  <div style="clear: both;"></div>
+  <div class="ev-content-container">
+    <div class="ev-content">
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity common">Common</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/nosepass.png" alt="" /></td>
+            <td class="ev-evs def">1 Def</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total def">5 Def</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity uncommon">Uncommon</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/yanma.png" alt="" /></td>
+            <td class="ev-evs spe">1 Spe</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total spe">5 Spe</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="2" class="ev-rarity rare">Rare</td>
+            <td class="ev-version x">X</td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/houndour.png" alt="" /></td>
+            <td class="ev-evs spa">1 SpA</td>
+            <td class="ev-times">x5</td>
+            <td class="ev-equals">=</td>
+            <td class="ev-total spa">5 SpA</td>
+          </tr>
+          <tr>
+            <td class="ev-version y">Y</td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/electrike.png" alt="" /></td>
+            <td class="ev-evs spe">1 Spe</td>
+            <td class="ev-times">x5</td>
+            <td class="ev-equals">=</td>
+            <td class="ev-total spe">5 Spe</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<br />
+<div class="ev-container">
+  <div class="ev-place">Route 11 - Miroire Way</div>
+  <div style="clear: both;"></div>
+  <div class="ev-content-container">
+    <div class="ev-content">
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="5" class="ev-rarity common">Common</td>
+            <td class="ev-version x line">X</td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/nidoran-m.png" alt="" /></td>
+            <td class="ev-evs atk">1 Atk</td>
+            <td class="ev-times">x4</td>
+            <td rowspan="2" class="ev-equals">=</td>
+            <td rowspan="2" class="ev-total composite">4 Atk + 1 HP</td>
+          </tr>
+          <tr>
+            <td class="ev-version x line"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/nidoran-f.png" alt="" /></td>
+            <td class="ev-evs hp">1 HP</td>
+            <td class="ev-times">x1</td>
+          </tr>
+          <tr class="spacer"><td></td></tr>
+          <tr>
+            <td class="ev-version y line">Y</td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/nidoran-f.png" alt="" /></td>
+            <td class="ev-evs hp">1 HP</td>
+            <td class="ev-times">x4</td>
+            <td rowspan="2" class="ev-equals">=</td>
+            <td rowspan="2" class="ev-total composite">4 HP + 1 Atk</td>
+          </tr>
+          <tr>
+            <td class="ev-version y line"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/nidoran-m.png" alt="" /></td>
+            <td class="ev-evs atk">1 Atk</td>
+            <td class="ev-times">x1</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity uncommon">Uncommon</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/stunky.png" alt="" /></td>
+            <td class="ev-evs spe">1 Spe</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total spe">5 Spe</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity rare">Rare</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/starly.png" alt="" /></td>
+            <td class="ev-evs spe">1 Spe</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total spe">5 Spe</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<br />
+<div class="ev-container">
+  <div class="ev-place"><a name="spdefense">Reflection Cave</a></div>
+  <div style="clear: both;"></div>
+  <div class="ev-content-container">
+    <div class="ev-content">
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity common">Common</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/mime_jr.png" alt="" /></td>
+            <td class="ev-evs spd">1 SpD</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total spd">5 SpD</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity uncommon">Uncommon</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/roggenrola.png" alt="" /></td>
+            <td class="ev-evs def">1 Def</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total def">5 Def</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="2" class="ev-rarity rare">Rare</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/roggenrola.png" alt="" /></td>
+            <td class="ev-evs def">1 Def</td>
+            <td class="ev-times">x4</td>
+            <td rowspan="2" class="ev-equals">=</td>
+            <td rowspan="2" class="ev-total composite">5 Def + 1 SpD</td>
+          </tr>
+          <tr>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/carbink.png" alt="" /></td>
+            <td class="ev-evs composite">1 Def + 1 SpD</td>
+            <td class="ev-times">x1</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<br />
+<div class="ev-container">
+  <div class="ev-place"><a name="speed2">Route 12 - Fourrage Road</a></div>
+  <div style="clear: both;"></div>
+  <div class="ev-content-container">
+    <div class="ev-content">
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity common">Common</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/wingull.png" alt="" /></td>
+            <td class="ev-evs spe">1 Spe</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total spe">5 Spe</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity uncommon">Uncommon</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/mareep.png" alt="" /></td>
+            <td class="ev-evs spa">1 SpA</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total spa">5 SpA</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="2" class="ev-rarity rare">Rare</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/tauros.png" alt="" /></td>
+            <td class="ev-evs composite">1 Atk + 1 Spe</td>
+            <td class="ev-times">x4</td>
+            <td rowspan="2" class="ev-equals">=</td>
+            <td rowspan="2" class="ev-total composite">4 Atk + 4 Spe + 2 Def</td>
+          </tr>
+          <tr>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/miltank.png" alt="" /></td>
+            <td class="ev-evs def">2 Def</td>
+            <td class="ev-times">x1</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<br />
+<div class="ev-container">
+  <div class="ev-place">Azure Bay</div>
+  <div style="clear: both;"></div>
+  <div class="ev-content-container">
+    <div class="ev-content">
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity common">Common</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/wingull.png" alt="" /></td>
+            <td class="ev-evs spe">1 Spe</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total spe">5 Spe</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity uncommon">Uncommon</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/slowpoke.png" alt="" /></td>
+            <td class="ev-evs hp">1 HP</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total hp">5 HP</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity rare">Rare</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/exeggcute.png" alt="" /></td>
+            <td class="ev-evs def">1 Def</td>
+            <td class="ev-times">x5</td>
+            <td class="ev-equals">=</td>
+            <td class="ev-total def">5 Def</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<br />
+<div class="ev-container">
+  <div class="ev-place"><a name="attack2">Route 14 - Laverre Nature Trail</a></div>
+  <div class="ev-rain"></div>
+  <div style="clear: both;"></div>
+  <div class="ev-content-container">
+    <div class="ev-content">
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity common">Common</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/bellsprout.png" alt="" /></td>
+            <td class="ev-evs atk">1 Atk</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total atk">5 Atk</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity uncommon">Uncommon</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/skorupi.png" alt="" /></td>
+            <td class="ev-evs def">1 Def</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total def">5 Def</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity rare">Rare</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/ekans.png" alt="" /></td>
+            <td class="ev-evs atk">1 Atk</td>
+            <td class="ev-times">x5</td>
+            <td class="ev-equals">=</td>
+            <td class="ev-total atk">5 Atk</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<br />
+<div class="ev-container">
+  <div class="ev-place">Route 15 - Brun Way</div>
+  <div class="ev-rain"></div>
+  <div style="clear: both;"></div>
+  <div class="ev-content-container">
+    <div class="ev-content">
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity common">Common</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/murkrow.png" alt="" /></td>
+            <td class="ev-evs spe">1 Spe</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total spe">5 Spe</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity uncommon">Uncommon</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/foongus.png" alt="" /></td>
+            <td class="ev-evs hp">1 HP</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total hp">5 HP</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity rare">Rare</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/klefki.png" alt="" /></td>
+            <td class="ev-evs def">1 Def</td>
+            <td class="ev-times">x5</td>
+            <td class="ev-equals">=</td>
+            <td class="ev-total def">5 Def</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<br />
+<div class="ev-container">
+  <div class="ev-place">Route 16 - M&eacute;lancolie Path</div>
+  <div class="ev-rain"></div>
+  <div style="clear: both;"></div>
+  <div class="ev-content-container">
+    <div class="ev-content">
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity common">Common</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/murkrow.png" alt="" /></td>
+            <td class="ev-evs spe">1 Spe</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total spe">5 Spe</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity uncommon">Uncommon</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/foongus.png" alt="" /></td>
+            <td class="ev-evs hp">1 HP</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total hp">5 HP</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity rare">Rare</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/klefki.png" alt="" /></td>
+            <td class="ev-evs def">1 Def</td>
+            <td class="ev-times">x5</td>
+            <td class="ev-equals">=</td>
+            <td class="ev-total def">5 Def</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<br />
+<div class="ev-container">
+  <div class="ev-place"><a name="spattack">Frost Cavern</a></div>
+  <div style="clear: both;"></div>
+  <div class="ev-content-container">
+    <div class="ev-content">
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity common">Common</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/vanillite.png" alt="" /></td>
+            <td class="ev-evs spa">1 SpA</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total spa">5 SpA</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity uncommon">Uncommon</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/cubchoo.png" alt="" /></td>
+            <td class="ev-evs atk">1 Atk</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total atk">5 Atk</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity rare">Rare</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/smoochum.png" alt="" /></td>
+            <td class="ev-evs spa">1 SpA</td>
+            <td class="ev-times">x5</td>
+            <td class="ev-equals">=</td>
+            <td class="ev-total spa">5 SpA</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<br />
+<div class="ev-container">
+  <div class="ev-place">Route 18 - Vall&eacute;e &Eacute;troite Way</div>
+  <div style="clear: both;"></div>
+  <div class="ev-content-container">
+    <div class="ev-content">
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity common">Common</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/geodude.png" alt="" /></td>
+            <td class="ev-evs def">1 Def</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total def">5 Def</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity uncommon">Uncommon</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/durant.png" alt="" /></td>
+            <td class="ev-evs def">2 Def</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total def">10 Def</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="2" class="ev-rarity rare">Rare</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/durant.png" alt="" /></td>
+            <td class="ev-evs def">2 Def</td>
+            <td class="ev-times">x4</td>
+            <td rowspan="2" class="ev-equals">=</td>
+            <td rowspan="2" class="ev-total composite">8 Def + 2 SpA</td>
+          </tr>
+          <tr>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/heatmor.png" alt="" /></td>
+            <td class="ev-evs spa">2 SpA</td>
+            <td class="ev-times">x1</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<br />
+<div class="ev-container">
+  <div class="ev-place"><a name="defense">Terminus Cave</a></div>
+  <div style="clear: both;"></div>
+  <div class="ev-content-container">
+    <div class="ev-content">
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity common">Common</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/durant.png" alt="" /></td>
+            <td class="ev-evs def">2 Def</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total def">10 Def</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity uncommon">Uncommon</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/geodude.png" alt="" /></td>
+            <td class="ev-evs def">1 Def</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total def">5 Def</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="2" class="ev-rarity rare">Rare</td>
+            <td class="ev-version x">X</td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/aron.png" alt="" /></td>
+            <td class="ev-evs def">1 Def</td>
+            <td class="ev-times">x5</td>
+            <td class="ev-equals">=</td>
+            <td class="ev-total def">5 Def</td>
+          </tr>
+          <tr>
+            <td class="ev-version y">Y</td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/larvitar.png" alt="" /></td>
+            <td class="ev-evs atk">1 Atk</td>
+            <td class="ev-times">x5</td>
+            <td class="ev-equals">=</td>
+            <td class="ev-total atk">5 Atk</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<br />
+<div class="ev-container">
+  <div class="ev-place"><a name="attack">Route 19 - Grande Vall&eacute;e Way</a></div>
+  <div class="ev-rain"></div>
+  <div style="clear: both;"></div>
+  <div class="ev-content-container">
+    <div class="ev-content">
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity common">Common</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/weepinbell.png" alt="" /></td>
+            <td class="ev-evs atk">2 Atk</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total atk">10 Atk</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity uncommon">Uncommon</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/gligar.png" alt="" /></td>
+            <td class="ev-evs def">1 Def</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total def">5 Def</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity rare">Rare</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/arbok.png" alt="" /></td>
+            <td class="ev-evs atk">2 Atk</td>
+            <td class="ev-times">x5</td>
+            <td class="ev-equals">=</td>
+            <td class="ev-total atk">10 Atk</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<br />
+<div class="ev-container">
+  <div class="ev-place">Route 20 - Winding Woods</div>
+  <div style="clear: both;"></div>
+  <div class="ev-content-container">
+    <div class="ev-content">
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity common">Common</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/foongus.png" alt="" /></td>
+            <td class="ev-evs hp">1 HP</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total hp">5 HP</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity uncommon">Uncommon</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/trevenant.png" alt="" /></td>
+            <td class="ev-evs atk">2 Atk</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total atk">10 Atk</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="2" class="ev-rarity rare">Rare</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/trevenant.png" alt="" /></td>
+            <td class="ev-evs atk">2 Atk</td>
+            <td class="ev-times">x4</td>
+            <td rowspan="2" class="ev-equals">=</td>
+            <td rowspan="2" class="ev-total composite">8 Atk + 2 Def</td>
+          </tr>
+          <tr>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/sudowoodo.png" alt="" /></td>
+            <td class="ev-evs def">2 Def</td>
+            <td class="ev-times">x1</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<br />
+<div class="ev-container">
+  <div class="ev-place">The Pok&eacute;mon Village</div>
+  <div style="clear: both;"></div>
+  <div class="ev-content-container">
+    <div class="ev-content">
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity common">Common</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/foongus.png" alt="" /></td>
+            <td class="ev-evs hp">1 HP</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total hp">5 HP</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity uncommon">Uncommon</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/poliwag.png" alt="" /></td>
+            <td class="ev-evs spe">1 Spe</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total spe">5 Spe</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity rare">Rare</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/lombre.png" alt="" /></td>
+            <td class="ev-evs spd">2 SpD</td>
+            <td class="ev-times">x5</td>
+            <td class="ev-equals">=</td>
+            <td class="ev-total spd">10 SpD</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<br />
+<div class="ev-container">
+  <div class="ev-place"><a name="spattack2">Route 21 - Derni&egrave;re Way</a></div>
+  <div style="clear: both;"></div>
+  <div class="ev-content-container">
+    <div class="ev-content">
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity common">Common</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/spinda.png" alt="" /></td>
+            <td class="ev-evs spa">1 SpA</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total spa">5 SpA</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity uncommon">Uncommon</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/swablu.png" alt="" /></td>
+            <td class="ev-evs spd">1 SpD</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total spd">5 SpD</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity rare">Rare</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/scyther.png" alt="" /></td>
+            <td class="ev-evs atk">1 Atk</td>
+            <td class="ev-times">x5</td>
+            <td class="ev-equals">=</td>
+            <td class="ev-total atk">5 Atk</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<br />
+<div class="ev-container">
+  <div class="ev-place">Victory Road - Caves 1 and 4</div>
+  <div style="clear: both;"></div>
+  <div class="ev-content-container">
+    <div class="ev-content">
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity common">Common</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/geodude.png" alt="" /></td>
+            <td class="ev-evs def">1 Def</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total def">5 Def</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity uncommon">Uncommon</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/floatzel.png" alt="" /></td>
+            <td class="ev-evs spe">2 Spe</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total spe">10 Spe</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity rare">Rare</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/lickitung.png" alt="" /></td>
+            <td class="ev-evs hp">2 HP</td>
+            <td class="ev-times">x5</td>
+            <td class="ev-equals">=</td>
+            <td class="ev-total hp">10 HP</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<br />
+<div class="ev-container">
+  <div class="ev-place"><a name="defense2">Victory Road - Caves 2 and 3</a></div>
+  <div style="clear: both;"></div>
+  <div class="ev-content-container">
+    <div class="ev-content">
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity common">Common</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/geodude.png" alt="" /></td>
+            <td class="ev-evs def">1 Def</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total def">5 Def</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity uncommon">Uncommon</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/graveler.png" alt="" /></td>
+            <td class="ev-evs def">2 Def</td>
+            <td class="ev-times">x5</td>
+            <td rowspan="1" class="ev-equals">=</td>
+            <td rowspan="1" class="ev-total def">10 Def</td>
+          </tr>
+        </table>
+      </div>
+      <div class="ev-rarity-row">
+        <table>
+          <tr>
+            <td rowspan="1" class="ev-rarity rare">Rare</td>
+            <td class="ev-version"></td>
+            <td class="ev-sprite"><img src="/dex/media/sprites/xyicons/lickitung.png" alt="" /></td>
+            <td class="ev-evs hp">2 HP</td>
+            <td class="ev-times">x5</td>
+            <td class="ev-equals">=</td>
+            <td class="ev-total hp">10 HP</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<br />

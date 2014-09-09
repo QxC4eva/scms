@@ -352,6 +352,16 @@ tags:
     name: VGC14
     successors:
     - []
+  VGC12:
+    introduction: xy
+    name: VGC12
+    successors:
+    - []
+  VGC11:
+    introduction: bw
+    name: VGC11
+    successors:
+    - []
   Unreleased:
     introduction: xy
     name: Unreleased

@@ -11,7 +11,7 @@ pokemon:
           height: 1.7
           stats: [80, 185, 115, 40, 105, 75]
           types: [Bug, Fighting]
-          tags: [BL]
+          tags: [OU]
           weight: 62.5
     egggroups:
     - [Bug]
@@ -88,6 +88,7 @@ pokemon:
     - [OU]
     - bw: [UU]
     - dp: [BL]
+    - xy: [OU]
     types:
     - [Bug, Fighting]
     weight: [54]

@@ -3,6 +3,38 @@ Overview
 
 With access to an amazing offensive ability in Regenerator, Tornadus-T returns to OU as a fantastic offensive pivot. Regenerator offsets both Life Orb and Stealth Rock damage, reducing the overall damaging effect of entry hazards, and works fantastically with U-turn. With its blazing Speed stat and good movepool, Tornadus-T is able to outspeed most of the unboosted metagame and hit hard with its good Special Attack stat. The main downside to using Tornadus-T is its over-reliance on rain if it wants to use its most powerful STAB, Hurricane. Also, while Flying may be a fantastic offensive typing, it is fairly lackluster defensively, limiting the amount of Pokemon Tornadus-T can switch into. While Tornadus-T can do a lot of damage once its on the field, it requires proper team support and planning to get in, limiting its overall use in the metagame.
 
+Life Orb
+########
+name: Life Orb
+move 1: Hurricane
+move 2: Superpower
+move 3: U-turn
+move 4: Taunt
+ability: Regenerator
+item: Life Orb
+evs: 76 Atk / 216 SpA / 216 Spe
+nature: Naive
+
+Moves
+========
+
+Hurricane is Tornadus-T's best and most powerful STAB option and has perfect accuracy in the rain. Superpower is used to provide good coverage against Steel- and Rock-types, such as Excadrill and Tyranitar, as well as popular special walls such as Chansey. U-turn is a very valuable move, as it provides momentum for teams by allowing you to scout your opponent's move. Additionally, U-turn works especially well with Regenerator, since Tornadus-T regains health every time it switches out. Taunt is used to prevent walls from stopping Tornadus-T with status as well as to render Pokemon such as Gliscor, Chansey, and Ferrothorn nearly useless. Knock Off can be used instead of Taunt, but it generally does not work as well with breaking more stall-based teams. Heat Wave can be used, but it is weak in the rain and provides similar coverage to Hurricane. Focus Blast can be used over Superpower, but its mediocre accuracy isn't as reliable.
+
+Set Details
+========
+
+76 EVs go into Attack to allow Tornadus-T to specifically OHKO Tyranitar and Excadrill with Superpower and to be able to deal some damage with its other physical move, U-turn. 216 Speed investment with a Naive nature is all it needs to outspeed Pokemon that are base 115 Speed and under, such as Choice Scarf Tyranitar. The rest is dumped into Special Attack so that Hurricane can hit as hard as possible. Finally, Life Orb is the item of choice, as it bolsters attacking power, and the recoil isn't much of a problem due to Regenerator.
+
+Usage Tips
+========
+
+Tornadus-T works well on rain teams, as it has a perfectly accurate high Base Power STAB move, and provides great momentum for wallbreakers such as Kingdra. Try not to switch Tornadus-T into too many attacks, as it's bulk and defensive typing aren't very good for taking hits. When in doubt, always U-turn, as it allows you to scout your opponent and gain an advantage. Switches need to be predicted. Good predicts, like using Superpower on an incoming Tyranitar, are really valuable and can help boost your chances of victory in the long run.
+
+Team Options
+========
+
+Politoed is an amazing teammate, as its Drizzle ability gives Tornadus-T's best attack, Hurricane, perfect accuracy. Even though it has Regenerator, Tornadus-T still appreciates Defog and Rapid Spin support. This makes Latios a very good partner, and it also resists Tornadus-T's Electric-type weakness. Kabutops is very common on rain teams and is a good partner because it can spin hazards away. Tornadus-T pairs well with other momentum move users, such as Mega Scizor, as they give it ample opportunities to switch in. Both Latias and Latios make good teammates, as they can take care of Rotom-W, which is a huge threat to Tornadus-T. Assault Vest Azumarill makes an exceptional teammate, as it appreciates Tornadus-T's ability to take on Mega Venusaur, and it can handle Greninja with ease. Lastly, because of how many switches Tornadus-T causes, it pairs well with Stealth Rock users, such as Garchomp and Excadrill, who both resist and are immune to its Rock- and Electric-type weaknesses. Additionally, Excadrill can spin away hazards for Tornadus-T if needed.
+
 Assault Vest
 ########
 name: Assault Vest
@@ -37,39 +69,6 @@ Team Options
 One of this Tornadus-T's primary roles is as a Landorus check for stall, which tends to have enormous issues with it. Defog support from the likes of Skarmory or Mandibuzz is very much appreciated, as even with Regenerator, Stealth Rock is simply too much of a detriment to Tornadus-T's hit-taking ability and longevity. Skarmory pairs especially well because it can deal with Tyranitar, which isn't OHKOed by Focus Blast and can tank Tornadus-T's other moves with ease. Furthermore, it can deal with Gyarados and Dragonite, which can take advantage of Tornadus-T to set up. Although irrelevant to Defog, Ferrothorn also fits well because it can handle these threats. Mandibuzz in conjunction with Tornadus-T ensures that you are mostly safe against Landorus, although it is slightly redundant. Bulky Will-O-Wisp Mega Charizard X, as well as Heatran to some extent, are good partners too, as they are able to put pressure on the Steel-types that stand in Tornadus-T's way. A good Mega Charizard X check of your own is imperative with Tornadus-T, which is complete setup fodder for the former barring confusion from Hurricane. Hippowdon, Quagsire, and Slowbro are good examples of such. Amoonguss can handle the Electric-types that threaten Tornadus-T and serves as a more reliable answer to Keldeo, forming a Regenerator core with Tornadus-T that can pivot around threats and generally stay healthy without giving up free turns to heal. Slowbro can be added to this core in order to take on Mega Charizard X, Mega Gyarados, and other attackers that threaten it.
 
 From a balanced and bulky offensive point of view, Tornadus-T pairs well with Mega Manectric and Raikou; the Electric-types cover Thundurus especially, while Tornadus-T deals with defensive Grass-types, most notably Mega Venusaur, and can check the Ground-type Choice Scarf users that threaten them. It can also fit well onto certain rain teams that want its defensive services, greatly appreciating perfect accuracy on Hurricane, but it is simply too weak as compared to Life Orb variants, which are much more difficult to deal with and typically the better option for an offensive rain team.
-
-Life Orb Attacker
-########
-name: Pivot
-move 1: Hurricane / Air Slash
-move 2: Superpower / Focus Blast
-move 3: Knock Off
-move 4: U-turn
-item: Life Orb
-evs: 4 Atk / 252 SpA / 252 Spe
-nature: Naive
-
-Moves
-========
-
-Hurricane serves as the main move of this set, being Tornadus-T's most powerful attack, and also has a confusion chance to potentially help break through walls. However, if Tornadus-T isn't being used in conjunction with Politoed or manual Rain Dance, Air Slash can be used for a reliable Flying-type STAB. Superpower completes Tornadus-T's coverage, beating common Flying-type resists such as Heatran or Tyranitar, while also hitting common specially defensive walls such as Blissey hard. Knock Off allows Tornadus-T to neuter special walls such as Jirachi or Blissey by removing Leftovers, allowing them to be worn down easier through the course of the match. Tornadus-T also serves as one of the best Knock Off users, threatening nearly every Mega Evolution that would commonly switch into the move. Focus Blast can be used to give Tornadus-T a more powerful attack; while it does worse against common special walls, it generally gets more damage against the rest of the metagame. U-turn allows Tornadus-T to make full use of Regenerator and deal valuable chip damage. Rain Dance can be used over Knock Off if Tornadus-T is not paired with Politoed and still wishes to use Hurricane. However, it is important to note that Tornadus-T has a much harder time sweeping without Knock Off as it hits otherwise hard counters such as Jirachi while also being able to remove passive healing from special walls.
-
-If Tornadus-T is used outside of rain, Heat Wave can be used in order to reliably take down Scizor, Genesect, and Ferrothorn. Taunt can also be used, preventing entry hazard leads as well as special walls from healing themselves.
-
-Set Details
-========
-
-The EVs are focused on maximizing Tornadus-T's Special Attack and Speed stats, allowing it to hit as hard as possible while maintaining its crucial Speed tier. A Life Orb is used to increase Tornadus-T's damage output, with Regenerator healing the Life Orb damage. An Assault Vest can be used instead of Life Orb in order to bolster Tornadus-T's Special Defense. This, when paired with U-turn and Regenerator, makes Tornadus-T less of a powerful wallbreaker and more of a bulky pivot.
-
-Usage Tips
-========
-
-When using Tornadus-T, you always need to be cognizant of how many turns of Drizzle are left. If Tornadus-T is weakened, U-turn + Regenerator is not only a great way to gain momentum, but also a great way to slowly heal Tornadus-T back to full health. Early in the match, it is often best to start by using Knock Off, as this allows Tornadus-T to neuter its checks' passive healing, meaning after a few more confrontations where Tornadus-T U-turns on them, they should be within KO range. This strategy will only work if Tornadus-T is paired with partners which can threaten common checks to it, preventing said checks from healing the U-turn chip damage.
-
-Team Options
-========
-
-If Hurricane is used, Politoed is an almost mandatory partner, giving the attack 100% accuracy. Tornadus-T pairs well with other momentum move users, allowing it many chances to switch in; Genesect and Rotom-W are thus excellent partners. Even with Regenerator, Tornadus-T appreciates Defog or Rapid Spin support, making Latios a very good partner, with it also resisting Tornadus-T's Electric-type weakness. Due to the amount of switches Tornadus-T causes, it pairs very well with common Stealth Rock users such as Garchomp and Mega Aggron, both of which resist its Rock-type weakness.
 
 Other Options
 ########

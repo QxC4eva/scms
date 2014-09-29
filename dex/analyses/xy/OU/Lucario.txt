@@ -1,15 +1,15 @@
 Overview
 ########
 
-Even with its Mega Evolution being banished to Ubers, Lucario has many assets which make it a fine physical sweeper in the OU tier. Its reasonably high Attack stat is complemented by its access to Swords Dance and an expansive physical movepool. Lucario distinguishes itself from other physical sweepers with powerful priority in the form of Extreme Speed, a nifty ability in Justified, and a handy 4x resistance to Stealth Rock. However, Lucario has an unfortunate case of four-moveslot syndrome, meaning it will always have checks and counters depending on which move it decides to forgo. Moreover, Lucario isn't particularly fast for a physical sweeper, meaning it relies on priority to overcome many Pokemon. Finally, with its 70 / 70 / 70 defensive stats, Lucario is quite frail and will usually only find an opportunity to set up once.
+Lucario's exceptional Attack stat allows it to successfully function as a wallbreaker and a late-game cleaner. Lucario has a wide movepool and has the capability to utilize many different movesets. It has access to both of the most powerful physical Fighting-type attacks, Close Combat and High Jump Kick. It also has access to the coveted +2 priority attack Extreme Speed. Lucario isn't hurt much by entry hazards because it's immune to Toxic Spikes and is 4x resistant to Stealth Rock. It does suffer from four moveslot syndrome despite having access to a variety of moves, and fails to cover most relevant threats as a result. Lucario is also very frail and has mediocre Speed for an OU Pokemon. Although it has an incredible ability in Justified, Lucario can be hard-pressed to take advantage of Justified's Attack boost because of its poor defenses. Lucario is also susceptible to common priority moves such as Mach Punch, Aqua Jet, and Brave Bird. Despite its flaws, Lucario can still rip through opposing teams.
 
-Swords Dance
+Life Orb Attacker
 ########
-name: Swords Dance
-move 1: Swords Dance
-move 2: Close Combat
-move 3: Iron Tail / Ice Punch / Earthquake
-move 4: Extreme Speed
+name: Life Orb Attacker
+move 1: Close Combat
+move 2: Swords Dance
+move 3: Extreme Speed
+move 4: Iron Tail / Crunch / Ice Punch
 ability: Justified
 item: Life Orb
 evs: 252 Atk / 4 Def / 252 Spe
@@ -18,37 +18,41 @@ nature: Adamant
 Moves
 ========
 
-Swords Dance is used to boost Lucario's Attack stat to levels with which it can sweep; the power boost provided is required in order to beat many offensive and defensive Pokemon. Close Combat is Lucario's main STAB option with huge power and perfect accuracy. Lucario's third moveslot is open to several moves. As a secondary STAB, Iron Tail is definitely a good option, as it gives Lucario a way to get past Fairy-types that resist Close Combat, such as Sylveon and Clefable. Ice Punch is usable to hit Pokemon that are 4x weak to Ice, such as Landorus-T and Gliscor. Finally, Extreme Speed is a very important move which makes up for Lucario's medicore Speed stat and allows it to deal with offensive Pokemon when sweeping. With +2 priority, Extreme Speed can also be used before other powerful priority attacks such as Talonflame's Gale Wings Brave Bird. Bullet Punch is another priority option to beat Gengar and Terrakion, two offensive Pokemon that Lucario cannot use Extreme Speed to get past. However, it is generally not worth the moveslot due to its lack of power and limited utility.
+Close Combat is Lucario's main STAB move that's capable of ripping holes in opposing teams. Swords Dance raises Lucario's Attack to incredible levels in preparation for a late-game sweep or for breaking down defensive threats. Extreme Speed is an exceptional +2 priority move that allows Lucario to beat weakened foes, faster threats, and priority abusers such as Talonflame, Thundurus, Azumarill, and Mega Pinsir. Iron Tail is Lucario's other STAB move that allows it to beat potential checks and counters to it such as Clefable, Azumarill, Sylveon, Mega Heracross, Mew, and Mega Venusaur. Lucario can use Crunch to break through bulky Psychic-type Pokemon such as Slowbro and Mew. Ice Punch is a crucial coverage move that enables Lucario to hit Ground- and Flying-type Pokemon super effectively, such as Landorus-Therian, Gliscor, Zapdos, and Garchomp.
 
 Set Details
 ========
 
-The EV spread is quite straightforward for a physical sweeper and maximizes Lucario's Attack and Speed. An Adamant nature is used as opposed to a Jolly nature because there are very few relevant Pokemon that Lucario outspeeds when using the latter. Moreover, Lucario can use its priority attacks to overcome its lack of Speed. Life Orb is the main item of choice and is used for the extra power that it provides, allowing Lucario to secure many OHKOs. For instance, with a Life Orb boost, Lucario is very likely to OHKO Skarmory after a Swords Dance boost and Stealth Rock damage. Finally, Justified helps Lucario set up on Pokemon that use Dark-type moves, such as Tyranitar and Bisharp. Inner Focus and Steadfast are usable alternative abilities that take advantage of flinches, but are also ultimately more situational than Justified due to a decreasing number of Fake Out and paraflinch users.
+Lucario's EV spread is common for physical sweepers, having maximum Attack and Speed in order to function as an effective wallbreaker or late-game cleaner. There's no point in ever using Jolly nature because Lucario fails to outspeed anything relevant with it. Using Jolly nature over an Adamant nature would only make it harder for Lucario to perform its role as a late-game cleaner, having a noticeable decrease in power. The last moveslot depends on what the team has trouble dealing with, so if Lucario doesn't have problems with Fairy-types but has trouble dealing with bulky Ground-types, use Ice Punch. If it has trouble with Psychic-types and can handle Fairy-, Ground-, and Flying-type Pokemon, use Crunch.
 
 Usage Tips
 ========
 
-One important concept to keep in mind when using Lucario on a team is that one must attempt to dispose of its checks and counters before they try to sweep with it. If Lucario uses Swords Dance when the likes of Hippowdon are still healthy, the boost essentially goes to waste. Because of this, Lucario generally shines in the end-game when most of its checks have either been weakened or fainted. Many defensive Pokemon, such as Mandibuzz, are unable to efficiently damage Lucario. This means that one should use Lucario's resistances to create opportunities to set up. Additionally, Lucario's primary role is that of a sweeper and win condition. It should not be used as a wallbreaker due to the fact that it can only set up once and lacks the necessary stat composition. However, Extreme Speed can still be used as a last resort to revenge kill boosted threats.
+Lucario should be used as a late-game cleaner or as a wallbreaker that can punch holes in the opposing team, subsequently opening up an opportunity for a teammate to clean up. Lucario's checks and counters should be KOed or weakened before attempting to sweep with Lucario. The same applies before attempting to boost Lucario's Attack; this way, it doesn't waste turns or boosts.
 
 Team Options
 ========
 
-Being a physical sweeper, Lucario appreciates wallbreaking support from the likes of Kyurem-B and Mega Charizard Y. Such Pokemon make excellent partners by virtue of their ability to soften up opposing walls. This greatly assists Lucario in the late-game when it goes for a sweep. In a similar vein, support in the form of entry hazards is also quite beneficial to Lucario as this helps it muscle though physical tanks such as Hippowdon and Skarmory. As a result, Pokemon such as Deoxys-D and Landorus-T make for nice teammates.
-
-Pokemon with a weakness to Pursuit or Knock Off, such as Gengar and Latios, are relatively good teammates for Lucario as well. They provide stellar opportunities for Lucario to switch in and begin a sweep thanks to its ability, Justified. Finally, Bisharp is a nice offensive partner for Lucario because it can use Knock Off to help deal with defensive teams.
+Lucario can function as an effective Fairy-type lure. It can open up opportunities for teammates to eliminate Clefable or Azumarill. Pokemon such as Bisharp, Mega Scizor, Choice Scarf Heatran, and Life Orb Excadrill benefit from Lucario's ability to lure Fairy-types. Pokemon that can provide entry hazard support make it easier for Lucario to secure OHKOs and 2HKOs. Entry hazards also make it easier for Lucario to function as a late-game cleaner. Mega Charizard Y and Kyurem-B can pave the way for a late-game sweep by getting rid of checks to Lucario such as Mega Venusaur, Hippowdon, Skarmory, Gyarados, and Mew. Latios is also another great partner that can provide Lucario an opportunity to set up through the use of Memento.
 
 Other Options
 ########
 
-Outside of the listed sets, Lucario has a few other moves it can potentially make use of. Agility seems good on paper as a way of annihilating offensive teams, but the difficulty in securing the Speed boost and lack of power greatly restrict this set's viability. Nasty Plot suffers similar difficulties to an Agility set, and the weak power of Lucario's special moves means that there is almost no real reason to use it over Swords Dance. Additionally, an offensive Substitute set could potentially work. Lucario could make use of Substitute to put pressure on teams that rely on offensive checks such as Terrakion. However, this set lacks the sweeping potential possessed by Swords Dance Lucario and relies a lot on prediction.
-
-In terms of other moves on its Sword Dance set, Lucario could run High Jump Kick because it has higher power than Close Combat and doesn't lower Lucario's defenses. Running this move comes at the expense of accuracy, and High Jump Kick's recoil can be easily exploited through mind games by Ghost-types or Pokemon with Protect. Finally, Crunch is also an option that can be used to hit Pokemon such as Slowbro super effectively.
+Lucario has access to Stone Edge and can use it to OHKO unsuspecting Flying-types such as Talonflame, Gyarados, and Mega Pinsir. High Jump Kick can be used over Close Combat to avoid Close Combat's stat drops. However, High Jump Kick's imperfect accuracy can be an issue. Lucario is capable of running a special moveset thanks to its excellent base 115 Special Attack, a vast special movepool, and access to Nasty Plot.
 
 Checks & Counters
 ########
 
-**Status**: Being a physical sweeper, Lucario is particularly vulnerable to paralysis and burn, which can prematurely end its sweep attempts and put it out of action for the remainder of the game. Examples include Prankster status users, such as Klefki and Sableye. Scald users such as Slowbro, Slowking, Suicune, and Keldeo can also prove to be troublesome in this regard.
+**Mega Venusaur**: Lucario is unable to OHKO or 2HKO Mega Venusaur with its dual STAB moves, Close Combat and Iron Tail, and it is 2HKOed by Hidden Power Fire or Earthquake from Mega Venusaur.
 
-**Revenge Killers**: Bulky offensive threats that aren't felled by Lucario's +2 Extreme Speed can be good checks to it. Some examples of this include Terrakion, Garchomp, and Mega Manectric, which can all take Lucario's boosted priority attacks and proceed to KO it.
+**Bulky Ground-types**: If Lucario lacks Ice Punch, Landorus-Therian becomes a huge headache because of its bulk and ability, Intimidate. Gliscor can also be a problem because of its great Defense and excellent recovery through Poison Heal. Gliscor can seem to be an insurmountable wall to Lucario if it doesn't carry Ice Punch. Physically defensive Hippowdon can take any attack from Lucario and KO it with Earthquake.
 
-**Bulky Tanks**: Lucario also has a number of good defensive checks and counters. Zapdos, Mega Venusaur, and Slowbro can all take Lucario's attacks by virtue of their excellent bulk and typing. Additional examples of this include Quagsire, which has access to Unaware; Gyarados and Landorus-T, which have Intimidate; and Conkeldurr.
+**Bulky Fairy-types**: Bulky Fairy-types such as Clefable and Azumarill are able to absorb both neutral and resisted attacks from Lucario.
+
+**Bulky Psychic-types**: Without Crunch, Lucario is unable to take on defensive Mew without being crippled by Will-O-Wisp. Lucario doesn't have the power to break through Slowbro without Crunch.
+
+**Skarmory**: Without a boost, Lucario fails to 2HKO Skarmory with Close Combat and is KOed by Brave Bird or Counter from Skarmory.
+
+**Mega Heracross**: Mega Heracross is bulky enough to absorb neutral and resisted hits from Lucario and then OHKO Lucario with Close Combat.
+
+**Gyarados**: Gyarados resists both of Lucario's STAB moves and cuts Lucario's Attack with Intimidate. 

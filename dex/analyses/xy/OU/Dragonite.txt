@@ -1,7 +1,41 @@
 Overview
 ########
 
-One of the premier Dragons of the tier, Dragonite is a powerful combination of bulk and strength, and Multiscale allows it to take hits even more easily. Its terrific offensive movepool allows it to threaten a majority of opponents, but being a Dragon-type, it only really needs to cover what its STAB moves do not hit hard. Stats-wise, it doesn't have any real flaws that stand out, as Dragon Dance and Extreme Speed help patch up its Speed, which is its lowest stat. Despite being well-rounded, it can still be slow enough to be dealt with unless it is using an unSTABed Extreme Speed. It is also somewhat reliant on Multiscale to truly stand out amongst its Dragon brethren, so it may underperform should its ability get deactivated by residual damage. Its versatility is no longer its most potent trait, as it now faces competition from several new faces, mainly Mega Evolutions that can also Dragon Dance, pack a much greater punch, and possess better STAB types, as well as Zygarde, which also shares Extreme Speed with it and even has STAB on its Earthquake. The introduction of Fairies has also not been kind to Dragonite, as they have made its STAB moves more difficult to spam. That said, there is no denying that Dragonite is a potent threat due to its balanced stats and movepool, and it is one of the main threats to watch out for in the metagame.
+Dragonite's stats, movepool, and ability make it a big threat in OU. Dragonite's great overall stats, most notably its base 134 Attack stat, allow it to wallbreak and majorly dent teams. Dragonite also has access to Dragon Dance, and it is one of the best users of the move in the entire tier. Dragonite's wide movepool provides it with many coverage options, ranging from the elemental punches to Superpower, as well as Outrage for a powerful STAB move. A move that stands out, however, is Extreme Speed. Extreme Speed's +2 priority allows Dragonite to revenge kill prominent sweepers in the tier as well as outprioritize priority users such as Talonflame. Dragonite's ability, Multiscale, is also one of its selling points. Multiscale halves the damage Dragonite takes at full health, allowing it to safely set up Dragon Dance or revenge kill Pokemon that would otherwise OHKO it, such as Latios and Latias.
+
+However, Dragonite does have multiple flaws. Fairy-types such as Sylveon and Azumarill make it harder to use Outrage throughout the match, as they can easily switch into and OHKO Dragonite with their STAB moves. Dragonite's over-reliance on Multiscale sometimes can make it difficult to set up or hit safely, as Multiscale can easily be broken through various methods such as weather damage and Rocky Helmet. Dragonite's weakness to Stealth Rock is also pretty major, as it breaks Multiscale and slices off a quarter of Dragonite's health. Dragonite's mediocre Speed also makes non-Dragon Dance sets harder to use, as an unboosted Dragonite will usually be outsped by threats such as Thundurus and Garchomp. Dragonite also lacks a reliable physical Flying-type STAB move outside of the weak Aerial Ace.
+
+Choice Band
+########
+name: Choice Band
+move 1: Outrage
+move 2: Extreme Speed
+move 3: Thunder Punch
+move 4: Superpower
+ability: Multiscale
+item: Choice Band
+nature: Adamant / Jolly
+evs: 252 Atk / 4 Def / 252 Spe
+
+Moves
+========
+
+A Choice Band-boosted STAB Outrage is insanely strong and will usually OHKO anything that doesn't resist it. Dragon Claw is an option over Outrage for more consistency and to stop the risk of opposing Fairy-types switching in. However, the power drop is very noticeable, as most OHKOs that Dragonite can achieve with Outrage will turn into 2HKOs. Extreme Speed is a +2 priority attack that provides the priceless utility of not only killing off weakened sweepers that have set up but also revenge killing priority users such as Talonflame. Thunder Punch is a coverage move that hits targets Dragonite would otherwise have trouble hitting, such as Azumarill and Skarmory. Superpower is used to hit Steel- and Dark-type targets such as Heatran, Ferrothorn, Bisharp, and Tyranitar. Earthquake can be used over Superpower if the stat drops are a problem. Fire Punch is an option to hit Mega Scizor harder, though frailer opponents will usually be hit harder by Outrage.
+
+Set Details
+========
+
+252 Attack EVs maximize Dragonite's offensive potential, allowing it to hit extremely hard. 252 Speed EVs with a Jolly nature maximize Dragonite's Speed and allow it to outspeed neutral-natured base 80 Speed Pokemon and Jolly Mega Heracross. An Adamant nature, however, is typically preferred to increase Dragonite's damage output, which is especially relevant when revenge killing foes with Extreme Speed. A Choice Band is the item of choice to considerably increase Dragonite's damage output. Multiscale is to ensure that Dragonite can safely get off a hit without risking being KOed.
+
+Usage Tips
+========
+
+Dragonite should abuse its power to wallbreak early-game and weaken opposing Pokemon to the point where sweepers on your team can easily finish them off. However, mid- or late-game, Dragonite best uses this set to do damage and switch out as a hit-and-run attacker. Dragonite can also act as a revenge killer by using Extreme Speed to finish off weakened opponents. This variant of Dragonite should usually switch out when there is an opposing check sent in, as Dragonite will retain its power, unlike Dragon Dance Dragonite. Preserving Multiscale should still be kept in mind, but it does not tends to be as much of a priority as it is for other Dragonite sets. Due to the fact that Outrage locks Dragonite in for two to three turns, it should only be used late-game to clean up opponents, as using it early-game makes Dragonite a setup fodder.
+
+Team Options
+========
+
+This Dragonite tends to switch out very often, and Stealth Rock breaks Multiscale as well as taking a quarter of Dragonite's health away, so Rapid Spin and Defog support is needed. Excadrill has great defensive synergy with Dragonite, making it a good choice for a Rapid Spinner. Latios and Latias provide great Defog support, as they are quick and can also weaken opposing threats. Latias not only provides Defog support but also can use Healing Wish to allow Dragonite to recover health. Magnezone is a great partner as it forms a DragMag core with Dragonite, punishes Fairy-types, and has amazing defensive synergy. Bisharp is also a good partner, as it can also punish Fairy-types with Iron Head and Pursuit trap Latios and Latias. Entry hazard support from Mamoswine or Tyranitar is also great, as it weakens the opponent and increases the chance of Dragonite scoring a KO. Sweepers that can make great use of Dragonite's wallbreaking skills are extremely great partners. Pokemon such as Mega Charizard X and Gyarados appreciate having bulkier Pokemon such as Azumarill and Landorus-T weakened. Clefable checks Greninja, absorbs Will-O-Wisp, and can provide Wish support as well as set up Stealth Rock.
 
 Dragon Dance
 ########
@@ -9,67 +43,31 @@ name: Dragon Dance
 move 1: Dragon Dance
 move 2: Outrage
 move 3: Extreme Speed
-move 4: Fire Punch
+move 4: Fire Punch / Earthquake
 ability: Multiscale
 item: Lum Berry
-evs: 4 Def / 252 Atk / 252 Spe
 nature: Adamant
+evs: 252 Atk / 4 Def / 252 Spe
 
 Moves
 ========
 
-Dragon Dance enables Dragonite to boost its Attack and Speed, turning it into a threatening attacker. Outrage is vastly preferred as a Dragon STAB simply due to the nuke it provides. Dragon Claw is an option, but is far too weak against even offensive threats like Keldeo and Terrakion to be of great use. Extreme Speed is compulsory in the third slot for Dragonite to hit Pokemon that are still faster after a Dragon Dance, and for it to revenge kill Pokemon before it has set up. Fire Punch is generally preferred in the last slot to hit Ferrothorn, Mega Scizor, and non-Counter Skarmory. Earthquake is also an option to OHKO Heatran, but +1 Outrage already does enough to the point where it isn't that much of an issue. Thunder Punch is another option to hit Azumarill hard, 2HKOing with no boosts and boasting a 62.5% chance to OHKO after Stealth Rock damage, in addition to covering non-Counter Skarmory.
+Dragon Dance is the main move on the set, boosting Dragonite's Attack and Speed and setting it up for a sweep. Outrage is a STAB attack that will usually OHKO most opposing Pokemon that don't resist it after a Dragon Dance. Extreme Speed is a +2 priority move that is used to outprioritize other priority users, most notably Talonflame. It also Choice Scarf users that would otherwise revenge kill Dragonite. Fire Punch hits Skarmory, Ferrothorn, Scizor, and Air Balloon Excadrill. Earthquake, on the other hand, can be used to OHKO Heatran, Manectric, and Magnezone. Dragonite has quite a few other options that it can use on this set. Thunder Punch can be used to hit Azumarill and Togekiss harder than a neutral Fire Punch. Roost can be used to fix a broken Multiscale, but Dragonite loses important coverage, which is usually more of a downside. Dragon Claw can be used over Outrage for more consistency and to avoid the risk of a Fairy-type switching in and walling Dragonite for a few turns, but the power drop is very noticeable.
 
 Set Details
 ========
 
-Maximum Attack and Speed with Adamant is pretty straightforward for Dragonite, as it gives it the greatest sweeping potential after a single Dragon Dance, with the remaining EVs going into Defense instead of HP to minimize Stealth Rock damage. Alternatively, Dragonite may opt for an EV spread tailored to holding Weakness Policy. In such a spread, 24 EVs go into Defense, which seems relatively insignificant but always allows Dragonite to survive Play Rough from Choice Band Azumarill, provided Multiscale is active, adding a means to successfully trigger Weakness Policy. The remaining 232 Speed EVs are just enough to outrun Timid Noivern after a Dragon Dance, the fastest threat Dragonite would like to outspeed naturally, as faster threats can and should be hit with Extreme Speed. It should also be noted that Weakness Policy Dragonite should run Dragon Claw as its STAB move, since Weakness Policy can make up for the lower power, and Dragon Claw does not lock Dragonite into a move, which can blow the one-time Weakness Policy sweep. Lum Berry is generally a more useful item, however, since it allows Dragonite to set up on status users such as Rotom-W, weakened Thundurus, and Gliscor, and it also snaps Dragonite out of Outrage confusion. Weakness Policy lets Dragonite take advantage of super effective hits from Pokemon such as Garchomp, Sylveon, Azumarill, and Tyranitar, but requires Multiscale to be active and even then might be useless.
+Maximum Attack investment with an Adamant nature allows Dragonite to hit extremely hard. Maximum Speed investment is necessary to outspeed Pokemon such as Latias, Latios, and Greninja when Dragonite is at +1. Lum Berry is the best item for Dragonite, as it prevents Dragonite from being crippled from status users such as Thundurus and Sableye as well as curing the confusion from Outrage. Lum Berry is used over a Life Orb because the recoil from Life Orb breaks Multiscale. Multiscale allows Dragonite to set up Dragon Dance more easily.
 
 Usage Tips
 ========
 
-Dragonite should aim to set up one Dragon Dance and clean up from there, so it should be saved until late-game when its potential counters and checks are removed or weakened. Alternatively, it can set up early to punch holes into the opponent's team so that its teammates can finish off their weakened checks and counters. Dragonite can find setup opportunities against Heatran, Keldeo, Mega Venusaur, and various Choice-locked attacks that do not threaten it, especially with Multiscale taken into account. Lum Berry Dragonite can set up safely on walls that have little offensive power and rely on status for their form of damage, such as Chansey and Rotom-W. It also can save its Lum Berry to allow for longer sweeps using Outrage without interference from confusion. Weakness Policy Dragonite can occasionally afford to switch into a super effective hit, though that would deny it the opportunity to boost its Speed, as it usually takes advantage of weaker attackers with a super effective move to discourage their attack and keep its Multiscale intact. Once Dragonite is in, the opponent has two choices: hit Dragonite with a super effective move which activates Dragonite's Weakness Policy, letting it net +3 Attack and +1 Speed in one fell swoop; or use a weaker move to avoid triggering Weakness Policy and leave Dragonite practically unscathed. Do note that Dragonite cannot and should not be taking a STAB Ice-type move, even if Multiscale is intact.
+Dragonite should be used as a cleaner or as a mid- or late-game sweeper, when Dragonite's checks and counters are weakened or gone. Setting up early-game tends to be bad because priority can easily wear Dragonite down and bulkier Pokemon can easily Toxic stall Dragonite until it is susceptible enough to priority. Dragonite should never be sent in when Stealth Rock is up, as it breaks Multiscale and takes a decent portion of Dragonite's health away. Dragonite can easily set up on Pokemon that rely on status, such as Chansey, as Lum Berry will easily remedy any status. That being said, Dragonite should stay away from Knock Off users, as Lum Berry is very important to ensure that Dragonite can safely set up. Multiscale should not be relied on to tank Ice-type attacks, as almost any strong Ice-type attack will easily OHKO Dragonite, even with Multiscale.
 
 Team Options
 ========
 
-Lum Berry Dragonite likes partners that can lure in walls for it to set up on. Greninja not only has access to U-turn to do this, but can further support Dragonite with Spikes, while Rotom-W and Scizor easily lure in Grass-types and Fire-types, respectively. Weakness Policy Dragonite requires a bit more support, as it would like to face off against Fairy-, Rock- and Dragon-types. Conkeldurr easily lures in Fairy-types, Talonflame draws in Rock-types, and Keldeo brings Latios and Latias in. U-turn would make this easier for Dragonite, and U-turn Mandibuzz, Talonflame, or Noivern and Volt Switch Rotom-W can all help Dragonite face off against its desired opponents. Regardless of Dragonite's coverage move of choice, Magnezone makes a great partner due to its ability to handle problematic Steel- and Fairy-types, with the two also covering each other's weaknesses nicely; Magnezone can also lure in Fire-, Fighting-, and Ground-types, the former two of which Magnezone can Volt Switch away from to bring Dragonite in unharmed.
-
-Since Multiscale is a big factor to Dragonite's success, a Rapid Spinner or Defogger makes a welcome teammate. Excadrill, Skarmory, and Scizor can take care of Fairy- and Steel-types, with Excadrill also handling Rock-types; Starmie or Mega Blastoise can cover Dragonite's Ice-type weakness; and Latias and Latios can help lure in and weaken the opponent's Dragon-type resistant Pokemon to allow Dragonite an easier time sweeping. Wallbreakers such as Kyurem-B are useful for softening foes for Dragonite to clean up, and Mega Charizard Y even has Drought to prevent sandstorm from breaking Dragonite's Multiscale. While not essential, a dual screens user makes setting up with Dragonite even easier. Klefki is best for the job due to the good defensive synergy between the two, and it even supports Dragonite with Spikes.
-
-Choice Band
-########
-name: Choice Band
-move 1: Outrage
-move 2: Extreme Speed
-move 3: Earthquake
-move 4: Fire Punch
-ability: Multiscale
-item: Choice Band
-evs: 4 Def / 252 Atk / 252 Spe
-nature: Adamant
-
-Moves
-========
-
-Choice Band Outrage hits like a nuke, at worst 2HKOing anything that doesn't resist it. Extreme Speed allows Dragonite to revenge kill sweepers and get an edge against faster foes in general. Earthquake is Dragonite's best bet against Steel-types, crushing Heatran and hitting most others for at least neutral damage. Fire Punch hits the remaining non-Ground-weak Steel-types, such as Scizor, Skarmory, and Ferrothorn, extremely hard. Dragon Claw can be used as it provides Dragonite with a reliable STAB move if Outrage is too risky to use, and it is a safe move to throw out in times of uncertainty, although most of the time Dragonite would be better off punching holes with Outrage or revenge killing with Extreme Speed.
-
-Set Details
-========
-
-Since Choice Band Dragonite cannot boost its Speed or make maximum use of its bulk, a straightforward 252 Atk / 252 Spe spread works best, allowing Dragonite to Speed tie with Pokemon such as Togekiss and Chandelure. The leftover EVs are put into either Defense or Special Defense, as 4 HP EVs incur more Stealth Rock damage. Choice Band lets Dragonite wreak havoc without the need to boost, hitting hard right off the bat and possibly conserving health. Adamant maximizes Dragonite's power, which can allow its un-STABed Extreme Speed to hit fast, frail threats harder, but Jolly is a possible option as it lets Dragonite outpace up to neutral base 92s, which would include Excadrill, Gyarados, offensive Rotom-W, Lucario, un-Mega Evolved Pinsir, Landorus-T, and Mega Garchomp, as well as Speed tying with fellow positive base 80s.
-
-Usage Tips
-========
-
-Choice Band Dragonite is oriented towards the hit-and-run playstyle, played as either a reckless early-game wallbreaker to open up sweeps for teammates, or as a revenge killing tool with Extreme Speed to threaten frailer threats. The combination of Multiscale, tremendous power, and Extreme Speed lets Dragonite threaten offensive and defensive opponents alike. Choice Outrage isn't so bad when you consider that a direct switch-in with a Fairy-type will not lock Dragonite in; only after Dragonite has pounded something's face in can it not switch. Switching in and out is easier for Choice Band Dragonite since it retains its boosted strength without the need to boost every time, unlike Dragon Dance Dragonite. Preserving Multiscale is advised, but isn't a huge priority.
-
-Team Options
-========
-
-The hit-and-run strategy of this set means the absence of Stealth Rock on Dragonite's side of the field is mandatory. Excadrill, Starmie, and Mega Blastoise make great spinners that can keep up the offensive momentum while covering Dragonite's weaknesses. Defoggers such as Latios, Latias, and Scizor also work well, with the former two weakening Dragon resists and the latter sporting good defensive synergy with Dragonite. Once again, Magnezone makes an admirable partner since it can trap Steel-types and deal with Fairy-types. Bisharp is a good teammate that synergizes well defensively with Dragonite and punishes the opponent's Fairies, also Pursuit trapping the Latios and Latias who otherwise majorly threaten Dragonite.
-
-Dragonite, like any other offensive Pokemon, appreciates hazard support (though this can be more difficult to provide if a Defogger is used), so Klefki and Excadrill make decent choices as far as defensive synergy goes, and offensive powerhouses such as Mamoswine, Landorus, and Tyranitar help keep the pressure on the opponent. Pokemon that can make use of Dragonite's wallbreaking make great partners. In particular, Mega Charizard X likes having Azumarill, Landorus-T, and Heatran lured and weakened before its sweep, while it weakens Dragonite's checks in return.
+Entry hazard removal support is vital so that Dragonite performs effectively. Excadrill stands out for this role as it has amazing defensive synergy with Dragonite and can easily take care of Fairy-types as well as spin away hazards. Latias can use Defog to get rid of hazards and provides Healing Wish support as well. Magnezone forms the DragMag core and gets rid of opposing Fairy- and Ice-types. Magnezone can also lure in Ground-type moves that Dragonite is immune to, and Magnezone can keep up momentum by using Volt Switch. Wallbreakers such as Kyurem-B and Mega Charizard Y can weaken opponents so that Dragonite can clean more easily. As a bonus, Mega Charizard Y sets sun, negating Tyranitar's and Hippowdown's sand. Dual screens support makes setting up easier. Klefki in particular has dual screens as well as Spikes and Prankster. Clefable can check Greninja, negate Will-O-Wisp with Magic Guard, and provide Wish support, as well as set up Stealth Rock.
 
 Bulky Roost
 ########
@@ -77,48 +75,48 @@ name: Bulky Roost
 move 1: Roost
 move 2: Dragon Claw
 move 3: Extreme Speed
-move 4: Earthquake
+move 4: Fire Punch / Superpower
 ability: Multiscale
 item: Leftovers
-evs: 216 HP / 64 Atk / 228 SpD
 nature: Adamant
+evs: 216 HP / 64 Atk / 228 SpD
 
 Moves
 ========
 
-Roost gives Dragonite longevity, allowing it to continue tanking threats while dishing out damage. The combination of STAB Dragon Claw and Extreme Speed provide a double whammy against faster foes, providing what is essentially a 200 BP attack. This combination can wipe out most frail opponents such as Thundurus, Talonflame, and Greninja, or opposing Dragon-types such as Garchomp and Mega Charizard X before Dragonite takes a second hit, while heavily denting most neutral attackers. This combination is resisted by Steel-type Pokemon, and Earthquake is the best option to deal with most of them, particularly Heatran. Fire Punch is an option to hit Skarmory and Ferrothorn with, but this Dragonite's relative lack of power compared to other sets means it fails to 2HKO them (Ferrothorn can avoid it with Leech Seed), so they are better off left to teammates to handle. Thunder Wave is a possible option over Extreme Speed as an alternative method to outspeed opponents permanently, but it doesn't do damage, so it cannot finish off weakened opponents.
+Dragonite's great defensive stats allow it to pull off a bulkier set that sponges hits better while still dealing decent damage. Roost allows Dragonite to regain health and reactivate Multiscale. Dragon Claw is a STAB attack that is used over Outrage, as any defensive Pokemon does not want to be locked into a move. Extreme Speed finishes off opponents that are weakened by Dragon Claw. Fire Punch hits Ferrothorn, Scizor, and Skarmory decently hard. On the other hand, Superpower can hit Tyranitar, Ferrothorn, Heatran, and Bisharp harder, but it lowers both Attack and Defense. Thunder Wave can be used to cripple some opponents, but missing out on coverage isn't very good.
 
 Set Details
 ========
 
-64 Attack EVs with an Adamant nature reaches a jump point in Attack, providing two extra Attack points instead of one over running 60 EVs. This gives its combo of Dragon Claw + Extreme Speed enough power to finish off a larger variety of faster threats, giving it decent offensive presence with minimal investment. The remaining EVs are placed into HP and Special Defense, with this particular blend giving Dragonite the most efficient special bulk, letting it take the least amount of damage from special attacks, particularly from Landorus. Leftovers is of course the best item for a Dragonite designed to take a beating.
+64 Attack EVs with an Adamant nature reach a jump point that allows Dragonite to beat many opponents with the simple combination of Dragon Claw and Extreme Speed. The remaining EVs are put into special bulk. Leftovers is the preferred item as it provides passive recovery. Multiscale allows a healthy Dragonite to take hits even better.
 
 Usage Tips
 ========
 
-This Dragonite operates as a tank, taking full advantage of its bulk, Multiscale, and its offensive capabilities in order to beat some of the tier's most dangerous attackers one-on-one. In fact, bulky Dragonite can actually survive a Life Orb Ice Beam from Protean Greninja with help from Multiscale. This of course means that this Dragonite can take some of the weaker Ice-type moves it encounters, such as Hidden Power Ice Thundurus and Icy Wind Keldeo, as well as powerful 2x effective attacks such as Life Orb Latios's Draco Meteor, and proceed to defeat these threats. This Dragonite's special bulk is not to be underestimated even if Multiscale is broken, as it can take two of Landorus's Sludge Waves or Mega Charizard Y's sun-fueled Fire Blasts even after taking Stealth Rock damage, with only a very minuscule chance for Landorus's attack to net the 2HKO on the switch. These, as one might have noticed, are some of the most powerful neutral special attacks in the tier, and Dragonite can comfortably take them. With Multiscale intact, you can expect bulky Dragonite to withstand some physical abuse as well from physical attackers such as Mega Pinsir, Mega Charizard X, Garchomp, and Bisharp.
+While this Dragonite has an offensively based moveset, it should not be used recklessly like other variants of Dragonite and should take a more defensive approach. The main strategy of this set is to take strong special hits, such as Charizard Y's Fire Blast and Latios's Draco Meteor, and retaliate by hitting extremely hard in return. This Dragonite set also can switch into threats that would otherwise harm it, such as Keldeo and Landorus. As usual, Dragonite should not switch in when Stealth Rock is up, as it is much more vulnerable to attacks with Multiscale broken.
 
 Team Options
 ========
 
-This Dragonite mostly aims to support its teammates rather than vice versa, as it is designed to withstand some of the most powerful special attacks in the tier. It would want Multiscale intact to function at its fullest capacity, so anti-hazard support is very much appreciated. Excadrill is not only the best candidate for Rapid Spin support, but can also provide Stealth Rock support while complementing Dragonite defensively. Dragonite can take on attackers such as Landorus, Keldeo, and Mega Charizard Y that threaten Excadrill, while Excadrill shields Dragonite from various Fairy-, Dragon-, and Rock-type moves. Heatran also has great synergy with Dragonite, with the two covering each other's weaknesses perfectly while still maintaining offensive presence. Bulky Dragonite dislikes status, as it heavily interferes with its tanking role, and even paralysis can interrupt its two-hit combo of Dragon Claw + Extreme Speed. Clerics such as Vaporeon, Sylveon, and Clefable can cure Dragonite of status and can even use Wish to restore Multiscale. Vaporeon also resists Ice-type attacks for Dragonite, while the Fairies can guard against Dragons in case Dragonite gets caught out against them without its Multiscale active. Offensive teams like Dragonite's ability to tank without losing much offensive momentum, so naturally its best partners are sweepers that have weaknesses to types that Dragonite resists, especially Steel-type Pokemon such as Excadrilland Mega Scizor. These Pokemon can also defeat the troublesome Fairy-types that take little damage from this set's attacks.
+Any form of entry hazard removal is appreciated, as Stealth Rock breaks Multiscale and makes Dragonite more susceptible to attacks. Excadrill makes a great partner as it removes hazards, has great defensive synergy with Dragonite, and can eliminate Fairy-types. Heatran makes a good defensive partner because Dragonite and Heatran cover each other's weaknesses perfectly, it can eliminate Fairy-types, and it can set up Stealth Rock. Heatran can also do a great job at gradually wearing down Dragonite's checks. Clerics such as Clefable and Sylveon are good partners, as they can easily remove burns, Toxic poison, and paralysis. Bulky Dragonite works well on offensive teams in general, which appreciate Dragonite's bulk and good offensive presence.
 
 Other Options
 ########
 
-Dragonite's rain wallbreaker set makes the most of its diverse coverage, utilizing Hurricane, Thunder, and Superpower to handle threats that pose problems to rain teams. However, its comparatively low Speed can lose momentum for the rain team, and it forgoes its most notable asset in Multiscale since it must use Life Orb. Dragonite has access to some Steel-type moves such as Iron Head and Iron Tail, but they are only really good for pure Fairies, since its elemental punches cover dual-typed Fairies as well as other Pokemon, notably Skarmory. Choice Band Iron Tail does have a chance to OHKO physically defensive Clefable after Stealth Rock, though its accuracy can be a letdown. Dragon Dance + SubRoost can set up on bulkier targets, but mono-Dragon coverage is no longer great due to the advent of Fairies, and Zygarde does bulky boosting better due to Coil and an additional STAB type. Dragonite has a very wide special movepool to use, but there are superior options for purely special attacking Dragons, such as the Latios, Latias, Hydreigon, and even Goodra. Dragonite still has access to its parashuffling set, using Thunder Wave + Dragon Tail to paralyse multiple foes, but Electric-types can no longer be paralyzed, while Zygarde again steals the spotlight since it has Glare which can paralyze Ground-types, nerfing parashuffler Dragonite's overall potential.
+Dragonite has many options it can work with, given its good movepool. Dragonite's rain set from BW with Hurricane, Thunder, and Superpower was very effective at wallbreaking, but due to the fact that rain has been limited to 5 turns in XY, and that Dragonite's mediocre Speed ruins the momentum for Swift Swim users, such a set is now limited in effectiveness. Iron Head and Iron Tail can both effectively beat Fairy-types, but they have no use outside of that. A bulky Substitute + Dragon Dance set with Roost and Dragon Claw seems good on paper, but mono-Dragon coverage is no longer good due to the advent of Fairy-types. Dragonite has a huge special movepool with moves such as Flamethrower, Thunderbolt, and Draco Meteor, but Dragonite's mediocre base 100 Special Attack stat limits its effectiveness, and a specially offensive set is outclassed by Latios, Latias, and even Goodra. A parashuffler set can paralyze multiple foes, but Electric-types are now immune to paralysis, limiting its effectiveness. A mixed Life Orb set has a good surprise factor, and it can break down defensive cores more easily.
 
 Checks & Counters
 ########
 
-**Fairies**: Clefable and Azumarill can take any hit from +1 Dragonite and deal severe damage back with their super effective STAB attacks.
+**Fairy-types**: Almost any Fairy-type can easily take care of Dragonite. Azumarill and physically defensive Sylveon aren't threatened much by Dragon Dance and bulky Dragonite, though the former should be wary of Thunder Punch from the Choice Band set. Physically defensive Clefable is a great answer to any variant of Dragonite, bar ones with a Steel-type coverage move. Unaware variants of Clefable can also stop a boosted Dragonite with ease.
 
-**Outrage Sponges**: Pokemon that can discourage Dragonite from going for Outrage, such as the aforementioned Fairies and Steel-types, go a long way in stopping Dragonite. Some Steel-types include Mega Scizor, Ferrothorn, and Heatran.
+**Ice-type Attacks**: Despite Multiscale, Dragonite can not stand up to most Ice-type attacks. Life Greninja, Kyurem-B, and Mamoswine are all Pokemon that can easily OHKO Dragonite with their Ice-type STAB moves. Pokemon that carry Ice-type coverage, such as Manaphy, also pose a threat.
 
-**Ice-type Moves**: Even with Multiscale, Dragonite does not like taking these attacks. Ice Beam Protean Greninja, Kyurem-B, Icicle Spear Mamoswine, and Skill Link Cloyster are examples of the few Pokemon that can OHKO Dragonite right through its Multiscale. Bulkier users such as Ice Beam Manaphy and Ice Punch Conkeldurr can also quickly dispatch Dragonite.
+**Physical Walls**: Physically defensive Pokemon with reliable recovery, such as Hippowdown, Skarmory, Gliscor, and Quagsire, can all tank hits from Dragonite and stall it out, though Dragonite can cover Skarmory with either Thunder Punch or Fire Punch. Choice Band variants of Dragonite, however, aren't as threatened by these Pokemon due to the fact that it can severely dent all of these.
 
-**Physically Bulky Pokemon**: Stone Edge Landorus-T, Quagsire, Gliscor, Skarmory, RestTalk Intimidate Gyarados, Mega Tyranitar, and Hippowdon can all check Dragonite and either inflict status, phase it, or respond with super effective attacks. However, Choice Band Dragonite may leave a more noticeable mark on them, since it can afford to hit and run, as it keeps its power even when switching out, limiting the number of times they can switch into Dragonite.
+**Broken Multiscale**: One of Dragonite's key points is Multiscale, and without it, Dragonite isn't as shielded from attacks. Stealth Rock poses the biggest threat to Dragonite, as not only does it break Multiscale, it also chips a full quarter of Dragonite's health off. Sandstorm damage from Tyranitar or Hippowdon can also easily break Multiscale. Pokemon that negate Multiscale, such as Mega Gyarados and Kyurem-B, can easily OHKO Dragonite with Ice Fang and Ice Beam, respectively.
 
-**Faster Pokemon**: Dragonite becomes more vulnerable if it cannot act before the opponent or is forced to use Extreme Speed, which may not KO its opponents. Ice Shard Mamoswine, healthy Brave Bird Talonflame, and Choice Scarf users such as Garchomp, Landorus-T, Terrakion, Icy Wind Keldeo, and Timid Hidden Power Ice Heatran can stop Dragon Dance Dragonite, with Terrakion receiving special mention due to its Extreme Speed resistance. The Choice Band and bulky set are substantially easier to revenge kill.
+**Revenge Killing**: Priority and Choice Scarf users are both major problems for Dragonite. Ice Shard Mamoswine and Weavile, as well as Brave Bird Talonflame, can all pick off a weakened Dragonite. Revenge killers such as Garchomp, Landorus-T, and Terrakion can finish off Dragonite with their Rock-type coverage attacks. This forces Dragonite to use Extreme Speed, which will usually not OHKO them.
 
-**Circumventing Multiscale**: While Multiscale can make KOing Dragonite a trying task, there are many ways to get around it without suffering too much damage in return. Stealth Rock is the easiest method, and it also chips away a large amount of Dragonite's health, making it much easier to take down. Sandstorm and hail also break Multiscale, though it only works if one turn has passed. Harmful status and Leech Seed are other alternatives, especially burn which cripples Dragonite's power and reduces its damage output. Finally, while the abilities are fairly rare, Teravolt Kyurem-B and Mold Breaker Mega Gyarados can ignore Multiscale and hammer Dragonite with Ice- or Dragon-type moves.
+**Status**: Outside of sets that use Lum Berry, any form of status will easily cripple Dragonite. Burns from bulky walls such as Rotom-W can prevent Dragonite from doing major damage, while Thundurus can use Thunder Wave to cripple Dragonite from outspeeding common threats.

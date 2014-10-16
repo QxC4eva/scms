@@ -33,6 +33,7 @@ pokemon:
           types: [Grass, Dragon]
           weight: 0
           height: 0
+          tags: [Unreleased]
     egggroups:
     - [Dragon, Monster]
     evolvesFrom: [Grovyle]

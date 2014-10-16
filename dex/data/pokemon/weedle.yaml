@@ -12,6 +12,7 @@ pokemon:
           types: [Bug, Poison]
           weight: 0
           height: 0
+          tags: [Unreleased]
     egggroups:
     - [Bug]
     evolvesFrom: [Kakuna]

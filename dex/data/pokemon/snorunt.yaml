@@ -42,6 +42,7 @@ pokemon:
           types: [Ice]
           weight: 0
           height: 0
+          tags: [Unreleased]
     egggroups:
     - [Fairy, Mineral]
     evolvesFrom: [Snorunt]

@@ -13,6 +13,7 @@ pokemon:
           types: [Normal, Flying]
           weight: 0
           height: 0
+          tags: [Unreleased]
     egggroups:
     - [Flying]
     evolvesFrom: [Pidgeotto]

@@ -76,6 +76,7 @@ pokemon:
           types: [Water, Dark]
           weight: 0
           height: 0
+          tags: [Unreleased]
     egggroups:
     - [Water 2]
     evolvesFrom: [Carvanha]

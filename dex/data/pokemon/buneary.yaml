@@ -71,6 +71,7 @@ pokemon:
           types: [Normal, Fighting]
           weight: 0
           height: 0
+          tags: [Unreleased]
     egggroups:
     - [Ground, Humanshape]
     evolvesFrom: [Buneary]

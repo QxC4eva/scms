@@ -11,6 +11,7 @@ pokemon:
           types: [Dragon, Fairy]
           weight: 0
           height: 0
+          tags: [Unreleased]
     egggroups:
     - [Dragon, Flying]
     evolvesFrom: [Swablu]

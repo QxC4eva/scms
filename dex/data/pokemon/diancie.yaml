@@ -2,6 +2,14 @@ pokemon:
   Diancie:
     abilities:
     - [Clear Body]
+    alts:
+    - xy:
+        Mega:
+          abilities: [Magic Bounce]
+          stats: [50, 160, 110, 160, 110, 110]
+          types: [Rock, Fairy]
+          weight: 0
+          height: 0
     egggroups:
     - []
     height: [0.7]

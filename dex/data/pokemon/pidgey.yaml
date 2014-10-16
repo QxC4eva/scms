@@ -5,6 +5,14 @@ pokemon:
     - bw: [Big Pecks, Keen Eye, Tangled Feet]
     - rs: [Keen Eye]
     - []
+    alts:
+    - xy:
+        Mega:
+          abilities: [No Guard]
+          stats: [83, 80, 80, 135, 80, 121]
+          types: [Normal, Flying]
+          weight: 0
+          height: 0
     egggroups:
     - [Flying]
     evolvesFrom: [Pidgeotto]

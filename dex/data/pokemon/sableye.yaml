@@ -4,6 +4,14 @@ pokemon:
     - [Keen Eye]
     - bw: [Keen Eye, Prankster, Stall]
       dp: [Keen Eye, Stall]
+    alts:
+    - xy:
+        Mega:
+          abilities: [Magic Bounce]
+          stats: [50, 85, 125, 85, 115, 20] 
+          types: [Dark, Ghost]
+          weight: 0
+          height: 0
     egggroups:
     - [Humanshape]
     height: [0.5]

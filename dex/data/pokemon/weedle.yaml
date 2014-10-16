@@ -4,6 +4,14 @@ pokemon:
     - bw: [Sniper, Swarm]
     - rs: [Swarm]
     - []
+    alts:
+    - xy:
+        Mega:
+          abilities: [Adaptability]
+          stats: [65, 150, 40, 15, 80, 145]
+          types: [Bug, Poison]
+          weight: 0
+          height: 0
     egggroups:
     - [Bug]
     evolvesFrom: [Kakuna]

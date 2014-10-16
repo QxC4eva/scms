@@ -4,6 +4,14 @@ pokemon:
     - [Magma Armor]
     - dp: [Magma Armor, Solid Rock]
     - bw: [Anger Point, Magma Armor, Solid Rock]
+    alts:
+    - xy:
+        Mega:
+          abilities: [Sheer Force]
+          stats: [70, 120, 100, 145, 105, 20]
+          types: [Fire, Ground]
+          weight: 0
+          height: 0
     egggroups:
     - [Ground]
     evolvesFrom: [Numel]

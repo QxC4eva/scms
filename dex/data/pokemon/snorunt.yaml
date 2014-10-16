@@ -34,6 +34,14 @@ pokemon:
     - [Inner Focus]
     - dp: [Ice Body, Inner Focus]
     - bw: [Ice Body, Inner Focus, Moody]
+    alts:
+    - xy:
+        Mega:
+          abilities: [Refrigerate]
+          stats: [80, 120, 80, 120, 80, 100]
+          types: [Ice]
+          weight: 0
+          height: 0
     egggroups:
     - [Fairy, Mineral]
     evolvesFrom: [Snorunt]

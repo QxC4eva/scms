@@ -3,6 +3,14 @@ pokemon:
     abilities:
     - [Steadfast]
     - bw: [Justified, Steadfast]
+    alts:
+    - xy:
+        Mega:
+          abilities: [Inner Focus]
+          stats: [68, 165, 95, 65, 115, 110]
+          types: [Psychic, Fighting]
+          weight: 0
+          height: 0
     egggroups:
     - [Indeterminate]
     evolvesFrom: [Kirlia]

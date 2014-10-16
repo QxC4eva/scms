@@ -2,6 +2,14 @@ pokemon:
   Audino:
     abilities:
     - [Healer, Klutz, Regenerator]
+    alts:
+    - xy:
+        Mega:
+          abilities: [Healer]
+          stats: [103, 60, 126, 80, 126, 50]
+          types: [Normal, Fairy]
+          weight: 0
+          height: 0
     egggroups:
     - [Fairy]
     height: [1.1]

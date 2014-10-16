@@ -69,6 +69,14 @@ pokemon:
     abilities:
     - [Intimidate]
     - bw: [Intimidate, Moxie]
+    alts:
+    - xy:
+        Mega:
+          abilities: [Aerilate]
+          stats: [95, 145, 130, 120, 90, 120]
+          types: [Dragon, Flying]
+          weight: 0
+          height: 0
     egggroups:
     - [Dragon]
     evolvesFrom: [Shelgon]

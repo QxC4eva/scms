@@ -4,6 +4,14 @@ pokemon:
     - bw: [Oblivious, Own Tempo, Regenerator]
     - rs: [Oblivious, Own Tempo]
     - []
+    alts:
+    - xy:
+        Mega:
+          abilities: [Shell Armor]
+          stats: [95, 75, 180, 130, 80, 30]
+          types: [Water, Psychic]
+          weight: 0
+          height: 0
     egggroups:
     - [Monster, Water 1]
     evolvesFrom:

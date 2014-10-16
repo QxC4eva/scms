@@ -24,6 +24,14 @@ pokemon:
     abilities:
     - [Clear Body]
     - bw: [Clear Body, Light Metal]
+    alts:
+    - xy:
+        Mega:
+          abilities: [Tough Claws]
+          stats: [80, 145, 150, 105, 110, 110]
+          types: [Steel, Psychic]
+          weight: 0
+          height: 0
     egggroups:
     - [Mineral]
     evolvesFrom: [Metang]

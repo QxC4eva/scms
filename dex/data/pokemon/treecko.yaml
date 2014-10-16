@@ -25,6 +25,14 @@ pokemon:
     abilities:
     - [Overgrow]
     - bw: [Overgrow, Unburden]
+    alts:
+    - xy:
+        Mega:
+          abilities: [Lightningrod]
+          stats: [70, 110, 75, 145, 85, 145]
+          types: [Grass, Dragon]
+          weight: 0
+          height: 0
     egggroups:
     - [Dragon, Monster]
     evolvesFrom: [Grovyle]

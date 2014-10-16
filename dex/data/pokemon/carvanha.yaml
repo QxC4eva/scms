@@ -68,6 +68,14 @@ pokemon:
     abilities:
     - [Rough Skin]
     - bw: [Rough Skin, Speed Boost]
+    alts:
+    - xy:
+        Mega:
+          abilities: [Strong Jaw]
+          stats: [70, 140, 70, 110, 65, 105]
+          types: [Water, Dark]
+          weight: 0
+          height: 0
     egggroups:
     - [Water 2]
     evolvesFrom: [Carvanha]

@@ -97,6 +97,14 @@ pokemon:
     abilities:
     - [Torrent]
     - bw: [Damp, Torrent]
+    alts:
+    - xy:
+        Mega:
+          abilities: [Swift Swim]
+          stats: [100, 150, 110, 95, 110, 70]
+          types: [Water, Ground]
+          weight: 0
+          height: 0
     egggroups:
     - [Monster, Water 1]
     evolvesFrom: [Marshtomp]
@@ -118,3 +126,4 @@ pokemon:
     types:
     - [Ground, Water]
     weight: [81.9]
+    

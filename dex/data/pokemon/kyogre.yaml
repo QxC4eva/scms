@@ -3,6 +3,14 @@ pokemon:
     abilities:
     - [Drizzle]
     - bw: [Drizzle]
+    alts:
+    - xy:
+        Primal:
+          abilities: [Primordial Sea]
+          stats: [100, 150, 90, 180, 160, 90]
+          types: [Water]
+          weight: 0
+          height: 0
     egggroups:
     - []
     height: [4.5]

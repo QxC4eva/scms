@@ -63,6 +63,14 @@ pokemon:
     abilities:
     - [Cute Charm, Klutz]
     - bw: [Cute Charm, Klutz, Limber]
+    alts:
+    - xy:
+        Mega:
+          abilities: [Scrappy]
+          stats: [65, 136, 94, 54, 96, 135]
+          types: [Normal, Fighting]
+          weight: 0
+          height: 0
     egggroups:
     - [Ground, Humanshape]
     evolvesFrom: [Buneary]

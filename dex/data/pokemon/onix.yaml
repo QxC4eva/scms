@@ -87,6 +87,14 @@ pokemon:
     - bw: [Rock Head, Sheer Force, Sturdy]
     - rs: [Rock Head, Sturdy]
     - []
+    alts:
+    - xy:
+        Mega:
+          abilities: [Sand Force]
+          stats: [75, 125, 230, 55, 95, 30]
+          types: [Steel, Ground]
+          weight: 0
+          height: 0
     egggroups:
     - [Mineral]
     evolvesFrom: [Onix]

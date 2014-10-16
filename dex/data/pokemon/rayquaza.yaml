@@ -3,6 +3,14 @@ pokemon:
     abilities:
     - [Air Lock]
     - bw: [Air Lock]
+    alts:
+    - xy:
+        Mega:
+          abilities: [Delta Stream]
+          stats: [105, 180, 100, 180, 100, 115]
+          types: [Dragon, Flying]
+          weight: 0
+          height: 0
     egggroups:
     - []
     height: [7]

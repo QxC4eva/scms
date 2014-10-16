@@ -92,6 +92,14 @@ abilities:
   Defiant:
     description: [Boosts Attack by two stages for every stat drop.]
     introduction: bw
+  Delta Stream:
+    description:
+    - Summons Strong Winds until Pokemon leaves battle. Electric/Ice/Rock moves do half damage and Weather changing moves/abilities fail, except for Primordial Sea and Desolate Land.
+    introduction: xy
+  Desolate Land:
+    description:
+    - Summons Heavy Sun until Pokemon leaves battle. Water-type moves and weather changing moves/abilities fail, except for Primordial Sea and Delta Stream.
+    introduction: xy
   Download:
     description: [User gets a stat boost depending on its opponent's stats.]
     introduction: dp
@@ -379,6 +387,10 @@ abilities:
   Pressure:
     description: [Enemy attacks lose 1 extra PP. Increases wild encounter rate.]
     introduction: rs
+  Primordial Sea:
+    description:
+    - Summons Heavy Rain until Pokemon leaves battle. Fire-type moves and weather changing moves/abilities fail, except for Desolate Land and Delta Stream.
+    introduction: xy
   Protean:
     description: ['Right before this Pokemon uses a move, it changes its type to match that move. Hidden Power is interpreted as its Hidden Power type, rather than Normal.']
     introduction: xy

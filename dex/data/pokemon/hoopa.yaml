@@ -2,6 +2,14 @@ pokemon:
   Hoopa:
     abilities:
     - [Magician]
+    alts:
+    - xy:
+        Mega:
+          abilities: [Magician]
+          stats: [80, 160, 60, 170, 130, 80]
+          types: [Psychic, Dark]
+          weight: 0
+          height: 0
     egggroups:
     - []
     height: [0.5]

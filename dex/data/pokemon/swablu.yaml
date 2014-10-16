@@ -3,6 +3,14 @@ pokemon:
     abilities:
     - [Natural Cure]
     - bw: [Cloud Nine, Natural Cure]
+    alts:
+    - xy:
+        Mega:
+          abilities: [Pixilate]
+          stats: [75, 110, 110, 110, 105, 80]
+          types: [Dragon, Fairy]
+          weight: 0
+          height: 0
     egggroups:
     - [Dragon, Flying]
     evolvesFrom: [Swablu]

@@ -1535,6 +1535,18 @@ moves:
     priority: [0]
     target: [enemy]
     type: [Dragon]
+  Dragon Ascent:
+    accuracy: [100]
+    category:
+    - Physical
+    description: [Lowers user's Defense and Special Defense by 1 stage.]
+    introduction: xy
+    power:
+    - 120
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Flying]
   Dragon Breath:
     accuracy: [100]
     category:
@@ -3568,6 +3580,18 @@ moves:
     priority: [0]
     target: [enemy]
     type: [Psychic]
+  Hyperspace Fury:
+    accuracy: [0]
+    category:
+    - Special
+    description:
+    - Ignores the effects of Protect and Detect, and lowers user's defense by 1.
+    introduction: xy
+    power: [100]
+    pp: [5]
+    priority: [0]
+    target: [enemy]
+    type: [Dark]
   Hypnosis:
     accuracy: [60]
     category:
@@ -4862,6 +4886,18 @@ moves:
     priority: [0]
     target: [randenemy]
     type: [Dragon]
+  Origin Pulse:
+    accuracy: [85]
+    category:
+    - Special
+    description: [No additional effect.]
+    introduction: xy
+    power:
+    - 110
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Water]
   Overheat:
     accuracy: [90]
     category:
@@ -5230,6 +5266,18 @@ moves:
     priority: [0]
     target: [normal]
     type: [Fighting]
+  Precipice Blades:
+    accuracy: [85]
+    category:
+    - Physical
+    description: [No additional effect.]
+    introduction: xy
+    power:
+    - 120
+    pp: [10]
+    priority: [0]
+    target: [enemy]
+    type: [Ground]
   Present:
     accuracy: [90]
     category:

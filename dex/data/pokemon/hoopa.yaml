@@ -2,15 +2,6 @@ pokemon:
   Hoopa:
     abilities:
     - [Magician]
-    alts:
-    - xy:
-        Mega:
-          abilities: [Magician]
-          stats: [80, 160, 60, 170, 130, 80]
-          types: [Psychic, Dark]
-          weight: 0
-          height: 0
-          tags: [Unreleased]
     egggroups:
     - []
     height: [0.5]
@@ -23,4 +14,21 @@ pokemon:
     - [Unreleased]
     types:
     - [Psychic, Ghost]
+    weight: [9.0]
+  Hoopa-Alt:
+    abilities:
+    - [Magician]
+    egggroups:
+    - []
+    height: [0.5]
+    introduction: xy
+    evolvesFrom: [Hoopa]
+    moves:
+    - []
+    stats:
+    - [80, 160, 60, 170, 130, 80]
+    tags:
+    - [Unreleased]
+    types:
+    - [Psychic, Dark]
     weight: [9.0]

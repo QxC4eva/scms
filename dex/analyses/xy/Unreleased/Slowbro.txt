@@ -2,6 +2,7 @@ Set
 #############
 name: 1 [ORAS] Slowbro
 item: Slowbroite
+ability: Oblivious
 evs: 252 HP / 252 Def / 4 SpA
 nature: Bold
 move 1: Calm Mind
@@ -9,13 +10,15 @@ move 2: Rest / Slack Off
 move 3: Sleep Talk / Psyshock
 move 4: Scald
 
-With the ability Shell Armor ensuring that it cannot be crit, massive Defense, and Calm Mind to patch up its lower Special Defense, Mega Slowbro is the ideal Pokemon to run a RestTalk Calm Mind set. Mega Slowbro also has access to Slack Off for reliable recovery, which can be used over RestTalk, freeing up a moveslot for Psyshock to break through Chansey and Blissey, as well as Water immune Pokemon such as Toxicroak and Jellicent. However, Mega Slowbro's susceptibility to Toxic makes RestTalk a more reliable option.
+With the ability Shell Armor ensuring that it cannot be struck by a critical hit, massive Defense, and Calm Mind to patch up its lower Special Defense, Mega Slowbro is the ideal Pokemon to run a RestTalk Calm Mind set. Mega Slowbro also has access to Slack Off for reliable recovery, which can be used over RestTalk, freeing up a moveslot for Psyshock to break through Chansey and Blissey, as well as Water-immune Pokemon such as Toxicroak and Jellicent. However, Mega Slowbro's susceptibility to Toxic makes RestTalk a more reliable option.
 
 Set
 #############
 name: 2 [ORAS Doubles] Slowbro
 item: Slowbroite
 ability: Oblivious
+evs: 252 HP / 20 SpA / 232 SpD
+nature: Sassy
 move 1: Trick Room
 move 2: Fire Blast
 move 3: Scald

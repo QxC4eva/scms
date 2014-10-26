@@ -532,7 +532,7 @@ abilities:
   Sturdy:
     description:
     - OHKO moves will fail.
-    - {bw: The weilder cannot be KO'd in one hit. OHKO moves will fail.}
+    - {bw: The wielder cannot be KO'd in one hit. OHKO moves will fail.}
     introduction: rs
   Suction Cups:
     description: [Cannot be forced to switch. Increases chance of encountering Pokemon while fishing.]

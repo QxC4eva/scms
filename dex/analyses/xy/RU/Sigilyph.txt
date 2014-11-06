@@ -2,13 +2,13 @@ Overview
 ########
 Sigilyph possesses the amazing Magic Guard ability, and it possesses enough Speed to outrun almost every defensively inclined Pokemon in the tier and some offensive ones, giving it a solid niche over Reuniclus. Sigilyph's combination of usable bulk, reliable recovery, and immunity to residual damage makes it a huge pain for defensive teams to take down. It has a movepool wide enough to have varying checks and counters to each of its sets, which can make it tricky to handle. However, Sigilyph faces stiff competition from the numerous other Psychic-types that reside in the tier. Delphox shares much of Sigilyph's movepool but has superior offensive stats and stronger typing, while Cresselia and Reuniclus possess vastly superior bulk, with Cresselia sharing Sigilyph's respectable Speed and Reuniclus also having Magic Guard. However, Sigilyph has its collective advantages over all of them that warrants its use, and is a powerful standalone threat in its own right.
 
-Attacker
+Life Orb
 ########
 name: Attacker
-move 1: Psyshock / Psychic
+move 1: Psyshock 
 move 2: Heat Wave
-move 3: Energy Ball / Dark Pulse
-move 4: Roost
+move 3: Roost
+move 4: Energy Ball / Calm Mind
 ability: Magic Guard
 item: Life Orb
 evs: 4 HP / 252 SpA / 252 Spe
@@ -30,64 +30,6 @@ Sigilyph can be a royal pain for offensive teams to deal with due to its limited
 Team Options
 ========
 Sigilyph can have issues against the likes of Cresselia and Reuniclus, making teammates such as Escavalier and Drapion solid partners to dispose of the bulky Psychic-types that trouble Sigilyph. Sigilyph has some problematic weaknesses, most notably to Electric and Dark, both of which are resisted by Virizion, Shiftry, and Whimsicott, the former two providing strong offensive support while the latter can generate momentum for Sigilyph with Encore and U-turn. Other Pokemon that resist Sigilyph's weaknesses make good partners as well, including Exploud with its Ghost immunity, Doublade with its Ice and Rock resistances, and Drapion with its Dark resistance. Sticky Web can benefit Sigilyph greatly, as it renders many offensive checks to Sigilyph much less potent. Any user of Sticky Web can do the trick and offer other forms of support: Leavanny has decent offensive presence due to high Speed and decent dual STABs, Ariados has Toxic Spikes, Kricketune has Knock Off, and Masquerain has QuiverPass.
-
-
-Calm Mind
-########
-name: Calm Mind
-move 1: Calm Mind
-move 2: Psychic / Psyshock
-move 3: Heat Wave
-move 4: Roost
-ability: Magic Guard
-item: Life Orb
-evs: 4 HP / 252 SpA / 252 Spe
-nature: Timid
-
-Moves
-========
-Calm Mind boosts Sigilyph's power and special bulk, allowing it to steamroll slower teams that have difficulty weathering its attacks or KOing it in return. Psychic is Sigilyph's main STAB move and has good Base Power. Heat Wave allows Sigilyph to hit Steel-types and maintains decent neutral coverage on the tier. Roost keeps Sigilyph healthy and maintain its boosts. Psyshock can be used to hit physically frail Pokemon, but it doesn't give Sigilyph the edge in Calm Mind wars against opposing bulkier Calm Mind users such as Reuniclus and Cresselia, and exposes Sigilyph to Rhyperior and physically bulky Druddigon, which it preferably wants to take down more effectively.
-
-Set Details
-========
-The spread is straightforward, with max Speed and Special Attack investment for optimum sweeping potential. Life Orb gives Sigilyph a good boost in power, allowing it to hit hard even without setting up.
-
-Usage Tips
-========
-Calm Mind Sigilyph is designed to exploit a weak defensive link in balanced teams, then dismantling them with its boosted power, Speed, and coverage. One boost is usually enough to spell trouble for most teams. This Sigilyph combines Delphox's powerful offensive combo with Reuniclus's survivability. Sigilyph easily exploits defensive Pokemon, such as Alomomola, Golbat, Slowking, and Aromatisse, that cannot threaten Sigilyph with paralysis, sleep, or damage.
-
-Team Options
-========
-Virizion resists Electric-, Rock-, and Dark-type moves for Sigilyph, while Sigilyph can pick apart defensive cores that prevent Virizion from doing much sweeping, especially cores which contain Gligar, Doublade, Aromatisse, and Amoonguss. Offensive sweepers such as Durant, Hitmonlee, Sharpedo, and Cinccino appreciate Sigilyph's ability to weaken defensive cores, while covering for Sigilyph against opposing offensive Pokemon. Sticky Web support can be considered, allowing Sigilyph to clean through teams at an even better caliber.
-
-Flame Orb
-########
-name: Flame Orb
-move 1: Psycho Shift
-move 2: Roost
-move 3: Calm Mind
-move 4: Air Slash
-ability: Magic Guard
-item: Flame Orb
-evs: 252 HP / 16 Def / 240 Spe
-nature: Timid
-
-Moves
-========
-Psycho Shift allows Sigilyph to burn opponents, essentially being a pseudo-Will-O-Wisp. It weakens physical attackers and annoys bulky walls by nullifying Leftovers recovery. Roost allows Sigilyph to remain healthy and keep its boosts. Calm Mind is primarily used to boost Sigilyph's Special Defense, which works well with Psycho Shift burns, while also boosting its Special Attack. The mono-attack of choice is Air Slash, which has no immunities and has STAB.
-
-Set Details
-========
-Flame Orb gives Sigilyph immunity to sleep and paralysis, and lets it burn physical attackers and walls with Psycho Shift. 240 Speed EVs with Timid allow Sigilyph to outspeed positive natured base 95s such as Tinted Lens Yanmega and Drapion, giving it the chance to act accordingly. Max HP investment is used to maximize bulk, while the remaining EVs go into Defense as Sigilyph cannot actively boost it. An alternative offensive spread of 4 HP / 252 SpA / 252 Spe can be used, although it makes it harder for Sigilyph to acquire boosts, and this Sigilyph does not have Life Orb to augment its power to justify the spread.
-
-Usage Tips
-========
-Flame Orb Sigilyph was viewed in a bad light in the previous generation, but it strikes back with a vengeance. It has an absurdly good matchup against almost anything defensively inclined, preferably with Flame Orb activated beforehand; opponents such as Amoonguss, Alomomola, Aromatisse, and Bronzong are setup bait. Sigilpyh can easily spread burns onto physical attackers such as Skuntank and Rhyperior to weaken their attacks and cripple them, or burn bulky foes such as Slowking and Registeel to make it easier to break through them. Calm Mind, on the other hand, softens the blows of special attackers and strengthens Sigilyph at the same time. This Sigilyph is meant to steamroll through the opponent's defenses while meeting little, if any, resistance. If Sigilyph cannot find time to set up, simply focus on spreading burns or chipping away with Air Slash.
-
-Team Options
-========
-Flame Orb Sigilyph detests Knock Off, not primarily because of its weakness, but it robs Sigilyph of its status immunity and burning method. Knock Off absorbers make great teammates because of this, Cobalion and Virizion topping the list due to Justified and their advantage against Dark-types and Rock-types. Opposing Delphox and Moltres pose problems due to their burn immunity and power; Stealth Rock does a great job at limiting these two from switching in freely, while more direct responses such as Alomomola, Druddigon, Slowking, Regirock, and Lanturn can work, though it should be noted only Slowking can safely counter both of them at once. Faster sweepers with super effective attacks, such as Heliolisk, Zoroark, Cincinno, Durant, and Mismagius, can threaten Sigilyph; Virizion makes a good partner at handling Sigilyph's Electric and Dark weakness, while Doublade keeps faster physical attackers in check. Powerful special attackers can potentially overwhelm Sigilyph regardless of Calm Mind, so a backup against them is recommended; Assault Vest Escavalier, Amoonguss, and Gastrodon perform well against them. This Sigilyph's offensive presence can be a bit lacking, so offensive sweepers such as Hitmonlee, Sharpedo, Cobalion, and other such Pokemon that can threaten offensive teams are highly appreciated as teammates.
-
 
 Other Options
 ########

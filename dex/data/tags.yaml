@@ -353,6 +353,11 @@ tags:
     name: VGC14
     successors:
     - []
+  PU:
+    introduction: xy
+    name: PU
+    successors:
+    - []
   VGC12:
     introduction: bw
     name: VGC12

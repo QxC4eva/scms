@@ -1,28 +1,87 @@
-Toxic Spikes
+Overview
 ########
-name: Toxic Spikes
-move 1: Toxic Spikes
-move 2: Dragon Tail / Protect
-move 3: Sludge Bomb
-move 4: Scald
-ability: Poison Touch
-item: Black Sludge
-evs: 252 HP / 4 Def / 252 SpD
-nature: Calm / Sassy
 
-
-This is a sample set while we are currently working on analyses in the workshop.
+Dragalge is the best Dragon-type in the NU metagame. Thanks to its high stats barring Speed, very good typing, and nice offensive coverage, Dragalge is capable of serving multiple roles in a lot of different team archetypes. Its Choice Specs set, for example, can hit very hard with Draco Meteor for offensive teams, and the defensive set can set up Toxic Spikes for balanced ones while checking a very wide range of threats, including most Fire-, Water-, and Grass-types. However, Dragalge is very slow, meaning that it often has to take a hit before moving, and as it has no reliable recovery, it is easily worn down by repeated attacks and entry hazards.
 
 Choice Specs
 ########
 name: Choice Specs
 move 1: Draco Meteor
 move 2: Sludge Bomb
-move 3: Scald / Hydro Pump
-move 4: Hidden Power Fire / Focus Blast
+move 3: Focus Blast
+move 4: Dragon Pulse / Scald
 ability: Poison Point
 item: Choice Specs
-evs: 200 HP / 252 SpA / 56 Spe
+evs: 204 HP / 252 SpA / 52 Spe
 nature: Modest
 
-This is a sample set while we are currently working on analyses in the workshop.
+Moves
+========
+
+Draco Meteor is the most powerful STAB move Dragalge has and has stellar coverage in the NU metagame. Sludge Bomb hits Fairy-types immune to Draco Meteor for super effective damage and is a more reliable move to be locked into. The higher chance to poison is preferred over the higher amount of power Sludge Wave has, though Sludge Wave can still be used to hit slightly harder and to hit the uncommon Quilladin, which, thanks to its Bulletproof ability, is immune to Sludge Bomb. Focus Blast hits the Steel-types that resist both of Dragalge's STAB moves for super effective damage and allows Dragalge to 2HKO Lickilicky and Audino. Hidden Power Fire can be used instead as a more accurate option to deal with Ferroseed, though it hits Ferroseed as hard as Focus Blast does. Dragon Pulse is an accurate Dragon STAB move that is very useful against Ground- and Poison-types if you can't afford to lock Dragalge into Draco Meteor. Note, however, that two Draco Meteors are more powerful than two Dragon Pulses, even when factoring in the Special Attack drop. Scald is an option in the last slot for the burn chance and as a more accurate way of hitting Rhydon and bulky Ground-types hard.
+
+Set Details
+========
+
+The given Speed EVs allow Dragalge to outspeed uninvested Pokemon with base 50 Speed, such as Vileplume and Granbull. Dragalge's Special Attack is maximized, and the remaining EVs are put in HP to let Dragalge take hits better. Choice Specs gives Dragalge a massive power boost.
+
+Usage Tips
+========
+
+Dragalge should be switched into defensive Water-types, such as Qwilfish and Poliwrath, and Poison-types, such as Garbodor and Weezing, as they provide the best opportunities to fire off attacks. Grass-types such as Lilligant and Vileplume also provide good opportunities to switch in if Sleep Clause is in effect. Recklessly spam Draco Meteor if the opponent doesn't have any Fairy-types, as it is very powerful and can do sizable damage even to Pokemon that resist it if they don't invest in Special Defense, such as Steelix.
+
+Team Options
+========
+
+Mesprit pairs quite well with Dragalge, as it is a great switch-in to Pokemon that check Dragalge, such as Ground-types; it can also set up Stealth Rock for Dragalge's team. Entry hazard support, especially Spikes, can really wear down Dragalge's checks. Good Pokemon for that role include Crustle and Garbodor. Ferroseed also has awesome defensive synergy with Dragalge and thus is a good choice for more balanced teams. Feraligatr is another good partner, as Dragalge gets a free switch in on most of its checks, such as Qwilfish and Vileplume, to then fire off a Draco Meteor. Slurpuff, especially the Belly Drum variant, is also a good choice, as Dragalge can easily lure in Steel-types such as Ferroseed, Probopass, and Steelix and smack them with a Focus Blast.
+
+Defensive
+########
+name: Defensive
+move 1: Toxic Spikes
+move 2: Dragon Tail
+move 3: Sludge Bomb
+move 4: Protect / Dragon Pulse
+ability: Poison Point
+item: Black Sludge
+evs: 248 HP / 192 Def / 68 SpD
+nature: Calm / Sassy
+
+
+Moves
+========
+
+Toxic Spikes is the main move on the set, as Dragalge finds quite a few opportunities to set them up. Dragon Tail is a STAB phazing move to deal with bulky setup sweepers that might try to set up while Dragalge uses Toxic Spikes and aren't particularly threatened by any of Dragalge's moves, such as Feraligatr. Sludge Bomb is a reliable STAB move to hit the Grass-types Dragalge checks, such as Sceptile and Lilligant. Protect is the main move in the last slot because of its usefulness in stalling for Toxic damage, gaining extra Black Sludge recovery, and scouting Choice-locked attackers, but Dragon Pulse is a perfectly viable choice to hit Poison- and Ground-types, which fear nothing from Dragalge, such as Sandslash and Garbodor. Scald is also a viable choice because of its useful chance to burn, but it is pitifully weak without investment. Alternatively, a RestTalk set can be used as a more reliable way to recover HP and to make Dragalge a sleep absorber that can better deal with the likes of Lilligant, but Dragalge really struggles to find room in its movesets and such a set would be very passive.
+
+Set Details
+========
+
+68 Special Defense EVs and a positive nature let Dragalge avoid the 2HKO from Choice Specs Pyroar after Stealth Rock and Protect and from Life Orb Ludicolo's Ice Beam if Stealth Rock is not up. The remaining EVs are put into Defense to let Dragalge sponge resisted physical hits much better and take less damage from Magmortar's Earthquake. A more specially defensive spread can be used to take on special Water- and Fire-types such as Typhlosion, Pyroar, and Ludicolo even better, but that makes Dragalge more prone to mixed Magmortar and it becomes more difficult to sponge repeated physical hits, even if they are resisted. The choice between Calm and Sassy is really a matter of preference; the former lets Dragalge outspeed Pokemon with base 40 Speed and the latter gives Dragalge a stronger Dragon Tail. Black Sludge works very well with Protect and is Dragalge's only way to recover HP.
+
+Usage Tips
+========
+
+Dragalge easily switches into defensive Grass- and Water-types and can set up Toxic Spikes on them for free. You can use Protect freely against Pokemon that don't normally carry setup moves and against Choice-locked attackers, but be careful using it against setup sweepers such as Feraligatr. Dragalge is also a great switch-in to Fire-type attacks and can take on most Fire-types if it doesn't switch into coverage moves.
+
+Team Options
+========
+
+Ferroseed is an awesome partner for Dragalge, as it can set up Stealth Rock and Spikes for Dragalge to rack up even more damage with Dragon Tail. It also has great synergy with it, resisting Dragalge's Psychic weakness and beating most Ground-types. In return, Dragalge resists both Ferroseed's Fighting and Fire weaknesses. Audino and Lickilicky complement Dragalge very well, providing Wish and Heal Bell support and offering another strong check to special attackers. Bulky Water-types such as Seismitoad and Poliwrath can switch into the bulky Ground- and Steel-types that otherwise are able to freely switch into Dragalge and force them out.
+
+Other Options
+########
+
+Dragalge can use an offensive Toxic Spikes set with maximum Special Attack investment, but it is usually outclassed in that role by Garbodor and Qwilfish. Haze is an option on the defensive set, but Dragon Tail outclasses it outside of hitting Fairy-types and Substitute users. Hydro Pump and Thunderbolt are alternative coverage moves Dragalge can use on its Choice Specs set, but they hit nothing outside of specific targets such as Camerupt and Mantine.
+
+Checks & Counters
+########
+
+**Bulky Steel-types**: Probopass, Steelix, and Ferroseed can switch into every move Dragalge carries bar Focus Blast, but the defensive set can easily set up Toxic Spikes against them.
+
+**Audino**: Audino doesn't like taking Draco Meteor and Focus Blast but can act as a pivot switch against Choice Specs variants to see what Dragalge locks itself into. Be careful, however, because the defensive set uses it as setup fodder for Toxic Spikes.
+
+**Bulky Ground-types**: Rhydon, Camerupt, and Seismitoad fear almost nothing from defensive Dragalge and can set up Stealth Rock or threaten it with Earthquake. They are also decent checks to the Choice Specs set if they manage to switch into Sludge Bomb or Hidden Power Fire.
+
+**Psychic-types**: While they do not enjoy switching into repeated attacks because of their lack of reliable recovery, Psychic-types such as Uxie and Mesprit are decent checks to Dragalge, as they have huge special bulk and can threaten it with their Psychic STAB moves.
+
+**Offensive pressure and residual damage**: As Dragalge lacks recovery outside of Rest and is vulnerable to all forms of entry hazards bar Toxic Spikes, it is worn down quite easily by offensive teams that can heavily pressure it with repeated attacks.

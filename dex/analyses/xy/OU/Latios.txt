@@ -1,73 +1,74 @@
 Overview
 ########
 
-Latios has always been a premier special attacker, something that has not changed with the advent of XY. While Latios struggles to beat some of the newly introduced Fairy-type Pokemon, it still has respectable Special Attack and Speed stats in addition to a wide movepool. Latios also makes for a good offensive user of Defog, allowing it to play more of a team support role, something it has never really been able to do in the past. While the introduction of Fairy-type Pokemon to the metagame has diminished Latios's capabilities as a sweeper, it is still a fearsome threat that should not be taken lightly.
+Latios's great movepool, offensive stats, and unique Dragon / Psychic typing make it a fearsome special attacker that is capable of breaking through most teams. Its wide array of coverage moves also lets Latios eliminate some of its common switch-ins. Latios's typing allows it to act as a great offensive check to top-tier threats such as Keldeo, Mega Charizard Y, and Landorus. It also has access to Defog, which was buffed with the introduction of XY, allowing Latios to play as a supportive Pokemon in addition to an offensive one. However, the introduction of Fairy-types has diminished Latios's capabilities as a sweeper. Due to its typing, Latios is also very vulnerable to being Pursuit trapped by common Pursuit users such as Tyranitar and Bisharp.
 
-Special Attacker
+Life Orb
 ########
-name: Special Attacker
+name: Life Orb
 move 1: Draco Meteor
 move 2: Psyshock
-move 3: Thunderbolt / Earthquake / Hidden Power Fighting
-move 4: Defog / Roost
+move 3: Hidden Power Fire / Surf / Earthquake
+move 4: Roost / Defog
+ability: Levitate
 item: Life Orb
-evs: 4 HP / 252 SpA / 252 Spe
+evs: 252 SpA / 4 SpD / 252 Spe
+ivs: 29 HP
 nature: Timid / Hasty
 
 Moves
 ========
 
-Draco Meteor is Latios's strongest and hence main STAB attack. Psyshock pairs well with Draco Meteor, getting STAB and good neutral coverage while doing physical damage, hurting special walls such as Blissey. The choice for the third move is entirely dependent on your team, as each coverage option allows Latios to beat a different threat. Earthquake allows Latios to hit Pokemon such as Heatran, Bisharp, and Tyranitar, with the only real drawback being Latios having to use a Hasty nature. Thunderbolt not only offers good neutral coverage, but can be used to hit otherwise troublesome threats such as Azumarill and Togekiss. Hidden Power Fighting is useful for hitting nearly every Pursuit user, as well as targeting otherwise good checks such as Mega Tyranitar. With Hidden Power Fighting, Latios trades its all around good coverage for the ability to hit specific threats.
+Draco Meteor is Latios's main STAB attack and is capable of OHKOing many offensively oriented Pokemon, including Landorus, Mega Pinsir, and Mega Medicham. Due to its high Base Power, it also gives Latios the ability to act as a wallbreaker, dealing significant damage to quite a few defensively oriented Pokemon, such as Landorus-T, Alomomola, Slowbro, and specially defensive Gliscor. Psyshock gives Latios the ability to hit Fighting- and Poison-types such as Keldeo, Terrakion, Breloom, Mega Venusaur, and Amoonguss for super effective damage. Psyshock is also Latios's main attack against Fairy-types such as Clefable and Azumarill, as they are immune to Dragon-type attacks. Because Psyshock targets the foe's Defense rather than its Special Defense, it allows Latios to deal a decent amount of damage to Chansey and Blissey, both of which wall Latios otherwise. Latios's coverage move decides which of its switch-ins it is capable of beating. Hidden Power Fire lets it hit Steel-, Bug-, and Grass-types, such as Ferrothorn, Skarmory, Jirachi, Bisharp, Scizor, and Celebi, for super effective damage. Surf gives Latios the ability to 2HKO Heatran, specially defensive Gliscor, and most Tyranitar. It also scores an OHKO on Landorus and Excadrill, allowing Latios to OHKO the former and avoid the drop in Special Attack from Draco Meteor. Earthquake is another option for the third moveslot, as it allows Latios to OHKO Heatran, 2HKO most Tyranitar and Bisharp, and deal a decent amount of damage to Jirachi.
 
-Surf lets Latios do super effective damage to Ground- and Rock-type Pokemon such as specially defensive Hippowdon and Tyranitar. Hidden Power Fire can also be used for Scizor and Ferrothorn, both of which resist Latios's STABs. Roost allows Latios to heal itself, while Defog allows Latios to support its team better by removing entry hazards from the field.
-
+Roost increases Latios's longevity drastically, making it a more reliable switch-in to the Pokemon it's supposed to check, such as Keldeo and Landorus. By running Roost, Latios also becomes a good win condition against stall, because it's able to recover the health lost from Life Orb recoil and entry hazards damage. Defog is a viable option over Roost if having a way of clearing entry hazards is important to your team. However, it should be noted that without Roost, Latios is easily worn down. Running both Roost and Defog on the same set is also an option if your team really needs a reliable way of getting rid of entry hazards. Without a coverage move, though, the number of Pokemon capable of switching into Latios increases by quite a lot.
 
 Set Details
 ========
 
-The EVs focus on letting Latios deal as much damage as possible while maintaining its crucial Speed tier, allowing it to outspeed threats such as Terrakion, Keldeo, and Infernape. A Life Orb is chosen for a similar reason, giving Latios as much damage output as possible without locking its move selections. However, Leftovers is a viable alternative if Defog is used, as Life Orb Latios with no healing lacks longevity.
+The given EV spread with a Timid nature is used to make the most of Latios's great Speed tier, which allows it to outspeed fast Pokemon such as Keldeo and Terrakion, as well as maximize Latios's damage output. Life Orb is Latios's item of choice, as it increases Latios's damage output even further without locking itself into one move. If running Earthquake, 24 EVs in Attack should be used to ensure that specially defensive Heatran is always OHKOed by Earthquake after Stealth Rock damage. To minimize the recoil damage taken from Life Orb, 29 IVs in HP are used.
 
 Usage Tips
 ========
 
-Latios works best as a hit-and-run attacker, largely due to the Special Attack drops from Draco Meteor. This also makes the best use out of Latios's fairly limited longevity, allowing it to be a relevant force throughout the match. When using Latios, it is important to be careful of using Draco Meteor too much, as many powerful threats can easily set up on a -2 Latios.
+Using Latios as a hit-and-run attacker is advised because the drop in Special Attack from Draco Meteor drastically decreases its damage output. If your opponent has a way of taking advantage of Latios's lowered Special Attack, playing carefully with Draco Meteor is advised. Scouting for Knock Off Landorus and Icy Wind Keldeo before sending Latios in is smart, as both of the moves remove a significant portion of its health. If your opponent has a potential Pursuit user, such as Bisharp or Tyranitar, it's advised to play carefully with Latios.
 
 Team Options
 ========
 
-The checks and counters to Latios vary greatly depending on its coverage moves; hence, its partners vary greatly as well. Nevertheless, Sylveon reliably checks all sets. As a result, Pokemon such as Excadrill, Volcarona, and Zapdos make for good partners, as they all threaten Sylveon. Latios pairs well with Pokemon that can lure special walls, making Keldeo a good partner as well.
-
+Fighting-types such as Keldeo and Terrakion make for good teammates, as they are capable of taking on common Pursuit users, such as Bisharp and Tyranitar, as well a lot of common Latios switch-ins, such as Ferrothorn, Heatran, and Chansey. Pokemon that are capable of taking on Clefable and Sylveon, such as Heatran and Excadrill, make for great partners. Lastly, Keldeo is an exceptional teammate, as it is capable of taking on Bisharp and Mega Scizor, both of which can easily set up on Latios if it's lacking Hidden Power Fire.
 
 Choice Scarf
 ########
 name: Choice Scarf
 move 1: Draco Meteor
 move 2: Psyshock
-move 3: Surf / Hidden Power Fire
-move 4: Trick / Hidden Power Fire
+move 3: Hidden Power Fire / Tailwind / Defog
+move 4: Trick
+ability: Levitate
 item: Choice Scarf
-evs: 4 HP / 252 SpA / 252 Spe
+evs: 252 SpA / 4 SpD / 252 Spe
 nature: Timid
 
 Moves
 ========
 
-This set transforms Latios into an incredibly potent revenge killer, outspeeding nearly every boosting sweeper in the metagame. Draco Meteor is Latios's most powerful attack and the attack often most used when revenging. Psyshock gets good neutral coverage in conjunction with Draco Meteor, taking care of troublesome threats such as Keldeo, Mega Venusaur, and Gengar.  Surf beats Fire-types such as Heatran, Entei, and Talonflame, while Hidden Power Fire beats Scizor and Genesect. Trick allows Latios to cripple walls that it has trouble breaking through. If using Latios in the rain, Thunder can be used to better hit Azumarill, Togekiss, and Mandibuzz.
+Choice Scarf transforms Latios into an amazing revenge killer, letting it outspeed nearly every setup sweeper in the metagame even when they are at +1 Speed. Even without a boosting item, Draco Meteor is incredibly strong and is Latios's main move for revenge killing. Psyshock has great neutral coverage alongside Draco Meteor and takes care of top-tier threats such as Keldeo, Gengar, and Mega Venusaur. The choice of move in the third moveslot depends whether you want more coverage or the ability to support your team in a pinch. Hidden Power Fire hits Steel-, Bug-, and Grass-types, such as Ferrothorn, Skarmory, Jirachi, Bisharp, Scizor, and Celebi, for super effective damage. Tailwind is a great last-ditch team support move in a pinch. Defog is a similar way of supporting Latios's team and can be used if Latios's team is desperately in need of a Defog user. Trick gives Latios the ability to cripple defensively oriented Pokemon such as Ferrothorn, Chansey, Sylveon, Clefable, and Suicune.
 
 Set Details
 ========
 
-As this Latios is a potent revenge killer, the EVs focus on maximizing both Latios's Speed and Special Attack stats so that it can be as fast as possible and hit as hard as possible.
+As this Latios set is a potent revenge killer, the EVs and nature focus on maximizing both Latios's Speed and Special Attack so that it can be as fast and powerful as possible.
 
 Usage Tips
 ========
 
-As a revenge killer, Latios should only come out sparingly so as to maximize its longevity. Overuse of Draco Meteor can potentially lead to an opposing threat setting up easily against Latios, so Latios needs to be careful about its choice of moves. Trick should also be used fairly conservatively, as even when using it cripples an opposing wall Latios loses its ability to revenge many popular boosting sweepers.
+As Choice Scarf Latios lacks any kind of recovery, its longevity is cut short, so bringing it out sparingly is advised. While Draco Meteor is Latios's strongest attack, you should refrain from overusing the move because it might give your opponent an opportunity to set up against Latios. If Latios's Choice Scarf lets it revenge kill a potentially threatening setup sweeper on the opposing team, you should be conservative about using Trick, even if you have the opportunity to cripple a defensively oriented Pokemon.
 
 Team Options
 ========
 
-This revenge killer greatly appreciates partners with momentum attacks, such as U-turn and Volt Switch, which allow it more opportunities to switch in. Latios struggles to take down Pokemon such as Mandibuzz and Togekiss without Tricking away its Choice item, making Zapdos and Rotom-W excellent partners. Given its typing and the fact that it is Choice-locked, Latios lures many Pursuit users. As such, Pokemon such as Mega Lucario, which can set up against the Pursuit users mentioned earlier, also make for excellent partners.
+Because many of the common switch-ins to Latios, such as Tyranitar, Bisharp, Heatran, Ferrothorn, and Chansey, are weak to Fighting-type attacks, most Fighting-types make for good teammates. Keldeo is perhaps Latios's best partner, as it is a surefire switch-in to Pursuit users such as Bisharp and Tyranitar. Steel-types such as Excadrill and Heatran are great teammates, as they are capable of taking on Fairy-types such as Clefable and Sylveon, both of which counter Latios. Choice Scarf Latios really appreciates having slow Volt Switch or U-turn users as partners, as they give Latios a free and safe switch in. Good examples of Volt Switch and U-turn users include Rotom-W, Landorus-T, and Mega Scizor.
 
 Dual Screen Support
 ########
@@ -112,13 +113,19 @@ Although this set doesn't benefit much from Stealth Rock support by itself, prov
 Other Options
 ########
 
-A Calm Mind set is usable, but is generally outclassed by Latias due to Latios's lack of longevity. Similarly, a fully defensive set making use of Defog and Heal Block suffers from Latios's lack of longevity and would be better used by Latias. Latios can also make use of a Dragon Dance set, but due to its innately low Attack stat, such a set is better done by other popular Dragon-types such as Dragonite. Latios can facilitate a teammate's setup with a dual screens + Memento set, but it is fairly outclassed by Deoxys-S in this role.
+Thunderbolt and Hidden Power Fighting can be used to lure in and take on certain threats. Thunderbolt lets Latios take on specially defensive Mandibuzz while also hitting bulky Water- and Flying-types for super effective damage, whereas Hidden Power Fighting OHKOes Bisharp and 2HKOes most Tyranitar. Psychic is also an option, as it is capable of 2HKOing physically defensive Clefable. To achieve an incredibly high damage output, Choice Specs can be run. It allows Latios to 2HKO Clefable and Chansey with Psyshock, which is a good surprise element. A Calm Mind set is also usable for the same reason as the Choice Specs set: while it does use a turn to set up, it gives Latios the ability to do insane amounts of damage.
 
 Checks & Counters
 ########
 
-**Special Walls**: If Latios lacks Trick, special walls such as Chansey and Sylveon are able to reliably wall Latios. Fairy-types do exceptionally well, as Latios lacks a reliable way to damage them.
+**Fairy-types**: Physically defensive Clefable and Sylveon can take Latios's Psyshock and are immune to Draco Meteor. In return, they can do significant amounts of damage with their STAB moves, with Sylveon even scoring an OHKO with Hyper Voice. However, both have to be wary of Psychic, which is capable of 2HKOing them. Mega Gardevoir can switch into Psyshock once and threaten Latios out.
 
-**Offensive Checks**: Latios's checks and counters vary depending on the coverage moves it chooses. Azumarill and Togekiss do well against Latios if it is lacking Thunderbolt, while Scizor does well if Latios lacks Hidden Power Fire.
+**Pursuit Trappers**: Tyranitar and Bisharp can both live any of Latios's STAB moves and proceed to trap and OHKO Latios with Pursuit. Bisharp has to be wary of Hidden Power Fire and Hidden Power Fighting, however, while Tyranitar has to be wary of Hidden Power Fighting and Surf.
 
-**Pursuit Users**: Pursuit users such as Tyranitar and Mega Scizor make for good counters to Latios, as they can take a hit and prevent Latios from switching out.
+**Steel-types**: If Latios lacks Hidden Power Fire, Ferrothorn, Mega Scizor, and Jirachi fear almost nothing from it and can heal off the damage taken from Draco Meteor with their respective recovery moves. Mega Scizor can threaten to set up with Swords Dance, while Jirachi and Ferrothorn can set up entry hazards.
+
+**Heatran**: As Heatran resists Latios's STAB moves, it takes minor damage on the switch. Between Toxic, Taunt, and Lava Plumes, Latios will be easily worn down, while Heatran can also set Stealth Rock to pressure Latios and its teammates. However, if Latios is running Surf or Earthquake, Heatran can't take it on.
+
+**Chansey and Blissey**: If Latios is lacking Trick, it has no means of 2HKOing Chansey and Blissey, which can retalitate with status inflictions and Seismic Toss. Choice Specs variants of Latios are capable of 2HKOing both after Stealth Rock damage, but otherwise, it can't take them down.
+
+**Offensive Checks**: Pokemon such as Greninja, Choice Scarf Landorus-T, and Weavile are capable of switching into one Psyshock, outspeeding and OHKOing Latios in return. Azumarill can come in on any attack barring Psyshock and Thunderbolt and is also capable of OHKOing Latios.

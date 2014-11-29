@@ -18,7 +18,7 @@ moves:
     category:
     - Physical
     - {bw: Special, dp: Special, gs: Physical, rs: Physical, xy: Special}
-    description: [10% chance to lower Defense by 1 stage.]
+    description: [10% chance to lower the target's Defense by one stage.]
     introduction: rb
     power: [40]
     pp: [30]
@@ -30,7 +30,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts Defense by 2 stages.]
+    description: [Boosts the user's Defense by two stages.]
     introduction: rb
     power: [0]
     pp:
@@ -44,7 +44,7 @@ moves:
     category:
     - Special
     - {xy: Special}
-    description: [Lowers target's Special Defense by 2 stages.]
+    description: [Lowers the target's Special Defense by two stages.]
     introduction: bw
     power: [40]
     pp: [20]
@@ -56,7 +56,7 @@ moves:
     category:
     - Physical
     - {xy: Physical}
-    description: [Doubles in power if user has no held item.]
+    description: [Base Power doubles if the user has no held item.]
     introduction: bw
     power: [55]
     pp: [15]
@@ -68,7 +68,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts a random stat by 2 stages.]
+    description: [Boosts a random stat by two stages.]
     introduction: dp
     power: [0]
     pp: [30]
@@ -104,7 +104,7 @@ moves:
     category:
     - Non-Damaging
     - {xy: Non-Damaging}
-    description: ["If it has not yet moved, the target will attack immediately after the user."]
+    description: ["If the target has not yet moved, it will attack immediately after the user."]
     introduction: bw
     power: [0]
     pp: [15]
@@ -117,7 +117,7 @@ moves:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
-    - Boosts Speed by 2 stages. Negates speed drop of paralysis.
+    - Boosts the user's Speed by two stages. Negates the Speed drop of paralysis.
     - {gs: Boosts Speed by 2 stages.}
     introduction: rb
     power: [0]
@@ -156,7 +156,7 @@ moves:
     category:
     - Non-Damaging
     - {xy: Non-Damaging}
-    description: [Switches position with another Pokemon on user's side of the field.]
+    description: [Switches the user's position with that of an ally.]
     introduction: bw
     power: [0]
     pp: [15]
@@ -168,9 +168,9 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description:
+    description: 
     - Boosts Spc 2 stages.
-    - {gs: Boosts Special Defense by 2 stages.}
+    - {gs: Boosts the user's Special Defense by two stages.}
     introduction: rb
     power: [0]
     pp: [20]
@@ -182,7 +182,7 @@ moves:
     category:
     - Physical
     - {bw: Special, dp: Special, rs: Physical, xy: Special}
-    description: [10% chance to boost all stats by 1 stage.]
+    description: [10% chance to boost all stats by one stage.]
     introduction: gs
     power: [60]
     pp: [5]
@@ -252,8 +252,7 @@ moves:
   Aromatic Mist:
     accuracy: [100]
     category: [Non-Damaging]
-    description: [The user raises the Special Defense stat of itself and ally Pokemon
-        by 1.]
+    description: [The user raises its and its allies' Special Defense by one stage.]
     introduction: xy
     power: [0]
     pp: [20]
@@ -277,7 +276,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: ["Base Power doubles if the foe takes damage in the same turn, before the attack is used."]
+    description: ["Base Power doubles if the foe takes damage in the same turn before this move is used."]
     introduction: dp
     power:
     - 50
@@ -291,7 +290,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, xy: Physical}
-    description: [30% chance to flinch.]
+    description: [30% chance to flinch the target.]
     introduction: rs
     power: [30]
     pp: [15]
@@ -342,7 +341,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
-    description: [10% chance to lower Attack by 1 stage.]
+    description: [10% chance to lower the user's Attack by one stage.]
     introduction: rb
     power: [65]
     pp: [20]
@@ -354,7 +353,7 @@ moves:
     category:
     - Non-Damaging
     - {xy: Non-Damaging}
-    description: ["Boosts user's Speed by 2 stages. Reduces user's weight by 220 lbs (100 kg)."]
+    description: ["Boosts the user's Speed by two stages. Reduces the user's weight by 220 lbs (100 kg)."]
     introduction: bw
     power: [0]
     pp: [15]
@@ -366,7 +365,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: [Doubles in power if user was damaged by the target previously in the turn.]
+    description: [Base Power doubles if the user was damaged by the target previously in the turn.]
     introduction: dp
     power: [60]
     pp: [10]
@@ -376,7 +375,7 @@ moves:
   Baby-Doll Eyes:
     accuracy: [100]
     category: [Non-Damaging]
-    description: [Lowers the target's Attack by 1 stage. Priority +1.]
+    description: [Lowers the target's Attack by one stage. Priority +1.]
     introduction: xy
     power: [0]
     pp: [30]
@@ -400,7 +399,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts Defense by 2 stages.]
+    description: [Boosts the user's Defense by two stages.]
     introduction: rb
     power: [0]
     pp:
@@ -414,7 +413,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: ["User switches, passing on all stat changes and some special conditions."]
+    description: ["The user switches, passing on all stat changes and some special conditions."]
     introduction: gs
     power: [0]
     pp: [40]
@@ -426,7 +425,7 @@ moves:
     category:
     - Special
     - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
-    description: [All healthy Pokemon aid in damaging the target.]
+    description: [All healthy Pokemon on the user's team aid in damaging the target.]
     introduction: gs
     power:
     - 10
@@ -450,7 +449,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [User loses 50% of max HP. Maximizes Attack.]
+    description: [The user loses 50% of max HP. Maximizes the user's Attack.]
     introduction: gs
     power: [0]
     pp: [10]
@@ -462,7 +461,7 @@ moves:
     category:
     - Non-Damaging
     - {xy: Non-Damaging}
-    description: [User passes its held item to the target.]
+    description: [The user passes its held item to the target.]
     introduction: bw
     power: [0]
     pp: [15]
@@ -508,7 +507,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
-    description: [10% chance to flinch.]
+    description: [10% chance to flinch the target.]
     introduction: rb
     power: [60]
     pp: [25]
@@ -534,7 +533,7 @@ moves:
     category:
     - Special
     - {bw: Physical, dp: Physical, xy: Physical}
-    description: [High critical hit rate. 10% chance to burn.]
+    description: [High critical hit rate. 10% chance to burn the target.]
     introduction: rs
     power: [85]
     pp: [10]
@@ -548,7 +547,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
-    description: [10% chance to freeze.]
+    description: [10% chance to freeze the target.]
     introduction: rb
     power:
     - 120
@@ -574,7 +573,7 @@ moves:
     category:
     - Special
     - {xy: Special}
-    description: [20% chance to burn.]
+    description: [20% chance to burn the target.]
     introduction: bw
     power: [130]
     pp: [5]
@@ -586,7 +585,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
-    description: [30% chance to paralyze.]
+    description: [30% chance to paralyze the target.]
     introduction: rb
     power: [85]
     pp: [15]
@@ -598,7 +597,7 @@ moves:
     category:
     - Physical
     - {xy: Physical}
-    description: [20% chance to paralyze.]
+    description: [20% chance to paralyze the target.]
     introduction: bw
     power: [130]
     pp: [5]
@@ -610,7 +609,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
-    description: [10% chance to flinch.]
+    description: [10% chance to flinch the target.]
     introduction: rb
     power: [65]
     pp: [20]
@@ -656,7 +655,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, xy: Physical}
-    description: ["User is made invulnerable for one turn, then hits the next turn. 30% chance to paralyze."]
+    description: ["The user is made invulnerable for one turn, then hits the next turn. 30% chance to paralyze the target."]
     introduction: rs
     power: [85]
     pp: [5]
@@ -692,7 +691,7 @@ moves:
     category:
     - Special
     - {bw: Special, xy: Special}
-    description: [Base Power doubles if foe's HP is 50% or less.]
+    description: [Base Power doubles if the target's HP is 50% or less.]
     introduction: dp
     power: [65]
     pp: [10]
@@ -704,7 +703,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
-    description: [10% chance to lower Speed by 1 stage.]
+    description: [10% chance to lower the target's Speed by one stage.]
     introduction: rb
     power:
     - 20
@@ -718,7 +717,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
-    description: [10% chance to lower Speed by 1 stage.]
+    description: [10% chance to lower the target's Speed by one stage.]
     introduction: rb
     power: [65]
     pp: [20]
@@ -730,7 +729,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: ["Takes and uses foe's Berry."]
+    description: ["Takes and uses the target's Berry."]
     introduction: dp
     power: [60]
     pp: [20]
@@ -742,7 +741,7 @@ moves:
     category:
     - Special
     - {bw: Special, xy: Special}
-    description: [10% chance to lower Special Defense by 1 stage.]
+    description: [10% chance to lower the target's Special Defense by one stage.]
     introduction: dp
     power: [90]
     pp: [10]
@@ -754,7 +753,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts Attack and Defense by 1 stage.]
+    description: [Boosts the user's Attack and Defense by one stage each.]
     introduction: rs
     power: [0]
     pp: [20]
@@ -766,7 +765,7 @@ moves:
     category:
     - Physical
     - {xy: Physical}
-    description: [Lowers target's Speed by 1 stage.]
+    description: [Lowers the target's Speed by one stage.]
     introduction: bw
     power: [60]
     pp: [20]
@@ -804,7 +803,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts Special Attack and Special Defense by 1 stage.]
+    description: [Boosts the user's Special Attack and Special Defense by one stage stage.]
     introduction: rs
     power: [0]
     pp: [20]
@@ -816,7 +815,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Changes user's type to Normal in link battles.]
+    description: [Changes user's type to Normal in Link Battles.]
     introduction: rs
     power: [0]
     pp: [20]
@@ -828,7 +827,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers an opposite-gendered foe's Special Attack by 2 stages.]
+    description: [Lowers a target of the opposite gender's Special Attack by two stages.]
     introduction: dp
     power: [0]
     pp: [20]
@@ -852,8 +851,8 @@ moves:
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: 
     - Doubles power of an Electric-type move used next turn.
-    - dp: Doubles power of an Electric-type move used next turn and raises user's Special Defense by 1 stage until the end of the turn.
-    - bw: Doubles power of an Electric-type move used next turn and raises user's Special Defense by 1 stage.
+    - dp: Doubles power of an Electric-type move used next turn and raises the user's Special Defense by one stage until the end of the turn.
+    - bw: Doubles power of an Electric-type move used next turn and raises the user's Special Defense by one stage.
     introduction: rs
     power: [0]
     pp: [20]
@@ -865,7 +864,7 @@ moves:
     category:
     - Special
     - {bw: Special, xy: Special}
-    description: [70% chance to boost Special Attack by 1 stage.]
+    description: [70% chance to boost the user's Special Attack by one stage.]
     introduction: dp
     power: [50]
     pp: [10]
@@ -877,7 +876,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers foe's Attack by 2 stages.]
+    description: [Lowers the target's Attack by two stages.]
     introduction: gs
     power: [0]
     pp: [20]
@@ -917,7 +916,7 @@ moves:
     category:
     - Physical
     - {xy: Physical}
-    description: [Forces the target to switch to a random Pokemon.]
+    description: [Forces the target to switch out and to a random Pokemon. Priority -6.]
     introduction: bw
     power: [60]
     pp: [10]
@@ -957,7 +956,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: [Lowers user's Defense and Special Defense by 1 stage.]
+    description: [Lowers the user's Defense and Special Defense by one stage each.]
     introduction: dp
     power: [120]
     pp: [5]
@@ -969,7 +968,7 @@ moves:
     category:
     - Non-Damaging
     - {xy: Non-Damaging}
-    description: ["Boosts user's Attack, Defense, and accuracy by 1 stage."]
+    description: ["Boosts the user's Attack, Defense, and accuracy by one stage each."]
     introduction: bw
     power: [0]
     pp: [20]
@@ -991,7 +990,7 @@ moves:
   Confide:
     accuracy: [0]
     category: [Non-Damaging]
-    description: [Lowers the target's Special Attack by 1 stage.]
+    description: [Lowers the target's Special Attack by one stage.]
     introduction: xy
     power: [0]
     pp: [20]
@@ -1027,7 +1026,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
-    description: [10% chance to lower Speed by 1 stage.]
+    description: [10% chance to lower the target Speed by one stage.]
     introduction: rb
     power: [10]
     pp: [35]
@@ -1040,9 +1039,9 @@ moves:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
-    - Changes user into opponent's type.
-    - gs: Changes user into a new type based on its moves.
-    - xy: Changes user into the type of the move in its first moveslot.
+    - Changes the user into the opponent's type.
+    - gs: Changes the user into a new type based on its moves.
+    - xy: Changes the user into the type of the move in its first moveslot.
     introduction: rb
     power: [0]
     pp: [30]
@@ -1054,8 +1053,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Changes user into a new type that resists the last attack to hit
-        the user.]
+    description: [Changes the user into a new type that resists the last attack to hit it.]
     introduction: gs
     power: [0]
     pp: [30]
@@ -1079,7 +1077,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts Defense and Special Defense by 1 stage.]
+    description: [Boosts the user's Defense and Special Defense by one stage each.]
     introduction: rs
     power: [0]
     pp: [20]
@@ -1091,7 +1089,7 @@ moves:
     category:
     - Non-Damaging
     - {xy: Non-Damaging}
-    description: [Boosts user's Defense by 3 stages.]
+    description: [Boosts the user's Defense by three stages.]
     introduction: bw
     power: [0]
     pp: [10]
@@ -1105,7 +1103,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers foe's Speed by 2 stages.]
+    description: [Lowers the target's Speed by two stages.]
     introduction: gs
     power: [0]
     pp: [40]
@@ -1118,8 +1116,8 @@ moves:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description:
-    - If hit by a Normal- or Fighting-type attack, returns double the damage.
-    - {gs: 'If hit by a physical attack, returns double the damage.'}
+    - If hit by a Normal- or Fighting-type attack, deals double the damage taken.
+    - {gs: 'If hit by a physical attack, deals double the damage taken.'}
     introduction: rb
     power:
     - 0
@@ -1135,7 +1133,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, xy: Physical}
-    description: [Steals target's item.]
+    description: [Steals the target's item.]
     introduction: rs
     power:
     - 40
@@ -1189,7 +1187,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: [High critical hit rate. 10% chance to poison foe.]
+    description: [High critical hit rate. 10% chance to poison the target.]
     introduction: dp
     power: [70]
     pp: [20]
@@ -1202,8 +1200,8 @@ moves:
     - Special
     - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
     description: 
-    - 20% chance to lower Special Defense by 1 stage.
-    - {dp: 20% chance to lower Defense by 1 stage.}
+    - 20% chance to lower the target's Special Defense by one stage.
+    - {dp: 20% chance to lower the target's Defense by one stage.}
     introduction: gs
     power: [80]
     pp: [15]
@@ -1215,7 +1213,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, xy: Physical}
-    description: [50% chance to lower Defense by 1 stage.]
+    description: [50% chance to lower the target's Defense by one stage.]
     introduction: rs
     power: [75]
     pp: [10]
@@ -1242,7 +1240,7 @@ moves:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: [Does 1/4 of max HP damage per turn at the cost of half the user's max HP if
-        the user is a Ghost. Boosts Attack and Defense and lowers Speed by 1 stage otherwise.]
+        the user is a Ghost-type. Boosts the user's Attack and Defense and lowers Speed by one stage each otherwise.]
     introduction: gs
     power: [0]
     pp: [10]
@@ -1890,7 +1888,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: ["The user always survives with at least 1 HP. Chance of failure increases if it, Detect, Protect, Wide Guard, Quick Guard, King's Shield, or Spiky Shield was used successfully the previous turn."]
+    description: ["The user survives with at least 1 HP. The chance of failure increases if it, Detect, Protect, Wide Guard, Quick Guard, King's Shield, or Spiky Shield was used successfully the previous turn."]
     introduction: gs
     power: [0]
     pp: [10]
@@ -1985,7 +1983,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, xy: Physical}
-    description: ["Base Power doubles when user is burned, paralyzed, or poisoned."]
+    description: ["Base Power doubles when the user is burned, paralyzed, or poisoned."]
     introduction: rs
     power: [70]
     pp: [20]

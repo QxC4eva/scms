@@ -1,4 +1,12 @@
 tags:
+  AG:
+    introduction: xy
+    name: Anything Goes
+    successors: 
+    - []
+    description: 
+    - |
+      No clauses except for Endless Battle Clause. The home of Mega Rayquaza at the moment.
   BL:
     introduction: gs
     name: Borderline
@@ -275,6 +283,7 @@ tags:
     name: Uber
     successors:
     - []
+    - xy: [AG]
     description:
     - |
       Coming soon.

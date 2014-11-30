@@ -5949,7 +5949,7 @@ moves:
     category:
     - Special
     - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
-    description: [50% chance to burn. Thaws the user.]
+    description: [50% chance to burn the target. Thaws the user.]
     introduction: gs
     power: [100]
     pp: [5]
@@ -5975,7 +5975,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Blocks status conditions for 5 turns.]
+    description: [Protects the user's team from status conditions for five turns.]
     introduction: gs
     power: [0]
     pp: [25]
@@ -5987,7 +5987,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers foe's accuracy by 1 stage.]
+    description: [Lowers the target's accuracy by one stage.]
     introduction: rb
     power: [0]
     pp: [15]
@@ -6003,7 +6003,7 @@ moves:
     - {bw: Physical, dp: Physical, xy: Physical}
     description:
     - Traps and damages target over multiple turns.
-    - {xy: Traps and damages target for 4-5 turns.}
+    - {xy: Traps and damages the target for 4-5 turns.}
     introduction: rs
     power:
     - 15
@@ -6017,7 +6017,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Summons a sandstorm for 5 turns.]
+    description: [Summons a sandstorm for five turns.]
     introduction: gs
     power: [0]
     pp: [10]
@@ -6043,7 +6043,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers target's Speed by 2 stages.]
+    description: [Lowers the target's Speed by two stages.]
     introduction: gs
     power: [0]
     pp: [10]
@@ -6067,7 +6067,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers target's Defense by 2 stages.]
+    description: [Lowers the target's Defense by two stages.]
     introduction: rb
     power: [0]
     pp: [40]
@@ -6079,7 +6079,7 @@ moves:
     category:
     - Special
     - {xy: Special}
-    description: [30% chance to burn.]
+    description: [30% chance to burn the target.]
     introduction: bw
     power: [100]
     pp: [5]
@@ -6091,7 +6091,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, xy: Physical}
-    description: [Effects vary with terrain.]
+    description: [Effects vary with the terrain.]
     introduction: rs
     power: [70]
     pp: [20]
@@ -6127,7 +6127,7 @@ moves:
     category:
     - Special
     - {bw: Special, xy: Special}
-    description: [40% chance to lower target's Special Defense by 2 stages.]
+    description: [40% chance to lower the target's Special Defense by two stages.]
     introduction: dp
     power: [120]
     pp: [5]
@@ -6167,7 +6167,7 @@ moves:
     category:
     - Physical
     - {bw: Special, dp: Special, xy: Special}
-    description: [20% chance to lower the target's Special Defense by 1 stage.]
+    description: [20% chance to lower the target's Special Defense by one stage.]
     introduction: gs
     power: [80]
     pp: [15]
@@ -6228,7 +6228,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts user's Attack by 1 stage.]
+    description: [Boosts the user's Attack by one stage.]
     introduction: rb
     power: [0]
     pp: [30]
@@ -6254,8 +6254,8 @@ moves:
     category:
     - Non-Damaging
     - {xy: Non-Damaging}
-    description: ["Boosts user's Attack, Special Attack, and Speed by 2 stages and
-        lowers Defense and Special Defense by 1 stage."]
+    description: ["Boosts the ser's Attack, Special Attack, and Speed by two stages each and
+        lowers its Defense and Special Defense by one stage each."]
     introduction: bw
     power: [0]
     pp: [15]
@@ -6267,7 +6267,7 @@ moves:
     category:
     - Non-Damaging
     - {xy: Non-Damaging}
-    description: [Boosts Speed by 2 stages and Attack by 1 stage.]
+    description: [Boosts the users Speed by two stages and Attack by one stage.]
     introduction: bw
     power: [0]
     pp: [10]
@@ -6291,7 +6291,7 @@ moves:
     category:
     - Physical
     - {bw: Special, dp: Special, xy: Special}
-    description: [10% chance to confuse.]
+    description: [10% chance to confuse the target.]
     introduction: rs
     power: [75]
     pp: [15]
@@ -6303,7 +6303,7 @@ moves:
     category:
     - Physical
     - {bw: Special, dp: Special, xy: Special}
-    description: [10% chance to boost all the user's stats by 1 stage.]
+    description: [10% chance to boost all the user's stats by one stage.]
     introduction: rs
     power: [60]
     pp: [5]
@@ -6365,7 +6365,7 @@ moves:
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description:
     - Charges turn one; attacks turn two.
-    - {gs: Charges and boosts user's Defense by 1 stage turn one; attacks turn two.}
+    - {gs: Charges and boosts user's Defense by one stage turn one; attacks turn two.}
     introduction: rb
     power:
     - 100
@@ -6463,7 +6463,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Picks one of the user's moves at random. Can only be used while
+    description: [Uses one of the user's moves at random. Can only be used while
         sleeping.]
     introduction: gs
     power: [0]
@@ -6478,7 +6478,7 @@ moves:
     - {bw: Special, dp: Special, gs: Physical, rs: Physical, xy: Special}
     description:
     - 29.7% chance to poison.
-    - {gs: 30% chance to poison.}
+    - {gs: 30% chance to poison the target.}
     introduction: rb
     power: [65]
     pp: [20]
@@ -6490,7 +6490,7 @@ moves:
     category:
     - Physical
     - {bw: Special, dp: Special, rs: Physical, xy: Special}
-    description: [30% chance to poison.]
+    description: [30% chance to poison the target.]
     introduction: gs
     power: [90]
     pp: [10]
@@ -6502,7 +6502,7 @@ moves:
     category:
     - Special
     - {xy: Special}
-    description: [10% chance to poison.]
+    description: [10% chance to poison the target.]
     introduction: bw
     power: [95]
     pp: [10]
@@ -6526,7 +6526,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, xy: Physical}
-    description: ["Power doubles against a paralyzed target, but cures it of paralysis."]
+    description: [Base Power doubles if used on a paralyzed target but cures it of paralysis.]
     introduction: rs
     power:
     - 60
@@ -6540,7 +6540,7 @@ moves:
     category:
     - Physical
     - {bw: Special, dp: Special, gs: Physical, rs: Physical, xy: Special}
-    description: [40% chance to poison.]
+    description: [40% chance to poison the target.]
     introduction: rb
     power:
     - 20
@@ -6554,7 +6554,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers target's accuracy by 1 stage.]
+    description: [Lowers the target's accuracy by one stage.]
     introduction: rb
     power: [0]
     pp: [20]
@@ -6566,7 +6566,7 @@ moves:
     category:
     - Special
     - {xy: Special}
-    description: [Lowers target's Special Attack by 1 stage.]
+    description: [Lowers the target's Special Attack by one stage.]
     introduction: bw
     power: [55]
     pp: [15]
@@ -6592,7 +6592,7 @@ moves:
     category:
     - Physical
     - {bw: Special, dp: Special, rs: Physical, xy: Special}
-    description: [Can only be used while sleeping. 30% chance to flinch.]
+    description: [Fails if the user is awake. 30% chance to flinch the target.]
     introduction: gs
     power:
     - 40
@@ -6606,7 +6606,7 @@ moves:
     category:
     - Non-Damaging
     - {xy: Non-Damaging}
-    description: [Changes the target's type(s) to Water.]
+    description: [The target becomes Water-type.]
     introduction: bw
     power: [0]
     pp: [20]
@@ -6643,7 +6643,7 @@ moves:
     - Physical
     - {bw: Special, dp: Special, gs: Physical, rs: Physical, xy: Special}
     description:
-    - Does 20 damage. Ghosts aren't immune.
+    - Does 20 damage. Ghosts take regular damage.
     - {gs: Does 20 damage.}
     introduction: rb
     power:
@@ -6670,7 +6670,7 @@ moves:
     category:
     - Special
     - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
-    description: [30% chance to paralyze.]
+    description: [30% chance to paralyze the target.]
     introduction: gs
     power: [65]
     pp: [20]
@@ -6706,7 +6706,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Causes damage to foes when they switch in.]
+    description: [Damages foes as they switch in.]
     introduction: gs
     power: [0]
     pp: [20]
@@ -6778,7 +6778,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Damages foes upon switching in.]
+    description: [Damages foes as they switch in.]
     introduction: dp
     power: [0]
     pp: [20]
@@ -6789,7 +6789,7 @@ moves:
     accuracy: [95]
     category:
     - Special
-    description: [30% chance to burn.]
+    description: [30% chance to burn the target.]
     introduction: xy
     power: [110]
     pp: [5]
@@ -6801,7 +6801,7 @@ moves:
     category:
     - Physical
     - {xy: Physical}
-    description: [30% chance to flinch.]
+    description: [30% chance to flinch the target.]
     introduction: bw
     power: [65]
     pp: [20]
@@ -6813,7 +6813,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, rs: Physical, xy: Physical}
-    description: [10% chance to raise the user's Defense by 1 stage.]
+    description: [10% chance to raise the user's Defense by one stage.]
     introduction: gs
     power: [70]
     pp: [25]
@@ -6823,7 +6823,7 @@ moves:
   Sticky Web:
     accuracy: [0]
     category: [Non-Damaging]
-    description: [Lowers the Speed stat of opposing Pokemon by 1 stage upon switching in.]
+    description: [Lowers the foes' Speed by one stage as they switch in.]
     introduction: xy
     power: [0]
     pp: [20]
@@ -6835,7 +6835,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Raises Defense and Special Defense by 1 stage. Fails if user has already Stockpiled thrice.]
+    description: [Raises the user's Defense and Special Defense by one stage each. Fails if the user has already used Stockpile three times.]
     introduction: rs
     power: [0]
     pp:
@@ -6849,7 +6849,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
-    description: [30% chance to flinch.]
+    description: [30% chance to flinch the target.]
     introduction: rb
     power: [65]
     pp: [20]
@@ -6873,7 +6873,7 @@ moves:
     category:
     - Special
     - {xy: Special}
-    description: [Varies in power depending on number of boosts accumulated by user.]
+    description: [Varies in power depending on the number of stat boosts accumulated by the user.]
     introduction: bw
     power: [20]
     pp: [10]
@@ -6912,8 +6912,9 @@ moves:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: 
-    - Lowers foes' Speed by 1 stage.
-    - {xy: Lowers foes' Speed by 2 stages.}
+    - Lowers the target's Speed by one stage.
+    - {rs: Lowers the target's Speed by one stage. Hits all adjacent foes.}
+    - {xy: Lowers the target's Speed by two stages. Hits all adjacent foes.}
     introduction: rb
     power: [0]
     pp: [40]
@@ -6925,7 +6926,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
-    description: [Has 1/2 recoil. Ghosts are not immune.]
+    description: [Has 1/2 recoil. Ghost-types take damage.]
     introduction: rb
     power: [50]
     pp:
@@ -6939,7 +6940,7 @@ moves:
     category:
     - Special
     - {xy: Special}
-    description: [Lowers target's Special Attack by 1 stage.]
+    description: [Lowers the target's Special Attack by one stage.]
     introduction: bw
     power:
     - 30
@@ -7002,7 +7003,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Summons sun for 5 turns.]
+    description: [Summons sun for five turns.]
     introduction: gs
     power: [0]
     pp: [5]
@@ -7028,7 +7029,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, xy: Physical}
-    description: [Lowers the user's Attack and Defense by 1 stage.]
+    description: [Lowers the user's Attack and Defense by one stage each.]
     introduction: rs
     power: [120]
     pp: [5]
@@ -7066,7 +7067,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Confuses the target. Boosts its Attack by 2 stages.]
+    description: [Confuses the target and boosts its Attack by two stages.]
     introduction: gs
     power: [0]
     pp: [15]
@@ -7078,7 +7079,9 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Healing varies based on the number of uses of Stockpile.]
+    description: 
+    - rs: Healing varies based on the number of times the user has used Stockpile.
+    - dp: Healing varies based on the number of times the user has used Stockpile. Removes the user's Defense and Special Defense boosts gained through using Stockpile.
     introduction: rs
     power: [0]
     pp: [10]
@@ -7104,7 +7107,10 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers evasion by 1 stage.]
+    description: 
+    - gs: Lowers the target's evasion by one stage.
+    - rs: Lowers the target's evasion by one stage. Hits all adjacent foes.
+    - xy: Lowers the target's evasion by two stages. Hits all adjacent foes.
     introduction: gs
     power: [0]
     pp: [20]
@@ -7128,7 +7134,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Switches items with the target.]
+    description: [The user switches items with the target.]
     introduction: dp
     power: [0]
     pp: [10]
@@ -7140,7 +7146,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts user's Attack by 2 stages.]
+    description: [Boosts the user's Attack by two stages.]
     introduction: rb
     power: [0]
     pp:
@@ -7197,8 +7203,8 @@ moves:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: 
-    - Boosts user's Special Attack by 2 stages.
-    - {bw: Boosts user's Special Attack by 3 stages.}
+    - Boosts the user's Special Attack by two stages.
+    - {bw: Boosts the user's Special Attack by three stages.}
     introduction: rs
     power: [0]
     pp: [20]
@@ -7222,7 +7228,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers foes' Defense by 1 stage.]
+    description: [Lowers the Defense of all opposing adjacent Pokemon by one stage.]
     introduction: rb
     power: [0]
     pp: [30]
@@ -7234,7 +7240,9 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Doubles the user's and its allies' Speed for 3 turns.]
+    description: 
+    - dp: Doubles the Speed of the user and its allies for three turns.
+    - bw: Doubles the Speed of the user and its allies for four turns.
     introduction: dp
     power: [0]
     pp: [30]
@@ -7258,7 +7266,10 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Forces the target to use damaging moves for 2 turns.]
+    description: 
+    - rs: The target cannot use status moves for two turns or until it switches out.
+    - dp: The target cannot use status moves for 2-4 turns.
+    - bw: he target cannot use status moves for three turns.
     introduction: rs
     power: [0]
     pp: [20]
@@ -7296,7 +7307,7 @@ moves:
     category:
     - Non-Damaging
     - {xy: Non-Damaging}
-    description: [Lasts 3 turns and makes all moves hit the target.  Makes target
+    description: [Lasts for 3 turns and makes all moves hit the target. Makes the target
         immune to Ground.]
     introduction: bw
     power: [0]
@@ -7321,7 +7332,7 @@ moves:
     category:
     - Special
     - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
-    description: [Steals target's item.]
+    description: [Steals the target's item.]
     introduction: gs
     power:
     - 40
@@ -7377,7 +7388,7 @@ moves:
     - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
     description:
     - 10% chance to paralyze.
-    - {gs: 30% chance to paralyze.}
+    - {gs: 30% chance to paralyze the target.}
     introduction: rb
     power:
     - 120
@@ -7391,7 +7402,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: [10% chance to flinch. 10% chance to paralyze.]
+    description: [10% chance to flinch the target. 10% chance to paralyze the target.]
     introduction: dp
     power: [65]
     pp: [15]
@@ -7403,7 +7414,7 @@ moves:
     category:
     - Special
     - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
-    description: [10% chance to paralyze.]
+    description: [10% chance to paralyze the target.]
     introduction: rb
     power: [75]
     pp: [15]
@@ -7415,7 +7426,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
-    description: [10% chance to paralyze.]
+    description: [10% chance to paralyze the target.]
     introduction: rb
     power: [40]
     pp: [30]
@@ -7439,7 +7450,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
-    description: [10% chance to paralyze.]
+    description: [10% chance to paralyze the target.]
     introduction: rb
     power:
     - 95
@@ -7453,7 +7464,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers target's Attack and Defense by 1 stage.]
+    description: [Lowers the target's Attack and Defense by one stage each.]
     introduction: rs
     power: [0]
     pp: [20]
@@ -7463,7 +7474,7 @@ moves:
   Topsy-Turvy:
     accuracy: [0]
     category: [Non-Damaging]
-    description: [Inverts target's stat stages.]
+    description: [Inverts the target's stat stages.]
     introduction: xy
     power: [0]
     pp: [20]
@@ -7489,7 +7500,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Inflicts worsening poison on the target.]
+    description: [Badly poisons the target.]
     introduction: rb
     power: [0]
     pp: [10]
@@ -7501,7 +7512,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Poisons opponents as they switch in.]
+    description: [Poisons foes as they switch in.]
     introduction: dp
     power: [0]
     pp: [20]
@@ -7513,7 +7524,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: ["Transforms user into the foe, copying type, stats, stat stages, moves, and ability."]
+    description: ["Transforms the user into the target, copying its type, stats, stat changes, moves, and ability."]
     introduction: rb
     power: [0]
     pp: [10]
@@ -7527,7 +7538,7 @@ moves:
     - {bw: Special, dp: Special, gs: Physical, rs: Physical, xy: Special}
     description:
     - No additional effect.
-    - {gs: '20% chance to burn, freeze, or paralyze, with an equal chance for each.'}
+    - {gs: '20% chance to burn, freeze, or paralyze the target, with an equal chance for each.'}
     introduction: rb
     power: [80]
     pp: [10]
@@ -7551,7 +7562,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Slower Pokemon move first for 5 turns. Priority -7.]
+    description: [Slower Pokemon move first for five turns. Priority -7.]
     introduction: dp
     power: [0]
     pp: [5]
@@ -7599,7 +7610,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
-    description: [Hits twice. Each hit has a 20% chance to poison.]
+    description: [Hits twice. Each hit has a 20% chance to poison the target.]
     introduction: rb
     power: [25]
     pp: [20]
@@ -7611,7 +7622,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, rs: Special, xy: Special}
-    description: [20% chance to flinch.]
+    description: [20% chance to flinch the target.]
     introduction: gs
     power: [40]
     pp: [20]
@@ -7650,7 +7661,7 @@ moves:
     category:
     - Physical
     - {xy: Physical}
-    description: ["Lowers user's Defense, Special Defense, and Speed by 1 stage."]
+    description: ["Lowers the user's Defense, Special Defense, and Speed by one stage each."]
     introduction: bw
     power: [180]
     pp: [5]
@@ -7672,7 +7683,7 @@ moves:
   Venom Drench:
     accuracy: [100]
     category: [Non-Damaging]
-    description: ["Lowers the Attack, Special Attack, and Speed stats of a poisoned target."]
+    description: ["Lowers the Attack, Special Attack, and Speed of a poisoned target by one stage each."]
     introduction: xy
     power: [0]
     pp: [20]
@@ -7684,7 +7695,7 @@ moves:
     category:
     - Special
     - {xy: Special}
-    description: [Hits poisoned targets with double Base Power.]
+    description: [Base Power doubles when used on a poisoned target.]
     introduction: bw
     power: [65]
     pp: [10]
@@ -7760,7 +7771,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: [Doubled Base Power if used on a sleeping foe. Wakes target up.]
+    description: ["Base Power doubles if used on a sleeping target. If the target is sleeping, wakes it up."]
     introduction: dp
     power:
     - 60
@@ -7786,7 +7797,7 @@ moves:
     category:
     - Special
     - {xy: Special}
-    description: [Use with Fire Pledge or Grass Pledge for additional effect.]
+    description: [Use with Fire Pledge or Grass Pledge for additional effects.]
     introduction: bw
     power:
     - 50
@@ -7800,7 +7811,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, xy: Special}
-    description: [20% chance to confuse.]
+    description: [20% chance to confuse the target.]
     introduction: rs
     power: [60]
     pp: [20]
@@ -7848,7 +7859,7 @@ moves:
     - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
     description: 
     - No additional effect.
-    - {dp: 20% chance to flinch.}
+    - {dp: 20% chance to flinch the target.}
     introduction: rb
     power: [80]
     pp: [15]
@@ -7860,7 +7871,7 @@ moves:
     category:
     - Physical
     - {bw: Special, dp: Special, xy: Special}
-    description: [Doubles in power and changes type if there is weather.]
+    description: [Base Power doubles and changes type based on the weather.]
     introduction: rs
     power: [50]
     pp: [10]
@@ -7876,7 +7887,7 @@ moves:
     - {bw: Special, dp: Special, rs: Special, xy: Special}
     description:
     - Traps and damages target over multiple turns.
-    - {xy: Traps and damages target for 4-5 turns.}
+    - {xy: Traps and damages the target for 4-5 turns.}
     introduction: gs
     power:
     - 15
@@ -7908,7 +7919,7 @@ moves:
     category:
     - Non-Damaging
     - {xy: Non-Damaging}
-    description: ["Protects user and allies from multi-target attacks. Chance of failure increases if it, Detect, Protect, Endure, Quick Guard, King's Shield, or Spiky Shield was used successfully the previous turn. Priority +3."]
+    description: ["Protects the user and its allies from multi-target attacks. Chance of failure increases if it, Detect, Protect, Endure, Quick Guard, King's Shield, or Spiky Shield was used successfully the previous turn. Priority +3."]
     introduction: bw
     power: [0]
     pp: [10]
@@ -7960,7 +7971,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Heals 50% of user's max HP after 2 turns. Can heal an ally in the user's place.]
+    description: [Heals 50% of the user's max HP after two turns. Can heal an ally in the user's place.]
     introduction: rs
     power: [0]
     pp: [10]
@@ -7972,7 +7983,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts user's Defense by 1 stage.]
+    description: [Boosts the user's Defense by one stage.]
     introduction: rb
     power: [0]
     pp: [40]
@@ -7985,8 +7996,8 @@ moves:
     - Non-Damaging
     - {xy: Non-Damaging}
     description: 
-    - bw: "Swaps Defense and Special Defense of all Pokemon, ignoring stat changes. Priority -7."
-    - xy: "Swaps Defense and Special Defense of all Pokemon, ignoring stat changes."
+    - bw: "Swaps the Defense and Special Defense of all Pokemon, ignoring stat changes. Priority -7."
+    - xy: "Swaps the Defense and Special Defense of all Pokemon, ignoring stat changes."
     introduction: bw
     power: [0]
     pp: [10]
@@ -8010,7 +8021,7 @@ moves:
     category:
     - Non-Damaging
     - {xy: Non-Damaging}
-    description: ["Boosts user's Attack and Special Attack by 1 stage."]
+    description: ["Boosts the user's Attack and Special Attack by one stage each."]
     introduction: bw
     power: [0]
     pp: [30]
@@ -8022,7 +8033,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Changes the foe's ability to Insomnia.]
+    description: [Changes the target's ability to Insomnia.]
     introduction: dp
     power: [0]
     pp: [10]
@@ -8050,7 +8061,7 @@ moves:
     category:
     - Special
     - {bw: Special, xy: Special}
-    description: [Base Power depends on the foe's remaining HP.]
+    description: [Base Power depends on the target's remaining HP.]
     introduction: dp
     power:
     - 0
@@ -8076,7 +8087,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Puts the target to sleep after 2 turns.]
+    description: [Puts the target to sleep after two turns.]
     introduction: rs
     power: [0]
     pp: [10]
@@ -8088,7 +8099,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, rs: Special, xy: Special}
-    description: [Paralyzes the foe if it hits.]
+    description: [Paralyzes the target.]
     introduction: gs
     power:
     - 100
@@ -8102,7 +8113,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: [20% chance to flinch.]
+    description: [20% chance to flinch the target.]
     introduction: dp
     power: [80]
     pp: [15]

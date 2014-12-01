@@ -65,7 +65,7 @@ Help Form
 				var index = Math.floor(Math.random() * subjects[subject].length);
 				user = subjects[subject][index];
 			} else {
-				helpMessage.message = 'No users found to help:\n\n';
+				helpMessage.message = 'No users found to help:\n\n' + helpMessage.message;
 			}
 
 			return user;
@@ -98,7 +98,7 @@ Help Form
 
 				helpMessage.send(function(res){
 					if(res.success){
-						showMessage('success', res.info);
+						showMessage('success', res.info + ' Go back to <a href="/forums/">the forums</a>?');
 					} else {
 						showMessage('error', res.info);
 					}

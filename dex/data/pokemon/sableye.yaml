@@ -12,7 +12,7 @@ pokemon:
           types: [Dark, Ghost]
           weight: 0
           height: 0
-          tags: [Unreleased]
+          tags: [OU]
     egggroups:
     - [Humanshape]
     height: [0.5]
@@ -90,6 +90,7 @@ pokemon:
     tags:
     - [NU]
     - bw: [UU]
+    - xy: [OU]
     types:
     - [Dark, Ghost]
     weight: [11]

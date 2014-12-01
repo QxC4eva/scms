@@ -6,6 +6,11 @@ Help Form
 	//messages will go to this user if no one is found for a particular subject
 	var defaultRecipient = 'Toast++';
 
+	//this value is used to determine how many redundant people a message should
+	//be sent to. A setting of 1 would send to 1 person + 1 redundant person for
+	//a total of 2 recipients;
+	var redundancy = 1;
+
 	//If you need to use a single quote as part of a subject or name, it must 
 	//be escaped. Just place a \ before the ' as in: I\'m showing an example.
 	var subjects = {
@@ -57,13 +62,23 @@ Help Form
 		}
 		$('#contact [name="subject"]').html(opts);
 
-		//gets random recipient or default if none found
+		//gets random recipients or default if none found
 		var getRecipientForSubject = function(subject){
 			var user = defaultRecipient;
 
 			if(subjects[subject] != undefined && subjects[subject].length > 0) {
 				var index = Math.floor(Math.random() * subjects[subject].length);
+				var redundantCount = 0;
+
 				user = subjects[subject][index];
+				subjects[subject].splice(index, 1);
+
+				while(subjects[subject].length > 0 && redundantCount < redundancy) {
+					index = Math.floor(Math.random() * subjects[subject].length);
+					user += (', ' + subjects[subject][index]);
+					subjects[subject].splice(index, 1);
+					redundantCount++;
+				}
 			} else {
 				helpMessage.message = 'No users found to help:<br/><br/>' + helpMessage.message;
 			}

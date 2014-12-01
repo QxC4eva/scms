@@ -12,7 +12,7 @@ pokemon:
           types: [Bug, Poison]
           weight: 0
           height: 0
-          tags: [Unreleased]
+          tags: [UU]
     egggroups:
     - [Bug]
     evolvesFrom: [Kakuna]
@@ -84,6 +84,7 @@ pokemon:
     tags:
     - [UU]
     - rs: [NU]
+    - xy: [UU]
     types:
     - [Bug, Poison]
     weight: [29.5]

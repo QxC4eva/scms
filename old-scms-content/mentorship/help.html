@@ -41,7 +41,7 @@ Help Form
 	</select>
 	<label for="message">What's your question?</label>
 	<textarea name="message"></textarea>
-	<button name="submit">Send</button>
+	<button name="submit" type="submit">Send</button>
 </form>
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
@@ -65,7 +65,7 @@ Help Form
 				var index = Math.floor(Math.random() * subjects[subject].length);
 				user = subjects[subject][index];
 			} else {
-				helpMessage.message = 'No users found to help:\n\n' + helpMessage.message;
+				helpMessage.message = 'No users found to help:<br/><br/>' + helpMessage.message;
 			}
 
 			return user;
@@ -86,11 +86,11 @@ Help Form
 			});
 
 			//send message on submit
-			$('#contact [name="submit"]').click(function(){
-				var thisbutton = $(this);
-				thisbutton.attr('disabled', 'disabled');
+			$('#contact').on('submit', function(evt){
+				evt.preventDefault();
+				$('button', this).hide();
 
-				var subject = $('#contact [name="subject"]').val()
+				var subject = $('#contact [name="subject"]').val();
 
 				helpMessage.title = '[Help Request] ' + subject;
 				helpMessage.message = $('#contact [name="message"]').val();
@@ -103,8 +103,6 @@ Help Form
 						showMessage('error', res.info);
 					}
 				});
-
-				return false;
 			});
 		});
 	})();

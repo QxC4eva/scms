@@ -11,7 +11,7 @@ pokemon:
           height: 1.9
           stats: [75, 90, 90, 140, 90, 115]
           types: [Dark, Fire]
-          tags: [UU]
+          tags: [RU]
           weight: 49.5
     egggroups:
     - [Ground]
@@ -29,6 +29,7 @@ pokemon:
     tags:
     - [BL]
     - dp: [UU]
+    - xy: [RU]
     types:
     - [Dark, Fire]
     weight: [35]

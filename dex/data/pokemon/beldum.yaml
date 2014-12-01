@@ -32,7 +32,7 @@ pokemon:
           types: [Steel, Psychic]
           weight: 0
           height: 0
-          tags: [Unreleased]
+          tags: [OU]
     egggroups:
     - [Mineral]
     evolvesFrom: [Metang]
@@ -47,7 +47,7 @@ pokemon:
     - [80, 135, 130, 95, 90, 70]
     tags:
     - [OU]
-    - xy: [UU]
+    - xy: [OU]
     types:
     - [Psychic, Steel]
     weight: [550]

@@ -61,9 +61,9 @@ Help Form
 		var getRecipientForSubject = function(subject){
 			var user = defaultRecipient;
 
-			if(recipients[subject] != undefined && recipients[subject].length > 0) {
-				var index = Math.floor(Math.random() * recipients[subject].length);
-				user = recipients[subject][index];
+			if(subjects[subject] != undefined && subjects[subject].length > 0) {
+				var index = Math.floor(Math.random() * subjects[subject].length);
+				user = subjects[subject][index];
 			} else {
 				helpMessage.message = 'No users found to help:\n\n';
 			}

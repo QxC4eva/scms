@@ -1,0 +1,111 @@
+[TITLE]
+Help Form
+
+[HEAD]
+<script type="text/javascript">
+	//messages will go to this user if no one is found for a particular subject
+	var defaultRecipient = 'Toast++';
+
+	//If you need to use a single quote as part of a subject or name, it must 
+	//be escaped. Just place a \ before the ' as in: I\'m showing an example.
+	var subjects = {
+		'Subject 1' : ['User 1', 'User 2', 'User 3'],
+		'Subject 2' : ['User 1', 'User 2'],
+		'Subject 3' : ['User 1', 'User 2', 'User 3', 'User 4', 'User 5'],
+		'Subject 4' : ['User 1', 'User 2', 'User 3'],
+		'Subject 5' : []
+	};
+</script>
+
+<style type="text/css">
+	.message-zone div { border-radius:5px; padding:5px 15px 5px 30px; margin:4px 0; }
+	.message-zone p { margin-bottom:0; }
+	.message-zone div.error { background-color:#ffe0e0; border:1px solid #8c2f2f; color:#8c2f2f; }
+	.message-zone div.success { background-color:#e4ffe0; border:1px solid #128405; color:#128405; }
+
+	#contact { margin-top:16px; }
+	#contact label { display:block; }
+	#contact select, #contact textarea { display:block; padding:4px 8px; border:1px solid #CCC; border-radius:4px; margin:8px 0px; width:512px; }
+	#contact textarea { height:256px; }
+	#contact button { border-radius:3px; border:1px solid #ccc; padding:4px 12px; cursor:pointer; }
+	#contact button:hover { background-color:#eee; }
+</style>
+
+
+[PAGE]
+<div class="message-zone"></div>
+<form id="contact">
+	<label for="subject">What do you need help with?</label>
+	<select name="subject">
+		<option>loading...</option>
+	</select>
+	<label for="message">What's your question?</label>
+	<textarea name="message"></textarea>
+	<button name="submit">Send</button>
+</form>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="https://dl.dropboxusercontent.com/u/18231634/Smogon/scripts/smogon-messager.js"></script>
+<script type="text/javascript">
+	(function(){
+		var helpMessage = new Message({ removeOnSend:true });
+
+		//load in options
+		var opts = '';
+		for(var subject in subjects) {
+			opts += ('<option>' + subject + '</option>');
+		}
+		$('#contact [name="subject"]').html(opts);
+
+		//gets random recipient or default if none found
+		var getRecipientForSubject = function(subject){
+			var user = defaultRecipient;
+
+			if(recipients[subject] != undefined && recipients[subject].length > 0) {
+				var index = Math.floor(Math.random() * recipients[subject].length);
+				user = recipients[subject][index];
+			} else {
+				helpMessage.message = 'No users found to help:\n\n';
+			}
+
+			return user;
+		};
+
+		//shows a message to the user
+		var showMessage = function(type, message) {
+			var m = '<div class="{0}"><p>{1}</p></div>';
+			$('.message-zone').html(m.replace('{0}', type).replace('{1}', message));
+		};
+
+		$(function(){
+			//not logged in or other problems
+			helpMessage.prepare(function(res){
+				if(!res.success){
+					showMessage('error', res.info);
+				}
+			});
+
+			//send message on submit
+			$('#contact [name="submit"]').click(function(){
+				var thisbutton = $(this);
+				thisbutton.attr('disabled', 'disabled');
+
+				var subject = $('#contact [name="subject"]').val()
+
+				helpMessage.title = '[Help Request] ' + subject;
+				helpMessage.message = $('#contact [name="message"]').val();
+				helpMessage.to = getRecipientForSubject(subject);
+
+				helpMessage.send(function(res){
+					if(res.success){
+						showMessage('success', res.info);
+					} else {
+						showMessage('error', res.info);
+					}
+				});
+
+				return false;
+			});
+		});
+	})();
+</script>

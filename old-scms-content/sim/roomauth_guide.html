@@ -37,7 +37,7 @@ Roomauth Guide
 
 <div style="float: right">
 <figure>
-    <img src="/sim/roomhelp.jpg" alt="" width="560px"/>
+    <img src="/sim/roomhelp.jpg" alt="" width="500px"/>
 </figure>
 </div>
 
@@ -58,6 +58,7 @@ Roomauth Guide
 <li><strong>Unmute (/unmute or /um)</strong> - Lifts a mute from a user. Only undo moderator actions of your own.</li>
 <li><strong>Redirect (/redirect or /redir)</strong> - This command is designed to immediately remove the user from the room and send them into the designated room. This option should only be reserved for when a user is completely off topic from what the room suggests, or if otherwise they are still better off post their content elsewhere (tournaments, language, etc.). You can only redirect from and to rooms in which you are a Driver.</li>
 <li><strong>Announce (/announce or /wall)</strong> - This command alters your text to make it appear as white text on a blue background in order to make a noticeable announcement on the chat. This can be used for situations where a user needs to announce an important message to the chat.</li>
+<li><strong>Modlog (/modlog [info])</strong> - This command brings up a log of all of the mod actions taken on a user. To search one room's modlog, do /modlog [username]. <li><strong>Modnote (/modnote [message])</strong> - This command is generally used to communicate with your staff in the room, or to list reasons in your room bans/hourmutes if you haven't mentioned them already. Note that this is a text note, whereas modlog intends to search for text.
 <li><strong>Tour disqualify (/tour dq)</strong> This command disqualifies a user from a tournament. This should only be used in cases where a participant exhibits an unsportsmanlike behavior in the form of activity or poor conduct when dealing with their opponents in a scripted tournament.
 <li><strong>Tour autodq/setautodq (/tour autodq [minutes|off])</strong>: Sets the automatic disqualification timeout. This is preferable for the beginning rounds, ensuring that the beginning portions of a scripted tournament can run in a smooth and timely manner.
 </ul>
@@ -74,9 +75,9 @@ Roomauth Guide
 
 <li><strong>Modchat + (/modchat +)</strong> - Sets the chat to where only Voices or higher can talk in the room. This should only be used in situations where you may need to tone the chat down from bad topics or situations, or for when you need to mute multiple offenders at a given time.</li>
 
-<li><strong>Room Voice (/roomvoice)</strong> - Promotes a user to a Voice in the room. This command should be used wisely, and you must keep in mind that this is a position of status and Voices are considered to be exemplary users that regular users would admire. As a Moderator, you are encouraged to discuss with the other room authority about who you feel may be worthy of Voice. You should also check with at least one Room Owner on whether they approve or not before promoting someone to Voice. That said, Room Owners are encouraged to Voice anyone who they feel deserves it.</li>
+<li><strong>Room Voice (/roomvoice)</strong> - Promotes a user to a Voice in the room. This command should be used wisely, and you must keep in mind that this is a position of status and Voices are considered to be exemplary users that regular users would admire. As a Moderator, you are encouraged to discuss with the other room authority about who you feel may be worthy of Voice. It's always recommended that you check with the rest of the staff on whether they approve or not before promoting someone to Voice.</li>
 
-<li><strong>Room Devoice (/roomdevoice)</strong> - Removes Voice from a user in the room. This is similar to the process with promoting someone to Voice. A candidate must have approval from the majority of the Room Moderators, or a Room Owner can choose to remove it from someone who deserves it. This should be considered for Voices who prove to be poor users.</li>
+<li><strong>Room Devoice (/roomdevoice)</strong> - Removes Voice from a user in the room. This is similar to the process with promoting someone to Voice. Much like how promoting a user to voice is handled, it's recommended that a candidate has approval from the majority of the staff before taking action with this command. This is typically considered for Voices who prove to be poor users.</li>
 </ul>
 
 <a name="owner"><h3>Room Owner (#)</h3></a>
@@ -95,10 +96,10 @@ Roomauth Guide
 <li>While you are entrusted to run the room, remember that no one is always right and that you should take into consideration others' thoughts on room decisions. However, remember that you always have the final word.</li>
 </ul>
 
-<p>Including everything mentioned above, Room Owners have access to the following commands:</p>
+<h2><p>Including everything mentioned above, Room Owners have access to the following commands:</p></h2>
 
 <ul style="list-style-type:none;">
-<li><strong>Roomintro (/roomintro)</strong> - Sets the room introduction to the room join page. This is the message that you're going to want to provide if you want to describe aspects of the room as well specific guidelines for users to go by. This message should make clear what the room is for in order to attract interested users.</li>
+<li><strong>Roomintro (/roomintro)</strong> - Sets the room introduction to the room, and the message will appear as you join the room. This command is an important feature that allows you to describe aspects of the room, as well as any specific guidelines for users to go by. This message should make clear what the room is for in order to attract interested users.</li>
 <li><strong>Room Rules (/rules <link>)</strong> - Sets the link to the room rules. This will be shown along with the global rules when the command is broadcast.</li>
 <li><strong>Room Driver (/roomdriver)</strong> - Promotes a user to Room Driver.</li>
 <li><strong>Room De-Driver (/roomdedriver)</strong> - Demotes an existing Room Driver.</li>

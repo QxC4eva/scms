@@ -21,7 +21,7 @@ pokemon:
     introduction: rb
     moves:
     - gs: [Dynamic Punch, Fury Cutter, Hyper Beam, Ice Punch, Rock Smash, Withdraw]
-    - bw: [Aerial Ace, Brick Break, Drain Punch, Fling, Focus Blast, Foul Play, Giga
+    - bw: [Aerial Ace, Avalanche, Brick Break, Drain Punch, Fling, Focus Blast, Foul Play, Fury Cutter, Giga
           Impact, Hyper Beam, Ice Punch, Iron Defense, Rock Smash, Withdraw, Seismic
           Toss]
     - dp: [Avalanche, Brick Break, Drain Punch, Fling, Focus Blast, Focus Punch, Fury
@@ -58,10 +58,14 @@ pokemon:
     introduction: gs
     moves:
     - gs: [Dynamic Punch, Fury Cutter, Hyper Beam, Ice Punch, Rock Smash, Whirlpool]
-    - bw: [Dragon Tail, Nasty Plot, Power Gem, Quash, Trump Card, Seismic Toss]
-    - dp: [Nasty Plot, Power Gem, Trump Card, Seismic Toss]
+    - bw: [Avalanche, Brick Break, Dragon Tail, Drain Punch, Fling, Focus Blast, Foul Play, Fury Cutter, Giga
+          Impact, Hyper Beam, Ice Punch, Iron Defense, Nasty Plot, Power Gem, Quash, Rock Smash, Seismic
+          Toss, Trump Card]
+    - dp: [Avalanche, Brick Break, Drain Punch, Fling, Focus Blast, Focus Punch, Fury
+          Cutter, Giga Impact, Hyper Beam, Ice Punch, Iron Defense, Nasty Plot, Power Gem, Rock Smash,
+        Seismic Toss, Trump Card]
     - rs: [Brick Break, Counter, Dynamic Punch, Focus Punch, Fury Cutter, Hyper Beam,
-        Ice Punch, Mega Kick, Mega Punch, Rock Smash]
+        Ice Punch, Mega Kick, Mega Punch, Rock Smash, Seismic Toss]
     - xy: [Avalanche, Brick Break, Counter, Dragon Tail, Drain Punch, Dynamic Punch,
         Fling, Focus Blast, Focus Punch, Fury Cutter, Giga Impact, Hyper Beam, Ice
           Punch, Iron Defense, Mega Kick, Mega Punch, Nasty Plot, Power Gem, Quash,

@@ -28,7 +28,7 @@ pokemon:
           Cutter, Giga Impact, Hyper Beam, Ice Punch, Iron Defense, Rock Smash, Withdraw,
         Seismic Toss]
     - rs: [Brick Break, Counter, Dynamic Punch, Focus Punch, Fury Cutter, Hyper Beam,
-        Ice Punch, Mega Kick, Mega Punch, Rock Smash, Withdraw]
+        Ice Punch, Mega Kick, Mega Punch, Rock Smash, Seismic Toss, Withdraw]
     - rb: [Counter, Hyper Beam, Mega Kick, Mega Punch, Seismic Toss, Submission, Withdraw]
     - xy: [Aerial Ace, Avalanche, Brick Break, Counter, Drain Punch, Dynamic Punch,
         Fling, Focus Blast, Focus Punch, Fury Cutter, Giga Impact, Hyper Beam, Ice
@@ -60,7 +60,8 @@ pokemon:
     - gs: [Dynamic Punch, Fury Cutter, Hyper Beam, Ice Punch, Rock Smash, Whirlpool]
     - bw: [Dragon Tail, Nasty Plot, Power Gem, Quash, Trump Card, Seismic Toss]
     - dp: [Nasty Plot, Power Gem, Trump Card, Seismic Toss]
-    - rs: [Seismic Toss]
+    - rs: [Brick Break, Counter, Dynamic Punch, Focus Punch, Fury Cutter, Hyper Beam,
+        Ice Punch, Mega Kick, Mega Punch, Rock Smash]
     - xy: [Avalanche, Brick Break, Counter, Dragon Tail, Drain Punch, Dynamic Punch,
         Fling, Focus Blast, Focus Punch, Fury Cutter, Giga Impact, Hyper Beam, Ice
           Punch, Iron Defense, Mega Kick, Mega Punch, Nasty Plot, Power Gem, Quash,
@@ -123,10 +124,10 @@ pokemon:
           Power Fire, Hidden Power Flying, Hidden Power Ghost, Hidden Power Grass,
         Hidden Power Ground, Hidden Power Ice, Hidden Power Poison, Hidden Power Psychic,
         Hidden Power Rock, Hidden Power Steel, Hidden Power Water]
-    - rs: [Amnesia, Attract, Belly Drum, Blizzard, Calm Mind, Confusion, Curse, Dig,
-        Disable, Dive, Double Team, Dream Eater, Earthquake, Endure, Facade, Fire
+    - rs: [Amnesia, Attract, Belly Drum, Blizzard, Body Slam, Calm Mind, Confusion, Curse, Dig,
+        Disable, Dive, Double-Edge, Double Team, Dream Eater, Earthquake, Endure, Facade, Fire
           Blast, Flamethrower, Flash, Frustration, Future Sight, Growl, Hail, Headbutt,
-        Ice Beam, Iron Tail, Mud-Slap, Mud Sport, Protect, Psych Up, Psychic, Rain
+        Ice Beam, Icy Wind, Iron Tail, Mimic, Mud-Slap, Mud Sport, Nightmare, Protect, Psych Up, Psychic, Rain
           Dance, Rest, Return, Safeguard, Secret Power, Shadow Ball, Skill Swap, Sleep
           Talk, Snore, Stomp, Strength, Substitute, Sunny Day, Surf, Swagger, Swift,
         Tackle, Thunder Wave, Toxic, Water Gun, Water Pulse, Yawn, Hidden Power Bug,

@@ -7271,7 +7271,7 @@ moves:
     description: 
     - rs: The target cannot use status moves for two turns or until it switches out.
     - dp: The target cannot use status moves for 2-4 turns.
-    - bw: he target cannot use status moves for three turns.
+    - bw: The target cannot use status moves for three turns.
     introduction: rs
     power: [0]
     pp: [20]

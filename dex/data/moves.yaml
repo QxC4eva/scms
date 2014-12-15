@@ -5411,7 +5411,9 @@ moves:
     target: [enemy]
     type: [Psychic]
   Psywave:
-    accuracy: [80]
+    accuracy: 
+    - 80
+    - {xy: 100}
     category:
     - Special
     - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}

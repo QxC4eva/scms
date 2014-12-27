@@ -1,0 +1,1081 @@
+[title]
+SPL Power Rankings
+
+[head]
+<link rel="stylesheet" type="text/css" href="/media/competitor/articles-section.css" />
+<style type="text/css">
+  .border {
+  border: 6px solid;
+  padding: 20px 40px;
+  width: 650px;
+  margin-bottom: 45px;
+  border-radius: 25px;
+  box-shadow: 8px 8px 8px #97999c;
+  }
+  .team {
+  border-style: null;
+  border-bottom: 2px solid;
+  padding-top: 1px;
+  padding-left: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  }
+  .border.bigs, .team.bigs {
+  border-color: #4169E1;
+  }
+  .border.cong, .team.cong {
+  border-color: #F5DEB3;
+  }
+  .border.cryos, .team.cryos {
+  border-color: #87CEEB;
+  }
+  .border.falcons, .team.falcons {
+  border-color: #FEA40B;
+  }
+  .border.raiders, .team.raiders {
+  border-color: #FFD700;
+  }
+  .border.ruin, .team.ruin {
+  border-color: #FF8C00;
+  }
+  .border.scoot, .team.scoot {
+  border-color: #191970;
+  }
+  .border.sharks, .team.sharks {
+  border-color: #2F4F4F;
+  }
+  .border.tigers, .team.tigers {
+  border-color: #8B008B;
+  }
+  .border.wifi, .team.wifi {
+  border-color: #DC143C;
+  }
+  ul.bigs {
+  color: #4169E1;
+  }
+  ul.cong {
+  color: #F5DEB3;
+  }
+  ul.cryos {
+  color: #87CEEB;
+  }
+  ul.falcons {
+  color: #FEA40B;
+  }
+  ul.raiders {
+  color: #FFD700;
+  }
+  ul.ruin {
+  color: #FF8C00;
+  }
+  ul.scoot {
+  color: #191970;
+  }
+  ul.sharks {
+  color: #2F4F4F;
+  }
+  ul.tigers {
+  color: #8B008B;
+  }
+  ul.wifi {
+  color: #DC143C;
+  }
+  ul span {
+  color: black;
+  }
+  .imgheader {
+  margin: 5px 0px;
+  }
+  .rankhide, .sharkshide {
+  width: 180px;
+  }
+  .squad-key {
+  border: 3px outset #383838;
+  margin-bottom: 15px;
+  }
+  .squad-key ul, .squad-border ul {
+  list-style-type: none;
+  }
+  span.gr {
+  color: #006600;
+  }
+  span.red {
+  color: #B30000;
+  }
+  span.bl {
+    color: #000000
+  }
+  .squad-border {
+  border: 3px dashed gray;
+  width: 300px;
+  margin-bottom: 45px;
+  border-radius: 15px;
+  padding: 0px 20px 10px 40px;
+  }
+  .squad-border h2 {
+  margin: .5em;
+  }
+  .team + img {
+  float: right;
+  }
+  #ranks, #ranks td {
+  width: auto;
+  height: auto;
+  text-align: center;
+  }
+  #ranks span {
+  font: 50px sans-serif;
+  font-weight: bold;
+  }
+  .rborder {
+  border: 3px solid #FFFFF1;
+  height: 20px;
+  margin-right: 20px;
+  border-radius: 25px;
+  }
+  #regice .rborder {
+  width: 640px;
+  background-color: #81F5F5;
+  box-shadow: 0px 0px 20px 5px #12B8DB;
+  }
+  #gallade .rborder {
+  width: 600px;
+  background-color: #70BBAA;
+  box-shadow: 0px 0px 20px 5px #227A7B;
+  }
+  #raikou .rborder {
+  width: 568px;
+  background-color: #FF78F8;
+  box-shadow: 0px 0px 20px 5px #BB09AC;
+  }
+  #garchomp .rborder {
+  width: 552px;
+  background-color: #8387BB;
+  box-shadow: 0px 0px 20px 5px #323E76;
+  }
+  #talonflame .rborder {
+  width: 544px;
+  background-color: #FFBB88;
+  box-shadow: 0px 0px 20px 5px #EE6B1D;
+  }
+  #alakazam .rborder {
+  width: 536px;
+  background-color: #D073D8;
+  box-shadow: 0px 0px 20px 5px #901DC0;
+  }
+  #scrafty .rborder {
+  width: 520px;
+  background-color: #F37575;
+  box-shadow: 0px 0px 20px 5px #F31B1B;
+  }
+  #houndoom .rborder {
+  width: 512px;
+  background-color: #6D6D6D;
+  box-shadow: 0px 0px 20px 5px;
+  }
+  #wailord .rborder {
+  width: 504px;
+  background-color: #6C7CFC;
+  box-shadow: 0px 0px 20px 5px #0B00FF;
+  }
+  #unown .rborder {
+  width: 448px;
+  background-color: #F9F272;
+  box-shadow: 0px 0px 20px 5px #FFEF00;
+  }
+</style>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+  $('.hideol').hide();
+  $('.hideul').hide();
+  $('.rankhide').click(function() {
+  var HideStatus = $(this).val();
+  if (HideStatus === 'Show Individual Ranking') {
+  $('.hideol:eq(0)').show();
+  $(this).val('Hide Individual Ranking');
+  }
+  else {
+  $('.hideol:eq(0)').hide();
+  $(this).val('Show Individual Ranking');
+  }
+  });
+  $('.sharkshide').click(function() {
+  var HideStatus = $(this).val();
+  if (HideStatus === 'Show Accurate Lineup') {
+  $('.hideul:eq(0)').show();
+  $(this).val('Hide Accurate Lineup');
+  }
+  else {
+  $('.hideul:eq(0)').hide();
+  $(this).val('Show Accurate Lineup');
+  }
+  });
+});
+</script>
+
+[page]
+<div class="author">By <a href="/forums/members/27854/">reyscarface</a>. Art by <a href="/forums/members/80868/">Living So Zambian</a> and <a href="/forums/members/2231/">Zracknel</a>.</div>
+
+<table id="comp-header">
+  <tr>
+  <td class="home"><a href="/competitor/">Home Page</a></td>
+  <td class="index"><a href="/competitor/archive">Articles Index</a></td>
+  </tr>
+</table>
+
+<div style="text-align: center; margin-bottom: 20px">
+  <img src="/tournaments/spl/images/banner.png" alt="" />
+</div>
+
+<p>Welcome to yet another edition of the Pre-Season Smogon Premier League Power Rankings. Like last year, the point of this is to give a representation of where each team stands in relation to the others. To obtain a general overview, we asked a few experts of each respective tier to rate the expected players for it, averaged the rankings, and ended up with an attempt at a mostly unbiased list. Number 1 gets ten points, number 2 gets nine, and so on.</p>
+
+<p>These rankings aren't perfect by any means (they don't take into account factors such as team cohesion, trades, possible alternate lineups and so on), so please try not to rage too much at them like some people did last year&hellip; who am I kidding? Your tears feed me; bring the whining.</p>
+
+<p>We would like to give a special thanks to the following people for lending a hand in the making of this article: atomicllamas, Baika, BKC, Bouffalant, Cased, Conflict, CrashinBoomBang, dice, Expulso, Finchinator, FLCL, Isa, kokoloko, makiri, McMeghan, M Dragon, New Breed, panamaxis, Sweep, Soulgazer, Soulwind, Stone_Cold, Tamahome, Tsunami, and Zebraiken.</p>
+
+<div class="border ruin">
+  <div class="team ruin">
+  <h2>The Alpha Ruiners</h2>
+  </div>
+  <img src="/media/spl/ruin.png" alt="" />
+  <ul class="ruin">
+  <li><span>ORAS OU: PDC</span></li>
+  <li><span>ORAS OU: sugarhigh</span></li>
+  <li><span>ORAS Ubers: Steeljackal&lt;3</span></li>
+  <li><span>ORAS UU: reachzero</span></li>
+  <li><span>ORAS RU: Bouffalant</span></li>
+  <li><span>ORAS NU: Annoyer</span></li>
+  <li><span>ORAS Doubles: Arcticblast</span></li>
+  <li><span>BW OU: SoulWind</span></li>
+  <li><span>DPP OU: august</span></li>
+  <li><span>ADV OU: dekzeh</span></li>
+  <li><span>GSC OU: Tiba</span></li>
+  <li><span>RBY OU: Hantsuki</span></li>
+  <li><span>Subs: Sekiam, Meru, iTeddeh, idiotfrommars, and Lady Bug</span></li>
+  </ul>
+
+  <p>The Ruiners also have a lot of depth, especially in lower tiers. iTeddeh and Meru can take over the UU / RU / NU spots to a good level if needed, and Lady Bug can be a really valuable asset in DPP OU, should he want to play it. ifm can cover the OU spots and BW, while Sekiam offers an alternative to Arcticblast should the opposition be too tough. The Brazilian old gen core is the glue of the team, and it seems as if their results decides the whole team's function and performance. Also important is reachzero's play; if he shakes off the rust, he will be key.</p>
+</div>
+
+<div class="border tigers">
+  <div class="team tigers">
+  <h2>The Circus Maximus Tigers</h2>
+  </div>
+  <img src="/tournaments/spl/tigers.png" alt="" />
+  <ul class="tigers">
+  <li><span>ORAS OU: sebixxl</span></li>
+  <li><span>ORAS OU: Lord Moet II</span></li>
+  <li><span>ORAS Ubers: Fireburn</span></li>
+  <li><span>ORAS UU: Omfuga</span></li>
+  <li><span>ORAS RU: wepwn</span></li>
+  <li><span>ORAS NU: Soulgazer</span></li>
+  <li><span>ORAS Doubles: Biosci</span></li>
+  <li><span>BW OU: thatsjustpeachy</span></li>
+  <li><span>DPP OU: Fakes</span></li>
+  <li><span>ADV OU: undisputed</span></li>
+  <li><span>GSC OU: Jorgen</span></li>
+  <li><span>RBY OU: Floppy</span></li>
+  <li><span>Subs: Lunar., The DragonKnight, Sapientia, and JabbaTheGriffin</span></li>
+  </ul>
+
+  <p>The Tigers surprisingly don't have a metric fuckton of VGCers this year. Instead, they have a solid teambuilder in The DragonKnight to feed the OUers some teams. Sapientia and Jabba can both cover DPP in case Fakes has a mental breakdown again. Jabba is very versatile; he could also easily do DPP and lower tiers such as RU and UU. Another possibility would be Omfuga moving to RU, and Jabba going to UU. Moet could take up BW in case peachy doesn't work out. All in all, they count on solid performances by trademark players like Jorgen, Floppy, and Biosci.</p>
+</div>
+
+<div class="border cong">
+  <div class="team cong">
+  <h2>Congregation of the Classiest</h2>
+  </div>
+  <img src="/tournaments/spl/images/classiest.png" alt="" />
+  <ul class="cong">
+  <li><span>ORAS OU: ben gay</span></li>
+  <li><span>ORAS OU: KratosMana</span></li>
+  <li><span>ORAS Ubers: Jibaku</span></li>
+  <li><span>ORAS UU: Lowgock</span></li>
+  <li><span>ORAS RU: Hikari</span></li>
+  <li><span>ORAS NU: FLCL</span></li>
+  <li><span>ORAS Doubles: Braverius</span></li>
+  <li><span>BW OU: CTC</span></li>
+  <li><span>DPP OU: Bad Ass</span></li>
+  <li><span>ADV OU: adv</span></li>
+  <li><span>GSC OU: Mr.E</span></li>
+  <li><span>RBY OU: Raish</span></li>
+  <li><span>Subs: chimpact and Key</span></li>
+  </ul>
+
+  <p>The Classiest have one of the most interesting lineups, simply because of their massive rotating capabilities in the lower tiers. Their UU / RU / NU core can easily rotate tiers, making them really unpredictable. chimpact might see action in ORAS if one of the two main players doesn't work out. Key offers backup for lower tiers as well as OU. Their weak point seems to be their rather lackluster old gens players, and with no one able to sub in for them, it might be a problem.</p>
+</div>
+
+<div class="border cryos">
+  <div class="team cryos">
+  <h2>The Cryonicles</h2>
+  </div>
+  <img src="/tournaments/spl/cryos.png" alt="" />
+  <ul class="cryos">
+  <li><span>ORAS OU: Reymedy</span></li>
+  <li><span>ORAS OU: Living So Zambian</span></li>
+  <li><span>ORAS Ubers: Donkey</span></li>
+  <li><span>ORAS UU: Psychotic</span></li>
+  <li><span>ORAS RU: Spirit</span></li>
+  <li><span>ORAS NU: malefic</span></li>
+  <li><span>ORAS Doubles: kingofmars</span></li>
+  <li><span>BW OU: Ojama</span></li>
+  <li><span>DPP OU: badabing</span></li>
+  <li><span>ADV OU: BKC</span></li>
+  <li><span>GSC OU: Picollo</span></li>
+  <li><span>RBY OU: Lutra</span></li>
+  <li><span>Subs: Mack Bus, Go10, giara, and King UU</span></li>
+  </ul>
+
+  <p>The Cryonicles have a few rotation options, that make them able to field different squads each week. Psychotic is a renowned RU player, so he could take that spot while King UU joins the fray in the tier he's the king of. Mack Bus offers to cover for ORAS OU, while the Reymedy / Ojama / BKC core (the backbone of the team) can rotate through ADV / DPP / BW if they feel like it. Go10 rounds up the team by offering DPP cover, while giara offers NU cover. The success of this team will rely heavily on whether Donkey and Ether (Living So Zambian) can bring out the best in themselves.</p>
+</div>
+
+<div class="border bigs">
+  <div class="team bigs">
+  <h2>The Ever Grande BIGs</h2>
+  </div>
+  <img src="/media/spl/bigs.png" alt="" />
+  <ul class="bigs">
+  <li><span>ORAS OU: Sinclair</span></li>
+  <li><span>ORAS OU: Destiny Device</span></li>
+  <li><span>ORAS Ubers: Evuelf</span></li>
+  <li><span>ORAS UU: Nas</span></li>
+  <li><span>ORAS RU: Ginku</span></li>
+  <li><span>ORAS NU: Vileman</span></li>
+  <li><span>ORAS Doubles: Laga</span></li>
+  <li><span>BW OU: Jirachee</span></li>
+  <li><span>DPP OU: Boudouche</span></li>
+  <li><span>ADV OU: McMeghan</span></li>
+  <li><span>GSC OU: Royal Flush</span></li>
+  <li><span>RBY OU: MetalGro$$$$</span></li>
+  <li><span>Subs: Finchinator, Tricking, and Blingas</span></li>
+  </ul>
+
+  <p>The Bigs have one of the top OU combinations, backed by the recent revelation of Finchinator to round off a good rotation of players for the main OU games. Tricking might be showing himself in NU sometime if Vileman doesn't pan out, and Finch might see action in BW. BLINGAS can cover Doubles in a pinch, as can the versatile Tricking. Besides that, the Bigs don't seem to have much player versatility. The success of this squad definitely relies on whether veterans Ginku, Jirachee, and Royal Flush can do better than expected.</p>
+</div>
+
+<div class="border falcons">
+  <div class="team falcons">
+  <h2>The Firebot Falcons</h2>
+  </div>
+  <img src="/tournaments/spl/images/falcons.png" alt="" />
+  <ul class="falcons">
+  <li><span>ORAS OU: Tesung</span></li>
+  <li><span>ORAS OU: myzozoa</span></li>
+  <li><span>ORAS Ubers: Problems</span></li>
+  <li><span>ORAS UU: Bugzinator</span></li>
+  <li><span>ORAS RU: Pearl.</span></li>
+  <li><span>ORAS NU: Meeps</span></li>
+  <li><span>ORAS Doubles: TheFourthChaser</span></li>
+  <li><span>BW OU: High Impulse</span></li>
+  <li><span>DPP OU: Tv-Rocka</span></li>
+  <li><span>ADV OU: Golden Sun</span></li>
+  <li><span>GSC OU: Bomber92</span></li>
+  <li><span>RBY OU: marcoasd</span></li>
+  <li><span>Subs: IAmGingy, Toxzn, and Smurf.</span></li>
+  </ul>
+  <p>The Falcons seems pretty straightforward as well; the biggest change we could see in the lower tiers is Pearl being moved to UU. Besides that, their starters are mostly one-tier players, such as TFC, Problems, and the old gen players. myzozoa / High Impulse / Toxzn can all play OU and BW at around the same level, so seeing them in the starting lineup in any week wouldn't be very surprising. Smurf. offers great teambuilding services and can sub in in a pinch, although Toxzn seems to be the preferred option for a sub. Tesung mantaining his incredible form and Golden Sun / marcoasd living up to the hype seem to be the keys for this team.</p>
+</div>
+
+<div class="border scoot">
+  <div class="team scoot">
+  <h2>The Indie Scooters</h2>
+  </div>
+  <img src="/tournaments/spl/scoot.png" alt="" />
+  <ul class="scoot">
+  <li><span>ORAS OU: Stathakis</span></li>
+  <li><span>ORAS OU: Henry</span></li>
+  <li><span>ORAS Ubers: Hack</span></li>
+  <li><span>ORAS UU: IronBullet93</span></li>
+  <li><span>ORAS RU: Windsong</span></li>
+  <li><span>ORAS NU: Versace Python Cased</span></li>
+  <li><span>ORAS Doubles: Lohgock</span></li>
+  <li><span>BW OU: Aqualouis</span></li>
+  <li><span>DPP OU: Honor</span></li>
+  <li><span>ADV OU: Alf'</span></li>
+  <li><span>GSC OU: Lavos Spawn</span></li>
+  <li><span>RBY OU: Isa</span></li>
+  <li><span>Subs: Liberty32, Pwnemon, Vinc2612, and Stone Cold</span></li>
+  </ul>
+
+  <p>The Scooters have great cover for pretty much all of OU. Vinc is able to cover pretty much every OU tier, Stone is a week 1 wonder, so we might see him start that week in DPP OU, and Liberty has had good results in both BW and XY. Pwnemon offers Lohgock help in Doubles, but besides them, there's not a lot of lower tier cover. If Windsong can't get back to his old level, then the whole team will suffer from the lack of a more important player in that RU spot. Lavos is also a wildcard, as he might suffer against more experienced opponents.</p>
+</div>
+
+<div class="border sharks">
+  <div class="team sharks">
+  <h2>The Stark Sharks</h2>
+  </div>
+  <img src="/media/spl/sharks.png" alt="" />
+  <ul class="sharks">
+  <li><span>ORAS OU: Inflikted</span></li>
+  <li><span>ORAS OU: CyberOdin</span></li>
+  <li><span>ORAS Ubers: Edgar</span></li>
+  <li><span>ORAS UU: FlareBlitz</span></li>
+  <li><span>ORAS RU: Hot N Cold</span></li>
+  <li><span>ORAS NU: blarajan</span></li>
+  <li><span>ORAS Doubles: Synre</span></li>
+  <li><span>BW OU: Limitless</span></li>
+  <li><span>DPP OU: Heist</span></li>
+  <li><span>ADV OU: M Dragon</span></li>
+  <li><span>GSC OU: Conflict</span></li>
+  <li><span>RBY OU: husk</span></li>
+  <li><span>Subs: gene, Zubat, Kevin Garrett, and The Goomy</span></li>
+  </ul>
+
+  <p>The Sharks, like pretty much every year, have a very complete roster with a lot of potential for rotation. A possibility that I very much enjoy is seeing Heist in BW and watching the old great husk in his kingdom of DPP, with gene covering RBY. Goomy offers relief for NU and will be able to help blarajan get used to the tier, or he might even be part of the starting lineup. If this lineup stays like it is, then husk showing his true monstruous skill will be important for the team, as will the incredible core of Heist / M Dragon doing work. This might be the strongest old gens roster in the history of SPL.</p>
+</div>
+
+<div class="border raiders">
+  <div class="team raiders">
+  <h2>The Team Raiders</h2>
+  </div>
+  <img src="/tournaments/spl/raiders.png" alt="" />
+  <ul class="raiders">
+  <li><span>ORAS OU: Pridy</span></li>
+  <li><span>ORAS OU: Lyconik</span></li>
+  <li><span>ORAS Ubers: Melee Mewtwo</span></li>
+  <li><span>ORAS UU: JeyTheGrey</span></li>
+  <li><span>ORAS RU: New Breed</span></li>
+  <li><span>ORAS NU: dat blast</span></li>
+  <li><span>ORAS Doubles: Mizuhime</span></li>
+  <li><span>BW OU: Leftiez</span></li>
+  <li><span>DPP OU: Marshall.Law</span></li>
+  <li><span>ADV OU: kael</span></li>
+  <li><span>GSC OU: Bedschibaer</span></li>
+  <li><span>RBY OU: The_Chaser</span></li>
+  <li><span>Subs: Emvee, e7e, atomicllamas, Golden Gyarados, Srn, and Steve Angello</span></li>
+  </ul>
+
+  <p>Although they are a team with a ton of depth due to their sheer number of substitutes, the Raiders are nonetheless quite straightforward. They have good cover for their old gens with their subs, provided by Golden Gyarados for RBY and e7e for ADV. Emvee, Srn, and Steve can cover the main OU spots, and atomicllamas offers an alternative in RU in case New Breed wants to venture into another tier. New Breed playing like the rank 1 in RU will be important for this team, as will Chaser not falling out of favor and Marshall playing at his past SPL level.</p>
+</div>
+
+<div class="border wifi">
+  <div class="team wifi">
+  <h2>The Wi-Fi Wolfpack</h2>
+  </div>
+  <img src="/media/spl/wifi.png" alt="" />
+  <ul class="wifi">
+  <li><span>ORAS OU: Adam</span></li>
+  <li><span>ORAS OU: Mencemeat</span></li>
+  <li><span>ORAS Ubers: aim</span></li>
+  <li><span>ORAS UU: radianthero156</span></li>
+  <li><span>ORAS RU: Calloflochie</span></li>
+  <li><span>ORAS NU: blunder</span></li>
+  <li><span>ORAS Doubles: soul_survivor</span></li>
+  <li><span>BW OU: Shoka</span></li>
+  <li><span>DPP OU: Tamahome</span></li>
+  <li><span>ADV OU: Danilo</span></li>
+  <li><span>GSC OU: Colchonero</span></li>
+  <li><span>RBY OU: The_Joker</span></li>
+  <li><span>Subs: Raichy, Asuya., and SnakesOnAPlane</span></li>
+  </ul>
+
+  <p>The Wolfpack are interesting because they have a player like aim, who can feature in such a wide array of tiers. An option would be having aim take OU, instead of Mencemeat, who would then move possibly to Ubers. Lochie can take the UU slot from radianthero if needed, as well. Asuya offers cover for BW and ORAS in case Shoka doesn't pan out, and Raichy is super cute. Colchonero seems to be the key member of this team. If he can bring up the big wins, the team will feel the boost. In the same vein, Adam staying as solid as he usually does in team tourneys will prove to be invaluable.</p>
+</div>
+
+<div class="imgheader">
+  <img src="/tournaments/spl/images/orasou.png" alt="" />
+</div>
+
+<input type="button" value="Show Individual Ranking" class="rankhide" />
+
+<ol class="hideol">
+  <li>Tesung</li>
+  <li>Destiny Device</li>
+  <li>Reymedy</li>
+  <li>ben gay</li>
+  <li>Adam</li>
+  <li>KratosMana</li>
+  <li>Stathakis</li>
+  <li>sebixxl</li>
+  <li>PDC</li>
+  <li>Sinclair</li>
+  <li>Lyconik</li>
+  <li>Mencemeat</li>
+  <li>Inflikted</li>
+  <li>Pridy</li>
+  <li>Henry</li>
+  <li>Lord Moet II</li>
+  <li>sugarhigh</li>
+  <li>CyberOdin</li>
+  <li>myzozoa</li>
+  <li>Living So Zambian</li>
+</ol>
+
+<ol class="long_list">
+  <li>ben gay (#4) &amp; KratosMana (#6) - 17 points - Classiest - A very potent combination of relative newcomers to Smogon, ben gay and KratosMana are probably the most creative pair this season. ben gay requires no introduction, being regarded as the most promising up and coming player with a great teambuilding ability, while KratosMana had a good showing in Frontier and World Cup, also using creative Pok&eacute;mon such as Weezing. As long as pressure doesn't get the best of them, they should do well.</li>
+  <li>Destiny Device (#2) &amp; Sinclair (#10) - 16 points - Bigs - Destiny Device has been very impressive this year, especially during his undefeated run in World Cup. However, some still say that this was a flukeor that he was being ghosted. Destiny Device has the tools at his disposal to shut the haters up and grab some big wins. Sinclair is definitely the weaker point in this solid pair, and although he is a decent player he could definitely take his game to the next level. If he manages to find his own playmaking ability and learn a thing or two from Destiny Device, he could be promising.</li>
+  <li>Adam (#5) &amp; MenceMeat (#12) - 13 points - Wolfpack - Yusuke, better known in Brazil as "Our Dear God," has made quite a name for himself in the tournament scene. Known for his solid teams and very careful in-game playing, Adam is a tough player to defeat. He pairs up with MenceMeat, who is a recent tournament player considered by many to be a very promising player who is already very strong. We don't know much about him, and this being his first big tournament will certainly pave the way for how he will be perceived.</li>
+  <li>Tesung (#1) &amp; myzozoa (#19) - 11 points - Falcons - Probably the hottest player right now, the most recent Tour winner is ready to take SPL by storm. Known for his incredibly ballsy plays and interesting cores, Tesung is arguably the top dog this SPL in OU. myzozoa is better known as a BW player, so it seems a little illogical to put him in ORAS OU. An extremely offensive player, myzozoa doesn't like to stray away from hyper offensive teams, making him an easy target for counterstyling. That being said, with hyper offense potentially going on the rise due to a Greninja ban, we might see him do well.</li>
+  <li>Reymedy (#3) &amp; Living So Zambian (#20) - 10 - Cryonicles - Reymedy has had a really successful year in tournaments. With a strong showing in Superstars, for example, he has set the bar high for himself. Many players consider him to be part of the next wave of top players, and having played an extensive amount of ORAS makes him a tough opponent. Ether (Living So Zambian/Honus), on the other hand, is less known and, due to that, much less rated. However, Honus has been practicing an insane amount of OU, so a surprise wouldn't be off the table. Expect interesting things from this pair if they are able to mesh well.</li>
+  <li>Stathakis (#7) &amp; Henry (#15) - 10 points - Scooters - A fun mix of a really old Smogon veteran and a very recent newcomer, the OU pair for the Scooters make for an interesting combination. Stathakis requires no introduction&mdash; the original creator of the hyper offense strategy during the days of DPP, Stath has found a new home in Gen 6. His recent loss to xray in Tour has certainly left him hungry for success. Henry is a ladder hero known for his OLT performance. Rated highly by some, such as his manager, CBB, Henry could potentially have his breakthrough tournament be this SPL.</li>
+  <li>sebixxl (#8) &amp; Lord Moet II (#16) - 10 points - Tigers - sebixxl, besides being a charming German, is also a very capable player. A solid battler in plenty of tiers, sebi made an impression after his great run in World Cup. He is an apt teambuilder and offers something different to his team. Moet has recently come back and seems to be ready to rumble, with his in-game plays being as solid as ever. We will see if they are able to get more wins than expected, given their relative inexperience in tournaments.</li>
+  <li>Lyconik (#11) &amp; Pridy (#14) - 9 points - Raiders - One of the new prospects for this generation is Lyconik, the Belgian Tesung-slayer who left some mouths open after defeating the recent Tour champion. He seems to make a few mistakes while in a battle, but more tournament experience will help him overcome that. Pridy, on the other hand, is a mysterious figure. A man of few words, Pridy lets his results speak for himself. A presence in tourneys for a while, he has always been solid, and hopefully, this SPL will let him show all he's got.</li>
+  <li>PDC (#9) &amp; sugarhigh (#17) - 7 points - Ruiners - PDC is a pretty good player. He hasn't achieved much regarding tournament success, but he has always been up there as a solid contender. Ciele can probably help him by teaching him a thing or two, elevating his play to the next level. If he doesn't ragequit after getting haxed, he might gather enough in-game experience to surprise. sugarhigh is a great teambuilder who was fundamental in Tesung's Tour run. His teambuilding prowess is invaluable, although his play remains unproven.</li>
+  <li>Inflikted (#13) &amp; CyberOdin (#18) - 6 points - Sharks - The Italian was the player with the most XY points last Tour season, a feat that impressed quite a few elite players. He hasn't been seen in the tournament scene much recently, and his defeat to the hands of Shake left a sour taste in his mouth. If he can regain the flashes of brilliance he showed during Tour, he will do much better than expected. CyberOdin! *-* You can this! Although panned for having luck bail him out of tough situations, he is still a capable player, and if he practices enough, then he could have the ability to surprise naysayers.</li>
+</ol>
+
+<div class="imgheader">
+  <img src="/tournaments/spl/images/orasubers.png" alt="" />
+</div>
+
+<ol class="long_list">
+  <li>Donkey - Cryonicles - After he unexpectedly quit two weeks into last year's SPL, Donkey is back this year, and he's just as good as before. Notorious for pretty much shaping the BW and XY Ubers metagames, Donkey is considered by many to be the best teambuilder of the tier. Not only does he have top notch teambuilding skills (proven by a lot of SPL players of last year using his teams), but he is also a very skilled player. Hopefully, he won't rekindle his addiction to DOTA in the middle of the season.</li>
+  <li>Edgar - Sharks - 2. Edgar - Sharks - Edgar, from Mexico, had a very strong SPL last year after being bought midseason. One of the best teambuilders in the tier and known for his Thunder Wave strategies, the Mexican is probably on the path of another strong showing in SPL. As he is very consistent and skilled, it will be very surprising if he doesn't achieve another positive record this year.</li>
+  <li>Hack - Scooters - Hack has vastly improved after he joined midseason last SPL. Probably one of the biggest cases of fast improvement, he is now a top threat in Ubers. He has been possibly the most active Ubers player this year, continuously participating in tournaments and discussions, giving him an advantage over the competition. Will he live up to the hype?</li>
+  <li>Melee Mewtwo - Raiders - I probably sound like a broken record by now, but what can I do when there are so many cases of great Ubers players being bought midseason? He, like Hack, has been extremely active in Ubers recently, also giving him an advantage. An avid user of innovative Pok&eacute;mon such as Gothitelle and a hater of the power of Shadow Tag, Melee Mewtwo could easily surpass his competition if he keeps his streak up.</li>
+  <li>aim - Wolfpack - Joey is a master of pretty much every XY tier, so it wouldn't be surprising to see him feature in any of them, especially in OU. But in Ubers, he stands as a strong player who has experience from last year's SPL. His success has been said to be related to Donkey giving him teams, so we will see if his brutal skill in OU moves into Ubers. If he can beat the teambuilder, he has the skill to beat any player.</li>
+  <li>Problems - Falcons - 6. Problems - Falcons - After a bad SPL two seasons ago, last year was the breakthrough year for Problems. However, Problems is similar to aim in that a lot of people consider his success last SPL to have a lot to do with Donkey's teams. It will be interesting to see if he can keep it up this year now that he is going to be riding solo for the most part, considering he has very limited testing options.</li>
+  <li>Jibaku - Classiest - When thinking of DPP Ubers, names that come to mind would be Mind, tito, locopoke, and of course, Jibaku. An unexpected return from the hands of League of Legends, Jib is one of the best theorycrafters of the game, and he has proven time and time again he has a ton of skill; his great performances in past SPLs and the fact that he won the first Superstars confirm this. Its hard to imagine what Jibaku has under his sleeve, and all things considered, he could easily climb or drop depending on his motivation.</li>
+  <li>Evuelf - Bigs - Evuelf is considered by some to be the dark horse of this SPL. He has shown his skills in BW through Tourand he has gotten greats such as BKC to remark his talent. This ranking most certainly doesn't reflect Evuelf's skill, as he is quite a good player; however, this is his first team tournament and first major Ubers tournament. Watch out for this guy; he could definitely surprise some players.</li>
+  <li>Fireburn - Tigers - Although Fireburn has plenty of Ubers experience from back in the days of DPP to now in ORAS, due to being the current tier leader, he is very new to the tournament environment. He definitely has the metagame knowledge required, but little is known about his battling skill. It will all be a matter of adapting in order for Fireburn to achieve results this SPL.</li>
+  <li>Steeljackal&lt;3 - Ruiners - Steeljackal had an impressive run in the Ubers Slam, reaching the finals, as well as a good showing in the UPL. However, many of his opponents weren't up to par to what he is about to face in SPL, and many question his ability to function in a team. The first few weeks will be crucial to see what Steeljackal's got and will most likely be decisive on whether he stays in the starting roster until the end.</li>
+</ol>
+
+<div class="imgheader">
+  <img src="/tournaments/spl/images/orasuu.png" alt="" />
+</div>
+
+<ol class="long_list">
+  <li>Nas - Bigs - One of the bigger names in the UU community, RT has been a big presence in the UU part of SPL throughout the years. He is one of the most experienced UU players around, and his knowledge of the metagame makes him a big contender. Nas tends to run standard (but good) teams very often, which goes well with his style of play, as he has pretty much mastered the art of playing the kind of team he tends to use.</li>
+  <li>Psychotic - Cryonicles - Psychotic was a really surprising player last SPL. His massive start was really impressive. He has been extremely consistent, and his experience in many tiers besides just UU (great Grand Slam showing) prove how skilled this guy is. He is also considered an innovator, bringing uncommon teams around and taking advantage of surprises to throw his opponents off. Let's see for how long he can remain unbeaten&mdash;it seems like it will be a while.</li>
+  <li>Lowgock - Classiest - The most recent Grand Slam champion has shown he's got what is needed to succeed in the tournament scene. Not only is he a great multi-tier player who can adapt very easily, but he has had some insane help behind the scenes this year. Tier leader kokoloko and top players Hikari and FLCL are all able to help Lowgock keep improving his play. He faced criticism over his teams during Slam playoffs, so as long as he can keep that in check, he should do very well.</li>
+  <li>Omfuga - Tigers - A newcomer to SPL from PO, Omfuga is regarded as one of the brighter players from that forum. Despite most PO players being predicted to fail in SPL, a lot of people have mentioned that Omfuga will probably end up with a good record. There's a lot of hype surrounding him, so only time will tell whether this hype is deserved, and he ends up following the path of fellow successful PO players such as Cased, or the pressure will be too much.</li>
+  <li>FlareBlitz - Sharks - Reviving from the ashes, FlareBlitz is back for another SPL. Previously a succesful Ruiner, he was considered to be one of the best UUers back in the days of DPP. He still has the skill and the creative building mentality from his past stints, but much of his success will be determined by how much motivation and activity he will have.</li>
+  <li>IronBullet93 - Scooters - IB93 is very similar to FlareBlitz. Both are legacy-making players from the days of DPP UU with very similar playstyles. This Britwas once considered to be up there as the best UU player for a short period of time, but then he quit during his peak. It's been said he has been very active lately, and if he can take back his level from past days, there's no reason he can't do well.</li>
+  <li>reachzero - Ruiners - reach is one of the few UU players who were elite in the OU game too. He just got back from a huge hiatus and will need quite a bit of practice to get back the hang of things. If he can do that, his previous experience and success in tournaments&mdash;both UU and OU&mdash;will be invaluable to him. Meru better do a good job of getting him warmed up.</li>
+  <li>radianthero156 - Wolfpack - radianthero stands out as one of the few UU players in the pool that has extensive experience in the current OU metagame through his several games for OLT. Despite this, radiant faces harsh competition from more experienced players, as well as some legends of the game. Odds are he won't have a very impressive season, but maybe Calloflochie's help will allow him to do better.</li>
+  <li>JeyTheGrey - Raiders - Jey had probably the most impressive performance in POCL after going 9&ndash;0 in UU. The problem here is that PO's UU metagame is quite different from Smogon's, and his experience in that tier could be quite conflictive when trying to get used to his new environment. It is fair to consider him a dark horse given his recent success, though, so keep an eye out for him.</li>
+  <li>Bugzinator - Falcons - Another PO player, bugzinator sadly doesn't have the same resum&eacute; as Omfuga or Jey. He is pretty much unknown regarding his skill level or teambuilding prowess, and as such, he finds himself last in the ranking for UU. We have been wrong about PO players in the past though, so maybe bugzinator will be another surprise.</li>
+</ol>
+
+<div class="imgheader">
+  <img src="/tournaments/spl/images/orasru.png" alt="" />
+</div>
+
+<ol class="long_list">
+  <li>New Breed - Raiders - A no brainer for the top spot in the RU ranking, New Breed has been a dominating force in RU for the past year. He is considered by many to be the best teambuilder in the tier; coupling this with solid play that has taken him to big success, as seen in the Grand Slam, it would be very strange to see New Breed not end up with a very strong record this SPL.</li>
+  <li>Hot N Cold - Sharks - An instrumental part of Tesung's Tour campaign, Hot N Cold has proven time and time again to be a great teambuilder; not just in a tier kind of strange for RU players like DPP OU, but also in RU itself. Innovations such as SubWish Jolteon are trademarks of the Spaniard. He is a solid player too, so he has no reason not to succeed this year like he has done in past SPLs.</li>
+  <li>Hikari - Classiest - Despite seemingly not doing much in tournaments (unless the name of the tournament is SPL), Hikari has been a consistently solid player throughout the years. He has a lot of experience, as he is one of the veterans in this RU player pool, as well as a ton of support from his lower tier rotational squad in the Classiest. He has all it takes to achieve big things this SPL.</li>
+  <li>Pearl. - Falcons - A god at League of Legends and a very solid player in RU, Pearl has been very active in the RU community recently, filling himself with knowledge. He has been around for a while, so he carries a good amount of experience with himself. He hasn't had a lot of success in tournaments, mainly because it seems like he prefers staying away from them, so this SPL will answer the question: Is his level is as high as some people consider it to be.</li>
+  <li>Spirit - Cryonicles - The most recent RU Slam Runner Up is found at the middle of the pack because of simple stuff, despite being a solid player. A few players have criticized Spirit's play in the finals of said Slam, and their impression of him went down afterwards. However, his display of skill during the rest of the Slam was impressive in the opposite way. If that Spirit shows up this SPL, rest assured he could easily take on any RU player in the tournament.</li>
+  <li>wepwn - Tigers - wepwn is a rising force in the RU scene due to his continuous showings of great play throughout many games. He is a good teambuilder who, despite being solid, can sometimes seemingly succumb to pressure and end up choking. Being able to learn how to play a more controlled style will surely be helpful for him. His lack of experience in SPL also hurts him a bit.</li>
+  <li>Windsong - Scooters - He just recently got back into the tier, so not much known is about how good Windsong truly is at this generation's RU. However, he has shown his massive potential in past generations, so he has the fundamentals down. If he can revert to his past form, we can expect Windsong to do better than the people above him in this list.</li>
+  <li>Calloflochie - Wolfpack - Lochie is placed over the people under him despite not playing RU very often simply because of his tournament experience from the Grand Slam. He is better known for his play in the UU tier, but if the Wolfpack go with radiant in UU, he will have to fill the hole in RU. He has the support of RU Slam winner gr8astard, so he can probably pick it back up really fast.</li>
+  <li>Bouffalant - Ruiners - An above-average player skill-wise and in teambuilding, Bouffalant has it tough. He does not have much experience in tournaments, with a big lack of success in the tournaments he has participated in, and he hasn't put his name up there with the top players of the tier. Bouff should take this year as a big learning experience in order to solidify his play and grow further, being on the same team as greats such as august and Ciele.</li>
+  <li>Ginku - Bigs - Ginku has apparently no real experience in the tier. He has shown he is a very capable player through past SPLs, but picking up a completely new tier in such a short period of time will prove to be a tough task, although that hasn't stopped him from doing well before. We will see how much he's learned and how much he still has to pick up this year.</li>
+</ol>
+
+<p></p>
+
+<p></p>
+
+<div class="imgheader">
+  <img src="/tournaments/spl/images/orasnu.png" alt="" />
+</div>
+
+<ol class="long_list">
+  <li>Rich Homie Cased - Scooters - The master of shitty names proved the Ranking wrong last year by having a great SPL run. He has evolved a lot as a player during the past year and is now a frontrunner for the spot of top NU player around. Cased is probably the best teambuilder out of the top players in NU right now, which gives him a big edge. Make BKC proud, boy.</li>
+  <li>Soulgazer - Tigers - At the moment, Soulgazer is very close to Cased in claiming that spot for top current NU player. Another player that had a great SPL last year, Soulgazer has possibly the most potential out of the top three players. He has an impressive amount of knowledge of the tier, as well as a lot of passion for it, so it is only a matter of practicing more in order to polish his play to become the best.</li>
+  <li>FLCL - Classiest - Fooly is a special NU player because he was one of the first lower tier players to be seen as a truly great player despite the stigma around the lower tiers. He is probably the best at battling in general out of the top three, but he just recently came back to NU after proving his skill in OU, doing great in XY two Tours ago as well as being a Frontier Brain. If he cares enough he can overcome the two players ranked above him.</li>
+  <li>Annoyer - Ruiners - A Ruiner at heart, Annoyer has been a strong SPL player since he got drafted a couple of SPLs ago. He was considered to be part of an elite club of NU players back in BW, and after a long hiatus, he is back for ORAS. His success will depend on whether he can get back into it fast. If he can increase his activity and deal with his parents, he will have a good season.</li>
+  <li>dat blast - Raiders - dat blast is a very promising new player. A very active contributor in NU, he is a strong player with a good grasp for the game. He is held back by his nonexistent experience in tournaments, as he has basically no knowledge on how it is to play under pressure against top players. Despite this, he is one of the top picks to do well this SPL.</li>
+  <li>malefic - Cryonicles - malefic has a brutal run in the NU Slam, steamrolling the opposition until he lost to a misclick in the semifinals to eventual winner Vileman. What makes the Australian an interesting player is his ability to play so many tiers to a high level, as well as the fact he has been riding solo for the most part, unlike many players who rely on others for help. One thing to think about is: if he did that well by himself, what could he achieve with a bit of help?</li>
+  <li>blarajan - Sharks - After a dramatic exit from Smogon due to LC's exclusion from SPL, blarajan just had to make the most ironic thing possible and sign up for the tournament. He has little to no experience in NU but he is a solid player, as evidenced by his insane campaign in LC last SPL. The Sharks can try to get blarajan into NU during the preseason, but if this proves ineffective, The Goomy can take up his spot, trading general battling skill for a bigger focus in NU knowledge.</li>
+  <li>Meeps - Falcons - Yet another PO wonder, meeps is one of the top NU players on that forum. He has a lot of experience in tournaments there, but we will see if he can translate that experience into the higher level of Smogon tourneys. There're rumors that he hasn't played a lot of Smogon NU, and if they turn out to be true, his lack of experience could be a big problem for meeps.</li>
+  <li>blunder - Wolfpack - After a disappointing SPL season last year in UU, blunder has changed focus into NU. He, like malefic, did very well in the NU Slam and has a good amount of tournament experience under his sleeve (including a 5 win season in NUPL). He hasn't had a lot of success in other tournaments or tiers, though, so lets see if blunder can beat the Ranking this time around against a pool of different players.</li>
+  <li>Vileman - Bigs - The NU Slam champion probably deserves to be ranked higher than this. Despite being the reigning champion, many players have criticized his play, arguing that luck bailed him out more than once. There were also words of teams being built for him, as opposed to him building his own, which shows a lack of knowledge of the tier. However, if he managed to win a Slam with that little experience and knowledge, we can only imagine what he could do once he gets more of those.</li>
+</ol>
+
+<div class="imgheader">
+  <img src="/tournaments/spl/images/orasdoubles.png" alt="" />
+</div>
+
+<ol class="long_list">
+  <li>TheFourthChaser - Falcons - TFC has been around for a looong time. This may be the first year, however, during which he finds himself in the spotlight. After an incrediblly dominating year in Doubles tournaments, be it the Invitational, the Circuit, or the impressive Slam win, TFC has demonstrated he's one of the best around. His vast knowledge of the tier make him a force to be reckoned with.</li>
+  <li>Braverius - Classiest - Zach was a powerhouse last SPL and comes back one more time to repeat. One of the few cases of a dedicated VGCer who got into Doubles big time and participates in tourneys often, Braverius is a solid player who likes to make hard-to-read plays. His main problem is his slight lack of experience in the teambuilding department, but that didn't seem to be a problem last year.</li>
+  <li>Biosci - Tigers - Despite not having the Doubles experience others might have, Biosci's level is so high that he can still thrive in a tier he doesn't know too much about. Having the best record last year is only a testament to his skill, and his massive experience in VGC certainly helps too. I certainly wouldn't bet against Biosci not doing as well as last year.</li>
+  <li>Laga - Bigs - One of the advantages Laga has over other players this year is that he can count on BLINGAS and Tricking to help him test teams, something that might prove invaluable. Considered by some to be one of the best in-battle players of the tier, he is slightly held back by his teambuilding. Despite this, he still had a great run this year and has been omnipresent in Doubles.</li>
+  <li>kingofmars - Cryonicles - One of the veteran Dubs players of SPL, Gavin has probably the most experience out of all the participants in Doubles this year. He might not be as active in the tier as others, but kingofmars is a Worlds-level VGC player, something that can't be disregarded. With his solid playing and teambuilding, he should do well this year, as long as he remains unpredictable.</li>
+  <li>Mizuhime - Raiders - Possibly the most vocal member of the Doubles community, Teddy's penchant for uncommon Pok&eacute;mon and sets make Mizuhime a tough player to rank. She's a solid player, though, so if her hidden tactics work out, she could definitely do much better than expected. She's one of the more experienced players in the pool, having achieved Runner-Up in the Doubles Slam, so don't underestimate her.</li>
+  <li>Lohgock - Scooters - Although he is relatively new to the tier, Lohgock has already left an impression on the community, having done very well in the Doubles Circuit. This solid showing despite his recent introduction to the tier shows how solid of a player he is. His unconventional teambuilding style full of surprises plus a good testing partner in Pwnemon will be helpful in his run.</li>
+  <li>soul_survivor - Wolfpack - Jeudy is pretty much unknown to the majority of tournament players. For those who don't know, he placed Runner-Up at Worlds, a massive achievement. He does not have much knowledge of Smogon Doubles, however, although people have mentioned he's been playing it day in, day out to get ready. He could be at a much higher level if his training has worked out for him.</li>
+  <li>Synre - Sharks - Signing up at the last minute, Synre was more known in Smogon for his UU prowess. His general skill in VGC is undoubted, however, as his knowledge in the tier, gained from his commentaries and VGC assistance, is top level. The questions will be: Does he have the will to learn the Doubles metagame? Is makiri is willing to help him out?</li>
+  <li>Arcticblast - Ruiners - Arcticblast is not a bad player by any means. However, he faces really stiff competition from a stacked pool of players this year. Past SPL experience is important, although he has recently been coming back from a hiatus. If he is able to shake off the rust and mix it up a bit, he could produce results.</li>
+</ol>
+
+<div class="imgheader">
+  <img src="/tournaments/spl/images/bwou.png" alt="" />
+</div>
+
+<ol class="long_list">
+  <li>Ojama - Cryonicles - BW is, to put it simply, Ojama's game. Having had fantastic appearances in tour after tour in BW, as well as a strong showing as a BW Brain during Frontier, he seems to be the main threat in BW this year. He is incredibly skilled in general, knows the tier in and out, and has the support of assistant manager dice for pretty much infinite teams. It remains to be answered how much his hiatus affected him, but he still shapes to be the person to beat.</li>
+  <li>Aqualouis - Scooters - What is with France giving us top notch BWers? Aqualouis is very similar to Ojama, especially because he has recently come back from a hiatus as well. The best BWer of last year will be looking to have a similar performance, and having the support of bro fist won't hurt in the slightest. He will surely will achieve big things this SPL.</li>
+  <li>Soulwind - Ruiners - The Spanish Boy is ready to bring his solid play to SPL after a very strong showing in the tour. Despite his disappointing performance in last SPL, Soulwind is such a good player that it would be wrong to consider that mishap as an indication of his skill. If he brings his tour momentum to SPL, he will surely revert that bad record of last year.</li>
+  <li>Leftiez - Raiders - Leftiez had a really great year. Despite being banned for the first three weeks of tour, he still managed to make it to the playoffs. The difficulty of that achievement is impressive, and that he managed to do it so effortlessly is even more impressive. He definitely showed that his Runner-Up status of the tour before wasn't a run of luck, and his solid play will do him well in SPL.</li>
+  <li>thatsjustpeachy - Tigers - peachy is quite a mysterious figure in the tournament scene. Despite seemingly being inactive for the biggest part of the year, he/she always comes back for SPL and does good things. Considered to be a great player of BW, his/her name is renowned in the scene, with a lot of big name players calling him/her one of the strongest around.</li>
+  <li>CTC - Classiest - The self-proclaimed Based Lord's return is something a lot of people are eagerly awaiting. After a very surprising and strong performance a few years ago in SPL, he couldn't participate last year due to a ban. A master teambuilder who probably thinks teams up in his sleep, his deep knowledge of teambuilding will be his main asset in SPL and is something that can easily make a big difference.</li>
+  <li>Shoka - Wolfpack - Screw this guy's fucking Moltres team. That aside, Shoka is a pretty good player with a good amount of experience in both SPL and other tournaments. A prot&eacute;g&eacute; of Masterclass, he definitely has the talent to achieve big things, but he seems to always fall short. If he can keep up his motivation and tries a bit harder, he might surprise us this year.</li>
+  <li>Jirachee - Bigs - One of the most charismatic members of the community, Jirachee is liked by pretty much everyone on Smogon. He is quite good at both BW and DPP, having had a good showing in POCL for the former. He will try to emulate those results in SPL, but the tougher competition might prove to be too much. It will be interesting to see how well Jirachee can adapt to the new threats.</li>
+  <li>High Impulse - Falcons - High Impulse would probably be ranked higher if he cared more about his performance. The thing about him is that he can perform quite well in tournaments, and some people, myself included, consider him to have a lot of talent. It doesn't seem, however, that he cares enough to put on the big performances he could be giving. Glimpses of his skill showed last SPL and in Frontier (under an alt, though). Hopefully, McDonald's internet holds up this year again.</li>
+  <li>Limitless - Sharks - After a huge hiatus, the master of zen is back. Probably having peaked a couple years ago after achieving big results during Tour in BW, Limitless will have to find his past form in order to be able to overcome the high level of competition this year in SPL. The question will be if he is motivated enough to reach that. If he is, then the #10 ranking is definitely unfair.</li>
+</ol>
+
+<div class="imgheader">
+  <img src="/tournaments/spl/images/dppou.png" alt="" />
+</div>
+
+<ol class="long_list">
+  <li>Heist - Sharks - Without a doubt, the player to beat in DPP this SPL is going to be Heist. Despite not being as active in the tournament scene as his opponents, his brutal showing in the most recent Tour showed us that he's still got it. A combination of nigh perfect in-battle playing and creative teambuilding make Heist a really tough opponent to face. This is surely going to be another year of being a key member of the Sharks for Heist, the Newcastle fan.</li>
+  <li>Tamahome - Wolfpack - Malfoy's style of play is just perfectly suited to a tournament like SPL. His defensively oriented teams and solid playing foundation are his best-known attributes, which, when put together, create a player that is really hard to break. This can sometimes be his weakness, though, as the type of team he's going to bring can be somewhat predictable. It should speak volumes about his ability that his skill can still overcome the toughest matchups despite this, though.</li>
+  <li>Marshall.Law - Raiders - Marshall kind of came out of nowhere last year and made a huge impression during SPL. Most people knew his name and his solid play, but it was hard to expect him to do that incredibly. Now, there is very little doubt about how good he is, and people will be more wary about him. The Frenchman is a jack of all trades, playing pretty much every style to a high level, making him quite hard to counterstyle. Only time will tell if his newfound recognition causes him to drop his guard.</li>
+  <li>TV-Rocka - Falcons - Despite being more involved in the VGC scene than in the singles one recently, Rocka is still a top dog in DPP. It shouldn't be hard for him to shake off his possible rust (if any) given his high level. If he stays motivated throughout SPL, he will be a real threat, just as he has been in every SPL while playing DPP. Basically, it can be summed up in: if he gets back into the groove, he's good.</li>
+  <li>Boudouche - Bigs - More of a recent discovery, the Tour runner-up has held his name high in the scene. Being one of the few DPPers who have played XY extensively might be useful, if he can incorporate XY ideas into his DPP teams in order to throw his opponents off. It will be definitely interesting to see if he can recreate Marshall's DPP success from last season.</li>
+  <li>august - Ruiners - A veteran and one of the few DPPers in the tourney that made their name during DPP, the OST champion returns to SPL after a long hiatus. august is undoubtedly a strong player with interesting teams, so it will come down to whether he can replicate his past form and cares enough to do so. He has plenty of testing partners on the Ruiners, including manager Ciele, so it's very likely he will be a tough opponent this season.</li>
+  <li>Fakes - Tigers - Once lauded for being probably the most promising talent in DPP, Fakes has fallen into relative obscurity and is now remembered more for his rage quitting antics. Despite never doing anything too big of note in tournaments, his dedication to the tier put him on top. Its hard to tell if said passion for DPP is still there, but if it is, he can probably do better than he is being ranked. The main thing to see will be if he can keep his mental stability in balance, otherwise there might be problems.</li>
+  <li>Bad Ass - Classiest - Bad Ass is very well-known as one of the top lower tier players on the site. Having played pretty much every lower tier with great success, it is almost strange to see him in DPP, but due to the lack of prominent DPP players on his team, he will most likely play this tier. A good player by all accounts, his general skill is really high. Not touching the tier for what has probably been an eternity might be a big problem, though.</li>
+  <li>Honor - Scooters - Considered to be one of PO's top DPPers, this might be Honor's first year starting in SPL. History goes against him, as contrary to what generally happens in lower tiers, in which PO players seem to have conquered the top, the PO old gen players seem to struggle a bit, like was the case of george last year. It will be very interesting to see if the hype is deserved, and the Italian will most likely want to prove the haters wrong.</li>
+  <li>badabing - Cryonicles - The prodigal son of Latin America returns for another year. badabing is up there with Lady Bug as someone who isreally hard to rank. Personally, a player that reminds me a lot of badabing is ben gay. Both were huge talents when they started, with the chance of becoming one of the absolute elite. badabing showed a glimpse of his true skill in Frontier around three years ago, when masterfully he almost beat it. That badabing could easily threaten every single player in the tier, but we will see if he has the dedication to achieve that level.
+</li>
+</ol>
+
+<div class="imgheader">
+  <img src="/tournaments/spl/images/advou.png" alt="" />
+</div>
+
+<ol class="long_list">
+  <li>McMeghan - Bigs - Considered to be one of the best players around, McMeghan is quite possibly the epitome of consistency. The Belgian wonder has been destroying tournaments for years now, with no signs of stopping, and this translates to his ADV play. Although it might have been a while since McMeghan played at the highest level in ADV, it shouldn't be troublesome at all. He is a fantastic teambuilder in the tier, and it seems very unlikely that McMeghan won't have a great SPL.</li>
+  <li>Golden Sun - Falcons - Golden Sun has been one of the most solid ADV players for a good while. He has done great in basically every ADV tournament he has joined, be it SPL or Frontier as a Brain. His extremely defensive style coupled with safe but smart plays make him a really hard opponent to break, and that consistent style makes him a great SPL player. The main reason he isn't rated number 1 is probably his inactivity when compared to other players.</li>
+  <li>BKC - Cryonicles - Kevin is probably best known as one of the best modern DPP players in the site. Despite his fame as a DPPer, the little girl aficionado is still a top ADV player, having contributed to the success of many players with his incredible teambuilding. A very unpredictable player with a love for unusual strategies, BKC is too solid to rate him lower, especially considering the support behind him in reyscarface and Ojama. The lack of Lucario in this generation could be his downfall, though.</li>
+  <li>M Dragon - Sharks - M Dragon is quite possibly the only player in this site to play every single OU generation to the highest level. He demonstrated his level in the more recent generations through his Tour win, and he is a feared player in the old ones as well. This massive knowledge of every tier coupled with his solid plays make him a very complete threat in ADV. If he can derive a bit from the usual TSS teams he is expected to usually bring, he will be a top threat.</li>
+  <li>Danilo - Wolfpack - The least Brazilian BR is an interesting player. Although most people consider his style to be unreliable and that his in-battle decisions could be better, he still manages to do well in tournaments. His teambuilding style is really unique, and his passion for the generation shows with it. The tricks up his sleeve will probably make a big difference in his games, and not being sure what to expect both outside and inside a battle could prove to be very troublesome for his opponents.</li>
+  <li>dekzeh - Ruiners - Dekzeh started XY with a bang, being regarded as one of the best XY players around. His concentration in the new tier has allegedly left him without playing ADV for a considerable amount of time. Despite this, he still managed to have a powerful showing in the Frontier. Known mostly for his infamous Calm Mind&ndash;Spam teams, we will see if dekzeh can twist it up enough to bring bigger results, as he definitely has the skill to achieve so.</li>
+  <li>undisputed - Tigers - Like BKC, he used to be known for his DPP, but undisputed has recently transitioned smoothly into being a great ADV player. His great skill has allowed him to be a Frontier Brain for several years, and his great versatility makes him a top threat. Ghosting allegations hurt his ranking though, as the rumors of receiving massive help last SPL move around. He will be eager to prove the naysayers wrong, though.</li>
+  <li>Alf' - Scooters - Loic is a very versatile player. He is known for being able to play OU as well as lower tiers and especially known for his great ADV and RU skills. Alf hasn't had a very special year, however, and he might be out of practice in ADV. We will see how he manages to adapt to new threats as well as if his ability is still that of the feared Belgian from past years.</li>
+  <li>adv - Classiest - Triangles was a pleasant surprise last SPL. Doing pretty well in a very stacked ADV season against all odds was quite the sight. Now, starting from the get-go, Triangles will have to prove that last year wasn't a sham, and he definitely has the tools to achieve that. He is a little hurt by the distinct lack of testing partners, as his old gen teammates aren't particularly known for their ADV prowess.</li>
+  <li>kael - Raiders - Smogon's favorite Brazilian returns to yet another SPL. Its probably unfair to rank him this low considering how he has reached the playoffs and finals on so many occasions, but the ADV playerbase seems really strong this year, just like last one. kael, like Triangles, lacks the support that would be marvelous for SPL, which definitely hurts his chances. However, I don't want to take any shit if he reaches the finals again; after all, no one can stop destiny.</li>
+</ol>
+
+<div class="imgheader">
+  <img src="/tournaments/spl/images/gscou.png" alt="" />
+</div>
+
+<ol class="long_list">
+  <li>Colchonero - Wolfpack - Probably the most dominating player of last year, Colchonero makes a return after a long disappearance, and a repeat of his success wouldn't be surprising at all. The Spaniard's skill both in-battle and with play-reading is off the charts and possibly the best of the tier's players. His teams can be a little standard, but he plays them to perfection with a very methodical style, making him a very tough opponent to defeat.</li>
+  <li>Conflict - Sharks - The face of the Sharks, Conflict is a very solid player. With great teambuilding and high-level skill to go with it, the German is a very hard one to break. Having the support of M Dragon and (presumably) MoP only makes him scarier, with endless possibilities of testing and building between the three of them. It would be surprising if Conflict doesn't keep his streak of great SPL performances up.</li>
+  <li>Tiba - Ruiners - Tiba is considered by many to be the player to beat in GSC this SPL. An expert in both GSC and RBY, the Brazilian has the advantage of several years of knowledge coupled with a tablespoon of mystery. Not having played GSC in a while, few know what to expect of Tiba. This same mystery drops him a bit in the rankings, but be certain that if he gets going, he can easily top this list.</li>
+  <li>Jorgen - Tigers - Jorgen has been a powerhouse in GSC for the past few years. More of a modern player, Jorgen impressed a lot of people with his insane 8&ndash;2 record 2 SPLs ago. Jorgen definitely has the skill to achieve something similar this year, but what brings him down is his claim that he isn't going to try hard this year. With a pool of many strong players, will half his motivation be enough to take him to the top?</li>
+  <li>Picollo - Cryonicles - The cute German is back for another season, and despite claims that he didn't do too well last season, he is ready to step up to the challenge. One of the things that separates him from other GSC players is that he has experience in XY. If he can incorporate fundamentals from another generation into his GSC play, he could definitely sly his way into a top record.</li>
+  <li>Mr.E - Classiest - Mr.E's legend spans more than a decade. The self-proclaimed "best player ever" signed up last minute this year to be retained by the Classiest. Mr.E's unrivaled experience gives him a slight edge, but some players have criticized his teambuilding, claiming he just uses one team with slight variations each week. This can definitely hurt him in the long run&mdash;let's see if he can stop using Machamp.</li>
+  <li>Bedschibaer - Raiders - A really modern GSC player, Bedschibaer is perhaps more known for his great SPL posts rather than his playing ability. Despite getting a nice 3&ndash;1 record last season, many people consider it to be a fluke, as he faced merely the weaker GSC players back then. This year will answer many questions regarding this man's ability&mdash;perhaps we are in for a surprise.</li>
+  <li>Royal Flush - Bigs - Royal Flush has had many chances to perform in SPL, being a constant presence in the tournament. He hasn't really succeeded as much as expected, though. He definitely has the skill, but people nowadays are doubting if he is more of a name than a player. His performance this SPL will be really important in breaking&mdash;or making&mdash;that notion.</li>
+  <li>Bomber92 - Falcons - Bomber is a new addition to the roster of GSC players. Perhaps more known for his RBY ability, the Conflict favorite will be filling the GSC spot due to a severe lack of players in the tier this year. Not much is known about his recent ability, but he has achieved moderate success in tournaments on another forum, so he potentially has what is needed. Keep an eye on him; he will probably be a dark horse.</li>
+  <li>Lavos Spawn - Scooters - Ah, Lavos. Known for his World Cup antics and his BW play, the ex-West member has been practicing hard in GSC. Unlike LonelyNess, some people have started taking him seriously, and others consider him to be quite apt at the tier. It will be interesting to see if his BW skill can translate into GSC; if so, he could probably grab a few wins.</li>
+</ol>
+
+<div class="imgheader">
+  <img src="/tournaments/spl/images/rbyou.png" alt="" />
+</div>
+
+<ol class="long_list">
+  <li>marcoasd - Falcons - What a year it has been for marcoasd. He has probably had one of the most impressive tournament results in recent history, having completely dominated the RBY scene on another forum. Many consider him to be a candidate for the best RBY record, and it would not be surprising to see him up there. We will see if he can bring the same results into the highest level of competition.</li>
+  <li>Floppy - Tigers - gorgie has it all. He's got the teams, the nerve, the ability to summon luck at his own leisure, experience from many years of playing, and having won hella RBY tournaments. Unlike in ADV and GSC, Floppy positions himself as one of the top players in RBY, and the chances of him disappointing are very low. By the way, if you are new, he will gladly teach you a thing or two.</li>
+  <li>Isa - Scooters - The Swedish wonder Isa is one of the most complete RBY players around. He's always solid, and his ability to do good in tournaments no matter what (backed up by his performance in a past SPL) makes him a really valuable asset. He's one of the more knowledgeable players of the RBY scene, so he can take on anyone. Watch out for his creative sets and Pok&eacute;mon; he is not scared of trying new stuff out.</li>
+  <li>Lutra - Cryonicles - A really solid player who, like Isa, is a top connoisseur of the RBY scene, Lutra is posing himself to be a top contender after a great POCL run. The main criticism he receives is that he uses mostly one team, which a lot of players know by now. That and the lack of testing partners can certainly hurt him. However, he is still skilled and knowledgeable enough to not only surpass those obstacles but also reach success.</li>
+  <li>Hantsuki - Ruiners - The Brazilian grill can be considered a jack of all trades, but sadly, she's a master of none. Another low note, is that many RBY players consider her to have very subpar luck, something that actually matters in RBY. However, Hantsuki still manages to be able to put up a fight against most players, a testament to her skill.</li>
+  <li>The_Chaser - Raiders - The original RBY god, The_Chaser is back after an unsuccesful DPP stint last SPL. Ranking him is hard because if the old RBY Chaser shows up, he is easily top 3. However, if his motivation isn't high (which seems to be the case after a big fight with his managers), he could be a disappointment. He has a great practice partner in Golden Gyarados, however, so we will see how it pans out.</li>
+  <li>Raish - Classiest - Raish is probably thanking Isa for all the PR work in the past few weeks. A complete unknown in Smogon, Raish has dabbled in RBY on other sites, with top players such as Isa considering him a big talent. He has a winning record against most of the top dogs in RBY, so he is probably a dark horse this SPL.</li>
+  <li>husk - Sharks - Many people fanboyed hard when they saw husk signed up for SPL, and for good reason. husk is a legend in competitive Pok&eacute;mon as the best player ever in the World Cup, leading Asia to countless victories. If husk regains that level, he is easily one of the best players, not only in RBY, but in the whole tournament. However, husk has against him the fact that he hasn't played Pok&eacute;mon at all in more than three years, so his development will be very interesting.</li>
+  <li>The_Joker - Wolfpack - Joker is a good player that has found moderate success in RBY tournaments. He is considered to be an alright player by his peers, although a very unproven talent. This is the chance for him to shine. Not a lot is expected of him, so a few big wins would prove his worth.</li>
+  <li>MetalGro$$$$ - Bigs - Kind of a surprising purchase, MetalGro$$ is better known in the PO scene. Unknown to most players on Smogon and even other RBY communities, he has the odds stacked against him in a very tough year for RBY players this SPL. It will be surprising if he manages to get a few wins against the incredible competition.</li>
+</ol>
+
+<div class="imgheader">
+  <img src="/tournaments/spl/images/manager.png" alt="" />
+</div>
+<p>As an SPL co-host, I figure it'd be appropriate to add my thoughts on the power rankings as well&hellip; however, for the managers instead.</p>
+<p>My rankings are going to be based on some arbitrary combination of player experience, tier flexibility, previous managerial success, expected activity, and a "miscellaneous it factor." I will NOT take into account the results of the auction.</p>
+<p>After typing that sentence and looking at the manager duos, I am kicking myself a bit because, well, everyone is so close. This might be the first year I am super happy with all the managers in terms of ability to succeed. I'd say that the difference between #1 and #10 is so miniscule that it's almost pointless to do rankings but&hellip;</p>
+
+<p>THAT SAID, I'm not going to pussy out and not rank 'em, so here we go:</p>
+
+<ol class="long_list">
+  <li>gr8astard and Bloo: In my opinion, the best managers are those that specifically do all of:
+  <ul>
+  <li>manage Pok&eacute; egos</li>
+  <li>help build teams and test in various tiers</li>
+  <li>are obsessive to the point of compulsion</li>
+  </ul>
+  These two dorks do all of the above and more. I don't think I know anyone more obsessed with winning than Bloo (maybe BKC aside), and hugo is hugo when it comes to making and collecting teams. Hugo has also been a critical part of Team East's success and while Bloo's last SPL management experience with the Wolfpack flamed out, he was a vital leader during Team West's WCoP win. I have very high expectations for this combination, though I'm hoping this doesn't end up being a "Michael Jordan can't fuckin' manage for shit" situation  :X
+  </li>
+  <li>makiri and Stellar + the Sharks contingent: I have no idea if phil or MoP are involved at all anymore, but makiri has kept his winning culture from past SPLs intact, and I know at the very least panamaxis is helping them out, and pana is a game-changing variable (I know very few people who can learn and be helpful with random tiers like pana can). Stellar fulfills the obsessive category (nerd) while also being able to manage egos. I don't think I have to say much about makiri, as his track record speaks for itself (2 SPL championships), but he should add an extra edge by giving some additional Doubles knowledge, which might be the one thing lacking across the board in the other manager duos.</li>
+  <li>bro fist and CrashinBoomBang: I saw first-hand last year how good bro fist is at managing egos (probably the best one on this list) and CBB happily (well, in his case, angrily) fulfills the obsessive department. CBB also has previous experience in dominating lower tiers, so even if he doesn't now, he can apply that knowledge to help out the team. I'm really hoping everything works as these two expect it to because I think they have the potential to bring the Scoots back to the promised land.</li>
+  <li>reyscarface and dice: Rey was apparently a Beacon of Civility a few years back for team LA when they had arguably the most volatile group of egos ever, so I'm giving him the benefit of the doubt here when it comes to him leading a group. dice is............... fucking dice. As long as he isn't trolling HIS OWN damn team 24/7 his ability to look at 'mons in a more diverse manner should be very helpful (as long as he remembers that he should use Ubers Po&eacute;mon in Ubers). Both of these niggas have the potential to dive deep into the effort of winning, and their Pok&eacute;mon knowledge and dedication is obviously top-tier for the managing duos. So long as they can manage egos well (and not piss off their own players), I expect playoffs.</li>
+  <li>Ciele and SilentVerse (+Baika): Ciele carries with him the sustained history of consistent Ruiner success (ignoring last year&hellip; lol), and SilentVerse gives a nice lower tier addition to Ciele's cross-generational OU experience. They also have Baika as a pseudo ass man, which makes them one of the most balanced manager combinations in terms of generational OU / lower tier / old gen experience. My only concerns might be Ciele's ability to manage egos, because he tends to be pretty timid as well as SilentVerse's sustained activity, but if those work out, the Ruiners should be back in the playoffs.</li>
+  <li>Funkasaurus and Harsha: I doubt this duo is sneaking up on anyone in the "know" for tournaments, but overall I feel like both have a little less "oomph" factor for name value across Smogon. I don't think that is relevant at all to success though, as Funk is an extraordinarily chill individual who should be able to manage his egos effectively and both are good enough at 'mons to help their players accordingly. My concerns here would be their lack of old gen knowledge and them not caring as much about the lower tiers, along with some activity concerns with Harsha, but I feel like everytime I potentially underestimate the BIGS, they slap me with their dicks.</li>
+  <li>kokoloko and Tsunami: kokoloko has experience leading a tier, and while wrecking kids in UU topics is a little different from managing divas on your team, I've seen him deal with drama / egos enough in his own council to be confident he can handle anything that should come up with an SPL team. SIU&hellip; lol. Dude did what, like 700 matches to make OLT (or was that 700 wins, I forget)? He is <em>obviously</em> obsessive enough to put the work in. My concern here would be older gens and then the likelihood that both potentially just "dgaf bail" should shit not work out well initially. I'm hoping it doesn't happen, but with both their personalities I could see it being a thing&hellip;</li>
+  <li> Texas Cloverleaf and kd24: A common trend with these last three rankings will be my concern with activity, and considering kd24 straight up said he was mostly interested in the auction, it's a legitimate concern. I'm hoping Texas can pick up the slack and drop the stench he has associated with him due to the Frogs and kd24 has associated to him due to the Raiders last year. I know I said I wouldn't count the auction here, but I do think the Falcons had one of the best keeper trios, and so long as Texas can use that advantage and build a culture of winners, they should be good.</li>
+  <li>tennisace and Valentine: Not really sure what is up with Valentine personally, but I'm getting hints that activity might be a concern, and I really think this team needs an active Valentine to succeed. Ranking tennisace #9 seems unfair to me, but his success in past SPLs is also attached with big disappointments, so it's a bit of a give and take. Frankly speaking, though, if both are active, I don't see a big difference between #9 and #1, and the last time we all underestimated the Tigers, they went to the finals&hellip;</li>
+  <li>PttP and Rewer: I wasn't aware PttP was even a person without Eo, and we all know Rewer is better at hitting Outrage when Bulk Up is a 100% win condition, but that is off-topic. I'm really only ranking them #10 because: fuck dodrio. He's a smarmy twit and stain to the glory of my alma mater. That said, even though they're #10, so long as both are active, I think they'll surprise people. Again, I know I said I wouldn't count the auction, but I really think a lot of people they got are better than most people think, so this team could easily end up being like the Tigers 2 SPLs ago. Also, if PttP ends up getting Eo to kind of pseudo ass man, that'll only help this team outperform people's initial low expectations.</li>
+</ol>
+
+<h2>Team Power Ranking</h2>
+
+<table id="ranks" style="margin-bottom: 5px">
+  <tr id="regice">
+  <td>
+  <img style="width: 80; height: 61; margin: 39 0 39 0" src="/dex/media/sprites/xy/regice.gif" alt="" />
+  </td>
+
+  <td>
+  <div class="rborder"></div>
+  </td>
+
+  <td>
+  <span style="color: #0FB9DE">80</span>
+  </td>
+  </tr>
+  <tr id="gallade">
+  <td>
+  <img style="width: 48; height: 75; margin: 32 0 32 0" src="/dex/media/sprites/xy/gallade-mega.gif" alt="" />
+  </td>
+
+  <td>
+  <div class="rborder"></div>
+  </td>
+
+  <td>
+  <span style="color: #227A7B">75</span>
+  </td>
+  </tr>
+  <tr id="raikou">
+  <td>
+  <img style="width: 51; height: 61; margin: 39 0 39 0" src="/dex/media/sprites/xy/raikou.gif" alt="" />
+  </td>
+
+  <td>
+  <div class="rborder"></div>
+  </td>
+
+  <td>
+  <span style="color: #BB09AC">71</span>
+  </td>
+  </tr>
+  <tr id="garchomp">
+  <td>
+  <img style="width: 86; height: 81; margin: 29 0 29 0" src="/dex/media/sprites/xy/garchomp.gif" alt="" />
+  </td>
+
+  <td>
+  <div class="rborder"></div>
+  </td>
+
+  <td>
+  <span style="color: #323E76">69</span>
+  </td>
+  </tr>
+  <tr id="talonflame">
+  <td>
+  <img style="width: 114; height: 139" src="/dex/media/sprites/xy/talonflame.gif" alt="" />
+  </td>
+
+  <td>
+  <div class="rborder"></div>
+  </td>
+
+  <td>
+  <span style="color: #EE6B1D">68</span>
+  </td>
+  </tr>
+  <tr id="alakazam">
+  <td>
+  <img style="width: 58; height: 59; margin: 40 0 40 0" src="/dex/media/sprites/xy/alakazam.gif" alt="" />
+  </td>
+
+  <td>
+  <div class="rborder"></div>
+  </td>
+
+  <td>
+  <span style="color: #901DC0">67</span>
+  </td>
+  </tr>
+  <tr id="scrafty">
+  <td>
+  <img style="width: 42; height: 57; margin: 41 0 41 0" src="/dex/media/sprites/xy/scrafty.gif" alt="" />
+  </td>
+
+  <td>
+  <div class="rborder"></div>
+  </td>
+
+  <td>
+  <span style="color: #F31B1B">65</span>
+  </td>
+  </tr>
+  <tr id="houndoom">
+  <td>
+  <img style="width: 44; height: 65; margin: 37 0 37 0" src="/dex/media/sprites/xy/houndoom.gif" alt="" />
+  </td>
+
+  <td>
+  <div class="rborder"></div>
+  </td>
+
+  <td>
+  <span>64</span>
+  </td>
+  </tr>
+  <tr id="wailord">
+  <td>
+  <img style="width: 110; height: 61; margin: 39 0 39 0" src="/dex/media/sprites/xy/wailord.gif" alt="" />
+  </td>
+
+  <td>
+  <div class="rborder"></div>
+  </td>
+
+  <td>
+  <span style="color: #0B00FF">63</span>
+  </td>
+  </tr>
+  <tr id="unown">
+  <td>
+  <img style="width: 44; height: 55; margin: 42 0 42 0" src="/dex/media/sprites/xy/unown.gif" alt="" />
+  <img style="width: 44; height: 55; margin: 42 0 42 0" src="/dex/media/sprites/xy/unown.gif" alt="" />
+  </td>
+
+  <td>
+  <div class="rborder"></div>
+  </td>
+
+  <td>
+  <span style="color: #FFEF00">56</span>
+  </td>
+  </tr>
+</table>
+
+<h2>Squads with Top Players</h2>
+
+<div class="squad-key">
+  <ul>
+  <li><span class="gr">Green</span> means Top 3 player in his or her tier (Top 6 for XY OU)</li>
+  <li><span class="bl">Black</span> means Middle 4 player in his or her tier (Middle 8 for XY OU)</li>
+  <li><span class="red">Red</span> means Bottom 3 player in his or her tier (Bottom 6 for XY OU)</li>
+  </ul>
+</div>
+
+<div class="squad-border bigs">
+  <div class="team bigs">
+  <h2>The Ever Grande BIGs</h2>
+  </div>
+  <ul>
+  <li>ORAS OU 1 - <span class="bl">Sinclair</span></li>
+  <li>ORAS OU 2 - <span class="gr">Destiny Device</span></li>
+  <li>ORAS Ubers - <span class="red">Evuelf</span></li>
+  <li>ORAS UU - <span class="gr">Nas </span></li>
+  <li>ORAS RU - <span class="red">Ginku</span></li>
+  <li>ORAS NU - <span class="red">Vileman</span></li>
+  <li>ORAS Doubles - <span class="bl">Laga</span></li>
+  <li>BW OU - <span class="red">Jirachee</span></li>
+  <li>DPP OU - <span class="bl">Boudouche</span></li>
+  <li>ADV OU - <span class="gr">McMeghan</span></li>
+  <li>GSC OU - <span class="red">Royal Flush</span></li>
+  <li>RBY OU - <span class="red">MetalGro$$</span></li>
+  </ul>
+</div>
+
+<div class="squad-border cong">
+  <div class="team cong">
+  <h2>Congregation of the Classiest</h2>
+  </div>
+
+  <ul>
+  <li>ORAS OU 1 - <span class="gr">ben gay</span></li>
+  <li>ORAS OU 2 - <span class="gr">KratosMana</span></li>
+  <li>ORAS Ubers - <span class="bl">Jibaku</span></li>
+  <li>ORAS UU - <span class="gr">Lowgock</span></li>
+  <li>ORAS RU - <span class="gr">Hikari</span></li>
+  <li>ORAS NU - <span class="gr">FLCL</span></li>
+  <li>ORAS Doubles - <span class="bl">Braverius</span></li>
+  <li>BW OU - <span class="bl">CTC</span></li>
+  <li>DPP OU - <span class="red">Bad Ass</span></li>
+  <li>ADV OU - <span class="red">adv</span></li>
+  <li>GSC OU - <span class="bl">Mr.E</span></li>
+  <li>RBY OU - <span class="bl">Raish</span></li>
+  </ul>
+</div>
+
+<div class="squad-border cryos">
+  <div class="team cryos">
+  <h2>The Cryonicles</h2>
+  </div>
+
+  <ul>
+  <li>ORAS OU 1 - <span class="gr">Reymedy</span></li>
+  <li>ORAS OU 2 - <span class="red">Living So Zambian</span></li>
+  <li>ORAS Ubers - <span class="gr">Donkey</span></li>
+  <li>ORAS UU - <span class="gr">Psychotic</span></li>
+  <li>ORAS RU - <span class="bl">Spirit</span></li>
+  <li>ORAS NU - <span class="bl">malefic</span></li>
+  <li>ORAS Doubles - <span class="bl">kingofmars</span></li>
+  <li>BW OU - <span class="gr">Ojama</span></li>
+  <li>DPP OU - <span class="red">badabing</span></li>
+  <li>ADV OU - <span class="gr">BKC</span></li>
+  <li>GSC OU - <span class="bl">Picollo</span></li>
+  <li>RBY OU - <span class="bl">Lutra</span></li>
+  </ul>
+</div>
+
+<div class="squad-border falcons">
+  <div class="team falcons">
+  <h2>The Firebot Falcons</h2>
+  </div>
+  <ul>
+  <li>ORAS OU 1 - <span class="gr">Tesung</span></li>
+  <li>ORAS OU 2 - <span class="red">myzozoa</span></li>
+  <li>ORAS Ubers - <span class="bl">Problems</span></li>
+  <li>ORAS UU - <span class="red">Bugzinator</span></li>
+  <li>ORAS RU - <span class="bl">Pearl.</span></li>
+  <li>ORAS NU - <span class="red">Meeps</span></li>
+  <li>ORAS Doubles - <span class="gr">TheFourthChaser</span></li>
+  <li>BW OU - <span class="red">High Impulse</span></li>
+  <li>DPP OU - <span class="bl">TV-Rocka</span></li>
+  <li>ADV OU - <span class="gr">Golden Sun</span></li>
+  <li>GSC OU - <span class="red">Bomber92</span></li>
+  <li>RBY OU - <span class="gr">marcoasd</span></li>
+  </ul>
+</div>
+
+<div class="squad-border raiders">
+  <div class="team raiders">
+  <h2>The Team Raiders</h2>
+  </div>
+
+  <ul>
+  <li>ORAS OU 1 - <span class="bl">Pridy</span></li>
+  <li>ORAS OU 2 - <span class="bl">Lyconik</span></li>
+  <li>ORAS Ubers - <span class="bl">Melee Mewtwo</span></li>
+  <li>ORAS UU - <span class="red">JeyTheGrey</span></li>
+  <li>ORAS RU - <span class="gr">New Breed</span></li>
+  <li>ORAS NU - <span class="bl">dat blast</span></li>
+  <li>ORAS Doubles - <span class="bl">Mizuhime</span></li>
+  <li>BW OU - <span class="bl">Leftiez</span></li>
+  <li>DPP OU - <span class="gr">Marshall.Law</span></li>
+  <li>ADV OU - <span class="red">kael</span></li>
+  <li>GSC OU - <span class="bl">Bedschibaer</span></li>
+  <li>RBY OU - <span class="bl">The_Chaser</span></li>
+  </ul>
+</div>
+
+
+<div class="squad-border ruin">
+  <div class="team ruin">
+  <h2>The Alpha Ruiners</h2>
+  </div>
+  <ul>
+  <li>ORAS OU 1 - <span class="bl">PDC</span></li>
+  <li>ORAS OU 2 - <span class="red">sugarhigh</span></li>
+  <li>ORAS Ubers - <span class="red">Steeljackal<3</span></li>
+  <li>ORAS UU - <span class="bl">reachzero</span></li>
+  <li>ORAS RU - <span class="red">Bouffalant</span></li>
+  <li>ORAS NU - <span class="bl">Annoyer</span></li>
+  <li>ORAS Doubles - <span class="red">Arcticblast</span></li>
+  <li>BW OU - <span class="gr">SoulWind</span></li>
+  <li>DPP OU - <span class="bl">august</span></li>
+  <li>ADV OU - <span class="bl">dekzeh</span></li>
+  <li>GSC OU - <span class="gr">Tiba</span></li>
+  <li>RBY OU - <span class="bl">Hantsuki</span></li>
+  </ul>
+</div>
+
+<div class="squad-border scoot">
+  <div class="team scoot">
+  <h2>The Indie Scooters</h2>
+  </div>
+
+  <ul>
+  <li>ORAS OU 1 - <span class="bl">Stathakis</span></li>
+  <li>ORAS OU 2 - <span class="red">Henry</span></li>
+  <li>ORAS Ubers - <span class="gr">Hack</span></li>
+  <li>ORAS UU - <span class="bl">IronBullet93</span></li>
+  <li>ORAS RU - <span class="bl">Windsong</span></li>
+  <li>ORAS NU - <span class="gr">Versace Python Cased</span></li>
+  <li>ORAS Doubles - <span class="bl">Lohgock</span></li>
+  <li>BW OU - <span class="gr">Aqualouis</span></li>
+  <li>DPP OU - <span class="red">Honor</span></li>
+  <li>ADV OU - <span class="red">Alf'</span></li>
+  <li>GSC OU - <span class="red">Lavos Spawn</span></li>
+  <li>RBY OU - <span class="gr">Isa</span></li>
+  </ul>
+</div>
+
+<div class="squad-border sharks">
+  <div class="team sharks">
+  <h2>The Stark Sharks</h2>
+  </div>
+
+  <ul>
+  <li>ORAS OU 1 - <span class="bl">Inflikted</span></li>
+  <li>ORAS OU 2 - <span class="red">CyberOdin</span></li>
+  <li>ORAS Ubers - <span class="gr">Edgar</span></li>
+  <li>ORAS UU - <span class="bl">FlareBlitz</span></li>
+  <li>ORAS RU - <span class="gr">Hot N Cold</span></li>
+  <li>ORAS NU - <span class="bl">blarajan</span></li>
+  <li>ORAS Doubles - <span class="red">Synre</span></li>
+  <li>BW OU - <span class="red">Limitless</span></li>
+  <li>DPP OU - <span class="gr">Heist</span></li>
+  <li>ADV OU - <span class="gr">M Dragon</span></li>
+  <li>GSC OU - <span class="gr">Conflict</span></li>
+  <li>RBY OU - <span class="red">husk</span></li>
+  </ul>
+</div>
+
+<div class="squad-border tigers">
+  <div class="team tigers">
+  <h2>The Circus Maximus Tigers</h2>
+  </div>
+
+  <ul>
+  <li>ORAS OU 1 - <span class="bl">sebixxl</span></li>
+  <li>ORAS OU 2 - <span class="red">Lord Moet II</span></li>
+  <li>ORAS Ubers - <span class="red">Fireburn</span></li>
+  <li>ORAS UU - <span class="bl">Omfuga</span></li>
+  <li>ORAS RU - <span class="bl">wepwn</span></li>
+  <li>ORAS NU - <span class="gr">Soulgazer</span></li>
+  <li>ORAS Doubles - <span class="gr">Biosci</span></li>
+  <li>BW OU - <span class="bl">thatsjustpeachy</span></li>
+  <li>DPP OU - <span class="bl">Fakes</span></li>
+  <li>ADV OU - <span class="bl">undisputed</span></li>
+  <li>GSC OU - <span class="bl">Jorgen</span></li>
+  <li>RBY OU - <span class="gr">Floppy</span></li>
+  </ul>
+</div>
+
+<div class="squad-border wifi">
+  <div class="team wifi">
+  <h2>The Wi-Fi Wolfpack</h2>
+  </div>
+
+  <ul>
+  <li>ORAS OU 1 - <span class="gr">Adam</span></li>
+  <li>ORAS OU 2 - <span class="bl">Mencemeat</span></li>
+  <li>ORAS Ubers - <span class="bl">aim</span></li>
+  <li>ORAS UU - <span class="red">radianthero156</span></li>
+  <li>ORAS RU - <span class="red">Calloflochie</span></li>
+  <li>ORAS NU - <span class="red">blunder</span></li>
+  <li>ORAS Doubles - <span class="red">soul_survivor</span></li>
+  <li>BW OU - <span class="bl">Shoka</span></li>
+  <li>DPP OU - <span class="gr">Tamahome</span></li>
+  <li>ADV OU - <span class="bl">Danilo</span></li>
+  <li>GSC OU - <span class="gr">Colchonero</span></li>
+  <li>RBY OU - <span class="red">The_Joker</span></li>
+  </ul>
+</div>
+<table id="comp-footer">
+  <tr>
+  <td class="home"><a href="/competitor/">Home Page</a></td>
+  <td class="index"><a href="/competitor/archive">Articles Index</a></td>
+  </tr>
+</table>

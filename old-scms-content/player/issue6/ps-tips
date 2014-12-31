@@ -1,0 +1,177 @@
+[title]
+PS Tips to Autojoin and Backgrounds
+[head]
+<link href="/media/smog/smog-articles.css" type="text/css" rel="stylesheet" />
+<style type="text/css">
+    #body img{ margin: 5px 0px 5px 0px; }
+    .themes{ margin-left: 25px; }
+</style>
+[page]
+<div class="author">By <a href="/forums/members/darnell.190823/">Darnell</a>. Script by kota.</div>
+<table id="smogheader">
+    <tr>
+        <td class="left"><a href="">&laquo; Previous Article</a></td>
+        <td class="middle"><a href="/player/issue6/">Home</a></td>
+        <td class="right"><a href="">Next Article &raquo;</a></td>
+    </tr>
+</table>
+
+<h2>Introduction</h2>
+<p>Have you ever wanted to find out how users are able to auto-join PS! room or get those amazing colourful backgrounds? In this article, that is precisely what I'll be showing you how to do. I'll be going through an easy step-by-step guide that will allow you to have both the "Wi-Fi" and "Weather" backgrounds, as well as be able to auto-join rooms on PS!, something that I know has been requested and asked for a fair amount of times. Before we start, I'd just like to mention that I've only tried this on Google Chrome, so I'm not sure if it works other browsers. Let's begin!</p>
+
+<h2>Auto-join</h2>
+<p>You'll need to download something before you begin following this guide: Tampermonkey.</p>
+
+<h3>Tampermonkey</h3>
+<img src="/player/issue6/ajoin_styles_1.png" alt="" />
+<p>Tampermonkey is an extension for your browser that works as a userscript manager. Google Chrome also supports userscripts, but Tampermonkey might use scripts that are incompatible with Google Chrome.</p>
+
+
+<h3>Steps to getting Auto-join</h3>
+<ol class="tutorial">
+    <li>
+        <p>
+            Download <a href="http://tampermonkey.net/index.php?ext=dhdg" target="_blank">Tampermonkey Stable</a> (Make sure that the icon is the black one.).
+        </p>
+    </li>
+    <li>
+        <p>
+            Reopen your browser after the download is completed, and the Tampermonkey icon should appear in the top right corner next to the URL box, as shown below.
+        </p>
+    </li>
+    <img src="/player/issue6/ajoin_styles_2.png" alt="" />
+    <li>
+        <p>
+            Click the Tampermonkey icon and enable it if it hasn't been already.</li>
+        </p>
+    <li>
+        <p>
+            After that, you click 'Add a new script...' and it should bring up the page below.
+        </p>
+    </li>
+    <img src="/player/issue6/ajoin_styles_3.png" alt="" />
+    <li>
+        <p>
+            Delete '// ==UserScript==' and everything underneath it so you have a clear box.</li>
+        </p>
+    <li>
+        <p>
+            Paste the script, which you can find <a href="http://pastebin.com/eKxPt4PK" target="_blank">here</a>, into the empty space.</li>
+        </p>
+    <li>
+        <p>
+            <strong>This is where the settings that you specifically want come in!</strong>
+        </p>
+        <p>
+            Find where the settings shown in the picture below are, and change them accordingly to how you want it. This could be from deleting some lines to changing 'scavengers' to 'overused' or 'mafia' (please make sure that when changing the room, it is in all lowercase instead of in capital letters).
+        </p>
+    </li>
+    <img src="/player/issue6/ajoin_styles_4.png" alt="" />
+    <li>
+        <p>
+            When completing the setting that you want, click the <img src="/player/issue6/ajoin_styles_5.png" alt="save button" />
+        </p>
+    </li>
+    <li>
+        <p>
+            You should then tick the box, click ' --Please choose an option-- ', scroll down to 'Enable', and press 'Start'.
+        </p>
+    </li>
+    <li>
+        <p>
+            You should then close your current PS! tab, and when opening it again, the outcome should be similar to what is shown below.
+        </p>
+    </li>
+    <img src="/player/issue6/ajoin_styles_6.gif" alt="" />
+    <li>
+        <p>
+            Celebrate, because you now have auto-join!
+        </p>
+    </li>
+</ol>
+
+<h2>Backgrounds</h2>
+<p>To get backgrounds you'll also need to download an extension similar to Tampermonkey. This one is well-known throughout the server already however; it's called Stylish.</p>
+
+<h3>Stylish</h3>
+<img src="/player/issue6/ajoin_styles_7.png" alt="" />
+<p>Similar to Tampermonkey, Stylish is an extension; it can be used to make style sheets that can be enabled to customize the appearance of a web page. When using it for PS!, we're going to be installing a few themes.</p>
+
+<h3>Steps to getting Backgrounds</h3>
+<ol class="tutorial">
+    <li>
+        <p>
+            Download Stylish and reopen your browser. If you have Tampermonkey installed, it should appear right beside it; if not, it should just be beside the URL.
+        </p>
+    </li>
+    <img src="/player/issue6/ajoin_styles_8.png" alt="" />
+    <li>
+        <p>
+            Go back to Pok&eacute;mon Showdown! and click the Stylish icon.
+        </p>
+    </li>
+    <li>
+        <p>
+            From there, you'll want to click 'Manage installed styles.', and Stylish should bring up the page below.
+        </p>
+        <img src="/player/issue6/ajoin_styles_9.png" alt="" />
+        <p>
+            Please take into account that these next steps are only for themes, for which you need to copy and paste the code. For most of them you can just click 'Install'.
+        </p>
+    </li>
+    <li>
+        <p>
+            Next up is clicking 'Write new style', and this is where your own customization comes into place.
+        </p>
+    </li>
+    <li>
+        <p>
+            Make sure to put 'http://play.pokemonshowdown.com/' in the URL box; naming your themes can really help if you ever decide to switch what theme you're using.
+        </p>
+    </li>
+    <img src="/player/issue6/ajoin_styles_10.png" alt="" />
+
+    <h3>Themes</h3>
+    <div class="themes">
+        <a href="https://userstyles.org/styles/102087/xy-style-for-pokemon-showdown" target="_blank"><h4>Wi-Fi Theme</h4></a>
+        <p>This is a fan favorite at the moment and is something that has been asked about quite a bit. If you want to use this theme, it means that you will not be able to use the themes which are shown below; the rest of PS! will be kept the same. Please note that when you save battles, it will not be shown like in the picture below.</p>
+        <img src="/player/issue6/ajoin_styles_11.png" alt="" />
+     
+        <a href="https://userstyles.org/styles/88405/pokemon-showdown-dark-b2w2-style-pokemonshowdown" target="_blank"><h4>Black Theme</h4></a>
+     
+        <a href="http://pastebin.com/MxXXRkhK" target="_blank"><h4>Weather Theme</h4></a>*
+     
+        <a href="https://userstyles.org/styles/102400/kalos-theme-x-y-style-alternative-button-layout" target="_blank"><h4>Kalos Theme</h4></a>
+
+       <p>* For the weather theme, you scroll down to line 571 and highlight it until you get to line 601, which should be a single {. You then paste the code over the part that you've highlighted.</p>
+    </div>
+ 
+    <li>
+        <p>
+            Once you find the theme that you like, paste the code into the box and click the <img src="/player/issue6/ajoin_styles_12.png" alt="save button" /></li>
+        </p>
+    </li>
+    <li>
+        <p>
+            Go to Pok&eacute;mon Showdown! and make sure that you have clicked 'Enable' for the theme that you currently want to use.
+        </p>
+    </li>
+    <img src="/player/issue6/ajoin_styles_13.png" alt="" />
+    <li>
+        <p>
+            Celebrate because you now have more background options!
+I originally found out about Stylish through <a href="https://www.youtube.com/watch?v=KUo1RzhJflc" target="_blank">this</a> video, so a huge shoutout to TheCanadianWifier.
+        </p>
+    </li>
+</ol>
+
+<h2>Conclusion</h2>
+<p>That's pretty much it! I hope that these guides have helped you in getting auto-join and more options for backgrounds. I may be busy at times, but if you ever see me online and are having problems with installing either one of them, send me a PM and I'll be sure to assist you; don't harass the other staff about it, though. Thanks for reading, guys!</p>
+
+<table id="smogfooter">
+    <tr>
+        <td class="left"><a href="">&laquo; Previous Article</a></td>
+        <td class="middle"><a href="/player/issue6/">Home</a></td>
+        <td class="right"><a href="">Next Article &raquo;</a></td>
+    </tr>
+</table>

@@ -1,0 +1,113 @@
+[title]
+Recently on PS!
+
+[head]
+<link href="/media/player/article.css" type="text/css" rel="stylesheet" />
+<link href="issue-style.css" type="text/css" rel="stylesheet" />
+<style type="text/css">
+#promotions{
+border:3px solid #a1c8f5;
+-webkit-border-radius:5px;
+-moz-border-radius:5px;
+border-radius:5px;
+background-color:#edf0f7;
+width:60%;
+margin-left:auto;
+margin-right:auto;
+}
+#promotions p{
+margin:4px;
+width:100%;
+text-align:left;
+}
+#promotions strong{
+display:inline-block;
+text-align:right;
+width:120px;
+}
+#newstable td{
+width:50%;
+vertical-align:top;
+padding:5px;
+}
+.publication-info{
+font-style:italic;
+}
+.article h4{
+margin:1px;
+}
+</style>
+
+
+[page]
+<div class="author">Written by <a href="/forums/members/antemortem.192841/">Antemortem</a>. Art by <a href="/forums/members/blue-frog.163333/">Blue Frog</a>.</div><table id="playerheader">
+<tr>
+<td class="left"><a href="">&laquo; Previous Article</a></td>
+<td class="middle"><a href="/player/issue6/">Home</a></td>
+<td class="right"><a href="">Next Article &raquo;</a></td>
+</tr>
+</table>
+<div class="align-center"><img src="/player/recently-on-ps.png" /></div>
+<h2 class="align-center">News</h2>
+
+
+<table id="newstable">
+
+<tr>
+<td class="article">
+
+<h4>Trivia Script</h4>
+
+<p class="publication-info">By <a href="/forums/members/dell.135483/">Dell</a> on December 10, 2014</p>
+
+<p><strong>Thanks to Morfent's hard work, <a href="http://play.pokemonshowdown.com/trivia?_ga=1.189940587.1365827667.1418305339">the Trivia room now has a script</a>! Featuring three different modes of gameplay, everyone is welcome to answer questions, join games, and climb up the trivia leaderboard. Subjects for questions range from pop culture to Pokemon to academic subjects. Enjoy!</p>
+
+<p>Unfortunately, as soon as the script was proving successful, it struck some kinks that have yet to be worked out. As of the end of December, Morfent is working hard at fixing the script so the room doesn't have to remain reverted to users asking questions and the normal slower pace that was present before the script.</p></td>
+
+<td class="article">
+
+<h4>VGC 2015</h4>
+
+<p class="publication-info">By <a href="/forums/members/dell.135483/">Dell</a> on December 17, 2014</p>
+
+<p><a href="http://www.smogon.com/forums/threads/vgc-2015-rules.3524352/">VGC 2015 rules have been released</a>, including its own format! VGC 2014 will coexist with the new format until the season ends (December 31st!), so you guys can still duke it out in 2014's format until then. VGC 2015's rules are very similar to flat double battle rules; most 600+ BST legendaries and the Soul Dew are banned. Check it out, and head over to the <a href="http://play.pokemonshowdown.com/vgc?_ga=1.195595116.1365827667.1418305339">VGC room</a> for dedicated tournaments and discussion!</p></td>
+
+</tr>
+
+<tr>
+
+<td class="article">
+
+<h4>PS! TVBF Oscars</h4>
+
+<p class="publication-info">By <a href="/forums/members/dell.135483/">Dell</a> on December 24, 2014</p>
+
+<p>The <a href="http://play.pokemonshowdown.com/tvbooksandfilms?_ga=1.257116107.1365827667.1418305339">TV, Books and Films room</a> is holding <strong>an award ceremony to celebrate all the great movie releases this year!</strong> Vote for your movie of choice in each of 18 different categories, including cinematography, original song and director, to name a few! This event will be held at 5 PM EST on December 30, so head on over there and enjoy the ceremony!</p>
+
+<p>The ceremony is being held tonight - in just a few hours, in fact! - so head over there before you miss it!</p></td>
+
+<td class="article">
+
+<h4>BLT: Best 'Leaderboarders' Tournament</h4>
+
+<p class="publication-info">By <a href="/forums/members/dell.135483/">Dell</a> on December 29, 2014</p>
+
+<p>The <a href="http://play.pokemonshowdown.com/tournaments?_ga=1.258221642.1365827667.1418305339">Tournaments room</a> will be hosting the <strong>Best 'Leaderboarders' Tournament</strong>, where the winners of the scripted tournaments in the room will be ranked given points, and will come together in April for a big team based tournament! <a href="http://www.smogon.com/forums/threads/blt-best-leaderboarders-tournament.3525526/">Check out this link for more details</a>, and we hope to see you in the room earning points!</p>
+
+<p>The managers are excited to see what potential competition will rise out of the top leaderboard players, so be sure to give each tournament everything you've got. Even if you don't think you'll make it into the top set of players, every team will be pruning an additional member from anyone that scored in at least a bare minimum amount of tournaments, so even a few wins could land you a spot on a draft. Get out there and show us your best!</td>
+
+</tr>
+</table>
+
+<h2 class="align-center">Promotions</h2>
+<div id="promotions" class="align-center">
+<p><strong>Drivers (%):</strong> Rekeri<br /> <strong>Moderators (@):</strong> BreadHeroDan, Hippopotas<br />
+</div>
+
+<table id="playerfooter">
+<tr>
+<td class="left"><a href="">&laquo; Previous Article</a></td>
+<td class="middle"><a href="/player/issue6/">Home</a></td>
+<td class="right"><a href="">Next Article &raquo;</a></td>
+</tr>
+</table>

@@ -11,7 +11,7 @@ pokemon:
           types: [Dragon, Fairy]
           weight: 0
           height: 0
-          tags: [BL]
+          tags: [OU]
     egggroups:
     - [Dragon, Flying]
     evolvesFrom: [Swablu]
@@ -33,7 +33,7 @@ pokemon:
     tags:
     - [UU]
     - bw: [NU]
-    - xy: [UU]
+    - xy: [OU]
     types:
     - [Dragon, Flying]
     weight: [20.6]

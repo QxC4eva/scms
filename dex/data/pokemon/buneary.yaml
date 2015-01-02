@@ -71,7 +71,7 @@ pokemon:
           types: [Normal, Fighting]
           weight: 0
           height: 0
-          tags: [BL]
+          tags: [OU]
     egggroups:
     - [Ground, Humanshape]
     evolvesFrom: [Buneary]
@@ -88,7 +88,7 @@ pokemon:
     - [65, 76, 84, 54, 96, 105]
     tags:
     - [NU]
-    - xy: [RU]
+    - xy: [OU]
     types:
     - [Normal]
     weight: [33.3]

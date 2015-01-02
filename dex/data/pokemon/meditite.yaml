@@ -10,7 +10,7 @@ pokemon:
           height: 1.3
           stats: [60, 100, 85, 80, 85, 100]
           types: [Fighting, Psychic]
-          tags: [OU]
+          tags: [BL]
           weight: 31.5
     egggroups:
     - [Humanshape]
@@ -28,7 +28,7 @@ pokemon:
     - [BL]
     - bw: [RU]
       dp: [NU]
-      xy: [OU]
+      xy: [UU]
     types:
     - [Fighting, Psychic]
     weight: [31.5]

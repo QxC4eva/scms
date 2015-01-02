@@ -7,9 +7,6 @@ Imposter
 ########
 name: Imposter
 move 1: Transform
-move 2:
-move 3:
-move 4:
 ability: Imposter
 item: Choice Scarf
 evs: 248 HP / 252 Def
@@ -46,7 +43,7 @@ Checks & Counters
 
 **Substitute**: If the foe is behind a Substitute, Ditto won't be able to transform. However, this only works if a Substitute is set up before Ditto comes in.
 
-**Happiness variability:** If Ditto locks itself into Frustration with maximum happiness or Return with minimum happiness, the attack will be pitifully weak and cause it to lose the matchup.
+**Happiness variability**: If Ditto locks itself into Frustration with maximum happiness or Return with minimum happiness, the attack will be pitifully weak and cause it to lose the matchup.
 
 **Trick Room**: Trick Room can turn Ditto's Choice Scarf-augmented Speed against it, causing it to move after the foe it has transformed into.
 

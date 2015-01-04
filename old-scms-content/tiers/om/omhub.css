@@ -1,0 +1,81 @@
+    .threatlist{
+    width: 1250px;
+    background: #EDEDEF;
+    margin-top: 54px;
+    border: solid 2px #8E8E8F;
+    border-radius: 9px;
+    padding: 10px;
+}
+
+    .text{
+    width: 1250px;
+    background: #EDEDEF;
+    margin-bottom: 20px;
+    position: absolute;
+    border-top-right-radius: 9px;
+    border-top-left-radius: 9px;
+    border: solid 2px #8E8E8F;
+    padding: 10px;
+    text-align: center;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+#interview .news{    
+    border: 1px solid #8E8E8F;
+    border-radius: 9px;
+    border-top-left-radius: 0px;
+    background: #EDEDEF;
+    position: relative;
+    padding: 15px;
+    margin-top: -5px;
+    height: 150px;
+  }
+
+#interview .title{    
+    border: 1px solid #8E8E8F;
+    width: 200px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    border-top-right-radius: 9px;
+    border-top-left-radius: 9px;
+    margin-bottom: -15px;
+    background: #EDEDEF;
+    padding: 5px;
+    overflow:hidden;
+  }
+
+#interview .date{
+    margin-right: 815px;
+    border: 1px solid #8E8E8F;
+    margin-left: 210px;
+    margin-bottom: -33px;
+    width: 263px;
+    height: 15px;
+    text-align: left;
+    font-size: 12px;
+    font-weight: bold;
+    border-top-right-radius: 9px;
+    border-top-left-radius: 0px;
+    background: #EDEDEF;
+    padding: 5px;
+  }
+
+    .question{
+    margin-bottom: 23px;
+    margin-top: 23px;
+    font-weight: bold;
+    font-style: italic;
+    color: #333333;
+    font-size: 13px;
+    /* text-shadow: 3px 3px 15px #292929;*/
+}
+    
+    
+    
+    
+    
+    
+    
+    

@@ -1,10 +1,11 @@
     .threatlist{
     width: 1250px;
     background: #EDEDEF;
-    margin-top: 54px;
+    margin-top: 42px;
     border: solid 2px #8E8E8F;
     border-radius: 9px;
     padding: 10px;
+    width: 1025px;
 }
 
     .text{
@@ -19,7 +20,24 @@
     text-align: center;
     font-size: 21px;
     font-weight: bold;
+    width: 1025px;
 }
+
+    .textfu{
+    width: 1250px;
+    background: #EDEDEF;
+    margin-bottom: -54px;
+    position: absolute;
+    border-top-right-radius: 9px;
+    border-top-left-radius: 9px;
+    border: solid 2px #8E8E8F;
+    padding: 10px;
+    text-align: center;
+    font-size: 21px;
+    font-weight: bold;
+    width: 1025px;
+}
+
 
 #interview .news{    
     border: 1px solid #8E8E8F;
@@ -72,11 +90,17 @@
     font-size: 13px;
     /* text-shadow: 3px 3px 15px #292929;*/
 }
-    
-    
-    
-    
-    
-    
-    
-    
+    .what{
+    font-family: verdana;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 9px;
+    margin-left: 10px;
+}
+    .rules{
+    font-family: verdana;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 7px;
+    margin-left: 10px;
+}

@@ -508,7 +508,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
-    description: [10% chance to flinch the target.]
+    description: [30% chance to flinch the target.]
     introduction: rb
     power: [60]
     pp: [25]

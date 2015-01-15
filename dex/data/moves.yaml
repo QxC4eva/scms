@@ -144,7 +144,7 @@ moves:
     category:
     - Special
     - {bw: Special, xy: Special}
-    description: [30% chance to flinch.]
+    description: [30% chance of causing the target to flinch.]
     introduction: dp
     power: [75]
     pp: [20]
@@ -290,7 +290,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, xy: Physical}
-    description: [30% chance to flinch the target.]
+    description: [30% chance of causing the target to flinch.]
     introduction: rs
     power: [30]
     pp: [15]
@@ -509,8 +509,8 @@ moves:
     - Physical
     - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
     description: 
-    - 10% chance to flinch the target.
-    - {gs: 30% chance to flinch the target.}
+    - 10% chance of causing the target to flinch.
+    - {gs: 30% chance of causing the target to flinch.}
     introduction: rb
     power: [60]
     pp: [25]
@@ -612,7 +612,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
-    description: [10% chance to flinch the target.]
+    description: [10% chance of causing the target to flinch.]
     introduction: rb
     power: [65]
     pp: [20]
@@ -1267,7 +1267,7 @@ moves:
     category:
     - Special
     - {bw: Special, xy: Special}
-    description: [20% chance to flinch the target.]
+    description: [20% chance of causing the target to flinch.]
     introduction: dp
     power: [80]
     pp: [15]
@@ -1393,7 +1393,7 @@ moves:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
-    - Randomly disables a foe's move for 0-6 turns.
+    - Randomly selects one of the target's moves and disables it for 0-6 turns.
     - {gs: Prevents the last move used by the target from being used again for 2-5 turns.}
     introduction: rb
     power: [0]
@@ -1626,7 +1626,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: [20% chance to flinch the target.]
+    description: [20% chance of causing the target to flinch.]
     introduction: dp
     power: [100]
     pp: [10]
@@ -1960,7 +1960,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, xy: Special}
-    description: [10% chance to flinch the target.]
+    description: [10% chance of causing the target to flinch.]
     introduction: rs
     power: [80]
     pp:
@@ -2023,8 +2023,8 @@ moves:
     - Physical
     - {bw: Physical, dp: Physical, xy: Physical}
     description: 
-    - rs: Always flinches the target. Can only be used on the user's first turn out. Priority +1.
-    - bw: Always flinches the target. Can only be used on the user's first turn out. Priority +3.
+    - rs: Always causes the target to flinch. Can only be used on the user's first turn out. Priority +1.
+    - bw: Always causes the target to flinch. Can only be used on the user's first turn out. Priority +3.
     introduction: rs
     power: [40]
     pp: [10]
@@ -2154,7 +2154,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: [10% chance to flinch the target. 10% chance to burn the target.]
+    description: [10% chance of causing the target to flinch. 10% chance to burn the target.]
     introduction: dp
     power: [65]
     pp: [15]
@@ -2987,7 +2987,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
-    description: [30% chance to flinch.]
+    description: [30% chance of causing the target to flinch.]
     introduction: rb
     power: [70]
     pp: [15]
@@ -3011,7 +3011,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Prevents the foes from using healing moves for 5 turns.]
+    description: [Prevents foes from restoring their health through the use of a move for 5 turns.]
     introduction: dp
     power: [0]
     pp: [15]
@@ -3059,7 +3059,7 @@ moves:
     category:
     - Physical
     - {xy: Physical}
-    description: [30% chance to flinch.]
+    description: [30% chance of causing the target to flinch.]
     introduction: bw
     power: [60]
     pp: [25]
@@ -3561,7 +3561,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
-    description: [10% chance to flinch the target.]
+    description: [10% chance of causing the target to flinch.]
     introduction: rb
     power: [80]
     pp: [15]
@@ -3608,7 +3608,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Puts the foe to sleep.]
+    description: [Puts the target to sleep.]
     introduction: rb
     power: [0]
     pp: [20]
@@ -3632,7 +3632,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
-    description: [10% chance to freeze.]
+    description: [10% chance to freeze the target.]
     introduction: rb
     power:
     - 95
@@ -3658,7 +3658,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: [10% chance to flinch. 10% chance to freeze.]
+    description: [10% chance of causing the target to flinch. 10% chance to freeze the target.]
     introduction: dp
     power: [65]
     pp: [15]
@@ -3694,7 +3694,7 @@ moves:
     category:
     - Physical
     - {xy: Physical}
-    description: [30% chance to flinch.]
+    description: [30% chance of causing the target to flinch.]
     introduction: bw
     power: [85]
     pp: [10]
@@ -3732,7 +3732,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [No foe can use any of the user's moves.]
+    description: [Foes cannot use any of the user's moves.]
     introduction: rs
     power: [0]
     pp: [10]
@@ -3815,7 +3815,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: [30% chance to flinch.]
+    description: [30% chance of causing the target to flinch.]
     introduction: dp
     power: [80]
     pp: [15]
@@ -4103,8 +4103,8 @@ moves:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description:
-    - 30% chance to flinch foe.
-    - {gs: Deals damage based on the foe's weight.}
+    - 30% chance of causing the target to flinch.
+    - {gs: Deals damage based on the target's weight.}
     introduction: rb
     power:
     - 50
@@ -4298,7 +4298,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Uses the foe's attack at 1.5x power. User must be faster for move to work.]
+    description: [Uses the target's attack at 1.5x power. User must be faster for move to work.]
     introduction: dp
     power:
     - 0
@@ -4388,7 +4388,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [User faints. Lowers foe's Attack and Special Attack by 2 stages.]
+    description: [User faints. Lowers the target's Attack and Special Attack by 2 stages.]
     introduction: rs
     power: [0]
     pp: [10]
@@ -4400,7 +4400,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: ["Counters foe's attack with 1.5x damage, but user must go last."]
+    description: ["Counters the target's attack with 1.5x damage, but user must go last."]
     introduction: dp
     power:
     - 0
@@ -4479,7 +4479,7 @@ moves:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
-    - Copies a random move the foe knows.
+    - Copies a random move the target knows.
     - {gs: Copies the last move used by the target.}
     introduction: rb
     power: [0]
@@ -4551,7 +4551,7 @@ moves:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
-    - Use the move the foe just used.
+    - Use the move the target just used.
     - {gs: Uses the last move that hit the user.}
     introduction: rb
     power: [0]
@@ -4758,7 +4758,7 @@ moves:
     category:
     - Special
     - {bw: Physical, dp: Physical, xy: Physical}
-    description: [30% chance to flinch.]
+    description: [30% chance of causing the target to flinch.]
     introduction: rs
     power: [60]
     pp: [15]
@@ -4971,7 +4971,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: [Base Power doubles if the foe has taken its turn.]
+    description: [Base Power doubles if the user moves after the target.]
     introduction: dp
     power: [50]
     pp: [10]
@@ -5080,7 +5080,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: [Steals and eats foe's Berry.]
+    description: [Steals and eats the target's Berry.]
     introduction: dp
     power: [60]
     pp: [20]
@@ -5329,7 +5329,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Copies the foe's stat changes.]
+    description: [Copies the target's stat changes.]
     introduction: gs
     power: [0]
     pp: [10]
@@ -5381,7 +5381,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Shifts the user's status effect to the foe.]
+    description: [Shifts the user's status effect to the target.]
     introduction: dp
     power: [0]
     pp: [10]
@@ -5433,7 +5433,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: [Deals more damage to foes with stat boosts.]
+    description: [Deals more damage to targets which have accumulated stat boosts.]
     introduction: dp
     power:
     - 0
@@ -5815,7 +5815,7 @@ moves:
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description:
     - No additional effect.
-    - {gs: 30% chance to flinch.}
+    - {gs: 30% chance of causing the target to flinch.}
     introduction: rb
     power: [75]
     pp: [10]
@@ -5881,7 +5881,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: ["Copies the foe's ability, overwriting the user's ability."]
+    description: ["Copies the target's ability, overwriting the user's ability."]
     introduction: rs
     power: [0]
     pp: [10]
@@ -5893,7 +5893,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
-    description: [30% chance to flinch.]
+    description: [30% chance of causing the target to flinch.]
     introduction: rb
     power: [60]
     pp: [15]
@@ -6596,7 +6596,7 @@ moves:
     category:
     - Physical
     - {bw: Special, dp: Special, rs: Physical, xy: Special}
-    description: [Fails if the user is awake. 30% chance to flinch the target.]
+    description: [Fails if the user is awake. 30% chance of causing the target to flinch.]
     introduction: gs
     power:
     - 40
@@ -6805,7 +6805,7 @@ moves:
     category:
     - Physical
     - {xy: Physical}
-    description: [30% chance to flinch the target.]
+    description: [30% chance of causing the target to flinch.]
     introduction: bw
     power: [65]
     pp: [20]
@@ -6827,7 +6827,7 @@ moves:
   Sticky Web:
     accuracy: [0]
     category: [Non-Damaging]
-    description: [Lowers the foes' Speed by one stage as they switch in.]
+    description: [Lowers foes' Speed by one stage as they switch in.]
     introduction: xy
     power: [0]
     pp: [20]
@@ -6853,7 +6853,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
-    description: [30% chance to flinch the target.]
+    description: [30% chance of causing the target to flinch.]
     introduction: rb
     power: [65]
     pp: [20]
@@ -6995,7 +6995,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: [Priority +1. Will only work if the foe chose a damaging move and moves after the user.]
+    description: [Priority +1. Will only work if the target chose a damaging move and moves after the user.]
     introduction: dp
     power: [80]
     pp: [5]
@@ -7406,7 +7406,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: [10% chance to flinch the target. 10% chance to paralyze the target.]
+    description: [10% chance of causing the target to flinch. 10% chance to paralyze the target.]
     introduction: dp
     power: [65]
     pp: [15]
@@ -7554,7 +7554,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Switches items with the foe.]
+    description: [Switches the user's item with that of the foe.]
     introduction: rs
     power: [0]
     pp: [10]
@@ -7626,7 +7626,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, rs: Special, xy: Special}
-    description: [20% chance to flinch the target.]
+    description: [20% chance of causing the target to flinch.]
     introduction: gs
     power: [40]
     pp: [20]
@@ -7863,7 +7863,7 @@ moves:
     - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
     description: 
     - No additional effect.
-    - {dp: 20% chance to flinch the target.}
+    - {dp: 20% chance of causing the target to flinch.}
     introduction: rb
     power: [80]
     pp: [15]
@@ -8117,7 +8117,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: [20% chance to flinch the target.]
+    description: [20% chance of causing the target to flinch.]
     introduction: dp
     power: [80]
     pp: [15]

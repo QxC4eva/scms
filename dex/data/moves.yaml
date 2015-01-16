@@ -118,7 +118,7 @@ moves:
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
     - Boosts the user's Speed by two stages. Negates the Speed drop of paralysis.
-    - {gs: Boosts Speed by 2 stages.}
+    - {gs: Boosts the user's Speed by two stages.}
     introduction: rb
     power: [0]
     pp: [30]
@@ -169,7 +169,7 @@ moves:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: 
-    - Boosts Spc 2 stages.
+    - Boosts the user's Special by two stages.
     - {gs: Boosts the user's Special Defense by two stages.}
     introduction: rb
     power: [0]
@@ -230,7 +230,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, xy: Physical}
-    description: [Hits 2-5 times.]
+    description: [Hits two to five times.]
     introduction: rs
     power: [15]
     pp: [20]
@@ -387,7 +387,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
-    description: [Hits 2-5 times.]
+    description: [Hits two to five times.]
     introduction: rb
     power: [15]
     pp: [20]
@@ -474,9 +474,9 @@ moves:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description:
-    - Charges for 2-3 turns; returns double the damage received in those turns.
-    - {gs: Charges for 2 turns; returns double the damage received in those turns.}
-    - {dp: Charges for 2 turns; returns double the damage received in those turns. Priority +1.}
+    - Charges for two to three turns; returns double the damage received in those turns.
+    - {gs: Charges for two turns; returns double the damage received in those turns.}
+    - {dp: Charges for two turns; returns double the damage received in those turns. Priority +1.}
     introduction: rb
     power:
     - 0
@@ -495,8 +495,8 @@ moves:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: 
-    - Prevents the opponent from attacking and deals damage to it at the end of every turn for 2-5 turns.
-    - {gs: Deals damage to the target at the end of every turn for 2-5 turns.}
+    - Prevents the opponent from attacking and deals damage to it at the end of every turn for two to five turns.
+    - {gs: Deals damage to the target at the end of every turn for two to five turns.}
     introduction: rb
     power: [15]
     pp: [20]
@@ -624,7 +624,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, rs: Physical, xy: Physical}
-    description: [Hits 2-5 times.]
+    description: [Hits two to five times.]
     introduction: gs
     power: [25]
     pp: [10]
@@ -792,7 +792,7 @@ moves:
     category:
     - Special
     - {bw: Physical, dp: Physical, xy: Physical}
-    description: [Hits 2-5 times.]
+    description: [Hits two to five times.]
     introduction: rs
     power:
     - 10
@@ -818,7 +818,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Changes user's type to Normal in Link Battles.]
+    description: [Changes the user's type to Normal in Link Battles.]
     introduction: rs
     power: [0]
     pp: [20]
@@ -830,7 +830,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers a target of the opposite gender's Special Attack by two stages.]
+    description: [Lowers the a target of the opposite gender's Special Attack by two stages.]
     introduction: dp
     power: [0]
     pp: [20]
@@ -934,8 +934,8 @@ moves:
     - Special
     - {bw: Physical, dp: Physical, gs: Special, rs: Special, xy: Physical}
     description: 
-    - Prevents the opponent from attacking and deals damage to it at the end of every turn for 2-5 turns.
-    - {gs: Deals damage to the target at the end of every turn for 2-5 turns.}
+    - Prevents the opponent from attacking and deals damage to it at the end of every turn for two to five turns.
+    - {gs: Deals damage to the target at the end of every turn for two to five turns.}
     introduction: rb
     power: [35]
     pp: [10]
@@ -983,7 +983,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
-    description: [Hits 2-5 times.]
+    description: [Hits two to five times.]
     introduction: rb
     power: [18]
     pp: [15]
@@ -1017,7 +1017,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
-    description: [10% chance to confuse.]
+    description: [10% chance to confuse the target.]
     introduction: rb
     power: [50]
     pp: [25]
@@ -1393,8 +1393,8 @@ moves:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
-    - Randomly selects one of the target's moves and disables it for 0-6 turns.
-    - {gs: Prevents the last move used by the target from being used again for 2-5 turns.}
+    - Randomly disables a foe's move for 0-6 turns.
+    - {gs: Prevents the last move used by the target from being used again for two to five turns.}
     introduction: rb
     power: [0]
     pp: [20]
@@ -1496,7 +1496,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
-    description: [Hits 2-5 times.]
+    description: [Hits two to five times.]
     introduction: rb
     power: [15]
     pp: [10]
@@ -1865,9 +1865,9 @@ moves:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: 
-    - Forces the target to repeat the last move it used for 2-5 turns.
-    - dp: Forces the target to repeat the last move it used for 3-7 turns.
-    - bw: Forces the target to repeat the last move it used for 3 turns.
+    - Forces the target to repeat the last move it used for two to five turns.
+    - dp: Forces the target to repeat the last move it used for three to seven turns.
+    - bw: Forces the target to repeat the last move it used for three turns.
     introduction: gs
     power: [0]
     pp: [5]
@@ -2139,7 +2139,7 @@ moves:
     - Special
     - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
     description:
-    - 30% chance to burn.
+    - 30% chance to burn the target.
     - {gs: 10% chance to burn the target.}
     introduction: rb
     power:
@@ -2195,8 +2195,8 @@ moves:
     - Special
     - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
     description: 
-    - Prevents the opponent from attacking and deals damage to it at the end of every turn for 2-5 turns.
-    - {gs: Deals damage to the target at the end of every turn for 2-5 turns.}
+    - Prevents the opponent from attacking and deals damage to it at the end of every turn for two to five turns.
+    - {gs: Deals damage to the target at the end of every turn for two to five turns.}
     introduction: rb
     power:
     - 15
@@ -2400,7 +2400,7 @@ moves:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
-    - Reduces user's critical hit rate.
+    - Reduces the user's critical hit rate.
     - {gs: Boosts the user's critical hit rate by one stage., dp: Boosts the user's critical hit rate by two stages.}
     introduction: rb
     power: [0]
@@ -2555,7 +2555,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
-    description: [Hits 2-5 times.]
+    description: [Hits two to five times.]
     introduction: rb
     power: [15]
     pp: [20]
@@ -2581,7 +2581,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
-    description: [Hits 2-5 times.]
+    description: [Hits two to five times.]
     introduction: rb
     power: [18]
     pp: [15]
@@ -3011,7 +3011,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Prevents foes from restoring their health through the use of a move for 5 turns.]
+    description: [Prevents the foes from using healing moves for 5 turns.]
     introduction: dp
     power: [0]
     pp: [15]
@@ -3071,7 +3071,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Swaps the user's and target's stat boosts and drops.]
+    description: [Swaps the user's and the target's stat boosts and drops.]
     introduction: dp
     power: [0]
     pp: [10]
@@ -3095,7 +3095,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, xy: Special}
-    description: [10% chance to burn.]
+    description: [10% chance to burn the target.]
     introduction: rs
     power:
     - 100
@@ -3445,7 +3445,7 @@ moves:
     category:
     - Non-Damaging
     - {xy: Non-Damaging}
-    description: [Boosts Attack and accuracy by 1 stage.]
+    description: [Boosts the user's Attack and accuracy by one stage.]
     introduction: bw
     power: [0]
     pp: [15]
@@ -3495,7 +3495,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts Attack by 1 stage.]
+    description: [Boosts the user's Attack by one stage.]
     introduction: rs
     power: [0]
     pp: [40]
@@ -3596,7 +3596,7 @@ moves:
     category:
     - Special
     description:
-    - "Ignores the effects of Protect, Detect, King's Shield, Spiky Shield, and Mat Block. Lowers user's Defense by 1 stage."
+    - "Ignores the effects of Protect, Detect, King's Shield, Spiky Shield, and Mat Block. Lowers the user's Defense by one stage."
     introduction: xy
     power: [100]
     pp: [5]
@@ -3608,7 +3608,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Puts the target to sleep.]
+    description: [Puts the foe to sleep.]
     introduction: rb
     power: [0]
     pp: [20]
@@ -3632,7 +3632,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
-    description: [10% chance to freeze the target.]
+    description: [10% chance to freeze.]
     introduction: rb
     power:
     - 95
@@ -3646,7 +3646,7 @@ moves:
     category:
     - Special
     - {xy: Special}
-    description: [Hits the turn after being used. 30% chance to burn.]
+    description: [Hits the turn after being used. 30% chance to burn the target.]
     introduction: bw
     power: [140]
     pp: [5]
@@ -3658,7 +3658,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: [10% chance of causing the target to flinch. 10% chance to freeze the target.]
+    description: [10% chance of causing the target to flinch. 10% chance to freeze.]
     introduction: dp
     power: [65]
     pp: [15]
@@ -3706,7 +3706,7 @@ moves:
     category:
     - Special
     - {bw: Physical, dp: Physical, xy: Physical}
-    description: [Hits 2-5 times.]
+    description: [Hits two to five times.]
     introduction: rs
     power:
     - 10
@@ -3720,7 +3720,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, rs: Special, xy: Special}
-    description: [Lowers foes' Speed by 1 stage.]
+    description: [Lowers foes' Speed by one stage.]
     introduction: gs
     power: [55]
     pp: [15]
@@ -3732,7 +3732,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Foes cannot use any of the user's moves.]
+    description: [No foe can use any of the user's moves.]
     introduction: rs
     power: [0]
     pp: [10]
@@ -3803,7 +3803,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: ["Boosts user's Defense by 2 stages."]
+    description: ["Boosts the user's Defense by two stages."]
     introduction: rs
     power: [0]
     pp: [15]
@@ -3827,7 +3827,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, rs: Physical, xy: Physical}
-    description: [30% chance to lower Defense by 1 stage.]
+    description: [30% chance to lower the target's Defense by one stage.]
     introduction: gs
     power: [100]
     pp: [15]
@@ -3884,7 +3884,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers target's accuracy by 1 stage.]
+    description: [Lowers the target's accuracy by one stage.]
     introduction: rb
     power: [0]
     pp: [15]
@@ -3895,7 +3895,7 @@ moves:
     accuracy: [0]
     category: [Non-Damaging]
     description: 
-    - Protects the user from attacks. Lowers Attack of contact attackers by 2 stages. Priority +3. Chance of failure increases if it, Detect, Protect, Endure, Wide Guard, Quick Guard, or Spiky Shield was used successfully the previous turn.
+    - Protects the user from attacks. Lowers the Attack of contact attackers by two stages. Priority +3. Chance of failure increases if it, Detect, Protect, Endure, Wide Guard, Quick Guard, or Spiky Shield was used successfully the previous turn.
     introduction: xy
     power: [0]
     pp: [10]
@@ -3910,7 +3910,7 @@ moves:
     description:
     - Removes the target's item.
     - xy: Power is boosted 1.5x if target is holding a removable item. Removes the
-        target's item.
+        the target's item.
     introduction: rs
     power:
     - 20
@@ -3948,7 +3948,7 @@ moves:
     category:
     - Special
     - {bw: Special, xy: Special}
-    description: [30% chance to burn.]
+    description: [30% chance to burn the target.]
     introduction: dp
     power: [80]
     pp: [15]
@@ -3974,7 +3974,7 @@ moves:
     category:
     - Special
     - {bw: Special, xy: Special}
-    description: [Lowers user's Special Attack by 2 stages.]
+    description: [Lowers the user's Special Attack by two stages.]
     introduction: dp
     power:
     - 140
@@ -3988,7 +3988,7 @@ moves:
     category:
     - Special
     - {xy: Special}
-    description: [50% chance to lower target's accuracy by 1 stage.]
+    description: [50% chance to lower the target's accuracy by one stage.]
     introduction: bw
     power: [65]
     pp: [10]
@@ -4026,7 +4026,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers target's Defense by 1 stage.]
+    description: [Lowers the target's Defense by one stage.]
     introduction: rb
     power: [0]
     pp: [30]
@@ -4038,7 +4038,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, xy: Physical}
-    description: [30% chance to paralyze.]
+    description: [30% chance to paralyze the target.]
     introduction: rb
     power:
     - 20
@@ -4064,7 +4064,7 @@ moves:
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
     - Halves Special damage done to user.
-    - {gs: Lowers damage dealt by special attacks for 5 turns.}
+    - {gs: Lowers the damage dealt by special attacks for 5 turns.}
     introduction: rb
     power: [0]
     pp: [30]
@@ -4103,8 +4103,8 @@ moves:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description:
-    - 30% chance of causing the target to flinch.
-    - {gs: Deals damage based on the target's weight.}
+    - 30% chance of causing the target to flinch foe.
+    - {gs: Deals damage based on the foe's weight.}
     introduction: rb
     power:
     - 50
@@ -4118,7 +4118,7 @@ moves:
     category:
     - Physical
     - {xy: Physical}
-    description: [Lowers target's Speed by 1 stage.]
+    description: [Lowers the target's Speed by one stage.]
     introduction: bw
     power:
     - 60
@@ -4156,7 +4156,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, xy: Special}
-    description: [50% chance to lower Special Defense by 1 stage.]
+    description: [50% chance to lower the target's Special Defense by one stage.]
     introduction: rs
     power: [70]
     pp: [5]
@@ -4223,7 +4223,7 @@ moves:
     - Special
     - {bw: Special, xy: Special}
     description: 
-    - Traps and damages target for 2-5 turns.
+    - Traps and damages target for two to five turns.
     - {bw: Traps and damages target for 4-5 turns.}
     introduction: dp
     power:
@@ -4298,7 +4298,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Uses the target's attack at 1.5x power. User must be faster for move to work.]
+    description: [Uses the foe's attack at 1.5x power. User must be faster for move to work.]
     introduction: dp
     power:
     - 0
@@ -4324,7 +4324,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts user's Attack by 1 stage.]
+    description: [Boosts the user's Attack by one stage.]
     introduction: rb
     power: [0]
     pp: [40]
@@ -4388,7 +4388,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [User faints. Lowers the target's Attack and Special Attack by 2 stages.]
+    description: [User faints. Lowers the foe's Attack and Special Attack by two stages.]
     introduction: rs
     power: [0]
     pp: [10]
@@ -4400,7 +4400,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: ["Counters the target's attack with 1.5x damage, but user must go last."]
+    description: ["Counters foe's attack with 1.5x damage, but user must go last."]
     introduction: dp
     power:
     - 0
@@ -4414,7 +4414,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, rs: Physical, xy: Physical}
-    description: [10% chance to boost the user's Attack by 1 stage.]
+    description: [10% chance to boost the user's Attack by one stage.]
     introduction: gs
     power: [50]
     pp: [35]
@@ -4426,7 +4426,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers the user's Special Defense by 2 stages.]
+    description: [Lowers the user's Special Defense by two stages.]
     introduction: rs
     power: [0]
     pp: [40]
@@ -4440,7 +4440,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, xy: Physical}
-    description: [20% chance to raise the user's Attack by 1 stage.]
+    description: [20% chance to raise the user's Attack by one stage.]
     introduction: rs
     power:
     - 100
@@ -4466,7 +4466,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Heals 50% of user's max HP.]
+    description: [Heals 50% of the user's max HP.]
     introduction: gs
     power: [0]
     pp: [10]
@@ -4479,7 +4479,7 @@ moves:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
-    - Copies a random move the target knows.
+    - Copies a random move the foe knows.
     - {gs: Copies the last move used by the target.}
     introduction: rb
     power: [0]
@@ -4492,7 +4492,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [The user's next move will always hit.]
+    description: [The the user's next move will always hit.]
     introduction: gs
     power: [0]
     pp:
@@ -4507,8 +4507,8 @@ moves:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description: 
-    - Boosts evasion by 1 stage.
-    - {bw: Boosts evasion by 2 stages., xy: Boosts evasion by 2 stages.}
+    - Boosts the user's evasion by one stage.
+    - {bw: Boosts the user's evasion by two stages.}
     introduction: rb
     power: [0]
     pp:
@@ -4551,7 +4551,7 @@ moves:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
-    - Use the move the target just used.
+    - Use the move the foe just used.
     - {gs: Uses the last move that hit the user.}
     introduction: rb
     power: [0]
@@ -4564,7 +4564,7 @@ moves:
     category:
     - Special
     - {bw: Special, xy: Special}
-    description: [30% chance to lower target's accuracy by 1 stage.]
+    description: [30% chance to lower the target's accuracy by one stage.]
     introduction: dp
     power: [65]
     pp: [10]
@@ -4588,7 +4588,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, xy: Special}
-    description: [50% chance to lower the target's Special Attack by 1 stage.]
+    description: [50% chance to lower the target's Special Attack by one stage.]
     introduction: rs
     power: [70]
     pp: [5]
@@ -4610,7 +4610,7 @@ moves:
   Moonblast:
     accuracy: [100]
     category: [Special]
-    description: [30% chance to lower the target's Special Attack by 1 stage.]
+    description: [30% chance to lower the target's Special Attack by one stage.]
     introduction: xy
     power: [95]
     pp: [15]
@@ -4648,7 +4648,7 @@ moves:
     category:
     - Special
     - {bw: Special, xy: Special}
-    description: [30% chance to lower target's accuracy by 1 stage.]
+    description: [30% chance to lower the target's accuracy by one stage.]
     introduction: dp
     power: [65]
     pp: [10]
@@ -4660,7 +4660,7 @@ moves:
     category:
     - Physical
     - {bw: Special, dp: Special, xy: Special}
-    description: [Lowers target's Speed by 1 stage.]
+    description: [Lowers the target's Speed by one stage.]
     introduction: rs
     power: [55]
     pp: [15]
@@ -4684,7 +4684,7 @@ moves:
     category:
     - Physical
     - {bw: Special, dp: Special, rs: Physical, xy: Special}
-    description: [Lowers target's accuracy by 1 stage.]
+    description: [Lowers the target's accuracy by one stage.]
     introduction: gs
     power: [20]
     pp: [10]
@@ -4696,7 +4696,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, xy: Special}
-    description: [30% chance to lower target's accuracy by 1 stage.]
+    description: [30% chance to lower the target's accuracy by one stage.]
     introduction: rs
     power:
     - 95
@@ -4708,7 +4708,7 @@ moves:
   Mystical Fire:
     accuracy: [100]
     category: [Special]
-    description: [Lowers target's Special Attack by 1 stage.]
+    description: [Lowers the target's Special Attack by one stage.]
     introduction: xy
     power: [65]
     pp: [10]
@@ -4720,7 +4720,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts user's Special Attack by 2 stages.]
+    description: [Boosts the user's Special Attack by two stages.]
     introduction: dp
     power: [0]
     pp: [20]
@@ -4770,7 +4770,7 @@ moves:
     category:
     - Special
     - {xy: Special}
-    description: [40% chance to lower target's accuracy by 1 stage.]
+    description: [40% chance to lower the target's accuracy by one stage.]
     introduction: bw
     power: [85]
     pp: [10]
@@ -4808,7 +4808,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Deals 1/4 of a sleeping target's max HP per turn.]
+    description: [Deals 1/4 of a sleeping the target's max HP per turn.]
     introduction: gs
     power: [0]
     pp: [15]
@@ -4818,7 +4818,7 @@ moves:
   Noble Roar:
     accuracy: [100]
     category: [Non-Damaging]
-    description: [Lowers the target's Attack and Special Attack by 1 stage. Priority -1.]
+    description: [Lowers the target's Attack and Special Attack by one stage. Priority -1.]
     introduction: xy
     power: [0]
     pp: [30]
@@ -4850,7 +4850,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, rs: Special, xy: Special}
-    description: [50% chance to lower target's accuracy by 1 stage.]
+    description: [50% chance to lower the target's accuracy by one stage.]
     introduction: gs
     power: [65]
     pp: [10]
@@ -4875,7 +4875,7 @@ moves:
     category:
     - Special
     - {bw: Special, xy: Special}
-    description: [10% chance to boost all of the user's stats by 1 stage.]
+    description: [10% chance to boost all of the user's stats by one stage.]
     introduction: dp
     power: [60]
     pp: [5]
@@ -4887,7 +4887,7 @@ moves:
     category:
     - Special
     - {bw: Physical, dp: Physical, rs: Special, xy: Physical}
-    description: [Repeats for 2-3 turns. Confuses user at the end.]
+    description: [Repeats for two to three turns. Confuses user at the end.]
     introduction: gs
     power:
     - 90
@@ -4913,7 +4913,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, xy: Special}
-    description: [Lowers user's Special Attack by 2 stages after use.]
+    description: [Lowers the user's Special Attack by two stages after use.]
     introduction: rs
     power:
     - 140
@@ -4927,7 +4927,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Averages user's and target's HP.]
+    description: [Averages the user's and the target's HP.]
     introduction: gs
     power: [0]
     pp: [20]
@@ -4947,7 +4947,7 @@ moves:
   Parting Shot:
     accuracy: [100]
     category: [Non-Damaging]
-    description: ["Lowers all adjacent foes' Attack and Special Attack by 1 stage, then the user switches out."]
+    description: ["Lowers the all adjacent foes' Attack and Special Attack by one stage, then the user switches out."]
     introduction: xy
     power: [0]
     pp: [20]
@@ -4971,7 +4971,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: [Base Power doubles if the user moves after the target.]
+    description: [Base Power doubles if the foe has taken its turn.]
     introduction: dp
     power: [50]
     pp: [10]
@@ -4995,7 +4995,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [All active Pokemon faint after 3 turns.]
+    description: [All active Pokemon faint after three turns.]
     introduction: gs
     power: [0]
     pp: [5]
@@ -5017,7 +5017,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
-    description: [Repeats for 2-3 turns. Confuses the user at the end.]
+    description: [Repeats for two to three turns. Confuses the user at the end.]
     introduction: rb
     power:
     - 70
@@ -5046,7 +5046,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
-    description: [Hits 2-5 times.]
+    description: [Hits two to five times.]
     introduction: rb
     power:
     - 14
@@ -5058,7 +5058,7 @@ moves:
   Play Nice:
     accuracy: [0]
     category: [Non-Damaging]
-    description: [Lowers the target's Attack by 1 stage. Ignores Protect.]
+    description: [Lowers the target's Attack by one stage. Ignores Protect.]
     introduction: xy
     power: [0]
     pp: [20]
@@ -5068,7 +5068,7 @@ moves:
   Play Rough:
     accuracy: [90]
     category: [Physical]
-    description: [10% chance to lower the target's Attack stat by 1 stage.]
+    description: [10% chance to lower the target's Attack stat by one stage.]
     introduction: xy
     power: [90]
     pp: [10]
@@ -5080,7 +5080,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: [Steals and eats the target's Berry.]
+    description: [Steals and eats foe's Berry.]
     introduction: dp
     power: [60]
     pp: [20]
@@ -5118,7 +5118,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: [30% chance to poison.]
+    description: [30% chance to poison the target.]
     introduction: dp
     power: [80]
     pp: [20]
@@ -5143,8 +5143,8 @@ moves:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description:
-    - 20% chance to poison.
-    - {gs: 30% chance to poison.}
+    - 20% chance to poison the target.
+    - {gs: 30% chance to poison the target.}
     introduction: rb
     power: [15]
     pp: [35]
@@ -5156,7 +5156,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, xy: Physical}
-    description: [High critical hit rate. 10% chance to poison.]
+    description: [High critical hit rate. 10% chance to poison the target.]
     introduction: rs
     power: [50]
     pp: [25]
@@ -5241,7 +5241,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: ["Swaps user's Attack and Defense stats, not moving stat changes."]
+    description: ["Swaps the user's Attack and Defense stats, not moving stat changes."]
     introduction: dp
     power: [0]
     pp: [10]
@@ -5263,7 +5263,7 @@ moves:
   Power-Up Punch:
     accuracy: [100]
     category: [Physical]
-    description: [Raises user's Attack by 1 stage after attacking.]
+    description: [Raises the user's Attack by one stage after attacking.]
     introduction: xy
     power: [40]
     pp: [20]
@@ -5317,7 +5317,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
-    description: [10% chance to confuse.]
+    description: [10% chance to confuse the target.]
     introduction: rb
     power: [65]
     pp: [20]
@@ -5329,7 +5329,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Copies the target's stat changes.]
+    description: [Copies the foe's stat changes.]
     introduction: gs
     power: [0]
     pp: [10]
@@ -5342,8 +5342,8 @@ moves:
     - Special
     - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
     description:
-    - 30% chance to lower target's Special 1 stage.
-    - {gs: 10% chance to lower target's Special Defense 1 stage.}
+    - 30% chance to lower the target's Special by one stage.
+    - {gs: 10% chance to lower the target's Special Defense by onestage.}
     introduction: rb
     power: [90]
     pp: [10]
@@ -5355,7 +5355,7 @@ moves:
     category:
     - Special
     - {bw: Special, dp: Special, xy: Special}
-    description: [Lowers user's Special Attack by 2 stages.]
+    description: [Lowers the user's Special Attack by two stages.]
     introduction: rs
     power: [140]
     pp: [5]
@@ -5381,7 +5381,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Shifts the user's status effect to the target.]
+    description: [Shifts the user's status effect to the foe.]
     introduction: dp
     power: [0]
     pp: [10]
@@ -5433,7 +5433,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: [Deals more damage to targets which have accumulated stat boosts.]
+    description: [Deals more damage to foes with stat boosts.]
     introduction: dp
     power:
     - 0
@@ -5496,7 +5496,7 @@ moves:
     - Non-Damaging
     - {xy: Non-Damaging}
     description: ["Boosts the user's Special Attack, Special Defense, and Speed by
-        1 stage."]
+        one stage."]
     introduction: bw
     power: [0]
     pp: [20]
@@ -5509,8 +5509,8 @@ moves:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description:
-    - Boosts Attack 1 stage if hit, but can only use Rage after that.
-    - {gs: Boosts Attack 1 stage if hit.}
+    - Boosts Attack by one stage if hit, but can only use Rage after that.
+    - {gs: Boosts Attack by one stage if hit.}
     introduction: rb
     power: [20]
     pp: [20]
@@ -5573,7 +5573,7 @@ moves:
     category:
     - Physical
     - {xy: Physical}
-    description: [50% chance to lower target's Defense by 1 stage.]
+    description: [50% chance to lower the target's Defense by one stage.]
     introduction: bw
     power: [75]
     pp: [10]
@@ -5602,7 +5602,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Heals 50% of user's max HP.]
+    description: [Heals 50% of the user's max HP.]
     introduction: rb
     power: [0]
     pp:
@@ -5629,8 +5629,8 @@ moves:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, gs: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
     description:
-    - Lowers physical damage done to user.
-    - {gs: Lowers damage from physical attacks for 5 turns.}
+    - Lowers the physical damage done to user.
+    - {gs: Lowers the damage from physical attacks for 5 turns.}
     introduction: rb
     power: [0]
     pp: [20]
@@ -5777,7 +5777,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, xy: Physical}
-    description: [Hits 2-5 times.]
+    description: [Hits two to five times.]
     introduction: rs
     power: [25]
     pp: [10]
@@ -5789,7 +5789,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: [20% chance to confuse.]
+    description: [20% chance to confuse the target.]
     introduction: dp
     power: [90]
     pp: [20]
@@ -5801,7 +5801,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, xy: Non-Damaging}
-    description: [Boosts user's Speed by 2 stages.]
+    description: [Boosts the user's Speed by two stages.]
     introduction: dp
     power: [0]
     pp: [20]
@@ -5827,7 +5827,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, rs: Physical, xy: Physical}
-    description: [50% chance to lower target's Defense by 1 stage.]
+    description: [50% chance to lower the target's Defense by one stage.]
     introduction: gs
     power:
     - 20
@@ -5855,7 +5855,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, xy: Physical}
-    description: [Lowers target's Speed by 1 stage.]
+    description: [Lowers the target's Speed by one stage.]
     introduction: rs
     power:
     - 50
@@ -5881,7 +5881,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: ["Copies the target's ability, overwriting the user's ability."]
+    description: ["Copies the foe's ability, overwriting the user's ability."]
     introduction: rs
     power: [0]
     pp: [10]
@@ -5929,7 +5929,7 @@ moves:
   Rototiller:
     accuracy: [0]
     category: [Non-Damaging]
-    description: [Raises the Attack and Special Attack stats of all Grass-type Pokemon on the field by 1 stage.]
+    description: [Raises the Attack and Special Attack stats of all Grass-type Pokemon on the field by one stage.]
     introduction: xy
     power: [0]
     pp: [10]
@@ -6369,7 +6369,7 @@ moves:
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description:
     - Charges turn one; attacks turn two.
-    - {gs: Charges and boosts user's Defense by one stage turn one; attacks turn two.}
+    - {gs: Charges and boosts the user's Defense by one stage turn one; attacks turn two.}
     introduction: rb
     power:
     - 100
@@ -6481,7 +6481,7 @@ moves:
     - Physical
     - {bw: Special, dp: Special, gs: Physical, rs: Physical, xy: Special}
     description:
-    - 29.7% chance to poison.
+    - 29.7% chance to poison the target.
     - {gs: 30% chance to poison the target.}
     introduction: rb
     power: [65]
@@ -6698,7 +6698,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
-    description: [Hits 2-5 times.]
+    description: [Hits two to five times.]
     introduction: rb
     power: [20]
     pp: [15]
@@ -6746,7 +6746,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, rs: Non-Damaging, xy: Non-Damaging}
-    description: [Lowers the PP of the target's last move by 1-5.]
+    description: [Takes away 1-5 PP from the last move the target used.]
     introduction: gs
     power: [0]
     pp: [10]
@@ -6827,7 +6827,7 @@ moves:
   Sticky Web:
     accuracy: [0]
     category: [Non-Damaging]
-    description: [Lowers foes' Speed by one stage as they switch in.]
+    description: [Lowers the foes' Speed by one stage as they switch in.]
     introduction: xy
     power: [0]
     pp: [20]
@@ -6995,7 +6995,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, xy: Physical}
-    description: [Priority +1. Will only work if the target chose a damaging move and moves after the user.]
+    description: [Priority +1. Will only work if the foe chose a damaging move and moves after the user.]
     introduction: dp
     power: [80]
     pp: [5]
@@ -7220,7 +7220,7 @@ moves:
     category:
     - Physical
     - {xy: Physical}
-    description: [Hits 2-5 times.]
+    description: [Hits two to five times.]
     introduction: bw
     power: [25]
     pp: [10]
@@ -7272,7 +7272,7 @@ moves:
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
     description: 
     - rs: The target cannot use status moves for two turns or until it switches out.
-    - dp: The target cannot use status moves for 2-4 turns.
+    - dp: The target cannot use status moves for two to four turns.
     - bw: The target cannot use status moves for three turns.
     introduction: rs
     power: [0]
@@ -7311,7 +7311,7 @@ moves:
     category:
     - Non-Damaging
     - {xy: Non-Damaging}
-    description: [Lasts for 3 turns and makes all moves hit the target. Makes the target
+    description: [Lasts for three turns and makes all moves hit the target. Makes the target
         immune to Ground.]
     introduction: bw
     power: [0]
@@ -7373,8 +7373,8 @@ moves:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description:
-    - Repeats for 3-4 turns. Confuses the user at the end.
-    - {gs: Repeats for 2-3 turns. Confuses the user at the end.}
+    - Repeats for three to four turns. Confuses the user at the end.
+    - {gs: Repeats for two to three turns. Confuses the user at the end.}
     introduction: rb
     power:
     - 90
@@ -7391,7 +7391,7 @@ moves:
     - Special
     - {bw: Special, dp: Special, gs: Special, rs: Special, xy: Special}
     description:
-    - 10% chance to paralyze.
+    - 10% chance to paralyze the target.
     - {gs: 30% chance to paralyze the target.}
     introduction: rb
     power:
@@ -7542,7 +7542,7 @@ moves:
     - {bw: Special, dp: Special, gs: Physical, rs: Physical, xy: Special}
     description:
     - No additional effect.
-    - {gs: '20% chance to burn, freeze, or paralyze the target, with an equal chance for each.'}
+    - {gs: '20% chance to burn the target, freeze, or paralyze the target, with an equal chance for each.'}
     introduction: rb
     power: [80]
     pp: [10]
@@ -7554,7 +7554,7 @@ moves:
     category:
     - Non-Damaging
     - {bw: Non-Damaging, dp: Non-Damaging, xy: Non-Damaging}
-    description: [Switches the user's item with that of the foe.]
+    description: [Switches items with the foe.]
     introduction: rs
     power: [0]
     pp: [10]
@@ -7588,7 +7588,7 @@ moves:
     category:
     - Physical
     - {bw: Physical, dp: Physical, rs: Physical, xy: Physical}
-    description: [Hits 1-3 times.]
+    description: [Hits one to three times.]
     introduction: gs
     power: [10]
     pp: [10]
@@ -7650,7 +7650,7 @@ moves:
     category:
     - Physical
     - {bw: Special, dp: Special, xy: Special}
-    description: [Repeats for 2-5 turns. No Pokemon can sleep during these
+    description: [Repeats for two to five turns. No Pokemon can sleep during these
         turns.]
     introduction: rs
     power:
@@ -7825,7 +7825,7 @@ moves:
   Water Shuriken:
     accuracy: [100]
     category: [Physical]
-    description: [Hits 2-5 times. Priority +1.]
+    description: [Hits two to five times. Priority +1.]
     introduction: xy
     power: [15]
     pp: [20]
@@ -8052,8 +8052,8 @@ moves:
     - Physical
     - {bw: Physical, dp: Physical, gs: Physical, rs: Physical, xy: Physical}
     description: 
-    - Prevents the opponent from attacking and deals damage to it at the end of every turn for 2-5 turns.
-    - {gs: Deals damage to the target at the end of every turn for 2-5 turns.}
+    - Prevents the opponent from attacking and deals damage to it at the end of every turn for two to five turns.
+    - {gs: Deals damage to the target at the end of every turn for two to five turns.}
     introduction: rb
     power: [15]
     pp: [20]

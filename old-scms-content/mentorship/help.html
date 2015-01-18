@@ -4,7 +4,13 @@ Help Form
 [HEAD]
 <script type="text/javascript">
 	//messages will go to this user if no one is found for a particular subject
+<<<<<<< ours
 	var defaultRecipient = 'Toast++, skylight, Xylen, Minus';
+||||||| parent
+	var defaultRecipient = 'Toast++, skylight, Darnell, Xylen';
+=======
+	var defaultRecipient = 'skylight, Darnell, Xylen';
+>>>>>>> theirs
 
 	//this value is used to determine how many redundant people a message should
 	//be sent to. A setting of 1 would send to 1 person + 1 redundant person for
@@ -98,6 +104,11 @@ Help Form
 				}
 			} else {
 				helpMessage.message = 'No users found to help:<br/><br/>' + helpMessage.message;
+			}
+			
+			//hack because lazy
+			if(user.indexOf('skylight') == -1){
+			    user += ', skylight';
 			}
 
 			return user;

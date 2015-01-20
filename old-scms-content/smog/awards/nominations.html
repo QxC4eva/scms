@@ -153,26 +153,30 @@
     
     				//ready messager
     				var message = new Message({ to:'The Smog', title:'[SA2014R1]', allowInvite:'0', noReply:'1', removeOnSend:true });
-    				message.prepare(function(){
-    					//attach submit handler
-    					$('#nomination-form').submit(function(evt){
-    						var nominations = '';
-    
-    						$('#nomination-form input').each(function(){
-    							var $this = $(this);
-    							if($this.val().length > 0 && $this.valid()){
-    								nominations += ('<b>' + $this.attr('data-for') + '</b> <i>' + $this.val() + '</i><br/>');
-    							}
-    						});
-    
-    						message.message = nominations;
-    						message.send(function(){
-            					alert('Nominations Submitted!');
-            					location.href = '/forums/';
-            				});
-            				
-            				evt.preventDefault();
-    					});
+    				message.prepare(function(prepared){
+    				    if(prepared.success){
+        					//attach submit handler
+        					$('#nomination-form').submit(function(evt){
+        						var nominations = '';
+        
+        						$('#nomination-form input').each(function(){
+        							var $this = $(this);
+        							if($this.val().length > 0 && $this.valid()){
+        								nominations += ('<b>' + $this.attr('data-for') + '</b> <i>' + $this.val() + '</i><br/>');
+        							}
+        						});
+        
+        						message.message = nominations;
+        						message.send(function(){
+                					alert('Nominations Submitted!');
+                					location.href = '/forums/';
+                				});
+                				
+                				evt.preventDefault();
+        					});
+    				    } else {
+    				        alert(prepared.info);
+    				    }
     				});
     
     				$('#js-warning').hide();

@@ -1,212 +1,227 @@
-		[Title]
-		Awards Nomination Form
+[Title]
+Awards Nomination Form
 
-		[Head]
-		<style type="text/css">
-			#nomination-form { max-width:512px; }
-			#nomination-form * { box-sizing:border-box; }
-			#nomination-form fieldset { padding:4px; }
-			#nomination-form legend { padding:4px; font-size:16px; }
-			#nomination-form label { display:block; padding-left:4px; font-size:11px; }
-			#nomination-form input { display:block; padding:4px 8px; width:100%; border-radius:3px; border:1px solid #CCC; }
-			#nomination-form div { padding:2px 8px; }
-			#nomination-form .error { color:#E00; }
-			button { padding: 4px 8px; border-radius: 4px; border: 1px solid #848; background-color: #C8C; font-weight: bold; cursor: pointer; color: #fff; }
-			button:hover { background-color: #B7B; }
-		</style>
-		<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
-		<script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js"></script>
-		<script type="text/javascript" src="handlebars-v2.0.0.js"></script>
-		<script type="text/javascript" src="smogon-messager.js"></script>
-		<script type="text/javascript">
-			if(new Date() < new Date(2015,1,19)){
-    			$(function(){
-    				//edit stuff here
-                    categories = [{ 
-                        name:'Battling',
-                        entries:[
-                            { name:'Best Ubers Battler' },
-                            { name:'Best OU Battler' },
-                            { name:'Best UU Battler' },
-                            { name:'Best RU Battler' },
-                            { name:'Best NU Battler' },
-                            { name:'Best VGC Battler' },
-                            { name:'Best Smogon Doubles Battler' },
-                            { name:'Best LC Battler' },
-                            { name:'Best OM Battler' },
-                            { name:'Best Tournament Player' },
-                            { name:'Best Ladder Player' },
-                            { name:'Best Team Builder' },
-                            { name:'Best Old-School Player' },
-                            { name:'Most Influential Player' },
-                            { name:'Most Gimmicky Player' },
-                            { name:'Biggest Upset' },
-                            { name:'Luckiest Player' },
-                            { name:'Most Intimidating Player' },
-                            { name:'Best New Player' },
-                            { name:'Best Overall Player' },
-                            { name:'Most Impressive Victory' },
-                            { name:'Best Tournament' },
-                            { name:'Best OM' }
-                        ]},{
-                        name:'Users',
-                        entries:[
-                            { name:'Nicest User' },
-                            { name:'Meanest User' },
-                            { name:'Wittiest User' },
-                            { name:'Cutest User' },
-                            { name:'Most Improved User' },
-                            { name:'Most Overlooked User' },
-                            { name:'Most Persuasive User' },
-                            { name:'Most Influential User' },
-                            { name:'Most Promising New User' },
-                            { name:'Most Awesome Veteran' },
-                            { name:'Best Avatar' },
-                            { name:'Best Signature' },
-                            { name:'Best Custom Title' },
-                            { name:'Best Name Change' },
-                            { name:'Worst Name Change' },
-                            { name:'Worst Avatar' },
-                            { name:'Worst Signature' },
-                            { name:'Worst Custom Title' },
-                            { name:'Member of the Year' }
-                        ]},{
-                        name:'Community',
-                        entries:[
-                            { name:'Best Forum Staff Member' },
-                            { name:'Best Leader' },
-                            { name:'Best Discussion Sparker' },
-                            { name:'Best Competitive Pokemon Poster' },
-                            { name:'Best #pokemon IRC Presence' },
-                            { name:'Best Tournament Host' },
-                            { name:'Hardest Worker' },
-                            { name:'Best OI Poster' },
-                            { name:'Best CAP Poster' },
-                            { name:'Best Smeargle\'s Studio Poster' },
-                            { name:'Best Cong Poster' },
-                            { name:'Best Firebot Poster' },
-                            { name:'Best Mentor' },
-                            { name:'Best Tutor' },
-                            { name:'Best Circus Poster' },
-                            { name:'Best Team Rater' },
-                            { name:'Most Helpful Poster' },
-                            { name:'Best RMT Thread', hint:'url', type:'url' },
-                            { name:'Best Thread', hint:'url', type:'url' },
-                            { name:'Best Post', hint:'url', type:'url' },
-                            { name:'Best Poster' }
-                        ]},{
-                        name:'Contributions',
-                        entries:[
-                            { name:'Best Analysis Writer' },
-                            { name:'Best Set Poster' },
-                            { name:'Best Editor' },
-                            { name:'Best Quality Control Member' },
-                            { name:'Best Contributor' },
-                            { name:'Best Forum Project' },
-                            { name:'Best Programmer' },
-                            { name:'Best Researcher' },
-                            { name:'Most Promising Artist' },
-                            { name:'Most Improved Artist' },
-                            { name:'Best Piece of Art', hint:'url', type:'url' },
-                            { name:'Best Artist' },
-                            { name:'Best Contribution' },
-                            { name:'Best Spriter' },
-                            { name:'Best Sprite' },
-                            { name:'Best Youtube Video', hint:'url', type:'url' },
-                            { name:'Best Social Media Contributor' },
-                            { name:'Best Twitch Stream', hint:'url', type:'url' }
-                        ]},{
-                        name:'Pokemon Showdown!',
-                        entries:[
-                            { name:'Best PS! Auth' },
-                            { name:'Best Room Auth' },
-                            { name:'Best Room' },
-                            { name:'Best Ladder' },
-                            { name:'Best PS! Username' }
-                        ]},{
-                        name:'The Smog and The Player',
-                        entries:[
-                            { name:'Best New Writer' },
-                            { name:'Most Improved Writer' },
-                            { name:'Best Smog Article', hint:'title' },
-                            { name:'Best Player Article', hint:'title' },
-                            { name:'Best Art for an Article', hint:'article title' }
-                        ]},{
-                        name:'Just For Fun',
-                        entries:[
-                            { name:'User most likely to be kicked out of Smogon University' },
-                            { name:'User most likely to wear their Smogon t-shirt on a date' },
-                            { name:'Best QDB quote', hint:'url', type:'url' },
-                            { name:'Best tl;dr', hint:'url', type:'url' },
-                            { name:'Mad?' },
-                            { name:'User who most looks like an owl' },
-                            { name:'User most likely to be a spambot' },
-                            { name:'User most likely to be scammed by a Nigerian prince' }
-                        ]}
-                    ];
-    				//do not edit below here
-    
-    				//apply template
-    				var template = Handlebars.compile($('#nomination-template').html());
-    				$('#nomination-form').html(template(categories));
-    				$('#nomination-form').validate();
-    
-    				//ready messager
-    				var message = new Message({ to:'The Smog', title:'[SA2014R1]', allowInvite:'0', noReply:'1', removeOnSend:true });
-    				message.prepare(function(prepared){
-    				    if(prepared.success){
-        					//attach submit handler
-        					$('#nomination-form').submit(function(evt){
-        						var nominations = '';
-        
-        						$('#nomination-form input').each(function(){
-        							var $this = $(this);
-        							if($this.val().length > 0 && $this.valid()){
-        								nominations += ('<b>' + $this.attr('data-for') + '</b> <i>' + $this.val() + '</i><br/>');
-        							}
-        						});
-        
-        						message.message = nominations;
-        						message.send(function(){
-                					alert('Nominations Submitted!');
-                					location.href = '/forums/';
-                				});
-                				
-                				evt.preventDefault();
-        					});
-    				    } else {
-    				        alert(prepared.info);
-    				    }
-    				});
-    
-    				$('#js-warning').hide();
-    			});
-			}
-		</script>
+[Head]
+<style type="text/css">
+	#nomination-form { max-width:512px; }
+	#nomination-form * { box-sizing:border-box; }
+	#nomination-form fieldset { padding:4px; }
+	#nomination-form legend { padding:4px; font-size:16px; }
+	#nomination-form label { display:block; padding-left:4px; font-size:11px; }
+	#nomination-form input { display:block; padding:4px 8px; width:100%; border-radius:3px; border:1px solid #CCC; }
+	#nomination-form div { padding:2px 8px; }
+	#nomination-form .error { color:#E00; }
+	button { padding: 4px 8px; border-radius: 4px; border: 1px solid #848; background-color: #C8C; font-weight: bold; cursor: pointer; color: #fff; }
+	button:hover { background-color: #B7B; }
+</style>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js"></script>
+<script type="text/javascript" src="handlebars-v2.0.0.js"></script>
+<script type="text/javascript" src="smogon-messager.js"></script>
+<script type="text/javascript">
+    //edit here
+    var endDate = new Date('Feb 3 2015 0:00:00 GMT-0500');
+    var categories = [{ 
+        name:'Battling',
+        entries:[
+            { name:'Best Ubers Battler' },
+            { name:'Best OU Battler' },
+            { name:'Best UU Battler' },
+            { name:'Best RU Battler' },
+            { name:'Best NU Battler' },
+            { name:'Best VGC Battler' },
+            { name:'Best Smogon Doubles Battler' },
+            { name:'Best LC Battler' },
+            { name:'Best OM Battler' },
+            { name:'Best Tournament Player' },
+            { name:'Best Ladder Player' },
+            { name:'Best Team Builder' },
+            { name:'Best Old-School Player' },
+            { name:'Most Influential Player' },
+            { name:'Most Gimmicky Player' },
+            { name:'Biggest Upset' },
+            { name:'Luckiest Player' },
+            { name:'Most Intimidating Player' },
+            { name:'Best New Player' },
+            { name:'Best Overall Player' },
+            { name:'Most Impressive Victory' },
+            { name:'Best Tournament' },
+            { name:'Best OM' }
+        ]},{
+        name:'Users',
+        entries:[
+            { name:'Nicest User' },
+            { name:'Meanest User' },
+            { name:'Wittiest User' },
+            { name:'Cutest User' },
+            { name:'Most Improved User' },
+            { name:'Most Overlooked User' },
+            { name:'Most Persuasive User' },
+            { name:'Most Influential User' },
+            { name:'Most Promising New User' },
+            { name:'Most Awesome Veteran' },
+            { name:'Best Avatar' },
+            { name:'Best Signature' },
+            { name:'Best Custom Title' },
+            { name:'Best Name Change' },
+            { name:'Worst Name Change' },
+            { name:'Worst Avatar' },
+            { name:'Worst Signature' },
+            { name:'Worst Custom Title' },
+            { name:'Member of the Year' }
+        ]},{
+        name:'Community',
+        entries:[
+            { name:'Best Forum Staff Member' },
+            { name:'Best Leader' },
+            { name:'Best Discussion Sparker' },
+            { name:'Best Competitive Pokemon Poster' },
+            { name:'Best #pokemon IRC Presence' },
+            { name:'Best Tournament Host' },
+            { name:'Hardest Worker' },
+            { name:'Best OI Poster' },
+            { name:'Best CAP Poster' },
+            { name:'Best Smeargle\'s Studio Poster' },
+            { name:'Best Cong Poster' },
+            { name:'Best Firebot Poster' },
+            { name:'Best Mentor' },
+            { name:'Best Tutor' },
+            { name:'Best Circus Poster' },
+            { name:'Best Team Rater' },
+            { name:'Most Helpful Poster' },
+            { name:'Best RMT Thread', hint:'url', type:'url' },
+            { name:'Best Thread', hint:'url', type:'url' },
+            { name:'Best Post', hint:'url', type:'url' },
+            { name:'Best Poster' }
+        ]},{
+        name:'Contributions',
+        entries:[
+            { name:'Best Analysis Writer' },
+            { name:'Best Set Poster' },
+            { name:'Best Editor' },
+            { name:'Best Quality Control Member' },
+            { name:'Best Contributor' },
+            { name:'Best Forum Project' },
+            { name:'Best Programmer' },
+            { name:'Best Researcher' },
+            { name:'Most Promising Artist' },
+            { name:'Most Improved Artist' },
+            { name:'Best Piece of Art', hint:'url', type:'url' },
+            { name:'Best Artist' },
+            { name:'Best Contribution' },
+            { name:'Best Spriter' },
+            { name:'Best Sprite' },
+            { name:'Best Youtube Video', hint:'url', type:'url' },
+            { name:'Best Social Media Contributor' },
+            { name:'Best Twitch Stream', hint:'url', type:'url' }
+        ]},{
+        name:'Pokemon Showdown!',
+        entries:[
+            { name:'Best PS! Auth' },
+            { name:'Best Room Auth' },
+            { name:'Best Room' },
+            { name:'Best Ladder' },
+            { name:'Best PS! Username' }
+        ]},{
+        name:'The Smog and The Player',
+        entries:[
+            { name:'Best New Writer' },
+            { name:'Most Improved Writer' },
+            { name:'Best Smog Article', hint:'title' },
+            { name:'Best Player Article', hint:'title' },
+            { name:'Best Art for an Article', hint:'article title' }
+        ]},{
+        name:'Just For Fun',
+        entries:[
+            { name:'User most likely to be kicked out of Smogon University' },
+            { name:'User most likely to wear their Smogon t-shirt on a date' },
+            { name:'Best QDB quote', hint:'url', type:'url' },
+            { name:'Best tl;dr', hint:'url', type:'url' },
+            { name:'Mad?' },
+            { name:'User who most looks like an owl' },
+            { name:'User most likely to be a spambot' },
+            { name:'User most likely to be scammed by a Nigerian prince' }
+        ]}
+    ];
+	//do not edit below here
 
-		[Page]
-		<div id="js-warning">This page requires JavaScript.</div>
-		<p>This is the nomination form for the 2014 Smog Awards! <strong>Please read the rules or your submission may be discarded</strong>.</p>
-		<ul>
-		    <li>Only one submission is allowed per user.</li>
-		    <li>You should only nominate 1 user per category.</li>
-		    <li>Don't nominate yourself.</li> 
-		    <li>Type out the user's full, current name.</li>
-		    <li>If you have no answer, leave the field blank.</li>
-		    <li>Please refrain from joke entries. They might be funny, but not when you're tallying votes. And we know who you are. :)</li>
-		</ul>
-		<form id="nomination-form"></form>
-		<script id="nomination-template" type="text/x-handlebars-template">
-			{{#each this}}
-			<fieldset class="section">
-				<legend>{{name}}</legend>
-				{{#each entries}}
-				<div>
-					<label>{{name}} {{#if hint}}({{hint}}){{/if}}</label>
-					<input type="{{#if type}}{{type}}{{else}}text{{/if}}" data-for="{{name}}"/>
-				</div>
-				{{/each}}
-			</fieldset>
-			{{/each}}
-		    <button type="submit" id="submit">Submit!</button>
-		</script>
+	$(function(){
+	    $('#js-warning').hide();
+	    
+	    if(new Date() < endDate){
+			//apply template
+			var template = Handlebars.compile($('#nomination-template').html());
+			$('#nomination-form').html(template(categories));
+			$('#nomination-form').validate();
+
+			//ready messager
+			var message = new Message({ to:'The Smog', title:'[SA2014R1]', allowInvite:'0', noReply:'1', removeOnSend:true });
+			message.prepare(function(prepared){
+			    if(prepared.success){
+					//attach submit handler
+					$('#nomination-form').submit(function(evt){
+                        //make sure submissions are still allowed
+					    if(new Date() < endDate) {
+    					    var nominations = '';
+
+    						$('#nomination-form input').each(function(){
+    							var $this = $(this);
+    							if($this.val().length > 0 && $this.valid()){
+    								nominations += ('<b>' + $this.attr('data-for') + '</b> <i>' + $this.val() + '</i><br/>');
+    							}
+    						});
+
+    						message.message = nominations;
+    						message.send(function(){
+            					alert('Nominations Submitted!');
+            					location.href = '/forums/';
+            				});
+            				
+            				evt.preventDefault();
+					    } else {
+					        alert('Nominations have closed! :(');
+					    }
+					});
+			    } else {
+			        alert(prepared.info);
+			    }
+			});
+	    } else {
+            $('#rules').hide();
+            $('#closed-message').show();
+        }
+	});
+</script>
+
+[Page]
+<div id="js-warning">This page requires JavaScript.</div>
+<div id="rules">
+	<p>This is the nomination form for the 2014 Smog Awards! <strong>Please read the rules or your submission may be discarded</strong>.</p>
+	<ul>
+	    <li>Nominations close at 11:59 PM on February 2nd EST (UTC-5).</li>
+	    <li>You should only nominate 1 user per category.</li>
+	    <li>You may submit as many times as you need. Remember, though, that only your last submission per category will count.</li>
+	    <li>Don't nominate yourself.</li> 
+	    <li>Type out the user's full, current name.</li>
+	    <li>If you have no answer, leave the field blank.</li>
+	    <li>Please refrain from joke entries. They might be funny, but not when you're tallying votes. And we know who you are. :)</li>
+	</ul>
+</div>
+<div id="closed-message" style="display:none;">
+    <p>Nominations have closed!</p>
+</div>
+<form id="nomination-form"></form>
+<script id="nomination-template" type="text/x-handlebars-template">
+	{{#each this}}
+	<fieldset class="section">
+		<legend>{{name}}</legend>
+		{{#each entries}}
+		<div>
+			<label>{{name}} {{#if hint}}({{hint}}){{/if}}</label>
+			<input type="{{#if type}}{{type}}{{else}}text{{/if}}" data-for="{{name}}"/>
+		</div>
+		{{/each}}
+	</fieldset>
+	{{/each}}
+    <button type="submit" id="submit">Submit!</button>
+</script>

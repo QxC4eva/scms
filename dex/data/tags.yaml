@@ -357,6 +357,11 @@ tags:
         =================
         Players cannot use the following moves:
         * (move: xy/Dark Void)
+  VGC15:
+    introduction: xy
+    name: VGC15
+    successors:
+    - []
   VGC14:
     introduction: xy
     name: VGC14

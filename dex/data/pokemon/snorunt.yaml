@@ -42,7 +42,7 @@ pokemon:
           types: [Ice]
           weight: 0
           height: 0
-          tags: [BL3]
+          tags: [RU]
     egggroups:
     - [Fairy, Mineral]
     evolvesFrom: [Snorunt]
@@ -62,6 +62,7 @@ pokemon:
     - [80, 80, 80, 80, 80, 80]
     tags:
     - [NU]
+    - xy: [RU]
     types:
     - [Ice]
     weight: [256.5]

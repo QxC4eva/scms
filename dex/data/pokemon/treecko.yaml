@@ -33,7 +33,7 @@ pokemon:
           types: [Grass, Dragon]
           weight: 0
           height: 0
-          tags: [RU]
+          tags: [UU]
     egggroups:
     - [Dragon, Monster]
     evolvesFrom: [Grovyle]
@@ -51,7 +51,7 @@ pokemon:
     - [70, 85, 65, 105, 85, 120]
     tags:
     - [BL]
-    - xy: [RU]
+    - xy: [UU]
     - bw: [RU]
     - dp: [UU]
     types:

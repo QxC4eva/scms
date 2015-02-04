@@ -13,7 +13,7 @@ pokemon:
           types: [Normal, Flying]
           weight: 0
           height: 0
-          tags: [RU]
+          tags: [UU]
     egggroups:
     - [Flying]
     evolvesFrom: [Pidgeotto]
@@ -33,7 +33,7 @@ pokemon:
     tags:
     - [UU]
     - rs: [NU]
-    - xy: [RU]
+    - xy: [UU]
     types:
     - [Flying, Normal]
     weight: [39.5]

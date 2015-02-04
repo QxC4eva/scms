@@ -12,7 +12,7 @@ pokemon:
           height: 1.7
           stats: [65, 155, 120, 65, 90, 105]
           types: [Bug, Flying]
-          tags: [OU]
+          tags: [BL]
           weight: 59
     egggroups:
     - [Bug]
@@ -91,7 +91,7 @@ pokemon:
     tags:
     - [UU]
     - dp: [NU]
-    - xy: [OU]
+    - xy: [UU]
     types:
     - [Bug]
     weight: [55]

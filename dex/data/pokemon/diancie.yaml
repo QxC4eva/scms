@@ -10,7 +10,7 @@ pokemon:
           types: [Rock, Fairy]
           weight: 0
           height: 0
-          tags: [BL]
+          tags: [OU]
     egggroups:
     - []
     height: [0.7]
@@ -20,7 +20,7 @@ pokemon:
     stats:
     - [50, 100, 150, 100, 150, 50]
     tags:
-    - [UU]
+    - [OU]
     types:
     - [Rock, Fairy]
     weight: [8.8]

@@ -193,6 +193,7 @@ tags:
         * (item: xy/Lucarionite)
         * (item: xy/Mawilite)
         * (item: xy/Salamenceite)
+        * (item: xy/Soul Dew)
   RU:
     introduction: bw
     name: Rarelyused
@@ -271,7 +272,10 @@ tags:
         Item Restrictions
         =================
         Players cannot use the following items:
+        * (item: xy/Diancite)
         * (item: xy/Heracronite)
+        * (item: xy/Medichamite)
+        * (item: xy/Pinsirite)
         
         Ability Restrictions
         ====================

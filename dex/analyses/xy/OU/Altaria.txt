@@ -15,8 +15,8 @@ move 3: Roost
 move 4: Earthquake / Heal Bell
 item: Altarianite
 ability: Cloud Nine / Natural Cure
-evs: 252 SpA / 4 SpD / 252 Spe
-nature: Timid / Modest
+evs: 248 HP / 168 SpA / 92 Spe
+nature: Modest
 
 Moves
 ========
@@ -28,7 +28,7 @@ In the realm of supportive moves, Agility and Tailwind can give Altaria a chance
 Set Details
 ========
 
-With a Timid nature and maximum Speed EVs, Altaria can outrun key threats, including Jolly Mega Heracross, Jolly Bisharp, Adamant Excadrill, Adamant Lucario, and Timid Heatran, as well as tie with opposing base 80 Speed Pokemon such as opposing Altaria, Mamoswine, and non-Mega Gallade. Using a Modest nature is an option for even more power, although Mega Altaria doesn't gain too many notable KOs with it. Investment in bulk at the cost of either power or Speed is also an option to tank attacks more effectively.
+The given EV spread prioritizes bulk, which is crucial for Mega Altaria to handle threats such as Mega Lopunny and Mega Charizard X, and special attacking power. The Speed EVs allow Altaria to outrun Jolly Azumarill; it is generally advised to invest a bit more in order to outspeed defensive Rotom-W and Landorus-T, which commonly run enough Speed to hit this benchmark. Depending on the team, more Speed can be run; some benchmarks include 240 for Adamant Bisharp (176 EVs) and even max Speed if outrunning Adamant Diggersby and slower base 100s is desired. Another option is 252 SpA / 4 Def / 252 Spe with a Timid nature, sacrificing bulk to outspeed certain key threats, including Jolly Mega Heracross, Jolly Bisharp, Adamant Excadrill, Adamant Lucario, and Timid Heatran, as well as tie with opposing base 80 Speed Pokemon such as opposing Altaria, Mamoswine, and non-Mega Gallade.
 
 Cloud Nine is the preferred ability, as it gives Altaria a chance to outrun and check Swift Swim Kingdra, Mega Swampert, Sand Rush Excadrill, and other weather sweepers before Mega Evolving. Additionally, this set isn't particularly bothered by status by virtue of being a hit-and-run attacker. If absorbing attacks such as Scald, Lava Plume, and Spore is significant for its team, feel free to use Natural Cure, though keep in mind that Altaria is usually Mega Evolved and can use Heal Bell to achieve such a purpose.
 
@@ -53,7 +53,7 @@ move 3: Earthquake
 move 4: Roost / Fire Blast
 item: Altarianite
 ability: Natural Cure / Cloud Nine
-evs: 252 Atk / 4 SpA / 252 Spe
+evs: 252 Atk / 4 Def / 252 Spe
 nature: Adamant
 
 Moves
@@ -66,7 +66,7 @@ There are several alternative moves to consider. Dragon Claw, while redundant co
 Set Details
 ========
 
-An Adamant nature along with significant Attack investment makes the most out of Mega Altaria's physical offense. It is recommended to maximize Speed EVs in order to tie at best with neutral-natured maximum Speed Dragonite as well as opposing Altaria. A Jolly nature can be used to outrun even more threats before and after a Speed boost, including maximum Speed variations of Breloom, Heatran, Tyranitar, and Bisharp at +0, and Mega Lopunny, Mega Manectric, Mega Beedrill, and Adamant Choice Scarf Landorus-T at +1. This, of course, comes at the cost of power, which Mega Altaria misses dearly.
+An Adamant nature along with significant Attack investment makes the most out of Mega Altaria's physical offense. It is recommended to maximize Speed EVs in order to tie at best with neutral-natured maximum Speed Dragonite as well as opposing Altaria. If desired, the Speed investment can be dropped to 192 EVs, which is enough for Altaria to outrun Choice Scarf Tyranitar after a boost, and the rest of the EVs placed into HP to give Altaria a bit more bulk. A Jolly nature can be used to outrun even more threats before and after a Speed boost, including maximum Speed variations of Breloom, Heatran, Tyranitar, and Bisharp at +0, and Mega Lopunny, Mega Manectric, Mega Beedrill, and Adamant Choice Scarf Landorus-T at +1. This, of course, comes at the cost of power, which Mega Altaria misses dearly.
 
 To take better advantage of Mega Altaria's fantastic defensive typing, you are absolutely free, and even encouraged, to tweak the EVs. Assuming an Adamant nature, its Speed can be lowered to outrun important benchmarks at +1, including 220 Speed for Tornadus-T and Mega Pidgeot, 184 EVs for Raikou and Starmie, and 160 EVs for Thundurus. Transferring some EVs from Attack is also perfectly acceptable in moderation.
 
@@ -92,7 +92,7 @@ name: Support
 move 1: Roost
 move 2: Hyper Voice / Return
 move 3: Heal Bell
-move 4: Flamethrower / Earthquake / Roar / Perish Song
+move 4: Flamethrower / Earthquake
 item: Altarianite
 ability: Cloud Nine
 evs: 248 HP / 104 Def / 156 SpD

@@ -1,0 +1,279 @@
+[Title]
+Counter
+
+[Head]
+<script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+
+[Page]
+<div id="awards-wrapper"></div>
+<script>
+var makeAwards = function(parent, conversationTitle, opts) {
+	opts = !!arguments[2] ? opts : {};
+	var maxVotesForUserPerBallot = !!opts.maxVotesForUserPerBallot ? opts.maxVotesForUserPerBallot : 8;
+
+	//async - load a page without loading scripts or images
+	var loadLite = function(url, success) {
+		$.ajax(url, {
+			dataType: 'text',
+			type: 'GET',
+			success: function(){
+				arguments[0] = arguments[0].replace(/ src=/gi, '');
+				success.apply(success, arguments);
+			},
+			error: function() { console.error(arguments); }
+		});
+	};
+
+	//async - gets conversation ids with the given title
+	var getConversationIdsByTitle = function(title, callback){
+		var conversationListUrl = '/forums/conversations/?page=';
+		var ids = [];
+
+		var loadPage = function(page){
+			loadLite(conversationListUrl + page, function(data){
+				$('h3.title', data).each(function(){
+					var t = $.trim($(this).text());
+					if(t === title){
+						ids.push($('input', this).val());
+					}
+				});
+
+				if(page < parseInt($('.PageNav').attr('data-last'))) {
+					loadPage(page + 1);
+				} else {
+					callback(ids);
+				}
+			});
+		};
+
+		loadPage(1);
+	};
+
+	//async - gets first page of messages in a conversation
+	var getConversationContent = function(conversationId, callback) {
+		var messages = [];
+
+		loadLite('/forums/conversations/' + conversationId, function(data){
+			$('li.message', data).each(function(){
+				var $this = $(this);
+
+				messages.push({
+					author:$this.attr('data-author'),
+					messageHtml:$.trim($('.messageContent .messageText', $this).html()),
+					messageText:$.trim($('.messageContent .messageText', $this).text()),
+					datetime:$('.DateTime', $this).text()
+				});
+			});
+
+			callback({ id:conversationId, messages:messages });
+		});
+	};
+
+	//this is very dependent on the template that gets submitted, can throw
+	var parseBallotFromConversation = function(message){
+		var parsed = {};
+
+		var categories = $('b', messageHtml);
+		var votes = $('i', messageHtml);
+
+		if(categories.length === votes.length){
+			for(var i = 0; i < categories.length; i++){
+				parsed[$.trim(categories[i])] = {
+					vote: $.trim(votes[i]),
+					origin:message.id
+				};
+			}
+		} else {
+			throw 'unparseable vote';
+		}
+
+		return { caster:message.author, votes:parsed };
+	};
+
+	//merges 2 ballots
+	var mergeBallots = function(existingBallot, newBallot) {
+		for(var category in newBallot.votes)
+		{
+			var newVote = newBallot.votes[category];
+			var existingVote = existingBallot.votes[category];
+
+			if(!existingVote || existingVote.origin < newVote.origin) {
+				 existingBallot.votes[category] = newVote;
+			}
+		}
+	};
+
+	//applies rules!
+	var applyVotingRules = function(ballots, rules) {
+		for(var caster in ballots) {
+			for(var rule in rules) {
+				rules[rule](ballots[caster])
+			}
+		}
+	};
+
+	//remove votes for self
+	var noSelfVotes = function(ballot) {
+		var user = ballot.caster.toLowerCase();
+
+		for(var category in ballot.votes){
+			if(ballot.votes[category].vote.toLowerCase() === user) {
+				delete ballot.votes[category];
+			}
+		}
+	};
+
+	//remove blank psuedo-blank votes like "N/A"
+	var noNonVotes = function(ballot) {
+		var blanks = ['', 'na', 'n/a'];
+
+		for(var category in ballot.votes){
+			if(blanks.indexOf(ballot.votes[category].vote.toLowerCase()) > -1) {
+				delete ballot.votes[category];
+			}
+		}
+	}
+
+	//remove votes for single person in a ridiculous number of categories
+	var noBallotStuffing = function(maxVotesForUser) {
+		return function(ballot) {
+			var users = {};
+
+			for(var category in ballot.votes){
+				var vote = ballot.votes[category].vote.toLowerCase();
+
+				if(!users[vote]) {
+					users[vote] = 0;
+				}
+
+				if(++users[vote] >= maxVotesForUser) {
+					for(var cat in ballot.votes){
+						if(ballot.votes[cat].vote.toLowerCase() === vote) {
+							delete ballot.votes[cat];
+						}
+					}
+				}
+			}
+		};
+	}
+
+	//count the ballots
+	var countVotes = function(ballots) {
+		var finalVotes = {};
+
+		for(var ballot in ballots) {
+			var votes = ballots[ballot].votes;
+
+			for(var category in votes) {
+				var vote = votes[category].vote;
+
+				if(!finalVotes[category]){
+					finalVotes[category] = {};
+				}
+
+				if(!finalVotes[category][vote]){
+					finalVotes[category][vote] = 0;
+				}
+
+				finalVotes[category][vote]++;
+			}
+		}
+
+		return finalVotes;
+	};
+
+	//sorts all categories in decending order
+	var rankVotes = function(votes) {
+		var finalTally = {};
+
+		for(var category in votes){
+			finalTally[category] = [];
+
+			for(var user in votes[category]){
+				finalTally[category].push({ name:user, count:votes[category][user] });
+			}
+
+			finalTally[category].sort(function(x, y){
+				if(x.count>y.count) {
+					return -1;
+				} else if(x.count<y.count) {
+					return 1;
+				} else {
+					return 0;
+				}
+			});
+		}
+
+		return finalTally;
+	}
+
+	//build a table to show the results
+	var makeTable = function(votes) {
+		var create = document.createElement;
+		var table = create('table');
+
+		for(var category in votes){
+			var tr = create('tr');
+			var th = create('th');
+			$(th).text(category);
+			tr.appendChild(th);
+
+			for(var i = 0; i < votes[category].length; i++){
+				var td = create('td');
+
+				$(td).text(votes[category][i].name + ' (' + votes[category][i].count + ')');
+
+				tr.appendChild(td);
+			}
+
+			table.appendChild(tr);
+		}
+
+		parent.appendChild(table);
+	};
+
+
+	getConversationIdsByTitle(conversationTitle, function(ids){
+		var ballots = {};
+		var statusList = [];
+		var votingRules = [
+			noSelfVotes,
+			noNonVotes,
+			noBallotStuffing(maxVotesForUserPerBallot)
+		];
+
+		for(var convo = 0; convo < ids.length; convo++){
+			statusList.push({ id:ids[convo], loaded:false });
+
+			getConversationContent(ids[convo], function(conversation){
+				var ballot = parseBallotFromConversation(conversation.messages[0]);
+				var existingBallot = ballots[ballot.caster];
+
+				//update ballot list
+				if(!!existingBallot){
+					mergeBallots(existingBallot, ballot);
+				} else {
+					ballots[ballot.caster] = ballot;
+				}
+
+				//set status
+				statusList.forEach(function(s){
+					if(s.id === conversation.id) { 
+						s.loaded = true;
+					}
+				});
+
+				//finished
+				if(statusList.some(function(s){ return !s.loaded })){
+					applyVotingRules(ballots, votingRules);
+					makeTable(rankVotes(countVotes(ballots)));
+				}
+			});
+		}
+	});
+};
+
+$(function(){
+    makeAwards(document.getElementById('awards-wrapper'), '[SA2014R1]');
+});
+</script>

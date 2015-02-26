@@ -5,6 +5,8 @@ Counter
 <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
 
 [Page]
+<h2>Hi.</h2>
+<p>This page won't really help you if you're not The Smog. If you are, well, it takes a minute.</p>
 <div id="awards-wrapper"></div>
 <script>
 var makeAwards = function(parent, conversationTitle, opts) {
@@ -38,7 +40,7 @@ var makeAwards = function(parent, conversationTitle, opts) {
 					}
 				});
 
-				if(page < parseInt($('.PageNav').attr('data-last'))) {
+				if(page < parseInt($('.PageNav', data).attr('data-last'))) {
 					loadPage(page + 1);
 				} else {
 					callback(ids);
@@ -73,11 +75,14 @@ var makeAwards = function(parent, conversationTitle, opts) {
 	var parseBallotFromConversation = function(message){
 		var parsed = {};
 
-		var categories = $('b', messageHtml);
-		var votes = $('i', messageHtml);
+		var categories = $('b', '<div>' + message.messageHtml + '</div>').map(function(){return $(arguments[1]).text()});
+		var votes = $('i', '<div>' + message.messageHtml.replace(/i\&gt\;/g, '</i>') + '</div>').map(function(){return $(arguments[1]).text()});
 
 		if(categories.length === votes.length){
 			for(var i = 0; i < categories.length; i++){
+				if($.trim(votes[i]).length > 125){
+					console.log(message.author, ' : ', votes[i]);
+				}
 				parsed[$.trim(categories[i])] = {
 					vote: $.trim(votes[i]),
 					origin:message.id
@@ -209,17 +214,16 @@ var makeAwards = function(parent, conversationTitle, opts) {
 
 	//build a table to show the results
 	var makeTable = function(votes) {
-		var create = document.createElement;
-		var table = create('table');
+		var table = document.createElement('table');
 
 		for(var category in votes){
-			var tr = create('tr');
-			var th = create('th');
+			var tr = document.createElement('tr');
+			var th = document.createElement('th');
 			$(th).text(category);
 			tr.appendChild(th);
 
 			for(var i = 0; i < votes[category].length; i++){
-				var td = create('td');
+				var td = document.createElement('td');
 
 				$(td).text(votes[category][i].name + ' (' + votes[category][i].count + ')');
 
@@ -264,7 +268,7 @@ var makeAwards = function(parent, conversationTitle, opts) {
 				});
 
 				//finished
-				if(statusList.some(function(s){ return !s.loaded })){
+				if(!statusList.some(function(s){ return !s.loaded })){
 					applyVotingRules(ballots, votingRules);
 					makeTable(rankVotes(countVotes(ballots)));
 				}

@@ -1,827 +1,911 @@
 [Title]
-Smog Awards Voting
+Awards Voting Form
 
 [Head]
-<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
-<script type="text/javascript" src="http://dl.dropboxusercontent.com/u/18231634/Smogon/scripts/smogon-messager.js"></script>
 <style type="text/css">
-	#voting-form select { display:block; width:192px; }
-	#voting-form label { display:block; margin-top:12px; }
-	.radio-img { float:left; padding:8px; border:1px solid #DDD; margin:4px; border-radius:6px; }
-	.radio-img img { height:256px; border-radius:3px; cursor:pointer; }
+	#voting-form { max-width:512px; }
+    #voting-form * { box-sizing:border-box; }
+    #voting-form label { font-weight: bold; }
+    #voting-form ul { list-style-type: none; }
+	#voting-form fieldset { padding:4px; }
+	#voting-form legend { padding:4px; font-size:16px; }
+	#voting-form div { padding:2px 8px; }
+	#voting-form .error { color:#E00; }
+	button { padding: 4px 8px; border-radius: 4px; border: 1px solid #848; background-color: #C8C; font-weight: bold; cursor: pointer; color: #fff; }
+	button:hover { background-color: #B7B; }
 </style>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="smogon-messager.js"></script>
+<script type="text/javascript">
+    //edit here
+    var endDate = new Date('March 15 2015 0:00:00 GMT-0500');
+    var subject = '[SA2014R2]';
+
+	$(function(){
+	    $('#js-warning').hide();
+	    
+	    if(new Date() < endDate){
+			//ready messager
+			var message = new Message({ to:'The Smog', title:subject, allowInvite:'0', noReply:'1', removeOnSend:true });
+
+			message.prepare(function(prepared){
+			    if(prepared.success){
+					//attach submit handler
+					$('#voting-form').on('submit', function(evt){
+                        //make sure submissions are still allowed
+					    if(new Date() < endDate) {
+    					    var votes = '';
+
+    						$('#voting-form input:checked').each(function(){
+    							var $this = $(this);
+                                var val = $this.parent().text();
+    							if(val != 'Abstain'){
+    								votes += ('<b>' + $this.attr('name') + '</b> <i>' + val + '</i><br/>');
+    							}
+    						});
+
+    						message.message = votes;
+    						message.send(function(){
+            					alert('Votes Submitted!');
+            					location.href = '/forums/';
+            				});
+            				
+            				evt.preventDefault();
+					    } else {
+					        alert('Voting has closed!');
+					    }
+					});
+			    } else {
+			        alert(prepared.info);
+			    }
+			});
+	    } else {
+            $('#rules').hide();
+            $('#closed-message').show();
+        }
+	});
+</script>
 
 [Page]
-<p>
-	Welcome to the voting round for The Smog Awards 2013. You may vote only once. Any further votes will not be counted. Please make sure JavaScript is enabled.
-</p>
-<form id="voting-form" action="#">
-	<label>Best OU Battler</label>
-	<select>
-	    <option value="" selected></option>
-		<option>gr8astard</option>
-		<option>bkc</option>
-		<option>mcmeghan</option>
-		<option>ojama</option>
-		<option>ctc</option>
-		<option>bloo</option>
-	</select>
-
-	<label>Best Ubers Battler</label>
-	<select>
-	    <option value="" selected></option>
-		<option>sweep</option>
-		<option>dice</option>
-		<option>blim</option>
-		<option>donkey</option>
-		<option>problems</option>
-		<option>furai</option>
-	</select>
-
-	<label>Best Smog Article</label>
-	<select>
-	    <option value="" selected></option>
-		<option>the ou council</option>
-		<option>why choose doubles for gen 6?</option>
-		<option>how to not be a dipshit on ps!</option>
-	</select>
-
-	<label>Cutest User</label>
-	<select>
-	    <option value="" selected></option>
-		<option>sandshrewz</option>
-		<option>treecko</option>
-		<option>tab</option>
-		<option>skylight</option>
-		<option>rodan</option>
-		<option>oglemi</option>
-	</select>
-
-	<label>Best Smogon Doubles Battler</label>
-	<select>
-	    <option value="" selected></option>
-		<option>mizuhime</option>
-		<option>pwnemon</option>
-		<option>laga</option>
-		<option>pocket</option>
-		<option>audiosurfer</option>
-	</select>
-
-	<label>Best LC Battler</label>
-	<select>
-	    <option value="" selected></option>
-		<option>blarajan</option>
-		<option>goddess briyella</option>
-		<option>apt-get</option>
-		<option>ray jay</option>
-		<option>elevator music</option>
-	</select>
-
-	<label>Best Showdown! Staff</label>
-	<select>
-	    <option value="" selected></option>
-		<option>hugendugen</option>
-		<option>frizy</option>
-		<option>mikel</option>
-		<option>joim</option>
-		<option>zarel</option>
-	</select>
-
-	<label>Best Team Rater</label>
-	<select>
-	    <option value="" selected></option>
-		<option>shootingstarmie</option>
-		<option>harsha</option>
-		<option>tcr</option>
-	</select>
-
-	<label>Best Programmer</label>
-	<select>
-	    <option value="" selected></option>
-		<option>joim</option>
-		<option>zarel</option>
-		<option>chaos</option>
-		<option>toast++</option>
-		<option>cathy</option>
-	</select>
-
-	<label>Best Researcher</label>
-	<select>
-	    <option value="" selected></option>
-		<option>violetpumpkin</option>
-		<option>stellar</option>
-		<option>v4victini</option>
-		<option>omegadonut</option>
-	</select>
-
-	<label>Best UU Battler</label>
-	<select>
-	    <option value="" selected></option>
-		<option>kokoloko</option>
-		<option>bad ass</option>
-		<option>destinyunknown</option>
-		<option>whitequeen</option>
-		<option>psychotic</option>
-		<option>nas</option>
-	</select>
-
-	<label>Best RU Battler</label>
-	<select>
-	    <option value="" selected></option>
-		<option>molk</option>
-		<option>august</option>
-		<option>silentverse</option>
-		<option>hot n cold</option>
-		<option>bloo</option>
-	</select>
-
-	<label>Best NU Battler</label>
-	<select>
-	    <option value="" selected></option>
-		<option>flcl</option>
-		<option>zebraiken</option>
-		<option>treecko</option>
-		<option>raseri</option>
-	</select>
-
-	<label>Best VGC Battler</label>
-	<select>
-	    <option value="" selected></option>
-		<option>biosci</option>
-		<option>kingofkongs</option>
-		<option>cybertron</option>
-		<option>tab</option>
-	</select>
-
-	<label>Best OM Battler</label>
-	<select>
-	    <option value="" selected></option>
-		<option>arcticblast</option>
-		<option>adrian marin</option>
-		<option>verbatim</option>
-		<option>oiawesomedg</option>
-	</select>
-
-
-	<label>Best Tournament Player</label>
-	<select>
-	    <option value="" selected></option>
-		<option>bkc</option>
-		<option>gr8astard</option>
-		<option>mcmeghan</option>
-		<option>ojama</option>
-		<option>bloo</option>
-	</select>
-
-	<label>Best Ladder Player</label>
-	<select>
-	    <option value="" selected></option>
-		<option>c05ta</option>
-		<option>molk</option>
-		<option>gr8astard</option>
-		<option>sweep</option>
-	</select>
-
-	<label>Best Team Builder</label>
-	<select>
-	    <option value="" selected></option>
-		<option>ojama</option>
-		<option>molk</option>
-		<option>gr8astard</option>
-		<option>dice</option>
-		<option>ctc</option>
-	</select>
-
-	<label>Luckiest Player</label>
-	<select>
-	    <option value="" selected></option>
-		<option>shakeitup</option>
-		<option>soulgazer</option>
-		<option>king</option>
-	</select>
-
-	<label>Most Intimidating Player</label>
-	<select>
-	    <option value="" selected></option>
-		<option>bloo</option>
-		<option>mcmeghan</option>
-		<option>ojama</option>
-		<option>heist</option>
-	</select>
-
-	<label>Best New Player</label>
-	<select>
-	    <option value="" selected></option>
-		<option>aerialace tm40</option>
-		<option>soulgazer</option>
-		<option>gr8astard</option>
-	</select>
-
-
-
-	<label>Best Overall Player</label>
-	<select>
-	    <option value="" selected></option>
-		<option>bloo</option>
-		<option>mcmeghan</option>
-		<option>bkc</option>
-		<option>ojama</option>
-		<option>heist</option>
-		<option>gr8astard</option>
-	</select>
-
-	<label>Best OM</label>
-	<select>
-	    <option value="" selected></option>
-		<option>balanced hackmons</option>
-		<option>tier shift</option>
-		<option>stabmons</option>
-		<option>averagemons</option>
-	</select>
-
-	<label>Meanest User</label>
-	<select>
-	    <option value="" selected></option>
-		<option>aldaron</option>
-		<option>blarajan</option>
-		<option>haunter</option>
-		<option>captkirby</option>
-	</select>
-
-	<label>Wittiest User</label>
-	<select>
-	    <option value="" selected></option>
-		<option>woodchuck</option>
-		<option>rodan</option>
-		<option>cookie</option>
-		<option>fatecrashers</option>
-	</select>
-
-	<label>Most Improved User</label>
-	<select>
-	    <option value="" selected></option>
-		<option>pwnemon</option>
-		<option>kingler12345</option>
-		<option>laurel</option>
-	</select>
-
-	<label>Best Custom Title</label>
-	<select>
-	    <option value="" selected></option>
-		<option>treecko</option>
-		<option>birkal</option>
-		<option>tab</option>
-		<option>oglemi</option>
-		<option>flcl</option>
-	</select>
-
-	<label>Best Name Change</label>
-	<select>
-	    <option value="" selected></option>
-		<option>shakeitup -> -tsunami-</option>
-		<option>poppy -> gookie</option>
-		<option>magcargo 2 -> i am koko's bitch</option>
-		<option>crashingboombang > crashinboombang</option>
-		<option>bland -> firemage</option>
-	</select>
-
-	<label>Worst Name Change</label>
-	<select>
-	    <option value="" selected></option>
-		<option>firemage -> bland</option>
-		<option>shakeitup -> -tsunami-</option>
-		<option>somalia -> susanoo91</option>
-		<option>the exeggutor -> mizuhime</option>
-		<option>hyperbeem -> ezio</option>
-		<option>crashingboombang -> crashinboombang</option>
-	</select>
-
-	<label>Best Forum Staff Member</label>
-	<select>
-	    <option value="" selected></option>
-		<option>bloo</option>
-		<option>haunter</option>
-		<option>birkal</option>
-		<option>treecko</option>
-		<option>oglemi</option>
-	</select>
-
-	<label>Best Leader</label>
-	<select>
-	    <option value="" selected></option>
-		<option>oglemi</option>
-		<option>birkal</option>
-		<option>aldaron</option>
-		<option>bloo</option>
-	</select>
-
-	<label>Best Discussion Sparker</label>
-	<select>
-	    <option value="" selected></option>
-		<option>molk</option>
-		<option>theorymon</option>
-		<option>rodan</option>
-		<option>oglemi</option>
-	</select>
-
-	<label>Best Competitive Pokemon Poster</label>
-	<select>
-	    <option value="" selected></option>
-		<option>molk</option>
-		<option>treecko</option>
-		<option>mcmeghan</option>
-		<option>flcl</option>
-		<option>alexwolf</option>
-	</select>
-
-	<label>Best #pokemon IRC Presence</label>
-	<select>
-	    <option value="" selected></option>
-		<option>yilx</option>
-		<option>treecko</option>
-		<option>dtc</option>
-		<option>rodan</option>
-		<option>molk</option>
-		<option>alkinesthetase</option>
-	</select>
-
-	<label>Best OI Poster</label>
-	<select>
-	    <option value="" selected></option>
-		<option>stellar</option>
-		<option>layell</option>
-		<option>hulavuta</option>
-		<option>dhr-107</option>
-	</select>
-
-	<label>Best CAP Poster</label>
-	<select>
-	    <option value="" selected></option>
-		<option>dougjustdoug</option>
-		<option>jas61292</option>
-		<option>detroitlolcat</option>
-		<option>birkal</option>
-	</select>
-
-	<label>Best Firebot Poster</label>
-	<select>
-	    <option value="" selected></option>
-		<option>rodan</option>
-		<option>the_iron_kenyan</option>
-		<option>cookie</option>
-	</select>
-
-	<label>Best Mentor</label>
-	<select>
-	    <option value="" selected></option>
-		<option>cherub agent</option>
-		<option>birkal</option>
-		<option>treecko</option>
-		<option>jukain</option>
-	</select>
-
-	<label>Best Tutor</label>
-	<select>
-	    <option value="" selected></option>
-		<option>limitless</option>
-		<option>ojama</option>
-	</select>
-
-	<label>Best Under-the-Influence User</label>
-	<select>
-	    <option value="" selected></option>
-		<option>jellicent</option>
-		<option>v</option>
-		<option>treecko</option>
-		<option>jabbathegriffin</option>
-	</select>
-
-	<label>Most Promising Artist</label>
-	<select>
-	    <option value="" selected></option>
-		<option>chameleonskyes</option>
-		<option>magistrum</option>
-		<option>kadew</option>
-		<option>blue frog</option>
-		<option>andrew3391</option>
-	</select>
-
-	<label>Most Improved Artist</label>
-	<select>
-	    <option value="" selected></option>
-		<option>quanyails</option>
-		<option>blue frog</option>
-		<option>andrew3391</option>
-	</select>
-
-	<label>Best Artist</label>
-	<select>
-	    <option value="" selected></option>
-		<option>yilx</option>
-		<option>bummer</option>
-		<option>rittercat</option>
-		<option>kadew</option>
-		<option>fatecrashers</option>
-		<option>chameleonskyes</option>
-	</select>
-
-	<label>Best Spriter</label>
-	<select>
-	    <option value="" selected></option>
-		<option>layell</option>
-		<option>legitimate username</option>
-		<option>princessofmusic</option>
-	</select>
-
-	<label>Best New Writer</label>
-	<select>
-	    <option value="" selected></option>
-		<option>goddess briyella</option>
-		<option>edacosis</option>
-		<option>mack the knife</option>
-	</select>
-
-	<label>Best Old-School Player</label>
-	<select>
-	    <option value="" selected></option>
-		<option>jorgen</option>
-		<option>m dragon</option>
-		<option>bkc</option>
-		<option>heist</option>
-		<option>dracomalfoy</option>
-	</select>
-
-	<label>Most Influential Player</label>
-	<select>
-	    <option value="" selected></option>
-		<option>bloo</option>
-		<option>ojama</option>
-		<option>mcmeghan</option>
-		<option>bkc</option>
-	</select>
-
-	<label>Most Gimicky Player</label>
-	<select>
-	    <option value="" selected></option>
-		<option>lady bug</option>
-		<option>molk</option>
-		<option>shakeitup</option>
-		<option>aerialace tm40</option>
-		<option>ctc</option>
-	</select>
-
-	<label>Biggest Upset</label>
-	<select>
-	    <option value="" selected></option>
-		<option>gr8astard winning ost 9</option>
-		<option>wolfpack winning spl</option>
-		<option>pdc winning lc open</option>
-		<option>kokoloko over heist</option>
-		<option>blarajan defeating ctc in world cup finals</option>
-		<option>bkc winning a smogon tour</option>
-	</select>
-
-	<label>Best Tournament</label>
-	<select>
-	    <option value="" selected></option>
-		<option>spl</option>
-		<option>world cup of pokemon</option>
-		<option>smogon grand slam</option>
-	</select>
-
-	<label>Most Overlooked User</label>
-	<select>
-	    <option value="" selected></option>
-		<option>toast++</option>
-		<option>tobes</option>
-		<option>steeledges</option>
-		<option>nails</option>
-		<option>molk</option>
-	</select>
-
-	<label>Most Influential User</label>
-	<select>
-	    <option value="" selected></option>
-		<option>aldaron</option>
-		<option>bloo</option>
-		<option>zarel</option>
-		<option>oglemi</option>
-		<option>chaos</option>
-	</select>
-
-	<label>Most Promising New User</label>
-	<select>
-	    <option value="" selected></option>
-		<option>aerialace tm40</option>
-		<option>treecko</option>
-		<option>soulgazer</option>
-		<option>chaos</option>
-		<option>lasagne21</option>
-		<option>goddess briyella</option>
-	</select>
-
-	<label>Most Persuasive User</label>
-	<select>
-	    <option value="" selected></option>
-		<option>aldaron</option>
-		<option>dougjustdoug</option>
-		<option>mcmeghan</option>
-		<option>hugendugen</option>
-		<option>deck knight</option>
-		<option>blarajan</option>
-	</select>
-
-	<label>Most Awesome Veteran</label>
-	<select>
-	    <option value="" selected></option>
-		<option>bloo</option>
-		<option>chaos</option>
-		<option>veteran in love</option>
-		<option>darkie</option>
-		<option>oglemi</option>
-		<option>mre</option>
-	</select>
-
-	<label>Member of the Year</label>
-	<select>
-	    <option value="" selected></option>
-		<option>oglemi</option>
-		<option>joim</option>
-		<option>chaos</option>
-		<option>stellar</option>
-		<option>treecko</option>
-	</select>
-
-	<label>Best Editor</label>
-	<select>
-	    <option value="" selected></option>
-		<option>gatodelfuego</option>
-		<option>oglemi</option>
-		<option>setsuna</option>
-		<option>melvni</option>
-		<option>flora</option>
-		<option>bugmaniacbob</option>
-	</select>
-
-	<label>Most Improved Writer</label>
-	<select>
-	    <option value="" selected></option>
-		<option>skylight</option>
-		<option>mack the knife</option>
-	</select>
-
-	<label>Best Entertainment Article</label>
-	<div class="radio-block"><input type="radio" name="Best Entertainment Article" value="abstain" checked />Abstain</div>
-	<div class="radio-block"><input type="radio" name="Best Entertainment Article"/><a target="_blank" href="/smog/issue30/rodanningit">RODANNING it, how to survive on smogon whilst badgeless</a></div>
-	<div class="radio-block"><input type="radio" name="Best Entertainment Article"/><a target="_blank" href="/smog/issue26/oddish">The Oddish</a></div>
-	<div class="radio-block"><input type="radio" name="Best Entertainment Article"/><a target="_blank" href="/smog/issue31/pokerap">Pok&eacute;rap Battles: Dragons vs Fairies</a></div>
-	<div class="radio-block"><input type="radio" name="Best Entertainment Article"/><a target="_blank" href="/smog/issue28/leaks">Insider X&amp;Y Leaks, Straight from the Playground</a></div>
-	<div class="radio-block"><input type="radio" name="Best Entertainment Article"/><a target="_blank" href="/smog/issue29/gym_guide">"Do You Even Lift" series</a></div>
-	<div class="radio-block"><input type="radio" name="Best Entertainment Article"/><a target="_blank" href="/smog/issue26/battling_1337">Battling 1337: How to Battle Correctly</a></div>
-
-	<label>Best Art for an Article</label>
-	<div class="radio-block"><input type="radio" name="Best Art for an Article" value="abstain" checked />Abstain</div>
-	<div class="radio-block"><input type="radio" name="Best Art for an Article"/><a target="_blank" href="/smog/issue31/council">The OU Council</a></div>
-	<div class="radio-block"><input type="radio" name="Best Art for an Article"/><a target="_blank" href="/smog/issue23/hail">Weather Analysis: Hail</a></div>
-	<div class="radio-block"><input type="radio" name="Best Art for an Article"/><a target="_blank" href="/smog/issue26/uu_201">Underused 201: Battling</a></div>
-
-	<label>Best Circus Player</label>
-	<select>
-	    <option value="" selected></option>
-		<option>billymills</option>
-		<option>zorbees</option>
-		<option>rodan</option>
-		<option>mekkah</option>
-	</select>
-
-	<label>Best Avatar</label>
-	<select>
-	    <option value="" selected></option>
-		<option>toast++</option>
-		<option>rodan + tik</option>
-		<option>molk</option>
-		<option>fatecrashers</option>
-	</select>
-
-	<label>Best Quality Control Member</label>
-	<select>
-	    <option value="" selected></option>
-		<option>alexwolf</option>
-		<option>fuzznip</option>
-		<option>ebeast</option>
-	</select>
-
-	<label>User Most Likely to Sell Smogon Out to Nintendo</label>
-	<select>
-	    <option value="" selected></option>
-		<option>chaos</option>
-		<option>theorymon</option>
-		<option>lady salamence</option>
-		<option>firestorm</option>
-	</select>
-
-	<label>Best Cong Poster</label>
-	<select>
-	    <option value="" selected></option>
-		<option>acklow</option>
-		<option>rodan</option>
-		<option>mattj</option>
-		<option>deck knight</option>
-		<option>billymills</option>
-	</select>
-
-	<label>Best Thread</label>
-	<div class="radio-block"><input type="radio" name="Best Thread" value="abstain" checked />Abstain</div>
-	<div class="radio-block"><input type="radio" name="Best Thread" value="/forums/threads/3491168/"/><a target="_blank" href="/forums/threads/3491168/">Quote Database Thread (cookie is a cumstain)</a></div>
-	<div class="radio-block"><input type="radio" name="Best Thread" value="/forums/threads/3477212/"/><a target="_blank" href="/forums/threads/3477212/">smogon user headstones</a></div>
-	<div class="radio-block"><input type="radio" name="Best Thread" value="/forums/threads/3485499/"/><a target="_blank" href="/forums/threads/3485499/">HELP A BROTHA OUT!!!</a></div>
-
-	<label>Best Smogon Thread Not Posted on Smogon's Forums</label>
-	<div class="radio-block"><input type="radio" name="Best Smogon Thread Not Posted on Smogon's Forums" value="abstain" checked />Abstain</div>
-	<div class="radio-block"><input type="radio" name="Best Smogon Thread Not Posted on Smogon's Forums" value="https://archive.foolz.us/vp/thread/16134177/"/><a target="_blank" href="https://archive.foolz.us/vp/thread/16134177/">/vp/ Tread #16134177</a></div>
-	<div class="radio-block"><input type="radio" name="Best Smogon Thread Not Posted on Smogon's Forums" value="http://nuggetbridge.com/forums/topic/2977-"/><a target="_blank" href="http://nuggetbridge.com/forums/topic/2977-">Public Apology to the Players of VGC / Nugget Bridge</a></div>
-
-	<label>User Most Likely to Land a Helicopter</label>
-	<select>
-	    <option value="" selected></option>
-		<option>rodan</option>
-		<option>gatodelfuego</option>
-		<option>chaos</option>
-		<option>yilx</option>
-		<option>stellar</option>
-		<option>hugendugen</option>
-	</select>
-
-	<label>Most Impressive Victory</label>
-	<select>
-	    <option value="" selected></option>
-		<option>bkc in st16</option>
-		<option>east winning wcop</option>
-		<option>bad ass winning grand slam</option>
-		<option>wifi wolfpack winning spl</option>
-		<option>rey winning frontier</option>
-	</select>
-
-	<label>Best Signature</label>
-	<select>
-	    <option value="" selected></option>
-		<option>tennisace</option>
-		<option>whistle</option>
-		<option>osiris</option>
-		<option>joim</option>
-	</select>
-
-	<label>Best RMT Thread</label>
-	<div class="radio-block"><input type="radio" name="Best RMT Thread" value="abstain" checked />Abstain</div>
-	<div class="radio-block"><input type="radio" name="Best RMT Thread" value="/forums/threads/3488669/"/><a target="_blank" href="/forums/threads/3488669/">a cat is fine too</a></div>
-	<div class="radio-block"><input type="radio" name="Best RMT Thread" value="/forums/threads/3481595/"/><a target="_blank" href="/forums/threads/3481595/">#YOLOSWAG</a></div>
-	<div class="radio-block"><input type="radio" name="Best RMT Thread" value="/forums/threads/3495227/"/><a target="_blank" href="/forums/threads/3495227/">Moving Forward in Reverse</a></div>
-	<div class="radio-block"><input type="radio" name="Best RMT Thread" value="/forums/threads/3487828/"/><a target="_blank" href="/forums/threads/3487828/">GGolbat! - Smogon Tour 15 Victory Team</a></div>
-
-	<label>Best A Forum Poster</label>
-	<select>
-	    <option value="" selected></option>
-		<option>rodan</option>
-		<option>cookie</option>
-		<option>shade</option>
-		<option>fatecrashers</option>
-	</select>
-
-	<label>Most Helpful Poster</label>
-	<select>
-	    <option value="" selected></option>
-		<option>birkal</option>
-		<option>treecko</option>
-		<option>toast++</option>
-		<option>skylight</option>
-		<option>cherub agent</option>
-	</select>
-
-	<label>Best Analysis Writer</label>
-	<select>
-	    <option value="" selected></option>
-		<option>alexwolf</option>
-		<option>treecko</option>
-		<option>dragonuser</option>
-	</select>
-
-	<label>Best Set Poster</label>
-	<select>
-	    <option value="" selected></option>
-		<option>alexwolf</option>
-		<option>nails</option>
-	</select>
-
-	<label>Best Contributor</label>
-	<select>
-	    <option value="" selected></option>
-		<option>treecko</option>
-		<option>oglemi</option>
-		<option>alexwolf</option>
-		<option>toast++</option>
-		<option>gatodelfuego</option>
-		<option>antar</option>
-	</select>
-
-	<label>Best Forum Project</label>
-	<select>
-	    <option value="" selected></option>
-		<option>ru viability rankings</option>
-		<option>xy sprite project</option>
-		<option>mentorship program</option>
-		<option>gen 6 research</option>
-	</select>
-
-	<label>Best Piece of Art</label>
-	<div class="radio-block"><input type="radio" name="Best Piece of Art" value="abstain" checked />Abstain</div>
-	<div class="radio-img"><input type="radio" name="Best Piece of Art" value="/smog/issue31/oucouncil.png"/><img src="/smog/issue31/oucouncil.png" alt=""/></div>
-	<div class="radio-img"><input type="radio" name="Best Piece of Art" value="/media/zracknel-beta.svg.v.78if94anmri1ivgcghqchw"/><img src="/media/zracknel-beta.svg.v.78if94anmri1ivgcghqchw" alt=""/></div>
-	<div class="radio-img"><input type="radio" name="Best Piece of Art" value="/smog/issue29/nubirds_braviary.png"/><img src="/smog/issue29/nubirds_braviary.png" alt=""/></div>
-	<div class="radio-img"><input type="radio" name="Best Piece of Art" value="/smog/issue27/vgcrain_rotomw.png"/><img src="/smog/issue27/vgcrain_rotomw.png" alt=""/></div>
-	<div class="radio-img"><input type="radio" name="Best Piece of Art" value="http://puu.sh/5r16j.jpg"/><img src="http://puu.sh/5r16j.jpg" alt=""/></div>
-	<div style="clear:both"></div>
-
-	<label>Best Contribution</label>
-	<select>
-	    <option value="" selected></option>
-		<option>xy sprite project</option>
-		<option>honko's calculator</option>
-		<option>instacheck</option>
-	</select>
-
-	<label>Best Sprite</label>
-	<select>
-	    <option value="" selected></option>
-		<option>talonflame</option>
-		<option>mega mawile</option>
-		<option>pangoro</option>
-	</select>
-
-	<label>Best Battling Strategy Article</label>
-	<div class="radio-block"><input type="radio" name="Best Battling Strategy Article" value="abstain" checked />Abstain</div>
-	<div class="radio-block"><input type="radio" name="Best Battling Strategy Article" value="frameworks in teambuilding"/><a target="_blank" href="/smog/issue28/teambuilding">Frameworks in Teambuilding</a></div>
-	<div class="radio-block"><input type="radio" name="Best Battling Strategy Article" value="a beginner's guide to trick room"/><a target="_blank" href="/smog/issue30/trickroom">A Beginner's Guide to Trick Room</a></div>
-
-	<label>Best "Other Features" Article</label>
-	<div class="radio-block"><input type="radio" name="Best 'Other Features' Article" value="abstain" checked />Abstain</div>
-	<div class="radio-block"><input type="radio" name="Best 'Other Features' Article" value="showdown lowdown: public rooms on ps!"/><a target="_blank" href="/smog/issue31/showdown">Showdown Lowdown: Public Rooms on PS!</a></div>
-	<div class="radio-block"><input type="radio" name="Best 'Other Features' Article" value="how to not piss off the ps staff"/><a target="_blank" href="/smog/issue25/ps_staff">How to Not Piss Off the PS Staff</a></div>
-	<div class="radio-block"><input type="radio" name="Best 'Other Features' Article" value="cutemons that dont suck"/><a target="_blank" href="/smog/issue29/cutemons">Cutemons that Don't Suck</a></div>
+<div id="js-warning">This page requires JavaScript.</div>
+<div id="rules">
+	<p>This is the voting form for the 2014 Smog Awards! Voting closes at 11:59 PM on March 14th EST (UTC-5).</p>
+</div>
+<div id="closed-message" style="display:none;">
+    <p>Voting has closed!</p>
+</div>
+<form id="voting-form">
+    <fieldset>
+        <legend>Battling</legend>
+        <div>
+            <label>Best Ubers Battler</label>
+            <ul>
+                <li><input type="radio" name="Best Ubers Battler" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Ubers Battler"/>Edgar</li>
+                <li><input type="radio" name="Best Ubers Battler"/>Hack</li>
+                <li><input type="radio" name="Best Ubers Battler"/>Jibaku</li>
+                <li><input type="radio" name="Best Ubers Battler"/>Melee Mewtwo</li>
+                <li><input type="radio" name="Best Ubers Battler"/>Sweep</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best OU Battler</label>
+            <ul>
+                <li><input type="radio" name="Best OU Battler" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best OU Battler"/>Bloo</li>
+                <li><input type="radio" name="Best OU Battler"/>McMeghan</li>
+                <li><input type="radio" name="Best OU Battler"/>Tesung</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best UU Battler</label>
+            <ul>
+                <li><input type="radio" name="Best UU Battler" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best UU Battler"/>Calloflochie</li>
+                <li><input type="radio" name="Best UU Battler"/>IronBullet93</li>
+                <li><input type="radio" name="Best UU Battler"/>King UU</li>
+                <li><input type="radio" name="Best UU Battler"/>kokoloko</li>
+                <li><input type="radio" name="Best UU Battler"/>Lowgock</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best RU Battler</label>
+            <ul>
+                <li><input type="radio" name="Best RU Battler" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best RU Battler"/>Molk</li>
+                <li><input type="radio" name="Best RU Battler"/>New Breed</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best NU Battler</label>
+            <ul>
+                <li><input type="radio" name="Best NU Battler" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best NU Battler"/>FLCL</li>
+                <li><input type="radio" name="Best NU Battler"/>RiCH HOMiE CA$ED</li>
+                <li><input type="radio" name="Best NU Battler"/>Soulgazer</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best VGC Battler</label>
+            <ul>
+                <li><input type="radio" name="Best VGC Battler" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best VGC Battler"/>Biosci</li>
+                <li><input type="radio" name="Best VGC Battler"/>Braverius</li>
+                <li><input type="radio" name="Best VGC Battler"/>kingofmars</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Smogon Doubles Battler</label>
+            <ul>
+                <li><input type="radio" name="Best Smogon Doubles Battler" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Smogon Doubles Battler"/>Laga</li>
+                <li><input type="radio" name="Best Smogon Doubles Battler"/>Lohgock</li>
+                <li><input type="radio" name="Best Smogon Doubles Battler"/>Mizuhime</li>
+                <li><input type="radio" name="Best Smogon Doubles Battler"/>TheFourthChaser</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best LC Battler</label>
+            <ul>
+                <li><input type="radio" name="Best LC Battler" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best LC Battler"/>Artemisa</li>
+                <li><input type="radio" name="Best LC Battler"/>blarajan</li>
+                <li><input type="radio" name="Best LC Battler"/>fitzy72</li>
+                <li><input type="radio" name="Best LC Battler"/>Rowan</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best OM Battler</label>
+            <ul>
+                <li><input type="radio" name="Best OM Battler" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best OM Battler"/>Adrian Marin</li>
+                <li><input type="radio" name="Best OM Battler"/>unfixable</li>
+                <li><input type="radio" name="Best OM Battler"/>w0rd</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Tournament Player</label>
+            <ul>
+                <li><input type="radio" name="Best Tournament Player" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Tournament Player"/>Bloo</li>
+                <li><input type="radio" name="Best Tournament Player"/>McMeghan</li>
+                <li><input type="radio" name="Best Tournament Player"/>Tesung</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Ladder Player</label>
+            <ul>
+                <li><input type="radio" name="Best Ladder Player" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Ladder Player"/>aim</li>
+                <li><input type="radio" name="Best Ladder Player"/>Henry</li>
+                <li><input type="radio" name="Best Ladder Player"/>tele</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Team Builder</label>
+            <ul>
+                <li><input type="radio" name="Best Team Builder" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Team Builder"/>ben gay</li>
+                <li><input type="radio" name="Best Team Builder"/>CTC</li>
+                <li><input type="radio" name="Best Team Builder"/>gr8astard</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Old-School Player</label>
+            <ul>
+                <li><input type="radio" name="Best Old-School Player" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Old-School Player"/>BKC</li>
+                <li><input type="radio" name="Best Old-School Player"/>M Dragon</li>
+                <li><input type="radio" name="Best Old-School Player"/>McMeghan</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Most Influential Player</label>
+            <ul>
+                <li><input type="radio" name="Most Influential Player" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Most Influential Player"/>aim</li>
+                <li><input type="radio" name="Most Influential Player"/>Bloo</li>
+                <li><input type="radio" name="Most Influential Player"/>CTC</li>
+                <li><input type="radio" name="Most Influential Player"/>gr8astard</li>
+                <li><input type="radio" name="Most Influential Player"/>McMeghan</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Most Gimmicky Player</label>
+            <ul>
+                <li><input type="radio" name="Most Gimmicky Player" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Most Gimmicky Player"/>ben gay</li>
+                <li><input type="radio" name="Most Gimmicky Player"/>Lady Bug</li>
+                <li><input type="radio" name="Most Gimmicky Player"/>Molk</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Biggest Upset</label>
+            <ul>
+                <li><input type="radio" name="Biggest Upset" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Biggest Upset"/>tele vs Bloo</li>
+                <li><input type="radio" name="Biggest Upset"/>Brazil wins WCOP</li>
+                <li><input type="radio" name="Biggest Upset"/>Tesung vs Bloo</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Luckiest Player</label>
+            <ul>
+                <li><input type="radio" name="Luckiest Player" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Luckiest Player"/>tele</li>
+                <li><input type="radio" name="Luckiest Player"/>Tricking</li>
+                <li><input type="radio" name="Luckiest Player"/>-Tsunami-</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Most Intimidating Player</label>
+            <ul>
+                <li><input type="radio" name="Most Intimidating Player" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Most Intimidating Player"/>Bloo</li>
+                <li><input type="radio" name="Most Intimidating Player"/>McMeghan</li>
+                <li><input type="radio" name="Most Intimidating Player"/>reyscarface</li>
+                <li><input type="radio" name="Most Intimidating Player"/>tele</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best New Player</label>
+            <ul>
+                <li><input type="radio" name="Best New Player" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best New Player"/>ben gay</li>
+                <li><input type="radio" name="Best New Player"/>Destiny Device</li>
+                <li><input type="radio" name="Best New Player"/>Henry</li>
+                <li><input type="radio" name="Best New Player"/>Tesung</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Overall Player</label>
+            <ul>
+                <li><input type="radio" name="Best Overall Player" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Overall Player"/>aim</li>
+                <li><input type="radio" name="Best Overall Player"/>Bloo</li>
+                <li><input type="radio" name="Best Overall Player"/>M Dragon</li>
+                <li><input type="radio" name="Best Overall Player"/>McMeghan</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best OM</label>
+            <ul>
+                <li><input type="radio" name="Best OM" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best OM"/>Almost Any Ability</li>
+                <li><input type="radio" name="Best OM"/>Balanced Hackmons</li>
+                <li><input type="radio" name="Best OM"/>FU</li>
+                <li><input type="radio" name="Best OM"/>PU</li>
+                <li><input type="radio" name="Best OM"/>Tier Shift</li>
+            </ul>
+        </div>
+    </fieldset>
+    <fieldset>
+        <legend>Users</legend>
+        <div>
+            <label>Nicest User</label>
+            <ul>
+                <li><input type="radio" name="Nicest User" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Nicest User"/>Ciele</li>
+                <li><input type="radio" name="Nicest User"/>Goddess Briyella</li>
+                <li><input type="radio" name="Nicest User"/>jumpluff</li>
+                <li><input type="radio" name="Nicest User"/>McMeghan</li>
+                <li><input type="radio" name="Nicest User"/>sirDonovan</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Meanest User</label>
+            <ul>
+                <li><input type="radio" name="Meanest User" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Meanest User"/>Aldaron</li>
+                <li><input type="radio" name="Meanest User"/>Haunter</li>
+                <li><input type="radio" name="Meanest User"/>kokoloko</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Wittiest User</label>
+            <ul>
+                <li><input type="radio" name="Wittiest User" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Wittiest User"/>Bedschibaer</li>
+                <li><input type="radio" name="Wittiest User"/>Layell</li>
+                <li><input type="radio" name="Wittiest User"/>v</li>
+                <li><input type="radio" name="Wittiest User"/>Woodchuck</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Cutest User</label>
+            <ul>
+                <li><input type="radio" name="Cutest User" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Cutest User"/>Emilyne</li>
+                <li><input type="radio" name="Cutest User"/>Goddess Briyella</li>
+                <li><input type="radio" name="Cutest User"/>ium</li>
+                <li><input type="radio" name="Cutest User"/>sandshrewz</li>
+                <li><input type="radio" name="Cutest User"/>sparkychild</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Most Improved User</label>
+            <ul>
+                <li><input type="radio" name="Most Improved User" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Most Improved User"/>Laurel</li>
+                <li><input type="radio" name="Most Improved User"/>Muk</li>
+                <li><input type="radio" name="Most Improved User"/>unfixable</li>
+                <li><input type="radio" name="Most Improved User"/>Ununhexium</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Most Overlooked User</label>
+            <ul>
+                <li><input type="radio" name="Most Overlooked User" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Most Overlooked User"/>Quarkz</li>
+                <li><input type="radio" name="Most Overlooked User"/>QuoteCS</li>
+                <li><input type="radio" name="Most Overlooked User"/>SteelJackal</li>
+                <li><input type="radio" name="Most Overlooked User"/>Toast++</li>
+                <li><input type="radio" name="Most Overlooked User"/>unfixable</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Most Influential User</label>
+            <ul>
+                <li><input type="radio" name="Most Influential User" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Most Influential User"/>Aldaron</li>
+                <li><input type="radio" name="Most Influential User"/>Bloo</li>
+                <li><input type="radio" name="Most Influential User"/>chaos</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Most Promising New User</label>
+            <ul>
+                <li><input type="radio" name="Most Promising New User" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Most Promising New User"/>Henry</li>
+                <li><input type="radio" name="Most Promising New User"/>Montsegur</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Most Awesome Veteran</label>
+            <ul>
+                <li><input type="radio" name="Most Awesome Veteran" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Most Awesome Veteran"/>Bloo</li>
+                <li><input type="radio" name="Most Awesome Veteran"/>Haunter</li>
+                <li><input type="radio" name="Most Awesome Veteran"/>Jibaku</li>
+                <li><input type="radio" name="Most Awesome Veteran"/>McMeghan</li>
+                <li><input type="radio" name="Most Awesome Veteran"/>Stellar</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Avatar</label>
+            <ul>
+                <li><input type="radio" name="Best Avatar" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Avatar"/>Bedschibaer</li>
+                <li><input type="radio" name="Best Avatar"/>Oglemi</li>
+                <li><input type="radio" name="Best Avatar"/>tennisace</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Signature</label>
+            <ul>
+                <li><input type="radio" name="Best Signature" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Signature"/>Birkal</li>
+                <li><input type="radio" name="Best Signature"/>GoodMorningEspeon</li>
+                <li><input type="radio" name="Best Signature"/>tennisace</li>
+                <li><input type="radio" name="Best Signature"/>v</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Custom Title</label>
+            <ul>
+                <li><input type="radio" name="Best Custom Title" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Custom Title"/>Bummer</li>
+                <li><input type="radio" name="Best Custom Title"/>Haunter</li>
+                <li><input type="radio" name="Best Custom Title"/>MattL</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Name Change</label>
+            <ul>
+                <li><input type="radio" name="Best Name Change" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Name Change"/>BKC -> kill yourself</li>
+                <li><input type="radio" name="Best Name Change"/>faxxifer -> when u look at the stars call me WENDIGO</li>
+                <li><input type="radio" name="Best Name Change"/>Minus -> dirigible jones, captain of the space corsairs</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Worst Name Change</label>
+            <ul>
+                <li><input type="radio" name="Worst Name Change" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Worst Name Change"/>ßasedVictory -> RiCH HOMiE CA$ED</li>
+                <li><input type="radio" name="Worst Name Change"/>Treecko -> Hollywood</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Worst Avatar</label>
+            <ul>
+                <li><input type="radio" name="Worst Avatar" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Worst Avatar"/>Mambo</li>
+                <li><input type="radio" name="Worst Avatar"/>Recreant</li>
+                <li><input type="radio" name="Worst Avatar"/>THE_IRON_KENYAN</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Member of the Year</label>
+            <ul>
+                <li><input type="radio" name="Member of the Year" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Member of the Year"/>aim</li>
+                <li><input type="radio" name="Member of the Year"/>chaos</li>
+                <li><input type="radio" name="Member of the Year"/>Oglemi</li>
+            </ul>
+        </div>
+
+
+    </fieldset>
+    <fieldset>
+        <legend>Community</legend>
+        <div>
+            <label>Best Forum Staff Member</label>
+            <ul>
+                <li><input type="radio" name="Best Forum Staff Member" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Forum Staff Member"/>Haunter</li>
+                <li><input type="radio" name="Best Forum Staff Member"/>Molk</li>
+                <li><input type="radio" name="Best Forum Staff Member"/>Oglemi</li>
+                <li><input type="radio" name="Best Forum Staff Member"/>Stellar</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Leader</label>
+            <ul>
+                <li><input type="radio" name="Best Leader" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Leader"/>Fireburn</li>
+                <li><input type="radio" name="Best Leader"/>Molk</li>
+                <li><input type="radio" name="Best Leader"/>Oglemi</li>
+                <li><input type="radio" name="Best Leader"/>Zebraiken</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best #pokemon IRC Presence</label>
+            <ul>
+                <li><input type="radio" name="Best #pokemon IRC Presence" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best #pokemon IRC Presence"/>magnemite</li>
+                <li><input type="radio" name="Best #pokemon IRC Presence"/>RODANK</li>
+                <li><input type="radio" name="Best #pokemon IRC Presence"/>Theorymon</li>
+                <li><input type="radio" name="Best #pokemon IRC Presence"/>Yilx</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Tournament Host</label>
+            <ul>
+                <li><input type="radio" name="Best Tournament Host" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Tournament Host"/>Bloo</li>
+                <li><input type="radio" name="Best Tournament Host"/>McMeghan</li>
+                <li><input type="radio" name="Best Tournament Host"/>Oglemi</li>
+                <li><input type="radio" name="Best Tournament Host"/>Zebraiken</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Hardest Worker</label>
+            <ul>
+                <li><input type="radio" name="Hardest Worker" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Hardest Worker"/>Goddess Briyella</li>
+                <li><input type="radio" name="Hardest Worker"/>Oglemi</li>
+                <li><input type="radio" name="Hardest Worker"/>Toast++</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best OI Poster</label>
+            <ul>
+                <li><input type="radio" name="Best OI Poster" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best OI Poster"/>Celever</li>
+                <li><input type="radio" name="Best OI Poster"/>Codraroll</li>
+                <li><input type="radio" name="Best OI Poster"/>Deinosaur</li>
+                <li><input type="radio" name="Best OI Poster"/>Stellar</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best CAP Poster</label>
+            <ul>
+                <li><input type="radio" name="Best CAP Poster" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best CAP Poster"/>Detroitlolcat</li>
+                <li><input type="radio" name="Best CAP Poster"/>DougJustDoug</li>
+                <li><input type="radio" name="Best CAP Poster"/>HeaLnDeaL</li>
+                <li><input type="radio" name="Best CAP Poster"/>jas61292</li>
+                <li><input type="radio" name="Best CAP Poster"/>PttP</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Smeargle\'s Studio Poster</label>
+            <ul>
+                <li><input type="radio" name="Best Smeargle\'s Studio Poster" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Smeargle\'s Studio Poster"/>Andrew</li>
+                <li><input type="radio" name="Best Smeargle\'s Studio Poster"/>Bummer</li>
+                <li><input type="radio" name="Best Smeargle\'s Studio Poster"/>Yilx</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Cong Poster</label>
+            <ul>
+                <li><input type="radio" name="Best Cong Poster" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Cong Poster"/>djanxo unchained</li>
+                <li><input type="radio" name="Best Cong Poster"/>jumpluff</li>
+                <li><input type="radio" name="Best Cong Poster"/>Kitten Milk</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Firebot Poster</label>
+            <ul>
+                <li><input type="radio" name="Best Firebot Poster" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Firebot Poster"/>RODANK</li>
+                <li><input type="radio" name="Best Firebot Poster"/>v</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Mentor</label>
+            <ul>
+                <li><input type="radio" name="Best Mentor" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Mentor"/>Goddess Briyella</li>
+                <li><input type="radio" name="Best Mentor"/>Minus</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Circus Poster</label>
+            <ul>
+                <li><input type="radio" name="Best Circus Poster" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Circus Poster"/>VonFielder</li>
+                <li><input type="radio" name="Best Circus Poster"/>Walrein</li>
+                <li><input type="radio" name="Best Circus Poster"/>zorbees</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Team Rater</label>
+            <ul>
+                <li><input type="radio" name="Best Team Rater" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Team Rater"/>aim</li>
+                <li><input type="radio" name="Best Team Rater"/>Jirachee</li>
+                <li><input type="radio" name="Best Team Rater"/>TheEnder</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best RMT Thread</label>
+            <ul>
+                <li><input type="radio" name="Best RMT Thread" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best RMT Thread"/><a href="/forums/threads/3512220/" target="_blank">Crystalised - Bulky Offense</a></li>
+                <li><input type="radio" name="Best RMT Thread"/><a href="/forums/threads/3502695/" target="_blank">DeoSharp: The new age of Hyper Offense</a></li>
+                <li><input type="radio" name="Best RMT Thread"/><a href="/forums/threads/3524449/" target="_blank">Caelus</a></li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Thread</label>
+            <ul>
+                <li><input type="radio" name="Best Thread" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Thread"/><a href="/forums/threads/3524171/" target="_blank">How Oglemi stole Firebot</a></li>
+                <li><input type="radio" name="Best Thread"/><a href="/forums/threads/3521588/" target="_blank">How to get your very own Smogon girlfriend</a></li>
+                <li><input type="radio" name="Best Thread"/><a href="/forums/threads/3500199/" target="_blank">I just spent a week in jail: AMA</a></li>
+                <li><input type="radio" name="Best Thread"/><a href="/forums/threads/3513401/" target="_blank">it is dark here</a></li>
+            </ul>
+        </div>
+    </fieldset>
+    <fieldset>
+        <legend>Contributions</legend>
+        <div>
+            <label>Best Analysis Writer</label>
+            <ul>
+                <li><input type="radio" name="Best Analysis Writer" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Analysis Writer"/>boltsandbombers</li>
+                <li><input type="radio" name="Best Analysis Writer"/>trc</li>
+                <li><input type="radio" name="Best Analysis Writer"/>unfixable</li>
+                <li><input type="radio" name="Best Analysis Writer"/>Ununhexium</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Editor</label>
+            <ul>
+                <li><input type="radio" name="Best Editor" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Editor"/>GatoDelFuego</li>
+                <li><input type="radio" name="Best Editor"/>fleurdyleurse</li>
+                <li><input type="radio" name="Best Editor"/>Winry.</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Quality Control Member</label>
+            <ul>
+                <li><input type="radio" name="Best Quality Control Member" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Quality Control Member"/>aim</li>
+                <li><input type="radio" name="Best Quality Control Member"/>Arikado</li>
+                <li><input type="radio" name="Best Quality Control Member"/>Fireburn</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Programmer</label>
+            <ul>
+                <li><input type="radio" name="Best Programmer" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Programmer"/>Joim</li>
+                <li><input type="radio" name="Best Programmer"/>Toast++</li>
+                <li><input type="radio" name="Best Programmer"/>Slayer95</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Researcher</label>
+            <ul>
+                <li><input type="radio" name="Best Researcher" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Researcher"/>Crystal_</li>
+                <li><input type="radio" name="Best Researcher"/>Marty D</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Most Promising Artist</label>
+            <ul>
+                <li><input type="radio" name="Most Promising Artist" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Most Promising Artist"/>Faxxifer</li>
+                <li><input type="radio" name="Most Promising Artist"/>MiniArchitect</li>
+                <li><input type="radio" name="Most Promising Artist"/>Tiktik</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Most Improved Artist</label>
+            <ul>
+                <li><input type="radio" name="Most Improved Artist" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Most Improved Artist"/>Archops</li>
+                <li><input type="radio" name="Most Improved Artist"/>asdfg</li>
+                <li><input type="radio" name="Most Improved Artist"/>MiniArchitect</li>
+                <li><input type="radio" name="Most Improved Artist"/>Regime</li>
+                <li><input type="radio" name="Most Improved Artist"/>Sunfished</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Piece of Art</label>
+            <ul>
+                <li><input type="radio" name="Best Piece of Art" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Piece of Art"/><a href="/forums/posts/5631211" target="_blank">"Congratulations Baril!" by anundeadboy</a></li>
+                <li><input type="radio" name="Best Piece of Art"/><a href="http://sephirona.deviantart.com/art/Mega-Absol-434199507" target="_blank">"Mega Absol." by Sephirona</a></li>
+                <li><input type="radio" name="Best Piece of Art"/><a href="http://i.imgur.com/w37GG0K.png" target="_blank">"The Dark Side of OU" by Bummer</a></li>
+                <li><input type="radio" name="Best Piece of Art"/><a href="http://magistrum.deviantart.com/art/Wildfire-488578489" target="_blank">"Wildfire" by Magistrum</a></li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Artist</label>
+            <ul>
+                <li><input type="radio" name="Best Artist" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Artist"/>Bummer</li>
+                <li><input type="radio" name="Best Artist"/>Magistrum</li>
+                <li><input type="radio" name="Best Artist"/>Yilx</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Spriter</label>
+            <ul>
+                <li><input type="radio" name="Best Spriter" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Spriter"/>aXl</li>
+                <li><input type="radio" name="Best Spriter"/>princessofmusic</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Social Media Contributor</label>
+            <ul>
+                <li><input type="radio" name="Best Social Media Contributor" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Social Media Contributor"/>aim</li>
+                <li><input type="radio" name="Best Social Media Contributor"/>tennisace</li>
+                <li><input type="radio" name="Best Social Media Contributor"/>Zodiax</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Twitch Stream</label>
+            <ul>
+                <li><input type="radio" name="Best Twitch Stream" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Twitch Stream"/><a href="http://www.twitch.tv/mcmeghan/" target="_blank">mcmeghan</a></li>
+                <li><input type="radio" name="Best Twitch Stream"/><a href="http://www.twitch.tv/daflo1860" target="_blank">daflo1860</a></li>
+            </ul>
+        </div>
+    </fieldset>
+    <fieldset>
+        <legend>Pokemon Showdown!</legend>
+        <div>
+            <label>Best PS! Auth</label>
+            <ul>
+                <li><input type="radio" name="Best PS! Auth" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best PS! Auth"/>Haunter</li>
+                <li><input type="radio" name="Best PS! Auth"/>Sweep</li>
+                <li><input type="radio" name="Best PS! Auth"/>Trickster</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Room</label>
+            <ul>
+                <li><input type="radio" name="Best Room" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Room"/>Lobby</li>
+                <li><input type="radio" name="Best Room"/>Role Playing</li>
+                <li><input type="radio" name="Best Room"/>Tournaments</li>
+                <li><input type="radio" name="Best Room"/>Ubers</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Ladder</label>
+            <ul>
+                <li><input type="radio" name="Best Ladder" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Ladder"/>LC</li>
+                <li><input type="radio" name="Best Ladder"/>Monotype</li>
+                <li><input type="radio" name="Best Ladder"/>OU</li>
+            </ul>
+        </div>
+    </fieldset>
+    <fieldset>
+        <legend>The Smog and The Player</legend>
+        <div>
+            <label>Best New Writer</label>
+            <ul>
+                <li><input type="radio" name="Best New Writer" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best New Writer"/>EonX</li>
+                <li><input type="radio" name="Best New Writer"/>princessofmusic</li>
+                <li><input type="radio" name="Best New Writer"/>Spydreigon</li>
+                <li><input type="radio" name="Best New Writer"/>unfixable</li>
+                <li><input type="radio" name="Best New Writer"/>Valmanway</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Smog Article</label>
+            <ul>
+                <li><input type="radio" name="Best Smog Article" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Smog Article"/><a href="/smog/issue33/aron-chef" target="_blank">Aron Chef: Making the Best of the Worst</a></li>
+                <li><input type="radio" name="Best Smog Article"/><a href="/smog/issue37/insider-leaks-oras" target="_blank">Insider Leaks: ORAS Edition</a></li>
+                <li><input type="radio" name="Best Smog Article"/><a href="/smog/issue35/assault-vest" target="_blank">Out of Style: Why Assault Vest Can't Be Slapped on Everything</a></li>
+                <li><input type="radio" name="Best Smog Article"/><a href="/smog/issue36/pokemon-history" target="_blank">Pokemon History: Rivalries Over the Generations</a></li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Player Article</label>
+            <ul>
+                <li><input type="radio" name="Best Player Article" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Player Article"/><a href="/player/issue1/the-gossiper" target="_blank">The Gossiper: Volume 1</a></li>
+                <li><input type="radio" name="Best Player Article"/><a href="/player/issue7/memoirs-from-om-room" target="_blank">Memoirs From the OM Room</a></li>
+                <li><input type="radio" name="Best Player Article"/><a href="/player/issue4/climbing-the-ladder" target="_blank">The Perilous Pundit's Guide to Getting to the Top of the Ladder</a></li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best Art for an Article (you may have to scroll to find the artwork)</label>
+            <ul>
+                <li><input type="radio" name="Best Art for an Article" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best Art for an Article"/><a href="/smog/issue38/oras-megas-in-ou" target="_blank">ORAS Megas in OU</a></li>
+                <li><input type="radio" name="Best Art for an Article"/><a href="/smog/issue35/ou-spotlight-greninja" target="_blank">OU Spotlight: Greninja</a></li>
+                <li><input type="radio" name="Best Art for an Article"/><a href="/smog/issue36/ru-spotlight-moltres" target="_blank">RU Spotlight: Moltres</a></li>
+                <li><input type="radio" name="Best Art for an Article"/><a href="/smog/issue36/ru-suspect" target="_blank">RU Suspect Coverage: Stages 1-3</a></li>
+            </ul>
+        </div>
+    </fieldset>
+    <fieldset>
+        <legend>Just For Fun</legend>
+        <div>
+            <label>User most likely to be kicked out of Smogon University</label>
+            <ul>
+                <li><input type="radio" name="User most likely to be kicked out of Smogon University" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="User most likely to be kicked out of Smogon University"/>chaos</li>
+                <li><input type="radio" name="User most likely to be kicked out of Smogon University"/>piexplode</li>
+                <li><input type="radio" name="User most likely to be kicked out of Smogon University"/>tele</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>User most likely to wear their Smogon t-shirt on a date</label>
+            <ul>
+                <li><input type="radio" name="User most likely to wear their Smogon t-shirt on a date" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="User most likely to wear their Smogon t-shirt on a date"/>Layell</li>
+                <li><input type="radio" name="User most likely to wear their Smogon t-shirt on a date"/>RODANK</li>
+                <li><input type="radio" name="User most likely to wear their Smogon t-shirt on a date"/>skylight</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Best QDB quote</label>
+            <ul>
+                <li><input type="radio" name="Best QDB quote" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Best QDB quote"/><a href="/forums/posts/5257355" target="_blank">5257355</a></li>
+                <li><input type="radio" name="Best QDB quote"/><a href="/forums/posts/5552255" target="_blank">5552255</a></li>
+                <li><input type="radio" name="Best QDB quote"/><a href="/forums/posts/5702293" target="_blank">5702293</a></li>
+                <li><input type="radio" name="Best QDB quote"/><a href="/forums/posts/5941023" target="_blank">5941023</a></li>
+                <li><input type="radio" name="Best QDB quote"/><a href="/forums/posts/6007699" target="_blank">6007699</a></li>
+            </ul>
+        </div>
+
+        <div>
+            <label>Mad?</label>
+            <ul>
+                <li><input type="radio" name="Mad?" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="Mad?"/>CrashinBoomBang</li>
+                <li><input type="radio" name="Mad?"/>Reymedy</li>
+                <li><input type="radio" name="Mad?"/>reyscarface</li>
+                <li><input type="radio" name="Mad?"/>Yes.</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>User who most looks like an owl</label>
+            <ul>
+                <li><input type="radio" name="User who most looks like an owl" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="User who most looks like an owl"/>RODANK</li>
+                <li><input type="radio" name="User who most looks like an owl"/>Valentine</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>User most likely to be a spambot</label>
+            <ul>
+                <li><input type="radio" name="User most likely to be a spambot" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="User most likely to be a spambot"/>Hollywood</li>
+                <li><input type="radio" name="User most likely to be a spambot"/>Theorymon</li>
+                <li><input type="radio" name="User most likely to be a spambot"/>v</li>
+            </ul>
+        </div>
+
+        <div>
+            <label>User most likely to be scammed by a Nigerian prince</label>
+            <ul>
+                <li><input type="radio" name="User most likely to be scammed by a Nigerian prince" checked="checked"/>Abstain</li>
+                <li><input type="radio" name="User most likely to be scammed by a Nigerian prince"/>chaos</li>
+                <li><input type="radio" name="User most likely to be scammed by a Nigerian prince"/>Molk</li>
+                <li><input type="radio" name="User most likely to be scammed by a Nigerian prince"/>skylight</li>
+            </ul>
+        </div>
+    </fieldset>
+    <button type="submit" id="submit">Submit!</button>
 </form>
-<button id="submit-button">Submit</button>
 
-<script type="text/javascript">
-	var now = new Date();
-	var then = new Date(2014,1,15);
-
-	if(now < then){
-		var message = new Message({ to:'The Smog', title:'The Smog Awards Round 2 - Voting', removeOnSend:true });
-		$(function(){
-			message.prepare(function(res){
-				if(!res.success){
-					alert(res.info);
-				}
-			});
-
-			//add missing names - because lazy.
-			$('select').each(function(){
-				$(this).attr('name', $(this).prev().text());
-			});
-
-			$('#voting-form img').click(function(){
-				window.open(this.src);
-			});
-
-			//encode and send message on submit
-			$('#submit-button').click(function(){
-				$(this).attr('disabled', '');
-
-				var votes = {};
-				//get most values
-				$(':input', $('#voting-form')).each(function(){
-					var $ths = $(this);
-					votes[$ths.attr('name')] = $ths.val();
-				});
-				//fix the remaining ones
-				$('input:checked', $('#voting-form')).each(function(){
-					var $ths = $(this);
-					votes[$ths.attr('name')] = $ths.val();
-				});
-
-				message.message = JSON.stringify(votes);
-				message.send(function(res){
-					alert(res.info);
-					if(res.success){
-						location.href="http://www.smogon.com/forums/";
-					} else {
-						$(this).removeAttr('disabled');
-					}
-				});
-
-				return false;
-			});
-		});
-	} else {
-		document.getElementById('voting-form').innerHTML = '';
-	}
-</script>

@@ -95,7 +95,7 @@ pokemon:
           types: [Steel, Ground]
           weight: 0
           height: 0
-          tags: [BL3]
+          tags: [RU]
     egggroups:
     - [Mineral]
     evolvesFrom: [Onix]
@@ -117,7 +117,7 @@ pokemon:
     - bw: [RU]
       dp: [UU]
       rs: [BL]
-      xy: [NU]
+      xy: [RU]
     types:
     - [Ground, Steel]
     weight: [400]

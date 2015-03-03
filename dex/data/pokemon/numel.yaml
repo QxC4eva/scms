@@ -12,7 +12,7 @@ pokemon:
           types: [Fire, Ground]
           weight: 0
           height: 0
-          tags: [NU]
+          tags: [RU]
     egggroups:
     - [Ground]
     evolvesFrom: [Numel]
@@ -31,6 +31,7 @@ pokemon:
     tags:
     - [UU]
     - dp: [NU]
+    - xy: [RU]
     types:
     - [Fire, Ground]
     weight: [220]

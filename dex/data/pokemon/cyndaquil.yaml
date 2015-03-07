@@ -1,6 +1,7 @@
 pokemon:
   Cyndaquil:
     abilities:
+    - xy: [Blaze, Flash Fire]
     - bw: [Blaze]
     - rs: [Blaze]
     - []
@@ -74,6 +75,7 @@ pokemon:
     weight: [7.9]
   Quilava:
     abilities:
+    - xy: [Blaze, Flash Fire]
     - bw: [Blaze]
     - rs: [Blaze]
     - []
@@ -97,6 +99,7 @@ pokemon:
     weight: [19]
   Typhlosion:
     abilities:
+    - xy: [Blaze, Flash Fire]
     - bw: [Blaze]
     - rs: [Blaze]
     - []

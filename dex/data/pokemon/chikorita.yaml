@@ -1,6 +1,7 @@
 pokemon:
   Bayleef:
     abilities:
+    - xy: [Overgrow, Leaf Guard]
     - bw: [Overgrow]
     - rs: [Overgrow]
     - []
@@ -24,6 +25,7 @@ pokemon:
     weight: [15.8]
   Chikorita:
     abilities:
+    - xy: [Overgrow, Leaf Guard]
     - bw: [Overgrow]
     - rs: [Overgrow]
     - []
@@ -100,6 +102,7 @@ pokemon:
     weight: [6.4]
   Meganium:
     abilities:
+    - xy: [Overgrow, Leaf Guard]
     - bw: [Overgrow]
     - rs: [Overgrow]
     - []

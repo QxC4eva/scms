@@ -8,29 +8,27 @@ Smogon Grand Slam Power Rankings
 <script type="text/javascript">
 $(document).ready(function() {
   $('.hideol').hide();
-  $('.hideul').hide();
+  $('.hideOlTwo').hide();
   $('.rankhide').click(function() {
-  var HideStatus = $(this).val();
-  if (HideStatus === 'Show Individual Ranking') {
-  $('.hideol:eq(0)').show();
-  $(this).val('Hide Individual Ranking');
-  }
-  else {
-  $('.hideol:eq(0)').hide();
-  $(this).val('Show Individual Ranking');
-  }
+        var HideStatus = $(this).val();
+        if (HideStatus === 'Show Individual Ranking') {
+            $('.hideol').show();
+            $(this).val('Hide Individual Ranking');
+        } else {
+            $('.hideol').hide();
+            $(this).val('Show Individual Ranking');
+        }
   });
   $('.sharkshide').click(function() {
-  var HideStatus = $(this).val();
-  if (HideStatus === 'Show Accurate Lineup') {
-  $('.hideul:eq(0)').show();
-  $(this).val('Hide Accurate Lineup');
-  }
-  else {
-  $('.hideul:eq(0)').hide();
-  $(this).val('Show Accurate Lineup');
-  }
-  });
+        var HideStatus = $(this).val();
+        if (HideStatus === 'Show Accurate Lineup') {
+            $('.hideOlTwo').show();
+            $(this).val('Hide Accurate Lineup');
+        } else {
+            $('.hideOlTwo').hide();
+            $(this).val('Show Accurate Lineup');
+        }
+    });
 });
 </script>
 [page]
@@ -67,8 +65,8 @@ $(document).ready(function() {
   <li>Lowgock (#7 seed) - A German rounds out the Power Rankings. Lowgock does not truly play any of the tiers in this tournament with frequency, and also had very poor showings in both the RU and NU Opens. However, he managed to come in second in the UU Open, as well as earn 5 points in both the LC and Doubles Opens. Unfortunately for him, however, his low seeding means Doubles will likely get eliminated, as no other playoff candidate chose to participate in the Doubles Open, and his lack of proficiency in the other tiers could hurt him in the playoffs.</li>
 </ol>
    
-<input type="button" value="Show Individual Ranking" class="rankhide" />
-<ol class="hideol">
+<input type="button" value="Show Accurate Lineup" class="sharkshide" />
+<ol class="hideOlTwo">
   <li>Meru</li>
   <li>KratosMana</li>
   <li>Level 56</li>

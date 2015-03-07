@@ -1,6 +1,7 @@
 pokemon:
   Croconaw:
     abilities:
+    - xy: [Torrent, Sheer Force]
     - bw: [Torrent]
     - rs: [Torrent]
     - []
@@ -24,6 +25,7 @@ pokemon:
     weight: [25]
   Feraligatr:
     abilities:
+    - xy: [Torrent, Sheer Force]
     - bw: [Torrent]
     - rs: [Torrent]
     - []
@@ -52,6 +54,7 @@ pokemon:
     weight: [88.8]
   Totodile:
     abilities:
+    - xy: [Torrent, Sheer Force]
     - bw: [Torrent]
     - rs: [Torrent]
     - []

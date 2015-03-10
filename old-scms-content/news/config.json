@@ -1,0 +1,11 @@
+{
+    "latest" : 7,
+    "loadCount": 4,
+    
+    "urlTemplate": "/news/news-{0}.txt",
+    "placeholderString": "{0}",
+    
+    "newsWrapperSelector": "#news-container",
+    "loadButtonSelector" : ".loadbtn",
+    "templateSelector": "#news-template"
+}
